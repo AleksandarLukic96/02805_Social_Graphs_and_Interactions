@@ -1,0 +1,31 @@
+(Enter Barnardo and Francisco, two sentinels.)
+
+BARNARDO
+- Who’s there?
+FRANCISCO 
+- Nay, answer me. Stand and unfold yourself.
+BARNARDO
+- Long live the King!
+FRANCISCO
+- Barnardo?
+BARNARDO
+- He.
+FRANCISCO 
+- You come most carefully upon your hour.
+BARNARDO 
+- ’Tis now struck twelve. Get thee to bed, Francisco.
+FRANCISCO 
+- For this relief much thanks. ’Tis bitter cold, And I am sick at heart.
+BARNARDO
+- Have you had quiet guard?
+FRANCISCO
+- Not a mouse stirring.
+BARNARDO
+- Well, good night. If you do meet Horatio and Marcellus, The rivals of my watch, bid them make haste.
+
+(Enter Horatio and Marcellus.)
+
+FRANCISCO 
+- I think I hear them.—Stand ho! Who is there?
+HORATIO
+- Friends to this ground.
