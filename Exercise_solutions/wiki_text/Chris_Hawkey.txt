@@ -1,0 +1,149 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=December 2019}}
+{{Infobox musical artist
+| honorific_prefix =
+| name             = Chris Hawkey
+| honorific_suffix =
+| image            = Bell Champion Chris Hawkey.jpg
+| image_upright    =
+| image_size       =
+| landscape        = yes
+| alt              =
+| caption          = Singer and radio announcer Chris Hawkey.
+| native_name_lang =
+| alias            =
+| birth_name       = Christopher Allen Hawkey
+| birth_date       = {{birth date and age|1970|12|25}}<ref name="stribune">{{cite news|last1=Bream|first1=Jon|title=The double life of Chris Hawkey: KFAN personality by day, country star by night|url=http://www.startribune.com/the-double-life-of-chris-hawkey-kfan-personality-by-day-country-star-by-night/370986651/|accessdate=4 March 2017|publisher=Star Tribune|date=4 March 2016}}</ref>
+| birth_place      = [[Union City, Indiana]]
+| origin           =
+| death_date       =
+| death_place      =
+| genre            = [[Country music|Country]]
+| occupations      = {{hlist|Singer|Songwriter|Radio Producer|Radio Host}}
+| instrument       = {{hlist|Vocals}}
+| years_active     = 2001–present
+| associated_acts  = {{hlist|[[Rocket Club]]|Chris Hawkey Band}}
+| website          = {{URL|https://www.chrishawkey.com}}
+}}
+'''Christopher Allen Hawkey''' (born December 25, 1970) is a [[country music]] artist who is a member of the [[Minneapolis]] band [[Rocket Club]] and is the vocalist of the Chris Hawkey Band. He lives in the [[Twin Cities]] and also produces and co-hosts a sports radio morning show, ''Power Trip Morning Show''.
+
+==Personal life and radio==
+Chris Hawkey was born a twin whose brother didn't survive their birth<ref name="stribune" /> and raised in [[Union City, Indiana|Union City]], Indiana, where he graduated from [[Mississinawa Valley High School]]. Starting in 1989 he attended a broadcasting school in [[Dayton, Ohio]], pursuing careers in both radio and music.<ref name="about">{{cite web|title=Chris Hawkey:About|url=https://www.chrishawkey.com/about|website=Chris Hawkey|accessdate=4 March 2017}}</ref> He got a job running a control board for the syndicated ''Howard Stern Show''<ref name="stribune" /> before getting hired in 2001 to co-host and produce the ''Power Trip Morning Show'' on [[KFXN-FM|KFAN]] Radio, a sports radio network. Hawkey produces the radio broadcast of the [[Minnesota Vikings]]<ref name="about" /> and is a [[play-by-play]] announcer for [[Snocross|AMSOIL Championship Snocross]] on [[CBS Sports Network]].<ref name="stribune" />
+
+==Musical career==
+In 2001 Hawkey recorded his first solo project, "Minutes to Memories", which showcased his songwriting. He had a second solo project, "The Pursuit", which was a benefit partnership that raised money from record sales.
+
+===RYZ===
+Ryz was a rock band that performed mostly in the Los Angeles area in the late 1980s and early 1990s. Chris Hawkey was the lead singer of the band. They recorded such songs as "The Distance", "Wicked Ways", "Waiting and Watching", and "Wild Ones" 
+Ryz ultimately broke up when offered the opportunity to go on tour opening for Gorky Park. Hawkey thought it was a great opportunity but other members did not want to leave their day jobs, so they went their separate directions.{{citation needed|date=September 2020}}
+
+===Rocket Club===
+In 2008, Hawkey became the lead vocalist of [[Rocket Club]], a [[Minneapolis, Minnesota|Minneapolis]] band, and stayed with the group for six years.<ref name="about" /> As a part of Rocket Club, he has shared the stage with such artists as [[Luke Bryan]], [[Jason Aldean]], [[Sugarland]], [[Dierks Bentley]], [[Miranda Lambert]], and [[Eric Church]]. In 2022, the band reunited and has started recording new music.
+
+===Chris Hawkey Band===
+In 2014, Hawkey released his first solo country record. The 8-song collection included the hit single "My Kinda Crazy." In 2016 he released another album, ''Smile'', which included the song "Good Liar" by [[Brett James]].<ref name="about" /> The Chris Hawkey Band includes [[Ryan Liestman]] (keyboard) and [[Michael Bland]] (drummer).<ref name="stribune" />
+
+===Twin Cities Music Festival===
+In 2019, Hawkey helped organize and performed at the [[Twin Cities Summer Jam]].<ref>{{Cite web|url=http://www.startribune.com/new-country-rock-fest-set-for-shakopee-s-canterbury-park/489941811/?refresh=true|title = New country-rock fest set for Shakopee's Canterbury Park|website = [[Star Tribune]]}}</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:18em;"| Details
+|-
+! scope="row"| ''Minutes to Memories''
+| 
+* Release date: 2003
+* Label: 
+|-
+! scope="row"| ''The Pursuit''
+| 
+* Release date: 2006
+* Label: 
+|-
+! scope="row"| ''Chris Hawkey''
+| 
+* Release date: 2014
+* Label: 
+|-
+! scope="row"| ''Country Underneath''
+| 
+* Release date: 2015
+* Label:
+|-
+! scope="row"| ''Shine''
+| 
+* Release date: 2016
+* Label: 
+|-
+! scope="row"| ''One Mic One Take (Live)''
+| 
+* Release date: 2018
+* Label: 
+|}
+
+===Singles===
+{| class="wikitable" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="60"| [[Hot Country Songs|US Country]]"
+|-
+| 2014
+| align="left"| "My Kinda Crazy"
+| 
+| align="left"| ''Chris Hawkey''
+|-
+| 2014
+| align="left"| "Favorite Song"
+| 
+| align="left"|
+|-
+| 2014
+| align="left"| "Shotgun DJ"
+| 
+| align="left"|
+|-
+| 2015
+| align="left"| "Country Underneath"
+| 
+| align="left"|  ''Country Underneath''
+|-
+| 2016
+| align="left"| "Good Liar"
+| 
+| align="left"| ''Shine''
+|-
+| 2017
+| align="left"| "Happy"
+| 
+| align="left"| 
+|-
+|}
+
+<ref name="about" />
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|https://www.chrishawkey.com}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hawkey, Chris}}
+[[Category:People from Union City, Indiana]]
+[[Category:1970 births]]
+[[Category:American country singer-songwriters]]
+[[Category:Country musicians from Indiana]]
+[[Category:Country musicians from Minnesota]]
+[[Category:Living people]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:Singer-songwriters from Indiana]]
+[[Category:Singer-songwriters from Minnesota]]

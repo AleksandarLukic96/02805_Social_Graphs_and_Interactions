@@ -1,0 +1,97 @@
+{{For|the river|Rio Grande}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Rio Grand
+| image                 = 
+| caption            = 
+| image_size            = 
+| background          = group_or_band
+| origin              = [[Texas]], United States
+| genre               = [[country music|Country]]
+| years_active        = 2006–2012
+| label               = [[Curb Records|Curb]]
+| associated_acts     = 37 South, Lucious Funk
+| website                 = http://www.riograndband.com
+| past_members = Lance Leslie<br />Tommy Rennick<br />Danny Rivera<br />Fred Stallcup
+| }}
+'''Rio Grand''' was an American [[Texas Country]] group founded by Lance Leslie (harmonica, vocals), Tommy Rennick (vocals, bass guitar), Danny Rivera (lead vocals, guitar, banjo, lap steel guitar, Dobro, and Fred Stallcup (lead guitar, vocals).<ref name="wma">{{cite web|url=http://www.wma.com/rio_grand/Bio/rio_grand_bio.pdf|date=25 October 2007|title=RIO GRAND Biography|accessdate=2015-08-22}}</ref> All four members were natives of the state of [[Texas]]. In addition, Tommy Rennick was previously a member of 37 South and the [[Allison Paige]] band. Fred Stallcup was previously a member of Lucious Funk.<ref>{{cite web |url=http://countrymusic.about.com/od/interviews/a/RioGrandInt.htm |title=Rio Grand Interview - Part 1 |accessdate=2007-12-18 |last=Petricka |first=Laurie |work=About.com}}</ref> Lance Leslie was formerly in [[South 65]].
+
+In 2006, the group was signed to [[Curb Records|Asylum-Curb Records]]. Shortly afterward, their first single (titled "Kill Me Now") was released to radio, reaching a peak of 42 on the ''Billboard'' [[Hot Country Songs]] charts. Co-written by [[John Rich]], [[Vicky McGehee]] and Anthony L. Smith, it received a positive rating from Deborah Evans Price of ''Billboard'', who called it "promising".<ref name="google">{{cite book|title=Billboard|date=2003-10-04|publisher=Nielsen Business Media, Inc.|issn=0006-2510|url=https://archive.org/details/bub_gb_EBEEAAAAMBAJ|page=[https://archive.org/details/bub_gb_EBEEAAAAMBAJ/page/n49 50]|accessdate=2015-08-22}}</ref> The band released an album, ''Painted Pony'', in 2010.
+
+Stallcup and Rivera found a second band in 2012 called Sweetwater Rain, which was also signed with Curb.<ref>{{cite web |url=http://sweetwaterrain.com/biography/ |title=Biography {{!}} Sweetwater Rain |website=sweetwaterrain.com |url-status=dead |archive-url=https://web.archive.org/web/20121119223122/http://sweetwaterrain.com/biography |archive-date=2012-11-19}} </ref>
+
+==Discography==
+
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''Painted Pony''
+|
+* Release date: January 5, 2010
+* Label: [[Curb Records]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:16em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="60"| [[Hot Country Songs|US Country]]
+|-
+| 2006
+! scope="row"| "Kill Me Now"
+| 42
+| align="left"| ''Painted Pony''
+|-
+| rowspan="2"| 2007
+! scope="row"| "That's My Memory"
+| —
+| {{n/a}}
+|-
+! scope="row"| "The Storm Inside of Me"
+| —
+| align="left" rowspan="2"| ''Painted Pony''
+|-
+| 2008
+! scope="row"| "God's Got a Bigger Plan"
+| —
+|-
+| 2009
+! scope="row"| "Nothing to Go On"
+| —
+| {{n/a}}
+|-
+| rowspan="3"| 2010
+! scope="row"| "Painted Pony"
+| —
+| align="left"| ''Painted Pony''
+|-
+! scope="row"| "Beckett's Back Forty"
+| —
+| rowspan="2" {{n/a}}
+|-
+! scope="row"| "I Love Beer"
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.riograndband.com Official Website]
+
+{{Authority control}}
+
+[[Category:Country music groups from Texas]]
+[[Category:Curb Records artists]]
+[[Category:Musical groups established in 2006]]
+[[Category:Musical groups disestablished in 2012]]
+[[Category:2006 establishments in Texas]]

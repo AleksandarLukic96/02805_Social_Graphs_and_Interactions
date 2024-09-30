@@ -1,0 +1,782 @@
+{{Short description|Canadian singer-songwriter (1936–2013)}}
+{{Use mdy dates|date=May 2020}}
+{{Use Canadian English|date=June 2024}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject Musicians -->
+| name            = Stompin' Tom Connors
+| image           = Stompin tom connors in 2002.jpg
+| caption         = Connors in 2002
+| background      = solo_singer
+| birth_name      = Charles Thomas Connors
+| alias           = Tommy Messer, Stompin' Tom Connors
+| birth_date      = {{Birth date|1936|2|9}}
+| birth_place     = [[Saint John, New Brunswick]], Canada
+| death_date      = {{Death date and age|2013|3|6|1936|2|9}}
+| death_place     = [[Ballinafad, Ontario]], Canada
+| instrument      = {{hlist|Vocals|guitar}}
+| years_active    = {{hlist|1964–1978|1988–2013}}
+| genre           = {{hlist|[[Canadiana]]|[[Folk music|folk]]|[[Country music|country]]}}
+| occupation      = {{hlist|Musician|songwriter}}
+| label           = {{hlist|[[EMI]]|[[Boot Records|Boot]]|Rebel|Dominion|Cynda|ACT}}
+| associated_acts =
+| website         = {{URL|www.stompintom.com}}
+}}
+'''Charles Thomas''' "'''Stompin' Tom'''" '''Connors''', [[Order of Canada|OC]] (February 9, 1936 – March 6, 2013) was a Canadian [[country music|country]] and [[folk music|folk]] singer-songwriter. Focusing his career exclusively on his native Canada, he is credited with writing more than 300 songs and has released four dozen albums, with total sales of nearly four million copies.<ref>{{cite web | url = http://www.allmusic.com/artist/stompin-tom-connors-p416969/biography | last = Chadbourne | first = Eugene | title = Stompin' Tom Connors | publisher = [[AllMusic]]| access-date = March 4, 2012}}</ref>
+
+Connors' songs have become part of the Canadian cultural landscape. Among his best-known songs are "[[Sudbury Saturday Night]]", "[[Bud the Spud]]" and "[[The Hockey Song]]"; the last is played at various games throughout the [[National Hockey League]], including at every [[Toronto Maple Leafs]] home game.<ref name = "NYTobit">{{cite news|author = Douglas Martin|title = Stompin' Tom Connors, Canadian Singer, Dies at 77|url = https://www.nytimes.com/2013/03/08/arts/stompin-tom-connors-canadian-singer-dies-at-77.html?hpw&_r=0|newspaper = [[The New York Times]]|date=March 8, 2013|access-date=March 8, 2013}}</ref><ref name = "BBCobit">{{cite news|title = Tom Connors, Canadian country-folk legend, dies at 77|url = https://www.bbc.co.uk/news/world-us-canada-21706649|work = [[BBC News]]|date=March 8, 2013|access-date=March 8, 2013}}</ref> In 2018, the song was inducted into the [[Canadian Songwriters Hall of Fame]] in a ceremony at a Leafs game.<ref name="cbc2018">{{cite news |title=Stompin' Tom's classic The Hockey Song to be inducted into Canadian Songwriters Hall of Fame |url=https://www.cbc.ca/news/entertainment/stompin-tom-hockey-song-hall-of-fame-1.4876586 |access-date=October 28, 2018 |agency=The Canadian Press |publisher=CBC News |date=October 24, 2018}}</ref>
+
+==Early life==
+Charles Thomas Connors was born on February 9, 1936, at the [[Saint John Regional Hospital|General Hospital]] in [[Saint John, New Brunswick]], to Isabel Connors and Thomas Joseph Sullivan.<ref>{{cite web |title=Stompin' Tom Connors {{!}} NBLE |url=https://nble.lib.unb.ca/browse/c/stompin-tom-connors |website=nble.lib.unb.ca |access-date=28 September 2023}}</ref>
+
+Isabel's family were [[Irish Protestants]], and his maternal grandfather, John Connors, was a sea captain from [[Boston]], Massachusetts, who had died before Charles was born. His father was a [[Catholic]] of Irish ancestry, and "may have been [[Métis]] or ... [[Mi'kmaq people|Micmac]]." Isabel Connors and Thomas Joseph Sullivan did not marry until 30 years later, as Sullivan's family were devout Catholics and did not want him marrying a Protestant; they later divorced.<ref>Tom Connors CBC radio 1973</ref> Sullivan's mother gave him $10, and he was told to leave home.<ref>{{harvnb|Stompin' Tom|1995|pp=6–7}}</ref> Connors was also a cousin of New Brunswick [[fiddling]] sensation, Ned Landry.
+
+Connors' first home was on St. Patrick Street, in the "poorest and most rundown part of Saint John". He lived there with his mother, his maternal grandmother Lucy Scribner, and his maternal stepgrandfather Joe Scribner<ref>{{harvnb|Stompin' Tom|1995|p=8}}</ref> When Connors was three, Lucy and Joe died within weeks of each other. This forced Isabel to move to a two-bedroom apartment.<ref>{{harvnb|Stompin' Tom|1995|p=21}}</ref> Around this time Isabel got pregnant again by Tom's father when he briefly returned,<ref>{{harvnb|Stompin' Tom|1995|p=22}}</ref> and Tom got a taste of hitchhiking when he and Isabel went to visit relatives in [[Tusket Falls, Nova Scotia]]. This trip was the first time he saw his mother steal to feed them, when she stole food from a Chinese restaurant in [[Yarmouth, Nova Scotia]]. When they returned to Saint John, they moved in with friends of Isabel<ref>{{harvnb|Stompin' Tom|1995|p=24}}</ref> and she gave birth to Tom's sister Marie, who had to stay in hospital to have a birthmark removed. Later, Isabel and Tom moved in with her new boyfriend Terrence Messer at the corner of Clarence and Erin Streets. While they did not marry, the family would take on his surname. Terrence and Isabel did pretend to be married to find a place to live, due to the moral standards of the time.<ref>{{harvnb|Stompin' Tom|1995|p=25}}</ref> The family was quite poor, and Terrence was a neglectful stepfather, who spent most of the family's money on wine. When they missed paying rent, the family was evicted and moved to a house on St. Patrick Street.<ref>{{harvnb|Stompin' Tom|1995|p=26}}</ref> Marie finally came home from the hospital then,<ref>{{harvnb|Stompin' Tom|1995|p=27}}</ref> but she died when Tom was four, following more surgery to remove another birthmark.<ref>{{harvnb|Stompin' Tom|1995|p=28}}</ref> To make ends meet, Isabel got a job scrubbing floors and Terrence did odd jobs.<ref>{{harvnb|Stompin' Tom|1995|pp=26, 29}}</ref> The family was evicted again after a spat with the landlord when Tom started a fire in their apartment.<ref>{{harvnb|Stompin' Tom|1995|p=31}}</ref> Their next home was a basement apartment on King Street.<ref>{{harvnb|Stompin' Tom|1995|p=32}}</ref>
+
+Connors spent a short time living with his mother in a low-security women's penitentiary before he was seized by [[Children's Aid Society (Canada)|Children's Aid Society]] and later adopted by Cora and Russell Aylward<ref name = "MartinObit">{{cite news|title = Canada's troubadour sang of everyday lives|author = Sandra Martin|url = http://v1.theglobeandmail.com/servlet/story/LAC.20130309.OBCONNORS0308ATL/BDAStory/BDA/deaths/?pageRequested=all|newspaper = [[The Globe and Mail]]|date = March 9, 2013|access-date = March 9, 2013|location=Toronto}}</ref> in [[Skinners Pond, Prince Edward Island|Skinners Pond]], Prince Edward Island.
+
+At 13 he ran away from his adoptive family to hitchhike across Canada. He got his first guitar at 14, and at 15 he wrote his first song called "Reversing Falls Darling". His hitchhiking journey consumed the next 13 years of his life as he travelled among various part-time jobs while writing songs on his guitar, singing for his supper. He worked in mines and rode in boxcars,<ref name = "Bidini">{{cite news|author = Dave Bidini|author-link = Dave Bidini|title = The legend of Stompin' Tom: Dave Bidini bids farewell to a Canadian icon|url = https://nationalpost.com/entertainment/music/the-legend-of-stompin-tom-dave-bidini-bids-farewell-to-a-canadian-icon|newspaper = [[National Post]]|date = March 7, 2013|access-date = November 11, 2017}}</ref> and in the coldest part of winter he welcomed vagrancy arrests for the warm place to sleep.<ref name = "NYTobit" /> At his last stop in [[Timmins, Ontario|Timmins]], Ontario, he found himself a nickel short of a 35-cent beer at the city's Maple Leaf Hotel. Connors told the bartender to put the cap back on the bottle and he'd head for the [[Salvation army|Sally Ann]], but the bartender, Gaëtan Lepine, accepted the 30 cents and offered him a second beer if he would open his guitar case and play a few songs.<ref>{{cite interview |last= Lepine|first= Gaëtan|interviewer=  [[Brent Bambury]]|title= The bartender who discovered Stompin' Tom Connors|date= March 7, 2013|work= [[Day 6]]|url=http://www.cbc.ca/day6/blog/2014/01/03/day-6-encore-gaet-lepine-on-stompin-tom-connors/}}</ref> These few songs turned into a 14-month run at the hotel, a weekly spot on [[CKGB-FM|CKGB]] in Timmins, eight 45-RPM recordings, and the end of the beginning for Tom Connors.
+
+==Musical career==
+Connors was never part of the Canadian musical establishment, and his style was quite different from other Canadian icons such as [[Leonard Cohen]] or [[Gordon Lightfoot]].<ref name = "MartinObit" /> He could, however, be characterized as a passionist poet within Canadian culture, similar to [[Milton Acorn]] and [[Stan Rogers]].<ref>{{cite news|title=Stompin' Tom Connors deserves a place in the ranks of Canada's poets|author=Rick Salutin|author-link=Rick Salutin|url=https://www.thestar.com/opinion/commentary/2013/03/08/stompin_tom_connors_deserves_a_place_in_the_ranks_of_canadas_poets_salutin.html|newspaper=[[Toronto Star]]|date=March 8, 2013|access-date=March 10, 2013}}</ref> As the ''[[National Post]]'' characterized him:
+
+{{Blockquote|He sang of a nation without politics, to its proud history, and to its better angels. His songs remind us that Canada matters—that we've built something amazing here, and must not take it for granted.<ref name="NatPost" />
+}}
+
+Typically writing about Canadian lore and history, some of Connors' better-known songs include "[[Bud the Spud]]", "[[Big Joe Mufferaw (song)|Big Joe Mufferaw]]", "[[Black Donnellys|The Black Donnellys]]", "[[The Martin Hartwell Story]]", "[[Reesor Siding Strike of 1963|Reesor Crossing Tragedy]]", "[[Sudbury Saturday Night]]", and "[[The Hockey Song]]". This last, often incorrectly called "The Good Old Hockey Game," is frequently played over sound systems at [[National Hockey League]] (NHL) games.
+
+Throughout the years, Connors never lost touch with Gaëtan Lepine, the bartender he befriended in Timmins; in fact, the two wrote many songs together. These songs are featured in ''250 Songs by Stompin' Tom: Including All the Words and Chords''.
+
+In 1968, he composed and sang a radio jingle for a Sudbury-area tire store, Duhamel & Dewar, in exchange for a set of winter tires:<blockquote>"When your tires are old and worn
+
+and you think they should be newer,
+
+drive on down to the Tire Town
+
+and see Duhamel and Dewar."<ref>{{cite web |date=September 2016 |title=Stompin' Tom Once Wrote a Radio Jingle for Duhamel & Dewar |url=https://southsidestory.ca/2016/09/stompin-tom-once-wrote-a-radio-jingle-for-duhamel-dewar/ |access-date=March 22, 2018 |work=southsidestory.ca}}</ref></blockquote>During the mid-1970s Connors wrote and recorded ''The Consumer'', an ode to bill-paying that became the theme song for the popular [[Canadian Broadcasting Corporation]] (CBC) consumer affairs program ''[[Marketplace (Canadian TV program)|Marketplace]]''. For the first few seasons, Connors appeared in the program's opening credits, before "The Consumer" was replaced as the theme—initially by an instrumental background version and ultimately by a different piece of music.
+
+In 1974 Connors had a series running on [[CBC Television]] in which he met and exchanged with folks from all across Canada. ''[[Stompin' Tom's Canada]]'' was co-produced with the CBC, and consisted of 26 half-hour episodes.
+
+The song that Connors wrote in the least time was "Maritime Waltz", which was completed in 12 minutes.<ref>{{harvnb|Stompin' Tom|1995|p=490}}</ref>
+
+His character was rough but genuine. As the ''[[National Post]]'' noted:
+
+{{Blockquote|[T]hat persona wasn't [[shtick]]. Stompin' Tom was one of the great Canadian story-tellers, and a uniquely collegial one as well. The proper venue for a [[Gordon Lightfoot]] performance is a [[concert hall]], where the audience connects silently and contemplatively. The proper venue for Mr. Connors was a smoky [[Bar (establishment)|bar room]] where people connected by slamming their beer mugs together, hopefully obliterating whatever differences existed between them.<ref name="NatPost">{{cite news|title=Farewell, Stompin' Tom|url=https://nationalpost.com/opinion/national-post-editorial-board-farewell-stompin-tom|newspaper=[[National Post]]|date=March 13, 2013|access-date=November 11, 2017}}</ref>
+}}
+
+In 1999, after completing a 38-city tour,<ref name="Inc.1999">{{cite magazine|author=Bettsy Powell|title=There's no place like home|magazine=Billboard|url=https://books.google.com/books?id=TQ0EAAAAMBAJ&pg=PA58|date=January 16, 1999|publisher=Nielsen Business Media, Inc.|page=58|issn=0006-2510}}</ref> Connors received the National Achievement Award at the annual [[SOCAN]] Awards held in Toronto.<ref>{{Cite web |url=https://www.socan.ca/about/awards/1999-socan-awards |title=1999 Socan Awards &#124; Socan |access-date=August 25, 2016 |archive-date=September 16, 2016 |archive-url=https://web.archive.org/web/20160916162814/https://www.socan.ca/about/awards/1999-socan-awards |url-status=dead }}</ref>
+
+In 2009, Connors was the recipient of the prestigious Lifetime Achievement Award at the annual [[SOCAN]] Awards in Toronto.<ref>{{Cite web |url=http://www.socan.ca/about/awards/2009-socan-awards |title=2009 Socan Awards &#124; Socan |access-date=August 24, 2016 |archive-url=https://web.archive.org/web/20160810123959/http://www.socan.ca/about/awards/2009-socan-awards |archive-date=August 10, 2016 |url-status=dead }}</ref>
+
+===Nickname===
+Connors' habit of stomping the heel of his left boot to keep rhythm earned him the nickname "that stompin' guy", or "Stomper". It wasn't until [[Canadian Centennial|Canada's 100th birthday]], [[Canada Day|July 1, 1967]], that the name "Stompin" Tom Connors was first used, when Boyd MacDonald, a waiter at the King George Tavern in [[Peterborough, Ontario|Peterborough]], Ontario, introduced Connors on stage.<ref>{{harvnb|Stompin' Tom|1995|p=509}}</ref> Based on an enthused audience reaction to it, Connors had it officially registered in Ontario as Stompin' Tom Ltd. the following week. Various stories have circulated about the origin of the foot stomping, but it's generally accepted that he did this to keep a strong tempo for his guitar playing—especially in the noisy bars and beer joints where he frequently performed. After numerous complaints about damaged stage floors, Connors began to carry a piece of [[plywood]] that he stomped even more vigorously than before. The ''"stompin{{'"}}'' board became one of his trademarks. After stomping a hole in the wood, he would pick it up and show it to the audience (accompanied by a joke about the quality of the local lumber) before calling for a new one. It was reported that when asked about his "stompin' board", Connors replied, "it's just a stage I'm going through". Connors periodically auctioned off his "stompin' boards" for charity, with one board selling for $15,000 in July 2011.<ref>{{cite news|url=http://www.torontosun.com/2011/07/02/stompin-tom-raises-money-for-orillia-charity |title=Stompin' Tom raises money for Orillia charity |newspaper=Toronto Sun |date=February 7, 2011 |access-date=March 7, 2013}}</ref>
+
+===Favourite guitar===
+Connors's favourite guitar was a [[Gibson Guitar Corporation|Gibson]] [[Southern Jumbo]] [[Steel-string acoustic guitar|acoustic]] that he purchased in 1956 while on his way through [[Ohio]] to [[Nashville, Tennessee]], and Mexico. He discovered it in a furniture store, hidden in a case on top of a shelf and, after some haggling, purchased it for $80 (he had $90 with him). The guitar was used to audition in 1964 at the Maple Leaf Hotel in Timmins, as well as for writing ''Bud the Spud'' four years later. Although retired in 1972, it remained in his possession. It has subsequently been refurbished, a birthday gift from his wife Lena. The serial number inside the guitar reads 2222 in red stamped numbers and the actual age of the guitar is still unknown.<ref>{{harvnb|Stompin' Tom|1995|pp=356–379}}</ref>
+
+===Releases===
+Connors released music on seven different labels. His earliest foray into recording was on the CKGB Timmins radio station label. These [[Gramophone record|45 RPM]] [[Single (music)|singles]] were pressed by [[Quality Records]] in Toronto, and distributed (and paid for) primarily by Tom. His first two albums (and two subsequent 45 RPM singles) were released on the Rebel Records bluegrass label, under the name "Tom Connors". These two albums were subsequently re-released on Dominion Records under the Stompin' Tom moniker and had to be totally re-recorded due to a dispute with Rebel Records owner John Irvine.
+
+Most of Connors's well-known albums were released on Dominion Records (1969–70), and after 1971 on the [[Boot Records]] label that he co-founded with Jury Krytiuk and Mark Altman. His releases on Dominion (and all subsequent releases) were done under the name "Stompin' Tom Connors". Most of the Rebel and Dominion albums would be reissued (and in some cases, re-recorded) under the Boot label, and would represent the bulk of his recorded material. It was released on 33{{Fraction|1|3}} RPM record albums, 45 RPM record singles, [[Stereo 8|8-tracks]], and [[Compact Cassette|cassette tapes]].
+
+After his retreat from the music business in the late 1970s, he started the A-C-T (Assisting Canadian Talent) label in 1986, and released two albums: ''Stompin' Tom is Back to Assist Canadian Talent'' and his comeback album, ''Fiddle and Songs'' in 1988. A-C-T also re-released Connors's back catalogue on cassette tapes only.
+
+All of his subsequent releases (and re-releases) have been through [[Capitol Records]] / [[EMI]]. Most of this work is now available on Compact Disc. In recent years, many of his album releases have included at least one re-recording of one of his earlier songs.
+
+===Promoting Canadian artists===
+Connors founded three record labels, which promoted not just his own work, but that of other Canadian artists:
+* [[Boot Records]], together with its budget label Cynda, which were active in the 1970s and 1980s
+* A-C-T, active from the late 1980s
+
+Among artists who were featured on these labels were [[Liona Boyd]],<ref name="Stevenson">{{cite news|title=Love for Stompin' Tom Connors went beyond Canada's borders|author=Jane Stevenson|url=http://www.torontosun.com/2013/03/07/love-for-stompin-tom-connors-went-beyond-canadas-borders|newspaper=[[Toronto Sun]]|date=March 7, 2013|access-date=March 10, 2013}}</ref> [[Rita MacNeil]], [[The Canadian Brass]], [[Dixie Flyers]], [[Charlie Panigoniak]], among others. [[Liona Boyd]] recalled in 2013 about the time Connors signed Boyd to Boot for her first record, 1974's ''The Guitar'', and two more:
+
+{{Blockquote|It was Tom's vision obviously. And as I understood it, he wasn't really a fan of classical music but he had heard Canada had no classical label, which was absolutely true. So bless him, he went and decided he'd be the first one. And he signed myself and the [[Canadian Brass]]. It's like me deciding, "Well listen, maybe I don't know much about [[rap]], but hey Canada's doesn't have a rap label, I'll go and do it." So he was a bit of a pioneer with classical music.<ref name="Stevenson" />
+}}
+
+===Cultural and historical references===
+In the book ''[[Shake Hands with the Devil: The Failure of Humanity in Rwanda]]'', Romeo Dallaire, the Canadian general who led the [[UNAMIR]] peacekeeping force in [[Rwanda]] during that country's 1994 genocide reported that he played a recording of Connors's song "The Blue Berets" (about United Nations peacekeeping forces) to keep up his troops' morale while their headquarters was under bombardment.
+
+[[The Les Claypool Frog Brigade]] mentions Connors in the song "Long in the Tooth" on the album ''[[Purple Onion (album)|Purple Onion]]'', while [[Corb Lund]] references him in the song "Long Gone to Saskatchewan" and [[Dean Brody]] references him in the song "[[Canadian Girls]]".
+
+[[Tim Hus]] also wrote a song titled "Man with the Black Hat" about Connors.
+
+===Songs referencing Canadian historical events===
+The following is a list of events in the [[history of Canada]] which have been the subject of a song by Connors, who is widely renowned for singing about both well-known and little-known episodes in the country's past.
+
+{| class="wikitable"
+|-
+! Song
+! Summary
+|-
+|"Reesor Crossing Tragedy"
+|1969 song about the [[Reesor Siding Strike of 1963]] which saw three union workers murdered.
+|-
+|"Tillsonburg"
+|When Stompin' Tom worked in the [[Cultivation of tobacco|tobacco field]]s of [[Tillsonburg]], Ontario.
+|-
+|"Wop May"
+|About the Canadian pilot [[Wilfrid R. "Wop" May]].
+|-
+|"The Bridge Came Tumblin' Down"
+|1972 song about the 19 men killed in the collapse of the [[Ironworkers Memorial Second Narrows Crossing]].
+|-
+|"The Curse of the ''Marc Guylaine''"
+|1973 song about the fishing trawler ''[[Marc Guylaine]]'' which saw two sister-ships and two identical ships all sink under inexplicable circumstances.
+|-
+|"[[Big Joe Mufferaw (song)|Big Joe Mufferaw]]"
+|About the French-Canadian logging legend [[Joseph Montferrand]].
+|-
+|"The Martin Hartwell Story"
+|About the [[bush pilot]] [[Martin Hartwell]] who survived 31 days in the [[Northwest Territories]], after resorting to [[Human cannibalism|cannibalism]] (Connors' song does ''not'' reference this last fact, instead focusing on the efforts of David Pisurayak Kootook in helping keep Hartwell alive at the cost of his own life).
+|-
+|"Algoma Central 69"
+|About the historical [[Algoma Central Railway]].
+|-
+|"The Black Donnellys' Massacre" and "Jenny Donnelly"
+|Both about the [[Black Donnellys]]
+|-
+|"The Last Fatal Duel"
+|1973 song about [[Robert Lyon (duellist)|Robert Lyon]].
+|-
+|"Fire in the Mine"
+|About the [[Hollinger Mines#Fire|Hollinger Mines fire]] that killed 39 miners in [[Timmins, Ontario]].
+|}
+
+==Personal life==
+
+Connors married Lena Welsh on November 2, 1973. The ceremony was broadcast live on ''[[Elwood Glover's Luncheon Date]]'' on [[CBC Television]].<ref>{{cite magazine|title = Lena Welsh and Stompin' Tom Connors, November 2, 1973|url = http://www.torontolife.com/daily/style/weddings-style/2010/03/04/from-the-archives-the-city%E2%80%99s-most-memorable-weddings/attachment/historical6-2/|magazine = [[Toronto Life]]|access-date = March 7, 2013|url-status = dead|archive-url = https://web.archive.org/web/20100804015626/http://www.torontolife.com/daily/style/weddings-style/2010/03/04/from-the-archives-the-city%E2%80%99s-most-memorable-weddings/attachment/historical6-2/|archive-date = August 4, 2010|df = mdy-all}}</ref> During an interview on the show, he said they had chosen to get married on television to share this happy moment with his fans across the country whose support had rescued him from a difficult pre-showbusiness life.<ref>{{cite AV media|url=http://www.cbc.ca/rewind/episode/2013/03/14/stompin-tom-connors/|title=Remembering Stompin' Tom Connors|date=March 14, 2013|work=[[Rewind (radio program)|Rewind]]|url-status=dead|archive-url=https://web.archive.org/web/20130701043505/http://www.cbc.ca/rewind/episode/2013/03/14/stompin-tom-connors/|author=Michael Enright|author-link=Michael Enright (broadcaster)|format=audio|archive-date=July 1, 2013|access-date=March 14, 2013}}</ref>
+Connors had a son, Taw Connors.<ref>{{Cite web|url=https://www.cbc.ca/news/canada/thunder-bay/stompin-tom-connors-son-tour-1.3747617 |title=Stompin' Tom Connors' son tours Ontario in tribute to father |date= September 5, 2016 |access-date= June 6, 2021 |website=cbc.ca}}</ref> He also had another son, Tom Jr.<ref>{{Cite web |author=Jane Stevenson |url=https://torontosun.com/entertainment/music/stompin-tom-connors-stomps-his-way-into-cwof-with-familys-blessing|title=Stompin' Tom Connors stomps his way into CWOF with family's blessing|date= November 12, 2017   |access-date= June 6, 2021 |website=torontosun.com}}</ref>
+
+Connors was a heavy smoker—estimated to consume 100 cigarettes a day<ref name="Bidini" />—and an equally heavy drinker. On tour, he had to drive the lead truck, and could never be the last person to go to bed, and that often meant that his fellow musicians had to keep up with his pace.<ref name="Bidini" />
+
+Connors always wore his black [[Stetson]] in public, and refused to remove it for any reason, even when meeting [[Queen Elizabeth II]] at a dinner in Ottawa in October 2002. Buckingham Palace smoothed the way by likening Mr. Connors's hat to a religious headdress such as a nun's habit or a Sikh's turban.<ref name="MartinObit" />  However, Connors did go hatless during his nationally-televised wedding on CBC-TV to Lena Welsh.
+
+===Retirement and nationalist protest===
+As the 1970s progressed, he retired to his farm at Ballinafad,<ref>{{Cite web|title=Stompin' Tom Moves In|first=Winifred |last=Smith |url=http://news.haltonhills.halinet.on.ca/2315505/page/12?n=14&q=Stompin%27%20Tom%20Connors&docid=OOI.2315505|work=[[The Georgetown Herald]]|date=June 4, 1975|access-date=March 8, 2013}}</ref> near [[Erin, Ontario]], to protest the lack of support given to Canadian stories by the policies of the Federal government, particularly the [[Canadian Radio-television and Telecommunications Commission]] (CRTC).<ref>{{Cite web|author=Jennifer Barr|title=Stompin' Tom media critic champions Canadian talent|url=http://news.haltonhills.halinet.on.ca/2314036/page/5?n=7&q=Stompin%27%20Tom%20Connors&docid=OOI.2314036|work=Acton Free Press|date=January 19, 1977|access-date=March 7, 2013}}</ref> He also boycotted the [[Juno Award]]s in protest of the qualification guidelines set by the [[Canadian Academy of Recording Arts and Sciences]] (CARAS) for possible nominees who were being consistently nominated and awarded outside of their musical genre. He strongly opposed artists who conducted most of their business in the United States being nominated for Junos in Canada. Connors, who referred to these particular artists as "turncoat Canadians", felt that in view of the fact that they had chosen to live and work in the U.S., it was only fair that they competed with Americans for Grammy Awards, and left the Juno competition to those who lived and conducted business in Canada.
+
+His protest caught national attention when he sent back his six Junos accompanied by a letter to the board of directors.
+
+{{Blockquote|Gentlemen:
+
+I am returning herewith the six Juno awards that I once felt honoured to have received and which, I am no longer proud to have in my possession. As far as I am concerned you can give them to the border jumpers who didn't receive an award this year and maybe you can have them presented by [[Charley Pride]]. I feel that the Junos should be for people who are living in Canada, whose main base of business operations is in Canada, who are working toward the recognition of Canadian talent in this country and who are trying to further the export of such talent from this country to the world with a view to proudly showing off what this country can contribute to the world market.
+
+Until the academy appears to comply more closely with aspirations of this kind, I will no longer stand for any nominations, nor will I accept any award given.
+
+Yours very truly,
+Stompin' Tom Connors<ref>{{cite magazine|title=Stompin' Tom discloses reasons for Juno nomination withdrawal|url=http://www.stompintom.com/stompintomtimes/rpm.html|magazine=[[RPM (magazine)|RPM]]|date=April 22, 1978|access-date=March 8, 2013}}</ref>
+}}
+
+He remained in retirement for 12 years, only returning to the studio in 1986 to produce a new album to promote Canadian artists.<ref>{{Cite web|title=Stompin' Tom is back from 10-year exile|url=http://news.haltonhills.halinet.on.ca/2326051/page/1?n=6&q=Stompin%27%20Tom%20Connors&docid=OOI.2326051|work=[[The Georgetown Herald]]|date=December 10, 1986|access-date=March 7, 2013}}</ref> That year, [[Tim Vesely]] and [[Dave Bidini]] of [[Rheostatics]] crashed his 50th birthday party and published an article about it in a Toronto newspaper,<ref name=blamecanada>[http://exclaim.ca/Features/Timeline/rheostatics-blame_canada "Rheostatics: Blame Canada"]. ''[[Exclaim!]]'', November 2001.</ref> initiating a resurgence of public and record label interest in his work which resulted in the release in 1988 of ''Fiddle and Song'', his first new album since 1977.
+
+===Guest of honour on ''Late Night''===
+Connors' music is rarely heard outside Canada, with the possible exception of his [[anthem]]ic "[[The Hockey Song]]" which has been recorded by many artists and played regularly within the arenas of the National Hockey League. It has been suggested that Connors refused to allow foreign release of his material, although a more likely reason is that the very Canadian-specific subject matter of many of his folk songs has resulted in limited demand in foreign markets. When ''[[Late Night with Conan O'Brien]]'' taped a week's worth of shows in Canada in 2004, Connors was one of the guests of honour, leading the Toronto audience in a rendition of "The Hockey Song"; this was one of the few times Connors performed on American television. Another Canadian-taped installment of ''Late Night'' featured a segment in which [[Triumph the Insult Comic Dog]] visited [[Quebec]]; a parody of Connors' "Canada Day, Up Canada Way" is heard during the segment.
+
+===Dispute with the Canadian Broadcasting Corporation===
+According to Connors' promoter, Brian Edwards, the CBC had expressed interest for Connors to do a music special since 1990.<ref name="Rocklands">[http://www.stompintom.com/whatsnew/snubbed_by_cbc.html "Stompin' Tom Snubbed by CBC TV"] (press release by Brian Edwards, Rocklands Entertainment Inc., Peterborough Ontario), 2006</ref> Connors shot and edited a live concert presentation at Hamilton Place at a cost of over $200,000 of his own money in September 2005. Edwards said that a copy was presented to the CBC's head of TV variety and that he received a reply the next day telling him that a decision would be reached within a few weeks. After 10 weeks, another email was then sent to the newly appointed programming VP, and a prompt reply came back that said that the broadcaster was moving away from music and variety programming and that the Connors special did not fit with its strategy.
+
+Edwards said that he received another letter from the CBC that reinforced its lack of interest in the concert special but said that Connors would have been a great guest to perform a song on the network's ''[[Hockeyville]]'' series or an excellent subject for a ''[[Life and Times (TV series)|Life and Times]]'' project. In response, Connors said:
+
+{{Blockquote|As far as I'm concerned, if the CBC, our own public network, will not reconsider their refusal to air a Stompin' Tom special, they can take their wonderful offer of letting me sing a song as a guest on some other program and shove it.<ref name="Rocklands" />
+}}
+
+Ultimately, the film was released on DVD as ''Stompin' Tom In Concert'' by [[EMI]] in 2006.<ref>https://www.discogs.com/release/13466736-Stompin-Tom-Stompin-Tom-in-Live-Concert</ref> The soundtrack was released posthumously on CD<ref>https://www.discogs.com/release/13817145-Stompin-Tom-Connors-Stompin-Tom-in-Live-Concert-Soundtrack</ref> at the same time as a DVD & Blue Ray re-issue by [[Universal Music Canada]] in 2014.<ref>https://www.discogs.com/master/1976677-Stompin-Tom-Stompin-Tom-in-Live-Concert</ref>
+
+===Autobiography===
+''Stompin' Tom: Before the Fame'' is an autobiography detailing Connors' childhood years in an orphanage, and as a [[farm labourer]]. It was a runner-up for the [[Edna Staebler Award]] for [[Creative Non-Fiction]] in 1996<ref name="wlu96">[https://web.archive.org/web/20121001115435/https://www.wlu.ca/page.php?grp_id=2529&p=11317 ''Wilfrid Laurier University''] 1996: George G. Blackburn. Retrieved November 17, 2012</ref> and became a bestseller in 1997. It details his life before becoming famous. In 2000 Connors wrote his second autobiography ''The Connors Tone''.
+
+===Death and memorial service===
+Connors died of kidney failure on March 6, 2013, at his home in Ballinafad.<ref name = "MartinObit" /><ref name="Ballinafad">{{Cite web|url=http://www.orangeville.com/news-story/2501222-erin-area-resident-stompin-tom-connors-dead-at-77/|title=Erin-area resident, Stompin' Tom Connors dead at 77|date=March 7, 2013|work=Orangeville Banner|first=Greg |last=Quill}}</ref><ref>{{cite news|title = Stompin' Tom Connors|url = https://www.telegraph.co.uk/news/obituaries/10042187/Stompin-Tom-Connors.html|date = May 5, 2013|newspaper = [[The Daily Telegraph]]|location=London}}</ref> He refused to seek medical treatment, as he was skeptical of the benefits of medical technology.<ref name = "MartinObit" /> On March 7, flags were lowered to half-mast at the [[National Arts Centre]] in Ottawa,<ref>{{Cite web|title = The NAC mourns the loss of Stompin' Tom Connors|url = http://nac-cna.ca/en/stories/story/the-nac-mourns-the-loss-of-stompin-tom-connors|publisher = [[National Arts Centre]]|date = March 7, 2013|access-date = March 9, 2013}}</ref><ref name="XinhuaObit">{{Cite web|author = Christopher Guly|title = Canadian folk legend Stompin' Tom Connors remembered|url = http://news.xinhuanet.com/english/entertainment/2013-03/08/c_132217048.htm|agency = [[Xinhua News Agency]]|date = March 8, 2013|access-date = March 8, 2013|url-status = dead|archive-url = https://web.archive.org/web/20160412035859/http://news.xinhuanet.com/english/entertainment/2013-03/08/c_132217048.htm|archive-date = April 12, 2016|df = mdy-all}}</ref> and also in [[Tillsonburg]], to mark his death.<ref>{{Cite web|title = Town of Tillsonburg Honours Stompin' Tom|url = http://www.tillsonburg.ca/LocalGovernment/MediaandCommunications/NewsDetails/tabid/2517/ArticleId/1477/Town-of-Tillsonburg-Honours-Stompin-Tom.aspx|date = March 7, 2013|access-date = March 9, 2013|url-status = dead|archive-url = https://web.archive.org/web/20130716225601/http://www.tillsonburg.ca/LocalGovernment/MediaandCommunications/NewsDetails/tabid/2517/ArticleId/1477/Town-of-Tillsonburg-Honours-Stompin-Tom.aspx|archive-date = July 16, 2013|df = mdy-all}}</ref> On March 9, that following Saturday night, ''[[Hockey Night in Canada]]'' broadcast a special tribute to Connors at the opening of its broadcast.<ref>{{Cite news|title = Hockey Night in Canada pays tribute to late Stompin' Tom Connors |url = https://www.cbc.ca/sports/hockey/nhl/hockey-night-pays-tribute-to-stompin-tom-connors-1.1348216|publisher = [[CBC Sports]]|date = March 9, 2013|access-date = March 10, 2013}}</ref>
+
+Immediately after his death, ''[[The Globe and Mail]]'' noted:
+
+{{Blockquote|These days, Canada isn't scared to be a little loud and proud. Politicians push patriotic buttons and endlessly recite their devotion to "hard-working Canadians." Advertisers shamelessly (and successfully) plug our country and its natural beauty, and play up Canadians' adventuresome and ribald sides. But Stompin' Tom was doing that a long time ago, celebrating the end of a hard week's work with famous lyrics like,
+
+:''The girls are out to bingo and the boys are getting' stinko''
+:''And we'll think no more of [[Inco]] on a Sudbury Saturday night.''<ref>{{cite news|title = Thank you, Stompin' Tom Connors. We needed you |url = https://www.theglobeandmail.com/commentary/editorials/thank-you-stompin-tom-connors-we-needed-you/article9441159/%3bjsessionid=qrcQR4lVTCShRbLd6n3DkLjGpn9TyjL1Hwn6pwb9FHx2nCBv7L29!-526044479/?ord=1|newspaper = [[The Globe and Mail]]|date = March 7, 2013|access-date = March 10, 2013|location=Toronto}}</ref>
+}}
+
+In a 1995 interview, Mr. Connors offered the opinion that nobody should die happy:
+
+{{Blockquote|I think people should die without their dreams being fulfilled, so maybe they can have an excuse for coming around again.<ref name = "NYTobit" />
+}}
+
+On March 7, several members of the federal [[New Democratic Party (Canada)|New Democratic Party]] caucus, led by former musicians [[Charlie Angus]] and [[Andrew Cash]], performed a group rendition of Connors' signature song "[[Bud the Spud]]" in the foyer of the [[House of Commons of Canada]] in tribute.<ref>{{Cite web|url = http://o.canada.com/2013/03/07/ndp-to-pay-tribute-to-stompin-tom-by-singing-bud-the-spud/#.UTkb_TePAhU|title = NDP to pay tribute to Stompin' Tom by singing 'Bud the Spud'|publisher = [[Canada.com]]|date = March 7, 2013}}</ref>
+
+In addition to reports and obituaries published in the Canadian media, his death was also reported by ''[[The New York Times]]'',<ref name = "NYTobit" /> [[BBC News]]<ref name = "BBCobit" /> and the [[Xinhua News Agency]].<ref name = "XinhuaObit" />
+
+A memorial was held on March 13, 2013, at the [[Peterborough Memorial Centre]] in [[Peterborough, Ontario]]. [[Tommy Hunter]] attended, and the celebration included speeches by former governor general [[Adrienne Clarkson]] and [[Ken Dryden]].<ref name = "CTV-Patch">{{Cite web|author = Nick Patch, [[The Canadian Press]]|title = Stompin' Tom fans, friends, family throw joyous memorial|url = http://www.ctvnews.ca/entertainment/stompin-tom-fans-friends-family-throw-joyous-memorial-1.1193419|publisher = [[CTV News]]|date = March 13, 2013|access-date = March 14, 2013}}</ref> Testimonials were given or read from others, including [[Roméo Dallaire]], [[Rita MacNeil]] and [[Liona Boyd]]. Before his death, Connors had personally selected the artists who would perform:<ref>{{Cite news|title = Memorial pays tribute to Stompin' Tom Connors|url = http://www.cbc.ca/news/entertainment/memorial-pays-tribute-to-stompin-tom-connors-1.1413117|publisher = [[CBC News]]|date = March 13, 2013|access-date = November 11, 2017}}</ref>
+
+{| class="wikitable"
+|-
+! Tribute
+! Artists
+|-
+|''Peterborough Postman'', ''The Blue Berets'', ''The Ballad of Stompin' Tom'' and ''The Hockey Song'' (videos)
+|Stompin' Tom Connors
+|-
+|Fiddle medley of traditional music (The Maritime Waltz)
+|Billy Macinnis
+|-
+|''Man in the Black Hat''
+|[[Tim Hus]]
+|-
+|''Little Wawa'' and ''Gumboot Cloggeroo'' (medley)
+|[[J.P. Cormier]] and [[Dave Gunning]]
+|-
+|''[[Farewell to Nova Scotia]]''
+|[[Sylvia Tyson]] and [[Cindy Church]]
+|-
+|''The Bridge Came Tumbling Down''
+|[[Dave Bidini]]
+|-
+|''Coal Boat Song''
+|[[Damhnait Doyle]]
+|-
+|''So Long Stompin' Tom''
+|[[Mike Plume]]
+|-
+|''I am the Wind''
+|Mark Laforme
+|}
+
+At the end of the service, before ''Sudbury Saturday Night'' was played, Tom Connors, Jr., spoke about his father, and looked to the future:
+
+{{Blockquote|I heard some people comment at the funeral, saying there'll never be another Stompin' Tom. Well, I got news for you. We still have a Canada, and we still have the roads, towns, people, jobs – and that's what Tom wrote about. So never say never.... He never liked anyone copying him, but anyone who wants to sing about Canada, keep 'er on going.
+
+It's nice to travel south. It might be warmer on the skin, but if you go east and west, it'll be warmer on your hearts.<ref name = "CTV-Patch" />
+}}
+
+He was subsequently buried at Erin Union Cemetery in [[Erin, Ontario]].<ref name = "Gravelle">{{cite news|author = Phil Gravelle|title = Paying tribute to Stompin' Tom's philosophy|url = http://erininsight.blogspot.ca/2014/06/paying-tribute-to-stompin-toms.html|newspaper = Erin Advocate|date = June 11, 2014}}</ref> The [[headstone]] contains these words:
+
+{{Blockquote|<poem>
+The body has returned to sod,
+The spirit has returned to God.
+So on this spot, no need for grief,
+Here only lies a fallen leaf.
+Until new blossoms form in time,
+The tree is where I now reside.
+But with this poem, as you can see,
+They haven't heard the last of me.<ref name = "Gravelle" />
+</poem>}}
+
+Connors was also the subject of a video tribute at the [[2013 East Coast Music Awards]] on March 10.<ref name=cousins>[https://www.cbc.ca/news/entertainment/folk-singer-rose-cousins-wins-3-east-coast-music-awards-1.1339123 "Folk singer Rose Cousins wins 3 East Coast Music Awards"]. [[CBC News]], March 11, 2013.</ref>
+
+==Honours==
+[[File:Sudbury fullsizeoutput 3202 (30570601568).jpg|thumb|right|The 2015 bronze statue of Stompin' Tom, with Connors' left hand positioned for [[Chord (music)|chord]] of C−, one of the major chords in the song ''Sudbury Saturday Night''<ref>{{cite news|url=https://www.thesudburystar.com/2015/07/04/stompin-toms-statue-makes-its-sudbury-debut/wcm/8f32e329-10d8-313a-6522-d5b556687aa7|title=Stompin' Tom's statue makes its Sudbury debut|last=Byrne|first=Ryan|newspaper=Sudbury Start|date=July 3, 2015|access-date=January 2, 2019}}</ref>]]
+
+The following honours were conferred on him:
+* From the [[Juno Awards]], Country Male Vocalist of the Year (1971–1975) and Country Album of the Year (1974, for ''To It And at It'')<ref>{{Cite web|title=Artist summary – Stompin' Tom Connors|url=http://junoawards.ca/awards/artist-summary/?artist_name=Connors&submit=Search|publisher=[[Juno Awards]]|access-date=March 7, 2013|url-status=dead|archive-url=https://web.archive.org/web/20150526195102/http://junoawards.ca/awards/artist-summary/?artist_name=Connors&submit=Search|archive-date=May 26, 2015}}</ref>—all subsequently returned in 1978.<ref name="Hinkson">{{cite news|title=Stompin' Tom: Juno Awards mum on possible tribute|url=https://www.thestar.com/entertainment/music/2013/03/07/stompin_tom_juno_awards_mum_on_possible_tribute.html|newspaper=[[Toronto Star]]|author=Kamila Hinkson|date=March 7, 2013|access-date=March 7, 2013}}</ref> He left instructions that the Junos were not to celebrate him after his death.<ref>{{Cite news|title=Stompin' Tom Connors' Juno protest continues |url=https://www.cbc.ca/news/entertainment/stompin-tom-connors-juno-protest-continues-1.1344667|publisher=[[CBC News]]|date=April 17, 2013|access-date=June 6, 2013}}</ref>
+* In 1993, a [[Doctor of Laws]] degree ''[[honoris causa]]'' from [[St. Thomas University (New Brunswick)|St. Thomas University]],<ref>{{Cite web|title=Dr. Stompin' Tom Connors, eh? – Remembering a Canadian Music Legend|url=http://w3.stu.ca/stu/news/151047|publisher=[[St. Thomas University (New Brunswick)|St. Thomas University]]|date=March 7, 2013|access-date=November 11, 2017}}</ref> which was the inspiration for his album titled ''Dr. Stompin' Tom Connors, eh?'', released the same year.
+* In 1996, Officer of the [[Order of Canada]].<ref>{{Cite web|title=Order of Canada citation| date=June 11, 2018 |url=http://www.gg.ca/honour.aspx?id=3568&t=12&ln=Connors}}</ref>
+* In 2000, a Lifetime Artistic Achievement award for Popular Music from the [[Governor General's Awards|Governor General's Performing Arts Awards]].<ref>{{Cite web|title=Stompin' Tom Connors (1936–2013)|url=http://www.ggpaa.ca/award-recipients/connors-stompin-tom.aspx|publisher=[[Governor General's Awards|Governor General's Performing Arts Awards]]|access-date=March 7, 2013}}</ref>
+* In 2000, an honorary LL.D. from the [[University of Toronto]].<ref>{{Cite web|title=Honorary Degrees|url=http://www.magazine.utoronto.ca/life-on-campus/spring-2000-honorary-degree-noam-chomsky/|author=Stacey Gibson|publisher=U of T Magazine|date=Summer 2000}}</ref>
+* In 2002, an honorary [[Litt.D.]] from the [[University of Prince Edward Island]].<ref>{{Cite web|title=UPEI mourns the passing of honorary degree recipient Stompin' Tom Connors|url=http://www.upei.ca/communications/news/2013/03/upei-mourns-passing-honorary-degree-recipient-stompin%E2%80%99-tom-connors|publisher=[[University of Prince Edward Island]]|date=March 7, 2013|access-date=November 11, 2017}}</ref>
+* In 2009, a [[SOCAN award]] for Lifetime Achievement.<ref>{{Cite web|title=Legendary Canadian singer-songwriter Stompin' Tom Connors dead at 77 |url=http://www.socan.ca/news/legendary-canadian-singer-songwriter-stompin-tom-connors-dead-77|publisher=[[SOCAN]]|date=March 7, 2013|access-date=March 8, 2013}}</ref>
+* In 2014, it was announced that a commemorative statue would be located in downtown Sudbury, ON.<ref>{{Cite news|title=Stompin' Tom Connors bronze statue on its way to Sudbury|url=http://www.cbc.ca/news/canada/sudbury/stompin-tom-connors-bronze-statue-on-its-way-to-sudbury-1.2534249|publisher=[[Canadian Broadcasting Corporation]]|date=February 12, 2014|access-date=February 12, 2014}}</ref>
+In 1993, he declined to be inducted into the [[Canadian Country Music Hall of Fame]].<ref name="Hinkson" />
+
+In ''[[The Greatest Canadian]]'' list, he ranked thirteenth, the highest placing for any artist on the list. Connors was one of four musicians pictured on the second series of the Canadian Recording Artist Series issued by [[Canada Post stamp releases (2005-2009)|Canada Post stamps]] on July 2, 2009.<ref>Canada Post Stamp Details, July to September 2009, Volume XVIII, No. 3, p. 6</ref>
+
+==Discography==
+===Albums===
+From 1991, Connors recorded his albums at Escarpment Sound Studio in [[Acton, Ontario]].<ref>{{Cite web|title = Escarpment Sound Studio – Album Credits|url = http://www.escarpmentsound.com/owner.html|access-date = March 10, 2013}}</ref>
+
+{| class="wikitable"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Album
+! colspan="2"| Chart Positions
+! rowspan="2"| CRIA
+|-
+! style="width:50px;"| <small>CAN Country</small>
+! style="width:50px;"| <small>CAN</small>
+|-
+| 1967
+| ''The Northlands' Own Tom Connors''<sup>A</sup>
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| 1968
+| ''On Tragedy Trail''
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| 1969
+| ''Bud the Spud and Other Favourites''
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| Gold
+|-
+| rowspan="3"| 1970
+| ''Stompin' Tom Meets Big Joe Mufferaw''
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| ''Merry Christmas Everybody''
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| ''Stompin' Tom Connors Sings 60 Old Time Favourites''<sup>A</sup>
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| rowspan="4"| 1971
+| ''Stompin' Tom Sings 60 More Old Time Favourites''<sup>B</sup>
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| ''Live at the Horseshoe''
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| ''My Stompin' Grounds''
+| style="text-align:center;"| —
+| style="text-align:center;"| 71
+| style="text-align:center;"| —
+|-
+| ''Love & Laughter''<sup>B</sup>
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| 1972
+| ''Stompin' Tom and the Hockey Song''
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| rowspan="2"| 1973
+| ''To It and at It''
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| ''Northlands Zone''
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| 1974
+| ''Stompin' Tom Meets Muk Tuk Annie''
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| 1975
+| ''The North Atlantic Squadron''
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| 1976
+| ''The Unpopular Stompin' Tom Connors''
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| 1977
+| ''Stompin' Tom at the Gumboot Cloggeroo''
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| 1986
+| ''Stompin' Tom Is Back to Assist Canadian Talent''<sup>C</sup>
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| 1988
+| ''Fiddle and Song''
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| 1991
+| ''More of the Stompin' Tom Phenomenon''
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| 1992
+| ''Believe in Your Country''
+| style="text-align:center;"| 9
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| 1993
+| ''Dr. Stompin' Tom Eh?''
+| style="text-align:center;"| 28
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| 1995
+| ''Long Gone to the Yukon''
+| style="text-align:center;"| 5
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| 1999
+| ''Move Along with Stompin' Tom''
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| 2000
+| ''The Confederation Bridge''<sup>D</sup>
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| 2002
+| ''An Ode for the Road''
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| 2004
+| ''Stompin' Tom and the Hockey Mom Tribute''
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| 2008
+| ''The Ballad of Stompin Tom''
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| 2012
+| ''Stompin' Tom and the Road's Of Life''
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| rowspan="2"| 2014
+| ''Unreleased Songs From The Vault Collection-Vol. 1''
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| ''Live Concert Soundtrack''
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| 2017
+| ''Stompin' Tom Connors''
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| 2018
+| ''Unreleased Songs From The Vault Collection (Vol. 3)''
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| 2021
+| ''Unreleased Songs From The Vault Collection Volume. 4: Let's Smile Again''
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|}
+
+;Notes
+*<sup>A</sup>Re-released on A-C-T Records in the mid-1980s as "Northland Zone" due to a printing error
+*<sup>B</sup>Later released as "Stompin' Tom and the Moon-Man Newfie" in 1973
+*<sup>C</sup>Contains four Stompin' Tom songs plus an intro and final message to support Canadian talent. Otherwise, this is an album which also features other Canadian country musicians: Wayne Chapman, Cliff Evans, Donna Lambert, Bruce Caves, Art Hawes, Kent Brockwell
+*<sup>D</sup>A five-song EP containing The Confederation Bridge, My Home Cradled Out In The Waves, Bud the Spud, Skinner's Pond Teapot, J.R.'s Bar – basically PEI songs.
+
+===Compilations===
+{| class="wikitable"
+|-
+! Year
+! Album
+! style="width:45px;"| <small>CAN Country</small>
+! CRIA
+|-
+| ''The Best of Stompin' Tom Connors''
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| ''Pistol Packin' Mama''
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| ''Bringing Them Back''
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| 1973
+| ''Across This Land''<sup>C</sup>
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| 1980
+| ''Souvenirs''
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| 1990
+| ''A Proud Canadian''
+| style="text-align:center;"| —
+| style="text-align:center;"| Platinum
+|-
+| 1991
+| ''Once Upon a Stompin' Tom''
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| 1993
+| ''K.I.C. Along with Stompin' Tom''
+| style="text-align:center;"| 26
+| style="text-align:center;"| —
+|-
+| 1998
+| ''25 of the Best Stompin' Tom Souvenirs''
+| style="text-align:center;"| 12
+| style="text-align:center;"| Platinum
+|-
+| 2001
+| ''Sings Canadian History''
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| 2006
+| ''Live Concert'' <small>(DVD)</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| 2× Platinum
+|-
+| 2014
+| ''Unreleased Songs from the Vault''<sup>D</sup>
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|}
+;Notes
+*<sup>A</sup>This is a Five Record box set that has never been re-released
+*<sup>B</sup>This is another Five Record box set that has never been re-released
+*<sup>C</sup>Original Soundtrack recording (at the Horseshoe Tavern) for "Across This Land with Stompin' Tom". Also features Bobby Lalonde, Joey Tardif, Chris Scott, Kent Brockwell, Sharon Lowness and The Rovin' Cowboys plus a separately recorded "Tribute To Stompin' Tom" by Fred Dixon. This 'double-album' has never been re-released.
+*<sup>D</sup>First of four volumes (to date) compiling demos, unreleased studio recordings and (despite the title of the series) previously released tracks. Vol. 2 (2015); Vol. 3 (2018); Vol. 4: Let's Smile Again (2021).
+
+===Singles===
+{| class="wikitable"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="2"| Chart Positions
+! rowspan="2"| Album
+|-
+! style="width:50px;"| <small>CAN Country</small>
+! style="width:50px;"| <small>CAN AC</small>
+|-
+| 1969
+| "[[Bud the Spud]]"
+| style="text-align:center;"| 26
+| style="text-align:center;"| —
+| "Bud the Spud and Other Favourites"
+|-
+| rowspan="3"| 1970
+| "[[Big Joe Mufferaw (song)|Big Joe Mufferaw]]"
+| style="text-align:center;"| 1
+| style="text-align:center;"| —
+| "Stompin' Tom Meets Big Joe Mufferaw"
+|-
+| "[[Ketchup Song (Stompin' Tom Connors song)|Ketchup Song]]"
+| style="text-align:center;"| 1
+| style="text-align:center;"| —
+| rowspan="2"| "Bud the Spud and Other Favourites"
+|-
+| "Luke's Guitar"
+| style="text-align:center;"| 2
+| style="text-align:center;"| —
+|-
+| rowspan="5"| 1971
+| "Snowmobile Song"
+| style="text-align:center;"| 40
+| style="text-align:center;"| —
+| rowspan="5"| "My Stompin' Grounds"
+|-
+| "The Bridge Came Tumbling Down"
+| style="text-align:center;"| 2
+| style="text-align:center;"| —
+|-
+| "Tillsonburg"
+| style="text-align:center;"| 12
+| style="text-align:center;"| —
+|-
+| "My Stompin' Grounds"
+| style="text-align:center;"| 31
+| style="text-align:center;"| —
+|-
+| "Name the Capital"
+| style="text-align:center;"| 34
+| style="text-align:center;"| —
+|-
+| rowspan="3"| 1972
+| "[[Moon-Man Newfie]]"
+| style="text-align:center;"| 1
+| style="text-align:center;"| —
+| rowspan="3"| "Love & Laughter"
+|-
+| "The Bug Song"
+| style="text-align:center;"| 9
+| style="text-align:center;"| 18
+|-
+| "Fire in the Mine"
+| style="text-align:center;"| 24
+| style="text-align:center;"| —
+|-
+| rowspan="5"| 1973
+| "The Consumer"
+| style="text-align:center;"| 59
+| style="text-align:center;"| —
+| "Stompin' Tom and the Hockey Song"
+|-
+| "Martin Hartwell Story"
+| style="text-align:center;"| 30
+| style="text-align:center;"| —
+| "To It and at It"
+|-
+| "Poor Poor Farmer"
+| style="text-align:center;"| 68
+| style="text-align:center;"| —
+| rowspan="2"| "Stompin' Tom Meets Big Joe Mufferaw"
+|-
+| "Algoma Central No. 69"
+| style="text-align:center;"| 67
+| style="text-align:center;"| —
+|-
+| "[[Don Messer]] Story"
+| style="text-align:center;"| 40
+| style="text-align:center;"| —
+| rowspan="2"| "To It and at It"
+|-
+| rowspan="2"| 1974
+| "To It and at It"
+| style="text-align:center;"| 42
+| style="text-align:center;"| —
+|-
+| "Streaker's Dream"
+| style="text-align:center;"| 34
+| style="text-align:center;"| —
+| "Stompin' Tom Meets Muk Tuk Annie"
+|-
+| 1975
+| "Jack of Many Trades"
+| style="text-align:center;"| 24
+| style="text-align:center;"| —
+| "The North Atlantic Squadron"
+|-
+| rowspan="2"| 1989
+| "Canada Day, Up Canada Way"
+| style="text-align:center;"| 29
+| style="text-align:center;"| —
+| rowspan="2"| "Fiddle and Song"
+|-
+| "I Am the Wind"
+| style="text-align:center;"| 40
+| style="text-align:center;"| —
+|-
+| 1997
+| "The Confederation Bridge"
+| style="text-align:center;"| 79
+| style="text-align:center;"| —
+| "The Confederation Bridge"
+|}
+
+===Other charted songs===
+{| class="wikitable"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="1"| Chart Positions
+|-
+! style="width:50px;"| <small>[[Canadian Hot 100|CAN]]</small>
+|-
+| 2013
+| ''[[The Hockey Song]]''
+| style="text-align:center;"| 29
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;"| Video
+|-
+| 1989
+! scope="row"| "I Am the Wind"
+|-
+| 1991
+! scope="row"| "Margo's Cargo"
+|}
+
+==Bibliography==
+* {{cite book | first = Stompin' Tom | last = Connors |others = illustrations by [[Kurt Swinghammer]]| title = My Stompin' Grounds | location = Toronto | publisher = Doubleday Canada | year = 1992 | pages = 32 | isbn = 0-38525406-7}}
+* {{cite book | first = Stompin' Tom | last = Connors |others = illustrations by Brenda Jones| title = Bud the Spud | location = Charlottetown | publisher = Ragweed | year = 1994 | pages = 20 | isbn = 0-92155643-8}}
+* {{cite book | first = Tom | last = Connors | title = Stompin' Tom – Before the Fame | location = Toronto | publisher = Viking Penguin | year = 1995 | pages = 560 | isbn = 0-670-86487-0 |ref={{harvid|Stompin' Tom|1995}}}}
+* {{cite book | first = Tom | last = Connors | title = Stompin' Tom and the Connors Tone | location = Toronto | publisher = Viking Penguin | year = 2000 | pages = 680 | isbn = 0-670-86488-9 |ref={{harvid|Stompin' Tom|2000}}}}
+* {{cite book | first = Stompin' Tom | last = Connors | title = 250 Songs by Stompin' Tom: Including All the Words and Chords | location = Georgetown | publisher = Crown-Vetch Music| year = 2005 | pages = 183 | isbn = 0-97381710-0}}
+* {{cite book | first = Stompin' Tom | last = Connors |others = illustrations by Brenda Jones| title = Hockey Night Tonight | location = Halifax | publisher = Nimbus | year = 2009 | pages = 24 | isbn = 978-1-55109733-6}}
+
+==Filmography==
+
+* ''[[This Is Stompin' Tom]]'' (1972)
+* ''Across This Land with Stompin' Tom Connors'' (1973)<ref>https://www.stompintom.com/index.php/film-tv/</ref>
+* ''Catch The Sun'' (1973) - Short film<ref>https://www.imdb.com/title/tt0069856/</ref>
+* ''Stompin' Tom's Canada'' (1974–1975) – TV series<ref>https://www.stompintom.com/index.php/film-tv/</ref>
+* ''Stompin' Tom in Live Concert'' (2006) TV Special / DVD Release<ref>https://www.discogs.com/master/1976677-Stompin-Tom-Stompin-Tom-in-Live-Concert</ref>
+
+==Other creations==
+In 1976, Connors created and sold a [[perpetual calendar]] that cross-references dates to days of the week, which is valid for all years from 1 to 3100 [[AD]].<ref>{{Cite web|title = Stompin' Tom's 3000 Year Calendar (advertisement)|url = http://news.haltonhills.halinet.on.ca/2314225/page/15?n=15|publisher = The Acton Free Press|date = September 3, 1980|page = 15|access-date = March 8, 2013}}</ref> It was released to ''Harrowsmith's Truly Canadian Almanac'' in 2012.<ref>{{Cite web|title = Stompin' Tom Connors' 3000-year Calendar|url = http://harrowsmithalmanac.com/2012/07/30/stompin-tom-connors-3000-year-calendar/|publisher = Harrowsmith's Truly Canadian Almanac|date = July 30, 2012|access-date = March 8, 2013|url-status = dead|archive-url = https://web.archive.org/web/20131113221231/http://harrowsmithalmanac.com/2012/07/30/stompin-tom-connors-3000-year-calendar/|archive-date = November 13, 2013|df = mdy-all}}</ref>
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* {{Official website|http://www.stompintom.com/}}
+* [http://www.billwrigley.com/m_12.html Giant mural design of Stompin' Tom Connors promoting his "A Proud Canadian" CD Release, 1990]
+* [http://www.nfb.ca/film/Moon_Man/ Watch ''Moon Man'',  a National Film Board of Canada animated short featuring the song "Moon Man Newfie"]
+* {{Find a Grave|106341169}}
+* [http://acrossthislandwith.wix.com/stompintomconnors Across This Land with Stompin' Tom Connors Fan Tribute]
+* {{LCAuth|n96026346|Stompin' Tom Connors|5|ue}}
+* [https://web.archive.org/web/*/http://www.backtothesugarcamp.com/dec19-12Tom.mp3 Stompin' Tom Connors last interview, December 2012], at Back to the Sugar Camp
+* {{Discogs artist|Tom Connors (3)}} as "Tom Connors"
+* {{Discogs artist|Stompin' Tom Connors}} as "Stompin' Tom Connors"
+* {{IMDb name|0175544}}
+* [https://canadianbands.com/artists/tom-connors/ Article at canadianbands.com]
+* [https://www.thecanadianencyclopedia.ca/en/article/stompin-tom-connors-emc Article at thecanadianencyclopedia.ca]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Connors, Stompin Tom}}
+[[Category:1936 births]]
+[[Category:2013 deaths]]
+[[Category:20th-century Canadian male singers]]
+[[Category:20th-century Canadian singer-songwriters]]
+[[Category:21st-century Canadian male singers]]
+[[Category:21st-century Canadian singers]]
+[[Category:21st-century Canadian singer-songwriters]]
+[[Category:Canadian adoptees]]
+[[Category:Canadian country singer-songwriters]]
+[[Category:Canadian folk singer-songwriters]]
+[[Category:Canadian male singer-songwriters]]
+[[Category:Canadian people of American descent]]
+[[Category:Canadian people of French descent]]
+[[Category:Canadian people of Irish descent]]
+[[Category:Deaths from kidney failure in Canada]]
+[[Category:Governor General's Award winners]]
+[[Category:Juno Award winners]]
+[[Category:Singers from Ontario]]
+[[Category:Singers from Prince Edward Island]]
+[[Category:Musicians from Saint John, New Brunswick]]
+[[Category:Officers of the Order of Canada]]
+[[Category:People from Cochrane District]]
+[[Category:People from Prince County, Prince Edward Island]]
+[[Category:People from Wellington County, Ontario]]
+[[Category:Singers from New Brunswick]]
+[[Category:Yodelers]]

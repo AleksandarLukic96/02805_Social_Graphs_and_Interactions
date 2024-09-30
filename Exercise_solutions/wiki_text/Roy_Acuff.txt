@@ -1,0 +1,596 @@
+{{Short description|American country music singer and fiddler (1903–1992)}}
+{{Use mdy dates|date=May 2020}}
+{{Infobox musical artist  <!-- See Wikipedia:WikiProject Musicians -->
+| name             = Roy Acuff
+| image            = Roy Acuff 1950.JPG
+| caption          = Acuff in 1950
+| image_size       = <!-- Only for images narrower than 220 pixels -->
+| background       = solo_singer
+| birth_name       = Roy Claxton Acuff
+| alias            = King of Country Music<ref name=tehc />
+| birth_date       = {{birth date|1903|9|15|mf=y}}
+| death_date       = {{nowrap|{{death date and age|1992|11|23|1903|9|15}}}}
+| death_place      = [[Nashville, Tennessee]], U.S.
+| birth_place      = [[Maynardville, Tennessee]], U.S.
+| genre            = {{hlist|[[Country music|Country]]|[[Old-Time music|old-time]]|[[Folk music|folk]]|[[Gospel music|gospel]]|[[southern gospel]]}}
+| occupation       = Singer-songwriter
+| years_active     = 1932–1992
+| label            = {{hlist|[[Conqueror Records|Conqueror]]|[[Okeh Records|Okeh]]|[[Columbia Records|Columbia]]}}
+| website          = 
+| module           = 
+}}
+
+'''Roy Claxton Acuff''' (September 15, 1903 – November 23, 1992) was an American [[country music]] singer, fiddler, and promoter. Known as the "King of Country Music", Acuff is often credited with moving the genre from its early [[string band]] and "hoedown" format to the singer-based format that helped make it internationally successful. In 1952, [[Hank Williams]] told Ralph Gleason, "He's the biggest singer this music ever knew. You booked him and you didn't worry about crowds. For drawing power in the [[Southern United States|South]], it was Roy Acuff, then God."<ref>Escott, Colin (2004). ''Hank Williams: The Biography''. Back Bay Books. p. 22.</ref>
+
+Acuff began his music career in the 1930s and gained regional fame as the singer and fiddler for his group, the Smoky Mountain Boys. He joined the [[Grand Ole Opry]] in 1938, and although his popularity as a musician waned in the late 1940s, he remained one of the Opry's key figures and promoters for nearly four decades. In 1942, Acuff and [[Fred Rose (songwriter)|Fred Rose]] founded [[Acuff-Rose Music]], the first major [[Nashville, Tennessee|Nashville]]-based country music publishing company, which signed such artists as [[Hank Williams]], [[Roy Orbison]], and the [[Everly Brothers]]. In 1962, Acuff became the first living inductee into the [[Country Music Hall of Fame and Museum|Country Music Hall of Fame]].<ref name=rumble>Rumble, John (1998). "Roy Acuff". ''The Encyclopedia of Country Music: The Ultimate Guide to the Music''. New York: Oxford University Press. pp.&nbsp;4–5.</ref>
+
+==Early life==
+[[File:Maynardville-acuff-marker-tn2.jpg|right|200px|thumb|Historical marker along Maynardville Highway (TN-33) in Maynardville, Tennessee, near where Acuff was born]]
+Acuff was born on September 15, 1903<ref name="Who's Who">{{cite book|title=Who Was Who in America, with World Notables, v. 10: 1989–1993|year=1993|publisher=Marquis Who's Who |location=New Providence, N.J.|isbn=0-8379-0220-7|page=2|chapter=Acuff, Roy Claxton}}</ref> in [[Maynardville, Tennessee]],<ref name="Harvard Bio">{{cite book|editor-last=Randel|editor-first=Don Michael|title=The Harvard Biographical Dictionary of Music|year=1996|publisher=Belknap Press of Harvard University Press|location=Cambridge, Mass.|isbn=0-674-37299-9|page=[https://archive.org/details/harvardbiographi00rand/page/3 3]|chapter=Acuff, Roy (Claxton)|chapter-url-access=registration|chapter-url=https://archive.org/details/harvardbiographi00rand/page/3}}</ref> to Ida Florence (née Carr) and Simon E. Neill Acuff, the third of their five children. Acuff was of English ancestry, and his ancestors came to North America during the [[Thirteen Colonies|colonial era]], settling in the mountains of [[Virginia]] and [[the Carolinas]].<ref>{{Cite book|url=https://books.google.com/books?id=I7NYutp7s-oC&q=%22After+several+hundred+years+of+living+in+England+the+Acuffs+emigrated+to+the+New+World+and+settled+in+the+mountains+of+Virginia+and+the+Carolinas.%22&pg=PA3|title=Roy Acuff, the Smoky Mountain Boy|year=1978|page=3|publisher=Pelican Publishing|isbn=9781455611522|via=Google Books}}</ref><ref>Roy Acuff, the Smoky Mountain Boy by Pelican Publishing, pg. 3</ref> The Acuffs were a fairly prominent family in [[Union County, Tennessee|Union County]]. Roy's paternal grandfather, Coram Acuff, had been a [[Tennessee Senate|Tennessee state senator]], and his maternal grandfather was a local physician. Roy's father was an accomplished fiddler and a [[Baptist]] preacher, his mother was proficient on the piano, and during Roy's early years the Acuff house was a popular place for local gatherings. At such gatherings, Roy would often amuse people by balancing farm tools on his chin. He also learned to play the harmonica and [[Jew's harp|jaw harp]] at an early age.<ref name=larkin>Larkin, Colin, ed. (2006). "Roy Acuff." ''The Encyclopedia of Popular Music, Vol. 1''. New York: Oxford University Press. pp.&nbsp;38–39.</ref><ref name=goo />
+
+In 1919, the Acuff family relocated to [[Fountain City, Tennessee|Fountain City]] (now a suburb of [[Knoxville, Tennessee|Knoxville]]), a few miles south of Maynardville.<ref name=larkin /> Roy attended [[Central High School (Knoxville, Tennessee)|Central High School]], where he sang in the school chapel's choir and performed in "every play they had."<ref name=wolfe1>Green, Doug; Wolfe, Charles, eds. "[http://www.lynnpoint.com/st_james/oldtimemusic_knoxville.pdf Roy Acuff Recalls His Early Days in Knoxville] {{webarchive|url=https://web.archive.org/web/20130607103019/http://www.lynnpoint.com/st_james/oldtimemusic_knoxville.pdf |date=2013-06-07 }}." ''Old Time Music'', vol. 12 (Spring 1974), p. 21. Large PDF file.</ref> His primary passion, however, was athletics. He was a three-sport standout at Central, and after graduating in 1925, was offered a scholarship to [[Carson-Newman University]], but turned it down. He played with several small baseball clubs around Knoxville, worked at odd jobs, and occasionally boxed.<ref name=rumble />
+
+In 1929, Acuff tried out for the [[Tennessee Smokies|Knoxville Smokies]], a minor-league baseball team then affiliated with the [[History of the New York Giants (baseball)|New York Giants]].<ref name=goo>Hurst, Jack (1975). ''Nashville's Grand Ole Opry''. New York: H. N. Abrams. pp. 27–28, 37, 108–111, 119–122, 138–139, 303.</ref><ref name=wolfe1 /> A series of collapses in spring training following a sunstroke, however, ended his baseball career. The effects left him ill for several years, and he suffered a [[nervous breakdown]] in 1930.<ref name=larkin /> "I couldn't stand any sunshine at all," he later recalled.<ref name=wolfe1 /> While recovering, Acuff began to hone his fiddle skills, often playing on the family's front porch after the sun went down. His father gave him several records of regionally renowned fiddlers, such as [[Fiddlin' John Carson]] and [[Gid Tanner]], which were important influences on his early style.<ref name=wolfe1 />
+
+== Career ==
+
+===Early music career===
+In 1932, Dr. Hauer's [[medicine show]], which toured the southern Appalachian region, hired Acuff as one of its entertainers.<ref name=larkin /> Acuff began his career as a [[blackface]] performer.<ref>{{cite book |last1=Cockrell |first1=Dale |title=The Encyclopedia of Country Music: The Ultimate Guide to the Music |date=1988 |publisher=Oxford University Press |location=New York |isbn=978-0195395631 |page=38 |chapter-url=https://books.google.com/books?id=tLZz02EzmBYC&q=%22roy+acuff%22+blackface&pg=PA38 |access-date=26 June 2020 |chapter=Blackface Minstrelsy}}</ref><ref>{{cite book |last1=Pickering |first1=Michael |title=Blackface Minstrelsy in Britain |date=2016 |publisher=Ashgate Popular and Folk Music Series |isbn=978-1138265363 |page=216 |url=https://books.google.com/books?id=ETorDwAAQBAJ&q=%22roy+acuff%22+blackface&pg=PA216 |access-date=26 June 2020}}</ref> The purpose of the entertainers was to draw a large crowd to whom Hauer could sell [[patent medicine]]s (of suspect quality) for various ailments.<ref name=goo /> While on the medicine show circuit, Acuff met the legendary Appalachian banjoist [[Clarence Ashley]], from whom he learned "[[The House of the Rising Sun]]" and "Greenback Dollar", both of which Acuff later recorded.<ref>Wilson, Joe (2001). "Tom Ashley." CD liner notes for ''Greenback Dollar: The Music of Clarence "Tom" Ashley''. [[County Records]].</ref> As the medicine show lacked microphones, Acuff learned to sing loud enough to be heard above the din, a skill that later helped him stand out on early radio broadcasts.<ref name=goo />
+
+In 1934, Acuff left the medicine show circuit and began playing at local shows with various musicians in the Knoxville area, where he had become a celebrity and fixture in local newspaper columns.<ref>Jack Neely, "[http://www.knoxmercury.com/2016/05/25/paper-pixels-project-reveals-surprising-nuggets-local-history/ 'Papers to Pixels Project' Reveals Surprising Nuggets of Local History]". ''Knoxville Mercury'', May 25, 2016.</ref> That year, guitarist Jess Easterday and [[Lap steel guitar|Hawaiian guitar]]ist Clell Summey joined Acuff to form the Tennessee Crackerjacks, who performed regularly on the Knoxville radio stations [[WRJZ|WROL]] and [[WNOX]] (the band moved back and forth between stations as Acuff bickered with their managers about compensation).<ref name=larkin /> Within a year, the group had added bassist Red Jones and changed its name to the Crazy Tennesseans after being introduced as such by a WROL announcer named Alan Stout.<ref name=wolfe1 /> Fans often remarked to Acuff how "clear" his voice was coming through over the radio, important in an era when singers were often drowned out by string-band cacophony.<ref name=goo /> The popularity of Acuff's rendering of the song "[[The Great Speckled Bird (song)|The Great Speckled Bird]]" helped the group land a contract with [[American Record Corporation]], (ARC) for which they recorded several dozen tracks (including the band's best-known track, "[[Wabash Cannonball]]") in 1936.<ref name=goo/> Needing to complete a 20-song commitment, the band recorded two ribald tunes—including "[[When Lulu's Gone]]"—but released them under a pseudonym, the Bang Boys.<ref>Schlappi, Elizabeth. ''Roy Acuff, the Smoky Mountain Boy''. [https://books.google.com/books?id=I7NYutp7s-oC&pg=PA28 p. 28]. 1997 reprint of Pelican Publishing ([[Gretna, Louisiana]]), 1978.</ref> The group split from ARC in 1937 over a separate contract dispute.<ref name=goo />
+
+===Grand Ole Opry===
+In 1938, the Crazy Tennesseans moved to Nashville to audition for the Grand Ole Opry. Although their first audition went poorly, the band's second audition impressed Opry founder [[George D. Hay]] and producer Harry Stone, and they offered the group a contract later that year. On Hay and Stone's suggestion, Acuff changed the group's name to the Smoky Mountain Boys, referring to the [[Great Smoky Mountains|mountains near where his bandmates and he grew up]].<ref name=goo /> Shortly after the band joined the Opry, Clell Summey left the group and was replaced by [[Fiddle]] player Beecher (Pete) Kirby—best known by his stage name [[Bashful Brother Oswald]]—whom Acuff had met in a Knoxville bakery earlier that year.<ref name=goo /> Acuff's powerful lead vocals and Kirby's dobro playing and high-pitched backing vocals gave the band its distinctive sound. By 1939, Jess Easterday had switched to bass to replace Red Jones, and Acuff had added guitarist Lonnie "Pap" Wilson and banjoist Rachel Veach to fill out the band's lineup. Within a year, Roy Acuff and the Smoky Mountain Boys rivaled long-time Opry banjoist [[Uncle Dave Macon]] as the troupe's most popular act.<ref name=goo />
+In the same period, he was initiated to the [[Masonic Lodge]] of East Nashville No. 560.<ref>{{cite web | url = http://freemasonry.bcy.ca/textfiles/famous.html | title = List of famous freemasons | website = freemasonry.bcy.ca | access-date = September 30, 2018 | language = en | archive-url = https://web.archive.org/web/20011004153632/http://freemasonry.bcy.ca/textfiles/famous.html | quotation = East Nashville No. 560, TN [19]| archive-date = October 4, 2001 | url-status = live}}</ref><ref name ="stjohnslodgedc.org" /><ref>{{cite book | author1 = al Manhal | url = https://books.google.com/books?id=Qc5aDwAAQBAJ&q=%22Lodge+No.+560+Nashville+TN.+%22%2BAcuff%2BRoy&pg=PA231 | title = Initiation in Freemasonry | language = ar | year = 2009 | access-date = September 30, 2018 | page = 231 | publisher=Al Manhal |isbn = 9796500150710}}</ref>
+
+In spring 1940, Acuff and his band traveled to Hollywood, where they appeared with Hay and Macon in the motion picture ''Grand Ole Opry''. Acuff appeared in several subsequent B movies, including ''[[O, My Darling Clementine]]'' (1943), in which he played a [[singing cowboy|singing sheriff]]; ''[[Night Train to Memphis]]'' (1946), the title of which comes from a song Acuff recorded in 1940; and ''Home in San Antone'' (1949), in which he starred with [[Lloyd Corrigan]] and [[William Frawley]].
+
+Acuff and his band also joined Macon and other Opry acts at various tent shows held throughout the Southeast in the early 1940s. The crowds at these shows were so large that roads leading into the venues were jammed with traffic for miles.<ref name=goo /> Starting in 1939, Acuff hosted the Opry's ''Prince Albert'' segment. He left the show in 1946 after a dispute with management.<ref name=tehc>Cusic, Don (2009)."[http://tennesseeencyclopedia.net/entry.php?rec=3 Roy C. Acuff]." ''Tennessee Encyclopedia of History and Culture''. Retrieved February 11, 2013.</ref>
+
+===Acuff-Rose===
+In 1942, Acuff and songwriter [[Fred Rose (songwriter)|Fred Rose]] (1897–1954) formed Acuff-Rose Music. Acuff originally sought the company to publish his own music, but soon realized that demand from other country artists existed, many of whom had been exploited by larger publishing firms.<ref name=escott>[[Colin Escott]], "Roy Acuff." In ''The Essential Roy Acuff: 1936–1949'' [CD liner notes]. Sony Music Entertainment, 1992.</ref> Due in large part to Rose's [[ASCAP]] connections and gifted ability as a talent scout, Acuff-Rose quickly became the most important publishing company in country music. In 1946, the company signed [[Hank Williams]], and in 1950, published their first major hit, [[Patti Page]]'s rendition of "[[Tennessee Waltz]]".<ref>Don Cusic, "[http://tennesseeencyclopedia.net/entry.php?rec=4 Acuff-Rose]. ''Tennessee Encyclopedia of History and Culture'', 2009. Retrieved: February 11, 2013.</ref>
+[[File:Acuff-Pearl Statue.JPG|thumb|right|A life-sized statue of Acuff sits on a pew alongside a statue of [[Minnie Pearl]] in the lobby of [[Ryman Auditorium]].]]
+
+===Political ambitions===
+In 1943, Acuff was initiated into the East Nashville Freemasonic Lodge in Tennessee, of which he would remain a lifelong member.<ref>{{cite web|last=Research|first=Masonic|title=Famous Freemasons|url=http://www.pinallodge30.com/famousmasons.aspx|publisher=Pinal Lodge No. 30|access-date=July 28, 2012|url-status=dead|archive-url=https://web.archive.org/web/20111224182230/http://www.pinallodge30.com/famousmasons.aspx|archive-date=December 24, 2011}}</ref><ref name ="stjohnslodgedc.org">{{cite web | url = http://www.stjohnslodgedc.org/famous-masons | title = Famous Freemasons in the course of history | language = en | website = stjohnslodgedc.org | access-date = September 30, 2018 | archive-url = https://web.archive.org/web/20151116030150/http://www.stjohnslodgedc.org/famous-masons | archive-date = November 16, 2015 | url-status = live}}</ref> Later that same year, Acuff invited Tennessee Governor [[Prentice Cooper]] to be the guest of honor at a gala held to mark the nationwide premiere of the Opry's ''Prince Albert'' show. Cooper rejected the offer, however, and lambasted Acuff and his "disgraceful" music for making Tennessee the "hillbilly capital of the United States."<ref name=escott /> A Nashville journalist reported the governor's comments to Acuff and suggested Acuff run for governor himself. While Acuff initially did not take the suggestion seriously, he did accept the [[Republican Party (United States)|Republican Party]] nomination for governor in [[1948 Tennessee gubernatorial election|1948]].<ref name=goo /><ref name=escott />
+
+Acuff's nomination caused great concern for [[E. H. Crump]], the head of a [[Memphis, Tennessee|Memphis]] [[Democratic Party (United States)|Democratic Party]] political machine that had dominated Tennessee state politics for nearly a quarter-century. Crump was not worried so much about losing the governor's office—in spite of Acuff's name recognition—but did worry that Acuff would draw large crowds to Republican rallies and bolster other statewide candidates. While Acuff did relatively well and helped reinvigorate Tennessee's Republicans, his opponent, [[Gordon Browning]], still won with 67% of the vote.<ref>Paul Bergeron, et al. ''Tennesseans and Their History'' (Knoxville, Tenn.: University of Tennessee Press, 1999), p. 288.</ref><ref name=faber>Charles Faber. "Roy Acuff." ''Encyclopedia of Appalachia'' (Knoxville, Tenn.: University of Tennessee Press, 2006), p. 1116.</ref>
+
+===Later career===
+After leaving the Opry, Acuff spent several years touring the Western United States, although demand for his appearances dwindled with the lack of national exposure and the rise of musicians such as [[Ernest Tubb]] and [[Eddy Arnold]], who were more popular with younger audiences.<ref name=rumble /> He eventually returned to the Opry, although by the 1960s, his record sales had dropped off considerably. After nearly losing his life in an automobile accident outside of [[Sparta, Tennessee]], in 1965, Acuff pondered retiring, making only token appearances on the Opry stage and similar shows,<ref name=goo /> and occasionally performing duos with long-time bandmate Bashful Brother Oswald.
+
+In 1972, Acuff's career received a brief resurgence in the folk-revival movement after he appeared on the [[Nitty Gritty Dirt Band]] album, ''[[Will the Circle be Unbroken (Nitty Gritty Dirt Band album)|Will the Circle Be Unbroken]]''.<ref name=faber /> The appearance paved the way for one of the defining moments of Acuff's career, which came on the night of March 16, 1974, when the Opry officially moved from the [[Ryman Auditorium]] to the Grand Ole Opry House at [[Opryland USA|Opryland]]. The first show at the new venue opened with a huge projection of a late-1930s image of Roy Acuff and the Smoky Mountain Boys onto a large screen above the stage. A recording from one of the band's 1939 appearances was played over the sound system, with the iconic voice of George Hay introducing the band, followed by the band's performance of "Wabash Cannonball". That same night, Acuff showed President [[Richard Nixon]], an honored guest at the event, how to [[yo-yo]], and convinced the president to play several songs on the piano.<ref name=goo />
+
+In the early 1980s, after the death of his wife, Mildred, Acuff, then in his 80s, moved into a small house on the Opryland grounds and continued performing daily on stage. He arrived early most days at the Opry before the shows and performed odd jobs, such as stocking soda in backstage refrigerators. He made a [[cameo appearance]] in the music video for [[Moe Bandy]] and [[Joe Stampley]]'s 1984 parody [[hit song]] "Where's The Dress?"<ref>[https://books.google.com/books?id=5yMEAAAAMBAJ&dq=roy+acuff+where%27s+the+dress+moe+and+joe&pg=PT114 Roblin, Andrew. "'Video City' Woos Film Industry," ''Billboard'', March 30, 1985.] Retrieved September 16, 2019</ref> In 1988, he received the Golden Plate Award of the [[Academy of Achievement|American Academy of Achievement]].<ref>{{cite web|title= Golden Plate Awardees of the American Academy of Achievement |website=www.achievement.org|publisher=[[American Academy of Achievement]]|url= https://achievement.org/our-history/golden-plate-awards/}}</ref> In 1991, he was awarded the [[National Medal of Arts]],<ref>[http://www.nea.gov/honors/medals/medalists_year.html#91 Lifetime Honors – National Medal of Arts] {{webarchive|url=https://web.archive.org/web/20110721054307/http://www.nea.gov/honors/medals/medalists_year.html |date=July 21, 2011 }}. Retrieved: February 15, 2010.</ref> and given a lifetime achievement award by the [[John F. Kennedy Center for the Performing Arts]], the first country music act to receive the esteemed honor.
+
+==Death==
+
+Roy Acuff died at the Baptist Hospital in Nashville on November 23, 1992, of [[congestive heart failure]] at the age of 89.<ref name=tehc /> He is buried in the Hillcrest section (grave 6, lot 9) of [[Spring Hill Cemetery (Nashville, Tennessee)|Spring Hill Cemetery]] on Gallatin Road in Nashville.<ref>Resting Places: The Burial Places of 14,000 Famous Persons, by Scott Wilson</ref>
+
+==Repertoire and legacy==
+{{quote box|quoted=1|quote=Not unlike [[the Kingston Trio]], the Smoky Mountain Boys were folkie populizers who turned sentimental expression into sentimental entertainment.|source=— ''[[Christgau's Record Guide: The '80s|Christgau's Record Guide]]'' (1990)<ref name="Christgau">{{cite book|last=Christgau|first=Robert|author-link=Robert Christgau|chapter-url=https://www.robertchristgau.com/get_chap.php?k=A&bk=80|chapter=A|access-date=August 16, 2020|title=[[Christgau's Record Guide: The '80s]]|publisher=[[Pantheon Books]]|year=1990|isbn=0-679-73015-X|via=robertchristgau.com}}</ref>|width=23%|align=right|style=padding:8px;}}
+
+Many of Acuff's songs show a strong Christian influence, most notably "Great Speckled Bird", "The Prodigal Son", and "Lord, Build Me a Cabin". Such songs were typically set to a traditional Anglo-Celtic melody, which is most apparent on "Great Speckled Bird" and the 1940 recording "The Precious Jewel". Acuff performed popular songs of the day, including [[Pee Wee King]]'s "Tennessee Waltz" and [[Dorsey Dixon]]'s "I Didn't Hear Nobody Pray", the latter of which he appropriated and renamed "[[Wreck on the Highway (1938 song)|Wreck on the Highway]]".<ref>{{YouTube|d43g8unp7Wk|"Wreck on the Highway, Dorsey Dixon, I Didnt Hear Nobody Pray"}}</ref> He also recorded a version of the [[Cajun]] fiddler [[Harry Choates]]'s "Jole Blon". Traditional recordings included "Greenback Dollar", which he probably learned from Clarence Ashley while on the medicine-show circuit, and "Lonesome Old River Blues", which he recorded with the Smoky Mountain Boys in the 1940s. Acuff and the Crazy Tennesseans recorded "Wabash Cannonball"—another traditional song—in 1936, although Acuff did not provide the vocals on this early recording. The better-known version of the song with Acuff providing the vocals was recorded in 1947.<ref name=escott />
+
+In 1979, Opryland opened the Roy Acuff Theatre, which was dedicated in Acuff's honor (it was demolished in 2011 after suffering extensive damage in the [[2010 Tennessee floods]]). [[Dunbar Cave State Park|Dunbar Cave State Natural Area]] was established in 1973 from a recreational area the state had purchased from Mrs. McKay King. The cave was owned by Acuff from 1948 to 1963.<ref>Van West, Carroll (2009). "[http://tennesseeencyclopedia.net/entry.php?rec=409 Dunbar Cave State Natural Area]." ''Tennessee Encyclopedia of History and Culture''. Retrieved: February 11, 2013.</ref> Two museums have been named in Acuff's honor—the Roy Acuff Museum at Opryland (now closed) and the Roy Acuff Union Museum and Library in his hometown of Maynardville. Acuff has a star on the [[Hollywood Walk of Fame]] located at 1541 Vine Street. He is pictured with other country singers at the new Smoky Mountain Opera in [[Pigeon Forge, Tennessee]].
+
+==Discography==
+
+===Albums===
+{| class="wikitable"
+|-
+! Year
+! Album
+! <small>[[Top Country Albums|US Country]]</small>
+! Label
+|-
+| 1949
+| ''Songs of the Smoky Mountains''
+| style="text-align:center;"| —
+| Columbia HL 9004
+|-
+| 1951
+| ''Old Time Barn Dance''
+| style="text-align:center;"| —
+| Columbia HL 9010
+|-
+| 1955
+| '' Songs of the Smoky Mountains''
+| style="text-align:center;"| —
+| Capitol T 617
+|-
+| rowspan="2"| 1958
+| '' The Great Speckled Bird''
+| style="text-align:center;"| —
+| Harmony HS 11289
+|-
+| ''Favorite Hymns''
+| style="text-align:center;"| —
+| MGM E 3707
+|-
+| 1959
+| ''Once More – It's Roy Acuff''
+| style="text-align:center;"| —
+| Hickory LPM 101
+|-
+| 1961
+| ''That Glory Bound Train''
+| style="text-align:center;"| —
+| Harmony HL 7294
+|-
+| rowspan="2"| 1962
+| ''Hymn Time''
+| style="text-align:center;"| —
+| MGM E 4044
+|-
+| '' King of Country Music''
+| style="text-align:center;"| —
+| Hickory LPS 109
+|-
+| rowspan="3"| 1963
+| ''Star of the Grand Ole Opry''
+| style="text-align:center;"| —
+| Hickory LPS 113
+|-
+| '' The World is His Stage''
+| style="text-align:center;"| —
+| Hickory LPS 114
+|-
+| ''American Folk Songs''
+| style="text-align:center;"| —
+| Hickory LPS 115
+|-
+| rowspan="3"| 1964
+| ''The Great Roy Acuff''
+| style="text-align:center;"| —
+| Capitol DT 2103
+|-
+| ''Hand Clapping Gospel Songs''
+| style="text-align:center;"| —
+| Hickory LPS 117
+|-
+| ''Country Music Hall of Fame''
+| style="text-align:center;"| —
+| Hickory LPS 119
+|-
+| rowspan="4"| 1965
+| ''The Great Roy Acuff''
+| style="text-align:center;"| —
+| Harmony HL 7342
+|-
+| ''The Voice of Country Music''
+| style="text-align:center;"| —
+| Capitol DT 2276
+|-
+| ''Sacred Songs''
+| style="text-align:center;"| —
+| Metro MS 508
+|-
+| ''Great Train Songs''
+| style="text-align:center;"| —
+| Hickory LPS 125
+|-
+| rowspan="3"| 1966
+| ''Waiting for My Call To Glory''
+| style="text-align:center;"| —
+| Harmony HL 7376
+|-
+| ''Sings Hank Williams''
+| style="text-align:center;"| —
+| Hickory LPS 134
+|-
+| '' Roy Acuff''
+| style="text-align:center;"| —
+| Hilltop JS 6028
+|-
+| 1967
+| ''Famous Opry Favorites''
+| style="text-align:center;"| —
+| Hickory LPS 139
+|-
+| 1968
+| ''A Living Legend''
+| style="text-align:center;"| —
+| Hickory LPS 145
+|-
+| 1969
+|''Treasury of Country Hits''
+| style="text-align:center;"| —
+| Hickory LPS 147
+|-
+| rowspan="4"| 1970
+| ''Greatest Hits''
+| style="text-align:center;"| —
+| Columbia CS 1034
+|-
+| ''Night Train to Memphis''
+| style="text-align:center;"| —
+| Harmony HS 11403
+|-
+| ''Time''
+| style="text-align:center;"| —
+| Hickory LPS 156
+|-
+| ''Country''
+| style="text-align:center;"| —
+| Hilltop JS 6090
+|-
+| 1971
+| ''I Saw the Light''
+| style="text-align:center;"| —
+| Hickory LPS 158
+|-
+| 1972
+| ''Why Is''
+| style="text-align:center;"| —
+| Hickory LPS 162
+|-
+| 1974
+| ''Back in the Country''
+| style="text-align:center;"| 44
+| Hickory/MGM H3F 4507
+|-
+| rowspan="3"| 1975
+| ''Smoky Mountain Memories''
+| style="text-align:center;"| —
+| Hickory MGM H3G 4517
+|-
+| ''That's Country''
+| style="text-align:center;"| —
+| Hickory MGM H3G 4521
+|-
+| ''Wabash Cannonball''
+| style="text-align:center;"| —
+| Hilltop JS 6162
+|-
+| 1978
+| ''Greatest Hits Vol. 1''
+| style="text-align:center;"| —
+| Elektra 9E 302
+|-
+| 1980
+| ''Greatest Hits Vol. 2''
+| style="text-align:center;"| —
+| Elektra 9E 303
+|-
+| 1982
+| ''Back in the Country''
+| style="text-align:center;"| 53
+| Elektra E1 60012
+|-
+| 1983
+| ''Roy Acuff''
+| style="text-align:center;"| —
+| Time Life
+|-
+| 1984
+| ''Steamboat Whistle Blues''
+| style="text-align:center;"| —
+| Rounder 23
+|-
+| rowspan="2"| 1985
+| ''Fly Birdie Fly''
+| style="text-align:center;"| —
+| Rounder 24
+|-
+| ''Roy Acuff''
+| style="text-align:center;"| —
+| Columbia 39998
+|-
+| 1987
+| ''All Time Favorites''
+| style="text-align:center;"| —
+| Opryland 101
+|-
+| 2007
+| ''Greatest Hits''
+| style="text-align:center;"| —
+| Curb D2-78980
+|}
+
+===Singles===
+{| class="wikitable"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="3"| Chart Positions
+! rowspan="2"| Album
+|-
+! style="width:45px;"| <small>[[Hot Country Songs|US Country]]</small>
+! style="width:45px;"| <small>[[Billboard Hot 100|US]]</small>
+! style="width:45px;"| <small>CAN Country</small>
+|-
+| rowspan="2"| 1938
+| "[[The Great Speckled Bird (song)|Great Speckled Bird]]"
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| rowspan="29"| singles only
+|-
+| "Steel Guitar Blues"
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| rowspan="2"| 1939
+| "[[You're the Only Star in My Blue Heaven]]"
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| "Smokey Mountain Rag"
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| rowspan="2"| 1940
+| "Streamlined Cannonball"
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| "Old Age Pension Check"
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| rowspan="2"| 1941
+| "The Precious Jewel"
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| "Worried Mind"
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| rowspan="2"| 1942
+| "It Won't Be Long (Till I'll Be Leavin'")
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| "Fireball Mail"
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| rowspan="2"| 1943
+| "[[Wreck on the Highway (1938 song)|Wreck on the Highway]]"
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| "Don't Make Me Go To Bed (And I'll Be Good)"
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| rowspan="4"| 1944
+| "Night Train to Memphis"
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| "The Prodigal Son"
+| style="text-align:center;"| 4
+| style="text-align:center;"| 13
+| style="text-align:center;"| —
+|-
+| "I'll Forgive You But I Can't Forget"
+| style="text-align:center;"| 3
+| style="text-align:center;"| 21
+| style="text-align:center;"| —
+|-
+| "Write Me Sweetheart"
+| style="text-align:center;"| 6
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| 1945
+| "We Live in Two Different Worlds"
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| rowspan="2"| 1946
+| "Glory Bound Train"
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| "[[Blue Eyes Crying in the Rain]]"
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| rowspan="3"| 1947
+| "[[Wabash Cannonball]]"
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| "Freight Train Blues"
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| "[[I Saw the Light (Hank Williams song)|I Saw the Light]]"
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+|
+| "Our Own (Jole Blon)"
+| style="text-align:center;"| 4
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| rowspan="4"| 1948
+| "The Waltz of the Wind"
+| style="text-align:center;"| 8
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| "Unloved and Unclaimed"
+| style="text-align:center;"| 14
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| "This World Can't Stand Long"
+| style="text-align:center;"| 12
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| "A Sinner's Death"
+| style="text-align:center;"| 14
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| rowspan="2"| 1949
+| "[[The Tennessee Waltz|Tennessee Waltz]]"
+| style="text-align:center;"| 12
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| "Black Mountain Rag"
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| 1958
+| "Once More"
+| style="text-align:center;"| 8
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| rowspan="3"| ''Once More – It's Roy Acuff''
+|-
+| rowspan="2"| 1959
+| "So Many Times"
+| style="text-align:center;"| 16
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| "Come and Knock (On the Door of My Heart)"
+| style="text-align:center;"| 20
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| 1965
+| "Freight Train Blues"
+| style="text-align:center;"| 45
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| single only
+|-
+| 1973
+| "Just a Friend"
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| 77
+| ''Smoky Mountain Memories''
+|-
+| rowspan="2"| 1974
+| "Back in the Country"
+| style="text-align:center;"| 51
+| style="text-align:center;"| —
+| style="text-align:center;"| 15
+| rowspan="2"| ''Back in the Country''
+|-
+| "Old Time Sunshine Song"
+| style="text-align:center;"| 97
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| 1989
+| "The Precious Jewel" <small>(w/ [[Charlie Louvin]])</small>
+| style="text-align:center;"| 87
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| single only
+|}
+
+===Guest singles===
+{| class="wikitable"
+|-
+! Year
+! Single
+! Artist
+! style="width:50px;"| <small>[[Hot Country Songs|US Country]]</small>
+! Album
+|-
+| 1971
+| "[[I Saw the Light (Hank Williams song)|I Saw the Light]]"
+| [[Nitty Gritty Dirt Band]]
+| style="text-align:center;"| 56
+| ''[[Will the Circle be Unbroken (Nitty Gritty Dirt Band album)|Will the Circle be Unbroken]]''
+|-
+| 1985
+| "One Big Family"
+| Heart of Nashville
+| style="text-align:center;"| 61
+| single only
+|}
+
+==References==
+{{reflist|30em}}
+
+==External links==
+{{Commons category-inline}}
+* [http://www.acuff.org/ Acuff-Ecoff Family Archives]
+* [http://www.who2.com/royacuff.html Biography at Who2]
+* [https://web.archive.org/web/20100606002138/http://www.countrymusichalloffame.org/full-list-of-inductees/view/roy-acuff Roy Acuff] in the [[Country Music Hall of Fame]]
+* {{HWOF|roy-acuff}}
+*[http://www.hillbilly-music.com/artists/story/index.php?id=10002 Roy Acuff at hillbilly–music.com]
+* {{IMDb name|0010334}}
+*{{Find a Grave|1435}}
+
+{{S-start}}
+{{s-ppo}}
+{{s-bef|before=[[William O. Lowe]]}}
+{{s-ttl|title=[[Republican Party (United States)|Republican]] nominee for [[Governor of Tennessee]]|years=[[1948 Tennessee gubernatorial election|1948]]}}
+{{s-vac|next=R. Beecher Witt}}
+{{s-end}}
+
+{{Navboxes
+| title = Awards for Roy Acuff
+| list =
+{{1960s Country Music Hall of Fame}}
+{{Kennedy Center Honorees 1990s}}
+{{National Medal of Arts recipients 1990s}}
+}}
+{{Grand Ole Opry members}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Acuff, Roy}}
+[[Category:1903 births]]
+[[Category:1992 deaths]]
+[[Category:People from Maynardville, Tennessee]]
+[[Category:American country singer-songwriters]]
+[[Category:American Freemasons]]
+[[Category:American male singer-songwriters]]
+[[Category:American music industry executives]]
+[[Category:American people of Scottish descent]]
+[[Category:Blackface minstrel performers]]
+[[Category:Country Music Hall of Fame inductees]]
+[[Category:Country musicians from Tennessee]]
+[[Category:Grand Ole Opry members]]
+[[Category:Grammy Lifetime Achievement Award winners]]
+[[Category:Hickory Records artists]]
+[[Category:Kennedy Center honorees]]
+[[Category:United States National Medal of Arts recipients]]
+[[Category:Vocalion Records artists]]
+[[Category:Members of the Country Music Association]]
+[[Category:Music of East Tennessee]]
+[[Category:Musicians from Appalachia]]
+[[Category:Okeh Records artists]]
+[[Category:Columbia Records artists]]
+[[Category:Tennessee Republicans]]
+[[Category:Burials in Tennessee]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:20th-century American businesspeople]]
+[[Category:American country fiddlers]]
+[[Category:Singer-songwriters from Tennessee]]
+[[Category:20th-century American male singers]]

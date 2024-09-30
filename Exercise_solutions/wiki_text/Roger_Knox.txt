@@ -1,0 +1,159 @@
+{{EngvarB|date=December 2017}}
+{{Use dmy dates|date=December 2017}}
+{{Infobox musical artist
+| name             = Roger Knox
+| image            =
+| image_size       =
+| landscape        = <!-- yes, if wide image, otherwise leave blank -->
+| alt              = Roger Knox (right) and Jon Langford (left), of the Mekons
+| caption          = Roger Knox (right) and Jon Langford (left)<br/>of the Mekons
+| native_name      =
+| native_name_lang =
+| birth_name       = <!-- only use if different from name -->
+| alias            =
+| birth_date       = {{birth year and age|1948}}<!-- {{Birth date and age|df=y|YYYY|MM|DD}} or {{Birth-date and age|birth date†}} -->
+| birth_place      = [[Moree, New South Wales]]<br/>Australia
+| origin           = [[Toomelah Aboriginal Mission]]
+| death_date       = <!-- {{death date and age|df=y|YYYY|MM|DD|YYYY|MM|DD}} (death date 1st) -->
+| death_place      =
+| genre            = [[Country music]]
+| occupation       = Singer-songwriter
+| instrument       = Vocals
+| years_active     = 1981–present
+| label            = [[Bloodshot Records]]<br/><small>(2013–present)</small><br/>Enrec Records
+| associated_acts  = Roger Knox and the<br/>Euraba Band
+| current_members  =
+| website          = <!-- {{URL|website.com}} -->
+}}
+
+'''Roger Knox''' (born 1948) is an Australian [[Australian country music|country singer]], nicknamed "the Black Elvis" and "Koori King of Country".
+
+== Early life and education==
+Knox was born in 1948<ref name=ChiTrib-Stranger-2013>{{cite news|last1=Dickinson|first1=Chrissie|title=To Roger Knox, the whole world is country|url=https://www.chicagotribune.com/2013/02/19/to-roger-knox-the-whole-world-is-country/|access-date=20 December 2014|work=[[Chicago Tribune]] |date=19 February 2013}}</ref><ref name=Australian-Survivor-2013>{{cite news |last1=Guilliatt |first1=Richard |title=Songlines of a survivor: Roger Knox|url=http://www.theaustralian.com.au/news/features/songlines-of-a-survivor-roger-knox/story-e6frg8h6-1226658460268?nk=99ea51c9b54ba94d692634e3e6f404d8|accessdate=20 December 2014|work=[[The Australian]]|date=8 June 2013}}</ref> in [[Moree, New South Wales]]. He is of the [[Gamilaroi]] nation, an [[Aboriginal Australian]] people. Knox grew up in the [[Toomelah Station|Toomelah Aboriginal Mission]] near [[Boggabilla]], which is near the border between [[New South Wales]] and [[Queensland]].<ref name=ABCRadio-AWAYE!-2003>{{cite web |last1=Browning|first1=Daniel|title=Roger Knox – Koori King of Country|url=http://www.abc.net.au/rn/awaye/stories/2003/858423.htm |website=AWAYE!|publisher=[[ABC Radio National]]|accessdate=20 December 2014| archiveurl=https://web.archive.org/web/20080531225401/http://abc.net.au/rn/awaye/stories/2003/858423.htm |archivedate=31 May 2008|date=23 May 2003}}</ref><ref name=GreenLeaf-WarriorinChains-Review-1993>{{cite news |last1=Kim |first1=Ignatius|title=Singing with something to say|url=http://www.greenleft.org.au/1993/103/6031 |accessdate=20 December 2014|work=[[Green Left Online]]|issue=103|date=9 June 1993 |archiveurl=https://web.archive.org/web/20080228232704/http://www.greenleft.org.au/1993/103/6031|archivedate=28 February 2008}}</ref> Knox comes from a family with 11 children.<ref name=Australian-Survivor-2013 /> His mother was a [[Stolen Generations|stolen child]], who was taken from her parents as a baby and raised in a children's home in [[Bomaderry]].<ref name=Australian-Survivor-2013 /> 
+
+Knox was not allowed to attend the high school in [[Goondiwindi]], but instead was sent by the mission to work without pay at one of their properties.<ref name=Australian-Survivor-2013 /> Knox has said that the first music he heard growing up was [[gospel music]], which his grandmother, who taught [[Sunday school]], played.<ref name=ABC-MessageStick-2010 /><ref name=ABC-RNDrive-Stranger-2013>{{cite news|last1=Morrow|first1=Julian|title=Roger Knox: Stranger in my Land (video)|url=http://www.abc.net.au/radionational/programs/drive/roger-knox3a-stranger-in-my-land/4626386|accessdate=20 December 2014|work=[[Australian Broadcasting Corporation|ABC]] RN (Radio National) Drive|date=12 April 2013|format=video performance and interview}}</ref>
+
+== Career ==
+Knox left the mission at 17 and moved to [[Tamworth, New South Wales|Tamworth]], where he became a singer.<ref name=ChiTrib-Stranger-2013 /> He started out in the 1980s as a gospel singer.<ref name=ABC-MessageStick-2010 /> He acquired the nickname "The Black Elvis" (for his hairstyle and manner of dress) at the [[Toyota Star Maker Quest|Star Maker]] talent contest when he was 31.<ref name=Australian-Survivor-2013 /> He was also later dubbed  "Koori King of Country".<ref name=AllMusic-Knox>{{cite web|last=Leggett |first=Steve |url=http://www.allmusic.com/artist/roger-knox-mn0001624726 |title=Roger Knox – Biography |publisher=[[AllMusic]] |date=12 February 2013 |accessdate=21 March 2013}}</ref>
+
+In 2007, Knox went public with claims that he couldn't get booked at Tamworth's annual festival, [[Tamworth Country Music Festival]], "because he attracted the wrong crowd".<ref name=SBS-Tamworth-2007>{{cite news |last1=Grant |first1=Karla |author-link= Karla Grant|title=Living Black: Series 7, Episode 4|url=http://news.sbs.com.au/livingblack/series_7_episode_4_131666|accessdate=20 December 2014|work=[[Special Broadcasting Service]]|date=28 March 2007 |archiveurl=https://web.archive.org/web/20090108122722/http://news.sbs.com.au/livingblack/series_7_episode_4_131666 |archivedate=8 January 2009|format=transcript}}</ref>
+
+=== Jon Langford and the Pine Valley Cosmonauts/''Buried Country'' ===
+On 12 February 2013, Knox along with the [[Pine Valley Cosmonauts]], released his first album in nine years, ''Stranger in My Land'' on [[Bloodshot Records]].<ref name=AllMusic-Stranger>{{cite web|last=Leggett |first=Steve |url=http://www.allmusic.com/album/stranger-in-my-land-mw0002471493 |title=Stranger in My Land – Roger Knox, The Pine Valley Cosmonauts |publisher=[[AllMusic]] |date=12 February 2013 |accessdate=21 March 2013}}</ref> The album was produced by [[Jon Langford]] and included guest contributions from [[Bonnie "Prince" Billy]], [[Charlie Louvin]], [[Dave Alvin]] ([[X (American band)|X]], [[The Blasters]]), [[Kelly Hogan]], Jon Langford, [[Andre Williams (musician)|Andre Williams]], the [[Sadies]], [[Sally Timms]] ([[Mekons]]), and [[Tawny Newsome]].<ref name=PRITheWorld-Stranger-2013>{{cite web|url=http://www.theworld.org/2013/02/aboriginal-roger-knox/ |title=Aboriginal Country Music from Roger Knox |last=Werman|first=Marco|work=[[PRI's The World]]|publisher=[[Public Radio International]]|format=audio interview |date=12 February 2013 |accessdate=21 March 2013}}</ref><ref name=NoDep-Spotlight-2013>{{cite news|title=Spotlighting Roger Knox: A week's worth of previews|url=http://nodepression.com/article/spotlighting-roger-knox-weeks-worth-previews|accessdate=20 December 2014|work=[[No Depression (magazine)|No Depression]]|date=31 January 2013}}</ref> The title of the record comes from a [[Vic Simms]] song.<ref name=DeadlyVibe-Studio-2013>{{cite news|title=In The Studio With Roger Knox|url=http://www.deadlyvibe.com.au/2013/05/in-the-studio-with-roger-knox/|accessdate=20 December 2014|work=Deadly Vibe|date=23 May 2013}}</ref> Jon Langford illustrated the booklet that accompanies the CD.<ref name=ChiTrib-Stranger-2013 />
+
+The material features covers of traditional and Aboriginal country songs.<ref name=ChiTrib-Stranger-2013 /> The record came about after Langford read about Knox in Australian author [[Clinton Walker]]'s book, ''[[Buried Country]],'' which chronicled Aboriginal country artists.<ref name=VerseChorusPress-BuriedCountry-2000>{{cite web|last1=Walker|first1=Clinton|title=The Man Who Would be King: Roger Knox|url=http://www.versechorus.com/buried-country_roger-knox.html|website=Verse Chorus Press|accessdate=20 December 2014|url-status=dead|archiveurl=https://web.archive.org/web/20141107175624/http://versechorus.com/buried-country_roger-knox.html|archivedate=7 November 2014|df=dmy-all}}</ref> When Langford visited Australia, he heard many of the recordings, then went to see Knox play at Tamworth's annual country music festival.<ref name=ChiTrib-Stranger-2013 />
+
+In 2009, Knox was scheduled to perform at the [[Old Town School of Folk Music]] (OTSFM) in [[Chicago, Illinois]], on 10 October 2009 with [[Jon Langford]] and the [[Pine Valley Cosmonauts]]. However, his US visa was denied a week before the show because the US immigration office stated he lacked cultural significance.<ref name=Australian-Survivor-2013 /> The Knox-Langford tour finally occurred in 2012, including performances at OTSFM and the [[Hardly Strictly Bluegrass]] festival in [[San Francisco, California]].<ref name=Australian-Survivor-2013/>
+
+In 2016, Knox joined the cast of the stage show adaptation of ''[[Buried Country]]'' itself, which played its premiere performance in Newcastle in August.{{citation needed|date=March 2019}}
+
+=== Musical style ===
+Describing his music, Knox says: "My music is basically country with an influence of aboriginal spirituality... I use all these (Aboriginal instruments such as [[didgeridoo]]s) but I still play country music. I may not sing about trains and sheep and cattle, but I still play country music".<ref name=ChiTrib-Stranger-2013 /> It has been described as "frequently upbeat and the lyrics often sharply political in tone. The lyrics are sprinkled with references to kangaroos and pelicans and detail the struggles of Australia's Indigenous Aboriginal population".<ref name=ChiTrib-Stranger-2013 />
+
+==Honours and awards==
+In 1993, Knox was named [[NAIDOC]] Artist of The Year.{{citation needed|date=March 2019}}
+
+In 2004, he was inducted into the Australian Country Music Foundation's Country Music Hands of Fame.<ref name=DeadlyVibe-AbsentFriends-2007>{{cite web|title=Absent Friends-Roger Knox|url=http://www.deadlyvibe.com.au/2007/11/roger-knox/|website=Deadly Vibe|accessdate=20 December 2014|date=30 November 2007}}</ref>
+
+In 2006, Knox was given the [[Jimmy Little]] Award for Lifetime Achievement in Aboriginal and Torres Strait Music at the 2006 [[The Deadlys|Deadlys]].{{citation needed|date=March 2019}}
+
+== Activism ==
+Knox is well known in Australia and is loved for his regular tours of the New South Wales and Queensland prison systems, where many Aboriginal men and women are incarcerated.<ref name=ABC-MessageStick-2010>{{cite news|last1=Corowa|first1=Miriam|title=Message Sick – Summer Series: Warrior in Chains|url=http://www.abc.net.au/tv/messagestick/stories/s2774829.htm|accessdate=20 December 2014|work=[[Australian Broadcasting Corporation|ABC]] Indigenous|date=10 January 2010}}</ref> Knox has also performed at many Canadian prisons for Native American prisoners.<ref name=ABC-RNDrive-Stranger-2013 />
+
+Knox participated in the Voices United for Harmony project, jointly managed by the Queensland Aboriginal and Islander Health Council and [[Griffith University]].<ref name=KooriMail-VoicesUnite-2010>{{cite news|last1=Strohfeldt|first1=Mahala|title=Indigenous voices unite for harmony|url=http://www.aiatsis.gov.au/koorimail/issues/pdf/488.pdf|accessdate=20 December 2014|work=The Koori Mail|date=3 November 2010|page=32|format=PDF}}</ref>
+
+== Personal life ==
+===Buddy Knox===
+<!---redirect "Buddy Knox (guitarist)" targets this section until new articles is created--->
+Knox's son Buddy is also a musician, starting to play guitar at the age of 10. In 2006, he formed the Buddy Knox Blues Band, which won Best New Blues Talent at the Australian Blues Music CHAIN Awards at Goulburn in February 2009. He was a finalist for Male Artist of the Year in the 2009 [[Deadly Awards|DeadlyAward]], and won numerous awards further awards. His debut album was ''got da blues'' (January 2008), which won the Newcastle Blues Awards Album of the Year.This was followed by ''Buddy's Blues'' in 2010, which comprises his own compositions as well as cover versions, including the National Musicoz Awards 2010 finalist "Squeaky Chair Blues". In 2011, he was nominated for a [[The Deadlys|Deadlys]] award. He has toured with the [[Warumpi Band]], [[Troy Cassar-Daley]], [[Paul Kelly (Australian musician)|Paul Kelly]], and [[Kev Carmody]].<ref name=DeadlyAwards-Buddy-2011>{{cite web|title=2011 Deadly Awards – Nominations: Male Artist of the Year – Buddy Knox|url=http://www.vibe.com.au/images/pdfs/deadly-awards-2011-mediakit.pdf |website=Deadly Vibe|accessdate=20 December 2014|page=10|format=PDF|date=15 July 2011}}</ref> 
+
+Buddy married Sarina Andrew, daughter of famed Aboriginal country music singer [[Auriel Andrew]], but they later divorced.<ref>{{Cite web|url=http://www.noise11.com/news/r-i-p-auriel-andrew-1947-2017-20170102 |title=R.I.P. Auriel Andrew 1947–2017 |first=Paul| last=Cashmere |website=Noise11|date=2 January 2017 |access-date=5 January 2017| quote=  Buried Country producer Mary Mihelakos has provided the following obituary by Clinton Walker| first2=Clinton| last2=Walker}}</ref> Their sons, Gene, John, and Ruben, played in Buddy's band at some point.<ref name=VerseChorusPress-BuriedCountry-2000 />
+
+===Plane crashes===
+Knox survived two consecutive aircraft crashes.<!---only one mentioned here?---> In 1981, early in his career, Knox joined the roadshow of Brian Young, who had a band that criss-crossed Australia by light plane, which crashed due to engine failure.<ref name=Australian-Survivor-2013 /> The musicians and equipment had to be airlifted from the crash site. The plane carrying Knox, drummer Ken Ramsay, and singer Stephen Bunz from the scene also crashed. Ramsay was killed and the others were injured (including the pilot).<ref name=Australian-Survivor-2013 /><ref name=DeadlyVibe-Studio-2013 /> Knox suffered third-degree burns over more than 90 percent of his body<ref name=DeadlyVibe-Studio-2013 /> and became addicted to painkillers. One of his [[Australian Aboriginal elder|elders]] prescribed a traditional [[bush medicine|bush remedy]] in the form of a natural bath oil made from the [[Eura bush]]. That bush and the settlement on which his father was born were inspiration for the name of his band, the Euraba Band.<ref name=DeadlyVibe-Studio-2013 />
+
+== Discography ==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+! scope="col" style="width:11em;"| Title
+! scope="col" style="width:17em;"| Details
+|-
+! scope="row"| ''Give It a Go''
+|
+* Released: 1984
+* Label: Enrec Records (ENL 001)
+|-
+! scope="row"| ''The Gospel Album''
+|
+* Released: 1986
+* Label: Enrec Records
+|-
+! scope="row"| ''Warrior in Chains – The Best of Roger Knox''
+|
+* Released: 1998
+* Label: Enrec Records
+|-
+! scope="row"| ''Goin' On, Still Strong''
+|
+* Released: 2004
+* Label: Trailblazer Records
+|-
+! scope="row"| ''Stranger in My Land'' <br/> (with The Pine Valley Cosmonauts)
+|
+* Released: 2013
+* Label: [[Bloodshot Records]]
+|}
+
+
+=== Singles ===
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1" 
+! Title 
+! Year 
+|- 
+! scope="row"| "Goulburn Jail"<ref name=CreativeSpirits-Discog-2012>{{cite web|title=Aboriginal Musician – Roger Knox|url=http://www.creativespirits.info/resources/music/roger-knox/|website=Creative Spirits|accessdate=20 December 2014|date=28 March 2012}}</ref>
+| 1988
+|- 
+! scope="row"| "Koala Bear" 
+| 1988
+|}
+
+
+====Other singles====
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1" 
+|+ List of singles as featured artist, with selected chart positions
+! scope="col" rowspan="2" style="width:19em;"| Title 
+! scope="col" rowspan="2" style="width:1em;"| Year 
+! scope="col" colspan="1" | Peak chart positions 
+|- 
+! scope="col" style="width:3em;font-size:90%;"| [[ARIA Charts|AUS]]<br/><ref>{{cite book|last=Kent|first=David|authorlink=David Kent (historian)|title=Australian Chart Book 1970–1992|edition=Illustrated|publisher=Australian Chart Book|location=St Ives, N.S.W.|year=1993|pages=22|isbn=0-646-11917-6}} The Kent Report chart was licensed by [[Australian Recording Industry Association|ARIA]] between mid-1983 and 19 June 1988.</ref>
+|- 
+! scope="row"| "[[The Garden (Australia Too song)|The Garden]]"<br/><span style="font-size:85%;">(as "Australia Too")</span> 
+| 1985
+| 22
+|}
+
+== See also ==
+* [[List of Indigenous Australian musicians]]
+* [[Bobby McLeod]]
+
+== References ==
+{{Reflist}}
+
+== Further reading ==
+* Walker, Clinton. "[http://www.worldcat.org/oclc/45805227 The Man Who Would Be King.]" ''[[Buried Country: The Story of Aboriginal Country Music]].'' Annandale, NSW: Pluto Press, 2000. pp.&nbsp;244–269. {{ISBN|978-1-864-03152-2}}
+
+== External links ==
+* [https://www.bloodshotrecords.com/artist/roger-knox Roger Knox] at [[Bloodshot Records]]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Knox, Roger}}
+[[Category:1948 births]]
+[[Category:Living people]]
+[[Category:People from the North West Slopes]]
+[[Category:Australian country singer-songwriters]]
+[[Category:Australian male singer-songwriters]]
+[[Category:Australian singer-songwriters]]
+[[Category:Indigenous Australian musicians]]
+[[Category:Gamilaraay]]
+[[Category:Bloodshot Records artists]]

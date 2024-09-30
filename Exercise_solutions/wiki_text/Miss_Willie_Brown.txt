@@ -1,0 +1,95 @@
+{{Short description|American country music duo}}
+{{Infobox musical artist
+| name            = Miss Willie Brown
+| image           =
+| image_size      =
+| landscape       = <!-- yes, if wide image, otherwise leave blank -->
+| alt             =
+| caption         =
+| origin          = [[Nashville, Tennessee]], United States
+| genre           = [[Country music|Country]]
+| years_active    = 2007-2013
+| label           = [[A&M/Octone Records|A&M/Octone]]
+| associated_acts = [[Keith Stegall]]
+| website         = {{URL|http://misswilliebrown.com/}}
+| current_members = Kasey Buckley<br />Amanda Watkins
+| past_members    = 
+}}
+
+'''Miss Willie Brown''' was an American [[country music]] duo consisting of Amanda Watkins and Kasey Buckley, who are respectively natives of [[West Virginia]] and [[Texas]] but met in [[California]].<ref>{{cite web|url=http://site.amoctone.com/misswilliebrown |title=A&M Octone Records Miss Willie Brown : Artists |publisher=Site.amoctone.com |date= |accessdate=2012-07-26}}</ref> They are signed to [[A&M/Octone Records]], to which they were the first group signed.<ref>{{cite web|url=http://www.americansongwriter.com/2011/05/miss-willie-brown/ |title=Miss Willie Brown |publisher=American Songwriter |date=2011-05-06 |accessdate=2012-07-26}}</ref>
+
+The duo performed on ''[[Jimmy Kimmel Live!]]'' in 2011 before their signing. Afterward, they began working with producer [[Keith Stegall]] on their debut album. They also toured with [[Dierks Bentley]] and [[Josh Thompson (singer)|Josh Thompson]] and released a self-titled [[extended play]].<ref>{{cite web|url=http://tasteofcountry.com/miss-willie-brown-band-name-ep-interview/ |title=Miss Willie Brown Tell the Story of Their Band Name, Background and New EP |publisher=Tasteofcountry.com |date=2011-04-08 |accessdate=2012-07-26}}</ref> Debut single "Sick of Me" did not enter the charts, but its followup, "You're All That Matters to Me", was made into a [[music video]]<ref>{{cite web|url=http://www.theboot.com/2012/07/02/miss-willie-brown-youre-all-that-matters-to-me-video/ |title=Miss Willie Brown, 'You're All That Matters to Me' Video (Behind-the-Scenes) |publisher=The Boot |date=2012-07-02 |accessdate=2012-07-26}}</ref> and charted in August 2012.<ref>{{cite news|title=Hot Country Songs|url=http://www.billboard.biz/bbbiz/photos/pdf/2012/country_update_0723.pdf|accessdate=28 October 2012|newspaper=Billboard Country Update|date=23 July 2012}}</ref> Miss Willie Brown performed "You're All That Matters to Me" and "Sick of Me" on [[The CW Television Network|The CW]]'s ''[[Hart of Dixie]]'' on April 9, 2012 in the episode "[[List of Hart of Dixie episodes#Season 2 .282012.E2.80.932013.29|Always on My Mind]]".<ref>{{cite web|title=Miss Willie Brown Debuts Song On iTunes April 3, Schedules 'Hart of Dixie' Appearance|url=http://www.countrymusicislove.com/2012/03/miss-willie-brown-debuts-song-on-itunes-april-3-schedules-hart-of-dixie-appearance.html|work=Country Music Is Love|publisher=CountryMusicIsLove.com|accessdate=28 October 2012|date=30 March 2012|archive-url=https://archive.today/20130119213413/http://www.countrymusicislove.com/2012/03/miss-willie-brown-debuts-song-on-itunes-april-3-schedules-hart-of-dixie-appearance.html|archive-date=19 January 2013|url-status=dead}}</ref>
+
+On April 16, 2013, the duo announced on their [[Facebook]] page that they were dissolving the group with Watkins pursuing a solo career and Buckley taking a break from music.
+
+==Discography==
+
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:14em;"| Title
+! style="width:18em;"| Album details
+|- 
+! scope="row"| ''Blackouts and Polaroids''
+| 
+* Release date: 2008
+* Label: Self-released
+* Format: Extended play
+|-
+! scope="row"| ''Miss Willie Brown''
+| 
+* Release date: March 15, 2011
+* Label: [[A&M/Octone Records]]
+* Format: Digital EP
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! style="width:45px;"| [[Hot Country Songs|US Country]]
+! style="width:45px;"| [[Country Airplay|US Country Airplay]]
+|-
+| 2011
+! scope="row"| "Sick of Me"
+| —
+| —
+| style="text-align:left;"| ''Miss Willie Brown''
+|-
+| 2012
+! scope="row"| "You're All That Matters to Me"
+| 43
+| 43
+| style="text-align:left;"| ''Bonafide'' <small>(unreleased)</small>
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:18em;"| Video
+! Director
+|-
+| 2012
+! scope="row"| "You're All That Matters to Me"
+| [[TK McKamy]]
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+[[Category:A&M Records artists]]
+[[Category:Country music groups from Tennessee]]
+[[Category:American country music duos]]
+[[Category:Musical groups from Nashville, Tennessee]]
+[[Category:Musical groups established in 2011]]
+[[Category:Musical groups disestablished in 2013]]
+[[Category:2011 establishments in Tennessee]]

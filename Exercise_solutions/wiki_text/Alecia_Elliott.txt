@@ -1,0 +1,121 @@
+{{short description|American singer-songwriter}}
+
+{{about|the singer|the writer|Alicia Elliott}}
+{{BLP sources|date=April 2020}}
+{{Infobox musical artist
+| image        =
+| name         = Alecia Elliott
+| image_size   =
+| birth_name   = Alecia Elliott
+| birth_date   = {{birth date and age|1982|12|25}}<ref name="allmusic">{{cite web|url=https://www.allmusic.com/artist/alecia-elliott-mn0000621265/biography|title=Alecia Elliott biography|work=Allmusic|accessdate=August 3, 2018}}</ref>
+| birth_place  = [[Muscle Shoals, Alabama]], United States
+| instrument   = Vocals
+| genre        = [[country music|Country]]
+| occupation   =
+| years_active = 1999–2001, 2019–present
+| label        = [[MCA Nashville]], Muscle Shoals Recordings
+| website      = {{URL|aleciaelliott.com}}
+}}
+
+'''Alecia Elliott''' (born December 25, 1982) is an American contemporary [[country music]] singer and actress.  She was discovered by [[Lorrie Morgan]], who was impressed by her demo recordings in the mid-1990s. Elliott issued her first studio recording on [[MCA Nashville]] in 2000 entitled ''[[I'm Diggin' It]]''. As an actress, Elliott was one of the stars of the [[Teen NBC|TNBC]] series ''[[All About Us (TV series)|All About Us]]'', of which she also co-wrote its theme song.
+
+In 2001, the [[American Music Awards]] nominated Elliott for the [[American Music Award for Favorite Country New Artist]], losing to [[Billy Gilman]]. 
+
+She returned in 2019 with a new record label, and new music.
+
+In December 2019, Alecia Elliott returned to music with a new single called "What Love Can Do" under Muscle Shoals Recordings. It is her first single since 2001.<ref>{{Cite web |url=https://www.youtube.com/watch?v=M7_0gkdGVIM |title=Alecia Elliott What Love Can do Official Video – YouTube |website=YouTube |access-date=2019-12-05 |archive-date=2020-10-17 |archive-url=https://web.archive.org/web/20201017124540/https://www.youtube.com/watch?v=M7_0gkdGVIM |url-status=dead }}</ref> Her second studio album, ''Voodoo'', was released in September 2020.<ref>https://www.facebook.com/alecia.fisher.5/videos/3276113852469929/ {{User-generated source|certain=yes|date=March 2022}}</ref> As of September 2021, "Voodoo" had been removed from all streaming platforms.
+
+On April 23, 2023 Alecia released a new R&B single titled "Addicted" independently.<ref>https://twitter.com/AleciaElliott/status/1650225787813937165 {{Bare URL inline|date=August 2024}}</ref>
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:10em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="3"| Peak chart positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]
+! width="45"| [[Billboard 200|US]]
+! width="45"| [[Top Heatseekers|US Heat]]
+|-
+! scope="row"| ''[[I'm Diggin' It]]''
+| 
+* Release date: January 25, 2000
+* Label: [[Universal Music Group Nashville|MCA Nashville]]
+| 18
+| 172
+| 6
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:12em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| 1999
+! scope="row"| "I'm Diggin' It"
+| 50
+| 61
+| align="left" rowspan="2"| ''I'm Diggin' It''
+|-
+| 2000
+! scope="row"| "You Wanna What?"
+| 70
+| —
+|-
+| 2019
+! scope="row"| "What Love Can Do"
+| –
+| –
+| align="left" rowspan="2"| Non-album singles
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:12em;"| Video
+! Director
+|-
+| 1999
+! scope="row"| "I'm Diggin' It"
+| rowspan="2"| Morgan Lawley
+|-
+| 2000
+! scope="row"| "You Wanna What?"
+|-
+| 2001
+! scope="row"| "If You Believe"
+| 
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Elliott, Alecia}}
+[[Category:1982 births]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:American television actresses]]
+[[Category:Living people]]
+[[Category:People from Muscle Shoals, Alabama]]
+[[Category:MCA Records artists]]
+[[Category:Country musicians from Alabama]]
+[[Category:21st-century American women]]
+[[Category:Singer-songwriters from Alabama]]
+
+
+{{US-country-musician-stub}}
+{{US-tv-actor-1980s-stub}}

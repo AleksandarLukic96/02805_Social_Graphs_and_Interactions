@@ -1,0 +1,344 @@
+{{short description|American singer}}
+{{for|the Indiana politician|David Frizzell (politician)}}
+{{More footnotes|date=May 2013}}
+{{Infobox musical artist
+| image           =
+| name            = David Frizzell
+| image_size      = (220)
+| birth_name      =
+| birth_date      = {{nowrap|{{Birth date and age|1941|9|26|mf=y}}}}
+| origin          = [[El Dorado, Arkansas|El Dorado]], [[Arkansas]], U.S.
+| instrument      = {{flatlist|
+*Vocals
+*[[guitar]]}}
+| genre           = {{flatlist|
+*[[Country music|Country]]
+*[[Countrypolitan]]
+*[[rockabilly]]}}
+| occupation      = Singer, [[songwriter]]
+| years_active    = 1959&ndash;present
+| label           = {{flatlist|
+*[[Capitol Records|Capitol]]
+*[[Cartwheel Records|Cartwheel]]
+*[[Columbia Records|Columbia]]
+*[[MCA Records|MCA]]
+*Nashville America
+*Playback
+*[[RSO Records|RSO]]
+*[[Viva Records (U.S.)|Viva]]
+*[[Warner Bros. Records|Warner Bros.]]
+}}
+| associated_acts = {{flatlist|
+*[[Lefty Frizzell]]
+*[[Shelly West]]
+*[[Merle Haggard]]
+*[[Johnny Rodriguez]]
+*[[Allen Frizzell]]
+*[[Gene Watson]]
+*[[Joe Stampley]]
+*[[Johnny Lee (singer)|Johnny Lee]]
+*[[Bobby Bare]]}}
+| website         = {{URL|http://www.davidfrizzell.com}}
+}}
+
+'''David Frizzell''' (born September 26, 1941)<ref name="LarkinCountry">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Who's Who of Country Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1993|edition=First|isbn=0-85112-726-6|pages=148/9}}</ref> is an American [[country music]] singer. He is the younger brother of country musician, [[Lefty Frizzell]].<ref name="AMG"/> His career started in the late 1950s, but his biggest success came in the 1980s.
+
+==Biography==
+Frizzell was born in [[El Dorado, Arkansas|El Dorado]], [[Arkansas]], United States.<ref name="AMG">{{Cite web|url=https://www.allmusic.com/artist/david-frizzell-mn0000637150/biography|title=David Frizzell &#124; Biography & History|website=[[AllMusic]]|access-date=6 August 2021}}</ref> He began performing in his brother's show at the age of 12.<ref name="AMG"/> He toured with his brother throughout the 1950s and 1960s and served in the [[United States Air Force|U.S. Air Force]] during the [[Vietnam War]].<ref name="AMG"/> He signed with [[Columbia Records]] in 1970 and finally achieved solo success, placing the single "I Just Can't Help Believing" on the ''[[Billboard charts|Billboard]]'' top-40 country chart.<ref name="AMG"/>
+
+Frizzell appeared regularly on [[Buck Owens]]' ''All American TV Show'' during the 1970s, and recorded for [[Capitol Records]].<ref name="AMG"/> In 1981, he recorded his first number-one country hit, "[[You're the Reason God Made Oklahoma]]," a duet with [[Shelly West]].<ref name="AMG"/> The song won the [[Country Music Association|Country Music Association's]] Song of the Year and Vocal Duet of the Year awards in 1981, was nominated for a [[Grammy Award]] for Best Country Performance by a Duo or Group with Vocal, and was featured in [[Clint Eastwood|Clint Eastwood's]] film ''[[Any Which Way You Can]]''.<ref name="AMG"/> Frizzell and West also won the [[Academy of Country Music]] award for Vocal Duo of the Year in 1981 and 1982.<ref name="AMG"/>
+
+In August 1982, Frizzell scored his only solo number-one country single with "[[I'm Gonna Hire a Wino to Decorate Our Home]]".<ref name="AMG"/> He continued to tour and record with West until 1986.<ref name="AMG"/>
+
+After he parted ways with Shelly West, Frizzell continued to record solo albums, but he has not kept up the popularity he enjoyed during the early 1980s.<ref name="AMG"/> Notwithstanding, he continues to record and tour.
+
+==Discography==
+===Albums===
+{| class="wikitable"
+!Year
+!Album
+!<small>[[Top Country Albums|US Country]]</small>
+!Label
+|-
+|1981
+|''Carryin' On the Family Names'' <small>(with [[Shelly West]])</small>
+|align="center"| 6
+|rowspan="4"| Warner/Viva
+|-
+|rowspan="2"| 1982
+|''The David Frizzell & Shelly West Album'' <small>(with Shelly West)</small>
+|align="center"| 8
+|-
+|''The Family's Fine, But This One's All Mine''
+|align="center"| 7
+|-
+|rowspan="2"| 1983
+|''Our Best to You'' <small>(with Shelly West)</small>
+|align="center"| 24
+|-
+|''On My Own Again''
+|align="center"| 32
+|rowspan="4"| Viva
+|-
+|rowspan="3"| 1984
+|''In Session'' <small>(with Shelly West)</small>
+|align="center"| 33
+|-
+|''Solo''
+|align="center"| —
+|-
+|''Golden Duets (The Best of Frizzell & West)'' <small>(with Shelly West)</small>
+|align="center"| 45
+|-
+|1993
+|''My Life Is Just a Bridge''
+|align="center"| —
+|BFE
+|-
+|1999
+|''For the Love of Country''
+|align="center"| —
+|Kingston
+|-
+|2004
+|''Confidentially''
+|align="center"| —
+|rowspan="4"| Nashville America
+|-
+|2010
+|''Frizzell & Friends – This Is Our Time''
+|align="center"| —
+|-
+|2012
+|''Frizzell & Friends – It'll Be Alright''
+|align="center"| —
+|-
+|2014
+|''Frizzell & Friends present Buddy Holly Country Tribute: Remember Me''
+|align="center"| —
+|}
+
+===Singles===
+{| class="wikitable"
+!rowspan="2"|Year
+!rowspan="2"|Song
+!colspan="2"|Chart Positions
+!rowspan="2"|Album
+|-
+!width="50"|<small>[[Hot Country Songs|US Country]]</small>
+!width="50"|<small>CAN Country</small>
+|-
+|rowspan="2"| 1970
+|"[[L.A. International Airport]]"
+|align="center"| 67
+|align="center"| —
+|rowspan="6"| singles only
+|-
+|"[[I Just Can't Help Believing]]"
+|align="center"| 36
+|align="center"| —
+|-
+|1971
+|"Goodbye"
+|align="center"| 73
+|align="center"| —
+|-
+|rowspan="2"| 1973
+|"Words Don't Come Easy"
+|align="center"| 63
+|align="center"| —
+|-
+|"Take Me One More Ride"
+|align="center"| 94
+|align="center"| —
+|-
+|1976
+|"A Case of You"
+|align="center"| 100
+|align="center"| —
+|-
+|1981
+|"Lefty" <small>(with [[Merle Haggard]])</small>
+|align="center"| 45
+|align="center"| —
+|''Carryin' On the Family Names''
+|-
+|rowspan="2"| 1982
+|"[[I'm Gonna Hire a Wino to Decorate Our Home]]"<sup>A</sup>
+|align="center"| 1
+|align="center"| 3
+|rowspan="2"| ''The Family's Fine, But<br />This One's All Mine''
+|-
+|"[[Lost My Baby Blues]]"
+|align="center"| 5
+|align="center"| 5
+|-
+|rowspan="2"| 1983
+|"Where Are You Spending Your Nights These Days"
+|align="center"| 10
+|align="center"| 13
+|rowspan="3"| ''On My Own Again''
+|-
+|"A Million Light Beers Ago"
+|align="center"| 39
+|align="center"| 38
+|-
+|rowspan="4"| 1984
+|"Black and White"
+|align="center"| 64
+|align="center"| —
+|-
+|"Who Dat"
+|align="center"| 60
+|align="center"| —
+|rowspan="2"| ''Solo''
+|-
+|"When We Get Back to the Farm<br />(That's When We Really Go to Town)"
+|align="center"| 49
+|align="center"| 43
+|-
+|"No Way Jose"
+|align="center"| 49
+|align="center"| 38
+|single only
+|-
+|1985
+|"Country Music Love Affair"
+|align="center"| 63
+|align="center"| —
+|''Solo''
+|-
+|1986
+|"Celebrity"
+|align="center"| 71
+|align="center"| —
+|rowspan="2"| singles only
+|-
+|1987
+|"Beautiful Body"
+|align="center"| 74
+|align="center"| —
+|-
+|1993
+|"The One That Got Away" (with [[Ed Bruce]])<ref>{{cite magazine|url=http://americanradiohistory.com/Archive-Billboard/90s/1993/BB-1993-01-30.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|date=January 30, 1993}}</ref>
+|align="center"| —
+|align="center"| —
+|''My Life Is Just a Bridge''
+|-
+|2012
+|"Say Hello to Heaven"
+|align="center"| —
+|align="center"| —
+|''Frizzell & Friends – It'll Be Alright''
+|}
+*<sup>A</sup>"I'm Gonna Hire a Wino to Decorate Our Home" also peaked at No.&nbsp;20 on the ''[[RPM (magazine)|RPM]]'' Top Singles chart in Canada.
+
+===Singles with Shelly West===
+{| class="wikitable"
+!rowspan="2"|Year
+!rowspan="2"|Song
+!colspan="2"|Chart Positions
+!rowspan="2"|Album
+|-
+!width="50"|<small>[[Hot Country Songs|US Country]]</small>
+!width="50"|<small>CAN Country</small>
+|-
+| 1981
+|"[[You're the Reason God Made Oklahoma]]"
+|align="center"| 1
+|align="center"| 13
+|rowspan="3"| ''Carryin' on the Family Names''
+|-
+|rowspan="2"| 1981
+|"[[A Texas State of Mind]]"
+|align="center"| 9
+|align="center"| —
+|-
+|"[[Husbands and Wives (song)|Husbands and Wives]]"
+|align="center"| 16
+|align="center"| 38
+|-
+|rowspan="3"| 1982
+|"[[Another Honky-Tonk Night on Broadway]]"
+|align="center"| 8
+|align="center"| 20
+|rowspan="2"| ''The David Frizzell & Shelly West Album''
+|-
+|"[[I Just Came Here to Dance]]"
+|align="center"| 4
+|align="center"| 9
+|-
+|"Please Surrender"
+|align="center"| 43
+|align="center"| —
+|rowspan="2"| ''Our Best to You''
+|-
+|rowspan="2"| 1983
+|"Cajun Invitation"
+|align="center"| 52
+|align="center"| —
+|-
+|"Pleasure Island"
+|align="center"| 71
+|align="center"| —
+|rowspan="2"| ''In Session''
+|-
+|rowspan="2"| 1984
+|"Silent Partners"
+|align="center"| 20
+|align="center"| 20
+|-
+|"It's a Be Together Night"
+|align="center"| 13
+|align="center"| 40
+|rowspan="2"| ''Golden Duets (The Best of Frizzell & West)''
+|-
+|1985
+|"Do Me Right"
+|align="center"| 60
+|align="center"| —
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;"| Video
+|-
+| 1984
+! scope="row"| "Silent Partners"
+|-
+| 1987
+! scope="row"| "Beautiful Body"
+|-
+| 1993
+! scope="row"| "The One That Got Away" (with [[Ed Bruce]])
+|}
+
+==References==
+{{Reflist}}
+
+==Bibliography==
+* Bush, John (2003). Edited by Vladimir Bogdanov, Chris Woodstra, & Stephen Erlewine. "David Frizzell." ''All Music Guide to Country'', 2nd ed. San Francisco: Backbeat Books, 2003. {{ISBN|0-87930-760-9}}
+* Whitburn, Joel. "The Billboard Book of Top 40 Country Hits" New York: Billboard Publications Inc., 1996. {{ISBN|0-8230-8289-X}}
+
+==External links==
+* [http://www.davidfrizzell.com Official website]
+
+{{David Frizzell}}
+{{CMA Duo of the Year}}
+{{Authority control}}
+
+{{DEFAULTSORT:Frizzell, David}}
+[[Category:1941 births]]
+[[Category:American male singer-songwriters]]
+[[Category:American country singer-songwriters]]
+[[Category:Capitol Records artists]]
+[[Category:Columbia Records artists]]
+[[Category:Country musicians from Arkansas]]
+[[Category:Living people]]
+[[Category:MCA Records artists]]
+[[Category:People from El Dorado, Arkansas]]
+[[Category:RSO Records artists]]
+[[Category:Singer-songwriters from Arkansas]]
+[[Category:Warner Records artists]]

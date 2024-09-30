@@ -1,0 +1,148 @@
+{{Short description|American country music duo}}
+{{Infobox musical artist
+| name            = Brother Phelps
+| image           = Brother Phelps.jpg
+| caption         = Doug (left) and Ricky Lee Phelps
+| landscape       = yes
+| origin          = [[Edmonton, Kentucky]], United States
+| genre           = [[country music|Country]]
+| years_active    = 1992–1995
+| label           = [[Asylum Records|Asylum]]
+|spinoff_of = [[The Kentucky Headhunters]]
+| past_members    = Doug Phelps<br />Ricky Lee Phelps
+}}
+'''Brother Phelps''' was an American [[country music]] duo formed by brothers Ricky Lee ([[guitar]], [[vocals]]) and Doug Phelps ([[bass guitar]], vocals). Prior to the duo's formation in 1992, both brothers were members of [[The Kentucky Headhunters]], a [[Southern rock]]-influenced [[country rock]] band. In 1993, Brother Phelps charted with its debut single "[[Let Go (Brother Phelps song)|Let Go]]", which reached a peak of No.&nbsp;6 on the ''[[Billboard (magazine)|Billboard]]'' country music charts. In all, the duo charted six singles between 1993 and 1995 (although only one other single reached Top 40), in addition to recording two albums on [[Asylum Records]]. Brother Phelps disbanded in 1995, with Doug rejoining the Kentucky Headhunters as lead singer, and Ricky Lee assuming a solo career.
+
+==Biography==
+The Brothers are Ricky Lee Phelps, who was born in 1953 [[Edmonton, Kentucky]],<ref name=
+"oldies">{{cite web |url=http://www.oldies.com/artist-biography/Brother-Phelps.html |title=Brother Phelps Biography |accessdate=2007-07-21 |work=Oldies.com}}</ref> and Doug Phelps who was born in Leachville, Arkansas, in 1960. They were raised in the [[Missouri Bootheel]] and Doug graduated from a small school named Southland in [[Cardwell, Missouri]]. They joined [[The Kentucky Headhunters]] in 1986. Ricky Lee served as lead vocalist, while Doug played bass guitar and sang backup vocals.<ref name="cst">{{cite web |url=http://www.countrystandardtime.com/d/article.asp?xid=543 |title=Kentucky HeadHunters arise out of the ashes |accessdate=2007-07-21 |last=Wahlert |first=Brian |date=May 1997 |work=CountryStandardTime.com}}</ref> The Kentucky Headhunters released its debut album, ''[[Pickin' on Nashville]]'', in 1989, producing four Top 40 singles on the country charts with it. After the band's second album, 1991's ''[[Electric Barnyard]]'', failed to produce a major hit, Ricky Lee and Doug announced that they were leaving to form their own group.<ref name="cst"/> Mark Orr then became lead singer of The Kentucky Headhunters, while Anthony Kenney took over as bass guitarist.
+
+The newly formed duo (named Brother Phelps, after Ricky Lee and Doug's minister father),<ref name="allmusic">{{cite web |url={{Allmusic|class=artist|id=p43298/biography|pure_url=yes}} |title=allmusic ((( Brother Phelps > Biography ))) |accessdate=2007-07-21 |last=Huey |first=Steve |work=Allmusic}}</ref> signed to [[Asylum Records]] in 1992. Unlike the country rock sounds of The Kentucky Headhunters, Brother Phelps featured a more traditional [[country music]] sound.<ref name="oldies"/><ref name="allmusic"/> Their first single, "[[Let Go (Brother Phelps song)|Let Go]]", reached a peak of No.&nbsp;6 on the ''Billboard'' [[Hot Country Singles & Tracks]] charts in 1993, higher than any of The Kentucky Headhunters' singles had peaked. The same year, the duo's first album (also titled ''Let Go'') was released.<ref name="allmusic"/>
+
+Brother Phelps' second and final album, ''Any Way the Wind Blows'' (its title track a [[J. J. Cale]] cover), was released in 1995 to critical acclaim, although it failed to produce any Top 40 singles.<ref name="oldies"/><ref name="allmusic"/> The duo disbanded in 1995, with Doug returning to the Kentucky Headhunters, assuming the role of lead vocalist after Orr's departure.<ref name="cst"/> Ricky Lee, meanwhile, continued to record as a solo artist.
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:14em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="2"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]<ref>{{cite magazine|url=https://www.billboard.com/music/brother-phelps/chart-history/country-albums|title=Top Country Albums|magazine=Billboard|accessdate=28 January 2018|archive-date=17 May 2018|archive-url=https://web.archive.org/web/20180517044717/https://www.billboard.com/music/brother-phelps/chart-history/country-albums|url-status=dead}}</ref>
+! width="45"| [[Top Heatseekers|US Heat]]<ref>{{cite magazine|url=https://www.billboard.com/music/brother-phelps/chart-history/heatseekers-albums|title=Heatseekers Albums|magazine=Billboard|accessdate=28 January 2018|archive-date=17 May 2018|archive-url=https://web.archive.org/web/20180517044607/https://www.billboard.com/music/brother-phelps/chart-history/heatseekers-albums|url-status=dead}}</ref>
+|-
+! scope="row"| ''[[Let Go (Brother Phelps album)|Let Go]]''
+| 
+* Release date: August 3, 1993
+* Label: [[Asylum Records]]
+| 56
+| 21
+|-
+! scope="row"| ''[[Any Way the Wind Blows (album)|Any Way the Wind Blows]]''
+| 
+* Release date: March 7, 1995
+* Label: Asylum Records
+| 43
+| 24
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:16em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<ref>{{cite magazine|url=https://www.billboard.com/music/brother-phelps/chart-history/country-airplay|title=Country Songs|magazine=Billboard|accessdate=28 January 2018|archive-date=10 May 2018|archive-url=https://web.archive.org/web/20180510183358/https://www.billboard.com/music/brother-phelps/chart-history/country-airplay|url-status=dead}}</ref>
+! width="45"| [[RPM (magazine)|CAN Country]]<ref>{{cite web|url=http://www.bac-lac.gc.ca/eng/discover/films-videos-sound-recordings/rpm/Pages/list.aspx?OCRText=brother+phelps&|title=Search results for Brother Phelps|work=RPM|date=17 July 2013 |accessdate=28 January 2018}}</ref>
+|-
+| rowspan="2"| 1993
+! scope="row"| "[[Let Go (Brother Phelps song)|Let Go]]"
+| 6
+| 8
+| align="left" rowspan="4"| ''Let Go''
+|- 
+! scope="row"| "Were You Really Livin'"
+| 28
+| 54
+|-
+| rowspan="2"| 1994
+! scope="row"| "Eagle over Angel"
+| 53
+| 54
+|-
+! scope="row"| "Ever-Changing Woman"
+| 62
+| 90
+|-
+| rowspan="2"| 1995
+! scope="row"| "Any Way the Wind Blows"
+| 53
+| 48
+| align="left" rowspan="2"| ''Any Way the Wind Blows''
+|-
+! scope="row"| "Not So Different After All"
+| 65
+| 77
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:16em;"| Video
+! Director
+|-
+| rowspan="2"| 1993
+! scope="row"| "Let Go"
+| Steven T. Miller/R. Brad Murano
+|-
+! scope="row"| "Were You Really Livin'"
+| [[Sherman Halsey]]
+|-
+| rowspan="2"| 1994
+! scope="row"| "Eagle over Angel"
+| Steven T. Miller/R. Brad Murano
+|-
+! scope="row"| "Ever-Changing Woman"
+| rowspan="2"| Michael McNamara
+|-
+| 1995
+! scope="row"| "Any Way the Wind Blows" 
+|}
+
+== Awards and nominations ==
+{| class="wikitable"
+!Year
+!Organization
+!Award
+!Nominee/Work
+!Result
+|-
+|1994
+|rowspan=2| [[Country Music Association Awards]]
+|rowspan=2| [[Country Music Association Award for Vocal Duo of the Year|Vocal Duo of the Year]]
+|rowspan=2| Brother Phelps
+|{{nom}}
+|-
+|1995
+|{{nom}}
+|}
+
+==References==
+{{reflist}}
+
+{{The Kentucky Headhunters}}
+{{Authority control}}
+
+[[Category:Asylum Records artists]]
+[[Category:American country music duos]]
+[[Category:Sibling musical duos]]
+[[Category:Musical groups established in 1992]]
+[[Category:Country music groups from Kentucky]]
+[[Category:1992 establishments in Kentucky]]
+[[Category:1995 disestablishments in Kentucky]]
+[[Category:Musical groups disestablished in 1995]]
+[[Category:Edmonton, Kentucky]]

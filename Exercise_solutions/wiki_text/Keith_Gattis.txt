@@ -1,0 +1,180 @@
+{{Short description|American country music singer-songwriter (1970–2023)}}
+{{More citations needed|date=April 2023}}
+{{Use American English|date=April 2023}}
+{{Use mdy dates|date=April 2023}}
+{{Infobox musical artist
+| name              = Keith Gattis
+| background        = solo_singer
+| image             = 
+| image_size        = 
+| birth_name        = Quenton Keith Gattis
+| birth_date        = {{Birth date|1970|5|26}}
+| birth_place = [[Georgetown, Texas]], U.S.
+| origin = [[Nashville, Tennessee]], U.S.
+| death_date        = {{Death date and age|2023|4|23|1970|5|26}}
+| genre             = [[Country music|Country]]
+| occupation        = {{hlist|Musician|songwriter|record producer}}
+| instrument        = {{hlist|Vocals|guitar}}
+| years_active      = 1996–2023
+| label             = [[RCA Records Nashville|RCA Nashville]]<br />Smith Music Group
+}}
+'''Quenton Keith Gattis''' (May 26, 1970 – April 23, 2023)<ref name="obiQKG">{{cite web |url=https://www.springhillfh.com/obituaries/Quenton-Gattis/#!/Obituary|title=Quenton 'Keith' Gattis May 26, 1970 - April 23, 2023|date=|accessdate=April 28, 2023|website=Spring Hill Funeral Home & Cemetery}}</ref> was an American [[country music]] singer-songwriter, guitarist, and record producer. He released two studio albums and charted one single, "Little Drops of My Heart", on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles & Tracks]] chart while signed to [[RCA Records Nashville|RCA Nashville]]. In 2002, Gattis joined [[Dwight Yoakam|Dwight Yoakam's]] band as band leader and lead electric guitar player and is credited on Yoakam's studio album ''[[Blame the Vain]]''. In 2005, Gattis released his record ''Big City Blues.''
+
+Gattis collaborated on records with [[George Jones]], [[George Strait]], [[Kenny Chesney]], [[Willie Nelson]], [[Kid Rock]], [[Randy Houser]], [[Charlie Robison]], [[Gary Allan]], [[Ashley Monroe]], [[Allison Moorer]], [[Waylon Payne]], [[Miranda Lambert]], [[Wade Bowen]], [[Sara Evans]], [[Dwight Yoakam]], [[Brandy Clark]], [[Randy Rogers Band]], [[Randy Travis]], [[Eli Young Band]], and others.{{Citation needed|date=April 2023}}
+
+[[Kenny Chesney]] recorded two of Gattis' songs for his 2012 album ''[[Welcome to the Fishbowl]]''. One of the songs, "[[El Cerrito Place]]", previously on Gattis' ''Big City Blues'' record, was released by Chesney and charted as a ''Billboard'' top 20 single. "El Cerrito Place" was also recorded by [[Charlie Robison]] featuring [[Natalie Maines]]. Gattis co-wrote Chesney's 2013 single "[[When I See This Bar]]" from the album ''[[Life on a Rock]]'', and [[George Strait]]'s 2013 single "[[I Got a Car]]". Gattis had numerous film and television placements including songs in ''[[The Jacket]]'', ''[[Sicario (2015 film)|Sicario]]'', and ''[[Nashville (2012 TV series)|Nashville]]''. Gattis produced and co-wrote projects for many artists including [[Waylon Payne]], Kendell Marvel, [[Wade Bowen]], [[Randy Houser]], and [[Micky & the Motorcars]].{{Citation needed|date=April 2023}}
+
+Gattis died in a tractor accident on April 23, 2023, at the age of 52.<ref>{{cite web |url=https://americansongwriter.com/country-music-artist-keith-gattis-dead-at-52/ |title=Country Music Artist Keith Gattis Dead at 52 |first=Tiffany |last=Goldstein |date=April 23, 2023 |website=[[American Songwriter]] |access-date=April 24, 2023}}</ref><ref>{{cite magazine|url=https://www.rollingstone.com/music/music-country/keith-gattis-nashville-songwriter-dead-obit-1234722344/|title=Songwriter Keith Gattis, Whose Songs Were Cut by Kenny Chesney and George Strait, Dead at 52|magazine=[[Rolling Stone]]|date=April 24, 2023|first=Joseph|last=Hodak}}</ref>
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:10em;"| Title
+! style="width:18em;"| Album details
+|- 
+! scope="row"| ''[[Keith Gattis (album)|Keith Gattis]]''
+| 
+* Release date: April 30, 1996
+* Label: [[RCA Records Nashville|RCA Nashville]]
+|-
+! scope="row"| ''Big City Blues''
+| 
+* Release date: May 10, 2005
+* Label: Smith Music Group
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="2"| 1996
+! scope="row"| "Little Drops of My Heart"
+| 53
+| 63
+| align="left" rowspan="2"| ''Keith Gattis''
+|-
+! scope="row"| "Real Deal"
+| —
+| 83
+|-
+| 1997
+! scope="row"| "Titanic"<ref>{{cite magazine|date=October 18, 1997|title=Reviews|magazine=Billboard|page=80|url=https://books.google.com/books?id=nAkEAAAAMBAJ&dq=%22if+you+can%27t+be+good+be+good+at+it%22+%22neal+mccoy%22&pg=PA80}}</ref>
+| —
+| —
+| align="left"| ''[[Switchback (film)|Switchback]]'' soundtrack
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:14em;"| Video
+! Director
+|-
+| rowspan="2"| 1996
+! scope="row"| "Little Drops of My Heart"
+| 
+|-
+! scope="row"| "Real Deal"<ref>{{cite web|url=http://www.cmt.com/videos/keith-gattis/385054/real-deal.jhtml|title=CMT : Videos : Keith Gattis : Real Deal|publisher=[[Country Music Television]]|accessdate=October 14, 2011}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+| Thom Oliphant
+|}
+
+==List of singles written by Keith Gattis==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! rowspan="2"| Artist
+! Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Country Airplay|US Country Airplay]]
+|-
+| 2004
+! scope="row"| "[[El Cerrito Place]]"
+| rowspan="3"| [[Charlie Robison]]
+| —
+| align="left"| ''Good Times''
+|-
+| rowspan="2"| 2009
+! scope="row"| "Reconsider"
+| —
+| align="left" rowspan="2"| ''Beautiful Day''
+|-
+! scope="row"| "Down Again"
+| —
+|-
+| 2012
+! scope="row"| "El Cerrito Place"
+| rowspan="2"| [[Kenny Chesney]]
+| 10
+| align="left"| ''[[Welcome to the Fishbowl]]''
+|-
+| rowspan="2"| 2013
+! scope="row"| "[[When I See This Bar]]"
+| 14
+| align="left"| ''[[Life on a Rock]]''
+|-
+! scope="row"| "[[I Got a Car]]"
+| rowspan="3"| [[George Strait]]
+| 17
+| align="left"| ''[[Love Is Everything (George Strait album)|Love Is Everything]]''
+|-
+| 2015
+! scope="row"| "[[Let It Go (George Strait song)|Let It Go]]"
+| 46
+| align="left" rowspan="2"| ''[[Cold Beer Conversation]]''
+|-
+| 2016
+! scope="row"| "Goin' Goin' Gone"
+|
+|-
+|2019
+! scope="row"| "What Whiskey Does"
+|[[Randy Houser]]
+| 31
+|[[Magnolia (Randy Houser album)|Magnolia]]
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.keithgattis.com Official Website]
+* [{{AllMusic|class=artist|id=p174754|pure_url=yes}} allmusic ((( Keith Gattis > Overview )))]
+* {{discogs artist|Keith Gattis}}
+* {{IMDb name|3911859}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Gattis, Keith}}
+[[Category:1970 births]]
+[[Category:2023 deaths]]
+[[Category:American country guitarists]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:RCA Records Nashville artists]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:People from Georgetown, Texas]]
+[[Category:Country musicians from Texas]]
+[[Category:20th-century American male singers]]
+[[Category:21st-century American male singers]]
+[[Category:Singer-songwriters from Texas]]
+
+
+{{US-songwriter-stub}}

@@ -1,0 +1,294 @@
+{{short description|Australian country music singer (born 1974)}}
+{{for-multi|the English actor|Adam Paul Harvey|the American artist|Adam Harvey (artist)}}
+{{EngvarB|date=August 2014}}
+{{Use dmy dates|date=August 2014}}
+{{Infobox musical artist
+| image           = Adam Harvey.jpg
+| name            = Adam Harvey
+| birth_name      =
+| birth_date      = {{birth date and age|df=yes|1974|12|21}}
+| birth_place     = [[Geelong]], [[Victoria (Australia)|Victoria]], Australia
+| death_date      =
+| genre           = [[Country music|Country]]
+| occupation      = Singer, songwriter
+| years_active    = 1984–present
+| label           = Open Road, Universal, [[ABC Music]], [[Sony Music]]
+| associated_acts =
+| website         = {{URL|http://adamharvey.com.au}}
+}}
+
+'''Adam Harvey''' (born 21 December 1974) is an Australian [[country music]] singer. Harvey has sold over half a million records, has been nominated five times for an [[ARIA Music Awards|ARIA Music Award]] and has won nine [[Country Music Awards of Australia|golden guitars at the Country Music Awards of Australia]].<ref>{{cite web|url=http://cruisincountry.com.au/2019/performers/adam-harvey/|title=Adam Harvey|publisher=Cruis' Country|access-date=4 August 2018|archive-url=https://web.archive.org/web/20180804110221/http://cruisincountry.com.au/2019/performers/adam-harvey/|archive-date=4 August 2018|url-status=dead}}</ref>
+
+==Biography==
+Harvey got his start musically learning country classics on the guitar as a small boy. His first gig came at the age of ten, and by his school years he was performing rock covers at a club when he was discovered and went off on tour as support for [[Tania Kernaghan]].<ref>{{cite web|url={{AllMusic|class=artist|id=p698129|pure_url=yes}}|title=Adam harvey|publisher=[[AllMusic]]|last=True|first=Chris|access-date=29 January 2010}}</ref> In 1998 Harvey won his first [[Country Music Awards of Australia|Country Music (CMAA) Award]] for 'Vocal Collaboration of the Year' with Tanya Self for "Drive Away".<ref>{{cite web|url=http://www.country.com.au/index.cfm?page_id=1134 |title=Country Music Awards of Australia 1990–1999 |publisher=[[Country Music Association of Australia|CMAA]] |access-date=29 January 2010 |url-status=dead |archive-url=https://web.archive.org/web/20091017180321/http://www.country.com.au/index.cfm?page_id=1134 |archive-date=17 October 2009 }}</ref> In 2001 he won another CMAA Award for 'Vocal Collaboration of the Year' this time with [[Beccy Cole]], Darren Coggan and [[Felicity Urquhart|Felicity]], for "Do I Ever Cross Your Mind".<ref name="CMAA">{{cite web|url=http://www.country.com.au/index.cfm?page_id=1135 |title=Country Music Awards of Australia 2000–2008 |publisher=[[Country Music Association of Australia|CMAA]] |access-date=29 January 2010 |url-status=dead |archive-url=https://web.archive.org/web/20091017175108/http://www.country.com.au/index.cfm?page_id=1135 |archive-date=17 October 2009 }}</ref>
+
+In 2002, Harvey won two CMAA Awards; 'Album of the Year' and 'Male Vocalist of the Year' for ''Workin' Overtime''.<ref name="CMAA"/> ''Workin' Overtime'' was nominated for [[ARIA Award for Best Country Album]] at the [[ARIA Music Awards of 2002|2002 ARIA Awards]].<ref name="ARIA">{{cite web|url=http://www.ariaawards.com.au/history-by-artist.php?letter=A&artist=Adam%20Harvey |title=ARIA Award History – Adam Harvey |publisher=[[Australian Recording Industry Association]] |access-date=29 January 2010 }}{{dead link|date=October 2016 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+In 2004, Harvey won a second CMAA Award for 'Male Vocalist of the Year' that year.<ref name="CMAA"/> In 2005 he received his third [[ARIA Music Awards of 2005|ARIA award]] nomination for Best Country Album ''Can't Settle for Less''.<ref name="ARIA"/> In 2008, he won Album of the Year ''I'm Doin' Alright''.<ref name="CMAA"/>
+
+In 2009, he sang the [[Australian national anthem]] before the Australia vs New Zealand [[rugby league]] test match.{{citation needed|date=December 2021}}
+
+Harvey has been nominated for a CMAA Award in 2010 for Collaboration of the Year with [[John Williamson (singer)|John Williamson]] for "King of the Road".<ref>{{cite web|url=http://www.country.com.au/index.cfm?page_id=1226 |title=Finalists – 38th CMAA Country Music Awards of Australia |publisher=[[Country Music Association of Australia|CMAA]] |access-date=27 January 2010 |archive-url=https://web.archive.org/web/20100301214250/http://www.country.com.au/index.cfm?page_id=1226 |archive-date=1 March 2010 |url-status=dead |df=dmy }}</ref>
+
+{{externalvideo
+| float = right
+| width = 250px
+| video1 = [https://www.youtube.com/watch?v=J45LnaI3F9I Official Music Video ''Stuck in the Middle'']
+| 
+}}
+
+In 2013, Harvey collaborated with [[Troy Cassar-Daley]] to record ''[[The Great Country Songbook]]'', which debuted at number 2 on the [[ARIA Charts]].
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:12em;"| Title
+! rowspan="2" style="width:17em;"| Details
+! colspan="1"| Peak positions
+! rowspan="2" style="width:10em;"| [[Music recording sales certification|Certifications]]<br /><small>([[List of music recording sales certifications|sales thresholds]])</small>
+|- style="font-size:smaller;"
+! width="50"| [[ARIA Charts|AUS]]<br><ref name="ARIA Charts">{{cite web|url=http://www.australian-charts.com/search.asp?cat=a&search=Adam+Harvey|title=australian-charts.com - Australian charts portal|publisher=australian-charts.com|access-date=31 July 2018}}</ref>
+|-
+! scope="row"| ''Adam Harvey''
+| 
+* Release date: 1994
+* Label: 
+* Formats: [[Compact Disc|CD]], [[Music cassette|Cassette]]
+| —
+|
+|-
+! scope="row"| ''Second Time Around''
+| 
+* Release date: 1995
+* Label: 
+* Formats: CD, Cassette
+| —
+|
+|-
+! scope="row"| ''Sugar Talk''
+| 
+* Release date: 30 August 1999
+* Label: ABC Music 
+* Formats: CD, Cassette
+| —
+|
+|-
+! scope="row"| ''Workin' Overtime''
+| 
+* Release date: 13 August 2001
+* Label: Open Road Records
+* Formats: CD, Cassette
+| 48
+|
+* [[Australian Recording Industry Association|ARIA]]: Gold<ref>{{cite web|url=http://www.aria.com.au/pages/aria-charts-accreditations-albums-2003.htm|title= ARIA Charts - Accreditations - 2003 Albums|publisher=ARIA|access-date=4 August 2018}}</ref>
+|-
+! scope="row"| ''Cowboy Dreams''
+| 
+* Release date: 28 April 2003
+* Label: ABC Music (1778679)
+* Formats: CD, Cassette
+| 52<ref>{{cite web|url=http://www.aria.com.au/Issue689.pdf|archive-url=https://webarchive.nla.gov.au/awa/20030506140000/http://pandora.nla.gov.au/pan/23790/20030507-0000/Issue689.pdf|url-status=dead|archive-date=2003-05-06|title= ARIAnet WEEK COMMENCING: 5th May 2003 Issue No: 689|publisher=ARIA|access-date=4 August 2018}}{{cbignore|bot=medic}}</ref>
+|
+* ARIA: Gold<ref>{{cite web|url=http://www.aria.com.au/pages/aria-charts-accreditations-albums-2005.htm|title= ARIA Charts - Accreditations - 2005 Albums|publisher=ARIA|access-date=4 August 2018}}</ref>
+|-
+! scope="row"| ''Can't Settle for Less''
+| 
+* Release date: 17 January 2005
+* Label: ABC Music (14160)
+* Formats: CD, Cassette
+| 20
+|
+|-
+! scope="row"| ''I'm Doin' Alright''
+| 
+* Release date: 22 September 2007
+* Label: [[Sony Music Australia]] (88697160032)
+* Formats: CD, [[Music download|DD]]
+| 38
+|
+|-
+! scope="row"| ''[[Both Sides Now (Adam Harvey album)|Both Sides Now]]''
+| 
+* Release date: 9 October 2009
+* Label: Sony Music Australia (88697583672)
+* Formats: CD, DD
+| 19
+|
+* ARIA: Gold<ref>{{cite web|url=http://www.aria.com.au/pages/httpwww.aria.com.aupageshttpwww.aria.com.aupagesARIACharts-Accreditations-2010Albums.htm|title= ARIA Charts - Accreditations - 2010 Albums|publisher=ARIA|access-date=4 August 2018}}</ref>
+|-
+! scope="row"| ''Falling into Place''
+| 
+* Release date: 8 July 2011
+* Label: Sony Music Australia (88697918332)
+* Formats: CD, DD
+| 10
+|
+|-
+! scope="row"| ''[[The Great Country Songbook]]'' <small> (with [[Troy Cassar-Daley]])</small>
+| 
+* Release date: 14 June 2013
+* Label: Sony Music Australia (88765434052)
+* Formats: CD, DD
+| 2
+|
+* ARIA: Platinum<ref>{{cite web|url=http://www.aria.com.au/pages/httpwww.aria.com.aupagesaria-charts-accreditations-albums-2014.htm|title= ARIA Charts - Accreditations - 2014 Albums|publisher=ARIA|access-date=4 August 2018}}</ref>
+|-
+! scope="row"| ''Family Life''
+| 
+* Release date: 22 August 2014
+* Label: Sony Music Australia (88765434052)
+* Formats: CD, DD
+| 10
+|
+|-
+! scope="row"| ''Harvey's Bar... The Backyard Sessions''
+| 
+* Release date: 20 November 2015
+* Label: Sony Music Australia 
+* Formats: CD, DD
+| 17
+|
+|-
+! scope="row"| ''[[The Great Country Songbook Volume 2]]''<small> (with [[Beccy Cole]])</small>
+| 
+* Release date: 28 April 2017
+* Label: Sony Music Australia (88985410882)
+* Formats: CD, DD, [[Music streaming|streaming]]
+| 6
+|
+|-
+! scope="row"| ''The Nashville Tapes''
+| 
+* Release date: 27 July 2018
+* Label: Sony Music Australia
+* Formats: CD, DD, streaming
+| 9
+|
+|-
+! scope="row"| ''Songs from Highway One''
+| 
+* Release date: 19 February 2021<ref>{{cite web|url=https://www.jbhifi.com.au/products/cd-harvey-adam-songs-from-highway-one-cd|title=Songs From Highway One (CD)|website=JB HiFi|access-date=16 January 2021}}</ref>
+* Label: Sony Music Australia
+* Formats: CD, DD, streaming
+| 10<br /><ref>{{cite web|url=http://www.aria.com.au/charts/albums-chart/2021-03-01|title=ARIA Top 50 Albums Chart|publisher=[[Australian Recording Industry Association]]|date=1 March 2021|accessdate=27 February 2021}}</ref>
+|
+|-
+! scope="row"| ''The Great Country Songbook Volume III''<small> (with Beccy Cole)</small>
+| 
+* Scheduled date: 9 September 2022<ref>{{cite web|url=https://adamharvey.com.au/adam-harvey-and-beccy-cole-announce-new-duets-album-the-great-country-songbook-vol-3-to-be-released-in-september-and-national-tour/|title= Adam Harvey and Beccy Cole Announce New Duets Album|website=Adam Harvey|date=29 July 2022|access-date=16 August 2022}}</ref>
+* Label: Sony Music Australia (19658756162)
+* Formats: CD, DD, streaming
+| 36<br /><ref>{{cite web|url=https://www.aria.com.au/charts/albums-chart/2022-09-19|title=ARIA Top 50 Albums Chart|publisher=[[Australian Recording Industry Association]]|date=19 September 2022|access-date=16 September 2022}}</ref>
+|
+|-
+! scope="row"| ''Let the Song Take You Home''
+| 
+* Release date: 1 November 2024
+* Label: Sony Music Australia
+* Formats: CD, DD, streaming
+| {{tba}}
+|
+|-
+|}
+
+===Compilation albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:12em;"| Title
+! rowspan="2" style="width:17em;"| Details
+! colspan="1"| Peak positions
+|- style="font-size:smaller;"
+! width="50"| [[ARIA Charts|AUS]]<br><ref name="ARIA Charts"/>
+|-
+! scope="row"| ''Best So Far''
+| 
+* Release date: 20 August 2010
+* Label: [[Sony Music Australia]]
+* Formats: CD, DD
+| 41
+|-
+|}
+
+===Video albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! Title
+! Details
+! Certifications
+|-
+! scope="row"| ''Best So Far''
+| 
+* Release date: 2010
+* Label: [[Sony Music Australia]]
+* Formats: DVD
+| align="left"|
+* ARIA: Gold <ref name="aria2012">{{Cite certification |region=Australia |type=video |certyear=2014 |accessdate=24 July 2020}}</ref>
+|-
+|}
+
+==Awards and nominations==
+===ARIA Awards===
+Harvey had been nominated for 5 awards at the [[ARIA Music Awards]]<ref>{{cite web|url=https://www.ariaawards.com.au/search?term=Adam%20Harvey|title=ARIA Award Search Harvey|access-date=14 September 2018}}</ref>
+
+{{awards table}}
+|-
+| [[ARIA Music Awards of 2002|2002]] || ''Workin' Overtime'' || [[ARIA Award for Best Country Album|Best Country Album]] || {{nominated}} 
+|-
+| [[ARIA Music Awards of 2003|2003]] || ''Cowboy Dreams'' || Best Country Album || {{nominated}} 
+|-
+| [[ARIA Music Awards of 2005|2005]] || ''Can't Settle for Less'' || Best Country Album || {{nominated}} 
+|-
+| [[ARIA Music Awards of 2010|2010]] || ''Both Sides Now'' || Best Country Album || {{nominated}} 
+|-
+| [[ARIA Music Awards of 2013|2013]] || ''[[The Great Country Songbook]]'' <small>(with [[Troy Cassar-Daley]])</small> || Best Country Album || {{nominated}} 
+|-
+{{end}}
+
+===CMA Awards===
+The [[Country Music Awards of Australia]] is an annual awards night held in January during the [[Tamworth Country Music Festival]], celebrating recording excellence in the [[Australian country music]] industry. Harvey has won nine awards.<ref>{{cite web|url=http://country.com.au/golden-guitars/|title=TOYOTA GOLDEN GUITAR AWARDS|publisher=COUNTRY|date=17 November 2014|access-date=21 August 2018|archive-url=https://web.archive.org/web/20180815234658/http://country.com.au/golden-guitars/|archive-date=15 August 2018|url-status=dead}}</ref>
+
+{{awards table}} (wins only)
+|-
+|rowspan="1"| 1998 || "Drive Away" <small>(with Tanya Self)</small> || Vocal Collaboration of the Year || {{won}}
+|-
+|rowspan="1"| 2001 || "Do I Ever Cross Your Mind" <small>(with [[Beccy Cole]], Darren Coggan and Felicity)</small> || Vocal Collaboration of the Year || {{won}}
+|-
+|rowspan="2"| 2002 || ''Workin' Overtime'' || Album of the Year || {{won}}
+|-
+| "Shake of a Hand" || Male Vocalist of the Year  || {{won}}
+|-
+|rowspan="1"| 2004 || "Call It Love" || Male Vocalist of the Year || {{won}}
+|-
+|rowspan="1"| 2005 || "That's What You Call a Friend" || Male Vocalist of the Year || {{won}}
+|-
+|rowspan="1"| 2008 || ''I'm Doin' Alright'' || Album of the Year || {{won}}
+|-
+|rowspan="1"| 2012 || ''Falling Into Place'' || Album of the Year || {{won}}
+|-
+|rowspan="1"| 2022<ref name="CMAA2022">{{cite web|url=https://www.abc.net.au/news/2022-04-20/golden-guitar-winners-2022-country-music-tamworth/101002818|title=2022 Golden Guitar Awards see Cassar-Daley take out Slim Dusty record, Shane Nicholson and Ashleigh Dallas collect top gongs|website=[[Australian Broadcasting Corporation]]|date=20 April 2022|access-date=21 April 2022|author= Maguire, Kemii}}</ref> || ''Songs from Highway One'' || Traditional Country Album of the Year || {{won}}
+|-
+{{end}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Official website|www.adamharvey.com.au}}
+* [https://www.youtube.com/user/adamharvey Official Youtube Channel]
+* [http://musicbrainz.org/artist/1d9989ac-ba0f-4986-b5e6-a88b05e98195.html Adam Harvey discography] @ [[Discogs]]
+* [{{AllMusic|class=artist|id=p698129|pure_url=yes}} Adam Harvey] @ [[AllMusic]]
+* {{IMDb name|2932731}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Harvey, Adam}}
+[[Category:1974 births]]
+[[Category:21st-century Australian singers]]
+[[Category:Australian country singers]]
+[[Category:Australian male singer-songwriters]]
+[[Category:Living people]]
+[[Category:Musicians from Victoria (state)]]
+[[Category:Musicians from Geelong]]
+[[Category:Sony Music Australia artists]]
+[[Category:21st-century Australian singer-songwriters]]

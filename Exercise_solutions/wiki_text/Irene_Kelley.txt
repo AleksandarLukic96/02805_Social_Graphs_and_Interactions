@@ -1,0 +1,117 @@
+{{short description|American country and bluegrass musician}}
+{{Infobox musical artist
+| name            = Irene Kelley
+| image           =
+| birth_name      =
+| birth_date      =
+| birth_place     = [[Latrobe, Pennsylvania]]<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|page=89|year=2008|isbn=978-0-89820-177-2}}</ref>
+| genre           = [[Country music|Country]], [[Bluegrass music|bluegrass]]
+| occupation      = Singer-songwriter
+| instrument      =
+| years_active    = 1980s–present
+| label           = [[MCA Records|MCA]], Madacy, Irk, Patio, [[Mountain Fever Records|Mountain Fever]]
+| associated_acts =
+| website         = {{URL|www.irenekelley.com/}}
+}}
+
+'''Irene Kelley''' is an American [[Country music|country]] and [[Bluegrass music|bluegrass]] musician. As a songwriter, she has written for [[Ricky Skaggs]], [[Alan Jackson]], [[Loretta Lynn]], and [[the Osborne Brothers]].<ref>{{cite news|last1=Lawless|first1=John|title=Carolina Wind- new single from Irene Kelley|url=http://bluegrasstoday.com/carolina-wind-new-single-from-irene-kelley/|accessdate=2 July 2016|publisher=Bluegrass Today|date=16 March 2016}}</ref><ref>{{cite news|last1=Recker|first1=Scott|title=Pennsylvania Coal|url=http://www.popmatters.com/review/178322-irene-kelley-pennsylvania-coal/|accessdate=5 July 2016|publisher=PopMatters|date=12 February 2014}}</ref>
+
+==Early life==
+Kelley is originally from Pennsylvania and in high school sang in a Led Zeppelin cover band.<ref name="ColumbusLedZepplin">{{cite news|last1=Clementi|first1=Tyler|title=How Led Zeppelin led to Bluegrass for Irene Kelley|url=http://www.columbusunderground.com/how-led-zeppelin-led-to-bluegrass-for-irene-kelley-dd1|accessdate=4 July 2016|publisher=Columbus Underground|date=8 February 2015}}</ref> She was asked to leave the group after suggesting the band cover songs from Dolly Parton.<ref name="ColumbusLedZepplin"/>
+
+==Career==
+Kelley moved to Nashville, Tennessee in the early 1980s. This was after visiting on her honeymoon in 1983 and discovering the first gathering of the [[International Bluegrass Music Association]].<ref>{{cite news|last1=Fox|first1=Randy|title=Irene Kelley's roots run deep through Pennsylvania Coal|url=http://www.nashvillescene.com/nashville/irene-kelleys-roots-run-deep-through-pennsylvania-coal/Content?oid=4059487|accessdate=2 July 2016|publisher=Nashville Scene|date=13 February 2014|ref=NashScene}}</ref> Kelley co-wrote the [[Ricky Skaggs]] and [[The Whites|Sharon White]] song "[[Love Can't Ever Get Better Than This]]" with Nancy Montgomery. The song peaked at number ten on the ''Billboard'' [[Hot Country Songs|Hot Country Singles]] chart in 1987 and was awarded Duet of the Year at the [[Country Music Association Awards]] that same year.<ref>{{cite news|last1=Cooper|first1=Peter|title=Ricky Skaggs and Sharon White find harmony|url=http://www.tennessean.com/story/entertainment/music/peter-cooper/2014/10/03/ricky-skaggs-sharon-white-find-harmony/16586533/|accessdate=2 July 2016|publisher=The Tennessean|date=3 October 2014}}</ref> Kelley signed to [[MCA Records]] in the late 1980s.<ref name="whitburn"/>
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2" style="width:16em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! Peak positions
+|- style="font-size:smaller;"
+! width="65"| [[Top Bluegrass Albums|US Bluegrass]]<ref>{{cite magazine|title=Chart history for Irene Kelley|url=http://www.billboard.com/artist/7419037/irene-kelley/chart|magazine=Billboard|accessdate=2 July 2016}}</ref>
+|-
+! scope="row"| ''Simple Path''
+| 
+* Release date: February 27, 2001
+* Label: Madacy
+| —
+|-
+! scope="row"| ''Thunderbird''
+| 
+* Release date: October 25, 2004
+* Label: Irk
+| —
+|-
+! scope="row"| ''Pennsylvania Coal''
+| 
+* Release date: February 11, 2014
+* Label: Patio Records
+| —
+|-
+! scope="row"| ''These Hills''
+| 
+* Release date:  June 17, 2016
+* Label: [[Mountain Fever Records]]
+| 3
+|-
+! scope="row"| ''Benny's TV Repair''
+| 
+* Release date: May 10, 2019
+* Label: [[Mountain Fever Records]]
+| —
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! Peak positions
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]<br><ref name="whitburn"/>
+|-
+| 1989
+! scope="row"| "Love Is a Hard Road"
+| 67
+|-
+| 1991
+! scope="row"| "A Rock and a Rolling Stone"<ref>{{cite magazine|url=http://americanradiohistory.com/Archive-Billboard/90s/1991/BB-1991-01-05.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|date=January 5, 1991}}</ref>
+| —
+|-
+| 2018
+! scope="row"| "Something About a Train Sound"
+|—
+|- colspan="3" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:14em;"| Video
+! Director
+|-
+| 1991
+! scope="row"| "A Rock And A Rolling Stone"
+|
+|-
+| 2003
+! scope="row"| "A Little Bluer Than That"
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kelley, Irene}}
+[[Category:Living people]]
+[[Category:American bluegrass musicians]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Place of birth missing (living people)]]
+[[Category:Country musicians from Pennsylvania]]
+
+
+{{US-country-musician-stub}}

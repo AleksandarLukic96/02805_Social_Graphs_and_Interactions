@@ -1,0 +1,154 @@
+{{Short description|American musician (born 1977)}}
+{{Infobox person
+| image           = Stoney LaRue (1).jpg
+| caption         = LaRue in 2014
+| birth_name      = Stoney Larue Phillips
+| birth_place     = [[Taft, Texas]], US
+| occupation      = Musician
+| years_active    = 2002–present
+| website         = {{URL|www.stoneylarue.com}}
+| module          = {{Infobox musical artist|embed=yes
+| genre           = {{hlist|[[Red dirt (music)|Red dirt]]|[[Texas country]]}}
+| label           = Smith Music Group
+| past_member_of  = Stoney LaRue and the Organic Boogie Band
+}}
+}}
+
+'''Stoney LaRue''' (born '''Stoney Larue Phillips'''; 1977) is an American [[Texas country]]/[[Red dirt (music)|Red dirt]] artist.
+
+==Life and career==
+Born in [[Taft, Texas]], LaRue was raised in Yanush/Buffalo Valley, Oklahoma, where he still visits regularly and began playing country music at a young age.
+
+LaRue moved to [[Stillwater, Oklahoma]], and began to play in the various bars around the college town, as well as his brother, Bo Phillips. He befriended [[Jason Boland & the Stragglers|Jason Boland]] and [[Cody Canada]] and the three moved into the infamous "Yellow House" where they would have late night jam sessions and entertain other various musicians around the town, like [[Mike McClure]] and [[Brandon Jenkins (singer/songwriter)|Brandon Jenkins]].<ref>{{cite news |title=Galleywinter Interview with Cody Canada |url=http://www.galleywinter.com/main/News/article/sid=402.html}}</ref> LaRue was heavily influenced by Woody Guthrie, Bob Childers, Mike Hosty and the "Red Dirt" music scene.<ref>from an interview on [http://americanamusicshow.com/episode228 episode 228 of the Americana Music Show], published January 12, 2015</ref> 
+ 
+In 2002, LaRue led The Organic Boogie Band and released ''Downtown'', recorded in private sessions at Cain's Ballroom in [[Tulsa]]. LaRue's 2005 follow-up, ''The Red Dirt Album'', reached the ''[[Billboard (magazine)|Billboard]]'' sales charts in its debut week. The next year, Stoney released his first live record ''Live at Billy Bob's Texas''.
+
+LaRue sang backing vocals on [[Miranda Lambert]]'s 2013 single "[[All Kinds of Kinds]]."<ref name="taste">{{cite web|url=http://tasteofcountry.com/miranda-lambert-all-kinds-of-kinds/|title=Miranda Lambert, 'All Kinds of Kinds'&nbsp;– Song Review|author=Billy Dukes|date=June 10, 2013|publisher=Taste of Country|access-date=July 7, 2013}}</ref>
+
+== Legal issues ==
+On the morning of July 20, 2015, LaRue was arrested and charged with domestic abuse after an altercation involving his then girlfriend Amanda Winsworth. Winsworth claimed in court documents that she was getting ready for work when LaRue began physically assaulting her and ultimately pushed her down a flight of stairs in their home. LaRue was released from jail on $4,000 bond ({{Inflation|US|4000|2015|fmt=eq|r=-2}}{{Inflation/fn|US}}) later that day. The next morning, Winsworth rescinded part of her account of the assault on Twitter stating that the incident had been blown out of proportion by the media.<ref>{{Cite web |last=Schwab |first=Kyle |title=Girlfriend says in court documents that musician LaRue punched her |url=https://www.oklahoman.com/story/entertainment/music/2015/07/22/girlfriend-says-in-court-documents-that-musician-larue-punched-her/60733862007/ |access-date=2022-11-18 |website=The Oklahoman |language=en-US}}</ref><ref>{{Cite web |last=Whitaker |first=Sterling|title=Stoney LaRue Arrested, Charged With Domestic Abuse |url=https://tasteofcountry.com/stony-larue-arrested-domestic-abuse/ |access-date=2022-11-18 |website=Taste of Country |language=en}}</ref>
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:14em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="3"| Peak chart positions
+|- style="font-size:smaller;"
+! width="40"| [[Top Country Albums|US <br>Country]]<br><ref name="Country Albums">{{cite magazine|url=https://www.billboard.com/artist/stoney-larue/chart-history/clp/|title=Stoney LaRue Chart History (Top Country Albums)|magazine=[[Billboard (magazine)|Billboard]] }}</ref>
+! width="40"| [[Billboard 200|US]]<br><ref name="billboard 200">{{cite magazine|url=https://www.billboard.com/artist/stoney-larue/chart-history/tlp/|title=Stoney LaRue Chart History (Billboard 200)|magazine=[[Billboard (magazine)|Billboard]] }}</ref>
+! width="40"| [[Independent Albums|US<br />Indie]]<br><ref name="Indie Albums">{{cite magazine|url=https://www.billboard.com/artist/stoney-larue/chart-history/ind/|title=Stoney LaRue Chart History (Top Country Albums)|magazine=[[Billboard (magazine)|Billboard]] }}</ref>
+|- 
+! scope="row"| ''Downtown'' <small>(Stoney LaRue<br />and the Organic Boogie Band)</small>
+| 
+* Release date: 2002
+* Label: released by Stoney LaRue.
+| —
+| —
+| —
+|-
+! scope="row"| ''[[The Red Dirt Album]]''
+| 
+* Release date: August 23, 2005
+* Label: Smith Music Group
+| 70
+| —
+| —
+|-
+! scope="row"| ''Live at Billy Bob's Texas''
+| 
+* Release date: April 10, 2007
+* Label: Smith Music Group
+| 65
+| —
+| —
+|-
+! scope="row"| ''Live Acoustic'' (EP)
+| 
+* Release date: December 29, 2009
+* Label: Smith Music Group
+| 66<ref>{{cite magazine|title=Country Albums Week of January 23, 2010|url=http://www.billboard.com/charts/2010-01-23/country-albums?order=gainer|magazine=[[Billboard (magazine)|Billboard]]|access-date=July 24, 2011}}</ref>
+| —
+| —
+|-
+! scope="row"| ''Velvet''
+| 
+* Release date: August 30, 2011
+* Label: B Side Music Group
+| 15
+| 53
+| 5
+|-
+! scope="row"| ''Aviator''<ref>{{cite news|last1=McDonnell|first1=Brandy|title=Video: Stoney LaRue debuts "First One to Know," first single and video from upcoming album "Aviator"|url=http://newsok.com/video-stoney-larue-debuts-first-one-to-know-first-single-and-video-from-upcoming-album-aviator/article/5077516|access-date=July 30, 2014|work=[[The Oklahoman|NewsOK]]|date=July 25, 2014}}</ref>
+| 
+* Release date: October 28, 2014
+* Label: [[E1 Music|eOne Music]]
+| 17
+| 72
+| 15
+|-
+! scope="row"| ''Us Time''<ref>{{cite news|last1=Vinson|first1=Christina|title=Stoney LaRue Announces New Album 'Us Time'|url=http://theboot.com/stoney-larue-us-time/|access-date=September 18, 2015|work=The Boot|date=September 5, 2015}}</ref>
+| 
+* Release date: October 16, 2015
+* Label: eOne Music
+| 22
+| —
+| 40
+|-
+! scope="row"| ''Onward''<ref>{{cite news|last=Stephano|first=Angela|title=Stoney LaRue and Tanya Tucker, 'Meet in the Middle'|url=https://theboot.com/stoney-larue-tanya-tucker-meet-in-the-middle/|work=The Boot|date=October 14, 2019}}</ref>
+| 
+* Release date: November 1, 2019
+* Label:  One Chord Song
+| —
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;"| Title
+! Director
+|-
+| 2011
+! scope="row"| "Travelin' Kind"<ref>{{cite web|url=http://www.cmt.com/videos/stoney-larue/714123/travelin-kind.jhtml|archive-url=https://web.archive.org/web/20121129044614/http://www.cmt.com/videos/stoney-larue/714123/travelin-kind.jhtml|url-status=dead|archive-date=November 29, 2012|title=CMT : Videos : Stoney LaRue : Travelin' Kind|work=[[Country Music Television]]|access-date=November 28, 2011}}</ref>
+| 
+|-
+| rowspan="2"| 2014
+! scope="row"| "First One to Know"<ref>{{cite web|url=http://www.cmt.com/videos/stoney-larue/1064192/first-one-to-know.jhtml|archive-url=https://web.archive.org/web/20140728192729/http://www.cmt.com/videos/stoney-larue/1064192/first-one-to-know.jhtml|url-status=dead|archive-date=July 28, 2014|title=CMT : Videos : Stoney LaRue : First One to Know|work=[[Country Music Television]]|access-date=July 26, 2014}}</ref>
+| rowspan="3"| Coleman Saunders
+|-
+! scope="row"| "Aviator"<ref>{{cite web|url=http://www.cmt.com/videos/stoney-larue/1094605/aviator.jhtml|archive-url=https://web.archive.org/web/20141027225837/http://www.cmt.com/videos/stoney-larue/1094605/aviator.jhtml|url-status=dead|archive-date=October 27, 2014|title=CMT : Videos : Stoney LaRue : Aviator|work=[[Country Music Television]]|access-date=October 27, 2014}}</ref>
+|-
+| 2017
+! scope="row"| "Blending Colors"
+|}
+
+== References ==
+{{Reflist|30em}}
+
+==External links==
+*[https://web.archive.org/web/20090523061548/http://www.cmt.com/artists/az/larue_stoney/bio.jhtml Larue's biography at CMT]
+*[http://www.lonestarmusic.com/biography.asp?id=781 Larue's biography at Lonestar Music]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Larue, Stoney}}
+[[Category:Living people]]
+[[Category:People from San Patricio County, Texas]]
+[[Category:Singer-songwriters from Oklahoma]]
+[[Category:American country singer-songwriters]]
+[[Category:1977 births]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:Country musicians from Texas]]
+[[Category:Country musicians from Oklahoma]]
+
+
+{{US-country-musician-stub}}

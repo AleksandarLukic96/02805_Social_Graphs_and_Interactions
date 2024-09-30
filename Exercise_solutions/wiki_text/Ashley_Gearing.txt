@@ -1,0 +1,167 @@
+{{short description|American singer-songwriter}}
+
+{{Infobox musical artist
+| image        =
+| name         = Ashley Gearing
+| image_size   =
+| birth_place  =
+| birth_date   = {{Birth date and age|1991|05|15}}<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=157|isbn=978-0-89820-177-2}}</ref>
+| origin       = [[Springfield, Massachusetts]], U.S.
+| instrument   = Vocals
+| genre        = [[Country music|Country]]
+| occupation   = Singer
+| years_active = 2003-present
+| label        = [[Lyric Street Records|Lyric Street]]<br  />[[Curb Records|Curb]]
+| website      = http://www.ashley-gearing.com
+}}
+
+'''Ashley Gearing''' (born May 15, 1991) is an American [[country music]] artist. She has charted four singles on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] charts.
+
+==Biography==
+Ashley Gearing was born May 15, 1991, in [[Springfield, Massachusetts]].<ref name="whitburn"/>
+
+Ashley Gearing made her chart debut in 2003 with the song "Can You Hear Me When I Talk to You?", which peaked at No.&nbsp;36 on the U.S. ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Singles & Tracks]] charts.<ref name="whitburn"/> At the time of its release, the song made Gearing the youngest female artist to enter that chart, at twelve years and one month. This beat a record set by [[Brenda Lee]] in 1957.<ref>{{cite magazine | url=https://books.google.com/books?id=8A0EAAAAMBAJ&dq=%22ashley+gearing%22+%22can+you+hear+me+when+i+talk+to+you%22&pg=RA1-PA72 | title=Chart beat | author=Fred Bronson | magazine=Billboard | pages=72 | date=June 21, 2003}}</ref> The song was issued as a single on [[Lyric Street Records]].<ref name="whitburn"/> The song is about a child who loses her father at an early age.<ref>{{cite news | url=https://www.newspapers.com/image/90711460/ | title=Country singer, 12, cracks airwaves on own | work=Pittsburgh Post Gazette | date=May 31, 2003 | accessdate=April 5, 2022 | pages=C8}}</ref>
+
+At the age of twelve, Gearing sang "[[When You Wish Upon a Star]]" on ''[[Disneymania 2]]'' and "[[If You Can Dream]]"  which was certified gold by the RIAA on ''[[Disney Princess: The Ultimate Song Collection]]''.
+
+Her first full-length album, ''Maybe It's Time'', was released on the independent label in 2006. This album included the single "I Found It in You". In 2007, she signed with major label [[Curb Records]], charting again with the single "Out the Window" in mid-2008.<ref name="whitburn"/> A second Curb single, "What You Think About Us," was given a release of July 2010.<ref name="whitburn"/>
+
+==Discography==
+
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:16em;"| Album details
+|-
+! scope="row"| ''Maybe It's Time''
+| 
+* Release date: 2006
+* Label: Indie/Squeeze Records
+|}
+
+===EPs===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:16em;"| Album details
+|-
+! scope="row"| ''Ashley Gearing''
+| 
+* Release date: 2015
+* Label: [[Curb Records|Curb]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="60"| [[Hot Country Songs|US Country]]
+|-
+| rowspan="2"| 2003
+! scope="row"| "Can You Hear Me When I Talk to You?"
+| 36
+| rowspan="2" {{n/a}}
+|-
+! scope="row"| "Ribbons of Love"
+| —
+|-
+| 2005
+! scope="row"| "I Found It in You"
+| —
+| align="left"| ''Maybe It's Time''
+|-
+| 2008
+! scope="row"| "Out the Window"
+| 55
+| rowspan="5" {{n/a}}
+|-
+| 2010
+! scope="row"| "What You Think About Us"
+| 58
+|-
+| rowspan="2"| 2011
+! scope="row"| "Five More Minutes"
+| 57
+|-
+! scope="row"| "Me, My Heart and I"
+| —
+|-
+| 2014
+! scope="row"| "Boomerang"
+| —
+|-
+| 2015
+! scope="row"| "Train Track"
+| —
+| align="left" rowspan="2"| ''Ashley Gearing'' — EP
+|-
+| 2016
+! scope="row"| "Love Can Go to Hell"
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Guest singles===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:20em;"| Single
+! Artist
+|-
+| 2013
+! scope="row"| "I Wanna Wake Up with You"
+| Tyler Dean
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:20em;"| Video
+! Director
+|-
+| rowspan="2"| 2003
+! scope="row"| "Can You Hear Me When I Talk to You?"
+| 
+|-
+! scope="row"| "Ribbons of Love"
+| 
+|-
+|
+|-
+| 2010
+! scope="row"| "What You Think About Us"
+| Eric Welch
+|-
+|}
+
+==References==
+{{Reflist}}
+
+== External links ==
+*[http://www.ashleygearing.com/ Official Website]
+*[https://web.archive.org/web/20040222183929/http://www.cmt.com/artists/az/gearing_ashley/artist.jhtml CMT Artist Profile] &mdash; [[Country Music Television]]
+* [https://www.bostonglobe.com/arts/music/2015/10/24/springfield-ashley-gearing-youngest-female-artist-hit-country-charts/1P3UzHxOb8mikpSrTjEygO/story.html?outputType=amp Boston Globe article]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gearing, Ashley}}
+[[Category:1991 births]]
+[[Category:American child singers]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Curb Records artists]]
+[[Category:Living people]]
+[[Category:Lyric Street Records artists]]
+[[Category:Musicians from Springfield, Massachusetts]]
+[[Category:Singer-songwriters from Massachusetts]]
+[[Category:Williston Northampton School alumni]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:21st-century American women singers]]

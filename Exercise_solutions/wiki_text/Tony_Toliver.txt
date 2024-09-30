@@ -1,0 +1,102 @@
+{{short description|American country music singer (born 1955)}}
+{{Infobox musical artist
+| name            = Tony Toliver
+| image           =
+| alt             =
+| caption         =
+| image_size      =
+| birth_name      = Charles Anthony Taliaferro
+| alias           =
+| birth_date      = {{Birth date and age|1955|7|4}}<ref name="whitburn"/>
+| birth_place     = [[Richards, Texas]]
+| origin          =
+| instrument      = Vocals, [[piano]]
+| genre           = [[Country music|Country]]
+| occupation      =
+| years_active    = 1991–1997
+| label           = [[Curb Records|Curb]]<br />[[Rising Tide Records|Rising Tide]]
+| associated_acts = 
+}}
+'''Charles Anthony Taliaferro''' (born July 4, 1955 in [[Richards, Texas]]) is an American [[country music]] singer.
+
+Taliaferro began playing [[bass guitar]] in his family's gospel group, but later began playing piano. He moved to [[Nashville, Tennessee]] at age 25 and held day jobs, until he was discovered by singer [[Dottie West]]. West hired him and had him as her pianist and bandleader, with his first gig occurring at the [[White House]].<ref>{{cite web|url=http://allmusic.com/artist/tony-toliver-p1844/biography|title=Tony Taliaferro biography|last=Campbell|first=Al|work=[[Allmusic]]|accessdate=18 February 2011}}</ref>
+
+Taliaferro continued to tour with his bandmates, The Lloyds, after West died in 1991, and released a self-titled debut album through [[Curb Records]] the same year. Six years later, he released a second album, ''Half Saint, Half Sinner'' through [[Rising Tide Records]]. This album included two singles that made the [[Hot Country Songs]] charts: "Bettin' Forever on You" and "He's on the Way Home".
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:14em;"| Title
+! style="width:20em;"| Album details
+|-
+! scope="row"| ''Tony Toliver''
+| 
+* Release date: April 9, 1991
+* Label: [[Curb Records]]
+|-
+! scope="row"| ''Half Saint, Half Sinner''
+| 
+* Release date: September 24, 1996
+* Label: [[Rising Tide Records]]
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]<br /><ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=423|isbn=978-0-89820-177-2}}</ref>
+|-
+| 1990
+! scope="row"| "Bar Stool Fool"
+| —
+| align="left"| ''Tony Toliver''
+|-
+| 1996
+! scope="row"| "Bettin' Forever on You"
+| 71
+| align="left" rowspan="2"| ''Half Saint, Half Sinner''
+|-
+| 1997
+! scope="row"| "He's on the Way Home"
+| 67
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:14em;"| Single
+! Director
+|-
+| 1990
+! scope="row"| "Bar Stool Fool"
+| Greg Crutcher
+|-
+| 1996
+! scope="row"| "Bettin' Forever on You"<ref>{{cite web|url=http://www.cmt.com/videos/tony-toliver/385073/bettin-forever-on-you.jhtml|archive-url=https://archive.today/20120729225650/http://www.cmt.com/videos/tony-toliver/385073/bettin-forever-on-you.jhtml|url-status=dead|archive-date=July 29, 2012|title=CMT : Videos : Tony Toliver : Bettin' Forever On You|publisher=[[Country Music Television]]|accessdate=October 14, 2011}}</ref>
+| Marc Ball
+|}
+
+==References==
+{{Reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Toliver, Tony}}
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Curb Records artists]]
+[[Category:Rising Tide Records artists]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:Living people]]
+[[Category:1955 births]]
+[[Category:Country musicians from Texas]]

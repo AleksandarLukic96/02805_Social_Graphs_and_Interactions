@@ -1,0 +1,691 @@
+{{short description|American guitarist, songwriter and inventor (1915–2009)}}
+{{About|the musician|the guitar named after him|Gibson Les Paul}}
+{{Use mdy dates|date=December 2014}}
+{{Infobox musical artist
+| honorific_prefix= 
+| name            = Les Paul
+| image           = Les Paul, ca. Jan. 1947 (William P. Gottlieb 07001).jpg 
+| caption         = Paul {{circa|January 1947}}
+| background      = non_vocal_instrumentalist
+| birth_name      = Lester William Polsfuss
+| birth_date      = {{birth date|1915|6|9}}
+| birth_place     = [[Waukesha, Wisconsin]], U.S.
+| death_date      = {{Death date and age|2009|8|12|1915|6|9}}
+| death_place     = [[White Plains, New York]], U.S.
+| genre           = {{hlist|[[Jazz]]|[[Country music|country]]|[[blues]]|[[rock and roll]]|[[acoustic music]]}} 
+| occupation      = {{hlist|Musician|songwriter|inventor|luthier}}
+| instrument      = {{hlist|Vocals|guitar|harmonica}}
+| associated_acts = [[Mary Ford]]
+| label           = [[RCA Records|RCA]]
+| years_active    = 1928–2009
+| website         = {{URL|https://www.les-paul.com/}}
+| spouse          = {{ubl|{{marriage|Virginia Webb|1937|1949|end=divorce}}|{{marriage|[[Mary Ford]]|1949|1964|end=divorce}}}}
+}}
+'''Lester William Polsfuss''' (June 9, 1915 – August 12, 2009), known as '''Les Paul''', was an American [[jazz guitarist|jazz]], [[country guitarist|country]], and [[blues]] guitarist, songwriter, [[luthier]], and inventor. He was one of the pioneers of the [[solid body|solid-body]] electric guitar, and his prototype, called the Log, served as inspiration for the [[Gibson Les Paul]]. Paul taught himself how to play guitar, and while he is mainly known for jazz and popular music, he had an early career in country music.<ref>{{cite web|url=http://smithsonianassociates.org/programs/paul/paul.asp |title=Voices from the Smithsonian Associates. ''Les Paul, Musician and Inventor''. |access-date=October 20, 2007 |url-status=unfit |archive-url=https://web.archive.org/web/20071020014312/http://smithsonianassociates.org/programs/paul/paul.asp |archive-date=October 20, 2007 }}</ref> In the 1950s, he and his wife, singer and guitarist [[Mary Ford]], recorded numerous records, selling millions of copies.
+
+Paul is credited with many recording innovations. His early experiments with [[overdubbing]] (also known as [[History of sound recording#Electrical recording|sound on sound]]),<ref>[http://www.list.co.uk/article/19914-guitarist-and-recording-pioneer-les-paul-dies-aged-94/ Guitarist and recording pioneer Les Paul dies, aged 94] {{Webarchive|url=https://web.archive.org/web/20090821022408/http://www.list.co.uk/article/19914-guitarist-and-recording-pioneer-les-paul-dies-aged-94/ |date=August 21, 2009 }}. The List. August 13, 2009.</ref> [[Delay (audio effect)|delay effects]] such as tape delay, [[Phaser (effect)|phasing]], and [[multitrack recording]] were among the first to attract widespread attention.<ref>{{cite web |url=https://www.pbs.org/wnet/americanmasters/episodes/les-paul/chasing-sound/100/ |title=The Wizard of Waukesha |date=August 13, 2009 |publisher=Pbs.org |archive-url=https://web.archive.org/web/20120225154555/http://www.pbs.org/wnet/americanmasters/episodes/les-paul/chasing-sound/100/ |archive-date=February 25, 2012 |url-status=live }}</ref> His [[Lick (music)|lick]]s, [[Trill (music)|trill]]s, [[chording]] sequences, [[Fingerboard#Frets|fretting]] techniques, and timing set him apart from his contemporaries and inspired many guitarists of the present day.<ref name="Houston">{{cite web|url=http://archive.salon.com/people/feature/1999/07/08/paul/print.html |title=Father of invention |last=Houston |first=Frank |date=July 8, 1999 |website=[[Salon.com]] |access-date=August 14, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20090816084913/http://archive.salon.com/people/feature/1999/07/08/paul/print.html |archive-date=August 16, 2009 }}</ref><ref>Staff writer (October 12, 2005).  [https://www.cbc.ca/news/entertainment/les-paul-90-releases-tribute-album-1.564229 "Les Paul, 90, Releases Tribute Album"]. ''[[Canadian Broadcasting Corporation|CBC]]''. Accessed August 24, 2009. [https://www.cbc.ca/news/entertainment/les-paul-90-releases-tribute-album-1.564229]</ref><ref>[http://steelguitarforum.com/Forum8/HTML/001019.html Swing Licks for C6th Lap Steel] {{Webarchive|url=https://web.archive.org/web/20090106173430/http://steelguitarforum.com/Forum8/HTML/001019.html |date=January 6, 2009 }}. The Steel Guitar Forum.</ref><ref>Benson, John (November 12, 2008). [http://www.vindy.com/news/2008/nov/12/rock-hall-to-honor-les-paul/ Rock hall to honor Les Paul] {{Webarchive|url=https://web.archive.org/web/20110717205915/http://www.vindy.com/news/2008/nov/12/rock-hall-to-honor-les-paul/ |date=July 17, 2011 }}. Vindy.com.</ref>
+
+Among his many honors, Paul is one of a handful of artists with a permanent exhibit in the [[Rock and Roll Hall of Fame]].<ref>{{cite web |url=http://rockhall.com/exhibits |title=Exhibits &#124; The Rock and Roll Hall of Fame and Museum |publisher=Rockhall.com |access-date=March 27, 2011 |archive-url=https://web.archive.org/web/20120201115735/http://rockhall.com/exhibits |archive-date=February 1, 2012 |url-status=live }}</ref> He is prominently named by the music museum on its website as an "architect" and a "key inductee" with [[Sam Phillips]] and [[Alan Freed]].<ref>{{cite web |url=http://rockhall.com/exhibits/the-architects/ |title=The Architects of Rock and Roll featuring Les Paul, Alan Freed and Sam Phillips &#124; The Rock and Roll Hall of Fame and Museum |publisher=Rockhall.com |access-date=2011-08-19 |archive-url=https://web.archive.org/web/20110810084437/http://rockhall.com/exhibits/the-architects/ |archive-date=August 10, 2011 |url-status=live }}</ref> Paul is the only inductee in both the Rock and Roll Hall of Fame and the [[National Inventors Hall of Fame]].<ref name="Les Paul Foundation2">{{cite web|title=Les Paul Foundation Website|url=http://www.lespaulfoundation.org|access-date=February 4, 2014|archive-url=https://web.archive.org/web/20140211060904/http://www.lespaulfoundation.org/|archive-date=February 11, 2014|url-status=dead}}</ref>
+
+==Early life==
+Paul was born Lester William Polsfuss<ref>Farber, Jim (August 13, 2009). [http://www.nydailynews.com/entertainment/music/2009/08/14/2009-08-14_electric_guitar_hero_les_paul_dead_at_94_career_spanned_from_hitmaker_to_musical.html "Electric Guitar Hero Les Paul Dead at 94: Hit-Maker, Musical Designer, Pioneer"] {{Webarchive|url=https://web.archive.org/web/20090818173937/http://www.nydailynews.com/entertainment/music/2009/08/14/2009-08-14_electric_guitar_hero_les_paul_dead_at_94_career_spanned_from_hitmaker_to_musical.html |date=August 18, 2009 }}. ''[[Daily News (New York)|Daily News]]''. Accessed August 24, 2009.</ref> in [[Waukesha, Wisconsin|Waukesha]], Wisconsin, to George<ref name="Les Paul Foundation2"/> and Evelyn (Stutz) Polsfuss, both of German ancestry.<ref>{{cite book |last=Lawrence |first=Robb |title=The Early Years of the Les Paul Legacy, 1915–1963 |url={{GBurl|NqIgLrXaA6QC|page=2|dq=Germany}} |location=New York |publisher=Hal Leonard Books |year=2008 |pages=2–3 |isbn=978-0-634-04861-6}}</ref> His only sibling, Ralph, was seven years older. Paul's mother was related to the founders of [[Milwaukee]]'s [[Valentin Blatz Brewing Company]] and the makers of the [[Stutz Motor Company|Stutz]] automobile.<ref name="bookref1">{{cite book|last=Masino|first=Susan|author2=Paul, Les |title=Famous Wisconsin Musicians|publisher=Badger Books|year=2003|location=Oregon, Wisconsin|pages=9–11|isbn=1878569880}}</ref> His parents divorced when he was a child.<ref>Henry, David (August 13, 2009). [https://www.bloomberg.com/apps/news?pid=20601088&sid=aD_WpRVvFQwk "Les Paul, Pioneer of Electric Guitar, Inventor, Dies at 94"]. ''[[Bloomberg L.P.|Bloomberg]]''. Accessed August 24, 2009.</ref> His mother simplified their Prussian family name first to Polfuss, then to Polfus, although Les Paul [[name change|never legally changed his name]]. Before taking the stage name Les Paul, he performed as Red Hot Red<ref name=thirteen>[http://www.thirteen.org/pressroom/release.php?get=2539 American Masters (2007 Season) – "Les Paul: Chasing Sound"] {{Webarchive|url=https://web.archive.org/web/20080318174344/http://www.thirteen.org/pressroom/release.php?get=2539 |date=March 18, 2008 }} – thirteen WNET New York</ref> and Rhubarb Red.<ref>{{cite web|url=http://classicjazzguitar.com/articles/article.jsp?article=25 |title=Articles |publisher=Classic Jazz Guitar |access-date=March 27, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110708163155/http://classicjazzguitar.com/articles/article.jsp?article=25 |archive-date=July 8, 2011 }}</ref>
+
+At the age of eight, Paul began playing the harmonica. After learning the piano, he switched to the banjo and guitar.  During this time, Paul invented a neck-worn harmonica holder, which allowed him to play both sides of the harmonica, hands-free, while performing on the banjo and guitar.  Les Paul's hands-free design is still widely manufactured today.<ref>(August 14, 2009). [https://www.nytimes.com/2009/08/14/arts/music/14paul.html] {{Webarchive|url=https://web.archive.org/web/20170301204416/http://www.nytimes.com/2009/08/14/arts/music/14paul.html|date=March 1, 2017}} ''[[The New York Times]]'' (website registration required).</ref> By age thirteen, Paul was performing semi-professionally as a [[country music|country-music]] singer, guitarist, and harmonica player. While playing at Waukesha area drive-ins and [[roadhouse (facility)#USA and Canada|roadhouses]], Paul began his first experiment with sound. Wanting to make his acoustic guitar heard by more people at the local venues, he wired a [[phonograph]] needle to his guitar and connected it to a radio speaker.<ref>{{cite news|url=https://news.google.com/newspapers?id=CfNYAAAAIBAJ&pg=1140,3217614&dq=grammy+hall+of+fame+jo+stafford&hl=en|title=Cinemax to honor 'Edison' of music|date=October 22, 2009|author=Ladd, Patty|newspaper=The Vindicator|access-date=May 4, 2011|archive-url=https://web.archive.org/web/20150904124944/https://news.google.com/newspapers?id=CfNYAAAAIBAJ&sjid=doUMAAAAIBAJ&pg=1140,3217614&dq=grammy+hall+of+fame+jo+stafford&hl=en|archive-date=September 4, 2015|url-status=live}}</ref> As a teen Paul experimented with [[Envelope (music)|sustain]] by using a 2-foot piece of rail from a nearby train line.<ref name="Les Paul Foundation3">{{cite web|title=Les Paul: Inventor and Performer|url=http://www.lespaulfoundation.org/blog/les-paul-inventor-and-performer/|work=Les Paul Foundation website|publisher=Les Paul Foundation|access-date=February 4, 2014|url-status=dead|archive-url=https://archive.today/20140204014322/http://www.lespaulfoundation.org/blog/les-paul-inventor-and-performer/|archive-date=February 4, 2014|df=mdy-all}}</ref> At age seventeen, Paul played with Rube Tronson's Texas Cowboys, and soon after he dropped out of high school to team up with Sunny Joe Wolverton's Radio Band in [[St. Louis, Missouri|St. Louis]], Missouri, on [[KMOX]].
+
+==Career==
+
+===Early career===
+Paul and Wolverton moved to Chicago in 1934, where they continued to perform country music on radio station [[WBBM (AM)|WBBM]] and at the 1934 Chicago World's Fair. While in Chicago, Paul learned jazz from the great performers on Chicago's Southside. During the day, he played country music as Rhubarb Red on the radio. At night, he was Les Paul, playing jazz. He met pianist [[Art Tatum]], whose playing influenced him to continue with the guitar rather than play jazz on the piano.<ref name="Les Paul: The Living Legend of the Electric Guitar">{{cite web|url=http://www.classicjazzguitar.com/articles/article.jsp?article=25 |title=ClassicJazzGuitar.com |publisher=ClassicJazzGuitar.com |access-date=2012-09-10 |url-status=dead |archive-url=https://web.archive.org/web/20120313012503/http://classicjazzguitar.com/articles/article.jsp?article=25 |archive-date=March 13, 2012 }}</ref> His first two records were released in 1936, credited to "Rhubarb Red", Paul's hillbilly alter ego. He also served as an accompanist for other bands signed to [[Decca Records|Decca]]. During this time, he began adding different sounds and adopted his stage name of Les Paul.<ref>{{cite web |first=Gil |last=Kaufman |publisher=MTV News |url=http://www.mtv.com/news/articles/1618673/20090813/paul_les.jhtml |title=Paul Les |archive-url=https://web.archive.org/web/20090816191607/http://www.mtv.com/news/articles/1618673/20090813/paul_les.jhtml |archive-date=August 16, 2009 |url-status=dead }}</ref>
+
+[[File:(Portrait of Les Paul, New York, N.Y.(?), ca. Jan. 1947) (LOC) (5105151726).jpg|thumb|left|Les Paul playing live, {{circa|1947}}]]
+Paul's guitar style was strongly influenced by the music of [[Django Reinhardt]], whom he greatly admired.<ref>Cook, Kenneth. "Book Review: "The Music of Django Reinhardt," by Benjamin Givan." ''ARSC Journal'' 42.1 (2011): 86–87.</ref> Following [[World War II]], Paul sought out and made friends with Reinhardt. When Reinhardt died in 1953, Paul paid for part of the funeral's cost.<ref>{{cite book |last1=Balmer |first1=Paul |url=https://books.google.com/books?id=IFUIAQAAMAAJ |title=Stéphane Grappelli: With and Without Django |publisher=Sanctuary |year=2003 |isbn=978-1860744532 |access-date=2015-06-22 |archive-url=https://web.archive.org/web/20150904124943/https://books.google.com/books?id=IFUIAQAAMAAJ&q |archive-date=September 4, 2015 |url-status=live }}</ref> One of Paul's prized possessions was a [[Selmer guitar|Selmer]] acoustic guitar given to him by Reinhardt's widow.<ref name="thirteen"/>
+
+Paul formed a trio in 1937 with rhythm guitarist Jim Atkins<ref>liner notes from Chet Atkins/Jim Atkins 1963 RCA Camden LP #CAL-753, "The Guitar Genius"</ref><ref name="SoundOnSound">{{cite web |last1=Buskin |first1=Richard |title=Classic Tracks: Les Paul & Mary Ford 'How High the Moon' |url=https://www.soundonsound.com/techniques/classic-tracks-les-paul-mary-ford-how-high-moon |website=SoundOnSound |publisher=Sound On Sound |access-date=1 August 2023}}</ref> (older half-brother of guitarist [[Chet Atkins]]) and bassist<ref name="SoundOnSound"/>/percussionist Ernie "Darius" Newton. They left Chicago for New York in 1938,<ref name="Les Paul In His Own Words">{{cite book|last=Paul|first=Les|title=Les Paul: In His Own Words|year=2005|publisher=Gemstone Publishing|location=New York|isbn=978-1-60360-050-7}}</ref> landing a featured spot with [[The Fred Waring Show (radio program)|Fred Waring's radio show]]. Chet Atkins later wrote that his brother, home on a family visit, presented him with an expensive [[Gibson Guitar|Gibson]] archtop guitar that Les Paul had given to Jim. Chet recalled that it was the first professional-quality instrument he ever owned.<ref>Atkins, Chet; Neely, Bill (1974). ''Country Gentleman''. Chicago: [[Regnery|H. Regnery]].  {{ISBN|978-0-8092-9051-2}}</ref>
+
+While jamming in his apartment basement in 1941,<ref name="Les Paul In His Own Words"/> Paul nearly succumbed to electrocution. During two years of recuperation, he moved to Chicago where he was the music director for radio stations WJJD and WIND. In 1943, he moved to Hollywood where he performed on radio and formed a new trio.
+
+He was drafted into the [[United States Army|U.S. Army]] in 1943,<ref name="Les Paul In His Own Words"/> where he served in the [[Armed Forces Radio Network]], backing such artists as [[Bing Crosby]] and [[the Andrews Sisters]], and performing in his own right.<ref>{{cite news |last=Tianen |first=Dave |title=The Wizard of Waukesha |newspaper=Milwaukee Journal Sentinel |date=August 26, 2009 |url=https://www.pbs.org/wnet/americanmasters/episodes/les-paul/chasing-sound/100/ |archive-url=https://web.archive.org/web/20120225154555/http://www.pbs.org/wnet/americanmasters/episodes/les-paul/chasing-sound/100/ |archive-date=February 25, 2012 |url-status=live }}</ref>
+
+As a last-minute replacement for [[Oscar Moore]], Paul played with [[Nat King Cole]] and other artists in the inaugural [[Jazz at the Philharmonic]] concert in [[Los Angeles]], [[California]], on July 2, 1944. His solo on "[[Body and Soul (song)|Body and Soul]]" is a demonstration of his admiration for and emulation of Django Reinhardt, as well as his development of original lines.
+
+Also that year, Paul's trio appeared on Bing Crosby's radio show. Crosby sponsored Paul's recordings. They recorded together several times, including "[[It's Been a Long, Long Time]]", which was a No. 1 hit<ref name="SoundOnSound"/> in 1945. Paul recorded several albums for [[Decca Records|Decca]] in the 1940s. [[The Andrews Sisters]] hired his trio to open for them during a tour in 1946. Their manager, Lou Levy, said watching Paul's fingers while he played guitar was like watching a train go by.<ref name="autogenerated2000">Sforza, John: "Swing It! The Andrews Sisters Story;" University Press of Kentucky, 2000; 289 pages.</ref> Their conductor, [[Vic Schoen]], said his playing was always original.<ref name="autogenerated2000"/>  Maxine Andrews said, "He'd tune into the passages we were singing and lightly play the melody, sometimes in harmony. We'd sing these fancy licks and he'd keep up with us note for note in exactly the same rhythm... almost contributing a fourth voice. But he never once took the attention away from what we were doing. He did everything he could to make us sound better."<ref name="autogenerated2000"/> In the 1950s, when he recorded Mary Ford's vocals on multiple tracks, he created music that sounded like [[the Andrews Sisters]].<ref name="autogenerated2000"/>
+
+In January 1948, Paul shattered his right arm and elbow among multiple injuries in a near-fatal automobile accident on an icy [[Route 66]] west of [[Davenport, Oklahoma|Davenport]], [[Oklahoma]]. Mary Ford was driving the [[Buick]] convertible, which plunged off the side of a railroad overpass and dropped twenty feet into a ravine. They were returning from Wisconsin to Los Angeles after visiting family.<ref name="Les Paul In His Own Words"/> Doctors at Oklahoma City's Wesley Hospital told Paul that they could not rebuild his elbow. Their other option was [[amputation]]. Paul was flown to Los Angeles, where his arm was set at an angle—just over 90 degrees—that allowed him to cradle and pick the guitar. It took him nearly a year and a half to recover.<ref name=freshair>{{cite web |author=Fresh Air from WHYY |url=https://www.npr.org/templates/story/story.php?storyId=111888401 |title=Guitar Hero: Les Paul, 1915–2009 |website = NPR.org|access-date=March 27, 2011 |archive-url=https://web.archive.org/web/20110628211807/http://www.npr.org/templates/story/story.php?storyId=111888401 |archive-date=June 28, 2011 |url-status=live }}</ref>
+
+===Guitar builder===
+[[File:Daves58historic.jpg|thumb|Gibson '58 Reissue Les Paul guitar (2005)]]
+
+{{anchor|The Log}}
+In 1940, Les Paul revisited his experiments with the train rail. This time he created a similar prototype instrument, a one-off solid-body electric guitar known as "The Log", which was manufactured utilizing a common construction material often referred as a “4×4 stud post”, which provided a unique neck-thru design.  The “stud post” (a 4″ × 4″ section of [[Douglas fir]]) was then equipped with a crude bridge and an electromagnetic [[Pickup (music technology)|pickup]], neck and strings.  The Log was constructed by Paul after-hours in the New York City [[Epiphone]] guitar factory, and is one of the first solid-body electric guitars.<ref>{{cite web |url= http://www.dkimages.com/discover/Home/Performing-Arts/Music/Instruments/String/Guitars/Electric-Guitar/Les-Paul/Les-Paul-01.html |title= The Log |publisher= DK Images |access-date= March 27, 2011 |archive-url= https://web.archive.org/web/20110710140434/http://www.dkimages.com/discover/Home/Performing-Arts/Music/Instruments/String/Guitars/Electric-Guitar/Les-Paul/Les-Paul-01.html |archive-date= July 10, 2011 |url-status= live }}</ref><ref>{{cite web|title=Epiphone: A History|url=http://www.epiphone.com/History.aspx|publisher=Epiphone.com|access-date=February 23, 2012|archive-url=https://web.archive.org/web/20151104095251/http://www.epiphone.com/History.aspx|archive-date=November 4, 2015|url-status=dead}}</ref>  For the sake of appearance, he attached the body of an [[Epiphone]] hollow-body guitar sawn lengthwise with The Log in the middle. This solved his two main problems: [[Audio feedback|feedback]], as the acoustic body no longer resonated with the amplified sound, and sustain, as the energy of the strings was not dissipated in generating sound through the guitar body. These instruments were constantly being improved and modified over the years, and Paul continued to use them in his recordings even after the development of his eponymous Gibson model.
+
+Paul approached the [[Gibson Guitar Corporation]] with his idea of a solid-body electric guitar in 1941,<ref name="Les Paul In His Own Words"/> 
+but Gibson showed no interest until Fender began marketing its [[Fender Esquire|Esquire]] and [[Telecaster|Broadcaster]] guitars in 1950 (the Broadcaster was renamed the Telecaster in 1952).
+
+Gibson's [[Ted McCarty]] was the chief designer of the guitar, which was based on Paul's drawings and later dubbed the [[Gibson Les Paul]]. Gibson entered into a promotional and financial arrangement with Les Paul, paying him a royalty on sales.<ref name=Lawrence2008>{{cite book|last=Lawrence|first=Robb|title=The Early Years of the Les Paul Legacy: 1915–1963|year=2008|publisher=Hal Leonard Corp|isbn=978-0634048616|page=304}}</ref> The guitar went on sale in 1952. Paul continued to  make design suggestions.
+
+In 1960, sales of the original Les Paul model had dropped, so a more modernistic model was introduced (today called the SG), but then still bearing the Les Paul name. Not liking the new look and  severe problems with the strength of the body and neck, made Paul dissatisfied with this new Gibson guitar. This, and a pending divorce from [[Mary Ford]], led to Paul ending his endorsement and use of his name on Gibson guitars from 1964 until 1966, by which time his divorce was completed.<ref>{{cite web |url= http://www.jinxmagazine.com/les_paul.html |title= Interview &#124; July 19, 1999, at the Iridium jazz club, New York City |publisher= Jinx Magazine |date= July 19, 1999 |access-date= March 27, 2011 |archive-url= https://web.archive.org/web/20110713110152/http://www.jinxmagazine.com/les_paul.html |archive-date= July 13, 2011 |url-status= live }}</ref>
+
+{{anchor|Headless guitar}}
+Paul continued to suggest technical improvements, although they were not always successful commercially. In 1962, Paul was issued {{US Patent|3,018,680}}, for a pickup in which the coil was integrated into the bridge.<ref>{{cite web|url=https://patents.google.com/patent/US3018680 |title= Patents | access-date = March 27, 2011}}</ref> In the mid-1940s, he introduced an aluminum guitar with the tuning mechanisms below the bridge. As it had no headstock, and the string attachments were at the nut, it was the first "headless" guitar. Unfortunately, Paul's guitar was so sensitive to the heat from stage lights that it would not keep tune. However, he used it for several of his hit recordings. This style was further developed by others, most successfully Ned [[Steinberger]].<ref>{{cite web |url=http://lespaulfoundation.org/sevenpages/page1.htm |title=Les Paul Guitar Innovations |access-date=2014-03-11 |url-status=dead |archive-url=https://archive.today/20140311025027/http://lespaulfoundation.org/sevenpages/page1.htm |archive-date=March 11, 2014 |df=mdy-all }}</ref>
+
+A less-expensive version of the Les Paul guitar is manufactured for Gibson's [[Epiphone]] brand.<ref>{{cite web|title=Epiphone Les Paul Standard|url=http://www.epiphone.com/Products/Les-Paul/Les-Paul-Standard.aspx|publisher=Epiphone.com|access-date=February 23, 2012|archive-url=https://web.archive.org/web/20120218185620/http://www.epiphone.com/Products/Les-Paul/Les-Paul-Standard.aspx|archive-date=February 18, 2012|url-status=live}}</ref>
+
+===Multitrack recording===
+Paul first experimented with sound on sound while in elementary school when he punched holes in the [[piano roll]] for his mother's [[player piano]]. In 1946,  his mother complimented him on a song she had heard on the radio, when in fact she had heard George Barnes, not Paul.<ref>{{cite journal|last1=Kane|first1=Brian|title=Acousmatic Fabrications: Les Paul and the 'Les Paulverizer' |journal=Journal of Visual Culture|date=August 2011|volume=10|issue=2|page=216|doi=10.1177/1470412911402892|s2cid=193109700}}</ref> This motivated Paul to spend two years in his Hollywood garage recording studio, creating his unique sound, his New Sound. Paul stunned the music industry with his New Sound in 1948.
+
+Paul recorded several songs with Bing Crosby, most notably "[[It's Been a Long, Long Time]]," which was a number-one single in 1945.<ref>{{cite journal|last1=Waksman|first1=Steve|title=Les Paul: In Memoriam|journal=Popular Music & Society|date=May 2010|volume=33|issue=2|page=271|doi=10.1080/03007761003707944|s2cid=191470269}}</ref><ref name="SoundOnSound"/>
+
+After a recording session, Bing Crosby suggested that Paul build a recording studio so he could produce the sound he wanted. Paul started his studio in the garage of his home on North Curson Street in Hollywood. The studio drew many vocalists and musicians who wanted the benefit of his expertise. His experiments included microphone placement, track speed, and recording overdubs. These methods resulted in a clarity previously unheard in this type of multitrack recording. People began to consider his recording techniques as instruments—as important to production as a guitar, bass, or drums.<ref>{{cite journal|last1=Waksman|first1=Steve|title=Les Paul: In Memoriam|journal=Popular Music & Society|date=May 2010|volume=33|issue=2|page=3|doi=10.1080/03007761003707944|s2cid=191470269}}</ref>
+
+Capitol Records released "[[Lover (When You're Near Me)]]", on which Paul played eight different parts on electric guitar,<ref name="SoundOnSound"/> some recorded at half-speed, hence "double-fast" when played back at normal speed for the [[master recording|master]]. This was the first time he used multitracking in a recording. His early multitrack recordings, including "Lover" and "Brazil", were made with [[acetate disc]]s. He recorded a track onto a disk, then recorded himself playing another part with the first. He built the multitrack recording with overlaid tracks rather than parallel ones as he did later. By the time he had a result that satisfied him, he had discarded some five hundred recording disks.
+
+As a teen he had built a disc-cutter assembly using the flywheel from a [[Cadillac]], a dental belt and other parts from his father's car repair shop. Years later in his Hollywood garage, he used the acetate disc setup to record parts at different speeds and with delay, resulting in his signature sound with echoes and birdsong-like guitar riffs.
+
+In 1949, Crosby gave Paul one of the first [[Ampex]] Model 200A [[Reel-to-reel audio tape recording|reel to reel tape recorders]].<ref name="Les Paul In His Own Words"/> Paul invented sound on sound recording using this machine by placing an additional playback head, located before the conventional erase/record/playback heads. This allowed Paul to play along with a previously recorded track, both of which were mixed together onto a new track. The Ampex was a monophonic tape recorder with only one track across the entire width of quarter-inch tape, and therefore, the recording was "destructive" in the sense that the original recording was permanently replaced with the new, mixed recording. He eventually enhanced this by using one tape machine to play back the original recording and a second to record the combined track. This preserved the original recording.<ref name="aes.org">{{cite web |url=http://www.aes.org/aeshc/docs/sel-sync/snyder_sel-sync.pdf |title=Sel-sync and the "Octopus": How Came to be the First Recorder to Minimize Successive Copying in Overdubs |work=ARSC Journal |access-date=March 27, 2011 |archive-url=https://web.archive.org/web/20110519105331/http://www.aes.org/aeshc/docs/sel-sync/snyder_sel-sync.pdf |archive-date=May 19, 2011 |url-status=live }}</ref>
+
+In 1952, Paul invented the [[flanging|flange effect]], where a sound phases in and out in harmonic tone. The first example of this can be heard on his song "Mammy's Boogie".<ref name="Bode">{{cite journal |last1=Bode |first1=Harald |title=History of Electronic Sound Modification |journal=Journal of the Audio Engineering Society |date=October 1984 |volume=32 |issue=10 |page=730}}</ref><ref name="Thompson">{{cite book |last1=Thompson |first1=Art |title=Stompbox: A History of Guitar, Fuzzes, Flangers, Phasers, Echoes & Wahs |date=1997 |publisher=Miller Freeman |location=San Francisco, Calif. |isbn=0-87930-479-0 |page=24}}</ref>
+
+Observing film recordings inspired Paul to design the stacking of eight tape recorders. He worked with [[Ross S. Snyder|Ross Snyder]] on the design of the first eight-track recording deck built for him by Ampex for his home studio.<ref name="Garage">{{cite book |last=Lawrence|first=Robb |title=The Early Years of the Les Paul Legacy, 1915-1963|url=https://books.google.com/books?id=NqIgLrXaA6QC&pg=PA19 |access-date=May 10, 2011|year=2008|publisher=Hal Leonard|isbn=978-0-634-04861-6 |pages=19–}}</ref><ref>{{cite web |url=http://www.aes.org/aeshc/docs/sel-sync/snyder_sel-sync.pdf |title=Sel-sync and the "Ocotpus": How Came to be the First Recorder to Minimize Successive Copying in Overdubs |work=ARSC Journal |access-date=March 27, 2011 |archive-url=https://web.archive.org/web/20110519105331/http://www.aes.org/aeshc/docs/sel-sync/snyder_sel-sync.pdf |archive-date=May 19, 2011 |url-status=live }}</ref><ref name="aes.org"/> Rein Narma built a custom 8-channel mixing console for him.<ref>{{cite journal |title=2007 AES Report – Where Audio Comes Alive |url=http://www.mixonline.com/ms/aes2007/2007aes-web-report/ |journal=[[Mix (magazine)|Mix]] |archive-url=https://web.archive.org/web/20140917154520/http://www.mixonline.com/ms/aes2007/2007aes-web-report/ |archive-date=2014-09-17 |quote=After the event, Narma, who also designed and built Les Paul's 8-track recording console, was reacquainted with Les, as the two had not seen each other since 1973.}}</ref> The mixing board included in-line [[equalization (audio)|equalization]] and vibrato effects. He named the recorder "The Octopus" and the mixing console "The Monster".<ref>{{cite journal |author=Richard Buskin |title=Classic Tracks: Les Paul & Mary Ford 'How High The Moon' |url=http://www.soundonsound.com/sos/jan07/articles/classictracks_0107.htm |journal=[[Sound on Sound]] |issue=January 2007 |access-date=September 5, 2009 |archive-url=https://web.archive.org/web/20080720032654/http://www.soundonsound.com/sos/jan07/articles/classictracks_0107.htm |archive-date=July 20, 2008 |url-status=live }}</ref> The name "octopus" was inspired by comedian [[W. C. Fields]], who was the first person to hear Paul play his multi-tracked guitar experiments. "He came to my garage to make a little record (in 1946)," Les recalled. "I played him the acetate of 'Lover' that I'd done. When he heard it, he said, 'My boy, you sound like an octopus.{{'"}}<ref>{{cite web |author=Bill DeMain |title=The Best of the Capitol Masters (90th Birthday Edition) |url=http://www.puremusic.com/61les.html |work=Puremusic.com |access-date=November 15, 2012 |archive-url=https://web.archive.org/web/20130209230021/http://www.puremusic.com/61les.html |archive-date=February 9, 2013 |url-status=live }}</ref>
+
+===Les Paul and Mary Ford===
+{{main|Les Paul and Mary Ford}}
+[[File:Les Paul and Mary Ford 1954.jpg|thumb|Paul and Mary Ford in 1954]]
+In the summer of 1945, Paul met country-western singer Iris Colleen Summers. They began working together on Paul's radio show, as Rhubarb Red and The Ozark Apple Knockers with Mary Lou. Later Paul suggested the stage name [[Mary Ford]]. They married in Milwaukee in 1949.
+
+Their hits included "[[How High the Moon]]", "[[Bye Bye Blues (song)|Bye Bye Blues]]", "Song in Blue", "Don'cha Hear Them Bells", "[[The World Is Waiting for the Sunrise]]", and "[[Vaya con Dios (song)|Vaya con Dios]]". The songs were recorded with multiple tracks where Ford harmonized with herself and Paul played multiple layers of guitars.
+
+They used the recording technique known as [[close miking]]<ref name=Garage/> where the microphone is less than {{convert|6|in|cm|0}} from the singer's mouth. This produces a more intimate, less reverberant sound than when a singer is {{convert|1|ft|cm|-1}} or more from the microphone. When using a pressure-gradient (uni- or bi-directional) microphone, it emphasizes low-frequency sounds in the voice due to the microphone's [[Proximity effect (audio)|proximity effect]] and gives a more relaxed feel because the performer is not working as hard. The result is a singing style which diverged from the unamplified theater style of the musical comedies of the 1930s and 1940s.
+
+They also performed music-hall style semi-comic routines with Mary mimicking whatever line Les decided to improvise.<ref>{{Citation|title=Les Paul & Mary Ford Absolutely Live|url=https://www.youtube.com/watch?v=awjTKeS9Wvo| archive-url=https://ghostarchive.org/varchive/youtube/20211107/awjTKeS9Wvo| archive-date=2021-11-07 | url-status=live|date=June 27, 2014|language=en|access-date=2021-08-11}}{{cbignore}}</ref>
+
+===Radio and television programs===
+Paul hosted a 15-minute radio program, ''The Les Paul Show'', on [[NBC Radio]] in 1950, featuring his trio (himself, Ford and rhythm player Eddie Stapleton) and his electronics. The program was recorded from their home and with gentle humor between Paul and Ford bridging musical selections, some of which had already been successful on records, some of which anticipated the couple's recordings, and many of which presented re-interpretations of such jazz and pop selections as "[[In the Mood]]", "Little Rock Getaway", "Brazil", and "[[Tiger Rag]]". Many of these shows survive and are available from various sources.<ref>{{cite web |url=https://archive.org/details/TheLesPaulShow |title=The Les Paul Show |access-date=March 27, 2011 |archive-url=https://web.archive.org/web/20110629051309/http://www.archive.org/details/TheLesPaulShow |archive-date=June 29, 2011 |url-status=live }}</ref>
+
+When Paul used magnetic tape, he could take his recording equipment on tour, making episodes for his fifteen-minute radio show in a hotel room.
+
+The show appeared on television a few years later with the same format, but excluding the trio and retitled ''Les Paul & Mary Ford at Home'' with "Vaya Con Dios" as the [[Theme music|theme song]]. Sponsored by [[Warner–Lambert]]'s [[Listerine]] [[mouthwash]], it was aired on [[NBC television]] during 1954–1955, and then was [[broadcast syndication|syndicated]] until 1960. The five-minute show, consisting of the performance of only one or two songs, aired five times a day, five days a week, and therefore was used as a brief interlude or fill-in for programming schedules. Since Paul created the entire show himself, including audio and video, he maintained the original recordings and was in the process of restoring them to current quality standards until his death.<ref name="Cellini">{{cite web|url=https://www.apple.com/pro/profiles/lespaul/index.html |title=Les Paul: Invented Here |last=Cellini |first=Joe |publisher=[[Apple Inc.]] |date=n.d. |access-date=August 24, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20090222032234/http://www.apple.com/pro/profiles/lespaul/index.html |archive-date=February 22, 2009 }}</ref>
+
+During his radio shows, Paul introduced the fictional "{{visible anchor|Les Paulverizer}}" device, which multiplies anything fed into it, such as a guitar sound or a voice. It was Paul's way of explaining how his single guitar could be multiplied to become a group of guitars. The device even became the subject of comedy, with Ford multiplying herself and her [[vacuum cleaner]] with it so she could finish the housework faster. Later, Paul created a real Les Paulverizer that he attached to his guitar. The invention allowed Paul to access pre-recorded layers of songs during live performances so he could replicate his recorded sound on stage.<ref name="Les Paul Foundation5">{{cite web|last=Baker|first=Sue|title=Les Paul Inventor and performer|url=http://www.lespaulfoundation.org/blog/les-paul-inventor-and-performer/#more-2087|publisher=Les Paul Foundation|access-date=February 4, 2014|url-status=dead|archive-url=https://archive.today/20140204014322/http://www.lespaulfoundation.org/blog/les-paul-inventor-and-performer/#more-2087|archive-date=February 4, 2014|df=mdy-all}}</ref>
+
+===Later career===
+[[File:Les Paul.jpg|thumb|left|Paul in May 2004|201x201px]]
+In 1965, Paul went into semi-retirement, although he did return to his studio occasionally. He and Ford had divorced at the end of 1964 after she became tired of touring.<ref name="nytdiv">"[https://www.nytimes.com/1964/12/18/les-paul-obtains-divorce.html Les Paul Obtains Divorce] {{Webarchive|url=https://web.archive.org/web/20180310074024/https://www.nytimes.com/1964/12/18/les-paul-obtains-divorce.html |date=March 10, 2018 }}", ''The New York Times'', December 18, 1964.</ref> One of Paul's most recognizable recordings from then through the mid-1970s was an album for [[London Records]]/[[Phase 4 Stereo]], ''Les Paul Now'' (1968), on which he updated some of his earlier hits. Paul played the initial guitar track, and [[George Barnes (musician)|George Barnes]] laid down the additional tracks while Paul engineered in his home studio. He also recorded two albums, ''[[Chester and Lester]]'' (1976) and ''[[Guitar Monsters]]'' (1978), for [[RCA Victor]], comprising a meld of jazz and country improvisation with guitar virtuoso [[Chet Atkins]], backed by some of [[Nashville, Tennessee|Nashville]]'s celebrated studio musicians.
+
+In 1969 Paul produced the album ''Poe Through the Glass Prism'' for RCA. The album featured songs based on Edgar Allan Poe's writing by the northeastern Pennsylvania band the Glass Prism. The album produced a single titled "The Raven" that appeared on Billboard's Hot 100.
+
+As years progressed Paul played at slower tempos with a large pick that was easier to hold in his arthritic hand. In 2006, at the age of  90, he won two Grammy Awards at the [[48th Annual Grammy Awards]] for his album ''Les Paul & Friends: American Made World Played''. He also performed every Monday night at Manhattan's [[Iridium Jazz Club]] with guitarist Lou Pallo, bassist Paul Nowinski (and later, [[Nicki Parrott]]), and guitarist [[Frank Vignola]] and for a few years, pianist [[John Colianni]]. Paul, Pallo and Nowinski also performed at [[Scheffel Hall|Fat Tuesdays]].<ref>{{cite web|url=http://www.iridiumjazzclub.com/|title=Iridium Jazz Club|publisher=Iridium Jazz Club|access-date=March 27, 2011|archive-url=https://web.archive.org/web/20110305204105/http://iridiumjazzclub.com/|archive-date=March 5, 2011|url-status=live}}</ref><ref name="Milicia">{{cite web |last1=Milicia |first1=Joe |title=Guitar hero Les Paul ready for Rock Hall tribute |url=https://tucson.com/news/guitar-hero-les-paul-ready-for-rock-hall-tribute/article_c6063d6c-83c7-5add-bff2-e7b10ab8bacb.html |website=Arizona Daily Star |access-date=28 July 2018 |date=7 November 2008 |archive-url=https://web.archive.org/web/20180728221408/https://tucson.com/news/guitar-hero-les-paul-ready-for-rock-hall-tribute/article_c6063d6c-83c7-5add-bff2-e7b10ab8bacb.html |archive-date=July 28, 2018 |url-status=live }}</ref><ref>Foster, D.R. (June 1, 2009).  [http://newyork.decider.com/articles/les-is-more-93-years-old-and-cooler-than-you,28498/ "Les is more: 93 years old and cooler than you—A Night with the Longstanding Guitar Great"] {{webarchive|url=https://web.archive.org/web/20140223065010/http://newyork.decider.com/articles/les-is-more-93-years-old-and-cooler-than-you%2C28498/ |date=February 23, 2014 }}. ''[[The A.V. Club]]''. Accessed August 15, 2009</ref><ref>{{Cite news|last=Gay|first=Chris|date=2004-02-19|title=The Electrifying Influence Of Guitar Legend Les Paul|language=en-US|work=Wall Street Journal|url=https://www.wsj.com/articles/SB107714365822533118|access-date=2021-08-11|issn=0099-9660}}</ref>
+
+Composer Richard Stein sued Paul for plagiarism, charging that Paul's "[[Johnny Is the Boy for Me|Johnny (is the Boy for Me)]]" was taken from Stein's 1937 song "Sanie cu zurgălăi" (Romanian for "Sleigh with Bells"). In 2000, a cover version of "Johnny" by Belgian musical group [[Vaya Con Dios (band)|Vaya Con Dios]] that credited Paul prompted another action by the Romanian Musical Performing and Mechanical Rights Society.<ref>{{cite news|first=Anca |last=Nicoleanu |title=Zici că n-ai plagiat şi, gata, ai scăpat |date=February 2, 2007 |access-date=June 19, 2009 |url=http://www.cotidianul.ro/zici_ca_n_ai_plagiat_si_gata_ai_scapat-22511.html |url-status=dead |archive-url=https://web.archive.org/web/20090604124914/http://cotidianul.ro/zici_ca_n_ai_plagiat_si_gata_ai_scapat-22511.html |archive-date=June 4, 2009 }} (non-English language)</ref><ref name="copyrightE">{{cite web |title=Johnny is the boy for me; musical composition with lyrics. By Paddy Roberts & Marcel Stellman, m Les Paul, pseud. of Lester W. Polfuss |url=http://www.copyrightencyclopedia.com/johnny-is-the-boy-for-me-musical-composition-with-lyrics-by/ |website=Copyrightencyclopedia.com |access-date=28 July 2018 |quote=On September 3, 1981, the copyright to 'Johnny (Is the Boy for Me)' was renewed, showing Les Paul as the composer of the music. This was the mandatory 28 year renewal requirement for copyright. |archive-url=https://web.archive.org/web/20150904124943/http://www.copyrightencyclopedia.com/johnny-is-the-boy-for-me-musical-composition-with-lyrics-by/ |archive-date=September 4, 2015 |url-status=live }}</ref>
+
+==Personal life==
+[[File:Les Paul laughing.jpg|thumb|Paul with pianist John Colianni]]
+Les Paul married Virginia Webb in 1937.<ref name="The early years of the Les Paul legacy, 1915-1963">{{cite book| first= Robb| last= Lawrence| year= 2008| title= The early years of the Les Paul legacy, 1915-1963| edition= 1st| publisher= Hal Leonard Corporation| location= Milwaukee| isbn= 978-0-634-04861-6| page= 16}}</ref> They had two children, Les Paul Jr. (Rusty) (1941–2015), and Gene (1944), who was named after actor-songwriter [[Gene Lockhart]].
+
+After getting divorced in 1949, Paul married [[Mary Ford]] (born Iris Colleen Summers).<ref name="ReferenceA">"Les Paul's Baby Dies." New York Times, Dec 01, 1954</ref> The best man and matron of honor were the parents of guitarist [[Steve Miller (musician)|Steve Miller]], whose family was from [[Milwaukee]]. Paul was Miller's godfather and his first guitar teacher.<ref>{{AllMusic|class=artist|id=p106068|label=Steve Miller}}</ref><ref name="Hernandez">{{cite web|last1=Hernandez|first1=Raoul|title=Space Cowboy Steve Miller's Not Joking|url=http://www.austinchronicle.com/music/2016-07-22/space-cowboy-steve-millers-not-joking/|website=The Austin Chronicle|access-date=12 February 2017|date=22 July 2016|archive-url=https://web.archive.org/web/20170213163600/http://www.austinchronicle.com/music/2016-07-22/space-cowboy-steve-millers-not-joking/|archive-date=February 13, 2017|url-status=live}}</ref> Ford gave birth to their first child on November 30, 1954, but the girl was born prematurely and died when she was four days old.<ref name="ReferenceA"/> They adopted a girl, Colleen, in 1958, and their son, Robert (Bobby), was born the following year. Paul and Ford divorced in December 1964.<ref name="nytdiv"/>
+
+Paul and Ford maintained a house in [[Mahwah, New Jersey]],<ref>Fredrix, Emily via [[Associated Press]]. [http://usatoday30.usatoday.com/life/people/2007-05-11-les-paul_N.htm "Guitarist Les Paul plays for hometown"] {{Webarchive|url=https://web.archive.org/web/20170428052750/http://usatoday30.usatoday.com/life/people/2007-05-11-les-paul_N.htm |date=April 28, 2017 }}, ''[[USA Today]]'', May 10, 2007. Accessed April 27, 2017."</ref> and after their divorce Ford lived there until her death in 1977.
+
+In 1995, Paul established the Les Paul Foundation, which was designed to remain dormant until his death. The Les Paul Foundation aims to inspire innovative and creative thinking by sharing the legacy of Les Paul through support of music education, recording, innovation, and medical research related to hearing.<ref>{{cite web |url=https://www.les-paul.com/the-foundation/|title=About: Mission Statement |author=<!--Not stated--> |website=les-paul.com |date=February 24, 2021 |access-date=September 15, 2022}}</ref> The Foundation established the Les Paul Innovation Award in 1991 and the Les Paul Spirit Award in 2016.
+
+===Death===
+On August 12, 2009, Paul died of complications from [[pneumonia]] at White Plains Hospital in [[White Plains, New York]].<ref>{{cite news |url=https://www.nytimes.com/2009/08/14/arts/music/14paul.html?_r=1&pagewanted=1 |title=Les Paul Obituary |newspaper=New York Times |date=August 13, 2009 |access-date=2009-09-29 |archive-url=https://web.archive.org/web/20171202054118/http://www.nytimes.com/2009/08/14/arts/music/14paul.html?_r=1&pagewanted=1 |archive-date=December 2, 2017 |url-status=live |last1=Pareles |first1=Jon }}</ref><ref>{{cite web|url=http://www.idiomag.com/peek/97288/les_paul|title=Music Great Les Paul Dies at 94|author=Newels, Eric|access-date=August 21, 2009|date=August 17, 2009|publisher=[[idiomag]]|archive-url=https://web.archive.org/web/20120327141303/http://www.idiomag.com/peek/97288/les_paul|archive-date=March 27, 2012|url-status=live}}</ref>  After hearing about his death, many musicians commented on his importance. [[Slash (musician)|Slash]] called him "vibrant and full of positive energy", while [[Richie Sambora]] called him a "revolutionary in the music business". [[The Edge]] said, "His legacy as a musician and inventor will live on and his influence on rock and roll will never be forgotten."<ref name="Gathersnomoss">{{cite magazine|url=https://www.rollingstone.com/rockdaily/index.php/2009/08/13/les-paul-remembered-guitar-greats-on-their-true-hero/|title=Les Paul Remembered: Guitar Greats on Their True Hero|magazine=[[Rolling Stone]]|date=August 13, 2009|access-date=August 13, 2009|archive-url=https://web.archive.org/web/20090816072638/http://www.rollingstone.com/rockdaily/index.php/2009/08/13/les-paul-remembered-guitar-greats-on-their-true-hero/|archive-date=August 16, 2009|url-status=dead}}</ref><ref name="Slowtime">{{cite news|url=http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/music/article6795384.ece|title=Musicians pay tribute to the 'original guitar hero' Les Paul|newspaper=[[The Times]]|author=Jack Malvern|date=August 13, 2009|access-date=August 13, 2009 | location=London}}{{dead link|date=September 2024|bot=medic}}{{cbignore|bot=medic}}</ref><ref>{{cite news |author=Sheridan, Luke |url=https://www.thestar.com/news/obituary/article/681159 |title=Les Paul, 94: Guitar legend |newspaper=[[Toronto Star]]|date=August 14, 2009 |access-date=August 15, 2009 |archive-url=https://web.archive.org/web/20090816173524/http://www.thestar.com/news/obituary/article/681159 |archive-date=August 16, 2009 |url-status=live }}</ref> On August 21, 2009, he was buried in Prairie Home Cemetery, [[Waukesha, Wisconsin]].<ref>{{cite news | url=http://artsbeat.blogs.nytimes.com/2009/08/18/funeral-plans-announced-for-les-paul/ | work=The New York Times | title=Funeral Plans Announced for Les Paul | first=Dave | last=Itzkoff | date=August 18, 2009 | access-date=May 7, 2010 | archive-url=https://web.archive.org/web/20110714223719/http://artsbeat.blogs.nytimes.com/2009/08/18/funeral-plans-announced-for-les-paul/ | archive-date=July 14, 2011 | url-status=live }}</ref><ref>{{cite web |url=http://www.jsonline.com/news/waukesha/54027427.html |title=Les Paul comes home to his mother |publisher=JSOnline |access-date=March 27, 2011 |archive-url=https://web.archive.org/web/20110505101646/http://www.jsonline.com/news/waukesha/54027427.html |archive-date=May 5, 2011 |url-status=live }}</ref>
+
+==Awards and honors==
+[[File:Rog Les PaulEdit.jpg|thumb|170px|Paul and audio engineer [[Roger Nichols (recording engineer)|Roger Nichols]], both winners of Technical Grammy Awards]]
+A few of Les Paul's many awards are listed below. In 2007, he was given the [[National Medal of Arts]] from U.S. President [[George W. Bush]].<ref>{{cite web|url=http://www.nea.gov/honors/medals/medalists_year.html#07 |title=Lifetime Honors – National Medal of Arts |publisher=Nea.gov |access-date=March 27, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20130826194408/http://www.nea.gov/honors/medals/medalists_year.html |archive-date=August 26, 2013 }}</ref>
+
+Paul was inducted into the [[National Inventors Hall of Fame]] (2005) for his development of the solid-body electric guitar.<ref>{{cite web|url=http://www.invent.org/hall_of_fame/225.html |title=Inventor Profile, National Inventors Hall of Fame |publisher=Invent.org |access-date=March 27, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110610005558/http://www.invent.org/hall_of_fame/225.html |archive-date=June 10, 2011 |df=mdy }}</ref> In 1988, he was inducted into the [[Rock and Roll Hall of Fame]] by guitarist [[Jeff Beck]], who said, "I've copied more licks from Les Paul than I'd like to admit." He was also inducted into the [[Songwriters Hall of Fame]] (2005), the Big Band & Jazz Hall of Fame (1990), the [[New Jersey Inventors Hall of Fame]] (1996), and the [[New Jersey Hall of Fame]] (2010).<ref>{{cite news |last=Alloway |first=Kristen |url=http://www.nj.com/news/index.ssf/2010/05/jack_nicholson_susan_sarandon.html |title=Jack Nicholson, Susan Sarandon are among 15 inducted into N.J. Hall of Fame |work=NJ.Com |publisher=New Jersey On-Line LLC |date=2010-05-02 |access-date=2015-06-22 |archive-url=https://web.archive.org/web/20151016194905/http://www.nj.com/news/index.ssf/2010/05/jack_nicholson_susan_sarandon.html |archive-date=October 16, 2015 |url-status=live }}</ref>
+
+Two of his songs entered the [[Grammy Hall of Fame]]: "[[How High the Moon]]" and "[[Vaya Con Dios (song)|Vaya Con Dios]]".<ref>{{Cite web|url=http://www.grammy.org/recording-academy/awards/hall-of-fame|archive-url=https://web.archive.org/web/20150707235113/http://www.grammy.org/recording-academy/awards/hall-of-fame|url-status=dead|title=Grammy Hall of Fame Database|archive-date=July 7, 2015}}</ref><ref>{{cite web|url=http://www.grammy.org/recording-academy/awards/hall-of-fame#h |title=Grammy Hall of Fame Award Past Recipients |publisher=grammy.com |access-date=August 19, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20110122042616/http://www.grammy.org/recording-academy/awards/hall-of-fame |archive-date=January 22, 2011 }}</ref> In 1976, he and [[Chet Atkins]] received the Grammy Award for [[Grammy Award for Best Country Instrumental Performance|Best Country Instrumental]].<ref name="Les Paul Foundation"/> In 2005, he won [[Grammy Award for Best Pop Instrumental Performance|Best Pop Instrumental]] for "Caravan" and [[Grammy Award for Best Rock Instrumental Performance|Best Rock Instrumental]] for "69 Freedom Special."
+
+In 1983, Paul received a [[Grammy Trustees Award]] for lifetime achievement. In 2001, he was honored with the Special Merit/[[Technical Grammy Award]], which recognizes "individuals or institutions that have set the highest standards of excellence in the creative application of audio technology," a select award given to masters of audio innovation including [[Thomas Alva Edison]], [[Leo Fender]], and [[Beatles]] recording engineer [[Geoff Emerick]].<ref>{{cite web |url=http://www.grammy.org/recording-academy/producers-and-engineers/awards |title=Technical GRAMMY Award |publisher=grammy.com |access-date=January 29, 2012 |archive-url=https://web.archive.org/web/20141026094809/http://www.grammy.org/recording-academy/producers-and-engineers/awards |archive-date=October 26, 2014 |url-status=dead }}</ref> In 2004, he received an Emmy Lifetime Achievement Award in Engineering and a Lifetime Achievement in Music Education from the Wisconsin Foundation for School Music.<ref name="Les Paul Foundation"/>
+
+In 1960, he and Mary Ford received a star on the [[Hollywood Walk of Fame]].<ref name="Les Paul Foundation">{{cite web|last=Braunstein|first=Michael|title=Les Paul Foundation: Les Paul's Legacy Timeline|url=http://lespaulfoundation.org/les-paul-legacy.html|publisher=Les Paul Foundation|access-date=January 7, 2014|url-status=dead|archive-url=https://archive.today/20140107201952/http://lespaulfoundation.org/les-paul-legacy.html|archive-date=January 7, 2014|df=mdy-all}}</ref>
+
+In 2009, Paul was named one of the top ten electric guitarists of all time by [[Time (magazine)|''Time'' magazine]].<ref>{{cite web |author=Dave on |url=http://www.fretbase.com/blog/2009/08/time-magazine-picks-the-10-best-electric-guitar-players-including-yngwie/ |title=Fretbase, Time Magazine Picks the 10 Best Electric Guitar Players |publisher=Fretbase.com |date=August 24, 2009 |access-date=March 27, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110402045526/http://www.fretbase.com/blog/2009/08/time-magazine-picks-the-10-best-electric-guitar-players-including-yngwie/ |archive-date=April 2, 2011 |df=mdy-all }}</ref> Two years later he was named the eighteenth greatest guitarist of all time by ''Rolling Stone'' magazine.<ref>{{cite magazine |url=https://www.rollingstone.com/music/lists/100-greatest-guitarists-20111123/les-paul-19691231 |title=100 Greatest Guitarists: Les Paul |magazine=Rolling Stone |date=November 23, 2011 |access-date=September 2, 2017 |archive-url=https://web.archive.org/web/20120713070900/http://www.rollingstone.com/music/lists/100-greatest-guitarists-20111123/les-paul-19691231 |archive-date=July 13, 2012 |url-status=live }}</ref> During the same year, his name was added to the [[Music City Walk of Fame|Nashville Walk of Fame]].<ref name="Les Paul Foundation"/>
+
+In 2011, for Paul's birthday on June 9–10, an interactive [[Google Doodle]] was shown on the [[Google]] homepage where the Google logo itself is formed as a Les Paul guitar and the user was able to play and record music. By the next 48 hours, approximately 40 million songs were recorded by users.<ref>{{Cite web|title=Les Paul's 96th Birthday|url=https://doodles.google/doodle/les-pauls-96th-birthday/|access-date=October 10, 2023|website=Google|language=en}}</ref>
+
+===Concerts and exhibitions===
+[[File:Les Paul live 3.jpg|thumb|170px|Paul playing a [[Gibson Les Paul]] at the [[Iridium Jazz Club]] in New York City, 2008]]
+In July 2005, a 90th-birthday tribute concert was held for Les Paul at [[Carnegie Hall]] in New York City. After performances by [[Steve Miller (musician)|Steve Miller]], [[Peter Frampton]], [[Jose Feliciano]], and a number of others, Paul was presented with a commemorative guitar from the [[Gibson Guitar]] Corporation.<ref name="Landers">{{cite news|url=http://www.modernguitars.com/archives/000877.html |title=Les Paul Tribute Concert at Carnegie Hall |last=Landers |first=Rick |date=July 3, 2005 |publisher=Modern Guitars Magazine |access-date=August 14, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20090319035110/http://www.modernguitars.com/archives/000877.html |archive-date=March 19, 2009 }}</ref> Three years later, at a tribute concert at the [[State Theatre (Cleveland, Ohio)|State Theater]] in [[Cleveland]], [[Ohio]], he received the Rock and Roll Hall of Fame's American Music Masters Award.<ref name="Ferris">{{cite magazine|last1=Ferris|first1=D.X.|title=Slash, Billy Gibbons Jam for Les Paul at Rock Hall's American Music Masters Concert|url=https://www.rollingstone.com/music/news/slash-billy-gibbons-jam-for-les-paul-at-rock-halls-american-music-masters-concert-20081117|magazine=Rolling Stone|access-date=12 February 2017|date=17 November 2008|archive-url=https://web.archive.org/web/20170924001605/https://www.rollingstone.com/music/news/slash-billy-gibbons-jam-for-les-paul-at-rock-halls-american-music-masters-concert-20081117|archive-date=September 24, 2017|url-status=live}}</ref>  On June 9, 2015, a yearlong celebration of Paul's 100th birthday kicked off in [[Times Square]] with performances by musicians including Steve Miller, [[Jose Feliciano]], and [[Neal Schon]], a memorabilia exhibition, and a proclamation from the Les Paul Foundation declaring June 9 as Les Paul Day.<ref>{{cite news  |url=http://www.startribune.com/les-paul-anniversary-celebration-to-kick-off-in-times-square/305831231/ |title=Yearlong celebration marking Les Paul's 100th birthday to kick off in Times Square next week |agency=Associated Press |date=2015-06-02 |access-date=2015-06-22 |url-status=dead |archive-url=https://web.archive.org/web/20150622220323/http://www.startribune.com/les-paul-anniversary-celebration-to-kick-off-in-times-square/305831231/ |archive-date=June 22, 2015 }}</ref>
+
+In 2007, the biographical film ''Les Paul Chasing Sound'' was aired on the public television series [[American Masters]]. The premier showing was held at Milwaukee's Downer Theater in conjunction with a concert Paul put on for the Waukesha County Historical Society & Museum. The film contained interviews with Les Paul, performances by his trio on his 90th birthday, and interview commentary and performances by other musicians.<ref>{{Cite news|url=http://www.pbs.org/wnet/americanmasters/les-paul-chasing-sound/100/|title=Les Paul: Chasing Sound|work=American Masters|access-date=March 21, 2018|archive-url=https://web.archive.org/web/20180319170439/http://www.pbs.org/wnet/americanmasters/les-paul-chasing-sound/100/|archive-date=March 19, 2018|url-status=live}}</ref>
+
+In June 2008, an exhibit showcasing Paul's legacy and featuring items from his personal collection opened at [[Discovery World]] in Milwaukee.<ref>Williams, Scott (April 30, 2008).  [http://www.jsonline.com/story/index.aspx?id=745264 "Discovery World Lands Les Paul Exhibit—Guitar Wiz Sees No Effect on Waukesha Museum"] {{webarchive|url=https://web.archive.org/web/20080630222124/http://www.jsonline.com/story/index.aspx?id=745264 |date=June 30, 2008 }}  ''[[Milwaukee Journal Sentinel]]''.  Accessed August 24, 2009.</ref> Paul played a concert in Milwaukee to coincide with the opening of the exhibit.<ref>Tianen, Dave (June 23, 2008).  [http://www.jsonline.com/story/index.aspx?id=764817 "Paul Brings Bit of Manhattan to the Pabst"] {{webarchive|url=https://web.archive.org/web/20080702035636/http://www.jsonline.com/story/index.aspx?id=764817 |date=July 2, 2008 }}.  ''[[Milwaukee Journal Sentinel]]''.  Accessed August 24, 2009.</ref> Paul's hometown of Waukesha, Wisconsin, opened a permanent exhibit titled "The Les Paul Experience" at the Waukesha County Museum in June 2013. The exhibit features artifacts on loan from the Les Paul Foundation. A self-guided tour of Les Paul's Waukesha was created by the Les Paul Foundation.<ref>{{cite news|first=Kane |last=Farabaugh |title=At 92, Music Pioneer Les Paul Still Performing |date=December 27, 2007 |publisher=[[Voice of America]]|url=http://voanews.com/english/archive/2007-12/2007-12-26-voa47.cfm |access-date=August 24, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20090822181448/http://www.voanews.com/english/archive/2007-12/2007-12-26-voa47.cfm |archive-date=August 22, 2009 }}</ref><ref name="Les Paul Foundation 6">{{cite web|title=Les Paul Foundation|url=http://www.lespaulfoundation.org|publisher=Les Paul Foundation|access-date=February 4, 2014|archive-url=https://web.archive.org/web/20140211060904/http://www.lespaulfoundation.org/|archive-date=February 11, 2014|url-status=dead}}</ref>
+
+A permanent Les Paul exhibit is also located at the Mahwah Historical Museum.<ref>{{cite web|url=https://mahwahmuseum.org/les-paul-in-mahwah-2/|title=Les Paul in Mahwah Exhibit|access-date=July 30, 2021}}</ref> Other museums that include Les Paul are the Museum of Making Music in Phoenix and the Grammy Museum in [[Newark, New Jersey|Newark]], [[New Jersey]].
+
+In 2009, the concert film ''Les Paul Live in New York'' was aired on public television showing Les Paul performing on his 90th birthday at the [[Iridium Jazz Club]] in New York and in archival clips.<ref>{{Cite news|url=https://www.loc.gov/item/jots.200158675|title=Les Paul Live in New York City|publisher=The Library of Congress|access-date=March 21, 2018|archive-url=https://web.archive.org/web/20180322020815/https://www.loc.gov/item/jots.200158675|archive-date=March 22, 2018|url-status=live}}</ref>
+
+==Discography==
+
+=== Albums ===
+
+==== Solo Career ====
+* ''The New Sound'' (Capitol, 78 rpm and 45 rpm [[Extended play|EP]], 1950; {{frac|33|1|3}} rpm LP, 1955)
+* ''Les Paul's New Sound, Vol. 2'' (Capitol, 1951)
+* ''Bye Bye Blues!'' (Capitol, 1952)
+* ''The Hit Makers!'' (Capitol, 1953)
+* ''[[Les and Mary]]'' (Capitol, 1955)
+* ''Songs of Today'' (Capitol, 45 rpm [[Extended play|EP]], 1956)
+* ''Time to Dream'' (Capitol, 1957)
+* ''The Hits of Les and Mary'' (Capitol, 1960)
+* ''Les Paul and Mary Ford'' (Capitol, {{frac|33|1|3}} rpm [[Extended play|EP]], 1961)
+* ''[[Bouquet of Roses (album)|Bouquet of Roses]]'' (Columbia, 1962)
+* ''Warm and Wonderful'' (Columbia, 1962)
+* ''Les Paul Now'' (Decca, 1968)
+* ''The World Is Still Waiting For The Sunrise'' (Capitol, 1974)
+* ''[[Chester and Lester]]'' with [[Chet Atkins]] (RCA Victor, 1976) 
+* ''[[Guitar Monsters]]'' with Chet Atkins (RCA Victor, 1978)
+* ''Early Les Paul'' (Capitol, 1982)
+* ''Feed Back 1944–1955'' (Circle, 1986)
+* ''[[The Best of the Capitol Masters: Selections from "The Legend and the Legacy" Box Set]]'' (Capitol, 1992)
+* ''American Made World Played'' (Capitol, 2005)
+* ''A Tribute to a Legend'' (Immergent, 2008)
+
+==== With Les Paul And His Trio ====
+
+* Hawaiian Paradise (Decca, 1946)
+* Galloping Guitars (Decca, 1951)
+
+===Hit singles===
+{| class="wikitable" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="4"|Chart positions
+|-
+! style="width:35px;"|<sup>[[Billboard Hot 100|US]]</sup>
+! style="width:35px;"|<sup>[[Cashbox (magazine)|CB]]</sup>
+! style="width:35px;"|<sup>[[Hot Country Songs|US Country]]</sup>
+! style="width:35px;"|<sup>[[UK Singles Chart|UK]]</sup><ref name="British Hit Singles & Albums">{{cite book
+| first= David
+| last= Roberts
+| year= 2006
+| title= British Hit Singles & Albums
+| edition= 19th
+| publisher= Guinness World Records Limited
+| location= London
+| isbn= 1-904994-10-5
+| page= 420}}</ref>
+|-
+| 1945
+| style="text-align:left;"| "[[It's Been a Long, Long Time]]" <small>(with [[Bing Crosby]])</small>
+| 1
+|
+|
+|
+|-
+| 1946
+| style="text-align:left;"| "[[Rumors Are Flying]]" <small>(with [[The Andrews Sisters]])</small>
+| 4
+|
+|
+|
+|-
+| rowspan="3"| 1948
+| style="text-align:left;"| "[[Lover (Rodgers and Hart song)|Lover]]"
+| 21
+|
+|
+|
+|-
+| style="text-align:left;"| "[[Aquarela do Brasil|Brazil]]"
+| 22
+|
+|
+|
+|-
+| style="text-align:left;"| "[[What Is This Thing Called Love?]]"
+| 11
+|
+|
+|
+|-
+| rowspan="4"| 1950
+| style="text-align:left;"| "Nola"
+| 9
+|
+|
+|
+|-
+| style="text-align:left;"| "[[Goofus (song)|Goofus]]"
+| 21
+|
+|
+|
+|-
+| style="text-align:left;"| "Little Rock Getaway"
+| 18
+|
+|
+|
+|-
+| style="text-align:left;"| "[[Tennessee Waltz]]"
+| 6
+|
+|
+|
+|-
+| rowspan="9"| 1951
+| style="text-align:left;"| "Jazz Me Blues"
+| 23
+|
+|
+|
+|-
+| style="text-align:left;"| "[[Mockin' Bird Hill]]"<small>(gold record)</small>
+| 2
+|
+| 7
+|
+|-
+| style="text-align:left;"| "[[How High the Moon]]"<small>(gold record)</small><sup>A</sup> 
+| 1
+| 
+|
+|
+|-
+| style="text-align:left;"| "[[Josephine (Wayne King song)|Josephine]]"
+| 12
+|
+|
+|
+|-
+| style="text-align:left;"| "I Wish I Had Never Seen Sunshine"
+| 18
+|
+|
+|
+|-
+| style="text-align:left;"| "[[The World Is Waiting for the Sunrise]]"<small>(gold record)</small>
+| 2
+|
+|
+|
+|-
+| style="text-align:left;"| "[[Whispering (song)|Whispering]]"
+| 7
+|
+|
+|
+|-
+| style="text-align:left;"| "Just One More Chance"
+| 5
+|
+|
+|
+|-
+| style="text-align:left;"| "[[Jingle Bells]]"
+| 10
+|
+|
+|
+|-
+| rowspan="9"| 1952
+| style="text-align:left;"| "[[Tiger Rag]]"
+| 2
+|
+|
+|
+|-
+| style="text-align:left;"| "[[Confessin'|I'm Confessin']]"
+| 13
+|
+|
+|
+|-
+| style="text-align:left;"| "[[Carioca (1933 song)|Carioca]]"
+| 14
+|
+|
+|
+|-
+| style="text-align:left;"| "[[In the Good Old Summertime (song)|In the Good Old Summertime]]"
+| 15
+|
+|
+|
+|-
+| style="text-align:left;"| "Smoke Rings"
+| 14
+|
+|
+|
+|-
+| style="text-align:left;"| "[[Meet Mister Callaghan]]"
+| 5
+| 4
+|
+|
+|-
+| style="text-align:left;"| "Take Me in Your Arms and Hold Me"
+| 15
+| 22
+|
+|
+|-
+| style="text-align:left;"| "[[Lady of Spain]]"
+| 8
+|
+|
+|
+|-
+| style="text-align:left;"| "My Baby's Comin' Home"
+| 7
+| 11
+|
+|
+|-
+| rowspan="7"| 1953
+| style="text-align:left;"| "[[Bye Bye Blues (song)|Bye Bye Blues]]"
+| 5
+| 14
+|
+|
+|-
+| style="text-align:left;"| "[[I'm Sitting on Top of the World]]"
+| 10
+| 8
+|
+|
+|-
+| style="text-align:left;"| "[[Sleep (1920s song)|Sleep]]"
+| 21
+| 31
+|
+|
+|-
+| style="text-align:left;"| "[[Vaya Con Dios (song)|Vaya Con Dios]]"<small>(gold record)</small>
+| 1
+| 1
+|
+| 7
+|-
+| style="text-align:left;"| "[[Sanie cu zurgălăi|Johnny (Is the Boy for Me)]]"
+| 15
+| 25
+|
+|
+|-
+| style="text-align:left;"| "[[The Kangaroo (song)|The Kangaroo]]"
+| 25
+| 23
+|
+|
+|-
+| style="text-align:left;"| "[[Don'cha Hear Them Bells]]"
+| 13
+| 28
+|
+|
+|-
+| rowspan="6"| 1954
+| style="text-align:left;"| "[[I Really Don't Want To Know]]"
+| 11
+| 33
+|
+|
+|-
+| style="text-align:left;"| "South"
+| 
+| 18
+|
+|
+|-
+| style="text-align:left;"| "I'm a Fool to Care"
+| 6
+| 13
+|
+|
+|-
+| style="text-align:left;"| "Auctioneer"
+| 
+| 28
+|
+|
+|-
+| style="text-align:left;"| "[[Whither Thou Goest]]"
+| 10
+| 12
+|
+|
+|-
+| style="text-align:left;"| "[[Mandolino (Les Paul instrumental)|Mandolino]]"
+| 19
+| 22
+|
+|
+|-
+| rowspan="6"| 1955
+| style="text-align:left;"| "[[Song in Blue]]"
+| 
+| 17
+|
+|
+|-
+| style="text-align:left;"| "[[Someday Sweetheart]]"
+| 
+| 39
+|
+|
+|-
+| style="text-align:left;"| "No Letter Today"
+| 
+| 27
+|
+|
+|-
+| style="text-align:left;"| "[[Hummingbird (1955 song)|Hummingbird]]"
+| 7
+| 6
+|
+|
+|-
+| style="text-align:left;"| "Amukiriki"
+| 38
+| 24
+|
+|
+|-
+| style="text-align:left;"| "Magic Melody"
+| 96
+| 43
+|
+|
+|-
+| rowspan="4"| 1956
+| style="text-align:left;"| "Texas Lady"
+| 91
+| 47
+|
+|
+|-
+| style="text-align:left;"| "Cimarron (Roll On)"
+| 
+| 48
+|
+|
+|-
+| style="text-align:left;"| "[[Mack the Knife|Moritat]]"
+| 49
+|
+|
+|
+|-
+| style="text-align:left;"| "Nuevo Laredo"
+| 91
+|
+|
+|
+|-
+| 1957
+| style="text-align:left;"| "Cinco Robles"
+| 35
+| 24
+|
+|
+|-
+| rowspan="2"| 1958
+| style="text-align:left;"| "Put a Ring on My Finger"
+| 32
+| 43
+|
+|
+|-
+| style="text-align:left;"| "[[Jealous Heart]]"
+| 
+| 71
+|
+|
+|-
+| rowspan="2"| 1961
+| style="text-align:left;"| "Jura"
+| 37
+| 81
+|
+|
+|-
+| style="text-align:left;"| "[[It's Been a Long, Long Time]]"
+| 105
+|
+|
+|
+|}
+
+*<sup>A</sup> peaked at No. 2 on [[Hot R&B/Hip-Hop Songs]] charts
+
+===Singles===
+*"[[It's Been a Long, Long Time]]"—[[Bing Crosby]] with Les Paul & His Trio (1945), #1 on Billboard Pop singles chart, 1 week, December 8
+*"[[Rumors Are Flying]]"—[[The Andrews Sisters]] with Les Paul and Vic Schoen & His Orchestra (1946)
+*"This Can't Be Love"//"Up And At 'Em"—The Les Paul Trio (1946), [[V-Disc]] 664A
+*"[[Guitar Boogie (song)|Guitar Boogie]]" (1947)
+*"[[Lover (When You're Near Me)]]" (1948)
+*"[[Brazil (1939 song)|Brazil]]" (1948)
+*"[[What Is This Thing Called Love?]]" (1948)
+*"[[Suspicion (Les Paul song)|Suspicion]]"—as Rhubarb Red with Fos Carling (1948)
+*"Nola" (1950)
+*"Goofus" (1950)
+*"Dry My Tears"/"Cryin{{'"}} (1950)
+*"Little Rock Getaway" (1950/1951)
+*"[[Tennessee Waltz]]"—Les Paul & Mary Ford (1950/1951), #1, Cashbox
+*"[[Mockin' Bird Hill]]"—Les Paul & Mary Ford (1951), #1, Cashbox
+*"[[How High The Moon]]"—Les Paul & Mary Ford (1951), #1, Billboard Pop singles chart, 9 weeks, April 21 – June 16; #1, Cashbox, 2 weeks; #2, R&B chart
+*"I Wish I Had Never Seen Sunshine"—Les Paul & Mary Ford (1951)
+*"[[The World Is Waiting for the Sunrise]]"—Les Paul & Mary Ford (1951), #2, Billboard; #3, Cashbox
+*"Just One More Chance"—Les Paul & Mary Ford (1951)
+*"Jazz Me Blues" (1951)
+*"Josephine" (1951)
+*"Whispering" (1951)
+*"[[Jingle Bells]]" (1951)
+*"[[Tiger Rag]]"—Les Paul & Mary Ford (1952), #2, Billboard; #8, Cashbox
+*"I'm Confessin' (That I Love You)"—Les Paul & Mary Ford (1952)
+*"[[Carioca (1933 song)|Carioca]]" (1952)
+*"[[In the Good Old Summer Time|In the Good Old Summertime]]"—Les Paul & Mary Ford (1952)
+*"Smoke Rings"—Les Paul & Mary Ford (1952)
+*"[[Meet Mister Callaghan]]" (1952), #5, Billboard
+*"Take Me in Your Arms and Hold Me"—Les Paul & Mary Ford (1952)
+*"[[Lady of Spain (song)|Lady of Spain]]" (1952)
+*"My Baby's Coming Home"—Les Paul & Mary Ford (1952)
+*"[[Bye Bye Blues (song)|Bye Bye Blues]]"—Les Paul & Mary Ford (1953)
+*"[[I'm Sitting on Top of the World]]"—Les Paul & Mary Ford (1953)
+*"[[Sleep (1920s song)|Sleep]]" ([[Fred Waring]]'s theme song) (1953)
+*"[[Vaya Con Dios (song)|Vaya Con Dios]]"—Les Paul & Mary Ford (1953), #1, Billboard Pop singles chart, 11 weeks, August 8 – October 3, November 7–14; #1, Cashbox, 5 weeks
+*"Johnny (Is The Boy for Me)"—Les Paul & Mary Ford (1953), #15, Billboard; #25, Cashbox
+*"[[Don'cha Hear Them Bells]]"—Les Paul & Mary Ford (1953), #13, Billboard; #28, Cashbox
+*"[[The Kangaroo (song)|The Kangaroo]]" (1953), #25, Billboard; #23, Cashbox
+*"I Really Don't Want To Know"—Les Paul & Mary Ford (1954)
+*"I'm A Fool To Care"—Les Paul & Mary Ford (1954)
+*"Whither Thou Goest"—Les Paul & Mary Ford (1954)
+*"[[Mandolino (Les Paul instrumental)|Mandolino]]"—Les Paul & Mary Ford (1954), #19, Billboard
+*"[[Song in Blue]]"—Les Paul & Mary Ford (1954), #17, Cashbox
+*"Hummingbird"—Les Paul & Mary Ford (1955)
+*"Amukiriki (The Lord Willing)"—Les Paul & Mary Ford (1955)
+*"Magic Melody"—Les Paul & Mary Ford (1955)
+*"Texas Lady"—Les Paul & Mary Ford (1956)
+*"Moritat" (Theme from "Three Penny Opera") (1956)
+*"Nuevo Laredo"—Les Paul & Mary Ford (1956)
+*"Cinco Robles (Five Oaks)"—Les Paul & Mary Ford (1957)
+*"Put a Ring on My Finger"—Les Paul & Mary Ford (1958)
+*"All I Need Is You"—Les Paul & Mary Ford (1959)
+*"Jura (I Swear I Love You)"—Les Paul & Mary Ford (1961)
+*"[[Love Sneakin' Up on You]]"—Les Paul, Joss Stone & Sting (2005)
+
+==Compositions==
+Paul was also a prolific composer. Some of the songs he wrote were "[[Song in Blue]]", "Cryin{{'"}}, "Hip-Billy Boogie", "[[Suspicion (Les Paul song)|Suspicion]]", "[[Mandolino (Les Paul instrumental)|Mandolino]]", "Magic Melody", "[[Don'cha Hear Them Bells]]", "[[The Kangaroo (song)|The Kangaroo]]", "Big-Eyed Gal", "Deep in the Blues", "All I Need is You", "Take a Warning", "Mammy's Boogie", "Up And At 'Em", "Pacific Breeze", "Golden Sands", "Hawaiian Charms", "Mountain Railroad", "Move Along, Baby (Don't Waste My Time)", "Dry My Tears", "I Don't Want You No More", "Doing the Town", "Les' Blues",<ref>Paul, Les. ''The Guitar Magic of Les Paul''. 10 original guitar solos with piano and 2nd guitar accompaniment. Leeds Music Corporation, New York, 1947.</ref> "No Strings Attached", "Subterfuge", "Lament For Strings", "Five Alarm Fire", "You Can't Be Fit as a Fiddle (When You're Tight as a Drum)", and "Walkin' and Whistlin' Blues".
+
+==See also==
+{{Portal|Biography|Music}}
+{{commons category}}
+
+*[[Ampex]]
+*[[Discovery World]]
+*[[Gibson Les Paul]]
+*[[Gibson SG]]
+*[[List of Rock and Roll Hall of Fame inductees]]
+*[[Mary Ford]]
+*[[Les Paul and Mary Ford]]
+
+==References==
+{{Reflist|30em}}
+
+==Bibliography==
+* Garrett, Charles, ed. "Paul, Les [Polfuss, Lester Williams]" ''The Grove Dictionary of American Music'', 2nd edition. [[Oxford University Press]]. 2006. Print.{{ISBN?}}{{page needed|date=August 2021}}
+
+==External links==
+{{commons category}}
+{{Archival records|title=Les Paul papers, 1904-2000|location= [[Library of Congress]]|description_URL=https://hdl.loc.gov/loc.music/eadmus.mu019008}}
+* {{official website}}
+* {{IMDb name|0666904}}
+* [https://lespaulfilm.com Les Paul Chasing Sound] {{Webarchive|url=https://web.archive.org/web/20200616011148/http://www.lespaulfilm.com/ |date=June 16, 2020 }} biography
+* [https://lespaulfilm.com Les Paul Live in New York] {{Webarchive|url=https://web.archive.org/web/20200616011148/http://www.lespaulfilm.com/ |date=June 16, 2020 }} concert film
+* [https://web.archive.org/web/20090930053613/http://www.wgnradio.com/shows/stevejohnnie/wgnam-steve-johnnie-remembering-les-paul%2C0%2C6975991.story Remembering Les Paul] Audio interviews at WGN Radio
+* [https://archive.org/details/TheLesPaulShow ''The Les Paul Show''], Audio archive (free mp3s) of Les Paul's radio show
+* [http://www.soundonsound.com/sos/jan07/articles/classictracks_0107.htm "Classic Tracks: Les Paul & Mary Ford 'How High the Moon{{'"}}] at Sound on Sound
+* [https://web.archive.org/web/20150213023108/http://www.performing-musician.com/pm/oct09/articles/lespaul.htm Les Paul's final interview] at ''Performing Musician''
+* [http://www.namm.org/library/oral-history/les-paul Les Paul Audio Interview] at [[NAMM Oral History Program|NAMM Oral History Collection]] (2001)
+
+{{Gibson Guitar Corporation }}
+{{National Medal of Arts recipients 2000s}}
+{{1988 Rock and Roll Hall of Fame}}
+{{SEAMUS Lifetime Achievement Award}}
+{{Authority control}}
+
+{{DEFAULTSORT:Paul, Les}}
+[[Category:1915 births]]
+[[Category:2009 deaths]]
+[[Category:20th-century American guitarists]]
+[[Category:20th-century American inventors]]
+[[Category:20th-century American male musicians]]
+[[Category:21st-century American guitarists]]
+[[Category:21st-century American male musicians]]
+[[Category:American blues guitarists]]
+[[Category:American country guitarists]]
+[[Category:American country harmonica players]]
+[[Category:American country singers]]
+[[Category:American jazz guitarists]]
+[[Category:American male guitarists]]
+[[Category:American male jazz musicians]]
+[[Category:American musical instrument makers]]
+[[Category:American people of German descent]]
+[[Category:American radio personalities]]
+[[Category:American rock guitarists]]
+[[Category:American blues rock musicians]]
+[[Category:Capitol Records artists]]
+[[Category:Columbia Records artists]]
+[[Category:Deaths from pneumonia in New York (state)]]
+[[Category:Decca Records artists]]
+[[Category:Gibson Les Paul]]
+[[Category:Grammy Award winners]]
+[[Category:Guitar makers]]
+[[Category:Guitarists from Wisconsin]]
+[[Category:Inventors of musical instruments]]
+[[Category:London Records artists]]
+[[Category:Mercury Records artists]]
+[[Category:Musicians from Milwaukee]]
+[[Category:People from Mahwah, New Jersey]]
+[[Category:People from Waukesha, Wisconsin]]
+[[Category:RCA Victor artists]]
+[[Category:United States Army personnel of World War II]]
+[[Category:United States National Medal of Arts recipients]]

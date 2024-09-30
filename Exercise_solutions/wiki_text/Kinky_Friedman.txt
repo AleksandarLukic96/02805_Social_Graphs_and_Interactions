@@ -1,0 +1,409 @@
+{{Short description|American country musician (1944–2024)}}
+{{Use mdy dates|date=July 2023}}
+{{Multiple issues|
+{{Refimprove|date=June 2024}}
+{{Lead too short|date=June 2024}}}}
+{{Infobox officeholder
+| name                = Kinky Friedman
+| image               = Kinky friedman 2013.jpg
+| caption             = Friedman performing at the 2013 [[Texas Book Festival]]
+| birth_name          = Richard Samet Friedman
+| birth_date          = {{birth date|1944|11|1}}
+| birth_place         = [[Chicago|Chicago, Illinois]], U.S.
+| death_date          = {{death date and age|2024|06|27|1944|10|31}}{{efn|name = DoD}}
+| death_place         = [[Medina, Bandera County, Texas|Medina, Texas]], U.S.
+| party               = [[Democratic Party (United States)|Democratic]] (2009–2024)
+| otherparty          = [[Independent politician|Independent]] (2004–2009)<br />[[Republican Party (United States)|Republican]] (before 2004)
+| education           = [[University of Texas at Austin|University of Texas, Austin]] ([[Bachelor of Arts|BA]])
+| module              = {{Infobox musical artist|embed=yes
+ | instruments     = Vocals, guitar
+ | genre           = {{Hlist|[[Country music|Country]]|[[progressive country]]<ref>{{cite journal |last1=Patoski |first1=Joe Nick |date= |title=Kinky Friedman Introduces Gold Star Kids to the Land That Shaped Him |url=https://texashighways.com/culture/people/kinky-friedman-introduces-gold-star-kids-to-the-land-that-shaped-him/ |journal=Texas Highways |access-date=June 27, 2024}}</ref>|[[country rock]]|[[outlaw country]]}}
+ | years_active    = 1964–2018
+ | label           =
+ | past_member_of =
+ | website     = {{URL|kinkyfriedman.com}}
+}}
+}}
+
+'''Richard Samet''' "'''Kinky'''" '''Friedman''' (November 1, 1944 – June 27, 2024){{efn|name = DoD|Some sources reported that Friedman died early on June 27,<ref>{{cite news|url = https://apnews.com/article/kinky-friedman-died-texas-e082882e05e455259f9dbd376e97a222|title = Singer, songwriter, provocateur and politician Kinky Friedman dead at 79|last = Vertuno|first = Jim|date = June 27, 2024|accessdate = June 28, 2024|work = [[Associated Press]]|archive-date = June 28, 2024|archive-url = https://web.archive.org/web/20240628010837/https://apnews.com/article/kinky-friedman-died-texas-e082882e05e455259f9dbd376e97a222|url-status = live}}</ref><ref name="NYT">[https://www.nytimes.com/2024/06/27/arts/music/kinky-friedman-dead.html Kinky Friedman, Musician and Humorist Who Slew Sacred Cows, Dies at 79] {{Webarchive|url=https://web.archive.org/web/20240628133114/https://www.nytimes.com/2024/06/27/arts/music/kinky-friedman-dead.html |date=June 28, 2024 }}, by Clay Risen, in the ''[[New York Times]]''; published June 27, 2024; retrieved June 27, 2024</ref><ref>{{cite magazine|url = https://www.hollywoodreporter.com/news/music-news/kinky-friedman-dead-texas-musician-humorist-1235934231/|title = Kinky Friedman, Texas Musician and Humorist, Dies at 79|last = Aniftos|first = Rania|magazine = [[Billboard (magazine)|Billboard]]|publisher = [[The Hollywood Reporter]]|date = June 27, 2024|accessdate = June 28, 2024|archive-date = June 27, 2024|archive-url = https://web.archive.org/web/20240627225215/https://www.hollywoodreporter.com/news/music-news/kinky-friedman-dead-texas-musician-humorist-1235934231/|url-status = live}}</ref> while others said he died late on June 26.<ref>{{cite news|agency=Bloomberg|via=MSN|title=Kinky Friedman, Musician Who Ran for Texas Governor, Dies at 79|author=Daniel Taub|url=https://www.msn.com/en-us/music/news/kinky-friedman-musician-who-ran-for-texas-governor-dies-at-79/ar-BB1p0BRQ}}</ref><ref>{{Cite web |url=https://sanangelolive.com/news/politics/2024-06-27/former-texas-governor-hopeful-kinky-friedman-dies-79 |title=Former Texas Governor Hopeful Kinky Friedman Dies at 79 |first1=Paul |last1=Harris |date=June 27, 2024 |website=San Angelo Live |access-date=June 28, 2024 |archive-date=June 27, 2024 |archive-url=https://web.archive.org/web/20240627225405/https://sanangelolive.com/news/politics/2024-06-27/former-texas-governor-hopeful-kinky-friedman-dies-79 |url-status=live }}</ref><ref name="auto">{{Cite web|url=https://www.audacy.com/talk1370/news/local/kinky-friedman-passes-away-at-79|title=Singer, songwriter, politician, humorist: Kinky Friedman passes away at 79|date=June 26, 2024|website=Audacy.com|access-date=June 27, 2024|archive-date=June 27, 2024|archive-url=https://web.archive.org/web/20240627153317/https://www.audacy.com/talk1370/news/local/kinky-friedman-passes-away-at-79|url-status=live}}</ref><ref name="RS">{{citation|url=https://www.rollingstone.com/music/music-news/kinky-friedman-dead-1235047577/|title=Kinky Friedman, Proudly Eccentric Texas Singer-Songwriter, Dead at 79|author=Jonathan Bernstein|magazine=[[Rolling Stone]]|date=June 27, 2024|access-date=June 27, 2024|archive-date=June 27, 2024|archive-url=https://web.archive.org/web/20240627154430/https://www.rollingstone.com/music/music-news/kinky-friedman-dead-1235047577/|url-status=live}}</ref> Others did not report a date of death.<ref name="death">{{cite web |url=https://www.texastribune.org/2024/06/27/kinky-friedman-dies-texas-governor-race-musician/ |title=Kinky Friedman, provocative satirist and one-time gubernatorial candidate, dies at 79 |last1=Fechter |first1=Joshua |last2=Foxhall |first2=Emily |website=texastribune.org |publisher=[[The Texas Tribune]] |access-date=June 27, 2024 |archive-date=June 27, 2024 |archive-url=https://web.archive.org/web/20240627154246/https://www.texastribune.org/2024/06/27/kinky-friedman-dies-texas-governor-race-musician/ |url-status=live }}</ref>}} was an American singer, songwriter, novelist, humorist, politician, and columnist for ''[[Texas Monthly]]'', who styled himself in the mold of popular American satirists [[Will Rogers]] and [[Mark Twain]].<ref>{{Cite web|url=http://booktv.org/program.aspx?ProgramId=8743&SectionName=&PlayMedia=No|title=You Can Lead a Politician to Water, But You Can't Make Him Think|year=2008|website=Book TV on C-Span 2|publisher=National Cable Satellite Corporation|archive-url=https://web.archive.org/web/20080222160524/http://booktv.org/program.aspx?ProgramId=8743&SectionName=&PlayMedia=No|archive-date=February 22, 2008|access-date=January 31, 2019}}</ref>
+
+Friedman was one of two [[Independent politician|independent]] candidates in the [[2006 Texas gubernatorial election]]. Receiving 12.6% of the vote, Friedman placed fourth in the six-person race.
+
+==Biography==
+Richard Samet Friedman was born in [[Chicago]] on November 1, 1944,<ref name="post obit">[https://www.washingtonpost.com/obituaries/2024/06/27/kinky-friedman-dead/ Kinky Friedman, Texas songwriter, satirist and folk hero, dies at 79] ''[[The Washington Post]]''. Retrieved June 28, 2024.</ref><ref>{{cite web |url=https://www.allmusic.com/artist/kinky-friedman-mn0000095228/biography |title=Kinky Friedman Biography, Songs, & Albums |website=[[AllMusic]] |access-date=July 26, 2023 |archive-date=August 27, 2021 |archive-url=https://web.archive.org/web/20210827055133/https://www.allmusic.com/artist/kinky-friedman-mn0000095228/biography |url-status=live}}</ref> to Jewish parents, Dr. S. Thomas Friedman and his wife Minnie (Samet) Friedman.<ref>{{Cite magazine|url=https://www.rollingstone.com/music/music-country/kinky-friedman-country-music-texas-willie-nelson-746620/|title=Kinky Friedman Comes Home|last=Bernstein|first=Jonathan|date=November 3, 2018|magazine=Rolling Stone|access-date=January 31, 2019|archive-date=January 31, 2019|archive-url=https://web.archive.org/web/20190131093323/https://www.rollingstone.com/music/music-country/kinky-friedman-country-music-texas-willie-nelson-746620/|url-status=live}}</ref><ref>{{Cite web|url=https://www.pressdemocrat.com/entertainment/8159149-181/texas-songwriter-kinky-friedman-brings|title=Kinky Friedman on how Willie Nelson, misery shaped his new music|date=April 19, 2018|website=Santa Rosa Press Democrat|access-date=January 31, 2019|archive-date=January 31, 2019|archive-url=https://web.archive.org/web/20190131093404/https://www.pressdemocrat.com/entertainment/8159149-181/texas-songwriter-kinky-friedman-brings|url-status=live}}</ref><ref name=":0">{{Cite news |last=Green |first=David B. |date=November 1, 2015 |title=This Day in Jewish History, 1944 {{!}} Kinky Friedman, Whose Life Reads Like a Book With a Most Unlikely Plot, Is Born |url=https://www.haaretz.com/jewish/.premium-one-and-only-kinky-friedman-is-born-1.5415611 |url-access=subscription |url-status=live |archive-url=https://web.archive.org/web/20190131145156/https://www.haaretz.com/jewish/.premium-one-and-only-kinky-friedman-is-born-1.5415611 |archive-date=January 31, 2019 |access-date=January 31, 2019 |work=[[Haaretz]]}}</ref> Both of his parents were the children of [[History of the Jews in Russia|Russian Jewish]] immigrants.<ref name=":0" /> When Friedman was young, his family moved to the [[Texas Hill Country]] where they opened a summer camp called [[Echo Hill Ranch]].<ref name=":0" />
+
+Friedman had an early interest in both pop music and [[chess]], and was chosen at age seven as one of 50 local players to challenge U.S. grandmaster [[Samuel Reshevsky]] to simultaneous games in [[Houston]].<ref name=":3">{{Cite book |last=Sullivan |first=Mary Lou |url=https://books.google.com/books?id=nT0_DwAAQBAJ |title=Everything's Bigger in Texas: The Life and Times of Kinky Friedman |publisher=Backbeat Books |year=2017 |isbn=978-1540004994 |location=Montclair, NJ |via=Google Books}}</ref> Reshevsky won all 50 games, but Friedman was, by far, the youngest competitor.
+
+Friedman graduated from [[Austin High School (Austin, Texas)|Austin High School]] in [[Austin, Texas]], in 1962. He subsequently earned a Bachelor of Arts from the [[University of Texas at Austin]] in 1966, majoring in [[psychology]]. He took part in the [[Plan II Honors]] program and was a member of the [[Tau Delta Phi]] fraternity. During his first year, [[Chinga Chavin]] gave Friedman the nickname "Kinky" because of his curly hair.<ref>[http://www.newyorker.com/fact/content/articles/050822fa_fact Lone Star: Kinky Friedman on the campaign trail] {{Webarchive|url=https://web.archive.org/web/20130602061843/http://www.newyorker.com/fact/content/articles/050822fa_fact |date=June 2, 2013}} by Dan Halpern, [[The New Yorker]], August 22, 2005.</ref>
+
+Friedman served two years in the United States [[Peace Corps]], teaching in [[Borneo]], [[Malaysia]]<ref>{{Cite news|url=https://www.houstonchronicle.com/entertainment/music/article/The-strange-life-of-Kinky-Friedman-12401226.php|title=The strange life of Kinky Friedman|last=Dansby|first=Andrew|date=December 3, 2017|website=Houston Chronicle|access-date=January 31, 2019|archive-date=January 31, 2019|archive-url=https://web.archive.org/web/20190131093529/https://www.houstonchronicle.com/entertainment/music/article/The-strange-life-of-Kinky-Friedman-12401226.php|url-status=live}}</ref> with John Gross. During his service in the Peace Corps, he met future road manager Dylan Ferrero, with whom he worked for the remainder of his life.<ref>[http://www.kinkajourecords.com/kinkybio.htm Kinky Friedman Biography] {{webarchive|url=https://web.archive.org/web/20060519060937/http://www.kinkajourecords.com/kinkybio.htm |date=May 19, 2006}}, Kinkajou Records.</ref><ref>{{Cite web|url=http://www.peacecorps.gov/index.cfm?shell=learn.whatispc.notable.artsandlit|archiveurl=https://web.archive.org/web/20061210024020/http://www.peacecorps.gov/index.cfm?shell=learn.whatispc.notable.artsandlit|url-status=dead|title=Notable Former Volunteers / Arts and Literature|archive-date=December 10, 2006}}</ref> Friedman lived at [[Echo Hill Ranch]], his family's summer camp near [[Kerrville]], [[Texas]]. He founded Utopia Animal Rescue Ranch, also located near Kerrville, whose mission is to care for stray, abused and aging animals; to date, the ranch has saved more than 1,000 dogs from [[animal euthanasia]].
+
+On June 27, 2024, it was announced that Friedman had died at his home at Echo Hill Ranch, [[Medina, Bandera County, Texas]], from complications of [[Parkinson's disease]]. He was 79.{{efn|name = DoD}}
+
+==Music career==
+Friedman formed his first band, King Arthur & the Carrots, while a student at the [[University of Texas at Austin]]. The band, which poked fun at [[surf music]], recorded only one single in 1966 ("Schwinn 24/Beach Party Boo Boo").
+
+By 1973, Friedman had formed his second band, Kinky Friedman and The Texas Jewboys, which many took to be a play on the name of the famous band [[Bob Wills and His Texas Playboys]].<ref name=":1">{{Cite news|url=https://www.latimes.com/archives/la-xpm-1989-10-15-vw-489-story.html|title=The Tale of a Kinky Cowboy Who Made Good|last=Teitelbaum|first=Sheldon|date=October 15, 1989|work=Los Angeles Times|access-date=January 31, 2019|issn=0458-3035}}</ref> In keeping with the band's [[satire|satirical]] nature, each member had a comical name: in addition to Kinky there were Little Jewford, Big Nig, Panama Red, Wichita Culpepper, Sky Cap Adams, Rainbow Colours, and Snakebite Jacobs.<ref name=":1" /> More conventionally named roadie Jack Slaughter and road manager Dylan Ferrero rounded out the crew and provided most of the driving of the "tour bus", a [[Cadillac]] with 10-year-old expired license plates and a propensity to break down (but, according to Friedman, her talent lay in her ability to stop on a [[Dime (United States coin)|dime]] and pick up the change).
+
+Friedman's father objected to the name of the band, calling it a "negative, hostile, peculiar thing",<ref>{{cite news|url=https://www.cbsnews.com/news/kinky-friedman-turns-to-politics/|title=Kinky Friedman Turns To Politics|last=Dakass|first=Brian|date=August 19, 2005|publisher=CBS News|access-date=January 31, 2019|archive-date=October 15, 2012|archive-url=https://web.archive.org/web/20121015022901/http://www.cbsnews.com/stories/2005/08/19/sunday/main788935_page2.shtml|url-status=live}}</ref> which gave Kinky even more reason to choose the name.
+
+Arriving on the wave of [[country rock]] following on from [[Gram Parsons]], [[The Band]], and [[Eagles (band)|Eagles]], Friedman originally found cult fame as a [[country and western]] singer. His break came in 1973 thanks to Commander Cody of [[Commander Cody and His Lost Planet Airmen]], who contacted Vanguard Music on his behalf. Friedman released ''Kinky Friedman'' in 1974 for [[ABC Records]], then toured with [[Bob Dylan]] in 1975–1976.<ref>Tucker, Stephen R. (1998). "Kinky Friedman". In ''The Encyclopedia of Country Music''. Paul Kingsbury, Editor. New York: Oxford University Press. p. 184.</ref> His repertoire mixed [[social commentary]] ("We Reserve the Right to Refuse Service to You") and maudlin ballads ("Western Union Wire") with raucous humor (such as "Get Your Biscuits in the Oven and Your Buns in the Bed"). His "Ride 'Em Jewboy" was an extended tribute to the victims of [[the Holocaust]].
+
+One of his most famous songs is "They Ain't Makin' Jews Like Jesus Anymore," a song in which Kinky verbally and physically beats up a drunken white racist who berates blacks, Jews, Italians, Greeks, and [[Sigma Nu]]s in a bar, with lyrics such as,
+
+<blockquote><poem>
+Oh, they ain't makin' Jews like Jesus anymore,
+They ain't makin' carpenters that know what nails are for
+</poem></blockquote>
+
+Other Friedman tunes include "The Ballad of Charles Whitman," in which Friedman lampooned [[Charles Whitman]]'s [[University of Texas tower shooting|sniper attack]] from the [[University of Texas at Austin]]'s [[Main Building (University of Texas at Austin)|Main Building tower]] on August 1, 1966. He also covered [[Chinga Chavin]]'s "Asshole from [[El Paso]]", a parody of [[Merle Haggard]]'s "[[Okie from Muskogee (song)|Okie from Muskogee]]".
+
+One of Friedman's most infamous concerts was a 1973 performance in [[Buffalo, New York]]; upon performing "Get Your Biscuits in the Oven and Your Buns in the Bed" (a song that lampoons [[feminism]]), a group of what Friedman described as "cranked-up lesbians" entered into a fight with the band and forced the concert to end early while Friedman and the band were escorted off stage. The [[National Organization for Women]] awarded Friedman the "Male Chauvinist Pig Award" later that year, an award Friedman took with pride. Friedman would not return to Buffalo until 2012.<ref>Kunz-Goldman, Mary (June 26, 2012). [http://www.buffalonews.com/entertainment/gusto/music/concert-previews/article920598.ece Kinky Friedman comes to town: Texas troubadour has enjoyed a long career by thumbing his nose at political correctness] {{Webarchive|url=https://web.archive.org/web/20120629205210/http://www.buffalonews.com/entertainment/gusto/music/concert-previews/article920598.ece |date=June 29, 2012}}. ''The Buffalo News''. Retrieved June 26, 2012.</ref> Another was at [[The Boarding House (nightclub)|The Boarding House]] in early-March 1975 when an offended [[Buffy Sainte-Marie]] rushed on stage and snatched the [[war bonnet]] that Friedman was wearing while he and his band were performing "Miss Nickelodeon," a composition that spoofs the [[indigenous peoples of the Americas]].<ref>[https://worldradiohistory.com/hd2/IDX-Business/Music/Archive-Cash-Box-IDX/70s/1975/CB-1975-03-08-OCR-Page-0028.pdf "For the Record," ''Cashbox'' (magazine), March 8, 1975.] {{Webarchive|url=https://web.archive.org/web/20211225101512/https://worldradiohistory.com/hd2/IDX-Business/Music/Archive-Cash-Box-IDX/70s/1975/CB-1975-03-08-OCR-Page-0028.pdf |date=December 25, 2021}} Retrieved December 25, 2021</ref><ref>[https://books.google.com/books?id=nT0_DwAAQBAJ&dq=kinky+friedman+buffy+sainte+marie+san+francisco&pg=PT112 Sullivan, Mary Lou. ''Everything's Bigger in Texas: The Life & Times of Kinky Friedman''. Milwaukee, WI: Backbeat Books, 2017.] {{Webarchive|url=https://web.archive.org/web/20230512151531/https://books.google.com/books?id=nT0_DwAAQBAJ&dq=kinky+friedman+buffy+sainte+marie+san+francisco&pg=PT112 |date=May 12, 2023}} Retrieved December 25, 2021</ref>
+
+Friedman and his band taped an ''[[Austin City Limits]]'' show on November 11, 1975, which was never aired.<ref>[https://books.google.com/books?id=xl3yDwAAQBAJ&dq=kinky+friedman+buffy+sainte+marie+san+francisco&pg=PA218 Greenspoon, Leonard J. ''Jews and Humor''. West Lafayette, IN: Purdue University Press, 2011.] {{Webarchive|url=https://web.archive.org/web/20230423101705/https://books.google.com/books?id=xl3yDwAAQBAJ&dq=kinky+friedman+buffy+sainte+marie+san+francisco&pg=PA218 |date=April 23, 2023}} Retrieved December 25, 2021</ref> According to the show's executive producer, Terry Lickona, this is the first and only time in the show's long history that an episode went unaired. Lickona told the ''[[Austin Chronicle]]'' "I've seen it many times – it's a very popular party tape among friends. I think it was a great show, and it might be as offensive today as it was back then."<ref>{{cite web|url=http://www.austinchronicle.com/issues/dispatch/2004-09-17/music_string_all.html|title=Looking Out My Back Door: Thirteen from 30 years of 'Austin City Limits'|last=Langer|first=Andy|date=September 17, 2004|work=The Austin Chronicle|archive-url=https://web.archive.org/web/20041027191515/http://www.austinchronicle.com/issues/dispatch/2004-09-17/music_string_all.html|archive-date=October 27, 2004|access-date=January 31, 2019}}</ref>
+
+In early 1976, he joined [[Bob Dylan]] on the second leg of the [[Rolling Thunder Revue]] tour.
+
+Friedman was the musical guest on the [[Saturday Night Live (season 2)|Season 2]] fifth episode of ''[[Saturday Night Live]]'' which aired on October 23, 1976. He performed his own composition "Dear Abbie".<ref>[https://archive.org/details/saturday-night-live-s02e05 Saturday Night Live S02E05: Steve Martin – Internet Archive.] Retrieved December 25, 2021</ref><ref>{{cite web |title=S2 E5 / 10/22/76 |url=https://www.nbc.com/saturday-night-live/video/steve-martin-and-kinky-friedman/n26179 |website=NBC |access-date=6 January 2023 |archive-date=January 6, 2023 |archive-url=https://web.archive.org/web/20230106045222/https://www.nbc.com/saturday-night-live/video/steve-martin-and-kinky-friedman/n26179 |url-status=live}}</ref>
+
+Although hard to verify, given the number of Jewish-origin entertainers in country/hillbilly-tour circles (e.g. Gilbert Maxwell "[[Broncho Billy Anderson|Broncho Billy]]" Anderson), Friedman claims to have been the first full-blooded Jew to take the stage at the [[Grand Ole Opry]].<ref>For a complication of Friedman's assertion, see Stacy Harris, "Kosher Country: Success and Survival on Nashville's Music Row," ''Southern Jewish History'' 2 (1999): 111–28. See also Mara Cohen, "Kinky Friedman and His Influence on Jewish American Music", ''International Journal of the Study of Music and Musical Performance'' (2019): 33–53; online at https://www.academia.edu/40797797/Kinky_Friedman_and_His_Influence_on_Jewish_American_Music {{Webarchive|url=https://web.archive.org/web/20200302041225/https://www.academia.edu/40797797/Kinky_Friedman_and_His_Influence_on_Jewish_American_Music |date=March 2, 2020}}</ref>
+
+In February 2007, Sustain Records released a compilation of the songs of Kinky Friedman sung by other artists called ''Why the Hell Not ...'' The compilation includes contributions by [[Dwight Yoakam]], [[Willie Nelson]], [[Lyle Lovett]], and [[Kelly Willis]].<ref>{{cite web|url=http://peacecorpsonline.org/messages/messages/467/2083838.html|title=Kinky invites country greats to sing his songs on "Why The Hell Not..."|last=Farmer|first=Mary Jane|year=2007|work=peacecorpsonline.org|publisher=Herald Democrat|access-date=July 31, 2007|archive-date=September 30, 2007|archive-url=https://web.archive.org/web/20070930023615/http://peacecorpsonline.org/messages/messages/467/2083838.html|url-status=dead}}</ref>
+
+On July 20, 2007, Friedman hosted the Concert to Save Town Lake to honor the memory of [[Lady Bird Johnson]] and her efforts to protect and preserve the shores of [[Town Lake]] in Austin, Texas.<ref>{{Cite web|url=http://digital50.com/news/items/BW/2001/07/14/20070720005009/concert-to-save-town-lake-dedicated-to-lady-bird-johnson.html|archiveurl=https://web.archive.org/web/20070928093038/http://digital50.com/news/items/BW/2001/07/14/20070720005009/concert-to-save-town-lake-dedicated-to-lady-bird-johnson.html|url-status=dead|title=Digital50: News and more Business News|archivedate=September 28, 2007}}</ref>
+
+On April 27, 2011, Friedman launched his Springtime for Kinky Tour (cf. "[[Springtime for Hitler (song)|Springtime for Hitler]]") in [[Kansas City, Missouri|Kansas City]], Missouri, at [[Knuckleheads Saloon]]; it included dates in Arkansas, Oklahoma, and Kentucky before heading towards the [[East Coast of the United States|East Coast]].<ref>{{Cite web|url=http://www.gratefulweb.com/articles/kinky-friedman-embarks-springtime-kinky-tour-2011|title=Kinky Friedman embarks on 'Springtime for Kinky Tour 2011'|website=Grateful Web|access-date=January 31, 2019|archive-date=February 1, 2019|archive-url=https://web.archive.org/web/20190201013529/http://www.gratefulweb.com/articles/kinky-friedman-embarks-springtime-kinky-tour-2011|url-status=live}}</ref> This was followed by a tour of Australia with [[Van Dyke Parks]].<ref>{{cite web |title=Tour news |url=http://www.kinkyfriedman.com/index.html |publisher=kinkyfriedman.com |access-date=April 25, 2011 |archive-url=https://web.archive.org/web/20130923052504/http://www.kinkyfriedman.com/index.html |archive-date=September 23, 2013 |url-status=dead}}</ref>
+
+==Writing career==
+After his music career stalled in the 1980s, Friedman shifted his creative focus to writing [[detective fiction|detective novels]]. His books have similarities to his song lyrics, featuring a [[Author surrogate|fictionalized version of himself]] solving crimes in New York City and dispensing jokes, wisdom, recipes, charm, and [[Jameson Irish Whiskey|Jameson's whiskey]] in equal measure. They are written in a straightforward style which owes a debt to [[Raymond Chandler]]. The Kinky character views himself as a latter-day [[Sherlock Holmes]] and he is aided in his investigations by his close friend [[Larry Sloman]] aka Ratso who assumes the role of [[Dr. Watson]].
+
+He authored two novels that do not star the Kinky Friedman character: ''Kill Two Birds and Get Stoned'' and ''The Christmas Pig.''
+
+Friedman also wrote a regular column for the magazine ''[[Texas Monthly]]'' from April 2001 to March 2005 which was suspended during his run for governor of Texas.<ref name="txmonthly">[http://www.texasmonthly.com/mag/issues/authors/kinkyfriedman.php List of Friedman's articles] {{Webarchive|url=https://web.archive.org/web/20050521073502/http://www.texasmonthly.com/mag/issues/authors/kinkyfriedman.php |date=May 21, 2005}} and [http://www.texasmonthly.com/mag/issues/2001-11-01/roundup.php Hail to the Kinkster] {{Webarchive|url=https://web.archive.org/web/20050315141709/http://www.texasmonthly.com/mag/issues/2001-11-01/roundup.php |date=March 15, 2005}} from ''[[Texas Monthly]]''.</ref> In 2008, ''Texas Monthly'' brought his column back on a bimonthly basis.
+
+Two books have been published collecting some of these nonfiction writings, as well as previously unpublished ones: ''Scuse Me While I Whip This Out'' and ''Texas Hold'em''. He has also published a travelog (''The Great Psychedelic Armadillo Picnic'') and an [[etiquette]] guide.
+
+Friedman's early books have been republished by Friedman's own Vandam Press as ebooks. During March and April 2011, Vandam released seven of Friedman's early titles including: ''Greenwich Killing Time, A Case of Lone Star, Musical Chairs, When The Cat's Away, Frequent Flyer, Roadkill'' and the rarely seen ''Curse of the Missing Puppet Head''. ''Elvis Jesus and Coca-Cola, God Bless John Wayne, Blast From The Past, Armadillos and Old Lace'', and two nonfiction books, ''Drinker With A Writing Problem'' and ''Heroes of A Texas Childhood'' were released in 2011. [[E-book]] releases are announced on Friedman's [[X (Twitter)]] feed and Facebook page, "TheRealKinkster".
+
+Friedman also announced (via Jim Bessman's column at examiner.com) the upcoming release of all Vandam Press titles as unabridged audio books "read by the author".
+
+The recurring character "Rambam", a New York private investigator and friend of the Friedman character in the books, is based on the real-life investigator [[Steven Rambam]], who acts as a technical advisor for the real Friedman.<ref>CNN.com "Kinky Friedman inspiration gets busted" July 26, 2006.</ref> Old Peace Corps friend and long time road manager Dylan Ferrero is also a recurring character in Kinky's mystery novels; his character is known for only speaking in rock and roll quotes, a trait taken from real life.
+
+==Politics==
+{{See also|2006 Texas gubernatorial election}}
+[[File:Kinky friedman 2006.jpg|thumb|Friedman contemplates a question from the audience at a campaign rally in [[Bastrop, Texas|Bastrop]] during the 2006 Texas gubernatorial campaign.]]
+[[File:Texas Gubernatorial Election Results by County, 2006 Kinky Friedman.svg|thumb|right|250px|Kinky's performance by county in 2006:
+{{collapsible list
+| title = Friedman
+|{{legend0|#E5FFE5|0–5%}}
+|{{legend0|#D2F7D2|5–10%}}
+|{{legend0|#C0F0C0|10–15%}}
+|{{legend0|#AAE5AA|15–20%}}
+|{{legend0|#87DE87|20–25%}}
+|{{legend0|#5FD35F|25–30%}}
+}}]]
+In 1986, Friedman ran for [[Justice of the Peace]] in [[Kerrville, Texas]], as a [[Republican Party (United States)|Republican]] but lost the election.<ref>{{Cite news|url=https://www.theguardian.com/books/2005/nov/27/crimebooks.usa|title=Will Texas get Kinky?|last=McCrum|first=Robert|date=November 27, 2005|work=The Observer|access-date=January 31, 2019|issn=0029-7712|quote=In 1986 he ran for justice of the peace in Kerrville, near Echo Hill, and lost badly. 'I couldn't decide whether to kill myself or get a haircut,' he remembers.}}</ref>
+
+In 2004, Friedman began an ostensibly serious, though colorful, campaign to become the [[List of Governors of Texas|Governor of Texas]] in [[Texas gubernatorial election, 2006|2006]]. One of his stated goals is the "dewussification" of Texas.<ref name="de-wussification">{{Cite web|url=http://www.ccrayz.com/news/?id=7604|archiveurl=https://web.archive.org/web/20060619011903/http://ccrayz.com/news/?id=7604|url-status=dead|title=ccrayz.com: News|archive-date=June 19, 2006}}</ref> Among his campaign slogans were "How Hard Could It Be?", "Why The Hell Not?", "My Governor is a Jewish Cowboy", and "He ain't Kinky, he's my Governor"<ref>{{cite web|url=http://www.kinkyfriedman.com/catalog/product_info.php?products_id=81|title=Upcoming Appearances|work=kinkyfriedman.com|access-date=December 1, 2005|archive-url=https://web.archive.org/web/20070926212128/http://www.kinkyfriedman.com/catalog/product_info.php?products_id=81|archive-date=September 26, 2007|url-status=dead}}</ref> (cf. "[[He Ain't Heavy, He's My Brother]]").
+
+Friedman had hoped to follow in the footsteps of other entertainers-turned-governors, including [[Jimmie Davis]], [[Jesse Ventura]], [[Arnold Schwarzenegger]], and [[Ronald Reagan]]. Jesse Ventura even campaigned with Friedman for his election.<ref>{{Cite web|url=https://www.chicagotribune.com/news/ct-xpm-2006-10-01-0610010350-story.html|title=Gov. Kinky? A joke no longer|last=Witt|first=Howard|date=October 1, 2006|website=Chicago Tribune|access-date=January 31, 2019|archive-date=February 1, 2019|archive-url=https://web.archive.org/web/20190201013332/https://www.chicagotribune.com/news/ct-xpm-2006-10-01-0610010350-story.html|url-status=live}}</ref><ref>{{Cite web|url=https://www.chron.com/news/politics/article/Willie-Nelson-hosts-Friedman-fundraiser-1951009.php|title=Willie Nelson hosts Friedman fundraiser|date=October 31, 2005|website=Houston Chronicle|agency=Associated Press|access-date=January 31, 2019|archive-date=February 1, 2019|archive-url=https://web.archive.org/web/20190201013341/https://www.chron.com/news/politics/article/Willie-Nelson-hosts-Friedman-fundraiser-1951009.php|url-status=live}}</ref> When the campaign finance reports came out after the second quarter had ended, Friedman had raised more funds than the [[Democratic Party (United States)|Democratic]] nominee, former [[Congressman]] [[Chris Bell (politician)|Chris Bell]].
+
+On election day, Friedman was defeated, receiving 12.6% of the votes in the six-candidate matchup.
+
+Friedman released a statement on October 15, 2013, announcing his intent to again run for Texas agriculture commissioner as a Democrat. Friedman previously ran for the post in 2010, losing in the Democratic primary.<ref>{{cite news|title=Kinky Friedman running for agriculture commissioner|url=http://www.chron.com/news/houston-texas/texas/article/Kinky-Friedman-running-for-agriculture-4897742.php|newspaper=Houston Chronicle|access-date=October 17, 2013|archive-date=October 17, 2013|archive-url=https://web.archive.org/web/20131017054510/http://www.chron.com/news/houston-texas/texas/article/Kinky-Friedman-running-for-agriculture-4897742.php|url-status=live}}</ref>
+
+===Issues and positions===
+Friedman supported the full legalization and cultivation of [[hemp]] and [[marijuana]], declaring that the end of the prohibition is a health, education funding, prison reduction, border security, and state's rights issue.{{When|date=January 2019}}
+
+On education, he supported higher pay for teachers and working to lower Texas's dropout rate.<ref name="support">{{Cite web|url=http://www.kinkyfriedman.com/index.php?option=com_content&task=view&id=12&Itemid=28|archiveurl=https://web.archive.org/web/20060203175840/http://www.kinkyfriedman.com/index.php?option=com_content&task=view&id=12&Itemid=28|url-status=dead|title=Kinky Friedman &#124; Independent Texan|archive-date=February 3, 2006}}</ref> He supported more investment in harnessing Texas's [[renewable energy|alternative fuel resources]] such as wind and [[biodiesel]].<ref name="support" /> Friedman was opposed to the [[Trans-Texas Corridor]] since it relies on toll road construction.<ref name="autogenerated1">[http://www.kinkyfriedman.com/issues/faq.html Kinky Friedman for Governor :: The Issues :: FAQ] {{Webarchive|url=http://webarchive.loc.gov/all/20061004230435/http%3A//www.kinkyfriedman.com/issues/faq.html |date=October 4, 2006}}.</ref>
+
+On [[capital punishment]], he previously summed up his position, "I am not anti-death penalty, but I'm damn sure anti-the-wrong-guy-getting-executed."<ref name="cbsnews">{{cite web|url=https://www.cbsnews.com/news/kinky-friedman-turns-to-politics/|title=Kinky Friedman Turns To Politics|date=August 19, 2005|publisher=CBS News|access-date=January 19, 2006|archive-date=January 9, 2006|archive-url=https://web.archive.org/web/20060109213702/http://www.cbsnews.com/stories/2005/08/19/sunday/main788935.shtml|url-status=live}}</ref> More recently, he clarified his position: "The system is not perfect. Until it's perfect, let's do away with the death penalty."<ref>[http://abclocal.go.com/ktrk/story?section=local&id=3948211 abc13.com: News from KTRK, around Houston and southeast Texas 2/28/06] {{Webarchive|url=https://web.archive.org/web/20060310000230/http://abclocal.go.com/ktrk/story?section=local&id=3948211 |date=March 10, 2006}}.</ref>
+
+On [[illegal immigration]], Friedman wanted to increase the number of [[Texas National Guard]] troops on the border (from the current 1,500 to 10,000), impose $25,000 and $50,000 fines on companies that hire illegal immigrants, and require foreign nationals seeking employment to purchase a foreign taxpayer ID card once they have passed a criminal background check. "Texas can no longer wait for our federal government to solve our illegal immigration problem," Friedman said. "These are steps that Texas can immediately take to help stem the tide of illegal immigrants penetrating our border." Had he been elected, he had promised to meet regularly with Governor [[Bill Richardson]] of [[New Mexico]] and Governor [[Janet Napolitano]] of [[Arizona]] to develop a coordinated border state plan to supplement federal efforts to curb illegal immigration.<ref name="autogenerated1" /> Previously, Kinky put forth the "Five Mexican Generals" Plan, to pay Mexican officials to halt immigration on their side of the border. Although he originally stated "When I talk about the five Mexican generals, people think I'm joking but I'm dead serious",<ref>{{cite web|url=http://www.kilgorenewsherald.com/news/2005/0717/Front_Page/002.html|title=Friedman says all Texans independents|last=Murray|first=Lester|date=July 17, 2005|work=Kilgore News Herald|archive-url=https://web.archive.org/web/20060716032937/http://www.kilgorenewsherald.com/news/2005/0717/Front_Page/002.html|archive-date=July 16, 2006|access-date=January 31, 2019}}</ref> Friedman later told the ''[[Dallas Morning News]]'' that the plan, never meant to be carried out, was a joke with an element of seriousness.<ref>{{cite web|url=http://www.dallasnews.com/sharedcontent/dws/dn/discusslive/viewpoints/stories/081106dnkinkychat.5dc3680.html|title=Chat with the candidates: Kinky Friedman, Dallas Morning News, August 17, 2006.|access-date=February 9, 2018|archive-date=July 23, 2008|archive-url=https://web.archive.org/web/20080723231937/http://www.dallasnews.com/sharedcontent/dws/dn/discusslive/viewpoints/stories/081106dnkinkychat.5dc3680.html|url-status=live}}</ref>
+
+According to his official website,<ref name="autogenerated1" /> Friedman's answer to the question "How does Kinky feel about abortion?" was "Kinky believes in a woman's right to choose." In person, he hedged his bets, saying "I'm not [[pro-life]], and I'm not [[pro-choice]]. I'm [[Professional gridiron football|pro-football]]."<ref>{{cite web|url=http://www.kinkyfriedman.com/2005/10/friedman_draws_celebrity_suppo.html |archive-url=https://web.archive.org/web/20060317020622/http://www.kinkyfriedman.com/2005/10/friedman_draws_celebrity_suppo.html |url-status=dead |archive-date=March 17, 2006 |title=Friedman draws celebrity support |publisher=Kinky Friedman |access-date=November 5, 2018}}</ref> On social issues, he supported [[same-sex marriage|gay marriage]], answering an [[Associated Press]] reporter's question on the subject on February 3, 2005, by saying, "I support gay marriage. I believe they have a right to be as miserable as the rest of us."<ref name="cbsnews"/> (Friedman himself never married.)
+
+According to ''[[Cigar Aficionado]]'' magazine, Friedman planned to roll back "any and all smoking bans" if elected. One of his favorite quotes came from [[Mark Twain]]: "If smoking is not allowed in [[heaven]], I shall not go."<ref name="cigar">{{cite web|url=http://www.cigaraficionado.com/Cigar/CA_Profiles/People_Profile/0,2540,218,00.html|title=Lone Star Long Shot – Celebrities – Cigar Aficionado|work=cigaraficionado.com|access-date=August 16, 2006|archive-url=https://web.archive.org/web/20060827004238/http://www.cigaraficionado.com/Cigar/CA_Profiles/People_Profile/0,2540,218,00.html|archive-date=August 27, 2006|url-status=dead}}</ref> Friedman supported the decriminalization of [[cannabis (drug)|marijuana]], though he did not advocate making its sale legal. "I'm not talking about like [[Amsterdam]]," he noted, "We've got to clear some of the room out of the prisons so we can put the bad guys in there, like the pedophiles and the politicians."<ref>{{cite web|url=https://www.chron.com/news/houston-texas/article/Friedman-urges-pot-be-decriminalized-1905561.php|title=Friedman urges pot be decriminalized|last1=Elliott|first1=Janet|last2=Fikac|first2=Peggy|date=September 14, 2006|work=Houston Chronicle|access-date=January 31, 2019|archive-date=November 6, 2018|archive-url=https://web.archive.org/web/20181106233500/https://www.chron.com/news/houston-texas/article/Friedman-urges-pot-be-decriminalized-1905561.php|url-status=live}}</ref>
+
+===Further political activities===
+[[File:Kinky Friedman.jpg|thumb|Friedman in 2006]]
+On August 9, 2007, the ''[[Austin American-Statesman]]'' reported that Friedman was considering another run for governor of Texas in 2010. "I'm open to running", Friedman said, adding that he would not make a final decision until after the 2008 elections.<ref>{{cite news |url=http://www.westernpr.com/Aug_07.htm |archive-url=https://web.archive.org/web/20071214202535/http://www.westernpr.com/Aug_07.htm |url-status=dead |archive-date=December 14, 2007 |title=Kinky says he might have another go at governor |date=August 9, 2007 |access-date=December 2, 2008 |newspaper=[[Austin American-Statesman]] |author=Selby, Gardner W.}} ([http://www.statesman.com/news/content/news/stories/local/08/09/0809kinky.html original link] {{Webarchive|url=https://web.archive.org/web/20070819111100/http://www.statesman.com/news/content/news/stories/local/08/09/0809kinky.html |date=August 19, 2007}}).</ref> On February 10, 2009, Friedman confirmed to the [[Associated Press]] that he was still interested in running.<ref name=":2">{{Cite web|url=https://www.google.com/hostednews/ap/article/ALeqM5ismYGH4C0DNCqInzHAZxn6_H1pjQD969CCJO0|title=Kinky Friedman may run again for governor|last=Shannon|first=Kelley|date=February 11, 2009|archive-url=https://web.archive.org/web/20090215014013/https://www.google.com/hostednews/ap/article/ALeqM5ismYGH4C0DNCqInzHAZxn6_H1pjQD969CCJO0|archive-date=February 15, 2009|access-date=January 31, 2019}}</ref>
+
+In an August 23, 2007 interview with the ''[[Fort Worth Star-Telegram]]'' and a February 10, 2009 interview with the Associated Press, Friedman stated that if he did run in 2010, he would run as a [[Democratic Party (United States)|Democrat]], citing that "God probably couldn't have won as an Independent" and that he was a Democrat all his life.<ref name=":2" />
+
+On April 14, 2009, Friedman announced in an email to supporters that he intended to make a second gubernatorial run, this time as a Democrat.<ref>[http://www.chron.com/disp/story.mpl/ap/tx/6373220.html "Friedman forms fundraising committee"], AP Texas News, ''Houston Chronicle''</ref> Friedman then announced on December 14, 2009, that he was leaving the gubernatorial race and would instead seek the party nomination in March 2010 for Texas Agriculture Commissioner.<ref>[http://www.kentucky.com/2009/12/15/1060459/kinky-friedman-withdraws-from.html "Kinky Friedman withdraws from Texas governor's race"], Lexington Herald-Leader. December 15, 2009.</ref> He lost the nomination to rancher Hank Gilbert in the primary held on March 2, 2010.<ref>[http://www.woai.com/news/political/story/Kinky-Friedman-loses-agriculture-commissioner-race/I8qtEpSki0yhNk0gUNeXKA.cspx "Kinky Friedman loses agriculture commissioner race"]{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes}}, WOAI.com March 2, 2010.</ref>
+
+==Other work and references in popular culture==
+Friedman appeared in the 2004 documentary film ''Barbecue: A Texas Love Story'' by Austin-based director [[Chris Elley]].<ref>{{Cite web|url=http://austinist.com/movies/2007/02/|title=Movies Archives: BBQ: A Texas Love Story|last=Chen|first=Allen|date=February 6, 2007|website=Austinist|access-date=January 31, 2019|archive-url=https://web.archive.org/web/20190131015735/http://austinist.com/movies/2007/02/|archive-date=January 31, 2019|url-status=dead}}</ref> In the film, narrated by Governor [[Ann Richards]], Kinky exclaims that "Jesus loved Barbecue" and analyzes the speech patterns of Texans versus New Yorkers. Raw footage from Friedman's interview appears in the 2005 DVD release of the film. He appeared in other movies as well including ''[[Loose Shoes]]'' and ''[[The Texas Chainsaw Massacre 2]]''.
+
+Friedman's persona as a [[politically incorrect]] [[raconteur]] has been likened to that of movie critic and commentator John Irving Bloom, better known in print as [[Joe Bob Briggs]], with whom he appeared in the [[B movie]] ''The Texas Chainsaw Massacre 2''.<ref>{{Cite web|url=http://www.joebobbriggs.com/drivein/1991/dialingfordingbats.htm|archiveurl=https://web.archive.org/web/20061101030205/http://www.joebobbriggs.com/drivein/1991/dialingfordingbats.htm|url-status=dead|title=Correspondence with fellow raconteur 'Joe Bob' Briggs|archive-date=November 1, 2006}}</ref>
+
+Friedman preferred to smoke [[Montecristo (cigar brand)|Montecristo]] No. 2 Cigars, the same brand once smoked by [[Fidel Castro]]. However, he also smoked [[Bolivar (cigar brand)|Bolivar]]s, noting that "[[Simón Bolívar]] is the only person in history to be exiled from a [[Bolivia|country named after him]]."<ref name="cigar"/> Friedman later made eponymous cigars under the name Kinky Friedman Cigars.<ref>[http://www.kinkycigars.com Kinky Friedman Cigars – Home] {{Webarchive|url=https://archive.today/20130127055151/http://www.kinkycigars.com/ |date=January 27, 2013}}.</ref>
+
+Friedman was given brief praise in [[Joseph Heller]]'s 1976 novel, ''[[Good as Gold (novel)|Good as Gold]]'', in which a governor (meant to satirize [[Lyndon B. Johnson]]), tells the main character, Bruce Gold: "Gold, I like you. You remind me a lot of this famous country singer from Texas I'm crazy about, a fellow calls himself Kinky Friedman, the Original Texas Jewboy. Kinky's smarter, but I like you more."
+
+Friedman was friends with [[Bill Clinton]] and [[George W. Bush]], and he visited both at the [[White House]]. He wrote about his friendships with them in his November 2001 column ("Hail to the Kinkster")<ref name="txmonthly" /> for ''[[Texas Monthly]]''.
+
+The play [[Becoming Kinky|''Becoming Kinky: The World According to Kinky Friedman'']], directed by Ted Swindley ([[Patsy Cline#Plays and musicals|''Always...Patsy Cline'']]), starring [[Jesse Dayton]], Little Jewford, Alan Lee, and Andross Bautsch, premiered in [[Houston]], Texas on March 28, 2011.<ref>{{cite news |title=Every Texan is a little bit KINKY |first=Andrew |last=Dansby |newspaper=[[Houston Chronicle]] |date=March 29, 2011 |page=D1}}</ref><ref>{{cite web|url=https://www.youtube.com/watch?v=wj5E8_rR3f0| archive-url=https://ghostarchive.org/varchive/youtube/20211211/wj5E8_rR3f0| archive-date=2021-12-11 |url-status=live|title=TRL No. 15 Becoming Kinky|last=TexasRoadhouseLive1|date=August 1, 2011|access-date=February 9, 2018|via=YouTube}}{{cbignore}}</ref>
+
+Friedman was responsible for the quote "you've got to find what you love and let it kill you," which is often falsely attributed to the poet and novelist [[Charles Bukowski]].<ref>{{cite web|url=http://www.houstonpress.com/arts/did-charles-bukowski-really-say-find-what-you-love-and-let-it-kill-you-6376127|title=Did Charles Bukowski Really Say, "Find What You Love and Let it Kill You?"|last=Rouner|first=Jef|date=July 16, 2013|website=Houston Press|access-date=October 15, 2015|archive-date=October 8, 2015|archive-url=https://web.archive.org/web/20151008074921/http://www.houstonpress.com/arts/did-charles-bukowski-really-say-find-what-you-love-and-let-it-kill-you-6376127|url-status=dead}}</ref>
+
+Friedman hosted the live concert music television show "Texas Roadhouse Live" around 2011, which would air on over-the-air network television late Saturday night (or midnight Sunday morning) in some Texas markets.<ref>{{cite web|url=https://www.youtube.com/user/TexasRoadhouseLive1/featured|title=TexasRoadhouseLive1|via=YouTube|access-date=February 9, 2018|archive-date=March 8, 2021|archive-url=https://web.archive.org/web/20210308162101/https://www.youtube.com/user/TexasRoadhouseLive1/featured|url-status=live}}</ref><ref>{{cite web|url=https://www.facebook.com/pg/Texas-Roadhouse-Live-186020208154191/about/|title=Texas Roadhouse Live|website=facebook.com|access-date=February 9, 2018|archive-date=March 8, 2021|archive-url=https://web.archive.org/web/20210308151834/https://www.facebook.com/pg/Texas-Roadhouse-Live-186020208154191/about/|url-status=live}}</ref>{{Primary source inline|date=March 2020}}
+
+On the 2017 album entitled ''Out of All This Blue'', [[Mike Scott (Scottish musician)|Mike Scott]] of [[The Waterboys]] composed a song called "Kinky's History Lesson" where the singer attempts to correct Friedman on a number of false statements he has allegedly made.<ref>{{cite web|url=https://www.songfacts.com/facts/the-waterboys/kinkys-history-lesson|title=Songfacts: Kinky's History Lesson|website=Songfacts.com|access-date=June 4, 2019|archive-date=June 4, 2019|archive-url=https://web.archive.org/web/20190604214334/https://www.songfacts.com/facts/the-waterboys/kinkys-history-lesson|url-status=live}}</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable sortable"
+! Year
+! Album
+!Artist
+! Label
+! style="width:45px;"| <small>[[Billboard 200|US]] Chart</small>
+|-
+| 1973
+|''Sold American''
+|Kinky Friedman
+|[[Vanguard Records|Vanguard]]
+|style="text-align:center;"| —
+|-
+| 1974
+|''Kinky Friedman''
+|Kinky Friedman
+|[[ABC Records|ABC]]
+|style="text-align:center;"| 132
+|-
+| 1976
+|''[[Lasso from El Paso]]''
+|Kinky Friedman
+|[[Epic Records|Epic]]
+|style="text-align:center;"| —
+|-
+| 1977
+|''Silver Jubilee 1953–1977''
+|Echo Hill Ranch
+|Echo Hill Ranch
+|style="text-align:center;"| —
+|-
+| 1982
+|''Live from the Lone Star Cafe''
+|Kinky Friedman
+|Bruno-Dean
+|style="text-align:center;"| —
+|-
+| 1983
+|''Under the Double Ego''
+|Kinky Friedman
+|Sunrise
+|style="text-align:center;"| —
+|-
+| 1992
+|''Old Testaments & New Revelations''
+|Kinky Friedman and the Texas Jewboys
+|rowspan="2" | Fruit of the Tune
+|style="text-align:center;"| —
+|-
+| 1995
+|''From One Good American to Another''
+|Kinky Friedman and the Texas Jewboys
+|style="text-align:center;"| —
+|-
+| 1998
+|''Pearls in the Snow – The Songs of Kinky Friedman''
+|Kinky Friedman
+|Kinkajou Records<ref>{{cite web|url=http://www.discogs.com/Various-Pearls-In-The-Snow-The-Songs-Of-Kinky-Friedman/release/2871721|title=Various – Pearls in the Snow – The Songs Of Kinky Friedman|year=1998|publisher=discogs|access-date=February 9, 2018|archive-date=February 10, 2018|archive-url=https://web.archive.org/web/20180210002421/https://www.discogs.com/Various-Pearls-In-The-Snow-The-Songs-Of-Kinky-Friedman/release/2871721|url-status=live}}</ref>
+|style="text-align:center;"| —
+|-
+| 2003
+|''Classic Snatches from Europe''
+|Kinky Friedman
+|rowspan="2" | Sphincter
+|style="text-align:center;"| —
+|-
+|rowspan="2"| 2005
+|''Mayhem Aforethought''
+|Kinky Friedman and the Texas Jewboys
+|style="text-align:center;"| —
+|-
+|''They Ain't Making Jews Like Jesus Anymore''
+|Kinky Friedman
+|[[Bear Family Records|Bear Family]]
+|style="text-align:center;"| —
+|-
+| 2006
+|''The Last of the Jewish Cowboys: The Best Of''
+|Kinky Friedman
+|[[Shout! Factory]]
+|style="text-align:center;"| —
+|-
+| 2007
+|''Live from Austin, Texas''
+|Kinky Friedman
+|[[New West Records|New West]]
+|style="text-align:center;"| —
+|-
+| 2013
+|''Lost and Found: The Famous Living Room Tape, 1970''
+|Kinky Friedman and the Texas Jewboys
+|Avenue A
+|style="text-align:center;"| —
+|-
+| 2015
+|''The Loneliest Man I Ever Met''
+|Kinky Friedman
+|Avenue A
+|style="text-align:center;" | —
+|-
+| 2016
+|''Resurrection''
+|Kinky Friedman
+|Echo Hill
+| style="text-align:center;" | —
+|-
+| 2018
+|''Circus of Life''
+|Kinky Friedman
+|Echo Hill
+| style="text-align:center;" | —
+|}
+
+===Singles===
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="2"| Chart Positions
+! rowspan="2"| Album
+|-
+! style="width:50px;"| <small>[[Hot Country Songs|US Country]]</small>
+! style="width:50px;"| <small>CAN Country</small>
+|-
+| 1973
+| "Sold American"
+| style="text-align:center;"| 69
+| style="text-align:center;"| 92
+| ''Sold American''
+|-
+| rowspan="2"| 1975
+| "Autograph"
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| rowspan="2"| ''Kinky Friedman''
+|-
+| "Popeye the Sailor Man"
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| 1976
+| "Catfish"
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| ''Lasso from El Paso''
+|}
+
+==Bibliography==
+{{Col-begin}}
+{{Col-2}}
+
+===Kinky Friedman Mysteries===
+* ''Greenwich Killing Time'' (1986, {{ISBN|0-688-06409-4}})
+* ''A Case Of Lone Star'' (1987, {{ISBN|0-517-69427-1}})
+* ''When The Cat's Away'' (1988, {{ISBN|0-517-07564-4}})
+* ''Frequent Flyer'' (1989, {{ISBN|0-688-08166-5}})
+* ''Musical Chairs'' (1991, {{ISBN|0-688-09148-2}})
+* ''Elvis, Jesus and Coca-Cola'' (1993, {{ISBN|0-671-86922-1}})
+* ''Armadillos and Old Lace'' (1994, {{ISBN|0-671-86923-X}})
+* ''God Bless John Wayne'' (1995, {{ISBN|0-684-81051-4}})
+* ''The Love Song of J. Edgar Hoover'' (1996, {{ISBN|0-684-80377-1}})
+* ''Roadkill'' (1997, {{ISBN|0-684-80378-X}})
+* ''Blast From The Past'' (1998, {{ISBN|0-684-80379-8}})
+* ''Spanking Watson'' (1999, {{ISBN|0-684-85061-3}})
+* ''The Mile High Club'' (2000, {{ISBN|0-684-86486-X}})
+* ''Steppin' On A Rainbow'' (2001, {{ISBN|0-684-86487-8}})
+* ''Meanwhile, Back at the Ranch'' (2002, {{ISBN|0-684-86488-6}})
+* ''Curse of the Missing Puppet Head'' (2003, {{ISBN|0-9702383-6-3}})
+* ''The Prisoner of Vandam Street'' (2004, {{ISBN|0-7432-4602-0}})
+* ''Ten Little New Yorkers'' (2005, {{ISBN|0-7432-4603-9}})
+{{Col-2}}
+
+===Other novels===
+* ''Kill Two Birds and Get Stoned'' (2003, {{ISBN|0-06-620979-X}})
+* ''The Christmas Pig: A Fable'' (2006, {{ISBN|1-4165-3498-9}})
+
+===Non-fiction & humor===
+* ''Kinky Friedman's Guide to Texas Etiquette: Or How To Get To Heaven Or Hell Without Going Through Dallas-Fort Worth'' (2002, {{ISBN|0-06-093535-9}})
+* ''Scuse Me While I Whip This Out: Reflections On Country Singers, Presidents, And Other Troublemakers'' (2004, {{ISBN|0-06-053975-5}})
+* ''The Great Psychedelic Armadillo Picnic: A "Walk" In Austin'' (2004, {{ISBN|1-4000-5070-7}})
+* ''Texas Hold 'Em: How I Was Born In A Manger, Died In The Saddle, And Came Back As A Horny Toad'' (2005, {{ISBN|0-312-33155-X}})
+* ''Cowboy Logic : The Wit And Wisdom Of Kinky Friedman (And Some Of His Friends)'' (2006, {{ISBN|978-0-312-33157-3}})
+* ''You Can Lead A Politician To Water, But You Can't Make Him Think: Ten Commandments For Texas Politics'' (2007, {{ISBN|978-1-4165-4760-0}})
+* ''What Would Kinky Do? How to Unscrew a Screwed Up World'' (2008, {{ISBN|978-0-312-33159-7}})
+{{Col-end}}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Portal|Texas}}
+{{Commons category}}
+{{wikiquote}}
+* {{Official website}}
+* {{allMusic}}
+* {{discogs artist}}
+* {{imdb name}}
+* {{MusicBrainz artist}}
+* [https://web.archive.org/web/20140305163947/http://www.texasforkinky.com/ Texas for Kinky] Kinky Friedman's campaign website for Texas Agricultural Commissioner
+
+{{Authority control}}
+
+{{DEFAULTSORT:Friedman, Kinky}}
+[[Category:1944 births]]
+[[Category:2024 deaths]]
+[[Category:20th-century American novelists]]
+[[Category:21st-century American novelists]]
+[[Category:American alternative country singers]]
+[[Category:American columnists]]
+[[Category:American country rock singers]]
+[[Category:American country singer-songwriters]]
+[[Category:American male novelists]]
+[[Category:American male singer-songwriters]]
+[[Category:American satirists]]
+[[Category:American mystery novelists]]
+[[Category:American detective fiction writers]]
+[[Category:Austin High School (Austin, Texas) alumni]]
+[[Category:Epic Records artists]]
+[[Category:Texas Independents]]
+[[Category:Jewish American male actors]]
+[[Category:Jewish American musicians]]
+[[Category:Jewish American novelists]]
+[[Category:Jewish American people in Texas politics]]
+[[Category:Jewish country singers]]
+[[Category:Jews from Texas]]
+[[Category:Musicians from Austin, Texas]]
+[[Category:People from Kerr County, Texas]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:Texas Democrats]]
+[[Category:Texas Republicans]]
+[[Category:Writers from Austin, Texas]]
+[[Category:Writers from Chicago]]
+[[Category:Journalists from Texas]]
+[[Category:Candidates in the 2006 United States elections]]
+[[Category:Candidates in the 2010 United States elections]]
+[[Category:21st-century American politicians]]
+[[Category:20th-century American male writers]]
+[[Category:21st-century American male writers]]
+[[Category:Novelists from Texas]]
+[[Category:Novelists from Illinois]]
+[[Category:Outlaw country singers]]
+[[Category:Progressive country musicians]]
+[[Category:20th-century American non-fiction writers]]
+[[Category:21st-century American non-fiction writers]]
+[[Category:American male non-fiction writers]]
+[[Category:Country musicians from Texas]]
+[[Category:Country musicians from Illinois]]
+[[Category:21st-century American Jews]]
+[[Category:Singer-songwriters from Illinois]]
+[[Category:Deaths from Parkinson's disease in Texas]]
+[[Category:People from Bandera County, Texas]]

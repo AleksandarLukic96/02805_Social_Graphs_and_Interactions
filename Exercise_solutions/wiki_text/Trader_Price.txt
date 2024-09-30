@@ -1,0 +1,84 @@
+{{Infobox musical artist
+| name            = Trader-Price
+| image           =
+| caption         =
+| image_size      =
+| alias           =
+| origin          = [[Burns Flat, Oklahoma]]
+| genre           = [[Country music|Country]]
+| years_active    = 1976-2016
+| label           = [[Universal Records (1988)|Universal]], [[Capitol Records|Capitol]]
+| associated_acts =
+| website         =
+| past_members    = Dan Trader-Price<br />Chris Trader-Price<br />Erick Trader-Price<br />Don Bell
+}}
+'''Trader-Price''' is an American [[country music]] group from [[Burns Flat, Oklahoma]] composed of brothers Dan, Chris and Erick Trader-Price and Don Bell. In 1989, Trader-Price charted two singles on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles & Tracks]] chart.<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2005|publisher=Record Research, Inc|page=384|year=2005|isbn=0-89820-165-9}}</ref> Two of their singles also charted on the ''[[RPM (magazine)|RPM]]'' Country Tracks chart in Canada in 1990.<ref>{{cite web|url=http://www.collectionscanada.gc.ca/rpm/028020-119.01-e.php?brws_s=1&file_num=nlc008388.6650&type=1&interval=24&PHPSESSID=03s3qbliiiil0eaqmeqcl8d406|title=RPM Country Tracks for February 10, 1990|work=[[RPM (magazine)|RPM]]|accessdate=17 December 2010}}</ref><ref>{{cite web|url=http://www.collectionscanada.gc.ca/rpm/028020-119.01-e.php?brws_s=1&file_num=nlc008388.1274&type=1&interval=24&PHPSESSID=03s3qbliiiil0eaqmeqcl8d406|title=RPM Country Tracks for July 21, 1990|work=[[RPM (magazine)|RPM]]|accessdate=17 December 2010}}</ref> A music video was filmed for their single "Lately Rose".
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:10em;"| Title
+! style="width:18em;"| Album details
+|- 
+! scope="row"| ''Trader-Price''
+| 
+* Release date: March 27, 1990
+* Label: [[Capitol Records]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:10em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="2"| 1989
+! scope="row"| "[[Sad Eyes (Robert John song)|Sad Eyes]]"
+| 55
+| —
+| align="left" rowspan="3"| ''Trader-Price''
+|-
+! scope="row"| "Lately Rose"
+| 64
+| 80
+|-
+| 1990
+! scope="row"| "Karma Road"
+| —
+| 73
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable"
+|-
+! Year
+! Video
+! Director
+|-
+| 1989
+| "Lately Rose"
+| R. Brad Murano
+|-
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[{{Allmusic|class=artist|id=p23648|pure_url=yes}} Trader-Price] on [[Allmusic]]
+*[https://myspace.com/traderpricemusic Trader-Price] on [[Myspace]]
+
+[[Category:Country music groups from Oklahoma]]
+[[Category:Capitol Records artists]]
+
+
+{{US-country-band-stub}}

@@ -1,0 +1,138 @@
+{{short description|American country music singer|bot=PearBOT 5}}
+{{Use mdy dates|date=May 2020}}
+{{Infobox musical artist
+| name            = Brad Cotter
+| image           =
+| caption         =
+| image_size      =
+| birth_name      = Thomas Bradley Cotter
+| birth_date      = {{Birth date and age|1970|9|29}}
+| origin          = [[Opelika, Alabama]], United States
+| instrument      = Vocals
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 2004–present
+| label           = [[Epic Records|Epic Nashville]], Adobe Road, OMG
+| associated_acts = Silverado, [[Chad Brock]], Steve Bogard
+| website         = [http://www.bradcotter.com/ www.bradcotter.com]
+}}
+'''Thomas Bradley Cotter''' (born September 29, 1970) is an American [[country music]] singer who won the 2004 season of ''[[Nashville Star]]'' a talent competition on the [[USA Network]]. Signed to [[Epic Records]] that year, he released his debut album ''[[Patient Man]]'', which produced three singles on the ''[[Billboard (magazine)|Billboard]]'' country charts, including the No.&nbsp;35 "I Meant To". An independent EP, ''Continuity'', followed in 2007.
+
+==Biography==
+Born in [[Opelika, Alabama]], Cotter trained with Jerry Redd, who had performed with [[Elvis Presley]] and the [[gospel music]] group The Stamps Quartet. His first public performance was at the age of nine in a church in [[Columbus, Georgia]].  He recorded five gospel records in the next eight years, and was voted the "top child Gospel soloist in America". He dropped out of performing in his late teen years, then returned to music in Auburn, where he joined the group Silverado.
+
+Cotter left Silverado in 1993 and moved to [[Nashville, Tennessee]], where he tried to get work as a solo act and a songwriter, landing cuts by [[Tommy Shane Steiner]] and [[Chad Brock]], in addition to recording demos.<ref name="allmusic">{{cite web|url={{AllMusic|class=artist|id=p660647/biography|pure_url=yes}}|title=Brad Cotter biography|last=Jeffries|first=David|work=[[Allmusic]]|accessdate=June 4, 2009}}</ref> He later competed on and won ''[[Nashville Star]]'', then signed to a recording contract with [[Epic Records]]. Cotter's debut album ''[[Patient Man]]'' was released in mid-2004 via Epic, with production by songwriter Steve Bogard. This album produced three chart singles on the country charts, including the Top 40 "I Meant To", but Cotter exited the label before Epic closed its Nashville division in 2005. In 2007, Cotter signed with Adobe Road Records in Nashville, releasing an EP called ''Continuity''.
+
+In 2009, Cotter and Bogard reunited, and Cotter signed to OMG Records. His second full album, ''Right on Time'', was released in June 2009.<ref>{{cite journal|last=Conaway|first=Alanna|date=June 15, 2009|title=Roller Coaster Ride: Brad Cotter has bounced back from tough times after winning ''Nashville Star''.|journal=[[Country Weekly]]|volume=16|issue=18|pages=48}}</ref>
+
+==Discography==
+
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:10em;"| Title
+! rowspan="2" style="width:16em;"| Album details
+! colspan="2"| Peak chart<br>positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]<br><ref>{{cite web|url={{BillboardURLbyName|artist=brad cotter|chart=Country Albums C}}|title=Brad Cotter Album & Song Chart History – Country Albums|publisher=Billboard|accessdate=November 14, 2010}}</ref>
+! width="45"| [[Billboard 200|US]]<br><ref>{{cite web|url={{BillboardURLbyName|artist=brad cotter|chart=all}}|title=Brad Cotter Album & Song Chart History – Billboard 200|publisher=Billboard|accessdate=November 14, 2010}}</ref>
+|-
+! scope="row"| ''[[Patient Man]]''
+| 
+* Release date: July 6, 2004
+* Label: [[Epic Records|Epic Nashville]]
+| 4
+| 27
+|-
+! scope="row"| ''Right on Time''
+| 
+* Release date: June 9, 2009
+* Label: OMG Records
+| —
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:10em;"| Title
+! style="width:16em;"| Album details
+|-
+! scope="row"| ''Continuity''
+| 
+* Release date: 2007
+* Label: Adobe Road Records
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:12em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="60"| [[Hot Country Songs|US Country]]<br><ref>{{cite web|url={{BillboardURLbyName|artist=brad cotter|chart=Country Songs}}|title=Brad Cotter Album & Song Chart History – Country Songs|publisher=Billboard|accessdate=November 14, 2010}}</ref>
+|-
+| rowspan="3"| 2004
+! scope="row"| "I Meant To"
+| 35
+| align="left" rowspan="3"| ''Patient Man''
+|-
+! scope="row"| "Can't Tell Me Nothin'"
+| 59
+|-
+! scope="row"| "I Miss Me"
+| 59
+|-
+| 2007
+! scope="row"| "God's Fingerprints"
+| —
+| align="left"| ''Continuity''
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;"| Video
+! Director
+|-
+| 2004
+! scope="row"| "I Meant To"<ref>{{cite web|url=http://www.cmt.com/videos/brad-cotter/311630/i-meant-to.jhtml|title=CMT : Videos : Brad Cotter : I Meant To|publisher=Country Music Television|accessdate=November 14, 2010}}</ref>
+| [[Peter Zavadil]]
+|-
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.bradcotter.com/ Brad Cotter official website]
+*[http://www.cmt.com/artists/az/cotter_brad/artist.jhtml Brad Cotter at CMT]
+
+{{Nashville Star}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Cotter, Brad}}
+[[Category:1970 births]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Living people]]
+[[Category:Nashville Star contestants]]
+[[Category:Nashville Star winners]]
+[[Category:People from Auburn, Alabama]]
+[[Category:Epic Records artists]]
+[[Category:People from Opelika, Alabama]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:Country musicians from Alabama]]
+[[Category:21st-century American male singers]]
+[[Category:Singer-songwriters from Alabama]]

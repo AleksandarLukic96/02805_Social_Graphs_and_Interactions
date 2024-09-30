@@ -1,0 +1,239 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=September 2020}}
+{{BLP sources|date=April 2020}}
+{{Infobox musical artist
+|name            = Stacy Dean Campbell
+|background      = solo_singer
+|image           = 
+|birth_name      = 
+|birth_date      = {{birth date and age|1967|7|27}}
+|birth_place     = [[Carlsbad, New Mexico]], U.S.
+|origin          = [[Nashville, Tennessee]], U.S.
+|genre           = [[Country music|Country]]
+|occupation      = Singer-songwriter
+|years_active    = 1992–present
+|label           = [[Columbia Records|Columbia]]<br />[[Warner Bros. Records|Warner Bros.]]
+|associated_acts = 
+|website         = 
+}}
+
+''For the American policy advisor, see [[Stacy Dean]].''
+
+'''Stacy Dean Campbell''' (born July 27, 1967) is an American singer-songwriter, author, and TV host.
+
+==Life and career==
+Campbell's father was a [[gospel music|gospel]] singer, touring with many notable quartets and along with other members of "The Singing Campbell Family" is an inductee in the Texas Gospel Music Hall of Fame. Raised by his mother in Oklahoma and New Mexico,<ref>Jason Ankeny, [{{AllMusic|class=artist|id=p32169/biography|pure_url=yes}} Stacy Dean Campbell] [[Allmusic]]</ref> Campbell began his music career singing in clubs around the Oklahoma University campus and soon moved to [[Nashville, Tennessee|Nashville]]. In 1991 he signed a contract to become a staff songwriter for [[Tree Music]], and released his first album as a solo artist on Columbia Records in 1992. Three singles from his debut album hit the [[Billboard magazine|Billboard]] Country singles chart.
+
+Campbell released a follow-up album on Columbia in 1995 and in 1999 he moved to the Warner Brothers label and shifted his focus to making an album that featured more of his songwriting. The result was "Ashes of Old Love" which reached the number 3 position on the Americana Music Chart. In 2000, Campbell and [[Dean Miller]] co-wrote [[Trace Adkins]]' single "I'm Gonna Love You Anyway".
+
+In 2001 Campbell left the music business and returned to New Mexico where he began work on a writing project and in 2004, his first novel, ''Cottonwood,'' was published. The book is set in West Texas in 1937. Included with the book is a CD which features 12 original tracks inspired by the novel and composed by Campbell.
+
+In recent years, Campbell has expanded his career and moved behind the scenes, working as a director-writer in music videos and short films. He is the creator of the Americana Travel series, ''Bronco Roads,'' a syndicated travel series that showcases life in the American West. Campbell serves as host.<ref>[http://www.BroncoRoads.com Bronco Roads Official Website]</ref>
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:14em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''Lonesome Wins Again''
+| 
+* Release date: July 14, 1992
+* Label: [[Columbia Records]]
+|-
+! scope="row"| ''Hurt City''
+| 
+* Release date: July 25, 1995
+* Label: Columbia Records
+|-
+! scope="row"| ''Ashes of Old Love''
+| 
+* Release date: April 13, 1999
+* Label: [[Warner Bros. Records]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="3"| 1992
+! scope="row"| "Rosalee"<ref>{{cite magazine|url=https://worldradiohistory.com/Archive-All-Music/Billboard/90s/1992/Billboard-1992-06-06.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|page=68|date=June 6, 1992}}</ref>
+| 54
+| 57
+| align="left" rowspan="3"| ''Lonesome Wins Again''
+|-
+! scope="row"| "Baby Don't You Know"
+| 65
+| 80
+|-
+! scope="row"| "Poor Man's Rose"
+| 55
+| 42
+|-
+| rowspan="2"|1995
+! scope="row"| "Honey I Do"
+| 61
+| —
+| align="left" rowspan="2"| ''Hurt City''
+|-
+! scope="row"| "Eight Feet High"<ref>{{cite magazine|url=http://americanradiohistory.com/Archive-Billboard/90s/1995/BB-1995-04-22.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|date=April 22, 1995}}</ref>
+| —
+| —
+|-
+| 1999
+! scope="row"| "Makin' Good Time"
+| —
+| —
+| align="left"| ''Ashes of Old Love''
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:14em;"| Video
+! Director
+|-
+| rowspan="2"| 1992
+! scope="row"| "Rosalee"
+| Piers Plowden
+|-
+! scope="row"| "Poor Man's Rose"
+| Roger Pistole
+|-
+| 1995
+! scope="row"| "Eight Feet High"
+|Kiefer Sutherland
+|-
+| 1999
+! scope="row"| "Makin' Good Time"
+| David McClister
+|}
+
+==Track listing==
+
+{| class="wikitable"
+|+ class="nowrap" | {{large|''Lonesome Wins Again''<ref name=LWA>{{Cite AV media notes |title=Lonesome Wins Again |others=Stacy Dean Campbell |type=liner notes |access-date= |year=1992 |publisher=[[Columbia Records]] |id=CK 47872}}</ref><ref Name=AM1>{{AllMusic|class=album|id=mw0000613700 |label=''Lonesome Wins Again'' Review |first=Brian |last=Mansfield |accessdate=20 May 2021 }}</ref>}}
+|-
+! scope="col" | No.
+! scope="col" | Title
+! scope="col" | Writers
+! scope="col" | Length
+|-
+| align="right"|1. || Lonesome Wins Again || {{hlist|Stacy Dean Campbell|Spencer Campbell|[[Brent Maher]]}} || align="right"|3:20
+|-
+| align="right"|2. || A Thousand Times || {{hlist|[[Bill Cowsill|Billy Cowsill]]|[[Mark Irwin (songwriter)|Mark Irwin]]}} || align="right"|2:54
+|-
+| align="right"|3. || Baby Don't You Know || [[Jamie O'Hara (singer)|Jamie O'Hara]] || align="right"|3:02
+|-
+| align="right"|4. || Rosalee || {{hlist|[[Craig Bickhardt]]|[[Don Schlitz]]|[[Brent Maher]]}} || align="right"|3:34
+|-
+| align="right"|5. || That Blue Again || Jamie O'Hara || align="right"|3:24
+|-
+| align="right"|6. || Poor Man's Rose || {{hlist|Stacy Dean Campbell|[[Owsley (musician)|Bill Owsley]]|Jody Spence}} || align="right"|3:13
+|-
+| align="right"|7. || That Ain't No Mountain || {{hlist|Brent Maher|Don Schlitz}} || align="right"|3:23
+|-
+| align="right"|8. || I Won't || {{hlist|Stacy Dean Campbell|Bill Owsley}} || align="right"|2:21
+|-
+| align="right"|9. || One Little Teardrop || {{hlist|Brent Maher|Don Schlitz}} || align="right"|3:24
+|-
+| align="right"|10. || Would You Run || {{hlist|Stacy Dean Campbell|[[Judson Spence]]}} || align="right"|3:16
+|-
+| || || align="right"|'''Total Length:''' || align="right"|'''31:51'''
+|}
+
+{| class="wikitable"
+|+ class="nowrap" | {{large|''Hurt City''<ref name=HC>{{Cite AV media notes |title=Hurt City |others=Stacy Dean Campbell |type=liner notes |access-date= |year=1995 |publisher=[[Columbia Records]] |id=CK 57214}}</ref>}}
+|-
+! scope="col" | No.
+! scope="col" | Title
+! scope="col" | Writers
+! scope="col" | Length
+|-
+| align="right"|1. ||Eight Feet High || {{hlist|[[Ed Hill]]|L. David Lewis}} || align="right"|2:21
+|-
+| align="right"|2. ||Why You Were Gone So Long || [[Mickey Newbury]] || align="right"|2:54
+|-
+| align="right"|3. ||I Can Dream ||{{hlist|[[Jamie O'Hara (singer)|Jamie O'Hara]]|Stacy Dean Campbell}} || align="right"|3:42
+|-
+| align="right"|4. ||Midnight Angel || {{hlist|John Hadley|[[Kevin Welch]]}} || align="right"|3:28
+|-
+| align="right"|5. ||Hurt City || {{hlist|Dayton Wear|[[Bill LaBounty]]}} || align="right"|4:01
+|-
+| align="right"|6. ||Pop O Top || [[Nat Stuckey]] || align="right"|2:17
+|-
+| align="right"|7. ||Sometimes She Forgets || [[Steve Earle]] || align="right"|3:27
+|-
+| align="right"|8. ||Honey I Do || {{hlist|Stacy Dean Campbell|[[Al Anderson (NRBQ)|Al Anderson]]}} || align="right"|2:58
+|-
+| align="right"|9. ||Mind over Matter || {{hlist|[[Wally Wilson]]|[[Kostas (songwriter)|Kostas]]}} || align="right"|3:41
+|-
+| align="right"|10. ||There's the Door ||  {{hlist|Paul Nelson|Gene Nelson}} || align="right"|2:33
+|-
+| || || align="right"|'''Total Length:''' || align="right"|'''31:22'''
+|}
+
+{| class="wikitable"
+|+ class="nowrap" | {{large|''Ashes of Old Love''<ref name=AOOL>{{Cite AV media notes |title=Ashes Of Old Love |others=Stacy Dean Campbell |type=liner notes |access-date= |year=1999 |publisher=Paladin Records |id=9 24724-2}}</ref><ref Name=AM2>{{AllMusic|class=album|id=mw0000242731 |label=''Ashes of Old Love'' Review |first=Heather |last=Phares |accessdate=20 May 2021 }}</ref>}}
+|-
+! scope="col" | No.
+! scope="col" | Title
+! scope="col" | Writers
+! scope="col" | Length
+|-
+| align="right"|1. ||Makin' Good Time || {{hlist|Stacy Dean Campbell|[[Dean Miller]]}} || align="right"|3:18
+|-
+| align="right"|2. ||Ashes of Old Love || {{hlist|Stacy Dean Campbell|John Jackson}} || align="right"|4:35
+|-
+| align="right"|3. ||Some People (Just Can't Walk the Line) || [[Jamie O'Hara (singer)|Jamie O'Hara]] || align="right"|4:27
+|-
+| align="right"|4. ||Train Not Running || {{hlist|Stacy Dean Campbell|[[Chris Knight (musician)|Chris Knight]]}} || align="right"|4:10
+|-
+| align="right"|5. ||I'm Gonna Fly || {{hlist|Stacy Dean Campbell|Dean Miller}} || align="right"|3:56
+|-
+| align="right"|6. ||All the Winters We've Known || Stacy Dean Campbell || align="right"|4:32
+|-
+| align="right"|7. ||Gone by Now || {{hlist|Stacy Dean Campbell|[[Kevin Welch]]}} || align="right"|3:18
+|-
+| align="right"|8. ||One False Move || Stacy Dean Campbell || align="right"|3:20
+|-
+| align="right"|9. ||Five Texas Dollars || Stacy Dean Campbell || align="right"|4:23
+|-
+| align="right"|10. ||Bidding America Goodbye (The Auction) || Jamie O'Hara || align="right"|3:15
+|-
+| align="right"|11. ||Rain Just Falls || David Halley || align="right"|4:11
+|-
+| || || align="right"|'''Total Length:''' || align="right"|'''43:25'''
+|}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Campbell, Stacy Dean}}
+[[Category:1967 births]]
+[[Category:Living people]]
+[[Category:American country singer-songwriters]]
+[[Category:Singers from New Mexico]]
+[[Category:Columbia Records artists]]
+[[Category:Warner Records artists]]
+[[Category:American male singer-songwriters]]
+[[Category:People from Carlsbad, New Mexico]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:20th-century American male singers]]
+[[Category:21st-century American male singers]]
+[[Category:21st-century American singer-songwriters]]

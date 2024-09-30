@@ -1,0 +1,120 @@
+{{Short description|American country music band}}
+{{Infobox musical artist
+| name            = Burnin' Daylight
+| image           =
+| caption         =
+| image_size      =
+| origin          = [[Nashville, Tennessee]], United States
+| genre           = [[country music|Country]]
+| years_active    = 1995–1998
+| label           = [[Curb Records|Curb]]
+| spinoff_of = [[Exile (American band)|Exile]], [[Southern Pacific (band)|Southern Pacific]]
+| past_members    = [[Marc Beeson]]<br />Kurt Howell<br />[[Sonny LeMaire]]
+}}
+'''Burnin' Daylight''' was an American [[country music]] band composed of [[Marc Beeson]] (lead vocals, guitar), Kurt Howell (keyboards, vocals), and [[Sonny LeMaire]] (bass guitar, vocals). Howell was formerly a member of [[Southern Pacific (band)|Southern Pacific]], and LeMaire a former member of [[Exile (American band)|Exile]]. Burnin' Daylight recorded one album on [[Curb Records]] in 1996, in addition to charting three singles on the ''[[Billboard (magazine)|Billboard]]'' Hot Country Singles & Tracks (now [[Hot Country Songs]]) charts. The highest of these, "Say Yes", reached No.&nbsp;37.
+
+==History==
+Burnin' Daylight was formed in 1995 by [[Sonny LeMaire]], Kurt Howell, and Marc Beeson. LeMaire was formerly a member of [[Exile (American band)|Exile]],<ref>[http://www.exileband.com/members.htm Exile Members]</ref> and Howell, formerly of [[Southern Pacific (band)|Southern Pacific]] and later a solo artist for [[Reprise Records]].<ref name="Cst">[http://www.countrystandardtime.com/d/cdreview.asp?xid=342 Burnin' Daylight - Burnin' Daylight]</ref> Marc Beeson was a Nashville songwriter who had previously charted a solo single on [[BNA Records]] in the early 1990s.<ref name="oldies">[http://www.oldies.com/artist-biography/Burnin-Daylight.html Burnin' Daylight biography: Oldies.com]</ref> The group had originally assumed the name The Loose Cannons, but was forced to change its name to Burnin' Daylight because another band had the same name.<ref name="oldies"/> Originally, songwriters [[Trey Bruce]] and [[Rob Crosby]] were slated to be members of Burnin' Daylight as well. However, they decided to focus on their respective solo careers instead.<ref name="oldies"/>
+
+Initially, Burnin' Daylight was intended to be only a live band. They eventually sent a tape to [[Mike Curb]], head of the [[Curb Records]] label, who signed the group in 1997.<ref name="oldies"/> In April of that year, Burnin' Daylight released its eponymous debut album. They charted three singles on the ''Billboard'' country music charts, including a Top 40 hit in "Say Yes". Robert Loy of ''[[Country Standard Time]]'' gave the album a negative review, criticizing it as formulaic in nature.<ref name="Cst"/>
+
+In 1997, the [[Academy of Country Music]] nominated Burnin' Daylight for the Top New Vocal Duo or Group award, but the band lost to [[Ricochet (band)|Ricochet]].
+
+Since disbanding in 1998, former bass guitarist [[Sonny LeMaire]] has written several singles for other artists, including the Number One hit "[[Beautiful Mess (Diamond Rio song)|Beautiful Mess]]" by [[Diamond Rio]], "[[She Thinks She Needs Me]]" by [[Andy Griggs]], and "[[Fall (Clay Walker song)|Fall]]" by [[Clay Walker]] (also recorded by [[Kimberley Locke]]). All of these were collaborations with [[Shane Minor]] and [[Clay Mills]]. LeMaire has also since reunited with Exile.
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:14em;"| Title
+! rowspan="2" style="width:20em;"| Album details
+! colspan="1"| Peak positions
+|- style="font-size:smaller;"
+! width="60"| [[Top Country Albums|US Country]]
+|-
+! scope="row"| ''Burnin' Daylight''<ref>{{cite magazine|url=https://worldradiohistory.com/Archive-All-Music/Billboard/90s/1997/Billboard-1997-06-21.pdf|title=Album Reviews|magazine=[[Billboard (magazine)|Billboard]]|date=June 21, 1997}}</ref>
+| 
+* Release date: April 15, 1997
+* Label: [[Curb Records]]
+| 74
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| 1996
+! scope="row"| "Love Worth Fighting For"
+| 49
+| —
+| align="left" rowspan="4"| ''Burnin' Daylight''
+|-
+| rowspan="3"| 1997
+! scope="row"| "Say Yes"<ref>{{cite magazine|url=https://worldradiohistory.com/Archive-All-Music/Billboard/90s/1997/Billboard-1997-02-22.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|page=81|date=February 22, 1997}}</ref>
+| 37
+| 84
+|-
+! scope="row"| "Live to Love Again"
+| 58
+| 96
+|-
+! scope="row"| "Nice Work (If You Can Get It)"<ref>{{Cite web|url=https://www.discogs.com/release/13536753-Burnin-Daylight-Nice-Work-If-You-Can-Get-It|title=Nice Work (If You Can Get It) – Burnin' Daylight (1997, Single)|access-date=March 6, 2023|website=Discogs.com}}</ref>
+| —
+| —
+|-
+| 1998
+! scope="row"| "Wreckin' Ball"<ref>{{Cite web|url=https://www.discogs.com/release/20503675-Burnin-Daylight-Wreckin-Ball|title=Wreckin' Ball – Burnin' Daylight (1998, Single)|access-date=March 6, 2023|website=Discogs.com}}</ref>
+| —
+| —
+| {{n/a}}
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:14em;"| Video
+! Director
+|-
+| 1996
+! scope="row"| "Love Worth Fighting For"<ref>{{cite web|url=http://www.cmt.com/videos/burnin-daylight/385099/love-worth-fighting-for.jhtml|title=CMT : Videos : Burnin' Daylight : Love Worth Fighting For|publisher=[[Country Music Television]]|accessdate=October 14, 2011}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+| Chris Rogers
+|}
+
+== Awards and nominations ==
+{| class="wikitable"
+!Year
+!Organization
+!Award
+!Nominee/Work
+!Result
+|-
+|1997
+|[[Academy of Country Music Awards]]
+|Top New Vocal Group or Duet
+|Burnin' Daylight
+|{{nom}}
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.kurthowell.com/ Kurt Howell official website]
+
+{{southern Pacific}}
+{{Exile}}
+
+[[Category:Country music groups from Tennessee]]
+[[Category:Musical groups established in 1995]]
+[[Category:Vocal trios]]
+[[Category:Curb Records artists]]

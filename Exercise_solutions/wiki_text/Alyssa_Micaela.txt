@@ -1,0 +1,51 @@
+{{short description|American singer-songwriter (born 1992)}}
+{{Multiple issues|
+{{notability|Bio|date=July 2017}}
+{{BLP sources|date=July 2017}}
+}}
+{{Infobox musical artist
+| honorific_prefix          =
+| name                      = Alyssa Micaela
+| honorific_suffix          =
+| image                     =
+| image_size                =
+| alt                       =
+| caption                   =
+| native_name_lang          =
+| birth_name                = Alyssa Micaela Bagley
+| birth_date                = {{Birth date and age|1992|05|28}}
+| birth_place               = [[Odessa, Texas]]
+| death_date                =
+| death_place               =
+| genre                     = [[Country music|Country]]
+| website                   = {{URL|alyssamicaela.com}}
+}}
+
+'''Alyssa Micaela''' (born May 28, 1992) is an American [[country music]] singer and songwriter. Her debut studio EP, ''Cowboys Like That'', was released on March 10, 2017.
+
+==Early life==
+Alyssa Micaela was born on May 28, 1992, in the oil town of [[Odessa, Texas]]. She loves performing bilingual [[Cover (music)|covers]] of [[Freddy Fender]] and [[Roy Orbison]]. Growing up she always admired Selena.<ref name="rstone">Freeman, Jon, Joseph Hudak, Marissa Moss, and Person. "10 New Country Artists You Need to Know: April 2017." Rolling Stone. N.p., 11 Apr. 2017. Web. 07 July 2017.</ref>
+
+==Career==
+When Micaela was a teenager, she met [[Liz Rose]], who played a huge role in getting Micaela to move to Tennessee and start her musical career. Rose has mentored Micaela, and co- wrote half of the songs on the ''Cowboys Like That EP.''<ref name="rstone"/>
+
+Micaela has opened for artists such as [[Eli Young Band]], [[Willie Nelson]], [[Dierks Bentley]], and [[Sam Hunt]]. Liz Rose Music and [[Warner/Chappell Music]] signed publishing agreements with Micaela.<ref>"Alyssa Micaela Signs With Warner/Chappell, Liz Rose Music." MusicRow - Nashville's Music Industry Publication - News, Songs From Music City. N.p., 28 Mar. 2016. Web. 07 July 2017.</ref>
+
+Micaela's debut single and most popular song, "Getaway Car", was made into a music video that was aired on [[CMT (U.S. TV channel)|CMT]] in 2016.<ref>"Alyssa Micaela | Getaway Car | Music Video." CMT. N.p., n.d. Web. 07 July 2017.</ref> The song was featured on Spotify's Hot Country playlist, garnering over 3 million streams. Her second single, "Clean Break," was also featured on Spotify's Hot Country playlist as well as New Boots and Wild Country, garnering over 2.4 million streams.
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Micaela, Alyssa}}
+[[Category:21st-century American singer-songwriters]]
+[[Category:1992 births]]
+[[Category:Living people]]
+[[Category:People from Odessa, Texas]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:American women singer-songwriters]]
+[[Category:21st-century American women singers]]
+[[Category:Country musicians from Texas]]

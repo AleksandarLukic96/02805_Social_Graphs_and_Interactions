@@ -1,0 +1,238 @@
+{{Infobox musical artist
+| image           =
+| name            = Joel Feeney
+| birth_name      = Joel Richard Stephan Feeney
+| birth_date = {{birth date and age|1957|11|21}}
+| origin          = [[Oakville, Ontario]], Canada
+| instruments     = keyboards
+| genre           = [[Country music|Country]], pop
+| occupation      = Singer, songwriter, producer
+| years_active    = 1980 &ndash; present
+| label           = [[MCA Records|MCA Canada]], [[Universal Music]]
+| associated_acts = The Front, Western Front
+| website         =
+| current_members =
+| past_members    = 
+}}
+
+'''Joel Richard Stephan Feeney''' (born November 21, 1957) is a Canadian country, pop music singer, songwriter and record producer.
+
+==History==
+Joel Feeney commenced his recording career with the [[pop rock]] band The Front.<ref>{{Cite web|url=http://www.myspace.com/wwwmyspacecomnovembersongs|archiveurl=https://archive.today/20120909220514/http://www.myspace.com/wwwmyspacecomnovembersongs|url-status=dead|title=joel feeney productions &#124; Kostenlose Musik, Tourdaten, Fotos, Videos|website=Myspace.com|archive-date=9 September 2012|access-date=18 July 2021}}</ref> Feeney was also a producer on albums by other Canadian country singers including [[Family Brown]], and worked as a [[session musician]] before releasing his debut album ''Joel Feeney and the Western Front'' in 1991. The album included songs written by members of The Front.<ref>{{cite journal | url=https://worldradiohistory.com/CANADA/RPM/90s/1991/RPM-1991-07-27.pdf | title=Session man Joel Feeney releases gem of his own | author=Pablo Fairhall | journal=RPM | pages=7 | date=July 27, 1991}}</ref>
+
+Feeney's second album ''Life Is but a Dream'' was released in 1993 and was produced by [[Chris Farren (country musician)|Chris Farren]]. It received a positive review from the ''Ottawa Citizen'' which called it a "soft-spoken but intense set of songs".<ref>{{cite news | url=https://www.newspapers.com/image/464887839 | title=Joel Feeney offers emotion and candor | newspaper=[[The Ottawa Citizen]] | date=November 27, 1993 | access-date=October 15, 2020 | pages=E3}}</ref>
+
+His most successful hit came in 1995 with "[[What Kind of Man (Joel Feeney song)|What Kind of Man]]", which topped the Canadian ''[[RPM (magazine)|RPM]]'' country singles charts. This song also came from ''Life Is but a Dream''.<ref>{{cite journal | url=https://worldradiohistory.com/CANADA/RPM/90s/1995/RPM-1995-05-29.pdf | title=Country | journal=RPM | pages=33 | date=May 29, 1995}}</ref> He is also notable for co-writing [[LeAnn Rimes]]' 2005 hit "[[Nothin' 'Bout Love Makes Sense]]".<ref name="liner">{{cite AV media notes|title=This Woman|others=[[LeAnn Rimes]]|year=2005|type=CD|publisher=[[Curb Records]]|id=D2-78916}}</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders"
+! style="width:18em;"| Title
+! style="width:18em;"| Details
+|-
+! scope="row"| ''Joel Feeney and the Western Front''
+| 
+* Release date: 1991
+* Label: Justin Entertainment
+|-
+! scope="row"| ''...Life Is but a Dream''
+| 
+* Release date: 1993
+* Label: [[MCA Records]]
+|-
+! scope="row"| ''Joel Feeney''
+| 
+* Release date: 1998
+* Label: [[Universal Music Group|Universal Music Canada]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! colspan="3"| Peak chart positions<ref>{{cite journal | url=https://www.bac-lac.gc.ca/eng/discover/films-videos-sound-recordings/rpm/Pages/list.aspx?OCRText=joel+feeney& | title=Search results for Joel Feeney | journal=RPM| date=17 July 2013 }}</ref>
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[RPM (magazine)|CAN Country]]
+! width="45"| [[RPM (magazine)|CAN]]
+! width="45"| [[RPM (magazine)|CAN AC]]
+|-
+| rowspan="3"| 1991
+! scope="row"| "It's a Beautiful Life"
+| 23
+| —
+| —
+| align="left" rowspan="6"| ''Joel Feeney and the Western Front''
+|-
+! scope="row"| "Poor Billy"
+| 71
+| —
+| —
+|-
+! scope="row"| "Diamonds"
+| 18
+| 69
+| 24
+|-
+| rowspan="3"| 1992
+! scope="row"| "One Good Reason"
+| 28
+| —
+| —
+|-
+! scope="row"| "If Anything Could Be"
+| 48
+| —
+| —
+|-
+! scope="row"| "The Tennessee Hills"
+| 26
+| —
+| —
+|-
+| 1993
+! scope="row"| "[[Say the Word (Joel Feeney song)|Say the Word]]"
+| 5
+| —
+| —
+| align="left" rowspan="6"| ''...Life Is but a Dream''
+|-
+| rowspan="3"| 1994
+! scope="row"| "By Heart"
+| 13
+| —
+| —
+|-
+! scope="row"| "Everything to Me"
+| 11
+| —
+| —
+|-
+! scope="row"| "Tears Don't Lie"
+| 32
+| —
+| —
+|-
+| rowspan="2"| 1995
+! scope="row"| "[[What Kind of Man (Joel Feeney song)|What Kind of Man]]"
+| 1
+| —
+| —
+|-
+! scope="row"| "Life Is But a Dream"
+| 9
+| —
+| —
+|-
+| rowspan="2"| 1998
+! scope="row"| "[[A Little Bit of Your Love]]"
+| 12
+| —
+| —
+| align="left" rowspan="4"| ''Joel Feeney''
+|-
+! scope="row"| "Leslie's Wedding Day"
+| 16
+| —
+| —
+|-
+| 1999
+! scope="row"| "[[She Ain't Gonna Cry]]"
+| 15
+| —
+| —
+|-
+| 2000
+! scope="row"| "A Wonderful Life"
+| 49
+| —
+| —
+|-
+| colspan="6" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Guest singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! rowspan="2"| Artist
+! Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[RPM (magazine)|CAN Country]]
+|-
+| 2000
+! scope="row"| "I Will"
+| Eli Barsi
+| 75
+| ''Eli Barsi''
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:14em;"| Video
+|-
+| 1991
+! scope="row"| "Diamonds"
+|-
+| 1992
+! scope="row"| "If Anything Could Be"
+|-
+| rowspan="2"| 1995
+! scope="row"| "What Kind of Man"
+|-
+! scope="row"| "Life Is But a Dream"
+|-
+| rowspan="2"| 1998
+! scope="row"| "A Little Bit of Your Love"
+|-
+! scope="row"| "Leslie's Wedding Day"
+|}
+
+=== Other albums===
+====Finkleman's 45s The Doug Riley Sessions Live From The Montreal Bistro====
+This album was released by CBC audio in 2001
+{| class="wikitable"
+!Song 
+|-
+|"It's All Right"
+|-
+|"Rock & Roll Lullaby"
+|-
+|"Bad Boy" with Cal Dodd, Neil Donnell and Michael Dunstion
+|}
+
+====Finkleman's 45s The Doug Riley Sessions Live From The Montreal Bistro Vol. 2====
+This album was released by CBC audio in 2003  
+{| class="wikitable"
+!Song
+|-
+|"Storybook Children" with Sharon Lee Williams
+|-
+|"Pickin' Wild Mountain Berries" with Maddy Willis
+|-
+|"Let it Be Me" with Maddy Willis
+|-
+|"Rock 'n' Roll Heaven" with Sheree Cerqua
+|}
+
+==References==
+<references/>
+
+{{Joel Feeney}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Feeney, Joel}}
+[[Category:1957 births]]
+[[Category:Living people]]
+[[Category:Singers from Ontario]]
+[[Category:Canadian country singer-songwriters]]
+[[Category:Canadian male singer-songwriters]]
+[[Category:MCA Records artists]]
+[[Category:People from Oakville, Ontario]]
+
+
+{{Canada-singer-songwriter-stub}}

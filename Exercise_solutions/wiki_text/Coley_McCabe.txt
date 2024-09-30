@@ -1,0 +1,78 @@
+{{short description|American country music singer}}
+{{Infobox musical artist
+| name            = Coley McCabe
+| image           =
+| alt             =
+| caption         =
+| image_size      =
+| birth_name      =
+| birth_place     = [[McConnellsburg, Pennsylvania]], United States<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc.|date=August 2008|pages=263|isbn=978-0-89820-177-2}}<!--|accessdate=2009-10-06--></ref>
+| birth_date      =
+| instrument      = [[Singing|Vocals]]
+| genre           = [[Country music|Country]]
+| occupation      = Singer, songwriter, musician
+| years_active    = 2000–2001
+| label           = [[RCA Records Nashville|RCA Nashville]]
+| associated_acts = [[Andy Griggs]], [[SHeDAISY]]
+}}
+'''Coley McCabe''' is an American [[country music]] singer. In 2000, she signed to [[RCA Records]] Nashville and released two [[single (music)|singles]]. The first of these, "Grow Young with You" (a duet with labelmate [[Andy Griggs]]), was also included in the [[soundtrack]] to the 2000 film ''[[Where the Heart Is (2000 film)|Where the Heart Is]]''.<ref name="whitburn"/><ref>{{cite magazine |last=Price |first=Deborah Evans |date= 2000-03-11|title=Music Made for "The Heart" |magazine=Billboard |pages=2000–03–11 |url=https://books.google.com/books?id=kA4EAAAAMBAJ&dq=%22Coley+mccabe&pg=PA36}}</ref> A second single entitled "Who I Am to You" followed, but McCabe never released an album. She also co-wrote [[SHeDAISY]]'s 2001 single "[[Lucky 4 You (Tonight I'm Just Me)]]."
+
+==Biography==
+Born in [[McConnellsburg, Pennsylvania]] and raised in [[Hedgesville, West Virginia]],<ref>Bowman, Becky. "[https://www.newspapers.com/image/453723416/ Singer returns to her native area]." Chambersburg, Pennsylvania: ''Public Opinion'', August 20, 2001, p. 3A.</ref> McCabe frequently sang at the Jamboree USA Music Hall in [[Wheeling, West Virginia]] as a youth. According to ''The Tennessean'' newspaper, while still in junior college, "her sister and father were killed in separate car accidents, and her mother died of a pulmonary embolism, leaving her to take care of her younger sister," who later went on to attend college. By 1995, McCabe was a resident of [[Nashville, Tennessee]], where she worked for an airline company. One of her earliest songwriting contracts was signed in 1997.<ref>Carter, Walter. "[https://www.newspapers.com/image/113563325 'Lucky 4 You' lucky for SHeDAISY]." Nashville, Tennessee: ''The Tennessean'', March 3, 2001, p. 3D.</ref>
+
+Subsequently mployed by a publishing company in Nashville, McCabe was signed by RCA Records in 2000, and has released several singles, including "Grow Young with You," which was used for the film soundtrack of ''[[Where the Heart Is (2000 film)|Where the Heart Is]].'' She and country music singer and composer Thom Shepherd were married in Las Vegas in 2015.<ref>"Bio," in "[https://www.thomandcoley.com/bio Thom & Coley]," retrieved online May 29, 2024.</ref><ref>"[https://flaglerlive.com/palm-coast-songwriters-festival-2019/#gsc.tab=0 Palm Coast Songwriters Festival’s Reprise Brings a Dozen Musicians and Their Stories For 3 Days at 2 Venues]." Palm Coast, Florida: FlaglerLive, April 29, 2019.</ref><ref>Hernandez, Sondra. "[https://www.yourconroenews.com/neighborhood/moco/events/article/Lone-Star-Luau-returns-to-Margaritaville-Feb-2-5-17696667.php Lone Star Luau returns to Margaritaville Feb. 2-5]." Conroe, Texas: ''The Courier of Montgomery County'', January 5, 2023.</ref>
+
+==Discography==
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]
+|-
+| 2000
+! scope="row"| "Grow Young with You" <small>(with [[Andy Griggs]])</small>
+| 50
+| align="left"| ''Where the Heart Is'' soundtrack
+|-
+| 2001
+! scope="row"| "Who I Am to You"
+| 56
+| align="left"| single only
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:20em;"| Video
+|-
+| 2000
+! scope="row"| "Grow Young with You" <small>(with [[Andy Griggs]])</small>
+|-
+| rowspan="3"| 2011
+! scope="row"| "I'm Not Made That Way"
+|-
+! scope="row"| "I Don't Love U Anymore
+|-
+! scope="row"| "Sand in her shoes" <small>(Thom Shepherd)</small>
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:McCabe, Coley}}
+[[Category:American country singer-songwriters]]
+[[Category:American women country singers]]
+[[Category:Singer-songwriters from Pennsylvania]]
+[[Category:RCA Records Nashville artists]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:People from Fulton County, Pennsylvania]]
+[[Category:Country musicians from Pennsylvania]]
+[[Category:21st-century American women]]

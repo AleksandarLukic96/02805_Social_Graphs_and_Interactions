@@ -1,0 +1,126 @@
+{{Infobox musical artist | <!-- See Wikipedia:WikiProject Musicians -->
+| name            = The Burch Sisters
+| image             =
+| caption        =
+| image_size        = 
+| background      = group_or_band
+| alias           = 
+| origin          = [[Jacksonville, Florida]], [[United States]]
+| genre           = [[Country music|Country]]
+| years_active    = 1988–1990
+| label           = [[Universal Music Group Nashville|Mercury Nashville]]
+| associated_acts = 
+| website             = 
+| current_members = 
+| past_members    = Cathy Burch<br />Charlene Burch<br />Cindy Burch
+}}
+
+'''The Burch Sisters''' was an American [[country music]] trio composed of sisters Cathy, Charlene and Cindy Burch. Their debut single, "Everytime You Go Outside I Hope It Rains," was their only song to reach the Top 40 of the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles & Tracks]] chart, peaking at No.&nbsp;23 in 1988. It was included their debut album, ''New Fire'', issued in 1989 by [[Universal Music Group Nashville|Mercury Nashville]].
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:14em;"| Title
+! style="width:14em;"| Details
+|-
+! scope="row"| ''New Fire''
+| 
+* Release date: 1989
+* Label: [[Universal Music Group Nashville|Mercury Nashville]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Single
+! colspan="2"| Peak<br>positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<br><ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2005|publisher=Record Research, Inc|page=64|year=2005|isbn=0-89820-165-9}}</ref>
+! width="45"| [[RPM (magazine)|CAN Country]]<br><ref>Chart positions for singles by The Burch Sisters:
+*"Old Flame, New Fire" – {{cite journal|url=http://www.collectionscanada.gc.ca/rpm/028020-119.01-e.php?&file_num=nlc008388.1039&type=1&interval=20&PHPSESSID=45ti5pfi04ct3t846eal14oo26|title=RPM Country Tracks|journal=[[RPM (magazine)|RPM]]|volume=50|issue=3|date=May 15, 1989}}
+*"The Way I Want to Go" – {{cite journal|url=http://www.collectionscanada.gc.ca/rpm/028020-119.01-e.php?brws_s=1&file_num=nlc008388.1828&type=1&interval=24&PHPSESSID=01qer77gm68mq34hj6kmvf3hq7|title=RPM Country Tracks|journal=RPM|volume=50|issue=13|date=July 24, 1989}}</ref>
+|- 
+| rowspan="3"| 1988
+! scope="row"| "Everytime You Go Outside I Hope It Rains"
+| 23
+| —
+| align="left" rowspan="5"| ''New Fire''
+|-
+! scope="row"| "What Do Lonely People Do"
+| 61
+| —
+|-
+! scope="row"| "I Don't Want to Mention Any Names"
+| 45
+| —
+|-
+| rowspan="2"| 1989
+! scope="row"| "Old Flame, New Fire"
+| 46
+| 73
+|-
+! scope="row"| "The Way I Want to Go"
+| 59
+| 100
+|-
+| 1990
+! scope="row"| "Honey You Won't Break Mine"<ref>{{cite magazine|url=http://americanradiohistory.com/Archive-Billboard/90s/1990/BB-1990-05-26.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|date=May 26, 1990}}</ref>
+| —
+| —
+| {{n/a}}
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Guest singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Single
+! rowspan="2"| Artist
+! Peak<br>positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]<br /><ref name="whitburn"/>
+|- 
+| 1990
+! scope="row"| "Tomorrow's World"
+| Various artists
+| 74
+| {{n/a}}
+|}
+
+===Music videos===
+{| class="wikitable"
+|-
+! Year
+! Video
+! Director
+|-
+| 1989
+| "Old Flame, New Fire"
+| Marc Ball
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[{{AllMusic|class=artist|id=p1540|pure_url=yes}} The Burch Sisters] at [[Allmusic]]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Burch Sisters, The}}
+[[Category:Country music groups from Florida]]
+[[Category:Musical groups from Jacksonville, Florida]]
+[[Category:Sibling musical trios]]
+[[Category:Mercury Records artists]]
+[[Category:Musical groups established in 1988]]
+[[Category:Musical groups disestablished in 1990]]
+[[Category:1988 establishments in Florida]]
+
+
+{{US-country-band-stub}}

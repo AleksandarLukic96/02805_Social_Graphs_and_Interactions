@@ -1,0 +1,155 @@
+{{short description|American singer-songwriter}}
+
+{{for|the American firefighter|G. Keith Bryant}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Keith Bryant
+| image                 = 
+| caption            = 
+| image_size            = 
+| background          = solo_singer
+| birth_date                = 
+| origin              = [[Virginia]], United States
+| instrument          = [[Singing|Vocals]]
+| occupation          = Singer
+| years_active        = 2000-present
+| label               = Traditions, Strait Off Da Chai, [[Lofton Creek Records|Lofton Creek]], S&S Mack, Jordash 
+| associated_acts     = 
+| website                 = 
+}}
+
+'''Keith Bryant''' (born in [[Virginia]]) is an American [[country music]] artist. In his career, he has released four independent studio albums, including one on [[Lofton Creek Records]]. He charted for the first time in 2004 with the single "Riding' with the Legend", which Bryant co-wrote as a tribute to former [[NASCAR]] driver [[Dale Earnhardt]], who died in 2001. The song peaked at number 47 on the [[Hot Country Songs]] chart, becoming his first, and only charted single to date.
+
+==Biography==
+Keith Bryant was born in the state of [[Virginia]].<ref name="cmt"/> By age fifteen, he had formed his own gospel band and began teaching himself piano. From there, he began playing in local bands as well. Bryant won best male vocalist at age 19 in the East Coast Country Music Championship, and then formed a band called Ironhorse.<ref name="cmt">{{cite web |url=http://www.cmt.com/artists/az/bryant_keith/bio.jhtml |archive-url=https://web.archive.org/web/20110606194959/http://www.cmt.com/artists/az/bryant_keith/bio.jhtml |url-status=dead |archive-date=June 6, 2011 |title=Keith Bryant biography |accessdate=2008-10-16 |work=[[Country Music Television|CMT]]}}</ref>
+
+In 2000, Bryant released his first solo album, ''The Secret to Life''. Robert K. Oermann of [[MusicRow]] magazine gave the album a favorable review, awarding it the magazine's DISCovery award.<ref name="cyber"/> A second album, ''Welcome to Love'', followed two years later. By 2004, he had signed to [[Lofton Creek Records]] to release his third album, ''Ridin' with the Legend''. Its title track was a tribute to [[Dale Earnhardt]], a [[NASCAR]] driver who died in 2001. The song received airplay on country radio for ten months,<ref name="cyber">{{cite web |url=http://www.cybercountry.com/keithbryant.html |title=Keith Bryant |accessdate=2008-10-16 |work=Cyber Country}}</ref> in addition to spending fifteen weeks on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] charts, where it peaked at No.&nbsp;47. The album also sold more than 30,000 copies.<ref>{{cite web |url=http://magazine.angrycountry.com/article.php?story=2005051117220423 |title=Lofton Creek Records Signs Keith Bryant |accessdate=2008-10-16 |date=2005-05-11 |work=Angry Country}}</ref> "Ridin' with the Legend" was also made into a [[music video]] which aired on [[Country Music Television|CMT]] and [[Great American Country|GAC]].<ref name="cyber"/> Bryant's fourth album, ''Live It Slow'', followed in 2007 on the S&S Mack label.<ref name="cyber"/> This album produced five singles, though none charted.
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:14em;"| Title
+! style="width:16em;"| Album details
+|-
+! scope="row"| ''The Secret to Life''
+| 
+* Release date: July 4, 2000
+* Label: Tandem Records
+|-
+! scope="row"| ''Welcome to Love''
+| 
+* Release date: May 20, 2002
+* Label: Straight Off Da Chai
+|-
+! scope="row"| ''Ridin' with the Legend''
+| 
+* Release date: July 13, 2004
+* Label: [[Lofton Creek Records]]
+|-
+! scope="row"| ''Live It Slow''
+| 
+* Release date: March 6, 2007
+* Label: S&S Mack Records
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="60"| [[Hot Country Songs|US Country]]
+|-
+| 2001
+! scope="row"| "Drivers in Heaven"
+| —
+| align="left"| ''Drivers in Heaven''
+|-
+| rowspan="2"| 2002
+! scope="row"| "Welcome to Love"
+| —
+| align="left" rowspan="2"| ''Welcome to Love''
+|-
+! scope="row"| "Steady as the Rain"
+| —
+|-
+| 2004
+! scope="row"| "Ridin' with the Legend"
+| 47
+| align="left"| ''Ridin' with the Legend''
+|-
+| 2005
+! scope="row"| "Somebody"
+| —
+| align="left" rowspan="5"| ''Live It Slow''
+|-
+| rowspan="2"| 2006
+! scope="row"| "Just the Way We Do It"
+| —
+|-
+! scope="row"| "Live It Slow"
+| —
+|-
+| 2007
+! scope="row"| "She Danced"
+| —
+|-
+| 2008
+! scope="row"| "Beautiful Liar"
+| —
+|-
+| rowspan="2"| 2011
+! scope="row"| "The Note"
+| —
+| align="left" rowspan="2"| Non-album songs
+|-
+! scope="row"| "Can't Tell Somebody (Who to Love)"
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:18em;"| Video
+! Director
+|-
+| 1998
+! scope="row"| "As I Lay Her Body Down"
+|
+|-
+| 2002
+! scope="row"| "Steady As The Rain"
+|-
+| 2004
+! scope="row"| "Ridin' with the Legend"
+| 
+|-
+| 2005
+! scope="row"| "Somebody"
+| Lark Watts
+|-
+| 2006
+! scope="row"| "Live It Slow"
+| Shen Shaw
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.keithbryant.com Official website]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bryant, Keith}}
+[[Category:American country singer-songwriters]]
+[[Category:Living people]]
+[[Category:Singer-songwriters from Virginia]]
+[[Category:Lofton Creek Records artists]]
+[[Category:Year of birth missing (living people)]]

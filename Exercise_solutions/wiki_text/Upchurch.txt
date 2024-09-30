@@ -1,0 +1,54 @@
+{{About|the village in England|the surname|Upchurch (surname)|the community in the United States|Upchurch, North Carolina|the country rap artist|Upchurch (musician)}}
+{{Use dmy dates|date=February 2014}}
+{{Use British English|date=February 2014}}
+{{infobox UK place
+|country = England
+|official_name = Upchurch
+|population = 2,484
+|population_ref = (2011 Census)<ref>{{cite web|url=http://www.neighbourhood.statistics.gov.uk/dissemination/LeadKeyFigures.do?a=7&b=11129973&c=Upchurch&d=16&e=62&g=6438632&i=1001x1003x1032x1004&m=0&r=1&s=1474557988774&enc=1|title=Civil Parish population 2011|access-date=22 September 2016|publisher=Office for National Statistics |work=Neighbourhood Statistics}}</ref>
+|shire_district= [[Borough of Swale|Swale]]
+|shire_county = [[Kent]]
+|region= South East England
+|static_image_name=St Mary the Virgin's Church, Upchurch, Kent.jpg
+|static_image_caption= The church of St Mary the Virgin, with unusual steeple
+|constituency_westminster= [[Sittingbourne and Sheppey (UK Parliament constituency)|Sittingbourne and Sheppey]]
+|post_town= [[Sittingbourne]]
+|postcode_district= ME9
+|postcode_area=ME
+|dial_code= 01634
+|os_grid_reference= TQ843675
+|coordinates = {{coord|51.3770|0.6503|display=inline,title}}
+}}
+[[File:Upchurch Hoard.jpg|thumb|240px|The [[Upchurch Hoard]] at the [[British Museum]]]]
+
+'''Upchurch''' is a village and [[Civil parishes in England|civil parish]] in the [[Borough of Swale|Swale]] district of [[Kent]], England. It is situated about {{convert|2|km|mi}} north of the [[A2 road (Great Britain)|A2 road]], between [[Rainham, Kent|Rainham]] and [[Sittingbourne]].
+
+==History==
+It is probable that, although today the land is low-lying and marshy, it was once higher than it is today. 
+
+Upchurch lay on a pre-Roman trackway; the many linking roads are the result of [[Ancient Rome|Roman]] occupation, which had built a community of ex-soldiers who wanted to settle in England. A Roman cemetery has been discovered here. It is also the site of several Roman [[pottery]] works. A more recent pottery was established here in 1909 called the [[Upchurch Pottery]]. It became well known and could be found retailing through such outlets as [[Liberty (department store)|Liberty & Co]]. It closed in 1963.<ref>{{cite web |url=http://www.studiopottery.com/potteries/upchurchpottery.html |title=Upchurch Pottery |work=studiopottery.com |accessdate=13 November 2023 }}</ref> 
+
+The [[Upchurch Hoard]] is a hoard of well worn coins which date from the first and second century A.D. which were found close to Upchurch in 1950.<ref name=mccabe>[http://andrewmccabe.ancients.info/Hoards.html#Upchurch  Upchurch Hoard], Andrew McCabe, ancients.info, accessed June 2010</ref>
+
+Under the [[grade I listed]]<ref>[http://www.britishlistedbuildings.co.uk/en-176207-church-of-st-mary-the-virgin-upchurch-ke British listed buildings] retrieved 20 July 2013</ref> 14th century church is a small [[crypt]] (a [[charnel house]]) where bones were kept when the churchyard was full. It was discovered in 1877 and the bones re-interred. The church is also notable for its very unusual 'candle-snuffer' steeple where an octagonal pyramid appears to have been stacked on top of a square one resembling a couple of inverted ice-cream cones. It is believed that the distinctive shape was chosen to serve as a navigational aid for shipping on The River Thames. The wall surrounding the church was found in 2014 also to be listed within the church grade one status.
+
+In 2008 residents with the aid of a [[National Lottery (United Kingdom)|National Lottery]] grant collected and published a book ''Upchurch in old picture'' postcards.<ref>{{Cite book |last=Gunnill |first=Mike |title=Upchurch in Old Picture Postcards |publisher=Meresborough Books |year=2005 |isbn=094819393X }}</ref> The project, to collect and maintain photographs that reflected changing village life, continues under the heading, the Upchurch Collection.
+
+The settlement of '''Otterham Quay''' lies a mile west of the village at the head of Otterham Creek. This small port gave young Francis Drake his first experience of the sea.<ref>{{Cite book |last=Bushell |first=T.A |title=Kent |publisher=County History, Barracuda Books Ltd |year=1976 |isbn=0860230139 |volume=1 }}</ref> When the last brick field was given planning permission for development, a publication ''Otterham, Kent: Your Heritage'' was produced.<ref>{{Cite book |last=Gunnill |first=Mike |title=Otterham, Kent: Your Heritage |publisher=Parkers Design and Print |isbn=0993143504 }}</ref> The book wanted to record the heritage of the area ahead of new housing.
+
+==Twinning==
+Upchurch is twinned with the Commune of [[Ferques]], Pas de [[Calais]], [[France]].<ref>{{cite web|title=Atlas français de la coopération décentralisée |url=https://pastel.diplomatie.gouv.fr/cncdext/dyn/public/atlas/rechercheAtlasFrance.html?criteres.collectiviteId=29074 |website=Commission Nationale de la Cooperation Decentralisee|access-date=12 November 2023 |language=French}}</ref>
+
+{{commons category|Upchurch}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.upchurchmatters.co.uk Upchurch Matters, Village website]
+*[https://www.upchurchparishcouncil.gov.uk/community/upchurch-parish-council-15633 Upchurch Parish Council]
+
+{{authority control}}
+
+[[Category:Villages in Kent]]
+[[Category:Civil parishes in Kent]]

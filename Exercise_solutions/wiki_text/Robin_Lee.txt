@@ -1,0 +1,77 @@
+{{short description|American figure skater}}
+{{for|the country music singer-songwriter| Robin Lee Bruce}}
+{{Infobox figure skater
+|name= Robin Lee
+|image=Robin Lee 1942.jpg
+|caption=Lee, circa 1942
+|fullname= Robin Huntington Lee 
+|country= [[United States]]
+|birth_date= {{birth date|1919|12|2}}
+|birth_place= [[Saint Paul, Minnesota]]
+|death_date= {{death date and age|1997|10|8|1919|12|2}}
+|death_place= [[Minneapolis, Minnesota]]
+|formercoach=
+|formerchoreographer=
+|skating club= St. Paul FSC <br>Chicago FSC <br> [[SC of New York]] <br> [[Figure Skating Club of Minneapolis|FSC of Minneapolis]]
+|retired= 
+|medaltemplates= <!-- see [[Template:MedalRelatedTemplates]] -->
+{{MedalCountry| [[United States]]}}
+{{MedalSport | Men's [[Figure skating]]}}
+{{MedalCompetition|[[North American Figure Skating Championships|North American Championships]]}}
+{{MedalSilver|[[1939 North American Figure Skating Championships|1939 Toronto]]|[[1939 North American Figure Skating Championships|Men's singles]]}}
+{{MedalSilver|[[1935 North American Figure Skating Championships|1935 Montreal]]|[[1935 North American Figure Skating Championships|Men's singles]]}}
+{{MedalBronze|[[1933 North American Figure Skating Championships|1933 New York]]|[[1933 North American Figure Skating Championships|Men's singles]]}}
+}}
+
+'''Robin Huntington Lee''' (December 2, 1919 in [[Saint Paul, Minnesota]] – October 8, 1997 in [[Minneapolis]]) was an American [[figure skater]].  He was the 1935-1939 [[United States Figure Skating Championships|U.S. national champion]]. At age 12, he became the youngest skater to win the junior national title.<ref name="obituary">{{cite news | url = https://www.nytimes.com/1997/10/14/sports/robin-lee-77-figure-skating-champion.html | title = Robin Lee, 77, Figure Skating Champion | work = [[New York Times]] | date = October 14, 1997 | accessdate = October 29, 2009}}</ref> At the [[1935 United States Figure Skating Championships]], at the age of 15,<ref name="figuresinchicago">{{cite news | url =http://www.time.com/time/magazine/article/0,9171,770632,00.html | archive-url =https://web.archive.org/web/20081231075618/http://www.time.com/time/magazine/article/0,9171,770632,00.html | url-status =dead | archive-date =December 31, 2008 | title = Sport: Figures in Chicago | publisher = [[TIME]] | date =  February 22, 1937 | accessdate = October 29, 2009}}</ref><ref name="snowandice">{{cite news | url = http://www.time.com/time/magazine/article/0,9171,748489-2,00.html | archive-url = https://web.archive.org/web/20091009214225/http://www.time.com/time/magazine/article/0,9171,748489-2,00.html | url-status = dead | archive-date = October 9, 2009 | title = Sport: Snow & Ice | publisher = [[TIME]] | date = February 18, 1935| accessdate = October 29, 2009}}</ref> he became the first and, as of 2008, the only skater to defeat a seven time national champion in the United States.
+
+Lee represented the [[United States at the 1936 Winter Olympics]], where he placed 12th. He was selected to compete at the [[1940 Winter Olympics]], which were canceled due to [[World War II]].<ref name="obituary" /> During the War, Lee served in the [[U.S. Navy]].<ref>{{cite news |url =  https://news.google.com/newspapers?nid=1338&dat=19460422&id=WiQVAAAAIBAJ&pg=7124,4709154 | title = Skating Expert With Ice Cycles Is Ex-Champion | publisher = [[Spokane Daily Chronicle]] | date = April 22, 1946 | accessdate = October 29, 2009}}</ref> After the War, Lee skated professionally in ice shows and worked as a coach.<ref name="obituary"/>
+
+Lee was inducted into the [[U.S. Figure Skating Hall of Fame]] in 1995. He attended [[Erasmus Hall High School]].<ref name="snowandice" />
+
+The Robin Lee Midwest Open is a USFS sanctioned competition held each year in the summer by Lee's home club, the [[Figure Skating Club of Minneapolis]], named in his honor.<ref>{{cite web|title=Robin Lee Competition|url=http://www.fscmpls.org/robin-lee-competition|website=Figure Skating Club of Minneapolis|accessdate=10 January 2017}}</ref>
+
+==Competitive highlights==
+{| class="wikitable"
+|-
+! Event
+! 1932
+! 1933
+! 1934
+! 1935
+! 1936
+! 1937
+! 1938
+! 1939
+|-
+| [[Winter Olympic Games]] || || || || || align="center" | 12th || || || 
+|-
+| [[World Figure Skating Championships|World Championships]] || align="center" | 9th|| || || ||align="center" | 8th || ||  ||
+|-
+| [[North American Figure Skating Championships|North American Championships]] ||  ||  align="center" bgcolor="#cc9966" | 3rd ||   || align="center" bgcolor="silver" | 2nd ||  || ||  ||align="center" bgcolor="silver" | 2nd 
+|-
+| [[United States Figure Skating Championships|U.S. Championships]] ||align="center" bgcolor="gold" | 1st J || align="center" bgcolor="#cc9966" | 3rd || align="center" bgcolor="silver" | 2nd ||align="center" bgcolor="gold" | 1st ||align="center" bgcolor="gold" | 1st || align="center" bgcolor="gold" | 1st|| align="center" bgcolor="gold" | 1st|| align="center" bgcolor="gold" | 1st
+|-
+| colspan=11 align=center | <small> Levels: J = Junior </small>
+|}
+
+==References==
+{{reflist}}
+*  {{cite web|url=http://www.xcelenergycenter.com/uploads/assets/saintpaul2008/news/Past%20U.S.%20Champions.pdf |title=Past U.S. Champions - Senior |url-status=dead |archiveurl=https://web.archive.org/web/20120209010047/http://www.xcelenergycenter.com/uploads/assets/saintpaul2008/news/Past%20U.S.%20Champions.pdf |archivedate=2012-02-09 }}&nbsp;{{small|(123&nbsp;[[Kibibyte|KiB]])}}
+* [https://web.archive.org/web/20070905174119/http://www.worldskatingmuseum.org/Museum_HOF_Inductees.htm Hall of Fame Inductees]
+* {{cite web|url=http://www.usfigureskating.org/content/events/200506/olympics/olympic-medalists.pdf |title=Historical Placements: US Olympic Figure Skating Team |url-status=dead |archiveurl=https://web.archive.org/web/20080528204658/http://www.usfigureskating.org/content/events/200506/olympics/olympic-medalists.pdf |archivedate=2008-05-28 }}&nbsp;{{small|(260&nbsp;[[Kibibyte|KiB]])}}
+* [https://web.archive.org/web/20200418091423/https://www.sports-reference.com/olympics/athletes/le/robin-lee-1.html Sports-reference profile]
+
+{{NavigationUSChampionsFigureSkatingMen}}
+
+{{DEFAULTSORT:Lee, Robin}}
+[[Category:Figure skaters at the 1936 Winter Olympics]]
+[[Category:Olympic figure skaters for the United States]]
+[[Category:American male single skaters]]
+[[Category:1919 births]]
+[[Category:1997 deaths]]
+[[Category:Sportspeople from Saint Paul, Minnesota]]
+[[Category:20th-century American sportspeople]]
+
+
+{{US-figure-skating-bio-stub}}

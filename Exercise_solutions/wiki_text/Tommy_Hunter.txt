@@ -1,0 +1,226 @@
+{{Use mdy dates|date=December 2019}}
+{{other people}}
+{{Infobox musical artist
+|image              = <!-- See Wikipedia:WikiProject Musicians -->
+| caption        = 
+| image_size        = <!-- Only for images smaller than 220 pixels --> 
+| name            = Tommy Hunter
+| honorific_suffix = [[Order of Canada|CM]], [[Order of Ontario|O.Ont]] 
+| background      = solo_singer 
+| birth_name      = Thomas James Hunter
+| alias           = 
+| birth_date            = {{birth date and age|1937|03|20}} 
+| death_date            = 
+| origin          = [[London, Ontario]], Canada 
+| instrument      = Guitar 
+| genre           = [[Country music|Country]]
+| occupation      = Singer
+| years_active    = 1956&ndash;2012
+| label           = 
+| associated_acts = 
+| website             = {{Official URL}}
+| current_members = 
+| past_members    = 
+}}
+
+'''Thomas James Hunter''', [[Order of Canada|CM]], [[Order of Ontario|O.Ont]] (born March 20, 1937) is a Canadian [[country music]] performer, known as "Canada's Country Gentleman".
+
+==Career==
+In 1956, he began performing as a rhythm guitarist on the [[CBC Television]] show, ''[[Country Hoedown]]''. ''The Tommy Hunter Show'' began as a [[CBC Radio]] program in 1960, replacing the long-running variety show ''[[The Happy Gang]]'', and went on to replace ''Country Hoedown'' on CBC Television in 1965; Hunter's show was picked up by [[The Nashville Network|TNN]] in 1983 and ran on CBC until 1992. Performers on the show included singer-songwriter [[Gordon Lightfoot]] in the early years of his own musical career. 
+
+The book ''Cue the Elephant'' by [[Knowlton Nash]] (1996, McClelland & Stewart) featured some disparaging remarks from the show's make-up artist. "He could sell himself terrifically but there was no love lost between Tommy and the crew. Some of the guys loathed him ... Everybody made snide remarks behind Tommy's back ... people might say he was the biggest jerk in the world. But that was not my experience. For me, I saw a very easy down-to-earth manner. But Tommy does generate anti as well as pro feelings from people ... he didn't trust people around him, he became a monster to some."
+
+People who performed on ''The Tommy Hunter Show'' early in their careers include:
+*[[Garth Brooks]]
+*[[Shania Twain]], then known as Eileen Twain
+*[[The Judds]]
+*[[Yvonne Murray (singer)|Yvonne Murray]]<ref>''RPM Weekly'', Volume 39 No. 7 October 15, 1983 - [https://worldradiohistory.com/CANADA/RPM/80s/1983/RPM-1983-10-15.pdf Page 16 Watch for yet another YVONNE MURRAY guest appearance on the Tommy Hunter Show, October 21st, 8:00 pm EST, CDC.]</ref>
+
+After his show was cancelled by the CBC, Hunter continued to tour with his band, ''The Travelling Men''.<ref>{{cite news | url=https://ottawacitizen.com/Entertainment/Canada+country+gentleman+long+from+done/1221067/story.html | newspaper=[[Ottawa Citizen]] | title=Canada's country gentleman a long way from done | first=Lynn | last=Saxberg | date=January 27, 2009 | access-date=January 27, 2009 | archive-date=May 15, 2022 | archive-url=https://web.archive.org/web/20220515002605/https://ottawacitizen.com/Entertainment/Canada+country+gentleman+long+from+done/1221067/story.html | url-status=dead }}</ref> He retired after his final tour in 2012.<ref>{{cite news |url=https://www.theglobeandmail.com/arts/television/tommy-hunter-hangs-up-his-guitar/article561125/ | work=[[The Globe and Mail]] | title=Tommy Hunter hangs up his guitar | first=Guy | last=Dixon | date=January 9, 2011 | access-date=February 16, 2023 }}</ref>
+
+==Awards and recognition==
+Hunter was inducted into the [[Canadian Country Music Hall of Fame]] in 1984. In 1986, Hunter was made a Member of the [[Order of Canada]]. He has received three Canadian [[Juno Award]]s and one [[Gemini Award]]. In 1990, he was given a place in the [[Country Music Hall of Fame]]'s "Walkway of Stars". A street ("Tommy Hunter Way") was also renamed in his honour in his hometown of London, Ontario, in the late 1990s. He became a member of the [[Order of Ontario]] in 1996. In 2005 he was honored with a [[GMA Canada Lifetime Achievement Award]]. The award is handed out annually by the [[GMA Canada|Gospel Music Association of Canada]].
+
+Tommy Hunter received the [[Queen Elizabeth II Golden Jubilee Medal]] in 2002 and the [[Queen Elizabeth II Diamond Jubilee Medal]] in 2012.
+
+==Discography==
+===Albums===
+{| class="wikitable"
+! Year
+! Album
+|-
+| 1964
+| ''Tommy Hunter''
+|-
+| 1968
+| ''Travelling with Tommy Hunter''
+|-
+| 1970
+| ''Tommy Hunter''
+|-
+| 1971
+| ''Time Slips Away''
+|-
+| 1973
+| ''Tommy Hunter's Greatest Hits''
+|-
+| 1975
+| ''Tommy''
+|-
+| 1982
+| ''Tommy''
+|-
+| 1983
+| ''Gospel Readings and Recitations''
+|-
+| 1989
+| ''The Anniversary Sessions''
+|-
+| 1993
+| ''Tommy Hunter Sings for You''
+|-
+| 1995
+| ''Timeless Country Treasures''
+|-
+| 1996
+| ''Timeless Country Treasures Vol. 2''
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! colspan="3"| Peak chart positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[RPM (magazine)|CAN Country]]
+! width="45"| [[RPM (magazine)|CAN AC]]
+! width="45"| [[Hot Country Songs|US Country]]
+|- 
+| rowspan="3"| 1967
+! scope="row"| "Cup of Disgrace"
+| 2
+| —
+| —
+| align="left" rowspan="5"| ''Travelling with Tommy Hunter''
+|-
+! scope="row"| "The Battle of the Little Bighorn"
+| 2
+| —
+| —
+|-
+! scope="row"| "[[Mary in the Morning]]"
+| 1
+| —
+| 66
+|-
+| rowspan="2"| 1968
+! scope="row"| "Half a World Away"
+| 2
+| —
+| —
+|-
+! scope="row"| "I Can't Find a Space (To Park My Car)"
+| 13
+| —
+| —
+|-
+| 1969
+! scope="row"| "Walk With Your Neighbour"
+| 4
+| —
+| —
+| align="left" rowspan="2"| ''Tommy Hunter'' {{small|(1970)}}
+|-
+| 1970
+! scope="row"| "Wait for Sunday"
+| 3
+| —
+| —
+|-
+| 1971
+! scope="row"| "Bill Jones General Store"
+| 4
+| 15
+| —
+| align="left"| ''Time Slips Away''
+|-
+| rowspan="2"| 1974
+! scope="row"| "The Departure"
+| 33
+| —
+| —
+| align="left" rowspan="3"| ''Tommy'' {{small|(1975)}}
+|-
+! scope="row"| "Born to Be a Gypsy"
+| 6
+| —
+| —
+|-
+| 1975
+! scope="row"| "Love of a Good Woman"
+| 32
+| —
+| —
+|-
+| 1978
+! scope="row"| "The Great Mail Robbery"
+| 33
+| 28
+| —
+| {{n/a}}
+|-
+| rowspan="2"| 1982
+! scope="row"| "Dance With Me Molly"
+| 38
+| —
+| —
+| align="left" rowspan="2"| ''Tommy'' {{small|(1982)}}
+|-
+! scope="row"| "Fool Enough to Fall in Love Again"
+| 34
+| —
+| —
+|-
+| 1989
+! scope="row"| "The Man of '87"
+| 49
+| —
+| —
+| align="left" rowspan="3"| ''The Anniversary Sessions''
+|-
+| rowspan="2"| 1990
+! scope="row"| "Couldn't See the Gold" {{small|(with [[Janie Fricke]])}}
+| 19
+| —
+| —
+|-
+! scope="row"| "Name the Place and Time"
+| 64
+| —
+| —
+|-
+| colspan="6" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{official website|http://www.tommyhunter.com}}
+* {{IMDb name|0403076}}
+* [http://www.thecanadianencyclopedia.ca/en/article/tommy-hunter-emc/ The Canadian Encyclopedia: Tommy Hunter]
+* {{discogs artist|Tommy Hunter(2)}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hunter, Tommy}}
+[[Category:1937 births]]
+[[Category:Living people]]
+[[Category:Canadian country singers]]
+[[Category:Canadian television variety show hosts]]
+[[Category:Juno Award winners]]
+[[Category:Members of the Order of Canada]]
+[[Category:Members of the Order of Ontario]]
+[[Category:Musicians from London, Ontario]]

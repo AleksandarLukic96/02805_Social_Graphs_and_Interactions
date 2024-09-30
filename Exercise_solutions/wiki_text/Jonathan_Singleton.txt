@@ -1,0 +1,78 @@
+{{short description|American singer-songwriter}}
+{{other uses|John Singleton (disambiguation)}}
+
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Jonathan Singleton 
+| birth_date = July 11, 1978
+| image               = Jonathan Singleton.JPG
+| caption            = 
+| image_size            = 
+| origin           = Jackson, TN USA
+| background          = solo_singer
+| genre               = [[Country music|Country]]
+| years_active        = 2008–present
+| label               = [[Show Dog-Universal Music]]
+| website                 = 
+|past_member_of = Jonathan Singleton & the Grove
+}}
+'''Jonathan Singleton''' is an American [[country music]] singer and songwriter who resides in Nashville, Tennessee. He has been nominated for 2 Grammy Awards, and has won the ACM Song of The Year Award in 2022 for “Things a Man Oughtta Know” by [[Lainey Wilson]], and the CMA Album of the Year in 2022 for co-producing Luke Combs' album “[[Growin' Up (Luke Combs album)|Growin' Up]].". He is known for co-writing the songs "[[Don't (Billy Currington song)|Don't]]" by [[Billy Currington]], "[[Watching Airplanes]]" by [[Gary Allan]], "[[A Guy Walks Into a Bar (song)|A Guy Walks Into a Bar]]" by [[Tyler Farr]], "[[Red Light (David Nail song)|Red Light]]" and "[[Let It Rain (David Nail song)|Let It Rain]]" by [[David Nail]], "[[Why Don't We Just Dance]]" by [[Josh Turner]], "[[Diamond Rings and Old Barstools]]" by [[Tim McGraw]], and "[[Beer Never Broke My Heart]]" by [[Luke Combs]]. More recently, Singleton co-wrote the number one hits "[[Die from a Broken Heart]]" by [[Maddie & Tae]], "[[I Hope You're Happy Now (Carly Pearce and Lee Brice song)|I Hope You're Happy Now]]" by [[Carly Pearce]] and [[Lee Brice]] (also co-written by Combs), and "[[In Between (Scotty McCreery song)|In Between]]" by [[Scotty McCreery]]. In 2009, the [[American Society of Composers, Publishers and Authors]] (ASCAP) awarded Singleton for "Don't," which was one of the most-played country music songs of that year.<ref>{{cite web|url=http://www.cmt.com/news/country-music/1605859/ascap-and-bmi-honor-the-doers-of-billy-curringtons-dont.jhtml|archive-url=https://web.archive.org/web/20090301130931/http://www.cmt.com/news/country-music/1605859/ascap-and-bmi-honor-the-doers-of-billy-curringtons-dont.jhtml|url-status=dead|archive-date=March 1, 2009|title=ASCAP and BMI Honor the Doers of Billy Currington's "Don't"|last=Morris|first=Edward|date=25 February 2009|work=[[Country Music Television|CMT]]|access-date=27 August 2010}}</ref>
+
+In 2009, he founded a band called Jonathan Singleton & the Grove, in which he sang lead vocals. The band also consisted of William Coats (drums, background vocals), Andy Dixon (bass guitar, background vocals), Justin Dudley (keyboards), Dustin Nunley (rhythm guitar, background vocals) and Josh Smith (rhythm guitar, background vocals). They signed to Universal South Records (now [[Show Dog-Universal Music]]) in March 2009 and released the single "Livin' in Paradise" that month.<ref>{{cite web|url=http://www.countrystandardtime.com/news/newsitem.asp?xid=2709|title=Jonathan Singleton & the Grove release debut single|date=18 March 2009|work=[[Country Standard Time]]|access-date=27 August 2010}}</ref> It debuted at No.&nbsp;60 on the country charts for the week of April 4, 2009, and peaked at No.&nbsp;48. A second single, "Look Who's Back in Love" debuted at No.&nbsp;56 on the country charts for the week of December 26, 2009. The band's song "I'm Afraid of Storms" is included in soundtrack to the 2012 video game [[Silent Hill: Downpour]].
+
+==Jonathan Singleton & the Grove discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:18em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''Jonathan Singleton & the Grove''
+| 
+* Release date: May 11, 2010
+* Label: [[Show Dog-Universal Music]]
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="60"| [[Hot Country Songs|US Country]]
+|-
+| rowspan="2"| 2009
+! scope="row"| "Livin' in Paradise"
+| 48
+| align="left"| single only
+|-
+! scope="row"| "Look Who's Back in Love"
+| 47
+| align="left"| ''Jonathan Singleton & the Grove''
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:14em;"| Video
+! Director
+|-
+| 2010
+! scope="row"| "Look Who's Back in Love"
+| [[Peter Zavadil]]
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Singleton, Jonathan}}
+[[Category:American country singer-songwriters]]
+[[Category:Living people]]
+[[Category:People from Jackson, Tennessee]]
+[[Category:Country musicians from Tennessee]]
+[[Category:Singer-songwriters from Tennessee]]
+[[Category:1978 births]]

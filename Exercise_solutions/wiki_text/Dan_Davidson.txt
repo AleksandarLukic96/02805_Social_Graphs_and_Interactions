@@ -1,0 +1,269 @@
+{{short description|Canadian country singer and songwriter|bot=PearBOT 5}}
+{{about|the Canadian singer|the American linguist|Dan E. Davidson|the American baseball player|Daniel Davidson}}
+{{Use mdy dates|date=October 2020}}
+{{Infobox musical artist
+| name              = Dan Davidson
+| image             = 
+| birth_date        = {{birth year and age|1983}}
+| birth_place       = [[Edmonton]], Alberta, Canada
+| caption           = 
+| image_size        = 
+| origin            = 
+| instrument        = 
+| genre             = {{hlist|[[Country music|Country]]|rock}}
+| occupation        = Singer-songwriter
+| years_active      = 2003–present
+| label             = {{hlist|Independent|Nuu Noise|[[ABC Music|ABC]]}}
+| associated_acts   = {{hlist|[[Tupelo Honey (band)|Tupelo Honey]]|[[Clayton Bellamy]]}}
+| website           = {{URL|http://dandavidsonmusic.com}}
+}}
+
+'''Daniel Davidson''' (born in 1983) is a Canadian [[country music|country]] singer and songwriter. He is best known as the guitarist and later lead vocalist of rock group [[Tupelo Honey (band)|Tupelo Honey]].<ref name="maple biography">{{cite news|title=Tupelo Honey Biography|url=http://www.maplemusic.com/artists/tup/bio.asp|accessdate=January 4, 2017|publisher=[[MapleMusic]]|archive-date=March 8, 2018|archive-url=https://web.archive.org/web/20180308232203/http://www.maplemusic.com/artists/tup/bio.asp|url-status=dead}}</ref> Since 2014, Davidson has been pursuing a solo career in country music.<ref name="SOCAN">{{cite news|last1=Young|first1=Kevin|title=Dan Davidson: Former rocker now "Found" in country music|url=https://www.socanmagazine.ca/features/dan-davidson-former-rocker-now-found-in-country-music/|accessdate=January 4, 2017|work=Words & Music|publisher=[[SOCAN]]|date=July 12, 2016}}</ref> His second solo single, "[[Found (song)|Found]]", reached 16 on the [[Canada Country]] chart, making it the highest-charting independent single on Canadian country radio.<ref name="top country">{{cite news|title=Get to know 'Found' singer Dan Davidson|url=http://topcountry.ca/get-to-know-found-singer-dan-davidson/|accessdate=January 4, 2017|work=Top Country|publisher=TC Inc.|date=July 5, 2016}}</ref><ref name="CMT bio">{{cite web|title=Dan Davidson {{!}} CMT.ca {{!}} Country Music Television Canada|url=http://www.cmt.ca/artist/dan-davidson|website=[[CMT Canada]]|publisher=[[Corus Entertainment]]|accessdate=January 4, 2017}}</ref>
+
+==Career==
+In 2003, Davidson joined five fellow musicians from Grant MacEwan College to form the rock band [[Tupelo Honey (band)|Tupelo Honey]].<ref>{{cite web|title=Tupelo Honey Will Show Off Their Machines & Robots On April 8|url=http://www.chartattack.com/news/2008/03/26/tupelo-honey-will-show-off-their-machines-robots-on-april-8/|archive-url=https://web.archive.org/web/20170105181303/http://www.chartattack.com/news/2008/03/26/tupelo-honey-will-show-off-their-machines-robots-on-april-8/|url-status=usurped|archive-date=January 5, 2017|publisher=Chart Attack|accessdate=January 4, 2017|date=March 26, 2008}}</ref> He released three [[extended play]]s with the band between 2006 and 2008 as the guitarist and backing vocalist. When their lead singer parted ways with the band in 2010, Davidson took over that role.<ref name="maple biography"/>
+
+In addition to his work with Tupelo Honey, Davidson also served as a songwriter and producer for other Canadian artists during this period, as part of his partnership with Red Brick Songs.<ref name="SOCAN"/><ref>{{cite news|last1=Hather|first1=Amanda|title=Interview – Dan Davidson|url=http://canadianbeats.ca/2016/03/22/interview-dan-davidson/|accessdate=January 4, 2017|publisher=Canadian Beats|date=March 22, 2016}}</ref> Following the release of ''Brave New World'' in 2014, the band has been on hiatus and Davidson redirected his efforts towards a solo musical career in [[country music]].<ref name="SOCAN"/> He is currently unsigned and independently released his first solo single, "Unkiss Her", in July 2015.<ref name="starlight chronicles">{{cite news|last1=Belt|first1=Randy Wayne|title=Dan Davidson Series No. 1|url=http://starlightmusicchroniclesspotlight.com/2015/06/dan-davidson-unkiss-her/|accessdate=January 4, 2017|publisher=Starlight Music Chronicles}}</ref> Davidson has worked with Jeff Dalziel, Karen Kosowski, Troy Samson, [[Alee (singer)|Alee]], [[Emma-Lee]], and [[Pete Lesperance]] on his forthcoming debut record.<ref name="starlight chronicles"/>
+
+His second single, "[[Found (song)|Found]]", was released in March 2016.<ref>{{cite web|title=Found – Single by Dan Davidson|url=https://itunes.apple.com/ca/album/found-single/id1090088588|website=[[iTunes Store]] (Canada)|publisher=[[Apple Inc]]|accessdate=January 4, 2017}}</ref> It became his first song to chart on the [[Billboard (magazine)|''Billboard'']] [[Canada Country]] chart, where it reached a peak of 16.<ref name="Canada Country"/> This made it the highest-charting independent single by a Canadian country artist.<ref name="top country"/><ref name="CMT bio"/>
+
+==Discography==
+===Extended plays===
+{| class="wikitable plainrowheaders"
+|-
+! style="width:16em;"| Title
+! style="width:18em;"| Details
+|-
+! scope="row"| ''Songs for Georgia''
+| 
+* Release date: October 27, 2017
+* Label: Independent
+|-
+! scope="row"| ''Juliet''
+| 
+* Release date: February 27, 2019
+* Label: Independent
+|-
+! scope="row"| ''6 Songs to Midnight''
+| 
+* Release date: February 25, 2022
+* Label: Nuu Noise / Independent 
+|-
+! scope="row"| ''Nineteen Eighty Something''
+| 
+* Release date: October 26, 2023
+* Label: Nuu Noise / Independent 
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:12em;"| Single
+! colspan="2"| Peak<br />positions
+! rowspan="2" style="width:8em;"| Certifications
+! rowspan="2" style="width:10em;"| Album
+|- style="font-size:smaller;"
+! style="width:4em;"| [[Canada Country|CAN Country]]<br /><ref name="Canada Country">{{cite magazine|url=https://www.billboard.com/artist/dan-davidson/chart-history/ccw/ |title=Dan Davidson – Chart History (Canada Country) |magazine=[[Billboard (magazine)|Billboard]] |access-date=August 4, 2021}}
+* "He Met a Girl": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2024-02-17/|title=Canada Country: Week of February 17, 2024|magazine=[[Billboard (magazine)|Billboard]]|access-date=February 13, 2024}}</ref>
+! style="width:4em;"| [[The Music Network#Country Hot 50|AUS Country]]<br /><ref>References for Australian Country Hot 50:
+*"Roll with It": {{cite web|url=https://themusicnetwork.com/charts/issues/1351/chart/?list=Countrytown-HOT-50|title=Country Hot 50: Issue 1351|work=[[The Music Network]]|accessdate=July 29, 2021}}
+*"Really Shouldn't Drink Around You": {{cite web|url=https://themusicnetwork.com/charts/issues/1366/chart/?list=Countrytown-HOT-50 |title=Country Hot 50: Issue 1366|work=[[The Music Network]]|accessdate=November 7, 2021}} 
+*"Won't Forget": {{cite web|url= https://countrytown.com/charts/countrytown-hot-50?year=2024&week=21|archive-url= https://web.archive.org/web/20240524124126/http://web.archive.org/screenshot/https://countrytown.com/charts/countrytown-hot-50?year=2024&week=21|archive-date=May 24, 2024|title=Countrytown Hot 50 – 2024, Week 21|work=Countrytown|access-date=May 24, 2024}}</ref>
+|-
+| 2015
+! scope="row"| "Unkiss Me"<ref>{{cite web|title=Dan Davidson: Unkiss Her – Music on Google Play|url=https://play.google.com/store/music/album/Dan_Davidson_Unkiss_Her?id=Bktkacnlp72lwws4gachijbfyda|website=[[Google Play Music]]|accessdate=January 4, 2017}}</ref>
+| —
+| —
+|
+| align="left" rowspan="4"| ''Songs for Georgia''
+|-
+| rowspan="2"| 2016
+! scope="row"| "[[Found (song)|Found]]"
+| 16
+| —
+|
+* [[Music Canada|MC]]: Platinum{{Certification Cite Ref|region=Canada|type=singles|title=Found|artist=Dan Davidson}}
+|-
+! scope="row"| "Barn Burner"
+| 19
+| —
+|
+|-
+| 2017
+! scope="row"| "Say We Did"<ref>{{cite news|last1=Borowiecki|first1=Anna|title=Dan Davidson's Found is pulling in awards|url=http://www.stalbertgazette.com/article/Dan-Davidsons-Found-is-pulling-in-awards-20170708|accessdate=July 9, 2017|work=St Albert Gazette|date=July 8, 2017}}</ref>
+| —
+| —
+|
+|-
+| 2018
+! scope="row"| "Let's Go There"<ref>{{cite web|title=New Country Releases You Need To Know|url=https://topcountry.ca/new-country-releases-feb-9-2018/|website=Top Country|publisher=TC Inc.|accessdate=February 14, 2018|date=February 9, 2018}}</ref>
+| 40
+| —
+| 
+| rowspan="2" {{n/a}}
+|-
+| 2020
+! scope="row"| "Church"
+| 49
+| —
+|-
+| rowspan="2"| 2021
+! scope="row"| "Roll With It"<br/>{{small|(feat. [[The Road Hammers]])}}
+| —
+| 11
+|
+| align="left" rowspan="4"| ''6 Songs to Midnight''
+|-
+! scope="row"| "Really Shouldn't Drink Around You"<br/>{{small|(feat. Hayley Jensen)}}
+| —
+| 28
+|
+|-
+| rowspan="2"| 2022
+! scope="row"| "Blindspot"
+| —
+| 50
+|
+|-
+! scope="row"| "Girl Drinks Beer"<br/>{{small|(feat. [[Travis Collins]])}}
+| —
+| —
+|
+|-
+| rowspan="2"| 2023
+! scope="row"| "If These Streets Could Talk"
+| —
+| —
+|
+| align="left" rowspan="2"| ''Nineteen Eighty Something''
+|-
+! scope="row"| "He Met a Girl"
+| 60
+| —
+|
+|-
+| 2024
+! scope="row"| "Won't Forget"<br/>{{small|(feat. [[Tim Hicks]] and Max Jackson)}}
+| —
+| 22
+|
+| {{TBA}}
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:10em;"| Video
+! Director
+|-
+| rowspan="2"| 2016
+! scope="row"| "Found"
+| rowspan="10"| Travis Nesbitt
+|-
+! scope="row"| "Barn Burner"
+|-
+| 2017
+! scope="row"| "Say We Did"
+|-
+| rowspan="2"| 2018
+! scope="row"| "Lets Go There"
+|-
+! scope="row"| "Cinderella"
+|-
+| rowspan="2"| 2019
+! scope="row"| "Can't Help Myself"
+|-
+! scope="row"| "These Are My People"
+|-
+| rowspan="2"| 2019
+! scope="row"| "Church"
+|-
+! scope="row"| "Unkiss Her"
+|-
+| rowspan="2"| 2020
+! scope="row"| "I Do"
+|}
+
+==Awards and nominations==
+{| class="wikitable"
+|-
+! Year !! Award !! Category !! Nominee/Work !! Result !! Ref
+|-
+| rowspan=5|2016 || rowspan=5|[[Music of Alberta|Alberta Country Music Awards]] || Single of the Year || rowspan=3|"[[Found (song)|Found]]" || {{won}} || rowspan=5|<ref>{{cite web|last1=LP|first1=Great West Newspapers|title=Dan Davidson big winner at ACMA awards|url=http://www.stalbertgazette.com/article/Dan-Davidson-big-winner-at-ACMA-awards-20170128|website=St. Albert Gazette|accessdate=April 16, 2017}}</ref><ref>{{cite web|title=ANNOUNCED: Nominees for 2016 Alberta Country Music Awards!|url=http://topcountry.ca/announced-nominees-alberta-country-music-awards/|website=Top Country Music {{!}} Country Music News, Charts, Playlists, Videos|accessdate=April 16, 2017|date=January 11, 2017}}</ref>
+|-
+| Song of the Year <small>(with [[Clayton Bellamy]])</small> || {{won}}
+|-
+| Video of the Year || {{won}}
+|-
+| Rising Star || rowspan=2|Dan Davidson || {{won}}
+|-
+| Male Artist of the Year || {{nom}}
+|-
+| rowspan=5|2017 || [[Canadian Radio Music Awards]] || Best New Group or Solo Artist: Country || "[[Found (song)|Found]]" || {{nom}} ||<ref>{{cite web|title=2017 CRMA Nominees {{!}}2017 Canadian Music Week April 18–22, 2017|url=http://cmw.net/2017-nominees/|website=cmw.net|accessdate=April 16, 2017|archive-date=May 17, 2017|archive-url=https://web.archive.org/web/20170517072304/http://cmw.net/2017-nominees/|url-status=dead}}</ref>
+|-
+| rowspan=2|[[Western Canadian Music Awards]] || Country Artist of the Year || rowspan=3|Dan Davidson || {{nom}} || rowspan=2|<ref>{{cite web|title=2017 Western Canadian Music Award Nominees|url=http://breakoutwest.ca/fest/blog/2017-western-canadian-music-award-nominees/|website=breakoutwest.ca|accessdate=May 13, 2017|language=en|archive-url=https://web.archive.org/web/20170508130832/http://breakoutwest.ca/fest/blog/2017-western-canadian-music-award-nominees/|archive-date=May 8, 2017|url-status=dead}}</ref>
+|-
+| BreakOut Artist of the Year || {{nom}}
+|-
+| rowspan=2|[[Canadian Country Music Association]] || Rising Star Award || {{nom}} || rowspan=2|<ref>{{cite web|title=CCMA Announces 2017 Award Nominees|date=July 12, 2017 |url=http://canadianbeats.ca/2017/07/12/ccma-announces-2017-award-nominees/|accessdate=July 12, 2017}}</ref>
+|-
+| Songwriter of the Year <small>(with Clayton Bellamy)</small> || "[[Found (song)|Found]]" || {{nom}}
+|-
+| rowspan=4|2017 || rowspan=4|[[Music of Alberta|Alberta Country Music Awards]] || Male Artist of the Year || rowspan=3|"Dan Davidson" || {{won}} || rowspan=4|<ref>{{cite web|title=ANNOUNCED: Past ACMA Winners!|url=https://acmamusic.com/past-winners/|website=Association Of Country Music in Alberta|accessdate=April 2, 2020|date=January 11, 2019|archive-date=November 11, 2019|archive-url=https://web.archive.org/web/20191111114251/https://acmamusic.com/past-winners/|url-status=dead}}</ref>
+|-
+| Fans Choice || {{won}}
+|-
+| Single of the Year <small>("Barn Burner")</small> || {{won}}
+|-
+| Song of the Year<small> (with Clayton Bellamy)</small> || "Barn Burner" || {{won}}
+|-
+| 2019 || [[Western Canadian Music Awards]] || Country Artist of the Year || Dan Davidson || {{nom}} || <ref>{{cite web |title=2019 Western Canadian Music Award Nominees Announced |url=https://breakoutwest.ca/blog/2019-western-canadian-music-award-nominees-announced |website=BreakOut West |access-date=27 March 2021 |language=en}}</ref>
+|-
+| rowspan=2|2020 || [[Canadian Country Music Association]] || Interactive Artist of the Year || Dan Davidson || {{nom}} ||<ref>{{cite web |title=2020 CCMA Awards: The complete country music winners list |url=https://globalnews.ca/news/7363330/2020-ccma-awards-winners-list/ |website=Global News |accessdate=September 28, 2020}}</ref>
+|-
+| [[Western Canadian Music Awards]] || Country Artist of the Year || Dan Davidson || {{nom}} || <ref>{{cite web |title=Music Awards |url=https://breakoutwest.ca/awards/music-awards |website=BreakOut West |access-date=27 March 2021 |language=en}}</ref>
+|-
+| 2022
+| [[Canadian Country Music Association]]
+| Record Producer of the Year 
+|"Wanted You To"
+| {{nom}}
+|<ref>{{cite web|url=https://ccma.org/2022-nominees/|title=2022 CCMA AWARD NOMINEES|work=[[Canadian Country Music Association]]|date=July 20, 2022 |access-date=September 12, 2022|archive-date=September 13, 2022|archive-url=https://web.archive.org/web/20220913031458/https://ccma.org/2022-nominees/}}</ref><ref>{{cite press release|url= https://www.globenewswire.com/news-release/2022/09/11/2513579/0/en/CANADIAN-COUNTRY-MUSIC-ASSOCIATION-REVEALS-FIRST-ROUND-OF-2022-AWARD-WINNERS-AT-THE-CCMA-MUSIC-INDUSTRY-GALA-DINNER-AWARDS.html|title=CANADIAN COUNTRY MUSIC ASSOCIATION REVEALS FIRST ROUND OF 2022 AWARD WINNERS AT THE CCMA MUSIC INDUSTRY GALA DINNER & AWARDS|date=September 12, 2022|work=[[Canadian Country Music Association]]|publisher=Global News Wire|archive-url= https://web.archive.org/web/20220912231442/https://www.globenewswire.com/news-release/2022/09/11/2513579/0/en/CANADIAN-COUNTRY-MUSIC-ASSOCIATION-REVEALS-FIRST-ROUND-OF-2022-AWARD-WINNERS-AT-THE-CCMA-MUSIC-INDUSTRY-GALA-DINNER-AWARDS.html|archive-date=September 12, 2022|access-date=September 12, 2022}}</ref>
+|-
+| rowspan="2"| 2024
+| rowspan="2"| [[2024 Canadian Country Music Awards|Canadian Country Music Association]]
+| Design Team
+| ''Nineteen Eighty Something'' (with Travis Nesbitt)
+| {{nom}}
+| rowspan="2"| <ref>{{cite web|url=https://ccma.org/2024-ccma-award-nominees/|title=2024 CCMA AWARDS NOMINEES|work=[[Canadian Country Music Association]]|access-date=July 26, 2024|archive-url= https://web.archive.org/web/20240719164229/http://web.archive.org/screenshot/https://ccma.org/2024-ccma-award-nominees/|archive-date=July 19, 2024}}</ref>
+|-
+| Radio Personality of the Year
+| Dan Davidson, Stella Stevens - [[CFCW-FM]]
+| {{nom}}
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{official website|http://dandavidsonmusic.com/wp2/}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Davidson, Dan}}
+[[Category:Living people]]
+[[Category:Canadian country guitarists]]
+[[Category:Canadian male guitarists]]
+[[Category:Canadian country singer-songwriters]]
+[[Category:Canadian male singer-songwriters]]
+[[Category:Musicians from Edmonton]]
+[[Category:1983 births]]
+[[Category:21st-century Canadian guitarists]]
+[[Category:21st-century Canadian male singers]]
+[[Category:21st-century Canadian singers]]
+[[Category:21st-century Canadian singer-songwriters]]
+[[Category:Singers from Alberta]]

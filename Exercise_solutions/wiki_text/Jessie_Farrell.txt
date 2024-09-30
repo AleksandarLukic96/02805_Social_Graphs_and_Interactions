@@ -1,0 +1,278 @@
+{{short description|Canadian country music singer|bot=PearBOT 5}}
+{{BLP sources|date=February 2021}}
+
+{{Use mdy dates|date=January 2020}}
+{{Infobox musical artist
+| name            = Jessie Farrell
+| image           = Jessie Farrell 4.jpg
+| caption         = Jessie Farrell performing at Olympic Plaza in [[Calgary]], Alberta, Canada, July 2007
+| image_size      = <!-- Only for images smaller than 220 pixels -->
+| origin          = [[Vancouver|Vancouver, British Columbia]], Canada
+| genre           = [[Country music|Country]]
+| occupation      = Singer
+| instrument      = Vocals, guitar
+| years_active    = 2002–present
+| label           = [[Imagine Create Music]]
+| associated_acts = Jesse Tucker
+| website         = {{official website|http://www.jessiefarrell.com}}
+}}
+
+'''Jessie Farrell''' is a Canadian [[country music]] singer. At the 2007 [[Canadian Country Music Association|Canadian Country Music Awards]], Farrell was nominated for Female Vocalist of the Year and the Chevy Rising Star Award.<ref>[http://604records.com/index.php?option=content&task=view&id=213 Jessie Farrell Nominated For CCMA's!]</ref> Farrell's first country album, ''[[Nothing Fancy]]'', was released on October 9, 2007. At the [[Canadian Country Music Awards]] of 2008, Jessie Farrell won Female Artist of the Year and the Top New Female Talent Award. In 2009, she worked with Canadian rock/pop stars [[Faber Drive]] on their song "I'll Be There".
+
+Farrell's third studio album, ''[[Good, Bad & Pretty Things]]'', was released on October 6, 2009. In 2010, Farrell was one of many Canadian singers who performed "[[Wavin' Flag]]" to help [[Haiti]].
+
+Farrell's fourth studio album, ''[[Love Letter (Jessie Farrell album)|Love Letter]]'', was released on August 30, 2011, led by the single "Turn You Down."
+
+In January 2015 Farrell released her first family album, ''Take Me Outside''. The songs are featured on the popular CBC Kid's show, Scout & The Gumboot Kids.
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:16em;"| Title
+! style="width:18em;"| Details
+|-
+! scope="row"| ''Today''
+| 
+* Release date: December 6, 2002
+* Label: Spark Records
+|-
+! scope="row"| ''[[Nothing Fancy]]''
+| 
+* Release date: October 9, 2007
+* Label: [[604 Records]]
+|-
+! scope="row"| ''[[Good, Bad & Pretty Things]]''
+| 
+* Release date: October 6, 2009
+* Label: 604 Records
+|-
+! scope="row"| ''[[Love Letter (Jessie Farrell album)|Love Letter]]''
+| 
+* Release date: August 30, 2011
+* Label: 604 Records
+|-
+! scope="row"| ''Take Me Outside''
+|
+* Release date: February 13, 2015
+* Label: Imagine Create Music
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! colspan="2"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Canada Country|CAN Country]]<br><ref>{{cite magazine |url=https://www.billboard.com/music/jessie-farrell/chart-history/canada-country|title=Jessie Farrell – Canada Country|magazine=Billboard|accessdate=May 12, 2019}}{{dead link|date=December 2021|bot=medic}}{{cbignore|bot=medic}}</ref>
+! width="45"| [[Canadian Hot 100|CAN]]<br><ref>{{cite magazine |url=https://www.billboard.com/music/jessie-farrell/chart-history/canadian-hot-100|title=Jessie Farrell – Canadian Hot 100|magazine=Billboard|accessdate=May 12, 2019}}{{dead link|date=December 2021|bot=medic}}{{cbignore|bot=medic}}</ref>
+|-
+| rowspan="2"| 2007
+! scope="row"| "Let's Talk About Love"
+| 9
+| 96
+| align="left" rowspan="4"| ''Nothing Fancy''
+|- 
+! scope="row"| "Fell Right into You"
+| 15
+| 78
+|- 
+| rowspan="2"| 2008
+! scope="row"| "Best of Me"
+| 19
+| —
+|- 
+! scope="row"| "I Guess"
+| 13
+| 86
+|-
+| rowspan="2"| 2009
+! scope="row"| "You Make Me Feel"
+| 17
+| —
+| align="left" rowspan="3"| ''Good, Bad & Pretty Things''
+|-
+! scope="row"| "Nobody Says No"
+| 27
+| —
+|-
+| 2010
+! scope="row"| "Heart of Gold"
+| 32
+| —
+|-
+| rowspan="2"| 2011
+! scope="row"| "Turn You Down"
+| 40
+| —
+| align="left" rowspan="2"| ''Love Letter''
+|-
+! scope="row"| "Everything to Me"
+| 22
+| —
+|-
+| 2014
+! scope="row"| "Carry On"
+| —
+| —
+| {{n/a}}
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Featured singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:10em;"| Single
+! rowspan="2"| Artist
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Canadian Hot 100|CAN]]
+|-
+| 2010
+! scope="row"| "[[Wavin' Flag]]"
+| [[Young Artists for Haiti]]
+| 1
+| {{n/a}}
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:14em;"| Video
+! Director
+|-
+| 2002
+! scope="row"| "Don't Even Try"
+| Tara Hungerford
+|-
+| rowspan="2"| 2007
+! scope="row"| "Let's Talk About Love"
+| 
+|- 
+! scope="row"| "Fell Right into You"
+| 
+|- 
+| rowspan="2"| 2008
+! scope="row"| "Best of Me"
+| 
+|- 
+! scope="row"| "I Guess"
+| 
+|-
+| rowspan="2"| 2009
+! scope="row"| "You Make Me Feel"
+| 
+|-
+! scope="row"| "Nobody Says No"
+| [[Stephano Barberis]]
+|-
+| rowspan="2"| 2011
+! scope="row"| "Turn You Down"
+| 
+|-
+! scope="row"| "Everything to Me"
+| 
+|-
+| rowspan="2"| 2014
+! scope="row"| "Carry On"
+| Aaron A
+|-
+! scope="row"| "Real Canadian Girl"
+|
+|-
+| 2015
+! scope="row"| "Feeling Free"
+| 
+|-
+|}
+
+==Awards and nominations==
+{| class="wikitable"
+|-
+! Year
+! Association
+! Category
+! Result
+|-
+| rowspan="2"| 2007
+| rowspan="11"| [[Canadian Country Music Association]]
+| Female Artist of the Year
+| {{nom}}
+|-
+| Chevy Trucks Rising Star Award
+| {{nom}}
+|-
+| rowspan="9"| 2008
+| Fans' Choice Award
+| {{nom}}
+|-
+| Female Artist of the Year
+| {{won}}
+|-
+| Top New Talent of the Year
+| {{won}}
+|-
+| Top New Talent of the Year – Female
+| {{won}}
+|-
+| Album of the Year – ''Nothing Fancy''
+| {{nom}}
+|-
+| Single of the Year – "Best of Me"
+| {{nom}}
+|-
+| Songwriter of the Year – "Best of Me"
+| {{nom}}
+|-
+| CMT Video of the Year – "Best of Me"
+| {{nom}}
+|-
+| Top Selling Canadian Album of the Year – ''Nothing Fancy''
+| {{nom}}
+|-
+| rowspan="3"| 2009
+| [[Juno Awards of 2009]]
+| [[Juno Award for Breakthrough Artist of the Year|New Artist of the Year]]
+| {{nom}}
+|-
+| rowspan="4"| Canadian Country Music Association
+| Fans' Choice Award
+| {{nom}}
+|-
+| Female Artist of the Year
+| {{nom}}
+|-
+| rowspan="2"| 2010
+| Female Artist of the Year
+| {{nom}}
+|-
+| Songwriter of the Year – "Heart of Gold"
+| {{nom}}
+|-
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons|Jessie Farrell}}
+*[http://www.jessiefarrell.com Official Site]
+*[http://604records.com/index.php?option=com_content&task=view&id=183&Itemid=310 604 Records]
+{{commons category-inline}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Farrell, Jessie}}
+[[Category:Canadian women country singers]]
+[[Category:Canadian country singer-songwriters]]
+[[Category:Living people]]
+[[Category:Singers from Vancouver]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Canadian Country Music Association Female Artist of the Year winners]]
+[[Category:21st-century Canadian women singers]]
+[[Category:21st-century Canadian singer-songwriters]]

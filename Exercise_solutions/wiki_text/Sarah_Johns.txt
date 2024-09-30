@@ -1,0 +1,143 @@
+{{short description|American country music artist}}
+{{Infobox musical artist
+| image =  
+| image_size = 150 | <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Sarah Johns
+| background          = solo_singer
+| birth_date                = {{birth year and age|1979}}<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2017|publisher=Record Research, Inc|year=2017|page=184|isbn=978-0-89820-229-8}}</ref>
+| origin              = Pollard, Kentucky, U.S.
+| instrument          = Vocals
+| genre               = [[country music|Country]]
+| occupation          = Singer-songwriter
+| years_active        = 2006–2008
+| label               = [[Show Dog-Universal Music|Show Dog]], [[BNA Records|BNA]]
+| associated_acts     =   
+}}
+'''Sarah Johns''' (born 1979) is an American [[country music]] artist. Signed to [[BNA Records]] in 2006, she released her debut album ''Big Love in a Small Town'', which accounted for two charting [[single (music)|singles]] on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] charts, including the No.&nbsp;39 "The One in the Middle."
+
+==Musical career==
+Sarah Johns was born in Pollard, Kentucky. She began singing regularly while attending the [[University of Kentucky]].<ref>{{cite magazine|url=http://www.billboard.com/articles/news/1049268/sarah-johns|title=Sarah Johns|magazine=Billboard|accessdate=13 January 2010}}</ref>
+
+In early 2006, Sarah Johns signed to Show Dog Nashville (now [[Show Dog-Universal Music]]), a [[record label]] owned by [[Toby Keith]]. Although she toured with Keith on his Big Throwdown 2 tour, she did not release anything on Show Dog, and left the label that April.<ref>{{cite magazine|last=Stark|first=Phyllis|date=2006-04-01|title=Hats Off!|magazine=Billboard|pages=24}}</ref> A year later, Johns signed with [[BNA Records]].<ref name="cw">{{cite journal | author = Chris Neal | date =2007-08-13 | title = Who's New | journal = [[Country Weekly]] | volume = 14 | issue = 17 | pages = 72 | issn = 1074-3235}}</ref> She released her debut single "The One in the Middle" on April 30, 2007, and made Top 40 on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] charts with it.<ref>{{cite web |url=http://countrymusic.about.com/od/countrysingles2007/a/043007_singles.htm |title=Country Music Single Releases - Week of April 30, 2007 |accessdate=2007-07-20 |last=Webb |first=Jennifer |work=about.com}}</ref> On June 2, 2007, Johns made her debut on the [[Grand Ole Opry]].<ref>{{cite web |url=http://www.countrystandardtime.com/news/newsitem.asp?xid=653&t=Sarah_Johns_makes_Opry_debut |title=Sarah Johns makes Opry debut |accessdate=2007-07-20 |work=[[Country Standard Time]]}}</ref> Johns' debut album, ''Big Love in a Small Town'', was released on August 28, 2007, and peaked at No.&nbsp;198 on the [[Billboard 200|''Billboard'' 200]]. [[Allmusic]] critic Thom Jurek rated the album three stars out of five, comparing Johns' song choices and attitudes to those of [[Tammy Wynette]] and [[Gretchen Wilson]] and saying, "This record isn't all the way there, but it's well on the way and might blow up the charts anyway. ''Big Love in a Small Town'' is an auspicious debut by a young talent."<ref>{{cite web|url={{AllMusic|class=album|id=r1183602|pure_url=yes}}|title=''Big Love in a Small Town'' review|last=Jurek|first=Thom|work=Allmusic|accessdate=2009-10-01}}</ref> Its second single, "He Hates Me", peaked at No.&nbsp;47 on the country charts.<ref name="whitburn"/>
+
+==Discography==
+===''Big Love in a Small Town'' (2007)===
+{{Infobox album
+| italic_title = no
+| name       = Big Love in a Small Town
+| type       = studio
+| artist     = Sarah Johns
+| cover      =
+| caption    = {{deletable file-caption|Tuesday, 11 October 2022|PROD}}
+| released   = {{start date|2007|8|28}}
+| recorded   =
+| studio     =
+| genre      = Country
+| length     = 37:33
+| label      = [[BNA Records|BNA]]
+| producer   = Joe Scaife
+}}
+
+====Track listing====
+
+{{Track listing
+| collapsed       =
+| headline        = 
+| total length    =
+
+| title1          = When Do I Get to Be a Woman 
+| writer1         = Sarah Johns, [[Jason Sellers]], Lynn Hutton 
+| length1         = 3:01
+
+| title2          = If You Could Hold Your Woman (Like You Hold Your Whiskey)
+| writer2         = Johns, [[Jim Collins (singer)|Jim Collins]], [[Tony Martin (songwriter)|Tony Martin]]
+| length2         = 3:32
+
+| title3          = A Lot to Let Go Of
+| writer3         = Johns, Sellers, Dale Dodson 
+| length3         = 3:11
+
+| title4          = Baby My Heart
+| writer4         = Johns, Sellers, Michael Dulaney 
+| length4         = 4:02
+
+| title5          = Big Love in a Small Town
+| writer5         = Johns, Martin, [[Mark Nesler]] 
+| length5         = 3:06
+
+| title6          = Touch Me 
+| writer6         = Johns, Hutton, Jon Henderson 
+| length6         = 3:38
+
+| title7          = The One in the Middle
+| writer7         = Johns, Sellers, Hutton 
+| length7         = 3:55
+
+| title8          = That's Just Me Getting Over You
+| writer8         = Johns, Dodson, Billy Lawson 
+| length8         = 4:04
+
+| title9          = He Hates Me 
+| writer9         = Johns, Sellers, [[Tim Nichols]]
+| length9         = 2:59
+
+| title10         = Muddy Water 
+| writer10        = Johns, Sellers, Nichols 
+| length10        = 3:02
+
+| title11         = It's Hard to Be a Girl (In a Young Man's World) 
+| writer11        = Johns, Dodson, [[Dean Dillon]] 
+| length11        = 3:07
+}}
+
+====Album chart positions====
+{| class="wikitable sortable plainrowheaders" style="text-align:center"
+|-
+! scope="col"| Chart (2007)
+! scope="col"| Peak<br /> position
+|-
+{{album chart|BillboardHeatseekers|3|artist=Sarah Johns|rowheader=true}}
+|-
+{{album chart|Billboard200|198|artist=Sarah Johns|rowheader=true}}
+|-
+{{album chart|BillboardCountry|31|artist=Sarah Johns|rowheader=true}}
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]<ref name="whitburn"/>
+|-
+| 2007
+! scope="row"| "The One in the Middle"
+| 39
+| rowspan="2"| ''Big Love in a Small Town''
+|-
+| 2008
+! scope="row"| "He Hates Me"
+| 47
+|-
+|}
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Johns, Sarah}}
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:BNA Records artists]]
+[[Category:Country musicians from Kentucky]]
+[[Category:Living people]]
+[[Category:1979 births]]
+[[Category:Singer-songwriters from Kentucky]]
+[[Category:Kentucky women musicians]]
+[[Category:Singers from Kentucky]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:21st-century American women singers]]

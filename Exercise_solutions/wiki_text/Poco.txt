@@ -1,0 +1,19 @@
+{{wiktionary|poco}}
+'''Poco''' or '''POCO''' may refer to:
+
+* [[Postcolonialism]]
+* In musical notation, qualifier meaning "[[Glossary of musical terminology#P|a little]]"
+* [[Poco (band)]], an American country rock band formed in 1968
+** [[Poco (album)|''Poco'' (album)]], a 1970 eponymous album
+* [[Plain Old CLR Object]], term used by developers targeting the Common Language Runtime of the .NET Framework 
+* [[POCO C++ Libraries]], collection of open-source, C++, class libraries for network centric applications
+* "PoCo", a nickname for [[Port Coquitlam]], British Columbia, Canada
+* [[Poco (smartphone)]], a smartphone brand
+* Poco, the playable character in ''[[Woody Poco]]'', a Japanese video game released in 1986
+* Poco, a character from mobile game [[Brawl Stars|''Brawl Stars'']]
+
+==See also==
+* [[Pocho (disambiguation)]]
+* [[Poco-poco]], an Indonesian mass folk dance
+
+{{disambiguation}}

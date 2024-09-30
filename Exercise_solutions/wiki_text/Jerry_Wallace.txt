@@ -1,0 +1,821 @@
+{{Short description|American singer-songwriter (1928–2008)}}
+{{for-multi|the hurler and coach|Jerry Wallace (hurler)|the president of Campbell University|Jerry M. Wallace}}
+{{Infobox musical artist
+| name            = Jerry Wallace
+| image           = 
+| caption         = 
+| image_size      = 
+| background      = solo_singer
+| birth_name      = 
+| birth_date      = {{Birth date|1928|12|15}}
+| birth_place     = [[Guilford, Missouri]], U.S.
+| death_date      = {{Death date and age|2008|05|05|1928|12|15}}
+| death_place     = [[Corona, California]], U.S.
+| instrument      = Vocals, guitar
+| genre           = {{hlist|[[Country music|Country]]|[[easy listening]]|[[traditional pop]]}}
+| occupation      = [[Singing|Singer]]
+| years_active    = 1951–1980
+| label           = [[Challenge Records (1950s)|Challenge]], [[Mercury Records|Mercury]], [[Liberty Records|Liberty]], [[London Records|London]], [[Decca Records|Decca]], [[MCA Records|MCA]], [[MGM Records|MGM]], [[BMA Records|BMA]], [[4 Star Records|4 Star]], [[Door Knob Records|Door Knob]]
+| associated_acts = 
+| website         = 
+}}
+
+'''Jerry Leon Wallace''' (December 15, 1928<ref name="LarkinCountry">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Who's Who of Country Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1993|edition=First|isbn=0-85112-726-6|page=433}}</ref> – May 5, 2008)<ref name="Obit"/> was an American [[country music|country]] and [[pop music|pop]] singer. Between 1958 and 1964, Wallace charted nine hits on the [[Billboard Hot 100|''Billboard'' Hot 100]], including the No. 8 "[[Primrose Lane]]" that was later used as the theme song for the television series ''[[The Smith Family (TV series)|The Smith Family]]''. He made his debut on the country music charts in 1965, entering it thirty-five times between then and 1980.<ref name="LarkinCountry"/> In that timespan, Wallace charted within the country Top Ten four times. His only number one song was "[[If You Leave Me Tonight I'll Cry]]," a song which gained popularity after it was used in an episode of the 1970s TV series ''[[Night Gallery]]''.<ref name="LarkinCountry"/>
+
+==Biography==
+Wallace was born in [[Guilford, Missouri]], United States.<ref name="LarkinCountry"/>
+
+Wallace performed for the eighth [[Cavalcade of Jazz]] concert held at [[Wrigley Field (Los Angeles)|Wrigley Field]] in Los Angeles which was produced by [[Leon Hefflin, Sr.]] on June 1, 1952.  Also featured that day were [[Roy Brown (blues musician)|Roy Brown]] and His Mighty Men, [[Anna Mae Winburn]] and Her Sweethearts, [[Toni Harper]], [[Louis Jordan]], [[Jimmy Witherspoon]] and [[Josephine Baker]].<ref>“Largest Jazz Cavalcade in History To Feature Nation’s Top Entertainers” article, ''[[The California Eagle]]'', May 29, 1952.</ref>
+
+His better-known songs include "How the Time Flies" (1958), "Primrose Lane" (1959, written by [[Wayne Shanklin]] and [[Red Callender|George Callender]]), "Shutters and Boards" (1963, written by American film actor [[Audie Murphy]] and Canadian song producer [[Scott Turner (songwriter)|Scott Turner]]), "[[In the Misty Moonlight]]" (1964),<ref name="LarkinCountry"/> and {{nihongo|"Otoko no Sekai"|男の世界|extra=lit. "The World of the Man", English title: "The Lovers of the World"}} (1970), his biggest selling [[single (music)|single]] that was released in Japan only. "Primrose Lane" was his biggest hit, reaching No. 8 pop and No. 12 R&B in the US, selling over one million copies and awarded a [[music recording sales certification|gold disc]].<ref name="The Book of Golden Discs">{{cite book
+| first= Joseph
+| last= Murrells
+| year= 1978
+| title= The Book of Golden Discs
+| edition= 2nd
+| publisher= Barrie and Jenkins Ltd
+| location= London
+| page= [https://archive.org/details/bookofgoldendisc00murr/page/120 120]
+| isbn= 0-214-20512-6
+| url-access= registration
+| url= https://archive.org/details/bookofgoldendisc00murr/page/120
+}}</ref> After his song "[[If You Leave Me Tonight I'll Cry]]" was featured in the 1972 ''[[Night Gallery]]'' episode "The Tune in Dan's Cafe," the song became a No. 1 hit on the ''[[Billboard (magazine)|Billboard]]'' magazine [[Hot Country Singles & Tracks|Hot Country Singles]] chart that August, spending two weeks at the top of the [[record chart|chart]], crossing to No.&nbsp;38 pop.<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=446|isbn=0-89820-177-2}}</ref> "How The Time Flies" was Wallace's first big hit, reaching No. 11 pop and No. 11 R&B.<ref name="LarkinCountry"/>
+
+In 1972, he gained nomination for the [[Country Music Association]] Award as Male Vocalist of the Year, and his song "To Get To You" gained nomination for Single of the Year.
+
+Wallace died on May 5, 2008, in [[Corona, California]], after suffering [[congestive heart failure]].<ref name="Obit">{{cite web|url=http://www.cmt.com/news/news-in-brief/1587133/singer-jerry-wallace-dies-in-california.jhtml |archive-url=https://web.archive.org/web/20080512161834/http://www.cmt.com/news/news-in-brief/1587133/singer-jerry-wallace-dies-in-california.jhtml |url-status=dead |archive-date=May 12, 2008 |title=Singer Jerry Wallace Dies in California |publisher=CMT |access-date=2015-08-18}}</ref> A United States Navy veteran of World War II, Wallace was buried at [[Riverside National Cemetery]] in [[Riverside, California]].
+
+==Discography==
+===Albums===
+{| class="wikitable"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Album
+! colspan="2"| Chart Positions
+! rowspan="2"| Label
+|-
+! style="width:50px;"| <small>[[Top Country Albums|US Country]]</small>
+! style="width:50px;"| <small>[[Billboard 200|US]]</small>
+|-
+| 1959
+| ''Just Jerry''
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| rowspan="4"| Challenge
+|-
+| 1961
+| ''There She Goes''
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| 1962
+| ''Shutters and Boards''
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| 1964
+| ''In the Misty Moonlight''
+| style="text-align:center;"| —
+| style="text-align:center;"| 96
+|-
+| rowspan="3"| 1968
+| ''This One's On the House''
+| style="text-align:center;"| 35
+| style="text-align:center;"| —
+| rowspan="3"| Liberty
+|-
+| ''Another Time, Another World''
+| style="text-align:center;"| 31
+| style="text-align:center;"| —
+|-
+| ''Sweet Child of Sunshine''
+| style="text-align:center;"| 35
+| style="text-align:center;"| —
+|-
+| rowspan="2"| 1972
+| ''This Is Jerry Wallace''
+| style="text-align:center;"| 7
+| style="text-align:center;"| —
+| rowspan="2"| Decca
+|-
+| ''To Get to You''
+| style="text-align:center;"| 1
+| style="text-align:center;"| —
+|-
+| rowspan="2"| 1973
+| ''Do You Know What It's Like to Be Lonesome?''
+| style="text-align:center;"| 6
+| style="text-align:center;"| 179
+| rowspan="4"| MCA
+|-
+| ''Primrose Lane / Don't Give Up On Me''
+| style="text-align:center;"| 1
+| style="text-align:center;"| —
+|-
+| rowspan="2"| 1974
+| ''For Wives and Lovers''
+| style="text-align:center;"| 31
+| style="text-align:center;"| —
+|-
+| ''I Wonder Whose Baby (You Are Now) /<br />Make Hay While the Sun Shines''
+| style="text-align:center;"| 45
+| style="text-align:center;"| —
+|-
+| 1975
+| ''Greatest Hits''
+| style="text-align:center;"| 39
+| style="text-align:center;"| —
+| rowspan="2"| MGM
+|-
+| 1976
+| ''Jerry Wallace''
+| style="text-align:center;"| 41
+| style="text-align:center;"| —
+|-
+| 1990
+| ''Greatest Hits''
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| rowspan="2"| Curb
+|-
+|}
+
+===Singles===
+{| class="wikitable"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Single (A-side, B-side)<br /><small>Both sides from same album except where indicated</small>
+! colspan="5"| Chart Positions
+! rowspan="2"| Album
+|-
+! style="width:45px;"| <small>[[Hot Country Songs|US Country]]</small>
+! style="width:45px;"| <small>[[Billboard Hot 100|US]]</small><br /><ref name="whitburn2010">{{cite book|last=Whitburn|first=Joel|title=Top Pop Singles 1955–2010|publisher=Record Research, Inc|page=951|year=2011|isbn=0-89820-188-8}}</ref>
+! style="width:45px;"| <small>[[Hot R&B/Hip-Hop Songs|US R&B]]</small>
+! style="width:45px;"| <small>CAN Country</small>
+! style="width:45px;"| <small>CAN</small>
+|-
+| 1952
+| "Miserable Blues"<br /><small>b/w "There'll Be Some Changes Made"</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| align="left" rowspan="7"|Non-album tracks 
+|-
+| rowspan="2"|1954
+| "That's What A Woman Can Do"<br /><small>b/w "Gee, But I Hate To Go Home Alone"</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| "Runnin' After Love"<br /><small>b/w "Dixie Anna"</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| rowspan="2"|1955
+| "Taj Mahal"<br /><small>b/w "Autumn Has Come and Gone"</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| "The Greatest Magic Of All"<br /><small>b/w "Walkin' In The Rain"</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| rowspan="2"|1956
+| "On A Night When Flowers Were Dancing"<br /><small>b/w "Gloria"</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| "Eyes Of Fire Lips Of Wine"<br /><small>b/w "Monkey See Monkey Do"</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| rowspan="2"|1957
+| "Blue Jean Baby"<br /><small>b/w "Fool's Hall Of Fame"</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| align="left" rowspan="5"|''Just Jerry''
+|-
+| "Date Night"<br /><small>b/w "Once With You" (Non-album track)</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| rowspan="3"| 1958
+| "Good and Bad"<br /><small>b/w "The Other Me"</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| "How The Time Flies"<br /><small>b/w "With This Ring"</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| 11
+| style="text-align:center;"| 11
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| "Diamond Ring"<br /><small>b/w "All My Love Belongs To You"</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| 78
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| rowspan="2"| 1959
+| "A Touch Of Pink"<br /><small>b/w "Off Stage"</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| 92
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| align="left"|Non-album tracks
+|-
+| "[[Primrose Lane]]"<br /><small>b/w "By Your Side" (Non-album track)</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| 8
+| style="text-align:center;"| 12
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| align="left"|''There She Goes''
+|-
+| rowspan="4"| 1960
+| "Little Coco Palm"<br /><small>b/w "Mission Bell Blues"</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| 36
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| align="left"|Non-album tracks
+|-
+| "You're Singing Our Love Song To Somebody Else"<br /><small>b/w "King Of The Mountain"</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| 115
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| align="left" rowspan="2"| ''There She Goes''
+|-
+| "[[Swingin' Down the Lane]]"<br /><small>b/w "Teardrop In The Rain"</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| 79
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| "Only Twenty"<br /><small>B-side unknown</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| align="left"|Non-album track 
+|-
+| rowspan="4"| 1961
+| "There She Goes"<br /><small>b/w "Angel On My Shoulder"</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| 26
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| align="left"| ''There She Goes''
+|-
+| "Life's A Holiday"<br /><small>b/w "I Can See An Angel Walking"</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| 91
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| ''Shutters and Boards''
+|-
+| "Lonesome"<br /><small>b/w "Eyes (Don't Give My Secret Away)"</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| 110
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| align="left" rowspan="3"|Non-album tracks
+|-
+| "Rollin' River"<br /><small>b/w "I Hang My Head and Cry"</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| rowspan="2"|1962
+| "Little Miss Tease"<br /><small>b/w "Mr. Lonely"</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| "You'll Never Know"<br /><small>b/w "Here I Go" (Non-album track)</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| align="left" rowspan="2"|''Shutters and Boards''
+|-
+| rowspan="5"|1963
+| "Shutters and Boards"<br /><small>b/w "Am I That Easy To Forget"</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| 24
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| "Move Over<small> (When True Love Walks By)</small>"<br /><small>b/w "On A Merry-Go-Round" (Non-album track)</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| align="left" rowspan="6"| ''In The Misty Moonlight''
+|-
+| "Just Walking In The Rain"<br /><small>b/w "San Francisco Mama" (Non-album track)</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| "Empty Arms Again"<br /><small>b/w "Bambola (My Darling One)" (Non-album track)</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| "Auf Wiedersehen"<br /><small>b/w "If I Make It Through Today" (Non-album track)</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| rowspan="6"| 1964
+| "[[In the Misty Moonlight]]"<sup>A</sup> /
+| style="text-align:center;"| —
+| style="text-align:center;"| 19
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| 35
+|-
+| "Even The Bad Times Are Good"
+| style="text-align:center;"| —
+| style="text-align:center;"| 114
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| "Butterfly"<br /><small>b/w "Let The Tears Begin" (Non-album track)</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| align="left"|''The Best Of Jerry Wallace''
+|-
+| "Spanish Guitars"<br /><small>b/w "Even The Bad Times Are Good" (from ''In The Misty Moonlight'')</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| 132
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| align="left"|Non-album track
+|-
+| "It's A Cotton Candy World"<br /><small>b/w "Keep A Lamp Burning" (Non-album track)</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| 99
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| align="left"|''The Best Of Jerry Wallace''
+|-
+| "Careless Hands"<br /><small>b/w "San Francisco De Assisi"</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| align="left" rowspan="2"|Non-album tracks
+|-
+| rowspan="3"|1965
+| "Helpless"<br /><small>b/w "You're Driving You Out Of My Mind"</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| "Time"<br /><small>b/w "Rainbow"</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| align="left" rowspan="3"|''The Best Of Jerry Wallace''
+|-
+| "Life's Gone and Slipped Away"<br /><small>b/w "Twelve Little Roses"</small>
+| style="text-align:center;"| 23
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| rowspan="3"| 1966
+| "Diamonds and Horseshoes"<br /><small>b/w "Will The Pain Fade Away"</small>
+| style="text-align:center;"| 45
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| "Wallpaper Roses"<br /><small>b/w "The Son Of A Green Beret"</small>
+| style="text-align:center;"| 43
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| align="left" rowspan="2"|Non-album tracks
+|-
+| "Not That I Care"<br /><small>b/w "Release Me (and Let Me Love Again)" (from ''The Best Of Jerry Wallace'')</small>
+| style="text-align:center;"| 44
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| rowspan="2"|1967
+| "Runaway Bay"<br /><small>b/w "Dispossessed"</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| align="left" rowspan="2"|''This One's On The House''
+|-
+| "This One's On The House"<br /><small>b/w "A New Sun Risin'"</small>
+| style="text-align:center;"| 36
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| rowspan="4"| 1968
+| "The Closest I Ever Came"<br /><small>b/w "That's What Fools Are For"</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| align="left" rowspan="2"|''Another Time, Another World''
+|-
+| "Another Time, Another Place, Another World"<br /><small>b/w "That's What Fools Are For"</small>
+| style="text-align:center;"| 69
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| "That's The Fool In Me"<br /><small>b/w "Are You Ready"</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| align="left"|Non-album tracks
+|-
+| "Sweet Child Of Sunshine"<br /><small>b/w "Our House On Paper"</small>
+| style="text-align:center;"| 22
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| rowspan="2"| ''Sweet Child Of Sunshine''
+|-
+| rowspan="4"| 1969
+| "Son"<br /><small>b/w "Temptation (Make Me Go Home)"</small>
+| style="text-align:center;"| 69
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| "Venus"<br /><small>b/w "Soon We'll Be There"</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| align="left"|''Bitter Sweet''
+|-
+| "Swiss Cottage Place"<br /><small>b/w "With Ageing"</small>
+| style="text-align:center;"| 71
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| align="left" rowspan="2"|Non-album tracks
+|-
+| "Honey Eyed Girl"<br /><small>b/w "Glory Of My Woman"</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| 1970
+| "Even The Bad Times Are Good"<br /><small>b/w "For All We Know" (Non-album track)</small>
+| style="text-align:center;"| 74
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| align="left"|''Superpak''
+|-
+| rowspan="3"| 1971
+| "After You" /
+| style="text-align:center;"| 22
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| rowspan="3"| ''This Is Jerry Wallace''
+|-
+| "She'll Remember"
+| style="text-align:center;"| 51
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| "The Morning After"<br /><small>b/w "I Can't Take It Anymore"</small>
+| style="text-align:center;"| 19
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| 39
+| style="text-align:center;"| —
+|-
+| rowspan="3"| 1972
+| "To Get To You"<br /><small>b/w "Time" (from ''This Is Jerry Wallace'')</small>
+| style="text-align:center;"| 12
+| style="text-align:center;"| 48
+| style="text-align:center;"| —
+| style="text-align:center;"| 8
+| style="text-align:center;"| —
+| rowspan="2"| ''To Get To You''
+|-
+| "[[If You Leave Me Tonight I'll Cry]]"<br /><small>b/w "What's He Doin' In My World"</small>
+| style="text-align:center;"| 1
+| style="text-align:center;"| 38
+| style="text-align:center;"| —
+| style="text-align:center;"| 3
+| style="text-align:center;"| 38
+|-
+| "Thanks To You For Lovin' Me"<br /><small>b/w "Funny How Time Slips Away" (from </small>
+| style="text-align:center;"| 66
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| align="left"|''Superpak''
+|-
+| rowspan="5"| 1973
+| "Do You Know What It's Like to Be Lonesome"<br /><small>b/w "Where Did He Come From"</small>
+| style="text-align:center;"| 2
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| 4
+| style="text-align:center;"| —
+| align="left"|''Do You Know What It's Like to Be Lonsome?''
+|-
+| "Take Me As I Am"<br /><small>b/w "Touch Me"</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| align="left"|''Superpak''
+|-
+| "Sound Of Goodbye" /
+| style="text-align:center;"| 21
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| 16
+| style="text-align:center;"| —
+| align="left" rowspan="2"|''Do You Know What It's Like to Be Lonsome?''
+|-
+| "The Song Nobody Sings"
+| style="text-align:center;"| flip
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| "Don't Give Up On Me"<br /><small>b/w "You Look Like Forever" (from ''To Get Top You'')</small>
+| style="text-align:center;"| 3
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| 12
+| style="text-align:center;"| —
+| ''Primrose Lane / Don't Give Up On Me''
+|-
+| rowspan="3"| 1974
+| "Guess Who"<br /><small>b/w "All I Ever Wanted Fromm You (Is You)"</small>
+| style="text-align:center;"| 18
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| 44
+| style="text-align:center;"| —
+| rowspan="2"| ''For Wives and Lovers''
+|-
+| "My Wife's House"<br /><small>b/w "A Better Way To Say I Love You"</small>
+| style="text-align:center;"| 9
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| 3
+| style="text-align:center;"| —
+|-
+| "I Wonder Whose Baby<small> (You Are Now)</small>"<br /><small>b/w "Make Hay While the Sun Shines"</small>
+| style="text-align:center;"| 20
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| 47
+| style="text-align:center;"| —
+| ''I Wonder Whose Baby<small> (You Are Now)</small> /<br />Make Hay While the Sun Shines''
+|-
+| rowspan="4"| 1975
+| "Comin' Home To You"<br /><small>b/w "River St. Marie" (Non-album track)</small>
+| style="text-align:center;"| 32
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| align="left"|''Comin' Home To You''
+|-
+| "All I Want Is You"<br /><small>b/w "With Pen In Hand" (from ''Sweet Child Of Sunshine'')</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| align="left"|''Bitter Sweet''
+|-
+| "Wanted Man"<br /><small>b/w "Your Love" (from ''Comin' Home To You'')</small>
+| style="text-align:center;"| 41
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| rowspan="2"|''Jerry Wallace''
+|-
+| "Georgia Rain"<br /><small>b/w "In The Garden"</small>
+| style="text-align:center;"| 70
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| rowspan="2"|1976
+| "The Fool I've Been Today"<br /><small>b/w "Jenny"</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| align="left" rowspan="2"|Non-album tracks
+|-
+| "I Can't Keep My Hands Off You"<br /><small>b/w "The Next Plane To Seattle"</small>
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| rowspan="2"| 1977
+| "I Miss You Already"<br /><small>b/w "(At) The End (Of A Rainbow)"</small>
+| style="text-align:center;"| 26
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| align="left" rowspan="4"|''I Miss You Already''
+|-
+| "I'll Promise You Tomorrow"<br /><small>b/w "You're On The Run"</small>
+| style="text-align:center;"| 28
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| rowspan="3"| 1978
+| "At The End Of A Rainbow"<br /><small>b/w "Looking For A Memory"</small>
+| style="text-align:center;"| 24
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| "My Last Sad Song"<br /><small>b/w "Out Wickenburg Way"</small>
+| style="text-align:center;"| 64
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| "I Wanna Go To Heaven"<br /><small>b/w "After You"</small>
+| style="text-align:center;"| 38
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| align="left" rowspan="5"|Non-album tracks
+|-
+| rowspan="2"| 1979
+| "Yours Love"<br /><small>b/w "There She Goes"</small>
+| style="text-align:center;"| 67
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| "You've Still Got Me"<br /><small>b/w "Now That Sandy's Gone"</small>
+| style="text-align:center;"| 68
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| rowspan="2"| 1980
+| "Cling To Me"<br /><small>b/w "Paper Madonna"</small>
+| style="text-align:center;"| 56
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|-
+| "If I Could Set My Love To Music"<br /><small>b/w "Cling To Me"</small>
+| style="text-align:center;"| 80
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+|}
+*<sup>A</sup>"In the Misty Moonlight" also peaked at No. 2 on the [[Adult Contemporary (chart)|Pop-Standard Singles]] chart.
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.oldies.com/artist-view/Jerry-Wallace.html Biography at Oldies.com]
+*{{AllMusic|class=artist|id=p5783|label=Jerry Wallace}}
+*{{Discogs artist}}
+*{{Find a Grave|26713751}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Wallace, Jerry}}
+[[Category:1928 births]]
+[[Category:2008 deaths]]
+[[Category:Apex Records artists]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Burials at Riverside National Cemetery]]
+[[Category:Challenge Records artists]]
+[[Category:Class Records artists]]
+[[Category:People from Corona, California]]
+[[Category:People from Nodaway County, Missouri]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:Singer-songwriters from California]]
+[[Category:Singer-songwriters from Missouri]]
+[[Category:Country musicians from California]]
+[[Category:Country musicians from Missouri]]
+[[Category:20th-century American male singers]]

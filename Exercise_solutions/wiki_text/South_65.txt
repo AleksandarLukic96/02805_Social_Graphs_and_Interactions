@@ -1,0 +1,222 @@
+{{Short description|American country music boy band}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = South 65
+| image                 = 
+| caption            = 
+| image_size            = 
+| background          = group_or_band
+| origin              = [[Nashville, Tennessee]], U.S.
+| genre               = [[country music|Country]]
+| years_active        = 1997–2001
+| label               = [[Atlantic Records|Atlantic Nashville]]
+| past_members        = Jerimy Pat Koeltzow<br />Lance Aaron Leslie<br />Brenton "Brent" Michael Parker<br />Stephen Phillip Parker<br />Alfred "Doug" Douglas Urie
+}}
+'''South 65''' (also spelled '''South Sixty-Five''') was an American [[country music]] [[boy band]]. The group was composed of vocalists Lance Leslie, Brent Parker, Stephen Parker, Jerimy Koeltzow, and Doug Urie. Between 1997 and its disbanding in 2001, South 65 charted five singles on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] charts, in addition to recording two albums on [[Atlantic Records]]. In 2006, former vocalist Lance Leslie founded another group called [[Rio Grand]].
+
+==Biography==
+Delious Kennedy, a member of the [[R&B]] group [[All-4-One]], wanted to form a [[boy band]] for [[country music]].<ref name="allmusic">{{cite web |url={{Allmusic|class=artist|id=p352587/biography|pure_url=yes}} |title=allmusic ((( South Sixty-Five > Biography ))) |accessdate=2007-08-13 |last=Dillon |first=Charlotte |work=[[Allmusic]]}}</ref> He first picked brothers Brenton and Stephen Parker, and later held a nationwide talent search to find the other three members. All five members were in place by 1997.<ref name="allmusic"/> Delious and Anthony L. Smith produced the band's 1998 self-titled debut album, which reached a peak of No.&nbsp;70 on the ''[[Billboard (magazine)|Billboard]]'' [[Top Country Albums]] charts. Its singles included "A Random Act of Senseless Kindness", "No Easy Goodbye", and "Baby's Got My Number", which respectively reached No.&nbsp;55, No.&nbsp;56 and No.&nbsp;60 on the Hot Country Singles & Tracks (now [[Hot Country Songs]]) charts. In 2000, the band released "Love Bug (Bite Me)", which reached No.&nbsp;72 on that chart and never appeared on an album.
+
+South 65 released its second and final album for Atlantic Nashville in 2001.<ref name="allmusic"/> Titled ''Dream Large'', the album went to No.&nbsp;63 on the country albums charts. Bobby Huff produced three tracks, and [[Buddy Cannon]] and [[Norro Wilson]] produced the other seven.<ref name="liner"/> This album included a [[cover version|cover]] of [[Charlie Rich]]'s 1973 Number One hit "[[The Most Beautiful Girl]]", which South 65 took to No.&nbsp;54 on the country charts. After the album's release, the members of South 65 parted ways due to the closure of Atlantic Records' Nashville division. Urie began a solo career, while Leslie joined [[Rio Grand]],<ref>{{cite web |url=http://countrymusic.about.com/od/interviews/a/RioGrandInt.htm |title=Rio Grand Interview - Part 1 |accessdate=2007-12-18 |last=Petricka |first=Laurie |work=About.com |archive-date=2007-09-12 |archive-url=https://web.archive.org/web/20070912180822/http://countrymusic.about.com/od/interviews/a/RioGrandInt.htm |url-status=dead }}</ref> which he has since left.
+
+==Critical reception==
+Charlotte Dillon of [[Allmusic]] gave four stars out of five to both of the band's albums. She said that the first album did not have a distinctively country music sound, but called the group "revitalizing" and said that the first album's songs were "mostly done in sweet harmonies sure to set young female hearts to fluttering."<ref name="allmusicdebut">{{cite web |last=Dillon |first=Charlotte |title=''South Sixty-Five'' review |url={{Allmusic|class=album|id=r382401|pure_url=yes}} |work=Allmusic |accessdate=12 September 2009}}</ref> She said of the second album that it had a more country sound with some [[R&B]] influences.<ref name="allmusicdream">{{cite web |last=Dillon |first=Charlotte |title=''Dream Large'' review |url={{Allmusic|class=album|id=r529314|pure_url=yes}} |work=Allmusic |accessdate=12 September 2009}}</ref> An uncredited review in ''Billboard'' gave a negative review, saying that the members had "anonymous, pretty voices" and that the songs "are not very convincing country."<ref name="billboard">{{cite magazine |author1=Nielsen Business Media, Inc |date=1998-12-12 |title=Reviews & Previews |magazine=Billboard |pages=[https://archive.org/details/bub_gb_KwoEAAAAMBAJ/page/n19 20] |url=https://archive.org/details/bub_gb_KwoEAAAAMBAJ |accessdate=2009-09-12}}</ref> Jennifer Webb of [[About.com]] gave ''Dream Large'' a favorable review, saying, "South 65 amazes me with their harmonizing and vocal abilities."<ref name="about">{{cite web |last=Webb |first=Jennifer |title=''Dream Large'' review |url=http://countrymusic.about.com/library/bldreamlargerev.htm |work=About.com |accessdate=12 September 2009 |archive-date=5 December 2009 |archive-url=https://web.archive.org/web/20091205035133/http://countrymusic.about.com/library/bldreamlargerev.htm |url-status=dead }}</ref>
+
+==''South Sixty-Five'' (1998)==
+{{Infobox album
+| italic_title = no
+| name       = ''South Sixty-Five''
+| type       = studio
+| artist     = South 65
+| cover      = southsixtyfive.jpg
+| alt        =
+| released   = {{Start date|1998|12|01}}
+| recorded   =
+| venue      =
+| studio     =
+| genre      = Country
+| length     = 36:17
+| label      = Atlantic Nashville
+| producer   = Delious, Anthony L. Smith<ref name="amgcredits">{{cite web |title=''South Sixty-Five'' credits |url={{Allmusic|class=album|id=r382401/credits|pure_url=yes}} |work=Allmusic |accessdate=12 September 2009}}</ref>
+| prev_title =
+| prev_year  =
+| next_title =
+| next_year  =
+}}
+
+===Track listing===
+#"Baby's Got My Number" ([[Roger Cook (songwriter)|Roger Cook]], Anthony L. Smith) – 3:00
+#"Climbing Up Mt. Everest" ([[Tommy Lee James]], Robin Lerner) – 3:03
+#"I'm There" ([[Kelly Shiver]], [[Jon Vezner]]) – 4:12
+#"Uncle Hickory's General Store" (Stephanie C. Brown, Larry Wayne Clark) – 3:16
+#"One of the Precious Few" ([[Walt Aldridge]], [[Bob DiPiero]]) – 3:40
+#"All of This and More" ([[Jim Photoglo]], Smith) – 3:54
+#"No Easy Goodbye" (Jerry Holland) – 4:07
+#"Love Will Last" (Michael Dulaney, Tim Norton) – 3:13
+#"To Me" (James, Roberta Schiller) – 4:07
+#"A Random Act of Senseless Kindness" ([[Gary Baker (songwriter)|Gary Baker]], [[Frank J. Myers]], Jerry Williams) – 3:57
+
+===Musicians===
+As listed on Allmusic.<ref name="amgcredits"/>
+*Bruce Bouton – [[steel guitar]]
+*Mike Brignardello – [[bass guitar]]
+*Dennis Burnside – [[piano]]
+*Mike Chapman – bass guitar
+*Tabitha Fair – [[background vocals]]
+*Owen Hale – [[drums]]
+*Chris Leuzinger – [[electric guitar]]
+*Greg Morrow – drums
+*Steve Nathan – [[synthesizer]]
+*Danny Parks – [[acoustic guitar]]
+*Barry Walsh – piano
+*[[Biff Watson]] – acoustic guitar
+*John Willis – acoustic guitar
+*Curtis Young – background vocals
+
+==''Dream Large'' (2001)==
+{{Infobox album
+| italic_title = no
+| name       = ''Dream Large''
+| type       = studio
+| artist     = South 65
+| cover      = dreamlarge.jpg
+| alt        =
+| released   = {{Start date|2001|05|01}}
+| recorded   =
+| venue      =
+| studio     =
+| genre      = Country
+| length     =
+| label      = Atlantic Nashville
+| producer   = Bobby Huff (tracks 1, 3, 8); [[Buddy Cannon]] and [[Norro Wilson]] (tracks 2, 4-7, 9, 10)<ref name="liner">{{cite AV media notes |title=Dream Large |others=South 65 |year=2001 |type=CD insert |publisher=Atlantic Records Nashville |id=83379}}</ref>
+| prev_title =
+| prev_year  =
+| next_title =
+| next_year  =
+}}
+
+===Track listing===
+#"The Most Beautiful Girl (2001 version)" ([[Billy Sherrill]], [[Norro Wilson]], [[Rory Michael Bourke]]) – 3:29
+#"Like an Angel" (David Leone, Pat Buchanan) – 3:34
+#"I Swear to You" (Bobby Huff) – 3:26
+#"Only Perfect" ([[Mark McGuinn]], Trey Matthews) – 3:13
+#"All I Ever Did" ([[Neal Coty]], [[Randy VanWarmer]]) – 3:39
+#"The Great Love of 1998" ([[Bob DiPiero]], [[Craig Wiseman]], [[Tim Nichols]]) – 3:30
+#"One Moment" ([[Chris Waters]], Wes Hightower) – 3:37
+#"Gettin' the Feelin'" (Huff) – 3:33
+#"Even If" ([[Liz Hengber]], [[Tommy Lee James]]) – 3:07
+#"Dream Large" ([[Danny Mayo]]) – 3:32
+
+===Musicians===
+As listed in liner notes.<ref name="liner"/>
+*David Angel – [[String instrument|strings]]
+*[[Eddie Bayers]] – [[drums]]
+*Larry Beaird – [[acoustic guitar]]
+*David Briggs – [[piano]]
+*Arbry Burcon – [[banjo]]
+*David Davidson – strings
+*[[Dan Dugmore]] – [[steel guitar]]
+*Larry Franklin – [[fiddle]]
+*[[Paul Franklin (musician)|Paul Franklin]] – steel guitar
+*Rob Hajacos – fiddle
+*John Hobbs – [[Hammond B-3 organ]]
+*Bobby Huff – acoustic guitar, [[Keyboard instrument|keyboards]], drums, [[percussion]]
+*[[John Jorgenson]] – [[electric guitar]]
+*[[Paul Leim]] – drums
+*B. James Lowry – acoustic guitar
+*Randy McCormick – piano, keyboards, Hammond B-3 organ
+*[[Terry McMillan (musician)|Terry McMillan]] – [[harmonica]]
+*[[Dale Oliver]] – electric guitar
+*Danny Parks – acoustic guitar
+*Larry Paxton – bass guitar
+*Buck Reid – steel guitar
+*Randy Threet – bass guitar
+*Jason West – bass guitar
+*John Willis – electric guitar
+*Bob Wray – bass guitar
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:12em;"| Title
+! rowspan="2" style="width:20em;"| Album details
+! colspan="1"| Peak positions
+|- style="font-size:smaller;"
+! width="65"| [[Top Country Albums|US Country]]
+|-
+! scope="row"| ''South Sixty-Five''
+| 
+* Release date: December 1, 1998
+* Label: Atlantic Nashville
+| 70
+|-
+! scope="row"| ''Dream Large''
+| 
+* Release date: May 1, 2001
+* Label: Atlantic Nashville
+| 63
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:22em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]
+|-
+| 1998
+! scope="row"| "A Random Act of Senseless Kindness"
+| 55
+| align="left" rowspan="3"| ''South Sixty-Five''
+|-
+| rowspan="2"| 1999
+! scope="row"| "No Easy Goodbye"
+| 56
+|-
+! scope="row"| "Baby's Got My Number"
+| 60
+|-
+| 2000
+! scope="row"| "Love Bug (Bite Me)"
+| 72
+| align="left"| single only
+|-
+| 2001
+! scope="row"| "[[The Most Beautiful Girl]] (2001 version)"
+| 54
+| align="left"| ''Dream Large''
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:22em;"| Video
+! Director
+|-
+| 1998
+! scope="row"| "A Random Act of Senseless Kindness"<ref>{{cite web|url=http://www.cmt.com/videos/south-sixty-five/385431/a-random-act-of-senseless-kindness.jhtml|title=CMT : Videos : South Sixty-Five : A Random Act Of Senseless Kindness|publisher=[[Country Music Television]]|accessdate=October 14, 2011}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+| rowspan="2"| Bob Gabrielsen
+|-
+| 1999
+! scope="row"| "No Easy Goodbye"<ref>{{cite web|url=http://www.cmt.com/videos/south-sixty-five/385451/no-easy-goodbye.jhtml|title=CMT : Videos : South Sixty-Five : No Easy Goodbye|publisher=[[Country Music Television]]|accessdate=October 14, 2011}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+|-
+| 2001
+! scope="row"| "The Most Beautiful Girl"
+| 
+|}
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+[[Category:Country music groups from Tennessee]]
+[[Category:American boy bands]]
+[[Category:Atlantic Records artists]]
+[[Category:Vocal quintets]]
+[[Category:Musical groups established in 1997]]
+[[Category:Musical groups disestablished in 2001]]

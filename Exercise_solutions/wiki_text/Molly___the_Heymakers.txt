@@ -1,0 +1,134 @@
+{{More citations needed|date=January 2020}}
+{{Infobox musical artist | <!-- See Wikipedia:WikiProject Musicians -->
+| name            = Molly & the Heymakers
+| image             =
+| caption        =
+| image_size        = 
+| background      = group_or_band
+| alias           = Molly and the Danger Band, Molly Otis, Molly Stoddard, Molly Scheer, Molly & The Makers
+| origin              = [[Hayward, Wisconsin|Hayward]], [[Wisconsin]], [[United States|USA]]
+| genre           = [[Country music|Country]],
+| years_active    = 1987-1995
+| label           = [[Reprise Records|Reprise]]<br />Muskie Queen Records<br />Media Records
+| associated_acts = Molly & the Danger Band, Molly & The Makers, [[Freedy Johnston]], Molly Otis Band, Molly Scheer, Molly Stoddard, Molly O
+| website             = [http://www.thedangerband.com/ Molly and the Danger Band featuring Molly Scheer Otis Stoddard]
+| past_members    = Martha "Molly" Scheer<br />Andy Dee<br />Jeff Nelson<br />Joe Lindzius<br />Chad "C.J." Udeen
+}}
+'''Molly & the Heymakers''' was an American [[country music]] group formed in 1987. The band consisted of Martha "Molly" Scheer ([[lead vocals]], [[fiddle]], [[mandolin]], [[rhythm guitar]]), Andy Dee ([[lead guitar]]), Jeff Nelson ([[bass guitar]]), Joe Lindzius ([[drum kit|drums]]) and Chad "C.J." Udeen ([[steel guitar]]). Their highest charting single, "Chasin' Something Called Love," peaked at No.&nbsp;50 on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles & Tracks]] chart in 1991; it was included on their self-titled debut album, issued in 1992 on [[Reprise Records]].
+
+==Transition to new sound==
+In 1998, Molly Scheer and Andy Dee, along with Rick Berger ([[bass guitar]]) and Scott Tate ([[drum kit|drums]]), released an album of harder-edged material under the moniker known as "Molly & The Makers." The music on this album featured a mixture of styles including [[Alt.country]], [[Cowpunk]], [[Country music|Country]], [[folk rock]], [[Rockabilly|Rock and Roll]], [[Alternative rock]], [[Rock music|rock]], [[power pop]], [[punk rock]], [[Garage punk (fusion genre)|garage punk]], [[indie rock]] and [[indie pop]].
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+
+! style="width:16em;"| Title
+! style="width:18em;"| Album details
+
+|-
+! scope="row"| ''Molly & The Heymakers''
+| 
+* Release date: 1988
+* Label: Muskie Queen Records
+
+|-
+! scope="row"| ''Live Wires''
+| 
+* Release date: 1989
+* Label: Muskie Queen Records
+|-
+! scope="row"| ''Molly & the Heymakers''
+| 
+* Release date: March 31, 1992
+* Label: [[Reprise Records]]
+|-
+! scope="row"| ''B-Sides from the Milkhouse''
+| 
+* Release date: 1993
+* Label: Muskie Queen Records
+|-
+! scope="row"| ''Big Things''
+| 
+* Release date: 1995
+* Label: Muskie Queen Records
+|-
+! scope="row"| ''Lucky Flame''<br /><small>(as Molly & the Makers)</small>
+| 
+* Release date: 1998
+* Label: Media Records
+
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| 1990
+! scope="row"| "Chasin' Something Called Love"
+| 50
+| 38
+| align="left" rowspan="5"| ''Molly & the Heymakers''
+|-
+| 1991
+! scope="row"| "He Comes Around"
+| 59
+| 51
+|-
+| rowspan="3"| 1992
+! scope="row"| "[[Mountain of Love]]"<ref>{{cite journal|last1=Smith|first1=Lisa|last2=Hoelzle|first2=Cyndi|date=January 24, 1992|title=Reviews|journal=[[Gavin Report]]|page=16|url=http://www.americanradiohistory.com/Archive-Gavin-Report/90/92/Gavin-1992-01-24.pdf}}</ref>
+| —
+| 79
+|-
+! scope="row"| "Jimmy McCarthy's Truck"
+| 69
+| 86
+|-
+! scope="row"| "[[Swingin' Doors|Swinging Doors]]"<ref>{{cite magazine|url=http://americanradiohistory.com/Archive-Billboard/90s/1992/Billboard-1992-08-29.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|date=August 29, 1992}}</ref>
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:16em;"| Video
+! Director
+|-
+| 1990
+! scope="row"| "Chasin' Something Called Love"
+| Joanne Gardner
+|-
+| 1991
+! scope="row"| "Mountain of Love"
+| Jim Shea
+|-
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.thedangerband.com/ Molly and the Danger Band Official site]
+* [https://avra-records.com/molly.html Molly & The Heymakers digital reissues] A.V.R.A. Records reissues
+*[{{AllMusic|class=artist|id=p32325|pure_url=yes}} allmusic ((( Molly & the Heymakers > Overview )))]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Molly and the Heymakers}}
+[[Category:American country music groups]]
+[[Category:Reprise Records artists]]
+[[Category:Musical groups from Wisconsin]]
+[[Category:Musical groups established in 1987]]

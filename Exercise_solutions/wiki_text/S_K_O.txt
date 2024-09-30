@@ -1,0 +1,121 @@
+{{Short description|US musical group}}
+{{Infobox musical artist | <!-- See Wikipedia:WikiProject Musicians -->
+| name            = S-K-O
+| image           =
+| caption         =
+| image_size      = <!-- Only for images smaller than 220 pixels -->
+| background      = group_or_band
+| alias           = Schuyler, Knobloch, and Overstreet<br />Schuyler, Knobloch, and Bickhardt (S-K-B)
+| origin          = [[Nashville, Tennessee]], U.S.
+| genre           = [[Country music|Country]]
+| years_active    = 1986–1989
+| label           = [[MTM Records|MTM]]
+| past_members    = [[Craig Bickhardt]]<br />[[J. Fred Knobloch]]<br />[[Paul Overstreet]]<br />[[Thom Schuyler]]
+}}
+
+'''S-K-O''', originally known as '''Schuyler, Knobloch and Overstreet''', was an American [[country music]] vocal group consisting of [[Thom Schuyler]], [[J. Fred Knobloch]], and [[Paul Overstreet]].<ref name="allmusic"/> The original line-up recorded one album for [[MTM Records]] and charted three country hits, including the number one "[[Baby's Got a New Baby]]".<ref name="allmusic"/> After Overstreet departed in 1987 for a solo career, he was replaced with [[Craig Bickhardt]], and the group was renamed '''Schuyler, Knobloch, and Bickhardt''', or S-K-B for short.<ref name="allmusic"/> The renamed group released one album and four singles before disbanding in 1989.<ref name="allmusic"/>
+
+==Biography==
+[[Thom Schuyler]], [[J. Fred Knobloch]], and [[Paul Overstreet]] were three [[Nashville, Tennessee]]-based songwriters who got together to form the group in 1986.<ref name="allmusic"/> After the release of their first single, they shortened their name simply to S-K-O.<ref name="whitburn"/> When Overstreet left the group in 1987 to pursue a solo career, he was replaced by [[Craig Bickhardt]] and they changed their name to Schuyler, Knobloch & Bickhardt or S-K-B for short.<ref name="allmusic"/> S-K-B disbanded when their record label, MTM Records, shut down in 1989.<ref name="bickhardt">{{Cite web|url=http://www.craigbickhardt.com/bio.html|title=Craig Bickhardt Bio|website=Craigbickhardt.com|access-date=August 10, 2021}}</ref> Since then, Thom Schuyler became the vice president of [[RCA Nashville]] (a position from which he retired in 1994), while Knobloch and Bickhardt continued their songwriting careers.<ref name="allmusic">{{Cite web|url=https://www.allmusic.com/artist/s-k-o-mn0001009950|title=S-K-O &#124; Biography & History|website=[[AllMusic]]|access-date=August 10, 2021}}</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable"
+! Year
+! Title
+! <small>[[Top Country Albums|US Country]]</small>
+|- 
+| 1986
+| ''S-K-O''
+| align="center"| 39
+|- 
+| 1987
+| ''No Easy Horses''
+| align="center"| 52
+|}
+
+===Singles===
+{| class="wikitable"
+!rowspan="2"|Recording name
+! rowspan="2"| Year
+! rowspan="2"| Title
+! colspan="2"| Chart Positions
+! rowspan="2"| Album
+|- 
+! width="50"| <small>[[Hot Country Songs|US Country]]</small><ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=367|isbn=978-0-89820-177-2}}</ref>
+! width="50"| <small>CAN Country</small>
+|-
+|Schuyler, Knobloch & Overstreet
+| rowspan="2"| 1986
+| "[[You Can't Stop Love (S-K-O song)|You Can't Stop Love]]"
+| align="center"| 9
+| align="center"| —
+| rowspan="3"| ''S-K-O''
+|- 
+|rowspan=2|S-K-O
+| "[[Baby's Got a New Baby]]"
+| align="center"| 1
+| align="center"| —
+|- 
+| rowspan="3"| 1987
+| "American Me"
+| align="center"| 16
+| align="center"| 35
+|- 
+|rowspan=4|Schuyler, Knobloch, and Bickhardt
+| "No Easy Horses"
+| align="center"| 19
+| align="center"| 37
+| rowspan="3"| ''No Easy Horses''
+|- 
+| "This Old House"
+| align="center"| 24
+| align="center"| 27
+|- 
+| rowspan="2"| 1988
+| "[[Givers and Takers]]"
+| align="center"| 8
+| align="center"| 8
+|- 
+| "Rigamarole"
+| align="center"| 44
+| align="center"| —
+| Single only
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:22em;"| Video
+! Director
+|-
+| rowspan="2"| 1987
+! scope="row"| "No Easy Horses"
+| 
+|-
+! scope="row"| "This Old House"
+| 
+|-
+| rowspan="1"| 1988
+! scope="row"| "Givers and Takers"
+| 
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.thomschuyler.com Thom Schuyler's official website]
+*[http://www.pauloverstreet.com Paul Overstreet's official website]
+*[http://www.craigbickhardt.com Craig Bickhardt's official website]
+*[http://www.jfredknobloch.com J Fred Knobloch's official website]
+
+{{Paul Overstreet}}
+
+[[Category:Country music groups from Tennessee]]
+[[Category:Musical groups established in 1986]]
+[[Category:Musical trios from Tennessee]]
+[[Category:Vocal trios]]
+[[Category:MTM Records artists]]
+[[Category:1986 establishments in Tennessee]]
+[[Category:Musical groups disestablished in 1989]]

@@ -1,0 +1,174 @@
+{{short description|American singer-songwriter}}
+
+{{Infobox musical artist
+| name            = Peggy Little
+| image           =
+| birth_name      = Peggy Little
+| alias           =
+| birth_date      = {{Birth date and age|df=y|1942|8|8}}
+| birth_place     = [[Marlin, Texas]], USA
+| death_date      =
+| instrument      = Vocals,
+| genre           = [[country music|country]]
+| occupation      = Singer
+| years_active    = 1966–1974
+| label           = [[Philips Records|Philips]]<br>[[Dot Records|Dot]]<br>[[Epic Records|Epic]]
+| associated_acts = 
+}}
+'''Peggy Little''' (born August 8, 1942) is an [[American country music]] singer best remembered for her country cover version of [[Dusty Springfield]]'s "[[Son of a Preacher Man]]".
+
+==Early years==
+Little was born in  [[Marlin, Texas]] and raised in [[Waco, Texas]].{{Citation needed |date=May 2019}} She began her career as a vocalist on a Waco radio station when she was 11 years old.<ref name="as">{{cite news |title=Peggy Little Started Early To Stardom |url=https://www.newspapers.com/clip/31997709/peggy_little/ |accessdate=28 May 2019 |work=Aiken Standard |agency=Associated Press |date=May 25, 1971 |location=South Carolina, Aiken |page=3|via = [[Newspapers.com]]}}</ref>
+
+==Career==
+In the late 1960s and early 1970s, Little was a well-known figure to country music audiences with several charting records and multiple appearances on country music programs such as ''[[Hee Haw]]''.  She also made guest appearances on ''[[The Mike Douglas Show]]'', ''Wilburn Brothers Show'', ''Bill Anderson Show'', ''Del Reeves Show'', and ''The Ralph Emery Show''.
+
+Little recorded for [[Dot Records]] and later was on the [[Epic Records]] label.  Little left the music industry in the mid-1970s and has not sung professionally in decades. She currently resides in her native Texas.
+
+==Personal life==
+Little married when she was 16 and left show business to raise a family. That situation ended with a divorce in 1965.<ref>{{cite news |last1=Ferguson |first1=Bettie |title=Peggy Little Charges to Rescue |url=https://www.newspapers.com/clip/31998368/peggy_little/ |accessdate=28 May 2019 |work=The Courier |date=September 27, 1973 |location=Iowa, Waterloo |page=10|via = [[Newspapers.com]]}}</ref>
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2" style="width:12em;"| Title
+! rowspan="2" style="width:14em;"| Album details
+! Peak positions
+|- style="font-size:smaller;"
+! width="65"| [[Top Country Albums|US Country]]
+|-
+! scope="row"| ''A Little Bit of Peggy''
+| 
+* Release date: 1969
+* Label: [[Dot Records]]
+| 22
+|-
+! scope="row"| ''More Than a Little''
+| 
+* Release date: 1971
+* Label: Dot Records
+| —
+|-
+| colspan="3" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2"| Year
+! rowspan="2" style="width:22em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| 1966
+! scope="row"| "Her Hurt Upon My Hands"
+| —
+| —
+| rowspan="3" {{n/a}}
+|-
+| rowspan="2"| 1968
+! scope="row"| "Beautiful World"
+| —
+| —
+|-
+! scope="row"| "What Makes a Happy Woman Cry"
+| —
+| —
+|-
+| rowspan="4"| 1969
+! scope="row"| "[[Son of a Preacher Man]]"
+| 40
+| —
+| rowspan="2" align="left"| ''A Little Bit of Peggy''
+|-
+! scope="row"| "Sweet Baby Girl"
+| 43
+| —
+|-
+! scope="row"| "Put Your Lovin' Where Your Mouth Is"
+| 44
+| 38
+| align="left"| ''More Than a Little''
+|-
+! scope="row"| "Son of a Preacher Man" {{small|(re-release)}}
+| —
+| —
+| align="left"| ''A Little Bit of Peggy''
+|-
+| rowspan="4"| 1970
+! scope="row"| "Mama, I Won't Be Wearing a Ring"
+| 37
+| —
+| align="left"| ''More Than a Little''
+|-
+! scope="row"| "[[Good Day Sunshine]]" {{small|(with [[Tommy Overstreet]])}}<ref>{{cite magazine|url=https://worldradiohistory.com/Archive-All-Music/Billboard/70s/1970/Billboard%201970-05-30.pdf|title=Spotlight Singles|page=84|magazine=Billboard|date=May 30, 1970}}</ref>
+| —
+| —
+| {{n/a}}
+|-
+! scope="row"| "I Knew You'd Be Leaving"
+| 59
+| —
+| align="left"| ''More Than a Little''
+|-
+! scope="row"| "My Santa in Tennis Shoes"
+| —
+| —
+| rowspan="8" {{n/a}}
+|-
+| rowspan="3"| 1971
+! scope="row"| "I've Got to Have You"
+| 75
+| —
+|-
+! scope="row"| "He Goes Walking Through My Mind"
+| —
+| —
+|-
+! scope="row"| "Little Henry Hurt"
+| —
+| —
+|-
+| 1972
+! scope="row"| "Little Golden Band"
+| —
+| —
+|-
+| rowspan="2"| 1973
+! scope="row"| "Listen, Spot"
+| 70
+| —
+|-
+! scope="row"| "Sugarman"
+| 37
+| —
+|-
+| 1974
+! scope="row"| "Just for You"
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Little, Peggy}}
+[[Category:1942 births]]
+[[Category:American country singer-songwriters]]
+[[Category:American women country singers]]
+[[Category:Dot Records artists]]
+[[Category:Epic Records artists]]
+[[Category:Musicians from Waco, Texas]]
+[[Category:Living people]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:Country musicians from Texas]]
+[[Category:21st-century American women]]

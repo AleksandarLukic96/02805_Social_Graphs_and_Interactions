@@ -1,0 +1,69 @@
+{{Infobox musical artist
+| name            = Stealing Angels
+| image           = StealingAngels.jpg
+| caption         = Stealing Angels live in Fresno, Oct. 10, 2010
+| origin          = [[Nashville, Tennessee]]
+| genre           = [[Country music|Country]]
+| years_active    = 2007-2012
+| label           = Skyville
+| spinoffs = [[Runaway June]]
+| past_members    = Caroline Cutbirth<br />Tayla Lynn<br />Jennifer Wayne
+}} 
+'''Stealing Angels''' was an American [[country music|country]] trio, composed of Caroline Cutbirth, Tayla Lynn, and Jennifer Wayne. Their debut single, "He Better Be Dead," was released to radio on July 12, 2010, and debuted at number 59 on the U.S. ''Billboard'' Hot Country Songs chart. It was released via Skyville Records, a label owned by record producers [[Paul Worley]] and [[Wally Wilson]].<ref>{{cite web|url=http://www.theboot.com/2010/07/02/paul-worley-skyville-records-stealing-angels|title=Paul Worley Forms Skyville Records, Debuts Stealing Angels|last=Horner|first=Marianne|date=2 July 2010|work=The Boot|accessdate=8 October 2010}}</ref>
+
+==History==
+Stealing Angels was founded in 2007 when Caroline Cutbirth, Tayla Lynn, and Jennifer Wayne were recruited for a reality show titled ''All in the Genes'', which would focus on the ups and downs of the descendants of famous relatives; Cutbirth is a descendant of [[Daniel Boone]],<ref>{{cite web|url=http://www.pe.com/localnews/sbcounty/stories/PE_News_Local_N_ncalico08.2cfbf62.html|title=Stealing Angels' legacy of talent headlines Calico Days|last=Kreutzer|first=Robert|date=7 October 2010|work=The Press-Enterprise|accessdate=8 October 2010}}</ref> Jennifer Wayne is [[John Wayne]]'s granddaughter, and Tayla Lynn is the granddaughter of [[Loretta Lynn]].<ref>{{Cite web|url=http://stealingangels.com|title=Stealingangels.com|accessdate=2010-10-07}}</ref> Wayne was a [[tennis]] player in her childhood, and was signed to a label founded by [[Merv Griffin]], but this deal was canceled after Griffin's 2007 death.<ref name="weekly">{{cite journal|last=Phillips|first=Jessica|date=11 October 2010|title=Who's New: Stealing Angels|journal=[[Country Weekly]]|volume=17|issue=41|page=20|issn=1074-3235}}</ref> She met Cutbirth in [[Nashville, Tennessee]], in 2007, and the two later met Lynn when the three were asked to participate in a [[reality television]] show focusing on the three girls' ancestry. Although the show was never produced, the three began performing together and named themselves Stealing Angels.<ref name="weekly"/>
+
+Stealing Angels signed to Skyville Records, a label founded by record producer [[Paul Worley]]. The trio's debut single, "He Better Be Dead", debuted at number 59 on the U.S. ''Billboard'' Hot Country Songs chart for the week of July 17, 2010,<ref>{{cite web|url=http://www.cmt.com/news/hot-dish/1644337/hot-dish-jaron-and-the-long-road-to-loves-country-music-journey.jhtml|archive-url=https://web.archive.org/web/20100728132633/http://www.cmt.com/news/hot-dish/1644337/hot-dish-jaron-and-the-long-road-to-loves-country-music-journey.jhtml|url-status=dead|archive-date=July 28, 2010|title=HOT DISH: Jaron and the Long Road to Love's Country Music Journey|last=Smith|first=Hazel|date=26 July 2010|work=[[Country Music Television|CMT]]|accessdate=7 October 2010}}</ref> and reached a peak of number 48 on the chart. Lynn told ''[[Country Weekly]]'' that the song idea came from a conversation she was having about her boyfriend.<ref name="weekly"/> The trio's second single, "Paper Heart," was released in May 2011 and reached a peak of number 59 after two weeks on the chart. "Little Blue Sky" was released as their third single in November 2011, though it failed to chart.
+
+In their ''[[The Amazing Race 22|Amazing Race]]'' cast interview, both Jennifer Wayne and Caroline Cutbirth confirmed that the band had parted ways. Wayne founded a new group called [[Runaway June]] in 2016.<ref>{{Cite web|url=http://tasteofcountry.com/runaway-june-lipstick/|title=Runaway June, 'Lipstick' &#91;Listen&#93;}}</ref>
+
+==Discography==
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:12em;"| Single
+! colspan="1"| Peak positions
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]
+|-
+| 2010
+! scope="row"| "He Better Be Dead"
+| 48
+|- 
+| rowspan="2"| 2011
+! scope="row"| "Paper Heart"
+| 59
+|-
+! scope="row"| "Little Blue Sky"
+| —
+|-
+|}
+
+=== Music videos ===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;"| Video
+! Director
+|-
+| 2010
+! scope="row"| "He Better Be Dead"<ref>{{cite web|url=http://www.cmt.com/videos/stealing-angels/582646/he-better-be-dead.jhtml|archive-url=https://web.archive.org/web/20101016015202/http://www.cmt.com/videos/stealing-angels/582646/he-better-be-dead.jhtml|url-status=dead|archive-date=October 16, 2010|title=CMT : Videos : Stealing Angels: He Better Be Dead|publisher=[[Country Music Television]]|accessdate=April 19, 2011}}</ref>
+| Mark Nicolosi 
+|-
+| 2011
+! scope="row"| "Paper Heart"<ref>{{cite web|url=http://www.cmt.com/videos/stealing-angels/644008/paper-heart.jhtml|archive-url=https://web.archive.org/web/20110424083244/http://www.cmt.com/videos/stealing-angels/644008/paper-heart.jhtml|url-status=dead|archive-date=April 24, 2011|title=CMT : Videos : Stealing Angels: Paper Heart|publisher=[[Country Music Television]]|accessdate=April 19, 2011}}</ref>
+| Travis Nicholson 
+|-
+|}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+[[Category:Country music groups from Tennessee]]
+[[Category:American musical trios]]
+[[Category:Musical groups established in 2007]]
+[[Category:Musical groups disestablished in 2012]]
+[[Category:Musical groups from Nashville, Tennessee]]

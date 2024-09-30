@@ -1,0 +1,248 @@
+{{short description|American singer-songwriter}}
+
+{{Infobox musical artist
+| name              = Elton Britt
+| image             = Elton Britt 1950.JPG
+| caption           = Britt in March 1950
+| image_size        = 
+| background        = solo_singer
+| birth_name        = James Elton Baker
+| alias             = 
+| birth_date        = {{birth date|1913|06|27}}
+| birth_place       = [[Marshall, Arkansas]], U.S.
+| death_date        = {{death date and age|1972|06|22|1913|06|27}}
+| death_place       = [[McConnellsburg, Pennsylvania]], U.S.
+| instrument        = Guitar
+| genre             = [[Country]]
+| occupation        = {{hlist|Singer|songwriter|musician}}
+| years_active      = 1942–1970
+}}
+[[File:ListenToTheMockingBird.gif|thumb|"Listen to the Mocking Bird" record label]]
+'''Elton Britt''' (born '''James Elton Baker'''; June 27, 1913 &ndash; June 22, 1972)<ref name="AMG">{{Cite web|url=https://www.allmusic.com/artist/elton-britt-mn0000176830/biography|title=Elton Britt &#124; Biography & History|website=[[AllMusic]]|accessdate=August 4, 2021}}</ref> was an American [[country music]] singer, songwriter, and musician, who was best known for his western ballads and yodelling songs.
+
+==Biography==
+Britt was born on a farm near [[Marshall, Arkansas]].<ref name="LarkinCountry">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Who's Who of Country Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1993|edition=First|isbn=0-85112-726-6|page=48/9}}</ref> His father was James Baker, and he had two younger sisters, Gretta Sanders and Druse Baker, and a younger brother Arl Baker.
+
+Britt was born incredibly sick, and therefore wasn’t named until he was over a year old. James after his father and Elton after the man who looked after his health as a baby. Because of his poor health, Britt was allegedly spoiled copiously as a baby and was given the nickname “cute.”
+
+Britt started playing guitar aged 10, most likely inspired by his family who were all also had an interest in music, and eventually Britt would discover Jimmie Rodgers, which inspired him to learn to yodel, which he learned to do exceptionally well, his breath control being so good that he could often hold his breath for minutes at a time underwater. 
+
+Britt’s career kickstarted in 1930 when Britt was hired to replace Hugh Ashley (or Hobart Walton) in singing group The Beverly Hill Billies. 
+Britt came up with his stage name after someone hired at The Beverly Hill Billies production company said that James Baker didn’t sound “hill-billy enough.”
+
+
+
+Britt recorded over 600 sides and 60 albums for [[RCA Victor]] and other labels in more than a 30-year span, and is best known for such hit songs (several of which he wrote or co-wrote) as "[[Someday (You'll Want Me to Want You)]]", "[[Detour (song)|Detour]]", "Chime Bells", "Maybe I'll Cry Over You", "Pinto Pal", and the million-selling wartime hit "[[There's a Star-Spangled Banner Waving Somewhere]]".<ref name="LarkinCountry"/> The recording had sold a million discs by 1944 and it was awarded a [[music recording sales certification|gold disc]] by the [[Recording Industry Association of America|RIAA]].<ref name="The Book of Golden Discs">{{cite book
+| first= Joseph
+| last= Murrells
+| year= 1978
+| title= The Book of Golden Discs
+| edition= 2nd
+| publisher= Barrie and Jenkins Ltd
+| location= London
+| page= [https://archive.org/details/bookofgoldendisc00murr/page/27 27]
+| isbn= 0-214-20512-6
+| url-access= registration
+| url= https://archive.org/details/bookofgoldendisc00murr/page/27
+}}</ref> Britt became the first country artist to be awarded a gold disc.<ref name="LarkinCountry"/>
+He would also partner with fellow yodeller and country singer, Rosalie Allen, going on to record multiple songs and albums together.
+
+A singer, bandleader, radio and television performer, songwriter and yodeler, he starred in at least two films in the late 1940s, and had hit records as late as 1968 with "The Jimmie Rodgers Blues".<ref name="LarkinCountry"/> In [[1960 United States presidential election|1960]], as part of a publicity stunt, Britt briefly ran for the [[Democratic Party (United States)|Democratic]] [[1960 Democratic Party presidential primaries|presidential nomination]], <ref name="auto">{{Cite web|url=https://www.arkansasonline.com/news/2016/may/15/elton-britt-s-big-break-20160515/|title=Elton Britt's big break|date=15 May 2016|website=Arkansasonline.com|access-date=August 4, 2021}}</ref>, something many believe was a stunt pulled by his then-manager, Aubrey Mayhew. 
+Britt would take frequent but temporary retirements, during one of which he briefly made a career mining [[uranium]] in Western America, leading his then wife, Penny to write Uranium Fever which he would go on to sing.  
+
+On June 22, 1972, five days before his 59th birthday, Britt suffered a heart attack while driving his car and died in a [[McConnellsburg, Pennsylvania]], hospital the next day.<ref name="auto"/> He was buried in the Odd Fellows Cemetery in [[Broad Top, Pennsylvania]].
+
+==In popular culture==
+His song "Uranium Fever" is featured in the ''[[Bethesda Softworks]]'' video game ''[[Fallout 4]]'' on the in-game radio; "Diamond City Radio."<ref>{{Cite web|url=https://gameranx.com/features/id/31595/article/fallout-4-s-diamond-city-radio-playlist/|title=The Full Diamond City Radio Playlist From Fallout 4|first=Carlos|last=Chism|website=Gameranx.com|date=10 November 2015|access-date=4 August 2021}}</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable"
+|-
+! Year
+! Album
+! <small>[[Top Country Albums|US Country]]</small><br><ref name=BillboardCharts>{{BillboardURLbyName|artist=Elton Britt|chart=all}}</ref>
+! Label
+|-
+| 1956
+| ''Yodel Songs''
+| 
+| RCA Victor
+|-
+| 1959
+| ''The Wandering Cowboy''
+| 
+| rowspan="3"| ABC
+|-
+| rowspan="2"| 1960
+| ''Beyond the Sunset''
+| 
+|-
+| ''I Heard a Forest Praying''
+| 
+|-
+| 1963
+| ''The Best 1''
+| 
+| RCA Victor
+|-
+| 1965
+| ''Singing Hills''
+| 
+| rowspan="2"| ABC
+|-
+| 1966
+| ''Somethin' for Everyone''
+| style="text-align:center;"| 31
+|-
+| 1968
+| ''The Jimmie Rodgers Blues''
+| 
+| [[RCA Camden]]
+|-
+| 1970
+| ''Sings Modern Country''
+| 
+| Certron
+|-
+| rowspan="2"| 1972
+| ''The Best 2''
+| 
+| RCA Victor
+|-
+| ''16 Great Country Performances''
+| 
+| ABC
+|-
+| 1983
+| ''Days of the Yodeling Cowboys''
+| 
+| rowspan="3"| Cowgirlboy
+|-
+| 1984
+| ''More Days of the Yodeling Cowboys''
+| 
+|-
+| 1986
+| ''Star Spangled Stardust''
+| 
+|}
+
+===Singles===
+{| class="wikitable"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="2"| Chart Positions
+|-
+! style="width:50px;"| <small>[[Hot Country Songs|US Country]]</small>
+! style="width:50px;"| <small>[[Billboard Hot 100|US]]</small>
+|-
+| 1942
+| "[[There's a Star-Spangled Banner Waving Somewhere]]"
+| style="text-align:center;"| 
+| style="text-align:center;"| 7
+|-
+| 1945
+| "I'm a Convict with Old Glory in My Heart"
+| style="text-align:center;"| 7
+| 
+|-
+| rowspan="6"| 1946
+| "[[Someday (You'll Want Me to Want You)]]"
+| style="text-align:center;"| 2
+| 
+|-
+| "Wave to Me, My Lady"
+| style="text-align:center;"| 3
+| style="text-align:center;"| 19
+|-
+| "Blueberry Lane"
+| style="text-align:center;"| 4
+| 
+|-
+| "[[Detour (song)|Detour]]"
+| style="text-align:center;"| 5
+| 
+|-
+| "Blue Texas Moonlight" <small>(w/ The Skytoppers)</small>
+| style="text-align:center;"| 6
+| 
+|-
+| "Gotta Get Together with My Gal"
+| style="text-align:center;"| 4
+| 
+|-
+| 1947
+| "[[Blue Eyes Crying in the Rain]]" <small>(w / The Skytoppers)</small>
+|
+|
+|-
+| 1948
+| "Bells" <small>(w/ The Skytoppers)</small>
+| style="text-align:center;"| 6
+| 
+|-
+| 1949
+| "[[Candy Kisses (George Morgan song)|Candy Kisses]]" <small>(w/ The Skytoppers)</small>
+| style="text-align:center;"| 4
+| 
+|-
+| rowspan="2"| 1950
+| "[[Beyond the Sunset (Hank Williams song)|Beyond the Sunset]]" <small>(w/ The Three Suns & [[Rosalie Allen]])</small>
+| style="text-align:center;"| 7
+| 
+|-
+| "[[Quicksilver (song)|Quicksilver]]" <small>(w/ Rosalie Allen)</small>
+| style="text-align:center;"| 3
+| 
+|-
+| 1952
+| "The Rovin' Gambler"<ref>{{cite web|url=https://www.youtube.com/watch?v=cgNPINoL7ls  |archive-url=https://ghostarchive.org/varchive/youtube/20211221/cgNPINoL7ls |archive-date=2021-12-21 |url-status=live|title=Elton Britt - The Rovin' Gambler (1952). |publisher=[[YouTube]] |date= |access-date=2015-08-27}}{{cbignore}}</ref>
+| style="text-align:center;"| 
+| 
+|-
+| 1956
+| "Cannonball Yodel"
+| style="text-align:center;"| -
+| 
+|-
+| 1966
+| "Homesweet Homesick Blues"
+| style="text-align:center;"| -
+|
+|-
+| 1968
+| "The Jimmie Rodgers Blues"
+| style="text-align:center;"| 26<ref name=BillboardCharts/>
+| 
+|-
+| 1969
+| "The Bitter Taste"
+| style="text-align:center;"| 71<ref name=BillboardCharts/>
+| 
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{AllMusic}}
+* {{Discogs artist}}
+* {{IMDb name}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Britt, Elton}}
+[[Category:1913 births]]
+[[Category:1972 deaths]]
+[[Category:American country singer-songwriters]]
+[[Category:Singer-songwriters from Arkansas]]
+[[Category:People from Searcy County, Arkansas]]
+[[Category:RCA Victor artists]]
+[[Category:Yodelers]]
+[[Category:Place of death missing]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:Country musicians from Arkansas]]
+[[Category:Bluebird Records artists]]
+[[Category:ABC Records artists]]

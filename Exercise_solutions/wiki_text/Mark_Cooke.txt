@@ -1,0 +1,92 @@
+{{short description|American singer-songwriter}}
+
+{{Infobox musical artist
+| name        = Mark Cooke
+| image       =
+| birth_place =
+| birth_date  = January 11 <ref>[https://twitter.com/MarkCookeMusic/status/24814844871966720 Twitter update]</ref>
+| origin      = [[Longview, Texas]], United States
+| instrument  = Vocals, Guitar
+| genre       = [[Country music|Country]]
+| occupation  = Singer
+| label       = CVR
+| website     = http://www.markcooke.com
+}}
+
+'''Mark Cooke''' (born January 11) is an American country music singer from East Texas. His debut single, "Can't Cheat In A Small Town," was released in early 2011. It was followed by the release of his debut EP, ''Living For The Weekend'', on September 28, 2011.
+
+==Early life and career==
+Cooke always dreamed of becoming a country musician. But when he graduated high school, he chose to join the [[United States Navy]]. While at sea and around the world, Cooke worked on his vocal and writing skills. After he had fulfilled his duty with the Navy, he began his musical career.<ref>{{Cite web |url=http://markcooke.com/bio.asp |title=Mark Cooke - official website |access-date=2011-04-07 |archive-url=https://web.archive.org/web/20110224021535/http://www.markcooke.com/bio.asp |archive-date=2011-02-24 |url-status=dead }}</ref>
+
+Cooke later started the Cooke County Line band with future brother in law Joe Rodriquez. The seven-piece band played across Central Texas and neighboring states. During this period, Cooke opened for or played with many veteran acts including John Rich, George Jones, Miranda Lambert, Tracy Lawrence, Chris Cagle, Little Jimmy Dickens, Whispering Bill Anderson, David Lee Murphy, David Allan Coe, Robert Earl Keen, Ray Wiley Hubbard, Charlie Robison, Ty Herndon, Linda Davis and more. Eventually, he moved to Nashville to launch his solo career.<ref>{{Cite web |url=http://markcooke.com/bio.asp |title=Mark Cooke - official website |access-date=2011-04-07 |archive-url=https://web.archive.org/web/20110224021535/http://www.markcooke.com/bio.asp |archive-date=2011-02-24 |url-status=dead }}</ref>
+
+==Musical career==
+In 2010, Mark Cooke was signed by Nashville record label CVR run by veteran producers J Gary Smith and John Smith.<ref>{{cite web|url=http://cvrmusic.com/about.asp |title=Archived copy |accessdate=2011-04-07 |url-status=dead |archiveurl=https://web.archive.org/web/20110814045056/http://cvrmusic.com/about.asp |archivedate=2011-08-14 }}</ref> Cooke's debut single "Can't Cheat In A Small Town" was on  the ''[[Billboard (magazine)|Billboard]]'' Indicator chart in early 2011 and the music video was featured on CMT Pure.<ref>{{cite web|url=http://www.urbancountryblog.com/2011/01/mark-cooke-releases-new-video-for-cant.html |title=UCB: Mark Cooke Releases New Video for 'Can't Cheat in a Small Town' |accessdate=2011-04-07 |url-status=dead |archiveurl=https://web.archive.org/web/20110205234730/http://www.urbancountryblog.com/2011/01/mark-cooke-releases-new-video-for-cant.html |archivedate=2011-02-05 }}</ref>
+
+Cooke's second single "I Love It" was released and hit the radio March 14, 2011 and is from his debut EP "Living For The Weekend." His current single "Any Way The Wind Blows" is now on the radio.<ref>{{Cite web |url=http://markcooke.com/newsdetail.asp?NewsID=131 |title=Archived copy |access-date=2011-10-06 |archive-url=https://web.archive.org/web/20110928063712/http://www.markcooke.com/newsdetail.asp?NewsID=131 |archive-date=2011-09-28 |url-status=dead }}</ref><ref>{{Cite web |url=http://markcooke.com/newsdetail.asp?NewsID=59 |title=Archived copy |access-date=2011-04-07 |archive-url=https://web.archive.org/web/20110820163024/http://markcooke.com/newsdetail.asp?NewsID=59 |archive-date=2011-08-20 |url-status=dead }}</ref>
+
+==Discography==
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:14em;"| Title
+! style="width:20em;"| Details
+|-
+! scope="row"| ''Living for the Weekend''
+| 
+* Release date: September 23, 2011
+* Label: CVR
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:16em;"| Single
+! Album
+|-
+| rowspan="3"| 2011
+! scope="row"| "Can't Cheat in a Small Town"
+| rowspan="4"| ''Living for the Weekend''
+|-
+! scope="row"| "I Love It"
+|-
+! scope="row"| "Any Way the Wind Blows"
+|-
+| 2012
+! scope="row"| "Stay with Me Tonight"
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:16em;"| Video
+! Director
+|-
+| 2010
+! scope="row"| "Can't Cheat in a Small Town"<ref>{{cite web|url=http://www.cmt.com/videos/mark-cooke/607165/cant-cheat-in-a-small-town.jhtml|archive-url=https://web.archive.org/web/20110110064718/http://www.cmt.com/videos/mark-cooke/607165/cant-cheat-in-a-small-town.jhtml|url-status=dead|archive-date=January 10, 2011|title=CMT : Videos : Mark Cooke : Can't Cheat in a Small Town|publisher=[[Country Music Television]]|accessdate=April 10, 2011}}</ref>
+| Carelton Holt
+|-
+| 2013
+! scope="row"| "Stay with Me Tonight"<ref>{{cite web|url=http://www.cmt.com/videos/mark-cooke/899934/stay-with-me-tonight.jhtml|archive-url=https://web.archive.org/web/20160305040320/http://www.cmt.com/videos/mark-cooke/899934/stay-with-me-tonight.jhtml|url-status=dead|archive-date=March 5, 2016|title=CMT : Videos : Mark Cooke : Stay With Me Tonight|publisher=[[Country Music Television]]|accessdate=May 4, 2013}}</ref>
+| Yeah Yeah Creative
+|-
+|}
+
+== References ==
+<!--- See [[Wikipedia:Footnotes]] on how to create references using <ref></ref> tags which will then appear here automatically -->
+{{Reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Cooke, Mark}}
+[[Category:American country singer-songwriters]]
+[[Category:People from Longview, Texas]]
+[[Category:American male singer-songwriters]]
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:Country musicians from Texas]]

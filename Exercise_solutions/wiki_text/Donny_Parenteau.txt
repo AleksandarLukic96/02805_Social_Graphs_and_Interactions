@@ -1,0 +1,601 @@
+{{Short description|Canadian musician}}
+{{Use mdy dates|date=November 2021}}
+{{Use Canadian English|date=November 2021}}
+{{Infobox musical artist
+| name             = Donny Parenteau
+| image            = 
+| alt              = 
+| caption          = 
+| image_size       = 
+| birth_name       = 
+| alias            = 
+| birth_date       = 
+| birth_place      = [[Prince Albert, Saskatchewan]]
+| origin           = 
+| death_date       = <!-- {{death date and age|df=yes|YYYY|MM|DD|YYYY|MM|DD}} (death date 1st) -->
+| death_place      = 
+| genre            = {{flatlist|
+*[[Country music|Country]]
+*[[Western swing]]<ref name=calledbycountry>{{Cite web|url=https://www.saskmusic.org/news/cover-artists/view,artist/249/donny-parenteau|first=Lorena|last=Kelly|title=Donny Parenteau: Called by Country|publisher=Sask Music|accessdate=14 April 2020}}</ref>
+}}
+| occupation       = {{flatlist|
+*Musician
+*singer-songwriter
+*record producer
+}}
+| instrument       = {{flatlist|
+*[[Fiddle]]
+*acoustic guitar
+*electric guitar
+*[[mandolin]]
+*[[electric mandolin]]
+*double neck guitar and mandocaster<ref name=calledbycountry/>
+}}
+| years_active     = 1991–present
+| label            = Independent, 306 Records/[[EMI Music Canada]]
+| associated_acts  = {{flatlist|
+*[[Neal McCoy]]
+*[[Brad Johner]]
+*[[Sierra Noble]]
+}}
+| website          = http://www.donnyparenteaumusic.com
+}}
+
+'''Donny Parenteau''' (born in [[Prince Albert, Saskatchewan]]) is singer-songwriter, multi-instrumentalist, and record producer.  He is best for known his solo career and his work as fiddle player, guitarist, and mandolin player for country music singer [[Neal McCoy]].  In February 2011, Parenteau signed with the record label 306 Records/[[EMI Music Canada]] to help distribute his albums.<ref>{{Cite web|url = http://cashboxcanada.ca/donny-parenteau-signs-%E2%80%9C360-recordsemi-0|title = Donny Parenteau signs with "360 Records/EMI|publisher = CashBoxCanada.ca|date = 18 February 2011|accessdate = 12 March 2011}}</ref>
+
+==Early life==
+At 14, Parenteau took up the fiddle.  After mastering the fiddle, he picked up other instruments like the guitar (both acoustic and electric) and the mandolin (both acoustic and electric).  Parenteau cites some of his influences as Bryan Sklar,<ref name=calledbycountry/> Freddie Pelltier,<ref name=calledbycountry/> and George Pistun<ref name=calledbycountry/>
+
+==Career==
+After picking up the violin at a young age, by 19 he was playing professionally.<ref name=calledbycountry/> In 1991, Parenteau was playing in [[Edmonton|Edmonton, Alberta]] and was invited to a show by Neal McCoy who was also playing in Edmonton.<ref name=calledbycountry/> Upon talking with McCoy, Parenteau discovered they had similar taste in music.<ref name=calledbycountry/> McCoy was looking for a fiddle player, but didn't have the money to hire one.  Parenteau wanted the chance to audition and would not let up until he got the chance to audition.  Parenteau listened to the group [[Jam session|jamming]] and had a grasp of what they were playing.  It was that song he would use as the audition piece.<ref name=calledbycountry/> During his time touring with McCoy, Parenteau got to open for such artists as [[Merle Haggard]],<ref name=calledbycountry/> [[Tim McGraw]],<ref name=calledbycountry/> [[Faith Hill]],<ref name=calledbycountry/> [[Buck Owens]],<ref name=calledbycountry/> [[George Jones]],<ref name=calledbycountry/> [[Charlie Pride]],<ref name=calledbycountry/> [[Loretta Lynn]],<ref name=calledbycountry/> [[Charlie Daniels]],<ref name=calledbycountry/> [[Hank Williams, Jr.]],<ref name=calledbycountry/> [[Reba McEntire]],<ref name=calledbycountry/> [[Garth Brooks]],<ref name=calledbycountry/> and [[Shania Twain]].<ref name=calledbycountry/> Parenteau also graced the [[Grand Ole Opry]] stage.<ref name=calledbycountry/> Parenteau was the only member of the live band that was also on the recordings.<ref name=calledbycountry/> After performing with Neal McCoy for 12 years and playing 250–300 shows a year, Parenteau returned to Prince Albert to embark on a solo career.<ref name=calledbycountry/>
+
+==Charity work==
+Parenteau has done a number of humanitarian and charity work.  In 2001 SCMA International Humanitarian Award for his efforts.  He also appears on [[Telemiracle]] starting on the 32nd edition of the telethon.  Parenteau co-wrote the current Telemiracle opening theme song with [[Brad Johner]] entitled "You are the Miracle".  It became the theme in 2011.  He also embarks on a tour of elementary schools in Saskatchewan each year as a motivational speaker in which he spreads his message of anti-bullying.
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center"
+|-
+!scope="col" rowspan="1" style="width:24em;"|Title
+!scope="col" rowspan="1" style="width:19em;"|Album details
+|-
+! scope="row"| ''What It Takes''
+|
+*Release date: 9 October 2006
+*Label: Icon
+*Format: [[Compact disc|CD]], [[Music download|digital download]]
+|-
+! scope="row"| ''To Whom It May Concern''
+|
+*Released: 11 January 2011
+*Label: Phantom
+*Format: CD, digital download
+|-
+! scope="row"| ''Bring It On''
+|
+*Released: 2012<br/> *Re-released: 2021
+*Label: On Ramp
+*Format: Digital download, [[Streaming media|streaming]]
+|}
+
+===Collaborations===
+{| class="wikitable plainrowheaders" style="text-align:center"
+|-
+!scope="col" rowspan="1" style="width:24em;"|Title
+!scope="col" rowspan="1" style="width:19em;"|Album details
+|-
+! scope="row"| ''Fiddle Frenzy''<br/> {{small|(Brian Sklar and Donny Parenteau)}}
+|
+*Released: 2014
+*Label: Self-released
+*Format: CD
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="1" style="width:20em;" | Title
+! rowspan="1" style="width:1em;" | Year
+! rowspan="1" style="width:10em;" | Album
+|-
+! scope="row"| "Father Time"
+| rowspan=2| 2009
+| ''What It Takes''
+|-
+! scope="row"| "I Love Christmas"
+| {{n/a|Non-album single}}
+|-
+! scope="row"| "Postmarked Heaven"
+| rowspan=3| 2010
+| rowspan=2| ''What It Takes''
+|-
+! scope="row"| "Belly Up"
+|-
+! scope="row"| "My Girl"
+| rowspan=4| ''To Whom It May Concern''
+|-
+! scope="row"| ''Turn It Up''
+| rowspan=4| 2011
+|-
+! scope="row"| "My Dirt"
+|-
+! scope="row"| "To Whom It May Concern"
+|-
+! scope="row"| "Watching Over Me"
+| {{n/a|Non-album single}}
+|-
+! scope="row"| "Can't Afford to Love You"
+| rowspan=3| 2012
+| rowspan=3|''Bring It On''
+|-
+! scope="row"| "Sun Shower"
+|-
+! scope="row"| "Honey It's Broke"
+|-
+! scope="row"| "Never Came Down Again"
+| rowspan=2| 2020
+| rowspan=4 {{n/a|Non-album singles}}
+|-
+! scope="row"| "Bring It On"<br/> {{small|(featuring [[Brad Johner]])}}
+|-
+! scope="row"| "Snow White"<br/> {{small|(featuring [[Kenny Shields]])}}
+| rowspan=2| 2021
+|-
+! scope="row"| "These Day's"
+|-
+! scope="row"| "Time off for Bad Behavior
+| rowspan=2| 2022
+|-
+! scope="row"| "Roll On"
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+!scope="col" style="width:18em;"|Title
+!scope="col" style="width:3em;"|Year
+!scope="col" style="width:18em;"|Album
+|-
+! scope="row"| "Belly Up"
+| rowspan=2|2010
+| ''What It Takes''
+|-
+! scope="row"| "My Girl"
+| ''To Whom It May Concern''
+|-
+! scope="row"| "Imagine A World"<br/> {{small|(featuring Michele Dubois)}}
+| 2013
+| {{N/A}}
+|}
+
+==Awards and nominations==
+{{Infobox musician awards
+| name = Donny Parenteau
+| image = 
+| image_size = 
+| alt = 
+| caption = 
+| wins = 38
+| nominations = 84
+| award1 = Aboriginal People's Choice Music Awards
+| award1W = 0
+| award1N = 4
+| award2 = Canadian Aboriginal Music Awards
+| award2W = 7
+| award2N = 14
+| award3 = [[Canadian Country Music Association#CCMA Awards|Canadian Country Music Awards]]
+| award3W = 0
+| award3N = 4
+| award4 = [[Juno Awards]]
+| award4W = 0
+| award4N = 3
+| award5 = Saskatchewan Country Music Awards
+| award5W = 31
+| award5N = 54
+| award6 = [[Western Canadian Music Awards]]
+| award6W = 0
+| award6N = 2
+}}
+
+Parenteau has been nominated for a multitude of awards all across Canada picking up a number of them along the way.  In 2008, Parenteau was nominated for his country's highest honour by being nominated for a Juno Award.
+
+{| class="wikitable"
+|-
+! style="text-align:center;"|Year
+! style="text-align:center;"|Award
+! style="text-align:center;"|Nominated work
+! style="text-align:center;"|Category
+! style="text-align:center;"|Result
+! style="text-align:center;"|Ref
+|-
+|2001
+|rowspan=4| Saskatchewan Country Music Awards
+|Himself
+|International Humanitarian
+|{{won}}
+|<ref>{{Cite web|title = 2001 SCMA Award Winners|url = http://scma.sk.ca/past-awards/2001-scma-award-winners/|publisher=Saskatchewan Country Music Association|accessdate = 28 November 2015}}</ref>
+|-
+|2003
+|Fiddle
+|All-Star Band
+|{{won}}
+|<ref>{{Cite web|title = 2003 SCMA Awards Winners|url = http://scma.sk.ca/past-awards/2003-scma-awards-winners/|publisher=Saskatchewan Country Music Association|accessdate = 11 November 2015}}</ref>
+|-
+|rowspan="2"|2004
+|Himself
+|Aboriginal Artist of the Year
+|{{won}}
+|rowspan=2|<ref>{{Cite web|title = 2004 SCMA Award Winners|url = http://scma.sk.ca/past-awards/2004-scma-award-winners/|publisher=Saskatchewan Country Music Association|accessdate = 28 November 2015}}</ref>
+|-
+|Fiddle
+|All-Star Band
+|{{won}}
+|-
+|rowspan="3"|2005
+|Canadian Aboriginal Music Awards
+|"The Great Unknown"
+|Best Producer/Engineer
+|{{nom}}
+|<ref>{{Cite web|url = http://www.canab.com/mainpages/events/archive_files/music_awards/2005finalists.html|title = Music Awards- 2005 Category Finalists|publisher = Canadian Aboriginal Music Awards|accessdate = 12 March 2011|archive-url = https://web.archive.org/web/20110315202401/http://www.canab.com/mainpages/events/archive_files/music_awards/2005finalists.html|archive-date = 15 March 2011|url-status = dead}}</ref>
+|-
+|rowspan="2"|Saskatchewan Country Music Awards
+|Himself
+|Aboriginal Artist of the Year
+|{{won}}
+|rowspan=2|<ref>{{Cite web|title = 2005 SCMA Award Winners|url = http://scma.sk.ca/past-awards/2005-scma-award-winners/|publisher=Saskatchewan Country Music Association|accessdate = 28 November 2015}}</ref>
+|-
+|Fiddle
+|All-Star Band
+|{{won}}
+|-
+|rowspan="2"|2006
+|rowspan="2" |Saskatchewan Country Music Awards
+|Himself
+|Aboriginal Artist of the Year
+|{{won}}
+|rowspan=2|<ref>{{Cite web|title = 2006 SCMA Award Winners|url = http://scma.sk.ca/past-awards/2006-scma-award-winners/|publisher=Saskatchewan Country Music Association|accessdate = 28 November 2015}}</ref>
+|-
+|Fiddle
+|All-Star Band
+|{{won}}
+|-
+|rowspan="19"|2007
+|rowspan="6"|Canadian Aboriginal Music Awards
+|rowspan=2|''What it Takes''
+|Best Album of the Year
+|{{nom}}
+|-
+|Best Country Album
+|{{nom}}
+|-
+|"What It Takes"
+|Best Producer/Engineer
+|{{won}}
+|<ref>{{Cite web|url=http://www.canab.com/mainpages/events/archive_files/music_awards/2007winners.html#producer|title=Best Producer/Engineer|publisher=Canadian Aboriginal Music Awards|accessdate=12 March 2011|archive-url=https://web.archive.org/web/20110315181342/http://www.canab.com/mainpages/events/archive_files/music_awards/2007winners.html#producer#producer|archive-date=15 March 2011|url-status=dead}}</ref>
+|-
+|rowspan=2|"Father Time"
+|Best Song Single
+|{{won}}
+|<ref>{{Cite web|url=http://www.canab.com/mainpages/events/archive_files/music_awards/2007winners.html#songsingle|title=Best Song Single|publisher=Canadian Aboriginal Music Awards|accessdate=12 March 2011|archive-url=https://web.archive.org/web/20110315181342/http://www.canab.com/mainpages/events/archive_files/music_awards/2007winners.html#songsingle#songsingle|archive-date=15 March 2011|url-status=dead}}</ref>
+|-
+|rowspan=2|Best Songwriter
+|{{nom}}
+|-
+|"Postmarked Heaven"
+|{{nom}}
+|-
+|[[Canadian Country Music Awards#CCMA Awards|Canadian Country Music Awards]]
+|Himself
+|Chevy Truck Rising Star
+|{{nom}}
+|<ref>{{Cite web|url = http://www.nationtalk.ca/modules/news/article.php?storyid=2479|title = Canadian Country Music Awards Nominees Released|publisher = NationTalk.ca|date = 1 August 2007|accessdate = 12 March 2011}}</ref>
+|-
+|rowspan="10"|Saskatchewan Country Music Awards
+|''What It Takes''
+|Album of the Year
+|{{nom}}
+|rowspan=10|<ref>{{Cite web|title = 2007 SCMA Award Winners|url = http://scma.sk.ca/past-awards/2007-scma-award-winners/|publisher=Saskatchewan Country Music Association|accessdate = 28 November 2015}}</ref>
+|-
+|rowspan=4|Himself
+|Fans' Choice Entertainer of the Year
+|{{nom}}
+|-
+|Male Vocalist of the Year
+|{{nom}}
+|-
+|Aboriginal Artist of the Year
+|{{won}}
+|-
+|Record Producer of the Year<br/> {{small|(shared with Steve Fox)}}
+|{{won}}
+|-
+|Fiddle
+|rowspan=2|All-Star Band
+|{{won}}
+|-
+|Specialty
+|{{won}}
+|-
+|Donny Parenteau Band
+|Back Up Band
+|{{won}}
+|-
+|rowspan=2|"Country Calling Me"
+|Single of the Year
+|{{nom}}
+|-
+|Song of the Year
+|{{nom}}
+|-
+|rowspan="2"|[[Western Canadian Music Awards]]
+|rowspan=3|''What it Takes''
+|Outstanding Aboriginal Recording
+|{{nom}}
+|rowspan=2|<ref>{{Cite web|url=http://breakoutwest.ca/awards/previous-years/2007-awards/|title=2007 Awards Winners|publisher=Western Canadian Music Alliance, Inc.|accessdate=12 March 2011|url-status=dead|archiveurl=https://web.archive.org/web/20110315091612/http://breakoutwest.ca/awards/previous-years/2007-awards/|archivedate=15 March 2011|df=dmy-all}}</ref>
+|-
+|Outstanding Country Recording
+|{{nom}}
+|-
+|rowspan="14"|2008
+|[[Juno Awards of 2008|Juno Awards]]
+|Aboriginal Recording of the Year
+|{{nom}}
+|<ref name=JunoAwardsummary>{{Cite web|url = http://junoawards.ca/awards/?from-year=1970&to-year=2017&nomination-category=&wins-only=no&artist=Donny+Parenteau|title = Artist Summary – Donny Parenteau|publisher = [[Canadian Academy of Recording Arts and Sciences]]|accessdate = 12 March 2013}}</ref>
+|-
+|[[Canadian Country Music Association#CCMA Awards|Canadian Country Music Awards]]
+|Fiddle
+|All-Star Band
+|{{nom}}
+|<ref>{{Cite web |url=http://www.ccma.org/pdfs/07-30-08-nomineesformatted.pdf |title=2008 CCMA Awards Nominees |publisher=[[Canadian Country Music Association]] |date=30 July 2008 |accessdate=12 March 2011 |url-status=dead |archiveurl=https://web.archive.org/web/20110626215157/http://www.ccma.org/pdfs/07-30-08-nomineesformatted.pdf |archivedate=26 June 2011 |df=dmy }}</ref>
+|-
+|rowspan="10"|Saskatchewan Country Music Awards
+|rowspan=4|Himself
+|Aboriginal Artist of the Year
+|{{won}}
+|rowspan=10|<ref>{{Cite web|title = 2008 SCMA Award Winners|publisher=Saskatchewan Country Music Association|url = http://scma.sk.ca/past-awards/2008-scma-award-winners/|website = scma.sk.ca|accessdate = 28 November 2015}}</ref>
+|-
+|Fans' Choice Entertainer of the Year
+|{{won}}
+|-
+|Male Vocalist of the Year
+|{{won}}
+|-
+|Record Producer of the Year
+|{{nom}}
+|-
+|Fiddle
+|All-Star Band
+|{{won}}
+|-
+|Donny Parenteau Band
+|Back Up Band
+|{{won}}
+|-
+|rowspan=2|"Postmarked Heaven"
+|Single of the Year
+|{{won}}
+|-
+|Song of the Year
+|{{won}}
+|-
+|rowspan=2|"Father Time"
+|Single of the Year
+|{{nom}}
+|-
+|Song of the Year
+|{{nom}}
+|-
+|rowspan=2|Aboriginal People's Choice Music Awards
+|rowspan=2|''What It Takes''
+|Best Country CD
+|{{nom}}
+|
+|-
+|Best Album Cover Design
+|{{nom}}
+|
+|-
+|rowspan=2|2009
+|[[Canadian Country Music Association#CCMA Awards|Canadian Country Music Awards]]
+|Fiddle
+|All-Star Band
+|{{nom}}
+|<ref>{{Cite press release|title = 2009 CCMA Awards Nominees Listing|publisher = [[Canadian Country Music Association]]|date = 29 July 2009|url = http://www.ccma.org/press_release.cfm?PressReleaseID=0401J44C526080441|accessdate = 12 March 2011|url-status = dead|archiveurl = https://web.archive.org/web/20131112150701/http://www.ccma.org/press_release.cfm?PressReleaseID=0401J44C526080441|archivedate = 12 November 2013}}</ref>
+|-
+|rowspan=11|Saskatchewan Country Music Awards
+|rowspan=6|Himself
+|rowspan=3|Aboriginal Artist of the Year
+|{{won}}
+|<ref>{{Cite web|title = 2009 SCMA Award Winners|url = http://scma.sk.ca/past-awards/2009-scma-award-winners/|publisher=Saskatchewan Country Music Association|accessdate = 28 November 2015}}</ref>
+|-
+|2010
+|{{won}}
+|<ref>{{Cite web|title = 2010 SCMA Award Winners|url = http://scma.sk.ca/past-awards/2010-scma-award-winners/|publisher=Saskatchewan Country Music Association|accessdate = 2015-11-28}}</ref>
+|-
+|rowspan=18|2011
+|{{won}}
+|<ref name=2011SCMAs>{{Cite web|title = 2011 SCMA Winners|url = http://scma.sk.ca/past-awards/2011scma-winners-new/|publisher=Saskatchewan Country Music Association|accessdate = 2015-11-28}}</ref>
+|-
+|Fans' Choice Entertainer of the Year
+|{{nom}}
+|-
+|Male Vocalist of the Year
+|{{nom}}
+|-
+|Manager of the Year
+|{{nom}}
+|-
+|Fiddle
+|rowspan=2|All-Star Band
+|{{nom}}
+|-
+|Specialty
+|{{won}}
+|<ref name=2011SCMAs/>
+|-
+|rowspan=3|"My Girl"
+|Single of the Year
+|{{nom}}
+|-
+|Song of the Year
+|{{nom}}
+|-
+|Video of the Year
+|{{nom}}
+|-
+|rowspan="2"|Aboriginal People's Choice Awards
+|Himself
+|Aboriginal Male Entertainer of the Year
+|{{nom}}
+|<ref name=2011APCAnominees>{{Cite web|url = http://www.mbchamber.mb.ca/2011/08/nominees-announced-for-2011-aboriginal-peoples-choice-music-awards/|title = Nominees Announced For 2011 Aboriginal Peoples Choice Music Awards|publisher = Manitoba Chamber of Commerce|accessdate = 18 November 2011}}</ref><ref name=2011APCMAwinners>{{citation|url=http://aboriginalpeopleschoice.com/home/ |publisher=Aboriginal Peoples Choice Awards |title=2011 Aboriginal People's Choice Award winners |accessdate=4 December 2017 |url-status=dead |archiveurl=https://web.archive.org/web/20111209140244/http://aboriginalpeopleschoice.com/home/ |archivedate=9 December 2011 }}</ref>
+|-
+|rowspan="3"|''To Whom It May Concern''
+|Best Country CD
+|{{nom}}
+|<ref name=2011APCAnominees/><ref name=2011APCMAwinners/>
+|-
+|rowspan="7"|Canadian Aboriginal Music Awards
+|Best Album of the Year
+|{{nom}}
+|-
+|Best Country Album
+|{{won}}
+|<ref name=2011CAMAWwinners>{{Cite web|url = http://www.canab.com/mainpages/events/musicawards_files/2011/winners/|title = 2011 Canadian Aboriginal Music Awards Winners|publisher = Canadian Aboriginal Music Awards|accessdate = 29 February 2012}}</ref><ref name=2011CAMAWwinnersRPM>{{Cite web|url = http://rpm.fm/news/2011-canadian-aboriginal-music-award-winners/|title = 2011 Canadian Aboriginal Music Award Winners|publisher = RPM - Revolutions Per Minute|accessdate = 4 December 2017}}</ref>
+|-
+|rowspan="3"|Himself
+|Best Songwriter
+|{{won}}
+|<ref name=2011CAMAWwinners/><ref name=2011CAMAWwinnersRPM/>
+|-
+|Best Male Artist
+|{{won}}
+|<ref name=2011CAMAWwinners/><ref name=2011CAMAWwinnersRPM/>
+|-
+|Best Producer/Engineer<br/> {{small|(shared with Harry Stinson)}}
+|{{won}}
+|<ref name=2011CAMAWwinners/><ref name=2011CAMAWwinnersRPM/>
+|-
+|rowspan=2|"To Whom It May Concern"
+|Best Song Single
+|{{nom}}
+|-
+|Best Music Video
+|{{won}}
+|<ref name=2011CAMAWwinners/><ref name=2011CAMAWwinnersRPM/>
+|-
+|rowspan=2|2012
+|[[Juno Awards of 2012|Juno Awards]]
+|''To Whom It May Concern''
+|Aboriginal Recording of the Year
+|{{nom}}
+|<ref name=JunoAwardsummary/>
+|-
+|[[Canadian Country Music Association#CCMA Awards|Canadian Country Music Awards]]
+|Fiddle
+|All-Star Band
+|{{nom}}
+|<ref>{{Cite web|url=https://topcountry.ca/2012-ccma-awards-winners-list/|title=2012 CCMA Award Winners List|date=9 September 2012|publisher=TopCountry.ca|accessdate=28 November 2017}}</ref>
+|-
+|rowspan=10|2013
+|rowspan=9|Saskatchewan Country Music Awards
+|rowspan=4|Himself
+|Aboriginal Artist of the Year
+|{{won}}
+|<ref name=2013SCMAs>{{Cite web|title = 2013 SCMA Winners|url = http://scma.sk.ca/past-awards/2013-award-winners/|publisher=Saskatchewan Country Music Association|accessdate= 4 December 2017}}</ref>
+|-
+|Fans' Choice Entertainer of the Year
+|{{nom}}
+|-
+|Record Producer of the Year
+|{{nom}}
+|-
+|Country Music Person of the Year
+|{{nom}}
+|-
+|''Bring It On''
+|Album of the Year
+|{{won}}
+|<ref name=2013SCMAs/>
+|-
+|"Sunshower"
+|Song of the Year
+|{{nom}}
+|-
+|"Can't Afford to Love You"
+|Single of the Year
+|{{nom}}
+|-
+|Fiddle
+|rowspan=2|All-Star Band
+|{{won}}
+|<ref name=2013SCMAs/>
+|-
+|Specialty
+|{{won}}
+|<ref name=2013SCMAs/>
+|-
+|[[Juno Awards of 2013|Juno Awards]]
+|''Bring It On''
+|Aboriginal Recording of the Year
+|{{nom}}
+|<ref name=JunoAwardsummary/>
+|-
+|2014
+|rowspan=5|Saskatchewan Country Music Awards
+|Fiddle
+|rowspan=3|All-Star Band
+|{{won}}
+|<ref>{{Cite web|title = 2014 SCMA Award Winners|url = http://scma.sk.ca/past-awards/2014-scma-award-winners/|publisher=Saskatchewan Country Music Association|accessdate = 4 December 2017}}</ref>
+|-
+|rowspan=2|2017
+|Fiddle
+|{{nom}}
+|rowspan=2|<ref>{{Cite web|title = 2017 SCMA Award Nominees|url = http://scma.sk.ca/awards/2017-scma-nominees/|publisher=Saskatchewan Country Music Association|accessdate = 4 December 2017}}</ref>
+|-
+|Specialty
+|{{nom}}
+|-
+|2020
+|rowspan=2|Himself
+|Legends and Legacy Award
+|{{won}}
+|<ref>{{Cite news|url=https://paherald.sk.ca/2020/05/18/donny-parenteau-awarded-for-lifetime-legacy-in-saskatchewan-country-music/|title=Donny Parenteau awarded for lifetime legacy in Saskatchewan country music|last=Lozinski|first=Peter|date=18 May 2020|publisher=[[Prince Albert Daily Herald]]|accessdate=15 May 2021}}</ref>
+|-
+|2022
+|Record Producer of the Year<br/> {{small|(Song: "These Days")}}
+|{{won}}
+|<ref>{{Cite web|url=https://scma.sk.ca/past-awards/2022-scma-award-winners/|title=2022 SCMA Award Winners|publisher=Saskatchewan Country Music Association|accessdate=August 29, 2022}}</ref>
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.donnyparenteaumusic.com Official website]
+
+{{authority control}}
+
+{{DEFAULTSORT:Parenteau, Donny}}
+[[Category:Living people]]
+[[Category:Canadian country guitarists]]
+[[Category:Canadian male guitarists]]
+[[Category:Métis musicians]]
+[[Category:People from Prince Albert, Saskatchewan]]
+[[Category:306 Records artists]]
+[[Category:Canadian country fiddlers]]
+[[Category:Canadian male violinists and fiddlers]]
+[[Category:Canadian country singer-songwriters]]
+[[Category:Fransaskois people]]
+[[Category:Canadian mandolinists]]
+[[Category:Singers from Saskatchewan]]
+[[Category:20th-century Canadian male singers]]
+[[Category:20th-century Canadian violinists and fiddlers]]
+[[Category:21st-century Canadian violinists and fiddlers]]
+[[Category:20th-century Canadian guitarists]]
+[[Category:21st-century Canadian guitarists]]
+[[Category:Canadian male singer-songwriters]]
+[[Category:20th-century Canadian multi-instrumentalists]]
+[[Category:21st-century Canadian multi-instrumentalists]]
+[[Category:21st-century Canadian male singers]]
+[[Category:21st-century Canadian singers]]
+[[Category:Year of birth missing (living people)]]
+[[Category:20th-century Canadian singer-songwriters]]
+[[Category:21st-century Canadian singer-songwriters]]

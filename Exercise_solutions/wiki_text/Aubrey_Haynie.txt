@@ -1,0 +1,62 @@
+{{short description|American bluegrass musician (born 1974)}}
+{{BLP sources|date=September 2008}}
+{{Infobox musical artist
+| name            = Aubrey Haynie
+| image           =
+| caption         =
+| image_size      =
+| birth_name      =
+| alias           =
+| birth_date      = {{Birth date and age|1974|03|27}}
+| origin          = [[Tampa, Florida]], United States
+| instrument      = [[Fiddle]]<br />[[Mandolin]]
+| genre           = [[Bluegrass music|Bluegrass]], [[Country music|Country]]
+| occupation      = [[Musician]], [[songwriter]]
+| years_active    = 1995–present
+| label           = [[Sugar Hill Records (bluegrass)|Sugar Hill]]
+| associated_acts = [[Shane Minor]]
+| website         = 
+}}
+'''Aubrey E. Haynie'''<ref>{{cite web|url=https://www.ascap.com/repertory#/ace/search/workID/903111061 |title=BREAKDOWN |website=ASCAP |publisher=American Society of Composers, Authors and Publishers |access-date=March 17, 2023}}</ref> (born March 27, 1974) is an American [[Bluegrass music|bluegrass]] musician who plays the [[fiddle]] and [[mandolin]]. In his career, he has recorded three studio albums for the [[Sugar Hill Records (bluegrass)|Sugar Hill Records]] label, all three of which contained mostly songs that he wrote himself. He also holds several credits as a session fiddler and mandolinist.
+
+==Biography==
+
+===Early influences===
+When Haynie was nine, he began taking fiddle lessons from his grandmother's cousin, a man named Ted Locke.  He studied the fiddle, for two years, after which he took up the mandolin. He became exceedingly good at both, and within two years he joined a bluegrass band named the Bluegrass Parlor Band. While he was traveling, he got a chance to meet [[Chubby Wise]], a self-styled "original" [[bluegrass (music)|bluegrass]] [[fiddler]], on many occasions. These opportunities enriched his sense of music, and were a great inspiration to him in his younger years.  Another major influence on Haynie's music was that of Kenny Baker, whose fiddle albums were some of his favorites. Those familiar with Baker's fiddle style might recognize similarities in Haynie's sound.
+
+In 1990, at age 16, attending the [[Florida]] fiddling championships, and competing, Haynie won first place in the contemporary division for the second time, playing Wild Fiddler's Rag and [[Les Patineurs (waltz)|Skater's Waltz]].<ref>{{cite news |first = Jeff |last = Klinkenberg |title = FIT AS A FIDDLE Series: DATELINE FLORIDA |work = St. Petersburg Times |date = 1990-06-03}}</ref>
+
+In August 1996 Haynie lost two [[violins]] and a [[Violin bow|bow]], when a lightning-induced fire burnt [[Tim Austin (musician)|Tim Austin]]'s [[Doobie Shea Records|Doobie Shea Studios]] to the ground.<ref>{{cite news |first = Mark |last = Morrison |title = Bluegrass Studio up in Flames |work = Roanoke Times & World News |date = 1996-08-27}}</ref><ref>{{cite news |last=Rosenberg |first=Madelyn |author-link=Madelyn Rosenberg |date=1997-07-30 |title=A Year After a Fire at the Doobie Shea Studios, Tim Austin has the Music Miked and Tapes Humming the Bands Play On... |work=Roanoke Times & World News}}</ref>
+
+In 2004 Haynie won the fiddle category at the 39th Annual [[Academy of Country Music]] Awards.<ref>{{cite news |title = Off-Camera Awards Winners Announced for the 39th Annual Academy of Country Music Awards Live Awards Telecast to Be Broadcast From Mandalay Bay Resort & Casino in Las Vegas Wednesday, May 26th at 8:00 PM ET/PT on CBS Television Network |publisher = PR Newswire (U.S.) |date = 2004-05-06}}</ref>
+
+Haynie has been seen appearing in informal music performances under other musicians' headlines, and earned a living as a [[session musician]].
+
+==Discography==
+*''Doin' My Time'' (Sugar Hill, 1997)
+*''A Man Must Carry On'' (Sugar Hill, 2000)
+*''The Bluegrass Fiddle Album'' (Sugar Hill, 2003)
+
+==Awards==
+*[[International Bluegrass Music Association]] Instrumental Album of the Year - 2003 for ''The Bluegrass Fiddle Album'' IBMA Awards - Past Recipients <ref name="IBMA Awards - Past Recipients">[http://www.ibma.org/ibma.awards/recipients/index.asp IBMA Awards - Past Recipients] {{webarchive|url=https://web.archive.org/web/20090223141121/http://www.ibma.org/ibma.awards/recipients/index.asp |date=2009-02-23 }}</ref>
+*[[Academy of Country Music]] Award for fiddle - 2004
+*[[International Bluegrass Music Association]] Recorded Event of the Year - 1996 for ''Bluegrass '95'' (Scott Vestal, Aubrey Haynie, [[Adam Steffey]], Wayne Benson, Barry Bales & Clay Jones) <ref name="IBMA Awards - Past Recipients" />
+*[[International Bluegrass Music Association]] Gospel Recorded Performance of the Year - 1998 - for ''Stanley Gospel Tradition: Songs About Our Savior'' (Tim Austin, Barry Bales, Ronnie Bowman, Aubrey Haynie, James King, Dwight McCall, Dale Perry, Don Rigsby, [[James Alan Shelton]], Junior Sisk, Charlie Sizemore, Craig Smith, Scottie Sparks, Adam Steffey, Ernie Thacker, Dan Tyminski) <ref name="IBMA Awards - Past Recipients" />
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Haynie, Aubrey}}
+[[Category:1974 births]]
+[[Category:American bluegrass fiddlers]]
+[[Category:American country singer-songwriters]]
+[[Category:American session musicians]]
+[[Category:American country fiddlers]]
+[[Category:Living people]]
+[[Category:Musicians from Tampa, Florida]]
+[[Category:American bluegrass mandolinists]]
+[[Category:Singer-songwriters from Florida]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:Country musicians from Florida]]

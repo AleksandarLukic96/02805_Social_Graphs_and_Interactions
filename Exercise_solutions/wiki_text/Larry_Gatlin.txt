@@ -1,0 +1,128 @@
+{{Use mdy dates|date=January 2023}}
+{{Short description|American country and gospel singer-songwriter (born 1948)}}
+{{BLP sources|date=May 2008}}
+{{Infobox musical artist
+| name                = Larry Gatlin
+| image               = Larry Gatlin.JPG
+| image_size          = 
+| caption             = Gatlin in 2009
+| background          = person
+| birth_name          = Larry Wayne Gatlin
+| birth_date          = {{Birth date and age|1948|5|2}}
+| birth_place         = [[Seminole, Texas]], U.S.
+| origin              = <!-- only if different than birth_place -->
+| genre               = {{Hlist | [[Country music|Country]] | [[Gospel music|gospel]]}}
+| occupation          = Singer-songwriter
+| years_active        = 1973–present
+| label               = {{Hlist | [[Monument Records|Monument]] | [[Columbia Records|Columbia]] | [[Universal Records (1988 record label)|Universal]] | [[Capitol Records|Capitol]] | [[Curb Records|Curb]]}}
+| associated_acts     = [[Dottie West]], [[Kris Kristofferson]], [[Janie Fricke]], [[Kenny Rogers]]<!-- associated_acts is deprecated -->
+| past_member_of      = [[The Imperials]]
+| current_member_of   = The Gatlin Brothers
+| website             = {{url|www.gatlinbrothers.com/}}
+}}
+{{Infobox musical artist
+| name                = The Gatlin Brothers
+| background          = group_or_band
+| origin              = [[Nashville, Tennessee]], U.S.
+| genre               = {{Hlist | [[Country music|Country]] | [[Gospel music|gospel]]}}
+| years_active        = 1973–present
+| label               = {{Hlist | [[Monument Records|Monument]] | [[Columbia Records|Columbia]] | Universal<!--different Universal label owned by Jimmy Bowen, merged with Capitol in '89--> | [[Capitol Records|Capitol]] | [[Curb Records|Curb]]}}
+| current_members     = {{hlist|Larry Gatlin|Rudy Gatlin|Steve Gatlin}}
+}}
+
+'''Larry Wayne Gatlin''' (born May 2, 1948)<ref name="LarkinCountry">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Who's Who of Country Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1993|edition=First|isbn=0-85112-726-6|page=153}}</ref> is an American [[country music|country]] and [[Southern gospel]] singer-songwriter. As part of [[the Gatlin Brothers]] trio that included his younger brothers Steve and Rudy, he achieved considerable success within the country music genre, performing on 33 top 40 country singles, a total inclusive of his recordings as a solo artist and with the group.
+
+Gatlin is known for his tenor voice and for the country songs that he recorded in the 1970s and 1980s. Some of Gatlin's greatest hits include "[[Broken Lady]]", "[[All the Gold in California]]", "[[Houston (Means I'm One Day Closer to You)]]", "She Used to Be Somebody's Baby" and "Night Time Magic". During this time, country music trended toward slick pop-music arrangements in a style that came to be known as [[Countrypolitan]]. Gatlin and the Gatlin Brothers came to prominence and enjoyed their greatest success during this period with hit singles that showcased the brothers' rich gospel-inflected harmonies and Larry's poetic lyrics.
+
+== Early life ==
+Gatlin was born in [[Seminole, Texas|Seminole]] in [[Gaines County, Texas]], United States,<ref name="LarkinCountry"/> next to the [[New Mexico]] border. His father was an oilfield worker, and the family lived in several locations while he was a youth, including [[Abilene, Texas|Abilene]] and [[Odessa, Texas|Odessa]].<ref name="LarkinCountry"/> He was reared listening to country and Southern gospel music. He has performed with his brothers Steve and Rudy since childhood. When they were younger, they often sang at their local church along with their sister [[LaDonna Gatlin|LaDonna]]<ref name="LarkinCountry"/> and occasionally performed on local radio and television shows. They also recorded a gospel music album for the Sword and Shield label and topped [[Roy Orbison]] in a local talent contest.{{citation needed|date=September 2014}}
+
+Gatlin was a quarterback at [[Odessa High School (Texas)|Odessa High School]]. After graduation in 1966, he was eligible to serve in the military during the [[Vietnam War]],<ref>{{cite web
+| url        = http://thelittleredblog.typepad.com/blog/2014/09/president-gatlin-declares-world-war-iii.html
+| title      = President Gatlin Declares World War III
+| author       = Jack Shifflett
+| date       = September 4, 2014
+| access-date = September 7, 2014
+}}</ref> but he chose to attend the [[University of Houston]].<ref name="LarkinCountry"/> As a [[wide receiver]] on the [[Houston Cougars football|football team]], he caught a [[touchdown]] pass in a 1968 game in which his team scored 100 points.<ref>{{cite web
+| url        = http://bill37mccurdy.wordpress.com/tag/houston-100-tulsa-6-1968/
+| title      = 1968: About That Houston 100-Points Game
+| work       = The Pecan Park Eagle
+| date       = September 15, 2013
+| access-date = September 7, 2014
+}}</ref>
+
+He later auditioned for and joined the gospel music group [[the Imperials]].<ref>{{Cite web|url=http://www.sghistory.com/index.php?n=I.Imperials|title=Southern Gospel History &#124; I / Imperials|website=Sghistory.com}}</ref><ref>{{Cite web|url=http://www.pbs.org/klru/austin/artists/program290.html|title=PBS – Austin City Limits|website=[[PBS]] |date=November 11, 2001|archive-url=https://web.archive.org/web/20011111093015/http://www.pbs.org/klru/austin/artists/program290.html|access-date=2021-08-07|archive-date=2001-11-11}}</ref> The Imperials went on to perform in [[Las Vegas, Nevada|Las Vegas]] in January 1971 at ''[[Jimmy Dean|Jimmy Dean's Las Vegas Revue]]''. While walking through the showroom, Gatlin caught country singer [[Dottie West]]'s attention, who thought that he resembled [[Mickey Newbury]].{{citation needed|date=March 2022}} West was impressed with Gatlin's songwriting skills, and she recorded two of his compositions, "You're the Other Half of Me" and "Once You Were Mine".<ref name="LarkinCountry" /> West also passed one of Gatlin's [[demo (music)|demo tapes]] around [[Nashville, Tennessee]], and arranged for him to relocate there by purchasing a plane ticket for him.{{citation needed|date=March 2022}} West recorded other compositions by Gatlin that would later become hits for him, including "Broken Lady", which appeared on West's 1978 album ''[[Dottie (album)|Dottie]]''.
+
+=== As a solo artist ===
+With West's help, Gatlin found work in Nashville as a [[Backing vocalist|background singer]] for [[Kris Kristofferson]]. In 1973, Gatlin landed a solo recording contract with [[Monument Records]].<ref name="LarkinCountry"/>
+
+In December 1973, Gatlin released his first album, ''The Pilgrim''.<ref name="LarkinCountry"/> Two singles were released from the album: "Sweet Becky Walker" and "Bitter They Are, Harder They Fall", although both failed to chart.<ref name="LarkinCountry"/> The latter song was recorded by [[Elvis Presley]] in 1976 (who had also recorded Gatlin's "[[Help Me (Larry Gatlin song)|Help Me]]" in 1973).<ref name="LarkinCountry"/> 1974 saw the release of a new album, ''Rain/Rainbow'', and the song "Delta Dirt". The album and single proved more successful; "Delta Dirt" was a top-20 country hit, peaking at number 14. The song was also Gatlin's only entry into the pop charts, when it reached number 84. In 1975, Gatlin had his first major hit with his composition "Broken Lady", which reached number five on the [[Hot Country Songs]] chart in 1976<ref name="LarkinCountry"/> and won him a [[Grammy Award]] for [[Best Country Song]].<ref name="LarkinCountry"/> A new album, ''High Time'', was released in 1976.<ref name="LarkinCountry"/> Gatlin is also credited on guitar on [[Willie Nelson]]'s 1976 album ''[[The Troublemaker (album)|The Troublemaker]]''.{{citation needed|date=August 2014}}
+
+Brothers Steve and Rudy made their first appearance on Larry's 1976 album ''Larry Gatlin with Family & Friends''. They were featured on some of Gatlin's other hits during the late 1970s, notably "I Don't Wanna Cry", "Love Is Just a Game" and "Statues Without Hearts".<ref name="LarkinCountry"/> In 1978, Gatlin scored his first number-one hit with "[[I Just Wish You Were Someone I Love]]".<ref name="LarkinCountry"/> In 1978, he released his last solo album, ''Oh Brother'', which featured the top-10 hits "I've Done Enough Dyin' Today" and "[[Night Time Magic]]". The latter song reached the [[Adult Contemporary (chart)|''Billboard'' Easy Listening]] chart. Both songs spotlighted Gatlin's soaring falsetto that became a trademark of his vocal style.
+
+In 1985, Gatlin purchased shares in the [[Nashville Sounds]], a [[Minor League Baseball]] team of the [[Triple-A (baseball)|Triple-A]] [[American Association (20th century)|American Association]].<ref>{{citation|first=Larry|last=Woody|title=Schmittou: A Grand Slam in Baseball, Business, And Life|publisher=Eggmann Publishing Company|location=Nashville|year=1996|isbn=1886371334|pages=64–65}}</ref><ref>{{cite news |date=1985 |title=Sounds Owners |work=The Nashville Sounds 1985 Official Souvenir Program |publisher=Nashville Sounds |page=6}}</ref>
+
+=== With the Gatlin Brothers ===
+[[File:Gatlin Brothers Nashville Sounds 1985.jpg|thumb|upright=1.3|left|The Gatlin Brothers in the uniforms of the [[Nashville Sounds]] in 1985 (from left to right: Larry, Steve and Rudy)]]
+In 1979, when Gatlin signed with [[Columbia Records]], he decided to officially have his brothers billed as Larry Gatlin & the Gatlin Brothers. In October, they released the album ''Straight Ahead''. It spawned the single "[[All the Gold in California]]", which became their greatest hit together, reaching number one on the [[Hot Country Songs]] list. This was Gatlin's second number-one hit, and he was named Top Male Vocalist of the Year by the [[Academy of Country Music]]. On June 6, 1980, ''Straight Ahead'' was certified gold.
+
+The group's next big hit came in early 1980 with "Take Me to Your Lovin' Place", which peaked at number five in 1981. They next released "What Are We Doin' Lonesome", which peaked at number four later in the year. They continued with top-10 and top-20 hits such as "In Like with Each Other" (1982), "She Used to Sing on Sunday" (1982), "Sure Feels Like Love" (1982), "Almost Called Her Baby by Mistake" (1983) and "Denver" (1984). In 1983, the group released their third and last number-one hit, "Houston (Means I'm One Day Closer to You)". On January 19, 1985, the Gatlin Brothers sang "All the Gold in California" at the nationally televised second inauguration gala for [[Ronald Reagan]]. Though the group never achieved another number-one hit, they came close with "She Used to Be Somebody's Baby" (1986, number two), "Talkin' to the Moon" (1987, number four) and "Love of a Lifetime" (1988, number four).
+
+The Gatlin Brothers were also one of the first country groups to appear in music videos, such as [[1984 in country music|1984's]] "[[The Lady Takes the Cowboy Everytime]]"{{Sic}}. In 1985, Gatlin wrote the song "Indian Summer" with [[Barry Gibb]], which he recorded as a duet with [[Roy Orbison]]. In 1989, the Gatlin Brothers sang "[[The Star-Spangled Banner]]" before Game 3 of the [[1989 World Series]] at [[Candlestick Park]] in San Francisco just before the [[1989 Loma Prieta earthquake|Loma Prieta earthquake]] occurred. They also sang the national anthem at Game 5 of the [[1985 World Series]] and Game 6 of the [[2005 NBA Finals]].{{citation needed|date=July 2015}}
+
+=== Later work ===
+Gatlin's chart success declined greatly when a new breed of [[neotraditional country]] singers entered Nashville around 1986. New stars such as [[Dwight Yoakam]] and [[Randy Travis]] pushed Gatlin and other Countrypolitan vocalists out of the top 10. Gatlin recorded a duet in 1987 with country-pop singer [[Janie Fricke]],<ref>''The Billboard Book Of Top Country Hits'', Joel Whitburn, {{ISBN|0-8230-8291-1}}, 2006</ref> but the song reached only number 21. He briefly signed with [[Universal Records (1988)|Universal Records]] in 1989, where he recorded his last singles. His last charting single was released in 1989, titled "Number One Heartache Place". Gatlin underwent surgery on his vocal cords in 1991. In concert, he had begun to struggle with the high falsetto notes that were featured prominently in many of his songs. After recovery, Gatlin worked briefly with an opera coach to rebuild his voice, and his vocals took a powerful operatic style.{{citation needed|date=March 2022}}
+
+[[File:Larry Gatlin playing cards in Croatia.JPEG|thumb|Gatlin (left) playing cards with [[Seabee (US Navy)|Seabee]]s in [[Croatia]] after a performance in 1995]]
+After more than a decade of singing together, in December 1992, the Gatlin Brothers embarked on a farewell tour before retiring to their own theater in [[Myrtle Beach, South Carolina]]. Gatlin starred in the [[Broadway theatre|Broadway]] production of ''The Will Rogers Follies''. In 1994, Gatlin and his brothers opened a 2,000-seat theater in Myrtle Beach. In 1995, he played himself in the television movie about [[Dottie West]]'s life, ''Big Dreams & Broken Hearts: The Dottie West Story''. West had been killed four years earlier in an automobile accident.
+
+Along with [[celebrity biographer]] Jeff Lenburg, Gatlin wrote a memoir titled ''All the Gold in California'' that was published in 1998. In 1999, Gatlin toured and entertained troops of the [[1st Cavalry Division (United States)|1st Cavalry Division]] in [[Bosnia and Herzegovina|Bosnia]].{{citation needed|date=March 2022}}
+
+Since 2010, Gatlin has contributed to [[Fox News Channel]] and [[Fox Business Network]] as a political and social commentator. In 2010, Gatlin acted as substitute host for [[Don Imus]] on ''[[Imus in the Morning]]''<ref>{{cite web|url=http://www.theboot.com/2010/06/01/larry-gatlin-don-imus/|title=Larry Gatlin to Sit In for Vacationing Don Imus|website=Theboot.com|date=June 2010 }}</ref> and on ''Fox Across America with Spencer Hughes'' on March 16, 2011. He also hosts radio shows for [[WSM (AM)|WSM]], including a weekly gospel program, and the ''[[Grand Ole Opry]]'' spinoff ''Opry Country Classics''.{{citation needed|date=March 2022}}
+
+In 2023 Larry, Steve, and Rudy [[The Gatlin Brothers]] have released two new singles; "Fair Winds" and "Amazing' (What Just The Right 3 Minutes Can Do)"
+
+== Discography ==
+{{Main|Larry Gatlin discography}}
+
+== References ==
+{{Reflist|30em}}
+
+==Sources==
+* Wood, Gerry. (1998). "The Gatlin Brothers". In ''The Encyclopedia of Country Music''. Paul Kingsbury, Editor. New York: Oxford University Press. pp.&nbsp;195–6.
+
+== External links ==
+* {{Official website|http://www.gatlinbrothers.com/}}
+
+{{Larry Gatlin}}
+{{Grand Ole Opry members}}
+{{The Imperials}}
+{{Authority control}}
+
+{{DEFAULTSORT:Gatlin, Larry}}
+[[Category:1948 births]]
+[[Category:American country singer-songwriters]]
+[[Category:American gospel singers]]
+[[Category:American male singer-songwriters]]
+[[Category:American male stage actors]]
+[[Category:American memoirists]]
+[[Category:Capitol Records artists]]
+[[Category:Columbia Records artists]]
+[[Category:Curb Records artists]]
+[[Category:Grammy Award winners]]
+[[Category:Grand Ole Opry members]]
+[[Category:Houston Cougars football players]]
+[[Category:Living people]]
+[[Category:Monument Records artists]]
+[[Category:Odessa High School (Texas) alumni]]
+[[Category:Musicians from Abilene, Texas]]
+[[Category:People from Seminole, Texas]]
+[[Category:Singers from Nashville, Tennessee]]
+[[Category:People from Odessa, Texas]]
+[[Category:Southern gospel performers]]
+[[Category:Universal Records artists]]
+[[Category:University of Houston alumni]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:Singer-songwriters from Tennessee]]
+[[Category:Country musicians from Texas]]
+[[Category:Country musicians from Tennessee]]

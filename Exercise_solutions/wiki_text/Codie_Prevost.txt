@@ -1,0 +1,314 @@
+{{short description|Canadian country music artist}}
+{{Use mdy dates|date=August 2020}}
+{{Infobox musical artist
+| name            = Codie Prevost
+| image           = Cody Prevost 2019.jpg
+| caption         = Prevost at 2019 SCMA Awards
+| image_size      =
+| birth_name      =
+| alias           =
+| birth_date      = {{birth date and age|1984|12|19}}
+| origin          = [[Archerwill, Saskatchewan]], Canada
+| instrument      = Guitar
+| genre           = [[Country music|Country]], [[Country rock]]
+| occupation      = Singer-songwriter
+| years_active    = 2005–present
+| label           = Good Spirit Records
+| associated_acts =
+| website         = {{URL|codieprevost.com}}
+}}
+'''Codie Prevost''' (born December 19, 1984) is a Canadian country music artist. He is a four time [[Canadian Country Music Association]] (CCMA) nominee and a six time Saskatchewan Country Music Association (SCMA) Entertainer of the Year and Male Vocalist of the Year winner.<ref>{{cite news|title='The Road Ahead' leads to Nipawin|url=http://eedition.nipawinjournal.com/doc/Nipawin-Journal/nipawinwww_072413/2013072301/7.html#6|accessdate=September 15, 2013|newspaper=The Nipawin Journal|date=July 24, 2013|archive-url=https://web.archive.org/web/20150614090414/http://eedition.nipawinjournal.com/doc/Nipawin-Journal/nipawinwww_072413/2013072301/7.html#6|archive-date=June 14, 2015|url-status=dead}}</ref> In total, he has received 26 SCMA Awards. Prevost's past performances include [[CMA Music Festival]], Dauphin Countryfest, [[South by Southwest]], American Tours Festival, [[Havelock Country Jamboree]], [[Craven Country Jamboree]] and Manitoulin Island Country Fest.
+
+Prevost released two full-length albums and one EP on his own label, Good Spirit Records.<ref>{{cite news|last=Pescod|first=Nicolas|title=Rising country star Codie Prevost set for a busy year|url=http://www.canada.com/health/Rising+country+star+Codie+Prevost+busy+year/6418605/story.html|accessdate=September 15, 2013|newspaper=[[Postmedia News]]|date=April 5, 2012}}</ref> He started his climb onto the country music scene in 2005 after recording his debut album, ''The Road Ahead''. In 2010, he released his second album, ''Get Loud'', which helped him to earn the SCMA awards for Entertainer of the Year and Male Vocalist of the Year. Nashville Music Guide rated the album with 6 out of 7 stars.<ref>{{cite news|title=CD Review: Codie Prevost, "Get Loud"|url=http://www.nashvillemusicguide.com/cd-review-cody-prevost-get-loud/|accessdate=September 15, 2013|newspaper=Nashville Music Guide|date=October 2, 2010}}</ref> He has since been nominated for the Canadian Country Music Association Rising Star Award in both 2011 and 2012. Prevost was selected as one of the Top 12 out of 7,500 artists in the world in the Unsigned Only Competition.<ref>{{cite news|title=Canadian Artists Honored In US-Based Unsigned Only Music Competition|url=http://www.thebeatmagazine.ca/index.php/featured-posts/1248-canadian-artists-honored-in-us-based-unsigned-only-music-competition|archive-url=https://archive.today/20130915165342/http://www.thebeatmagazine.ca/index.php/featured-posts/1248-canadian-artists-honored-in-us-based-unsigned-only-music-competition|url-status=dead|archive-date=September 15, 2013|accessdate=September 15, 2013|newspaper=The Beat Magazine}}</ref> He has four official music videos on [[CMT (Canada)|CMT]], the most recent video being his latest single "Last Night All Day." He has been featured on ''[[Entertainment Tonight Canada|ET Canada]]'' and has opened for [[Joe Nichols]], [[The Oak Ridge Boys]] and [[Florida Georgia Line]]. He was nominated at the CCMA Awards for Interactive Artist of the Year in 2013.<ref>{{cite news|last=Nicholson|first=Jessica|title=Canadian Country Music Awards Nominees Announced|url=http://www.musicrow.com/2013/07/canadian-country-music-awards-nominees-announced/|accessdate=September 15, 2013|newspaper=[[MusicRow]]|date=July 17, 2013}}</ref>
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:16em;"| Details
+|-
+! scope="row"| ''The Road Ahead''
+|
+* Release date: July 15, 2005
+* Label: Good Spirit Records
+|-
+! scope="row"| ''Get Loud''
+|
+* Release date: June 22, 2010
+* Label: Good Spirit Records
+|-
+! scope="row"| ''All Kinds of Crazy''
+|
+* Release date: March 1, 2014
+* Label: Good Spirit Records
+|}
+
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:16em;"| Details
+|-
+! scope="row"| ''Spin 6-Pak Vol. 1''
+|
+* Release date: 2008
+* Label: Good Spirit Records
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2"| Year
+! rowspan="2" style="width:16em;"| Single
+! Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Canada Country|CAN Country]]<br /><ref>{{cite magazine|url={{BillboardURLbyName|artist=Codie Prevost|chart=Canada Country}}|title=Codie Prevost Album & Song Chart History – Canada Country|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=March 12, 2014}}</ref>
+|-
+| rowspan="2"| 2005
+! scope="row"| "Not Just the Beer Talkin'"
+| —
+| align="left" rowspan="6"| ''The Road Ahead''
+|-
+! scope="row"| "The Road Ahead"
+| —
+|-
+| rowspan="2"| 2006
+! scope="row"| "He's Not Me"
+| —
+|-
+! scope="row"| "A Million Miles Away"
+| —
+|-
+| rowspan="2"| 2007
+! scope="row"| "Shinin' River"
+| —
+|-
+! scope="row"| "Next Weekend"
+| —
+|-
+| rowspan="2"| 2008
+! scope="row"| "Spin"
+| —
+| align="left" rowspan="5"| ''Spin 6-Pak Vol. 1''
+|-
+! scope="row"| "Good Livin'"
+| —
+|-
+| rowspan="3"| 2009
+! scope="row"| "Call Me When You Get There"
+| —
+|-
+! scope="row"| "One of Those Days"
+| —
+|-
+! scope="row"| "Breathtaking"
+| —
+|-
+| rowspan="2"| 2010
+! scope="row"| "Rolling Back to You"
+| —
+| align="left" rowspan="5"| ''Get Loud''
+|-
+! scope="row"| "Standing Still"
+| —
+|-
+| rowspan="2"| 2011
+! scope="row"| "Cruising Song"
+| —
+|-
+! scope="row"| "Honky Tonk Groupie"
+| —
+|-
+| rowspan="2"| 2012
+! scope="row"| "Finish What He Started"
+| —
+|-
+! scope="row"| "Last Night All Day"
+| —
+| align="left" rowspan="5"| ''All Kinds of Crazy''
+|-
+| rowspan="3"| 2014
+! scope="row"| "Someday"
+| 43
+|-
+! scope="row"| "All Kinds of Crazy"
+| —
+|-
+! scope="row"| "Say My Name"
+| —
+|-
+| 2015
+! scope="row"| "Down the Line"
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Guest singles===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:16em;"| Single
+! Artist
+! Album
+|-
+| 2015
+! scope="row"| "You Brought the Party"
+| Samara Yung
+| ''This Is Me''
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:16em;"| Video
+! Director
+|-
+| rowspan="2"| 2010
+! scope="row"| "Rolling Back to You"
+| rowspan="2"| Anthony J. Vanden Berghe
+|-
+! scope="row"| "Standing Still"
+|-
+| 2011
+! scope="row"| "Honky Tonk Groupie"
+| Troy Niemans
+|-
+| rowspan="2"| 2012
+! scope="row"| "Finish What He Started"
+|
+|-
+! scope="row"| "Last Night All Day"
+| rowspan="4"| Liam Richards
+|-
+| rowspan="2"| 2014
+! scope="row"| "Someday"
+|-
+! scope="row"| "All Kinds of Crazy"
+|-
+| rowspan="2"| 2015
+! scope="row"| "Down the Line"
+|-
+! scope="row"| "You Brought the Party"<br /><small>(with Samara Yung)</small>
+| David Pichette
+|}
+
+==Awards and nominations==
+{| class="wikitable"
+|-
+! Year
+! Association
+! Category
+! Result
+|-
+| rowspan="2" | 2015
+| rowspan="2" | Saskatchewan Country Music Association
+| Song of the Year – ''Someday''
+| {{Won}}
+|-
+| Male Vocalist of the Year
+| {{Won}}
+|-
+| rowspan="5" | 2014
+| [[Canadian Country Music Awards]]
+| Album of the Year – ''All Kinds of Crazy''
+| {{nom}}
+|-
+| rowspan="3" | Saskatchewan Country Music Association
+| Fan's Choice Entertainer of the Year
+| {{Won}}
+|-
+| Male Vocalist of the Year
+| {{Won}}
+|-
+| SCMA Achievement Award
+| {{Won}}
+|-
+| [[Western Canadian Music Awards]]
+| Country Recording of the Year – ''All Kinds of Crazy''
+| {{Won}}
+|-
+| rowspan="3" | 2013
+| rowspan="2" | Saskatchewan Country Music Association
+| Entertainer of the Year
+| {{Won}}
+|-
+| Male Vocalist of the Year
+| {{Won}}
+|-
+| [[Canadian Country Music Awards]]
+| Interactive Artist of the Year
+| {{nom}}
+|-
+| rowspan="4" | 2012
+| rowspan="3" | Saskatchewan Country Music Association<ref>{{cite news|last=DeDekker|first=Jeff|title=SCMA hat trick for Codie Prevost|url=http://blogs.leaderpost.com/2012/04/23/scma-hat-trick-for-codie-prevost/|accessdate=September 15, 2013|newspaper=[[Leader-Post]]|date=April 23, 2012}}</ref>
+| Entertainer of the Year
+| {{Won}}
+|-
+| Male Vocalist of the Year
+| {{Won}}
+|-
+| Video of the Year – "Honky Tonk Groupie"
+| {{Won}}
+|-
+| [[Canadian Country Music Awards]]
+| Rising Star
+| {{nom}}
+|-
+| rowspan="8" | 2011
+| rowspan="7" | Saskatchewan Country Music Association
+| Entertainer of the Year
+| {{Won}}
+|-
+| Male Vocalist of the Year
+| {{Won}}
+|-
+| Song of the Year (Composer: Codie Prevost and Adam Wheeler for "I'm Okay")
+| {{Won}}
+|-
+| Single of the Year – "Rolling Back to You"
+| {{Won}}
+|-
+| Video of the Year – "Standing Still"
+| {{Won}}
+|-
+| Album of the Year – ''Get Loud''
+| {{Won}}
+|-
+| Back Up Band of the Year – Codie Prevost Band
+| {{Won}}
+|-
+| [[Canadian Country Music Awards]]
+| Rising Star
+| {{Nom}}
+|-
+| rowspan="2" | 2010
+| rowspan="1" | [[Lieutenant Governor's Arts Award]]
+| Arts
+| {{Nom}}
+|-
+| Independent Music Awards
+| Best Country Song
+| {{Won}}
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{official website|http://www.codieprevost.com}}
+*[http://www.cmt.ca/artist/codie-prevost/ Codie Prevost] at [[CMT (Canada)|CMT]]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Prevost, Codie}}
+[[Category:1984 births]]
+[[Category:Canadian male singer-songwriters]]
+[[Category:Living people]]
+[[Category:Singers from Saskatchewan]]
+[[Category:Independent Music Awards winners]]
+[[Category:Canadian country singer-songwriters]]
+[[Category:21st-century Canadian male singers]]
+[[Category:21st-century Canadian singers]]
+[[Category:21st-century Canadian singer-songwriters]]

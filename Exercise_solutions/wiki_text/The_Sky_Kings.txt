@@ -1,0 +1,103 @@
+{{Infobox musical artist | <!-- See Wikipedia:WikiProject Musicians -->
+| name            = The Sky Kings
+| image             =
+| caption        =
+| image_size        = 
+| background      = group_or_band
+| alias           = Four Wheel Drive
+| origin          = [[Nashville, Tennessee]], United States
+| genre           = [[Country music|Country]]
+| years_active    = 1991–1997
+| label           = [[RCA Records|RCA Nashville]]<br />[[Warner Bros. Records|Warner Bros.]]
+| associated_acts = 
+| website             = 
+| current_members = 
+| past_members    = [[John Cowan]]<br />[[Foster & Lloyd|Bill Lloyd]]<br />[[Patrick Simmons]]<br />[[Rusty Young (musician)|Rusty Young]]
+}}
+
+'''The Sky Kings''' was an American country music [[supergroup (music)|supergroup]]<ref>[http://baltimoresongwriters.org/pages/interviews/bill_lloyd_interview.html Music Interview with Bill Lloyd]</ref> formed in 1991 as '''Four Wheel Drive'''.<ref name="lloyd">[http://www.billlloydmusic.com/skykings.html Bill Lloyd Music] {{Webarchive|url=https://archive.today/20070812020821/http://www.billlloydmusic.com/skykings.html |date=2007-08-12 }}</ref> The band consisted of [[John Cowan]], [[Foster & Lloyd|Bill Lloyd]], [[Patrick Simmons]] and [[Rusty Young (musician)|Rusty Young]]. They were signed to a recording deal with [[RCA Records|RCA Nashville]] and completed an album which for the label was never released.<ref name="lloyd" />
+
+[[Warner Bros. Records]] signed the group in 1993.<ref name="lloyd" /> Threatened with lawsuits from bands who had copyrighted the name Four Wheel Drive, they secured the rights to the name The Sky Kings.<ref name="lloyd" /> After opening for [[The Doobie Brothers]] on their 1993 tour, Simmons left The Sky Kings to rejoin The Doobie Brothers.<ref name="lloyd" /> Now a trio, The Sky Kings released three singles on Warner Bros.: "Picture Perfect," "Fooled Around and Fell in Love" (a cover of the [[Elvin Bishop]] hit) and "That Just About Says It All."<ref name="amgbio">[{{AllMusic|class=artist|id=p424853/biography|pure_url=yes}} allmusic ((( The Sky Kings > Overview )))]</ref> "Picture Perfect" was the only single to chart, peaking at No.&nbsp;52 on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles & Tracks]] chart.<ref>[{{AllMusic|class=artist|id=p424853/charts-awards|pure_url=yes}} allmusic ((( The Sky Kings > Charts & Awards > Billboard Singles )))]</ref> An eponymous album was scheduled to be released in 1997, but eventually shelved.<ref name="footb">[{{AllMusic|class=album|id=r494033|pure_url=yes}} allmusic ((( From Out of the Blue > Overview )))]</ref> [[Rhino Handmade]] released ''From Out of the Blue'', an album which collected the entire unreleased 1997 Warner Bros. album, non-album Warner Bros. singles, and recordings and demos made for a second unreleased Warner Bros. album, in 2000.<ref name="footb" />
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:14em;"| Title
+! style="width:16em;"| Album details
+|-
+! scope="row"| ''From Out of the Blue''
+| 
+* Released: July 26, 2000
+* Label: Rhino Handmade
+|-
+! scope="row"| ''1992''
+| 
+* Released: December 15, 2014
+* Label: [[Sony Music Entertainment]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="1"| 1992
+! scope="row"| "I Could Get Used to This"<ref>{{cite AV media notes|title=I Could Get Used To This|others=Sky Kings|year=1992|type=Canada 7-inch Promo Single liner notes|publisher=RCA|id=JB-62893}}</ref>
+|
+|
+| align="center" rowspan="1"| ''1992''
+|-
+| rowspan="3"| 1996
+! scope="row"| "Picture Perfect"
+| 52
+| 84
+| align="left" rowspan="3"| ''From Out of the Blue''
+|-
+! scope="row"| "Fooled Around and Fell in Love"
+| —
+| —
+|-
+! scope="row"| "That Just About Says It All"
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:10em;"| Video
+! Director
+|-
+| 1996
+! scope="row"| "Picture Perfect"
+| Jon Small
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[{{AllMusic|class=artist|id=p424853|pure_url=yes}} allmusic ((( The Sky Kings > Overview )))]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Sky Kings}}
+[[Category:American country music groups]]
+[[Category:Warner Records artists]]
+[[Category:American musical trios]]
+[[Category:Musical groups established in 1991]]
+[[Category:Musical groups disestablished in 1997]]
+[[Category:Country music supergroups]]
+[[Category:1991 establishments in the United States]]
+[[Category:American supergroups]]

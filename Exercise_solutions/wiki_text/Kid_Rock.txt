@@ -1,0 +1,614 @@
+{{short description|American musician (born 1971)}}
+{{for|the 2003 self-titled album|Kid Rock (album)}}
+{{Use American English|date=August 2022}}
+{{Use mdy dates|date=January 2018}}
+{{Infobox musical artist
+| background       = solo_singer
+| name             = Kid Rock
+| image            = Kid Rock Dec 2013.jpg
+| caption          = Kid Rock performing in 2013
+| birth_name       = Robert James Ritchie
+| alias            = Bobby Shazam
+| birth_date       = {{birth date and age|1971|1|17}}
+| birth_place      = [[Romeo, Michigan]], U.S.
+| death_date       =
+| genre            = {{flatlist|
+* [[Rock music|Rock]]
+* [[Country music|country]]
+* [[Hip hop music|hip hop]]
+* {{nowrap|[[Heavy metal music|heavy metal]]}}
+}}
+| occupations       = {{flatlist|
+* Musician
+* singer
+* rapper
+* songwriter
+}}
+|instruments       =
+ {{flatlist|
+* Vocals
+* guitar 
+}}
+| years_active     = 1988–present
+| label            = {{flatlist|
+* Top Dog
+* [[Broken Bow Records|Broken Bow]]
+* [[Warner Records|Warner Bros.]]
+* [[Lava Records|Lava]]
+* [[Atlantic Records|Atlantic]]
+* [[Jive Records|Jive]]
+}}
+{{Infobox person
+| embed              = yes
+| spouse             = {{marriage|[[Pamela Anderson]]|2006|2007|end=div}}
+| relatives          = [[Jill Ritchie]] (sister)
+| children           = 1
+| website            = {{URL|kidrock.com}}
+}}
+}}
+'''Robert James Ritchie''' (born January 17, 1971), known professionally as '''Kid Rock''', is an American musician, singer, rapper, and songwriter. After establishing himself in the [[Music of Detroit#Hip hop|Detroit hip hop]] scene, he broke through into mainstream success with a [[rap rock]] sound before shifting his performance style to [[country rock]]. A self-taught musician, he has said he can play every instrument in his backing band and has overseen production on all but two of his albums.
+
+Kid Rock started his music career as a rapper and DJ, releasing his debut album ''[[Grits Sandwiches for Breakfast]]'' (1990), on [[Jive Records]]. His subsequent independent releases ''[[The Polyfuze Method]]'' (1993) and ''[[Early Mornin' Stoned Pimp]]'' (1996) saw him developing a more distinctive style, which was fully realized on his breakthrough album ''[[Devil Without a Cause]]'' (1998), which sold 14 million copies. This album and its follow-up, ''[[Cocky (album)|Cocky]]'' (2001), were noted for blending elements of hip-hop, country and rock.
+
+His most successful single from that time period, "[[Cowboy (Kid Rock song)|Cowboy]]" (1999), is considered a pioneering song in the [[country rap]] genre. His best-selling singles overall are "[[Picture (song)|Picture]]" (2002) and "[[All Summer Long (Kid Rock song)|All Summer Long]]" (2008). Starting with his 2007 album ''[[Rock n Roll Jesus]]'', his musical output has tended to be in the country rock style. Politically, Ritchie is a vocal supporter of the U.S. [[Republican Party (United States)|Republican Party]] and holds conservative views.
+
+==Early life==
+Kid Rock was born Robert James Ritchie in [[Romeo, Michigan]], on January 17, 1971, the son of Susan and William "Bill" Ritchie (1941–2024),<ref>{{cite web |title=Bill Ritchie, former Sterling Heights auto dealer and father of Kid Rock, dies in Florida |url=https://www.freep.com/story/entertainment/music/brian-mccollum/2024/02/16/bill-ritchie-father-of-kid-rock-and-ex-sterling-heights-auto-dealer-dies/72633949007/ |website=www.freep.com}}</ref> who owned multiple car dealerships.<ref name="Biography">{{cite web|url=https://www.biography.com/people/kid-rock-251986|title=Kid Rock|website=Biography.com|access-date=October 13, 2017|archive-date=October 13, 2017|archive-url=https://web.archive.org/web/20171013224846/https://www.biography.com/people/kid-rock-251986|url-status=live}}</ref><ref name="Allmusic"/><ref name="cowboysindians"/> He was raised in his father's large home on extensive property,<ref name="Biography"/><ref name=Freep2016>{{cite web|url=http://www.freep.com/story/news/local/michigan/macomb/2016/11/04/kid-rock-macomb-county-house/93299716/|title=Kid Rock's posh childhood home listed in Macomb County for $1.3M|website=Freep.com|access-date=November 3, 2017|archive-date=November 7, 2017|archive-url=https://web.archive.org/web/20171107142821/http://www.freep.com/story/news/local/michigan/macomb/2016/11/04/kid-rock-macomb-county-house/93299716/|url-status=live}}</ref> which included an [[apple orchard]] and barnyard for their horses.<ref name="The Independent">{{cite news|url=https://www.independent.co.uk/news/people/profiles/my-secret-life-kid-rock-musician-age-37-870596.html|title=My Secret Life: Kid Rock Musician (age 37)|last=Philby|first=Charlotte|newspaper=[[The Independent]]|access-date=November 30, 2010|location=London|date=July 19, 2008|archive-date=March 24, 2012|archive-url=https://web.archive.org/web/20120324122407/http://www.independent.co.uk/news/people/profiles/my-secret-life-kid-rock-musician-age-37-870596.html|url-status=live}}</ref> He attended [[Romeo High School]].<ref>{{cite web | url=https://www.dailytribune.com/2011/04/22/kid-rock-visits-romeo-high-school-donates-money/amp/ | title=Kid Rock visits Romeo High School, donates money | date=April 22, 2011 }}</ref> His younger sister, [[Jill Ritchie]], is an actress.<ref name=Heartbreak/> In the 1980s, Kid Rock became interested in [[hip hop]], began to [[breakdance]], and taught himself how to rap and DJ while performing in talent shows in and around [[Detroit]].<ref name=Biography/><ref name="Allmusic">{{cite web|url={{AllMusic|class=artist |id=kid-rock-p15074/biography|pure_url=yes}}|title=Kid Rock – Biography|last=Huey|first=Jeff |website=[[AllMusic]] |access-date=November 30, 2010}}</ref>
+
+==Career==
+===Early career, signing with Jive Records, and ''Grits Sandwiches for Breakfast'' (1988–1991)===
+Kid Rock began his professional music career as a member of a [[hip hop music]] group called the Beast Crew in the late 1980s.<ref name=Biography/> During this time, he met rapper [[D-Nice]]. That relationship would eventually lead to him becoming the opening act at local shows for [[Boogie Down Productions]].<ref name=Biography/>
+
+During this time, Kid Rock began a professional association with producer [[Mike E. Clark]], who, after some initial skepticism with the idea of a white rapper, found himself impressed with Kid Rock's energetic and well-received performance where the artist, using his own turntables and equipment, actually prepared his own beats to demonstrate his skills for Clark.<ref name="freepearly">{{cite web|url=https://www.freep.com/story/entertainment/music/brian-mccollum/2015/08/26/kid-rock-early-years-detroit/31193049/|title=Kid Rock before the fame: The definitive Detroit oral history|website=Freep.com|access-date=February 1, 2018|archive-date=January 27, 2018|archive-url=https://web.archive.org/web/20180127204237/https://www.freep.com/story/entertainment/music/brian-mccollum/2015/08/26/kid-rock-early-years-detroit/31193049/|url-status=live}}</ref>
+
+In 1988, Clark produced a series of demos with Kid Rock. These demos eventually led to offers from six major record labels, including [[Atlantic Records|Atlantic]] and [[CBS Associated Records|CBS Records]].<ref name="Allmusic"/><ref name="freepearly"/>
+
+In 1989, Kid Rock became a shareholder in an independent record label that was formed by Alvin Williams and Earl Blunt of EB-Bran Productions, called "Top Dog" Records. Later, that investment would become a 25% ownership stake.<ref name="mtv.com">{{cite web|url=http://www.mtv.com/news/1458341/kid-rocks-ex-partners-ask-judge-to-determine-whos-top-dog/|title=Kid Rock's Ex-Partners Ask Judge To Determine Who's Top Dog|website=MTV.com|access-date=February 1, 2018|archive-date=January 28, 2018|archive-url=https://web.archive.org/web/20180128132500/http://www.mtv.com/news/1458341/kid-rocks-ex-partners-ask-judge-to-determine-whos-top-dog/|url-status=dead}}</ref>
+
+With the help of D-Nice, Kid Rock signed with [[Jive Records]] at the age of 17, releasing his debut studio album, ''[[Grits Sandwiches for Breakfast]]'' in 1990.<ref name="Biography"/><ref name="cowboysindians"/><ref name="freepearly"/> According to Kid Rock, the contract with Jive resulted in animosity from fellow rapper [[Vanilla Ice]], who felt that he should have been signed with Jive instead of Kid Rock.<ref name="freepearly"/>
+
+The album made Kid Rock one of the two biggest rap stars in Detroit in 1990, along with local [[independent music|independent]] rapper [[Esham]].<ref name="BehindthePaint164">{{cite book |last1=Bruce |first1=Joseph |author-link=Violent J|last2=Echlin |first2=Hobey |editor=Nathan Fostey |title=ICP: Behind the Paint |url=https://archive.org/details/icpbehindpaint00viol |url-access=registration |date=August 2003 |edition=second |publisher=Psychopathic Records |location=Royal Oak, Michigan |isbn=0-9741846-0-8 |pages=[https://archive.org/details/icpbehindpaint00viol/page/164 164–167] |chapter=Paying Dues }}</ref><ref name="BehindthePaint174">{{cite book |last1=Bruce |first1=Joseph |author-link=Violent J |last2=Echlin |first2=Hobey |editor=Nathan Fostey |title=ICP: Behind the Paint |url=https://archive.org/details/icpbehindpaint00viol |url-access=registration |edition=second |publisher=Psychopathic Records |location=Royal Oak, Michigan |isbn=0-9741846-0-8 |pages=[https://archive.org/details/icpbehindpaint00viol/page/174 174–189] |chapter=The Dark Carnival|date=August 2003 }}</ref> To promote the album, Kid Rock toured nationally with [[Ice Cube]], D-Nice, [[Yo-Yo (rapper)|Yo-Yo]] and [[Too Short]]; Detroit artist James "Blackman" Harris served as Kid Rock's DJ on this tour.<ref name="freepearly"/><ref>{{cite web |url=http://www2.metrotimes.com/editorial/story.asp?id=7099 |title=Metro Times - Music: Champ's town |access-date=January 28, 2018 |archive-url=https://web.archive.org/web/20090102071445/http://www.metrotimes.com/editorial/story.asp?id=7099 |archive-date=January 2, 2009 |url-status=dead }}</ref> During instore promotions for the album, Kid Rock met and developed a friendship with local rapper [[Eminem]], who frequently challenged Kid Rock to rap battles.<ref name="freepearly"/>
+
+Ultimately, unfavorable comparisons to Vanilla Ice led to Jive dropping Kid Rock, according to Mike E. Clark.<ref name="freepearly"/>
+
+===Signing with Continuum Records and ''The Polyfuze Method'' (1992–1995)===
+In 1992, Kid Rock signed with local independent record label Continuum.<ref name=freepearly/> Around this time, Kid Rock met local hip hop duo [[Insane Clown Posse]] through Mike E. Clark, who was producing the duo.<ref name="BehindthePaint174" /> While ICP member [[Joseph Bruce|Violent J]] disliked Kid Rock's music, he wanted the rapper to appear on ICP's debut album, ''[[Carnival of Carnage]]'', believing the appearance would gain ICP notice, since Kid Rock was a nationally successful artist.<ref name="BehindthePaint174" /> Noting that local rapper Esham was paid $500 to appear on ICP's album, Violent J claims that Kid Rock demanded $600 ({{Inflation|US|600|1992|fmt=eq}}) to record his guest appearance, alleging that Esham and Kid Rock had a feud over who was the bigger rapper.<ref name="BehindthePaint174" /> Kid Rock showed up to record the song "Is That You?" intoxicated, but re-recorded his vocals and record scratching the following day.<ref name="BehindthePaint174" />
+
+In 1993, Kid Rock recorded his second studio album, ''[[The Polyfuze Method]]'', with producer Mike E. Clark, who worked with Kid Rock to help give the album more of a rock-oriented sound than his debut.<ref name="Allmusic"/>
+
+Kid Rock also began releasing his "Bootleg" cassette series to keep local interest in his music.<ref name=freepearly/>
+
+Later in the year, Kid Rock recorded the EP ''[[Fire It Up (EP)|Fire It Up]]'' at White Room Studios in downtown Detroit, run by brothers Michael and Andrew Nehra, who were forming the rock-soul band [[Robert Bradley's Blackwater Surprise]].<ref name=freepearly/> The EP featured the [[heavy metal music|heavy rock]] song "[[I Am the Bullgod]]" and a cover of [[Hank Williams Jr.]]'s [[country music|country]] song "A Country Boy Can Survive".<ref name=freepearly/>
+
+By 1994, Kid Rock's live performances had mostly been backed by DJs Blackman and [[Uncle Kracker]], but Kid Rock soon began to utilize more and more live instrumentation into his performances, and formed the rock band [[Twisted Brown Trucker]].<ref name="Allmusic"/><ref name=freepearly/>
+
+After breaking up with his girlfriend, Kid Rock moved engineer Bob Ebeling into his apartment.<ref name=freepearly/> During a recording session with Mike E. Clark, the producer discovered that Kid Rock could sing when he recorded a reworked cover of [[Billy Joel]]'s "[[It's Still Rock and Roll to Me]]", entitled "It's Still East Detroit to Me", which Clark claims led him to encourage Kid Rock to sing more.<ref name=freepearly/>
+
+During this time, Kid Rock developed animosity towards other Detroit artists, including Insane Clown Posse.{{citation needed|date=June 2023}}
+
+Through extensive promoting, including distributing tapes on consignment to local stores and giving away free samplers of his music, Kid Rock developed a following among an audience which DJ Uncle Kracker described as "white kids who dropped [[LSD|acid]] and liked listening to [[gangsta rap]]"; this following included local rapper [[Joe C.]], who had been attending Kid Rock concerts as a fan, but upon meeting Kid Rock, was invited to perform on stage as Kid Rock's hype man.<ref name=freepearly/>
+
+===''Early Mornin' Stoned Pimp'' and local breakthrough (1996)===
+[[File:Kid Rock (3421137233).jpg|thumb|A display of pyrotechnics during one of Kid Rock's performances. His stage presence helped increase his local following in Detroit in the mid-1990s.]]
+Kid Rock's stage presence became honed with the addition of a light show, pyrotechnics, dancers and a light-up backdrop bearing the name "Kid Rock", and 1996 saw the release of his most rock-oriented album to date, ''[[Early Mornin' Stoned Pimp]]''; the album's title came from Bob Eberling, who told a sleepless, alcoholic, drug-using Kid Rock, "Dude, you are the early-morning, stoned pimp."<ref name=freepearly/> According to Kid Rock, who distributed the album himself, ''Early Mornin' Stoned Pimp'' sold 14,000 copies.<ref name=cowboysindians/>
+
+Kid Rock developed his stage persona, performing dressed in 1970s pimp clothing with a real, possibly loaded, gun down the front of his pants.<ref name=freepearly/>
+
+Though Kid Rock became known for frequent partying, as well as his drug and alcohol use, he was primarily focused on increasing his success and fame, placing himself as a businessman first; the result of this drive led to increased success locally.<ref name=freepearly/>
+
+===Signing with Atlantic Records, ''Devil Without a Cause'', and national success (1997–2000)===
+Kid Rock's attorney, Tommy Valentino, increased his stature by helping him get articles written about Kid Rock and Twisted Brown Trucker in major publications, including [[Beastie Boys]]' ''[[Grand Royal]]'' magazine. However, though his management tried to interest local record labels in his music, they told his management team that they were not interested in signing a white rapper, to which Valentino told them, "He's not a white rapper. He's a rock star and everything in between."<ref name=freepearly/>
+
+In 1997, Jason Flom, head of [[Lava Records]], attended one of Kid Rock's performances, and met with Kid Rock, who later gave him a demo containing the songs "Somebody's Gotta Feel This" and "I Got One for Ya", which led to Kid Rock signing with Atlantic Records.<ref name=freepearly/><ref name="Lava Record Deal">{{cite web|title=Interview Andy Karp Vice President of A&R at Lava/Atlantic in New York |publisher=AtlanticRecordsContact.com |url=http://www.atlanticrecordscontact.com/ |access-date=July 22, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20080705133859/http://www.atlanticrecordscontact.com/ |archive-date=July 5, 2008 }}</ref> As part of his recording deal, Kid Rock received $150,000 from the label.<ref name=cowboysindians/>
+
+By this time Kid Rock had fully developed his stage persona, and musical style and wanted to make a "[[redneck]], shit-kicking [[rock and roll|rock 'n' roll]] rap" album, resulting in his fourth studio album, ''[[Devil Without a Cause]]'', recorded at the White Room in Detroit and mixed at the Mix Room in Los Angeles.<ref name=freepearly/>
+
+The album was a commercial smash hit as it would be certified Gold and Platinum several months after its release. In promotion of the record, Kid Rock would join [[Limp Bizkit]] on a national tour spanning 27 dates.<ref>{{cite web|url=https://www.mtv.com/news/6dmipb/limp-bizkit-kid-rock-announce-joint-us-tour-dates|archive-url=https://web.archive.org/web/20230525061804/https://www.mtv.com/news/6dmipb/limp-bizkit-kid-rock-announce-joint-us-tour-dates|url-status=dead|archive-date=May 25, 2023|title=Limp Bizkit & Kid Rock announce joint US Tour Dates|website=[[MTV]] }}</ref><ref>{{cite web|url=https://www.mtv.com/news/zhqigx/limp-bizkit-taps-kid-rock-for-summer-tour|archive-url=https://web.archive.org/web/20230525061935/https://www.mtv.com/news/zhqigx/limp-bizkit-taps-kid-rock-for-summer-tour|url-status=dead|archive-date=May 25, 2023|title=Limp Bizkit Taps Kid Rock For Summer Tour|website=[[MTV]] }}</ref> He made an appearance on the [[1999 MTV Video Music Awards|1999]] [[MTV]] VMA (including a performance alongside [[Aerosmith]] and [[Run-DMC]]) and also memorably performed [[Bawitdaba]] at [[Woodstock 1999]]. ''Devil Without a Cause'' sold over 14 million copies, the album's success initiated by Kid Rock's breakthrough hit single Bawitdaba.<ref name=Biography/><ref name=cowboysindians>{{cite web|url=http://www.cowboysindians.com/2015/07/kid-rock/|title=Kid Rock – C&I Magazine|date=July 1, 2015|access-date=September 19, 2016|archive-date=September 20, 2016|archive-url=https://web.archive.org/web/20160920071313/http://www.cowboysindians.com/2015/07/kid-rock/|url-status=live}}</ref><ref name=freepearly/> In 1999, Kid Rock made his voice acting debut in an episode of ''[[The Simpsons]]'' in the episode "[[Kill the Alligator and Run]]" playing himself, alongside Joe C.
+
+Despite having been active in the music industry for over 10 years by then, Kid Rock was nominated for a [[Grammy Award]] for Best New Artist of 2000.<ref name=Biography/> Kid Rock's career was sometimes marked by tragedy, as in the death of friend and collaborator Joe C.<ref name=Biography/><ref name=freepearly/>
+
+In May 2000, Kid Rock released the compilation album ''[[The History of Rock]]'' behind the single "[[American Bad Ass]]". The song sampled [[Metallica]]'s 1991 song "[[Sad but True]]", peaking at No. 20 on the mainstream rock chart. Kid Rock would join Metallica on their [[Summer Sanitarium Tour|2000 Summer Sanitarium Tour]] along with [[Korn]] and [[System of a Down]]. Kid Rock and [[Jonathan Davis]] filled in on vocals for an injured [[James Hetfield]] in Atlanta on July 7, 2000. Kid Rock performed "American Bad Ass" along with the Metallica classics "Sad but True", "Nothing Else Matters", "Fuel" and "Enter Sandman" in addition to covers of "Turn the Page" and "Fortunate Son". ''The History of Rock'' was certified double platinum.
+
+===Continued success and shift away from hip hop (2001–2008)===
+
+In 2001, "American Bad Ass" was nominated for the Grammy for [[Best Hard Rock Performance]], losing out to [[Rage Against the Machine]]'s "[[Guerrilla Radio]]". Kid Rock appeared in the comedy film ''[[Joe Dirt]]'', starring [[David Spade]].<ref name=abcjoedirt>{{cite web|url=https://abcnews.go.com/Entertainment/story?id=106849&page=1|title=Kid Rock Digs Role in Joe Dirt|date=January 6, 2006|website=[[ABC News (United States)|ABC News]]|access-date=February 1, 2018|archive-date=January 27, 2018|archive-url=https://web.archive.org/web/20180127202504/http://abcnews.go.com/Entertainment/story?id=106849&page=1|url-status=live}}</ref> Kid Rock was in the [[live-action/animated film]] ''[[Osmosis Jones]]'', voicing a bacterial cell version of himself named "Kidney Rock"; Kid Rock and Joe C. had also recorded the song "Cool Daddy Cool" for the film's [[Osmosis Jones (soundtrack)|soundtrack album]] before Joe C.'s death.<ref name=abcjoedirt/><ref>{{cite web|url=http://www.mtv.com/news/1445286/kid-rock-st-lunatics-uncle-kracker-do-osmosis-jones/|title=Kid Rock, St. Lunatics, Uncle Kracker Do 'Osmosis Jones'|website=MTV.com|access-date=February 1, 2018|archive-date=June 19, 2018|archive-url=https://web.archive.org/web/20180619113037/http://www.mtv.com/news/1445286/kid-rock-st-lunatics-uncle-kracker-do-osmosis-jones/|url-status=dead}}</ref>
+
+In November 2001, Kid Rock released his fifth studio album, ''[[Cocky (album)|Cocky]]'', which was dedicated to Joe C. The album became a hit, spurred by the crossover success of the single "[[Picture (Kid Rock song)|Picture]]", a country ballad featuring [[Sheryl Crow]] which introduced Kid Rock to a wider audience and was ultimately the most successful single on the album.<ref name=Biography/><ref name="picture song">{{cite news |url=http://www.mtv.com/news/articles/1459755/20030129/kid_rock.jhtml |title=Kid Rock's Dead-In-The-Water Cocky Comes Back To Life |last=Kaufman |first=Gil |publisher=MTV |date=January 30, 2003 |access-date=July 22, 2008 |archive-date=December 19, 2008 |archive-url=https://web.archive.org/web/20081219194005/http://www.mtv.com/news/articles/1459755/20030129/kid_rock.jhtml |url-status=dead }}</ref>
+
+In support of the album, Kid Rock performed on the Cocky Tour in 2002 and opened for Aerosmith with Run-DMC on the [[Girls of Summer Tour]]. During this period, Uncle Kracker began his solo career full-time.<ref name="Allmusic"/> He was replaced by underground Detroit rapper [[Paradime]].
+
+In 2002, Kid Rock covered [[ZZ Top]]'s "[[Legs (song)|Legs]]" to serve as [[WWE Diva]] [[Stacy Keibler]]'s theme song; it also appeared on the album ''[[WWF Forceable Entry]]''.<ref>{{cite magazine |title= Sound Tracks |magazine= [[Billboard (magazine)|Billboard]] |date= March 16, 2002 |url= https://books.google.com/books?id=XhAEAAAAMBAJ&q=%22legs%22&pg=PA24 |volume= 114 |issue= 11 |page= 24 |issn= 0006-2510 |access-date= November 14, 2020 |archive-date= March 10, 2021 |archive-url= https://web.archive.org/web/20210310131203/https://books.google.com/books?id=XhAEAAAAMBAJ&q=%22legs%22&pg=PA24 |url-status= live }}</ref>
+
+Kid Rock filed a lawsuit to gain full control over the Top Dog record label, resulting in his receiving full ownership of the label in 2003.<ref>{{cite web|url=http://www.mtv.com/news/1495768/kid-rock-to-remain-top-dog-court-says/|title=Kid Rock To Remain Top Dog, Court Says|website=MTV.com|access-date=February 1, 2018|archive-date=January 28, 2018|archive-url=https://web.archive.org/web/20180128021148/http://www.mtv.com/news/1495768/kid-rock-to-remain-top-dog-court-says/|url-status=dead}}</ref><ref name="blabbermouth.net">{{cite web|url=http://www.blabbermouth.net/news/kid-rock-remains-top-dog-in-trademark-infringement-decision/|title=KID ROCK Remains Top Dog In Trademark Infringement Decision|date=February 4, 2003|website=Blabbermouth.net|access-date=February 1, 2018|archive-date=January 28, 2018|archive-url=https://web.archive.org/web/20180128074701/http://www.blabbermouth.net/news/kid-rock-remains-top-dog-in-trademark-infringement-decision/|url-status=live}}</ref>
+
+Kid Rock's [[Kid Rock (album)|self-titled sixth album]] was also released in 2003, which shifted his music further away from hip hop;<ref name=Biography/> the lead single was a cover of [[Bad Company (band)|Bad Company]]'s "[[Feel Like Makin' Love (Bad Company song)|Feel Like Makin' Love]]".<ref name="Allmusic"/> The same year, Kid Rock contributed to the tribute album ''I've Always Been Crazy: A Tribute to [[Waylon Jennings]]'', honoring the late country singer by covering the song "Luckenbach, Texas" in collaboration with country singer [[Kenny Chesney]].<ref>{{cite web|url=https://www.rollingstone.com/music/news/kid-rock-salutes-waylon-20030103|title=Kid Rock Salutes Waylon|website=RollingStone.com|date=January 3, 2003|access-date=February 1, 2018|archive-date=January 27, 2018|archive-url=https://web.archive.org/web/20180127203118/https://www.rollingstone.com/music/news/kid-rock-salutes-waylon-20030103|url-status=live}}</ref>
+
+Kid Rock appeared on the track 'My Name is Robert Too' on American blues artist [[R. L. Burnside]]'s final studio album, ''[[A Bothered Mind]]''.<ref>{{cite web |title=A Bothered Mind – R.L. Burnside {{!}} Songs, Reviews, Credits |url=https://www.allmusic.com/album/a-bothered-mind-mw0000165294 |website=[[AllMusic]] |access-date=17 January 2019 |language=en-us |archive-date=January 17, 2019 |archive-url=https://web.archive.org/web/20190117122318/https://www.allmusic.com/album/a-bothered-mind-mw0000165294 |url-status=live }}</ref>
+
+[[File:Kidrock-in-concert.JPG|thumb|right|Kid Rock performing in Denver, Colorado in 2006]]
+The following year, Kid Rock released his seventh studio album, ''[[Rock n Roll Jesus]]'', which was his first release to chart at #1 on the ''[[Billboard 200]]'', selling 172,000 copies in its first week<ref name="number one">{{cite magazine |last=Cohen |first=Jonathon |title=Kid Rock Rolls to No. 1 Album Chart Debut |magazine=[[Billboard (magazine)|Billboard]]|date=October 17, 2007 |access-date=July 22, 2008 |url=https://www.billboard.com/articles/news/1048009/kid-rock-rolls-to-no-1-album-chart-debut |archive-date=June 9, 2013 |archive-url=https://web.archive.org/web/20130609174640/http://www.billboard.com/articles/news/1048009/kid-rock-rolls-to-no-1-album-chart-debut |url-status=live }}</ref> and going on to sell over 5 million copies.<ref name=Biography/> In July 2007, Kid Rock was featured in the cover of ''[[Rolling Stone magazine|Rolling Stone]]'' magazine for the second time.<ref name="rolling stone">{{cite news |last=Hoard |first=Christopher |title=Kid Rock's Rock and Roll Jesus: Exclusive Sneak Peek |url=https://www.rollingstone.com/rockdaily/index.php/2007/07/12/kid-rocks-rock-and-roll-jesus-exclusive-sneak-peak/|archive-url=https://web.archive.org/web/20071011024450/http://www.rollingstone.com/rockdaily/index.php/2007/07/12/kid-rocks-rock-and-roll-jesus-exclusive-sneak-peak/|url-status=dead|archive-date=October 11, 2007|work=Rock&Roll Daily |date=July 12, 2007 |access-date=July 22, 2008}}</ref> The album's third single, "[[All Summer Long (Kid Rock song)|All Summer Long]]", became a global hit, utilizing a [[Mashup (music)|mash up]] of [[Lynyrd Skynyrd]]'s "[[Sweet Home Alabama]]" and [[Warren Zevon]]'s "[[Werewolves of London]]".<ref>{{cite web |url=http://www.kidrock.com/news/2008/07/16/kid-rock-to-ride-wave-of-success-into-detroit-shows/ |title=Kid Rock to ride wave of success into Detroit shows |publisher=kidrock.com |access-date=July 13, 2010 |archive-date=July 19, 2008 |archive-url=https://web.archive.org/web/20080719190947/http://www.kidrock.com/news/2008/07/16/kid-rock-to-ride-wave-of-success-into-detroit-shows/ |url-status=dead }}</ref>
+
+[[File:Defense.gov photo essay 081217-N-0696M-175.jpg|thumb|left|Kid Rock performing for the [[United Service Organizations|USO]] with [[Kellie Pickler]] and [[Zac Brown]] in 2008]]
+In 2008, Kid Rock recorded and made a music video for the song "Warrior" for a [[U.S. National Guard|National Guard]] advertising campaign.<ref>{{cite web |url=http://www.kidrock.com/news/2008/05/30/kid-rock-national-guard-and-dale-earnhardt-jr-team-up-for-new-commercial/ |title=Kid Rock, National Guard and Dale Earnhardt Jr team up for new commercial |date=May 30, 2008 |access-date=March 9, 2009 |archive-url=https://web.archive.org/web/20080602070411/http://www.kidrock.com/news/2008/05/30/kid-rock-national-guard-and-dale-earnhardt-jr-team-up-for-new-commercial/ |archive-date=June 2, 2008 |url-status=dead |df=mdy-all }}</ref><ref name="Lt. Col. Ellen Krenke">{{cite web|url=http://www.ngb.army.mil/news/archives/2008/08/082208-Kid_Rock.aspx |title=Kid Rock, Earnhardt featured in Army Guard advertising campaign |author=Lt. Col. Ellen Krenke |url-status=dead |archive-url=https://web.archive.org/web/20090611214523/http://www.ngb.army.mil/news/archives/2008/08/082208-Kid_Rock.aspx |archive-date=2009-06-11 }}</ref>
+
+===Continued recording (2009–present)===
+
+In 2010, Kid Rock released his country-oriented eighth studio album, ''[[Born Free (Kid Rock album)|Born Free]]'', produced by [[Rick Rubin]], and featuring guest appearances by Sheryl Crow and [[Bob Seger]].<ref name=Biography/>
+
+In 2011, Kid Rock was honored by the [[NAACP]], which sparked protests stemming from his past display of the Confederate flag in his concerts.<ref name="freepconfederate">{{cite web |title=Kid Rock: Confederate flag was dropped years before protest |url=https://www.freep.com/story/entertainment/music/2015/07/16/kid-rock-flown-confederate-flag-five-years/30226159/ |url-status=live |archive-url=https://web.archive.org/web/20180619114450/https://www.freep.com/story/entertainment/music/2015/07/16/kid-rock-flown-confederate-flag-five-years/30226159/ |archive-date=June 19, 2018 |access-date=February 1, 2018 |website=Freep.com}}</ref> During the ceremony, Kid Rock elaborated on his display of the flag, stating, "[I] never flew the flag with hate in my heart [...] I love America, I love Detroit, and I love black people."<ref name=freepconfederate/> Kid Rock's publicist announced that 2011 was the year he officially distanced himself from the flag.<ref name=freepconfederate/>
+
+The following year, Kid Rock performed alongside [[Travie McCoy]] and [[the Roots]] in honor of Beastie Boys, during the band's induction to the [[Rock and Roll Hall of Fame]].<ref name="hollywoodreporter.com">{{cite web|url=https://www.hollywoodreporter.com/earshot/beastie-boys-adam-yauch-rock-roll-hall-fame-induction-video-320775|title=Beastie Boys Honored By Travie McCoy, Kid Rock, Black Thought During Rock & Roll Hall of Fame Ceremony (Video)|website=Hollywoodreporter.com|date=May 6, 2012|access-date=February 1, 2018|archive-date=January 27, 2018|archive-url=https://web.archive.org/web/20180127202930/https://www.hollywoodreporter.com/earshot/beastie-boys-adam-yauch-rock-roll-hall-fame-induction-video-320775|url-status=live}}</ref><ref name="loudwire.com">{{cite web|url=http://loudwire.com/kid-rock-salutes-late-beastie-boy-adam-yauch/|title=Kid Rock Salutes Late Beastie Boy Adam Yauch|website=Loudwire.com|date=May 6, 2012 |access-date=February 1, 2018|archive-date=October 18, 2017|archive-url=https://web.archive.org/web/20171018034718/http://loudwire.com/kid-rock-salutes-late-beastie-boy-adam-yauch/|url-status=live}}</ref><ref name="http://hiphopdx.com">{{cite web|url=http://hiphopdx.com/news/id.19391/title.black-thought-kid-rock-uestlove-tribute-the-beastie-boys-at-rock-and-roll-hall-of-fame-induction-ceremony|title=Black Thought, Kid Rock, ?uestlove Tribute The Beastie Boys At Rock And Roll Hall Of Fame Induction Ceremony|website=Hiphopdx.com|date=April 15, 2012|access-date=February 1, 2018|archive-date=January 28, 2018|archive-url=https://web.archive.org/web/20180128132636/https://hiphopdx.com/news/id.19391/title.black-thought-kid-rock-uestlove-tribute-the-beastie-boys-at-rock-and-roll-hall-of-fame-induction-ceremony|url-status=live}}</ref> 2012 also saw the release of Kid Rock's ninth studio album, ''[[Rebel Soul (Kid Rock album)|Rebel Soul]]''; he said that he wanted the album to feel like a [[greatest hits]] album, but with new songs.<ref>{{cite magazine|url=https://www.billboard.com/articles/review/1066749/kid-rock-rebel-soul-track-by-track-review|title=Kid Rock, 'Rebel Soul': Track-By-Track Review|magazine=[[Billboard (magazine)|Billboard]]|date=November 20, 2012|access-date=February 1, 2018|archive-date=May 10, 2018|archive-url=https://web.archive.org/web/20180510172548/https://www.billboard.com/articles/review/1066749/kid-rock-rebel-soul-track-by-track-review|url-status=live}}</ref> One of the songs on the album, "Cucci Galore", introduced Kid Rock's [[alter ego]], Bobby Shazam.<ref>{{cite web |url=http://www.mtv.com/news/1697699/kid-rock-bobby-shazam-rebel-soul/ |title=KID ROCK PARTIES HARD WITH 'BOBBY SHAZAM' ON REBEL SOUL |date=November 19, 2012 |publisher=MTV |access-date=March 30, 2020 |archive-date=March 30, 2020 |archive-url=https://web.archive.org/web/20200330031237/http://www.mtv.com/news/1697699/kid-rock-bobby-shazam-rebel-soul/ |url-status=dead }}</ref>
+
+In 2013, Kid Rock performed on the "Best Night Ever" tour, where he motioned to charge no more than $20 for his tickets ({{Inflation|US|20|2013|fmt=eq}}).<ref name="Allmusic"/> The following year, he moved to [[Warner Bros. Records]], releasing his only album on the label, ''[[First Kiss (Kid Rock album)|First Kiss]]'', which he self-produced.<ref name="Allmusic"/> The album debuted at number two on the [[Billboard 200|''Billboard'' 200]] and sold more than 354,000 copies in the United States.<ref>{{cite web |author=Billboard |url=https://www.billboard.com/articles/columns/chart-beat/6487757/big-sean-first-no-1-album-billboard-200 |title=Big Sean Scores His First No. 1 Album on Billboard 200 |publisher=[[Billboard (magazine)|Billboard]] |date=2015-03-04 |access-date=2017-11-03 |archive-date=April 22, 2015 |archive-url=https://web.archive.org/web/20150422233547/http://www.billboard.com/articles/columns/chart-beat/6487757/big-sean-first-no-1-album-billboard-200 |url-status=live }}</ref><ref>{{cite web |url=http://www.metalinsider.net/columns/metal-by-numbers/metallica-ffdp-acdc-among-2015s-biggest-selling-rock-metal-records |title=Metal by Numbers: Metallica, FFDP, AC/DC among 2015's biggest-selling rock, metal records |first=Bram |last=Teitelman |work=MetalInsider.net |date=January 8, 2016 |access-date=January 8, 2016 |archive-date=September 12, 2016 |archive-url=https://web.archive.org/web/20160912151907/http://www.metalinsider.net/columns/metal-by-numbers/metallica-ffdp-acdc-among-2015s-biggest-selling-rock-metal-records |url-status=live }}</ref> Subsequently, after leaving Warner Bros., Kid Rock signed with the country label [[Broken Bow Records]].<ref name="Allmusic"/>
+
+On July 12, 2017, Kid Rock shared a photo of a "Kid Rock for US Senate" yard sign on [[Twitter]].<ref name="kid-rock-teases-senate">{{cite news|url=http://www.washingtonexaminer.com/kid-rock-teases-run-for-us-senate-in-michigan/article/2628468|title=Kid Rock teases run for U.S. Senate in Michigan|last1=Feldscher|first1=Kyle|date=July 12, 2017|work=[[The Washington Examiner]]|access-date=July 12, 2017|quote=Kid Rock, otherwise known as Bob Ritchie, tweeted the Kid Rock For Senate website is real and tweeted a photo of a mock lawn sign.|archive-date=July 12, 2017|archive-url=https://web.archive.org/web/20170712225619/http://www.washingtonexaminer.com/kid-rock-teases-run-for-us-senate-in-michigan/article/2628468|url-status=live}}</ref> However, he denied that he was running, citing his upcoming album release and tour.<ref>{{Cite news|url=http://www.politico.com/story/2017/10/24/kid-rock-no-senate-244105|title=Kid Rock: 'F--- no, I'm not running for Senate'|work=[[Politico]]|access-date=2017-10-24|archive-date=October 24, 2017|archive-url=https://web.archive.org/web/20171024163053/http://www.politico.com/story/2017/10/24/kid-rock-no-senate-244105|url-status=live}}</ref> He later clarified that the campaign was a hoax.<ref name=morningsun>{{cite web|url=http://www.themorningsun.com/arts-and-entertainment/20171102/after-controversies-kid-rock-is-happy-to-taste-some-sweet-southern-sugar|title=After controversies, Kid Rock is happy to taste some "Sweet Southern Sugar"|website=Themorningsun.com|date=November 2, 2017|access-date=November 3, 2017|archive-date=June 12, 2018|archive-url=https://web.archive.org/web/20180612211051/http://www.themorningsun.com/arts-and-entertainment/20171102/after-controversies-kid-rock-is-happy-to-taste-some-sweet-southern-sugar|url-status=live}}</ref> He donated $122,000, raised by selling "Kid Rock for U.S. Senate" merchandise, to a voter registration group.<ref name="amp.detroitnews.com">{{cite web|url=https://amp.detroitnews.com/amp/109696676|title=Kid Rock sends $122K from fake campaign to voter group|website=Amp.detroitnews.com|access-date=February 1, 2018|archive-date=January 26, 2018|archive-url=https://web.archive.org/web/20180126111647/https://amp.detroitnews.com/amp/109696676|url-status=live}}</ref>
+
+Also in July, he released two singles from his next album, "Po-Dunk" and "Greatest Show on Earth", both released on the same day.<ref name="Allmusic"/> In November of that year, he released his eleventh studio album, ''[[Sweet Southern Sugar]]''. The same year also saw Kid Rock publicly advocate measures against ticket scalpers at his shows by making tickets more affordable for fans.<ref name="Kid Rock Takes On The Scalpers">{{cite news|url=https://www.npr.org/blogs/money/2013/06/27/196277836/kid-rock-takes-on-the-scalpers|title=Kid Rock Takes On The Scalpers|website=Npr.org|access-date=November 3, 2017|archive-date=April 24, 2015|archive-url=https://web.archive.org/web/20150424141839/http://www.npr.org/blogs/money/2013/06/27/196277836/kid-rock-takes-on-the-scalpers|url-status=live}}</ref> Instead of getting paid for the show, he gets a percentage of concession and ticket sales.<ref name="Tuttle">{{cite magazine|url=http://business.time.com/2013/06/26/kid-rocks-20-concert-ticket-plan-good-for-fans-bad-for-scalpers/|title=Kid Rock's $20 Concert Ticket Plan: Good for Fans, Bad for Scalpers|first=Brad|last=Tuttle|magazine=[[Time (magazine)|Time]]|date=June 26, 2013|access-date=November 3, 2017|archive-date=September 29, 2017|archive-url=https://web.archive.org/web/20170929181830/http://business.time.com/2013/06/26/kid-rocks-20-concert-ticket-plan-good-for-fans-bad-for-scalpers/|url-status=live}}</ref>
+
+In November 2017, Kid Rock fired his publicist, Kirt Webster, after Webster was accused of sexual misconduct.<ref>{{cite web|url=https://www.rollingstone.com/country/news/kid-rock-fires-publicist-amid-sexual-misconduct-accusations-w510939|title=Kid Rock Fires Nashville Publicist Amid Sexual Misconduct Accusations|website=Rollingstone.com|date=November 2, 2017|access-date=February 1, 2018|archive-date=February 4, 2018|archive-url=https://web.archive.org/web/20180204040902/https://www.rollingstone.com/country/news/kid-rock-fires-publicist-amid-sexual-misconduct-accusations-w510939|url-status=live}}</ref>
+
+In January 2018, the [[National Hockey League]] announced Kid Rock as the headlining entertainer for their [[2018 NHL All-Star Game|January 28 All-Star Game]], sparking negative online responses from some hockey fans.<ref>{{cite web|url=https://www.washingtonpost.com/amphtml/news/early-lead/wp/2018/01/17/nhl-announcement-of-kid-rock-as-all-star-game-entertainer-gets-icy-reaction/|archive-url=https://web.archive.org/web/20180117083016/https://www.washingtonpost.com/amphtml/news/early-lead/wp/2018/01/17/nhl-announcement-of-kid-rock-as-all-star-game-entertainer-gets-icy-reaction/|url-status=dead|archive-date=January 17, 2018|title=NHL announcement of Kid Rock as All-Star Game entertainer gets icy reaction|website=Washingtonpost.com|access-date=February 1, 2018}}</ref><ref name=CBSNHL/> Former hockey player and commentator [[Jeremy Roenick]] praised the choice and condemned Kid Rock's critics.<ref name=CBSNHL>{{cite web|url=https://www.cbssports.com/nhl/news/jeremy-roenick-rips-haters-says-kid-rock-is-the-most-talented-musician-ever/amp/|title=Jeremy Roenick rips haters, says Kid Rock is 'the most talented musician' ever|website=Cbssports.com|access-date=February 1, 2018|archive-date=January 28, 2018|archive-url=https://web.archive.org/web/20180128021247/https://www.cbssports.com/nhl/news/jeremy-roenick-rips-haters-says-kid-rock-is-the-most-talented-musician-ever/amp/|url-status=live}}</ref>
+
+In March 2018, Kid Rock said he would perform on Lynyrd Skynyrd's final tour before the Southern rock band retired, alongside Hank Williams Jr., Bad Company, [[the Marshall Tucker Band]] and [[38 Special (band)|38 Special]].<ref>{{cite web|url=https://amp.detroitnews.com/amp/109794570|title=Lynyrd Skynyrd announce farewell tour starting May 4|website=Amp.detroitnews.com|access-date=February 1, 2018|archive-date=January 28, 2018|archive-url=https://web.archive.org/web/20180128074701/https://amp.detroitnews.com/amp/109794570|url-status=live}}</ref>
+
+Kid Rock released his first greatest hits album titled ''[[Greatest Hits: You Never Saw Coming]]'' on September 21, 2018.
+
+On March 29, 2020, Kid Rock released his first single under the name "DJ Bobby Shazam", entitled "Quarantine", which featured an [[old-school hip hop]] sound. The artist stated all proceeds from the single's sales will go to fight [[COVID-19]].<ref name=DetroitNews>{{cite web |url=https://www.detroitnews.com/story/entertainment/2020/03/29/kid-rock-dj-bobby-shazam-goes-old-school-new-single-quarantine/2935972001/ |title=Listen: Kid Rock, as DJ Bobby Shazam, goes old school on new single 'Quarantine' |date=March 29, 2020 |publisher=Detroit News |access-date=March 30, 2020 |archive-date=March 30, 2020 |archive-url=https://web.archive.org/web/20200330031223/https://www.detroitnews.com/story/entertainment/2020/03/29/kid-rock-dj-bobby-shazam-goes-old-school-new-single-quarantine/2935972001/ |url-status=live }}</ref>
+
+During Kid Rock's 50th birthday livestream, he announced that he would be releasing a [[triple album]] consisting of a hip hop disc, a country music disc and a rock disc which would contain 30 new songs and 20 previously unreleased songs; the first single from the album, "Don't Tell Me How To Live", featuring the band [[Monster Truck (band)|Monster Truck]], was released on November 18, 2021, and featured a rap rock sound reminiscent of his ''Devil Without a Cause'' album.<ref>{{cite web |url=https://amp.freep.com/amp/8675681002 |title=Kid Rock summons 'Devil Without a Cause' in defiant new song 'Don't Tell Me How to Live' |last=McCollum |first=Brian |date=November 19, 2021 |publisher=[[Detroit Free Press]] |access-date=November 20, 2021 |archive-date=November 20, 2021 |archive-url=https://web.archive.org/web/20211120011528/https://amp.freep.com/amp/8675681002 |url-status=live }}</ref> On December 17, 2021, he released a cover of "[[Cowboy's Back in Town|Ala-Freaking-Bama]]" by [[Trace Adkins]] titled "Ala-Fuckin-Bama".<ref>{{cite web|title=Kid Rock Drops New Song, "Ala-Fuckin-Bama"|date=January 10, 2022|url=https://americansongwriter.com/kid-rock-drops-new-song-ala-fuckin-bama/|url-status=live|access-date=January 12, 2022|archive-date=January 12, 2022|archive-url=https://web.archive.org/web/20220112181722/https://americansongwriter.com/kid-rock-drops-new-song-ala-fuckin-bama/}}</ref><ref>{{cite web|title=Kid Rock Releases New Song "Ala-F*ckin-Bama" Ahead Of College Football Playoff|date=December 21, 2021 |url=https://www.whiskeyriff.com/2021/12/21/kid-rock-releases-new-song-ala-fckin-bama-ahead-of-college-football-playoff/|url-status=live|access-date=January 12, 2022|archive-date=January 12, 2022|archive-url=https://web.archive.org/web/20220112181724/https://www.whiskeyriff.com/2021/12/21/kid-rock-releases-new-song-ala-fckin-bama-ahead-of-college-football-playoff/}}</ref>
+
+On January 25, 2022, Kid Rock released a single, "We the People", in which he criticizes the [[News media|media]], [[Anthony Fauci]], face masks, COVID-19 restrictions, and [[Big Tech]] to the chorus of "[[Let's Go Brandon]]".<ref>{{cite news |last=Miller |first=Matthew |url=https://gazette.com/news/listen-kid-rocks-new-single-chants-lets-go-brandon-blasting-fauci-and-big-tech/article_523e681c-39e6-540f-bce6-8c097fcc03e9.html |title=LISTEN: Kid Rock |work=[[The Gazette (Colorado Springs)]] |publisher=[[Washington Examiner]] |date=2022-01-25 |access-date=2022-01-25 |archive-date=January 25, 2022 |archive-url=https://web.archive.org/web/20220125205209/https://gazette.com/news/listen-kid-rocks-new-single-chants-lets-go-brandon-blasting-fauci-and-big-tech/article_523e681c-39e6-540f-bce6-8c097fcc03e9.html |url-status=live }}</ref>  That same day, he also released "Rockin{{' "}} and "The Last Dance". On January 28, 2022, he announced on his upcoming ''Bad Reputation Tour'' that he would not perform at venues that require masks and proof of vaccination and would cancel shows at such places.<ref>{{cite web |url=https://www.texomashomepage.com/entertainment-news/kid-rock-says-hell-cancel-tour-dates-at-venues-with-covid-mandates/ |title=Kid Rock says he'll cancel tour dates at venues with COVID mandates |website=Texomashomepage.com |date= January 28, 2022|access-date=2022-02-01 |archive-date=January 29, 2022 |archive-url=https://web.archive.org/web/20220129204034/https://www.texomashomepage.com/entertainment-news/kid-rock-says-hell-cancel-tour-dates-at-venues-with-covid-mandates/ |url-status=live }}</ref>
+
+On March 10, 2022, Kid Rock announced his upcoming twelfth studio album ''Bad Reputation'', which would include his five previously released singles. It digitally released on March 21, while a physical release of the album occurred on April 6.<ref name="ReferenceB">{{Cite web|url=https://www.blabbermouth.net/news/kid-rocks-bad-reputation-album-to-arrive-this-month-details-revealed/|title = Kid Rock's 'Bad Reputation' Album to Arrive This Month; Details Revealed|date = March 10, 2022}}</ref>
+
+In January 2023, Kid Rock collaborated with Fueled by 808, [[Austin Mahone]], and [[Jimmie Allen]] on the single "No Limits".<ref>{{cite web|url=https://music.apple.com/us/album/no-limits-feat-jimmie-allen-single/1666673732|title=No Limits (feat. Jimmie Allen) - Single by Fueled by 808, Kid Rock, Austin Mahone|website=[[Apple Music]]|access-date=March 11, 2023}}</ref>
+
+== Musical style, artistry and lyrics ==
+[[File:Kid Rock in Camp Phoenix.jpg|right|thumb|240px|Kid Rock at [[Camp Phoenix]] in 2007]]
+In the book ''Is Hip Hop Dead? The Past, Present, and Future of America's Most Wanted Music'', author Mickey Hess identified Kid Rock as connecting [[hip hop music]] to [[rap rock]], due to having started out as a hip hop artist, before shifting his style from [[sampling (music)|sample]]-based hip hop to guitar-driven [[alternative rock]] that fused hip hop beats, boasting and fashion with [[hard rock]] guitar and [[Southern rock]] attitude, influenced by [[classic rock]] and [[country music]].<ref>{{cite book |last=Hess |first=Mickey |title=Hip Hop Dead? The Past, Present, and Future of America's Most Wanted Music |year=2007 |publisher=Greenwood Publishing Group |isbn=978-0-275-99461-7 |pages=[https://archive.org/details/ishiphopdeadpast00hess_0/page/122 122–123] |chapter=White Rappers |chapter-url=https://archive.org/details/ishiphopdeadpast00hess_0/page/122 }}</ref> He is a self-taught musician and has said that he can play every instrument used in his band.<ref name=CBS2012>{{cite web|url=https://www.cbsnews.com/news/kid-rock-motor-citys-bad-boy-does-good/|title=Kid Rock: Motor City's bad boy does good|website=CBSNews.com|date=November 25, 2012 |access-date=February 1, 2018|archive-date=January 28, 2018|archive-url=https://web.archive.org/web/20180128132720/https://www.cbsnews.com/news/kid-rock-motor-citys-bad-boy-does-good/|url-status=live}}</ref> According to ''[[The Village Voice]]'', "[Kid Rock's] own love and incorporation of his musical references isn't rooted in a nostalgia or a 'tribute,' but rather in his actively engaging the elements he finds compelling into a wholly new hodgepodge of his own invention."<ref>{{cite web|url=https://www.villagevoice.com/2013/06/27/in-defense-of-kid-rock-try-hating-these-classics/|title=In Defense of Kid Rock: Try Hating These Classics|website=Villagevoice.com|date=June 27, 2013 |access-date=9 July 2018}}</ref> Because of this unique musical approach, Kid Rock has been described as a [[Postmodernism|postmodern]] artist.<ref>{{cite web |url=http://pop-verse.com/2013/07/01/kid-rock-the-postmodern-paradigm/ |title=Kid Rock: The Postmodern Paradigm |last=Fishman |first=DB |date=July 1, 2013 |publisher=Pop Verse |access-date=2022-09-24 }}</ref><ref>{{cite web |url=https://www.cleveland.com/entertainment/2022/08/kid-rock-uses-trump-biden-to-pander-to-crowd-at-blossom-concert.html |title=Kid Rock uses Trump, Biden to pander to crowd at Blossom concert |last=Heisig |first=Eric |date=August 6, 2022 |publisher=cleveland.com |access-date=2022-09-24}}</ref> ''[[American Songwriter]]'' says that Kid Rock's style ranges from [[hardcore hip hop|hard rap]] to hard rock.<ref>{{cite web |url=https://americansongwriter.com/behind-the-stage-name-kid-rock/ |title=Behind the Stage Name: Kid Rock |last=Uitti |first=Jacob |date=May 2, 2023  |publisher=[[American Songwriter]] |access-date=2023-03-03}}</ref> ''[[CBS]]'' says that Kid Rock's style is a mix of "urban rap, [[rock and roll]] [and] country and western."<ref name=CBS2012/> The musician jokingly described his own style as being "creatively confused".<ref name=CMT>{{cite web|url=http://www.cmt.com/news/1787906/kid-rock-details-sweet-southern-sugar/|title=Kid Rock Details Sweet Southern Sugar|website=Cmt.com|access-date=February 1, 2018|archive-date=February 2, 2018|archive-url=https://web.archive.org/web/20180202101506/http://www.cmt.com/news/1787906/kid-rock-details-sweet-southern-sugar|url-status=dead}}</ref> Reviewing his compilation album ''The History of Rock'', [[David Browne (journalist)|David Browne]] wrote that "Unlike most of his [[rap metal|rap-metal]] peers, Kid Rock doesn't merely have personality to burn (and a surprisingly likable one) but a sense of history as well. He may be the first rock star who views [[Americana (music)|Americana]] as not simply [[blues]], country, and [[boogie rock]] but classic hard rock and rap as well."<ref>{{Cite magazine |url=https://ew.com/article/2000/06/05/history-rock/ |title=The History of Rock |last=Browne |first=David |authorlink=David Browne (journalist) |date=June 5, 2000 |magazine=[[Entertainment Weekly]] |language=en |access-date=September 13, 2018}}</ref> A 2015 piece by the ''Detroit Free Press'' said that Kid Rock reinvented "his persona from scrappy [[hip hop music|hip-hop]] street kid to swaggering [[rap rock|rock-rap]] showman."<ref name=freepearly/> Covering him in a 1998 piece, ''[[MTV]]'' described his sound as having "[[heavy metal music|heavy-metal]] licks and rap riffs".<ref name=MTV>{{cite web|url=http://www.mtv.com/news/500525/kid-rock-raps-with-the-devil/|title=Kid Rock Raps With The Devil|website=Mtv.com|access-date=February 1, 2018|archive-date=January 27, 2018|archive-url=https://web.archive.org/web/20180127202414/http://www.mtv.com/news/500525/kid-rock-raps-with-the-devil/|url-status=dead}}</ref> ''[[AllMusic]]'' described him as a "country rap-rocker" and his music as "rap-meets-rock-meets-country".<ref name="Kid Rock AllMusic1">{{cite web |url={{AllMusic|class=artist|id=p15074|pure_url=yes}} |title=Biography of Kid Rock |author=Huey, Steve |website=[[AllMusic]] |access-date=5 April 2010}}</ref> ''MTV'' said that Kid Rock's album ''Devil Without a Cause'' helped to "ignite the rap-rock genre" and that the musician broke through into mainstream success "during the peak of rap-rock and [[nu metal|nü-metal]]".<ref>{{cite web|url=http://www.mtv.com/bands/m/metal_meltdown/news_feature_030124/index3.jhtml |title=Nu Metal Meltdown |publisher=MTV |url-status=dead |archive-url=https://web.archive.org/web/20030201100950/http://www.mtv.com/bands/m/metal_meltdown/news_feature_030124/index3.jhtml |archive-date=2003-02-01 |access-date=2023-04-26}}</ref> In a 2015 interview with ''Rolling Stone'', Kid Rock disavowed nu metal, saying that the genre was "not melodic and doesn't stand the test of time."<ref>{{cite web |title= Kid Rock Says Nu Metal Didn't Stand the Test of Time, Limp Bizkit Were Horrible to Roadies |website=Theprp.com |date= 20 March 2015 |access-date= 1 July 2018 |url= https://www.theprp.com/2015/03/20/news/kid-rock-says-nu-metal-didnt-stand-the-test-of-time-limp-bizkit-were-horrible-to-roadies/ |archive-date= June 20, 2018 |archive-url= https://web.archive.org/web/20180620153116/https://www.theprp.com/2015/03/20/news/kid-rock-says-nu-metal-didnt-stand-the-test-of-time-limp-bizkit-were-horrible-to-roadies/ |url-status= live }}</ref> In a review of his album ''Sweet Southern Sugar'', ''Cryptic Rock'' said that after ''Devil Without a Cause'' established him as a rap rock artist, "albums that were saturated in [[old school hip hop]] slowly but surely began to transform into the Southern [[country rock]] landscape that has built Kid Rock's persona."<ref name=crypticrock>{{cite web|url=http://crypticrock.com/kid-rock-sweet-southern-sugar-album-review/|title=Kid Rock – Sweet Southern Sugar (Album Review) – Cryptic Rock|website=Crypticrock.com|date=November 3, 2017|access-date=February 1, 2018|archive-date=January 27, 2018|archive-url=https://web.archive.org/web/20180127203327/http://crypticrock.com/kid-rock-sweet-southern-sugar-album-review/|url-status=live}}</ref> In a review of his album ''Born Free'', [[Stephen Thomas Erlewine]] wrote that the musician "has slowly abandoned rap for country as he crept closer to middle age",<ref name=AllmusicBornFree>{{cite web|url=https://www.allmusic.com/album/born-free-r2032804/review|title=Born Free – Kid Rock – Songs, Reviews, Credits – AllMusic|website=[[AllMusic]]|access-date=February 1, 2018|archive-date=April 30, 2012|archive-url=https://web.archive.org/web/20120430214518/http://allmusic.com/album/born-free-r2032804/review|url-status=live}}</ref> and while reviewing the subsequent album ''Rebel Soul'', Erlewine said that Kid Rock "[planted] his flag on that old-time rock & roll".<ref>{{cite web|last=Erlewine|first=Stephen Thomas|title=Allmusic review|website=[[AllMusic]] |url=http://www.allmusic.com/album/rebel-soul-mw0002428080|accessdate=May 31, 2013}}</ref> ''[[Billboard (magazine)|Billboard]]'' said that Kid Rock "fits comfortably into a modern country-rock landscape that seems practically tailor-made for him: a God-fearing good old boy with a [[hard rock|hard-rock]] heart and an [[outlaw country|outlaw-country]] spirit."<ref>{{cite web|url=http://www.billboard.com/articles/review/6480283/album-review-kid-rock-first-kiss |title=Album Review: Kid Rock Grows Up and Gives Thanks on 'First Kiss' |publisher=[[Billboard (magazine)|Billboard]]|date=2015-02-23 |access-date=2015-03-01}}</ref> Kid Rock's influences include [[Bob Seger]]<ref name="freepearly" /> and [[Beastie Boys]].<ref name="Biography" /> Regarding his influences, Kid Rock said, "I don't think there isn't anything that hasn't influenced me musically."<ref name=CMT/>
+
+Summarizing his lyrical themes in a review of his album ''Cocky'', ''Entertainment Weekly'' wrote of Kid Rock, "Anyone willing to chug [[Budweiser|Buds]], smoke [[cannabis (drug)|pot]], and salute the flag can find a place in Rock's unexpectedly optimistic dreamworld, where the sleaze nation commingles in a warped fantasy of pan-trash peace and harmony." The magazine categorized his lyrics as describing the "ideal of a world where rappers can sip whiskey with rednecks".<ref name=EWCocky>{{cite magazine|last=Brunner|first=Rob|title=EW review|url=https://www.ew.com/ew/article/0,,184878,00.html|access-date=31 May 2013|magazine=Entertainment Weekly|date=19 November 2001|archive-date=July 12, 2014|archive-url=https://web.archive.org/web/20140712190157/http://www.ew.com/ew/article/0,,184878,00.html|url-status=dead}}</ref> According to Kid Rock, a fundamental theme in the lyrics of his songs is that "there's still a lot of good left in people, no matter what they do", reflected in his lyrics for "Bawitdaba", which he dedicated to, among others, "[[stripper|topless dancers]]" and drug users. He explained in a 2000 ''Rolling Stone'' interview, "I've got a lot of faith in people. Whether it's some kid with a trust fund that people tease because he's got a trust fund, you know. I think there's some good ones out there, just like I think there's some good crackheads out there. It works both ways."<ref name=Heath/> Kid Rock developed a "redneck pimp" alter ego to complement his humorous lyrics.<ref name=Heath>{{Cite magazine |last=Heath |first=Chris |date=2000-06-22 |title=The Low Times and High Life of Kid Rock |url=https://www.rollingstone.com/music/music-features/the-low-times-and-high-life-of-kid-rock-200153/ |access-date=2022-08-25 |magazine=[[Rolling Stone]] |language=en-US |archive-url=https://web.archive.org/web/20180128074646/https://www.rollingstone.com/music/news/the-low-times-and-high-life-of-kid-rock-20000622 |archive-date=2018-01-28}}</ref> According to Kid Rock, "I use straightforward words, you know. I'm not politically correct."<ref name=Heath/>
+
+His song "Cowboy" is considered a pioneering song in the [[country rap]] genre.<ref>{{cite web |title=The White-Rapper Taxonomy |url=https://www.theringer.com/music/2020/10/6/21502594/history-of-white-rappers-eminem-vanilla-ice-mac-miller |first=Justin |last=Sayles |work=The Ringer |date=October 6, 2020 |access-date=October 22, 2020 |archive-date=October 24, 2020 |archive-url=https://web.archive.org/web/20201024034119/https://www.theringer.com/music/2020/10/6/21502594/history-of-white-rappers-eminem-vanilla-ice-mac-miller |url-status=live }}</ref> ''[[Cowboys & Indians (magazine)|Cowboys & Indians]]'' claims that "Cowboy" had a major impact on the country music scene; the magazine wrote that artists [[Jason Aldean]] and [[Big & Rich]], among others, were influenced by the song's country rap style.<ref name=cowboysindians/> Kid Rock also had an impact on hip hop, serving as an influence on rappers like [[Yelawolf]].<ref>{{Cite web |last=Lacy |first=Eric |date=2014-11-19 |title=Yelawolf on Shady XV contribution, Eminem's loyalty: 'It's an honor ... There's nobody like him' |url=https://www.mlive.com/entertainment/detroit/2014/11/yelawolf.html |access-date=2022-08-28 |website=mlive |language=en}}</ref>
+
+==Personal life==
+[[File:Pamela Anderson and Kid Rock.jpg|thumb|180px|Kid Rock and former spouse [[Pamela Anderson]] in 2003]]
+In eighth grade, Ritchie began an [[on-and-off relationship]] with classmate Kelley South Russell that lasted for the next decade.<ref name=Biography/><ref name=Heartbreak>{{cite web|url=https://www.rollingstone.com/music/features/kid-rocks-cure-for-heartbreak-20071018|title=Kid Rock's Cure for Heartbreak|website=Rollingstone.com|date=October 18, 2007|access-date=November 3, 2017|archive-date=November 21, 2017|archive-url=https://web.archive.org/web/20171121144410/http://www.rollingstone.com/music/features/kid-rocks-cure-for-heartbreak-20071018|url-status=live}}</ref><ref name=freepearly/> In summer 1993, Russell gave birth to their son, Robert James Ritchie Jr.<ref name=Biography/><ref name=freepearly/> They raised a total of three children together, two of whom Ritchie believed to be his. They split up in late 1993 when Ritchie discovered that only one of the two was his.<ref name=freepearly/> He subsequently raised his son as a single father.<ref>{{cite web |url=http://www.theboot.com/2011/04/25/kid-rock-son-junior/ |title=Kid Rock Takes Role of Fatherhood Seriously |publisher=The Boot |date=April 25, 2011 |access-date=2012-02-22 |archive-date=December 17, 2012 |archive-url=https://web.archive.org/web/20121217020520/http://www.theboot.com/2011/04/25/kid-rock-son-junior |url-status=live }}</ref>
+
+In 2000, ''[[Rolling Stone]]'' reported that Ritchie was dating model [[Jaime King]].<ref name=RollingStoneLowTimes>{{cite web|url=https://www.rollingstone.com/music/news/the-low-times-and-high-life-of-kid-rock-20000622|title=The Low Times and High Life of Kid Rock|website=Rollingstone.com|date=June 22, 2000|access-date=February 1, 2018|archive-date=January 28, 2018|archive-url=https://web.archive.org/web/20180128074646/https://www.rollingstone.com/music/news/the-low-times-and-high-life-of-kid-rock-20000622|url-status=live}}</ref> He began dating actress [[Pamela Anderson]] in 2001 and they became engaged in April 2002, but ended their relationship in 2003.<ref name=Biography/> They later reconciled and were married in July 2006.<ref name="marriage">{{cite news |url=http://www.people.com/people/article/0,26334,1219944,00.html |title=Pamela Anderson, Kid Rock Tie the Knot |last1=Rubin |first1=Courtney |last2=Kennedy |first2=Dana |last3=Wilson |first3=Nancy |work=[[People (magazine)|People]] |date=July 31, 2006 |access-date=July 22, 2008 |archive-date=July 25, 2008 |archive-url=https://web.archive.org/web/20080725083127/http://www.people.com/people/article/0,26334,1219944,00.html |url-status=dead }}</ref> Three months later, on November 10, it was announced that Anderson, who had been pregnant with Ritchie's child, had miscarried.<ref>{{cite web|title=Pamela Anderson Suffers a Miscarriage|url=http://www.people.com/people/article/0,,1557773,00.html|work=[[People (magazine)|People]]|publisher=[[Time (magazine)|Time]]|access-date=August 2, 2010|date=November 10, 2006|archive-date=January 9, 2011|archive-url=https://web.archive.org/web/20110109053625/http://www.people.com/people/article/0,,1557773,00.html|url-status=dead}}</ref> On November 27, she filed for divorce from Ritchie in Los Angeles County Superior Court, citing irreconcilable differences.<ref>{{cite web|url=http://www.accesshollywood.com/news/ah2832.shtml|archive-url=https://web.archive.org/web/20070712233524/http://www.accesshollywood.com/news/ah2832.shtml|archive-date=July 12, 2007|title=Access Hollywood|access-date=February 26, 2007}}</ref><ref>{{cite web|url=http://www.spin.com/features/news/2006/11/061128_pamkidrock/ |title=Spin.com |access-date=2007-02-26 |url-status=dead |archive-url=https://web.archive.org/web/20070319104503/http://www1.spin.com/features/news/2006/11/061128_pamkidrock/ |archive-date=2007-03-19 }}</ref> Ritchie later claimed that the divorce was due to Anderson openly criticizing his mother and sister in front of his son.<ref>{{cite magazine |url=http://www.contactmusic.com/news.nsf/story/kid-rock-i-divorced-anderson-for-my-son_1045864 |title=Kid Rock &#124; Kid Rock: 'I Divorced Anderson For My Son' |magazine=Contactmusic |access-date=2012-02-22 |archive-date=February 1, 2022 |archive-url=https://web.archive.org/web/20220201180709/https://www.contactmusic.com/kid-rock/news/kid-rock-i-divorced-anderson-for-my-son_1045864 |url-status=live }}</ref>
+
+In 2014, Ritchie became a grandfather when his son's girlfriend gave birth to a daughter.<ref name=Biography/> In November 2017, he became engaged to longtime girlfriend Audrey Berry.<ref>{{cite web|url=http://www.freep.com/story/entertainment/music/2017/04/11/kid-rock-gets-engaged-longtime-girlfriend/100348956/|title=Kid Rock gets engaged to longtime girlfriend Audrey Berry|website=Freep.com|access-date=November 3, 2017|archive-date=October 13, 2017|archive-url=https://web.archive.org/web/20171013173057/http://www.freep.com/story/entertainment/music/2017/04/11/kid-rock-gets-engaged-longtime-girlfriend/100348956/|url-status=live}}</ref> The couple met in suburban Detroit, not long after he and Anderson finalized their divorce in 2007. He spotted her at a restaurant and asked her out immediately, leading to their first date in Chicago the next day.<ref>{{cite web |title=Who Is Kid Rock's Fiancée? All About Audrey Berry |url=https://people.com/who-is-audrey-berry-kid-rock-8662098 |website=Peoplemag |access-date=12 June 2024 |language=en}}</ref> 
+
+Ritchie is an ordained minister and has a [[firearm]] collection.<ref name="Guardian">{{cite news|first=Ed|last=Cumming|url=https://www.theguardian.com/music/2015/jan/03/kid-rock-this-much-i-know|title=Kid Rock: This Much I Know|newspaper=[[The Guardian]]|date=3 January 2015|access-date=21 February 2018|archive-date=March 8, 2018|archive-url=https://web.archive.org/web/20180308015457/https://www.theguardian.com/music/2015/jan/03/kid-rock-this-much-i-know|url-status=live}}</ref> He has called [[Nashville, Tennessee|Nashville]] a part-time home since 2005, and also splits time between his native Detroit and [[Alabama]].<ref name="Tennessean">{{cite news|first=Getahn|last=Ward|url=https://www.tennessean.com/story/money/real-estate/2015/04/17/kid-rock-buys-acres-whites-creek/25959889/|title=Kid Rock buys 102 acres in Whites Creek|newspaper=[[The Tennessean]]|date=18 April 2015|access-date=21 February 2018}}</ref>
+
+== Public image and controversies ==
+[[File:Defense.gov photo essay 071220-N-0696M-280.jpg|thumb|Kid Rock performs at the USO Holiday Tour stop at Logistics Support Area Anaconda, Balad, [[Iraq]], Dec. 20, 2007.]]
+Ritchie oversees The Kid Rock Foundation, a charity which raises funds for multiple causes, including campaigns which sent "Kid Rock care packages" to U.S. military personnel stationed overseas.<ref name=cowboysindians/> Ritchie is an advocate for affordable concert tickets. He sells tickets for as low as possible to increase concert attendance for lower income consumers, and to discourage scalping.<ref name="Kid Rock Takes On The Scalpers"/><ref name=HuffPost2013/> Instead of getting paid for the show, he gets a percentage of concession and ticket sales.<ref name="Tuttle"/>
+
+In 1989, Ritchie became a shareholder of the independent record label Top Dog Records, formed by Alvin Williams and Earl Blunt of EB-Bran Productions, in 1988; Ritchie's investment in the company gave him 25% ownership.<ref name="mtv.com"/> In 2001, he filed a lawsuit to gain full control over the Top Dog record label, resulting in his receiving full ownership of the label in 2003.<ref name="blabbermouth.net"/><ref>{{cite web |first=Alyssa |last=Rashbaum |url=http://www.mtv.com/news/1495768/kid-rock-to-remain-top-dog-court-says/ |title=Kid Rock To Remain Top Dog, Court Says |publisher=MTV.com. |date=2005-01-12 |access-date=2018-02-01 |archive-date=2018-01-28 |archive-url=https://web.archive.org/web/20180128021148/http://www.mtv.com/news/1495768/kid-rock-to-remain-top-dog-court-says/ |url-status=dead}}</ref> Ritchie also founded Kid Rock's Made in Detroit restaurant and bar, which specializes in Southern-style cuisine.<ref>{{cite news |url=https://www.metrotimes.com/detroit/review-is-kid-rocks-made-in-detroit-bar-worth-its-salt/Content?oid=7494278 |title=Review: Is Kid Rock's Made in Detroit restaurant worth its salt? |last=Perkins |first=Tom |date=November 29, 2017 |newspaper=Detroit Metro Times |access-date=April 19, 2018 |archive-date=April 19, 2018 |archive-url=https://web.archive.org/web/20180419121352/https://www.metrotimes.com/detroit/review-is-kid-rocks-made-in-detroit-bar-worth-its-salt/Content?oid=7494278 |url-status=live }}</ref>
+
+In March 1991 and again in September 1997, Ritchie faced [[misdemeanor]] charges stemming from alcohol-related arrests in Michigan.<ref>{{cite web |title=The Smoking Gun : Mugshots |date=2010-11-18 |url=http://www.thesmokinggun.com/mugshots/celebrity/music/kid-rock |access-date=2012-12-14 |archive-date=June 19, 2018 |archive-url=https://web.archive.org/web/20180619113040/http://www.thesmokinggun.com/mugshots/celebrity/music/kid-rock |url-status=live}}</ref>
+
+Also in 1997, Kid Rock wrote the song "Cool, Daddy Cool" which was later used in the 2001 children's movie [[Osmosis Jones]]. In the song, Kid Rock said the controversial lyrics "Young ladies, young ladies, I like ’em underage see, Some say that’s statutory (But I say it’s mandatory) [Joe C. saying the mandatory line]".<ref>{{Citation |title=Kid Rock (Ft. Joe-C) – Cool, Daddy Cool |url=https://genius.com/Kid-rock-cool-daddy-cool-lyrics |access-date=2024-07-19}}</ref><ref>{{Cite web |last=Schaffner |first=Lauryn SchaffnerLauryn |date=2023-04-06 |title=That Time Kid Rock Sang 'I Like 'Em Underage' in a Song on a Kids Movie Soundtrack |url=https://loudwire.com/kid-rock-sang-underage-song-kids-movie-soundtrack-osmosis-jones/ |access-date=2024-07-19 |website=Loudwire |language=en}}</ref>
+
+In 2002, Kid Rock performed alongside [[Chuck D]] and [[Grandmaster Flash]] in tribute to slain DJ [[Jam Master Jay]].<ref>{{cite web |first=Corey |last=Moss |url=http://www.mtv.com/news/1458922/jam-master-jay-to-be-honored-by-kid-rock-chuck-d-at-vh1-awards/ |title=Jam Master Jay To Be Honored By Kid Rock, Chuck D At VH1 Awards |publisher=MTV.com |date=2002-11-27 |access-date=2018-02-01 |archive-date=2018-01-27 |archive-url=https://web.archive.org/web/20180127203058/http://www.mtv.com/news/1458922/jam-master-jay-to-be-honored-by-kid-rock-chuck-d-at-vh1-awards/ |url-status=dead}}</ref> In September 2005, Kid Rock filled in for [[Johnny Van Zant]], the lead singer of Lynyrd Skynyrd, on the band's hit "Sweet Home Alabama" at the [[Hurricane Katrina]] benefit concert.<ref name=bnet>{{cite news |url=http://findarticles.com/p/articles/mi_qn4188/is_20050909/ai_n15371925 |title=Many concerts to benefit Hurricane Katrina victims |work=Deseret News |location=Salt Lake City |last=Iwasaki |first=Scott |date=September 9, 2005 |access-date=July 22, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20081014230249/http://findarticles.com/p/articles/mi_qn4188/is_20050909/ai_n15371925 |archive-date=October 14, 2008 }}</ref>
+
+Kid Rock's performance at [[Super Bowl XXXVIII]] in 2004 drew criticism from [[Veterans of Foreign Wars]] and Senator [[Zell Miller]] for cutting a hole in an American flag and wearing it as a [[poncho]]; Ritchie was accused of "[[Flag desecration|desecrating]]" the flag.<ref name="Biography" /><ref name="blasts">{{cite web |title=Artsandentartainment: VFW slams Kid Rock for flag poncho |url=http://www.sptimes.com/2004/02/04/Artsandentartainment/VFW_slams_Kid_Rock_fo.shtml |url-status=live |archive-url=https://web.archive.org/web/20170610120713/http://www.sptimes.com/2004/02/04/Artsandentartainment/VFW_slams_Kid_Rock_fo.shtml |archive-date=June 10, 2017 |access-date=2012-02-22 |publisher=Sptimes.com}}</ref><ref>{{cite web |first=Justin |last=George |url=http://www.sptimes.com/2004/02/04/Artsandentartainment/VFW_slams_Kid_Rock_fo.shtml |title=Artsandentartainment: VFW slams Kid Rock for flag poncho |publisher=Sptimes.com |date=February 4, 2004 |access-date=February 22, 2012 |archive-date=June 10, 2017 |archive-url=https://web.archive.org/web/20170610120713/http://www.sptimes.com/2004/02/04/Artsandentartainment/VFW_slams_Kid_Rock_fo.shtml |url-status=live}} </ref><ref>{{cite web |date=February 13, 2004 |title=Senator Blasts Kid Rock For Wearing Flag |url=http://www.blabbermouth.net/news/senator-blasts-kid-rock-for-wearing-flag/ |url-status=live |archive-url=https://web.archive.org/web/20180128074606/http://www.blabbermouth.net/news/senator-blasts-kid-rock-for-wearing-flag/ |archive-date=January 28, 2018 |access-date=February 1, 2018 |website=Blabbermouth.net}}</ref>
+
+In January 2005, Ritchie performed at the inaugural address of reelected president [[George W. Bush]], sparking criticism from [[conservative]] groups, due to singing about "how he sexually exploits every girl and then asks them if he can do it with their moms".<ref>[http://www.blabbermouth.net/news/kid-rock-s-scheduled-appearance-at-bush-inaugural-shocking/ KID ROCK's Scheduled Appearance At BUSH Inaugural 'Shocking'] {{Webarchive |url=https://web.archive.org/web/20180418230021/http://www.blabbermouth.net/news/kid-rock-s-scheduled-appearance-at-bush-inaugural-shocking/ |date=2018-04-18 }} (January 6, 2005). [[Blabbermouth.net]]</ref>
+
+Also in 2005, Ritchie was charged with assaulting a DJ in a strip club.<ref name=Biography/><ref name="blabbermouth">{{cite news|agency=[[Associated Press]] |title=Kid Rock sued for $575,000 over assault at jons house |work=BlabberMouth.net |date=June 16, 2005 |access-date=July 22, 2008 |url=http://www.roadrunnerrecords.com/blabbermouth.net/news.aspx?mode=Article&newsitemID=38135 |url-status=dead |archive-url=https://web.archive.org/web/20081221014856/http://www.roadrunnerrecords.com/blabbermouth.net/news.aspx?mode=Article&newsitemID=38135 |archive-date=December 21, 2008 }}</ref>
+
+In 2006, California pornographic film company [[Red Light District Video|Red Light District]] attempted to distribute a 1999 [[sex tape]] in which Kid Rock and [[Scott Stapp]], lead singer of the band [[Creed (band)|Creed]], are seen partying and receiving [[oral sex]] from [[Groupie|groupies]]; both Rock and Stapp filed with the California courts to sue the pornographers to stop the tape's distribution.<ref>{{cite web |last=Abramovitch |first=Seth |title=Welcome To The Kid Rock-Scott Stapp Sex Tape |url=http://gawker.com/155329/welcome-to-the-kid-rock+scott-stapp-sex-tape |publisher=Gawker |access-date=February 16, 2006 |url-status=dead |archive-url=https://web.archive.org/web/20110704200538/http://gawker.com/155329/welcome-to-the-kid-rock%2Bscott-stapp-sex-tape |archive-date=2011-07-04 }}</ref><ref>{{cite magazine |url=https://www.billboard.com/articles/news/59628/kid-rock-sues-to-block-sale-of-sex-tape |title=Kid Rock Sues To Block Sale Of Sex Tape |magazine=[[Billboard (magazine)|Billboard]]|date=February 22, 2006 |access-date=2012-02-22 |archive-date=August 19, 2020 |archive-url=https://web.archive.org/web/20200819212101/https://www.billboard.com/articles/news/59628/kid-rock-sues-to-block-sale-of-sex-tape |url-status=live }}</ref>
+
+At the [[2007 MTV Video Music Awards]], Ritchie got into a fistfight with [[Mötley Crüe]] drummer [[Tommy Lee]], another ex of Pamela Anderson's, and was charged with assault.<ref name=Biography/><ref name="motley attack">{{cite news |title=Kid Rock Cited for Misdemeanor Assault |url=http://www.moono.com/news/news05595.html |date=September 11, 2007 |work=Moono.com |publisher=UGO Networks |access-date=July 22, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20080904235100/http://moono.com/news/news05595.html |archive-date=September 4, 2008 }}</ref> A month later, he was arrested and charged with [[Battery (crime)|battery]] after fighting with a [[Waffle House]] customer.<ref name=Biography/><ref>{{cite news |first=Ray |last=McDonald |title=Musician Kid Rock Arrested Following Restaurant Fight |date=October 22, 2007 |publisher=Voice of America |url=http://voanews.com/english/archive/2007-10/2007-10-22-voa26.cfm |work=VOA News |access-date=January 2, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20080914120144/http://voanews.com/english/archive/2007-10/2007-10-22-voa26.cfm |archive-date=September 14, 2008 }}</ref> He pleaded [[nolo contendere|no contest]] to one count and was fined $1,000, as well as being required to perform 80 hours of community service and complete a six-hour [[anger management]] course.<ref name="anger management">{{cite news |publisher=Now Magazine |access-date=July 28, 2008 |date=July 27, 2008 |url=http://www.nowmagazine.co.uk/celebrity-news/267656/kid-rock-to-attend-anger-management-classes/1/ |title=Kid Rock to Attend Anger Management Classes |archive-date=December 19, 2008 |archive-url=https://web.archive.org/web/20081219002818/http://www.nowmagazine.co.uk/celebrity-news/267656/kid-rock-to-attend-anger-management-classes/1/ |url-status=live }}</ref>
+
+In 2007 and 2008, Ritchie toured for the [[United Service Organizations]].<ref>{{cite web|url=http://www.mtv.com/news/1648554/kid-rock-doesnt-want-praise-for-touring-with-uso/|title=Kid Rock Doesn't Want Praise For Touring With USO|first=James|last=Montgomery|website=MTV News|access-date=April 18, 2018|archive-date=April 18, 2018|archive-url=https://web.archive.org/web/20180418225525/http://www.mtv.com/news/1648554/kid-rock-doesnt-want-praise-for-touring-with-uso/|url-status=dead}}</ref> Also in 2008, Ritchie recorded and made a music video for the song "Warrior" for a [[U.S. National Guard|National Guard]] advertising campaign.<ref name="Lt. Col. Ellen Krenke" /><ref>{{cite web |url=http://www.kidrock.com/news/2008/05/30/kid-rock-national-guard-and-dale-earnhardt-jr-team-up-for-new-commercial/ |archive-url=https://web.archive.org/web/20080602070411/http://www.kidrock.com/news/2008/05/30/kid-rock-national-guard-and-dale-earnhardt-jr-team-up-for-new-commercial/ |url-status=dead |archive-date=June 2, 2008 |title=Kid Rock, National Guard and Dale Earnhardt Jr team up for new commercial |date=May 30, 2008 |access-date=March 9, 2009 }}</ref>[[File:Kid Rock Al Asad 2.jpg|thumb|left|upright=0.8|Kid Rock performs for service members during a USO tour at [[Al Asad Airbase]]'s Jordan-Hare Stadium in [[Iraq]], 2008]]
+In 2011, Ritchie was honored by the [[NAACP]], which sparked protests stemming from his past display of the [[Confederate flag]] in his concerts.<ref name=freepconfederate/> During the ceremony, Kid Rock elaborated on his display of the flag, stating, "[I] never flew the flag with hate in my heart [...] I love America, I love Detroit, and I love black people."<ref name=freepconfederate/> Ritchie's publicist announced that 2011 was the year he officially distanced himself from the flag.<ref name=freepconfederate/> Kid Rock stopped displaying the Confederate flag at his concerts since 2007.<ref name="freepconfederate" /> 
+
+In 2012, Kid Rock performed alongside Travie McCoy and the Roots in honor of Beastie Boys, during the band's induction to the Rock and Roll Hall of Fame.<ref name="hollywoodreporter.com"/><ref name="loudwire.com"/><ref name="http://hiphopdx.com"/>
+
+In 2013, Ritchie criticized Republican lawmakers in New York for passing laws which made it difficult for him to keep concert ticket prices low.<ref name=HuffPost2013>{{cite news|first=Kia|last=Makarechi|url=https://www.huffingtonpost.com/2013/04/11/kid-rock-republican-embarrassed_n_3061345.html|title=Kid Rock On Republicans: 'I'm F-king Embarrassed'|work=[[HuffPost]]|date=April 11, 2013|access-date=February 25, 2015|archive-date=February 25, 2015|archive-url=https://web.archive.org/web/20150225030529/http://www.huffingtonpost.com/2013/04/11/kid-rock-republican-embarrassed_n_3061345.html|url-status=live}}</ref>
+
+In January 2015, Ritchie was criticized by fans for appearing in a photograph holding up a dead [[cougar]] that was killed on a hunting trip with [[Ted Nugent]].<ref>{{cite news | first=Katy | last=Forrester | title=Kid Rock ANGERS fans by posing with a dead cougar – grisly snap was posted online after hunting trip | publisher=[[mirror.co.uk]] | url=https://www.mirror.co.uk/3am/celebrity-news/kid-rock-angers-fans-posing-5016925 | date=January 21, 2015 | access-date=19 June 2016 | archive-date=April 18, 2018 | archive-url=https://web.archive.org/web/20180418225801/https://www.mirror.co.uk/3am/celebrity-news/kid-rock-angers-fans-posing-5016925 | url-status=live }}</ref>
+
+In 2015, following the [[Charleston church shooting]], the Michigan chapter of the National Action Network protested outside of the Detroit Historical Museum which honored Ritchie; activists urged Ritchie to renounce the [[Confederate flag]], which he had displayed in concerts from 2001 to 2006.<ref name="metroconfederateflag">{{cite web |title=Kid Rock and the Confederate flag: a history |url=https://m.metrotimes.com/city-slang/archives/2017/08/15/kid-rock-and-the-confederate-flag-a-history |url-status=live |archive-url=https://web.archive.org/web/20180127203524/https://m.metrotimes.com/city-slang/archives/2017/08/15/kid-rock-and-the-confederate-flag-a-history |archive-date=January 27, 2018 |access-date=February 1, 2018 |website=Detroit Metro Times}}</ref><ref name="freep.com">{{cite web |title=Activists call on Kid Rock to renounce Confederate flag |url=http://www.freep.com/story/news/local/2015/07/06/kid-rock-confederate-flag/29764611/ |url-status=live |archive-url=https://web.archive.org/web/20180308162221/https://www.freep.com/story/news/local/2015/07/06/kid-rock-confederate-flag/29764611/ |archive-date=March 8, 2018 |access-date=February 1, 2018 |website=Freep.com}}</ref> Ritchie wrote an email to [[Fox News Channel]] host [[Megyn Kelly]], stating, "Please tell the people who are protesting to kiss my ass".<ref name="rollingstone.com">{{cite web |date=July 10, 2015 |title=Kid Rock Tells Confederate Flag Protestors to 'Kiss My Ass' |url=https://www.rollingstone.com/music/news/kid-rock-tells-protestors-to-kiss-my-ass-over-confederate-flag-20150710 |url-status=live |archive-url=https://web.archive.org/web/20180128074640/https://www.rollingstone.com/music/news/kid-rock-tells-protestors-to-kiss-my-ass-over-confederate-flag-20150710 |archive-date=January 28, 2018 |access-date=February 1, 2018 |website=Rollingstone.com}}</ref> The same day, the National Action Network protested [[Chevrolet]] for sponsoring Ritchie's tour.<ref name="ReferenceA">{{cite web |title=Civil rights group to GM: Pull support from Kid Rock |url=http://www.freep.com/story/entertainment/music/2015/07/10/demand-gm--pull--rock/29973131/ |url-status=live |archive-url=https://web.archive.org/web/20170516164505/http://www.freep.com/story/entertainment/music/2015/07/10/demand-gm--pull--rock/29973131/ |archive-date=May 16, 2017 |access-date=February 1, 2018 |website=Freep.com}}</ref>
+
+In September 2016, Ritchie was criticized for allegedly saying "man, fuck [[Colin Kaepernick]]" during a live performance of his song "[[Born Free (Kid Rock album)|Born Free]]".<ref name="metroconfederateflag" />
+
+On April 6, 2018, Ritchie was inducted into the Celebrity Wing of the [[WWE Hall of Fame]] during the weekend of [[WrestleMania 34]].<ref>{{cite magazine|url=https://www.billboard.com/articles/columns/rock/8240749/kid-rock-wwe-hall-of-fame-induction-wrestlemania-34|title=Kid Rock To Be Inducted Into WWE Hall of Fame During WrestleMania 34 Weekend: Exclusive|magazine=[[Billboard (magazine)|Billboard]]|date=March 12, 2018|access-date=12 March 2018|archive-date=November 9, 2020|archive-url=https://web.archive.org/web/20201109035020/https://www.billboard.com/articles/columns/rock/8240749/kid-rock-wwe-hall-of-fame-induction-wrestlemania-34|url-status=live}}</ref>
+
+On November 30, 2019, Ritchie drew controversy after he was recorded making a series of inappropriate and inflammatory statements while intoxicated at his restaurant in [[Nashville]], including about [[Oprah Winfrey]] and [[Joy Behar]].<ref>{{cite web|url=https://www.tmz.com/2019/11/29/kid-rock-drunk-rant-oprah-winfrey-not-racist-nashville/|title=Kid Rock Drunk Rant about Oprah in Nashville|website=TMZ|date=November 30, 2019 |access-date=April 9, 2020|archive-date=March 2, 2020|archive-url=https://web.archive.org/web/20200302140347/https://www.tmz.com/2019/11/29/kid-rock-drunk-rant-oprah-winfrey-not-racist-nashville/|url-status=live}}</ref> After receiving major pushback for his comments, Ritchie decided to close the Detroit branch of his restaurant in December 2019, located at the [[Little Caesars Arena|Little Caesar's Arena]]. When asked for comment about the closure, he stated that "it's wise to go where you're celebrated, not tolerated".<ref>{{cite web|url=https://www.usatoday.com/story/entertainment/celebrities/2019/12/05/kid-rock-detroit-restaurant-facebook-little-caesars-arena/2624585001/|title=Kid Rock Closes Restaurant|website=[[USA Today]]|access-date=April 9, 2020|archive-date=February 17, 2020|archive-url=https://web.archive.org/web/20200217051011/https://www.usatoday.com/story/entertainment/celebrities/2019/12/05/kid-rock-detroit-restaurant-facebook-little-caesars-arena/2624585001/|url-status=live}}</ref> In a June 2022 interview with [[Tucker Carlson]] on ''Tucker Carlson Originals: Life of a Rockstar'', Ritchie said he had nothing to apologize for regarding the incident.<ref>{{Cite magazine |last=Rowley |first=Glenn |date=2022-06-07 |title=Kid Rock Refuses to Apologize for Oprah Comments Made During Drunken Rant: 'I Own What I Said' |url=https://www.billboard.com/music/music-news/kid-rock-not-apologizing-oprah-attack-1235083145/ |access-date=2022-06-07 |magazine=[[Billboard (magazine)|Billboard]]|language=en-US}}</ref><ref>{{Cite web |date=2022-06-07 |title=Kid Rock stands by drunken rant attacking Oprah Winfrey: 'I don't apologize to anybody' |url=https://www.al.com/life/2022/06/kid-rock-stands-by-drunken-rant-attacking-oprah-winfrey-i-dont-apologize-to-anybody.html |access-date=2022-06-07 |website=al |language=en}}</ref><ref>{{Cite web |date=June 7, 2022 |first1=Andrea |last1=Towers |title=Kid Rock doubles down on his drunken rant against Oprah Winfrey and Joy Behar |url=https://ew.com/music/kid-rock-doubles-down-drunken-rant-against-oprah-winfrey-joy-behar/ |access-date=2022-06-07 |website=EW.com |language=en}}</ref>
+
+In June 2021, Kid Rock attracted further controversy for using the word "faggot" onstage during a tirade against fans who were filming his performance.<ref>{{Cite magazine |last=Atkinson |first=Katie |date=2021-06-07 |title=Kid Rock Filmed Using a Homophobic Slur Onstage |url=https://www.billboard.com/music/music-news/kid-rock-homophobic-slur-video-9583906/ |access-date=2022-08-27 |magazine=[[Billboard (magazine)|Billboard]]|language=en-US}}</ref> He later defended his remarks while "reaffirming his love for his homosexual friends".<ref>{{cite web|url=https://www.ultimate-guitar.com/news/general_music_news/kid_rock_defends_use_of_homophobic_slur_during_live_show_if_kid_rock_using_the_word_fagot_offends_you_good_chance_you_are_one.html|title=Kid Rock Defends Use of Homophobic Slur During Live Show: 'If Kid Rock Using the Word Fa*got Offends You, Good Chance You Are One'|access-date=September 27, 2021|archive-date=November 26, 2021|archive-url=https://web.archive.org/web/20211126101210/https://www.ultimate-guitar.com/news/general_music_news/kid_rock_defends_use_of_homophobic_slur_during_live_show_if_kid_rock_using_the_word_fagot_offends_you_good_chance_you_are_one.html|url-status=live}}</ref><ref>{{cite web|title=Kid Rock Uses Homophobic Slur. Then Uses It Again.|date=June 10, 2021 |url=https://www.nashvillescene.com/music/kid-rock-uses-homophobic-slur-then-uses-it-again/article_b4463384-ca13-11eb-838a-1fb7b3f99a82.html|url-status=live|access-date=September 27, 2021|archive-date=September 27, 2021|archive-url=https://web.archive.org/web/20210927221556/https://www.nashvillescene.com/music/kid-rock-uses-homophobic-slur-then-uses-it-again/article_b4463384-ca13-11eb-838a-1fb7b3f99a82.html}}</ref> In July 2022 he faced additional accusations of homophobia after, on June 30, 2022, he posted a meme on [[Truth Social]] and on Twitter stating, "If you're anti-gun, you don't get to celebrate the [[Independence Day (United States)|4th of July]], You would have never fought back. Enjoy your [[Pride Month|pride month]]. Pussy."<ref>{{Cite web |title=Kid Rock, Who Swears He's Not Homophobic, Posts Homophobic Fourth of July Meme |date=July 4, 2022 |url=https://consequence.net/2022/07/kid-rock-homophobic-meme/}}</ref>
+
+On April 3, 2023, Kid Rock posted a video on Twitter in which he is shown shooting cases of [[Bud Light]] beer cans with a submachine gun, which was seen as being in response to an advertising campaign by [[Anheuser-Busch]] that features transgender influencer [[Dylan Mulvaney]].<ref name=COS>{{cite web|url=https://consequence.net/2023/04/kid-rock-bud-light/|title=Kid Rock Shoots Up Cases of Bud Light in Dumbest Social Media Video of the Week|last=Young|first=Alex|date=April 4, 2023|website=[[Consequence of Sound]]|access-date=April 4, 2023}}</ref><ref>{{cite web|url=https://www.foxnews.com/media/kid-rock-shoots-bud-light-cans-rifle-protest-dylan-mulvaney-partnership-f-bud-light|title=Kid Rock shoots up Bud Light cans with rifle to protest Dylan Mulvaney partnership: 'F--- Bud Light'|last=Hays|first=Gabriel|date=April 4, 2023|website=[[Fox News]]|access-date=April 4, 2023}}</ref><ref>{{Cite news |last=Holpuch |first=Amanda |date=2023-04-14 |title=Behind the Backlash Against Bud Light's Transgender Influencer |language=en-US |work=[[The New York Times]] |url=https://www.nytimes.com/2023/04/14/business/bud-light-boycott.html |access-date=2023-04-18 |issn=0362-4331}}</ref> After the shooting, he exclaims, "Fuck Bud Light. Fuck Anheuser-Busch."<ref name=COS/>  He was one of key conservative influencers, alongside [[Sebastian Gorka]], [[Candace Owens]] and [[Vince Dao]] whose push eventually led to the [[2023 Bud Light boycott]] and which caused a large drop in sales of Bud Light.<ref>{{Cite magazine |last=Jones |first=C. T. |date=2023-04-06 |title=Dylan Mulvaney Won't Be Silenced by the Right-Wing Freakout Over Her and Bud Light |url=https://www.rollingstone.com/culture/culture-features/dylan-mulvaney-bud-light-kid-rock-backlash-1234710295/ |access-date=2023-07-29 |magazine=[[Rolling Stone]]}}</ref><ref>{{Cite web |last=Kennedy |first=Dana |date=2023-04-12 |title=Go woke or lose bonuses: CEOs are 'forced' into Dylan Mulvaney deal system |url=https://nypost.com/2023/04/12/go-woke-or-lose-bonuses-ceos-forced-into-cei-system/ |access-date=2023-07-29 |website=[[New York Post]]}}</ref> He later promoted the Happy Dad brand; which has partnered with [[Caitlyn Jenner]], who is a transgender woman.<ref>{{cite web |url=https://www.newsweek.com/kid-rock-promotes-new-seltzer-ties-transgender-partnership-1793435 |title=Kid Rock Promotes New Seltzer With Ties to Transgender Partnership  |last=Fung |first=Katherine |date=April 10, 2023 |publisher=[[Newsweek]]|access-date=2023-04-26}}</ref> In August, he was pictured drinking a can of Bud Light at a [[Colt Ford]] concert in Nashville.<ref>{{cite web |url=https://www.tmz.com/2023/08/18/kid-rock-drinks-bud-light-beer-dylan-mulvaney-shoot-cases/ |title= Kid Rock Enjoys a Bud Light ... Wait, What?!? |date=August 18, 2023 |publisher=TMZ|access-date=2023-08-24}}</ref><ref>{{cite web |url=https://www.newsweek.com/kid-rock-mocked-drinking-bud-light-after-igniting-boycott-1820996 |title=Kid Rock Mocked for Drinking Bud Light After Igniting Boycott |last=Impelli|first=Matthew|date=August 18, 2023 |publisher=[[Newsweek]]|access-date=2023-08-24}}</ref>
+
+==Politics and views==
+[[File:Kid Rock at White House.jpg|thumb|upright|Ritchie at the [[White House]] in 2017]]
+Ritchie is a supporter of the [[Republican Party (United States)|Republican Party]],<ref name="theg">[https://www.theguardian.com/music/2015/jan/03/kid-rock-this-much-i-know ''Kid Rock: This Much I Know''] {{Webarchive|url=https://web.archive.org/web/20180308015457/https://www.theguardian.com/music/2015/jan/03/kid-rock-this-much-i-know |date=March 8, 2018 }}. [[The Guardian]]. 3 January 2015.</ref> although he has routinely proclaimed himself as [[Libertarianism in the United States|libertarian]] philosophically,<ref name=HuffPost2013/><ref name=RollingStoneTrump/><ref name="reason">{{cite web |date=February 9, 2015 |title=Kid Rock: "Fiscally, I'm Republican. But the social issues kill me — gay marriage and abortion. It's like, Come on, man, get off it." |url=http://reason.com/blog/2015/02/09/kid-rock-fiscally-im-republican-but-the |url-status=live |archive-url=https://web.archive.org/web/20180128021055/http://reason.com/blog/2015/02/09/kid-rock-fiscally-im-republican-but-the |archive-date=January 28, 2018 |access-date=February 1, 2018 |website=Reason.com}}</ref> stating he has [[Social liberalism|socially liberal]] views on topics like abortion and gay marriage but [[Fiscal conservatism|conservative views on economics]].<ref name=reason/> Ritchie has advocated legalizing and taxing [[marijuana]], [[cocaine]], and [[heroin]].<ref name=Guardian/> He has also stated, "I don't think crazy people should have guns."<ref name=Guardian/> He was a vocal supporter of American military involvement in the [[Iraq War]].<ref>{{cite web|url=https://www.blabbermouth.net/news/kid-rock-talks-war-with-iraq-peace-with-tommy-lee/|title=Kid Rock Talks War With IRAQ, Peace With TOMMY LEE|date=February 24, 2003|website=Blabbermouth.net|access-date=December 10, 2019|archive-date=December 10, 2019|archive-url=https://web.archive.org/web/20191210195230/https://www.blabbermouth.net/news/kid-rock-talks-war-with-iraq-peace-with-tommy-lee/|url-status=live}}</ref> Ritchie has met with presidents [[Bill Clinton]], [[Barack Obama]], and [[Donald Trump]] while they were in office.<ref name=RollingStoneLowTimes/><ref>{{cite news| url= http://www.3news.co.nz/Kid-Rock-I-have-no-hard-feelings-towards-Barack-Obama/tabid/418/articleID/279423/Default.aspx| work= 3 News NZ| title= Kid Rock: 'I have no hard feelings towards Barack Obama'| date= December 6, 2012| access-date= December 5, 2012| archive-url= https://web.archive.org/web/20130728073320/http://www.3news.co.nz/Kid-Rock-I-have-no-hard-feelings-towards-Barack-Obama/tabid/418/articleID/279423/Default.aspx| archive-date= July 28, 2013| url-status= dead}}</ref><ref name="New York Times">{{cite news|url=https://www.nytimes.com/2017/04/20/us/politics/sarah-palin-kid-rock-ted-nugent-white-house.html?_r=0|title=4 Hours at the White House With Ted Nugent, Sarah Palin and Kid Rock|date=April 20, 2017|work=[[The New York Times]]|access-date=April 21, 2017|archive-date=April 22, 2017|archive-url=https://web.archive.org/web/20170422232954/https://www.nytimes.com/2017/04/20/us/politics/sarah-palin-kid-rock-ted-nugent-white-house.html?_r=0|url-status=live}}</ref> Regarding his political views, Ritchie said, "I have friends everywhere. [[Democratic Party (United States)|Democrat]], [[Republican Party (United States)|Republican]], this that and the other. ... We're all human beings first, Americans second. Let's find some common ground and get along." During his speech at the [[WWE Hall of Fame (2018)|2018 WWE Hall of Fame ceremony]], he stated that he wanted to "body slam some Democrats".<ref>Durr, Matt. [https://articles.mlive.com/entertainment/index.ssf/2018/04/kid_rock_at_wwe_ceremony_jokes.amp Kid Rock at WWE ceremony jokes: 'I just want to bodyslam some Democrats'] {{Webarchive|url=https://web.archive.org/web/20180408062100/https://articles.mlive.com/entertainment/index.ssf/2018/04/kid_rock_at_wwe_ceremony_jokes.amp |date=April 8, 2018 }} (April 7, 2018).</ref>
+
+Ritchie supported Bill Clinton and [[George W. Bush]] during their presidencies.<ref name=RollingStoneLowTimes/><ref name=NMEObama>[https://www.nme.com/news/music/kid-rock-18-1335163 Kid Rock: 'Barack Obama is great for black people'] {{Webarchive|url=https://web.archive.org/web/20200803021030/https://www.nme.com/news/music/kid-rock-18-1335163 |date=August 3, 2020 }} (November 25, 2008). ''[[NME]]''.</ref> In 2008, Ritchie supported newly elected President [[Barack Obama]], saying that the president's election was "a great thing for black people."<ref name=NMEObama/> In 2012, Ritchie campaigned for Republican presidential candidate [[Mitt Romney]]; the candidate used Ritchie's song "[[Born Free (Kid Rock song)|Born Free]]" as his campaign theme.<ref name=RollingStoneTrump>{{cite magazine|first=Brian|last=Hiatt|url=https://www.rollingstone.com/music/news/kid-rock-im-digging-donald-trump-20160201|title=Kid Rock: 'I'm Digging Donald Trump'|magazine=[[Rolling Stone]]|date=February 1, 2016|access-date=February 19, 2018|archive-date=June 20, 2017|archive-url=https://web.archive.org/web/20170620004626/http://www.rollingstone.com/music/news/kid-rock-im-digging-donald-trump-20160201|url-status=live}}</ref><ref>{{cite news|first=Luke|last=Johnson|url=https://www.huffingtonpost.com/2011/12/07/mitt-romney-kid-rock-born-free-campaign-song_n_1133625.html|title=Mitt Romney Chooses Kid Rock's 'Born Free' As Campaign Theme Song|work=[[HuffPost]]|date=December 7, 2011|access-date=February 1, 2018|archive-date=February 4, 2012|archive-url=https://web.archive.org/web/20120204132654/http://www.huffingtonpost.com/2011/12/07/mitt-romney-kid-rock-born-free-campaign-song_n_1133625.html|url-status=live}}</ref><ref>{{cite news|first=Gloria|last=Goodale|url=https://www.csmonitor.com/layout/set/amphtml/USA/Politics/The-Vote/2011/1207/Mitt-Romney-chooses-theme-song.-Is-Born-Free-a-good-choice|title=Mitt Romney chooses theme song. Is 'Born Free' a good choice?|newspaper=[[The Christian Science Monitor]]|date=December 7, 2011|access-date=February 1, 2018|archive-date=January 30, 2018|archive-url=https://web.archive.org/web/20180130091700/https://www.csmonitor.com/layout/set/amphtml/USA/Politics/The-Vote/2011/1207/Mitt-Romney-chooses-theme-song.-Is-Born-Free-a-good-choice|url-status=live}}</ref><ref>{{cite news|first=Todd|last=Spangler|url=https://www.seattletimes.com/seattle-news/politics/romney-campaign-adopts-kid-rocks-born-free/|title=Romney campaign adopts Kid Rock's 'Born Free'|newspaper=[[The Seattle Times]]|date=December 7, 2011|access-date=February 1, 2018|archive-date=January 30, 2018|archive-url=https://web.archive.org/web/20180130091658/https://www.seattletimes.com/seattle-news/politics/romney-campaign-adopts-kid-rocks-born-free/|url-status=live}}</ref><ref>{{cite news|url=https://www.washingtonpost.com/blogs/reliable-source/post/quoted-kid-rock-on-romneys-campaign-theme-song-pick/2011/12/07/gIQAR8S9cO_blog.html|title=Quoted: Kid Rock on Romney's campaign theme song pick|author=The Reliable Source|newspaper=[[The Washington Post]]|date=December 7, 2011|access-date=February 1, 2018|archive-date=February 1, 2018|archive-url=https://web.archive.org/web/20180201192920/https://www.washingtonpost.com/blogs/reliable-source/post/quoted-kid-rock-on-romneys-campaign-theme-song-pick/2011/12/07/gIQAR8S9cO_blog.html|url-status=live}}</ref><ref>{{cite web|url=https://ew.com/article/2012/02/28/mitt-romney-kid-rock-born-free/|title=Kid Rock performs 'Born Free' for Mitt Romney campaign stop: Watch it here|website=Ew.com|access-date=February 1, 2018|archive-date=January 30, 2018|archive-url=https://web.archive.org/web/20180130145448/http://ew.com/article/2012/02/28/mitt-romney-kid-rock-born-free/|url-status=live}}</ref> In 2015, Ritchie publicly endorsed [[Ben Carson]] for the [[Republican Party presidential primaries, 2016|Republican nomination]] for [[President of the United States]] in the [[2016 United States presidential election|2016 election]].<ref>{{cite web|url=https://thehill.com/homenews/campaign/240032-celebrity-endorsements-for-2016/|title=Celebrity endorsements for 2016|work=[[The Hill (newspaper)|The Hill]]|date=April 25, 2015|access-date=July 14, 2015|archive-date=November 19, 2016|archive-url=https://web.archive.org/web/20161119002722/http://thehill.com/homenews/campaign/240032-celebrity-endorsements-for-2016|url-status=live}}</ref> In February 2016, he voiced approval for [[Donald Trump]]'s campaign for the same office.<ref name=RollingStoneTrump/> In December, Kid Rock sparked controversy for selling T-shirts supporting Trump at concerts, including one showing a map of the United States which labelled the states which had voted against Trump as "Dumbfuckistan".<ref name=metroconfederateflag/><ref name=BillboardRNC>{{cite magazine|url=https://www.billboard.com/articles/news/7446583/kid-rock-rnc-concert-trump|title=Kid Rock's RNC Concert: Rocker Sidesteps the Soapbox to Show His Country Pride|magazine=[[Billboard (magazine)|Billboard]]|date=July 22, 2016|access-date=February 1, 2018|archive-date=March 24, 2018|archive-url=https://web.archive.org/web/20180324113556/https://www.billboard.com/articles/news/7446583/kid-rock-rnc-concert-trump|url-status=live}}</ref>
+
+On July 12, 2017, Ritchie shared a photo of a "Kid Rock for US Senate" yard sign on Twitter. He also launched a website at kidrockforsenate.com, which sold merchandise bearing that inscription.<ref name="kid-rock-teases-senate"/> Several weeks later, he wrote a post on his blog stating that he was still "exploring my candidacy", and that, whether or not he ran, he wanted to register people to vote, because "although people are unhappy with the government, too few are even registered to vote or do anything about it." He added that he wanted "to help working class people in Michigan and America all while still calling out these jackass lawyers who call themselves politicians."<ref>{{cite magazine |title=Kid Rock Updates on His Senate Bid: 'Democrats Are Shattin' in their Pantaloons' |url=https://www.billboard.com/articles/news/7881196/kid-rock-updates-senate-bid |first=Lars |last=Brandle |magazine=[[Billboard (magazine)|Billboard]] |date=July 27, 2017 |access-date=June 6, 2018 |archive-date=June 13, 2018 |archive-url=https://web.archive.org/web/20180613144507/https://www.billboard.com/articles/news/7881196/kid-rock-updates-senate-bid |url-status=live }}</ref> His statements sparked media speculation that he would try to run on the Republican ticket against sitting Michigan senator [[Debbie Stabenow]], as well as enthusiasm from some prominent Republicans, including former [[Governor of New York|New York Governor]] [[George Pataki]], who wrote on Twitter, "Kid Rock is exactly the kind of candidate the GOP needs right now."<ref>{{cite news |title=Pataki says Kid Rock is just what the Senate needs |url=https://nypost.com/2017/08/15/pataki-says-kid-rock-is-just-what-the-senate-needs/ |first=Carl |last=Campanile |newspaper=[[New York Post]] |date=August 15, 2017 |access-date=June 6, 2018 |archive-date=June 12, 2018 |archive-url=https://web.archive.org/web/20180612211437/https://nypost.com/2017/08/15/pataki-says-kid-rock-is-just-what-the-senate-needs/ |url-status=live }}</ref> In an October 2017 interview with [[Howard Stern]], Ritchie put an end to the speculation, saying that he had never intended to run for Senate, adding rhetorically, "Who couldn't figure that out?".<ref>{{Cite news |url=https://www.freep.com/story/entertainment/music/2017/10/24/kid-rock-course-im-not-running-senate/791831001/ |title=Kid Rock: Of course I'm not running for Senate |first=Brian |last=McCollum |work=[[Detroit Free Press]] |date=2017-10-24 |access-date=June 6, 2018 |archive-date=November 25, 2018 |archive-url=https://web.archive.org/web/20181125221524/https://www.freep.com/story/entertainment/music/2017/10/24/kid-rock-course-im-not-running-senate/791831001/ |url-status=live }}</ref> He later clarified that the campaign was a joke that he had started after a Michigan state legislator encouraged him to run for Senate. He expressed surprise at the interest his potential candidacy had received, but also disappointment that some opposed to his candidacy had brought up his previous use of the Confederate flag to label him a racist.<ref name="morningsun"/> He donated the $122,000 he had raised by selling "Kid Rock for U.S. Senate" merchandise to [[College Republicans|CRNC]] Action, a College Republican group.<ref name="amp.detroitnews.com"/>
+
+On July 18, 2024, Ritchie performed his song "[[American Bad Ass]]" for the [[2024 Republican National Convention]] with modified lyrics to show his support for Trump.<ref>{{Cite magazine |last=Aniftos |first=Rania |date=2024-07-19 |title=Kid Rock Performed at the RNC & the Internet Has Thoughts |url=https://www.billboard.com/music/music-news/kid-rock-performs-rnc-reactions-1235735536/ |access-date=2024-07-20 |magazine=Billboard |language=en-US}}</ref>
+
+==Discography==
+
+{{Main|Kid Rock discography}}
+* ''[[Grits Sandwiches for Breakfast]]'' (1990)
+* ''[[The Polyfuze Method]]'' (1993)
+* ''[[Early Mornin' Stoned Pimp]]'' (1996)
+* ''[[Devil Without a Cause]]'' (1998)
+* ''[[Cocky (album)|Cocky]]'' (2001)
+* ''[[Kid Rock (album)|Kid Rock]]'' (2003)
+* ''[[Rock n Roll Jesus]]'' (2007)
+* ''[[Born Free (Kid Rock album)|Born Free]]'' (2010)
+* ''[[Rebel Soul (Kid Rock album)|Rebel Soul]]'' (2012)
+* ''[[First Kiss (Kid Rock album)|First Kiss]]'' (2015)
+* ''[[Sweet Southern Sugar]]'' (2017)
+* ''[[Bad Reputation (Kid Rock album)|Bad Reputation]]'' (2022)<ref name="ReferenceB"/>
+
+== Awards and nominations ==
+{| class="wikitable sortable"
+|-
+!Award
+! Year
+! Category
+! Nominee(s)
+! class="unsortable" | Results
+!References
+|-
+| rowspan="4" |[[MTV Video Music Awards]]
+| rowspan="2" | [[1999 MTV Video Music Awards|1999]]
+| Best Rock Video
+| Bawitaba
+| {{Nominated}}
+| rowspan="30" |
+|-
+| Best New Artist
+| Himself
+| {{Nominated}}
+|-
+| rowspan="2" | [[2000 MTV Video Music Awards|2000]]
+| Best Rock Video
+| rowspan="2" | Cowboy
+| {{Nominated}}
+|-
+| Best Male Video
+| {{Nominated}}
+|-
+| rowspan="2" |[[Grammy Award]]s
+| rowspan="2" | [[2000 Grammy|2000]]
+| Best Hard Rock Performance
+| Bawitaba
+| {{Nominated}}
+|-
+| Best New Artist
+| Himself
+| {{Nominated}}
+|-
+| rowspan="2" |[[American Music Awards]]
+| rowspan="2" |[[2000 American Music Awards|2000]]
+| Favorite Alternative Artist
+| Himself
+| {{Nominated}}
+|-
+| Favorite Pop/Rock New Artist
+| Himself
+| {{Nominated}}
+|-
+|Grammy Awards
+|[[43rd Annual Grammy Awards|2001]]
+|Best Hard Rock Performance
+|American Bad Ass
+| {{Nominated}}
+|-
+| rowspan="2" |[[Blockbuster Entertainment Awards]]
+| rowspan="2" |[[7th Blockbuster Entertainment Awards|2001]]
+|Favorite Artist – Rock
+|Himself
+| {{Nominated}}
+|-
+|Favorite Male Artist
+|Himself
+| {{Nominated}}
+|-
+|[[Country Music Association Awards]]
+|[[2003 Country Music Association Awards|2003]]
+|Music Event of the Year
+|Picture
+| {{Nominated}}
+|-
+| rowspan="2" |American Music Awards
+| rowspan="2" |[[American Music Awards of 2003 (November)|2003]]
+|Favorite Pop/Rock Album
+|Cocky
+| {{Nominated}}
+|-
+|Favorite Pop/Rock Male Artist
+|Himself
+| {{Won}}
+|-
+|[[MTV Europe Music Awards]]
+|[[2008 MTV Europe Music Awards|2008]]
+|Most Addictive Track
+|All Summer Long
+| {{Nominated}}
+|-
+| rowspan="2" |[[World Music Awards]]
+| rowspan="2" |[[2008 World Music Awards|2008]]
+|World's Best Selling Pop/Rock Male Artist
+|Himself
+| {{Won}}
+|-
+|World's Best Selling Pop Male Artist
+|Himself
+| {{Won}}
+|-
+|[[People's Choice Awards]]
+|[[35th People's Choice Awards|2009]]
+|Favorite Rock Song
+|All Summer Long
+| {{Won}}
+|-
+|[[Nickelodeon Kids' Choice Awards]]
+|[[2009 Kids' Choice Awards|2009]]
+|Favorite Male Singer
+|Himself
+| {{Nominated}}
+|-
+|MTV Europe Music Awards
+|[[2009 MTV Europe Music Awards|2009]]
+|Best World Stage Live Performance
+|Himself
+| {{Nominated}}
+|-
+| rowspan="2" |Grammy Awards
+| rowspan="2" |[[2009 Grammy|2009]]
+|Best Rock Album
+|Rock n Roll Jesus
+| {{Nominated}}
+|-
+|Best Male Pop Vocal Performance
+|All Summer Long
+| {{Nominated}}
+|-
+| rowspan="2" |[[Echo Awards|ECHO Awards]]
+| rowspan="2" |2009
+|Best International Male Artist
+|Himself
+| {{Nominated}}
+|-
+|Single of the Year
+|All Summer Long
+| {{Won}}
+|-
+| rowspan="2" |[[CMT Music Awards]]
+| rowspan="2" |2009
+|Video of the Year
+| rowspan="2" |All Summer Long
+| {{Nominated}}
+|-
+|Wide Open Country Video of the Year
+| {{Won}}
+|-
+|Country Music Association Awards
+|[[2010 Country Music Association Awards|2010]]
+|Musical Event of the Year
+|Can't You See
+| {{Nominated}}
+|-
+|CMT Music Awards
+|2010
+|Collaborative Video of the Year
+|Collide
+| {{Nominated}}
+|-
+|[[Billboard Music Awards]]
+|[[2011 Billboard Music Awards|2011]]
+|Top Rock Album
+|Born Free
+| {{Nominated}}
+|-
+|[[Academy of Country Music Awards]]
+|[[46th Academy of Country Music Awards|2011]]
+|Vocal Event of the Year
+|Good to Be Me
+| {{Nominated}}
+|-
+|[[WWE Hall of Fame]]
+|2018
+|Celebrity Wing
+|
+| {{Won}}
+|}
+
+==Filmography==
+
+===Film===
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Role
+! class="unsortable" | Notes
+|-
+| rowspan="2"| 2001
+| ''[[Joe Dirt]]''
+| Robbie
+| Live-action acting debut
+|-
+| ''[[Osmosis Jones]]''
+| Kidney Rock
+| Voice
+|-
+| 2003
+| ''[[Biker Boyz]]''
+| Dogg
+|
+|-
+| 2006
+| ''[[Larry the Cable Guy: Health Inspector]]''
+| Kid Rock
+|
+|-
+| rowspan="3"|  2012
+| ''Americans''
+| Troglodyte
+| Short film with [[Sean Penn]], also story
+|-
+| ''[[A Band Called Death]]''
+| Himself
+| Documentary
+|-
+| ''$ellebrity''
+| Himself
+| Documentary
+|-
+| 2014
+| ''[[Vermin Supreme|Who Is Vermin Supreme? An Outsider Odyssey]]''
+| Himself
+| Documentary
+|}
+
+===Television===
+{| class="wikitable sortable" summary="List of television appearances and roles"
+|-
+! Year
+! Title
+! Role
+! class="unsortable" | Notes
+|-
+| 2000
+| ''[[The Simpsons]]''
+| Kid Rock
+| Voice, episode: "[[Kill the Alligator and Run]]"
+|-
+| 2002
+| ''[[King of the Hill]]''
+| Kid Rock
+| Voice, episode: "The Fat and the Furious"
+|-
+| 2003
+| ''[[Stripperella]]''
+| Kid Rock/Stiffy Woods
+| Voice, episode: "You Only Lick Twice"; also performed the series [[theme song]] "Erotica"
+|-
+| rowspan="2"| 2005
+| ''[[Fat Actress]]''
+| Kid Rock
+|Episode: "Charlie's Angels"
+|-
+| ''[[Stacked]]''
+| Delivery man
+|Episode: "Nobody Says I Love You"
+|-
+| 2006
+| ''[[CSI: NY]]''
+| Kid Rock
+|Episode: "All Access"
+|-
+| rowspan="2"| 2014
+| ''[[30 for 30]]''
+| Narrator
+| Documentary series; episode: "Bad Boys"
+|-
+| ''[[Silicon Valley (TV series)|Silicon Valley]]''
+| Kid Rock
+|Episode: "[[Minimum Viable Product]]"
+|}
+
+== Tours ==
+* Straight from the Underground Tour (1990) (opened for Ice Cube, Too $hort, D Nice and Yo-Yo)
+* Pimp of the Nation Tour (1996–1997)
+* [[Warped Tour 1998|Warped Tour]] (1998)
+* [[Devil Without a Cause Tour|Devil Without a Cause]] (1998–1999)
+* [[M2K Mini Tour|M2K]] (2000)
+* [[Summer Sanitarium Tour]] (2000)
+* [[History of Rock Tour]] (2000)
+* The American Badass Tour (2001)
+* Cocky Tour (2002)
+* [[Girls of Summer Tour|Girls of Summer]] (2002)
+* Rock N' Roll Pain Train Tour (2004)
+* Live Trucker (2006)
+* Ballroom Blitz Tour (2007)
+* Rock N' Roll Revival Tour (2008)
+* Rock N' Rebels Tour (2008–2009)
+* [[The Circle Tour]] (2010)
+* Born Free Tour (2011)
+* Care Tour (2011)
+* Rebel Soul Tour (2013)
+* $20 Best Night Ever Tour (2013)
+* [[Because We Can (concert tour)|Because We Can Tour]] (2013)
+* Rock N' Rollin Tour (2014)
+* First Kiss (2015)
+* Kid Rock 2016 Tour (2016)
+* American Rock N' Roll Tour (2018)
+* Red Blooded Rock 'n' Roll Redneck Extravaganza (2018)
+* Hot September Nights (2019)
+* [[Bad Reputation Tour]] (2022)<ref>{{Cite magazine |title=Kid Rock Reveals 2022 Bad Reputation Tour Dates With Foreigner & More |magazine=[[Billboard (magazine)|Billboard]]|date=January 24, 2022|url=https://www.billboard.com/music/concerts/kid-rock-2022-bad-reputation-tour-dates-1235022089/}}</ref>
+* Rock the Country Tour (2024)
+
+==References==
+{{reflist|colwidth=30em}}
+
+==External links==
+{{wikiquote}}
+{{Commons category|Kid Rock}}
+* {{Official website}}
+* {{allMusic}}
+* {{IMDb name}}
+* [https://www.c-span.org/person/?67962/RobertKidRockJamesRitchie Appearances] on [[C-SPAN]]
+
+{{Kid Rock}}
+{{WWE Hall of Fame Celebrity Wing}}
+{{American Music Award for Favorite Pop/Rock Male Artist}}
+{{Authority control}}
+
+{{DEFAULTSORT:Kid Rock}}
+[[Category:1971 births]]
+[[Category:Living people]]
+[[Category:20th-century American drummers]]
+[[Category:20th-century American guitarists]]
+[[Category:20th-century American male musicians]]
+[[Category:20th-century American rappers]]
+[[Category:21st-century American drummers]]
+[[Category:21st-century American guitarists]]
+[[Category:21st-century American male singers]]
+[[Category:21st-century American rappers]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:American alternative rock singers]]
+[[Category:American country rock singers]]
+[[Category:American hip hop DJs]]
+[[Category:American hip hop singers]]
+[[Category:American hunters]]
+[[Category:American libertarians]]
+[[Category:American male drummers]]
+[[Category:American male guitarists]]
+[[Category:American male pianists]]
+[[Category:American male rappers]]
+[[Category:American male singer-songwriters]]
+[[Category:American multi-instrumentalists]]
+[[Category:American rap rock musicians]]
+[[Category:American rock guitarists]]
+[[Category:American rock singers]]
+[[Category:American rock songwriters]]
+[[Category:Atlantic Records artists]]
+[[Category:Guitarists from Detroit]]
+[[Category:Lava Records artists]]
+[[Category:Michigan Republicans]]
+[[Category:Midwest hip hop musicians]]
+[[Category:People from Clarkston, Michigan]]
+[[Category:People from Romeo, Michigan]]
+[[Category:Postmodern musicians]]
+[[Category:Rap metal musicians]]
+[[Category:Nu metal singers]]
+[[Category:Rappers from Detroit]]
+[[Category:Rock and roll musicians]]
+[[Category:Rock DJs]]
+[[Category:Singers from Detroit]]
+[[Category:Singer-songwriters from Michigan]]
+[[Category:World Music Awards winners]]
+[[Category:WWE Hall of Fame inductees]]

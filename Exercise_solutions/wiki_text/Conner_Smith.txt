@@ -1,0 +1,121 @@
+{{Short description|American country music singer}}
+{{About|the American country music singer|people with similar names|Connor Smith (disambiguation){{!}}Connor Smith}}
+{{Infobox musical artist
+| background        = person
+| name              = Conner Smith
+| image             = 
+| image_upright     = 
+| image_size        = 
+| landscape         = <!-- yes, if wide image, otherwise leave blank -->
+| alt               = 
+| caption           = 
+| birth_name        = <!-- leave empty if the same "name" -->
+| alias             = 
+| birth_date        = {{birth date and age|2000|09|6}}
+| birth_place       = [[Nashville, Tennessee]], U.S.
+| origin            = 
+| genre             = [[Country music|Country]]
+| occupations       = Singer
+| instruments       = Vocals
+| years_active      = 2021–present
+| label             = [[Big Machine Records|Valory]]
+}}
+
+'''Conner Smith''' (born September 6, 2000) is an American [[country music]] singer. He is signed to [[Big Machine Records]]' Valory label and has charted three singles.
+
+==Biography==
+Conner Smith was born and raised in [[Nashville, Tennessee|Nashville]]. Smith participated in the [[2013 Little League World Series]] as a member of the South Nashville team that represented the [[Little League World Series (Southeast Region)|Southeast Region]].<ref>{{cite news |url=https://www.mlb.com/news/former-little-leaguer-releases-country-album |title=Former Little Leaguer releases country album |first=Thomas |last=Harrigan |website=[[MLB.com]] |date=January 14, 2022 |accessdate=September 23, 2023}}</ref> His mother, Jennifer Vickery Smith, worked in the country music industry and often interviewed artists.  Conner Smith was inspired to start songwriting himself. He began writing songs with Nashville songwriters [[Ashley Gorley]] and [[Zach Crowell]] by the time he was 20.<ref name="allmusic">{{cite web | url=https://www.allmusic.com/artist/conner-smith-mn0004093995/biography | title=Conner Smith biography | publisher=[[AllMusic]] | accessdate=June 13, 2022}}</ref>
+
+In late 2021, Smith released a song called "[[I Hate Alabama]]", which went viral on [[TikTok]].<ref name="billboard">{{cite web | url=https://www.billboard.com/music/country/country-rookie-conner-smith-1235020613/ | title=January Country Rookie of the Month: Conner Smith | publisher=Billboard | date=January 21, 2022 | accessdate=June 13, 2022}}</ref> The song's success got him a deal with [[Big Machine Records]]' Valory label. He released an [[extended play]] for the label titled ''Didn't Go Too Far'' in 2022. The project's lead single "Learn from It" made the top 40 on ''Billboard'' [[Country Airplay]].<ref name="allmusic"/> Crowell produced the EP.<ref name="billboard"/> Smith released his second single "Take It Slow" to country radio in early 2023; it was certified Gold by the RIAA but only got to No. 52 on the charts. He released "[[Creek Will Rise]]" in 2023, and has become his first top 20 hit on the Country Airplay chart. It served as the lead single to his debut studio album, ''Smoky Mountains'', which was released on January 26, 2024. Smith made history on March 10, 2024 when "Creek Will Rise" became the first ever number one on the [[UK Country Airplay]] chart.<ref>{{Cite web|url=https://www.smoothradio.com/news/country/uk-country-radio-airplay-chart-first/|title=Conner Smith tops UK's first ever Country Radio Airplay Chart|first=Tom|last=Eames|date=March 11, 2024|website=[[Smooth Radio (2014)|Smooth Radio]]}}</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+List of albums, with selected details
+! rowspan="2" style="width:12em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="1" |Peak chart positions
+|- style="font-size:smaller;"
+! style="width:4em;" | [[Top Country Albums|US Country]]<br><ref>{{cite magazine|url=https://www.billboard.com/charts/country-albums/2024-02-10/|title=Top Country Albums|magazine=[[Billboard (magazine)|Billboard]]|date=February 10, 2024}}</ref>
+|-
+! scope="row"| ''[[Smoky Mountains (album)|Smoky Mountains]]''
+|
+* Release date: January 26, 2024
+* Label: [[Big Machine Records|Valory]]
+* Format: CD, digital download, LP, streaming
+| 42
+|-
+|}
+
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+List of EPs, with selected details
+! scope="col"| Title
+! scope="col"| Details
+|-
+! scope="row"| ''Didn't Go Too Far''
+|
+* Release date: January 14, 2022
+* Label: Valory
+* Format: Digital download, streaming
+|-
+! scope="row"| ''Smoky Mountains Sessions''
+|
+* Release date: August 2, 2024<ref>{{Cite web |last=Arledge |first=John Nix |date=2024-07-15 |title=Conner Smith Set To Release 'Smoky Mountains Sessions' Next Month |url=https://musicrow.com/2024/07/conner-smith-set-to-release-smoky-mountains-sessions-next-month/ |access-date=2024-07-17 |website=[[MusicRow]] |language=en-US}}</ref>
+* Label: Valory
+* Format: Digital download, streaming
+|}
+
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of singles, with selected chart positions
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Title
+! colspan="4"| Peak positions
+! rowspan="2"| Certifications
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! scope="col" style="width:45px;"| [[Billboard Hot 100|US]]<br /><ref>{{cite magazine|url=https://www.billboard.com/charts/hot-100/2024-02-10/|title=''Billboard'' Hot 100: Week of February 10, 2024|magazine=[[Billboard (magazine)|Billboard]]|access-date=February 6, 2024}}</ref>
+! style="width:45px;"| [[Hot Country Songs|US Country Songs]]<br /><ref>{{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_0311.pdf|title=Billboard Country Update|magazine=Billboard|date=March 11, 2024|access-date=March 12, 2024}}</ref>
+! style="width:45px;"| [[Country Airplay|US Country Airplay]]<br /><ref>{{cite magazine|url=https://s3.amazonaws.com/bulletins.billboard.com/country/country_update_2022_0613.pdf|title=Country Update|magazine=[[Billboard (magazine)|Billboard]]|access-date=June 13, 2022}}
+* "Take It Slow": {{cite magazine|url=https://bulletins.billboard.com/country/country_update_2023_0120.pdf|title=Country Update|magazine=Billboard|access-date=January 21, 2023}}
+* "Creek Will Rise": {{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_0223.pdf|title=Billboard Country Update|magazine=Billboard|date=February 23, 2024|access-date=February 24, 2024}}
+* "Roulette on the Heart": {{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_0607.pdf|title=Billboard Country Update|magazine=Billboard|date=June 7, 2024|access-date=June 8, 2024}}</ref>
+! style="width:45px;"| [[Canada Country|CAN Country]]<br /><ref>{{cite magazine|url=https://www.billboard.com/charts/canada-country/2024-03-16/|title=Canada Country chart for March 16, 2024|magazine=Billboard|access-date=March 12, 2024|url-access=subscription}}</ref>
+|- 
+| 2022
+! scope="row"| "Learn from It"
+| — || — || 38 || —
+|
+| rowspan="2" | ''Didn't Go Too Far''
+|-
+| rowspan="2" | 2023
+! scope="row"| "Take It Slow"
+| — || — || 52 || —
+|
+* [[Recording Industry Association of America|RIAA]]: Gold<ref>{{Cite web |title=Gold & Platinum |url=https://www.riaa.com/gold-platinum/ |access-date=2023-04-03 |website=RIAA |language=en-US}}</ref>
+|-
+! scope="row"|"[[Creek Will Rise]]"
+| 89 || 22 || 12 || 17
+|
+| rowspan="2" | ''Smoky Mountains''
+|-
+| 2024
+! scope="row"| "Roulette on the Heart"<ref>{{cite web|url=https://assets.countryaircheck.com/public/cb97cb68-03d4-485c-a407c5e33edfb412/Issue-903-April-1-2024.pdf|title=Country Aircheck Weekly April 1, 2024, Issue 903|date=April 1, 2024|website=Country Aircheck|accessdate=April 2, 2024}}</ref><br>{{small|(featuring [[Hailey Whitters]])}}
+| — || — || 58 || —
+|
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Smith, Conner}}
+[[Category:American country singer-songwriters]]
+[[Category:Big Machine Records artists]]
+[[Category:Country musicians from Tennessee]]
+[[Category:Living people]]
+[[Category:Musicians from Nashville, Tennessee]]
+[[Category:2000 births]]

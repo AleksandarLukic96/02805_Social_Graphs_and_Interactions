@@ -1,0 +1,239 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=December 2020}}
+{{Infobox musical artist
+| name              = Mel Street
+| image             = Mel Street.png
+| caption           = Street in 1975
+| image_size        = 250px
+| background        = solo_singer
+| birth_name        = King Malachi Street
+| alias             = 
+| birth_date        = {{Birth date|1933|10|21}}
+| birth_place       = [[Grundy, Virginia]], United States
+| death_date        = {{Death date and age|1978|10|21|1933|10|21}}
+| death_place       = [[Hendersonville, Tennessee]], United States
+| instrument        = Guitar
+| genre             = [[Country music|Country]]
+| occupation        = Singer-songwriter
+| years_active      = 1972–1978
+| label             = [[Metromedia]], GRT, [[Polydor Records|Polydor]], [[Mercury Records|Mercury]]
+| associated_acts   = 
+| website           = 
+}}
+
+'''King Malachi "Mel" Street''' (October 21, 1933 – October 21, 1978)<ref>{{Cite web |title=October 21, 1978: Country Music Star Tragically Commits Suicide |date=November 8, 2021 |url=https://kxrb.com/heres-a-little-known-fact-about-classic-country-star-mel-street/}}</ref> was an American [[country music]] singer who had 13 top-20 hits on the [[Billboard charts|Billboard]] country charts.
+
+==Biography==
+Street was born near [[Grundy, Virginia]], United States.<ref>[https://www.wvpublic.org/post/october-21-1935-country-musician-mel-street-born-virginia#stream/0 "October 21, 1933: Country Musician Mel Street Born in Virginia"]. [[West Virginia Public Broadcasting]]. October 21, 2019. Retrieved March 7, 2020.</ref><ref name=MinnesotaNewCountry>Nelson, Dick (August 27, 2017). [https://minnesotasnewcountry.com/sunday-morning-country-classic-spotlight-to-feature-mel-street/ "Sunday Morning Country Classic Spotlight to Feature Mel Street"]. [[98.1 Minnesota's New Country]]. Retrieved March 7, 2020.</ref> Publications cite his year of birth as 1933 and his family also maintains that he was born in 1933. However, his gravestone gives the year as 1936.<ref>Schuler and Delp 2002, p. 23.</ref><ref>[http://www.waymarking.com/waymarks/WM335Q_Mel_Street "Mel Street – Grave of a Famous Person"]. Waymarking.com. The Social Security Death Index also shows 1936.</ref>
+He began performing on western Virginia and [[West Virginia]] radio shows at the age of sixteen.<ref name="LarkinCountry"/> Street subsequently worked as a [[radio masts and towers|radio tower]] electrician in [[Ohio]],<ref name="LarkinCountry"/> and as a [[nightclub]] performer in the [[Niagara Falls, New York]] area.<ref name="AMG">{{Cite web |title=Mel Street &#124; Biography & History |url=https://www.allmusic.com/artist/mel-street-mn0000869809 |access-date=August 10, 2021 |website=[[AllMusic]]}}</ref> He moved back to West Virginia in 1963 to open an auto body shop.<ref>Schuler and Delp 2002, p. 46.</ref>
+
+From 1968 to 1972, Street hosted a show on a [[Bluefield, West Virginia]] television station.<ref>Schuler and Delp 2002, p. 51.</ref> He recorded his first single, "Borrowed Angel" – which he also wrote – in 1969 for a small regional record label, Tandem Records.<ref name="LarkinCountry"/> A larger label, Royal American Records, picked it up in 1972 and it became a top-10 Billboard hit.<ref name="LarkinCountry"/> He recorded the biggest hit of his career, "Lovin' on Back Streets", in 1972.<ref name="LarkinCountry"/>
+
+Street's last television appearance was in 1977, in which he performed his 1976 hit "I Met A Friend Of Yours Today" on ''That Good Ole Nashville Music''.
+
+Street recorded several hits in the mid-1970s, such as "You Make Me Feel More Like a Man," "Forbidden Angel," "I Met a Friend of Yours Today," "If I Had a Cheatin' Heart," and "Smokey Mountain Memories". He signed with [[Mercury Records]] in 1978, but suffering from clinical depression and alcoholism,<ref name="LarkinCountry"/> he killed himself by a self-inflicted gunshot on October 21, 1978, his 45th birthday.<ref name=MinnesotaNewCountry/> He had a record debut on the country charts on October 21 as well, called "Just Hangin' On",<ref>Schuler and Delp 2002, p. 243.</ref> and later charted four posthumous songs.  Street's idol, [[George Jones]], sang "[[Amazing Grace]]" at his funeral.<ref name="LarkinCountry">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Who's Who of Country Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1993|edition=First|isbn=0-85112-726-6|page=398}}</ref>
+
+His posthumous album, ''Mel Street's Greatest Hits'', was promoted via television advertisements in 1981, and sold 400,000 copies.<ref name="LarkinCountry"/>
+
+==Discography==
+===Albums===
+{| class="wikitable"
+! Year
+! Album
+! <small>[[Top Country Albums|US Country]]</small>
+! Label
+|-
+| 1972
+| ''Borrowed Angel''
+| align="center"| 14
+| rowspan="2"| Metromedia Country
+|-
+| 1973
+| ''The Town Where You Live /<br />Walk Softly On the Bridges''
+| align="center"| 37
+|-
+| 1974
+| ''Two Way Street''
+| align="center"| 37
+| rowspan="4"| GRT
+|-
+| 1975
+| ''Smokey Mountain Memories''
+| align="center"| 16
+|-
+| rowspan="2"| 1976
+| ''Mel Street's Greatest Hits''
+| align="center"| 26
+|-
+| ''Country Colors''
+| align="center"| —
+|-
+| 1977
+| ''Mel Street''
+| align="center"| 45
+| rowspan="2"| Polydor
+|-
+| rowspan="2"| 1978
+| ''Country Soul''
+| align="center"| 47
+|-
+| ''Mel Street''
+| align="center"| —
+| Mercury
+|-
+| 1980
+| ''Many Moods of Mel''
+| align="center"| 61
+| Sunbird
+|}
+
+===Singles===
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="2"| Chart Positions
+! rowspan="2"| Album
+|-
+! width="50"| <small>[[Hot Country Songs|US Country]]</small>
+! width="50"| <small>CAN Country</small>
+|-
+| rowspan="2"| 1972
+| "Borrowed Angel"
+| align="center"| 7
+| align="center"| 9
+| rowspan="2"| ''Borrowed Angel''
+|-
+| "Lovin' On Back Streets"
+| align="center"| 5
+| align="center"| 8
+|-
+| rowspan="3"| 1973
+| "Walk Softly On the Bridges"
+| align="center"| 11
+| align="center"| 6
+| rowspan="2"| ''The Town Where You Live /<br />Walk Softly On the Bridges''
+|-
+| "The Town Where You Live"
+| align="center"| 38
+| align="center"| 58
+|-
+| "Lovin' On Borrowed Time"
+| align="center"| 11
+| align="center"| 7
+| rowspan="2"| ''Two Way Street''
+|-
+| rowspan="2"| 1974
+| "You Make Me Feel More Like a Man"
+| align="center"| 15
+| align="center"| —
+|-
+| "Forbidden Angel"
+| align="center"| 16
+| align="center"| 47
+| rowspan="4"| ''Smokey Mountain Memories''
+|-
+| rowspan="3"| 1975
+| "Smokey Mountain Memories"
+| align="center"| 13
+| align="center"| 43
+|-
+| "Even If I Have to Steal"
+| align="center"| 17
+| align="center"| 17
+|-
+| "(This Ain't Just Another) Lust Affair"
+| align="center"| 23
+| align="center"| —
+|-
+| rowspan="3"| 1976
+| "The Devil in Your Kisses (And the Angel in Your Eyes)"
+| align="center"| 32
+| align="center"| —
+| ''Mel Street's Greatest Hits''
+|-
+| "I Met a Friend of Yours Today"
+| align="center"| 10
+| align="center"| —
+| rowspan="3"| ''Country Colors''
+|-
+| "Looking Out My Window Through the Pain"
+| align="center"| 24
+| align="center"| —
+|-
+| rowspan="3"| 1977
+| "Rodeo Bum"
+| align="center"| 56
+| align="center"| —
+|-
+| "Barbara Don't Let Me Be the Last to Know"
+| align="center"| 19
+| align="center"| —
+| rowspan="2"| ''Mel Street'' (1977)
+|-
+| "Close Enough for Lonesome"
+| align="center"| 15
+| align="center"| —
+|-
+| rowspan="3"| 1978
+| "If I Had a Cheating Heart"
+| align="center"| 9
+| align="center"| —
+| rowspan="2"| ''Country Soul''
+|-
+| "Shady Rest"
+| align="center"| 24
+| align="center"| —
+|-
+| "Just Hangin' On"
+| align="center"| 68
+| align="center"| —
+| ''Mel Street'' <small>(1978)</small>
+|-
+| 1979
+| "The One Thing My Lady Never Puts Into Words"
+| align="center"| 17
+| align="center"| —
+| rowspan="4"| ''Many Moods of Mel''
+|-
+| rowspan="2"| 1980
+| "Tonight Let's Sleep On It Baby"
+| align="center"| 30
+| align="center"| —
+|-
+| "Who'll Turn Out the Lights"
+| align="center"| 36
+| align="center"| —
+|-
+| 1981
+| "Slip Away" <small>(w/ Sandy Powell)</small>
+| align="center"| 48
+| align="center"| —
+|}
+
+==Footnotes==
+{{Reflist}}
+
+==References==
+* Huey, Steve. (2003). Edited by Vladimir Bogdanov, Chris Woodstra, & Stephen Erlewine. "Mel Street (King Malachi Street)." ''All Music Guide to Country'', 2nd ed. San Francisco: Backbeat Books, 2003. {{ISBN|0-87930-760-9}}
+*Schuler, Dennis Sr. and Larry J. Delp. ''Mel Street – A Country Legend'', Charleston, WV: Mountain State Press, 2002. {{ISBN|0-941092-47-X}}
+
+==External links==
+*[http://www.last.fm/music/Mel+Street Mel Street @ Last.fm]
+*{{Find a Grave|8898}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Street, Mel}}
+[[Category:1933 births]]
+[[Category:1978 deaths]]
+[[Category:1978 suicides]]
+[[Category:People from Grundy, Virginia]]
+[[Category:American male singer-songwriters]]
+[[Category:American country singer-songwriters]]
+[[Category:Mercury Records artists]]
+[[Category:Polydor Records artists]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:Singer-songwriters from Virginia]]
+[[Category:20th-century American male singers]]
+[[Category:Suicides by firearm in Tennessee]]

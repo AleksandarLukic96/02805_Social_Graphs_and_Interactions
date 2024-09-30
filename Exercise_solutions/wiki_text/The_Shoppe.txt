@@ -1,0 +1,122 @@
+{{Refimprove|date=March 2020}}
+{{short description|American country music group}}
+{{Infobox musical artist | <!-- See Wikipedia:WikiProject Musicians -->
+| name            = The Shoppe
+| image             = 
+| caption        = A permotional image made for one of The Shoppe's many albums.
+| image_size        = (100,100)
+| background      = group_or_band
+| alias           = 
+| origin          = [[Dallas, Texas]], [[United States|USA]]
+| genre           = [[Country music|Country]]
+| years_active    = 1968 - 1998, 2012, 2013, 2018
+| label           = Rainbow Sound, NSD, American Country, [[MTM Records|MTM]]
+| associated_acts = 
+| website             = 
+| current_members = 
+| past_members    = Mark Cathey<br />Kevin Bailey<br />Roger Ferguson<br />Clarke Wilcox<br />Mike Caldwell<br />Jack Wilcox<br />Lou Chavez
+}}
+
+'''The Shoppe''' was an American [[country music]] group from [[Dallas, Texas]], composed of Mark Cathey (vocals), Kevin Bailey (vocals), Roger Ferguson (guitar), Clarke Wilcox (banjo), Mike Caldwell (harmonica), Jack Wilcox (bass), and Lou Chavez (drums).
+
+The band's highest-charting single, "Doesn't Anybody Get High on Love Anymore," reached the Top 40 on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles]] chart in 1981.<ref name="google">{{Cite web|url=https://news.google.com/newspapers?nid=860&dat=19880817&id=zTcQAAAAIBAJ&sjid=_o4DAAAAIBAJ&pg=4495,4875509|title=Ellensburg Daily Record - Google News Archive Search|website=News.google.com}}</ref> They were signed to MTM Records in 1985 and released one album, ''The Shoppe'', which charted on the ''Billboard'' [[Top Country Albums]] chart and led to appearances on [[The Nashville Network]].<ref name="google" />
+
+For nearly three decades, The Shoppe toured extensively throughout the United States before disbanding in 1998.
+
+For many years The Shoppe was a mainstay at the [[Puyallup Fair]], performing several times a day.
+
+In 2012 The Shoppe reunited for a reunion run at the Puyallup Fair, from September 17 to September 23. They would also reunite for the Puyallup fair in 2013, and one final time in 2018 to celebrate their 50th anniversary.
+
+==Limited discography==
+===Albums===
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Album
+! colspan="1"| Peak positions
+! rowspan="2"| Label
+|- style="font-size:smaller;"
+! width="65"| [[Top Country Albums|US Country]]
+|-
+| 1980
+| ''Tryin' to Get It Straight''
+| align="center"| —
+| Rainbow Sound (R-5059)
+|-
+| 1985
+| ''The Shoppe''
+| align="center"| 70
+| MTM (ST-71051)
+|-
+| 1986
+| ''The Shoppe''
+| align="center"| —
+| The Shoppe Records (S-86)
+|-
+| 1998
+| ''Along for the Ride''
+| align="center"| —
+| Midwest Records (SHP-1008)
+|-
+|-
+|}
+
+===Singles===
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]
+|-
+| rowspan="2"| 1980
+| "Three Way Love"
+| align="center"| 76
+| rowspan="2"| ''Tryin' to Get It Straight''
+|-
+| "Star Studded Nights"
+| align="center"| 78
+|-
+| rowspan="2"| 1981
+| "Doesn't Anybody Get High on Love Anymore"
+| align="center"| 33
+| rowspan="4"| Single-only releases
+|-
+| "Dream Maker"
+| align="center"| 61
+|-
+| 1984
+| "If You Think I Love You Now"
+| align="center"| 74
+|-
+| rowspan="3"| 1985
+| "Hurts All Over"
+| align="center"| 79
+|-
+| "Holdin' the Family Together"
+| align="center"| 56
+| rowspan="2"| ''The Shoppe''
+|-
+| "While the Moon's in Town"
+| align="center"| 47
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[{{Allmusic|class=artist|id=p23578|pure_url=yes}} The Shoppe] at [[allmusic]]
+* [http://www.facebook.com/TheShoppeBand The Shoppe's Facebook page]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Shoppe, The}}
+[[Category:Country music groups from Texas]]
+[[Category:MTM Records artists]]
+[[Category:Musical groups from Dallas]]
+[[Category:Musical groups established in 1968]]
+[[Category:Musical groups disestablished in 1998]]
+[[Category:Musical groups reestablished in 2012]]
+
+
+{{US-country-band-stub}}

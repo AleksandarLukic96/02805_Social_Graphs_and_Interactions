@@ -1,0 +1,85 @@
+{{Short description|American country music group}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Marshall Dyllon
+| image                 = 
+| caption            = 
+| image_size            = 
+| background          = group_or_band
+| origin              = [[San Antonio, Texas]], U.S.
+| genre               = [[country music|Country]]
+| years_active        = 2000–2001
+| label               = Dreamcatcher 
+| past_members        = Daniel Cahoon<br />Jesse Littleton <br />Michael Martin<br />Paul Martin<br />Todd Michael Sansom
+}}
+'''Marshall Dyllon''' was an American [[country music]] group formed in 2000, comprising vocalists Daniel Cahoon, Jesse Littleton, Michael Martin, Paul Martin, and Todd Michael Sansom. These five members were recruited by country music artist [[Kenny Rogers]] and talent manager [[Lou Pearlman]], in an attempt to bring the [[boy band]] sound to the country music scene.
+
+Excluding Kenny Rogers himself, Marshall Dyllon was the first act to be signed to Dreamcatcher Records, an independent label which Rogers owned. The group's singular album, ''[[Enjoy the Ride (Marshall Dyllon album)|Enjoy the Ride]]'', was released that year. It accounted for the chart singles "Live It Up" and "You". The band released a third single, "[[She Ain't Gonna Cry]]", in 2001 before disbanding.
+
+==Biography==
+[[Lou Pearlman]], the talent manager responsible for the [[Backstreet Boys]] and [['N Sync]], teamed up with country music artist [[Kenny Rogers]] to create the lineup of Marshall Dyllon as an attempt to bring the then-popular [[boy band]] sound to the country music scene.<ref name="cnn"/> Rogers and Lou found Paul Martin, Michael Martin (Paul's younger brother), Dan Cahoon, Todd Sansom, and Jesse Littleton. Paul Martin and Jesse Littleton had previously auditioned on the [[American Broadcasting Company|ABC]] television series ''[[Making the Band]]'', where both were offered opportunities to become members of what eventually became [[O-Town]], another boy band.<ref name="cnn">{{cite web |url=http://cnnstudentnews.cnn.com/2000/fyi/news/12/19/marshall.dyllon/ |title=Country music goes Backstreet with Marshall Dyllon |accessdate=2007-12-26 |last=DiLonardo |first=Mary Jo |date=2000-12-22 |work=CNNfyi.com |archive-url=https://web.archive.org/web/20051217091437/http://cnnstudentnews.cnn.com/2000/fyi/news/12/19/marshall.dyllon/ |archive-date=2005-12-17 |url-status=dead }}</ref><ref name="mary">{{cite web |url=http://worldnewssite.com/News/2001/January/2001-01-05-1-Country.html |title=Country Band Marshall Dyllon Invites Listeners to "Enjoy the Ride" |accessdate=2007-12-26 |last=Morningstar |first=Mary |date=2001-01-05 |work=World News Site.com}}</ref>
+
+Eventually, the group decided to assume the name Marshall Dyllon, an altered spelling of the character [[Marshal Matt Dillon]] from the television series ''[[Gunsmoke]]''.<ref name="cnn"/> All five members alternated as lead vocalists, while Sansom co-wrote several of the songs and handled the vocal arrangements.<ref name="cnn"/><ref name="mary"/> Marshall Dyllon opened for Rogers and several other prominent country music personalities.<ref name="mary"/> On December 5, 2000, Marshall Dyllon released their first album, entitled ''[[Enjoy the Ride (Marshall Dyllon album)|Enjoy the Ride]]''. The album included songs co-written by [[Phil Vassar]], who had written several country songs for other artists and was just beginning his career as a successful country music artist.<ref name="cnn"/> Overall, ''Enjoy the Ride'' produced two singles on the U.S. ''Billboard'' country singles charts. An additional single, "[[She Ain't Gonna Cry]]", which was previously recorded by its co-writer [[Joel Feeney]],<ref>{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2005|publisher=Record Research, Inc.|year=2005}}</ref> was issued before Marshall Dyllon was disbanded in 2001.
+
+== Discography ==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''[[Enjoy the Ride (Marshall Dyllon album)|Enjoy the Ride]]''
+| 
+* Release date: December 5, 2000
+* Label: Dreamcatcher Records
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:12em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="60"| [[Hot Country Songs|US Country]]
+|-
+| 2000
+! scope="row"| "[[Live It Up (Marshall Dyllon song)|Live It Up]]"
+| 37
+| align="left" rowspan="2"| ''Enjoy the Ride''
+|-
+| rowspan="2"| 2001
+! scope="row"| "You"
+| 47
+|-
+! scope="row"| "[[She Ain't Gonna Cry]]"
+| 44
+| align="left"| single only
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:12em;"| Video
+|-
+| 2000
+! scope="row"| "Live It Up"
+|-
+| 2001
+! scope="row"| "You"
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.toddsansom.com Todd Sansom official website]
+
+{{Lou Pearlman}}
+{{Authority control}}
+[[Category:Country music groups from Texas]]
+[[Category:Lou Pearlman]]
+[[Category:Musical groups established in 2000]]
+[[Category:Musical groups disestablished in 2001]]
+[[Category:Musical groups from Texas]]
+[[Category:Vocal quintets]]

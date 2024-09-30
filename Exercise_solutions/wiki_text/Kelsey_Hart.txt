@@ -1,0 +1,64 @@
+{{short description|American singer-songwriter}}
+{{Infobox musical artist
+| name            = Kelsey Hart
+| image           =
+| caption         =
+| birth_name      = 
+| birth_date      = 
+| birth_place     = [[Kentucky]], United States
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| instrument      = Vocals, guitar
+| years_active    = 2017–present
+| label           = [[Curb Records|Curb]]
+| website         = {{URL|https://officialkelseyhart.com/}}
+}}
+'''Kelsey Hart''' is an American [[country music]] singer-songwriter from [[Kentucky]] signed to [[Curb Records]].<ref>{{cite web|url=https://www.opry.com/artists/kelsey-hart|title=Kelsey Hart: Opry|website=Grand Ole Opry|accessdate=May 5, 2024}}</ref>
+
+==Background==
+After several years of songwriting for other artists under Word Music Publishing, Hart signed his own record deal with [[Curb Records]] in January 2023.<ref>{{cite web|url=https://musicrow.com/2023/01/kelsey-hart-signs-with-curb-records/|title=Kelsey Hart Signs With Curb Records|author=Lorie Hollabaugh|date=January 23, 2023|website=Music Row|accessdate=May 5, 2024}}</ref> His debut single, "Life with You", was released in November 2023, and charted on the ''[[Billboard (magazine)|Billboard]]'' [[Country Airplay]] chart. It served as the lead single and title track to his debut studio album, which was released on May 31, 2024.<ref>{{cite web|url=https://www.curb.com/2024/05/curb-records-artist-kelsey-hart-builds-autobiographical-debut-around-life-with-you-slated-to-drop-may-31-2024/|title=Curb Records Artist Kelsey Hart Builds Autobiographical Debut Around Life With You, Slated To Drop May 31, 2024|date=May 3, 2024|website=Curb Records|accessdate=May 5, 2024}}</ref>
+
+Hart made his [[Grand Ole Opry]] debut on June 28, 2024.<ref name="Life with You Album"/>
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;" 
+|+ List of studio albums, with selected details, chart positions and sales
+! rowspan="1" style="width:8em;"| Title
+! rowspan="1" style="width:18em;"| Album details
+|- 
+! scope="row" |''Life with You''
+|
+* Release date: May 31, 2024<ref name="Life with You Album">{{cite web|url=https://musicrow.com/2024/05/kelsey-hart-to-share-life-with-you-this-month/|title=Kelsey Hart To Share 'Life With You' This Month|author=Madison Hahnen|date=May 3, 2024|website=Music Row|accessdate=May 5, 2024}}</ref>
+* Label: [[Curb Records|Curb]]
+* Format: CD, digital download
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of singles, with selected chart positions
+! scope="col" rowspan="2"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="2"| Peak chart positions
+! scope="col" rowspan="2"| Album
+|- style="font-size:smaller;"
+! scope="col" width="45"| [[Hot Country Songs|US Country]]<br /><ref>{{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_0513.pdf|title=Billboard Country Update|magazine=[[Billboard (magazine)|Billboard]]|date=May 13, 2024|access-date=May 14, 2024}}</ref>
+! scope="col" width="45"| [[Country Airplay|US Country Airplay]]<br /><ref>{{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_0809.pdf|title=Billboard Country Update|magazine=[[Billboard (magazine)|Billboard]]|date=August 9, 2024|access-date=August 10, 2024}}</ref>
+|-
+! scope="row" | "Life with You"
+| 2023
+| 49 || 38
+| ''Life with You''
+|}
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Hart, Kelsey}}
+[[Category:Living people]]
+[[Category:American country singer-songwriters]]
+[[Category:Country musicians from Kentucky]]
+[[Category:Year of birth missing (living people)]]

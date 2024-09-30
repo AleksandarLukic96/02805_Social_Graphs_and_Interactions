@@ -1,0 +1,282 @@
+{{Use Canadian English|date=March 2014}}
+{{short description|Canadian-American country music singer}}
+{{Use dmy dates|date=August 2020}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject Musicians -->
+| name             = Lindsay Ell
+| image            = Lindsay Ell on tour.jpg
+| caption          = Lindsay Ell on the Friends and Heroes Tour (2021)
+| background       = solo_singer
+| birth_name       = Lindsay Elizabeth Ell
+| birth_date       = {{Birth date and age|df=yes|1989|3|20}}
+| birth_place      = [[Calgary]], [[Alberta]], Canada
+| label            = {{hlist|[[Universal Music Canada]]|[[Warner Music Canada]]|[[Broken Bow Records|Stoney Creek Records]]}}
+| instrument       = Vocals, acoustic guitar, electric guitar, mandolin, ukulele, piano, banjo
+| genre            = {{hlist|[[Country pop]]<ref name ="AllMusic">{{cite web|title=Lindsay Ell - Biography|url=https://www.allmusic.com/artist/lindsay-ell-mn0001033310|work=[[AllMusic]]|first=Steve|last=Leggett|accessdate=7 January 2021}}</ref>|[[pop rock]]<ref name ="AllMusic"/>}}
+| occupation       = Singer, songwriter, guitarist
+| years_active     = 2003–present
+| website          = {{URL|lindsayell.com}}
+}}
+'''Lindsay Elizabeth Ell''' (born 20 March 1989) is a Canadian-American [[country pop]] singer, songwriter, guitarist and television personality from [[Calgary]], [[Alberta]].<ref name=rocky1>{{cite news | first = Drew | last = Hoshkiw | url = http://www.rmoutlook.com/article/20110519/RMO0302/305199976/-1/rmo/ell-offers-country-sound-at-hotel | title = Ell offers country sound at Hotel | work = Rocky Mountain Outlook | date = 19 May 2011 | access-date = 24 April 2012 | archive-date = 11 August 2014 | archive-url = https://web.archive.org/web/20140811205038/http://www.rmoutlook.com/article/20110519/RMO0302/305199976/-1/rmo/ell-offers-country-sound-at-hotel | url-status = dead }}</ref> Her music incorporates elements of rock and blues.  She was signed to the US record label Stoney Creek Records, an imprint of [[Broken Bow Records]].<ref>{{cite news|last1=Bell|first1=Mike|title=Calgary country singer Lindsay Ell ready for the big leagues|url=https://calgaryherald.com/entertainment/Calgary+country+singer+Lindsay+ready+leagues/10021333/story.html|access-date=5 August 2014|agency=Calgary Herald|newspaper=Calgary Herald|date=2014-07-11}}</ref> Her debut [[extended play]], ''[[Worth the Wait (EP)|Worth the Wait]]'', was released in March 2017. Her first full-length country album, ''[[The Project (Lindsay Ell album)|The Project]]'',<ref>{{cite web|title=Lindsay Ell Made Her Late-Night Debut on ABC's Jimmy Kimmel Live! (6/20) |url=https://www.bbrmusicgroup.com/lindsay-ell-made-late-night-debut-abcs-jimmy-kimmel-live-620/|publisher=[[Broken Bow Records]] (BBR) Music Group |access-date=22 June 2017|location=Nashville, TN|date=22 June 2017}}</ref> was released in August 2017 and debuted at No. 1 on the ''Billboard'' Country Album Sales chart.<ref>{{Cite web|url=http://theboot.com/lindsay-ell-the-project-no-1/?trackback=tsmclip|title=Lindsay Ell's 'The Project' Is a No. 1 Album|website=The Boot|access-date=2017-08-22}}</ref> Since 2022, she has been the host of the revived ''[[Canada's Got Talent]]'' reality television series.<ref>{{cite web|first=Murtz|last=Jaffer|url=https://www.thestar.com/entertainment/television/2022/03/19/canadas-got-talent-is-back-and-this-time-the-judges-pledge-to-have-an-edge.html?|title='Canada's Got Talent' is back and this time the judges pledge to have an edge|work=[[Toronto Star]]|date=19 March 2022|access-date=2 April 2023}}</ref>
+
+==Early life==
+Lindsay Ell was born in [[Calgary]].<ref name=Herald2007 /> She started playing the piano at six, until she discovered her father's collection of guitars scattered throughout the house, switching at age eight; "I fell in love with the guitar," says Lindsay. "It's a huge part of who I am."<ref name=CBC>{{cite web|title=Artist: Lindsay Ell |url=http://music.cbc.ca/#/artists/Lindsay-Ell |publisher=[[CBC Music]] |access-date=15 January 2013 |url-status=dead |archive-url=https://web.archive.org/web/20160301002442/http://music.cbc.ca/ |archive-date= 1 March 2016 }}</ref> Lindsay fell in love with the blues and started songwriting at age 10.<ref name=FFWD>{{cite news|author=Leonard, Christine|date=5 February 2009|url=http://www.ffwdweekly.com/article/music/music-previews/just-for-the-ell-of-it-3264/|title=Just for the Ell of it: Local singer-songwriter Lindsay Ell gets a little help from big-name friends|newspaper=[[Fast Forward Weekly]]|access-date=24 April 2012|archive-url=https://web.archive.org/web/20090212175933/http://ffwdweekly.com/article/music/music-previews/just-for-the-ell-of-it-3264/|archive-date=12 February 2009|url-status=dead}}</ref> Ell was [[valedictorian]] for her class at [[Bishop Carroll High School (Calgary, Alberta)|Bishop Carroll High School]], from which she graduated a year early. She went on to study business at the [[University of Calgary]] and music at the [[Berklee College of Music]], in addition to pursuing her music career.<ref name=Herald2007>{{cite news|author=Simnett, Chris|date=1 January 2007|title=Ell awaits release of CD|newspaper=[[Calgary Herald]]|page=B4}}</ref><ref>{{cite web|last1=Kravitz|first1=Kayley|title=Student Spotlight: Lindsay Ell|url=https://online.berklee.edu/takenote/student-spotlight-lindsay-ell/|website=Berklee Online|date=23 September 2014 |access-date=25 September 2014}}</ref>
+
+==Career==
+[[Randy Bachman]] discovered Ell when she was only 15 years old.<ref>{{cite web|author=Hu, Amanda | url=http://thegauntlet.ca/story/12590 | title=Songstress breaks down the barriers | publisher= [[Gauntlet (newspaper)|Gauntlet]] |date= 7 August 2008 | access-date=24 April 2012}}</ref> Bachman described her as "the most talented and multi-faceted artist I've come across in many years".<ref>{{cite news|author=Fortney, Valerie|date=25 March 2008|url=http://www.canada.com/calgaryherald/news/story.html?id=88768b24-d2e7-46b2-888a-ce41d3b2fb25&k=67000|title=Eyes of Canada on city for music awards gala|newspaper=[[Calgary Herald]]|page=A3|access-date=24 April 2012|archive-url=https://web.archive.org/web/20140809195146/http://www.canada.com/calgaryherald/news/story.html?id=88768b24-d2e7-46b2-888a-ce41d3b2fb25&k=67000|archive-date=9 August 2014|url-status=dead}}</ref> Bachman co-wrote and produced her first album ''Consider This''.<ref name="Tayler-2006"/> It was recorded at Bachman's studio on [[Saltspring Island]], and Ell herself co-wrote most of the 11 songs.<ref name=Herald2007 /> The album was released in 2006 on Bachman's record label Ranbach Music and distributed by [[Fontana North]].<ref name="Library and Archives Canada"/> Ell toured with blues guitarist [[Buddy Guy]] in 2008.<ref name=Herald2009>{{cite news |author=Mccoy, Heath |url=http://www2.canada.com/calgaryherald/news/entertainment/story.html?id=5664facb-b6fa-4d54-ae44-4fc5d3d70e33&p=1 |title=Lindsay Ell has a style all her own |newspaper=[[Calgary Herald]] |date=17 February 2009 |access-date=24 April 2012 |archive-url=https://web.archive.org/web/20140809191734/http://www2.canada.com/calgaryherald/news/entertainment/story.html?id=5664facb-b6fa-4d54-ae44-4fc5d3d70e33&p=1 |archive-date=9 August 2014 |url-status=dead }}</ref><ref>{{cite news|author=Hunter, Colin|date=8 January 2009|title=This girl's got a friend in Guy: Jam session with Buddy Guy an honour for young blues-pop musician Lindsay Ell|newspaper=[[Guelph Mercury]]|page=F2}}</ref> On her 2009 album, ''Alone'', she moved to a more [[acoustic music|acoustic]] sound compared to her debut.<ref name=FFWD /><ref name=Herald2009 />
+
+It was her first songwriting trip to Nashville that brought her full circle to her country roots.<ref>{{cite news|last1=Patton|first1=Kristi|title=Lindsay Ell trippin' along on tour with The Band Perry|url=http://www.pentictonwesternnews.com/entertainment/239339961.html|access-date=6 August 2014|agency=Penticton Western News|date=8 January 2014|archive-date=8 May 2016|archive-url=https://web.archive.org/web/20160508232018/http://www.pentictonwesternnews.com/entertainment/239339961.html|url-status=dead}}</ref> She travelled back and forth from Calgary to Nashville for a couple years to participate in songwriting sessions while playing as many live shows as she could to hone her craft.<ref name="avenuecalgary.com">{{cite news|last1=ARNUSCH|first1=SHELLEY|title=Musician Lindsay Ell: A Calgarian in Nashville|url=http://www.avenuecalgary.com/May-2014-1/Musician-Lindsay-Ell-A-Calgarian-in-Nashville/|access-date=6 August 2014|agency=Avenue|date=2 May 2014|archive-date=24 October 2018|archive-url=https://web.archive.org/web/20181024073848/http://www.avenuecalgary.com/May-2014-1/Musician-Lindsay-Ell-A-Calgarian-in-Nashville/|url-status=dead}}</ref> At the age of 21, she permanently moved to Nashville and signed with the US-based record label [[Broken Bow Records|Stoney Creek Records]].<ref name="avenuecalgary.com"/>
+
+In December 2013, her first official single, "Trippin' on Us", debuted as the most added song for country music radio in both Canada and the United States with over 50 first week adds.<ref>{{cite web|last1=Harr|first1=Dan|title=Lindsay Ell Profiled on NBC's The Better Show This Monday 3 March|url=http://www.musicnewsnashville.com/lindsay-ell-profiled-nbcs-better-show-monday-march-3rd/|website=Music News Nashville|access-date=6 August 2014|archive-date=16 March 2014|archive-url=https://web.archive.org/web/20140316110415/http://www.musicnewsnashville.com/lindsay-ell-profiled-nbcs-better-show-monday-march-3rd/|url-status=dead}}</ref> Ell has since been called "a true triple threat" by Guitar World; "a star in the making" by Taste of Country and "a distinct figure in the modern country recording camp" by Country Weekly.<ref>{{cite web|last1=Haislop|first1=Neil|title=Headline of the Day - March 3, 2014|url=http://www.allaccess.com/nashville-iq/archive/18476/headline-of-the-day---march-3-2014|website=All Access|access-date=6 August 2014}}</ref> Lindsay is a guitarist whose style has been influenced by [[John Mayer]], [[Keith Urban]], [[Stevie Ray Vaughan]], [[Tommy Emmanuel]], [[Chet Atkins]], [[Buddy Guy]], [[Randy Bachman]], [[Eric Clapton]] and [[Jimi Hendrix]].<ref>{{cite web|last1=Wood|first1=James|title=Guitarist Lindsay Ell Discusses New Single, "Trippin' On Us," and Opening for Buddy Guy|url=http://www.guitarworld.com/guitarist-lindsay-ell-discusses-new-single-trippin-us-and-opening-buddy-guy-0|website=Guitar World|access-date=7 August 2014}}</ref><ref>{{cite web|last1=Wilderman|first1=Jill|title=Spotlight Country…With Lindsay Ell|url=http://www.spotlightcountry.com/with-lindsay-ell/|website=Spotlight Country|access-date=7 August 2014|archive-date=24 September 2015|archive-url=https://web.archive.org/web/20150924104953/http://www.spotlightcountry.com/with-lindsay-ell/|url-status=dead}}</ref> She typically plays a custom [[Les Paul]] Goddess and Martin acoustic guitars.<ref name="gojimmygo.net">{{cite web|last1=Wood|first1=James|title=Guitarist Lindsay Ell Talks New Music, Touring and The Grand Ole Opry|url=http://gojimmygo.net/2014/04/11/guitarist-lindsay-ell-talks-new-music-touring-and-the-grand-ole-opry/|website=Go.Jimmy.Go|date=11 April 2014|access-date=7 August 2014}}</ref> She is an official [[Martin Guitar]] artist.<ref>{{cite web|title=Artists that play Martin Guitars.|url=http://www.martinguitar.com/players/martin-artists.html|website=Martin Guitars|access-date=7 August 2014}}</ref>
+
+Lindsay made her [[Grand Ole Opry]] debut on 15 April 2014 and has since made several appearances on the show.<ref name="gojimmygo.net"/> On 24 March 2017, Lindsay released her debut EP, ''[[Worth the Wait (EP)|Worth the Wait]]'', featuring six songs, one of which is a cover of [[John Mayer]]'s "[[Continuum (John Mayer album)|Stop This Train]]."<ref>{{Cite news|url=http://www.soundslikenashville.com/music/lindsay-ell-to-release-debut-ep-worth-the-wait/|title=Lindsay Ell to Release Debut EP, 'Worth The Wait'|date=2017-03-20|work=Sounds Like Nashville|access-date=2017-03-20}}</ref> "Worth the Wait shows off Ell’s talent in all capacities, as a guitarist, vocalist and songwriter," wrote Sounds Like Nashville in a review of the project.<ref>{{Cite news|url=http://www.soundslikenashville.com/reviews/ep-review-lindsay-ells-worth-the-wait/|title=EP Review: Lindsay Ell's 'Worth The Wait'|date=2017-03-24|work=Sounds Like Nashville|access-date=2017-03-24}}</ref> On 28 January 2018, Lindsay sang the [[Canadian National Anthem]] at the [[2018 NHL All-Star Game]].<ref>{{cite web|last1=Casey|first1=Jim|title=NHL All-Star Game Will Include Performances From Lindsay Ell, Brett Young & Chase Rice|url=http://www.nashcountrydaily.com/2018/01/25/nhl-all-star-game-will-include-performances-from-lindsay-ell-brett-young-chase-rice/|website=Nash Country Daily|access-date=28 January 2018|date=25 January 2018}}</ref> In March 2018, she performed at the [[C2C: Country to Country]] festival in the UK. On 29 July 2020 upon her label's request Lindsay flew to Nashville to perform a remix as a guest artist on her label mate [[Tucker Beathard]]'s newly released single titled "Faithful". The track was the first promotional single released upon the announcement Beathard's upcoming album titled [[KING (Tucker Beathard album)|KING]], however the version that features her was left off of the album and was instead only able to be streamed via [[YouTube]].<ref>{{Cite magazine|url=https://www.rollingstone.com/music/music-country/tucker-beathard-lindsay-ell-duet-faithful-1037441/|title=Watch Tucker Beathard and Lindsay Ell's Duet Version of 'Faithful'|magazine=[[Rolling Stone]] |date=31 July 2020}}</ref><ref>{{Cite web|url=https://tasteofcountry.com/tucker-beathard-lindsay-ell-faithful-duet/|title=WATCH: Tucker Beathard, Lindsay Ell Duet on 'Faithful'|first=Tricia|last=Despres|date=5 August 2020|website=Taste of Country}}</ref>
+
+On 14 August 2020, Ell released her fifth studio album, ''[[Heart Theory]]'', featuring the singles "[[I Don't Love You (Lindsay Ell song)|I Don't Love You]]", "[[Want Me Back]]", and "Good on You".<ref>{{cite magazine |last1=Freeman |first1=Jon |title=Lindsay Ell Details New Album, 'Heart Theory' |url=https://www.rollingstone.com/music/music-country/lindsay-ell-heart-theory-new-album-1020313/ |accessdate=25 August 2020 |magazine=[[Rolling Stone]] |date=25 June 2020}}</ref> In October 2021, it was announced that Ell will host the second season of ''[[Canada's Got Talent]]'', which aired in 2022.<ref>[https://www.thestar.com/entertainment/music/2021/10/26/howie-mandel-lilly-singh-among-judges-set-for-canadas-got-talent.html "Howie Mandel, Lilly Singh among judges set for ‘Canada’s Got Talent’"]. ''[[Toronto Star]]'', 26 October 2021.</ref> She served alongside [[Priyanka (drag queen)|Priyanka]] as cohost of the [[2021 Canadian Country Music Awards]].<ref>David Friend, [https://www.thestar.com/entertainment/music/2021/11/08/drag-race-winner-priyanka-to-co-host-canadas-country-music-awards-with-lindsay-ell.html "‘Drag Race’ winner Priyanka to co-host Canada’s country music awards with Lindsay Ell"]. ''[[Toronto Star]]'', 8 November 2021.</ref>
+
+In 2023, Ell departed [[Stoney Creek Records]] and the [[BBR Music Group]].<ref>{{cite web|url=https://tasteofcountry.com/lindsay-ell-eating-disorder/|title=Lindsay Ell Reveals She's Been Diagnosed With an Eating Disorder|date=14 February 2023|work=Taste of Country|access-date=26 March 2023}}</ref> She subsequently released the single "Sweet Spot".<ref>{{cite web|url=https://americansongwriter.com/lindsay-ell-settles-into-the-sweet-spot-with-new-single/|title= Lindsay Ell Settles Into the "Sweet Spot" with New Single|date=24 March 2023|work=[[American Songwriter]]|first=Cillea|last=Houghton|access-date=2 April 2023}}</ref> Her song "[[Right on Time (Lindsay Ell song)|Right on Time]]" was named "Single of the Year" at the [[2023 Canadian Country Music Awards]].<ref name="SOTY"/> Ell was named the recipient of the Gary Slaight Music Humanitarian Award at the [[2024 Canadian Country Music Awards]] for her work establishing The Make You Movement fund and support for sexual assault survivors and the LGBTQ2SIA+ community.<ref>{{cite web|url= https://musicrow.com/2024/07/lindsay-ell-to-receive-ccmas-gary-slaight-music-humanitarian-award/|title=Lindsay Ell To Receive CCMA’s Gary Slaight Music Humanitarian Award|date=July 9, 2024|first=Lorie|last=Hollabaugh|work=Music Row|access-date=September 11, 2024}}</ref>
+
+In 2023, Ell performed as one of the support acts on [[Shania Twain]]'s [[Queen of Me Tour]]. In 2024, she joined Twain for her third Las Vegas residency at [[PH Live]] as guitarist.
+
+== Personal life ==
+Ell officially became an American citizen on December 8, 2022.<ref>{{Cite tweet |number=1600943545950810112 |user=lindsayell |title=I am officially an American}}</ref><ref>{{cite web|url= https://tasteofcountry.com/lindsay-ell-dual-citizenship-shania-twain-tour-interview/|title= Lindsay Ell Passes Her American Citizenship Test: 'I Am So Proud to Be a Dual Citizen'|first=Carena|last=Liptak|date=December 11, 2022|work=Taste of Country|access-date=December 12, 2022}}</ref> In February 2023, she revealed that she has been battling an eating disorder for many years that was only recently diagnosed.<ref>{{Cite web |title=Lindsay Ell Was Recently Diagnosed with an Eating Disorder; Has Hopes Her Story Will 'Inspire' Others |url=https://people.com/health/lindsay-ell-diagnosed-with-eating-disorder/ |access-date=2023-02-14 |website=Peoplemag |language=en}}</ref>
+
+==Tours==
+*[[We Are Pioneers World Tour]] (2013/2014) – supporting [[The Band Perry]] 
+*CMT Next Women of Country Tour (2016) – supporting [[Jennifer Nettles]] 
+*[[Life Amplified World Tour]] (2017) – supporting [[Brad Paisley]] 
+*Weekend Warrior World Tour (2017/2018) – supporting [[Brad Paisley]]<ref>{{cite magazine|title=Brad Paisley Plots 2017 Weekend Warrior Tour|url=https://www.rollingstone.com/country/news/brad-paisley-plots-2017-weekend-warrior-tour-w481338|magazine=Rolling Stone|date=8 May 2017|access-date=9 May 2017}}</ref>
+*Still the Same Tour (2018) - supporting [[Sugarland]]<ref>{{cite magazine|title=Sugarland Plot 2018 Still the Same Tour|url=https://www.rollingstone.com/country/news/sugarland-plot-2018-still-the-same-tour-w515220|magazine=Rolling Stone|date=9 January 2018|access-date=9 January 2018}}</ref>
+*[[Graffiti U World Tour]] (2018) – supporting [[Keith Urban]]<ref>{{cite web |title=Lindsay Ell to open in hometown on Keith Urban's Graffiti U World tour |url=https://calgaryherald.com/entertainment/music/lindsey-ell-to-open-for-canadian-leg-of-keith-urbans-tour |website=Calgary Herald |access-date=5 June 2018}}</ref>
+*Monster Energy Outbreak Tour (2018/2019) - headlining<ref>{{Cite magazine|url=https://www.rollingstone.com/music/music-country/lindsay-ell-announces-first-headlining-tour-718709/|title=Lindsay Ell Announces First Headlining Tour|last=Freeman|first=Jon|date=2018-09-04|magazine=Rolling Stone|access-date=2018-09-16}}</ref>
+*Friends and Heroes Tour (2021) - supporting [[Blake Shelton]]
+*wAnt me back tour (2021) - headlining, with [[Robyn Ottolini]] supporting <ref name="lindsayell.com">{{cite web|url=https://www.lindsayell.com/lindsay-ell-announces-first-headlining-canadian-tour|title=LINDSAY ELL ANNOUNCES FIRST HEADLINING CANADIAN TOUR|website=www.lindsayell.com|date=19 July 2021|access-date=11 May 2022|archive-date=19 May 2022|archive-url=https://web.archive.org/web/20220519215015/https://www.lindsayell.com/lindsay-ell-announces-first-headlining-canadian-tour/|url-status=dead}}</ref>
+*From the Fire Tour (2023) - supporting Zac Brown Band{{fact|date=August 2024}}
+
+Lindsay Ell was selected by [[The Band Perry]] to open for their "We Are Pioneers World Tour" which included 50 dates throughout Europe and North America during 2013 and 2014.<ref>{{cite news|last1=Patton|first1=Kristi|title=Lindsay Ell trippin' along on tour with The Band Perry|url=http://www.pentictonwesternnews.com/entertainment/239339961.html|access-date=5 August 2014|agency=Penticton Western News|date=8 January 2014|archive-date=8 May 2016|archive-url=https://web.archive.org/web/20160508232018/http://www.pentictonwesternnews.com/entertainment/239339961.html|url-status=dead}}</ref> She has also supported tours with [[Shania Twain]] (support act for [[Queen of Me Tour]] and then guitarist for her Come On Over Las Vegas residency), [[Keith Urban]], [[Luke Bryan]], [[Buddy Guy]], [[Big & Rich]], [[Gretchen Wilson]], [[Ronnie Dunn]], [[Paul Brandt]], [[Chris Isaak]] and [[Blake Shelton]].<ref>{{cite web|url=http://www.halifaxmetrocentre.com/en/home/abouthmc/news/keithurbansupport.aspx|title=Supporting Act for Keith Urban Announced|website=halifaxmetrocentre.com|access-date=5 August 2014|archive-date=9 August 2014|archive-url=https://web.archive.org/web/20140809191013/http://www.halifaxmetrocentre.com/en/home/abouthmc/news/keithurbansupport.aspx|url-status=dead}}</ref> In 2021, Lindsay Ell completed her first Canadian headlining tour, with special guest [[Robyn Ottolini]] supporting.<ref name="lindsayell.com"/>
+
+==Discography==
+{{main|Lindsay Ell discography}}
+
+* ''Consider This'' (2008)
+* ''Alone'' (2009)
+* ''[[The Project (Lindsay Ell album)|The Project]]'' (2017)
+* ''[[The Continuum Project]]'' (2018)
+* ''[[Heart Theory]]'' (2020)
+
+==Awards and nominations==
+{| class="wikitable" style="text-align:center;"
+|-
+! Year
+! Award show
+! Category
+! Nominated work
+! Result
+! Ref
+|-
+|rowspan="2"| 2014
+|rowspan="3"| [[Canadian Country Music Association]]
+|Rising Star
+|rowspan=5|Lindsay Ell
+|rowspan=3 {{nom}}
+|rowspan=3|<ref>{{cite web|url=https://www.ccma.org/2014_CCMA_Award_Nominees.html|title=2014 CCMA Awards - Canadian Country Music Association|website=www.ccma.org}}</ref>
+|-
+|All Star Band - Guitar
+|-
+|rowspan=2|2015
+|Rising Star
+|-
+|Association of Country Music in Alberta
+|Female Artist of the Year
+|{{won}}
+|<ref>{{cite web|url=https://acmamusic.com/past-winners/|title=Past Winners - Female Artist of the Year|website=Association of Country Music in Alberta|access-date=11 November 2019|archive-date=11 November 2019|archive-url=https://web.archive.org/web/20191111114251/https://acmamusic.com/past-winners/|url-status=dead}}</ref>
+|-
+|rowspan="2" | 2016
+|rowspan="1" |[[CMT Music Awards]]
+|Social Superstar
+|rowspan=8 {{nom}}
+|<ref>{{cite web|title=2016 CMT Music Awards - Voting Underway in New Category for June 8 Awards Show|url=http://www.cmt.com/news/1766695/2016-cmt-music-awards-socialsuperstar-nominees-revealed/|archive-url=https://web.archive.org/web/20160602125857/http://www.cmt.com/news/1766695/2016-cmt-music-awards-socialsuperstar-nominees-revealed/|url-status=dead|archive-date=2 June 2016|website=CMT|access-date=11 September 2017}}</ref>
+|-
+|rowspan="4"| [[Canadian Country Music Association]]
+|rowspan="3"| Female Artist of the Year
+|Lindsay Ell
+|rowspan=2|<ref>{{cite web|url=http://www.ccma.org/cgi/page.cgi/_article.html/News/2016_CCMA_Awards_Nominees|title=2016 CCMA Awards Nominees|work=[[Canadian Country Music Association|CCMA]]|publisher=[[Canadian Country Music Association|CCMA]]|date=13 July 2016|access-date=13 September 2016}}</ref>
+|-
+|2017
+|Lindsay Ell
+|-
+|rowspan="2"|2018
+|Lindsay Ell
+|rowspan=2|<ref>{{Cite web|url=https://www.ccma.org/cgi/page.cgi/_article.html/CCMA_AWARDS/2018_CCMA_Awards_Nominees|title=2018 CCMA Awards Nominees - Canadian Country Music Association|website=www.ccma.org|access-date=2018-09-16}}</ref>
+|-
+|Album of the Year
+|''[[The Project (Lindsay Ell album)|The Project]]''
+|-
+|rowspan=7|2019
+|[[Academy of Country Music Awards]]
+|New Female Artist of the Year
+|Lindsay Ell
+|<ref>{{cite web |title=ACM Awards 2019: Full list of nominees |url=https://www.cbsnews.com/news/acm-awards-2019-nominations-full-list-of-nominees/ |website=CBS News |access-date=20 February 2019}}</ref>
+|-
+|[[CMT Music Awards]]
+|Collaborative Video of the Year
+|"What Happens in a Small Town" <small>(with [[Brantley Gilbert]])</small>
+|<ref>{{cite magazine |last1=Freeman |first1=Jon |title=2019 CMT Music Awards: The Complete Winners List |url=https://www.rollingstone.com/music/music-country/2019-cmt-music-awards-winners-list-844075/ |magazine=Rolling Stone |access-date=20 July 2019 |date=6 June 2019}}</ref>
+|-
+|rowspan=4|[[Canadian Country Music Association]]
+|Female Artist of the Year
+|rowspan=2|Lindsay Ell
+|rowspan=4|<ref>{{cite web |title=2019 CCMA Award Nominees - Canadian Country Music Association |url=https://www.ccma.org/2019_CCMA_Award_Nominees.html |website=www.ccma.org |access-date=17 August 2019}}</ref>
+|-
+|Interactive Artist of the Year
+|{{won}}
+|-
+|Single of the Year
+|rowspan=2|"Criminal"
+|rowspan=5 {{nom}}
+|-
+|Video of the Year
+|-
+|[[Country Music Association Awards]]
+|Musical Event of the Year
+|"What Happens in a Small Town" <small>(with [[Brantley Gilbert]])</small>
+|-
+|rowspan=4|2020
+|rowspan=2|[[Academy of Country Music Awards]]
+|New Female Artist of the Year
+|Lindsay Ell
+|-
+|Music Event of the Year
+|"What Happens in a Small Town" <small>(with [[Brantley Gilbert]])</small>
+|-
+|rowspan=2|[[Canadian Country Music Association]]
+|Female Artist of the Year
+|rowspan=2|Lindsay Ell
+|{{nom}}
+|rowspan=2|<ref>{{cite web |title=2020 CCMA Awards: The complete country music winners list |url=https://globalnews.ca/news/7363330/2020-ccma-awards-winners-list/ |website=[[Global News]] |access-date=28 September 2020}}</ref>
+|-
+|Interactive Artist of the Year
+|{{won}}
+|-
+|rowspan="6"| 2021
+|[[Juno Awards of 2021]]
+|Country Album of the Year
+|''heart theory''
+|{{nom}}
+|<ref>{{cite web|first=Holly|last=Gordon|url=https://www.cbc.ca/music/junos/news/here-are-the-2021-juno-award-winners-1.6036001|title=Here are the 2021 Juno Award winners|work=[[CBC Music]]|date=5 June 2021}}</ref>
+|-
+|rowspan=5|[[2021 Canadian Country Music Awards]]
+|Album of the Year
+| ''heart theory''
+|{{nom}}
+|<ref name="Samhan-2021">{{cite web|first=Jamie|last=Samhan|url=https://globalnews.ca/news/8412741/2021-ccma-awards-winners-list-dallas-smith-voted-entertainer-of-the-year/|title=2021 CCMA Awards Winners|work=[[Global News]]|date=30 November 2021}}</ref>
+|-
+|Female Artist of the Year
+|rowspan=2|Lindsay Ell
+|{{nom}}
+|<ref name="Samhan-2021"/>
+|-
+|Interactive Artist of the Year
+|{{won}}
+|<ref name="Samhan-2021"/>
+|-
+|Songwriter of the Year
+|"Good on You" <small>(with [[Sam Ellis (songwriter)|Sam Ellis]] and Micah Premnath)</small>
+|{{nom}}
+|<ref name="Samhan-2021"/>
+|-
+|Video of the Year
+|"Want Me Back"
+|{{nom}}
+|<ref name="Samhan-2021"/>
+|-
+| rowspan=3|2022
+| rowspan=2|[[Canadian Country Music Association|Canadian Country Music Awards]]
+| Female Artist of the Year
+|Lindsay Ell
+| {{nom}}
+| rowspan=2|<ref>{{cite web|url=https://ccma.org/2022-nominees/|title=2022 CCMA AWARD NOMINEES|work=[[Canadian Country Music Association]]|access-date=22 July 2022}}</ref>
+|-
+| Music Video of the Year
+| "Right on Time"
+| {{nom}}
+|-
+| [[Country Music Association Awards]]
+| International Artist Achievement Award
+| Lindsay Ell
+| {{nom}}
+| <ref>{{cite magazine | url=https://www.billboard.com/music/awards/2022-cma-international-award-nominees-ashley-mcbryde-brothers-osborne-1235137577/ | title=Ashley McBryde & Brothers Osborne Among 2022 CMA International Awards Nominees | magazine=[[Billboard (magazine)|Billboard]] }}</ref>
+|-
+| rowspan="2"|2023
+| rowspan="2"|[[2023 Canadian Country Music Awards|Canadian Country Music Awards]]
+| Female Artist of the Year
+| Lindsay Ell
+| {{nom}}
+| rowspan="2"| <ref>{{cite web|url=https://ccma.org/2023-nominees/|title=2023 CCMA Awards Nominees|work=[[Canadian Country Music Association]]|date=13 July 2023|archive-url=https://web.archive.org/web/20230714125710/https://ccma.org/2023-nominees/|archive-date=14 July 2023|access-date=18 July 2023}}</ref><br /><ref name="SOTY">{{cite web|archive-url= https://web.archive.org/web/20230918033611/https://ccma.org/2023-ccma-award-winners/|archive-date=18 September 2023|date=16 September 2023|work=[[Canadian Country Music Association]]|url= https://ccma.org/2023-ccma-award-winners/|title= OFFICIAL 2023 CCMA AWARDS PRESENTED BY TD WINNERS}}</ref>
+|-
+| Single of the Year
+| "Right on Time"
+| {{won}}
+|-
+| 2024
+| [[Canadian Country Music Association|Canadian Country Music Awards]]
+| Female Artist of the Year
+| Lindsay Ell
+| {{nom}}
+| <ref name="CCMA">{{cite web|url=https://ccma.org/2024-ccma-award-nominees/|title=2024 CCMA AWARDS NOMINEES|work=[[Canadian Country Music Association]]|access-date=25 July 2024|archive-url= https://web.archive.org/web/20240719164229/http://web.archive.org/screenshot/https://ccma.org/2024-ccma-award-nominees/|archive-date=19 July 2024}}</ref>
+|-
+|}
+
+==References==
+{{Reflist
+| refs =
+<ref name="Tayler-2006">{{cite news
+| title = Taking care of business: Rock icon Randy Bachman takes Calgary teen under his wing
+| first = Theresa
+| last = Tayler
+| url = http://www2.canada.com/calgaryherald/news/entertainment/story.html?id=0673bb76-8a0c-496e-b746-e7462decfc8a
+| newspaper = [[Calgary Herald]]
+| publisher = [[Postmedia Network]]
+| issn = 1197-2823
+| oclc = 29533985
+| date = 14 December 2006
+| access-date = 5 March 2012
+| archive-url = https://web.archive.org/web/20120301011953/http://www2.canada.com/calgaryherald/news/entertainment/story.html?id=0673bb76-8a0c-496e-b746-e7462decfc8a
+| archive-date = 1 March 2012
+| url-status = dead
+}}</ref>
+
+<ref name="Library and Archives Canada">
+{{Citation
+| url = http://collectionscanada.gc.ca/ourl/res.php?url_ver=Z39.88-2004&url_tim=2012-03-05T03%3A01%3A52Z&url_ctx_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Actx&rft_dat=33722758&rfr_id=info%3Asid%2Fcollectionscanada.gc.ca%3Aamicus&lang=eng
+| title = "Consider this" (sound recording) / Lindsay Ell
+| publisher = [[Library and Archives Canada]]
+| location = [[Ottawa]]
+| oclc = 226950209
+| id = AMICUS No. 33722758
+| access-date = 5 March 2012
+}}
+</ref>
+
+}}
+
+==External links==
+* [http://www.lindsayell.com/ Lindsay Ell] official website
+* [http://www.allmusic.com/artist/lindsay-ell-p1598575/discography Lindsay Ell] discography at [[Allmusic]]
+
+{{Lindsay Ell}}
+{{Authority control}}
+
+{{DEFAULTSORT:Ell, Lindsay}}
+[[Category:1989 births]]
+[[Category:Living people]]
+[[Category:Musicians from Calgary]]
+[[Category:Canadian Country Music Association Single of the Year winners]]
+[[Category:Canadian women guitarists]]
+[[Category:Canadian women country singers]]
+[[Category:Canadian ukulele players]]
+[[Category:American country singer-songwriters]]
+[[Category:21st-century Canadian women singers]]
+[[Category:21st-century Canadian guitarists]]
+[[Category:Canadian television hosts]]
+[[Category:21st-century women guitarists]]
+[[Category:Singers from Alberta]]
+[[Category:Universal Music Group artists]]

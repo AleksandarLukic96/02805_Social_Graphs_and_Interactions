@@ -1,0 +1,458 @@
+{{Short description|American singer (born 1975)}}
+{{Multiple issues|
+{{BLP sources|date=January 2020}}
+{{Lead rewrite|date=November 2022}}
+}}
+
+{{Infobox musical artist 
+| name = Mandy Barnett
+| image = Mandy Barnett.jpg
+| caption = Barnett in 2019
+| background = solo_singer
+| birth_name = Amanda Carol Barnett 
+| birth_date = {{Birth date and age|1975|9|28}}
+| death_date = 
+| origin = [[Crossville, Tennessee]], United States
+| instrument = [[Vocals]]
+| genre = [[Country music|Country]], [[Traditional Pop]]
+| occupation = Singer
+| years_active = 1994-present
+| label = [[Capitol Records|Capitol]], [[Asylum Records|Asylum]]
+| website = {{URL|www.mandybarnett.com}}
+}}
+'''Amanda Carol Barnett''' (born September 28, 1975) is an American [[country music]] singer.
+
+==Early life and music career==
+Barnett has been singing since she was a child, performing at churches, local venues, as well as at [[Dollywood]]. In her musical career, she has released eight albums and charted three singles on the ''[[Billboard (magazine)|Billboard]]'' country charts. Her highest-charting country single is "Now That's All Right With Me", which reached No.&nbsp;43 in 1996. Barnett has also held the titular role in the musical ''Always… Patsy Cline'', a musical based on the life of [[Patsy Cline]], which opened in 1994 at the [[Ryman Auditorium]] in [[Nashville, Tennessee|Nashville]].  She has performed the role in nearly 500 performances over a 20-year period. In addition, she has been a regular on the [[Grand Ole Opry]], appearing over 400 times since her debut in 1994. In 2019, [[Rolling Stone Magazine]] named Barnett's recording of "The Whispering Wind" as one of the top songs of 1999, ranking it at 74 out of 99 songs.<ref>{{Cite magazine | url=https://www.rollingstone.com/music/music-lists/99-best-songs-1999-rob-sheffield-835473/| title=Rob Sheffield's 99 Best Songs of 1999| first1=Rob| last1=Sheffield| magazine=[[Rolling Stone]]| date=June 5, 2019| accessdate=January 22, 2020}}</ref> Barnett performs with bands and symphonies around the world, including the [[Nashville Symphony]] and [[Detroit Symphony Orchestra]]. On August 13, 2019, Barnett made her cabaret debut at [[Feinstein's/54 Below]] in [[New York City]]. Barnett, along with [[Garth Brooks]], [[Emmylou Harris]], [[Vince Gill]] and others performed at the 2019 [[Musicians Hall of Fame and Museum]] Concert and Induction Ceremony; among the inductees were producer [[Owen Bradley]], [[Steve Wariner]] and [[Alabama (band)|Alabama]].  Barnett's rendition of the [[Skeeter Davis]] classic "The End of The World" was released as a single on October 18, 2019. The single was subsequently included on an album titled "A Nashville Songbook" released in August 2020. On September 28, 2020 [[Tennessee Department of Tourist Development|The Tennessee Department of Tourist Development]] honored Barnett with the unveiling of a “Tennessee Music Pathways” marker at the historic downtown square in her [[Tennessee]] hometown of [[Crossville, Tennessee|Crossville]].<ref>{{Cite web|url=https://people.com/country/mandy-barnett-covers-the-end-of-the-world/|title=Country Singer Mandy Barnett Covers Classic 'The End of the World' in Behind-the-Scenes Clip|website=People.com|language=en|access-date=2019-11-15}}</ref> Barnett released her eighth studio album on May 7, 2021 titled "Every Star Above", paying tribute to [[Billie Holiday]]'s "[[Lady in Satin]]." It was the final album orchestrated by [[Sammy Nestico]] prior to his death.  The album reached number one on the [[ITunes|iTunes Jazz Charts]] one day after its release, and it was named one of the best albums of 2021 by [[Variety (magazine)|Variety magazine]].<ref>{{cite web | last1=Willman |first1=Chris |title=The Best Albums of 2021 (So Far) |url=https://variety.com/lists/the-best-albums-of-2021-so-far/ |website=Variety Magazine |date=2 July 2021 |publisher=Variety |access-date=2 July 2021}}</ref> On September 28, 2021 Barnett was invited by [[Connie Smith]] to become an official member of the [[Grand Ole Opry]], and was formally inducted by Smith and [[Marty Stuart]] on November 2, 2021. To date, she has made over 500 appearances at the Grand Ole Opry.<ref>{{Cite web | last=Leimkuehler| first=Matthew| title=After more than 500 shows, Mandy Barnett becomes newest Grand Ole Opry member| url=https://www.tennessean.com/story/entertainment/2021/11/03/mandy-barnett-new-grand-ole-opry-member-marty-stuart-connie-smith/6252258001/| access-date=2022-02-02| website=The Tennessean| language=en-US}}</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:14em;"| Title
+! rowspan="2" style="width:19em;"| Details
+! colspan="4"| Peak chart positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]<br><ref>{{cite magazine|url=https://www.billboard.com/artist/mandy-barnett/chart-history/clp/|title=Mandy Barnett - Chart History (Top Country Albums)|magazine=Billboard|access-date=October 16, 2021}}</ref>
+! width="45"| [[Top Heatseekers|US Heat]]<br><ref>{{cite magazine|url=https://www.billboard.com/artist/mandy-barnett/chart-history/tln/|title=Mandy Barnett - Chart History (Heatseekers Albums)|magazine=Billboard|access-date=October 16, 2021}}</ref>
+! width="45"| [[Independent Albums|US Indie]]<br><ref>{{cite magazine|url=https://www.billboard.com/artist/mandy-barnett/chart-history/ind/|title=Mandy Barnett - Chart History (Independent Albums)|magazine=Billboard|access-date=October 16, 2021}}</ref>
+! width="45"| [[RPM (magazine)|CAN Country]]<br><ref>{{cite web|url=http://www.bac-lac.gc.ca/eng/discover/films-videos-sound-recordings/rpm/Pages/list.aspx?OCRText=Mandy+Barnett&ChartEn=Country+Albums%2fCDs&|title=Mandy Barnett - Country Albums/CDs|work=[[RPM (magazine)|RPM]]|date=17 July 2013 |access-date=October 16, 2021}}</ref>
+|-
+! scope="row"| ''Mandy Barnett''
+| 
+* Release date: February 27, 1996
+* Label: [[Asylum Records]]
+| 60
+| —
+| —
+| 28
+|-
+! scope="row"| ''I've Got a Right to Cry''
+| 
+* Release date: April 13, 1999
+* Label: [[Sire Records]]
+| 45
+| 47
+| —
+| —
+|-
+! scope="row"| ''The Platinum Collection''
+| 
+* Release date: June 26, 2006
+* Label: [[Warner Music Group|WEA]]
+* a compilation of Barnett's previous two albums minus "I'll Just Pretend" and "Don't Forget to Cry"
+| —
+| —
+| —
+| —
+|-
+! scope="row"| ''Winter Wonderland''
+| 
+* Release date: September 20, 2010
+* Label: [[Rounder Records|Rounder]]/[[Cracker Barrel]]
+| 43
+| 10
+| —
+| —
+|-
+! scope="row"| ''Sweet Dreams''
+| 
+* Release date: May 24, 2011
+* Label: Opry Music
+| —
+| —
+| —
+| —
+|-
+! scope="row"| ''I Can't Stop Loving You:<br />The Songs of Don Gibson''
+| 
+* Release date: November 11, 2013
+* Label: Cracker Barrel
+| 32
+| 4
+| 29
+| —
+|-
+! scope="row"| ''Strange Conversation''
+|
+* Release date: September 21, 2018
+* Label: Dame Productions
+| —
+| —
+| —
+| —
+|-
+! scope="row"| ''A Nashville Songbook''
+|
+* Release date: August 21, 2020
+* Label: Melody Place Music/BMG
+| —
+| —
+| —
+| —
+|-
+! scope="row"| ''Every Star Above''
+|
+* Release date: May 7, 2021
+* Label: Melody Place Music/BMG
+| —
+| —
+| —
+| —
+|-
+| colspan="6" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| 1995
+! scope="row"| "An Unforgettable Voice"
+| —
+| —
+| {{n/a}}
+|-
+| rowspan="3"| 1996
+! scope="row"| "Now That's All Right with Me"
+| 43
+| 64
+| align="left" rowspan="3"| ''Mandy Barnett''
+|-
+! scope="row"| "Maybe"
+| 65
+| 93
+|-
+! scope="row"| "A Simple I Love You"
+| 72
+| —
+|-
+| rowspan="2"| 1999
+! scope="row"| "I've Got a Right to Cry"
+| —
+| —
+| align="left" rowspan="2"| ''I've Got a Right to Cry''
+|-
+! scope="row"| "The Whispering Wind (Blows On By)"
+| —
+| —
+|-
+| 2014
+! scope="row"| "[[Blue Blue Day]]" <small>(featuring [[Alison Krauss]])</small>
+| —
+| —
+| align="left"| ''I Can't Stop Loving You: The Songs of Don Gibson''
+|-
+| rowspan="2"| 2018
+! scope="row"| "More Lovin'"
+| —
+| —
+| align="left" rowspan="2"| ''Strange Conversation''
+|-
+! scope="row"| "It's Alright (You're Just In Love)"
+| —
+| —
+|-
+| rowspan="2"| 2019
+! scope="row"| "[[The End of the World (Skeeter Davis song)|The End of the World]]"
+| —
+| —
+| align="left" rowspan="2"| ''A Nashville Songbook''
+|-
+! scope="row"| "[[Help Me Make It Through the Night]]"
+| —
+| —
+|-
+| rowspan="2"| 2020
+! scope="row"| "For All We Know"
+| —
+| —
+| align="left" rowspan="2"| ''Every Star Above''
+|-
+! scope="row"| "You Don't Know What Love Is"
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Guest singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:8em;"| Single
+! rowspan="2"| Artist
+! Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]
+|-
+| 1996
+! scope="row"| "Hope"
+| Various Artists
+| 57
+| single only
+|}
+
+===Guest appearances===
+{| class="wikitable"
+! Year
+! Title
+! Song
+|-
+| rowspan=2|1997
+| ''AFTRA First Tuesday Singers Showcase''
+| "When We Ran"
+|-
+| ''Traveller (soundtrack)''
+| "Dream Lover"<br />"Searching (For Someone Like You)"<br />"Dark Moon"
+|-
+| rowspan=4|1999
+| ''[[A Walk on the Moon]] (soundtrack)''
+| [[Town Without Pity (song)|"A Town Without Pity"]]
+|-
+| ''Election (soundtrack)''
+| "If You'll Be the Teacher"
+|-
+| ''Drop Dead Gorgeous (soundtrack)''
+| "Beautiful Dreamer"
+|-
+| ''All the Lonely (Songs by John Pennell)''
+| "No One Knows"
+|-
+| 2000
+| ''Space Cowboys (soundtrack)''
+| "I Only Have Eyes for You"
+|-
+| 2001
+| ''Good Rockin' Tonight (The Legacy of Sun Records)''
+| "You Win Again"
+|-
+| 2002
+| ''Caught in the Webb (A Tribute to Webb Pierce)''
+| "Slowly"
+|-
+| 2007
+| ''Crazy (soundtrack)''
+| "Walking After Midnight"<br />"I Fall to Pieces"
+|-
+|2018
+|''King of The Road: A Tribute to Roger Miller''
+|Lock, Stock & Teardrops
+|}
+
+===Recordings with other artists===
+{| class="wikitable"
+! Year
+! Artist
+! Title
+! Song(s)
+! Participation
+! Format(s)
+|-
+| 1996
+| Various Artists
+| ''Hope - Country Music's Quest For A Cure''
+| "Hope (All Star Version A)"<br />"Hope (All Star Version B)"
+| Background Vocals
+| Cassette Single<br />7" 45 RPM Vinyl Single<br />CD Single
+|-
+| 1996
+| Kenny Chesney
+| ''Me and You''
+| "Ain't That Love"
+| Background Vocals
+| Cassette Tape<br />CD
+|-
+| 1997
+| Kim Richey
+|''Bitter Sweet''
+| "I'm Alright"
+| Background Vocals
+| Cassette Tape<br />CD
+|-
+| 1997
+| Gail Davies
+| ''Greatest Hits''
+| "Unwed Fathers"
+| Background Vocals
+| CD
+|-
+| 1998
+| Don Walser
+| ''Down at the Sky-Vue Drive-In''
+| "Are You Teasing Me?"<br />"Hearts Made Of Stone"
+| Duets
+| CD
+|-
+| 1998
+| Various Artists
+| ''The Songs of Dwight Yoakam - Will Sing For Food''
+| "Near You"
+| Kim Richey sings Lead<br />Mandy sings Background Vocals
+| CD
+|-
+| 2000
+| Ray Price
+| ''Prisoner of Love''
+| Various Tracks
+| Background Vocals
+| CD
+|-
+| 2000
+| Melvin Sloan and Friends
+| ''Pick and Sing Opry Favorites''
+| "Waltz Across Texas"
+| Duet
+| CD
+|-
+| 2001
+| Gail Davies and Friends
+| ''Live and Unplugged at the Station Inn''
+| "Bucket To The South"
+| Background Vocals
+| CD
+|-
+| 2001
+| Rosie Flores
+| ''Speed of Sound''
+| "Rock-A-Bye Boogie"
+| Background Vocals
+| CD
+|-
+| 2001
+| Asleep At The Wheel
+| ''The Very Best Of''
+| "The Letter (That Johnny Walker Read)"
+| Duet
+| CD
+|-
+| 2001
+| Jesse Dayton
+| ''Hey Nashvegas!''
+| "Hey Nashvegas!"<br />"Don't Take Yesterday"
+| Background Vocals
+| CD
+|-
+| 2002
+| Various Artists
+| ''Dressed In Black - A Tribute To Johnny Cash''
+| "Jackson"
+| Duet With Chuck Mead
+| CD
+|-
+| 2006
+| SpongeBob SquarePants
+| ''The Best Day Ever''
+| Various Tracks
+| Background Vocals
+| CD
+|-
+|2014
+|Ronnie Milsap
+|''Summer Number Seventeen''
+|"You Make Me Feel Brand New"
+"Make Up"
+|Duet Vocals
+|CD
+|-
+|2022
+|Michael Feinstein
+|Gershwin Country
+|"How Long Has This Been Going On?"
+|Duet Vocals
+|CD
+|}
+
+===Videos===
+{| class="wikitable"
+! Year
+! Title
+! Song(s)
+! Format(s)
+|-
+| 2001<br />2005
+| ''Opry Family Reunion - Volume Four'' (VHS)<br />''Country's Family Reunion at the Opry - Volume Four ''(DVD/VHS)
+| "Hurt"<br />"Crazy"
+| See Title
+|-
+| 2001<br />2005
+| ''Opry Family Reunion - Volume Six'' (VHS)<br />''Country's Family Reunion at the Ryman - Volume Two'' (DVD/VHS)
+| "Legend in My Time"
+| See Title
+|}
+
+===Music videos===
+{| class="wikitable"
+! Year
+! Video
+! Director
+|-
+| rowspan="2"| 1996
+| ''Now That's All Right with Me''
+| rowspan="2"| Norman Jean Roy
+|-
+| ''Maybe''
+|-
+| 1997
+| ''Planet of Love''
+| rowspan="3"| David McClister
+|-
+| 1999
+| ''The Whispering Wind (Blows on By)''<ref>{{cite web|url=http://www.cmt.com/videos/mandy-barnett/385470/the-whispering-wind.jhtml|title=CMT : Videos : Mandy Barnett : The Whispering Wind|publisher=[[Country Music Television]]|accessdate=October 14, 2011}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+|-
+| 2010
+| ''This Time of the Year''
+|-
+| 2021
+| ''I Love a Rainy Night''
+|}
+
+==References==
+{{Reflist}}
+
+== External links ==
+{{commons category}}
+* [http://www.mandybarnett.com/ Official site]
+
+{{Grand Ole Opry members}}
+{{Authority control}}
+
+{{DEFAULTSORT:Barnett, Mandy}}
+[[Category:1975 births]]
+[[Category:American country singer-songwriters]]
+[[Category:American women country singers]]
+[[Category:Living people]]
+[[Category:Asylum Records artists]]
+[[Category:People from Crossville, Tennessee]]
+[[Category:Singer-songwriters from Tennessee]]
+[[Category:21st-century American women singers]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:Country musicians from Tennessee]]
+[[Category:Thirty Tigers artists]]

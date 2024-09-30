@@ -1,0 +1,79 @@
+{{Short description|American country singer (1926–2012)}}
+{{about||the Greenwich Village singer|Robert Edwards (artist)||Robert Edwards (disambiguation)|the soccer player|Bobby Edwards (soccer)}}
+
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist
+| name            = Bobby Edwards
+| image           = Bobby Edwards new.jpeg
+| caption         =
+| image_size      =
+| birth_name      = Robert Edward Moncrief
+| alias           = Bobby Moncrief
+| birth_date      = January 18, 1926
+| birth_place     = [[Anniston, Alabama]], U.S.
+| origin          =
+| death_date      = July 31, 2012 (age 86)
+| death_place     = [[Murfreesboro, Tennessee|Murfreesboro]], [[Tennessee]], U.S.
+| instrument      =
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 1959–1964
+| label           = Crest, [[Capitol Records|Capitol]]
+| past_member_of = The Four Young Men
+| website         = 
+}}
+
+'''Bobby Edwards''' (born '''Robert Edward Moncrief'''; January 18, 1926 – July 31, 2012)<ref name=obit/> was an American [[country music]] singer who recorded between 1959 and 1969.<ref name=obit/> At the beginning of his career he performed and recorded under the name '''Bobby Moncrief'''. Then, having completed his service in the [[US Navy]], he started recording as Bobby Edwards.<ref name=amg>{{Cite web|url=https://www.allmusic.com/artist/bobby-edwards-mn0001903098|title=Bobby Edwards &#124; Biography & History|website=[[AllMusic]]|access-date=August 25, 2021}}</ref>
+
+==Biography==
+Edwards was born in [[Anniston, Alabama]] to a preacher, George Thomas Moncrief and Ila Eva Murray Moncrief.<ref name=obit/>
+
+As Bobby Moncrief, he first recorded for Pappy Daily at 'D' Records in 1958. His first recording was called "Long Gone Daddy". In 1959, he revived Tex Ritter's 1945 hit, written by [[Jenny Lou Carson]], "Jealous Heart"; the record was issued on the Bluebonnet label.<ref name="LarkinGE">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Encyclopedia of Popular Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1992|edition=First|isbn=0-85112-939-0|pages=771/2}}</ref> Then Edwards went out west, working shows on his own in southern California before songwriter Terry Fell placed him on Crest Records, and helped produce and arrange "You're the Reason."<ref name="LarkinGE"/> Though Edwards wrote the song, his manager and financier Fred Henley and Terry Fell received writing credits.
+
+Darrell Cotton, [[Gib Guilbeau]], and Ernie Williams had formed a trio, Darrell, Gib & Ernie. Then, the trio released the singles "I Goof" and "Just or Unjust", which became local hits. After adding Wayne Moore, they became The Four Young Men, which Edwards then joined to become '''Bobby Edwards & The Four Young Men'''. Their first record together was the [[Crest Records]] single "[[You're the Reason]]".<ref name="LarkinGE"/> In 1961, the song became a nationwide U.S. hit, peaking at No. 4 on the ''Billboard'' country chart and No. 11 on the [[Billboard Hot 100|''Billboard'' Hot 100]].<ref name="LarkinGE"/> The tune was later covered by [[Joe South]] and [[Hank Locklin]]. Edwards then transferred to [[Capitol Records]] and released the sound-alike "What's the Reason", which peaked at No. 71 the following year.<ref name=amg/> In 1963, his single "Don't Pretend" made the Billboard country chart (No. 23), being his last single to enter the country chart. In the late 1960s, he operated a small recording studio. In the early 1970s, he also recorded several gospel albums.{{citation needed|date=April 2015}} Edwards completely retired from the music industry in 1972 and returned to Anniston to raise a family.<ref name=amg/>
+
+Edwards lived in [[Smyrna, Tennessee]] from 2000 until his death. He died on July 31, 2012, at the [[Middle Tennessee Medical Center]] in [[Murfreesboro, Tennessee|Murfreesboro]]. He was 86.<ref name=obit>{{cite web|url=http://www.legacy.com/obituaries/annistonstar/obituary.aspx?pid=158887893|title=Robert E. Moncrief Obituary: View Robert E. Moncrief's Obituary by The Anniston Star |publisher=Legacy.com |date= |access-date=January 16, 2014}}</ref>
+
+==Singles==
+{| class="wikitable"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="2"| Chart Positions
+|-
+! style="width:50px;"| <small>[[Hot Country Songs|US Country]]</small>
+! style="width:50px;"| <small>[[Billboard Hot 100|US]]</small>
+|-
+| 1961
+| "[[You're the Reason]]"
+| style="text-align:center;"| 4
+| style="text-align:center;"| 11
+|-
+| 1962
+| "What's the Reason"
+| style="text-align:center;"| —
+| style="text-align:center;"| 71
+|-
+| 1963
+| "Don't Pretend"
+| style="text-align:center;"| 23
+| style="text-align:center;"| —
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Edwards, Bobby}}
+[[Category:1926 births]]
+[[Category:2012 deaths]]
+[[Category:American country singer-songwriters]]
+[[Category:Crest Records artists]]
+[[Category:Columbia Records artists]]
+[[Category:People from Anniston, Alabama]]
+[[Category:People from Smyrna, Tennessee]]
+[[Category:Country musicians from Tennessee]]
+[[Category:Country musicians from Alabama]]
+[[Category:Singer-songwriters from Alabama]]
+[[Category:Singer-songwriters from Tennessee]]

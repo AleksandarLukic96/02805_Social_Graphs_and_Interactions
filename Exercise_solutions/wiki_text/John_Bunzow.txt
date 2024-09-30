@@ -1,0 +1,94 @@
+{{short description|American country music singer-songwriter|bot=PearBOT 5}}
+{{Use mdy dates|date=June 2020}}
+{{Infobox musical artist
+| name            = John Bunzow
+| image           =
+| image_size      =
+| birth_name      =
+| alias           =
+| birth_date      = {{birth date and age|1951|05|02}}
+| birth_place     = [[Portland, Oregon]]
+| instrument      = Vocals, guitar
+| genre           = [[Americana (music)|Americana]]
+| occupation      = Singer-songwriter
+| years_active    = 1995–present
+| label           = [[Liberty Records|Liberty]], ZoDog, Sideburn
+| associated_acts = [[Pete Anderson]]
+| website         = {{url|www.johnbunzow.com/}}
+}}
+
+'''John Bunzow''' (born May 2, 1951<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|page=69|year=2008|isbn=978-0-89820-177-2}}</ref>) is an American [[country music]] singer-songwriter. Bunzow was signed to [[Liberty Records]] and charted one single on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles & Tracks]] chart.
+
+==Career==
+Bunzow was signed to [[Liberty Records]] (which was then the name of the [[Capitol Records Nashville|Nashville subsidiary of Capitol Records]]) and released his debut single, "Easy as One, Two, Three", in 1995.<ref>{{cite news|last=Hurst|first=Jack|title=Getting Personal|url=https://www.chicagotribune.com/1995/04/09/getting-personal-16/|access-date=February 9, 2014|newspaper=[[Chicago Tribune]]|date=April 9, 1995}}</ref> Deborah Evans Price of ''[[Billboard (magazine)|Billboard]]'' gave the song a favorable review, writing that "Bunzow plays it simple, but keeps things interesting by throwing in some nifty chord-change curves."<ref>{{cite news|last=Price|first=Deborah Evans|title=Single Reviews|url=https://books.google.com/books?id=3QsEAAAAMBAJ&q=%22john%20bunzow%22%20%22easy%20as%20one%22&pg=PT58|accessdate=February 9, 2014|newspaper=[[Billboard (magazine)|Billboard]]|date=March 11, 1995}}</ref> It peaked at number 69 on the ''Billboard'' [[Hot Country Songs|Hot Country Singles & Tracks]] chart.<ref name="whitburn" /> Liberty planned to release Bunzow's album, ''Stories of the Years'', on May 23, 1995.<ref>{{cite web|title=''Stories of the Years'' – John Bunzow|url={{AllMusic|class=album/release|id=mr0000852324|pure_url=yes}}|work=[[AllMusic]]|accessdate=February 9, 2014}}</ref> Pemberton Roach of [[AllMusic]] gave the album three stars out of five, calling it "a refreshingly direct, no-nonsense country record that had more in common with [[Steve Earle]]'s best work than with any dance-club pretty boys."<ref>{{cite web|last=Roach|first=Pemberton|title=''Stories of the Years'' review|url={{AllMusic|class=album|id=mw0000644440|pure_url=yes}}|work=[[AllMusic]]|accessdate=February 9, 2014}}</ref> [[Alanna Nash]] of ''[[Entertainment Weekly]]'' gave the album an A grade, writing that Bunzow blends "an amiable tenor with economy of language and the minimalistic production of [[Dwight Yoakam]] collaborator [[Pete Anderson]]."<ref>{{cite news|last=Nash|first=Alanna|title=Stories of the Years Review|url=https://ew.com/article/1995/08/25/stories-years/|access-date=February 9, 2014|newspaper=[[Entertainment Weekly]]|date=August 25, 1995}}</ref> After [[Jimmy Bowen]] left Liberty Records in March 1995 and the label returned to its Capitol Nashville name, the album was shelved and Bunzow was dropped.<ref name="depression">{{cite news|last=Griffith |first=Paul |title=John Bunzow – Liberated from the dark |url=http://archives.nodepression.com/2002/11/liberated-from-the-dark/ |archive-url=https://web.archive.org/web/20110830071056/http://archives.nodepression.com/2002/11/liberated-from-the-dark/ |url-status=dead |archive-date=August 30, 2011 |accessdate=February 9, 2014 |newspaper=[[No Depression (magazine)|No Depression]] |date=November 2002 }}</ref><ref>{{cite book|last=Cox|first=Pasti Bale|title=The Garth Factor: The Career Behind Country's Big Boom|url=https://books.google.com/books?id=OQPa4BAIVxQC&q=%22john%20bunzow%22&pg=PT129|publisher=[[Hachette Book Group USA|Hachette Digital, Inc.]]|date=May 28, 2009|isbn=978-1-599-95275-8}}</ref>
+
+Bunzow continued writing and performing.<ref name="depression" /> A compilation of material Bunzow wrote for publishing companies in [[Nashville, Tennessee|Nashville]], ''Off the Shelf'', was released by ZoDog Records in 2000.<ref name="tribune">{{cite news|last=Cullivan|first=Rob|title=Bunzow: Will play for food|url=http://cni.pmgnews.com/component/content/article?id=80390|accessdate=February 9, 2014|newspaper=[[Portland Tribune]]|date=December 23, 2008}}</ref> In 2002, Bunzow recorded an album, ''Darkness and Light'', which was released by independent label Sideburn Records.<ref name="depression" /> Bob Gottlieb of [[AllMusic]] gave the album four stars out of five, calling it "a strong disc that rips into each new song with a strong ferocity that brings the song home."<ref>{{cite web|last=Gottlieb|first=Bob|title=''Darkness and Light'' review|url={{AllMusic|class=album|id=mw0000221054|pure_url=yes}}|work=[[AllMusic]]|accessdate=February 9, 2014}}</ref> Bunzow also released a live album, ''Alive at O'Connor's'', in 2004.<ref name="tribune" />
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''Off the Shelf''
+| 
+* Release date: 2000
+* Label: ZoDog Records
+|-
+! scope="row"| ''Darkness and Light''
+| 
+* Release date: June 18, 2002
+* Label: Sideburn Records
+|-
+! scope="row"| ''Alive at O'Connor's''
+| 
+* Release date: January 17, 2004
+* Label: ZoDog Records
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]
+|-
+| 1995
+! scope="row"| "Easy as One, Two, Three"
+| 69
+| align="left"| ''Stories of the Years'' <small>(unreleased)</small>
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:14em;"| Video
+! Director
+|-
+| 1995
+! scope="row"| "Easy as One, Two, Three"
+| Chris Lovett
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{official website|http://www.johnbunzow.com/}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Bunzow, John}}
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Living people]]
+[[Category:Country musicians from Oregon]]
+[[Category:Singers from Portland, Oregon]]
+[[Category:Liberty Records artists]]
+[[Category:1951 births]]
+[[Category:Singer-songwriters from Oregon]]

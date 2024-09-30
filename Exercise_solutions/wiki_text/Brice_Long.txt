@@ -1,0 +1,68 @@
+{{short description|American country music singer-songwriter (born 1971)}}
+{{Use mdy dates|date=August 2020}}
+{{Infobox musical artist
+| name            = Brice Long
+| image           = File:Brice Long.jpg
+| image_size      =
+| birth_name      = William Brice Long
+| birth_date      = {{Birth date and age|1971|08|25}}
+| birth_place     = [[Hopkinsville, Kentucky]], United States
+| instrument      = Vocals
+| genre           = [[country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 1996–present
+| label           = [[Columbia Records|Columbia]]
+| associated_acts = [[Gary Allan]], [[Chris Cagle]], [[Randy Houser]]
+}}
+'''William Brice Long''' (born August 25, 1971)<ref>Kentucky Department for Libraries and Archives. He graduated from Christian County High School''Kentucky Birth Index, 1911–1999'' (Provo, UT: Ancestry.com Operations, Inc.), 2006.</ref> is an American [[country music]] singer-songwriter. Signed to [[Columbia Records]] in 2005, Long charted one single on the ''[[Billboard (magazine)|Billboard]]'' country chart that year: "Anywhere but Here", which was also released by [[Chris Cagle]] a year later. In addition, Long co-wrote [[Gary Allan]]'s 2004 Number One single "[[Nothing On but the Radio]]", [[Jon Pardi]]'s Number One single "[[Heartache on the Dance Floor]]" and [[Randy Houser]]'s singles "[[Anything Goes (Randy Houser song)|Anything Goes]]" and "[[Like a Cowboy]]".
+
+==Biography==
+Brice Long was born and raised in [[Hopkinsville, Kentucky]].<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=244|isbn=978-0-89820-177-2}}</ref> In the 1990s, he pursued a career in the [[rodeo]], until his father persuaded him to pursue musical goals instead.<ref name="columbia">[http://blog.sonymusic.com/sonybmg/archives/007758.html Columbia Records Nashville signs Brice Long] {{webarchive |url=https://web.archive.org/web/20070211093611/http://blog.sonymusic.com/sonybmg/archives/007758.html |date=February 11, 2007 }}</ref> For the next several years, Long toured as an opening act for other artists, including [[Eddie Rabbitt]]. Rabbitt's manager persuaded Long to move to [[Nashville, Tennessee]]; he did so in 1993, after graduating from [[Middle Tennessee State University]].<ref name="pdf">[http://www.wma.com/brice_long/Bio/brice_long.pdf bricelong.pdf]</ref>
+ 
+Three years later, he was signed to a songwriting contract at the publishing division of [[Reba McEntire]]'s Starstruck Entertainment Company.<ref name="columbia"/><ref name="pdf"/> While in internship, Long was roommates with [[Darryl Worley]], who later achieved success as a singer-songwriter himself.<ref name="pdf"/> Long has had his songs recorded by [[George Strait]], [[Garth Brooks]], [[Chris Young (singer)|Chris Young]], [[Randy Houser]], [[Jon Pardi]], [[Cody Johnson]], [[Hank Williams Jr]], [[Reba McEntire]], [[Casey James]] and [[Chris Stapleton]].<ref name="pdf"/> Additionally, Long sang harmony vocals on [[Gary Allan]]'s 1999 album "Smoke Rings in the Dark".
+
+In 2005, Long was signed to Columbia Records.<ref name="columbia"/> His debut single, "It's Only Monday", was released but did not chart. "Anywhere but Here", his second single, peaked at No.&nbsp;51 on Hot Country Songs. Long also issued a third single, entitled "Meat and Potato Man".
+
+Long performed at the Kentucky Music Hall of Fame induction ceremony in 2006.<ref>[http://goliath.ecnext.com/coms2/gi_0199-5169595/Hopkinsville-Native-Brice-Long-to.html Hopkinsville Native Brice Long to Perform at 2006 KY Hall of Fame Inductions. (Brief article)]</ref> He also co-wrote [[Casey James]]' "[[Let's Don't Call It a Night]]", Allan's 2009 single "[[Today (Gary Allan song)|Today]]" and [[Jon Pardi]]'s "[[What I Can't Put Down]]".
+
+==Singles==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! colspan="1"| Peak positions
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]
+|-
+| rowspan="2"| 2005
+! scope="row"| "It's Only Monday"
+| —
+|- 
+! scope="row"| "Anywhere but Here"
+| 51
+|- 
+| 2006
+! scope="row"| "Meat and Potato Man"
+| —
+|-
+| 2021
+! scope="row"| "Hensel Phelps ft. Diego"
+| —
+|-
+| colspan="3" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Long, Brice}}
+[[Category:1971 births]]
+[[Category:Living people]]
+[[Category:People from Hopkinsville, Kentucky]]
+[[Category:American country singer-songwriters]]
+[[Category:Columbia Records artists]]
+[[Category:Middle Tennessee State University alumni]]
+[[Category:Country musicians from Kentucky]]
+[[Category:Singer-songwriters from Kentucky]]
+[[Category:21st-century American singer-songwriters]]

@@ -1,0 +1,198 @@
+{{short description|American singer-songwriter}}
+
+{{Multiple issues|
+{{More citations needed|date=May 2011}}
+{{Lead too short|date=March 2021}}
+}}
+{{Use mdy dates|date=February 2020}}
+{{Infobox person
+| name          = <!-- use common name/article title -->
+| image         = <!-- filename only, no "File:" or "Image:" prefix, and no enclosing [[brackets]] -->
+| alt           = <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| caption       =
+| birth_name    = <!-- only use if different from name -->
+| birth_date    = {{Birth date|1921|05|13}}
+| birth_place   = [[Dora, Alabama|Dora]], Alabama
+| death_date    = {{Death date and age|2007|04|04|1921|05|13}}
+| death_place   = [[Madison, Tennessee|Madison]], Tennessee
+| nationality   = American
+| other_names   =
+| occupation    = {{hlist|singer|songwriter}}
+| years_active  =
+| known_for     =
+| notable_works =
+| module = {{Infobox musical artist
+| embed           = yes
+| instrument      = {{hlist|Vocals|Guitar}}
+| genre           = {{hlist|[[Country music|Country]]|[[truck-driving country]]|[[honky-tonk#Music|honky-tonk]]|}}
+| years_active    = 1937–1952
+| label           = {{hlist|Fargo|Memo|Courtney|[[Four Star Records|Four Star]]|Gilt-Edge|[[RCA Victor Records|RCA Victor]]|Lode|Crest|Sims|Scorpion}}
+| associated_acts = {{hlist|[[Merl Lindsay]]|[[Billy Hughes]]|[[Buck Owens]]}}
+}}
+| signature    =
+}}
+
+'''Terry Fell''' (May 13, 1921 – April 4, 2007) was an American [[Country music|country]] musician. His famous song is "[[Truck Drivin Man]]"(1954).
+
+==Biography==
+===Childhood and adolescence===
+Fell was born in [[Dora, Alabama|Dora]], Alabama on May 13, 1921, and got his first guitar at the age of nine. Later, he learned [[mandolin]] and took singing lessons. When he was 13 years old, his father died; three years later, he moved alone to California, where he spent some time in a camp of the [[Civilian Conservation Corps]]. After he briefly lived in Alabama again, Fell and his mother moved to the US West Coast. There, he began playing in 1943 as bassist for [[Merl Lindsay]].
+
+===Musical career===
+[[Image:TruckDrivingMan.jpg|thumb|right|200px|"[[Truck Drivin Man]]" record]]
+Fell started his record career in 1945 as a member of [[Billy Hughes]]' band, Pals of The Pecos. His first record was with Hughes on the Fargo label. He began his solo career with Memo, then Courtney, 4 Star, and [[Gilt-Edge (record label)|Gilt-Edge Records]], although none of his releases became hits there.
+
+During his first session for RCA in Hollywood (1954), he recorded a song that would become a hit. Although the A-side, "Don't Drop It", was underplayed, the B-side, "[[Truck Drivin Man]]", became a classic, especially in the trucker country-music scene. In 1955, he made a guest appearance on ABC-TV's ''[[Ozark Jubilee]]''.
+
+Fell remained with RCA for the following two years; however, he never produced a single with the same success. RCA extended his contract in 1956. In 1958, he recorded some sides for Lode records.  One of them, released under the name "Johnny Valentine," was a song he wrote called "[[Sandy (Larry Hall song)|Sandy]]" which became a No. 15 pop hit for Larry Hall in 1960.
+
+In 1959, he began military service in the [[U.S. Army]] and was stationed in [[West Germany]]. Along with [[Elvis Presley]], who was at the same time a G.I. stationed in West Germany, he wrote the song "Mississippi River". The single was never released, but the rights were later sold for $30,000 in 1996.
+
+Due to the lack of success and health problems, his career fell short. Later, for a short time, he managed country star [[Buck Owens]] and wrote a song in 1961 with Bobby Edwards titled "You're The Reason". In 1962, Fell moved to [[Nashville, Tennessee|Nashville]], Tennessee, where he was a songwriter for various publishing companies until he retired. Published in 1993 with Bear Family Records, the album ''Truck Drivin Man'' was released with his collected RCA works. Terry Gordon noted that it was discontinued in 1998, but revised/reissued again. Because of his achievements in country music, he was inducted into the [[Alabama Music Hall of Fame]].
+
+Fell died on April 4, 2007, in [[Madison, Tennessee|Madison]], Tennessee.
+
+==Discography==
+<!-- Research is still being done on one title, and its date of release has not yet been determined: -->
+He wrote and recorded a novelty record on the Lode label under the name Brother George Underbrush, called "Green Garden Hose". It was divided into two parts, one on each side.<ref>Terry Fell, "Green Garden Hose," parts 1 and 2, performed by "Brother George Underbrush," Lode Records LO 2002, 45 rpm 7" single, date unknown; [http://www.discogs.com/viewimages?release=3114875 discogs.com image]. Retrieved September 26, 2014.</ref> He later released a cassette on Lode that contained several more of his strange musings.
+
+===Singles===
+All of the Memo, 4 Star, Gilt-Edge, and "X"/RCA singles were published under the name 'Terry Fell & The Fellers'.
+{| class="wikitable"
+! Year
+! Titles
+! Part #
+! Notes/Comments
+|-
+| bgcolor="#E0E0E0" colspan="4" align="center"|<big>'''Fargo Records'''</big>
+|-
+| 1945 || Paper Heart // You Don't Want Me Any More || 1112 || as 'Terry Fell & His Red River Rangers'
+|-
+| bgcolor="#E0E0E0" colspan="4" align="center"|<big>'''Memo Records'''</big>
+|-
+| 1946 || I've Done All I Know To Do // You Ran Around (While I Was Gone) || 3001 ||
+|-
+| 1946 || Paper Heart // You Don't Want Me Any More (reissue) || 3002 ||
+|-
+| 1946 || There's a Gold Moon Shining (On a Blue, Blue Heart) // You're Not Wanted Here || 3003 ||
+|-
+| 1946 || Mom I'm Coming Home // I'm Glad That It's All Over Now || 3004 ||
+|-
+| bgcolor="#E0E0E0" colspan="4" align="center"|<big>'''Courtney Records'''</big>
+|-
+| 1946 || Stop Your Flirting Little Girl // Texas a La Mode (instrumental) || 103 || as 'Terry Fell & His Seven Southerners'
+|-
+| 1946 || Ramblin' Oakie // Steeling the Blues (instrumental) || 104 || with 'Leodie Jackson & His Western Swingsters'
+|-
+| 1946 || Please My Darling, Think of Me // You Are Tearing My Poor Paper Heart || 115 || as 'Terry Fell & His Seven Southerners'
+|-
+| 1946 || Why Should I Feel So Blue // I'm Sorry We Have To Part || 116 || with 'Leodie Jackson & His Western Swingsters'
+|-
+| 1946 || Please Tell Me Why // Waiting For a Love Untrue || 136 || with 'Leodie Jackson & His Western Swingsters'
+|-
+| 1946 || That Naggin' Wife of Mine // Double Crossing Mama (v: Kenny Williams) || 137 || with 'Leodie Jackson & His Western Swingsters'
+|-
+| bgcolor="#E0E0E0" colspan="4" align="center"|<big>'''[[Four Star Records]]'''</big>
+|-
+| 1947 || Paper Heart // You Don't Want Me Any More (reissue) || 1160 ||
+|-
+| 1947 || I've Done All I Know To Do // You Ran Around (While I Was Gone) (reissue) || 1161 ||
+|-
+| 1947 || You Are My Sunshine // Will There Be a Light in Your Window || 1162 ||
+|-
+| 1947 || Rainbow at Midnight // Guess I'm Better Off Without You || 1163 ||
+|-
+| 1948 || There's a Gold Moon Shining (On a Blue, Blue Heart) // You're Not Wanted Here (reissue) || 1206 ||
+|-
+| 1948 || Napanee // Little By Little || 1211 ||
+|-
+| 1948 || Snow Deer // With Another in Your Heart || 1212 ||
+|-
+| 1950 || Snow Deer // With Another in Your Heart (reissue) || 1426 ||
+|-
+| bgcolor="#E0E0E0" colspan="4" align="center"|<big>'''Gilt-Edge Records'''</big>
+|-
+| 1952 || Yesterday // Dreamers Paradise || 5071 ||
+|-
+| 1953 || Fireball Boogie // I Can Hear You Clucking || 5076 ||
+|-
+| 1953 || Hillbilly Impersonations (Twelve Famous Singers) // Smoking Cornsilks || 5084
+|-
+| bgcolor="#E0E0E0" colspan="4" align="center"|<big>'''"X" Records'''</big> <small>(subsidiary of RCA Victor)</small>
+|-
+| 1954 || Don't Drop It // Truck Driving Man || 4X-0010 ||
+|-
+| 1954 || Let's Stay Together Till After Christmas // We Wanna See Santa Do the Mambo || 4X-0069 ||
+|-
+| 1955 || You Don't Give a Hang About Me // Get Aboard My Wagon || 4X-0078||
+|-
+| 1955 || Mississippi River Shuffle / He's in Love With You || 4X-0114||
+|-
+| 1955 || I'm Hot To Trot / Fa-So-La || 4X-0149 ||
+|-
+| bgcolor="#E0E0E0" colspan="4" align="center"|<big>'''[[RCA Victor Records]]'''</big>
+|-
+| 1955 || I Nearly Go Crazy // That's What I Like || 20-6256 ||
+|-
+| 1955 || What Am I Worth // That's the Way the Big Ball Bounces || 20-6353 ||
+|-
+| 1956 || Over and Over // If I Didn't Have You || 20-6444 ||
+|-
+| 1956 || Wham! Bam! Hot Ziggity Zam // Consolation Prize || 20-6515 ||
+|-
+| 1956 || I Can Hear You Cluckin' // Don't Do It Joe || 20-6621 ||
+|-
+| 1956 || Play the Music Louder // Caveman || 20-6707 ||
+|-
+| bgcolor="#E0E0E0" colspan="4" align="center"|<big>'''Lode Records'''</big>
+|-
+| 1958 || The Bears Are Taking Over Yellowstone // All Penguins Aren't Catholic || 2001 || as 'Brother George Underbrush'
+|-
+| 1958 || Green Garden Hose, Pt. 1 // Green Garden Hose, Pt. 2 || 2002 || as 'Brother George Underbrush'
+|-
+| 1958 || Angel on a Cloud // [[Sandy (Larry Hall song)|Sandy]] || 2003 || as 'Johnny Valentine'
+|-
+| 1958 || Child Bride // Paper Kite || 2004 || as 'Brother George Underbrush'
+|-
+| bgcolor="#E0E0E0" colspan="4" align="center"|<big>'''Crest Records'''</big>
+|-
+| 1960 || Y'all Be Good Now // Who Who's || 1071 ||
+|-
+| bgcolor="#E0E0E0" colspan="4" align="center"|<big>'''Sims Records'''</big>
+|-
+| 1964 || If I Could Learn To Love You Less // Music City U.S.A. || 192 ||
+|-
+| bgcolor="#E0E0E0" colspan="4" align="center"|<big>'''[[RCA Victor Records]]'''</big>
+|-
+| 1968 || I Are a Millionaire // I've Never Been Sober || 47-9719 ||
+|-
+| bgcolor="#E0E0E0" colspan="4" align="center"|<big>'''Scorpion Records'''</big>
+|-
+| 1976 || Big Truck Stop in the Sky // Coffee Jim Trucker || SC-0508 ||
+|}
+
+=== Albums/CDs ===
+* ''Truck Driving Man'' (Bear Family BCD 15762, 1993) all RCA material
+* ''Get Aboard My Wagon'' (B.A.C.M. CDD 191, 2007) Memo/Gilt-Edge/RCA material
+* ''Ramblin' Oakie'' (B.A.C.M. CDD 333, 2011) Fargo/Courtney/4 Star material
+
+==References==
+{{Reflist|colwidth=80em}}
+
+==Further reading==
+* [http://www.rockabilly.nl/references/messages/terry_fell.htm Biography of Terry Fell from '''rockabilly.nl''']
+* [http://alabamamusicoffice.com/artists-a-z/f/760-fell-terry Biography from the Alabama Music Office]
+* [http://www.alabamamusichistoryblog.alabamamusicoffice.com/2012/07/dora-native-terry-fell-is-best-know-for.html Alabama Music History Blog: "Dora Native Terry Fell"]
+* [http://thehairsplitter.com/post/83719614614/terry-fell-forgotten-father-of-trucker-music "Terry Fell, Forgotten Father of Trucker Music"]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Fell, Terry}}
+[[Category:1921 births]]
+[[Category:2007 deaths]]
+[[Category:American country singer-songwriters]]
+[[Category:Country musicians from Alabama]]
+[[Category:People from Walker County, Alabama]]
+[[Category:Crest Records artists]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:Singer-songwriters from Alabama]]

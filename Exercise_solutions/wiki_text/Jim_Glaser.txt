@@ -1,0 +1,207 @@
+{{Short description|American country music artist (1937–2019)}}
+
+{{Use mdy dates|date=April 2019}}
+{{More citations needed|date=April 2019}}
+{{Infobox musical artist
+| name            = Jim Glaser
+| image           = Jim Glaser 1980.jpg
+| caption         = Glaser in 1980
+| image_size      =
+| birth_name      = James William Glaser
+| birth_date      = {{birth date|1937|12|16}}
+| birth_place     = [[Spalding, Nebraska]], U.S.
+| death_date      = {{death date and age|2019|4|6|1937|12|16|mf=y}}
+| death_place     = [[Murfreesboro, Tennessee]], U.S.<ref>{{cite web|url=https://www.legacy.com/us/obituaries/dnj/name/james-glaser-obituary?id=9824399|title=Legacy.com|date=April 11, 2019|website=[[Legacy.com]]|accessdate=December 12, 2023}}</ref>
+| instrument      = Vocals, guitar
+| genre           = [[Country music|Country]]
+| occupation      = Singer
+| years_active    = 1959–2019
+| label           = [[RCA Records|RCA Victor]]<Br />MGM/[[Curb Records|Curb]]<br />[[MCA Records|MCA]]/Noble Vision<br />Solitaire
+| past_member_of    = [[Tompall & the Glaser Brothers]]
+| website         =
+}}
+
+'''James William Glaser''' (December 16, 1937 – April 6, 2019) was an American [[country music]] artist. He was born in [[Spalding, Nebraska]].<ref name="allmusic">{{cite web |url={{AllMusic|class=artist|id=p22202/biography|pure_url=yes}} |title=Jim Glaser biography |accessdate=2008-05-21 |last=Eder |first=Bruce |work=[[AllMusic|Allmusic]]}}</ref>
+
+==Biography==
+The brother of country singers Chuck and [[Tompall Glaser]], he performed as both a solo artist and alongside his two brothers in the group [[Tompall and the Glaser Brothers]]. His early career as a backup vocalist included a long stint with singer/songwriter [[Marty Robbins]].  Shortly before beginning his solo recording career he had two major hits as songwriter in 1964, the top 5 "What Does it Take" which was recorded by [[Skeeter Davis]] and the top 40 "Thanks a Lot for Tryin' Anyway" recorded by [[Liz Anderson]] and later covered in albums by [[Jan Howard]] and [[Connie Smith]]. His biggest songwriting success was "[[Woman, Woman]]" a number 4 pop hit recorded by [[Gary Puckett & The Union Gap]] in 1967, and charting again for Glaser himself in 1975.
+
+As a solo artist, Jim Glaser recorded four studio albums, and charted several singles on the [[Hot Country Songs]] charts, including the Number One hit "[[You're Gettin' to Me Again]]".<ref name="allmusic"/> Out of his three brothers, he was the only one to have a Number One hit. He was selected by the [[Academy of Country Music]] as [[Academy of Country Music Award for New Male Artist of the Year|Best New Male Vocalist]] in 1984. In 1979 he recorded the first version of the song "Who Were You Thinkin' Of," which he co-wrote with [[Cathie Pelletier]] and Paul Gauvin; it was later recorded by [[The Texas Tornados]], among others.<ref>{{cite web|website=SecondHandSongs|url=https://secondhandsongs.com/work/127192/all|title=Who Were You Thinkin' Of|accessdate=July 11, 2022}}</ref>
+
+Glaser died of a heart attack on April 6, 2019, at the age of 81.<ref>{{cite web|url=https://musicrow.com/2019/04/tompall-the-glaser-brothers-member-jim-glaser-dies/|title=Tompall & The Glaser Brothers Member Jim Glaser Dies|date=April 8, 2019|website=Musicrow.com|accessdate=April 9, 2019}}</ref>
+
+==Discography==
+;Studio albums
+{| class="wikitable"
+!rowspan="2"| Year
+!rowspan="2"| Title
+!colspan="1"| Chart Positions
+!rowspan="2"| Label
+|-
+!width="60"| <small>[[Top Country Albums|US Country]]</small>
+|- 
+|1983
+|''Man in the Mirror''
+|align=center|16
+|rowspan=3|Noble Vision
+|-
+|1984
+|''Past the Point of No Return''
+|align=center|40
+|-
+|1985
+|''Everybody Knows I'm Yours''
+|align=center|49
+|-
+|2004
+|''Me and My Dream''
+|
+|Solitaire
+|}
+
+===Singles===
+{| class="wikitable"
+!rowspan="2"| Year
+!rowspan="2"| Song
+!colspan="2"| Chart Positions
+!rowspan="2"| Album
+|- style="font-size:smaller;"
+!width="50"| [[Hot Country Songs|US Country]]
+!width="50"| CAN Country
+|-
+|1968
+|"God Help You Woman"
+|align=center|32
+|align=center|24
+|rowspan=12|singles only
+|-
+|rowspan=3|1969
+|"Please Take Me Back"
+|align=center|40
+|align=center|—
+|-
+|"I'm Not Through Loving You"
+|align=center|52
+|align=center|—
+|-
+|"Molly"
+|align=center|53
+|align=center|—
+|-
+|1973
+|"I See His Love All Over You"
+|align=center|67
+|align=center|—
+|-
+|rowspan=2|1974
+|"Fool Passin' Through"
+|align=center|68
+|align=center|—
+|-
+|"Forgettin' 'Bout You"
+|align=center|51
+|align=center|—
+|-
+|rowspan=2|1975
+|"One, Two, Three (Never Gonna Fall in Love Again)"
+|align=center|88
+|align=center|—
+|-
+|"[[Woman, Woman]]"
+|align=center|43
+|align=center|46
+|-
+|1976
+|"She's Free But She's Not Easy"
+|align=center|66
+|align=center|—
+|-
+|rowspan=2|1977
+|"Chasin' My Tail"
+|align=center|88
+|align=center|—
+|-
+|"Don't Let My Love Stand in Your Way"
+|align=center|86
+|align=center|—
+|-
+|rowspan=3|1983
+|"When You're Not a Lady"
+|align=center|16
+|align=center|—
+|rowspan=6|''The Man in the Mirror''
+|-
+|"You Got Me Running"
+|align=center|28
+|align=center|—
+|-
+|"The Man in the Mirror"
+|align=center|17
+|align=center|—
+|-
+|rowspan=3|1984
+|"[[If I Could Only Dance with You]]"
+|align=center|10
+|align=center|10
+|-
+|"[[You're Gettin' to Me Again]]"
+|align=center|1
+|align=center|3
+|-
+|"Let Me Down Easy"
+|align=center|16
+|align=center|33
+|-
+|rowspan=2|1985
+|"I'll Be Your Fool Tonight"
+|align=center|54
+|align=center|—
+|rowspan=3|''Past the Point of No Return''
+|-
+|"In Another Minute"
+|align=center|27
+|align=center|—
+|-
+|rowspan=2|1986
+|"If I Don't Love You"
+|align=center|53
+|align=center|—
+|-
+|"The Lights of Albuquerque"
+|align=center|40
+|align=center|—
+|''Everybody Knows I'm Yours''
+|}
+
+== Awards and nominations ==
+{| class="wikitable"
+!Year
+!Organization
+!Award
+!Nominee/Work
+!Result
+|-
+|1984
+|[[Academy of Country Music Awards]]
+|[[Academy of Country Music Award for New Male Artist of the Year|Top New Male Vocalist]]
+|Jim Glaser
+|{{won}}
+|}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Glaser, Jim}}
+[[Category:1937 births]]
+[[Category:2019 deaths]]
+[[Category:American country guitarists]]
+[[Category:American country singer-songwriters]]
+[[Category:MCA Records artists]]
+[[Category:People from Spalding, Nebraska]]
+[[Category:Country musicians from Nebraska]]
+[[Category:Singer-songwriters from Nebraska]]
+
+
+{{US-country-singer-stub}}

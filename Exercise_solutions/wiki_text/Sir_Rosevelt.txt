@@ -1,0 +1,98 @@
+{{Short description|American electronic dance music group consisting of Zac Brown, Niko Moon, and Ben Simonetti}}
+{{Infobox musical artist
+| name              = 
+| image             = 
+| image_size        = 
+| image_upright     = 
+| landscape         = <!-- yes, if wide image, otherwise leave blank -->
+| alt               = 
+| caption           = 
+| background        = group_or_band
+| origin            = [[Nashville, Tennessee]], U.S.
+| genre             = {{hlist|[[Dance-pop]]|[[Electronic dance music|EDM]]|[[folktronica]]}}<ref name="allmusic">{{cite web|url=https://www.allmusic.com/artist/sir-rosevelt-mn0003651018/biography|title=Sir Rosevelt biography|work=Allmusic|accessdate=March 14, 2018}}</ref>
+| years_active      = 2016-2018
+| spinoff_of        = [[Zac Brown Band]]
+| label             = [[Elektra Records|Elektra]]
+| past_members      = {{hlist|[[Zac Brown]]|[[Niko Moon]]|Ben Simonetti}}
+}}
+
+'''Sir Rosevelt''' was an American [[electronic dance music]] group consisting of [[Zac Brown]], [[Niko Moon]], and Ben Simonetti. The group, formed in 2016, has released one album for [[Elektra Records]].
+
+==History==
+Zac Brown, lead singer of [[Zac Brown Band]], first announced Sir Rosevelt in 2016. The group's other members are Niko Moon, a frequent co-writer of Brown's, and Ben Simonetti, who provided [[programming (music)|programming]] for several tracks on Zac Brown Band's ''[[Jekyll + Hyde]]'' album.<ref name="allmusic"/> Initially, Brown did not reveal the other members of the group, nor did he provide any press after the release of their first song "Sunday Finest".<ref>{{cite magazine|url=https://www.rollingstone.com/country/premieres/hear-zac-browns-mysterious-side-project-sir-rosevelt-w441218|title=Hear Zac Brown's Mysterious Side Project Sir Rosevelt|last=Dunkerley|first=Beville|date=September 20, 2016|magazine=Rolling Stone|accessdate=14 March 2018}}</ref> Later in 2016, he announced the other members and released three more tracks.<ref>{{cite magazine|url=https://www.billboard.com/articles/news/7526468/zac-brown-sir-rosevelt-interview-dance-pop-edm-diplo-skrillex|title=Zac Brown Reveals Diplo & Skrillex-Influenced Dance-Pop Project Sir Rosevelt: Interview|last=Baltin|first=Steve|date=September 30, 2016|magazine=Billboard|accessdate=March 14, 2018}}</ref> An album came in December 2017, with the single "Somethin' 'Bout You".<ref>{{cite magazine|url=https://www.billboard.com/articles/columns/pop/8031079/zac-brown-sir-rosevelt-album-single-something-bout-you-timbaland|title=Zac Brown Announces Sir Rosevelt Album & New Song 'Something 'Bout You'|last=Armstrong|first=Megan|date=November 10, 2017|magazine=Billboard|accessdate=March 14, 2018}}</ref> Also preceding the album's release was another teaser track titled "The Bravest" which was used by the German television channel ZDF for the [[2018 FIFA World Cup]].<ref>{{cite web|url=http://www.nashcountrydaily.com/2017/11/17/zac-browns-new-trio-sir-rosevelt-releases-new-song-the-bravest-listen/|title=Zac Brown's New Trio, Sir Rosevelt, Releases New Song, "The Bravest" [Listen]|last=Casey|first=Jim|date=November 17, 2017|work=Nash Country Daily|accessdate=March 14, 2018}}</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center"
+|-
+! rowspan="2" style="width:10em;"| Title
+! rowspan="2"| Album details
+! colspan="1"| Peak positions
+|- style="font-size:smaller;"
+! width="65"| [[Heatseekers Albums|US Heat]]<br /><ref>{{cite magazine|url=https://www.billboard.com/music/sir-rosevelt/chart-history/heatseekers-albums|archive-url=https://web.archive.org/web/20180514132726/https://www.billboard.com/music/sir-rosevelt/chart-history/heatseekers-albums|url-status=dead|archive-date=May 14, 2018|title=Sir Rosevelt – Chart history (Heatseekers)|magazine=Billboard|accessdate=January 30, 2018}}</ref>
+|-
+! scope="row"| ''Sir Rosevelt''
+|
+* Release date: December 15, 2017
+* Label: [[Elektra Records|Elektra]]
+* Formats: [[Compact disc|CD]], [[Music download|digital download]]
+| 2
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:12em;"| Single
+! colspan="2"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US<br /> Country]]<br /><ref>{{cite magazine|url=https://www.billboard.com/music/sir-rosevelt/chart-history/country-songs|archive-url=https://web.archive.org/web/20180521084905/https://www.billboard.com/music/sir-rosevelt/chart-history/country-songs|url-status=dead|archive-date=May 21, 2018|title=Sir Rosevelt – Chart history (Country Songs)|magazine=Billboard|accessdate=March 14, 2018}}</ref>
+! width="65"| [[Country Airplay|US<br /> Country<br /> Airplay]]<br /><ref>{{cite magazine|url=https://www.billboard.com/music/sir-rosevelt/chart-history/country-airplay|archive-url=https://web.archive.org/web/20180514120642/https://www.billboard.com/music/sir-rosevelt/chart-history/country-airplay|url-status=dead|archive-date=May 14, 2018|title=Sir Rosevelt – Chart history (Country Airplay)|magazine=Billboard|accessdate=March 14, 2018}}</ref>
+|-
+|2016
+! scope="row"| "Sunday's Finest"
+| —
+| —
+|''Sir Rosevelt''
+|-
+|rowspan=2|2018
+! scope="row"| "It Goes On"
+| 39 || —
+|''[[12 Strong]]'' Soundtrack<ref>{{Cite web|url=https://www.onecountry.com/country-music/zac-brown-sir-rosevelt-12-strong/|title=Zac Brown's Sir Rosevelt Releases "It Goes On" For War Film "12 Strong"|date=January 17, 2018|website=One Country}}</ref>
+|-
+! scope="row"| "Somethin' 'Bout You"
+| 42 || 54
+| ''Sir Rosevelt''
+|}
+
+===Music videos===
+{| class="wikitable"
+|-
+! Year
+! Video
+! Director
+|-
+| 2017
+| "Sunday Finest"
+| Marc Ball
+|-
+| 2018
+| "Somethin' 'Bout You"
+| Indy Blue
+|-
+|}
+
+==References==
+{{Reflist}}
+
+{{Zac Brown Band}}
+{{Authority control}}
+
+{{DEFAULTSORT:Sir Rosevelt}}
+[[Category:American electronic dance music groups]]
+[[Category:Elektra Records artists]]
+[[Category:Musical groups established in 2016]]
+[[Category:Zac Brown Band]]
+[[Category:Musical groups from Nashville, Tennessee]]
+[[Category:2016 establishments in Tennessee]]

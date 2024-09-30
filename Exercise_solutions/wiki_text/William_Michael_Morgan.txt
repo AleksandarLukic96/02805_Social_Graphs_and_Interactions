@@ -1,0 +1,165 @@
+{{short description|American singer-songwriter}}
+{{Infobox musical artist
+| name            = William Michael Morgan
+| image           =
+| caption         =
+| birth_name      =
+| birth_date      = {{birth date and age|1993|05|13}}<ref>{{cite web |url=http://www.cmt.com/artists/william-michael-morgan/biography/ |archive-url=https://web.archive.org/web/20150829105736/http://www.cmt.com/artists/william-michael-morgan/biography/ |url-status=dead |archive-date=August 29, 2015 |title=About William Michael Morgan |work=CMT }}</ref>
+| birth_place     =
+| origin          = [[Vicksburg, Mississippi]], United States
+| instrument      = {{hlist|Vocals|guitar}}
+| genre           = [[Country music|Country]]
+| occupation      = {{hlist|Singer|songwriter}}
+| years_active    = 2009–present
+| associated_acts =
+| website         = {{URL|williammichaelmorgan.com}}
+}}
+
+'''William Michael Morgan''' (born May 13, 1993) is an American [[country music]] singer from [[Vicksburg, Mississippi]]. He was signed to [[Warner Bros. Records|Warner Bros. Nashville]].<ref>{{cite web|author= |url=http://www.warnermusicnashville.com/william-michael-morgan |title=Warner Music Nashville William Michael Morgan |publisher=Warnermusicnashville.com |date= |accessdate=2015-11-17}}</ref>
+
+His debut single "[[I Met a Girl (William Michael Morgan song)|I Met a Girl]]", reached number two on the [[Country Airplay]] chart and number eight on the [[Hot Country Songs]] chart in October 2016; the song was co-written with [[Sam Hunt]].<ref>{{cite web|author=|url=http://tasteofcountry.com/william-michael-morgan-i-met-a-girl/ |title=ToC Critic's Pick: William Michael Morgan, 'I Met a Girl' |publisher=Tasteofcountry.com |date= 19 August 2015|accessdate=2015-11-17}}</ref> The album's second single "Missing", was released to country radio on November 7, 2016. His debut studio album ''[[Vinyl (William Michael Morgan album)|Vinyl]]'', was released on September 30, 2016. Morgan parted ways with Warner Bros. Nashville in January 2019.
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:14em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="2"| Peak chart<br />positions
+! rowspan="2" style="width:9em;"| Sales
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]<br /><ref>{{cite magazine|url={{BillboardURLbyName|artist=william michael morgan|chart=Country Albums}}|title=William Michael Morgan – Chart history – Country Albums|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=October 11, 2016}}</ref>
+! width="45"| [[Billboard 200|US]]<br /><ref>{{cite magazine|url={{BillboardURLbyName|artist=william michael morgan|chart=Billboard 200}}|title=William Michael Morgan – Chart history – Billboard 200|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=October 11, 2016}}</ref>
+|-
+! scope="row"| ''[[Vinyl (William Michael Morgan album)|Vinyl]]''
+|  
+* Release date: September 30, 2016
+* Label: [[Warner Bros. Records|Warner Bros. Nashville]]
+| 5
+| 65
+|
+*US: 30,600<ref>{{cite news |url=http://roughstock.com/news/2017/07/42078-top-10-country-albums-chart-july-24-2017 |title=Top 10 Country Albums Chart: July 24, 2017 |first= Matt |last= Bjorke  |date= July 24, 2017 |work=Roughstock }}</ref>
+|}
+
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:14em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="2"| Peak chart<br />positions
+! rowspan="2" style="width:9em;"| Sales
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]<br /><ref>{{cite magazine|url={{BillboardURLbyName|artist=william michael morgan|chart=Country Albums}}|title=William Michael Morgan – Chart history – Country Albums|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=March 29, 2016}}</ref>
+! width="45"| [[Top Heatseekers|US<br />Heat]]<br /><ref>{{cite magazine|url={{BillboardURLbyName|artist=william michael morgan|chart=Heatseekers Albums}}|title=William Michael Morgan – Chart history – Heatseekers Albums|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=March 29, 2016}}</ref>
+|-
+! scope="row"| ''William Michael Morgan''
+|  
+* Release date: March 18, 2016
+* Label: Warner Bros. Nashville
+| 28
+| 5
+|
+*US: 15,500<ref>{{cite news|url=http://roughstock.com/news/2016/09/40854-country-album-sales-chart-september-19-2016|title=Country Album Sales Chart: September 19, 2016|first=Matt|last=Bjorke|date=September 19, 2016 |work=Roughstock}}</ref>
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:10em;"| Single
+! colspan="4"| Peak chart<br />positions
+! rowspan="2"| Sales
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<br /><ref>{{cite magazine|url={{BillboardURLbyName|artist=william michael morgan|chart=Country Songs}}|title=William Michael Morgan – Chart history – Country Songs|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=December 29, 2015}}</ref>
+! width="45"| [[Country Airplay|US Country Airplay]]<br /><ref>{{cite magazine|url={{BillboardURLbyName|artist=william michael morgan|chart=Country Airplay}}|title=William Michael Morgan – Chart history – Country Airplay|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=November 21, 2015}}</ref>
+! width="45"| [[Billboard Hot 100|US]]
+! width="45"| [[Canada Country|CAN Country]]
+|-
+| 2015
+! scope="row"| "[[I Met a Girl (William Michael Morgan song)|I Met a Girl]]"
+| 8
+| 2
+| 60
+| 19
+|
+*US: 296,000<ref>{{cite news |url=http://roughstock.com/news/2017/01/41261-top-30-digital-singles-sales-report-january-3-2017 |title=Top 30 Digital Singles Sales Report: January 3, 2017 |first= Matt |last=Bjorke |date= January 3, 2017 |work=Roughstock }}</ref>
+*[[Recording Industry Association of America|RIAA]]: Gold{{Certification Cite Ref|region=United States|type=single|title=I Met A Girl|artist=William Michael Morgan}}
+| align="left" rowspan="3"| ''Vinyl''
+|-
+| 2016
+! scope="row"| "Missing"
+| 49
+| 29
+| —
+| —
+|
+|-
+| 2017
+! scope="row"| "Vinyl"
+| —
+| —
+| —
+| —
+|
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:10em;"| Video
+! Director
+|-
+| 2015
+! scope="row"| "I Met a Girl"<ref>{{cite web|url=http://www.cmt.com/videos/william-michael-morgan/1262757/i-met-a-girl.jhtml|archive-url=https://web.archive.org/web/20151121204301/http://www.cmt.com/videos/william-michael-morgan/1262757/i-met-a-girl.jhtml|url-status=dead|archive-date=November 21, 2015|title=CMT : Videos : William Michael Morgan : I Met a Girl|publisher=[[Country Music Television]]|accessdate=November 21, 2015}}</ref>
+| Matt Underwood
+|-
+| 2016
+! scope="row"| "Missing"
+| Jack Guy
+|-
+| 2017
+! scope="row"| "Vinyl"
+|
+|-
+| 2018 
+| Tonight Girl" (From The Neon Lounge)	
+|
+|-
+| 2018
+| "Brokenhearted" (From The Neon Lounge)
+|
+|-
+| 2018
+| "Talking To a Girl" (From The Neon Lounge)	
+|
+|-
+| 2018
+| "Gone Enough" (From The Neon Lounge)	
+|
+|-
+| 2018
+| "Workin" (From The Neon Lounge)
+|
+|-
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Morgan, William Michael}}
+[[Category:1993 births]]
+[[Category:American male singer-songwriters]]
+[[Category:American country singer-songwriters]]
+[[Category:Musicians from Vicksburg, Mississippi]]
+[[Category:Country musicians from Mississippi]]
+[[Category:Warner Records artists]]
+[[Category:Living people]]
+[[Category:Singer-songwriters from Mississippi]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:21st-century American male singers]]

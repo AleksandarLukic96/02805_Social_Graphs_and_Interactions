@@ -1,0 +1,110 @@
+{{short description|American country music singer|bot=PearBOT 5}}
+{{Infobox musical artist
+| name            = Seth Ennis
+| image           =
+| caption         = Manchester City fan
+| birth_name      =
+| alias           =
+| birth_date      = {{birth date and age|1992|11|30}}
+| birth_place     = [[Dothan, Alabama]]
+| origin          =
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| instrument      = Vocals, keys, guitar, drums 
+| years_active    = 2016-present
+| label           = [[Arista Nashville]]
+| associated_acts = 
+}}
+'''Seth Ennis''' (born November 30, 1992) is an American [[country music]] singer. He has released one single for [[Arista Nashville]].
+
+==History==
+Ennis was born in Dothan, Alabama into a military family but he calls Valdosta, Georgia home. He played drums and piano from an early age.<ref>{{cite web|url=http://www.allmusic.com/artist/seth-ennis-mn0003518022/biography|title=Seth Ennis|last=Monger|first=James Christopher|work=Allmusic|accessdate=18 April 2017}}</ref>
+
+After moving back from Georgia to Nashville in 2013, Ennis signed up for a Battle of the Bands contest, which he won. He also wrote [[Tyler Farr]]'s 2016 single "Our Town".<ref name="taste">{{cite web|url=http://tasteofcountry.com/seth-ennis-woke-up-in-nashville-interview/|title=How Hard Work Paid Off for Seth Ennis|last=Reuter|first=Annie|work=[[Taste of Country]]|accessdate=18 April 2017}}</ref> He signed with [[Arista Nashville]] in September 2016.<ref>{{cite web|url=https://www.musicrow.com/2016/09/arista-nashville-signs-seth-ennis-releases-woke-up-in-nashville/|title=Arista Nashville Signs Seth Ennis, Releases "Woke Up In Nashville"|last=Nicholson|first=Jessica|date=September 6, 2016|work=MusicRow|accessdate=18 April 2017}}</ref>
+
+Arista released his debut single "Woke Up in Nashville", which he wrote with Blair Daly and David Hodges. The song was produced by Corey Crowder, and features Ennis playing all of the instruments himself.<ref name="taste"/>
+
+In 2017, he appeared at the [[C2C: Country to Country]] festival in the UK and later supported [[Little Big Town]] on the UK leg of their [[The Breakers Tour]].
+
+==Discography==
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:20em;"| Album details
+|- 
+! scope="row"| ''Mabelle''
+| 
+* Release date: March 3, 2017
+* Label: [[Arista Nashville]]
+* Format: Digital download
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:12em;"| Single
+! colspan="2"| Peak positions<ref>{{cite magazine|url=http://www.billboard.com/artist/7650060/seth-ennis/chart|title=Seth Ennis – Chart history|magazine=Billboard}}</ref>
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US<br> Country]]
+! width="65"| [[Country Airplay|US<br> Country<br> Airplay]]
+|-
+| 2016
+! scope="row"| "Woke Up in Nashville"
+| 45 || 42
+| align="left" rowspan="2"| ''Mabelle''
+|-
+| 2017
+! scope="row"| "Look at You"
+| — || —
+|-
+| 2018
+! scope="row"| "Call Your Mama"<br><small>(featuring [[Little Big Town]])</small>
+| — || —
+| align="left"| TBD
+|-
+|}
+
+===Music videos===
+{| class="wikitable"
+|-
+! Year
+! Video
+! Director
+|-
+| rowspan="2"| 2016
+| "Woke Up in Nashville"
+| Dean Lent
+|-
+| "Think & Drive"
+| Michael Monaco
+|-
+| rowspan="2"| 2017
+| "Fast Girl"
+| Jim Shea
+|-
+| "Play It Cool"
+| Wayne Miller
+|-
+| 2018
+| "Call Your Mama"<br /><small>(featuring [[Little Big Town]])</small>
+| Jeffrey C. Phillips
+|-
+|}
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Ennis, Seth}}
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Arista Nashville artists]]
+[[Category:Country musicians from Georgia (U.S. state)]]
+[[Category:Living people]]
+[[Category:Country musicians from Alabama]]
+[[Category:1992 births]]
+[[Category:Singer-songwriters from Alabama]]

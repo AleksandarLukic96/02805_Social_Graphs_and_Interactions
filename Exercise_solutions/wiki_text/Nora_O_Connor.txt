@@ -1,0 +1,161 @@
+{{short description|American, Chicago-based musician (born 1968)}}
+{{Infobox musical artist
+|name                              = Nora O'Connor
+|image                             = Nora_O'Connor_performing_on_2018-10-30_at_the_Hideout_in_Chicago_IL.jpg
+|caption                           = O'Connor performing at [[The Hideout Inn|The Hideout]] on October 30, 2017
+|background                        = solo_singer
+|birth_name                        = Nora O'Connor
+|alias                             = Nora O'Connor Kean
+|birth_date                        = {{birth date and age|1968|4|2}}
+|origin                            = [[Chicago]], [[Illinois]], U.S.
+|genre                             = [[Folk music|Folk]], [[Country music|Country]]
+|occupation                        = [[Musician]]
+|years_active                      = 1994–present
+|instrument                        = [[Singing|Vocals]], [[Guitar]]
+|associated_acts                   = [[The Blacks (band)|The Blacks]], [[The Decemberists]], [[Robbie Fulks]], [[Andrew Bird]], [[Kelly Hogan]], The Flat Five
+|label                             = [[Bloodshot Records]]
+}}
+
+'''Nora O’Connor''' (born April 2, 1968) is an American, Chicago-based musician. Though primarily known for her vocals, O'Connor also plays guitar and bass. For much of 2013, O'Connor toured internationally as a singer in [[Iron and Wine]].<ref name=iron/> She also records and performs with longtime collaborator, [[Andrew Bird]].<ref name=chicagomag/> O'Connor plays bass and sings back-up for [[Kelly Hogan]] (supporting Hogan's release "I Like To Keep Myself In Pain" on [[ANTI- Records]])<ref name=anti/> and in 2010, [[Wilco]]'s [[Jeff Tweedy]] enlisted O'Connor and Hogan as primary vocalists on gospel legend [[Mavis Staples]]’ Grammy Award-winning album ''[[You Are Not Alone (Mavis Staples album)|You Are Not Alone]]''.<ref name=chicagomag/> In the studio and on the stage, O'Connor has backed (among others) [[Neko Case]],<ref name=Neko/> [[Jakob Dylan]],<ref name=billboard/> [[The New Pornographers]],<ref name=billboard/> [[The Decemberists]],<ref name=Decemberists/> [[Archer Prewitt]],<ref name=billboard/> [[John Wesley Harding (singer)|John Wesley Harding]],<ref name=billboard/> [[Hushdrops]],<ref name=Hushdrops/> [[Justin Roberts (musician)|Justin Roberts]]<ref name=Justin/> and [[Robbie Fulks]].<ref name=trib/><ref name=chicago.gov/><ref name=timeout/>
+
+O'Connor has released two solo CDs.  The first, ''Cerulean Blue'', was released by Uncommon Ground Coffeehouse in Chicago in 1996.  The second, ''Til the dawn'', was released by [[Bloodshot Records]] on August 24, 2004. NOTE: In 2022 Nora announced: "My new album 'My Heart' comes out October 7, 2022 on Pravda Records."
+
+In the mid-1990s, she formed the Nora O'Connor Band, with herself on lead vocals and guitar, Lisa Wertman Crowe on bass and vocals, Tony Ventura on guitar and Mark Cameron on drums.
+
+O'Connor has two sons, and lives in [[Evanston, Illinois]].
+
+== Other collaborative projects ==
+* '''[[The Blacks (band)|The Blacks]]''': Five-piece [[insurgent country]] band (1993–2000)
+* '''[[The Decemberists (band)|The Decemberists]]''', touring band: backing vocals, guitar (2014–present)
+''See also [[Kelly Hogan#Other projects|Kelly Hogan§#Other projects]]''.
+
+== Partial discography ==
+
+=== Solo ===
+*''Cerulean Blue'' (1996, Uncommon Ground)
+*''Til the Dawn'' (2004, [[Bloodshot Records]])
+*''My Heart'' (October 2022, Pravda Records)
+
+=== The Blacks ===
+*''Dolly Horrorshow'' (1998, Bloodshot Records)
+*''Just Like Home'' (2000, Bloodshot Records)
+*''In Sickness and Health'' EP (2010, 6-song digital download, Bloodshot Records)
+
+=== Kelly Hogan ===
+*''I Like To Keep Myself In Pain'' (2014, [[Anti- (record label)|ANTI-]])
+
+=== The Flat Five ===
+*''It's A World of Love and Hope'' (2016, Bloodshot Records)
+*"[[The Raven]]", single (2017, Bloodshot Records)
+*''Another World'' (2020, [[Pravda Records]])
+
+=== Miscellaneous ===
+*''Happy'' – [[Robbie Fulks]] (2010, [[Yep Roc Records]])
+*''[[You Are Not Alone (Mavis Staples album)|You Are Not Alone]]'' – [[Mavis Staples]] (2010, ANTI-)
+*''Tomorrow'' – [[Hushdrops]]
+*''Me, Myself and Wine'' – Lady Parts (2015, Bloodshot Records)
+
+== References ==
+{{Reflist|refs=
+<ref name=anti>{{cite web
+| title       = Kelly Hogan - I Like to Keep Myself in Pain
+| website     = [[Anti- (record label)|ANTI-records]]
+| url         = http://www.anti.com/releases/i-like-to-keep-myself-in-pain/tracks/ways-of-this-world/
+| accessdate  = Mar 25, 2019}}</ref>
+<ref name=chicagomag>{{cite web
+| first       = Erin
+| last        = Osmon
+| title       = Seven Questions for Musician Nora O'Connor
+| date        = Feb 10, 2014
+| website     = [[Chicago (magazine)|Chicago]]
+| url         = https://www.chicagomag.com/arts-culture/February-2014/7-Questions-for-Musician-Nora-OConnor/
+| accessdate  = Mar 25, 2019}}</ref>
+<ref name=iron>{{cite web
+| first       = Brian
+| last        = Baker
+| title       = Iron & Wine's Sam Beam Talks
+| date        = Mar 19, 2019
+| website     = [[Cincinnati CityBeat]]
+| url         = https://www.citybeat.com/music/music-feature/article/21060345/iron-wines-sam-beam-talks-recreating-and-reinventing-his-our-endless-numbered-days-with-david-campbell-and-members-of-the-cso
+| accessdate  = Mar 25, 2019}}</ref>
+<ref name=trib>{{cite web
+| first       = Chrissie
+| last        = Dickinson
+| title       = Nora O'Connor is a voice you know, you just don't know it
+| date        = Feb 6, 2014
+| website     = [[Chicago Tribune]]
+| url         = https://www.chicagotribune.com/entertainment/ct-nora-oconnor-hideout-chicago-20140206-story.html
+| accessdate  = Mar 25, 2019}}</ref>
+<ref name=billboard>{{cite magazine
+| first       = David J.
+| last        = Prince
+| title       = Chicago Singer Nora O'Connor's One Hot Summer
+| date        = June 11, 2010
+| magazine     = [[Billboard (magazine)|Billboard]]
+| url         = https://www.billboard.com/articles/news/957801/chicago-singer-nora-oconnors-one-hot-summer
+| accessdate  = Mar 25, 2019}}</ref>
+<ref name=Neko>{{cite web
+| first       = Andy
+| last        = Kahn
+| title       = Neko Case Shares New Single 'Bad Luck'
+| date        = Apr 10, 2018
+| website     = [[JamBase]]
+| url         = https://www.jambase.com/article/neko-case-shares-new-single-bad-luck
+| accessdate  = Mar 25, 2019}}</ref>
+<ref name=Justin>{{cite web
+| first       = Justin
+| last        = Roberts
+| title       = Justin Roberts - Lemonade
+| year        = 2016
+| website     = [[Justin Roberts]]
+| url         = https://www.justinroberts.org/music_lem.php
+| accessdate  = Mar 25, 2019}}</ref>
+<ref name=Hushdrops>{{cite web
+| first       = Mark
+| last        = Guarino
+| title       = Chicago's Funeral Bonsai Wedding Debut A Hypnotic Bending Of Jazz And Roots; Hushdrops Get Epic
+| date        = Sep 11, 2014
+| website     = [[Chicago Sun-Times]]
+| url         = http://entertainment.suntimes.com/entertainment-news/chicagos-funeral-bonsai-wedding-debut-hypnotic-bending-jazz-roots-hushdrops-get-epic/
+| archiveurl  = https://web.archive.org/web/20141224185121/http://entertainment.suntimes.com/entertainment-news/chicagos-funeral-bonsai-wedding-debut-hypnotic-bending-jazz-roots-hushdrops-get-epic/
+| archivedate = December 24, 2014
+| accessdate  = Mar 25, 2019}}</ref>
+<ref name=Decemberists>{{cite web
+| first       = Scott
+| last        = Mervis
+| title       = 'I'm losing my voice,' singer tells crowd, but Decemberists power through at the Benedum
+| date        = Jun 1, 2018
+| website     = [[Pittsburgh Post-Gazette]]
+| url         = https://www.post-gazette.com/ae/music/2018/06/01/The-Decemberists-review-Pittsburgh-Benedum-Colin-Meloy-loses-his-voice/stories/201806010106
+| accessdate  = Mar 25, 2019}}</ref>
+<ref name=timeout>{{cite web
+| title       = Chicago musicians think back on their favorite Fleetwood Mac songs.
+| website     = [[Time Out (magazine)|Time Out]]
+| url         = https://www.timeout.com/chicago/music/fleetwood-mac-at-united-center-concert-preview
+| accessdate  = Apr 1, 2019}}</ref>
+<ref name=chicago.gov>{{cite web
+| title       = Fifth Star Bios - 2017 Honorees
+| website     = chicago.gov
+| url         = https://www.chicago.gov/city/en/depts/dca/supp_info/fifthstar0.html
+| accessdate  = Apr 1, 2019}}</ref>
+}}
+
+== External links ==
+* {{homepage|www.noraoconnor.com}}
+* {{Discogs artist|420375-Nora-OConnor}}
+* {{AllMusic|class=artist|id=p476445}}
+* [http://www.bloodshotrecords.com/artist/nora-oconnor Bio @ Bloodshot Records]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Oconnor, Nora}}
+[[Category:Living people]]
+[[Category:American women guitarists]]
+[[Category:American women singers]]
+[[Category:Bloodshot Records artists]]
+[[Category:1968 births]]
+[[Category:21st-century American women]]
+[[Category:Andrew Bird's Bowl of Fire members]]
+
+
+{{US-singer-stub}}

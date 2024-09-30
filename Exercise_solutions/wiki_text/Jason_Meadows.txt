@@ -1,0 +1,107 @@
+{{short description|American singer-songwriter}}
+
+{{Infobox musical artist
+| name            = Jason Meadows
+| image           =
+| caption         =
+| image_size      =
+| birth_name      =
+| birth_date      = {{birth date and age|1971|06|09}}
+| origin          = [[Calera, Oklahoma]]
+| instrument      = [[Singing|Vocals]]
+| genre           = [[Country music|Country]]
+| occupation      = Singer
+| years_active    = 2007—present
+| label           = Baccerstick
+| associated_acts =
+| website         = 
+}}
+'''Jason Meadows''' (born June 9, 1971) is a [[country music]] artist signed to Baccerstick Records. He was raised in [[Calera, Oklahoma]]. Meadows was a second-place finalist on the third season of the [[USA Networks]] talent show ''[[Nashville Star]]''.<ref>{{cite web|url=http://music.yahoo.com/ar-15601036-bio--Jason-Meadows |title=Jason Meadows biography |work=[[Yahoo! Music]] |accessdate=2008-12-31 |url-status=dead |archiveurl=https://web.archive.org/web/20050912053718/http://music.yahoo.com/ar-15601036-bio--Jason-Meadows |archivedate=2005-09-12 }}</ref> Three singles were released from his debut album ''100% Cowboy'' (the title track, "18 Video Tapes" and "Where Did My Dirt Road Go"), but all failed to chart.<ref name="gac">{{cite web|url=http://www.gactv.com/gac/ar_artists_a-z/article/0,,GAC_26071_5687179,00.html |archive-url=https://archive.today/20130124014442/http://www.gactv.com/gac/ar_artists_a-z/article/0,,GAC_26071_5687179,00.html |url-status=dead |archive-date=2013-01-24 |title=Artists A to Z: Jason Meadows biography |work=[[Great American Country]] |accessdate=2008-12-31 }}</ref> The album reached No.&nbsp;59 on [[Top Country Albums]]. "18 Video Tapes" received a "thumbs up" rating from Engine 145, a country music review site. Reviewer Matt C. said, "Here’s a ''Nashville Star'' alumnus who didn’t score a major-label deal but nonetheless is producing interesting and compelling music."<ref>{{cite web|url=http://www.engine145.com/jason-meadows-18-video-tapes/ |title=Jason Meadows — "18 Video Tapes" |last=Matt C. |work=Engine 145 |accessdate=2008-12-31 |url-status=dead |archiveurl=https://web.archive.org/web/20141218082533/http://www.engine145.com/jason-meadows-18-video-tapes/ |archivedate=2014-12-18 }}</ref>
+
+==Discography==
+
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:10em;"| Title
+! rowspan="2" style="width:16em;"| Album details
+! colspan="2"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]<br><ref>{{cite web|url={{BillboardURLbyName|artist=jason meadows|chart=all}}|title=Jason Meadows Album & Song Chart History - Country Albums|work=[[Billboard (magazine)|Billboard]]|accessdate=November 14, 2010}}</ref>
+! width="45"| [[Top Heatseekers|US<br>Heat]]<br><ref>{{cite web|url={{BillboardURLbyName|artist=jason meadows|chart=Heatseekers Albums}}|title=Jason Meadows Album & Song Chart History - Heatseekers Albums|work=[[Billboard (magazine)|Billboard]]|accessdate=November 14, 2010}}</ref>
+|-
+! scope="row"| ''100% Cowboy''
+| 
+* Release date: June 26, 2007
+* Label: Baccerstick Records
+| 59
+| 35
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:16em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="60"| [[Hot Country Songs|US Country]]
+|-
+| rowspan="2"| 2007
+! scope="row"| "100% Cowboy"
+| —
+| align="left" rowspan="3"| ''100% Cowboy''
+|-
+! scope="row"| "18 Video Tapes"
+| —
+|-
+| 2009
+! scope="row"| "Where Did My Dirt Road Go"
+| —
+|-
+| 2010
+! scope="row"| "You Ain't Never Been to Texas"
+| —
+| align="left" rowspan="2"| ''You Ain't Never Been to Texas EP''
+|-
+| 2011
+! scope="row"| "Go Back There Again"
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:16em;"| Video
+! Director
+|-
+| rowspan="2"| 2007
+! scope="row"| "100% Cowboy"
+| Jim Shea
+|-
+! scope="row"| "18 Video Tapes"
+| Jeanine Pellegrino
+|-
+| 2010
+! scope="row"| "You Ain't Never Been to Texas"
+|
+|}
+
+==References==
+{{Reflist}}
+
+{{Nashville Star}}
+
+{{DEFAULTSORT:Meadows, Jason}}
+[[Category:American country singer-songwriters]]
+[[Category:Living people]]
+[[Category:Nashville Star contestants]]
+[[Category:Singer-songwriters from Oklahoma]]
+[[Category:1971 births]]
+[[Category:21st-century American singer-songwriters]]

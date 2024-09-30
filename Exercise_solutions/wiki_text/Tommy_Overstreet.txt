@@ -1,0 +1,62 @@
+{{Short description|American country music singer-songwriter (1937–2015)}}
+{{Use mdy dates|date=December 2020}}
+{{Infobox musical artist 
+|name           = Tommy Overstreet
+|image          = 
+|caption= 
+|image_size     = 170px
+|background     = solo_singer
+|birth_name     = Thomas Cary Overstreet
+|alias          = T.O.
+|birth_date     = {{birth date|1937|09|10}}
+|birth_place    = [[Oklahoma City]], [[Oklahoma]], U.S.
+|origin         = [[Abilene, Texas]], United States
+|death_date     = {{death date and age|2015|11|02|1937|09|10}}
+|death_place    = [[Hillsboro, Oregon]], U.S.
+|instrument     = Guitar, vocals
+|genre          = [[Country music|Country]], [[Nashville sound]]
+|occupation     = Singer-songwriter
+|years_active   = 1968–1986
+|label          = [[Dot Records|Dot]], [[ABC Records|ABC]], [[Elektra Records|Elektra]]
+}}
+
+'''Thomas Cary Overstreet'''<ref name="LarkinCountry"/> (September 10, 1937<ref name="LarkinCountry"/> – November 2, 2015)<ref name="Obit"/> was an American [[country music]] singer. Often referred to as "T.O." by fans and radio disc jockeys, Overstreet had five top-five [[hit single|hit]] [[single (music)|singles]] in the ''[[Billboard (magazine)|Billboard]]'' country [[record chart|charts]] and 11 top-10 singles. His popularity peaked in the 1970s. He lived in [[Hillsboro, Oregon]].<ref>{{cite news|last=Bray|first=Kari|title=Hillsboro fire destroys barn and property of country singer Tommy Overstreet|url=http://www.oregonlive.com/hillsboro/index.ssf/2013/06/hillsboro_fire_destroys_barn_a.html#incart_m-rpt-2|access-date=June 24, 2013|newspaper=[[The Oregonian]]|date=June 23, 2013}}</ref>
+
+==Early life==
+Born in [[Oklahoma City]], [[Oklahoma]], United States,<ref name="LarkinCountry">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Who's Who of Country Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1993|edition=First|isbn=0-85112-726-6|page=302}}</ref> Overstreet grew up in both [[Houston]] and [[Abilene, Texas]].<ref name="LarkinCountry"/> He decided on a singing career when he was young, influenced largely by his cousin, "Uncle" [[Gene Austin]].<ref>{{Cite web|url=https://www.shsu.edu/~lis_fwh/book/roots_of_rock/support/crooner/Austin2.htm|title=Gene Austin|website=Shsu.edu|access-date=August 8, 2021}}</ref><ref>[https://web.archive.org/web/20080724063256/http://www.vh1.com/artists/az/overstreet_tommy/bio.jhtml Tommy Overstreet Biography] on [[VH1]]</ref> Austin was a singing star of the 1920s and 1930s.
+
+==Career==
+Overstreet's musical career started when he was 17, singing on [[country music|country and western]] star [[Slim Willet]]'s television show in Abilene.<ref name="auto">[https://web.archive.org/web/20040215060239/http://www.cmt.com/artists/az/overstreet_tommy/bio.jhtml Tommy Overstreet Biography] on [[Country Music Television|CMT]]</ref> In the late 1950s, Overstreet started a group called The Shadows.
+
+In 1960, Overstreet recorded in New York City at [[Roulette Records]], with [[Doc Severinsen]] on trumpet, Sam "The Man" Taylor on saxophone, and the [[Ray Charles Singers]] singing backup.
+
+In 1967, Overstreet was hired to manage [[Dot Records]] in [[Nashville, Tennessee]].<ref name="LarkinCountry"/> In 1970, he decided to pursue a recording career, quickly establishing himself as a country hit maker that very year with a top-five hit, "Gwen (Congratulations)", which peaked at number five on the ''Billboard'' country music chart.<ref name="LarkinCountry"/>
+
+Overstreet made frequent [[guest appearance]]s on the TV variety show ''[[Hee Haw]]''.<ref name="LarkinCountry"/><ref>{{cite web |url=http://www.heehaw.com/guests.html |title=HEE HAW - Guests |website=www.heehaw.com |access-date=22 May 2022 |archive-url=https://web.archive.org/web/20031223025846/http://www.heehaw.com/guests.html |archive-date=23 December 2003 |url-status=dead}}</ref><ref name="auto"/> His highest charting ''Billboard'' hit was 1972's "Ann (Don't Go Runnin')", which went to number two.<ref name="LarkinCountry"/>
+
+His other top-20 hits were "I Don't Know You Anymore" (number five in 1971), "Heaven is My Woman's Love" (number three in 1972), "Send Me No Roses" (number seven in 1973); "I'll Never Break These Chains" (number seven in 1973), "(Jeannie Marie) You Were a Lady" (number seven in 1974), "If I Miss You Again Tonight" (number eight in 1974), "I'm a Believer" (number 9 in 1975), "That's When My Woman Begins" (number six in 1975), "If Love was a Bottle of Wine" (number 11 in 1976), "Don't Go City Girl on Me" (number five in 1977), "Yes, Ma'am" (number 12 in 1978), and "Fadin' In, Fadin' Out" (number 11 in 1978).<ref name="LarkinCountry"/>
+
+Overstreet died at his home in Oregon on November 2, 2015.<ref name="Obit"/> He had been suffering from a variety of undisclosed ailments in recent years.<ref name="Obit">{{cite magazine|last1=Dauphin|first1=Chuck|title=Tommy Overstreet, 1970s Country Hitmaker, Dies at Age 78|url=http://www.billboard.com/articles/columns/country/6752929/tommy-overstreet-dead-obituary|access-date=November 3, 2015|magazine=[[Billboard (magazine)|Billboard]]|date=November 3, 2015}}</ref>
+
+==Discography==
+{{main|Tommy Overstreet discography}}
+
+==References==
+<references />
+
+{{Authority control}}
+
+{{DEFAULTSORT:Overstreet, Tommy}}
+[[Category:1937 births]]
+[[Category:2015 deaths]]
+[[Category:Musicians from Oklahoma City]]
+[[Category:Singers from Houston]]
+[[Category:Musicians from Abilene, Texas]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:Dot Records artists]]
+[[Category:American country singer-songwriters]]
+[[Category:Musicians from Hillsboro, Oregon]]
+[[Category:Singer-songwriters from Oklahoma]]
+[[Category:Singer-songwriters from Oregon]]
+[[Category:Country musicians from Texas]]
+[[Category:Country musicians from Oklahoma]]

@@ -1,0 +1,93 @@
+{{Infobox musical artist
+| name            = Burns & Poe
+| image           = Burns and poe.jpg
+| image_size      =
+| landscape       = yes
+| alt             =
+| caption         = Burns & Poe at [[CMA Music Festival]], June 2010
+| origin          = [[Nashville, Tennessee]], U.S.
+| genre           = [[Country music|Country]]
+| years_active    = 2007-2014
+| label           = Country Thunder, Blue Steel
+| associated_acts = [[Trick Pony]]
+| website         =
+| current_members = Keith Burns<br />Michelle Poe
+}}
+'''Burns & Poe''' was an American [[country music]] duo composed of Keith Burns and Michelle Poe. The duo was founded in 2007 after Burns left the group [[Trick Pony]]. Poe was once a solo artist for [[DreamWorks Nashville]], and later played [[bass guitar]] for [[Dierks Bentley]] and [[Hank Williams Jr.]]<ref>{{cite web|url=http://www.cmt.com/artists/az/burns_and_poe/bio.jhtml|archive-url=https://archive.today/20130119201502/http://www.cmt.com/artists/az/burns_and_poe/bio.jhtml|url-status=dead|archive-date=January 19, 2013|title=Burns & Poe biography|work=[[Country Music Television]]|accessdate=14 September 2012}}</ref> The two met in 2007 while Burns was holding auditions to recruit a new lead singer for Trick Pony after Aubrey Collins (who had replaced original lead singer [[Heidi Newfield]] just months earlier) left.<ref name="gac1">{{cite web|url=http://www.gactv.com/gac/ar_artists_a-z/article/0,,gac_26071_6023961,00.html|title=Burns & Poe Biography (page 1 of 2)|work=[[Great American Country]]|accessdate=14 September 2012|url-status=dead|archiveurl=https://archive.today/20130124051506/http://www.gactv.com/gac/ar_artists_a-z/article/0,,gac_26071_6023961,00.html|archivedate=24 January 2013}}</ref>
+
+They released a two-disc, self-titled album in late 2010 through their website, followed by a Christmas single titled "Hear the Angels Singing" in November of that year.<ref>{{cite web|url=http://www.theboot.com/2010/11/24/burns-and-poe-hear-the-angels-singing/|title=Burns & Poe Offer Fans Limited Edition Album and Holiday Single|last=Conaway|first=Alanna|date=November 24, 2010|work=The Boot|accessdate=14 September 2012}}</ref> Blue Steel Records gave it a wide release in 2011. The same year, ''Music Row'' magazine awarded them as Independent Artist of the Year.<ref>{{cite web|url=http://americajr.com/entertainment/burnsandpoealbum0503.html|title=New country duo Burns & Poe releases two-disc, self-titled debut album|last=Rzucidlo|first=Jason|date=May 4, 2011|work=AmericaJr.com|accessdate=14 September 2012|archive-url=https://web.archive.org/web/20110617140416/http://americajr.com/entertainment/burnsandpoealbum0503.html|archive-date=17 June 2011|url-status=dead}}</ref><ref name="gac2">{{cite web|url=http://www.gactv.com/gac/ar_artists_a-z/article/0,3028,GAC_26071_6023961_02,00.html|title=Burns & Poe biography (page 2 of 2)|work=Great American Country|accessdate=14 September 2012|url-status=dead|archiveurl=https://archive.today/20130123215424/http://www.gactv.com/gac/ar_artists_a-z/article/0,3028,GAC_26071_6023961_02,00.html|archivedate=23 January 2013}}</ref> They promoted the dual album on tour in 2011.<ref>{{cite web|url=http://www.roughstock.com/blog/new-artist-spotlight-burns-poe|title=New Artist Spotlight: Burns & Poe|last=Dauphin|first=Chuck|date=April 30, 2011|work=Roughstock|accessdate=14 September 2012|url-status=dead|archiveurl=https://web.archive.org/web/20121013123838/http://www.roughstock.com/blog/new-artist-spotlight-burns-poe|archivedate=13 October 2012}}</ref> Alex Henderson of [[Allmusic]] rated the album 3 stars out of 5, saying that "they sound like they genuinely enjoy working together".<ref>{{cite web|url=http://www.allmusic.com/album/burns-poe-mw0002122106|title=''Burns & Poe'' review|last=Henderson|first=Alex|work=[[Allmusic]]|accessdate=14 September 2012}}</ref>
+
+Later in 2011, Burns & Poe released a video for a fourth song, "I Need a Job".<ref>{{cite web|url=http://tasteofcountry.com/burns-and-poe-i-need-a-job/|title=Burns and Poe, 'I Need a Job' – Song Review|last=Dukes|first=Billy|date=September 15, 2011|work=Taste of Country|accessdate=14 September 2012}}</ref> In 2014, Burns rejoined Trick Pony.<ref>{{Cite web|url=http://www.countryweekly.com/news/trick-pony-reunites|title = The Country Daily}}</ref>
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:20em;"| Album details
+|- 
+! scope="row"| ''Burns & Poe''
+| 
+* Release date: April 26, 2011
+* Label: Blue Steel Records
+* Format: [[compact disc|CD]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:16em;"| Single
+! Album
+|-
+|rowspan=2| 2009
+! scope="row"|"Gone as All Get Out"
+| rowspan="5"| ''Burns & Poe''
+|-
+! scope="row"|"It's Always a Woman"
+|-
+| 2010
+! scope="row"| "Don't Get No Better Than That"
+|-
+| rowspan=2|2011
+! scope="row"| "How Long Is Long Enough"
+|-
+! scope="row"| "Second Chance"
+|}
+
+===Videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:16em;"| Video
+! Director
+|-
+| 2010
+! scope="row"| "Don't Get No Better Than That"
+| Douglas Bruce/Stephen Shively
+|-
+| rowspan=2|2011
+! scope="row"| "Second Chance"
+| Kelly Brooks
+|-
+! scope="row"| "I Need a Job"
+|Steve Freeman
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://burnsandpoe.com Official website]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Burns and Poe}}
+[[Category:Country music groups from Tennessee]]
+[[Category:American country music duos]]
+[[Category:Musical groups from Nashville, Tennessee]]
+[[Category:Musical groups established in 2007]]
+[[Category:2007 establishments in Tennessee]]
+[[Category:Musical duos from Tennessee]]
+[[Category:Male–female musical duos]]

@@ -1,0 +1,126 @@
+{{Use mdy dates|date=July 2022}}
+{{short description|American baseball player and coach}}
+{{For|the American singer-songwriter|Tom House (musician)}}
+{{BLP sources|date=June 2014}}
+{{Infobox baseball biography
+|name=Tom House
+|position=[[Pitcher]]
+|image=Tom House 1976.jpg
+|bats=Left
+|throws=Left
+|birth_date={{Birth date and age|1947|4|29}}
+|birth_place=[[Seattle, Washington]], U.S.
+|debutleague = MLB
+|debutdate=June 23
+|debutyear=1971
+|debutteam=Atlanta Braves
+|finalleague = MLB
+|finaldate=September 29
+|finalyear=1978
+|finalteam=Seattle Mariners
+|statleague = MLB
+|stat1label=[[Win–loss record (pitching)|Win–loss record]]
+|stat1value=29–23
+|stat2label=[[Earned run average]]
+|stat2value=3.79
+|stat3label=[[Strikeout]]s
+|stat3value=261
+|teams=
+*[[Atlanta Braves]] ({{Baseball year|1971}}–{{Baseball year|1975}})
+*[[Boston Red Sox]] ({{Baseball year|1976}}–{{Baseball year|1977}})
+*[[Seattle Mariners]] ({{Baseball year|1977}}–{{Baseball year|1978}})
+}}
+'''Thomas Ross House''' (born April 29, 1947) is an American former left-handed [[relief pitcher]] in [[Major League Baseball]], as well as an author and a [[pitching coach]].
+
+==Baseball career==
+
+===Player===
+House pitched at [[Nogales High School (La Puente, California)]] and the [[University of Southern California]], before the [[Atlanta Braves]] selected him with the 48th overall pick of the 1967 draft's secondary phase, as part of the draft's third round. He had passed up an earlier chance to turn pro two years before, when the [[Chicago Cubs]] used the 201st overall pick to take him in the 11th round of the June draft's main phase.
+
+Advancing quickly through the Braves' system, House made his major league debut on June 23, 1971, pitching one inning in relief of [[Pat Jarvis (baseball)|Pat Jarvis]] in the seventh inning of a 6–3 loss to the [[Montreal Expos]].<ref>[http://www.retrosheet.org/boxesetc/B06230ATL1971.htm Retrosheet Boxscore: Montreal Expos 6, Atlanta Braves 3<!-- Bot generated title -->]</ref> Relying mainly on a [[curveball]] and a [[screwball]], House was an important part of the Braves' bullpen in the mid-1970s. His best season was 1974, when he pitched 102⅔ [[innings pitched|innings]], all in relief, with a 1.93 [[earned run average]] (ERA) and a 0.98 [[walks plus hits per inning pitched]] (WHIP) ratio. His 38 games finished ranked seventh in the [[National League (baseball)|National League]], and his 11 saves were good for fifth. House also ranked among the league leaders in those categories in 1975, when his 45 games finished ranked third, and his 11 saves placed tenth.
+
+House was traded from the Braves to the [[Boston Red Sox]] for [[Roger Moret]] on December 12, 1975. At the time, the Red Sox had a surplus of [[starting pitcher]]s and needed more bullpen depth.<ref>[https://news.google.com/newspapers?id=CZguAAAAIBAJ&sjid=nqEFAAAAIBAJ&pg=3610,3309039&dq "Braves, Red Sox swap lefties," ''United Press International'' (UPI), Saturday, December 13, 1975.] Retrieved May 1, 2020</ref> After he spent 1976 in Boston, the Red Sox sold his contract to the [[Seattle Mariners]], an [[expansion team]], early in the 1977 season. House concluded his major league career after two seasons with the Mariners in 1977 and 1978. He retired with 29 wins, 23 losses, 34 saves, and a 3.79 ERA in 536 major league innings.
+
+===Coach===
+After his retirement as a player, House became a pitching coach.  In addition to [[Bachelor of Science]] in marketing and [[Master of Business Administration]] degrees from USC, House holds a [[Ph.D.]] in sports psychology from U.S. International University (now [[Alliant International University]]).<ref>[https://news.google.com/newspapers?nid=1915&dat=19890430&id=mu0gAAAAIBAJ&sjid=FHIFAAAAIBAJ&pg=1533,6718680 Dan Shaugnessy], House Making Pitch for Sports Psychology, The Day (New London, Conn.), April 30, 1989</ref><ref>[https://www.latimes.com/archives/la-xpm-1989-07-05-sp-3146-story.html Richard Hoffer], House Calls: Ranger Coach Has an Unorthodox Approach to Pitching, Using Hypnotherapy, Biokinetics, Los Angeles Times, July 5, 1989</ref> Early in his career, he employed what were thought of as unusual methods at the time, but have since been adopted by the baseball community at large such as having pitchers under his tutelage throw a [[American football|football]].<ref>{{cite AV media | people=Mandt,Neil (Executive Producer) Mandt, Michael (Executive Producer) | date=April 13, 2014 | title=The Throwing Doctor | medium=Documentary | publisher=Mandt Brothers}}</ref>
+
+House became the pitching coach for the [[Texas Rangers (baseball)|Texas Rangers]] in 1985, during which time he was notable for his work with [[Nolan Ryan]]. During Ryan's induction into the [[Baseball Hall of Fame]] on July 25, 1999, he credited House as a positive influence on his career, saying:
+
+<blockquote>While I was [with the Rangers] I was very fortunate to have a pitching coach by the name of Tom House. And Tom and I are of the same age and Tom is a coach that is always on the cutting edge. And I really enjoyed our association together and he would always come up with new training techniques that we would try and see how they would work in to my routine. And because of our friendship and Tom pushing me, I think I got in the best shape of my life during the years that I was with the Rangers.<ref>{{cite web |url=http://www.baseballhalloffame.org/hof_weekend/1999/speeches/ryan_nolan.htm |title=National Baseball Hall of Fame - Induction Speech - Nolan Ryan |accessdate=2006-04-02 |url-status=dead |archiveurl=https://web.archive.org/web/20061010015557/http://www.baseballhalloffame.org/hof_weekend/1999/speeches/ryan_nolan.htm |archivedate=2006-10-10 }}</ref></blockquote>
+
+House has also worked as a coach for the [[Houston Astros]], [[San Diego Padres]], [[Chunichi Dragons]], and [[Chiba Lotte Marines]]. He is an advisor with the [[American Sports Medicine Institute]], and is the co-founder of the [https://www.nationalpitching.net/ National Pitching Association].  Through the NPA, he runs a series of camps and clinics for athletes, and markets a series of instructional videos for young baseball players.  House has also written or co-written nineteen instructional books on baseball, as well as an autobiography.
+
+In 1998, the [[American Baseball Coaches Association]] presented House with a lifetime achievement award.
+
+House served as pitching coach for the [[USC Trojans baseball|USC Trojans]] from 2008-2011, when he retired from coaching.<ref>{{cite web |url=http://www.usctrojans.com/sports/m-basebl/mtt/tom_house_308340.html |title=Tom House Profile - University of Southern California Official Athletic Site |website=www.usctrojans.com |url-status=dead |archive-url=https://web.archive.org/web/20131126092711/http://www.usctrojans.com/sports/m-basebl/mtt/tom_house_308340.html |archive-date=November 26, 2013}} </ref>
+
+In 2008, House worked as a consultant and pitching coach for the reality program The Million Dollar Arm.  In this capacity, he trained two young Indian prospects, [[Rinku Singh (wrestler)|Rinku Singh]] and [[Dinesh Patel]] over a period of seven months.  At the end of that time he had raised the velocity of both prospects' fastballs to major league levels, and the two signed professional baseball contracts with the [[Pittsburgh Pirates]]' organization.<ref>{{Cite web | url=http://www.ajc.com/news/sports/pro-sports/qa-with-former-brave-tom-house-about-million-dolla/nfwz4/ | title=Q&A with former Brave Tom House about 'Million Dollar Arm'}}</ref>  The story of The Million Dollar Arm is dramatized in the [[Million Dollar Arm|Disney movie of the same name]].
+
+Recently, House has worked with several NFL quarterbacks, including, [[Dak Prescott]], [[Drew Brees]], [[Tom Brady]],<ref>{{cite web |url=http://www.bostonherald.com/sports/football/patriots/view/20220516house_pitches_analysis_of_brady/srvc=home&position=also |title=Tom House pitches analysis of Tom Brady - BostonHerald.com |website=www.bostonherald.com |url-status=dead |archive-url=https://web.archive.org/web/20120518002335/http://www.bostonherald.com/sports/football/patriots/view/20220516house_pitches_analysis_of_brady/srvc=home&position=also |archive-date=May 18, 2012}} </ref> [[Alex Smith]],<ref>{{Cite web | url=http://blog.sfgate.com/49ers/2012/05/11/pitching-guru-house-terms-alex-smith-a-star-student/ |title = Pitching guru House terms Alex Smith a star student|date = May 12, 2012}}</ref> [[Carson Palmer]], [[Cody Kessler]], [[Matt Cassel]], [[Jared Goff]], [[Marcus Mariota]], [[Andrew Luck]], [[Jimmy Garoppolo]], [[Carson Wentz]], [[Terrelle Pryor]], [[Tim Tebow]], [[Andy Dalton]],<ref>{{Cite web | url=http://profootballtalk.nbcsports.com/2014/04/11/andy-dalton-worked-on-throwing-motion-with-noted-qb-tutor-tom-house/ |title = Andy Dalton worked on throwing motion with noted QB tutor Tom House|date = April 11, 2014}}</ref> [[Blake Bortles]],<ref>{{Cite web | url=https://www.espn.com/nfl/story/_/id/12736074/blake-bortles-jacksonville-jaguars-says-arm-deteriorated-rookie-year | title=Bortles says arm 'deteriorated' in rookie year| date=April 21, 2015}}</ref> [[Matt Ryan (American football)|Matt Ryan]],<ref>{{Cite web | url=https://www.espn.com/nfl/story/_/id/18551479/atlanta-falcons-qb-matt-ryan-redeeming-season-ages-super-bowl-li | title=History on ice: Matt Ryan gets his shot| date=January 26, 2017}}</ref><ref>{{cite web |title=About 3DQB |url=https://www.train3dqb.com/about.html |website=3DQB |publisher=3DQB |accessdate=September 10, 2019}}</ref> and [[Mac Jones]].
+
+==Historical legacy==
+===Coaching legacy===
+House has been called the "father of modern pitching mechanics," and a "professor of throwing." House was one of the first to blend scientific based pitching study into methodologies for pitchers. He has led elite coaching to become scientific instead of guesswork. He has developed a model that is focused on quantifying the movement in each athlete's motion, then using drills and exercises to maximize accuracy and velocity and minimize strain on player's bodies.<ref>{{cite magazine |last1=Beckham |first1=Jeff |title=How Baseball is Building Better NFL Quarterbacks |url=https://www.wired.com/2015/10/baseball-building-better-nfl-quarterbacks/ |magazine=Wired |accessdate=September 10, 2019|date=October 7, 2015 }}</ref><ref>{{cite web |title=National Pitching Association Founder Tom House |url=https://nationalpitching.com/ABOUT/tom_house.html |website=NPA |publisher=NPA |accessdate=September 10, 2019}}</ref>
+
+House has been one of the first to adopt "Neurophysiology," by pairing his mechanics and motion analysis with functional fitness to address an athlete's functional strength inefficiencies, sleep and nutrition to recover faster, and data driven mental and emotional assessment to uncover how athletes deal with the stress and anxiety of competition.<ref>{{cite web |title=National Pitching Association Founder Tom House |url=https://nationalpitching.com/ABOUT/tom_house.html |website=NPA |publisher=NPA |accessdate=September 10, 2019}}</ref><ref>{{cite AV media | people=Focusband (Producer) | date=September 10, 2017 | title=Focusband-Tom House and Jason Goldsmith | medium=Web content | location=United States | publisher=Focusband}}</ref>
+
+===Steroids===
+House has admitted to using [[anabolic steroids]] in the 1970s, making him one of the earliest players to admit to using performance-enhancing drugs.  In an interview with the ''[[San Francisco Chronicle]]'', he described his use of steroids as "a failed experiment", although he increased from around 190 pounds to around 220 while using them.  He viewed the experience as a failure since the extra muscle did not enhance his substandard 82-MPH [[fastball]], while the drugs contributed to knee problems, eventually necessitating a total of seven operations.  He claims to have stopped using them after learning in college classes during the off-season about the potential long-term effects of steroid use.
+
+House has stated that "six or seven" pitchers on every major league staff in the 1970s were "fiddling" with steroids or [[human growth hormone]].  He attributes players' willingness to experiment with performance-enhancing substances to the permissiveness of the [[drug culture]] of the 1960s, and he believed that steroid use declined in Major League Baseball since the 1970s, as players have become more aware of the potential long-term drawbacks.<ref>[http://www.sfgate.com/cgi-bin/article.cgi?f=/chronicle/archive/2005/05/03/SPGSTCJ0SK1.DTL House a 'failed experiment' with steroids<!-- Bot generated title -->]</ref>
+
+===Aaron's home run===
+House and [[Hank Aaron]] were both members of the Braves in 1974, the season when Aaron broke [[Babe Ruth]]'s record for career [[home run]]s.  Aaron hit the record-setting 715th home run in the fourth inning of a game against the [[Los Angeles Dodgers]], on April 8, 1974, against pitcher [[Al Downing (baseball)|Al Downing]].  The ball landed in the Braves' bullpen in left-center field, where it was caught on the fly by House.  [[Bill Buckner]], then the Dodgers' left fielder, climbed to the top of the fence and begged House for the ball.  The game stopped to celebrate the achievement, and after sprinting to the infield, House presented the ball to Aaron at home plate. His only payment was a TV given by a local store.<ref>[https://web.archive.org/web/20131218162547/http://sportsillustrated.cnn.com/baseball/mlb/features/1999/aaron/aaron_story/ - Baseball MLB - 715: Hank Aaron's Glorious Ordeal - Monday April 5, 1999 01:26 PM<!-- Bot generated title -->]</ref>
+
+===In popular culture===
+House was portrayed by [[Bill Paxton]] in the Disney film ''[[Million Dollar Arm]]''.
+
+==Partial bibliography==
+*''The Winning Pitcher: Baseball's Top Pitchers Demonstrate What it Takes to Be an Ace'', NTC Publishing Group, 1988.  {{ISBN|0-8092-4878-6}}.
+*''Jock's Itch: The Fast-Track Private World of the Professional Ballplayer'', NTC Publishing Group, 1989.  {{ISBN|0-8092-4779-8}}.
+*''Diamond Appraised: A World-Class Theorist and a Major League Coach Square off on Timeless Topics in the Game of Baseball'', Simon & Schuster, 1989.  {{ISBN|0-671-67769-1}}.  (With [[Craig R. Wright]].)
+*''Nolan Ryan's Pitcher's Bible: The Ultimate Guide to Power, Precision and Long-Term Performance'', Simon & Schuster, 1991.  {{ISBN|0-671-70581-4}}. (With [[Nolan Ryan]] and [[Jim Rosenthal]].)
+*''Play Ball: The New Baseball Basics for Youth Coaches, Parents, and Kids'', West Publishing Company, 1993.  {{ISBN|0-314-02575-8}}.  (With [[Coop DeRenne]], [[Thomas W. Harris]], and [[Barton Buxton]].)
+*''Power Baseball'', West Publishing Company, 1993.  {{ISBN|0-314-01849-2}}.  (With Coop DeRenne and Thomas W. Harris.)
+*''Pitching Edge'', Human Kinetics Publishers, 1994.  {{ISBN|0-87322-503-1}}.
+*''Fit to Pitch'', Human Kinetics Publishers, 1996.  {{ISBN|0-87322-882-0}}. (With [[Randy Johnson]].)
+*''Stronger Arms and Upper Body'', Human Kinetics Publishers, 2000.  {{ISBN|0-88011-977-2}}.
+*''The Picture Perfect Pitcher'', Coaches Choice Books, 2003.  {{ISBN|1-58518-602-3}}.  (With [[Paul Reddick]].)
+*''The Art and Science of Pitching'', Coaches Choice Books, 2006.  {{ISBN|1-58518-960-X}}. (With [[Gary Heil]] and Steve Johnson.)
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Baseballstats |mlb=116180 |espn= |br=h/houseto01 |fangraphs=1006064|brm=house-001tho }}
+*Tom House's [http://www.tomhouse.com/ Official website]
+*[https://www.pelotabinaria.com.ve/beisbol/mostrar.php?ID=houstom001 Pura Pelota] (Venezuelan League)
+:
+
+{{s-start}}
+{{succession box|title=[[Texas Rangers (baseball)|Texas Rangers]] [[coach (baseball)|pitching coach]]|years=1985–1992|before=[[Dick Such]]|after=[[Claude Osteen]]}}
+{{s-end}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:House, Tom}}
+[[Category:1947 births]]
+[[Category:Living people]]
+[[Category:Arizona Instructional League Braves players]]
+[[Category:Atlanta Braves players]]
+[[Category:Baseball players from Seattle]]
+[[Category:Boston Red Sox players]]
+[[Category:Caracas Metropolitanos players]]
+[[Category:Kinston Eagles players]]
+[[Category:Las Vegas Stars (baseball) players]]
+[[Category:Major League Baseball pitchers]]
+[[Category:Major League Baseball pitching coaches]]
+[[Category:Richmond Braves players]]
+[[Category:Seattle Mariners players]]
+[[Category:Shreveport Braves players]]
+[[Category:Texas Rangers coaches]]
+[[Category:Tiburones de La Guaira players]]
+[[Category:American expatriate baseball players in Venezuela]]
+[[Category:USC Trojans baseball players]]
+[[Category:Alaska Goldpanners of Fairbanks players]]
+[[Category:United States International University alumni]]

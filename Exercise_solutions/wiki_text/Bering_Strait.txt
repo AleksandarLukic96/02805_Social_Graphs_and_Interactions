@@ -1,0 +1,113 @@
+{{Short description|Strait between Asia and North America}}
+{{distinguish|Bering Sea}}
+{{Other uses}}
+{{Infobox body of water
+| name               = Bering Strait
+| image              = BeringStrait.png
+| caption            = The Bering Strait
+| image_bathymetry   = US NOAA nautical chart of Bering Strait.png
+| caption_bathymetry = Nautical chart of the Bering Strait
+| location           = [[North Asia]] and [[Northern America]]
+| coords             = {{Coord|65|45|00|N|168|58|37|W|type:waterbody|display=inline,title}}
+| type               =
+| pushpin_map        = Alaska
+| depth              = {{Cvt|30|–|50|m|ft}}
+| max-depth          = {{Cvt|90|m|ft}}
+| inflow             =
+| outflow            =
+| catchment          =
+| basin_countries    = [[Russia]], [[United States]]
+| min_width          = {{Cvt|82|km|mi}}
+| islands            = [[Diomede Islands]]
+}}
+The '''Bering Strait''' ({{lang-ru|Берингов пролив|Beringov proliv}}) is a [[strait]] between the [[Pacific]] and [[Arctic Ocean|Arctic]] oceans, separating the [[Chukchi Peninsula]] of the [[Russian Far East]] from the [[Seward Peninsula]] of [[Alaska]]. The present [[Russia]]-[[United States]] [[Russia–United States maritime boundary|maritime boundary]] is at 168° 58' 37" W [[longitude]], slightly south of the [[Arctic Circle]] at about 65° 40' N [[latitude]]. The Strait is named after [[Vitus Bering]], a Danish-born [[Russian Empire|Russian]] explorer.
+
+The Bering Strait has been the subject of the scientific theory [[Bering strait theory|that humans migrated from Asia to North America across a land bridge]] known as [[Beringia]] when lower ocean levels&nbsp;– a result of glaciers locking up vast amounts of water&nbsp;– exposed a wide stretch of the sea floor,<ref>{{cite book |last=Beck |first=Roger B. |author2=Linda Black |author3=Larry S. Krieger |author4=Phillip C. Naylor |author5=Dahia Ibo Shabaka |title=World History: Patterns of Interaction |publisher=McDougal Littell |year=1999 |location=Evanston, IL |url=https://archive.org/details/mcdougallittellw00beck |url-access=registration |isbn=978-0-395-87274-1}}</ref> both at the present strait and in the shallow sea north and south of it. This view of how [[Paleo-Indians]] entered America has been the dominant one for several decades and continues to be the most accepted one. Numerous successful crossings without the use of a boat have also been recorded since at least the early 20th century.
+
+== Geography and science ==
+[[File:Bering Strait.jpeg|thumb|305x305px|Satellite image of Bering Strait. [[Cape Dezhnev]], Russia, is on the left, the two [[Diomede Islands]] are in the middle, and [[Cape Prince of Wales]], Alaska, is on the right. ]]
+The Bering Strait is about {{convert|82|km|mi|sp=us}} wide at its narrowest point, between [[Cape Dezhnev]], [[Chukchi Peninsula]], [[Russia]], the easternmost point (169° 39' W) of the [[Asia]]n continent and [[Cape Prince of Wales]], [[Alaska]], United States, the westernmost point (168° 05' W) of the [[North American continent]]. Its deepest point is only {{Cvt|90|m}} in depth. It borders the [[Chukchi Sea]] (part of the [[Arctic Ocean]]) to the north and the [[Bering Sea]] to the south.<ref>{{Cite web |last=Woodgate |first=Rebecca |author-link=Rebecca Woodgate |title=CIRCULATION AND OUTFLOWS OF THE CHUKCHI SEA |url=http://psc.apl.washington.edu/HLD/Chukchi/Chukchi.html |url-status=live |access-date=April 27, 2021 |website=psc.apl.washington.edu |archive-url=https://web.archive.org/web/20010225013245/http://psc.apl.washington.edu:80/HLD/Chukchi/Chukchi.html |archive-date=February 25, 2001}}</ref><ref>{{Cite web |last=Dr. Alexander |first=Vera |title=Why is the Bering Sea Important? |url=https://www.beringclimate.noaa.gov/essays_alexander.html |url-status=live |access-date=April 27, 2021 |archive-url=https://web.archive.org/web/20031205211329/http://www.beringclimate.noaa.gov:80/essays_alexander.html |archive-date=December 5, 2003}}</ref> The strait is a unique [[habitat]] sparsely populated by the [[Yupik peoples|Yupik]], [[Inuit]], and [[Chukchi people|Chukchi]] people who have cultural and linguistic ties to each other.<ref>Betsy Baker. Polar Institute. (November 2021). Beyond the Northern Sea Route:Enhancing Russian-United States Cooperation in the Bering Strait Region. Series:Polar Perspectives No. 8. [https://www.wilsoncenter.org/publication/polar-perspectives-no-8-beyond-northern-sea-route-enhancing-russian-united-states Wilson Center website] Retrieved January 10, 2022.</ref>
+
+== Expeditions ==
+[[File:Operational Navigation Chart C-8, 2nd edition.jpg|thumb|400px|[[Defense Mapping Agency]] topographical map of the Bering Strait, 1973]]
+From at least 1562, European geographers thought that there was a [[Strait of Anián]] between Asia and North America. In 1648, [[Semyon Dezhnyov]] probably passed through the strait, but his report did not reach Europe. Danish-born Russian navigator [[Vitus Bering]] entered it in 1728. In 1732, [[Mikhail Gvozdev]] crossed it for the first time, from Asia to America. It was visited in 1778 by the [[third voyage of James Cook]].
+
+American vessels were hunting for [[bowhead whales]] in the strait by 1847.<ref>Willian John Dakin (1938), ''Whalemen Adventures'', Sydney, Angus & Robertson, p.127.</ref>
+
+In March 1913, Captain Max Gottschalk (German) crossed from the east cape of Siberia to [[Shishmaref, Alaska]], on dogsled via Little and Big Diomede islands. He was the first documented modern voyager to cross from Russia to North America without the use of a boat.<ref name="Captain Max Gottschalk">{{cite web |url=https://news.google.com/newspapers?id=52AdAAAAIBAJ&sjid=YVsEAAAAIBAJ&pg=6756,1171017 |title=The Victoria Advocate – Google News Archive Search |website=news.google.com}}</ref>
+
+In 1987, swimmer [[Lynne Cox]] swam a {{convert|4.3|km|mi|adj=on|sp=us}} course between the Diomede Islands from Alaska to the Soviet Union in {{convert|3.3|°C}} water during the last years of the [[Cold War]].<ref name="Watts" /><ref>[https://www.cbsnews.com/news/swimming-to-antarctica-12-02-2003/ "Swimming to Antarctica"], CBS News, September 17, 2003</ref> She was congratulated jointly by [[American President]] [[Ronald Reagan]] and [[Soviet leader]] [[Mikhail Gorbachev]].<ref name="Watts">{{Cite news |last=Watts |first=Simon |date=August 8, 2012 |title=Swim that broke Cold War ice curtain |language=en-GB |work=BBC News |url=https://www.bbc.com/news/magazine-19149829 |access-date=March 8, 2021}}</ref>
+
+In June and July 1989, three independent teams attempted the first modern sea-kayak crossing of the Bering Strait. The groups were: seven Alaskans, who called their effort ''Paddling Into Tomorrow'' (i.e. crossing the international dateline); a four-man British expedition, ''Kayaks Across the Bering Strait''; and a team of Californians in a three-person [[Aleutian kayak|baidarka]], led by Jim Noyes (who launched his ambitious expedition as a paraplegic). Accompanying the Californians was a film crew in a umiak, a walrus-skin boat traditional to the region; they were filming the 1991 documentary ''Curtain of Ice'', directed by John Armstrong.<ref>{{Cite web |url=https://www.upi.com/Archives/1989/06/30/Soviet-kayakers-cross-Bering-Strait/1297615182400/ |title=Soviet kayakers cross Bering Strait |website=UPI}}</ref><ref>{{Cite web |url=http://www.imdb.com/title/tt11146638/ |title=Curtain of Ice |via=www.imdb.com}}</ref>
+
+In March 2006, Briton [[Karl Bushby]] and French-American adventurer [[Dimitri Kieffer]] crossed the strait on foot, walking across a frozen {{convert|90|km|mi|adj=on|sp=us}} section in 15 days.<ref>{{cite news |url=http://news.bbc.co.uk/1/hi/england/humber/4872348.stm |title=Epic explorer crosses frozen sea |work=BBC News |date=April 3, 2006 |access-date=January 13, 2012}}</ref> They were soon arrested for not entering Russia through a regular port of entry.<ref>{{cite news |url=http://news.bbc.co.uk/2/hi/uk_news/england/humber/4876076.stm |title=Epic explorer detained in Russia |work=BBC News |date=April 4, 2006 |access-date=January 13, 2012}}</ref>
+
+August 2008 marked the first crossing of the Bering Strait using an amphibious road-going vehicle. The specially modified [[Land Rover Defender|Land Rover Defender 110]] was driven by Steve Burgess and Dan Evans across the straits on its second attempt following the interruption of the first by bad weather.<ref>{{cite web |url=http://www.capetocape.org.uk/ |title=Cape to Cape Expedition |access-date=January 13, 2012}}</ref>
+
+In February 2012, a Korean team led by [[Hong Sung-Taek]] crossed the straits on foot in six days. They started from Chukotka Peninsula, the east coast of Russia on February 23 and arrived in Wales, the western coastal town in Alaska on February 29.<ref>{{cite web |url=http://www.koreaherald.com/view.php?ud=20120301000341 |title=Korean team crosses Bering Strait |author=The Korea Herald |work=koreaherald.com |date=March 2012}}</ref>
+
+In July 2012, six adventurers associated with "Dangerous Waters", a reality adventure show under production, made the crossing on [[Personal water craft|Sea-Doos]] but were arrested and permitted to return to Alaska on their Sea-Doos after being briefly detained in [[Lavrentiya]], the administrative center of the [[Chukotsky District]]. They were treated well and given a tour of the village's museum, but not permitted to continue south along the Pacific coast. The men had visas but the western coast of the Bering Strait is a [[Border Security Zone of Russia|closed military zone]].<ref name=NYT71212 />
+
+Between August 4 and 10 (US time), 2013, a team of 65 swimmers from 17 countries performed a relay swim across the Bering Strait, the first such swim in history. They swam from Cape Dezhnev, Russia, to [[Cape Prince of Wales]], United States (roughly {{convert|110|km|sp=us}}, due to the current).<ref>{{cite web |url=http://www.itar-tass.com/c20/836692.html |title=ТАСС: Спорт – На Аляске завершилась международная эстафета "моржей", переплывших Берингов пролив |work=ТАСС}}</ref><ref>{{cite web |url=https://www.facebook.com/BeringStraitSwim |title=Bering Strait Swim – Russia to America |work=Facebook}}</ref> They had direct support from the Russian Navy, using one of its ships, and assistance with permission.
+
+== Proposed crossing ==
+{{Main|Bering Strait crossing|}}
+
+A physical link between Asia and North America via the Bering Strait nearly became a reality in 1864 when a [[Russian-American telegraph]] company began preparations for an overland telegraph line connecting Europe and America via the east. It was abandoned when the undersea [[Atlantic Cable]] proved successful.<ref>{{Cite journal |last=Vevier |first=Charles |date=1959 |title=The Collins Overland Line and American Continentalism |journal=Pacific Historical Review |volume=3 |issue=3 |pages=237–253 |doi=10.2307/3636469 |jstor=3636469}}</ref>
+
+A further proposal for a bridge-and-tunnel link from eastern Russia to Alaska was made by French engineer [[Baron Loicq de Lobel]] in 1906. Czar Nicholas II of Russia issued an order authorising a Franco-American syndicate represented by de Lobel to begin work on the Trans-Siberian Alaska railroad project, but no physical work ever commenced.<ref>{{cite web |url=http://cdnc.ucr.edu/cgi-bin/cdnc?a=d&d=SFC19060902.2.146.2 |title=San Francisco to St Petersburg by Rail! If the Tunnel is driven under Bering Strait will Orient meet Occident with Smile – or with Sword? |access-date=April 23, 2016 |date=September 2, 1906 |publisher=San Francisco Call}}</ref><ref>{{cite book |url=https://archive.org/stream/cihm_15518#page/n5/mode/2u |title=Thinking Big: Roads and Railroads to Siberia. |publisher=InterBering LLC |access-date=April 23, 2016 |year=1899 |isbn=9780665155185}}</ref><ref>{{cite book |url=https://archive.org/stream/cihm_15518#page/n5/mode/2u |title=Le Klondyke, l'Alaska, le Yukon et les Iles Aléoutienne |access-date=April 23, 2016 |author1=Loicq de Lobel |date=August 2, 1906 |publisher=Société Française d'Editions d'Art |isbn=9780665155185}}</ref><ref>{{cite news |url=https://timesmachine.nytimes.com/timesmachine/1906/08/02/120281773.pdf |title=FOR BERING STRAIT BRIDGE |access-date=April 23, 2016 |date=August 2, 1906 |newspaper=New York Times}}</ref><ref>{{cite book |title=The Bering Strait Crossing: A 21st Century Frontier Between East and West |author1=James A. Oliver |date=2006}}</ref>
+
+Suggestions have been made to construct a [[Bering Strait bridge]] between Alaska and Siberia. Despite the unprecedented engineering, political, and financial challenges, Russia green-lit a US$65-billion [[TKM-World Link]] tunnel project in August 2011. If completed, the {{convert|103|km|adj=on|||sp=us}} tunnel would be the world's longest.<ref>{{cite news |newspaper=[[The Sunday Times]] |last=Halpin |first=Tony |date=August 20, 2011 |title=Russia plans $65bn tunnel to America}}</ref> China considered construction of a "China-Russia-Canada-America" railroad line that would include construction of a {{convert|200|km|mi|adj=mid|-long|sp=us}} underwater tunnel that would cross the Bering Strait.<ref>{{cite news |newspaper=[[The Washington Post]] |last=Tharoor |first=Ishaan |date=May 9, 2014 |title=China may build an undersea train to America |url=https://www.washingtonpost.com/blogs/worldviews/wp/2014/05/09/china-may-build-an-undersea-train-to-america/ |access-date=May 14, 2014}}</ref>
+
+== Proposed dam ==
+In 1956, the Soviet Union proposed to the US a joint bi-national project to warm the Arctic Ocean and melt some of the ice cap. As designed by Petr Borisov, the Soviet project called for a {{convert|90|km|mi|sp=us|adj=mid|-wide}} dam across the Bering Strait. It would block the cold Pacific current from entering the Arctic. By pumping low-salinity cold surface water across the dam to the Pacific, warmer and higher salinity sea water from the Atlantic Ocean would be introduced into the Arctic Ocean.<ref name="ley196106">{{Cite magazine |last=Ley |first=Willy |date=June 1961 |title=The Strait Named After Vitus Bering |department=For Your Information |url=https://archive.org/stream/Galaxy_v19n05_1961-06_modified#page/n18/mode/1up |magazine=Galaxy Science Fiction |pages=37–51}}</ref><ref>{{cite web |url=https://gizmodo.com/5680669/thawing-the-arctic---soviet-russias-cold-war-war-on-cold |title=How the USSR Tried to Melt the Arctic |first=James Rodger |last=Fleming |date=November 11, 2010}}</ref><ref>{{cite web |url=https://www.vice.com/read/the-soviet-scientist-who-dreamed-of-melting-the-arctic-with-a-55-mile-dam |title=The Soviet Scientist Who Dreamed of Melting the Arctic with a 55-Mile-Long Dam |date=April 25, 2013}}</ref> However, citing national security concerns, the CIA and FBI experts opposed the Soviet plan by arguing that while the plan was feasible, it would compromise [[NORAD]] and thus the dam could be built at only an immense cost.<ref>[https://books.google.com/books?id=QuEDAAAAMBAJ&pg=PA135 "Ocean Dams Would Thaw North"] ''Popular Mechanics'', June 1956, p. 135.</ref> Soviet scientist D. A. Drogaytsev also opposed the idea, stating that the sea north of the dam and north-flowing rivers in Siberia would become unnavigable year round, and the [[Gobi Desert|Gobi]] and other deserts would be extended to the northern Siberia coastline.{{r|ley196106}}
+
+American [[Charles P. Steinmetz]] (1865–1923) earlier proposed to widen the Bering Strait by removing [[St. Lawrence Island]] and parts of [[Seward Peninsula|Seward]] and [[Chukotski Peninsula]]s. A strait {{convert|200|mi|sp=us|order=flip|}} wide would let the [[Japan Current]] melt the Arctic Ocean.{{r|ley196106}}
+
+In the 21st century, a {{convert|300|km|adj=on|sp=us|}} dam has also been proposed. However, the aim of the proposal is to preserve the Arctic ice cap against global warming.<ref>{{cite web |url=http://www.cleverclimate.org/ |title=Diomede Crossroads: Saving the Arctic sea ice? Thoughts on plausibility}}</ref>
+
+== "Ice Curtain" border ==
+[[Image:Diomede Islands Bering Sea Jul 2006.jpg|thumb|400px|right|Little Diomede Island (US, left) and Big Diomede Island (Russia, right)]]
+
+During the [[Cold War]], the Bering Strait marked the border between the [[Soviet Union]] and the [[United States]]. The [[Diomede Islands]]—[[Big Diomede]] (Russia) and [[Little Diomede]] (US)—are only {{Cvt|3.8|km}} apart. Traditionally, the indigenous people in the area had frequently crossed the border back and forth for "routine visits, seasonal festivals and subsistence trade", but were prevented from doing so during the Cold War.<ref>[http://www.dced.state.ak.us/oed/student_info/learn/russianheritage.htm State of Alaska website] {{webarchive |url=https://web.archive.org/web/20090831063131/http://www.dced.state.ak.us/oed/student_info/learn/russianheritage.htm |date=August 31, 2009 }}</ref> The border became known as the "Ice Curtain".<ref>[https://www.nytimes.com/1988/10/23/magazine/lifting-the-ice-curtain.html "Lifting the Ice Curtain"], Peter A. Iseman, ''The New York Times'', October 23, 1988</ref><ref>{{cite news |last1=Borger |first1=Julian |title=Two Russians flee Ukraine draft by crossing Bering Sea by boat to Alaska |url=https://www.theguardian.com/us-news/2022/oct/06/alaska-two-russians-flee-military-draft |access-date=February 1, 2023 |work=the Guardian |date=October 6, 2022 |language=en}}</ref> It was completely closed, and there was no regular passenger air or boat traffic.
+
+Since 2012, the Russian coast of the Bering Strait has been a [[Border Security Zone of Russia|closed military zone]]. Through organized trips and the use of special permits, it is possible for foreigners to visit. All arrivals must be through an airport or a cruise port, near the Bering Strait only at [[Anadyr (town)|Anadyr]] or [[Provideniya]]. Unauthorized travelers who arrive on shore after crossing the strait, even those with visas, may be arrested, imprisoned briefly, fined, deported and banned from future visas.<ref name=NYT71212>{{cite news |title=Journey by Sea Takes Awkward Turn in Russia |url=https://www.nytimes.com/2012/07/12/world/europe/team-returns-to-alaska-after-4-day-detention-in-russia.html?_r=0 |access-date=July 12, 2012 |newspaper=The New York Times |date=July 11, 2012 |author=Andrew Roth}}</ref>
+
+==See also==
+* [[Bering Strait crossing]]
+* [[List of Russian explorers]]
+* [[Old Bering Sea]]
+* [[Strait of Anián]]
+
+== References ==
+{{reflist|30em}}
+
+==Further reading==
+* [[Bathsheba Demuth|Demuth, Bathsheba]] (2019) ''[[Floating Coast: An Environmental History of the Bering Strait]]''. New York: W. W. Norton & Company. {{ISBN|978-0-393-35832-2}}.
+{{refbegin}}
+* {{cite book |url=http://www.beringstraitcrossing.com |title=The Bering Strait Crossing |last=Oliver |first=James A. |isbn=978-0-9546995-6-7 |publisher=Information Architects |date=2007 |access-date=October 14, 2019 |archive-url=https://web.archive.org/web/20190713154643/http://www.beringstraitcrossing.com/ |archive-date=July 13, 2019 |url-status=dead}}
+* {{cite news |publisher=Daily Tech |url=http://www.dailytech.com/article.aspx?newsid=7022 |date=April 24, 2007 |access-date=January 11, 2008 |title=Russia Plans World's Longest Undersea Tunnel |archive-url=https://web.archive.org/web/20080424054006/http://www.dailytech.com/article.aspx?newsid=7022 |archive-date=April 24, 2008 |url-status=dead}}
+* {{Cite EB1911|wstitle=Bering Island, Sea and Strait |volume=3 |pages=775–776}}
+{{refend}}
+
+== External links ==
+{{Commons category|Bering Strait}}
+* [https://www.pbs.org/wgbh/nova/extremeice/thinice.html PBS Video of St. Lawrence Island in Bering Strait]
+
+{{List of seas}}
+{{Regions of Asia}}
+{{Regions of North America}}
+{{Authority control}}
+
+[[Category:Bering Strait| ]]
+[[Category:Bodies of water of the Bering Sea|Strait]]
+[[Category:Geography of Northeast Asia]]
+[[Category:Geography of North America]]
+[[Category:International straits]]
+[[Category:Bodies of water of Chukotka Autonomous Okrug]]
+[[Category:Bodies of water of the Chukchi Sea]]
+[[Category:Russia–United States border]]
+[[Category:Straits of Alaska]]
+[[Category:Straits of Russia]]
+[[Category:Straits of the Arctic Ocean]]
+[[Category:Straits of the Pacific Ocean]]

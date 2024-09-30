@@ -1,0 +1,107 @@
+{{short description|American singer-songwriter}}
+
+'''Jason Eady''' is an American singer and guitarist, originally from Mississippi but now based in Texas. He is affiliated with the [[Texas country music]] scene,<ref>[http://www.stltoday.com/entertainment/music/call-it-texas-country-or-americana-but-jason-eady-s/article_eefe297e-e391-5326-a68d-283adb619564.html Call it Texas country or Americana, but Jason Eady's a singer to hear. How about for free in Belleville?]. ''[[St. Louis Post-Dispatch]]'', June 28, 2017.</ref> particularly through his evocation of an "old school [[honky-tonk]]" style of songwriting.<ref>[http://www.dallasobserver.com/music/the-50-best-red-dirt-texas-country-songs-7055741 The 50 Best Red Dirt Texas Country Songs]. ''[[Dallas Observer]]'', February 16, 2015.</ref>
+
+==Biography==
+Jason Eady grew up in [[Jackson, Mississippi]],<ref name=Jambase>[http://www.jambase.com/Artists/54526/Jason-Eady/Bio "Jason Eady: Bio,"] Jambase, www.jambase.com/</ref> and has been influenced by [[bluegrass music|bluegrass]], [[Don Williams]] and [[Willie Nelson]].<ref name=Parton>Chris Parton, [http://www.cmtedge.com/2013/11/22/jason-eadys-classic-country-shines-in-daylight-dark/ "Jason Eady’s Classic Country Shines in Daylight & Dark,"] CMT Edge, Nov. 22, 2013.</ref> He is married to, and frequently collaborates with, Texas singer-songwriter [[Courtney Patton]].<ref>{{cite web|url=http://radiotexaslive.com/sunday-supper-club-with-jason-eady-courtney-patton/|title=Sunday Supper Club with Jason Eady + Courtney Patton|website=Radio Texas, Live!}}</ref>
+
+Eady collaborated with [[Kevin Welch]] on his last three albums, ''AM Country Heaven'' from 2012, ''Daylight and Dark'' from 2014, and his self-titled album from 2017.<ref name=Parton /> ''AM Country Heaven'' debuted at number 40 on the ''[[Billboard (magazine)|Billboard]]'' [[Top Country Albums]] chart and number 9 on the [[Top Heatseekers]] chart.<ref>{{cite news|last1=Dauphin|first1=Chuck|title=Jason Eady Makes Top 40 Debut on Country Charts|url=http://www.billboard.com/articles/columns/the-615/491009/jason-eady-makes-top-40-debut-on-country-charts|accessdate=February 10, 2015|work=[[Billboard (magazine)|Billboard]]|date=April 24, 2012}}</ref>
+
+''Highway Prayer: A Tribute to Adam Carroll'', released on Austin-based Eight 30 Records in late 2016, featured Eady's take on Carroll's "Errol's Song." Additionally, Eight 30 Records' ''Floater: A Tribute to the Tributes to Gary Floater'' featured Eady's version of "Stand Back Boys I'm Fixing to Care.<ref>{{cite web|url=http://eight30records.com/|title=Eight 30 Records|website=Eight 30 Records|accessdate=24 April 2018}}</ref>
+
+==Reviews==
+[[AllMusic]] gave ''Daylight and Dark'' a 4 star review and said, "In terms of quality, it belongs on a shelf next to [[Dwight Yoakam]]'s ''[[Buenas Noches from a Lonely Room]]'', [[Joe Ely]]'s ''[[Letter to Laredo]]'', and yes, even [[Willie Nelson]]'s ''[[Phases and Stages]]''".<ref>{{cite web|url=http://www.allmusic.com/album/daylight-dark-mw0002602887|title=Daylight/Dark - Jason Eady - Songs, Reviews, Credits - AllMusic|website=AllMusic}}</ref> [[NPR]]'s [[Ken Tucker]] contrasted Eady's traditionalism with [[Jon Pardi]] and said, "Ultimately, both Pardi and Eady have to confront the dilemma of all young country musicians: how to navigate the pop current that keeps country music commercially viable while connecting to a past that fewer and fewer listeners are aware of."<ref>{{cite web|url=https://www.npr.org/2014/01/29/267798914/dont-pigeonhole-me-bro-new-country-albums-on-the-borderline|title=Don't Pigeonhole Me, Bro: New Country Albums On The Borderline|publisher=}}</ref>
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;" 
+|-
+! rowspan="2" style="width:14em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="2"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! width="45"| [[Billboard charts|US Country]]<br /><ref>{{cite web|url=http://www.billboard.com/biz/search/charts?f%5B0%5D=ts_chart_artistname%3AJason%20Eady&f%5B1%5D=itm_field_chart_id%3A320&f%5B2%5D=ss_bb_type%3Achart_item&type=2&artist=Jason%20Eady|title=Jason Eady Album & Song Chart History - Top Country Albums|work=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=February 10, 2015}}</ref>
+! width="45"| [[Top Heatseekers|US Heat]]<br /><ref>{{cite web|url=http://www.billboard.com/biz/search/charts?f%5B0%5D=ts_chart_artistname%3AJason%20Eady&f%5B1%5D=itm_field_chart_id%3A324&f%5B2%5D=ss_bb_type%3Achart_item&type=2&artist=Jason%20Eady|title=Jason Eady Album & Song Chart History - Heatseekers Albums|work=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=February 10, 2015}}</ref>
+|-
+! scope="row"| ''From Underneath the Old''
+|
+* Release date: October 13, 2005
+* Label: self-released
+| —
+| —
+|-
+! scope="row"| ''Wild-Eyed Serenade''
+|
+* Release date: August 21, 2007
+* Label: self-released
+| —
+| —
+|-
+! scope="row"| ''When the Money's All Gone''
+|
+* Release date: September 8, 2009
+* Label: Smith Music Group
+| —
+| —
+|-
+! scope="row"| ''AM Country Heaven''
+|
+* Release date: April 10, 2012
+* Label: Underground Sound
+| 40
+| 9
+|-
+! scope="row"| ''Daylight/Dark''
+|
+* Release date: January 21, 2014
+* Label: Old Guitar Records
+| 45
+| 12
+|-
+! scope="row"| ''Something Together'' (with Courtney Patton)
+|
+* Release date: December 6, 2016
+* Label: Mountain Valley Music
+| —
+| 18
+|-
+! scope="row"| ''Jason Eady''
+|
+* Release date: April 21, 2017
+* Label: Old Guitar Records
+| —
+| 18
+|-
+! scope="row"| ''I Travel On''
+|
+* Release date: August 10, 2018
+* Label: Old Guitar Records
+| —
+| 16
+|-
+! scope="row" | ''To the Passage of Time''
+| 
+* Release date: August 27, 2021<ref>{{Cite web |last=Crone, Madeline |date=September 3, 2021 |title=Jason Eady's Candid Response: ''To the Passage of Time'' |url=https://americansongwriter.com/jason-eadys-candid-response-to-the-passage-of-time/ |access-date=September 14, 2021 |website=American Songwriter}}</ref>
+* Label: Old Guitar Records
+| —
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.jasoneady.com/ Jason Eady official website]
+
+{{authority control}}
+
+{{DEFAULTSORT:Eady, Jason}}
+[[Category:Living people]]
+[[Category:Musicians from Jackson, Mississippi]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Singer-songwriters from Mississippi]]
+[[Category:Country musicians from Mississippi]]
+[[Category:Year of birth missing (living people)]]

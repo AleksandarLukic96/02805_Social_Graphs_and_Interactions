@@ -1,0 +1,148 @@
+{{short description|American singer-songwriter}}
+{{For|the British photographer|Antony Armstrong-Jones, 1st Earl of Snowdon}}
+{{Refimprove|date=July 2024}}
+{{Infobox musical artist
+| name            = Anthony Armstrong Jones
+| image           = Anthony Armstrong Jones.png
+| caption         = Jones in 1969
+| image_size      = 250px
+| birth_name      = Ronnie Jones
+| alias           =
+| birth_date      = {{Birth date|1949|06|02}}
+| death_date      = {{Death date and age|1996|06|16|1949|06|02}}
+| origin          = [[Ada, Oklahoma]], United States
+| instrument      = [[Singing|Vocals]]
+| genre           = [[Country music|Country]]
+| occupation      = [[Singing|Singer]]
+| years_active    = 1968–1986
+| label           = [[Chart Records|Chart]], [[Epic Records|Epic]], Homa, Air
+| website         = 
+}}
+
+'''Ronnie Jones''' (June 2, 1949 – June 16, 1996) was an American [[country music]] singer known professionally as '''Anthony Armstrong Jones''', a stage name that he took from the name of the British photographer who married [[Princess Margaret, Countess of Snowdon]]. A former [[Professional golfer|professional golf]]er, Jones recorded four albums for [[Chart Records]] in that timespan, in addition to charting six times in the Top 40 on the ''[[Billboard (magazine)|Billboard]]'' country singles charts. His debut single was a No.&nbsp;22-peaking [[cover version|cover]] of "[[Proud Mary]]," originally by [[Creedence Clearwater Revival]], which served as the title track of his first album.  Its second single was "[[New Orleans (Gary U.S. Bonds song)|New Orleans]]," originally recorded by [[Gary U. S. Bonds]].
+
+Jones' second album, ''Take a Letter Maria'', produced his biggest hit in its No.&nbsp;8 title track, a cover of the pop hit for [[R. B. Greaves]]. Later that year, he released ''Sugar in the Flowers'', which produced singles in "Lead Me Not into Temptation" and its title track. Finishing off his single releases that year was a rendition of [[Neil Diamond]]'s "[[Sweet Caroline]]," which Jones recorded on ''Take a Letter Maria''.
+
+Jones later moved to [[Epic Records]], where he charted three singles in 1973, including a No.&nbsp;33 cover of [[Jim Croce]]'s "[[Bad, Bad Leroy Brown]]". He recorded for Homa Records in the 1970s but did not have any chart success, and charted for the last time in 1986 with the No.&nbsp;74 "Those Eyes" on the Air label. After retiring from the music business, Jones founded a club called Proud Mary in [[Shreveport, Louisiana]]. He died on June 16, 1996.
+
+==Discography==
+
+===Albums===
+{| class="wikitable" style="text-align:left;"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Album
+! colspan="1"| Chart positions
+|- style="font-size:smaller;"
+! width="50"| [[Top Country Albums|US Country]]
+|-
+|1969
+|'''''Proud Mary'''''
+*<small>Released: 1969</small>
+*<small>Label: [[Chart Records]] No.&nbsp;1019</small>
+*<small>Format: [[LP album|LP]]</small>
+|align="center"|44
+|-
+|rowspan=2|1970
+|'''''Take a Letter Maria'''''
+*<small>Released: 1969</small>
+*<small>Label: Chart Records No.&nbsp;1027</small>
+*<small>Format: LP</small>
+|align="center"|42
+|-
+|'''''Sugar in the Flowers'''''
+*<small>Released: 1970</small>
+*<small>Label: Chart Records #CHS-1036</small>
+*<small>Format: LP</small>
+|align="center"|—
+|-
+|1971
+|'''''Greatest Hits'''''
+*<small>Released: 1971</small>
+*<small>Label: Chart Records #CHS-1047</small>
+*<small>Format: LP</small>
+|align="center"|—
+|}
+
+===Singles===
+{| class="wikitable" style="text-align:left;"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="2"| Chart positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="50"| [[Hot Country Songs|US Country]]<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc.|pages=212|isbn=0-89820-177-2}}<!--|accessdate=2009-10-06--></ref>
+! width="50"| CAN Country
+|-
+|rowspan=2|1969
+|"[[Proud Mary]]"
+|align="center"|22
+|align="center"|—
+|rowspan=2|''Proud Mary''
+|-
+|"[[New Orleans (Gary U.S. Bonds song)|New Orleans]]"
+|align="center"|28
+|align="center"|—
+|-
+|rowspan=5|1970
+|"[[Take a Letter Maria]]"
+|align="center"|8
+|align="center"|8
+|''Take a Letter Maria''
+|-
+|"Lead Me Not Into Temptation"
+|align="center"|56
+|align="center"|—
+|rowspan=3|''Sugar in the Flowers''
+|-
+|"One for the Road"<sup>A</sup>
+|align="center"|—
+|align="center"|32
+|-
+|"Sugar in the Flowers"
+|align="center"|38
+|align="center"|38
+|-
+|"[[Sweet Caroline]]"
+|align="center"|40
+|align="center"|35
+|''Take a Letter Maria''
+|-
+|rowspan=3|1973
+|"I'm Right Where I Belong"
+|align="center"|70
+|align="center"|—
+|rowspan=4|singles only
+|-
+|"[[Bad, Bad Leroy Brown]]"
+|align="center"|33
+|align="center"|83
+|-
+|"I've Got Mine"
+|align="center"|69
+|align="center"|—
+|-
+|1986
+|"Those Eyes"
+|align="center"|74
+|align="center"|—
+|}
+*<sup>A</sup>[[B-side]] to "Lead Me Not into Temptation."
+
+==References==
+{{Reflist}}
+*[https://web.archive.org/web/20181021190250/http://www.chartrecords.net/a_a_jones_main.htm Anthony Armstrong Jones] biography at Chart Records.net
+
+{{Authority control}}
+
+{{DEFAULTSORT:Jones, Anthony Armstrong}}
+[[Category:1949 births]]
+[[Category:1996 deaths]]
+[[Category:People from Ada, Oklahoma]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Country musicians from Oklahoma]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:Singer-songwriters from Oklahoma]]
+[[Category:20th-century American male singers]]

@@ -1,0 +1,89 @@
+{{short description|American country music singer (born 1969)}}
+{{Infobox musical artist
+| name             = Nikki Nelson
+| image            = 
+| caption          = 
+| background       = solo_singer
+| birth_name       = 
+| alias            =
+| birth_date       = {{birth date and age|1969|01|03}}
+| birth_place      = [[La Mesa, California|La Mesa]], [[California]] [[United States|U.S.]]
+| death_date       = 
+| instrument       = [[Singing|Vocals]]
+| genre            = [[Country music|Country]]
+| occupation       = Singer
+| years_active     = 1987–present
+| label            = 19th Avenue, [[Columbia Records|Columbia]]
+| past_member_of   = [[Highway 101]]
+| website          = 
+}}
+
+'''Nikki Nelson''' (born January 3, 1969, in La Mesa, California)<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=293|isbn=978-0-89820-177-2}}</ref> is an American country music singer. When she was seven, she and her family moved to [[Topaz Lake, Nevada]].<ref name="whitburn"/> In 1991, she replaced [[Paulette Carlson]] as lead vocalist for the band [[Highway 101]], and their first album together was that year's ''[[Bing Bang Boom]]''. She also sang [[lead vocals]] on the band's next album, 1993's ''[[The New Frontier (album)|The New Frontier]]''.<ref>{{cite book|last=Carlin|first=Richard|title=Country Music: A Biographical Dictionary|url=https://books.google.com/books?id=UWmyUQVUqhQC&q=%22nikki+nelson&pg=PA182|publisher=Taylor & Francis|isbn=0-415-93802-3|pages=182–183|year=2003}}</ref>
+
+Carlson returned to Highway 101 in 1995 for the album ''Reunited'', and Nelson signed a solo recording deal with [[Columbia Records]], Nashville. She released the single "Too Little Too Much" in 1997 and charted at No.&nbsp;62 on the [[Hot Country Songs]] charts.<ref name="whitburn"/> Chrislynn Lee replaced Carlson after the ''Reunited'' album, and remained that band's lead vocalist until 2006, when Nelson rejoined.
+
+==Discography==
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Single
+! colspan="2"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<br/><ref name="whitburn"/>
+! width="45"| [[RPM (magazine)|CAN Country]]<br/><ref>{{cite web|url=http://www.bac-lac.gc.ca/eng/discover/films-videos-sound-recordings/rpm/Pages/list.aspx?OCRText=Nikki+Nelson&ChartEn=Country+Singles&|title=Search results for Nikki Nelson - Country Singles|work=RPM|date=17 July 2013 |access-date=June 24, 2024}}</ref>
+|-
+| 1987
+! scope="row"| "My Heart Cracked (But It Did Not Break)"<ref>{{cite AV media notes|title="My Heart Cracked (But It Did Not Break)"|year=1987|type=7" vinyl single|publisher=19th Avenue|id=NA-1010-A}}</ref>
+| —
+| —
+|-
+| rowspan="2"| 1988
+! scope="row"| "Show Me (I'm from Missouri)"<ref>{{cite AV media notes|title="Show Me (I'm from Missouri)"|year=1987|type=7" vinyl single|publisher=19th Avenue|id=NA-1014-A}}</ref>
+| —
+| —
+|-
+! scope="row"| "Building Back a Bridge"<ref>{{cite magazine|title=Single Reviews|page=91|magazine=[[Billboard (magazine)|Billboard]]|date=October 29, 1988}}</ref>
+| —
+| —
+|-
+| rowspan="2"| 1997
+! scope="row"| "Too Little Too Much"
+| 62
+| 80
+|-
+! scope="row"| "I Don't Know How Not to Love You"<ref>{{cite magazine|title=Reviews & Previews (Singles)|page=80|magazine=Billboard|date=July 5, 1997}}</ref>
+| —
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:20em;"| Video
+! Director
+|-
+| 1997
+! scope="row"| "Too Little Too Much"
+| Jim Hershleder<ref>{{cite magazine|title=Production Notes|page=109|magazine=Billboard|date=March 15, 1997}}</ref>
+|}
+
+==References==
+{{Reflist}}
+
+{{Highway 101}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Nelson, Nikki}}
+[[Category:1969 births]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Columbia Records artists]]
+[[Category:Living people]]
+[[Category:Singer-songwriters from California]]
+[[Category:Highway 101 members]]
+[[Category:Country musicians from California]]
+[[Category:21st-century American women]]

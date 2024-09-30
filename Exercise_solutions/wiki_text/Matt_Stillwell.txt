@@ -1,0 +1,184 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=September 2020}}
+{{BLP sources|date=April 2020}}
+{{Infobox musical artist
+| name              = Matt Stillwell
+| background        = solo singer
+| birth_name        = 
+| origin            = [[Sylva, North Carolina]], United States
+| instrument        = Vocals, Acoustic Guitar
+| genre             = [[Country music|Country]]
+| occupation        = Singer-songwriter
+| years_active      = 2008–present
+| label             = Still 7, Average Joe's Entertainment, 723 Entertainment
+| associated_acts   = 
+| website           = http://www.mattstillwell.com
+}}
+
+'''Matt Stillwell''' (born in [[Sylva, North Carolina]]) is an American [[country music]] artist.  He lives in Knoxville, TN with his wife, Lindsey, and two daughters, Carolina and Ruby.
+
+During college, athletics was Matt's priority, not music. At [[Western Carolina University]], he was an All Conference performer on the Catamount baseball team, playing both infield and outfield.  Touted as a probable major league draft choice during his junior season at WCU, he chose music over baseball.  "I could have chased the dream and went and tried out and played independent ball," he says, "but I thought, 'If I'm going to chase something,' I’d rather it be music." He later returned to [[Western Carolina University]] to be initiated into the North Carolina Omega chapter of [[Sigma Alpha Epsilon]] fraternity in the fall of 2017.
+
+In late 2008, he released his debut single, "Shine", which peaked at number 52 on the ''Billboard'' [[Hot Country Songs]] chart. The single served as the title track to his third album released on September 30, 2008. His fourth album, ''Right on Time'', was released on March 11, 2014.<ref>{{cite web|url=http://theboot.com/matt-stillwell-right-on-time/|title=Matt Stillwell Announces Album Release|website=Theboot.com|date=February 20, 2014}}</ref> The album's first single, "Ignition," peaked at number 52 on the ''Billboard'' Hot Country Songs chart in 2012.  In 2015, Stillwell released "Hey Dad", a song written about the loss of his father.  The song and video have had a major impact especially online.  The updated (2021) version reached #35 on the Billboard Activator Chart and is included on his 2021 album, "Hometown".
+
+Matt found a touring niche during the pandemic with his Hometown House Party Tour. To date, he has traveled over 100k miles across the country playing over 200 intimate concerts for fans from his custom Hometown House Party trailer/stage.  In 2020 he started curating intimate songwriter/storyteller events across the country with top country songwriters, called "Sessions w/ Matt Stillwell".
+
+He has worked closely with the Cal Ripken Sr Foundation's "Badges For Baseball" program and MLB across the country.  In honor of his college coach, Keith LeClair who passed of ALS, Stillwell created the 723 Foundation, and is working with college baseball to further the legacy of Coach LeClair.
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:14em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''The Couch Sessions''
+| 
+* Release date: February 7, 2005
+* Label: [[self-released]]
+|-
+! scope="row"| ''Take It All In''
+| 
+* Release date: June 13, 2006
+* Label: Inside Out Music
+|-
+! scope="row"| ''Shine''
+| 
+* Release date: October 7, 2008
+* Label: Still 7 Records
+|-
+! scope="row"| ''Right on Time''
+| 
+* Release date: March 11, 2014
+* Label: [[Average Joe's Entertainment]]
+|-
+!Stillwell
+|Release date:  June, 2017
+Label:  723 Entertainment
+|-
+!Hometown
+|Release date: July 23, 2021
+Label:  723 Entertainment
+|}
+
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:14em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''At a Glance''
+| 
+* Release date: 2004
+* Label: self-released
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:12em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="60"| [[Hot Country Songs|US Country]]
+|-
+| 2008
+! scope="row"| "Shine"
+| 52
+| align="left" rowspan="5"| ''Shine''
+|-
+| rowspan="2"| 2009
+! scope="row"| "Rain"
+| —
+|-
+! scope="row"| "Sweet Sun Angel"
+| align="center"| 58
+|-
+| rowspan="2"| 2010
+! scope="row"| "Dirt Road Dancing"
+| —
+|-
+! scope="row"| "Drunk Enough"
+| —
+|-
+| rowspan="2"| 2012
+! scope="row"| "Ignition"
+| 52
+| align="left" rowspan="2"| ''Right on Time''
+|-
+! scope="row"| "Cold Beer"
+| —
+|-
+|2015
+!"Hey Dad"
+|_
+|Stillwell
+|-
+|2017
+!"Something We Can Dance To"
+|_
+|Stillwell
+|-
+|2021
+!"Hey Dad (2021)"
+|35
+|Hometown
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;"| Video
+! Director
+|-
+| 2008
+! scope="row"| "Shine"
+| rowspan="2"| Flick Wiltshire
+|-
+| 2009
+! scope="row"| "Sweet Sun Angel"
+|-
+| 2010
+! scope="row"| "Dirt Road Dancing"
+| rowspan="2"| Potsy Ponciroli
+|-
+| 2012
+! scope="row"| "Ignition"
+|-
+| 2015
+! scope="row"| "Hey Dad"<ref>{{cite web|url=http://www.cmt.com/videos/matt-stillwell/1271790/hey-dad.jhtml|archive-url=https://web.archive.org/web/20160314093127/http://www.cmt.com/videos/matt-stillwell/1271790/hey-dad.jhtml|url-status=dead|archive-date=March 14, 2016|title=CMT : Videos : Matt Stillwell : Hey Dad|publisher=[[Country Music Television]]|accessdate=February 2, 2016}}</ref>
+| rowspan="2"| Amanda Young
+|-
+| 2018
+! scope="row"| "Hot Minute"
+|-
+|2021
+!"Outta State Plates"
+|Lexy Kadey
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20080928185100/http://www.cmt.com/artists/az/stillwell__matt/bio.jhtml Biography] at [[Country Music Television|CMT]]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Stillwell, Matt}}
+[[Category:American country singer-songwriters]]
+[[Category:Singer-songwriters from North Carolina]]
+[[Category:Living people]]
+[[Category:People from Sylva, North Carolina]]
+[[Category:Average Joes Entertainment artists]]
+[[Category:Country musicians from North Carolina]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Sigma Alpha Epsilon members]]
+
+{{US-singer-stub}}

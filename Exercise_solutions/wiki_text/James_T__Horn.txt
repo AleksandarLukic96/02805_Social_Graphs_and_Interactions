@@ -1,0 +1,79 @@
+{{short description|American country music singer (born 1966)}}
+{{Use mdy dates|date=April 2020}}
+{{Infobox musical artist
+| name            = James T. Horn
+| image           =
+| image_size      =
+| birth_name      =
+| alias           =
+| birth_date      = {{birth date and age|1966|08|29}}
+| birth_place     = [[Foreman, Arkansas]]
+| instrument      = Guitar
+| genre           = [[Country music|Country]]
+| occupation      = Singer
+| years_active    = 1996–1997
+| label           = [[Curb Records|Curb]]/[[Universal Records|Universal]]
+| associated_acts =
+| website         = 
+}}
+
+'''James T. Horn''' (born August 29, 1966 in [[Foreman, Arkansas]]<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|page=193|year=2008|isbn=978-0-89820-177-2}}</ref>) is an American [[country music]] singer. Horn recorded an album for [[Curb Records|Curb]]/[[Universal Records|Universal]] in 1997 produced by Wynn Jackson and Steve Keller.<ref name="billboard">{{cite news|last=Flippo|first=Chet|title=Country Dance Club Industry Finds Healthy Balance; Tubb Shop Turns 50|url=https://books.google.com/books?id=IQ8EAAAAMBAJ&pg=PA28|accessdate=April 11, 2015|newspaper=[[Billboard (magazine)|Billboard]]|date=May 3, 1997}}</ref> A dance mix of the song "If My Heart Had an Ass (I'd Kick It)" was released to clubs to introduce him.<ref name="billboard" />
+
+Horn's first radio single, "If Dreams Have Wings", was released on October 29, 1996.<ref>{{cite web|title=If Dreams Have Wings – James T. Horn|url={{AllMusic|class=album|id=mw0000416904|pure_url=yes}}|publisher=[[AllMusic]]|accessdate=April 11, 2015}}</ref> Deborah Evans Price of ''[[Billboard (magazine)|Billboard]]'' gave the song a favorable review, writing that "Horn has a very traditional voice, and his catch-in-the-throat delivery perfectly suits the heartfelt lyric."<ref>{{cite news|last=Price|first=Deborah Evans|title=Reviews & Previews|url=https://books.google.com/books?id=vwkEAAAAMBAJ&pg=PA86|accessdate=April 11, 2015|newspaper=[[Billboard (magazine)|Billboard]]|date=September 28, 1996}}</ref> His second single, "Geronimo", was released on September 23, 1997.<ref>{{cite web|title=Geronimo – James T. Horn|url={{AllMusic|class=album|id=mw0000416902|pure_url=yes}}|publisher=[[AllMusic]]|accessdate=April 11, 2015}}</ref> A music video for the song was directed by Steven R. Monroe and aired on [[CMT (U.S. TV channel)|CMT]].<ref>{{cite news|title=Production Notes|url=https://books.google.com/books?id=rg0EAAAAMBAJ&pg=RA1-PA76&dq=%22james+t.+horn%22+%22Geronimo%22|accessdate=April 11, 2015|newspaper=[[Billboard (magazine)|Billboard]]|date=January 17, 1998}}</ref> Its B-side, "Texas Diary", peaked at number 72 on the ''Billboard'' [[Hot Country Songs|Hot Country Singles & Tracks]] chart.<ref name="whitburn" />
+
+In 2016 he records the single Glory Bound Train is chosen as song in a TV commercial for the company Multiópticas dedicated to optics and eyewear sale in Spain
+
+==Discography==
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! Peak positions
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]<br /><ref name="whitburn" />
+|-
+| 1996
+! scope="row"| "If Dreams Have Wings"
+| —
+|-
+| rowspan="2"| 1997
+! scope="row"| "Geronimo"
+| —
+|-
+! scope="row"| "Texas Diary"
+| 72
+|-
+| 2016
+! scope="row"| "Glory Bound Train"
+| —
+|-
+| colspan="3" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:14em;"| Video
+! Director
+|-
+| 1997
+! scope="row"| "Geronimo"
+| Steven R. Monroe
+|-
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Horn, James T.}}
+[[Category:1966 births]]
+[[Category:American country singer-songwriters]]
+[[Category:Country musicians from Arkansas]]
+[[Category:Curb Records artists]]
+[[Category:Living people]]
+[[Category:People from Little River County, Arkansas]]
+[[Category:Singer-songwriters from Arkansas]]

@@ -1,0 +1,159 @@
+{{Use dmy dates|date=September 2020}}
+{{Infobox musical artist
+| name                = Shirley Myers
+| image                 = 
+| image_size            = 
+| background          = solo_singer
+| origin              = [[New Brunswick]], Canada
+| instrument          = 
+| genre               = [[Country music|Country]]
+| occupation          = Singer-songwriter
+| years_active        = 1997–present
+| label               = [[Stony Plain Records|Stony Plain]]
+| website             = [http://www.shirleymyers.com/ www.shirleymyers.com]
+}}
+
+'''Shirley Myers''' is a Canadian [[country music]] singer-songwriter. Signed to [[Stony Plain Records]] in the 1990s, she released her debut album, ''[[Let It Rain (Shirley Myers album)|Let It Rain]]'', in 1997. The first single, the title track, reached the top five of the ''[[RPM (magazine)|RPM]]'' Country Singles chart in Canada. Myers was nominated for a [[Juno Award]] for [[Juno Award for Country Recording of the Year|Best Country Female Vocalist]] in 1998.
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:14em;"| Title
+! rowspan="2" style="width:18em;"| Details
+! Peak positions
+|- style="font-size:smaller;"
+! width="65"| [[RPM (magazine)|CAN Country]]<br/><ref>{{cite web|url=http://www.bac-lac.gc.ca/eng/discover/films-videos-sound-recordings/rpm/Pages/list.aspx?OCRText=Shirley+Myers&ChartEn=Country+Albums%2fCDs&|title=Search results for Shirley Myers - Country Albums/CDs|work=RPM|date=17 July 2013 |access-date=February 27, 2023}}</ref>
+|-
+! scope="row"| ''[[Let It Rain (Shirley Myers album)|Let It Rain]]''
+| 
+* Release date: October 1997
+* Label: [[Stony Plain Records]]
+| —
+|-
+! scope="row"| ''[[There Will Come a Day (album)|There Will Come a Day]]''
+| 
+* Release date: 8 June 1999
+* Label: Stony Plain Records
+| 29
+|-
+! scope="row"| ''A Little Time for Me''
+| 
+* Release date: September 2003
+* Label: Sextant Records
+| ×
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart<br/>"×" indicates that no relevant chart existed or was archived
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[RPM (magazine)|CAN Country]]<br/><ref name="RPM">{{cite web|url=http://www.bac-lac.gc.ca/eng/discover/films-videos-sound-recordings/rpm/Pages/list.aspx?OCRText=Shirley+Myers&ChartEn=Country+Singles&|title=Search results for Shirley Myers - Country Singles|work=RPM|date=17 July 2013 |access-date=February 27, 2023}}</ref>
+|- 
+| rowspan="2"| 1997
+! scope="row"| "[[Let It Rain (Shirley Myers song)|Let It Rain]]"
+| 3
+| rowspan="4"| ''Let It Rain''
+|-
+! scope="row"| "[[Haven't You Heard (Shirley Myers song)|Haven't You Heard]]"
+| 9
+|-
+| rowspan="2"| 1998
+! scope="row"| "[[One Last Step]]"
+| 9
+|-
+! scope="row"| "Fallin' Out of Love"
+| 44
+|-
+| rowspan="2"| 1999
+! scope="row"| "[[Forever in Love (Shirley Myers song)|Forever in Love]]" {{small|(with [[Duane Steele]])}}
+| 9
+| rowspan="3"| ''There Will Come a Day''
+|-
+! scope="row"| "[[You Better Be Sure]]"
+| 10
+|-
+| rowspan="3"| 2000
+! scope="row"| "[[I'm Missin' You]]"
+| 10
+|-
+! scope="row"| "No One" {{small|(with [[Chad Brock]])}}
+| 35
+| ''New Country 7''
+|-
+! scope="row"| "Real True Love"
+| 34{{efn|"Real True Love" reached number 34 when ''[[RPM (magazine)|RPM]]'' ceased publication after the November 6, 2000 issue.<ref name="RPM"/>}}
+| rowspan="3"| ''There Will Come a Day''
+|-
+| rowspan="2"| 2001
+! scope="row"| "Do You Love Me"
+| ×
+|-
+! scope="row"| "I Give Up"
+| ×
+|-
+| 2002
+! scope="row"| "How Do I Get Out of This Dream"
+| ×
+| {{n/a|Non-album singles}}
+|-
+| rowspan="2"| 2003
+! scope="row"| "A Little Time for Me"
+| ×
+| rowspan="2"| ''A Little Time for Me''
+|-
+! scope="row"| "No Worries"
+| ×
+|-
+| colspan="5" style="font-size:8pt"| "×" indicates that no relevant chart existed or was archived
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:18em;"| Video
+|-
+| 1997
+! scope="row"| "Let It Rain"
+|-
+| rowspan="2"| 1998
+! scope="row"| "One Last Step"
+|-
+! scope="row"| "Fallin' Out of Love"
+|-
+| 1999
+! scope="row"| "You Better Be Sure"
+|-
+| 2000
+! scope="row"| "I'm Missin' You"
+|-
+| 2002
+! scope="row"| "How Do I Get Out of This Dream"
+|}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+{{Shirley Myers}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Myers, Shirley}}
+[[Category:Canadian women singer-songwriters]]
+[[Category:Canadian singer-songwriters]]
+[[Category:Canadian women country singers]]
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]
+
+
+{{Canada-singer-songwriter-stub}}

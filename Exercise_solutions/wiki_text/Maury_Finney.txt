@@ -1,0 +1,128 @@
+{{short description|American songwriter}}
+
+{{Infobox musical artist
+| name            = Maury Finney
+| image           =
+| alt             =
+| caption         =
+| image_size      =
+| origin          = [[Humboldt, Minnesota]], U.S.
+| instrument      = [[Saxophone]]
+| genre           = [[Country music|Country]]
+| occupation      = Musician
+| years_active    = 1976-1980
+| label           = Soundwaves
+| associated_acts = 
+}}
+'''Maury Finney''' (born in [[Humboldt, Minnesota]]) is an American [[country music]] saxophonist. Between 1976 and 1980, he recorded for the Soundwaves [[record label]]. Finney charted twelve times on the ''[[Billboard (magazine)|Billboard]]'' country singles charts. His highest-peaking single was "Coconut Grove," which reached No.&nbsp;72 in 1977.
+
+==Musical career==
+In the 1970s, Finney owned an appliance store in [[East Grand Forks, Minnesota]]. He also played in a band called The Charms, which had regional success, before recording his debut single "Maiden's Prayer" for the Soundwaves label.<ref>{{cite news |title=A Charmed Life of Music: EGF's Maury FInney to Be Inducted to the Minnesota Rock Country Hall of Fame |newspaper=[[Grand Forks Herald]] |date=26 April 2007 |url=http://nl.newsbank.com/nl-search/we/Archives?p_product=GF&s_site=grandforks&p_multi=GF&p_theme=realcities&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=118C6C320AD6E700&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM |accessdate=7 September 2010}}</ref>
+
+Finney's recordings for Soundwaves largely comprised instrumental covers of other artists' songs. Among these were [[David Houston (singer)|David Houston]]'s "[[Almost Persuaded (song)|Almost Persuaded]]," [[Larry Gatlin]]'s "I Don't Wanna Cry," [[Hank Thompson (musician)|Hank Thompson]]'s "[[The Wild Side of Life]]" and [[Ernest Tubb]]'s "Waltz Across Texas."<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=144|isbn=978-0-89820-177-2}}</ref> The singles "Maiden's Prayer," "Coconut Grove" and "I Want to Play My Horn on the Grand Ole Opry" all featured vocals from a backing chorus, and Finney provided additional vocals on the latter.<ref name="whitburn"/>
+
+Between 1976 and 1977, he had charted the most instrumental songs of any country music artist.<ref name="billboard">{{cite magazine |date=19 March 1977 |title=Finney in Line |magazine=Billboard |page=57 |url=https://books.google.com/books?id=sUUEAAAAMBAJ&dq=%22maury+finney&pg=PT76}}</ref> In 1977, the [[Country Music Association]] nominated him Instrumentalist of the Year.<ref name="billboard"/>
+
+Finney continued to operate his appliance store until 2001, when he retired and closed it.<ref>{{cite web |title=Long-Time Appliance Salesman to Close Store in East Grand Forks, ND [sic] |last=Lee |first=Stephen J. |work=Knight Ridder/Tribune Business News |date=14 February 2001 |url=http://www.highbeam.com/doc/1G1-70453072.html |archive-url=https://web.archive.org/web/20121104175255/http://www.highbeam.com/doc/1G1-70453072.html |url-status=dead |archive-date=4 November 2012 |accessdate=7 September 2010}}</ref>
+
+==Discography==
+
+===Singles===
+{| class="wikitable"
+|-
+!rowspan="2"|Year
+!rowspan="2"|Single
+!colspan="1"|Chart Positions
+|-
+!width="50"|<small>[[Hot Country Songs|US Country]]</small><ref name="whitburn"/>
+|- 
+|rowspan=3|1976
+|"Maiden's Prayer"
+|align=center|84
+|-
+|"[[Rollin' in My Sweet Baby's Arms]]"
+|align=center|76
+|-
+|"Waltz Across Texas"
+|align=center|81
+|-
+|rowspan=3|1977
+|"[[Everybody's Had the Blues]]"
+|align=center|85
+|-
+|"Coconut Grove"
+|align=center|72
+|-
+|"Poor People of Paris"
+|align=center|85
+|-
+|rowspan=2|1978
+|"I Don't Wanna Cry"
+|align=center|88
+|-
+|"Whispering"
+|align=center|84
+|-
+|rowspan=2|1979
+|"Happy Sax"
+|align=center|92
+|-
+|"Your Love Takes Me So High"
+|align=center|93
+|-
+|1980
+|"Lonely Wine"
+|align=center|75
+|}
+
+===B-sides===
+{| class="wikitable"
+|-
+!rowspan="2"|Year
+!rowspan="2"|Single
+!colspan="1"|Chart Positions
+!rowspan="2"|Original A-side
+|-
+!width="50"|<small>US Country</small><ref name="whitburn"/>
+|- 
+| rowspan=3|1976
+|"[[San Antonio Stroll]]"
+|align=center|flip
+|"Maiden's Prayer"
+|-
+|"[[The Wild Side of Life]]"
+|align=center|78
+|"Rollin' in My Sweet Baby's Arms"
+|-
+|"Off and Running"
+|align=center|flip
+|"Waltz Across Texas"
+|-
+|1977
+|"[[Almost Persuaded (song)|Almost Persuaded]]"
+|align=center|flip
+|"Poor People of Paris"
+|-
+|1979
+|"I Want to Play My Horn on the Grand Ole Opry"
+|align=center|flip
+|"Your Love Takes Me So High"
+|-
+|colspan=4 align=center|<small>"flip" indicates that the release was a two-sided single</small>
+|}
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Finney, Maury}}
+[[Category:American male saxophonists]]
+[[Category:Living people]]
+[[Category:Musicians from Minnesota]]
+[[Category:People from Kittson County, Minnesota]]
+[[Category:Songwriters from Minnesota]]
+[[Category:21st-century American saxophonists]]
+[[Category:21st-century American male musicians]]
+[[Category:Year of birth missing (living people)]]
+[[Category:American male songwriters]]

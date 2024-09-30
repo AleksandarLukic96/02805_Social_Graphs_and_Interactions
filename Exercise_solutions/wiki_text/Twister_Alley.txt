@@ -1,0 +1,109 @@
+{{Infobox musical artist | <!-- See Wikipedia:WikiProject Musicians -->
+| name            = Twister Alley
+| image             =
+| caption        =
+| image_size        = 
+| background      = group_or_band
+| alias           = 
+| origin          = [[Arkansas]], United States
+| genre           = [[Country music|Country]]
+| years_active    = 1987–1994
+| label           = [[Mercury Nashville|Mercury]]
+| associated_acts = 
+| website             = 
+| current_members = Shellee Morris, Steve Goins, Amy Hitt, Randy Loyd, Lance Blythe, Kevin King
+}}
+
+'''Twister Alley''' was an American [[country music]] group formed in 1987. The band consisted of Shellee Morris, Amy Hitt, Steve Goins, Lance Blythe, Randy Loyd and Kevin King.  They released one album on [[Mercury Nashville]] in 1993. Their highest charting single, "Nothing in Common But Love," peaked at No.&nbsp;61 on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles & Tracks]] chart.
+
+==''Twister Alley'' (1993)==
+{{Infobox album
+| italic_title = no
+| name       = ''Twister Alley''
+| type       = studio
+| artist     = Twister Alley
+| cover      = TwisterAlley.jpg
+| alt        =
+| released   = {{start date|1993|8|17}}
+| recorded   =
+| venue      =
+| studio     =
+| genre      = [[Country music|Country]]
+| length     = 37:52
+| label      = Mercury
+| producer   = Mike Lawler<br />[[Harold Shedd]]
+| prev_title =
+| prev_year  =
+| next_title =
+| next_year  =
+}}
+
+===Track listing===
+#"Let It Be Love" ([[Deborah Allen]], Mike Lawler, Rafe Van Hoy) - 4:06
+#"Pretty Thing" (Anna Lisa Graham, Lawler) - 4:02
+#"Nothing in Common But Love" (Donny Lowery, [[Craig Wiseman]]) - 3:10
+#"Dance" (Lawler, [[Tim Nichols]], Zack Turner) - 3:19
+#"[[Young Love (1956 song)|Young Love]]" (Rick Cartey, Carol Joyner) - 2:42
+#"Twister Alley" (Tim Alexander, Lawler, Nichols, Turner) - 3:07
+#"Redneck Ways (In the U.S.A.)" (Tony Colton, Lawler) - 4:16
+#"Billy Bill" ([[Dale Daniel]], Lawler, Naomi Martin) - 2:50
+#"Shame on Me" (Buck Moore, Jerry Ward) - 2:20
+#"I'm Outta Here" (Lawler, Nichols, William Robinson) - 3:43
+#"Dance" (Lawler, Nichols, Turner) - 4:17
+#*club mix
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:16em;"| Single
+! colspan="2"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<br><ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|date=2008 |publisher=Record Research, Inc.|isbn=978-0-89820-177-2}}</ref>
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="2"| 1993
+! scope="row"| "Dance"<ref>{{cite magazine|url=http://americanradiohistory.com/Archive-Billboard/90s/1993/BB-1993-07-17.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|date=July 17, 1993}}</ref>
+| —
+| —
+|-
+! scope="row"| "Nothing in Common but Love"
+| 61
+| 79
+|-
+| 1994
+! scope="row"| "[[Young Love (1956 song)|Young Love]]"
+| 70
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:16em;"| Video
+! Director
+|-
+| rowspan="2"| 1993
+! scope="row"| "Dance"
+| Roger Pistole
+|-
+! scope="row"| "Nothing in Common but Love"
+| Jeffrey Phillips
+|-
+| 1994
+! scope="row"| "Young Love"
+| Thom Oliphant
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[{{Allmusic|class=artist|id=p143596|pure_url=yes}} allmusic ((( Twister Alley > Overview )))]
+
+{{Authority control}}
+
+[[Category:American country music groups]]

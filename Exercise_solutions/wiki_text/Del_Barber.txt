@@ -1,0 +1,349 @@
+{{Short description|Canadian musician}}
+{{Use Canadian English|date=November 2021}}
+{{Use mdy dates|date=November 2021}}
+{{Infobox musical artist
+| name            = Del Barber
+| image           = Del_Barber.jpg
+| alt             =
+| caption         = Del Barber, October 2014
+| image_size      =
+| birth_name      = Delainey Doucha Barber<ref>{{cite web|url=https://www.ascap.com/repertory#/ace/search/workID/889996393 |title=BIG SMOKE |website=ASCAP |publisher=American Society of Composers, Authors and Publishers |access-date=March 13, 2023}}</ref>
+| alias           =
+| birth_date      = {{birth date and age|1983|10|14}}
+| birth_place     = [[Winnipeg]], [[Manitoba]], Canada<ref name="newcanadianmusicbio">{{Cite web|url=http://www.newcanadianmusic.ca/artists/d/del-barber|title=Del Barber – Bio|publisher=NewCanadianMusic.ca|access-date=April 12, 2012|archive-url=https://web.archive.org/web/20141104130327/http://www.newcanadianmusic.ca/artists/d/del-barber|archive-date=November 4, 2014|df=mdy-all}}</ref>
+| origin          = Winnipeg, Manitoba, Canada
+| death_date      = <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date 1st) -->
+| death_place     =
+| genre           = {{hlist|[[Folk music|Folk]]<ref name=bioand2015junos>{{Cite news|url=http://www.cbc.ca/news/canada/manitoba/del-barber-s-prairie-sound-could-earn-him-a-juno-1.2988911|title=Del Barber's prairie sound could earn him a Juno|last=Calnek|first=Sara|date=March 10, 2015|publisher=[[CBC News]]|access-date=June 19, 2018}}</ref>|[[folk rock]]<ref name=bioand2015junos/>|[[alternative country]]<ref name=bioand2015junos/><ref>{{cite magazine |first= Dylan S. |last= Keating |title= Del Barber |magazine= [[BeatRoute Magazine]] |date= May 6, 2014 |access-date= December 5, 2016 |url= http://beatroute.ca/2014/05/06/del-barber/ |archive-date= February 29, 2016 |archive-url= https://web.archive.org/web/20160229100148/http://beatroute.ca/2014/05/06/del-barber/ |url-status= dead }}</ref>|[[Americana (music)|Americana]]|[[Americana (music)|roots]]|[[Country music|country]]|[[Canadiana]]}}
+| occupation      = {{hlist|Musician|singer-songwriter|record producer}}
+| instrument      = {{hlist|Guitar<ref name=bioand2015junos/>|[[harmonica]]<ref name=bioand2015junos/>|[[banjo]]<ref name=bioand2015junos/>|[[mandolin]]<ref name=bioand2015junos/>|vocals<ref name=bioand2015junos/>}}
+| years_active    = 2005–present
+| label           = {{hlist|Corn Cob Music|[[Six Shooter Records|Six Shooter]]|[[True North Records|True North]]|Acronym Records}}
+| associated_acts = {{Flatlist|
+*[[Old Man Luedecke]]
+*Bill Western
+*[[Ariel Posen]]
+*Grant Siemens
+*Quinton Blair
+*Blake Berglund and the Vultures
+}}
+| website         = {{URL|www.delbarber.com}}
+}}
+
+'''Delainey Doucha Barber''' (born October 14, 1983) is a Canadian independent folk, folk rock, Americana, and alternative country singer-songwriter, musician, and record producer.  Barber has been nominated for and won a number of awards including a being nominated for a [[Juno Awards of 2011|2011 Juno Award]] for ''Love Songs of the Last 20'' in the category of Roots & Traditional Album of the Year - Solo.<ref name="junoawardsartistsummary">{{Cite web|url = https://junoawards.ca/awards/?from-year=1970&to-year=2018&nomination-category=&wins-only=no&artist=Del+Barber|title = Juno Awards Artist Summary|publisher = [[Canadian Academy of Recording Arts and Sciences]]|access-date = April 7, 2011}}</ref><ref name=fivelocalsjunoawards>{{Cite news|url=https://www.winnipegfreepress.com/arts-and-life/entertainment/music/five-local-artists-up-for-juno-awards-115086764.html|title=Five local artists up for Juno awards|last=Williams|first=Rob|date=February 2, 2011|publisher=[[Winnipeg Free Press]]|access-date=June 17, 2018}}</ref> Later in 2011 he won two [[Western Canadian Music Awards]] for Independent Album of the Year and Roots Solo Recording of the Year.<ref name=newcanadianmusicbio/><ref name="vancouversunwcma11">{{Cite web |url=https://vancouversun.com/entertainment/Night+belongs+Manitoba+musicians/5596085/story.html |title=Night Belongs to Manitoba |publisher=[[Vancouver Sun]] |access-date=October 24, 2011 |archive-url=https://web.archive.org/web/20111026195214/http://www.vancouversun.com/entertainment/Night+belongs+Manitoba+musicians/5596085/story.html |archive-date=October 26, 2011 }}</ref><ref name="cbcwcma11">{{Cite web|url = http://www.cbc.ca/manitoba/scene/music/2011/10/24/manitoba-shines-at-western-canadian-music-awards/|title = Manitoba shines at Western Canadian Music Awards|author=SCENE staff|date=October 24, 2011|publisher = [[CBWT-DT|CBC Manitoba]]|access-date = October 24, 2011}}</ref> In 2012, Barber was nominated for a [[Canadian Folk Music Awards|Canadian Folk Music Award]] in the category of Solo Artist of the Year.<ref name=2012cfma>{{Cite web|url=https://folkawards.ca/past-years/results-2012/|title=Results 2012|year=2012|publisher=[[Canadian Folk Music Awards]]|access-date=June 20, 2018}}</ref> In 2013, he once again won the Roots Solo Recording of the Year for ''Headwaters'' at the Western Canadian Music Awards.<ref name=2013wcma>{{Cite web|url=https://breakoutwest.ca/awards/previous-winners#2013%20Western%20Canadian%20Music%20Industry%20Award%20Winners|title=2013 Western Canadian Music Industry Award Winners|year=2013|publisher=[[Western Canadian Music Awards]]|access-date=June 20, 2018}}</ref>  In 2020, he was nominated for a Juno Award in the category of Contemporary Roots Album of the Year.
+
+==Early life==
+Barber was born on October 14, 1983, in [[Winnipeg]], [[Manitoba]], Canada<ref name=newcanadianmusicbio/> to Boyd Barber and Jean Doucha.  Growing up in the [[St. Norbert, Winnipeg|St. Norbert]] neighbourhood of Winnipeg,<ref name=bioand2015junos/> he took up the guitar.  By the time he was sixteen, he was writing music and performing in different bands.<ref name=bioand2015junos/>  One summer, after working to save up money, he recorded the songs he had written.<ref name=bioand2015junos/>  This was first glimpse of Del writing and producing his own music. After his first self recording became a hit among his friends, they encouraged and convinced him to play a live show.<ref name=bioand2015junos/>  Despite his early success, Barber was doubtful about this being a viable career choice.<ref name=bioand2015junos/>  But as he finished school and moved on to college, he would continue with music.
+
+He cites some of his influences as [[Townes Van Zandt]],<ref name=newcanadianmusicbio/><ref name="sonicbidsbio">{{Cite web|url = http://profiles.sonicbids.com/artists/DelBarber/biography/|title = About Del Barber|publisher = SonicBids.com|access-date = April 7, 2011|archive-url = https://web.archive.org/web/20110411013402/http://profiles.sonicbids.com/artists/DelBarber/biography|archive-date = April 11, 2011}}</ref><ref name=headwatersexclaim>{{Cite web|url=http://exclaim.ca/music/article/del_barber-headwaters|title=Del Barber - Headwaters|last=Skinner|first=Jesse|date=May 10, 2012|publisher=[[Exclaim!]]|access-date=June 16, 2018}}</ref> [[Greg Brown (folk musician)|Greg Brown]],<ref name=newcanadianmusicbio/><ref name="sonicbidsbio"/><ref name=SCENE>{{Cite web|url=http://www.cbc.ca/manitoba/scene/music/2012/10/26/del-barber/|title=Singer Del Barber writes songs in bathrooms and chicken coops|author=SCENE staff|date=October 26, 2012|work=SCENE|publisher=[[CBWT-DT|CBC Manitoba]]|access-date=June 17, 2018}}</ref> [[John Prine]],<ref name=newcanadianmusicbio/><ref name="sonicbidsbio"/><ref name=SCENE/><ref name=intunewithmanitoba>{{Cite web|url=https://globalnews.ca/video/1212825/in-tune-with-manitoba-del-barber|title=In Tune With Manitoba: Del Barber|date=March 17, 2014|publisher=[[Global News]]|access-date=June 16, 2018|archive-date=June 17, 2018|archive-url=https://web.archive.org/web/20180617100005/https://globalnews.ca/video/1212825/in-tune-with-manitoba-del-barber|url-status=dead}}</ref><ref name=easykeeperrs>{{Cite web|url=https://www.rollingstone.com/music/music-country/del-barber-canada-singer-easy-keeper-album-890803/|title=Why Del Barber Went Off the Grid to Record His New Album 'Easy Keeper'|last=Bernstein|first=Jonathan|date=October 8, 2019|publisher=[[Rolling Stone]]|
+accessdate=November 26, 2020}}</ref> [[Emmylou Harris]], [[Steve Earle]],<ref name=snowlake>{{Cite web|url=http://www.thompsoncitizen.net/opinion/columnists/my-take-on-snow-lake-feb-16-2018-1.23172304|title=My Take on Snow Lake - Feb. 16, 2018 - Folk-country duo plays the motor inn|last=Jackson|first=Marc|date=February 16, 2018|publisher=Thompson Citizen|access-date=June 17, 2018}}</ref> [[Wilco]],<ref name=headwatersexclaim/> [[Bruce Springsteen]],<ref name=newcanadianmusicbio/><ref name=SCENE/> [[Neil Young]],<ref name=intunewithmanitoba/><ref name=fathersdaybarbers>{{Cite news|url=https://infotel.ca/newsitem/music-fathers-day-barbers/cp18787214|title=Father's Day: Juno nominee Del Barber helps retired dad reach songwriting dreams|last=Patch|first=Nick|date=June 13, 2012|publisher=InfoTel.ca|access-date=June 17, 2018}}</ref> [[Gram Parsons]], [[Bob Dylan]], [[Lucinda Williams]],<ref name=newcanadianmusicbio/> [[Loretta Lynn]],<ref name=newcanadianmusicbio/> [[Mississippi John Hurt]],<ref name=newcanadianmusicbio/> [[Ramblin' Jack Elliot]], [[Merle Haggard]],<ref name=newcanadianmusicbio/> [[The Band]],<ref name=newcanadianmusicbio/><ref name=fathersdaybarbers/> [[Ryan Adams]], and [[Rancid (band)|Rancid]].<ref name=intunewithmanitoba/> Del is also influenced by authors such as [[Farley Mowat]],<ref name=SCENE/> [[Wendell Berry]], [[Jack Kerouac]], and [[Kathleen Norris]].
+
+==Career==
+===Early career===
+Barber continued recording music while attending [[Covenant Bible College]].  From there he would start playing shows all across North America.  During his one year at [[North Park University]] studying philosophy, he would continue to write music.<ref>{{Cite web|url=https://www.vernonmorningstar.com/life/del-barber-finds-he-cant-escape-home/|title=Del Barber finds he can't escape home|last=Forneman|first=Kristin|date=February 14, 2014|publisher=[[Vernon Morning Star]]|access-date=July 31, 2022}}</ref> He would then make his way back to Winnipeg to continue studying philosophy.
+
+After the release of two early demo albums, Barber went back into the studio to record his eleven-track album ''Where the City Ends''.  With many positive reviews of this album, he continued to tour extensively in support of the album.  ''Where the City Ends'' was nominated in the category of Roots Solo Album of the Year at the Western Canadian Music Awards.  In 2010, Barber released his second album entitled ''Love Songs for the Last 20''.  Once again, Barber had critical success with the album and continued to tour extensively.  In August 2010, Barber was nominated for a Western Canadian Music Award for Roots Solo Album of the Year for ''Where the City Ends''. The album also received a second nomination for Best Album Design of the Year which album designer Brooke Nelson was nominated.  In [[Juno Awards of 2011|2011]], he was nominated for a [[Juno Awards|Juno Award]] for Roots & Traditional Album of the Year - Solo for ''Love Songs for the Last 20''.<ref name=junoawardsartistsummary/><ref name=fivelocalsjunoawards/> On April 11, 2011 Barber appeared as the musical guest and interview on the [[CBC Radio One]] show ''[[Q (radio show)|Q]]'' with [[Jian Ghomeshi]].  The show was taped live as a part of The [[Winnipeg Comedy Festival]].  Barber performed "Miles & Years" and "As Far As I Can Tell."<ref name="CBCQpastepisodes">{{Cite web|url = http://www.cbc.ca/video/#/Radio/Q/Full_Episodes/1475592661/ID=1877358851|title = CBC Q Past Episode Library|publisher = [[CBC Radio]]|access-date = April 12, 2011}}</ref> Later in 2011, Barber's career continued to reach new heights when he won two Western Canadian Music Awards for Independent Album of the Year and Roots Solo Recording of the Year.<ref name=vancouversunwcma11/><ref name=cbcwcma11/>
+
+===''Headwaters'' and ''Prairieography'' (2012-2014)===
+In early 2012, Barber signed a deal with [[Six Shooter Records]].<ref name=exclaimheadwaters>{{Cite news|first = Alex|last = Hudson|url = http://exclaim.ca/News/del_barber_signs_to_six_shooter_records_for_headwaters_lp|title = Del Barber Signs to Six Shooter Records for 'Headwaters' LP|publisher = [[Exclaim!]]|date = April 13, 2012|access-date = June 16, 2018}}</ref>  ''Headwaters'' was released on May 1.<ref name=exclaimheadwaters/>  The album was co-produced with Sam Kassirer in which thirty demo tracks were recorded before ten were chosen for the album.<ref name=exclaimheadwaters/>  In support of the album, Barber embarked on a cross Canada tour opening for [[Old Man Luedecke]].<ref name=exclaimheadwaters/><ref>{{Cite web|url=http://exclaim.ca/music/article/old_man_luedecke_announces_canadian_tour_promises_new_album|title=Old Man Luedecke Announces Canadian Tour, Promises New Album|last=Hudson|first=Alex|date=March 15, 2012|publisher=[[Exclaim!]]|access-date=June 16, 2018}}</ref>  Barber had an album release show at the West End Cultural Centre in Winnipeg on October 26.<ref name=SCENE/>  He was nominated in the 2012 [[Canadian Folk Music Awards]] in the category of Solo Artist of the Year.<ref name=2012cfma/>
+
+On September 17, 2013, [[True North Records]] announced that they signed Del.  He released his first record on the label in February 2014.<ref>{{Cite web|url=http://www.truenorthrecords.com/Blog.php?blogid=345|title=Alt-Country troubadour Del Barber signs to True North Records|publisher=[[True North Records]]|date=September 17, 2013|access-date=December 17, 2013|archive-url=https://web.archive.org/web/20141104125753/http://www.truenorthrecords.com/Blog.php?blogid=345|archive-date=November 4, 2014}}</ref><ref>{{Cite web|url=http://www.truenorthrecords.com/Blog.php?blogid=345|title=New Record Coming February via True North|publisher=DelBarber.com|date=October 15, 2013|access-date=December 17, 2013|archive-url=https://web.archive.org/web/20141104125753/http://www.truenorthrecords.com/Blog.php?blogid=345|archive-date=November 4, 2014}}</ref> Four of the tracks were uploaded to his [[NoiseTrade]] page to promote the album.  At the 2013 Western Canadian Music Awards, Barber once again took home the award for Roots Solo Recording of the Year for ''Headwaters.''<ref name=2013wcma/>
+
+The album entitled ''Prairieography'' was released on February 4, 2014.<ref>{{Cite web|first=Del|last=Barber|url=http://www.huffingtonpost.ca/del-barber/winnipeg-music-scene_b_4404520.html|title=A Brief History of Winnipeg's Music Scene and Why It Matters|publisher=[[Huffington Post]]|date=December 7, 2013|access-date=December 7, 2013}}</ref><ref name=exclaimprairieography>{{Cite web|url=http://exclaim.ca/music/article/del_barber_embraces_his_roots_on_prairieography_shares_new_song_maps_out_canadian_tour|title=Del Barber Embraces His Roots on 'Prairieography,' Shares New Song and Maps Out Canadian Tour|last=Hudson|first=Alex|date=January 8, 2014|publisher=[[Exclaim!]]|access-date=June 16, 2018}}</ref> The album was co-produced by William "Bill" J. Western in Winnipeg at Empire Recording.<ref name=exclaimprairieography/>  Western also played in Barber's band.  Part of the album was recorded in a silo in order to get the sound they wanted.<ref name=exclaimprairieography/><ref>{{Cite web|url=https://www.socanmagazine.ca/features/prairie-chronicler-del-barber/|title=Prairie chronicler Del Barber: Le chroniquer des Prairies Del Barber|last=Dault|first=Meredith|date=March 19, 2014|publisher=[[SOCAN]]|work=SOCAN Words and Music|access-date=July 31, 2022}}</ref>
+
+Barber embarked on a tour of the prairies from January 23 to March 27 in support of the album.<ref name=exclaimprairieography/> Barber was nominated for three [[Canadian Folk Music Awards]] in the categories of Contemporary Singer of the Year, English Songwriter of the Year, and Solo Artist of the Year.<ref name=2014cfma>{{Cite web|url=https://folkawards.ca/past-years/results-2014/|title=Results 2014|year=2014|publisher=[[Canadian Folk Music Awards]]|access-date=June 20, 2018}}</ref>
+
+===''The Puck Drops Here'' and ''Easy Keeper'' (2016-2019)===
+With ''Prairieography'' being dubbed as what could have been a career-making opus, Barber moved from Winnipeg to a farm in rural Manitoba to begin work on a follow-up album.<ref name=easykeeperrs/>
+
+On April 15, 2016; Barber along with the No Regretzkys released ''The Puck Drops Here'' through True North Records.<ref name=exclaimpuckdropshere>{{Cite web|url=http://exclaim.ca/music/article/del_barber_and_the_no_regretzkys_lace_up_for_hockey-themed_lp_shoot_out_new_single|title=Del Barber & the No Regretzkys Lace Up for Hockey-themed LP, Shoot Out New Single|last=Murphy|first=Sarah|date=February 29, 2016|publisher=[[Exclaim!]]|access-date=June 16, 2018}}</ref>  With Barber being a hockey fan, this was a hockey themed album with distinct rock and country sounds.  Barber was in contact with True North sending them demos of songs he had been working on, but received no feedback.  Those songs would later be put on the album that would become ''Easy Keeper''. After not getting any feedback on those demos, Barber had the idea for a hockey themed album as it was never done before.<ref name=easykeeperrs/>
+
+It features covers of well-known songs such as [[Stompin' Tom Connors]]'s "[[The Hockey Song]]," ''Coach's Corner'' segment of ''[[Hockey Night in Canada]]'' theme "Flame of Victory," and [[Tom Cochrane]]'s "[[Big League (song)|Big League]]."  It also features covers of lesser known songs such as [[The Hanson Brothers]]' "Hockey Night Tonight" and [[The Pursuit of Happiness (band)|Pursuit of Happiness]]' "Gretzky Rocks."  Barber added some originals including "Hudson Bay Rules" and the single off the album "The Lights Go Out."<ref name=exclaimpuckdropshere/>  The album was produced by [[Corb Lund]] guitarist Grant Siemens.<ref name=exclaimpuckdropshere/>
+
+Barber's refusal to promote the album led to tensions between himself and the label.  He was subsequently dropped by True North and his agent as a result.<ref name=easykeeperrs/>
+
+On June 10, 2018; Barber started a [[Kickstarter]] campaign to raise money for his next album entitled ''Easy Keeper.''.<ref name=easykeeperkickstarter>{{Cite web|url=https://www.kickstarter.com/projects/248696342/easy-keeper-del-barbers-new-album/|title="Easy Keeper" - Del Barber's New Album!|date=June 10, 2018|work=Del Barber|publisher=[[Kickstarter]]|access-date=June 16, 2018}}</ref>  He stated that he took a hiatus and was now wanting to produce a new album.  His goal was $7,500; but in less than a week, Barber was able to raise over $13,000.  In total he was able to raise $23,021 towards the album.<ref name=easykeeperkickstarter/>
+
+On January 15, 2019; Mavens Music Management announced that Barber joined their management roster.<ref>{{Cite web|url=http://mavensmusic.ca/home/blog/del-barber-joins-mavens-music-management-roster|title=Del Barber Joins Mavens Music Management Roster|date=January 15, 2019|publisher=Mavens Music Management|access-date=May 3, 2019}}</ref>  On May 3, Barber posted on Instagram that the first single "No Easy Way Out" was released and premiered on the [[CBC Radio One]] show ''[[Q (radio show)|Q]]''.<ref>{{Cite web|url=https://www.cbc.ca/radio/q/friday-may-3-2019-will-arnett-mormor-and-more-1.5120361|title=Friday, May 3, 2019: Will Arnett, MorMor and more|date=May 3, 2019|publisher=[[CBC Radio]]|access-date=November 29, 2020}}</ref> Barber has said that "No Easy Way Out" is about a gas station attendant in [[Virden, Manitoba]]. <blockquote>"She's been working there for decades. I finally was able to convince her to give me a bit of her story after modestly flirting with her for a few years. This is her story."<ref>{{Cite web|url=https://ckua.com/watch/del-barber-previews-new-album-easy-keeper/|title=Del Barber previews new album 'Easy Keeper'|date=January 25, 2019|publisher=[[CKUA Radio Network]]|access-date=May 5, 2019}}</ref></blockquote>
+
+Also on May 3, Maven's Music announced the official ''Easy Keeper'' release date of September 6 and that Barber was signed to Acronym Records.<ref>{{Cite web|url=https://mavensmusic.ca/blogs/mavens-news/posts/del-barber-releases-single-signs-to-acronym-records|title=Del Barber Releases Single, Signs to acronym Records|date=May 3, 2019|publisher=Maven's Music|access-date=November 29, 2020}}</ref>  On August 9, Barber announced on Instagram the release of the second single entitled "Patient Man."<ref>{{Cite web|url=https://www.instagram.com/p/B09DK1qgiYQ/ |archive-url=https://ghostarchive.org/iarchive/instagram/delbarber/2106854139635050000 |archive-date=December 25, 2021 |url-access=registration|title=Hello beautiful people! Happy to announce that the second single from my upcoming record is out today!|date=August 9, 2019|publisher=Del Barber|access-date=November 29, 2020}}{{cbignore}}</ref>
+
+On January 28, 2020; it was announced that Barber was nominated for a [[Juno Award]] in the category of [[Juno Award for Contemporary Roots Album of the Year|Contemporary Roots Album of the Year]] for ''Easy Keeper''.<ref name=easykeeperjuno>{{Cite web|url=https://globalnews.ca/news/6522447/manitoba-juno-nominee-easy-keeper/|title=Manitoba singer-songwriter stays true to his roots with JUNO-nominated 'Easy Keeper'|last=Thompson|first=Sam|date=February 8, 2020|publisher=[[Global News]]|website=globalnews.ca|access-date=February 10, 2020}}</ref>  In the summer of 2020, with the announcement of the [[Western Canadian Music Awards]], Barber was nominated in the categories of Roots Artist of the Year and Songwriter(s) of the Year.<ref name=wcma2020>{{Cite web|url=https://breakoutwest.ca/blog/2020-western-canadian-music-award-nominees|title=2020 Western Canadian Music Award Nominees|date=June 23, 2020|publisher=Breakout West|website=breakoutwest.ca|access-date=June 30, 2020}}</ref>
+
+===''Stray Dogs'' and ''Almanac'' (2021-present)===
+On June 23, 2021, Del Barber announced that through the winter, he worked on new music.  The first single entitled "Meantime" was released on June 25.  On July 2, Del announced ''Stray Dogs: Collected B-Sides Volume 1'' was the next album that would be released on August 20.<ref name=essentials>{{Cite web|url=https://www.fyimusicnews.ca/articles/2021/08/18/essentials%E2%80%A6-del-barber|title=Essentials... with Del Barber|last=Schneider|first=Jason|date=August 18, 2021|publisher=FYIMusicNews|access-date=August 20, 2021}}</ref>  The second single "Nothing Left to Find" was released on July 23.
+
+On June 8, 2022, the [[Western Canadian Music Awards]] nominations were announced.  Barber was nominated in category of Roots Artist of the Year.<ref name=wcma22>{{Cite web|url=https://globalnews.ca/news/8909447/manitoba-artists-wcma-nominations/|title=Manitoba artists net dozens of WCMA nominations|last=Thompson|first=Sam|date=June 9, 2022|publisher=[[Global News]]|access-date=August 2, 2022}}</ref><ref>{{Cite web|url=https://vancouversun.com/entertainment/music/vancouvers-juno-award-winning-metal-act-archspire-among-b-c-nominees-for-2022-western-canadian-music-awards|title=Vancouver's Juno Award-winning metal act Archspire among B.C. nominees for 2022 Western Canadian Music Awards|last=Derdeyn|first=Stuart|date=June 8, 2022|publisher=[[Vancouver Sun]]|access-date=August 2, 2022}}</ref>
+
+On January 25, 2023, Barber announced his next album ''Almanac'' which was scheduled for a spring release.  A video of him performing "Still Got You" was released.<ref>{{Cite web|url=https://thebluegrasssituation.com/read/watch-del-barber-still-got-you/|title=WATCH: Del Barber, "Still Got You" |date=January 25, 2023|website=Bluegrass Situation|access-date=January 25, 2023}}</ref>  The song was officially released as a single on January 27.  The second single "I Told You So" was released on March 10.<ref name=thecountrynote>{{Cite web|url=https://www.thecountrynote.com/in-the-news/del-barber-showcases-subtle-and-strong-songwriting-on-all-new-lp-almanac/|title=Del Barber Showcases Subtle And Strong Songwriting On All New LP 'Almanac'|date=March 10, 2023|publisher=The Country Note|access-date=March 14, 2023}}</ref>
+
+<blockquote>"I wrote it before my dad passed—before he was even sick, but it became an anthem for me in the months after his passing.  Originally written from the perspective of Barber's neighbor who'd lost her husband, the song's interpretation of grief has such a universal quality that even Barber ended up applying to his own life, but maybe that was its purpose all along. "Looking back, I feel like this song was a gift from [my dad]."<ref name=thecountrynote/></blockquote>
+
+The release date for ''Almanac'' was announced for April 28<ref name=holler>{{Cite web|url=https://holler.country/feature/premiere-del-barber-i-told-you-so|title=Del Barber - 'I told You So' Premiere|last=Owen|first=Jof|publisher=Holler|access-date=March 14, 2023}}</ref>  Barber wrote ''Almanac'' on his farm in Inglis, Manitoba which is 400&nbsp;km northwest of Winnipeg.  He recorded the album at No Fun Club in Winnipeg.  It took one week to record the album with Grant Siemens and Scott Franchuk.<ref name=thecountrynote/>
+
+<blockquote>"It was a really beautiful session.  There were no grand intentions, just an aim to get good players and friends together and record a pile of my songs. Going into this session I really wanted to enjoy the process, not think too hard, and just keep it simple and honest. I had a group of great songs and I really didn't want to stand in their way."<ref name=thecountrynote/></blockquote>
+
+==Contributions and collaborations==
+Aside from his own solo work, he has writing credits on Blake Berglund and the Vultures 2014 album ''Jasper'' where he co-wrote the first six songs.  He also co-wrote "Funny Thing About You Leaving" with Berglund which is the B-side to Berglund's two-song single "Word's Gettin' Around" / "Funny Thing About You Leaving."  He has writing credits on Manitoba country singer-songwriter Quinton Blair's 2016 [[Extended play|EP]] ''Cash Crop''.<ref>{{Cite web|url=http://www.homeroutes.ca/artists/quinton-blair/|title=Quinton Blair|publisher=HomeRoutes.ca|access-date=June 17, 2018|archive-date=June 17, 2018|archive-url=https://web.archive.org/web/20180617165115/http://www.homeroutes.ca/artists/quinton-blair/|url-status=dead}}</ref>
+
+==Personal life==
+Barber resides on a farm in [[Inglis, Manitoba]]<ref name=snowlake/> with his wife Haylan, daughter Guthrie,<ref name=easykeeperkickstarter/> and son Farley.
+
+==Discography==
+{{Infobox artist discography
+| Artist          = Del Barber
+| Image           = 
+| Caption         = 
+| Studio          = 7
+| Singles         = 6
+| Option          = 
+| Option name     = 
+}}
+
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center"
+|-
+! scope="col" style="width:15em;"| Title
+! scope="col" style="width:19em;"| Details
+|-
+! scope="row"| ''Where the City Ends''<ref>{{Cite web|url=https://truenorth.labelstore.ca/775020938724-where-the-city-ends-digital-mp3.html|title=Del Barber / ''Where the City Ends'' / True North|publisher=[[True North Records]]|access-date=May 5, 2019}}</ref>
+|
+* Release date: April 10, 2009
+* Label: Corn Cob Music
+* Format: [[Compact disc|CD]], [[Music download|digital download]]
+|-
+! scope="row"|''Love Songs for the Last 20''<ref>{{Cite web|url=https://truenorth.labelstore.ca/654367020432-love-songs-for-the-last-20-digital-mp3.html|title=Del Barber / ''Love Songs for the Last 20'' / True North|publisher=[[True North Records]]|access-date=May 5, 2019}}</ref>
+|
+* Release date: June 15, 2010
+* Label: Corn Cob Music
+* Format: CD, digital download
+|-
+! scope="row"| ''Headwaters''<ref>{{Cite web|url=https://truenorth.labelstore.ca/releases/620638058626-headwaters-digital-mp3.html|title=Del Barber / ''Headwaters'' / True North|publisher=[[True North Records]]|access-date=May 5, 2019}}</ref>
+|
+* Release date: May 1, 2012
+* Label: [[Six Shooter Records|Six Shooter]]
+* Format: CD, [[LP record|vinyl]], digital download
+|-
+! scope="row"| ''Praireography''<ref>{{Cite web|url=https://truenorth.labelstore.ca/620638058923-prairieography-digital-mp3.html|title=Del Barber / ''Prairieography'' / True North|publisher=[[True North Records]]|access-date=May 5, 2019}}</ref>
+|
+* Release date: February 4, 2014
+* Label: [[True North Records|True North]]
+* Format: CD, digital download
+|-
+! scope="row"| ''The Puck Drops Here''<ref name=exclaimpuckdropshere/>
+|
+* Release date: April 15, 2016
+* Label: True North
+* Format: CD, digital download, [[Streaming media|streaming]]
+|-
+! scope="row"| ''Easy Keeper''<ref>{{Cite web|url=https://www.folkradio.co.uk/2019/09/del-barber-easy-keeper/|title=Del Barber: Easy Keeper|last=Davis|first=Mike|date=September 9, 2019|publisher=Folk Radio UK|access-date=June 27, 2023}}</ref>
+|
+* Release date: September 20, 2019
+* Label: Acronym
+* Format: CD, vinyl, digital download, streaming
+|-
+! scope="row"| ''Stray Dogs (Collected B-Sides / Volume 1)''<ref name=essentials/>
+|
+* Release date: August 20, 2021
+* Label: Acronym
+* Format: Vinyl, digital download, streaming
+|-
+! scope="row"|''Almanac''<ref name=holler/>
+|
+*Release: April 28, 2023
+*Label: Acronym
+*Format: Vinyl, digital download, streaming
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="1" style="width:20em;" | Title
+! rowspan="1" style="width:1em;" | Year
+! rowspan="1" style="width:10em;" | Album
+|-
+! scope="row"| "Running on a Wire"
+| 2012
+| ''Headwaters''
+|-
+! scope="row"| "Lights Go Out"
+| 2016
+| ''The Puck Drops Here''
+|-
+! scope="row"| "No Easy Way Out"
+| rowspan=2| 2019
+| rowspan=2| ''Easy Keeper''
+|-
+! scope="row"| "Patient Man"
+|-
+! scope="row"| "Meantime"
+| rowspan=2| 2021
+| rowspan=2|''Stray Dogs (Collected B-Sides / Vol. 1)''
+|-
+! scope="row"| "Nothing Left to Find"
+|-
+! scope="row"| "Still Got You"
+| rowspan=2| 2023
+| rowspan=2| ''Almanac''
+|-
+! scope="row"| "I Told You So"<ref name=thecountrynote/>
+|}
+
+==Awards and nominations==
+{{Infobox musician awards
+| name = Del Barber
+| image =
+| image_size =
+| alt =
+| caption =
+| wins = 5
+| nominations = 17
+| award1 = [[Canadian Folk Music Awards]]
+| award1W = 0
+| award1N = 4
+| award2 = [[Juno Awards]]
+| award2W = 0
+| award2N = 3
+| award3 = [[Western Canadian Music Awards]]
+| award3W = 5
+| award3N = 11
+}}
+
+{| class="wikitable"
+|-
+! style="text-align:center;"|Year
+! style="text-align:center;"|Nominated work
+! style="text-align:center;"|Event
+! style="text-align:center;"|Award
+! style="text-align:center;"|Result
+! style="text-align:center;"|Ref.
+|-
+|2010
+|''Where the City Ends''
+|[[Western Canadian Music Awards]]
+|Roots Solo Album of the Year
+|{{nom}}
+|
+|-
+|[[Juno Awards of 2011|2011]]
+|rowspan="3"|''Love Songs for the Last 20''
+|[[Juno Awards]]
+|[[Juno Award for Roots & Traditional Album of the Year – Solo|Roots & Traditional Album of the Year - Solo]]
+|{{nom}}
+|<ref name=junoawardsartistsummary/><ref name=fivelocalsjunoawards/>
+|-
+|2011
+|rowspan="2"|[[Western Canadian Music Awards]]
+|Independent Album of the Year
+|{{won}}
+|<ref name=vancouversunwcma11/><ref name=cbcwcma11/>
+|-
+|2011
+|Roots Solo Recording of the Year
+|{{won}}
+|<ref name=cbcwcma11/>
+|-
+|[[8th Canadian Folk Music Awards|2012]]
+|Himself
+|[[Canadian Folk Music Awards]]
+|Solo Artist of the Year
+|{{nom}}
+|<ref name=2012cfma/>
+|-
+|2013
+|''Headwaters''
+|[[Western Canadian Music Awards]]
+|Roots Solo Recording of the Year
+|{{won}}
+|<ref name=2013wcma/>
+|-
+|rowspan=3|[[10th Canadian Folk Music Awards|2014]]
+|rowspan=3|Himself
+|rowspan=3|[[Canadian Folk Music Awards]]
+|Contemporary Singer of the Year
+|{{nom}}
+|<ref name=2014cfma/>
+|-
+|English Songwriter of the Year
+|{{nom}}
+|<ref name=2014cfma/>
+|-
+|Solo Artist of the Year
+|{{nom}}
+|<ref name=2014cfma/>
+|-
+|2014
+|''Prairieogrpahy''
+|rowspan=2|[[Western Canadian Music Awards]]
+|Roots Solo Recording of the Year
+|{{won}}
+|<ref name=wcma2014winners>{{Cite web|url=https://breakoutwest.ca/awards/previous-winners#2014%20Western%20Canadian%20Music%20Award%20Winners|title=Previous Winners|publisher=Breakout West|website=breakoutwest.ca|access-date=July 3, 2020}}</ref>
+|-
+|2014
+|"Big Smoke"/Himself
+|Songwriter(s) of the Year
+|{{won}}
+|<ref name=wcma2014winners/>
+|-
+|[[Juno Awards of 2015|2015]]
+|''Prairieography''
+|[[Juno Award]]s
+|[[Juno Award for Roots & Traditional Album of the Year – Solo|Roots & Traditional Album of the Year - Solo]]
+|{{nom}}
+|<ref name=bioand2015junos/><ref name="junoawardsartistsummary"/>
+|-
+|[[Juno Awards of 2020|2020]]
+|''Easy Keeper''
+|[[Juno Award]]s
+|[[Juno Award for Contemporary Roots Album of the Year|Contemporary Roots Album of the Year]]
+|{{nom}}
+|<ref name=easykeeperjuno/>
+|-
+|rowspan=2| 2020
+|rowspan=3|Himself
+|rowspan=3|[[Western Canadian Music Awards]]
+|Roots Artist of the Year
+|{{nom}}
+|<ref name=wcma2020/>
+|-
+|Songwriter(s) of the Year
+|{{nom}}
+|<ref name=wcma2020/>
+|-
+|2022
+|Roots Artist of the Year
+|{{nom}}
+|<ref name=wcma22/>
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://delbarber.com Official website]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Barber, Del}}
+[[Category:1983 births]]
+[[Category:Living people]]
+[[Category:Canadian country singer-songwriters]]
+[[Category:Canadian folk guitarists]]
+[[Category:Canadian male guitarists]]
+[[Category:Musicians from Winnipeg]]
+[[Category:Canadian alternative country singers]]
+[[Category:Canadian country guitarists]]
+[[Category:Canadian folk singer-songwriters]]
+[[Category:Canadian harmonica players]]
+[[Category:20th-century Canadian guitarists]]
+[[Category:21st-century Canadian guitarists]]
+[[Category:Canadian male singer-songwriters]]
+[[Category:Canadian banjoists]]
+[[Category:Canadian mandolinists]]
+[[Category:Canadian folk rock musicians]]
+[[Category:Canadian record producers]]
+[[Category:21st-century Canadian multi-instrumentalists]]
+[[Category:20th-century Canadian male musicians]]
+[[Category:21st-century Canadian male singers]]
+[[Category:21st-century Canadian singers]]
+[[Category:21st-century Canadian singer-songwriters]]
+[[Category:Singers from Manitoba]]

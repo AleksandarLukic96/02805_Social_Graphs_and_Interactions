@@ -1,0 +1,61 @@
+{{short description|American singer-songwriter}}
+{{Infobox musical artist
+| name            = Annie Bosko
+| image           = Annie Bosko 9 17 2020 (50740808892) (cropped).jpg
+| caption         = Bosko in 2020
+| birth_name      = 
+| birth_date      = 
+| birth_place     = [[Los Angeles, California]], United States
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| instrument      = Vocals, guitar
+| years_active    = 2014–present
+| label           = Stone Country
+| associated_acts = 
+| website         = {{URL|https://www.anniebosko.com/}}
+}}
+'''Annie Bosko''' is an American [[country music]] singer-songwriter from [[Los Angeles, California]] signed to Stone Country Records.<ref name="Stone Country">{{cite web |url=https://www.anniebosko.com/news/2 |title=Annie Bosko News |date=August 10, 2023 |access-date=July 11, 2024}}</ref>
+
+==Background==
+Growing up in [[Thousand Oaks, California]], Bosko performed in various venues from a young age, and at the age of 14, sang on the soundtrack for [[The Little Mermaid II: Return to the Sea]] (2000), before relocating to [[Nashville, Tennessee]] in the mid-2000s.<ref name="Opry"/><ref name="Background">{{cite web |url=https://www.anniebosko.com/about |title=About Annie |access-date=July 11, 2024}}</ref> "Crooked Halo", her first solo effort, was released in November 2014<ref>{{cite web |url=https://open.spotify.com/album/1qSDZw1jlh1tpELsZi5dZo?si=Cqdp7hR4QuKn5TjCXIIqtQ |title="Crooked Halo" |website=[[Spotify]] |date=November 14, 2014 |access-date=July 11, 2024}}</ref> and received play on satellite radio and [[CMT (American TV channel)|CMT]].<ref name="Background"/> She found work recording jingles, cutting demos, and writing songs for other artists, touring as an opening act for many prominent country music artists, and eventually made her [[Grand Ole Opry]] debut on September 30, 2023.<ref name="Opry">{{cite web|url=https://www.opry.com/artists/annie-bosko|title=Annie Bosko Opry|website=Grand Ole Opry|access-date=July 11, 2024}}</ref> In August 2023, it was announced that Bosko had signed a recording contract with Stone Country Records,<ref name="Stone Country"/> and "Neon Baby" was released as her debut single to country radio on November 6, 2023.<ref>{{cite web|url=https://assets.countryaircheck.com/public/acd75299-89ea-4abe-beb32cbdba9ff7ed/Issue882-October302023.pdf|title=Country Aircheck Weekly, October 30, 2023, Issue 882|website=Country Aircheck|date=October 30, 2023|access-date=July 11, 2024}}</ref> It debuted on the ''[[Billboard (magazine)|Billboard]]'' [[Country Airplay]] chart at number 60 in July 2024.<ref name="BCU July 5">{{cite magazine|url=https://s3.amazonaws.com/bulletins.billboard.com/country/country_update_2024_0705.pdf|title=Billboard Country Update|magazine=[[Billboard (magazine)|Billboard]]|date=July 5, 2024|access-date=July 11, 2024}}</ref> Her self-titled EP was produced by [[Derek George]] and [[Mickey Jack Cones]] and released on January 5, 2024.<ref name="EP"/><ref>{{cite web|url=https://countrynow.com/annie-bosko-unapologetically-leans-into-her-country-roots-on-self-titled-debut-ep/|title=Annie Bosko Unapologetically Leans Into Her Country Roots On Self-Titled Debut EP|author=Madeleine O'Connell|date=January 8, 2024|website=Country Now|access-date=July 11, 2024}}</ref>
+
+==Discography==
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;" 
+|+ List of EPs, with selected details, chart positions and sales
+! rowspan="1" style="width:8em;"| Title
+! rowspan="1" style="width:18em;"| Album details
+|- 
+! scope="row" |''Annie Bosko''<ref name="EP">{{cite web|url=https://music.apple.com/us/album/annie-bosko-ep/1717891692|title=Annie Bosko EP|date=January 5, 2024|website=[[Apple Music]]|access-date=July 11, 2024}}</ref>
+|
+* Release date: January 5, 2024
+* Label: Stone Country
+* Format: Digital download
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of singles, with selected chart positions
+! scope="col" rowspan="2"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="1"| Peak chart positions
+! scope="col" rowspan="2"| Album
+|- style="font-size:smaller;"
+! scope="col" width="45"| [[Country Airplay|US Country Airplay]]<br /><ref>{{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_0719.pdf|title=Billboard Country Update|magazine=[[Billboard (magazine)|Billboard]]|date=July 19, 2024|access-date=July 20, 2024}}</ref>
+|-
+! scope="row" | "Neon Baby"
+| 2023
+| 56
+| ''Annie Bosko''
+|}
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Bosko, Annie}}
+[[Category:Living people]]
+[[Category:American country singer-songwriters]]
+[[Category:Year of birth missing (living people)]]

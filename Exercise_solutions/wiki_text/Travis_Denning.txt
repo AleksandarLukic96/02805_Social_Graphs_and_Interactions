@@ -1,0 +1,166 @@
+{{short description|American country music singer and songwriter}}
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist
+| name          = Travis Denning
+| image         = Travis Denning at Zydeco.jpg
+| image_upright =
+| image_size    =
+| landscape     = <!-- yes, if wide image, otherwise leave blank -->
+| alt           =
+| caption       = Denning playing at Zydeco in 2014
+| birth_name    =
+| alias         =
+| birth_date    = {{Birth date and age|1992|12|1}}<ref name="allmusic">{{cite web|url=https://www.allmusic.com/artist/travis-denning-mn0002996272/biography|title=Travis Denning biography|last=Deming|first=Mark|work=Allmusic|accessdate=July 10, 2018}}</ref>
+| birth_place   = [[Warner Robins, Georgia]], U.S.
+| origin        = [[Nashville, Tennessee]], U.S.
+| genre         = {{hlist|[[Country music|Country]]|[[country rock]]}}
+| occupation    = {{flatlist|
+* Singer
+* songwriter
+}}
+| instrument    = {{flatlist|
+* Vocals
+* guitar
+}}
+| years_active  = 2012–present
+| label         = [[Mercury Nashville]]
+| spouse = {{Marriage|Madison Montgomery|2023}}
+}}
+'''Travis Denning''' (born December 1, 1992) is an American [[country music]] singer and songwriter signed to [[Universal Music Group Nashville|UMG Nashville]]'s [[Mercury Nashville]] label. He has charted with the singles "[[David Ashley Parker from Powder Springs]]" and "[[After a Few]]", the latter of which has reached number one on the United States [[Country Airplay]] chart.
+
+==Musical career==
+Denning was born on December 1, 1992, in [[Warner Robins, Georgia]]. He began pursuing his musical interests after listening to music with his father as a teenager, and released his first independent single in 2012, "Ready for Tonight".<ref name="allmusic"/> After moving to [[Nashville, Tennessee]], in 2014, he got a publishing deal with RED Creative Group, which led to him writing songs for [[Jason Aldean]], [[Justin Moore]], and [[Chase Rice]] among others. After promoting himself on social media, he began performing as opening acts for Moore, Rice, and [[Lanco (band)|Lanco]]. In 2018, he signed to Mercury Nashville and released the single "David Ashley Parker from Powder Springs",<ref name="allmusic"/> which has charted on [[Country Airplay]].  In 2019, Denning released his second single, "After a Few", which became a top ten hit on the Country Airplay chart. In May 2020, "After a Few" set a ''Billboard'' record by spending 60 weeks on the Country Airplay chart, breaking the previous record of 59 weeks, which had been set by [[Jimmie Allen]]'s single "[[Make Me Want To]]".<ref name="Country Update 5-4-20">{{cite web |title=Country Update May 4, 2020 |url=https://bulletins.billboard.com/country/country_update_0504.pdf |publisher=Billboard |accessdate=May 6, 2020 |date=May 4, 2020}}</ref> The following month, it reached number one after 65 weeks on the chart, also setting a record for the slowest ascent to the top.<ref name="Country Update 6-8-20">{{cite web |title=Country Update June 8, 2020 |url=https://bulletins.billboard.com/country/country_update_0608.pdf |publisher=Billboard |accessdate=June 9, 2020 |date=June 8, 2020}}</ref>
+
+"David Ashley Parker from Powder Springs" is based on Denning's real-life experiences with [[identity document forgery]] when he was underaged, and David Ashley Parker is a real person whose identity Denning used to buy beer and cigarettes when he was not old enough to do so legally.<ref>{{cite web|url=http://www.soundslikenashville.com/news/travis-denning-david-ashley-parker/|title=Travis Denning Changes His Identity on 'David Ashley Parker From Powder Springs'|last=Brickey|first=Kelly|date=March 31, 2018|work=Sounds Like Nashville|accessdate=July 10, 2018}}</ref> Denning wrote the song with [[Jon Randall]] and [[Jessi Alexander]].<ref>{{cite web|url=https://www.umgnashville.com/news/travis-denning-releases-debut-single-david-ashley-parker-powder-springs/|title=Travis Denning Releases Debut Single "David Ashley Parker From Powder Springs"|work=Universal Music Group Nashville|accessdate=July 10, 2018}}</ref> Denning also co-wrote [[Michael Ray (singer)|Michael Ray]]'s 2019 single "[[Her World or Mine]]".
+
+Denning has released his first [[extended play]], titled ''Beer's Better Cold'', on May 15, 2020.<ref>{{cite web |last1=Pearce |first1=Drew |title=Travis Denning Announces New EP, "Beer's Better Cold" |date=March 6, 2020 |url=https://www.soundslikenashville.com/music/travis-denning-beers-better-cold-ep/ |publisher=Sounds Like Nashville |accessdate=March 8, 2020}}</ref><ref name="BbCold">{{cite magazine|url= https://www.billboard.com/articles/columns/country/9405501/travis-denning-after-a-few-interview|title=Travis Denning on His Record Rise to No. 1 With 'After a Few': 'It's Affirmation You're Doing Things Right'|first=Jim|last=Asker|magazine=[[Billboard (magazine)|Billboard]]|date=June 18, 2020}}</ref> "Where That Beer’s Been" was sent to radio as the second single off the EP in June 2020.<ref name="WTBB">{{cite web|url=https://tasteofcountry.com/travis-denning-where-that-beers-been/|title= Travis Denning's 'Where That Beer's Been' Is Made for Summer Fun [Listen]|first=Billy|last=Dukes|work=Taste of Country|date=June 24, 2020}}</ref>
+
+==Personal life==
+In October 2021, Denning became engaged to Madison Montgomery, the daughter of fellow country singer [[John Michael Montgomery]], after two and a half years of dating.<ref>{{cite web|url=http://www.cmt.com/news/1838888/travis-denning-is-engaged-to-country-music-royalty/|archive-url=https://web.archive.org/web/20211105061148/http://www.cmt.com/news/1838888/travis-denning-is-engaged-to-country-music-royalty/|url-status=dead|archive-date=November 5, 2021|title=Travis Denning is Engaged to Country Music Royalty|last=Watts|first=Cindy|date=November 2, 2021|accessdate=November 9, 2021|work=CMT.com}}</ref> The couple wed on May 20, 2023.<ref>{{cite web|url=https://tasteofcountry.com/travis-denning-married-wedding-madison-montgomery/|title=Travis Denning Marries Madison Montgomery|last=Liptak|first=Carena|date=May 22, 2023|access-date=May 22, 2023|work=Taste of Country}}</ref>
+
+==Discography==
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:10em;"| Title
+! rowspan="2" style="width:20em;"| Details
+! colspan="2"| Peak chart positions
+|- style="font-size:smaller;"
+! style="width:4em;"| [[Billboard 200|US]]<br /><ref>{{cite magazine|url=https://www.billboard.com/charts/search?artistname=Travis+Denning&chartcode=TLP|title=Travis Denning, TLP|magazine=Billboard|accessdate=May 26, 2020|url-access=subscription}}</ref>
+! style="width:4em;"| [[Top Country Albums|US Country]]<br /><ref name="Country Albums">{{cite magazine|url= https://bulletins.billboard.com/country/country_update_0526.pdf|title=Billboard Country Update - May 26, 2020|magazine=[[Billboard (magazine)|Billboard]]}}</ref>
+|-
+! scope="row"| ''Beer's Better Cold''
+|
+* Released: May 15, 2020
+* Label: [[Mercury Nashville]]
+* Formats: [[Compact disc|CD]], [[Music download|digital download]], [[Streaming media|streaming]]
+| 170<br /><ref>{{cite tweet|number=1265334895351664641|user=billboardcharts|title=Debuts on this week's #Billboard200 (2/2):#99, @SheffG83 One And Only#111, @charli_xcx How I'm Feeling Now#124,…<!-- full text of tweet that Twitter returned to the bot (excluding links) added by TweetCiteBot. This may be better truncated or may need expanding (TW limits responses to 140 characters) or case changes. --> |date=May 26, 2020}}</ref>
+| 20
+|-
+! scope="row"| ''Dirt Road Down''
+|
+* Released: August 6, 2021
+* Label: [[Mercury Nashville]]
+* Formats: [[Compact disc|CD]], [[Music download|digital download]], [[Streaming media|streaming]]
+| —
+| —
+|-
+! scope="row"|''Might As Well Be Me''
+|
+* Released: August 5, 2022
+* Label: [[Universal Music Group Nashville|Mercury Nashville]]
+* Formats: [[Compact disc|CD]], [[Music download|digital download]], [[Streaming media|streaming]]
+|—
+|—
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Single
+! colspan="5"| Peak positions
+! rowspan="2"| Sales
+! scope="col" rowspan="2"| [[List of music recording certifications|Certifications]]
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! style="width:45px;"| [[Hot Country Songs|US Country Songs]]<br /><ref name="BCU">{{cite magazine|url=https://www.billboard.com/files/pdfs/country_update_0904.pdf|title=Billboard Country Update|magazine=Billboard|pages=7, 16|date=September 4, 2018|accessdate=September 5, 2018}}</ref><ref name="BCUP">{{cite magazine|url= https://bulletins.billboard.com/country/country_update_0608.pdf |title=Billboard Country Update - June 8, 2020|magazine=Billboard|date=June 8, 2020}}</ref>
+! style="width:45px;"| [[Country Airplay|US Country Airplay]]<br /><ref name="BCU"/><ref name="BCUP"/><ref>{{cite magazine|url= https://bulletins.billboard.com/country/country_update_0720.pdf |title=Billboard Country Update - July 7, 2020|magazine=Billboard|date=July 7, 2020}}</ref>
+! style="width:45px;"| [[Billboard Hot 100|US]]<br /><ref>{{cite magazine|url=https://www.billboard.com/charts/search?artistname=Travis+Denning&chartcode=HSI|title=Travis+Denning, HSI|magazine=Billboard|accessdate=June 9, 2020|url-access=subscription}}</ref>
+! style="width:45px;"| [[Canada Country|CAN Country]]<br><ref name="Canada Country">{{cite magazine|url=https://www.billboard.com/charts/canada-country/2020-05-30|title=Billboard Canada Country Chart - May 30, 2020|magazine=Billboard|accessdate=July 13, 2020}}</ref>
+! style="width:45px;"| [[Canadian Hot 100|CAN]]<br /><ref>{{cite magazine|url=https://www.billboard.com/charts/search?artistname=Travis+Denning&chartcode=CAN|title=Travis Denning, CAN|magazine=[[Billboard (magazine)|Billboard]]|accessdate=June 17, 2020|url-access=subscription}}</ref>
+|-
+| 2018
+! scope="row"| "[[David Ashley Parker from Powder Springs]]"
+|  37 || 32 || — || — || —
+|
+|
+* [[Recording Industry Association of America|RIAA]]: Gold<ref name="RIAA" />
+| {{n/a|Non-album single}}
+|-
+| 2019
+! scope="row"| "[[After a Few]]"
+| 7 || 1 || 31 || 2 || 59
+|
+*US: 26,000<ref>{{cite web |last=Bjorke |first=Matt |title=Top 30 Digital Country Singles Sales Chart: March 2, 2020|url=http://roughstock.com/news/2020/03/44155-top-30-digital-country-singles-sales-chart-march-2-2020|work=Rough Stock |date=March 4, 2020 |accessdate=March 14, 2020}}</ref>
+|
+* [[Recording Industry Association of America|RIAA]]: Platinum<ref name="RIAA">{{cite certification|region=United States|artist=Travis Denning|access-date=September 1, 2021}}</ref>
+| rowspan="3"|''Beer's Better Cold''
+|-
+| 2020
+! scope="row"| "Where That Beer’s Been"<ref name="WTBB"/>
+|  — || 58 || — || — || —
+|
+|
+|-
+| 2021
+! scope="row"| "ABBY"
+|  — || 52 || — || — || —
+|
+|
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders" style="text-align:center;" 
+! Year
+! style="width:20em;"| Title
+|-
+| 2018
+! scope="row"| "David Ashley Parker from Powder Springs"
+|-
+| rowspan="2"| 2019
+! scope="row"| "After a Few"
+|-
+! scope="row"| "Tank of Gas and a Radio Song"
+|-
+| 2020
+! scope="row"| "Sitting By A Fire"
+|-
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{official website|http://www.travisdenning.com/}}
+{{authority control}}
+
+{{DEFAULTSORT:Denning, Travis}}
+[[Category:1992 births]]
+[[Category:American country singer-songwriters]]
+[[Category:American country guitarists]]
+[[Category:American male singer-songwriters]]
+[[Category:American male guitarists]]
+[[Category:Country musicians from Georgia (U.S. state)]]
+[[Category:Living people]]
+[[Category:American guitarists]]
+[[Category:Mercury Records artists]]
+[[Category:People from Warner Robins, Georgia]]
+[[Category:Singers from Nashville, Tennessee]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:21st-century American guitarists]]
+[[Category:Country musicians from Tennessee]]
+[[Category:21st-century American male singers]]
+[[Category:Singer-songwriters from Georgia (U.S. state)]]
+[[Category:Singer-songwriters from Tennessee]]

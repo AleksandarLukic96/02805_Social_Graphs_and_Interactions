@@ -1,0 +1,192 @@
+{{short description|Australian country music singer (born 1968)}}
+{{Use dmy dates|date=January 2020}}
+{{Use Australian English|date=July 2017}}
+{{Infobox musical artist|<!-- See Wikipedia:WikiProject Musicians -->
+| name             = Tania Kernaghan
+| image            = Tania Kernaghan.jpg
+| background       = solo_singer <!-- mandatory format: this cannot be changed -->
+| birth_date       = {{Birth date and age|df=y|1968|7|18}}
+| birth_place      = [[Albury]], [[New South Wales]], Australia
+| genre            = [[Country music|Country]]
+| occupation       = Singer
+| years_active     = 1992–present
+| label            = [[ABC Records]] KCR
+| associated_acts  = [[Lee Kernaghan]], [[Ray Kernaghan]] Fiona Kernaghan Greg Kernaghan
+| website          = [http://www.taniakernaghan.com Tania Kernaghan Official Site]
+}}
+
+'''Tania Maree Kernaghan''' (born 18 July 1968) is an Australian country music singer.
+
+During her career, Tania has earned fifteen number one radio hits singles, numerous awards, sell out concerts and record sales in the hundreds of thousands. She has also performed at the [[Grand Ole Opry]] in Nashville.
+
+Tania is Vice Patron for ''Riding for the Disabled Association'' Australia (RDA). <ref name=About>{{cite web|title=Biography|url=http://www.taniakernaghan.com/biography.html|website=Tania Kernaghan official website|accessdate=1 July 2017}}</ref>
+
+==Career==
+In 1992, Kernaghan released her first single, "I'll Be Gone".<ref name=About />
+
+Her first album, ''December Moon'', was released in January 1996. It was nominated for Best Country Album at the [[ARIA Music Awards of 1996]]. The album was certified Gold by [[Australian Recording Industry Association|ARIA]] in 1997<ref>{{Cite web|url=http://www.aria.com.au/pages/aria-charts-accreditations-albums-1997.htm|title=ARIA Charts – Accreditations – 1997 Albums|website=aria.com.au|access-date=7 April 2016}}</ref> and Platinum in 1998.<ref>{{Cite web|url=http://www.aria.com.au/pages/aria-charts-accreditations-albums-1998.htm|title=ARIA Charts – Accreditations – 1998 Albums|website=aria.com.au|access-date=7 April 2016}}</ref>
+
+At the time of releasing her fourth album ''Higher Ground'' in 2005, Tania started her own record label, KCR.<ref name="sanity1">[http://www.sanity.com.au/product/product.asp?sku=1198265 KERNAGHAN, TANIA / HIGHER GROUND – Sanity.com.au – More Movies – More Music<!-- Bot generated title -->]</ref>
+
+Tania is an accomplished and well-known horsewoman and an acclaimed keynote speaker which she presents at various functions across Australia.<ref>{{Cite web|url=http://www.taniakernaghan.com/news.html|title=NEWS|website=Official Tania Kernaghan|access-date=7 April 2016}}</ref>
+
+== Discography ==
+===Studio albums===
+{|class="wikitable plainrowheaders" style="text-align:center;"
+!rowspan="2"| Title
+!rowspan="2"| Details
+!colspan="2"| Peak chart positions
+!rowspan="2" width="150"| [[Music recording sales certifications|Certifications]]<br><small>[[List of music recording sales certifications|(sales thresholds)]]</small>
+|-
+!style="width:3em;font-size:85%"|[[ARIA Charts|AUS]]<br><ref name="auscharts">{{cite web|url=http://australian-charts.com/search.asp?search=Tania+Kernaghan&cat=a |title=Australian Album Chart > Tania Kernaghan |publisher=australian-charts.com Hung Medien |accessdate=26 February 2017}}</ref>
+!style="width:3em;font-size:85%"|[[ARIA Charts|AUS<br>Country]]
+|-
+!scope="row"|''December Moon''
+|
+*Released: January 1996<ref name="Shop">{{cite web|title=Shop|url=http://www.taniakernaghan.com/shop.html|website=Tania Kernaghan Official Website|accessdate=21 April 2016}}</ref>
+*Label: ABC Music
+| 30
+| {{N/A}}
+|align="left"|
+*ARIA: Platinum<ref>{{cite web|url=http://www.aria.com.au/pages/aria-charts-accreditations-albums-1998.htm |title=ARIA Charts – Accreditations – 1998 Albums |publisher=[[Australian Recording Industry Association]] |accessdate=26 February 2017}}</ref>
+|-
+!scope="row"|''Dancing On Water''
+|
+*Released: February 1999<ref name="Shop"/>
+*Label: ABC Music
+| 29
+| {{N/A}}
+|align="left"|
+|-
+!scope="row"|''Big Sky Country''
+|
+*Released: 5 November 2001<ref name="Shop"/>
+*Label: ABC Music
+| —
+| 4<br /><ref>{{Cite web|url=http://www.aria.com.au/Issue611.pdf|title=ARIA Report issue 611|date=12 November 2001|accessdate=26 February 2017|url-status=bot: unknown|archiveurl=https://webarchive.nla.gov.au/awa/20020220130000/http://pandora.nla.gov.au/pan/23790/20020221-0000/www.aria.com.au/Issue611.pdf|archivedate=20 February 2002}}{{cbignore|bot=medic}}</ref>
+|align="left"|
+|-
+!scope="row"|''Higher Ground''
+|
+*Released: 19 October 2005<ref name="Shop"/>
+*Label: KCR / Shock
+| —
+| 5<br /><ref>{{Cite web|url=http://www.aria.com.au/ISSUE826.pdf|archive-url=https://webarchive.nla.gov.au/awa/20060119130000/http://pandora.nla.gov.au/pan/23790/20060120-0000/ISSUE826.pdf|url-status=dead|archive-date=2006-01-19|title=ARIA Report issue826|date=2 January 2006|accessdate=26 February 2017}}{{cbignore|bot=medic}}</ref>
+|align=left|
+|-
+!scope="row"|''Livin' the Dream''
+|
+*Released: 9 February 2009<ref name="Shop"/>
+*Label: KCR / Shock
+| —
+| 17<br /><ref>{{Cite web|url=http://www.aria.com.au/Issue995.pdf|archive-url=https://webarchive.nla.gov.au/awa/20090319130000/http://pandora.nla.gov.au/pan/23790/20090320-0000/Issue995.pdf|url-status=dead|archive-date=2009-03-19|title=ARIA Report issue 995|date=23 March 2009|accessdate=26 February 2017}}{{cbignore|bot=medic}}</ref>
+|align=left|
+|-
+!scope="row"|''All Australian Girl''
+|
+*Released: 17 February 2017<ref name="Shop"/>
+*Label: Tania Kernaghan Productions / WJO
+| 43
+| 6
+|
+|-
+|colspan="20" style="font-size:85%"| "—" denotes the album failed to chart or was not released.
+|}
+
+===Compilation albums===
+{|class="wikitable plainrowheaders" style="text-align:center;"
+!Title
+!Details
+|-
+!scope="row"|''Greatest Hits''
+|
+*Released: 16 May 2012<ref name="Shop"/>
+*Label: KCR / Shock
+*First greatest hits album (CD/DVD)
+|}
+
+== Awards and nominations==
+===AIR Awards===
+The Australian Independent Record Awards (commonly known informally as [[AIR Awards]]) is an annual awards night to recognise, promote and celebrate the success of Australia's Independent Music sector.
+{{awards table}}
+|-
+| [[AIR Awards of 2009|2009]]<ref name="09noms">{{cite web|url=https://www.auspop.com.au/2009/10/air-nominees/|title=AIR Nominees|date=19 October 2009|accessdate=19 August 2020|archive-date=18 September 2020|archive-url=https://web.archive.org/web/20200918230557/https://www.auspop.com.au/2009/10/air-nominees/|url-status=dead}}</ref><ref name="AIRwins">{{cite web|url=https://www.air.org.au/awards/history|title=History Wins|website=[[Australian Independent Record Labels Association]]|accessdate=18 August 2020}}</ref>
+|''Livin' the Dream'' 
+| Best Independent Country Album
+| {{nom}}
+|-
+{{end}}
+
+===ARIA Music Awards===
+The [[ARIA Music Awards]] are a set of annual ceremonies presented by [[Australian Recording Industry Association]] (ARIA), which recognise excellence, innovation, and achievement across all genres of the [[music of Australia]]. They commenced in 1987. 
+
+{{awards table}}
+! {{Abbr|Ref.|Reference}}
+|-
+| [[ARIA Music Awards of 1996|1996]] || ''December Moon'' || [[ARIA Award for Best Country Album|Best Country Album]] || {{nom}} || <ref>ARIA Award previous winners. {{cite web|url=http://www.ariaawards.com.au/history/award/Best-Country-Album|title=ARIA Awards Best Country Album|publisher=Australian Recording Industry Association (ARIA)|access-date=9 April 2022}}</ref>
+|-
+| [[ARIA Music Awards of 1999|1999]] || ''Dancing on Water'' || Best Country Album || {{nom}} || <ref>ARIA Award previous winners. {{cite web|url=http://www.ariaawards.com.au/history/award/Best-Country-Album|title=ARIA Awards Best Country Album|publisher=Australian Recording Industry Association (ARIA)|access-date=9 April 2022}}</ref>
+{{end}}
+
+===Country Music Awards of Australia===
+The [[Country Music Awards of Australia]] (CMAA) (also known as the Golden Guitar Awards) is an annual awards night held in January during the [[Tamworth Country Music Festival]], celebrating recording excellence in the Australian country music industry. They have been held annually since 1973.<ref>{{cite web|url=https://www.country.com.au/awards/past-award-winners|title=Past Award Winners|accessdate=2 November 2020}}</ref><ref>{{Cite web|url=http://www.historyofcountrymusic.com.au/cmhands.html|title=Country Music Hands of Fame|website=historyofcountrymusic.com.au|access-date=7 April 2016}}</ref>
+{{awards table}} (wins only)
+|-
+|rowspan=3| 1997
+| ''December Moon''
+| Album of the Year
+| {{won}}
+|-
+| Tania Kernaghan for "Where the Murray Meets the Darling"
+| Female Vocalist of the Year
+| {{won}}
+|-
+| "A Bushman Can't Survive" with Lee Kernaghan
+| Vocal Collaboration of the Year
+| {{won}}
+|-
+| 1998
+| Tania Kernaghan for "Dunroamin' Station"
+| Female Vocalist of the Year
+| {{won}}
+|-
+| 1999
+| Tania Kernaghan
+| Hands of Fame
+| {{yes2|imprinted}}
+{{end}}
+
+===Tamworth Songwriters Awards===
+The Tamworth Songwriters Association (TSA) is an annual songwriting contest for original country songs, awarded in January at the [[Tamworth Country Music Festival]]. They commenced in 1986.<ref>{{cite web|url=https://www.tsaonline.com.au/song-competition/|title=Tamworth Songwriters Association|website=Tamworth Songwriters Association Online|access-date=23 March 2022}}</ref><ref>{{cite web|url=https://www.tsaonline.com.au/past-winners/|title=Tamworth Songwriters Association Past Winners|website=Tamworth Songwriters Association Online|access-date=23 March 2022}}</ref>
+{{awards table}} (wins only)
+|-
+| 1997
+| "Where the Murray Meets the Darling" by Tania Kernaghan
+| Songmaker Award
+| {{won}}
+{{end}}
+
+== Other projects ==
+Tania is a presenter for Lifestyle TV Program What's Up Downunder which currently airs on Channel 10, One Digital, Southern Cross and numerous regional affiliates .<ref name="WUD1">[http://www.whatsupdownunder.com.au/touring-with-tania What's Up Downunder]</ref>
+
+She also had a part in the film 'Shadows of the Past' playing the role of Sally Robson.<ref name=SOP1>[http://www.shadowsofthepast.com.au/ Shadows of the Past Official Movie Site]</ref> And in 2019 appeared in Australian Indie Movie, An Unconventional Love
+
+Tania is Ambassador for Outback Queensland Tourism Association and Board Member
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.taniakernaghan.com/ Official Homepage]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kernaghan, Tania}}
+[[Category:1968 births]]
+[[Category:Living people]]
+[[Category:APRA Award winners]]
+[[Category:Australian country singers]]
+[[Category:Australian women singers]]
+[[Category:People from Albury, New South Wales]]
+[[Category:20th-century Australian women singers]]
+[[Category:21st-century Australian singers]]

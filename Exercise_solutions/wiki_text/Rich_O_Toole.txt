@@ -1,0 +1,137 @@
+{{short description|American singer-songwriter (born 1983)}}
+
+{{Use mdy dates|date=September 2020}}
+{{BLP sources|date=April 2020}}
+{{Infobox musical artist
+| image            = Rich O'Toole.jpg
+| caption          = Rich O'Toole in 2016
+| name             = Rich O'Toole
+| background       = solo_singer
+| birth_date       = {{birth date and age|1983|8|6}}
+| origin           = [[Houston]], Texas, U.S.
+| instrument       = Vocals, guitar
+| genre            = [[Country music|Country]]
+| years_active     = 2006–present
+| label            = PTO Records
+| website          = {{official website|http://www.richotoole.com/}}
+}}
+'''Rich O'Toole''' (born August 6, 1983) is an American [[Country music|country]] singer-songwriter from [[Houston]], Texas.
+
+== Career ==
+In early 2006, O'Toole released his debut album, ''Seventeen''. ''Americana Music Times'', then called ''Texas Music Times'', named ''Seventeen'' the "Best Album of 2006 That No One Told You About."<ref>Circeo, Steve, "The Best Albums of 2006 That No One Told You About," Texas Music Times, January 2007, [http://www.texasmusictimes.com/articles/0701/0701-Circeo-BestOf.php available online]</ref>
+
+O'Toole released his second album, the [[Mack Damon]] produced ''In a Minute or 2'', on October 21, 2008.<ref>{{cite web |url=http://www.caller.com/news/2010/dec/25/country-singer-rich-otoole-plays-rockin-good-time/ |title=Country singer Rich O'Toole plays rockin' good time » Corpus Christi Caller-Times |website=www.caller.com |access-date=17 January 2022 |archive-url=https://web.archive.org/web/20110102133539/http://www.caller.com/news/2010/dec/25/country-singer-rich-otoole-plays-rockin-good-time/ |archive-date=2 January 2011 |url-status=dead}}</ref> O'Toole's third album, ''Kiss of a Liar'' featured the duet with [[Josh Abbott]] titled "Ay Dios Mio" and a cover of [[Wilco]]'s "Casino Queen" with guest performer [[Pat Green]].
+
+O'Toole co-produced his fourth album, ''Brightwork'', with Damon and Ilya Toshinsky and released it on his personal record label, PTO Records.  His latest album, ''Jaded'', also on PTO, was released in June 2014.
+
+O’Toole released his 6th studio album "American Kid” on March 17, 2017. Which reached to 43 on the Billboard Country Charts and No. 5 on the Country iTunes Chart.
+
+In 2020 O’Toole signed a record deal with Average Joe's Entertainment giving him his own record imprint Buffalo Roam Records which released his 7th studio album “New York”.
+
+With over 20 Million streams on Spotify & Apple Music O’Toole has become a household name in the Texas Music scene. O’Toole is also a member of [[Mensa International|Mensa]] has launched several different successful iPhone Apps. “TexMoji” which sold over 65,000 units its first week and was featured in [[Time (magazine)|Time]] & [[People (magazine)|People Magazine]].
+
+O’Toole is currently writing his 8th studio album which will be released in 2022.
+
+==Discography==
+
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:12em;"| Title
+! rowspan="2" style="width:20em;"| Album details
+!| Peak positions
+|- style="font-size:smaller;"
+! style="width:65px;"| [[Top Country Albums|US Country]]<br /><ref>{{cite magazine|url={{BillboardURLbyName|artist=rich o'toole|chart=all}}|title=Rich O'Toole Album & Song Chart History – Country Albums|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=July 28, 2011}}</ref>
+|-
+! scope="row"| ''Seventeen''
+| 
+* Release date: March 20, 2007
+* Label: [[self-released]]
+| —
+|-
+! scope="row"| ''In a Minute or 2''
+| 
+* Release date: October 21, 2008
+* Label: Smith Music Group
+| —
+|-
+! scope="row"| ''Kiss of a Liar''
+| 
+* Release date: July 19, 2011
+* Label: [[Average Joe's Entertainment]]
+| 73
+|-
+! scope="row"| ''Brightwork''
+| 
+* Release date: February 19, 2013
+* Label: PTO Records
+| —
+|-
+! scope="row"| ''Jaded''
+| 
+* Release date: June 17, 2014
+* Label: PTO Records
+| 10
+|-
+| style="font-size:8pt" |''<big>American Kid</big>''
+|March 17, 2017
+|43
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:16em;"| Video
+! Director
+|-
+| 2008
+! scope="row"| "In A Minute or 2"
+| Mack Damon
+|-
+| rowspan="2"| 2011
+! scope="row"| "The Cricket Song"
+|
+|-
+! scope="row"| "Kiss of A Liar"
+|
+|-
+| rowspan="2"| 2012
+! scope="row"| "Marijuana and Jalapenos"
+|
+|-
+! scope="row"| "Drunk Girl"
+| Ted A. Borel
+|-
+| 2013
+! scope="row"| "Messin' Around"
+| Ted A. Borel
+|-
+| 2016
+! scope="row"| "Back to Back"
+| Kasey James and Ted Borel
+|-
+| 2017
+! scope="row"| "Take It From Here"
+| 
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{official website|http://www.richotoole.com/}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Otoole, Rich}}
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Living people]]
+[[Category:1983 births]]
+[[Category:Average Joes Entertainment artists]]
+[[Category:Singers from Houston]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:Country musicians from Texas]]
+[[Category:21st-century American male singers]]

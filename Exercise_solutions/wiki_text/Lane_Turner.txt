@@ -1,0 +1,99 @@
+{{short description|American singer-songwriter (born 1967)}}
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Lane Turner
+| image                 = 
+| caption            = 
+| image_size            = 
+| background          = solo_singer
+| birth_name          = Michael Lane Turner
+| origin              = [[Monahans, Texas]], United States
+| instrument          = Vocals, Acoustic Guitar<ref name="westernunderground.com">{{cite web|url=http://www.westernunderground.com/fr_home.cfm |title=westernunderground Resources and Information |website=Westernunderground.com |date= |accessdate=April 29, 2020}}</ref>
+| genre               = [[Country music|Country]]
+| occupation          = Singer-songwriter
+| years_active        = 2004–present
+| label               = [[Warner Bros. Records|Warner Bros.]]
+| associated_acts     = [[Blaine Larsen]], [[Chris LeDoux]]
+| website                 = 
+}}
+'''Michael Lane Turner''' (born February 3, 1967, in [[Monahans, Texas]]) is an American singer-songwriter. Signed to [[Warner Bros. Records]] since 2004, he released two singles for the label, including "Always Wanting More (Breathless)", which reached No.&nbsp;56 on the [[Hot Country Songs]] charts in 2004. Lane signed with Original Signal Recordings in 2009.
+
+== Early life ==
+Turner was born in Monahans, Texas, and attended school in [[Levelland, Texas|Levelland]], which he described as "a place so flat you can watch your dog run away for two days".<ref>{{cite news|last=Johnson|first=Natalie|title=Lane Turner could be the next country star|work=[[Lubbock Avalanche-Journal]]|date=September 2, 2008|url=http://www.lubbockonline.com/stories/090208/liv_326496802.shtml|accessdate=October 1, 2008}}</ref><ref>{{cite web|title=Meet "The Next GAC Star" Finalist Lane Turner, Page 1|publisher=[[Great American Country]]|url=http://www.gactv.com/gac/nw_feature/article/0,3038,GAC_26499_5917657_01,00.html|accessdate=October 1, 2008|archive-url=https://web.archive.org/web/20120211172244/http://www.gactv.com/gac/nw_feature/article/0,3038,GAC_26499_5917657_01,00.html|archive-date=February 11, 2012|url-status=dead}}</ref> He received his first guitar as a gift from his parents when he was eleven years old and his father taught him to play the songs he heard on the radio.<ref name=Bio>{{cite web|title=Lane Turner|publisher=[[New Country Star]]|url=http://www.newcountrystar.com/LaneTurner.htm|accessdate=October 1, 2008}}</ref> He attended [[Texas Tech University]] in [[Lubbock, Texas|Lubbock]], where he was an [[All-America]]n [[decathlon|decathlete]]. He also played in a band called Diamondback during his time in college.<ref name=Bio /><ref>{{cite web|title=Meet "The Next GAC Star" Finalist Lane Turner, Page 2|publisher=[[Great American Country]]|page=2|url=http://www.gactv.com/gac/nw_feature/article/0,3038,GAC_26499_5917657_02,00.html|accessdate=October 1, 2008|archive-url=https://web.archive.org/web/20080916222058/http://www.gactv.com/gac/nw_feature/article/0,3038,GAC_26499_5917657_02,00.html|archive-date=September 16, 2008|url-status=dead}}</ref>
+
+== Singing career ==
+Turner signed to Warner Bros. Records in 2004. He released two singles for the label—"Always Wanting More (Breathless)" and "Let You Go"—but no album. He also co-wrote [[Blaine Larsen]]'s single "I Don't Know What She Said".
+
+In 2008, Turner was a contestant on ''The Next GAC Star'', which aired on the network [[Great American Country]]. He completed the competition as runner up to winning band One Night Rodeo.<ref name=Bio /><ref>{{cite news|last=Keel|first=Beverly|date=September 1, 2008|title=2 from Tennessee compete in Bravo model search|work=The Tennessean|url=http://www.tennessean.com/apps/pbcs.dll/article?AID=/20080915/COLUMNIST0501/809150347/1005/ENTERTAINMENT|accessdate=October 1, 2008}} {{Dead link|date=October 2010|bot=H3llBot}}</ref><ref>{{cite web|title=The Votes Are In: Who's The Next GAC Star?|publisher=[[Great American Country]]|url=http://www.gactv.com/gac/nw_headlines/article/0,3034,GAC_26063_5937578_,00.html|accessdate=October 1, 2008|archive-url=https://web.archive.org/web/20080926154459/http://www.gactv.com/gac/nw_headlines/article/0,3034,GAC_26063_5937578_,00.html|archive-date=September 26, 2008|url-status=dead}}</ref>
+
+As of early 2011, Lane has replaced Dustin Evans as lead vocalist for the country music band Western Underground, originally fronted by [[Chris LeDoux]].<ref name="westernunderground.com"/>
+
+Lane has continued in the Western Underground tradition as the base player for Ned Ledoux’s band.  [[Ned LeDoux]].
+
+==Discography==
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:22em;"| Single
+!| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! style="width:65px;"| [[Hot Country Songs|US Country]]
+|-
+| 2004
+! scope="row"| "Always Wanting More (Breathless)"
+| 56
+| style="text-align:left;" rowspan="3"| ''Right On Time''
+|-
+| 2006
+! scope="row"| "Let You Go"
+|  —
+|-
+| 2008
+! scope="row"| "Little Book of Matches"
+| —
+|-
+| 2009
+! scope="row"| "Where's a Sunset (When You Need One)"
+| —
+| style="text-align:left;"| ''Lane Turner''<ref>{{cite web|url=https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Ddigital-music&field-keywords=lane+turner&x=6&y=22 |title=lane turner: Digital Music |website=Amazon.com |date=April 2, 2020|accessdate=April 29, 2020}}</ref>
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:22em;"| Video
+|-
+| 2006
+! scope="row"| "Let You Go"
+|-
+| 2008
+! scope="row"| "Little Book of Matches"
+|-
+| 2009
+! scope="row"| "Where's a Sunset (When You Need One)"
+|}
+
+== References ==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Turner, Lane}}
+[[Category:1967 births]]
+[[Category:Living people]]
+[[Category:American male singer-songwriters]]
+[[Category:American country singer-songwriters]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:People from Monahans, Texas]]
+[[Category:Texas Tech University alumni]]
+[[Category:Warner Records artists]]
+[[Category:American male decathletes]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:Country musicians from Texas]]
+[[Category:21st-century American male singers]]

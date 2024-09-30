@@ -1,0 +1,172 @@
+{{Short description|Swamp blues musician}}
+
+{{Use Australian English|date=April 2021}}
+{{Use dmy dates|date=April 2021}}
+{{Infobox musical artist
+| name            = 8 Ball Aitken
+| image           =
+| image_size      =
+| landscape       = <!-- yes, if wide image, otherwise leave blank -->
+| alt             =
+| caption         =
+| alias           =
+| birth_date      =
+| birth_place     = Brisbane Queensland, Australia
+| instruments     = Vocals
+| genre           =
+| occupation      = Songwriter, singer
+| years_active    = 2004–present
+| label           = Phoenix Movement Records, Red Rocker Records
+| associated_acts =
+| website         = {{URL|https://www.8ballaitken.com}}
+}}
+
+'''8 Ball Aitken''' (born 9 June 1981) is an [[Australians|Australian]] singer, songwriter, and guitarist. 8 Ball plays blues, swamp-blues, swamp-rock, alternative country, and Americana music. He is notable for his fusion of [[Blues|Australian blues]] and [[country music]].<ref>{{cite web|url=http://www.8ballaitken.com |title=8 Ball Music |publisher=8 Ball Aitken |access-date=29 April 2010| archive-url= https://web.archive.org/web/20100414061022/http://www.8ballaitken.com/| archive-date= 14 April 2010 | url-status= live}}</ref>
+
+Aitken is the founder of the Mt Coot-tha Songwriters Festival.<ref>{{cite web |url=http://www.grassrootsmusicfestival.com.au |title=Grass Roots: Welcome |publisher=Grassrootsmusicfestival.com.au |access-date=29 April 2010 |archive-url=https://web.archive.org/web/20170801150623/http://www.grassrootsmusicfestival.com.au/ |archive-date=1 August 2017 |url-status=dead }}</ref>
+
+==History==
+At the 2008 Q Song Awards, Aitken won Blues and Roots Song of the Year for "Yellow Moon". At the same awards in 2009, "Outback Booty Call" won Country Song of the Year.<ref>{{cite web |url=http://www.fasterlouder.com.au/news/local/14458/Q-Song-2008-award-winners-announced.htm |title=Q Song 2008 award winners announced on |publisher=Fasterlouder.com.au |date=2008-08-14 |access-date=2010-04-29 |archive-url=https://web.archive.org/web/20120307114406/http://www.fasterlouder.com.au/news/local/14458/Q-Song-2008-award-winners-announced.htm |archive-date=7 March 2012 |url-status=dead }}</ref>
+
+Aitken's song "Cowboy Movie" was nominated for the Australian Blues & Roots Song of the Year at the [[APRA Music Awards of 2009]].<ref>{{cite web|url=http://www.apra-amcos.com.au/news/allnews/2009APRAMusicAwardsNomineesAnnounced.aspx |title=2009 APRA Music Awards: Nominees Announced |date=27 May 2009|access-date=29 April 2010|url-status=dead |archive-url=https://web.archive.org/web/20090531125825/http://www.apra-amcos.com.au/news/allnews/2009APRAMusicAwardsNomineesAnnounced.aspx |archive-date=31 May 2009}}</ref>
+
+Aitken third studio album ''Rebel with a Cause'' was produced by Garth Porter.<ref>{{cite web |url=http://www.8ballaitken.com/Rebel-With-A-Cause-scp3000.html |title=8 Ball Music: Rebel with a Cause |access-date=2 November 2011 |archive-url=https://web.archive.org/web/20111105061145/http://www.8ballaitken.com/Rebel-With-A-Cause-scp3000.html |archive-date=5 November 2011 |url-status=dead }}</ref> The album produced two top 10 country hits, "Cyclone Country" & "Hands on Top of the Wheel".<ref>{{cite web |url=http://www.countrymusicradio.com.au/index.cfm?page_id=1025&news_display_year_3229=2009&display_news_id_3229=1041 |title=Archive |publisher=Country Music Radio |access-date=29 April 2010 |archive-url=https://web.archive.org/web/20091017041620/http://www.countrymusicradio.com.au/index.cfm?page_id=1025&news_display_year_3229=2009&display_news_id_3229=1041 |archive-date=17 October 2009 |url-status=dead }}</ref>
+
+In 2013, Aitken had a one song in the Australian Country Music Radio Charts with song "She's Going to Mexico, I'm Going to Jail".<ref>{{cite web|url=http://www.8ballaitken.com/|title=8 Ball Aitken: Bio|website=8 Ball Aitken Homepage|access-date=6 January 2015}}</ref>
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="1" style="width:15em;"| Title
+! rowspan="1" style="width:22em;"| Details
+|-
+! scope="row"| ''Behind the 8 Ball''
+| 
+* Release date: 2004
+* Label: Phoenix Movement Records (8BALL002)
+* Formats: CD, DD
+|-
+! scope="row"| ''Odd Ball In''
+| 
+* Release date: 2006
+* Label: Phoenix Movement Records (Odd Ball In)
+* Formats: CD, DD
+|-
+! scope="row"| ''Rebel with a Cause''
+| 
+* Release date: 2009
+* Label: Red Rocker Records, MGM (9324690029488)
+* Formats: CD, DD
+|-
+! scope="row"| ''The Tamworth Tapes''
+| 
+* Release date: 2011
+* Label: Red Rocker Records (8BALL004)
+* Formats: CD, DD
+|-
+! scope="row"| ''Alive in Tamworth''
+| 
+* Release date: 2012
+* Label: Red Rocker Records (8BALL005)
+* Formats: CD, DD
+|-
+! scope="row"| ''Southern Hemisphere''
+| 
+* Release date: 2013
+* Label: Red Rocker Records (8BALL008)
+* Formats: CD, DD
+|-
+! scope="row"| ''The New Normal''
+| 
+* Release date: January 2015
+* Label: Red Rocker Records (8BALL009)
+* Formats: CD, DD
+|-
+! scope="row"| ''Swamp Blues''
+| 
+* Release date: February 2018
+* Label: Red Rocker Records (8BALL010)
+* Formats: CD, DD, LP, streaming
+|-
+! scope="row"| ''Swamp Blues 2''
+| 
+* Release date: April 2020
+* Label: Red Rocker Records (8BALL011)
+* Formats: CD, DD, LP, streaming
+|-
+! scope="row"| ''Ice Cream Man''
+| 
+* Release date: 23 April 2021<ref>{{cite web|url=https://music.apple.com/au/album/ice-cream-man/1551724501|title=Ice Cream Man (DD)|website=Apple Music|date=23 April 2021|access-date=31 May 2021}}</ref>
+* Label: Red Rocker Records
+* Formats: DD, streaming
+|}
+
+===Compilations albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="1" style="width:15em;"| Title
+! rowspan="1" style="width:22em;"| Details
+|-
+! scope="row"| ''A Bluer Shade of Blue''
+| 
+* Release date: 2013
+* Label: Red Rocker Records
+* Formats: CD, DD
+|-
+! scope="row"| ''8 Ball Aitken''
+| 
+* Release date: 2016
+* Label: Red Rocker Records
+* Formats: CD, DD, LP, streaming
+|}
+
+==Awards and nominations==
+===APRA Awards===
+The [[APRA Awards (Australia)|APRA Awards]] are held in Australia and New Zealand by the [[Australasian Performing Right Association]] to recognise songwriting skills, sales and airplay performance by its members annually. Aitken has been nominated for one award.
+
+{{Awards table}}
+! {{Abbr|Ref.|Reference}}
+|-
+! scope="row"| [[APRA Music Awards of 2009|2009]]
+| "Cowboy Movie"
+| Australian Blues & Roots Song of the Year
+| {{Nom}}
+|
+|-
+! scope="row"| [[APRA Music Awards of 2019|2019]] 
+| "High Water" (8 Ball Aitken / Guthrie Kennard)
+| Song of the Year
+| {{shortlisted}}
+| <ref>{{cite web|url=https://musicfeeds.com.au/news/apra-reveals-2019-song-of-the-year-shortlist/|title=APRA Reveals 2019 Song of the Year Shortlist|website=[[Music Feeds]]|date=5 February 2019|access-date=26 April 2022}}</ref>
+|-
+{{end}}
+
+===Q Song Awards===
+The [[Queensland Music Awards]] (previously known as Q Song Awards) are annual awards celebrating [[Queensland, Australia]]'s brightest emerging artists and established legends. They commenced in 2006.<ref>{{cite web|url=https://www.queenslandmusicawards.com.au/about|title= About the Queensland Music Awards|website=Queensland Music Awards|access-date=21 March 2021}}</ref>
+
+{{Awards table}} <small>(wins only)</small>
+|-
+| [[Queensland Music Awards#2008 Q Song Awards|2008]]<ref>{{cite web|url= https://www.queenslandmusicawards.com.au/past-winners/2008|title=Past Winners 2008|website=Queensland Music Awards|access-date=25 March 2021}}</ref>
+| "Yellow Moon"
+| Blues and Roots Song of the Year 
+| {{won}}
+|-
+| [[Queensland Music Awards#2009 Q Song Awards|2009]]<ref>{{cite web|url= https://www.queenslandmusicawards.com.au/past-winners/2009|title=Past Winners 2009|website=Queensland Music Awards|access-date=25 March 2021}}</ref>
+| "Outback Booty Call"
+| Country Song of the Year 
+| {{won}}
+|-
+{{end}}
+
+==References==
+{{Reflist}}
+ 
+{{Authority control}}
+
+{{DEFAULTSORT:Aitken, 8 Ball}}
+[[Category:1981 births]]
+[[Category:Living people]]
+[[Category:Australian blues singers]]
+[[Category:Australian country singers]]
+[[Category:21st-century Australian male singers]]

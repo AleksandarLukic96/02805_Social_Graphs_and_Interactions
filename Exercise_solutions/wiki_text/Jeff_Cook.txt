@@ -1,0 +1,76 @@
+{{Use mdy dates|date=May 2023}}
+{{Short description|American country musician (1949–2022)}}
+{{Other people}}
+{{Infobox musical artist
+| name             = Jeff Cook
+| image            = Jeff Cook.jpg
+| caption          = Cook performing with [[Alabama (band)|Alabama]] in 2014
+| image_size       = 
+| birth_name       = Jeffrey Alan Cook
+| birth_date       = {{Birth date|1949|08|27}}
+| birth_place      = [[Fort Payne, Alabama]], U.S.
+| instrument       = Vocals, guitar, fiddle, piano
+| death_date       = {{Death date and age|2022|11|07|1949|08|27}}
+| death_place      = [[Destin, Florida]], U.S.
+| genre            = [[Country music|Country]], [[country rock]]
+| occupation       = Musician, songwriter
+| years_active     = 1972–2022
+| past_member_of = [[Alabama (band)|Alabama]]
+}}
+
+'''Jeffrey Alan Cook''' (August 27, 1949 – November 7, 2022) was an American [[country music|country]] musician. He was best known for being a founding member of the band [[Alabama (band)|Alabama]], in which he contributed to occasional lead vocals, guitar, [[fiddle]], piano and other musical instruments.
+
+==Life and career==
+Jeffrey Alan Cook was born in [[Fort Payne, Alabama]]. He was a graduate of [[Fort Payne City Schools|Fort Payne High School]] and [[Jacksonville State University]]. He obtained a [[Broadcast engineering|broadcast engineer]] license three days after his fourteenth birthday, and worked at a local radio station as a [[disc jockey]] while still in high school.<ref name="official">[http://cookandglenn.com/bio_jeff.html Jeff Cook and the AGB: Jeff Cook biography]</ref>
+
+Cook co-founded the band Wildcountry, along with his cousins [[Randy Owen]] and Teddy Gentry, in 1972 (the name was changed to Alabama in 1977).  He contributed lead as well as backing vocals, lead guitar, keyboard, and fiddle to the group's productions.<ref>[{{AllMusic|class=artist|id=p1500|pure_url=yes}} Allmusic Biography: Alabama]</ref>  Since the band ceased active production and performance in 2004, Cook has formed the groups Cook & Glenn and the Allstar Goodtime Band, with which he performed.<ref>"Songwriters Honored with Special Concert," ''The Huntsville Times'', September 13, 2007, p. 7G</ref>
+
+In addition to his performance work, Cook founded Cook Sound Studios, Inc., in his native Fort Payne, and also established radio station WQRX-AM, which he later sold, in adjacent [[Valley Head, Alabama]].<ref name ="official"/>  Cook is also noted for his culinary endeavors, having operated a restaurant and marketed his own sauce.<ref>"Cook's 'Zesty' Hobby a Feature of Saturday Event," ''The Huntsville Times'', July 25, 2007, p, 1C</ref>
+
+Cook endorsed the 2008 presidential candidacy of former [[Arkansas]] governor [[Mike Huckabee]], and made appearances with the candidate in Alabama.<ref>[http://blog.al.com/spotnews/2008/02/huckabee_tells_huntsville_crow.html "Huckabee Tells Huntsville Crowd He'll Stay in Race," ''The Birmingham News'' blogs, February 2, 2008]</ref>
+
+Cook was inducted into the [[Musicians Hall of Fame and Museum]] in 2019.
+
+==Personal life and death==
+On April 11, 2017, Cook disclosed that he was diagnosed with [[Parkinson's disease]] four years earlier. He stopped touring regularly with Alabama in 2018,<ref>{{Cite news|url=https://www.usatoday.com/story/life/music/2017/04/11/exclusive-alabama-member-reveals-parkinsons-diagnosis/100325784/|title=Exclusive: Alabama member reveals Parkinson's diagnosis|work=USA TODAY|access-date=May 27, 2017|language=en}}</ref> but did join the band for their 50th Anniversary tour in 2022.<ref>{{cite news |last1=Raucoules |first1=Gregory |title=Alabama 50th Anniversary Tour coming to Knoxville |url=https://www.wate.com/news/local-news/alabama-50th-anniversary-tour-coming-to-knoxville/ |access-date=March 19, 2022 |work=WATE 6 On Your Side |date=February 15, 2022}}</ref> Cook died of complications from Parkinson's disease in [[Destin, Florida]], on November 7, 2022, at the age of 73.<ref>{{cite magazine | url=https://www.rollingstone.com/music/music-country/jeff-cook-alabama-guitarist-dead-obituary-1234627084/ | title=Jeff Cook, Alabama Co-Founder and Guitarist, Dead at 73 | magazine=[[Rolling Stone]] | date=November 8, 2022 }}</ref><ref>{{cite web | url=https://www.tennessean.com/story/entertainment/music/2022/11/08/jeff-cook-alabama-2022-band-co-founding-member-dies/69611215007/ | title=Jeff Cook, co-founding member of country band Alabama, dies at 73 | work=[[The Tennessean]] | date=November 8, 2022 | accessdate=November 8, 2022 | author=Matthew Leimkuehler}}</ref>
+
+==Solo discography ==
+*2005: ''On Fire''
+*2008: ''Just Pickin'''
+*2009: ''Ashes Won't Burn''
+*2009: ''Jeff Cook Presents Christmas Joy''
+*2009: "Tribute to a Soldier" (single with [[Charlie Daniels]] and Ken Randolph)
+*2010: ''Shaken... Not Stirred''
+*2011: ''2 Rock 4 Country''
+*2011: ''Bits & Pieces / Odds & Ends''
+*2012: ''Shaken Not Stirred''
+*2018: ''Why Not Me'' with William Shatner
+
+== References ==
+{{Reflist}}
+https://www.mynewsletterbuilder.com/email/newsletter/1416074853
+
+==External links==
+{{cc}}
+*[http://www.jeffcook-agb.com/index.html Jeff Cook and the AGB] official website
+*[http://www.thealabamaband.com/ The Alabama Band] official website
+* {{discogs artist|Jeff Cook (2)}}
+* {{imdb name|1187954}}
+
+{{Alabama (band)|Alabama}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Cook, Jeff}}
+[[Category:1949 births]]
+[[Category:2022 deaths]]
+[[Category:Alabama (American band) members]]
+[[Category:Alabama Republicans]]
+[[Category:American country fiddlers]]
+[[Category:American country singer-songwriters]]
+[[Category:Deaths from Parkinson's disease in Florida]]
+[[Category:People from Fort Payne, Alabama]]
+[[Category:Country Music Hall of Fame inductees]]
+[[Category:Members of the Country Music Association]]
+[[Category:Singer-songwriters from Alabama]]
+[[Category:Jacksonville State University alumni]]

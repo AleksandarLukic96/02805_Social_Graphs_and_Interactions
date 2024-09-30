@@ -1,0 +1,112 @@
+{{short description|American country music singer (born 2005}}
+{{Infobox musical artist
+| name             = 
+| image            = Jordan Rager at Zydeco.jpg
+| caption          = Rager playing at Zydeco in 2014
+| image_size       = 
+| landscape        = 
+| birth_name       = 
+| birth_date       = {{Birth date and age|1994|2|21}}
+| birth_place      = [[Loganville, Georgia]]
+| origin           = [[Nashville, Tennessee]]
+| genre            = [[Country music|Country]]
+| occupation       = 
+| instrument       = 
+| years_active     = 2014-present
+| label            = Riser House<br>[[Broken Bow Records|Broken Bow]]
+| associated_acts  = [[Jason Aldean]]
+}}
+'''Jordan Rager''' (born February 21, 1994) is an American [[country music]] singer.
+
+Rager was born in [[Loganville, Georgia]]. He performed in local bars since age 15, and was mentored by Barry Williams, who is [[Jason Aldean]]'s father.<ref>{{cite web|url=http://www.cmt.com/news/1762151/who-is-that-singing-with-jordan-rager/|archive-url=https://web.archive.org/web/20160131083555/http://www.cmt.com/news/1762151/who-is-that-singing-with-jordan-rager/|url-status=dead|archive-date=January 31, 2016|title=Who Is That Singing With Jordan Rager?|last=Bonaguro|first=Alison|date=January 29, 2016|work=[[Country Music Television]]|access-date=16 March 2016}}</ref> He gained popularity by singing [[cover version]]s of popular country music songs, amassing more than 3.7 million viewers on [[YouTube]] as a result. One of the artists who discovered his videos was [[Justin Moore]], who chose him to perform on the "Off the Beaten Path" tour. Rager was signed to [[Broken Bow Records]] in 2014.<ref name="mr">{{cite web|url=http://www.musicrow.com/2016/02/jordan-rager-spins-youtube-views-into-bbr-deal-debut-single/|title=Jordan Rager Spins YouTube Views Into BBR Deal, Debut Single|last=Nicholson|first=Jessica|date=February 19, 2016|work=[[MusicRow]]|access-date=16 March 2016}}</ref>
+
+Rager released his debut single, "Southern Boy", via Broken Bow in February 2016. The song, which features Aldean on duet vocals, was written by [[Luke Laird]], [[Barry Dean (songwriter)|Barry Dean]], [[Jeremy Stover]], and Jaron Boyer,<ref>{{cite web|url=http://theboot.com/jordan-rager-southern-boy-song-with-jason-aldean/|title=Hear Country Newcomer Jordan Rager Team With Jason Aldean for Debut Single, 'Southern Boy' Read More: Hear Jordan Rager's Debut Single With Jason Aldean, 'Southern Boy'|last=Allers|first=Hannahlee|work=The Boot|access-date=16 March 2016}}</ref> with Stover also serving as producer.<ref name="mr"/> Jordan Rager's Second Single, "Now That I Know Your Name" released to country radio on September 19, 2016.
+
+Jordan amicably parted ways with Broken Bow, and signed a deal with his current label, Riser House Records in 2017. On March 30, 2018, his single, "One of the Good Ones" was released via Riser House. The single, written by Ross Ellis, Chris Stevens, and James McNair, is the first from Rager's upcoming EP.<ref>{{cite web|title=Jordan Rager finds 'One of the Good Ones'|url=http://sportsandentertainmentnashville.com/jordan-rager-finds-one-of-the-good-ones/|website=[[Sports and Entertainment Nasville]]|access-date=July 25, 2018}}</ref>
+
+In June 2021, Rager signed with Sprockets Music.<ref>{{Cite web|url=https://musicrow.com/2021/06/jordan-rager-signs-publishing-deal-with-sprockets-music/|title=Jordan Rager Signs Publishing Deal With Sprockets Music|date=June 3, 2021}}</ref>
+
+==Discography==
+===Albums===
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;" 
+|-
+! style="width:10em;"| Title
+! style="width:16em;"| Details
+! style="width:9em;"| Sales
+|-
+! scope="row"| ''Southern Boy''<ref>{{cite web |url=https://itunes.apple.com/us/album/southern-boy-ep/id1168721364 |title=Southern Boy - EP|author=Jordan Rager|work=iTunes }}</ref>
+| 
+* Release date: October 28, 2016
+* Label: [[Broken Bow Records]]
+* Formats: [[Music download]]
+|
+*US: 700<ref>{{cite news |url=http://roughstock.com/news/2016/11/41044-top-10-country-albums-sales-chart-november-8-2016 |title=Top 10 Country Albums Sales Chart: November 7, 2016 |first= Matt |last=Bjorke |date=November 6, 2016 |work=Roughstock }}</ref>
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2"| Year
+! scope="col" rowspan="2" style="width:18em;"| Title
+! scope="col" colspan="2"| Peak chart<br />positions
+! scope="col" rowspan="2"| Albums
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US <br>Country]]<br><ref>{{cite magazine|url={{BillboardURLbyName|artist=jordan rager|chart=Country Songs}}|title=Jordan Rager Album & Song Chart History – Country Songs|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]}}</ref>
+! scope="col" style="width:4.5em;"| [[Country Airplay|US <br>Country Airplay]]<br><ref>{{cite magazine|url={{BillboardURLbyName|artist=jordan rager|chart=Country Airplay}}|title=Jordan Rager Album & Song Chart History – Country Airplay|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]}}</ref>
+|-
+| rowspan="2"| 2016
+| align="left"|"Southern Boy" {{small|(with [[Jason Aldean]])}}
+| 41
+| 37
+| style="text-align:left;" rowspan="2"| ''Southern Boy EP''
+|-
+| align="left"|"Now That I Know Your Name"
+| —
+| —
+|-
+| 2018
+| align="left"|"One of the Good Ones"
+| —
+| —
+| {{N/A}}
+|-
+| 2019
+| align="left"|"Colorblind"
+| —
+| —
+| {{N/A}}
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:18em;"| Video
+! Director
+|-
+| 2016
+| align="left"|"Southern Boy"<ref>{{cite web|title=Southern Boy – Jordan Rager|url=http://www.vevo.com/watch/jordan-rager/Southern-Boy/US58E1692543|website=[[Vevo]]|access-date=August 2, 2016}}</ref>
+| Ford Fairchild
+|-
+|}
+
+==References==
+{{Reflist}}
+
+{{The Voice (U.S.) Season 2}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Rager, Jordan}}
+[[Category:American male singer-songwriters]]
+[[Category:American country singer-songwriters]]
+[[Category:BBR Music Group artists]]
+[[Category:Living people]]
+[[Category:People from Gwinnett County, Georgia]]
+[[Category:The Voice (franchise) contestants]]
+[[Category:1994 births]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:Country musicians from Georgia (U.S. state)]]
+[[Category:21st-century American male singers]]
+[[Category:Singer-songwriters from Georgia (U.S. state)]]

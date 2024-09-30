@@ -1,0 +1,159 @@
+{{short description|American singer-songwriter}}
+
+{{Infobox musical artist
+| honorific_prefix = 
+| name = Doug Seegers
+| honorific_suffix = 
+| image = Doug_Seegers_in_June_2015.jpg
+| alt = 
+| caption = Doug Seegers before [[Allsång på Skansen]] in 2015
+| birth_name = 
+| native_name = 
+| native_name_lang = 
+| alias = 
+| birth_date = {{birth year and age|1952}}
+| birth_place = [[Long Island]], [[New York (state)|New York]], United States
+| origin = 
+| death_date = 
+| death_place = 
+| genre = [[country music|country]]
+| occupation = Singer, musician, songwriter
+| instrument = [[Guitar]]
+| years_active = 2014-present
+| label = [[Lionheart Music Group|Lionheart]]
+| associated_acts = [[Jill Johnson]]
+| website = 
+}}
+'''Douglas Seegers''' (born c. 1952 in [[Long Island]], [[New York (state)|New York]], United States) is an American [[country music]] artist, guitarist and songwriter.
+
+==Life and work==
+Seegers graduated from [[West Islip High School]] and started playing music in New York and Austin, Texas, before moving to upstate New York, where he married and raised two children. Eventually, he went alone to [[Nashville]], where he played on the streets and became a regular at The Little Pantry That Could, a West Nashville charity that holds regular songwriter nights. He lived as a [[homelessness|homeless]] struggling musician.<ref name=wsj>{{cite news|url=https://blogs.wsj.com/speakeasy/2014/07/29/doug-seegers-and-emmylou-harris-duet-on-gram-parsons-she-exclusive-song-premiere/|author=Eric R. Danton|title=Doug Seegers and Emmylou Harris duet on Gram Parsons' "She"|newspaper=[[The Wall Street Journal]]|date=29 July 2014|accessdate=16 August 2014}}</ref><ref>[https://www.newsday.com/entertainment/columnists/glenn-gamboa/doug-seegers-new-album-1.32888522 "Doug Seegers new album"], ''Newsday''</ref>
+
+On 17 December 2012, [[Aaron Espe]], an American singer-songwriter and record producer based in Nashville, uploaded a live 1 minute 11 second rendition of Seegers singing "[[Going Down to the River]]" on his own ''YouTube'' account. Espe entitled his upload "Who Is Doug Seegers?". The video did not pick up much reaction.
+
+Seegers became known to the Swedish public when he appeared on the Swedish TV show ''[[Jills veranda]]'',  presented by [[Jill Johnson]], on 5 March 2014.<ref>[http://www.svt.se/jills-veranda/intervju-med-doug-efter-succen SVT.se: Första intervjun efter succén - Doug: "Jag vill tacka alla i Sverige med en konsert"] {{in lang|sv}}</ref><ref name=pri>{{cite news|url=http://www.pri.org/stories/2014-05-29/you-probably-dont-know-his-name-nashville-musician-huge-sweden|author=Ashley Cleek|title=You probably don't know his name, but this Nashville musician is huge in Sweden|website=The World|date=29 May 2014|accessdate=16 August 2014}}</ref> ''Jills veranda'' was a 6-episode [[Sveriges Television|SVT]] TV series recorded in Nashville, in which Johnson and six Swedish artists explored the city. At the time the program was recording, its Johnson, her guest [[Magnus Carlson]] and the production team from [[Eyeworks]] met Seegers who was sitting on a park bench in Nashville. Minutes earlier, Johnson was buying food from a street vendor and the latter, hearing she was filming a documentary about music in Nashville, recommended that they listen to a street musician across the street telling her, "You have to hear him, he has the most unique voice in country music." Johnson went to Seegers who performed his own song, "Going Down to the River". Johnson and Carlson loved his performance so much that they returned some time later and offered to record the song with him in [[Johnny Cash]]'s old studio in Nashville.
+
+Seegers gained instant popularity after the episode was broadcast. His ''[[Facebook]]'' account was inundated by new Swedish fans and "Going Down to the River" was number 1 on the Swedish iTunes Charts for 12 consecutive days. The track also appeared on Johnson's album, ''[[Livemusiken från Jills Veranda Nashville]]'', which topped [[Sverigetopplistan]], the official Swedish Albums Chart, and was certified gold.
+
+Seegers was offered a recording contract with Lionheart Music Group resulting in the release of his first album also titled ''[[Going Down to the River (album)|Going Down to the River]]'' on Lionheart Music Group. It was released on 28 May 2014. The album had collaborations from [[Emmylou Harris]]<ref name=wsj/> in a cover of [[Gram Parsons]]' hit "She" and [[Buddy Miller]], a friend of Seegers' from his Austin days, in "There'll Be No Teardrops Tonight". The album was produced by Will Kimbrough. Seeger's album also reached number one in the Sverigetopplistan chart on 5 June 2014, its first week of release and again on the 14 August 2014 chart. It was certified gold. Seegers was engaged on a 70-gig summer tour of Sweden and appeared at Stockholm Music & Arts 2014, a music festival in Sweden.
+
+In March 2015, he released a joint album with Johnson, ''In Tandem'', on the Capitol Music Group / Universal Records label.
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2" style="width:14em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="3"| Peak chart positions
+! rowspan="2"| Certifications
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]
+! width="45"| [[Top Heatseekers|US Heat]]
+! width="45"| [[Sverigetopplistan|SWE]]<br><ref name="swe">{{cite web | url=http://swedishcharts.com/showinterpret.asp?interpret=Doug+Seegers | title=Doug Seegers discography | publisher=Hung Medien | work=swedishcharts.com |accessdate=16 August 2014}}</ref>
+|-
+! scope="row"| ''[[Going Down to the River (album)|Going Down to the River]]''
+| 
+* Release date: May 28, 2014
+* Label: [[Lionheart Music Group]]
+| 25
+| 9
+| 1
+| 
+* SWE: Gold
+|-
+! scope="row"| ''In Tandem'' <br><small>(with [[Jill Johnson]])</small>
+| 
+* Release date: March 2015
+* Label: Capitol Music Group
+| {{spaced ndash}}
+| {{spaced ndash}}
+| 1
+| 
+|-
+! scope="row"| ''Let's All Go Christmas Caroling Tonight''
+|
+* Release: October 2015
+* Label: Lionheart Music Group
+| {{spaced ndash}}
+| {{spaced ndash}}
+| 7
+|
+|-
+! scope="row"| ''Walking on the Edge of the World''
+|
+* Release: May 27, 2016
+* Label: Capitol Music Group
+| {{spaced ndash}}
+| {{spaced ndash}}
+| 5
+|
+|-
+! scope="row"| ''Sings Hank Williams''
+|
+* Release: May 26, 2017
+* Label: Capitol Music Group
+| {{spaced ndash}}
+| {{spaced ndash}}
+| 7<br /><ref>{{cite web|url=http://www.sverigetopplistan.se/|title=Sverigetopplistan - Sveriges Officiella Topplista|publisher=[[Sverigetopplistan]]|accessdate=June 3, 2017}} Click on "Veckans albumlista".</ref>
+|
+|-
+! scope="row"| ''A Story I Got to Tell''
+|
+* Release: May 31, 2019
+* Label: BMG
+| {{spaced ndash}}
+| {{spaced ndash}}
+| {{spaced ndash}}
+|
+|-
+|}
+
+;Appearances on compilation albums
+*2014: ''[[Livemusiken från Jills Veranda Nashville]]'' <small>(#1 on [[Sverigetopplistan]] Swedish Albums Chart)</small>
+**Track 1: "Going Down to the River" – Doug Seegers - 3:17
+**Track 17: "Going Down to the River" – Doug Seegers, Jill Johnson & Magnus Carlson <small>(Bonus track)</small>
+**Track 18: "Gotta Catch That Train" – Doug Seegers <small>(Bonus track)</small>
+
+===Singles===
+{| class="wikitable"
+|-
+! rowspan="2" style="text-align:center; width:10px;"|Year
+! rowspan="2" style="text-align:center; width:220px;"|Album
+!  style="text-align:center; width:20px;"|Peak positions
+! rowspan="2" style="text-align:center; width:70px;"|Notes
+|-
+! scope="col" style="width:3em;font-size:90%;" | [[Sverigetopplistan|SWE]]<br><ref name="swe"/>
+|-
+| style="text-align:center;"|2014
+|"[[Going Down to the River]]"
+| style="text-align:center;"|{{spaced ndash}}
+| style="text-align:center;"|<small>(#1 on Swedish iTunes chart)</small>
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:10em;"| Video
+! Director
+|-
+| 2015
+! scope="row"| "Angie's Song"<ref>{{cite web|title=Watch Doug Seegers's music video "Angie's Song" directed by Gregg Roth - FMTV|url=http://fmusictv.com/2015/09/doug-seegers-angies-song.html|website=FMTV|accessdate=November 11, 2015}}</ref>
+| Gregg Roth
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category-inline|Doug Seegers}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Seegers, Doug}}
+[[Category:American country singer-songwriters]]
+[[Category:Singer-songwriters from New York (state)]]
+[[Category:Living people]]
+[[Category:1952 births]]
+[[Category:Country musicians from New York (state)]]

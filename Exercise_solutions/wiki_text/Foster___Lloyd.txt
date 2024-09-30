@@ -1,0 +1,223 @@
+{{Infobox musical artist
+| name            = Foster & Lloyd
+| image           =
+| caption         =
+| image_size      =
+| origin          = [[Nashville, Tennessee]], U.S.
+| genre           = [[country music|Country]]
+| years_active    = 1986–1990, 2010–present
+| label           = [[RCA Records Nashville|RCA Nashville]], Effin El
+| associated_acts = [[Sweethearts of the Rodeo]]
+| current_members = [[Radney Foster]]<br />[[Bill Lloyd (country musician)|Bill Lloyd]]
+}}
+[[File:Radney Foster SXSW 2006.jpg|thumb|[[Radney Foster]]]]
+'''Foster & Lloyd''' is an American [[country music]] duo consisting of singer-songwriters  [[Radney Foster]] and [[Bill Lloyd (country musician)|Bill Lloyd]]. After pairing up in 1986, the duo recorded three albums for [[RCA Records Nashville|RCA Nashville]], charting nine singles on the ''[[Billboard (magazine)|Billboard]]'' country charts. The highest-peaking of these was their debut single  "[[Crazy Over You]]", a No.&nbsp;4 hit in 1987. After disbanding in 1990, Foster and Lloyd began solo careers. They reunited in 2010 to release a fourth studio album.
+
+==Description and history==
+The tandem consists of [[Radney Foster]] (lead vocals, rhythm guitar) and Bill Lloyd (harmony and occasional lead vocals, lead and rhythm guitars). 
+
+They met while employed at [[MTM Records|MTM]] publishing in [[Nashville]].<ref name="Builta">Builta, David. "Radney Foster's hit moves up on charts." Del Rio News-Herald 29 Sept 1987: 8</ref> They co-wrote the country hit "Since I Found You" in 1986 for [[Sweethearts of the Rodeo]] before obtaining their own record deal.<ref name="allmusic">{{cite web |url={{Allmusic|class=artist|id=p1613/biography|pure_url=yes}} |title=Foster & Lloyd biography |access-date=2008-01-07 |last=Huey |first=Steve |work=[[Allmusic]]}}</ref> Their [[Foster & Lloyd (album)|self-titled debut LP]] produced five hit singles on the U.S. ''Billboard'' country music charts. Follow-up albums, ''[[Faster & Llouder]]''<!--it really was spelled with two L's--> (1989) and ''[[Version of the Truth]]'' (1990) were less successful. After the third record, they parted ways and embarked on solo careers.<ref name="allmusic"/> They reunited in 2010 and released a fourth studio album in May 2011.
+
+In 1987, while still a member of the duo, Lloyd released his debut solo album, ''Feeling the Elephant''.<ref>{{cite web|last1=Mason|first1=Stewart|title=Bill Lloyd: Feeling the Elephant|url=http://www.allmusic.com/album/feeling-the-elephant-mw0000676757|website=AllMusic|access-date=24 July 2016}}</ref> The album's [[power pop]] style greatly differed from that of Foster & Lloyd, and was critically acclaimed but commercially unsuccessful.<ref>{{cite web|last1=Murray|first1=Noel|title=A beginners' guide to the heyday of power-pop, 1972-1986|url=http://www.avclub.com/article/a-beginners-guide-to-the-heyday-of-power-pop-1972--86527|website=The AV Club|access-date=24 July 2016|date=11 October 2012}}</ref> Following the disbanding of the group, Lloyd released a second album, ''Set to Pop''.<ref>{{cite web|title=Set to Pop - Bill Lloyd|url=http://www.allmusic.com/album/set-to-pop-mw0000113267|website=AllMusic}}</ref>
+
+==Style==
+They were hailed by critics for their tasteful blend of popular country and rock and roll. Foster described their style "a country garage band" which is "harking back to what was best in music in the '50s and '60s and making it part of the '80s."<ref name="Thomas">Thomas, Ann. "Del Rioan Radney describes basis for unique sound of Foster & Lloyd music." Del Rio News-Herald 16 Apr 1988: 7</ref><ref name="Builta2">Builta, David. "Del Rioan Radney Foster Makes Good in Nashville." Del Rio News-Herald 8 Mar 1987: 3</ref> Their musical style combined Foster's plainspoken lyrics with Lloyd's virtuoso guitar licks and power pop sensibilities.<ref name="Builta"/>
+
+==Discography==
+
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:16em;"| Title
+! rowspan="2" style="width:20em;"| Album details
+! colspan="2"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]
+! width="45"| [[Billboard 200|US]]
+|-
+! scope="row"| ''[[Foster & Lloyd (album)|Foster & Lloyd]]''
+| 
+* Release date: September 27, 1987
+* Label: [[RCA Records Nashville|RCA Nashville]]
+| 33
+| — 
+|- 
+! scope="row"| ''[[Faster & Llouder]]''
+| 
+* Release date: April 4, 1989
+* Label: RCA Nashville
+| 44
+| 142
+|- 
+! scope="row"| ''[[Version of the Truth]]''
+| 
+* Release date: May 12, 1990
+* Label: RCA Nashville
+| 40
+| —  
+|- 
+! scope="row"| ''It's Already Tomorrow''
+| 
+* Release date: May 17, 2011
+* Label: 'Effin 'Ell Records
+| —
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Compilations===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:16em;"| Title
+! style="width:20em;"| Album details
+|-
+! scope="row"| ''The Essential Foster and Lloyd''
+| 
+* Release date: April 16, 1996
+* Label: RCA Records
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="3"| 1987
+! scope="row"| "[[Crazy Over You]]"
+| 4
+| —
+| align="left" rowspan="5"| ''Foster & Lloyd''
+|-
+! scope="row"| "[[Sure Thing (Foster & Lloyd song)|Sure Thing]]"
+| 8
+| 8
+|-
+! scope="row"| "Hard to Say No"<ref>{{cite magazine|url=http://americanradiohistory.com/Archive-Billboard/80s/1987/Billboard-1987-11-14.pdf|title=RCA Duo On Freeway To Success|magazine=[[Billboard (magazine)|Billboard]]|date=November 14, 1987}}</ref>
+| —
+| —
+|-
+| rowspan="3"| 1988
+! scope="row"| "[[Texas in 1880]]"
+| 18
+| —
+|-
+! scope="row"| "[[What Do You Want from Me This Time]]"
+| 6
+| 17
+|-
+! scope="row"| "[[Fair Shake]]"
+| 5
+| 5
+| align="left" rowspan="3"| ''Faster & Llouder''
+|-
+| rowspan="2"| 1989
+! scope="row"| "Before the Heartache Rolls In"
+| 43
+| 46
+|-
+! scope="row"| "Suzette"
+| 48
+| 52
+|-
+| rowspan="2"| 1990
+! scope="row"| "Is It Love"
+| 43
+| 26
+| align="left"| ''Version of the Truth''
+|-
+! scope="row"| "Can't Have Nothin'"
+| 38
+| 59
+| align="left"| ''Version of the Truth'' <small>(re-issue)</small>
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Guest singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:12em;"| Single
+! rowspan="2"| Artist
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="60"| [[Hot Country Songs|US Country]]
+|- 
+| 1990
+! scope="row"| "Tomorrow's World"
+| Various artists
+| 74
+| align="left"| Single only
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:20em;"| Video
+! Director
+|-
+| rowspan="2"| 1987
+! scope="row"| "Crazy Over You"
+| rowspan="2"| Richard Kooris
+|-
+! scope="row"| "Hard to Say No"
+|-
+| rowspan="2"| 1988
+! scope="row"| "Texas in 1880"
+| rowspan="4"| Steve Boyle
+|-
+! scope="row"| "What Do You Want from Me This Time"
+|-
+| rowspan="3"| 1989
+! scope="row"| "Before the Heartache Rolls In"
+|-
+! scope="row"| "Fat Lady Sings"
+|-
+! scope="row"| "Suzette"<ref>{{cite magazine|url=http://americanradiohistory.com/Archive-Billboard/80s/1989/BB-1989-09-09.pdf|title=New Videoclips|magazine=[[Billboard (magazine)|Billboard]]|date=September 9, 1989}}</ref>
+| Dean Lent
+|-
+| rowspan="3"| 1990
+! scope="row"| "Is It Love"
+| [[Michael Salomon]]/Bud Schaetzle
+|-
+! scope="row"| "Tomorrow's World" <small>(Various)</small>
+| [[Gustavo Garzon]]
+|-
+! scope="row"| "Can't Have Nothin'"
+| Marius Penczner
+|-
+| 2011
+! scope="row"| "It's Already Tomorrow"
+| Steve Boyle
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.radneyfoster.com Radney Foster's official web site]
+* [http://www.billlloydmusic.net Bill Lloyd's official web site]
+* [https://www.namm.org/library/oral-history/bill-lloyd Bill Lloyd Interview] NAMM Oral History Library (2021)
+
+{{Foster & Lloyd}}
+{{Radney Foster}}
+
+{{Authority control}}
+{{DEFAULTSORT:Foster and Lloyd}}
+[[Category:Country music groups from Tennessee]]
+[[Category:American country music duos]]
+[[Category:Musical groups established in 1986]]
+[[Category:Musical groups disestablished in 1990]]
+[[Category:RCA Records Nashville artists]]
+[[Category:Musical groups reestablished in 2010]]
+[[Category:1986 establishments in Tennessee]]

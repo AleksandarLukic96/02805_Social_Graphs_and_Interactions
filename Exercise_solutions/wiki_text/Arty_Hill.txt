@@ -1,0 +1,54 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=January 2019}}
+{{Infobox musical artist
+| name            = Arty Hill
+| image           =
+| caption         =
+| image_size      =
+| birth_name      =
+| alias           =
+| birth_date      =
+| death_date      =
+| origin          = [[Cambridge, Maryland|Cambridge]], Maryland, United States<ref name=MSAC>{{cite web|title=Arty Hill & the Long Gone Daddys|url=https://www.msac.org/maryland-tradition/arty-hill-long-gone-daddys|publisher=Maryland State Arts Council|accessdate=March 28, 2018|archive-url=https://web.archive.org/web/20180705101300/https://www.msac.org/maryland-tradition/arty-hill-long-gone-daddys|archive-date=July 5, 2018|url-status=dead}}</ref>
+| Instruments     =
+| genre           = [[Country music|Country]]
+| occupation      = singer-songwriter
+| years_active    = 2003–present
+| label           = Various
+| associated_acts = Long Gone Daddys
+| website         = {{URL|http://www.artyhill.com}}
+}}
+
+'''Arty Hill''' is an American [[country music]] singer-songwriter of the [[Honky-tonk]] tradition. His work has been covered by several artists including [[Jason & the Scorchers]] and the [[Kenny Smith (bluegrass)|Kenny and Amanda Smith Band]].<ref>{{cite web|title=Discography|url=http://www.artyhill.com/v3/disco.php|website=Arty Hill|accessdate=March 28, 2018}}</ref>
+
+==Discography==
+===Albums===
+* ''Baltimore Reasons'', 2003
+* ''Back on the Rail'', 2005
+* ''Bar of Gold'', 2008 (Cow Island Music)
+* ''Back on the Rail: reissue'', 2009 (Cow Island Music)
+* ''Montgomery on My Mind: The Hank EP'', 2009 (Cow Island Music)
+* ''Pie for Breakfast: Riffs, Roughs, and Radio'', 2010
+* ''Another Lost Highway'', 2010 (featuring [[Jonathan Gregg]] and Dave Giegerich of The Linemen)<ref>{{cite web|last1=Allen|first1=Rick|title=Arty Hill: Another Lost Highway|url=http://www.vintageguitar.com/12343/arty-hill/|website=[[Vintage Guitar (magazine)|Vintage Guitar]]|date=November 16, 2012 |accessdate=March 28, 2018}}</ref>
+* ''Heart on my Dirty Sleeve'', 2014
+* ''Live: Church on Saturday Night'', 2016
+* ''A Thousand Smoky Nights'', 2021
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Official website|http://www.artyhill.com}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hill, Arty}}
+[[Category:Living people]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singers]]
+[[Category:Year of birth missing (living people)]]
+
+
+{{US-country-singer-stub}}
+{{US-singer-songwriter-stub}}

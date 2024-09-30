@@ -1,0 +1,94 @@
+{{Short description|American country music band}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Sixwire
+| image               = 
+| caption             = 
+| image_size          = 
+| background          = group_or_band
+| origin              = [[Nashville, Tennessee]], United States
+| genre               = [[country music|Country]], [[southern rock]]
+| years_active        = 2000{{ndash}}present
+| label               = [[Warner Bros. Records|Warner Bros. Nashville]]
+| website             = {{URL|http://www.sixwire.com/}}
+| current_members     = {{hlist|[[Andy Childs]]|John Howard|Steve Mandile|Chuck Tilley|Steve Hornbeak}}
+| past_members        = Robb Houston
+}}
+
+'''Sixwire''' is an American [[country music]] band from [[Nashville, Tennessee]], United States. The group consists of [[Andy Childs]] (lead vocals, guitar), Steve Hornbeak (keyboards, vocals), John Howard (bass guitar), Steve Mandile (guitar, vocals), and Chuck Tilley (drums, percussion). Robb Houston (rhythm guitar) was a former member. The band's name references the six strings on a guitar.<ref name="allmusic">[{{Allmusic|class=artist|id=p532234/biography|pure_url=yes}} AllMusic ((( Sixwire > Biography )))]</ref> Sixwire recorded one album for [[Warner Bros. Records]] in 2002, and charted two singles on the ''[[Billboard (magazine)|Billboard]]'' country charts, including the No.&nbsp;30 hit "Look at Me Now". Five years later, they placed second on the talent show ''[[The Next Great American Band]]'', and served as the house band on ''[[Can You Duet]]'', another talent show.
+
+==History==
+Before the band's formation, Andy Childs recorded for [[RCA Records|RCA Nashville]] from 1993 to 1994, releasing a self-titled debut album and charting three singles on the country charts. In addition, Steve Mandile co-wrote singles for [[Phil Vassar]], [[Tim McGraw]], and [[Shane McAnally]], and previously played lead guitar in [[Pam Tillis]]' road band, Mystic Biscuit.<ref>{{cite news|url=https://www.latimes.com/archives/la-xpm-1993-05-19-ca-36961-story.html|title=Pam Tillis: Highbrow but Down to Earth|last=Davis|first=Noel|date=1993-05-19|work=[[Los Angeles Times]]|access-date=2009-08-27}}</ref> Drummer Chuck Tilley has a jazz background.  He graduated from the [[University of Alabama]] with a degree in percussion, where he studied with noted jazz educators [[Steve Sample, Sr]] and [[Ray Reach]].  Following graduation, he worked in Birmingham, Alabama as a member of a jazz group led by [[Count Basie]] bassist [[Cleveland Eaton]]. Later, he moved to Nashville, Tennessee, where he worked with [[Lee Greenwood]] and [[Dolly Parton]]. Childs had initially declined to join the band but later reconsidered after [[Brett James]] had also declined.<ref>{{cite magazine|last=Stark|first=Phyllis|date=2002-06-13|title=Sixwire in the spotlight|magazine=[[Billboard (magazine)|Billboard]]|pages=15|url=https://books.google.com/books?id=-gsEAAAAMBAJ&q=%22Brett+james%22+arista&pg=PA15|accessdate=2009-08-25}}</ref>
+
+The band was formed in 2000 and signed to [[Warner Bros. Records]] in 2002.<ref name="allmusic"/> Their debut single, "Look at Me Now", peaked at number 30 on the ''[[Billboard (magazine)|Billboard]]'' Hot Country Singles & Tracks (now [[Hot Country Songs]]) chart.<ref name="pause">{{Cite web|url=http://pauseandplay.com/sixwire.htm|archiveurl=https://web.archive.org/web/20070611101910/http://www.pauseandplay.com/sixwire.htm|url-status=dead|title=Sixwire|archivedate=June 11, 2007}}</ref> It was included on Sixwire's self-titled debut album, which peaked at 38 on the ''Billboard'' Top Country Albums chart in 2002.<ref>[{{BillboardURLbyName|artist=sixwire|chart=all}} Billboard.com - Artist Chart History - Sixwire]</ref> The album's only other single, "Way Too Deep", peaked at number 55. Also in 2002, Sixwire appeared on the track "It Goes Like This" from then-labelmate [[John Michael Montgomery]]'s album ''[[Pictures (John Michael Montgomery album)|Pictures]]''. Mandile co-produced ''[[Nashville Star]]'' 2005 winner [[Erika Jo]]'s [[Erika Jo (album)|self-titled debut]] album, on which Tilley also performed as a percussionist.<ref name="liner">{{cite AV media notes |title=Erika Jo |others=Erika Jo |year=2005 |type=CD booklet |publisher=Universal South |id=4522}}</ref> A sixth member, keyboardist Steve Hornbeak, also joined the band's lineup.<ref>{{Cite web|url=http://www.sixwireonline.com/bio.html|archive-url = https://web.archive.org/web/20150705231137/http://www.sixwireonline.com/bio.html|archive-date = 2015-07-05|title = Sixwire}}</ref>
+
+In 2007, Sixwire auditioned for the [[Fox Networks]] reality show ''[[The Next Great American Band]]'' and finished runner-up.<ref>{{cite web |url=http://www.peavey.com/news/article.cfm/action/view/id/272/20071712.cfm |title=Sixwire - The Next Great American Band? |accessdate=2008-07-17 |date=2007-12-17 |work=Peavey.com}}</ref> One year later, Sixwire served as the house band on [[Country Music Television|CMT]]'s talent show ''[[Can You Duet]]''.
+
+At the [[2024 Republican National Convention]] in Milwaukee, Sixwire performed as the [[house band]].<ref>{{cite news |last1=Treisman |first1=Rachel |title=What to know about Sixwire, the RNC band supplying the dad rock each night during prime time |url=https://www.npr.org/2024/07/17/g-s1-11539/rnc-band-sixwire |access-date=17 July 2024 |work=NPR |date=July 17, 2024}}</ref>  On the first day they played for nearly 45 consecutive minutes after a teleprompter malfunctioned, covering hits like "[[I Want You To Want Me]]" by [[Cheap Trick]] and several [[Doobie Brothers]] songs.<ref>{{cite web |last1=Vaidyanathan |first1=Vaishnavi |title=Meet Sixwire: The Nashville Band Performing At RNC In Milwaukee |url=https://www.timesnownews.com/world/us/us-news/meet-sixwire-the-nashville-band-performing-at-rnc-2024-in-milwaukee-article-111764242 |website=Times Now |access-date=15 July 2024 |language=en |date=16 July 2024}}</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:10em;"| Title
+! rowspan="2" style="width:16em;"| Album details
+! colspan="2"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]
+! width="45"| [[Top Heatseekers|US Heat]]
+|- 
+! scope="row"| ''[[Sixwire (album)|Sixwire]]''
+| 
+* Release date: July 30, 2002
+* Label: [[Warner Bros. Nashville]]
+| 38
+| 32
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:10em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="60"| [[Hot Country Songs|US Country]]
+|-
+| rowspan="2"| 2002
+! scope="row"| "Look at Me Now"
+| 30
+| align="left" rowspan="2"| ''Sixwire''
+|-
+! scope="row"| "Way Too Deep"
+| 55
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:10em;"| Video
+! Director
+|-
+| 2002
+! scope="row"| "Look at Me Now"
+| [[Steven Goldmann]]
+|}
+
+==References==
+{{Reflist}}
+
+== External links ==
+*{{official website|http://www.sixwire.com/}}
+*{{Official website|http://www.stevemandile.com/|Steve Mandile official website}}
+*{{Official website|https://customallstarjam.com/house-band|All Star Jam website}}
+
+
+{{Authority control}}
+
+[[Category:Country music groups from Tennessee]]
+[[Category:Musical groups from Nashville, Tennessee]]
+[[Category:Musical groups established in 2000]]
+[[Category:Warner Records artists]]
+[[Category:American musical quintets]]
+[[Category:2000 establishments in Tennessee]]

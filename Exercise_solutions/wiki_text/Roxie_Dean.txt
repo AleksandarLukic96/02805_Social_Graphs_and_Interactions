@@ -1,0 +1,110 @@
+{{short description|American singer-songwriter}}
+
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Roxie Dean
+| image                 = 
+| caption            = 
+| image_size            = 
+| background          = solo_singer
+| birth_name          = 
+| alias               = 
+| birth_date                = {{birth date and age|1964|03|23}}
+| origin              = [[Baton Rouge, Louisiana]], United States
+| instrument          = Vocals
+| genre               = [[Country music|Country]]
+| occupation          = Singer-songwriter
+| years_active        = 2001-present
+| label               = [[DreamWorks Nashville]]<br />Valhalla Music Group
+| associated_acts     = 
+| website                 = 
+}}
+'''Roxie Dean''' (born March 23, 1964) is an American [[country music]] songwriter and singer. In 2005, she released her debut album, ''Ms. America''. Her songwriting career includes a 2001 Nashville Songwriters Association International "Top 10 Songs That You Wish You’d Written" award for "Why They Call It Falling" (co-written with [[Don Schlitz]]), and a [[Grammy]] nomination for co-writing "[[When I Think About Angels]]."
+
+==Early life and career==
+Originally from [[Baton Rouge]], [[Louisiana]], where French was the primary language spoken in her home, Dean recalls her father playing the guitar until she would fall asleep. Before settling in her music career, Dean worked various jobs including retail sales, coordinating events for [[Toyota]] in [[Huntington Beach, California]], and farming.
+
+Dean wrote material during her two years at Iowa’s [[Graceland College]] on a softball scholarship and while back in Louisiana completing a journalism degree. After graduation she tried unsuccessfully to establish herself in [[Nashville, Tennessee|Nashville]] as a country music artist. She then left for California, where she worked for Toyota. A screening of [[George Strait|George Strait’s]] ''[[Pure Country (film)|Pure Country]]'' motivated her return to Nashville. She began to socialize with a friend from Louisiana who was connected to music industry insiders in the city. This friend, along with [[Rivers Rutherford]] (author of [[Brooks & Dunn]]'s "[[Ain't Nothing 'bout You]]", [[Chely Wright]]'s "[[Shut Up and Drive (Chely Wright song)|Shut Up and Drive]]" and [[Montgomery Gentry]]'s "[[If You Ever Stop Loving Me]]", among others), helped to find her direction.
+
+==Later career==
+Country music producer [[Chips Moman]] offered to let Dean run his farm. While tending the farm, Dean focused on her songwriting and worked with Moman on one of her projects. She co-wrote [[Jamie O'Neal]]'s number one single "[[When I Think About Angels]]", and the singles "Why They Call It Falling" by [[Lee Ann Womack]] and "Lonely" by [[Tracy Lawrence]]. Dean also worked with producer Harold Shedd and publisher Lionel Conway, then with Maverick Music. After the company went out of business, Ginny Johnson of Hamstein Productions called Dean.
+
+She then began working with producer [[Buddy Cannon]]. [[James Stroud]] worked with her beginning in 2001, when she signed with [[DreamWorks Records]], over which Stroud presided. Dean left the label in 2003.
+
+Her song "A Soldier's Wife" was released through Valhalla Music Group. A portion of all of the proceeds were donated to the Armed Forces Relief Trust/Operation Helping Hand.
+
+In 2005 Dean released her debut album ''Ms. America'', which included "A Soldier's Wife" and her version of "Why They Call It Falling." She continued her songwriting for other artists; [[Reba McEntire|Reba McEntire's]] ''[[Room to Breathe (Reba McEntire album)|Room to Breathe]]'' (2003) featured "My Sister" and  [[Sara Evans|Sara Evans']] ''[[Real Fine Place]]'' (2005) included "Coalmine", both co-written by Dean.
+
+Roxie Dean signed an exclusive publishing contract with HoriPro Entertainment Group in 2008.
+
+In 2013, Roxie Dean signed an exclusive publishing deal with Judy Harris Music.
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:10em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''Ms. America''
+| 
+* Release date: February 15, 2005
+* Label: Valhalla Music
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="60"| [[Hot Country Songs|US Country]]
+|-
+| 2003
+! scope="row"| "Everyday Girl"
+| 60
+| {{n/a}}
+|-
+| rowspan="2"| 2004
+! scope="row"| "Women Know Women"
+| —
+| align="left" rowspan="2"| ''Ms. America''
+|-
+! scope="row"| "A Soldier's Wife"
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:14em;"| Video
+|-
+| 2003
+! scope="row"| "Everyday Girl"
+|}
+
+==External links==
+*[http://www.roxiedean.com/ Official website]
+*[http://www.ecowboy.com/music/roxiedean.htm Profile of Roxie Dean at ecowboy.com]
+*[http://countrymusic.about.com/od/cdreviewsal/gr/blmsamerica.htm Review of ''Ms. America''] at [[About.com]]
+*[{{AllMusic|class=artist|id=p464602|pure_url=yes}} Roxie Dean] at [[Allmusic]]
+*[http://www.horipro.com/songwriters/roxie-dean.html ROXIE DEAN@HORIPRO ENTERTAINMENT GROUP]
+
+{{authority control}}
+
+{{DEFAULTSORT:Dean, Roxie}}
+[[Category:American country singer-songwriters]]
+[[Category:American women country singers]]
+[[Category:Living people]]
+[[Category:1964 births]]
+[[Category:Graceland Yellowjackets softball players]]
+[[Category:Musicians from Baton Rouge, Louisiana]]
+[[Category:Singer-songwriters from Louisiana]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:21st-century American women singers]]
+[[Category:Country musicians from Louisiana]]

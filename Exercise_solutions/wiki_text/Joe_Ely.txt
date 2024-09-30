@@ -1,0 +1,168 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=July 2023}}
+{{BLP sources|date=July 2023}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Joe Ely
+| image               = Joe Ely 2017 (cropped).jpg
+| caption             = Ely in 2017
+| image_size          =
+| background          = solo_singer
+| birth_name          =
+| alias               =
+| birth_date          = {{birth date and age|1947|2|9}}
+| birth_place         = [[Amarillo, Texas]], U.S.
+| death_date          =
+| origin              = [[Lubbock, Texas]], U.S.
+| instrument          = {{hlist|Vocals|guitar}}
+| genre               = {{hlist|[[Alternative country]]<ref>{{cite web |url=https://www.nodepression.com/album-reviews/joe-ely-gets-personal/|title=Joe Ely Gets Personal |last= Dickens|first=Rob |date=October 9, 2015 |work=[[No Depression (magazine)|No Depression]]|access-date=2023-07-22}}</ref>|[[Americana (music)|Americana]]<ref name=Bodden>{{cite web |url=https://azdailysun.com/the-life-of-joe-ely/article_30382f7f-65fb-5cae-b008-768452dba80f.html |title=The life of Joe Ely |last=Bodden |first=James H. |date=July 13, 2005 |work=Arizona Daily Sun |access-date=2023-07-22}}</ref>|[[progressive country]]<ref name="AMG">{{cite web |url=https://www.allmusic.com/artist/joe-ely-mn0000152002 |title=Joe Ely Biography |last=Ruhlmann |first=William |work=[[AllMusic]] |access-date=2023-07-22}}</ref>|[[roots rock]]<ref name=Bodden/>}}
+| occupation          = {{hlist|Singer-songwriter|musician}}
+| years_active        = 1970–present
+| label               = {{hlist|[[Music Corporation of America|MCA]]|[[Hightone Records|Hightone]]}}
+| associated_acts     = [[The Flatlanders]], [[Los Super Seven]], [[James McMurtry]]
+| website             = {{URL|joeely.com}}
+}}
+
+'''Joe Ely''' ({{IPA|/ˈiːli/|lang=en}}; born February 9, 1947)<ref name="AMG"/> is an American singer, songwriter and guitarist. He was "one of the main movers" of [[Austin, Texas]]'s [[progressive country]] scene in the 1970s and '80s.<ref name="AMG"/>
+
+He has had a genre-crossing career, performing with [[Bruce Springsteen]], [[Uncle Tupelo]], [[Los Super Seven]], [[The Chieftains]] and [[James McMurtry]] in addition to his early work with [[The Clash]] and more recent acoustic tours with [[Lyle Lovett]], [[John Hiatt]], and [[Guy Clark]].
+
+==Biography==
+===Early life and career===
+He was born in [[Amarillo, Texas]].<ref name="AMG" /> Ely spent his formative years from age 12 in [[Lubbock, Texas]],<ref name="AMG" /> and attended [[Monterey High School (Lubbock, Texas)|Monterey High School]].
+
+In 1971, with fellow Lubbock musicians [[Jimmie Dale Gilmore]] and [[Butch Hancock]], he formed [[the Flatlanders]].<ref name="AMG"/> According to Ely, "Jimmie [Gilmore] was like a well of country music. He knew everything about it. And Butch was from the folk world. I was kinda the rock & roll guy, and we almost had a triad. We hit it off and started playing a lot together. That opened up a whole new world I had never known existed."
+
+In 1972, the band recorded their first album.<ref name="AMG"/> Because the band's initial breakup occurred just after their first album was cut, the three musicians have followed individual paths, but have appeared together on each other's albums.  They reformed for 2002's ''Now Again''.
+
+===Solo career===
+Ely's own [[Joe Ely (album)|first, self-titled album]], was released in 1977.<ref name="AMG"/>
+
+The following year, his band played London, where he met [[punk rock]] group [[the Clash]].<ref name="AMG"/> Impressed with each other's performances, the two bands later toured together, including appearances in Ely's hometown of Lubbock, as well as [[Laredo, Texas|Laredo]] and [[Ciudad Juárez]] in Mexico, across the border from [[El Paso, Texas]].<ref name="AMG"/> The Clash paid tribute to Joe Ely by including the lyrics "Well there ain't no better blend than Joe Ely and his Texas Men" in the lyrics of their song "If Music Could Talk," which was released in 1980 on the album ''[[Sandinista!]]''.<ref>{{cite web|url=https://play.google.com/music/preview/Tpz4boqtvplqe57524ilps6qjei?lyrics=1 |title=Google Play Music |website=Play.google.com |access-date=July 9, 2017}}</ref> Ely sang backing vocals on the Clash single "[[Should I Stay or Should I Go?]]". [[Joe Strummer]] planned to record with Ely's band, but died before that ever happened—one of Ely's greatest regrets.<ref>{{cite web |url=http://ickmusic.com/2006/07/18/london-to-lubbock-joe-ely-meets-the-clash/ |title=London to Lubbock: Joe Ely meets the Clash |website=Ickmusic.com |access-date=December 12, 2015 |archive-url=https://web.archive.org/web/20160827173014/http://ickmusic.com/2006/07/18/london-to-lubbock-joe-ely-meets-the-clash/ |archive-date=August 27, 2016 |url-status=dead }}</ref> Another collaboration was with Dutch [[flamenco]] guitarist [[Teye]], with whom he recorded ''Letter to Laredo'' (1995)<ref>
+{{cite news
+ |last       = McCall
+ |first      = Michael
+ |title      = Restless Spirit
+ |newspaper  = [[Nashville Scene]]
+ |date       = August 31, 1995
+ |url        = http://www.nashvillescene.com/1995-08-31/stories/restless-spirit/
+ |archive-url = https://archive.today/20120904230436/http://www.nashvillescene.com/1995-08-31/stories/restless-spirit/
+ |url-status   = dead
+ |archive-date = September 4, 2012
+ |access-date = January 25, 2010
+}}</ref> and ''Twistin' in the Wind'' (1998).<ref>
+{{cite news
+| last = Skanse
+| first = Richard
+| title = Texas Twister: Joe Ely goes to the movies and back to the flatlands
+| newspaper = [[Rolling Stone]]
+| date = May 18, 1998
+| url = https://www.rollingstone.com/artists/joeely/articles/story/5922386/texas_twister
+| access-date = January 25, 2010
+}}{{dead link|date=August 2021|bot=medic}}{{cbignore|bot=medic}}</ref>
+
+Throughout his career, Ely has issued a steady stream of albums, most on the [[Music Corporation of America|MCA]] label, and a live album roughly every ten years.
+
+On May 1, 1982, Joe Ely put on the Third Annual Tornado Jam in [[Lubbock, Texas]] to a crowd of 25,000. The Jam included [[Leon Russell]], [[Joan Jett]] and [[The Crickets]]. The first Tornado Jam was fundraiser to help [[Lubbock, Texas]] after [[Lubbock tornado|the Tornado]], thus the name. The second Annual Tornado Jam had a crowd of 35,000.<ref>''[[Billboard (magazine)|Billboard]]'', May 1, 1982, p. 30</ref>
+
+In the late 1990s, Ely was asked to write songs for the soundtrack of [[Robert Redford]]'s movie ''[[The Horse Whisperer (film)|The Horse Whisperer]]'', which led to re-forming [[The Flatlanders]] with Gilmore and Hancock.<ref name="AMG"/> A new album from the trio followed in 2002, with a third in 2004.<ref name="AMG"/>
+[[File:Joe Ely 2008 (cropped).jpg|thumb|Ely in 2008]]
+In February 2007, Ely released ''Happy Songs From Rattlesnake Gulch'' on his own label, Rack 'Em Records.<ref name="AMG"/> Ely said in an interview with [[Country Standard Time]] that he thought it would be easier to release the material on his own label, instead of dealing with a regular record label and their release cycles. A book of Ely's writings, ''Bonfire of Roadmaps'', was published in early 2007 by the [[University of Texas Press]]. In early 2008, Ely released a new live album featuring Joel Guzman on [[accordion]] recorded at the Cactus Cafe in Austin, Texas in late 2006.
+
+The [[The Flatlanders|Flatlanders]] released their newest album ''Hills and Valleys'' on March 31, 2009.
+
+In 2011, Ely released the critically acclaimed album, ''Satisfied at Last''.<ref name="AMG"/>
+
+In September 2015, Ely released ''Panhandle Rambler,'' an album with a reflective [[west Texas]] feel. Lonestar Music Magazine says "the title fits the record just right, neatly framing a dozen songs that fit together thematically like a map of both the West Texas landscape and of Ely's epic decades-spanning musical ramble.<ref>{{cite web|url=http://lonestarmusicmagazine.com/joe-ely-panhandle-rambler/|title=Joe Ely: "Panhandle Rambler" – Lone Star Music Magazine|website=Lonestarmusicmagazine.com|date=December 24, 2015 |access-date=October 9, 2018}}</ref>
+
+Ely spent 2016 as the reigning "Texas State Musician", a one-year designation which he formally accepted in a ceremony at the State Legislature that spring.<ref>{{cite web|url=https://www.statesman.com/news/20160904/panhandle-rambler-rides-on-joe-ely-on-his-new-album-and-more|title='Panhandle Rambler' rides on: Joe Ely on his new album and more|first=Peter|last=Blackstock|website=Statesman.com|access-date=October 9, 2018}}</ref>
+
+In October 2022, he was inducted to the Austin City Limits Hall of Fame
+[[Austin City Limits]].
+
+==Lawsuit against Universal Music Group==
+On February 5, 2019, Ely and [[John Waite]] filed a class-action lawsuit against [[Universal Music Group]] (UMG) claiming the company is violating their right to terminate grants of copyright after 35 years in accordance with [[copyright law of the United States]] by ignoring Notices of Termination. May 3, 2019, UMG filed a motion to dismiss the case, stating the Notices of Termination were not valid because the songs were not grants of copyright but [[work for hire|works for hire]].<ref name=LeoFre>{{cite web|url=https://www.youtube.com/watch?v=n6rSPdgGMQs |archive-url=https://ghostarchive.org/varchive/youtube/20211219/n6rSPdgGMQs |archive-date=2021-12-19 |url-status=live|title=Music Industry Opposes Copyright Termination; What is it?|first=Leonard|last=French|work=Lawful Masses with Leonard French|publisher=[[YouTube]]|date=May 18, 2018|access-date=May 18, 2018}}{{cbignore}}</ref><ref name=DMN>{{cite web|url=https://www.digitalmusicnews.com/2019/05/07/universal-music-group-v-copyright-act/|title=Universal Music Is Battling to Nullify the 35-Year Copyright Termination Right|first=Daniel|last=Sanchez|website=Digitalmusicnews.com|date=May 7, 2018|access-date=May 18, 2018}}</ref>
+
+==Discography==
+{{Main| Joe Ely discography}}
+* ''[[Joe Ely (album)|Joe Ely]]'' (1977)
+* ''[[Honky Tonk Masquerade]]'' (1978)
+* ''Down on the Drag'' (1979)
+* ''Musta Notta Gotta Lotta'' (1981)
+* '' [[Hi-Res]]'' (1984)
+* ''[[Lord of the Highway]]'' (1987)
+* ''Dig All Night'' (1988)
+* ''[[Love and Danger (Joe Ely album)|Love and Danger]]'' (1992)
+* ''[[Chippy (album)|Chippy]]'' (1994)
+* ''Letter to Laredo'' (1995)
+* ''Twistin' in the Wind'' (1998)
+* ''Live at the Cambridge Folk Festival'' (1998)
+* ''Streets of Sin'' (2003)
+* ''Happy Songs from Rattlesnake Gulch'' (2007)
+* ''Silver City'' (2007)
+* ''Satisfied At Last'' (2011)
+* ''B4 84'' (2014)
+* ''Panhandle Rambler'' (2015)
+* ''Full Circle: The Lubbock Tapes'' (2018)
+* ''Love in the Midst of Mayhem'' (2020)
+
+== Awards and nominations ==
+{| class="wikitable"
+!Year
+!Organization
+!Award
+!Nominee/Work
+!Result
+|-
+|1992
+|[[Country Music Association Awards]]
+|Vocal Event of the Year
+|Buzzin' Counsins <small>with [[James McMurtry]], [[Dwight Yoakam]], [[John Prine]], and [[John Mellencamp]]</small>
+|{{nominated}}
+|-
+|1999
+|[[Grammy Awards]]
+|[[Grammy Award for Best Mexican/Mexican-American Album|Best Mexican/Mexican-American Album]]
+|''[[Los Super Seven (album)|Los Super Seven]]'' <small>with [[Los Super Seven]]</small>
+|{{won}}
+|}
+
+==See also==
+*[[The Flatlanders]]
+*[[Los Super Seven]]
+*[[Music of Austin]]
+
+==References==
+{{Reflist}}
+
+== External links ==
+{{cc}}
+* [http://www.ely.com/ Official Ely website]
+* {{IMDb name | id=0255924 | name=Joe Ely}}
+* {{AllMusic | id= joe-ely-mn0000152002 | label= Joe Ely}}
+* {{discogs artist|370045-Joe-Ely|Joe Ely}}
+*[http://www.countrystandardtime.com/d/artist.asp?xid=2307&c=111 Joe Ely feature and CD reviews] at [https://web.archive.org/web/20070309075733/http://www.countrystandardtime.com/?c=111 Country Standard Time]
+*[http://www.virtualubbock.com/stoJHughes_ElvisBuddyJoe.html Article on Ely's early years, by Johnny Hughes]
+*[http://www.austinchronicle.com/issues/dispatch/2000-05-19/music_feature2.html "Joe Ely Remembers The Clash"], ''Austin Chronicle'', May 19, 2000
+
+{{S-start}}
+{{S-ach|aw}}
+{{S-bef|before=[[Alejandro Escovedo]]}}
+{{S-ttl|title=[[Americana Music Association|AMA Lifetime Achievement Award for Performing]]|years=2007}}
+{{S-aft|after=[[Jason & the Scorchers]]}}
+{{S-end}}
+
+{{Joe Ely}}
+{{Authority control}}
+
+{{DEFAULTSORT:Ely, Joe}}
+[[Category:1947 births]]
+[[Category:Living people]]
+[[Category:American alternative country singers]]
+[[Category:Country musicians from Texas]]
+[[Category:Progressive country musicians]]
+[[Category:American country singer-songwriters]]
+[[Category:Singers from Austin, Texas]]
+[[Category:Musicians from Lubbock, Texas]]
+[[Category:Musicians from Amarillo, Texas]]
+[[Category:Singer-songwriters from Texas]]

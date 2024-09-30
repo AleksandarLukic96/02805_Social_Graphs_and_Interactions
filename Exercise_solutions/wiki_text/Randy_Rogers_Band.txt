@@ -1,0 +1,355 @@
+{{redirect|Randy Rogers|the Bahamian football manager|Randy Rogers (football manager)}}
+{{short description|American country music band}}
+{{Infobox musical artist
+| name                = Randy Rogers Band
+| background          = group_or_band
+| image               =Randy Rogers Band (cropped).jpg
+| caption           = Randy Rogers Band in 2009
+| landscape = yes
+| alt = An image of the Randy Rogers Band in concert
+| origin              = [[San Marcos, Texas]], United States
+| genre               = [[Texas country music|Texas country]], [[Red Dirt (music)|Red Dirt]], [[country music|country]]
+| years_active        = 2000-present
+| label               = [[Universal Music Group Nashville|Mercury Nashville]]<br />[[Universal Music Group Nashville|MCA Nashville]]<br />[[Thirty Tigers]]
+| website             = http://randyrogersband.com
+| current_members     = Randy Rogers <br />Brady Black<br />Geoffrey Hill<br />Les Lawless<br />Jon Richardson<br />Todd Stewart
+}}
+'''Randy Rogers Band''' is an American [[country music]] band from [[San Marcos, Texas]]. The band is composed of Randy Rogers (lead vocals), Geoffrey Hill (guitar), Jon Richardson (bass guitar), Brady Black (fiddle), Les Lawless (drums), and Todd Stewart (guitar, fiddle, mandolin, keyboards).<ref name="allmusic">{{cite web |url={{AllMusic|class=artist|id=p285190|pure_url=yes}} |title=allmusic ((( Randy Rogers > Overview ))) |access-date=2007-08-27 |last=Brown |first=Marisa |work=Allmusic}}</ref> They have recorded seven studio albums and two live albums, and have charted seven singles on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] charts.
+
+==Biography==
+Randy Rogers was born in [[Cleburne, Texas]]. At the age of 6 years, he learned to play the piano from his grandmother, and later started playing the guitar.<ref>{{cite web |url=http://www.thisistexasmusic.com/profiles/randyrogersband.html |title=Randy Rogers Band profile |access-date=2007-08-27 |work=ThisIsTexasMusic.com}}</ref>
+
+The Randy Rogers Band recorded its debut album, ''Live at Cheatham Street Warehouse'', at a music hall of the same name in [[San Marcos, Texas]].<ref name="allmusic"/><ref name="lonestar">{{cite web |url=http://www.randyrogersband.com/band.php |title=Randy Rogers Band biography |access-date=2007-08-27 |work=Randyrogersband.com}}</ref> By 2002, the band was signed to the independent Downtime record label, on which they released the album ''Like It Used to Be''.  It was around this time that the band began performing outside of San Marcos, primarily at Nutty Brown Cafe and Amphitheatre in nearby Dripping Springs, Texas. Two years later, the album ''Rollercoaster'' was released, producing two minor entries on the ''Billboard'' [[Hot Country Songs]] charts in early 2005.<ref name="allmusic"/> Rogers also co-wrote "Somebody Take Me Home", a song recorded by [[Kenny Chesney]], on his 2005 album, ''[[The Road and the Radio]]''. Several of the songs on ''Rollercoaster'' were co-written by [[Radney Foster]], who also co-produced the album.<ref name="lonestar"/> ''[[Just a Matter of Time (Randy Rogers Band album)|Just a Matter of Time]]'', the band's first major-label album, was released on [[Universal Music Group Nashville|Mercury Nashville Records]] in 2006.<ref name="allmusic"/> The band also released their self-titled album on September 23, 2008, also on Mercury Nashville Records. The first single "In My Arms Instead", was released in August.
+
+The band's fifth album, ''[[Burning the Day]],'' was released on  August 24, 2010, on [[Universal Music Group Nashville|MCA Nashville]]. The album's first single was "Too Late for Goodbye." It debuted at 55 on the U.S. ''Billboard'' [[Hot Country Songs]] chart and after four weeks on the chart, it peaked at 47.
+
+"One More Sad Song" was released in late 2012. The song became the band's first Billboard Top 40 hit, and the first single from their sixth album, ''[[Trouble (Randy Rogers Band album)|Trouble]]''.
+
+''Dreamer: A Tribute to Kent Finlay'', released in 2016 on Austin-based Eight 30 Records, features Randy Rogers and Sunny Sweeney's duet "Between You and Me".
+
+==Pop Culture==
+Randy Rogers Band and their song “Speak of the Devil” referenced in Showtime TV series ''Billions'' (“STD” 21:04). 
+
+== Discography ==
+=== Studio albums ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:18em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="4"| Peak chart positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]<br><ref name="Country Albums">{{cite magazine|url={{BillboardURLbyName|artist=randy rogers|chart=Country Albums C}}|title=Randy Rogers Chart History - Country Albums|magazine=[[Billboard (magazine)|Billboard]]|access-date=July 20, 2011}}</ref>
+! width="45"| [[Billboard 200|US]]<br><ref name="Billboard 200">{{cite magazine|url={{BillboardURLbyName|artist=randy rogers|chart=all}}|title=Randy Rogers Chart History - Billboard 200|magazine=Billboard|access-date=July 20, 2011}}</ref>
+! width="45"| [[Folk Albums|US Folk]]<br><ref name="Folk Albums">{{cite magazine|url={{BillboardURLbyName|artist=randy rogers|chart=Folk Albums}}|title=Randy Rogers Chart History - Folk Albums|magazine=Billboard|access-date=June 14, 2016}}</ref>
+! width="45"| [[Independent Albums|US Indie]]<br><ref name="Independent Albums">{{cite magazine|url={{BillboardURLbyName|artist=randy rogers|chart=Independent Albums}}|title=Randy Rogers Chart History - Independent Albums|magazine=Billboard|access-date=April 24, 2014}}</ref>
+|-
+! scope="row"| ''Like It Used to Be''<ref>{{cite web|url=https://www.allmusic.com/album/like-it-used-to-be-mw0000730574|title=Like It Used to Be|work=Allmusic|access-date=30 December 2017}}</ref>
+| 
+* Release date: June 25, 2002
+* Label: Downtime Records
+| —
+| —
+| —
+| —
+|- 
+! scope="row"| ''[[Rollercoaster (Randy Rogers Band album)|Rollercoaster]]''
+| 
+* Release date: August 24, 2004
+* Label: Smith Music Group
+| —
+| —
+| —
+| —
+|-
+! scope="row"| ''[[Just a Matter of Time (Randy Rogers Band album)|Just a Matter of Time]]''
+| 
+* Release date: September 12, 2006
+* Label: [[Universal Music Group Nashville|Mercury Nashville]]
+| 8
+| 61
+| —
+| —
+|-
+! scope="row"| ''[[Randy Rogers Band (album)|Randy Rogers Band]]''
+| 
+* Release date: September 23, 2008
+* Label: Mercury Nashville
+| 3
+| 29
+| —
+| —
+|-
+! scope="row"| ''[[Burning the Day]]''
+| 
+* Release date: August 24, 2010
+* Label: [[Universal Music Group Nashville|MCA Nashville]]
+| 2
+| 8
+| —
+| —
+|-
+! scope="row"| ''[[Trouble (Randy Rogers Band album)|Trouble]]''
+| 
+* Release date: April 30, 2013
+* Label: MCA Nashville
+| 3
+| 9
+| —
+| —
+|-
+! scope="row"| ''[[Hold My Beer Vol. 1|Hold My Beer, Vol. 1]]''<br /><small>(Randy Rogers with [[Wade Bowen]])</small>
+| 
+* Release date: April 20, 2015
+* Label: Lil' Buddy Toons
+| 4
+| 37
+| —
+| 3
+|-
+! scope="row"| ''[[Nothing Shines Like Neon]]''
+| 
+* Release date: January 15, 2016
+* Label: Tommy Jackson Records<ref>{{cite news|last1=Carr|first1=Courtney|title=Randy Rogers Band Announce New Album|url=http://theboot.com/randy-rogers-band-nothing-shines-like-neon/|access-date=November 6, 2015|work=The Boot|date=October 15, 2015}}</ref>
+| 5
+| 47
+| —
+| 2
+|-
+! scope="row"| ''Hellbent''
+| 
+* Release date: April 26, 2019<ref>{{cite web|url=https://www.tennessean.com/story/entertainment/music/2019/01/21/randy-rogers-band-tour-album-hellbent-crazy-people/2620221002/|title=Exclusive: Randy Rogers Band reveals new album 'Hellbent,' new tour|work=[[The Tennessean]]|last=Watts|first=Cindy|date=January 21, 2019|access-date=January 22, 2019}}</ref>
+* Label: Tommy Jackson Records / [[Thirty Tigers]]
+| —
+| —
+| —
+| —
+|-
+! scope="row"| ''Hold My Beer, Vol. 2''<br /><small>(Randy Rogers with [[Wade Bowen]])</small>
+| 
+* Release date: May 8, 2020
+* Label: Lil' Buddy Toons
+| —
+| —
+| —
+| —
+|-
+! scope="row"| ''Homecoming''
+| 
+* Release date: October 14, 2022
+* Label: Thirty Tigers
+| —
+| —
+| —
+| —
+|-
+| colspan="10" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+=== Live albums ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:18em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="3"| Peak chart positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]<br><ref name="Country Albums" />
+! width="45"| [[Billboard 200|US]]<br><ref name="Billboard 200" />
+! width="45"| [[Independent Albums|US Indie]]<br><ref name="Independent Albums" />
+|-
+! scope="row"| ''Live at Cheatham Street Warehouse''<ref>{{cite web|url=https://www.allmusic.com/album/live-at-cheatham-st-warehouse-mw0001049396|title=Live at Cheatham Street Warehouse|work=Allmusic|access-date=30 December 2017}}</ref>
+| 
+* Release date: 2000
+* Label: Smith Music Group
+* Formats: CD, [[Compact cassette|cassette]]
+| —
+| —
+| —
+|- 
+! scope="row"| ''Live at Billy Bob's Texas''
+| 
+* Release date: August 16, 2005
+* Label: Smith Music Group
+* Formats: CD, download
+| 62
+| —
+| —
+|- 
+! scope="row"| ''Homemade Tamales – Live at Floore's''
+| 
+* Release date: April 15, 2014
+* Label: Room 8 Records
+* Formats: CD, download
+| 11
+| 70
+| 14
+|-
+! scope="row"| ''[[Watch This (album)|Watch This]]''<br /><small>(Randy Rogers with Wade Bowen)</small><ref>{{cite magazine|last1=Parton|first1=Chris|title=Randy Rogers and Wade Bowen Ready Live Album 'Watch This'|url=https://www.rollingstone.com/music/news/randy-rogers-and-wade-bowen-ready-live-album-watch-this-20160518|access-date=May 25, 2016|magazine=[[Rolling Stone]]|date=May 18, 2016}}</ref>
+| 
+* Release date: June 3, 2016
+* Label: Lil' Buddy Toons
+* Formats: CD, music download
+| 21
+| —
+| 19
+|-
+| colspan="10" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+=== Singles ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Single
+! colspan="3"| Peak chart positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<br><ref>{{cite magazine|url={{BillboardURLbyName|artist=randy rogers|chart=Country Songs}}|title=Randy Rogers Chart History - Country Albums|magazine=[[Billboard (magazine)|Billboard]]|access-date=July 20, 2011}}</ref>
+! width="45"| [[Country Airplay|US Country Airplay]]<br><ref>{{cite magazine|url={{BillboardURLbyName|artist=randy rogers|chart=Country Airplay}}|title=Randy Rogers Chart History - Country Airplay|magazine=Billboard|access-date=November 8, 2012}}</ref>
+! width="45"| [[Bubbling Under Hot 100 Singles|US Bubbling]]<br><ref>{{cite magazine|title=Bubbling Under Hot 100 Week of September 15, 2012|url=http://www.billboard.biz/bbbiz/charts/chart-search-results/singles/14117957|magazine=Billboard|access-date=September 13, 2012}}{{Dead link|date=July 2024 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+|-
+| rowspan="2"| 2005
+! scope="row"| "Tonight's Not the Night (For Goodbye)"
+| 43
+| —
+| —
+| align="left" rowspan="2"| ''Rollercoaster''
+|- 
+! scope="row"| "Down and Out"
+| 48
+| —
+| —
+|-
+|2006
+! scope="row"| "Kiss Me in the Dark"
+| 43
+| —
+| —
+| align="left" rowspan=2| ''Just a Matter of Time''
+|- 
+| 2007
+! scope="row"| "One More Goodbye"
+| 53
+| —
+| —
+|-
+| 2008
+! scope="row"| "In My Arms Instead"
+| 52
+| —
+| —
+| align="left"| ''Randy Rogers Band''
+|-
+| rowspan="2"| 2010
+! scope="row"| "Too Late for Goodbye"
+| 47
+| —
+| —
+| align="left" rowspan="2"| ''Burning the Day''
+|-
+! scope="row"| "Steal You Away"<ref>{{cite web|url=http://tasteofcountry.com/randy-rogers-band-steal-away/|title=RANDY ROGERS BAND, 'STEAL YOU AWAY' – SONG SPOTLIGHT|work=[[Taste of Country]]|access-date=30 December 2017}}</ref>
+| —
+| —
+| —
+|-
+| 2012
+! scope="row"| "One More Sad Song"
+| 38
+| 37
+| 21
+| align="left" rowspan="3"| ''Trouble''
+|-
+| rowspan="2"| 2013
+! scope="row"| "Trouble Knows My Name"<ref>{{cite web|url=http://lonestarmusicmagazine.com/songs-stories-of-san-marcos-randy-rogers/|title=SONGS & STORIES OF SAN MARCOS: RANDY ROGERS|work=Lonestar Music Magazine|date=March 2013 |access-date=30 December 2017}}</ref>
+| —
+| —
+| —
+|-
+! scope="row"| "Fuzzy"<ref>{{cite web|url=https://www.allmusic.com/album/fuzzy-mw0002464743|title=Fuzzy|work=Allmusic|access-date=30 December 2017}}</ref>
+| —
+| —
+| —
+|-
+| 2014
+! scope="row"| "Satellite"<ref>{{cite web|url=http://thedailycountry.com/album--single-reviews/single-review-randy-rogers-band-satellite|title=Single review - "Satellite"|work=The Daily Country|access-date=30 December 2017}}</ref>
+| —
+| —
+| —
+| align="left"| ''Homemade Tamales – Live at Floore's''
+|-
+| 2016
+! scope="row"| "Neon Blues"<ref>{{cite web|title=Single Releases|url=http://www.musicrow.com/calendars-2/single-releases/|website=[[MusicRow]]|date=4 January 2013 |access-date=January 26, 2016}}</ref>
+| —
+| —
+| —
+| align="left"| ''Nothing Shines Like Neon''
+|-
+| colspan="6" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:22em;"| Video
+! Director
+|-
+| 2006
+! scope="row"| "Kiss Me in the Dark"<ref>{{cite web|url=https://www.youtube.com/watch?v=heQNyYhuHZ4 |archive-url=https://ghostarchive.org/varchive/youtube/20211221/heQNyYhuHZ4 |archive-date=2021-12-21 |url-status=live|title=Kiss Me in the Dark|work=Vevo|access-date=30 December 2017}}{{cbignore}}</ref>
+| [[Shaun Silva]]
+|-
+| 2007
+! scope="row"| "One More Goodbye"<ref>{{cite web|url=https://www.youtube.com/watch?v=k0zgvwTv2JA |archive-url=https://ghostarchive.org/varchive/youtube/20211221/k0zgvwTv2JA |archive-date=2021-12-21 |url-status=live|title=One More Goodbye|work=Vevo|access-date=30 December 2017}}{{cbignore}}</ref>
+| The Brads
+|-
+| 2008
+! scope="row"| "In My Arms Instead"<ref>{{cite web|url=https://www.youtube.com/watch?v=_5t7Cl6W-Ag |archive-url=https://ghostarchive.org/varchive/youtube/20211221/_5t7Cl6W-Ag |archive-date=2021-12-21 |url-status=live|title=In My Arms Instead|work=Vevo|access-date=30 December 2017}}{{cbignore}}</ref>
+| Andy Wherspann
+|-
+| 2010
+! scope="row"| "Interstate"<ref>{{cite web|url=https://www.youtube.com/watch?v=1w1YjsI2Ohc |archive-url=https://ghostarchive.org/varchive/youtube/20211221/1w1YjsI2Ohc |archive-date=2021-12-21 |url-status=live|title=Interstate|work=Vevo|access-date=30 December 2017}}{{cbignore}}</ref>
+| rowspan="3"| Stephen Shepherd
+|-
+| 2012
+! scope="row"| "One More Sad Song"<ref>{{cite web|url=https://www.youtube.com/watch?v=9Kb6YWr2MKg |archive-url=https://ghostarchive.org/varchive/youtube/20211221/9Kb6YWr2MKg |archive-date=2021-12-21 |url-status=live|title=One More Sad Song|work=Vevo|access-date=30 December 2017}}{{cbignore}}</ref>
+|-
+| 2013
+! scope="row"| "Fuzzy"<ref>{{cite web|url=http://www.cmt.com/videos/randy-rogers-band/911147/fuzzy.jhtml|title=CMT : Videos : Randy Rogers Band : Fuzzy|publisher=[[Country Music Television]]|access-date=June 13, 2013}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+|-
+| 2014
+! scope="row"| "Satellite"<ref>{{cite web|url=http://www.cmt.com/videos/randy-rogers-band/1041711/satellite.jhtml|archive-url=https://archive.today/20140512161219/http://www.cmt.com/videos/randy-rogers-band/1041711/satellite.jhtml|url-status=dead|archive-date=May 12, 2014|title=CMT : Videos : Randy Rogers Band : Satellite|publisher=[[Country Music Television]]|access-date=May 12, 2014}}</ref>
+| rowspan="4"| The Edde Brothers
+|-
+| 2015
+! scope="row"| "Standards" <small>(Randy Rogers with [[Wade Bowen]])</small><ref>{{cite web|url=http://www.cmt.com/videos/randy-rogers-and-wade-bowen/1184376/standards.jhtml|archive-url=https://web.archive.org/web/20150402000021/http://www.cmt.com/videos/randy-rogers-and-wade-bowen/1184376/standards.jhtml|url-status=dead|archive-date=April 2, 2015|title=CMT : Videos : Randy Rogers and Wade Bowen : Standards|publisher=[[Country Music Television]]|access-date=March 30, 2015}}</ref>
+|-
+| rowspan="2"| 2016
+! scope="row"| "Neon Blues"<ref>{{cite web|url=http://www.cmt.com/videos/randy-rogers-band/1272496/neon-blues.jhtml|archive-url=https://web.archive.org/web/20160216063142/http://www.cmt.com/videos/randy-rogers-band/1272496/neon-blues.jhtml|url-status=dead|archive-date=February 16, 2016|title=CMT : Videos : Randy Rogers Band : Neon Blues|publisher=[[Country Music Television]]|access-date=February 9, 2016}}</ref>
+|-
+! scope="row"| "San Antone"<ref>{{cite news|last1=McCarthy|first1=Amy|title=Randy Rogers Band Release Music Video for 'San Antone' [WATCH]|url=http://theboot.com/randy-rogers-band-san-antone-music-video/|access-date=July 19, 2016|work=The Boot|date=July 12, 2016}}</ref>
+|-
+| 2017
+! scope="row"| "Meet Me Tonight"
+|
+|-
+| 2020
+! scope="row"| "Rodeo Clown" <small>(Randy Rogers with [[Wade Bowen]])</small><ref>{{cite web|url=http://www.cmt.com/news/1820526/randy-rogers-wade-bowen-barrel-through-rodeo-clown/|archive-url=https://web.archive.org/web/20200424131440/http://www.cmt.com/news/1820526/randy-rogers-wade-bowen-barrel-through-rodeo-clown/|url-status=dead|archive-date=April 24, 2020|title=CMT : Videos : Randy Rogers and Wade Bowen : Rodeo Clown|publisher=[[Country Music Television]]|access-date=May 22, 2020}}</ref>
+| Tim Duggan
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://randyrogersband.com Official website]
+*[https://www.facebook.com/RandyRogersBand Randy Rogers Band on Facebook]
+
+{{Randy Rogers Band}}
+{{Authority control}}
+
+{{DEFAULTSORT:Rogers, Randy, Band}}
+[[Category:Country music groups from Texas]]
+[[Category:Musical groups from San Marcos, Texas]]
+[[Category:MCA Records artists]]
+[[Category:Mercury Records artists]]
+[[Category:Musical groups established in 2000]]
+[[Category:Thirty Tigers artists]]

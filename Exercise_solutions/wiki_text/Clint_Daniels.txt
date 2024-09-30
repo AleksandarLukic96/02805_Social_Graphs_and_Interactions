@@ -1,0 +1,91 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=February 2020}}
+{{Infobox musical artist
+| name            = Clint Daniels
+| image           =
+| caption         =
+| image_size      =
+| birth_name      = Clint Allen Daniels<ref>per [[Broadcast Music Incorporated]] database</ref>
+| birth_date      = {{birth date and age|1974|08|24}}
+| origin          = [[Panama City, Florida]], United States
+| instrument      = Vocals, guitar
+| genre           = [[Country music|Country]]
+| occupation      = Singer
+| years_active    = 1998–present
+| label           = [[Arista Nashville]], [[Epic Records|Epic]]
+| associated_acts = [[Brooks & Dunn]]<br />[[Easton Corbin]]<br />[[Montgomery Gentry]]<br />[[Joe Nichols]]
+| website         = [http://www.ClintDaniels.com ClintDaniels.com]
+}}
+'''Clint Allen Daniels''' (born August 24, 1974, in [[Panama City, Florida]]<ref name="allmusic">{{cite web |url={{AllMusic|class=artist|id=p350359/biography|pure_url=yes}} |title=Clint Daniels biography |accessdate=May 24, 2008 |last=Pendragon |first=Jana |publisher=[[AllMusic]]}}</ref>) is an American [[country music]] artist. Signed to [[Arista Nashville]] in 1998, Daniels charted two singles for the label. In 2003, Daniels signed to [[Epic Records]], releasing a third single but no album. He has co-written Number One singles for [[Joe Nichols]] and [[Montgomery Gentry]], as well as a Top 20 hit for [[Brooks & Dunn]]. He released the album Brown Bottle Blues in 2018.
+
+==Biography==
+Clint Daniels was born August 24, 1974, in [[Panama City, Florida]], but raised in the Panama City suburb of [[Lynn Haven, Florida|Lynn Haven]]. Daniels first gained an interest in music as a child, singing with his sister in church.<ref name="allmusic"/> Inspired by [[bluegrass music]], Daniels taught himself to play guitar at age twelve. After graduating high school, he moved to [[Nashville, Tennessee]], in pursuit of a career in country music. By 1998, he was discovered by an [[A&R]] staff member from the [[Arista Nashville]] label, and was signed to the label that year.<ref name="allmusic"/>
+
+He charted two singles, "A Fool's Progress" and "When I Grow Up," which respectively reached No.&nbsp;44 and No.&nbsp;53 on the country singles charts. Both were to have been included on a self-titled debut album, which was ultimately not released due to Arista's restructuring.<ref>{{cite web|url=http://www.soundspike.com/story2/1272/arista-nashville-consolidation-leaves-several-acts-without-a-label/|archive-url=https://archive.today/20130411202601/http://www.soundspike.com/story2/1272/arista-nashville-consolidation-leaves-several-acts-without-a-label/|url-status=dead|archive-date=April 11, 2013|title=Arista Nashville Consolidation Leaves Several Acts Without A Label|last=Evans|first=Rob|date=June 5, 2000|work=Soundspike|accessdate=March 19, 2013}}</ref> Daniels moved to [[Epic Records]] in 2003.<ref>{{cite magazine |url=http://www.allbusiness.com/retail-trade/miscellaneous-retail-retail-stores-not/4647446-1.html |title=Countrycool, Songs.com Call It Quits; Ccma Moves Music Week To Calgary |accessdate=May 24, 2008 |last=Stark |first=Phyllis |date=January 20, 2001 |magazine=[[Billboard (magazine)|Billboard]]}}</ref> Although he released a third single, the No.&nbsp;56 "The Letter (Almost Home)," he never released an album for Epic and has not recorded since.
+
+Daniels has also co-written songs for other country artists, including the Number One hits "[[Brokenheartsville]]" by [[Joe Nichols]]<ref>{{cite web |url=http://www.bmi.com/news/entry/233689 |title="Brokenheartsville" Established at No.&nbsp;1 |accessdate=May 24, 2008 |date=April 9, 2003 |work=[[Broadcast Music Incorporated|BMI]]}}</ref> and "[[Roll with Me]]" by [[Montgomery Gentry]]<ref>{{cite web|url=http://www.countrystandardtime.com/news/newsitem.asp?xid=1997|title=Montgomery Gentry rolls out new single|date=August 6, 2008|work=[[Country Standard Time]]|accessdate=January 23, 2009}}</ref> (from 2003 and 2008 respectively), as well as [[Brooks & Dunn]]'s 2008 single "[[God Must Be Busy]]". He also co-wrote two songs that were released in late 2010: [[Clay Walker]]'s "[[Where Do I Go from You]]" and [[Easton Corbin]]'s "[[I Can't Love You Back]]". In late 2013, he co-wrote [[Josh Thompson (singer)|Josh Thompson]]'s "[[Cold Beer with Your Name on It]]". In late 2017, he co-wrote [[Jon Pardi]]'s "She Ain't in It". In early 2019, he co-wrote [[Eric Church]]'s "[[Some of It]]".
+
+==Discography==
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:16em;"| Single
+! colspan="2"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<br><ref>{{cite magazine|url=https://www.billboard.com/artist/clint-daniels/chart-history/csi/|title=Clint Daniels – Hot Country Songs|magazine=[[Billboard (magazine)|Billboard]]|accessdate=October 28, 2019}}</ref>
+! width="45"| [[RPM (magazine)|CAN Country]]<br><ref>{{cite web|url=http://www.bac-lac.gc.ca/eng/discover/films-videos-sound-recordings/rpm/Pages/list.aspx?OCRText=Clint+Daniels&ChartEn=Country+Singles&|title=Clint Daniels – Country Singles|work=[[RPM (magazine)|RPM]]|accessdate=October 28, 2019}}</ref>
+|-
+| rowspan="2"| 1998
+! scope="row"| "A Fool's Progress"
+| 44
+| 42
+| align="left" rowspan="2"| ''Clint Daniels'' {{small|(unreleased)}}
+|-
+! scope="row"| "When I Grow Up"
+| 53
+| —
+|-
+| 2003
+! scope="row"| "The Letter (Almost Home)"
+| 56
+| —
+| {{n/a|Non-album single}}
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:16em;"| Video
+! Director
+|-
+| rowspan="2"| 1998
+! scope="row"| "A Fool's Progress"<ref>{{cite web|url=http://www.cmt.com/videos/clint-daniels/308378/a-fools-progress.jhtml|title=CMT : Videos : Clint Daniels : A Fool's Progress|publisher=[[Country Music Television]]|accessdate=October 14, 2011}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+| chris rogers{{sic}}
+|-
+! scope="row"| "When I Grow Up"
+| [[Steven Goldmann]]
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Daniels, Clint}}
+[[Category:1974 births]]
+[[Category:Living people]]
+[[Category:People from Panama City, Florida]]
+[[Category:American country singer-songwriters]]
+[[Category:Country musicians from Florida]]
+[[Category:Arista Nashville artists]]
+[[Category:Epic Records artists]]
+[[Category:Singer-songwriters from Florida]]
+[[Category:People from Bay County, Florida]]
+[[Category:21st-century American singer-songwriters]]

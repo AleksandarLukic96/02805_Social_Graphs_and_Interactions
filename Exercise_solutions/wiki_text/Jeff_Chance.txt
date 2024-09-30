@@ -1,0 +1,150 @@
+{{short description|American singer-songwriter}}
+{{Use mdy dates|date=January 2020}}
+{{Infobox musical artist
+| name            = Jeff Chance
+| image           =
+| birth_name      = Jeffrey Barosh Sr.
+| birth_date      = {{Birth date|1954|12|13}}
+| death_date      = {{Death date and age|2008|12|12|1954|12|13}}
+| birth_place     = [[El Campo, Texas]], United States
+| death_place     = [[El Campo, Texas]], United States
+| instrument      = Vocals, [[fiddle]]
+| genre           = [[Country music|Country]]
+| occupation      = Singer
+| years_active    = 1985–1992, 2008
+| label           = [[Mercury Nashville Records|Mercury Nashville]], [[Curb Records|Curb]], Music Master
+| past_member_of = [[Chance (band)|Chance]]
+}}
+'''Jeffrey Barosh Sr.''' (December 13, 1954 in [[El Campo, Texas]] &ndash; December 12, 2008) was an American [[country music]] singer, known professionally as '''Jeff Chance'''. He was initially a member of the five-piece band "Texas Pride" which later became [[Chance (band)|Chance]] recording one album for Mercury Records in 1985. As a solo artist he recorded four albums "Picture on the Wall" 1991 and "Walk Softly on the Bridges" 1992 for [[Mercury Records Nashville]] and "Back Again" 2008 and "Between the Sheets" 2013 for Music Master and charted five country singles  in the mid-1980s. The second album included backing vocals from [[Shania Twain]].
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:16em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''Picture on the Wall''
+| 
+* Release date: 1990
+* Label: [[Mercury Nashville Records|Mercury Nashville]]
+|-
+! scope="row"| ''Walk Softly on the Bridges''
+| 
+* Release date: August 18, 1992
+* Label: Mercury Nashville
+|-
+! scope="row"| ''Back Again''
+|
+* Release date: March 25, 2008
+* Label: Music Master
+|-
+! scope="row"| ''Between the Sheets''
+|
+* Release date: June 12, 2013
+* Label: Music Master
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:16em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<br/><ref name="Whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|isbn=978-0-89820-177-2}}</ref>
+! width="45"| [[RPM (magazine)|CAN Country]]<br/><ref>{{cite magazine|url=http://www.bac-lac.gc.ca/eng/discover/films-videos-sound-recordings/rpm/Pages/list.aspx?OCRText=Jeff+Chance&ChartEn=Country+Singles&|title=Jeff Chance - Country Singles|access-date=March 14, 2023|magazine=RPM}}</ref>
+|-
+| rowspan="3"| 1988
+! scope="row"| "So Far Not So Good"
+| 64
+| —
+| rowspan="6"| ''Picture on the Wall''
+|-
+! scope="row"| "Hopelessly Falling"
+| 52
+| —
+|-
+! scope="row"| "Let It Burn"
+| 57
+| —
+|-
+| 1990
+! scope="row"| "Talkin' to Your Picture"
+| —
+| —
+|-
+| rowspan="2"| 1991
+! scope="row"| "Strangers on the Street"<ref>{{cite magazine|url=https://worldradiohistory.com/Archive-All-Music/Billboard/90s/1991/BB-1991-02-16.pdf|title=Single Reviews|date=February 16, 1991|page=71|magazine=Billboard}}</ref>
+| —
+| —
+|-
+! scope="row"| "30 Days in 20 Years"<ref>{{cite magazine|url=https://worldradiohistory.com/Archive-All-Music/Billboard/90s/1991/BB-1991-07-06.pdf|title=Single Reviews|date=July 6, 1991|page=63|magazine=Billboard}}</ref>
+| —
+| —
+|-
+| rowspan="2"| 1992
+! scope="row"| "A Heartache on Her Hands"
+| —
+| 63
+| rowspan="2"| ''Walk Softly on the Bridges''
+|-
+! scope="row"| "Walk Softly on the Bridges"
+| —
+| —
+|-
+| 2008
+! scope="row"| "Soul of the Wine"
+| —
+| —
+| ''Back Again''
+|-
+| 2013
+! scope="row"| "Sad Eyed Lady"
+| —
+| —
+| ''Between the Sheets''
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Music videos===
+{| class="wikitable"
+|-
+! Year
+! Video
+! Director
+|-
+| 1990
+| "Talkin' to Your Picture"
+| Tim Newman
+|-
+| rowspan="2"| 1992
+| "A Heartache on Her Hands"
+| Jeffrey C. Phillips
+|-
+| "Walk Softly on the Bridges"
+| Michael Merriman
+|-
+|}
+
+==References==
+{{Reflist}}
+*[https://archive.today/20120713111615/http://obits.victoriaadvocate.com/VictoriaAdvocate/Obituaries.asp?Page=Notice&PersonID=121335013 Victoria Advocate Obituaries]
+*[{{AllMusic|class=artist|id=p1552/biography|pure_url=yes}} Jeff Chance biography] at [[Allmusic]]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Chance, Jeff}}
+[[Category:1954 births]]
+[[Category:2008 deaths]]
+[[Category:American country fiddlers]]
+[[Category:American country singer-songwriters]]
+[[Category:Curb Records artists]]
+[[Category:Country musicians from Texas]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:People from El Campo, Texas]]

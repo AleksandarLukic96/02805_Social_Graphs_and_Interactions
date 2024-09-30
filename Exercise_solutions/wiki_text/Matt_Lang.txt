@@ -1,0 +1,218 @@
+{{short description|Canadian country music artist}}
+{{Use mdy dates|date=September 2021}}
+{{Infobox musical artist
+| name            = Matt Lang
+| image           = 
+| caption         = 
+| image_size      = 
+| background      = solo_singer
+| birth_date      =
+| birth_name      = Mathieu Langevin
+| birth_place     = 
+| alias           =
+| origin          = [[Maniwaki, Quebec]], [[Canada]]<ref>{{cite web|url=https://matt-lang.prezly.com/award-winning-country-artist-matt-lang-to-release-sophomore-album-june-5th|title=Award Winning Country Artist Matt Lang to Release Sophomore Album June 5th|date=May 8, 2020|work=Matt Lang PR|access-date=September 9, 2021}}</ref>
+| instrument      =
+| genre           = {{hlist|[[Country music|Country]]|[[neotraditional country]]}}
+| occupation      = Singer-songwriter
+| years_active    = 2015-present
+| label           = Jayward Artist Group
+| associated_acts = [[Tebey]]
+| website         = {{URL|mattlangmusic.com/}}
+}}
+'''Matt Lang''' is a Canadian [[country music|country]] singer and songwriter. He has released three albums ''More'', ''Moonlight Sessions'', and ''All Night Longer'', as well as multiple singles, including "[[Getcha]]" and "[[Only a Woman (song)|Only a Woman]]".<ref>{{cite web|title=More - Matt Lang|url=https://www.allmusic.com/album/more-mw0003398534|work=[[AllMusic]]|access-date=September 10, 2021}}</ref>
+
+==Early life==
+Lang is from [[Maniwaki, Quebec]]. He recalls [[Johnny Cash]]'s "[[Folsom Prison Blues]]" as the first song he ever performed live.<ref>{{cite web|title=Matt Lang shows Québec's take on country music|url=https://www.queensjournal.ca/story/2020-01-24/arts/matt-lang-shows-quebecs-take-on-country-music/|date=January 24, 2020|work=[[The Queen's Journal]]|first=Brittany|last=Giliforte}}</ref> While primarily playing [[ice hockey|hockey]] as a teenager, Lang realized his true passion was writing and performing music. He cites Cash, [[Dwight Yoakam]], and [[Merle Haggard]] as artists he listened to growing up, in addition to regional Quebecois acts [[Kaïn]], [[Les Colocs]], and [[Okoumé (band)|Okoumé]].<ref name="UW">{{cite web|url=http://uwimprint.ca/article/matt-lang-canadas-next-country-star/|title=Matt Lang: Canada's next country star|first=Sharanya|last=Karkera|date=January 28, 2020|work=UW Imprint}}</ref>
+
+==Career==
+Lang began his career as a Francophone singer on Quebec reality show ''[[La Voix]]'', North America's [[French language]] counterpart to ''[[The Voice (franchise)|The Voice]]''.<ref name="UW"/> He subsequently released a French album before deciding to pursue his passion for country music.<ref name="UW"/> When he travelled to [[Nashville, Tennessee]] in 2018, Lang stated he was then only learning to speak the [[English language]],<ref name="EF">{{cite web|url=https://entertainment-focus.com/2021/02/25/interview-matt-lang-opens-up-about-learning-to-speak-english-and-his-album-more/|title=Interview: Matt Lang Opens Up About Learning To Speak English And His Album 'More'|first=Pip|last=Ellwood-Hughes|date=February 25, 2021|work=Entertainment Focus}}</ref> while working on his self-titled extended play.<ref>{{cite web|title='I want to sound like an American country man'|url=https://www.saultstar.com/entertainment/local-arts/i-want-to-sound-like-an-american-country-man|work=[[The Sault Star]]|date=January 24, 2020|first=Jeffrey|last=Ougler}}</ref><ref>{{cite web|url=https://www.socanmagazine.ca/features/matt-lang-and-laurie-leblanc-heading-west/|title=Matt Lang and Laurie Leblanc: Heading West|date=June 4, 2020|first=Catherine|last=Genest|work=Words and Music|publisher=[[SOCAN]] Magazine}}</ref>
+
+Lang won the second annual [[SiriusXM]] "Top of the Country" competition in September 2019.<ref>{{cite web|url=https://www.siriusxm.ca/matt-lang-is-canadas-next-big-name-in-country-music-winning-siriusxm-top-of-the-country-and-25000/|title=Matt Lang Is Canada's Next Big Name in Country Music, Winning Sirius XM's Top of the Country and $25,000|date=September 6, 2019|work=[[SiriusXM Canada]]}}</ref> He released his debut [[country music]] album, ''More'', on Jayward Artist Group in June 2020, which contains the singles "Water Down the Whiskey", "[[Getcha]]", "[[Only a Woman (song)|Only a Woman]]", and "In a Bar".<ref>{{cite web|url=https://www.canewsottawa.ca/matt-lang-more-album-now-also-available-in-germany-country-d/|title=Matt Lang – More: Album Now Also Available In Germany - Country D|first=Alec|last=Woods|work=CA News Ottawa|date=August 24, 2021|access-date=September 9, 2021}}</ref><ref>{{cite web|url=https://entertainment-focus.com/2021/06/06/matt-lang-releases-new-single-in-a-bar/|title=Matt Lang Releases New Single 'In A Bar'|date=June 6, 2021|work=Entertainment Focus|first=Pip|last=Ellwood-Hughes|access-date=September 9, 2021}}</ref><ref name="Jayward">{{cite news|title=Jayward Artist Group - Matt Lang|url=https://www.jaywardartistgroup.com/mattlang|work=Jayward Artist Group|access-date=September 23, 2021}}</ref> Lang noted influence of [[Bakersfield sound]] and the [[Western music (North America)|western]]-influenced Franco-country music of [[Quebec]] in his music.<ref name="EF"/> In 2022, Lang collaborated with [[Tyler Joe Miller]] on the single "[[Never Met a Beer]]", which received a nomination for Musical Collaboration of the Year at the [[2023 Canadian Country Music Awards]].<ref name="Dicaire">{{cite web|url= https://www.lacliqc.com/videoclip-never-met-a-beer/|title=Le vidéoclip de "Never Met a Beer" maintenant disponible!|date=November 9, 2022|first=Christopher|last=Dicaire|work=La Cliqc|access-date=July 30, 2023}}</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2"| Title
+! scope="col" rowspan="2"| Details
+! scope="col" colspan="1"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! scope="col" style="width:3.5em;"| [[Canadian Albums Chart|CAN]]<br /><ref name="Canadian Albums">{{cite magazine|url=https://www.billboard.com/artist/matt-lang/chart-history/CNA| 
+title=Matt Lang Chart History (Canadian Albums)| magazine=[[Billboard (magazine)|Billboard]]| accessdate=December 1, 2021}}</ref>
+|-
+! scope="row"| ''More''
+|
+* Released: June 5, 2020
+* Label: Jayward Artist Group / [[The Orchard (company)|The Orchard]] / [[Sony Music Canada]]
+* Format: [[Compact disc|CD]], [[Music download|digital download]], [[Music streaming|streaming]]
+| 94
+|-
+! scope="row"| ''Moonlight Sessions''
+|
+* Released: June 16, 2023
+* Label: Matt Lang
+* Format: Digital download, streaming
+| —
+|-
+! scope="row"| ''All Night Longer''
+|
+* Released: May 10, 2024
+* Label: Matt Lang
+* Format: Digital download, streaming
+| —
+|}
+
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2"| Title
+! scope="col" rowspan="2"| Details
+! scope="col" colspan="1"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! scope="col" style="width:3.5em;"| [[Canadian Albums Chart|CAN]]<br /><ref name="Canadian Albums"/>
+|-
+! scope="row"| ''Matt Lang''
+|
+* Released: September 7, 2018
+* Label: Productions Mathieu Langevin 
+* Format: Digital download, streaming
+| 74
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2"| Year
+! scope="col" rowspan="2" style="width:18em;"| Title
+! scope="col" colspan="2"| Peak chart positions
+! scope="col" rowspan="2" style="width:10em;"| [[Music recording sales certification|Certifications]]
+! scope="col" rowspan="2"| Album
+|- style="font-size:smaller;"
+! scope="col" style="width:4em;"| [[Canadian Hot 100|CAN]]<br /><ref>{{cite magazine|url=http://www.billboard.com/artist/matt-lang/chart-history/CAN|title=Matt Lang Chart History (Canadian Hot 100)|magazine=[[Billboard (magazine)|Billboard]]|access-date=December 1, 2021}}</ref>
+! scope="col" style="width:4em;"| [[Canada Country|CAN Country]]<br /><ref>{{cite magazine|url=http://www.billboard.com/artist/matt-lang/chart-history/ccw|title=Matt Lang Chart History (Canada Country)|magazine=[[Billboard (magazine)|Billboard]]|access-date=September 4, 2024}}</ref>
+|-
+| 2019
+! scope="row"| "Water Down the Whiskey"
+| —
+| 19
+|
+| align="left" rowspan="4"| ''More''
+|-
+| rowspan="2"| 2020
+! scope="row"| "[[Getcha]]"
+| 98
+| 5
+|
+* [[Music Canada|MC]]: Gold{{Certification Cite Ref|region=Canada|type=single|title=Getcha|artist=Matt Lang}}
+|-
+! scope="row"| "[[Only a Woman (song)|Only a Woman]]"
+| 99
+| 11
+|
+|-
+| 2021
+! scope="row"| "In a Bar"
+| —
+| 5
+|
+* [[Music Canada|MC]]: Gold{{Certification Cite Ref|region=Canada|type=single|title=In a Bar|artist=Matt Lang}}
+|-
+| 2022
+! scope="row"| "[[Never Met a Beer]]"<br/>{{small|(with [[Tyler Joe Miller]])}}
+| —
+| 10
+|
+| align="left"| ''[[Spillin' My Truth]]''
+|-
+| rowspan="2"| 2024
+! scope="row"| "All Night Longer"
+| —
+| 23
+|
+| align="left" rowspan="2"| ''All Night Longer''
+|-
+! scope="row"| "A Hundred Beers"
+| —
+| 54
+|
+|-
+| colspan="6" style="font-size:85%"| "—" denotes releases that did not chart 
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! scope="col" | Year
+! scope="col" | Title
+! scope="col" | Director
+|-
+| rowspan="2"| 2018
+! scope="row"| "Love Me Some You"<ref>{{cite web|title=Matt Lang - Love Me Some You (Official Video)|url=https://www.youtube.com/watch?v=WPHeckc5Q3I|website=[[YouTube]]|accessdate=September 9, 2021|format=video|date=April 6, 2018}}</ref>
+| rowspan="2"| Sébastien Ianuzzi
+|-
+! scope="row"| "My Final Pour"<ref>{{cite web|title=Matt Lang - My Final Pour (Official Video)|url=https://www.youtube.com/watch?v=c8MAlKs4dvk|website=[[YouTube]]|accessdate=September 9, 2021|format=video|date=October 4, 2018}}</ref>
+|-
+| rowspan="2"| 2020
+! scope="row"| "Getcha"<ref>{{cite web|title=Matt Lang, Getcha - Official Music Video|url=https://www.youtube.com/watch?v=E3TztSprgZI|website=[[YouTube]]|accessdate=September 9, 2021|format=video|date=May 15, 2020}}</ref>
+| Bruno Labrie
+|-
+! scope="row"| "Only a Woman"<ref>{{cite web|title=Matt Lang ''Only A Woman'' Official Music Video|url=https://www.youtube.com/watch?v=ymDjoNS0JBE|website=[[YouTube]]|accessdate=September 9, 2021|format=video|date=November 13, 2020}}</ref>
+| Sean Cartwright
+|-
+| 2021
+! scope="row"| "In a Bar"<ref>{{cite web|title=Matt Lang - Official Music Video IN A BAR|url=https://www.youtube.com/watch?v=ZY06OKFf9pA|website=[[YouTube]]|accessdate=September 9, 2021|format=video|date=June 9, 2021}}</ref>
+| Movik Productions
+|}
+
+==Awards and nominations==
+{| class="wikitable"
+|+
+!Year
+!Association
+!Category
+!Nominated Work
+!Result
+!Ref
+|-
+| 2020
+| [[Canadian Country Music Association]]
+|Rising Star
+| {{n/a}}
+| {{nom}}
+|<ref>{{Cite web|url=https://members.ccma.org/cgi/page.cgi/past_award_winners.html?meta_nominee=Matt+Lang&meta_category=&meta_year=&meta_year=&type=award&section_id=1&log=do_search_form|title=Search Past CCMA Awards Nominees - Matt Lang|work=[[Canadian Country Music Association]]|access-date=September 23, 2021}}</ref>
+|-
+| 2023
+| [[Canadian Country Music Association]]
+|Musical Collaboration of the Year
+| "Never Met a Beer" {{small|(with [[Tyler Joe Miller]])}}
+| {{nom}}
+|<ref name="CCMAXXIII">{{cite web|url=https://ccma.org/2023-nominees/|title=2023 CCMA Awards Nominees|work=[[Canadian Country Music Association]]|date=July 13, 2023|archive-url=https://web.archive.org/web/20230714125710/https://ccma.org/2023-nominees/|archive-date=July 14, 2023|access-date=July 18, 2023}}</ref>
+|-
+| 2024
+| [[Canadian Country Music Association]]
+| Breakthrough Artist or Group of the Year
+| {{n/a}}
+| {{nom}}
+| <ref>{{cite web|url=https://ccma.org/2024-ccma-award-nominees/|title=2024 CCMA AWARDS NOMINEES|work=[[Canadian Country Music Association]]|access-date=July 25, 2024|archive-url= https://web.archive.org/web/20240719164229/http://web.archive.org/screenshot/https://ccma.org/2024-ccma-award-nominees/|archive-date=July 19, 2024}}</ref>
+|-
+|}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+*{{Official website|https://mattlangmusic.com/}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lang, Matt}}
+[[Category:Living people]]
+[[Category:Canadian country singer-songwriters]]
+[[Category:Canadian male singer-songwriters]]
+[[Category:Singers from Quebec]]
+[[Category:People from Maniwaki]]
+[[Category:Participants in Canadian reality television series]]
+[[Category:21st-century Canadian male singers]]
+[[Category:21st-century Canadian singers]]
+[[Category:Year of birth missing (living people)]]
+[[Category:21st-century Canadian singer-songwriters]]

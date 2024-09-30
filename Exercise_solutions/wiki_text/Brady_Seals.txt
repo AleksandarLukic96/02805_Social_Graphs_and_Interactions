@@ -1,0 +1,191 @@
+{{short description|American singer-songwriter}}
+
+{{For|the album|Brady Seals (album)}}
+{{Use mdy dates|date=November 2021}}
+{{Infobox musical artist
+| name              = Brady Seals
+| image             = BradySeals.jpg
+| caption           = Brady Seals
+| birth_date        = {{Birth date and age|1969|3|29}}
+| origin            = [[Fairfield, Ohio]], U.S.
+| instrument        = Vocals<br />keyboards
+| genre             = [[Country music|Country]]
+| occupation        = Singer-songwriter
+| years_active      = 1988–present
+| label             = [[Reprise Records|Reprise]]/[[Warner Bros. Records|Warner Bros.]]<br />[[Image Entertainment]]<br />Star City/Nine North
+| past_member_of    = [[Little Texas (band)|Little Texas]], [[Hot Apple Pie]]
+| spouse            = 
+| website           = {{URL|www.bradyseals.com}}
+}}
+
+'''Brady Seals''' (born March 29, 1969) is an American [[country music]] artist. He is the cousin of [[Jim Seals]] (of Seals & Crofts) and [[Dan Seals]], [[Johnny Duncan (country singer)|Johnny Duncan]], the nephew of [[Troy Seals]]. Seals made his debut in 1988 as co-lead vocalist and keyboardist in the sextet [[Little Texas (band)|Little Texas]], with whom he recorded until his departure in late 1994. Between then and 2002, he recorded as a solo singer, releasing three studio albums and charting in the Top 40 on the country charts with "Another You, Another Me". In 2002, Seals formed a quartet called [[Hot Apple Pie]], in which he has recorded one studio album and charted three singles. A fourth solo album, ''Play Time'', was released in 2009 via Star City.
+
+==Biography==
+Seals was raised in a musical home in the [[Cincinnati]], Ohio, suburb of [[Fairfield, Ohio|Fairfield]]. He began playing piano and writing songs at the age of nine, and was performing in a high-school band at the age of 16. After leaving home not long after, Seals returned to finish his education, but then left again. He ended up in Nashville and joined the group [[Little Texas (band)|Little Texas]] with friend and fellow musician Del Gray.
+
+Seals spent six years with Little Texas, playing keyboards and co-writing all of the band's major hits. By late 1994, shortly after the release of their third album, ''[[Kick a Little]]'', Seals had left the group and began a solo career. He signed to [[Reprise Records]] and released his debut album, ''The Truth'', in 1996. It produced three chart singles for him, including his only solo top 40 hit, "Another You, Another Me" at number 32.<ref name="whitburn">{{cite book |last=Whitburn |first=Joel |title=Hot Country Songs 1944 to 2008 |publisher=Record Research, Inc |year=2008 |page=372 |isbn=0-89820-177-2}}</ref> Another album, the self-titled ''Brady Seals'', was issued in 1998 via Reprise Records' parent label, [[Warner Bros. Records]], 2003's ''Thompson Street'', released via [[Image Entertainment]]
+
+Seals formed the band [[Hot Apple Pie]]. This band recorded a [[Hot Apple Pie (album)|self-titled]] debut album for [[DreamWorks Records]] and charted three country singles, including the number 26 "Hillbillies." Seals's fourth album, ''Play Time'', was released in 2009 via StarCity Recording Company.
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:12em;" | Title
+! rowspan="2" style="width:18em;" | Album details
+! colspan="3" | Peak chart positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]<br /><ref name="Country Albums">{{cite web |url={{BillboardURLbyName|artist=brady seals|chart=Country Albums C}} |title=Brady Seals Album & Song Chart History – Country Albums |work=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]] |accessdate=December 11, 2010}}</ref>
+! width="45"| [[Top Heatseekers|US Heat]]
+! width="45"| [[RPM (magazine)|CAN Country]]<br /><ref>{{cite web |url=http://www.collectionscanada.gc.ca/rpm/028020-110.01-e.php?PHPSESSID=p80g1di4s1n7h4bej6fpv56826&q1=brady+seals&q2=Country+Albums%2FCDs&interval=20 |title=Results – RPM – Library and Archives Canada – Country Albums |work=[[RPM (magazine)|RPM]] |accessdate=December 11, 2010 |archive-url=https://web.archive.org/web/20121023221849/http://www.collectionscanada.gc.ca/rpm/028020-110.01-e.php?PHPSESSID=p80g1di4s1n7h4bej6fpv56826&q1=brady+seals&q2=Country+Albums%2FCDs&interval=20 |archive-date=October 23, 2012 |url-status=dead }}</ref>
+|-
+! scope="row" | ''[[The Truth (Brady Seals album)|The Truth]]''
+|
+* Release date: February 25, 1997
+* Label: Reprise Records
+| 44
+| 39
+| 36
+|-
+! scope="row" | ''[[Brady Seals (album)|Brady Seals]]''
+|
+* Release date: August 25, 1998
+* Label: Warner Bros. Records
+| —
+| —
+| —
+|-
+! scope="row" | ''[[Thompson Street (album)|Thompson Street]]''
+|
+* Release date: February 25, 2003
+* Label: Image Entertainment
+| —
+| —
+| —
+|-
+! scope="row" | ''Play Time''
+|
+* Release date: August 18, 2009
+* Label: Nine North
+| —
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" | Year
+! rowspan="2" style="width:16em;" | Single
+! colspan="3" | Peak chart positions
+! rowspan="2" | Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<br /><ref name="whitburn" />
+! width="45"| [[Billboard Hot 100|US]]<br /><ref name="whitburn" />
+! width="45"| [[RPM (magazine)|CAN Country]]<br /><ref>{{cite web |url=http://www.collectionscanada.gc.ca/rpm/028020-110.01-e.php?PHPSESSID=mfstfhcbgmru3ti1dqs7m84283&q1=brady+seals&q2=Country+Singles&interval=20 |title=Results – RPM – Library and Archives Canada – Country Singles |work=[[RPM (magazine)|RPM]] |accessdate=December 11, 2010 |archive-url=https://web.archive.org/web/20121023221900/http://www.collectionscanada.gc.ca/rpm/028020-110.01-e.php?PHPSESSID=mfstfhcbgmru3ti1dqs7m84283&q1=brady+seals&q2=Country+Singles&interval=20 |archive-date=October 23, 2012 |url-status=dead }}</ref>
+|-
+| 1996
+! scope="row" | "[[Another You, Another Me]]"
+| 32
+| 91
+| 42
+| align="left" rowspan="4" | ''The Truth''
+|-
+| rowspan="3" | 1997
+! scope="row" | "Still Standing Tall"
+| 69
+| —
+| 67
+|-
+! scope="row" | "She"<ref>{{cite web|url=http://americanradiohistory.com/Archive-RandR/1990s/1997/RR-1997-05-23.pdf|title=Going for Adds|journal=[[Radio & Records]]|page=68|date=May 23, 1997}}</ref>
+| —
+| —
+| —
+|-
+! scope="row" | "Natural Born Lovers"
+| 74
+| —
+| —
+|-
+| rowspan="2" | 1998
+! scope="row" | "I Fell"
+| 55
+| —
+| 84
+| align="left" rowspan="3" | ''Brady Seals''
+|-
+! scope="row" | "Whole Lotta Hurt"
+| 66
+| —
+| —
+|-
+| 1999
+! scope="row" | "The Best Is Yet to Come"
+| 74
+| —
+| —
+|-
+| 2009
+! scope="row" | "Ho Down"
+| —
+| —
+| —
+| align="left" rowspan="2" | ''Play Time''
+|-
+| 2010
+! scope="row" | "Been There, Drunk That"
+| —
+| —
+| —
+|-
+| colspan="6" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:16em;" | Video
+! Director
+|-
+| 1996
+! scope="row" | "Another You, Another Me"
+| Gerry Wenner
+|-
+| 1997
+! scope="row" | "Natural Born Lovers"
+|
+|-
+| 1998
+! scope="row" | "I Fell"
+| Gerry Wenner
+|-
+| 2010
+! scope="row" | "Been There, Drunk That"
+| James King
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [{{AllMusic|class=artist|id=p123404/biography|pure_url=yes}} Brady Seals] at [[Allmusic]]
+
+{{Little Texas}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Seals, Brady}}
+[[Category:1969 births]]
+[[Category:21st-century American keyboardists]]
+[[Category:American country singer-songwriters]]
+[[Category:American country keyboardists]]
+[[Category:Little Texas members]]
+[[Category:Living people]]
+[[Category:People from Hamilton, Ohio]]
+[[Category:Hot Apple Pie members]]
+[[Category:Reprise Records artists]]
+[[Category:Singer-songwriters from Ohio]]
+[[Category:Country musicians from Ohio]]

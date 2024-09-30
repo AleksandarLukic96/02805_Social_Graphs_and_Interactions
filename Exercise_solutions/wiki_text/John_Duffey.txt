@@ -1,0 +1,48 @@
+{{Short description|American musician (1934–1996)}}
+{{for|the American Civil War soldier|John Duffey (soldier)}}
+{{Use mdy dates|date=October 2015}}
+
+{{Infobox musical artist
+| name              = John Duffey
+| background        = solo_singer
+| birth_name        = John Humbird Duffey Jr.
+| birth_date        = {{birth date|1934|03|04}}
+| birth_place       = [[Washington, D.C.]], US
+| death_date        = {{Death date and age|mf=yes|1996|12|10|1934|03|04}}
+| death_place       = [[Arlington County, Virginia]], US
+| instrument        = Vocals, [[mandolin]], [[dobro]], guitar
+| genre             = [[Bluegrass music|Bluegrass]]
+| occupation        = Musician
+| years_active      = 1957–1996
+| label             = [[Starday Records|Starday]], [[Sugar Hill Records (bluegrass label)|Sugar Hill Records]], [[Rebel Records]], [[Folkways Records|Folkways]], [[Mercury Records|Mercury]]
+}}
+'''John Humbird Duffey Jr.''' (March 4, 1934 – December 10, 1996) was an American [[bluegrass music]]ian.<ref name=ibmm>{{cite web|title=John Duffey|url=http://www.bluegrass-museum.org/general/zbioJohnDuffey.php|publisher=[[International Bluegrass Music Museum]]|access-date=August 6, 2012|archive-url=https://web.archive.org/web/20120324152322/http://www.bluegrass-museum.org/general/zbioJohnDuffey.php|archive-date=March 24, 2012|url-status=dead}}</ref>
+
+== Biography ==
+Duffey was born on March 4, 1934, in Washington, D.C., and lived nearly all his life in the Washington D.C. area.  He graduated from [[Bethesda-Chevy Chase High School]] in suburban Maryland.<ref name="IBMM Duffey">{{cite web|url=http://www.bluegrass-museum.org/general/zbioJohnDuffey.php|title=John Humbird Duffey, Jr.|year=2012|publisher=International Bluegrass Music Museum|access-date=August 5, 2012|archive-url=https://web.archive.org/web/20120324152322/http://www.bluegrass-museum.org/general/zbioJohnDuffey.php|archive-date=March 24, 2012|url-status=dead}}</ref> Duffey learned to play the [[mandolin]], [[dobro]], and guitar, in addition to his tenor singing voice. He founded two of the most influential groups in bluegrass, [[The Country Gentlemen]] and [[The Seldom Scene]].<ref name="ancestrycom1">{{cite web|url=https://www.findagrave.com/memorial/15454007|title=John Duffey|last=Boyd|first=David L.|date=June 4, 2009|publisher=Ancestry.com|access-date=August 5, 2012}}</ref><ref name="youtube1">{{cite web|url=https://www.youtube.com/watch?v=ahL1-e8f-gw |archive-url=https://ghostarchive.org/varchive/youtube/20211213/ahL1-e8f-gw |archive-date=2021-12-13 |url-status=live|title=Oral History of the Seldom Scene}}{{cbignore}}</ref><ref name="smithsonian1">{{cite web|url=https://www.smithsonianmag.com/smithsonian-institution/seldom-scene-often-heard-bluegrass-band-return-roots-new-album-180950161/|title=Seldom Scene, Often Heard: A Bluegrass Band Returns to its Roots With a New Album|publisher=Smithsonian Magazine}}</ref> His tastes and sources were eclectic, often raiding folk song books and [[Protestant]] [[hymnals]] for material. He embraced the music of [[Bob Dylan]] and his style of playing was rock and jazz-inflected. In the late 1950s and the 1960s, he also increasingly began working as a [[session musician]] to supplement his income.<ref name="IBMM Duffey" />
+
+The son of a singer at the [[Metropolitan Opera]], Duffey's singing ranged from [[tenor]] to [[falsetto]], and was in contrast to the voice of [[baritone]] singer [[Charlie Waller (American musician)|Charlie Waller]].<ref name="allmusic1">{{cite web|url=https://www.allmusic.com/artist/the-country-gentlemen-mn0000139709/biography|title=The Country Gentlemen: One of the first progressive bluegrass bands|publisher=All Music}}</ref>
+
+Duffey started playing guitar at age 17 after a neighbor convinced him to pick up the instrument.<ref name=Stambler>{{cite book|last=Stambler|first=Irwin|title=Country Music: The Encyclopedia|year=2000|publisher=St. Martin's Griffin|location=New York|isbn=978-0312264871|pages=109|url=https://books.google.com/books?id=d18K8QWcEo8C&q=%22John%20Duffey%22&pg=PA109}}</ref>   In 1957, he worked at radio station [[WFMD]] in [[Frederick, Maryland]] partnered with Charlie Waller to fill in for other musicians.<ref name=Stambler/> That duo eventually became the Country Gentlemen.  As a member of the Country Gentlemen, Duffey was inducted into the [[International Bluegrass Music Hall of Honor]] in 1996.<ref name="IBMM Duffey"/>
+
+Two months after his induction to the International Bluegrass Music Hall of Honor, Duffey was hospitalized in [[Arlington, Virginia]] after complaining of chest pains. The next morning, he died after suffering a heart attack.<ref name="ancestrycom1"/>
+
+A biography, ''John Duffey's Bluegrass Life: Featuring the Country Gentlemen, Seldom Scene, and Washington, DC'', by Stephen Moore and G. T. Keplinger, Foreword by Tom Gray, was published in 2019 (Booklocker).
+
+==References==
+{{Reflist}}
+
+{{Country Gentlemen}}
+{{Seldom Scene}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Duffey, John}}
+[[Category:1934 births]]
+[[Category:1996 deaths]]
+[[Category:American bluegrass mandolinists]]
+[[Category:The Country Gentlemen members]]
+[[Category:Singers from Washington, D.C.]]
+[[Category:20th-century American singers]]
+[[Category:The Seldom Scene members]]
+[[Category:20th-century American male singers]]

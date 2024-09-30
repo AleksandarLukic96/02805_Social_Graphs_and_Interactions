@@ -1,0 +1,119 @@
+{{Short description|American country music and Southern rock band}}
+{{Single source|date=April 2020}}
+{{Infobox musical artist
+| name            = Crossin Dixon
+| image           =
+| alias           = Kyote Wylde
+| origin          = [[Mississippi]], [[United States]]
+| genre           = [[Country music|Country]], [[Southern rock]]
+| years_active    = 2002–2015
+| label           = [[Broken Bow Records|Broken Bow]]<br>[[Broken Bow Records|Stoney Creek]]
+| associated_acts = [[Jason Aldean]]<br />[[Paul Thorn]]<br />[[Jamie Davis (musician)|Jamie Davis and Soul Gravy]]
+| website         = http://www.crossin-dixon.com/
+| past_members    = Jason Miller<br />Michael Bole <br /> Brandon Hyde<br />Charlie Grantham
+}}
+
+'''Crossin Dixon''' is an American [[country music]] and [[Southern rock]] group signed to the independent [[Broken Bow Records|Stoney Creek Records]] label. It was founded by Jason Miller (vocals), Michael Bole, Brandon Hyde and Charlie Grantham.<ref name="allmusic">{{cite web |url={{Allmusic|class=artist|id=p972084|pure_url=yes}} |title=allmusic ((( Crossin Dixon > Biography ))) |accessdate=2007-12-13 |last=Leahey |first=Andrew |work=[[Allmusic]]}}</ref> They have released three singles, of which two have charted on the ''[[Billboard (magazine)|Billboard]]'' country charts.
+
+==Biography==
+The four members of Crossin Dixon first performed together in 2002. Originally, they assumed the name Kyote Wylde, but after developing a significant fanbase, the band changed its name to Crossin Dixon in 2004, to reflect their widespread touring.<ref name="allmusic"/> The band was recommended to record producer [[Michael Knox (record producer)|Michael Knox]], who had also worked with [[Jason Aldean]], and by 2006, Crossin Dixon was signed to [[Broken Bow Records]].<ref name="allmusic"/> Their first single, entitled "Guitar Slinger", was released to radio in July 2007; both it and the followup, "Make You Mine", charted on the [[Hot Country Songs]] charts that year. They released a third single, "I Love My Old Bird Dog (& I Love You Too)" in 2008, but the single failed to chart.  Their self-titled debut was released digitally on December 16, 2008. They released a single called "Lovin in the Country" to radio and  on August 31, 2010, as the first single for an upcoming, untitled second album. A new single, "Goodbye to Henry", was released on December 6, 2010, but it failed to chart. 
+
+Crossin Dixon took a brief hiatus in 2012 following the announcement of former singer, Jason Miller, to pursue a solo career. After careful thought and consideration for their fans, the two remaining members of Crossin Dixon, Brandon Hyde and Charlie Grantham, decided they would continue their tour starting in January 2013. The band broke up sometime in 2015, without making much noise or a formal announcement. 
+
+==Discography==
+===''Crossin Dixon'' (2008)===
+{{Infobox album
+| italic_title = no
+| name       = ''Crossin Dixon''
+| type       = Studio
+| artist     = Crossin Dixon
+| cover      = CrossinDixon.jpg
+| alt        =
+| released   = November 18, 2008
+| recorded   =
+| venue      =
+| studio     =
+| genre      = Country
+| length     = 38:53
+| label      = [[Broken Bow Records|Broken Bow]]
+| producer   = [[Michael Knox (record producer)|Michael Knox]]
+| prev_title =
+| prev_year  =
+| next_title =
+| next_year  =
+}}
+;Track listing
+#"Guitar Slinger" ([[Rodney Clawson]], Jon Stone, [[Bob DiPiero]]) - 3:23
+#"Don't Give Up on Me" ([[Lee Brice]], Garrett Parris, [[Kyle Jacobs (musician)|Kyle Jacobs]]) -   3:37
+#"Stomp" (Clawson, Blair Daly, [[John Rich]]) - 3:07
+#"Don't Waste Your Pretty" ([[Willie Mack (musician)|Willie Mack]], Giles Godard) - 2:49
+#"Let the Bad Times Roll" ([[Brett James]], [[Hillary Lindsey]], [[Troy Verges]], Blair Daly) - 3:42
+#"[[Nineteen (song)|Nineteen]]" ([[Jeffrey Steele]], [[Gary Nicholson (singer)|Gary Nicholson]], [[Tom Hambridge]]) - 3:09
+#"Make You Mine" (Clawson, Stone) - 3:52
+#"I Love My Old Bird Dog (& I Love You)" (Bill Luther, James) - 4:09
+#"I Can Try" ([[Dave Berg (songwriter)|Dave Berg]], George Teren) - 3:06
+#"Moonshine and Mountain Dew" ([[Chris Tompkins]], [[Josh Kear]], [[Mark Irwin (songwriter)|Mark Irwin]]) - 3:13
+#"Just Look What You've Done" (James, [[John Bettis]]) - 4:46
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="60"| [[Hot Country Songs|US Country]]
+|-
+| rowspan="2"| 2007
+! scope="row"| "Guitar Slinger"
+| 45
+| align="left" rowspan="3"| ''Crossin' Dixon''
+|-
+! scope="row"| "Make You Mine"
+| 47
+|-
+| 2008
+! scope="row"| "I Love My Old Bird Dog (& I Love You)"
+| —
+|-
+| rowspan="2"| 2010
+! scope="row"| "Lovin' in the Country"
+| —
+| align="left" rowspan="2"| Non-album songs
+|-
+! scope="row"| "Goodbye to Henry"
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders" border="1"
+|-
+! Year
+! style="width:20em;"| Video
+! Director
+|-
+| 2007
+! scope="row"| "Guitar Slinger"
+| rowspan="2"| [[Wes Edwards]]
+|-
+| 2008
+! scope="row"| "I Love My Old Bird Dog (& I Love You)"
+|-
+| 2010
+! scope="row"| "Lovin' in the Country"
+| Jeffrey C. Phillips
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+[[Category:Country music groups from Mississippi]]
+[[Category:2004 establishments in Mississippi]]
+[[Category:Musical groups established in 2004]]
+[[Category:BBR Music Group artists]]
+[[Category:American southern rock musical groups]]

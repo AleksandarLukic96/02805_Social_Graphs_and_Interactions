@@ -1,0 +1,236 @@
+{{short description|American singer-songwriter}}
+
+{{Infobox musical artist
+| name            = Barrett Baber
+| image           =
+| caption         =
+| image_size      =
+| birth_name      = Barrett Hankins Baber
+| alias           =
+| birth_date      = {{Birth date and age|1980|5|18|mf=y}}
+| birth_place     = [[Marion, Arkansas]]
+| origin          = [[Fayetteville, Arkansas|Fayetteville]], Arkansas
+| instrument      = Vocals, guitar
+| genre           = [[Country music|Country]], rock, [[alternative country]], [[country rock]]
+| occupation      = Singer, songwriter, guitarist
+| years_active    = 2004–present
+| associated_acts = Dustin Christensen, Blind Joe, Zach Seabaugh, Blake Shelton.
+| website         = {{URL|barrettbaber.com}}
+}}
+
+'''Barrett Hankins Baber''' (born May 18, 1980) is an American [[country music]]ian, where he plays [[alternative country]] and [[country rock]] music, and who was a contestant on [[NBC]]'s [[The Voice (U.S. TV series)|''The Voice'']], where he auditioned and got a four chair turn during [[The Voice (U.S. season 9)|season nine]], and he chose to be a member of team [[Blake Shelton]]. His songs have charted on the [[Billboard (magazine)|''Billboard'' magazine]] charts, during his performances on the show.  He finished the competition in third place behind winner [[Jordan Smith (musician)|Jordan Smith]] and runner-up [[Emily Ann Roberts]].
+
+==Early and personal life==
+Baber was born, Barrett Hankins Baber, on May 18,<ref name="Birthday">{{cite web|title=Killer birthday. Got big things planned for the next 365.....owe every success thus far to you guys! Thanks for your support. Get ready....I'm coming in hot this year |url=https://www.facebook.com/barrettbabermusic/posts/821649644557246 |author=Barrett Baber (barrettbabermusic)|publisher=Facebook|access-date=December 14, 2015|date=May 18, 2015}}</ref> 1980, in [[Arkansas]], who considers [[Marion, Arkansas]], his hometown. He is a survivor of [[American Airlines Flight 1420]], which crashed upon landing at [[Little Rock National Airport]] on June 1, 1999.
+
+==Music career==
+
+===Early music career===
+His music career started in 2004, with his release, ''Fratbar Superstar'', that was released on December 14, 2004. He release the subsequent album, ''Colt Square Sessions'', on April 13, 2012. The third album, ''Battlefield Us'', was released on September 14, 2013. His first [[extended play]], ''Falling Again'', was released on May 8, 2015.
+
+===2015: ''The Voice''===
+He appeared on  [[The Voice (U.S. season 9)|season nine]] of [[NBC]]'s [[The Voice (U.S. TV series)|''The Voice'']], in the fall of 2015, with this appearance he got a four chair turn during the auditions, when he chose to be part of [[Blake Shelton]]'s team on the show. His renditions of "[[Angel Eyes (The Jeff Healey Band song)|Angel Eyes]]", "[[I Drive Your Truck]]", "[[Right Here Waiting]]", "[[Delta Dawn]]", and "[[I'd Love to Lay You Down]]", all have charted on the [[Billboard (magazine)|''Billboard'' magazine]] Country Digital Songs charts, where they peaked at Nos. 41, 27, 9, 20, and 1, correspondingly.<ref name="CDS">{{cite web |author=[[Billboard (magazine)|''Billboard'']] |title=Barrett Baber – Chart History (Country Digital Songs) |url=http://www.billboard.com/artist/6710318/barrett-baber/chart/chart?f=1088 |publisher=[[Prometheus Global Media]] |access-date=December 14, 2015 |archive-date=April 27, 2016 |archive-url=https://web.archive.org/web/20160427124949/http://www.billboard.com/artist/6710318/barrett-baber/chart/chart?f=1088 |url-status=dead }}</ref> The songs, "Right Here Waiting", "Delta Dawn", and "I'd Love to Lay You Down", charted on the ''Billboard'' [[Hot Country Songs]] chart, at Nos. 36, 47, and 16, respectively.<ref name="HCS">{{cite web |author=[[Billboard (magazine)|''Billboard'']] |title=Barrett Baber – Chart History (Hot Country Songs) |url=http://www.billboard.com/artist/6710318/barrett-baber/chart/chart?f=357 |publisher=[[Prometheus Global Media]] |access-date=December 14, 2015 |archive-date=April 27, 2016 |archive-url=https://web.archive.org/web/20160427125001/http://www.billboard.com/artist/6710318/barrett-baber/chart/chart?f=357 |url-status=dead }}</ref> The song, "I'd Love to Lay You Down", charted on the ''Billboard'' [[Billboard Hot 100|Hot 100]] at No. 92,<ref name="BBHot100">{{cite web |author=[[Billboard (magazine)|''Billboard'']] |title=Barrett Baber – Chart History (Hot 100) |url=http://www.billboard.com/artist/6710318/barrett-baber/chart/chart?f=379 |publisher=[[Prometheus Global Media]] |access-date=December 14, 2015 |archive-date=April 27, 2016 |archive-url=https://web.archive.org/web/20160427125012/http://www.billboard.com/artist/6710318/barrett-baber/chart/chart?f=379 |url-status=dead }}</ref> while it also peaked at No. 10 on the ''Billboard'' [[Digital Songs]] chart.<ref name="BBDS">{{cite web |author=[[Billboard (magazine)|''Billboard'']] |title=Barrett Baber – Chart History (Digital Songs) |url=http://www.billboard.com/artist/6710318/barrett-baber/chart/chart?f=395 |publisher=[[Prometheus Global Media]] |access-date=December 14, 2015 |archive-date=April 27, 2016 |archive-url=https://web.archive.org/web/20160427125024/http://www.billboard.com/artist/6710318/barrett-baber/chart/chart?f=395 |url-status=dead }}</ref>
+
+:{{Color box|gold|border=darkgray}} – Studio version of performance reached the top 10 on iTunes
+{| class="wikitable" style="text-align:center; font-size:90%; line-height:16px;"
+|-
+! scope="col" | Stage
+! scope="col" | Song
+! scope="col" | Original Artist
+! scope="col" | Date
+! scope="col" | Order
+! scope="col" | Result
+|-
+! scope="row" | Blind Audition
+| "[[Angel Eyes (The Jeff Healey Band song)|Angel Eyes]]"
+| [[Jeff Healey]]
+| September 21, 2015
+| 1.11
+|All four chairs turned<br>Joined Team Blake
+|-
+! scope="row" | Battle Rounds (Top 48)
+| "[[Walking in Memphis]]" <small>(vs. Dustin Christensen)</small>
+| [[Marc Cohn]]
+| October 12, 2015
+| 7.6
+|rowspan=2|Saved by Coach
+|-
+! scope="row" | Knockout Rounds (Top 32)
+| "[[Colder Weather]]"  <small>(vs. Blind Joe)</small>
+| [[Zac Brown Band]]
+| October 26, 2015
+| 11.3
+|-
+! scope="row" | Live Playoffs (Top 24)
+| "[[I Drive Your Truck]]"
+| [[Lee Brice]]
+|  November 10, 2015
+| 16.12
+|rowspan=5|Saved by Public Vote
+|-
+! scope="row" | Live Top 12
+| "[[Right Here Waiting]]"
+| [[Richard Marx]]
+|  November 16, 2015
+| 18.6
+|-
+! scope="row" | Live Top 11
+| "[[Delta Dawn]]"
+| Alex Harvey
+|  November 23, 2015
+| 20.3
+|-
+! scope="row" | Live Top 10
+| style="background:gold;" | "[[I'd Love to Lay You Down]]"
+| [[Conway Twitty]]
+|  November 30, 2015
+| 22.10
+|-
+! scope="row" | Live Semi-finals (Top 9)
+| style="background:gold;" | "[[Ghost (Ella Henderson song)|Ghost]]" 
+| [[Ella Henderson]]
+| December 7, 2015
+| 24.1
+|-
+! scope="row" rowspan="3" | Live Finals (Top 4)
+| style="background:gold;" | "[[Die a Happy Man]]"
+| [[Thomas Rhett]]
+| rowspan="3" | December 14, 2015
+| 26.6
+| rowspan="3" style="background:tan;" | 3rd place
+|-
+| "[[Rhinestone Cowboy]]" <small>(with [[Blake Shelton]]) </small>
+| [[Glen Campbell]]
+| 26.3
+|-
+|  "[[Silent Night]]"
+| Traditional
+| 26.9
+|}
+ 
+{| class="wikitable" style="text-align:center;"
+|-
+|+Non  Competition  Performances:
+|-
+!Order  
+!Collaborators  
+!Song
+!Original  Artist  
+|-
+|17.3
+|Ivonne  Acero, Emily  Ann  Roberts, Zach  Seabaugh, Nadjah  Nicole, Morgan  Frazier  
+|"[[Stand (Rascal Flatts song)|Stand]]"
+|[[Rascal Flatts]]
+|-
+|1.91
+|Emily  Ann  Roberts  and  Zach  Seabaugh  
+|"[[Lean on Me (song)|Lean on Me]]"
+|[[Bill Withers]]
+|-
+| 27.2
+| Zach Seabaugh
+| "[[Forever and Ever, Amen]]"
+| [[Randy Travis]]
+|-
+| 27.11
+| [[Wynonna Judd|Wynonna]]
+| "[[No One Else on Earth]]"
+| Wynonna
+|-
+|}
+
+=== 2016: New music ===
+On February 13, 2016, Baber released a new single, "Kiss Me Hello," co-written with Kenny Lamb. Baber released his newest album "A Room Full of Fighters" on November 4, 2016. Within the first day of the album's release, it topped the ITunes Charts at top 20.<ref>{{Cite web|title = The Voice Barrett Baber "Kiss Me Hello" Lyric Video|url = http://www.mjsbigblog.com/the-voice-barrett-baber-kiss-me-hello-lyric-video.htm|website = mjsbigblog| date=15 February 2016 |access-date = 2016-02-15|language = en-US}}</ref>
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2" style="width:10em;"| Title
+! scope="col" rowspan="2" style="width:18em;"| Album details
+! scope="col"| Peak chart positions
+! scope="col" rowspan="2" style="width:9em;" | Sales
+|-
+! scope="col" style="width:2.5em; font-size:90%;"| [[Billboard 200|US]]<br /><ref>{{cite magazine|url={{BillboardURLbyName|artist=barrett baber|chart=Billboard 200}}|title=Barrett Baber Album & Song Chart History – Billboard 200|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|access-date=December 22, 2015}}</ref>
+|-
+! scope="row"| ''The Voice: The Complete Season 9 Collection''
+|
+* Released: December 15, 2015
+* Label: [[Republic Records]]
+* Format: Digital download
+| 137
+|
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:16em;"| Title
+! colspan="2"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US<br>Country]]<br /><ref>{{cite magazine|url={{BillboardURLbyName|artist=barrett baber|chart=Country Songs}}|title=Barrett Baber Album & Song Chart History – Country Songs|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|access-date=December 13, 2015}}</ref>
+! width="45"| [[Billboard Hot 100|US]]<br /><ref>{{cite magazine|url={{BillboardURLbyName|artist=barrett baber|chart=Hot 100}}|title=Barrett Baber Album & Song Chart History – Hot 100|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|access-date=December 13, 2015}}</ref>
+|-
+| rowspan="8"| 2015
+! scope="row"| "[[I Drive Your Truck]]"
+| —
+| —
+|-
+! scope="row"| "[[Right Here Waiting]]"
+| 36
+| —
+|-
+! scope="row"| "[[Delta Dawn]]"
+| 47
+| —
+|-
+! scope="row"| "[[I'd Love to Lay You Down|I'd Just Love to Lay You Down]]"
+| 16
+| 92
+|-
+! scope="row"| "[[Ghost (Ella Henderson song)|Ghost]]"
+| 32
+| —
+|-
+! scope="row"| "[[Die a Happy Man]]"
+| 30
+| —
+|-
+! scope="row"| "[[Rhinestone Cowboy]]"<br /><small>(with [[Blake Shelton]])</small>
+| 40
+| —
+|-
+! scope="row"| "[[Silent Night]]"
+| 44
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.barrettbaber.com Official website]
+* [https://web.archive.org/web/20151220015936/http://www.nbc.com/the-voice/artists/season-9/barrett-baber ''The Voice'' artist profile]
+
+{{The Voice (U.S.)}}
+{{Authority control}}
+
+{{DEFAULTSORT:Baber, Barrett}}
+[[Category:1980 births]]
+[[Category:Living people]]
+[[Category:American country rock singers]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Republic Records artists]]
+[[Category:Singer-songwriters from Arkansas]]
+[[Category:People from Marion, Arkansas]]
+[[Category:The Voice (franchise) contestants]]
+[[Category:Country musicians from Arkansas]]
+[[Category:21st-century American male singers]]
+[[Category:21st-century American singer-songwriters]]

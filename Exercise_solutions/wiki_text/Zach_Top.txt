@@ -1,0 +1,140 @@
+{{short description|American singer-songwriter (born 1997)}}
+{{Infobox musical artist
+| name            = Zach Top
+| image           = 
+| caption         = 
+| birth_name      = 
+| birth_date      = {{Birth date and age|1997|9|26}}
+| birth_place     = [[Sunnyside, Washington]], U.S.
+| genre           = {{flatlist|
+* [[Neotraditional country]]<ref>{{Cite web |title=Zach Top |url=https://www.allmusic.com/artist/zach-top-mn0004223792 |access-date=July 17, 2024 |website=[[AllMusic]]}}</ref>
+* [[Bluegrass music|bluegrass]]
+}}
+| occupation      = Singer-songwriter
+| instrument      = {{flatlist|
+* Vocals
+* guitar
+}}
+| years_active    = 2019–present
+| label           = Leo33
+| website         = {{URL|https://zachtop.com/}}
+}}
+'''Zachary Dirk Top''' (born September 26, 1997) is an American [[country music]] singer-songwriter from [[Sunnyside, Washington]] signed to Leo33.<ref name="Music Row"/>
+
+==Background==
+Zach Top was born on September 26, 1997,<ref name=":0">{{Cite web |title=Zach Top |url=https://www.opry.com/artists/zach-top |access-date=July 17, 2024 |website=[[Grand Ole Opry]]}}</ref> and grew up on a ranch in [[Sunnyside, Washington]]. He got his musical start performing as part of a [[Bluegrass music|bluegrass]] band with his siblings called Top String.<ref name="Zach Top Bio">{{cite web|url=https://zachtop.com/bio|title=Bio — Zach Top Official|website=Zach Top|access-date=June 7, 2024}}</ref> After performing as part of various bluegrass groups throughout his teens and early twenties, Top relocated to [[Nashville, Tennessee|Nashville]] in 2021, where he first signed a publishing deal with Major Bob Music.<ref name="Zach Top Bio"/> He began recording as a solo artist in 2019, releasing a string of bluegrass singles that culminated in the release of his self-titled debut [[Extended play|EP]] with RBR Entertainment on May 13, 2022.<ref>{{cite web|url=https://rbrentertainment.com/zack-top|title=RBR Entertainment — Zach Top|website=RBR Entertainment|access-date=June 7, 2024}}</ref> 
+
+He pivoted to recording [[country music]] and in September 2023, it was announced that Top was signed as the flagship artist for the newly-formed independent record label Leo33.<ref name="Music Row">{{cite web|url=https://musicrow.com/2023/09/leo33-signs-flagship-artist-zach-top/|title=Leo33 Signs Flagship Artist Zach Top|author=LB Cantrell|date=September 6, 2023|website=Music Row|access-date=June 7, 2024}}</ref> His debut single to country radio, "[[Sounds Like the Radio]]", was released on January 8, 2024, and was the most-added song at the format with 55 stations adding the song upon impact.<ref>{{cite web|url=https://issuu.com/countryaircheck/docs/issue_891_-_janaury_8_2024|title=Country Aircheck Weekly January 7, 2024, Issue 891|date=January 8, 2024|website=Country Aircheck|access-date=June 7, 2024}}</ref> It has since charted in the top 30 of the ''[[Billboard (magazine)|Billboard]]'' [[Country Airplay]] chart. Top co-wrote "Sounds Like the Radio" with [[Carson Chamberlain]] and Wyatt McCubbin, inspired by his love of 1990s-era country music and artists such as [[George Strait]], [[Keith Whitley]], and [[Randy Travis]].<ref name=":0" /><ref>{{cite web|url=https://www.billboard.com/music/country/zach-top-sounds-like-the-radio-makin-tracks-1235611345/|title=Zach Top on Revisiting the '90s – 'The Peak of Country Music' — With Throwback 'Sounds Like The Radio'|author=Tom Roland|date=February 21, 2024|magazine=Billboard|access-date=June 7, 2024}}</ref> It served as the lead single to Top's debut studio album, ''[[Cold Beer & Country Music]]'', which was released on April 5, 2024.<ref>{{cite web|url=https://holler.country/reviews/zach-top-cold-beer-and-country-music/|title=Zach Top – Cold Beer & Country Music Review and Tracklist|author=Soda Canter|date=April 4, 2024|website=Holler|access-date=June 7, 2024}}</ref>
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;" 
+|+ List of studio albums, with selected details, chart positions and sales
+! scope="col" rowspan="2" style="width:14em;" | Title
+! scope="col" rowspan="2" style="width:18em;" | Album details
+! scope="col" colspan="3" | Peak chart positions
+|- style="font-size:smaller;"
+! scope="col" style="width:4em;" | [[Billboard 200|US]]<br /><ref>{{cite tweet|user=billboardcharts|number=1828066387622809948|title=Debuts on this week's #Billboard200...|date=August 26, 2024|access-date=August 27, 2024}}</ref>
+! scope="col" style="width:4em;" | [[Top Country Albums|US Country]]<br /><ref>{{Cite magazine |title=Top Country Albums |url=https://www.billboard.com/charts/country-albums/ |access-date=2024-08-06 |magazine=Billboard |language=en-US}}</ref>
+! scope="col" style="width:4em;" | [[Independent Albums|US Indie]]<br /><ref>{{Cite magazine |title=Independent Albums |url=https://www.billboard.com/charts/independent-albums/ |access-date=2024-08-06 |magazine=Billboard |language=en-US}}</ref>
+|-
+! scope="row" |''[[Cold Beer & Country Music]]''
+|
+* Release date: April 5, 2024
+* Label: Leo33
+* Format: CD, digital download
+| 147 || 29 || 22
+|}
+
+=== Extended plays ===
+{| class="wikitable plainrowheaders"
+|+ List of extended plays, with selected details
+!scope="col"|Title
+!scope="col"|EP details
+|-
+!scope="row"|''Zach Top''<ref>{{Cite web |title=ZACH TOP |url=https://rbrentertainment.com/album/2267786/zach-top|access-date=2024-07-29 |website=rbrentertainment.com}}</ref>
+|
+* Release date: May 13, 2022
+* Label: RBR Entertainment
+* Formats: CD, digital download
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of singles, with selected chart positions
+! scope="col" rowspan="2"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="4"| Peak chart positions
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:3em;font-size:85%"| [[Bubbling Under Hot 100|US<br />Bubbling]]<br /><ref>{{cite magazine|url=https://www.billboard.com/charts/bubbling-under-hot-100-singles/2024-09-28/|title=Bubbling Under Hot 100: Week of September 28, 2024|magazine=[[Billboard (magazine)|Billboard]]|access-date=September 24, 2024}}</ref>
+! scope="col" style="width:3em;font-size:85%"| [[Hot Country Songs|US Country]]<br /><ref name="Country Songs">{{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_0923.pdf|title=Billboard Country Update|magazine=[[Billboard (magazine)|Billboard]]|date=September 23, 2024|access-date=September 24, 2024}}</ref>
+! scope="col" style="width:3em;font-size:85%"| [[Country Airplay|US Country Airplay]]<br /><ref>{{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_0913.pdf|title=Billboard Country Update|magazine=[[Billboard (magazine)|Billboard]]|date=September 13, 2024|access-date=September 14, 2024}}</ref>
+! scope="col" style="width:3em;font-size:85%"| [[Canada Country|CAN Country]]<br /><ref>{{cite magazine|url=https://www.billboard.com/charts/canada-country/2024-09-28|title=Canada Country: Week of September 28, 2024|magazine=[[Billboard (magazine)|Billboard]]|access-date=September 24, 2024}}</ref>
+|-
+! scope="row" | "[[Sounds Like the Radio]]"
+| 2024
+| 20 || 37 || 20 || 39
+| ''Cold Beer & Country Music''
+|}
+
+===Other charted songs===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of other charted songs, with selected chart positions
+! scope="col" rowspan="2"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="2"| Peak chart positions
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:3em;font-size:85%"| [[Billboard Hot 100|US]]<br /><ref>{{cite magazine|url=https://www.billboard.com/charts/hot-100/2024-09-28|title=''Billboard'' Hot 100: Week of September 28, 2024|magazine=[[Billboard (magazine)|Billboard]]|access-date=September 24, 2024}}</ref>
+! scope="col" style="width:3em;font-size:85%"| [[Hot Country Songs|US Country]]<br /><ref name="Country Songs"/>
+|-
+! scope="row" | "[[I Never Lie]]"
+| 2024
+| 95 || 23
+| ''Cold Beer & Country Music''
+|}
+
+=== Music videos ===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:15em;"| Video
+! Director
+|-
+| rowspan="2"|2023
+! scope="row"| "There's the Sun"<ref>{{Cite web|url=https://www.youtube.com/watch?v=RNhD9a_gMQQ|title=Zach Top - There's The Sun (Official Music Video)|via=YouTube}}</ref>
+| rowspan="3"| Citizen Kane Wayne
+|-
+! scope="row"| "Bad Luck"<ref>{{Cite web|url=https://www.youtube.com/watch?v=9fb8gz-02yA|title=Zach Top - Bad Luck (Official Music Video)|via=YouTube}}</ref>
+|-
+| rowspan="2"|2024
+! scope="row"| "Sounds Like the Radio"<ref>{{Cite web|url=https://www.youtube.com/watch?v=cOKHBwNPQKo|title=Zach Top - Sounds Like The Radio (Official Music Video)|via=YouTube}}</ref>
+|-
+! scope="row"| "Cold Beer & Country Music"<ref>{{Cite web|url=https://www.youtube.com/watch?v=2e3DJI7MLkk|title=Zach Top - Cold Beer & Country Music (Official Music Video)|via=YouTube}}</ref>
+| 
+|}
+
+==Awards and nominations==
+=== Country Music Association Awards ===
+
+{{awards table}}
+|-
+|[[58th Annual Country Music Association Awards|2024]]
+|Zach Top
+|[[Country Music Association Award for New Artist of the Year|New Artist of the Year]]
+|{{pending}}
+|}
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Top, Zach}}
+[[Category:Living people]]
+[[Category:American country singer-songwriters]]
+[[Category:1997 births]]
+[[Category:Country musicians from Washington (state)]]
+[[Category:People from Sunnyside, Washington]]
+[[Category:21st-century American male singers]]

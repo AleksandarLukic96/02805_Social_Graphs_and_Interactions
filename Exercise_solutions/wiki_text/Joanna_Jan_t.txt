@@ -1,0 +1,68 @@
+{{short description|American country music singer}}
+{{Infobox musical artist
+| name            = Joanna Janét
+| image           =
+| image_size      =
+| origin          = [[Baton Rouge, Louisiana]]
+| instrument      =
+| genre           = [[Country music|Country]]
+| occupation      = [[Singing|Singer]]
+| years_active    =
+| label           = [[DreamWorks Records|DreamWorks Nashville]]<br />[[Warner Bros. Records]]
+| associated_acts =
+| website         = 
+}}
+
+'''Joanna Janét''' (born in [[Baton Rouge, Louisiana]]<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|page=206|year=2008|isbn=978-0-89820-177-2}}</ref>) is an American [[country music]] singer. Janét was signed to [[DreamWorks Records|DreamWorks Nashville]] and recorded an album for the label, ''Destination Love'', that was scheduled to be released in August 2002.<ref>{{cite web|title=JoAnna Janét Biography|url=http://www.wma.com/joanna_janet/bio/JoAnna_Janet.pdf|work=[[William Morris Endeavor]]|accessdate=July 11, 2011}}</ref> The first single from the album, "Since I've Seen You Last," peaked at number 55 on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles & Tracks]] chart.<ref name="whitburn" /> When Janét's producer, [[Paul Worley]], left DreamWorks for [[Warner Bros. Records]], she went with him.<ref>{{cite web|title=JoAnna Janét – Songs Worth Keeping|url=http://www.yamaha.com/publications/allaccess/winter2003/02janet.htm|work=[[Yamaha Corporation]]|accessdate=July 11, 2011|year=2003|archive-url=https://web.archive.org/web/20110615114243/http://www.yamaha.com/publications/allaccess/winter2003/02janet.htm|archive-date=June 15, 2011|url-status=dead}}</ref>
+
+==Discography==
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! Peak positions
+! rowspan="2"| Album
+|-
+! width="60"| <small>[[Hot Country Songs|US Country]]</small><br /><ref name="whitburn" />
+|-
+| rowspan="2"| 2002
+! scope="row"| "Since I've Seen You Last"
+| 55
+| rowspan="2" align="left"| ''Destination Love''<br /><small>(unreleased)</small>
+|-
+! scope="row"| "7 Little Steps"<ref>{{cite web|title=JoAnna Janét Discography|url=http://www.wma.com/joanna_janet/summary/disc.html|work=[[William Morris Endeavor]]|accessdate=July 11, 2011}}</ref>
+| —
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:14em;"| Video
+! Director
+|-
+| 2002
+! scope="row"| "Since I've Seen You Last"
+| Kristin Barlowe
+|}
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Janet, Joanna}}
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Living people]]
+[[Category:Musicians from Baton Rouge, Louisiana]]
+[[Category:DreamWorks Records artists]]
+[[Category:Warner Records artists]]
+[[Category:Singer-songwriters from Louisiana]]
+[[Category:Country musicians from Louisiana]]
+[[Category:Year of birth missing (living people)]]
+[[Category:21st-century American women]]
+
+
+{{US-country-singer-stub}}

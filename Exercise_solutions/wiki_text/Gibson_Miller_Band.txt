@@ -1,0 +1,149 @@
+{{Short description|American country music band}}
+{{Infobox musical artist
+| name            = Gibson/Miller Band
+| image           =
+| caption         =
+| image_size      =
+| origin          = [[Columbus, Mississippi]], [[United States]]
+| genre           = [[country music|Country]]
+| years_active    = 1990–1994
+| label           = [[Epic Records|Epic]]
+| past_members    = [[Dave Gibson (American songwriter)|Dave Gibson]]<br>Blue Miller<br>Mike Daly<br>Bryan Grassmeyer<br>Steve Grossman<br>Doug Kahan
+}}
+'''Gibson/Miller Band''' was an American [[country music]] band founded in 1990 by [[Dave Gibson (American songwriter)|Dave Gibson]] and Bill "Blue" Miller, the latter of whom was a former guest musician in rock musician [[Bob Seger]]'s Silver Bullet Band. Both Gibson and Miller served as vocalists and guitarists in the Gibson/Miller Band, which also included Mike Daly ([[steel guitar]]), Bryan Grassmeyer (bass guitar), and Steve Grossman (drums). Grassmeyer was replaced in 1993 by Doug Kahan. Between 1992 and 1994, the Gibson/Miller Band recorded two albums for [[Epic Records]], in addition to charting seven singles on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Singles & Tracks]] charts. After disbanding in 1994, both Gibson and Miller assumed solo careers.
+
+==Biography==
+Gibson/Miller Band was formed in 1990, when [[Doug Johnson (record producer)|Doug Johnson]], then-vice president of [[Epic Records]], introduced [[Dave Gibson (American songwriter)|Dave Gibson]] and Blue Miller to each other, thinking that the two artists would work well together as songwriters.<ref name="allmusic">[{{Allmusic|class=artist|id=p26446/biography|pure_url=yes}} allmusic ((( Gibson/Miller Band > Biography )))]</ref> Among Gibson's cuts were "[[If It Don't Come Easy]]" by [[Tanya Tucker]], "[[Ships That Don't Come In]]" by [[Joe Diffie]] and "[[Queen of Memphis]]" by [[Confederate Railroad]].<ref>{{cite book|last1=Stambler|first1=Irwin|last2=Laudon|first2=Grelun|title=Country Music: The Encyclopedia|url=https://books.google.com/books?id=d18K8QWcEo8C&dq=%22ships+that+don%27t+come+in%22&pg=PA179|year=2000|publisher=Macmillan|isbn=0-312-26487-9|page=179}}</ref> Gibson and Miller soon assembled a band and recorded a demo tape, which they sent to Johnson.<ref name="allmusic"/> By 1992, the band was signed to Epic Records; their debut single, "Big Heart", was released at the end of the year.
+
+In 1993, the group's first album, titled ''Where There's Smoke'', was released. Counting "Big Heart", the album produced five chart singles overall, including the No.&nbsp;20 "High Rollin'", their highest-charting.<ref name="allmusic"/> The Gibson/Miller Band also received the [[Academy of Country Music]]'s award for Top New Vocal Duo or Group, beating [[Blackhawk (band)|Blackhawk]] and [[Boy Howdy]].<ref>{{Cite web |url=http://countrymusic.about.com/library/blprevacmnduogrp.htm |title=ACMs - Previous Winners - Top New Vocal Duo or Group |access-date=2007-07-05 |archive-date=2006-02-16 |archive-url=https://web.archive.org/web/20060216035421/http://countrymusic.about.com/library/blprevacmnduogrp.htm |url-status=dead }}</ref><ref name="bmi">[http://www.bmi.com/news/entry/233776 Blue Miller Time at Warner-Chappell]</ref>
+
+A second album, ''Red, White & Blue Collar'', was released in 1994. Serving as its lead-off single was a cover of [[Waylon Jennings]] and [[Willie Nelson]]'s "[[Mammas Don't Let Your Babies Grow Up to Be Cowboys]]"; Gibson/Miller Band's version was also featured in the soundtrack for the 1994 film ''[[The Cowboy Way (film)|The Cowboy Way]]''.<ref>{{Cite web |url=http://dave-gibson.com/press_biography.html |title=Biography for Dave Gibson from the Gibson Miller Band - Songwriter Artist Nashville Tennessee |access-date=2007-07-05 |archive-url=https://web.archive.org/web/20070706102451/http://www.dave-gibson.com/press_biography.html |archive-date=2007-07-06 |url-status=dead }}</ref> ''Red, White & Blue Collar'' was less successful than its predecessor, however, and the Gibson/Miller Band was dropped from Epic's roster that same year, shortly before disbanding. Both Gibson and Miller continued to record solo, and as backing musicians for other artists. In 1997, Gibson married singer-songwriter [[Daisy Dern]]. Miller died of unknown causes on August 11, 2018, at age 66.<ref>{{cite web|url=https://www.tennessean.com/story/entertainment/music/2018/08/13/blue-miller-dead-66/975784002/|title=Blue Miller, influential musician and producer, has died|publisher=The Tennesseean|date=August 13, 2018|access-date=April 21, 2024}}</ref>
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:14em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="2"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]
+! width="45"| [[Top Heatseekers|US Heat]]
+|-
+! scope="row"| ''[[Where There's Smoke... (Gibson/Miller Band album)|Where There's Smoke...]]''
+| 
+* Release date: January 12, 1993
+* Label: [[Epic Records]]
+| 65
+| 30
+|- 
+! scope="row"| ''[[Red, White and Blue Collar]]''
+| 
+* Release date: July 19, 1994
+* Label: Epic Records
+| —
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:28em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| 1992
+! scope="row"| "[[Big Heart]]"
+| 37
+| 58
+| align="left" rowspan="5"| ''Where There's Smoke...''
+|-
+| rowspan="3"| 1993
+! scope="row"| "[[High Rollin']]"
+| 20
+| 18
+|-
+! scope="row"| "Texas Tattoo"
+| 22
+| 33
+|-
+! scope="row"| "Small Price"
+| 46
+| 55
+|-
+| rowspan="3"| 1994
+! scope="row"| "Stone Cold Country"
+| 40
+| 35
+|-
+! scope="row"| "[[Mammas Don't Let Your Babies Grow Up to Be Cowboys]]"
+| 49
+| 71
+| align="left" rowspan="2"| ''Red, White and Blue Collar''
+|-
+! scope="row"| "Red, White and Blue Collar"
+| 59
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:28em;"| Video
+! Director
+|-
+| 1992
+! scope="row"| "Big Heart"
+| Martin Kahan
+|-
+| rowspan="2"| 1993
+! scope="row"| "Texas Tattoo"
+| Jon Small
+|-
+! scope="row"| "Stone Cold Country"
+| Martin Kahan
+|-
+| rowspan="2"| 1994
+! scope="row"| "Mammas Don't Let Your Babies Grow Up to Be Cowboys"
+| [[Sherman Halsey]]
+|-
+! scope="row"| "Red, White and Blue Collar"
+| 
+|}
+
+== Awards and nominations ==
+{| class="wikitable"
+!Year
+!Organization
+!Award
+!Nominee/Work
+!Result
+|-
+|1994
+|[[Academy of Country Music Awards]]
+|Top New Vocal Group or Duet
+|Gibson/Miller Band
+|{{won}}
+|}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+{{DEFAULTSORT:Gibson Miller Band}}
+[[Category:Country music groups from Georgia (U.S. state)]]
+[[Category:American country rock groups]]
+[[Category:Musical groups established in 1990]]
+[[Category:Musical groups disestablished in 1994]]
+[[Category:Epic Records artists]]

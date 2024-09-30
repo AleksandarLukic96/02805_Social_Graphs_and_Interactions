@@ -1,0 +1,75 @@
+{{Short description|Canadian country music duo}}
+{{About|the Canadian country music group|similar uses|Spur (disambiguation)}}
+{{Infobox musical artist
+| name            = The Spurs
+| image           =
+| caption         =
+| image_size      =
+| alias           =
+| origin          = [[Calgary]], [[Alberta]], Canada
+| genre           = [[Country music|Country]]
+| years_active    = 1999–2000
+| label           = Golden Eagle
+| associated_acts =
+| website         =
+| current_members =
+| past_members    = {{hlist|Becky Holmes|Phil Holmes}}
+}}
+
+'''The Spurs''' was a Canadian [[country music]] group consisting of husband Phil Holmes and wife Becky Holmes.
+
+Founded in [[Calgary]], [[Alberta]], they transitioned to [[Ottawa]], [[Ontario]], Canada. They were nominated for top country group or duo at the 2000 Big Country Awards.<ref name="RPM">{{cite journal |url= https://americanradiohistory.com/CANADA/RPM/00s/Volume+71-No.+6-June+12+2000.CV01.pdf |title=The Spurs  |journal=RPM |volume=71 |number=6 |date=June 20, 2000 |page=23 |accessdate=October 25, 2019}}</ref>
+
+Phil WAS the principal writer, vocalises and plays [[lead guitar]] With roots in the "[[fiddle]] and [[step-dancing]] circuit", Becky hales from [[Pembroke, Ontario]]. On stage she combines vocals, [[Keyboard instrument|keyboard]], fiddle and step-dancing.<ref name="RPM"/>
+
+Released in January 1999, their first album, ''Black Top fever'', was popular.<ref name="RPM"/>
+
+They had at least three noted singles.
+#The single ''Easy As 1-2-3'' was their first top 20 hit, and topped out at number 17 on the RPM 100 Country chart; it was given extensive [[airplay]] overseas.<ref name="RPM"/> The track was written by Phil Holmes, who coproduced it with John Dooher. It was released on Don Gashey's Golden Eagle label.<ref name= "Grashey">{{cite journal |url= https://www.americanradiohistory.com/CANADA/RPM/90s/1999/RPM-1999-02-01.pdf |date=February 1, 1999 |title=Don Grashey |journal=RPM |volume=68 |number=15 |page=12 |accessdate=October 25, 2019}}</ref>
+#Their second single, ''Swingin' Door Of Love'', remained 17 weeks on the RPM Country 100 chart for 37 weeks.<ref name="RPM"/> It shared the chart with ''Easy as 1-2-3''. Phil Holmes wrote it, and it was off the ''Black Top Fever'', a Golden Eagle album. John Dooher produced it along with Phil Holmes."Both tracks are 100%" [[Canadian content]].<ref name= "Swingin">{{cite journal |url= https://americanradiohistory.com/CANADA/RPM/90s/1999/RPM-1999-07-19.pdf |title=The Spurs are back on the chart |journal=RPM |volume=69 |number=13 |date=July 19, 1999 |page=14 |accessdate=October 25, 2019}}</ref>
+#A third single is ''Flowers, Candy & Cash.''<ref name="RPM"/>
+
+==Discography==
+===Albums===
+{| class="wikitable"
+! Year
+! Album
+|- 
+| 1999
+| ''Blacktop Fever''
+|}
+
+===Singles===
+{| class="wikitable"
+! Year
+! Single
+! <small>CAN Country</small>
+! Album
+|-
+| rowspan="2"| 1999
+| "Easy as 1, 2, 3"<ref>[https://www.bac-lac.gc.ca/eng/discover/films-videos-sound-recordings/rpm/Pages/item.aspx?IdNumber=5481& "Country Singles"], ''RPM'' - Volume 69, No. 3 May 10, 1999</ref>
+| align="center"| 17
+| rowspan="3"| ''Blacktop Fever''
+|-
+| "Swingin' Door of Love"
+| align="center"| 29
+|-
+| 2000
+| "Flowers, Candy & Cash"
+| align="center"| 76
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Spurs, The}}
+[[Category:Canadian country music groups]]
+[[Category:Male–female musical duos]]
+[[Category:Married couples]]
+[[Category:Musical groups established in 1999]]
+[[Category:Musical groups disestablished in 2000]]
+[[Category:Musical groups from Calgary]]
+[[Category:1999 establishments in Alberta]]
+[[Category:2000 disestablishments in Alberta]]

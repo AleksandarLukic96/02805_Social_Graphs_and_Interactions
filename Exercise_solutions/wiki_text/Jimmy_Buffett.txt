@@ -1,0 +1,837 @@
+{{Short description|American singer-songwriter (1946–2023)}}
+
+{{Use mdy dates|date=September 2023}}
+{{Use American English|date=December 2020}}
+{{Infobox person
+| name               = Jimmy Buffett
+| image              = Jimmy Buffett (1980 Promo Photo).jpg
+| caption            = Buffett in 1980
+| birth_name         = James William Buffett
+| birth_date         = {{birth date|1946|12|25}}
+| birth_place        = [[Pascagoula, Mississippi]], U.S.
+| death_date         = {{Death date and age|2023|09|01|1946|12|25}}
+| death_place        = [[Sag Harbor, New York]], U.S.
+| education          = [[University of Southern Mississippi]] ([[Bachelor of Arts|BA]])
+| occupation         = {{hlist|Singer-songwriter|musician|author|businessman}}
+| years_active       = 1961<ref>{{cite book | url=https://books.google.com/books?id=BM58F-yOS3IC&q=Jimmy+Buffett+1964&pg=PA56 | title=Jimmy Buffett: The Man from Margaritaville Revealed |first=Steve | last=Eng | publisher=Macmillan |isbn=9780312168759 | via=[[Google Books]] | date=October 15, 1997 | archive-date=September 2, 2023 |archive-url=https://web.archive.org/web/20230902180811/https://books.google.com/books?id=BM58F-yOS3IC&q=Jimmy+Buffett+1964&pg=PA56|url-status=live}}</ref>–2023
+| spouse             = {{Unbulleted list
+| {{Marriage|Margie Washichek|1969|1972|end=divorced}}
+| {{Marriage|Jane Slagsvol|1977}}
+}}
+| children           = 3 - Savanah (Daughter), Delaney (Daughter), Cameron Marley (son - Adopted)
+| website            = {{URL|jimmybuffett.com}}
+| module             = {{Infobox musical artist|embed=yes
+| origin            = [[Nashville, Tennessee]], U.S.
+| genre             = {{Hlist|[[Tropical rock]]<ref name=insideme>{{cite news | url=https://www.mtv.com/news/lamcq4/jimmy-buffett-parrothead|title=THE PARROTHEAD INSIDE ME | last=Lambert | first=Molly | work=[[MTV News]] | date=April 11, 2017 | archive-date=April 14, 2017|archive-url=https://web.archive.org/web/20170414041234/http://www.mtv.com/news/3001853/jimmy-buffett-parrothead/ | url-status=dead}}</ref><ref name=mayor>{{cite news | last=Rifkin | first=Glenn | title=Jimmy Buffett, musical 'mayor of Margaritaville,' dies at 76 | url=https://www.washingtonpost.com/obituaries/2023/09/02/jimmy-buffett-margaritaville-singer-dead/ |newspaper=[[The Washington Post]] | date=September 2, 2023 | archive-url=https://web.archive.org/web/20230902180822/https://www.washingtonpost.com/obituaries/2023/09/02/jimmy-buffett-margaritaville-singer-dead/ | archive-date=September 2, 2023 |url-status=live}}</ref>|[[country music|country]]<ref>{{cite news | url=https://www.tampabay.com/archive/1994/06/03/jimmy-buffett-fills-parrotheads-bills/ | title=Jimmy Buffett fills Parrotheads' bills | last=Krzos | first=Mark S. | newspaper=[[Tampa Bay Times]] | date=June 3, 1994 | archive-date=September 18, 2021 | archive-url=https://web.archive.org/web/20210918073125/https://www.tampabay.com/archive/1994/06/03/jimmy-buffett-fills-parrotheads-bills/ | url-status=live}}</ref>|[[country rock]]<ref>{{cite book | first=Steve | last=Eng | title=Jimmy Buffett: The Man from Margaritaville Revealed | url=https://books.google.com/books?id=BM58F-yOS3IC&pg=PA216 | date=October 15, 1997 | publisher=[[St. Martin's Press]] | isbn=978-0-312-16875-9 | pages=216 | archive-url=https://web.archive.org/web/20230902180816/https://books.google.com/books?id=BM58F-yOS3IC&pg=PA216 | archive-date=September 2, 2023 |url-status=live}}</ref>|[[folk rock]]<ref>{{Cite news | url=https://www.stltoday.com/entertainment/music/reviews/jimmy-buffett-brings-his-island-infused-rock-to-hollywood-casino-amphitheatre/article_f7f2686d-2c33-55dc-ae16-54b2135cc0bb.html | title=Jimmy Buffett brings his island-infused rock to Hollywood Casino Amphitheatre | first=Daniel | last=Durchholz | newspaper=[[St. Louis Post-Dispatch]] | archive-url=https://web.archive.org/web/20230406070059/https://www.stltoday.com/entertainment/music/reviews/jimmy-buffett-brings-his-island-infused-rock-to-hollywood-casino-amphitheatre/article_f7f2686d-2c33-55dc-ae16-54b2135cc0bb.html | archive-date=April 6, 2023 | url-status=live}}</ref>|[[calypso music|calypso]]<ref>{{cite magazine | url=https://content.time.com/time/subscriber/article/0,33009,1640377,00.html | title=10 Questions for Jimmy Buffett | last=Thornburgh | first=Nathan | magazine=[[Time (magazine)|Time]] | date=July 5, 2007}}</ref>|[[easy listening]]<ref>{{cite news | url=https://vocm.com/2023/09/02/easy-listening-icon-jimmy-buffett-passes-away/ | title=Easy-Listening Icon Jimmy Buffett Passes Away | work=[[VOCM (AM)]] | date=September 2, 2023}}</ref>|[[pop music|pop]]<ref>{{cite news | url=https://www.dailyherald.com/entlife/20171103/jimmy-buffett-looks-to-broadway-as-margaritaville-sails-into-chicago | title=Jimmy Buffett looks to Broadway as 'Margaritaville' sails into Chicago | first=Barbara | last=Vitello | work=[[Daily Herald (Arlington Heights, Illinois)|Daily Herald]] | date=November 3, 2017 | archive-url=https://web.archive.org/web/20171110010939/https://www.dailyherald.com/entlife/20171103/jimmy-buffett-looks-to-broadway-as-margaritaville-sails-into-chicago | archive-date=November 10, 2017 | url-status=live}}</ref>
+<!-- Do not add or change genres without first discussing on talk page -->}}
+| discography = [[Jimmy Buffett discography]]
+| instrument        = {{Hlist|Vocals|guitar|ukulele|trombone}}
+| label             = {{Hlist|[[Barnaby Records|Barnaby]]|[[ABC Records|ABC]]|[[Dunhill Records|Dunhill]]|[[MCA Records|MCA]]|Margaritaville|{{nowrap|[[Island Def Jam]]}}|[[PolyGram]]|[[Mailboat Records|Mailboat]]|[[Atlantic Records|Atlantic]]|[[RCA Records|RCA]]}}
+}}
+}}
+'''James William Buffett''' (December 25, 1946 – September 1, 2023) was an American singer-songwriter.<ref name="NYT-20230909">{{cite news |last=Dowd |first=Maureen |authorlink=Maureen Dowd |title=Living and Dying in ¾ Time |url=https://www.nytimes.com/2023/09/09/opinion/jimmy-buffett-friendship.html |date=September 9, 2023 |work=[[The New York Times]] |url-status=live |archiveurl=https://archive.today/20230909111830/https://www.nytimes.com/2023/09/09/opinion/jimmy-buffett-friendship.html |archivedate=September 9, 2023 |accessdate=September 9, 2023 }}</ref> He&nbsp;was known for his [[tropical rock]] sound and persona,<ref name=insideme/> which often portrayed a lifestyle described as "island escapism"<ref name="NYTObit"/> and promoted enjoying life and following passions.<ref>{{Cite news | url=https://journalrecord.com/2023/09/08/lot-lines-my-jimmy-buffett-lifestyle/ | title=Lot Lines: My 'Jimmy Buffett' lifestyle}}</ref> Buffett recorded many hit songs, including those known as "The Big 8":<ref>{{Cite news | url=https://www.latimes.com/entertainment-arts/music/story/2023-09-02/12-essential-jimmy-buffett-songs | title=The 12 essential Jimmy Buffett songs | first=STEPHEN THOMAS | last=ERLEWINE | work=[[Los Angeles Times]] | date=September 2, 2023 | url-access=limited}}</ref> "[[Margaritaville]]" (1977), which is ranked 234th on the [[Recording Industry Association of America]]'s list of "[[Songs of the Century]]"; "[[Come Monday]]" (1974); "[[Fins (song)|Fins]]" (1979); "[[Volcano (Jimmy Buffett song)|Volcano]]" (1979); "[[A Pirate Looks at Forty]]" (1974); "[[Cheeseburger in Paradise (song)|Cheeseburger in Paradise]]" (1978); "[[Why Don't We Get Drunk]]" (1973); and "[[Changes in Latitudes, Changes in Attitudes (song)|Changes in Latitudes, Changes in Attitudes]]" (1977). His other popular songs include "[[Son of a Son of a Sailor (song)|Son of a Son of a Sailor]]" (1978), "[[One Particular Harbour (song)|One Particular Harbour]]" (1983), and "[[It's Five O'Clock Somewhere]]" with [[Alan Jackson]] (2003).<ref>{{Cite magazine | url=https://www.billboard.com/lists/jimmy-buffett-biggest-billboard-chart-hits/ | title=Jimmy Buffett's Biggest Billboard Hits: 'Margaritaville,' 'It's Five O'Clock Somewhere' & More | first=Gary | last=Trust | magazine=[[Billboard (magazine)|Billboard]] | date=September 2, 2023}}</ref> Buffett formed the [[Coral Reefer Band]] in 1975.<ref name=wife/>
+
+Of the over 30 albums released by Buffett, eight are [[RIAA certification|certified]] gold and nine are certified platinum or multi-platinum by the RIAA.<ref name=riaa>{{cite web |url=https://www.riaa.com/gold-platinum/?tab_active=default-award&se=jimmy+buffett#search_section |title=RIAA Gold and Platinum Albums database |website=[[Recording Industry Association of America]]}}</ref> In total, Buffett sold over 20 million certified records worldwide,<ref name=mayor/> placing him amongst the world's best-selling music artists.<ref>{{Cite web |title=JIMMY BUFFETT album sales |url=https://bestsellingalbums.org/artist/6197 |access-date=2023-12-05 |website=BestSellingAlbums.org |language=en-US}}</ref><ref>{{Cite web |last=Thaler |first=Shannon |date=2023-09-25 |title=Sales of Jimmy Buffett songs rose 7,000% the week after he died |url=https://nypost.com/2023/09/25/sales-of-jimmy-buffett-songs-rose-7000-the-week-after-he-died/ |access-date=2023-12-05 |language=en-US}}</ref><ref>{{Cite web |last=viapiuser |date=2018-09-07 |title=Jimmy Buffett |url=https://variety.com/exec/jimmy-buffett/ |access-date=2023-12-05 |website=Variety |language=en}}</ref> In addition to two [[Grammy Award]] nominations, Buffett will be posthumously inducted into the [[Rock and Roll Hall of Fame]] in the Musical Excellence category in 2024.<ref name="hofgreene">{{cite magazine |last1=Greene |first1=Andy |title=Cher, Ozzy Osbourne, Dave Matthews Band, Mary J. Blige Lead Rock and Roll Hall of Fame 2024 Class |url=https://www.rollingstone.com/music/music-news/rock-hall-fame-2024-cher-ozzy-osbourne-dave-matthews-band-mary-j-blige-1235007784/ |magazine=Rolling Stone |access-date=22 April 2024 |date=22 April 2024}}</ref>
+
+Buffett also parlayed the "island escapism" lifestyle of his music into several business ventures, including [[Jimmy Buffett's Margaritaville]] restaurant chain, the now-defunct [[Cheeseburger in Paradise (restaurant)|Cheeseburger in Paradise]] restaurant chain, and ventures in hotels, casinos, liquor, and retirement communities. With a [[net worth]] of $1 billion, Buffett was one of the [[List of music artists by net worth|world's richest musicians]].<ref name="networth">{{cite web |url=https://www.forbes.com/profile/jimmy-buffett/ |title=Forbes Profile: Jimmy Buffett | work=[[Forbes]] | date=April 4, 2023 |archive-url=https://web.archive.org/web/20230406014502/https://www.forbes.com/profile/jimmy-buffett/?sh=bcac119d9468 |archive-date=April 6, 2023 |url-status=live}}</ref> He was also a bestselling author. His devoted fans are known as "Parrotheads".<ref name=state/>
+
+==Early life==
+Buffett was born on December 25, 1946, in [[Pascagoula, Mississippi]],<ref>{{Cite news |url=https://mynbc15.com/amp/news/local/jimmy-buffett39s-hometown-to-name-bridge-after--singer |title=Jimmy Buffett's hometown of Pascagoula, Miss., is naming a bridge for him | first=Brittany | last=Otis |date=September 12, 2015}}</ref> and he spent part of his childhood in [[Mobile, Alabama|Mobile]] and [[Fairhope, Alabama]]. He was the son of Mary Lorraine (''née'' Peets) (died September 25, 2003)<ref>{{Cite web | title=Mary Loraine "Peets" Buffett Obituary (2003) Billings Gazette | url=https://www.legacy.com/us/obituaries/billingsgazette/name/mary-buffett-obituary?pid=1430253 |website=[[Legacy.com]] | archive-url=https://web.archive.org/web/20210728232723/https://www.legacy.com/us/obituaries/billingsgazette/name/mary-buffett-obituary?pid=1430253 |archive-date=July 28, 2021 | url-status=live}}</ref> and James Delaney Buffett, Jr. (died May 1, 2003), who worked for the [[United States Army Corps of Engineers]].<ref>{{Cite web | title=Obituary for James Delaney "J.D." Buffett. Jr. | url=https://www.bozemandailychronicle.com/news/obituary-for-james-delaney-j-d-buffett-jr/article_9c50271d-f310-5c4f-90a6-bdf2f2764b2a.html |date=May 2, 2003 | work=[[Bozeman Daily Chronicle]] |archive-url=https://web.archive.org/web/20210728232115/https://www.bozemandailychronicle.com/news/obituary-for-james-delaney-j-d-buffett-jr/article_9c50271d-f310-5c4f-90a6-bdf2f2764b2a.html |archive-date=July 28, 2021 |url-status=live}}</ref><ref>{{cite news | url=https://billingsgazette.com/lifestyles/announcements/obituaries/james-delaney-buffett-jr-j-d/article_712b0b32-2fc9-5e75-85ed-5e7feac0d97c.html |title=James Delaney Buffett, Jr. "J.D." | work=[[Billings Gazette]] |date=May 2, 2003 | url-access=subscription | archive-date=September 30, 2017 |archive-url=https://web.archive.org/web/20170930175719/http://billingsgazette.com/lifestyles/announcements/obituaries/james-delaney-buffett-jr-j-d/article_712b0b32-2fc9-5e75-85ed-5e7feac0d97c.html |url-status=live}}</ref><ref name=Icon>{{Cite web |last=Baer |first=Rebecca |date=September 2, 2023 |title=Southern-Born Music Icon Jimmy Buffett Has Died |url=https://www.southernliving.com/jimmy-buffett-death-7965088 |access-date=September 2, 2023 |work=[[Southern Living]] |archive-date=September 2, 2023 |archive-url=https://web.archive.org/web/20230902180825/https://www.southernliving.com/jimmy-buffett-death-7965088 |url-status=live}}</ref> He has two younger sisters, Laurie (born 1948) and Lucy (born 1953).<ref name="NYTObit">{{Cite news |last=Friskics-Warren |first=Bill |date=September 2, 2023 |title=Jimmy Buffett, Roguish Bard of Island Escapism, Is Dead at 76 |work=[[The New York Times]] |url=https://www.nytimes.com/2023/09/02/arts/jimmy-buffett-dead.html |access-date=September 2, 2023 |issn=0362-4331 |archive-date=September 2, 2023 |archive-url=https://web.archive.org/web/20230902083549/https://www.nytimes.com/2023/09/02/arts/jimmy-buffett-dead.html |url-status=live}}</ref><ref>{{cite magazine |url=https://www.atlantamagazine.com/southbound-articles/why-love-lucy/ |title=Why Love Lucy: A look into the life of Lucy Buffett |magazine=[[Atlanta (magazine)|Atlanta]] |first=Allison |last=Entrekin |date=March 25, 2019 |access-date=2023-09-02}}</ref>
+
+As a child, Buffett was exposed to sailing: his grandfather, James Delaney Buffett, was a [[steamship]] captain from [[Newfoundland]], and his father was a marine engineer and sailor—these experiences later influenced his music.<ref name=onboard>{{Cite news |last=Risa |first=Merl |title=On board Drifter, the sailing yacht owned by music legend Jimmy Buffett |url=https://www.boatinternational.com/luxury-yacht-life/owners-experiences/jimmy-buffett-yacht-drifter | work=[[Boat International Media]] |date=October 29, 2021}}</ref><ref name=Icon/> Buffett was educated by [[Jesuits]] as a [[Catholic]] and served as an [[altar boy]].<ref name=Catholic/><ref name=words>{{Cite news | url=https://www.sandiegouniontribune.com/entertainment/music/story/2023-09-02/appreciation-jimmy-buffett-dead-at-76-what-i-see-out-there-at-my-shows-might-look-like-sodom-and-gomorrah | title=Appreciation: Jimmy Buffett, in his own words: 'What I see at my shows might look like Sodom and Gomorrah'}}</ref>
+
+In 1961, after seeing a folk music ensemble perform in [[Biloxi, Mississippi]], Buffett realized that he wanted to be a musician.<ref name=words/> His first performance was a month later at a [[hootenanny]], where he played a [[Stella (guitar)|Stella]] guitar.<ref name=words/>
+
+Buffett attended St. Ignatius School, where he played the [[trombone]] in the school band at age 8 in the 1950s.<ref>{{Cite news | url=https://www.jpost.com/diaspora/times-square-margaritaville-will-have-on-site-synagogue-657912 | title=Times Square Margaritaville will have on-site synagogue | first=HOWARD | last=BLAS | work=[[The Jerusalem Post]] | date=February 4, 2021}}</ref> Buffett graduated from [[McGill-Toolen Catholic High School|McGill Institute]] in 1964.<ref>{{Cite news |last=Lucas |first=Kate |title=A toast to Jimmy Buffett's world |url=https://www.ocregister.com/2012/06/15/a-toast-to-jimmy-buffetts-world/ |work=[[Orange County Register]] |date=June 15, 2012}}</ref><ref name=Tuscaloosa/>
+
+Buffett enrolled at [[Auburn University]] and was taught how to play guitar by a [[Sigma Pi]] [[Fraternities and sororities|fraternity]] brother to "garner attention from girls".<ref name=Icon/><ref name=Tuscaloosa>{{Cite news |last=Cobb |first=Mark Hughes |title=Jimmy Buffett and Coral Reefer Band to play Tuscaloosa Amphitheater | url=https://www.tuscaloosanews.com/story/news/2021/07/15/jimmy-buffett-perform-tuscaloosa-amphitheater-first-time/7968947002/ | work=[[The Tuscaloosa News]] | date=July 15, 2021}}</ref> Buffett failed out of Auburn after a year, in April 1966, "unable to balance his newfound interests in music and girls with his college classes".<ref>{{Cite news | url=https://www.ajc.com/news/5-things-to-know-about-jimmy-buffett/AHVR55ZBNJCLHNGSH7X6UEP7PY/ | title=5 things to know about Jimmy Buffett | work=[[The Atlanta Journal-Constitution]] | date=September 2, 2023}}</ref> In 1966, Buffett played [[acid rock]] in a band called the Upstairs Alliance that was trying to sound like [[Jefferson Airplane]].<ref name=words/> He continued college at [[Pearl River Community College]] and the [[University of Southern Mississippi]] in [[Hattiesburg, Mississippi]] and got a bachelor's degree in history in 1969. In college, Buffett worked in a shipyard as an electrician and welder.<ref name=onboard/> He avoided serving in the [[Vietnam War]] due to a college deferment and a failed physical exam.<ref name=rockin/>
+
+==Music career==
+After graduating in 1969, Buffett moved to [[New Orleans]] and often held [[street performance]]s for tourists on [[Decatur Street (New Orleans)|Decatur Street]] and played for drunken crowds in the former Bayou Room nightclub on [[Bourbon Street]].<ref>{{cite news | url=https://www.fox8live.com/2023/09/02/jimmy-buffetts-death-reverberates-through-new-orleans/ | title=Jimmy Buffett's death reverberates through New Orleans}}</ref><ref name="NYTObit"/> In 1970, he moved to [[Nashville, Tennessee]], to further his [[country music]] career. Buffett did not have much luck with music jobs but got a job working as an editorial assistant for ''[[Billboard (magazine)|Billboard]]'', where he was the first to report that the bluegrass duo [[Flatt and Scruggs]] had disbanded.<ref name=bbobit>{{cite magazine | last=Kaufman |first=Gil |title=Jimmy Buffett, 'Margaritaville' Singer-Songwriter and Entrepreneur, Dies at 76 |url=https://www.billboard.com/music/rock/jimmy-buffett-dead-margaritaville-singer-songwriter-dies-76-1235333726/ |magazine=[[Billboard (magazine)|Billboard]] |date=September 2, 2023}}</ref><ref name="NYTObit"/><ref name=words/>
+
+Buffett signed a two-album contract with [[Barnaby Records]].<ref name=deadat>{{cite news | url=https://www.stereogum.com/2234979/jimmy-buffett-dead-at-76/news/ | title=Jimmy Buffett Dead At 76}}</ref> He released his first album, the country-tinged [[folk rock]] record ''[[Down to Earth (Jimmy Buffett album)|Down to Earth]],'' in August 1970; it sold 324 copies.<ref name="NYTObit"/> The masters of his second album, ''[[High Cumberland Jubilee]]'', recorded in 1971 in [[Berry Hill, Tennessee]], were allegedly lost by the label before the album was released, although they were found in 1976, once Buffett became popular.<ref name=deadat/>
+
+In the fall of 1971, after an impromptu audition, Buffett was hired by the Exit/In, a Nashville club, as the [[opening act]] for recording artist Dianne Davidson. Unhappy with the business climate in Nashville and with his first marriage heading for divorce, Buffett took up an offer by fellow country singer [[Jerry Jeff Walker]], whom he had met while working as a journalist in Nashville, for lodging in his house in [[Coconut Grove]]. In November 1971, they went to [[Key West]] on a [[busking]] expedition; Buffett liked it so much that he moved there in the spring of 1972.<ref name=mayor/><ref>{{cite book |last=Corcoran |first=Tom |title=Jimmy Buffett The Key West Years |year=2006 |publisher=Ketch & Yawl Press |location=Marathon FL |isbn=978-0-9788949-0-0 |page=9}}</ref> There, Buffett got involved in the literary scene, meeting writers [[Thomas McGuane]] (who married Buffett's sister<ref name=rockin>{{Cite news | url=https://content.time.com/time/subscriber/article/0,33009,988920-4,00.html | title=Still Rockin' In Jimmy Buffett's Key West Margaritaville}}</ref>), [[Jim Harrison]], [[Tom Corcoran (writer)|Tom Corcoran]], and [[Truman Capote]];<ref name=mayor/> sex and drugs were plentiful.<ref>{{Cite news | url=https://www.salon.com/2017/04/29/the-margaritaville-empire-jimmy-buffet-fans-wont-stop-looking-for-that-lost-shaker-of-salt/ | title=The Margaritaville empire: Jimmy Buffett fans won't stop looking for that lost shaker of salt}}</ref> Buffett was hired by [[David Wolkowsky]], playing for drinks at the Chart Room Bar in the Pier House Motel.<ref>{{cite news | url=https://www.nytimes.com/2018/09/26/obituaries/david-wolkowsky-dead.html | title=David Wolkowsky, Developer Hailed as Mr. Key West, Dies at 99 | first=Sam |last=Roberts | work=[[The New York Times]] | date=September 26, 2018}}</ref> There, Buffett met his second wife.<ref name=wife/> From a connection he made there, Buffett was hired as the first mate on the yacht of industrialist Foster Talge, heir to [[The Rival Company]], which became his day job.<ref>{{cite news | url=https://www.southernliving.com/chart-room-key-west-7483749 | title=Jimmy Buffett Played At This Key West Dive Bar For The Drinks | first=Jennifer Stewart | last=Kornegay | work=[[Southern Living]] | date=April 28, 2023}}</ref><ref>{{Cite news | url=https://abcnews.go.com/US/wireStory/day-world-margaritaville-homage-jimmy-buffett-102887523 | title=For at least a day, all the world is 'Margaritaville' in homage to Jimmy Buffett | first1=BOBBY CAINA | last1=CALVAN | first2=ANDY | last2=NEWMAN | work=[[ABC News (United States)|ABC News]] | date=September 2, 2023}}</ref>
+
+In 1973, Buffett signed a [[recording contract]] with [[ABC Records|ABC/Dunhill Records]], then run by [[Don Gant]]. After [[Jim Croce]] died in a plane crash in September 1973, Dunhill promoted Buffett as a replacement.<ref>{{Cite news | url=https://www.news4jax.com/entertainment/2022/01/15/jimmy-buffett-looks-at-50-years-after-his-1st-key-west-gig/ | title=Jimmy Buffett looks at 50 years after his 1st Key West gig | first=Howard | last=Cohen | work=[[Miami Herald]] | date=January 15, 2022}}</ref>
+
+Buffett's second release and his first release on [[ABC Records|ABC/Dunhill Records]] was ''[[A White Sport Coat and a Pink Crustacean]]'', recorded at [[Tompall Glaser]]'s [[Glaser Sound Studios|Glaser Sound]] recording studio on [[Music Row]] and released in June 1973.<ref name=exitin>{{Cite news | url=https://www.tennessean.com/story/entertainment/music/2023/09/02/jimmy-buffetts-nashville-country-legacy-exitin-to-margaritaville/70749917007/ | title=Jimmy Buffett's Nashville country legacy: From the EXIT/IN to 'Margaritaville' and beyond | first=Marcus K. | last=Dowling | work=[[The Tennessean]] | date=September 2, 2023}}</ref> The album featured the hit singles "[[Grapefruit—Juicy Fruit]]" and "[[Why Don't We Get Drunk]]" as well as "I Have Found Me a Home", written about his experiences in Key West.<ref name=exitin/> Buffett used the money he made from the album to buy his first boat.<ref name=onboard/>
+
+''[[Living & Dying in 3/4 Time]]'', recorded in October 1973 and released in February 1974, deviated from the island-theme of Buffett's other albums. It included "[[Come Monday]]", written for his then-girlfriend and future wife,<ref name=wife/> his first single to place on the [[Billboard Hot 100]]. ''[[A1A (album)|A1A]]'', released in December 1974, included "[[A Pirate Looks at Forty]]", written about a drug smuggler.
+
+In 1975, Buffett formed the [[Coral Reefer Band]].<ref name=wife>{{Cite news | url=https://people.com/who-is-jane-slagsvol-jimmy-buffett-wife-7501732 | title=Who Is Jimmy Buffett's Wife? All About Jane Slagsvol | first=Jessica | last=Booth | work=[[People (magazine)|People]] | date=September 2, 2023}}</ref> He credits his future wife for cleaning up their look, replacing their ripped [[Levi Strauss & Co.|Levi jeans]] and collarless shirts.<ref name=wife/> The band was the [[opening act]] for [[Eagles (band)|the Eagles]] in August 1975.<ref name=eagles>{{Cite news | url=https://wmgk.com/2018/02/09/jimmy-buffetts-connection-eagles/ | title=Jimmy Buffett's Connection To The Eagles}}</ref>
+
+[[File:Jimmy Buffett at Clemson (Taps 1977).png|thumb|upright=0.9|Buffett performing at [[Clemson University]] in 1977]]
+''[[Havana Daydreamin']]'', produced by [[Don Gant]], was released in January 1976. In January 1977, Buffett released ''[[Changes in Latitudes, Changes in Attitudes]]'', which, in addition to the [[Changes in Latitudes, Changes in Attitudes (song)|title track]], featured his breakthrough hit song "[[Margaritaville]]".<ref name=exitin/> Buffett claims that he wrote most of the song in six minutes.<ref name=mayor/> Ironically, while it attempts to negatively portray tourists in Key West, it led to an increase in tourism to the city.<ref name=rsobit>{{Cite magazine | url=https://www.rollingstone.com/music/music-news/jimmy-buffett-margaritaville-singer-dead-obituary-1234817183/ | title=Jimmy Buffett, 'Margaritaville' Singer Who Turned Island Escapism Into an Empire, Dead at 76 | magazine=[[Rolling Stone]] | date=September 3, 2023 | url-access=limited}}</ref> That year, Buffett sublet his apartment in Key West to [[Hunter S. Thompson]].<ref name=rsobit/>
+
+Buffett first traveled to [[Saint Barthélemy]] in 1978<ref name=onboard/> and moved there shortly thereafter, where he got the inspiration for songs and characters in his books.<ref name=forward>{{Cite news | last=Clarey | first=Christopher | title=Jimmy Buffett's Support Helps St. Barts Move Forward | work=[[The New York Times]] | url=https://www.nytimes.com/2018/04/07/travel/jimmy-buffett-st-barts-sailing.html | date=April 7, 2018 | url-access=limited | issn=0362-4331}}</ref>
+
+In March 1978, Buffett released ''[[Son of a Son of a Sailor]]''. In addition to the [[Son of a Son of a Sailor (song)|title track]], it featured "[[Cheeseburger in Paradise (song)|Cheeseburger in Paradise]]", which reached number 32 on the Hot 100.<ref name=bbobit/> In August 1979, he released ''[[Volcano (Jimmy Buffett album)|Volcano]]'', which included "[[Fins (song)|Fins]]" and the [[Volcano (Jimmy Buffett song)|title track]].<ref>{{Cite news |last=Amorosi |first=A. D.  |title=Jimmy Buffett's 12 Best Musical Moments That Weren't 'Margaritaville' |url=https://variety.com/2023/music/news/jimmy-buffett-best-songs-musical-moments-1235710983/ |work=[[Variety (magazine)|Variety]] |date=September 2, 2023}}</ref>
+
+[[File:Jimmy Buffett 1980.jpg|thumb|upright=0.75|Buffett in 1980]]
+In 1983, Buffett filed and won a lawsuit against [[Chi-Chi's]] for attempting to trademark "Margaritaville" as a drink special.<ref>{{Cite news | url=https://www.austinchronicle.com/music/2017-07-21/how-jimmy-buffetts-margaritaville-became-the-most-valuable-song-of-all-time/ | title=How Jimmy Buffett's "Margaritaville" Became the Most Valuable Song of All Time}}</ref> In October 1985, he released the [[compilation album]] ''[[Songs You Know By Heart]]'', which included all of the "Big Eight" songs and was his best selling album, selling over 7 million copies by 2005.<ref name="riaa" />
+
+In 1994, Buffett dueted with [[Frank Sinatra]] on a cover of "[[Mack the Knife]]" on Sinatra's final studio album, ''[[Duets II (Frank Sinatra album)|Duets II]]''.<ref>{{cite news | title=Sinatra and his collaborators end up odd couples in the listless 'Duets II' | url=https://www.baltimoresun.com/news/bs-xpm-1994-11-15-1994319146-story.html | last=Considine | first=J. D. | work=[[The Baltimore Sun]] | date=November 15, 1994 | url-access=limited}}</ref> In 1996, Buffett penned the song "Jamaica Mistaica" for his ''Banana Wind'' album based on a January 1996 incident in which Buffett's [[Grumman HU-16]] airplane named ''[[Hemisphere Dancer]]'' was shot at by Jamaican police, who believed the craft to be smuggling marijuana.<ref name="sprayed" /> The aircraft sustained minimal damage. The plane was carrying Buffett as well as [[Bono]] of [[U2]], Bono's wife and two children, [[Island Records]] producer [[Chris Blackwell]], and co-pilot Bill Dindy. The [[Jamaica]]n government acknowledged the mistake and apologized to Buffett.<ref name="sprayed">{{cite news | url=https://www.nytimes.com/2023/09/02/arts/music/jimmy-buffett-bono-plane-jamaica-mistaica.html | title='Jamaica Mistaica': Jimmy Buffett Song Inspired After Plane Sprayed by Gunfire | first=Orlando | last=Mayorquin | work=[[The New York Times]] | date=September 2, 2023 | url-access=limited | issn=0362-4331}}</ref>
+
+In April 1998, Buffett released an album of songs from a [[musical theatre]] production he co-created based on [[Herman Wouk]]'s novel, ''[[Don't Stop the Carnival (novel)|Don't Stop the Carnival]]''; was certified gold. After [[Frank Sinatra]] died the following month, he attended his funeral.<ref name="riaa" /> Buffett's song "[[Math Suks]]", released in May 1999, was condemned by the U.S. [[National Council of Teachers of Mathematics]] and the [[National Education Association]] for its alleged negative effect on children's education.<ref>{{cite news | url=https://www.science.org/content/article/irreverent-song-upsets-math-teachers | title=Irreverent Song Upsets Math Teachers | first=DANA | last=MACKENZIE | work=Science | date=June 3, 1999}}</ref> Comedian [[Jon Stewart]] also jokingly criticized the song on ''[[The Daily Show]]'' during a segment called "Math Is Quite Pleasant".<ref>{{Cite AV media | url=https://www.cc.com/video/xcjjnd/the-daily-show-with-jon-stewart-math-is-quite-pleasant | title=Math Is Quite Pleasant | archive-url=https://web.archive.org/web/20200223085445/http://www.cc.com/video-clips/xcjjnd/the-daily-show-with-jon-stewart-math-is-quite-pleasant | archive-date=February 23, 2020 | url-status=dead | work=[[The Daily Show with Jon Stewart]] | publisher=[[Comedy Central]] | date=May 24, 1999}}</ref>
+
+By 1999, Buffett had shifted to a more relaxed concert schedule of around 20–30 dates per year, with infrequent back-to-back nights, preferring to play only on Tuesdays, Thursdays, and Saturdays. This schedule provided the title of his [[Buffett Live: Tuesdays, Thursdays, Saturdays|1999 live album]].<ref>{{cite book | last=White | first=Ryan | title=Jimmy Buffett: A Good Life All the Way | publisher=[[Simon & Schuster]] | isbn=978-1-5011-3255-1 | page=274 | url=https://books.google.com/books?id=ZpDGDgAAQBAJ&dq=%22Tuesdays,+Thursdays,+and+Saturdays%22+%22jimmy+buffett%22&pg=PA274 | date=May 9, 2017}}</ref>
+
+In 2003, Buffett partnered in a partial [[duet]] with [[Alan Jackson]] for the song "[[It's Five O'Clock Somewhere]]", which spent a then record eight weeks atop the [[Hot Country Songs]] charts.<ref>{{Cite magazine |last=Asker |first=Jim |title=Rewinding the Country Charts: Alan Jackson and Jimmy Buffett 'Clock-ed' in at No. 1 in 2003 | url=https://www.billboard.com/pro/alan-jackson-jimmy-buffett-its-five-oclock-somewhere-rewinding-the-country-charts-2003/ | magazine=[[Billboard (magazine)|Billboard]] | date=August 9, 2018}}</ref><ref>{{Cite magazine | last=Asker | first=Jim | date=December 23, 2022 |title=Morgan Wallen's 'You Proof' Breaks Record as Longest-Leading No. 1 in Country Airplay Chart History | url=https://www.billboard.com/music/chart-beat/morgan-wallen-you-proof-breaks-record-atop-country-airplay-chart-1235191307/ | magazine=[[Billboard (magazine)|Billboard]] | archive-url=https://web.archive.org/web/20230116012400/https://www.billboard.com/music/chart-beat/morgan-wallen-you-proof-breaks-record-atop-country-airplay-chart-1235191307/ | archive-date=January 16, 2023 |url-status=live}}</ref> This song won the 2003 [[Country Music Association]] Award for Vocal Event of the Year, Buffett's first award in his 30-year recording career.<ref>{{cite magazine | url=https://www.billboard.com/music/music-news/johnny-cash-dominates-cma-awards-68316/ | title=Johnny Cash Dominates CMA Awards | magazine=[[Billboard (magazine)|Billboard]] | date=November 6, 2003}}</ref>
+
+Buffett's album ''[[License to Chill]]'', released on July 13, 2004, sold 238,500 copies in its first week of release according to [[Nielsen Soundscan]]. With the album, Buffett topped the U.S. pop albums chart for the first time in his career.<ref>{{cite magazine |title=Buffett Chills At No. 1 |url=https://books.google.com/books?id=eRAEAAAAMBAJ&dq=%22Buffett%20Chills%20At%20No.%201%22&pg=PA57 |issn=0006-2510 | magazine=[[Billboard (magazine)|Billboard]] | via=[[Google Books]] |date=July 31, 2004 |page=57}}</ref>
+
+In May 2005, Buffett signed an agreement with [[Sirius Satellite Radio]] to broadcast [[Radio Margaritaville]], which, from its founding in 1998, was broadcast only online.<ref>{{Cite magazine | url=https://www.billboard.com/music/music-news/billboard-bits-six-feet-under-buffett-early-show-62944/ | title=Billboard Bits: 'Six Feet Under,' Buffett, 'Early Show' | magazine=[[Billboard (magazine)|Billboard]] | date=May 11, 2005}}</ref><ref>{{Cite news | url=https://www.nytimes.com/2005/05/10/arts/arts-briefly.html | title=Arts, Briefly | work=[[The New York Times]] | date=May 10, 2005}}</ref> The channel broadcasts from the Margaritaville Resort Orlando in [[Kissimmee, Florida]].
+
+In August 2006, Buffett released the album ''[[Take the Weather with You]]'', which hit number 1 on the country chart.<ref>{{cite magazine | url=https://www.billboard.com/artist/jimmy-buffett/chart-history/clp/ | title=Jimmy Buffett &#124; Biography, Music & News | magazine=[[Billboard (magazine)|Billboard]] }}</ref> The album included "Breathe In, Breathe Out, Move On", written in honor of the survivors of [[Hurricane Katrina]].<ref name=beaches/>
+
+In August 2007, Buffett was nominated at the [[Country Music Association Awards]] for the Event of the Year Award for his song "Hey Good Lookin'" which also features Alan Jackson and [[George Strait]].<ref>{{Cite news | url=https://www.reuters.com/article/us-country-music/paisley-and-strait-top-country-music-nods-idUSN3043777520070830 | title=Paisley and Strait top country music nods | first=Pat | last=Harris | work=[[Reuters]] | date=August 30, 2007}}</ref> Also in August 2007, Buffett received a star on the Mohegan Sun Walk of Fame.<ref>{{cite press release | url=https://www.casinocitytimes.com/news/article/jimmy-buffett-inducted-into-the-mohegan-sun-walk-of-fame-168344 | title=Jimmy Buffett inducted into the "Mohegan Sun Walk of Fame" | date=August 31, 2007}}</ref>
+
+[[File:Jimmy Buffett 1.jpg|thumb|upright=0.75|Buffett performing in January 2008]]
+
+In April 2010, a double CD of performances recorded during the 2008 and 2009 tours called ''[[Encores (Jimmy Buffett album)|Encores]]'' was released exclusively at [[Walmart]], Walmart.com, and Margaritaville.com.<ref>{{Cite news | url=https://www.masslive.com/playback/2010/05/new_albums_by_band_of_horses_a.html | title=New albums by Band of Horses and Josh Ritter superb; Jimmy Buffett scores on concept if not on artistry | first=Kevin | last=O'Hare| work=[[The Republican (Springfield, Massachusetts)|The Republican]] | date=May 31, 2010}}</ref>
+
+In 2010, Buffett was named the tenth biggest touring artist of the decade, with 4.5 million ticket sales over the previous 10 years.<ref name=rsobit/>
+
+Since [[Wyatt Durrette (songwriter)|Wyatt Durrette]], co-writer of the song "[[Knee Deep]]", was a fan of Buffett's, Buffett partnered on the song with the [[Zac Brown Band]], which was released on Brown's 2010 album ''[[You Get What You Give (album)|You Get What You Give]]''.<ref>{{Cite news | url=https://tasteofcountry.com/zac-brown-band-knee-deep-lyrics/ | title=Zac Brown Band, 'Knee Deep' – Lyrics Uncovered | first=Alanna | last=Conaway | work=Taste of Country | date=April 30, 2011}}</ref> The single was certified platinum in September 2017.<ref name=riaa/>
+
+In November 2011, Buffett voiced [[Huckleberry Finn]] on ''[[Mark Twain: Words & Music]]'', a benefit for the [[Mark Twain Boyhood Home & Museum]], which was released on [[Mailboat Records]].<ref>{{cite press release | url=https://www.prnewswire.com/news-releases/mark-twain-words--music-benefit-cd-package-released-by-jimmy-buffett-and-mailboat-records-featuring-star-studded-cast-with-grammy-award-winning-producer-carl-jackson-133798613.html | title='Mark Twain: Words & Music' Benefit CD Package Released by Jimmy Buffett and Mailboat Records, Featuring Star-Studded Cast with Grammy Award-winning Producer Carl Jackson | publisher=[[PR Newswire]] | date=November 14, 2011}}</ref>
+
+In August 2013, Buffett released ''[[Songs from St. Somewhere]]''; many of the songs were recorded at [[Eden Rock, St Barths]].<ref name=forward/>
+
+In 2020, Buffett released ''Songs You Don't Know by Heart'', a fan-curated collection of his lesser-known songs rerecorded on his collection of notable guitars.<ref>{{Cite news |title=Guitar Talk: Jimmy Buffett on His Evolving Collection of Golden-Era Instruments | url=https://acousticguitar.com/guitar-talk-jimmy-buffett-on-his-evolving-collection-of-golden-era-instruments/ | first=JAMES | last=ROTONDI | work=[[Acoustic Guitar (magazine)|Acoustic Guitar]] | date=March 19, 2021 | archive-url=https://web.archive.org/web/20210321125207/https://acousticguitar.com/guitar-talk-jimmy-buffett-on-his-evolving-collection-of-golden-era-instruments/ | archive-date=March 21, 2021 |url-status=live}}</ref>
+
+Buffett performed his final full concert at [[Snapdragon Stadium]] in [[San Diego]] on May 6, 2023.<ref name=final>{{cite magazine |last1=Greene | first1=Andy |title=Watch Jimmy Buffett Cover 'Southern Cross' at His Final Concert |url=https://www.rollingstone.com/music/music-news/jimmy-buffett-southern-cross-final-concert-1234817314/ |magazine=[[Rolling Stone]] |access-date=September 2, 2023 |date=September 2, 2023}}</ref> He made two further concert appearances, as an unannounced guest at concerts by Coral Reefer Band members, in [[Amagansett, New York]], on June 11 and in [[Portsmouth, Rhode Island]], on July 2, his final live performance before his death.<ref name=final/><ref>{{cite web |last1=Landeck |first1=Katie | title=Jimmy Buffett plays a surprise performance in Portsmouth, RI. How did it happen? | url=https://www.providencejournal.com/story/entertainment/2023/07/03/jimmy-buffett-performs-at-sunset-cove-portsmouth-ri-its-five-oclock-somewhere/70378654007/ | work=[[The Providence Journal]] |access-date=2 September 2023 |archive-date=July 18, 2023 |archive-url=https://web.archive.org/web/20230718155530/https://www.providencejournal.com/story/entertainment/2023/07/03/jimmy-buffett-performs-at-sunset-cove-portsmouth-ri-its-five-oclock-somewhere/70378654007/ |url-status=live}}</ref><ref>{{cite news | title=Jimmy Buffett's surprise set in Rhode Island was his final performance | url=https://turnto10.com/news/entertainment/jimmy-buffett-dies-age-76-singer-songwriter-actor-caribbean-beach-bum-margaritaville-fins-come-monday-cheeseburger-in-paradise-gulf-coast-broadway-music-portsmouth-rhode-island-sunset-cove | last=Benoit |first=Katie | work=[[WJAR]] | date=September 2, 2023}}</ref>
+
+''[[Equal Strain on All Parts]]'' was released posthumously in November 2023. Buffett got the idea for the album title from his grandfather's description of a nap.<ref>{{Cite magazine | url=https://www.rollingstone.com/music/music-album-reviews/jimmy-buffett-equal-strain-on-all-parts-review-1234869641/ | title=Jimmy Buffett Goes Out Smiling With His Final Album 'Equal Strain on All Parts' | first=JON | last=DOLAN | magazine=[[Rolling Stone]] | date=November 3, 2023}}</ref><ref>{{Cite news | url=https://people.com/jimmy-buffett-final-album-equal-strain-on-all-parts-due-this-fall-7967424 | title=Jimmy Buffett's Final Album 'Equal Strain on All Parts' Due This Fall with Paul McCartney Among Collaborators | work=People | date=September 8, 2023}}</ref>
+
+Buffett was posthumously selected for induction into the [[Rock and Roll Hall of Fame]] in 2024 in the musical excellence category.<ref name="rrhof24">{{cite web |title=2024 Rock and Roll Hall of Fame inductees |url=https://rockhall.com/2024-inductees/ |website=Rock & Roll Hall of Fame |access-date=22 April 2024 |date=22 April 2024}}</ref><ref name="hofgreene">{{cite magazine |last1=Greene |first1=Andy |title=Cher, Ozzy Osbourne, Dave Matthews Band, Mary J. Blige Lead Rock and Roll Hall of Fame 2024 Class |url=https://www.rollingstone.com/music/music-news/rock-hall-fame-2024-cher-ozzy-osbourne-dave-matthews-band-mary-j-blige-1235007784/ |magazine=Rolling Stone |access-date=22 April 2024 |date=22 April 2024}}</ref>
+
+===Musical style===
+[[File:Mac mcanally and jimmy buffett.jpg|thumb|Buffett ''(right)'' performing in 2009]]
+Buffett's music combined country, [[rock music|rock]], [[American folk music|folk]], [[Calypso music|calypso]], and [[pop music]] with coastal as well as tropical lyrical themes for a sound sometimes called "gulf and western" or [[tropical rock]].<ref name=insideme/>
+
+Buffett called his music "drunken Caribbean rock 'n' roll".<ref>{{Cite news | url=https://www.kiro7.com/news/trending/jimmy-buffetts-songs-you-knew-by-heart/PRDX5CLFGZHXFOMPXZ5GUZYFGE/ | title=Jimmy Buffett's songs you knew by heart | work=[[KIRO-TV]] | date=September 2, 2023}}</ref>
+
+<blockquote>"It's pure escapism is all it is...I'm not the first one to do it, nor shall I probably be the last. But I think it's really a part of the human condition that you've got to have some fun. You've got to get away from whatever you do to make a living or other parts of life that stress you out. I try to make it at least 50/50 fun to work and so far it's worked out." -Jimmy Buffett<ref>{{Cite news | url=https://abc7.com/jimmy-buffett-dead-passed-away-death/13728459/ | title=Jimmy Buffett, 'Margaritaville' singer, dead at 76 | work=[[ABC News (United States)|ABC News]] | date=September 2, 2023}}</ref></blockquote>
+
+In 1989, a music critic in ''[[The Washington Post]]'' described Buffett's music as a combination of "tropical languor with country funkiness into what some [have] called the Key West sound, or Gulf-and-western."<ref>{{cite journal | url=https://www.researchgate.net/publication/249057487 |title=Lookin' for Margaritaville: Place and Imagination in Jimmy Buffett's Songs. | journal=Journal of Cultural Geography |date=March 1997 |volume=16 |page=99 | doi=10.1080/08873639709478339 |last1=Bowen |first1=Dawn S. |issue=2}}</ref> The name "Gulf-and-western" derives from elements in Buffett's early music including musical influence from [[country music|country]], along with lyrical themes from the coast of the [[Gulf of Mexico]]. It is a play on the form of "Country & Western" and [[Gulf+Western]] is the former parent company of [[Paramount Pictures]].
+
+In 2020, The [[Associated Press]] described Buffett's sound as a "special [[Gulf Coast of the United States|Gulf Coast]] blend of country, [[pop music|pop]], [[American folk music|folk]] and rock, topped by Buffett's swaying voice. Few can mix [[steelpan]]s, [[trombone]]s and [[pedal steel guitar]] so effortlessly."<ref>{{cite news |url=https://apnews.com/article/956239a162a54c8b3b6ce475f0cc3ce7 | title=Review: Jimmy Buffett brings sunshine into our darkness | work=[[Associated Press News]] | last=Kennedy | first=Mark | date=May 26, 2020}}</ref>
+
+===Musical legacy===
+Musicians that have cited Buffett as a musical influence include [[Greg "Fingers" Taylor]], a former member of Buffett's [[Coral Reefer Band]], as well as musicians that have "latched on to his seaside-and-booze themes" such as [[Kenny Chesney]], [[Alan Jackson]], and [[Zac Brown]].<ref name=beaches>{{Cite news | url=https://www.nytimes.com/2023/09/02/arts/music/jimmy-buffett.html | title=Jimmy Buffett Was More Than Beaches and Booze | first=Jon | last=Pareles | authorlink=Jon Pareles | work=[[The New York Times]] | date=September 2, 2023 | url-access=limited}}</ref>
+
+==="Parrothead" fans===
+'''Parrot Head''' or '''parrothead''' is a commonly used nickname for Buffett fans with "parakeets" or "keets" used for younger fans, or children of Parrotheads. At a 1985 Jimmy Buffett concert at the Timberwolf Amphitheater at [[Kings Island]] in [[Mason, Ohio]], Buffett commented about everyone wearing Hawaiian shirts and parrot hats and how they kept coming back to see his shows, just like [[Deadheads]]. [[Timothy B. Schmit]], then a member of the [[Coral Reefer Band]], coined the term "Parrot Head" to describe them.<ref>{{Cite news | url=https://www.fox19.com/story/22856369/the-term-parrot-head-coined-at-kings-island-in-1985/ | title=History: The term "Parrot Head" coined here in 1985 | work=[[WXIX-TV]] | date=July 16, 2013}}</ref><ref>{{Cite news | url=https://www.grunge.com/1383900/why-jimmy-buffett-fans-called-parrot-heads/ | title=Why Jimmy Buffett Fans Are Called Parrot Heads | work=[[Static Media]] | date=September 2, 2023}}</ref> In 1989, the first Parrothead club was founded in [[Atlanta]].<ref>{{Cite web |title=The Atlanta Parrot Head Club – Home |url=http://www.atlantaparrotheadclub.org/ | work=Atlanta Parrot Head Club |archive-date=July 28, 2021 |archive-url=https://web.archive.org/web/20210728233640/http://www.atlantaparrotheadclub.org/ |url-status=live}}</ref> The annual Meeting of the Minds in [[Key West, Florida]] is a five-day festival held after [[Fantasy Fest]] that attracts approximately 5,000 Parrotheads.<ref>{{Cite news |title=Meeting of the Minds |url=https://keywest.floridaweekly.com/articles/meeting-of-the-minds-2/ |date=November 1, 2018 |website=Key West Florida Weekly |archive-date=July 28, 2021 |archive-url=https://web.archive.org/web/20210728234229/https://keywest.floridaweekly.com/articles/meeting-of-the-minds-2/ |url-status=live}}</ref> The Pikes Peak Hash House Harriers and Harriettes have an annual Parrot Head Hash weekend hosted by Yeastee Boy and Bread Box. Buffett's fanbase is composed mostly of [[baby boomers]].<ref name=state>{{Cite news | url=https://www.nytimes.com/2016/04/24/business/media/jimmy-buffetts-margaritaville-is-a-state-of-mind-and-an-empire.html | title=Jimmy Buffett's 'Margaritaville' Is a State of Mind, and an Empire | first=Brooks | last=Barnes | work=[[The New York Times]] | date=April 24, 2016 | url-access=limited}}</ref> His concerts were known for [[tailgate parties]] and alcohol consumption.<ref name=mayor/>
+
+==Writing==
+[[File:Jimmy Buffett navy (cropped).jpg|thumb|upright|left|Buffett in Hawaii in June 2003]]
+Buffett wrote three books, all of which placed on [[The New York Times Best Seller list]]. ''[[Tales from Margaritaville]]'' and ''[[Where Is Joe Merchant?]]'' both spent over seven months on [[The New York Times Best Seller list|''The New York Times'' Best Seller]] fiction list. His memoir ''[[A Pirate Looks at Fifty]],'' published in 1998, went straight to number one on the ''New York Times'' Best Seller nonfiction list, making him one of the few authors to have reached number one on both the fiction and nonfiction lists.<ref>{{cite news | first=Anthony | last=Decurtis |url=https://www.nytimes.com/1999/02/21/arts/music-jimmy-buffett-traveling-salesman-of-leisure.html |title=MUSIC; Jimmy Buffett, Traveling Salesman of Leisure |work=[[The New York Times]] |date=February 21, 1999 | url-access=limited |archive-url=https://web.archive.org/web/20140423024136/http://www.nytimes.com/1999/02/21/arts/music-jimmy-buffett-traveling-salesman-of-leisure.html?pagewanted=all&src=pm |archive-date=April 23, 2014 |url-status=live}}</ref>
+
+Buffett also co-wrote two children's books, ''[[The Jolly Mon]]'' and ''Trouble Dolls,'' with his eldest daughter, [[Savannah Buffett]]. The original hardcover release of ''The Jolly Mon'' included a cassette tape recording of the two reading the story accompanied by an original score written by [[Michael Utley]].<ref>{{cite journal |last=Bixler |first=Beverly |title=The Jolly Mon |journal=School Library Journal |date=October 1990 |volume=36 |issue=10 |page=76 |url=https://search.ebscohost.com/login.aspx?direct=true&db=f6h&AN=10836779&site=eds-live&scope=site |access-date=2 September 2023}}</ref><ref>{{cite journal |last=Wilton |first=Shirley |title=Trouble Dolls (Book) |journal=School Library Journal |date=June 1991 |volume=37 |issue=6 |page=72 |url=https://search.ebscohost.com/login.aspx?direct=true&db=lkh&AN=10337533&site=eds-live&scope=site |access-date=2 September 2023}}</ref>
+
+Buffett's novel ''[[A Salty Piece of Land]]'' was released on November 30, 2004, and the first edition of the book included a CD single of the song "A Salty Piece of Land." The book was a ''New York Times'' best seller soon after its release.<ref>{{cite news | url=https://www.nytimes.com/2004/12/26/books/arts/best-sellers-december-26-2004.html | title=BEST SELLERS: December 26, 2004 | work=[[The New York Times]] | date=December 26, 2004 | url-access=limited}}</ref>
+
+Buffett's last title, ''Swine Not?'', was released on May 13, 2008.<ref>{{Cite news |url=https://www.today.com/popculture/jimmy-buffett-s-novel-asks-swine-not-wbna24592341 |title=Jimmy Buffett's novel asks, 'Swine Not?' | work=[[Today (American TV program)|Today]] | date=May 13, 2008}}</ref>
+
+==Film and television==
+===Soundtracks===
+Buffett wrote the soundtrack for, co-produced, and played a role in, the 2006 film ''[[Hoot (film)|Hoot]],'' directed by [[Wil Shriner]] and based on the book by [[Carl Hiaasen]], which focused on issues important to Buffett, such as conservation.<ref name=":0">{{Cite web |date=2023-09-02 |title=Jimmy Buffett SW FL connection: 'Cheeseburger in Paradise' to 'Hoot,' icon |url=https://news.yahoo.com/jimmy-buffett-sw-fl-connection-135657014.html |access-date=2023-09-04 |website=Yahoo News |language=en-US}}</ref> The film was not a critical or commercial success.<ref name=":0" />
+
+Among his other film music credits are the theme song to the short-lived 1993 [[CBS]] television series ''[[Johnny Bago]]'';<ref>{{cite book |last1=Terrace |first1=Vincent |title=Encyclopedia of Television Shows, 1925 through 2010 |edition=second |volume=2 |date=2011 |publisher=McFarland & Co. |isbn=978-0-7864-8641-0 |pages=540 |url=https://books.google.com/books?id=YX_daEhlnbsC&dq=%22bago%22+%22jimmy+buffett%22&pg=PA540 |language=en}}</ref> "Turning Around" for the 1985 film ''[[Summer Rental]]'' starring [[John Candy]];<ref>{{cite book | url=https://archive.org/details/jimmybuffettmanf0000engs_i1x7/page/338/mode/2up?q=%22summer+rental%22 | title=Jimmy Buffett: The Man from Margaritaville Revealed |first=Steve | last=Eng | publisher=St. Martin's Griffin |isbn=9780312168759 | via=[[Internet Archive]] | date=1997 |page=339}}</ref> "I Don't Know (Spicoli's Theme)" for the 1982 film ''[[Fast Times at Ridgemont High]]'';<ref name="miscvocalrecordings">{{cite book | url=https://archive.org/details/jimmybuffettmanf0000engs_i1x7/page/336/mode/2up?q=%22hello+texas%22+%22i+don%27t+know%22 | title=Jimmy Buffett: The Man from Margaritaville Revealed |first=Steve | last=Eng | publisher=St. Martin's Griffin |isbn=9780312168759 | via=[[Internet Archive]] | date=1997 |pages=336–337}}</ref> "Hello, Texas" for the 1980 [[John Travolta]] film ''[[Urban Cowboy]]'';<ref name="miscvocalrecordings" /> and "If I'm Gonna Eat Somebody (It Might As Well Be You)" for the animated film ''[[FernGully: The Last Rainforest]]'', which was sung in the film by rap artist [[Tone Loc]].<ref>{{cite web |last1=Benitez-Eves |first1=Tina |title=3 Songs You Didn't Know Jimmy Buffett Wrote for Other Artists |url=https://americansongwriter.com/3-songs-you-didnt-know-jimmy-buffett-wrote-for-other-artists/ |website=American Songwriter |archive-url=https://web.archive.org/web/20230907020040/https://americansongwriter.com/3-songs-you-didnt-know-jimmy-buffett-wrote-for-other-artists/ |archive-date=2023-09-07 |date=6 September 2023 |url-status=live}}</ref>
+
+===Cameo appearances===
+Buffett made [[cameo appearance]]s in ''[[Repo Man (1984 film)|Repo Man]]'',<ref>{{cite news | url=https://www.mentalfloss.com/article/67675/15-atomic-truths-about-repo-man | title=15 Atomic Truths About Repo Man | first=Dante A. | last=Ciampaglia | work=[[Mental Floss]] | date=August 21, 2015}}</ref> ''[[Hook (film)|Hook]]'',<ref>{{Cite news | url=https://www.looper.com/1383930/jimmy-buffett-cameo-probably-missed-hook/ | title=The Jimmy Buffett Cameo You Probably Missed In Hook | first=JEFF | last=LITTON | publisher=[[Static Media]] | date=September 2, 2023}}</ref> ''[[Cobb (film)|Cobb]]'', ''[[Hoot (film)|Hoot]]'', ''[[Congo (film)|Congo]]'', and ''[[From the Earth to the Moon (miniseries)|From the Earth to the Moon]]''. He also made cameo appearances as himself in ''[[Rancho Deluxe]]'' (for which he also wrote the music) and in ''[[FM (film)|FM]]''.<ref>{{Cite news | url=https://www.looper.com/1383877/jimmy-buffett-dead-76/ | title=Jimmy Buffett, Cameo King And Soundtrack Contributor, Dead At 76 | first=JEFF | last=LITTON | publisher=[[Static Media]] | date=September 2, 2023}}</ref>
+
+Buffett appeared on the ''Sesame Street'' special, ''[[Elmopalooza]]'', singing "[[Caribbean Amphibian]]" with the popular Muppet, [[Kermit the Frog]].<ref>{{cite AV media | url=https://www.youtube.com/watch?v=4-SNWcCpL0Y | title="Caribbean Amphibian" Elmopalooza Jimmy Buffett | via=[[YouTube]]}}</ref>
+
+Buffett portrayed helicopter pilot Frank Bama in seven episodes of the 2010 reboot of ''[[Hawaii Five-0 (2010 TV series)|Hawaii Five-0]]'', in 2011, April 2013, March 2015, January 2017, March 2018, May 2019, and March 2020.<ref>{{Cite news | url=https://popculture.com/tv-shows/news/remembering-jimmy-buffetts-hawaii-five-0-role-as-frank-bama/ | title=Remembering Jimmy Buffett's 'Hawaii Five-0' Role as Frank Bama | first=MEGAN | last=BEHNKE | work=[[Popculture.com]] | date=September 2, 2023}}</ref>
+
+Buffett made a cameo in the 2015 film ''[[Jurassic World]]'', where he is seen holding two margaritas while the dinosaurs are set loose in the park.<ref>{{Cite news | url=https://www.looper.com/1383970/jimmy-buffett-legendary-jurassic-world-cameo/ | title=How Jimmy Buffett's Legendary Jurassic World Cameo Came To Be | first=AAHIL | last=DAYANI | publisher=[[Static Media]] | date=September 2, 2023}}</ref>
+
+In 2017, Buffett was the musical guest on the ''[[NCIS: New Orleans]]'' episode "Rogue Nation", playing the song "I Will Play for Gumbo" in Dwayne Pride's ([[Scott Bakula]]) newly rebuilt bar.<ref>{{cite magazine | url=https://www.yahoo.com/news/ncis-orleans-feature-jimmy-buffett-191454565.html | title=NCIS: New Orleans will feature Jimmy Buffett performance | first=Lynette | last=Rice | magazine=[[Entertainment Weekly]] | date=September 25, 2017}}</ref> His final TV appearance saw him busking the same tune on a New Orleans sidewalk to Beth ([[Amy Schumer]]) and her fiancée in the 2024 ''[[Life and Beth]]'' episode "Who Dat?" <ref>{{cite magazine | url=https://www.buffettnews.com/2024/02/16/31887/ | title=Jimmy Buffett has a cameo in Hulu's Life & Beth | magazine=[[BuffetNews.com]] | date=February 16, 2024}}</ref>
+
+In 2019, Buffett had an extended cameo playing himself in the [[Harmony Korine]] film ''[[The Beach Bum]]''.<ref>{{Cite news | url=https://www.vice.com/en/article/mbzy83/jimmy-buffett-on-the-role-he-was-born-to-play-himself | title=Jimmy Buffett on the Role He Was Born to Play: Himself | first=Will | last=Schube | work=[[Vice (magazine)|Vice]] | date=March 28, 2019}}</ref>
+
+Buffett portrayed both himself and a con artist by the name of Dickie Delaney, who pretended to be the famous singer in order to pull off schemes and trick unsuspecting marks on Season 12, Episode 11 of ''[[Blue Bloods (TV series)|Blue Bloods]]''.
+
+==Theatre==
+In 1994, Buffett began developing a musical based on [[Herman Wouk]]'s 1965 novel, ''[[Don't Stop the Carnival (novel)|Don't Stop the Carnival]]''. Buffett wrote the music and lyrics and Wouk wrote the book for the show. ''Don't Stop the Carnival'' debuted in [[Miami| Miami, Florida]], in 1997 to negative reviews from critics.<ref>{{Cite news | url=https://playbill.com/article/wouk-buffett-musical-opens-today-in-fl-com-70073 | title=Wouk/Buffett Musical Opens Today in FL | work=[[Playbill]] | date=April 19, 1997}}</ref> The show ran only for six weeks in Miami.<ref>{{Cite news | url=https://www.chicagotribune.com/news/ct-xpm-1999-01-05-9901050061-story.html | title=JIMMY BUFFETT HEADS FOR BROADWAY | first=Larry | last=Katz | work=[[Chicago Tribune]] | date=January 5, 1999 | url-access=limited}}</ref>
+
+''[[Escape to Margaritaville]]'', a musical, ran at the [[La Jolla Playhouse]] in [[San Diego]] from May 2017 to July 2017. The show then performed limited runs in [[New Orleans]], [[Houston]], and [[Chicago]], and was well received by critics. The show features a book by [[Greg Garcia (producer)|Greg Garcia]] and [[Mike O'Malley]] and uses Buffett's classic songs, some of which he rewrote the lyrics to in order to better fit in the context of the story. The show began previews at the [[Marquis Theatre]] on [[Broadway theatre|Broadway]] on February 16, 2018, and officially opened on March 15 under the direction of [[Tony Award|Tony]] winner [[Christopher Ashley]]. The Broadway production received mixed reviews from New York critics and closed on July 1 after 29 previews and 124 regular performances. A national tour launched in [[Providence, Rhode Island]], in the fall of 2019.<ref name=Lifestyle/>
+
+==Business ventures==
+[[File:Margaritaville.JPG|thumb|The outside of a Margaritaville restaurant in [[Orlando, Florida]]]]
+Buffett took advantage of the [[tropical]] "island escapism" lifestyle that fans of his music sought by launching several business ventures to sell this lifestyle to his fans.<ref>{{cite news |url=https://www.austinchronicle.com/music/2017-07-21/how-jimmy-buffetts-margaritaville-became-the-most-valuable-song-of-all-time/ |title=How Jimmy Buffett's 'Margaritaville' Became the Most Valuable Song of All Time | last=Freeman | first=Doug | newspaper=[[Austin Chronicle]] |date=July 21, 2017 |archive-url=https://web.archive.org/web/20200223085445/https://www.austinchronicle.com/music/2017-07-21/how-jimmy-buffetts-margaritaville-became-the-most-valuable-song-of-all-time/ |archive-date=February 23, 2020 | url-status=live}}</ref><ref name=Lifestyle>{{cite news |last=Brodesser-Akner |first=Taffy |url=https://www.tampabay.com/things-to-do/stage/Even-Jimmy-Buffett-does-not-live-the-Jimmy-Buffett-lifestyle-anymore_165303531/ |title=Even Jimmy Buffett does not live the Jimmy Buffett lifestyle anymore |work=The Tampa Bay Times |date=February 9, 2018}}</ref>
+
+Through his Margaritaville brand, Buffett licensed hotels, casinos, cruise experiences, restaurants and bars, packaged foods, beverages, spirits, outdoor furniture, home goods, appliances, and apparel and accessories.<ref>{{cite news | url=https://www.licenseglobal.com/entertainment/jlg-rep-margaritaville | title=JLG to Rep Margaritaville | work=[[Informa]] | date=April 6, 2018}}</ref>
+
+===Restaurants===
+In 1984, Buffett and a friend opened a T-shirt shop in [[Gulf Shores, Alabama]].<ref name=rockin/> After it failed, in 1985, they tried again in Key West, expanding it to what became [[Jimmy Buffett's Margaritaville]] in 1987.<ref name=insideme/> The chain opened restaurants under the Margaritaville and LandShark Bar & Grill names in locations including Atlantic City, New Orleans, Nashville, The Bahamas, Turks and Caicos, Las Vegas, Jamaica, Orlando, [[Baltimore]],<ref>{{cite news | url=https://www.bizjournals.com/baltimore/news/2019/06/11/jimmy-buffett-themed-landshark-bar-harborplace.html | last=Yeager | first=Amanda | title=Exclusive: Jimmy Buffett-themed LandShark Bar & Grill coming to Harborplace |work=[[American City Business Journals]] | date=June 11, 2019 |archive-date=August 14, 2020 | archive-url=https://web.archive.org/web/20200814010319/https://www.bizjournals.com/baltimore/news/2019/06/11/jimmy-buffett-themed-landshark-bar-harborplace.html | url-status=live}}</ref> and the Cayman Islands.<ref name=5decades/>  The Margaritaville cafe on the Las Vegas strip was possibly the highest grossing restaurant in the U.S.<ref>{{Cite news | url=https://apnews.com/article/jimmy-buffett-dies-obituary-parrotheads-aab4f7edb4044ef5af874d4ea63e8e9c | title=Jimmy Buffett's laid-back party vibe created adoring 'Parrotheads' and success beyond music}}</ref>
+
+Buffett previously owned the [[Cheeseburger in Paradise (restaurant)|Cheeseburger in Paradise Restaurant]] chain, founded in 2002 in partnership with [[Bloomin' Brands]]; it was sold to [[Luby's]] for $11 million in 2012 and shut down in 2020.<ref name=Steele>{{Cite news | url=https://www.wsj.com/arts-culture/music/jimmy-buffett-margaritaville-singer-and-beach-themed-businessman-dies-26e63495 | last=Steele | first=Anne |title=Jimmy Buffett, 'Margaritaville' Singer and Beach-Themed Businessman, Dies | work=[[The Wall Street Journal]] |date=September 2, 2023 | url-access=subscription}}</ref>
+
+===Record labels===
+In 1992, Buffett launched Margaritaville Records, with distribution through [[MCA Records]].<ref>{{Cite news | url=https://www.chicagotribune.com/news/ct-xpm-1992-04-30-9202080241-story.html | title=JIMMY BUFFETT STARTS HIS OWN RECORD LABEL | first=Scott | last=Benarde | work=[[Chicago Tribune]] | date=April 30, 1992 | url-access=limited}}</ref> His MCA record deal ended in 1996. In 1999, he started [[Mailboat Records]] to release live albums.<ref>{{Cite magazine | url=https://www.billboard.com/music/music-news/jimmy-buffett-delivers-on-his-own-mailboat-label-76681/ | title=Jimmy Buffett Delivers On His Own Mailboat Label | magazine=[[Billboard (magazine)|Billboard]] | date=February 25, 2002}}</ref>
+
+===Beer===
+Buffett sought and received a concert sponsorship from [[Corona (beer)|Corona]]; the partnership was credited for increasing sales of the brand.<ref name=mayor/> After deciding that he wanted his own beer brand, Buffett partnered with [[Anheuser-Busch]] in 2006 to brew Landshark Lager, now one of the [[Anheuser-Busch brands]].<ref name=5decades>{{Cite news | url=https://www.insider.com/jimmy-buffett-billionaire-makes-and-spends-his-money-2023-4 | title=Jimmy Buffet[sic] became a billionaire after 5 decades in the music industry. Here's how the late singer made and spent his fortune. | first1=Gabbi | last1=Shaw | first2=Jordan Parker | last2=Erb | work=[[Business Insider]] | date=September 2, 2023}}</ref>
+
+===Casinos===
+In 2013, Buffett partnered with the [[Resorts Casino Hotel]] in [[Atlantic City, New Jersey]], to open the $35 million Jimmy Buffett Margaritaville-themed entertainment complex at the hotel, which included a Margaritaville Restaurant with a giant blender and tiki bar, a Landshark Bar and Grill, the 5 O'Clock Somewhere Bar, a coffee shop, a retail store, and a gaming area with 12 Margaritaville-themed table games and 160 slot machines.<ref name=casino>{{cite news |title=Jimmy Buffett almost had his own casino in Atlantic City |url=https://pressofatlanticcity.com/news/breaking/jimmy-buffett-almost-had-his-own-casino-in-atlantic-city/article_fe841ec6-60cc-11e6-bd2f-efc5773225d4.html |last=Huba | first=Nicholas |work=[[The Press of Atlantic City]] | date=August 13, 2016 | url-access=subscription | archive-url=https://web.archive.org/web/20180127030518/http://www.pressofatlanticcity.com/news/breaking/jimmy-buffett-almost-had-his-own-casino-in-atlantic-city/article_fe841ec6-60cc-11e6-bd2f-efc5773225d4.html |archive-date=January 27, 2018 |url-status=live}}</ref><ref name=cutting>{{cite news| title=Ribbon-cutting held for Jimmy Buffett's Margaritaville on Atlantic City Boardwalk |url=https://www.nj.com/indulge/2013/05/jimmy_buffett.html |work=[[South Jersey Times]] |date=May 24, 2013 |archive-url=https://web.archive.org/web/20171013225950/http://www.nj.com/indulge/index.ssf/2013/05/jimmy_buffett.html |archive-date=October 13, 2017 |url-status=live}}</ref>
+
+The [[Margaritaville Casino and Restaurant]] in [[Biloxi, Mississippi]], licensed the name from Buffett; it was in operation from May 2012 to September 2014.<ref>{{Cite news | url=https://www.shreveporttimes.com/story/news/local/2014/07/21/biloxis-margaritaville-casino-closing-by-sept-19/12967327/ | title=Biloxi's Margaritaville casino closing by Sept. 19 | first=Jeff | last=Amy | work=[[The Times (Shreveport)|The Times]] | date=July 21, 2014}}</ref> Plans to bring a Buffett-themed casino to Biloxi had been in process since 2000.<ref>{{cite news | url=https://infoweb.newsbank.com/apps/news/document-view?p=AWNB&docref=news/0EB62276695A861B&f=basic |title=Glut quiets casino boom: Plans begin to gather dust |newspaper=[[Sun Herald]] |via=[[NewsBank]] | first=Dave | last=Palermo |date=July 30, 2000}}</ref>
+
+===Sports===
+From May 8, 2009, through January 5, 2010, the home stadium of the [[Miami Dolphins]], now called [[Hard Rock Stadium]], was named LandShark Stadium pursuant to an eight-month naming rights deal.<ref>{{cite news | url=https://www.miaminewtimes.com/news/the-end-of-the-land-shark-stadium-era-is-almost-upon-us-6533439 | title=The End of the "Land Shark" Stadium Era is Almost Upon Us | first=Kyle | last=Munzenrieder | work=[[Miami New Times]] | date=December 9, 2009}}</ref> Buffett also wrote new lyrics for the team to his 1979 song "[[Fins (song)|Fins]]", which is played during Dolphins home games.<ref>{{cite news | url=https://www.aol.com/jimmy-buffetts-fins-song-dolphins-181413851.html | title=Jimmy Buffett's 'Fins' song and the Dolphins' fight song, Which one is the fan-favorite? | first=LIANNA | last=NORMAN | work=[[The Palm Beach Post]] | date=August 23, 2023}}</ref>
+
+As a baseball fan, Buffett was part-owner of two [[minor-league]] teams: the [[Fort Myers Miracle|Miami/Fort Myers Miracle]] (1989–2014)<ref>{{Cite news | url=https://www.news-press.com/story/sports/2014/04/28/fort-myers-miracle-baseball-team-changes-ownership/8425339/ | title=Fort Myers Miracle baseball team changes ownership | first=David | last=Dorsey | work=[[The News-Press]] | date=April 28, 2014}}</ref> and the [[Madison Black Wolf]] (1996–2000).<ref>{{Cite news | url=https://www.upi.com/Archives/1995/12/21/Singer-Buffett-a-baseball-owner/3372819522000/ | title=Singer Buffett a baseball owner | work=[[United Press International]] | date=December 21, 1995}}</ref>
+
+===Video games===
+In 2012, a "Margaritaville Online" game was released by [[THQ]] for [[Facebook]].<ref name=MobileGame>{{cite news |last=Spangler| first=Todd |title=Jimmy Buffett's Margaritaville to Launch Mobile Game |url=https://variety.com/2016/digital/games/jimmy-buffett-margaritaville-mobile-game-1201709787/ |work=[[Variety (magazine)|Variety]] | date=February 19, 2016 |archive-url=https://web.archive.org/web/20171014033931/http://variety.com/2016/digital/games/jimmy-buffett-margaritaville-mobile-game-1201709787/ |archive-date=October 14, 2017 |url-status=live}}</ref> The game was discontinued two years later.<ref name=MobileGame/> In 2016, Buffett partnered with [[FunPlus]] to develop a new Margaritaville game.<ref name=MobileGame/>
+
+===Retirement communities===
+In 2017, Latitude Margaritaville, a 3,900-home $1 billion [[retirement village]] near [[Interstate 95 in Florida|Interstate 95]] in [[Daytona Beach, Florida]], was announced by Buffett in partnership with [[Minto Group]].<ref name=retirees>{{cite news |last=Taylor Martin |first=Susan |url=https://www.tampabay.com/news/business/realestate/Real-life-Margaritaville-wows-parrothead-retirees-_166300473/ |title=Real-life Margaritaville wows parrothead retirees |work=[[Tampa Bay Times]] |date=March 15, 2018 |archive-date=March 15, 2018 |archive-url=https://web.archive.org/web/20180315150744/http://www.tbo.com/news/business/realestate/Real-life-Margaritaville-wows-parrothead-retirees-_166300473 |url-status=live}}</ref><ref>{{cite news |url=https://www.myrtlebeachonline.com/opinion/opn-columns-blogs/bob-bestler/article139387988.html |title=Jimmy Buffett's countless ventures now include a retirement spot for the Parrotheads |last=Bestler |first=Bob |work=[[The Sun News]] |date=March 18, 2017 |archive-date=March 26, 2017 |archive-url=https://web.archive.org/web/20170326052115/http://www.myrtlebeachonline.com/opinion/opn-columns-blogs/bob-bestler/article139387988.html |url-status=live}}</ref> The partnership announced similar retirement communities on [[Hilton Head Island, South Carolina]], also in 2017<ref>{{Cite news | url=https://www.forbes.com/sites/danafeldman/2017/05/25/jimmy-buffett-announces-second-location-for-margaritaville-retirement-communities-as-hilton-head-sc/ | title=Jimmy Buffett Announces Second Location For Margaritaville Adult Communities As Hilton Head, SC | first=Dana | last=Feldman | work=[[Forbes]] | date=May 25, 2017 | url-access=limited}}</ref> and in [[Panama City Beach, Florida]], in 2021.<ref>{{cite news | url=https://www.newsherald.com/story/news/local/2021/06/25/new-panama-city-beach-housing-development-latitude-margaritaville-watersound-sees-booming-demand/7699177002/ | title=Want a house in the new Panama City Beach Margaritaville Watersound community? Get in line | first=Nathan | last=Cobb | work=[[The News Herald (Panama City)|The News Herald]] | date=June 25, 2021}}</ref>
+
+===Cannabis===
+In September 2018, Buffett teamed with [[Wrigley Company]] heir [[William Wrigley Jr. II]]'s Surterra Holdings to license "Coral Reefer" brand [[marijuana]]; it launched in April 2019. The brand licensing ended in April 2023.<ref>{{cite web |url=https://www.cannabisbusinesstimes.com/article/jimmy-buffett-marijuana-business/ |title=Jimmy Buffett Gets Into the Marijuana Business With Billionaire Wrigley Heir | last=Meyer | first=David |date=September 11, 2018 |magazine=[[Fortune (magazine)|Fortune]] |archive-date=August 2, 2020 |archive-url=https://web.archive.org/web/20200802164822/https://www.cannabisbusinesstimes.com/article/jimmy-buffett-marijuana-business/ |url-status=live}}</ref><ref>{{cite press release |url=https://www.prnewswire.com/news-releases/jimmy-buffett-and-surterra-wellness-launch-cannabis-brand-coral-reefer-300832395.html |title=Jimmy Buffett and Surterra Wellness Launch Cannabis Brand, Coral Reefer |date=April 16, 2019 |publisher=[[PR Newswire]]|access-date=February 23, 2020 |archive-date=February 23, 2020 |archive-url=https://web.archive.org/web/20200223085444/https://www.prnewswire.com/news-releases/jimmy-buffett-and-surterra-wellness-launch-cannabis-brand-coral-reefer-300832395.html |url-status=live}}</ref><ref>{{cite news | url=https://www.wsj.com/articles/new-partners-in-weed-startup-jimmy-buffett-and-wrigley-scion-1536638401 |title=New Partners in Weed Startup: Jimmy Buffett and Wrigley Scion | last=Maloney | first=Jennifer |date=September 11, 2018 | newspaper=[[The Wall Street Journal]] | access-date=February 23, 2020|archive-date=February 23, 2020 |archive-url=https://web.archive.org/web/20200223085440/https://www.wsj.com/articles/new-partners-in-weed-startup-jimmy-buffett-and-wrigley-scion-1536638401|url-status=live}}</ref><ref>{{Cite news | url=https://www.tallahassee.com/story/news/money/2019/04/18/jimmy-buffetts-coral-reefer-medical-cannabis-debuts-surterra-wellness/3505915002/ | title=Jimmy Buffett's Coral Reefer medical cannabis debuts at Surterra Wellness in Tallahassee | first=TaMaryn | last=Waters | work=[[Tallahassee Democrat]] | date=April 18, 2019}}</ref>
+
+===Berkshire Hathaway===
+In the 1980s, Buffett became friends with [[Warren Buffett]] and a shareholder in [[Berkshire Hathaway]], increasing his stake over the years. They called each other "Cousin Jimmy" and "Uncle Warren" though they were not related.<ref name=Steele/>
+
+==Charity work==
+===Environmental conservation===
+In 1981, the [[Save the Manatee Club]], a [[501(c)(3) organization]], was founded by Buffett and former [[Florida governor]] [[Bob Graham]].<ref name=influence>{{cite news | url=https://www.forbes.com/sites/jonmcgowan/2023/09/02/jimmy-buffett-used-his-influence-to-help-the-environment-save-the-manatees/ | title=Jimmy Buffett Used His Influence To Help The Environment, Save The Manatees | first=Jon | last=McGowan | work=[[Forbes]] | date=September 2, 2023 | url-access=limited}}</ref><ref>{{cite web | url=https://www.savethemanatee.org/about/our-vision-and-mission/ |title=Save the Manatee Club |publisher=[[Save the Manatee Club]] |archive-date=March 26, 2014 |archive-url=https://web.archive.org/web/20140326220044/http://www.savethemanatee.org/smchist.htm |url-status=live}}</ref> In 1986, Buffett began work to introduce the "Save the Manatee" [[license plate]], featuring an image of a [[West Indian manatee]], with proceeds going to the Save the Manatee Club.<ref name=influence/> Buffett was also a major donor to the [[Gulf Specimen Marine Laboratory]].<ref name=influence/>
+
+In 1987, Buffett lobbied for the reauthorization of the [[Endangered Species Act of 1973]].<ref name=influence/>
+
+===Charity performances===
+[[File:Musician Jimmy Buffett performs for members of Joint Task Force Haiti behind the U.S. Embassy in Port-au-Prince, Haiti, March 3, 2010 100303-N-HX866-005.jpg|thumb|right|Buffett performing for members of the [[Joint Task Force Haiti]] behind the U.S. Embassy in Port-au-Prince following the [[2010 Haiti earthquake]]]]
+Buffett enjoyed playing for U.S. troops; he played at the [[Guantanamo Bay Naval Base]] in 2002.<ref>{{Cite news | url=https://www.starnewsonline.com/story/news/2002/12/08/guantanamo-parrotheads-are-buffetted/30502353007/ | title=Guantanamo Parrotheads are Buffetted | first=Carol | last=Rosenberg | work=[[Star-News]] | date=December 8, 2002}}</ref>
+
+Buffett performed at several hurricane relief concerts including the Surviving the Storm hurricane relief concert in November 2004, which raised funds to support relief efforts for the four major hurricanes that year: [[Hurricane Charley]], [[Hurricane Frances]], [[Hurricane Ivan]], and [[Hurricane Jeanne]]<ref>{{cite web | url=https://top40-charts.com/news.php?nid=10693&cat= | title=Jimmy Buffett Surviving The Storm Benefit Auction}}</ref> and a hurricane relief concert in November 2017 with [[Kenny Chesney]] and [[Toby Keith]].<ref>{{Cite news | url=https://www.tallahassee.com/story/news/2017/10/27/jimmy-buffett-kenny-chesney-toby-keith-hurricane-relief-concert-sells-out-11-minutes/807513001/ | title=Jimmy Buffett, Kenny Chesney, Toby Keith hurricane relief concert sells out in 11 minutes}}</ref>
+
+In January 2008, Buffett performed a concert in Hong Kong that raised funds for the [[Foreign Correspondents' Club (Hong Kong)|Foreign Correspondents' Club]] Charity Fund to support needy children.<ref>{{cite news | url=https://www.unilad.com/celebrity/news/jimmy-buffett-dies-aged-76-tributes-408832-20230902 | title=Jimmy Buffett dies aged 76 leaving behind '$1bn fortune' as heartfelt tributes flood in for legendary star | first=Gregory | last=Robinson | work=[[UNILAD]] | date=September 2, 2008}}</ref><ref>{{Cite AV media | url=https://www.dailymotion.com/video/x4860k | title=Jimmy Buffett Hong Kong concert interview Part 1 | via=[[DailyMotion]] | date=January 31, 2008}}</ref><ref>{{Cite news | url=https://www.scmp.com/article/617488/placido-domingo-gulf-and-western-jimmy-buffett | title=From Placido Domingo to 'gulf and western' with Jimmy Buffett | first=Andrew | last=Sun | work=[[South China Morning Post]] | date=November 29, 2007 | url-access=subscription}}</ref>
+
+On July 11, 2010, along with [[Jesse Winchester]] and [[Allen Toussaint]], Buffett, a Gulf Coast native, performed a free concert for 35,000 people on the beach in [[Gulf Shores, Alabama]] to draw tourism to the area in the aftermath of the [[Deepwater Horizon oil spill]].<ref>{{Cite news | url=https://www.al.com/live/2010/07/jimmy_buffett_hopes_to_boost_g.html | title=Jimmy Buffett hopes to boost Gulf spirits with Sunday concert | work=[[The Birmingham News]] | date=July 6, 2010}}</ref><ref>{{Cite news | url=https://www.cbsnews.com/news/jimmy-buffett-concert-draws-crowd-on-oil-coast/ | title=Jimmy Buffett Concert Draws Crowd on Oil Coast | work=[[CBS News]] | date=July 11, 2010}}</ref> Buffett changed some of the lyrics of his songs to reference the [[environmental disaster]].<ref>{{cite news | url=https://www.baltimoresun.com/travel/la-tr-gulfshores-20100718-story.html | title=Along the Gulf Coast, trying to survive the oil spill | work=[[The Baltimore Sun]] | date=July 18, 2010| url-access=subscription}}</ref>
+
+===Disaster relief===
+After the [[2010 Haiti earthquake]], Buffett brought tents via his seaplane to donate to those that lost their homes.<ref>{{Cite news | url=https://www.guelphmercury.com/news/jimmy-buffett-brings-haiti-earthquake-relief-one-seaplane-at-a-time/article_69183f86-73f9-5dc3-a736-1c852fd25e41.html | title=Jimmy Buffett brings Haiti earthquake relief 'one seaplane at a time' | work=[[Guelph Mercury]] | date=March 3, 2010}}</ref>
+
+In the aftermath of [[Hurricane Irma]], Buffett sent private planes to help ferry supplies and gave a benefit concert in [[Gustavia, Saint Barthélemy]].<ref name=forward/>
+
+==Personal life==
+Buffett married Margie Washichek in 1969; they divorced in 1972.<ref>{{Cite web |date=March 12, 2019 |title=Come Monday: A Song Jimmy Buffett Wrote For His Wife |url=https://www.countrythangdaily.com/come-monday-jimmy-buffett/ |access-date=September 2, 2023 |archive-date=March 24, 2023 |archive-url=https://web.archive.org/web/20230324152341/https://www.countrythangdaily.com/come-monday-jimmy-buffett/ |url-status=live}}</ref> Buffett met his second wife, Jane (née Slagsvol), then a student at the [[University of South Carolina]], at the Chart Room bar while she was visiting Key West on [[spring break]]; she never returned to the university. They were married in 1977 in Aspen, Colorado. [[Eagles (band)|The Eagles]], for whom Buffett was the opening act in 1975, played at their wedding.<ref name=rockin/><ref name=eagles/> The couple had two daughters, radio personality [[Savannah Buffett]] (born 1979) and filmmaker Sarah Delaney (born 1992), and an adopted son, Cameron Marley (born 1994).<ref name=wife/><ref name=whoare>{{Cite news | url=https://www.today.com/parents/celebrity/jimmy-buffetts-kids-rcna103115 | title=Who are Jimmy Buffett's kids? Meet the famed singer's 3 adult children | first=Joyann | last=Jeffrey | work=[[Today (American TV program)|Today]] | date=September 2, 2023}}</ref> They split in the early 1980s due to their partying lifestyle but reconciled in 1991 after she got sober.<ref name=wife/>
+
+Buffett resided in a waterfront estate in [[Sag Harbor, New York]]. In September 1998, he sold his properties in Key West for $900,000.<ref>{{cite news | url=https://www.tampabay.com/archive/1998/09/27/magazine-magnates-buy-buffett-estate/ | title=Magazine magnates buy Buffett estate
+}}</ref> In 2010, Buffett sold his house in [[Palm Beach, Florida]], to [[Jon Stryker]] for $18.5 million; he had bought the house in 1994 for $4.4 million. At that time, he also owned a 2-unit property in the area, which he purchased in 2002 for $802,000.<ref>{{Cite news | url=https://therealdeal.com/miami/2010/06/04/jimmy-buffett-sells-palm-beach-home-for-18-5-million/ | title=Jimmy Buffett sells Palm Beach home for $18.5 million | work=[[The Real Deal (magazine)|The Real Deal]] | date=June 4, 2010 | url-access=limited}}</ref> In 2013, Buffett purchased another house in Palm Beach, with 3,100 square feet, for $1.3 million.<ref>{{cite news |date=June 27, 2013 |title=Jimmy Buffett Picks up a Third Palm Beach Home for $1.3 Million |url=https://www.roomslosangeles.com/ |url-status=live |archive-url=https://web.archive.org/web/20230107005502/https://www.trulia.com/blog/jimmy-buffett-buys-home/ |archive-date=January 7, 2023 |work=[[Room Los Angeles]]}}</ref> In April 2014, he bought a 4,322 square foot house in [[Beverly Hills, California]] for $8.25 million.<ref>{{Cite news | url=https://archive.curbed.com/2014/6/18/10085988/jimmy-buffett-drops-825m-on-a-pool-partyready-manse | title=Jimmy Buffett Drops $8.25M on a Pool Party-Ready Manse}}</ref> In 2020, Buffett sold a 4,783-square-foot house in Palm Beach for $6.9 million; he paid $4.95 million for it in 2011.<ref>{{Cite news | url=https://therealdeal.com/miami/2020/12/01/selling-paradise-jimmy-buffett-gets-7m-for-palm-beach-home/ | title=Selling paradise: Jimmy Buffett gets $7M for Palm Beach home | first=Jordan | last=Pandy | work=[[The Real Deal (magazine)|The Real Deal]] | date=December 1, 2020 | url-access=limited}}</ref> Buffett also owned a home in [[Saint Barthélemy]], where he lived on and off in the early 1980s. There, Buffett was part owner of the Autour de Rocher hotel and restaurant. It burned down.<ref name=forward/> He also owned an apartment in the [[Deutsche Bank Center]] in New York City.<ref name=Lifestyle/>
+
+Buffett was a devoted [[New Orleans Saints]] fan, having attended the team's first game at [[Tulane Stadium]] in 1967.<ref>{{Cite web |last=Goodman |first=Joseph |date=2023-09-02 |title=Goodman: A tribute to Jimmy Buffett, legendary sports fan |url=https://www.al.com/news/2023/09/goodman-a-tribute-to-jimmy-buffett-legendary-sports-fan.html |access-date=2023-09-04 |website=al |language=en}}</ref> On April 1, 2012, he had Saints head coach [[Sean Payton]] serve as an honorary member of the Coral Reefer Band at a concert in [[New Orleans]] in protest of Payton's suspension by the [[National Football League]] as a result of the [[New Orleans Saints bounty scandal]].<ref>{{cite news | url=https://www.sbnation.com/nfl/2012/4/1/2919321/sean-payton-bongos-jimmy-buffett-concert-photo | title=PHOTO: Sean Payton Plays Bongos During Jimmy Buffett Concert | first=Brian | last=Floyd | work=[[SB Nation]] | date=April 1, 2012}}</ref><ref>{{Cite AV media | url=https://www.youtube.com/watch?v=SK_OyZUxZ_c | title=sean payton saints coach playing bongo's with jimmy buffett april 1st 2012 | via=[[YouTube]]}}</ref>
+
+Buffett was an avid pilot and owned a [[Dassault Falcon 900]] jet that he often used while on concert tours and during his travels. At various points, he also owned a [[Boeing Stearman]], [[Cessna Citation]], [[Lake Amphibian]], [[Pilatus PC-12]], and [[Grumman Albatross]].<ref name=flies>{{cite news | url=https://www.flyingmag.com/musician-and-pilot-jimmy-buffett-flies-west/ | title=Musician and Pilot Jimmy Buffett Flies West | first=Julie | last=Boatman | work=[[Flying (magazine)|Flying]] | date=September 2, 2023}}</ref> While attempting to take off on August 25, 1994, around 3:00&nbsp;p.m. Eastern time, Buffett crashed his [[Grumman G-44 Widgeon]] into the waters off [[Nantucket]], Massachusetts. The airplane nosed over, and Buffett was able to swim to safety, sustaining only minor injuries.<ref>{{Cite news | url=https://www.upi.com/Archives/1994/08/26/Jimmy-Buffett-escapes-plane-crash/1376777873600/ | title=Jimmy Buffett escapes plane crash | work=[[United Press International]] | date=August 26, 1994}}</ref><ref name=flies/>
+
+On February 4, 2001, Buffett was ejected from the American Airlines Arena (now the [[Kaseya Center]]) in Miami during a basketball game between the [[Miami Heat]] and the [[New York Knicks]] for cursing.<ref>{{Cite news |title=Buffett Booted from NBA Game | url=https://abcnews.go.com/US/story?id=94188&page=1 |access-date=July 28, 2021 | work=[[ABC News (United States)|ABC News]] |archive-date=July 28, 2021 |archive-url=https://web.archive.org/web/20210728235639/https://abcnews.go.com/US/story?id=94188&page=1 |url-status=live}}</ref> The referee who ejected Buffett apparently did not know who he was, and got upset at Heat coach [[Pat Riley]] because he thought Riley—who was trying to explain to him who Buffett was—was insulting him by asking if he had ever been a "Parrothead", the nickname for Buffett fans.<ref>{{cite news | url=https://abcnews.go.com/US/story?id=94197 | title=Buffett Booted from NBA Game | work=[[ABC News (United States)|ABC News]] | date=February 4, 2001}}</ref>
+
+On October 6, 2006, Buffett was detained by French customs officials in [[Saint Tropez]] for allegedly carrying over 100 pills of [[Methylenedioxymethamphetamine|ecstasy]]. Buffett's luggage was searched after his [[Dassault Falcon 900]] private jet landed at Toulon-Hyères International Airport. He paid a fine of $300 and was released. A [[spokesperson]] for Buffett stated the pills in question were [[prescription drugs]] but declined to name the drug or the health problem for which he was being treated. Buffett released a statement that the "ecstasy" was in fact a B-vitamin supplement known as [[Foltx]].<ref>{{Cite news | url=https://www.upi.com/Entertainment_News/2006/10/10/Jimmy-Buffett-putting-drug-bust-in-past/69651160509861/ | title=Jimmy Buffett putting drug 'bust' in past | work=[[United Press International]] | date=October 10, 2006}}</ref><ref>{{Cite magazine | url=https://www.rollingstone.com/music/music-news/jimmy-buffett-says-french-authorities-cant-tell-ecstasy-from-vitamins-96313/ | title=Jimmy Buffett Says French Authorities Can't Tell Ecstasy From Vitamins | first=ELIZABETH | last=GOODMAN | magazine=[[Rolling Stone]] | date=October 10, 2006 | url-access=limited}}</ref><ref>{{Cite news | url=https://www.chicagotribune.com/news/ct-xpm-2006-10-07-0610070056-story.html | title=French say Buffett had X; rep claims it was medicine | work=[[Chicago Tribune]] | date=October 7, 2006 | url-access=limited}}</ref>
+
+At a performance by Buffett on January 26, 2011 ([[Australia Day]]) at Sydney's [[Hordern Pavilion]], he fell off the stage after an encore and lost consciousness.<ref name=doingwell/><ref>{{Cite news | url=https://www.mtv.com/news/0uxf46/jimmy-buffett-fall | archive-url=https://web.archive.org/web/20230903150629/https://www.mtv.com/news/0uxf46/jimmy-buffett-fall | url-status=dead | archive-date=September 3, 2023 | title=Jimmy Buffett 'Doing Well' After Sydney Concert Fall | work=[[MTV News]] | date=January 26, 2011}}</ref> Coincidentally, [[Gordian Fulde]], a trauma surgeon, was at the concert and close to the stage; Fulde treated Buffett at the scene.<ref name=doingwell>{{cite news | url=https://www.abc.net.au/news/2011-01-27/jimmy-buffett-doing-well-after-stage-fall/1919738 | title=Jimmy Buffett doing well after stage fall | work=[[ABC News Online]] | date=January 26, 2011}}</ref><ref>{{cite news | url=https://www.al.com/entertainment-press-register/2011/01/jimmy_buffett_fall_doctor_was.html | title=Jimmy Buffett fall: Doctor was in front row at Australian show | first=Lawrence | last=Specker | work=[[The Birmingham News]] | date=January 27, 2011}}</ref><ref>{{Cite news | url=https://radaronline.com/exclusives/2011/01/exclusive-interview-jimmy-buffett-was-not-breathing-after-fall-says-doctor/ | title=EXCLUSIVE INTERVIEW: Jimmy Buffett Was Not Breathing After Fall -- Says Doctor | work=[[Radar Online]] | date=January 27, 2011}}</ref><ref>{{Cite news | url=https://www.dailytelegraph.com.au/singer-jimmy-buffett-falls-off-the-stage-in-sydney-taken-to-hospital/news-story/e6c1ce1235cd6b09185e9242f569521f | title=How I helped save folk rock legend Jimmy Buffett | first=Gordian | last=Fulde | authorlink=Gordian Fulde | work=[[The Daily Telegraph (Sydney)|The Daily Telegraph]] | date=January 28, 2011}}</ref> Buffett regained consciousness within a few minutes, and was then transported to St. Vincent's Hospital Emergency Centre for treatment and was discharged the next day.<ref name=doingwell/> Buffett returned to Australia in 2012 for two shows in Brisbane and Melbourne, and made fun of the incident during those shows.<ref>{{Cite news | url=https://www.perthnow.com.au/entertainment/confidential/margaritaville-singer-jimmy-buffett-returns-to-play-in-australia-after-sydney-stage-fall-declaring-i-wasnt-drunk-ng-6d14a64ce326f7dbd867390854f6b7a1 | title=Margaritaville singer Jimmy Buffett returns to play in Australia after Sydney stage fall declaring 'I wasn't drunk' | first=James | last=Wigney | work=[[The Sunday Times (Western Australia)|The Sunday Times]] | date=August 30, 2012}}</ref>
+
+By 2017, Buffett's diet did not include sugar or [[carbohydrate]]s, except on Sundays, and he no longer smoked [[marijuana]].<ref name=Lifestyle/>
+
+[[File:President Bill Clinton greets musician Jimmy Buffett in the Outer Oval Office area.jpg|thumb|left|Buffett with US President [[Bill Clinton]] in 1993]]
+Buffett was a supporter of the [[Democratic Party (United States)|Democratic Party]]. He sang in Florida for the [[Bill Clinton 1992 presidential campaign]] and again for [[Bill Clinton]] in the [[White House]] in August 2000.<ref>{{Cite news | url=https://www.cnn.com/2000/ALLPOLITICS/stories/08/25/clinton.buffett/index.html | title=Jimmy Buffett sings for Clinton | work=[[CNN]] | date=August 25, 2000}}</ref> Buffett hosted fundraisers for Democratic politicians, including one for Obama in 2008, several for [[Hillary Clinton]] in 2016.<ref>{{Cite news |title=Jimmy Buffett and Paul McCartney join Hillary Clinton for star-studded fundraiser | url=https://www.chicagotribune.com/entertainment/ct-jimmy-buffett-jon-bon-jovi-and-paul-mccartney-join-clinton-for-star-studded-fundraiser-20160831-story.html |work=[[Chicago Tribune]] |date=August 31, 2016 | url-access=limited | archive-url=https://web.archive.org/web/20210706121655/https://www.chicagotribune.com/entertainment/ct-jimmy-buffett-jon-bon-jovi-and-paul-mccartney-join-clinton-for-star-studded-fundraiser-20160831-story.html | archive-date=July 6, 2021 |url-status=live}}</ref> In 2018, Buffett hosted a concert to support [[Gwen Graham]], daughter of [[Bob Graham]], in the Democratic primary of the [[2018 Florida gubernatorial election]].<ref name=influence/> In November 2018, he hosted a rally for Florida Democratic candidates [[Andrew Gillum]] and [[Bill Nelson]] in [[West Palm Beach, Florida]], changing the lyrics of some of his songs to disparage the policies of [[Rick Scott]] and [[Donald Trump]]. The rally faced some backlash from conservative fans.<ref>{{Cite news | url=https://www.spin.com/2018/11/jimmy-buffett-andrew-gillum-rally-fan-reaction/ | title=Jimmy Buffett Ruffles Parrothead Feathers by Playing Rally For Florida Democrats | first=Maggie | last=Serota | work=[[Spin (magazine)|Spin]] | date=November 5, 2018}}</ref><ref>{{Cite magazine | url=https://www.billboard.com/music/rock/jimmy-buffett-takes-digs-republicans-donald-trump-florida-democratic-rally-8483085/ | title=Jimmy Buffett Takes Digs at Republicans During Florida Democratic Rally | magazine=[[Billboard (magazine)|Billboard]] | date=November 4, 2018}}</ref>
+
+Buffett was raised Catholic, although he did not practice the religion later in life.<ref name=Catholic>{{Cite news | url=https://www.catholicnewsagency.com/news/255284/jimmy-buffett-more-catholic-than-you-think | title=Jimmy Buffett: more Catholic than you think?}}</ref>
+
+===Illness and death===
+In May 2023, Buffett was hospitalized to "address some issues that needed immediate attention" and rescheduled tour dates.<ref>{{Cite news |last=Worley |first=Debra |date=May 19, 2023 |title=Jimmy Buffett reschedules concert for health issues that needed 'immediate attention' |work=[[WCSC-TV]] |url=https://www.live5news.com/2023/05/19/jimmy-buffett-reschedules-concert-health-issues-that-needed-immediate-attention/}}</ref> In late August, he entered [[hospice]] care<ref>{{Cite news | url=https://wchoam.iheart.com/content/2023-09-02-jimmy-buffetts-cause-of-death-revealed-to-be-fatal-disease/ | title=Jimmy Buffett's Cause Of Death Revealed | first=Sherah Janay | last=Ndjongo | work=[[iHeartMedia]] | date=September 2, 2023}}</ref> and had a final meeting with family and friends.<ref>{{Cite news |last=Dukes |first=Billy | work=[[Taste of Country]] | date=September 6, 2023 |title=Jimmy Buffett's Last Words Let Family Know the Party Wasn't Over | url=https://tasteofcountry.com/jimmy-buffett-last-words-sister-lulu/}}</ref>
+
+Buffett died on September 1, 2023, at age 76, at his home in [[Sag Harbor, New York]], due to complications from [[Merkel-cell carcinoma]], a rare and aggressive [[skin cancer]], with which he had been diagnosed four years earlier. Prior to his death, Buffett had kept his illness private and continued to tour while undergoing treatment.<ref name=mayor/><ref name=bbobit/>
+
+Various celebrities, politicians and musicians paid tribute to Buffett, including [[Paul McCartney]], [[Sheryl Crow]], [[Elton John]], [[Snoop Dogg]], [[Al Roker]], [[Andy Cohen]], [[Joe Biden]], [[Toby Keith]], [[Blake Shelton]], [[Pitbull (rapper)|Pitbull]], [[Drew Brees]], and [[Michael Douglas]].{{citation needed|date=June 2024}}
+
+==Honors==
+In 2015, Buffett spoke at the [[University of Miami]]'s graduation ceremony and received an honorary doctorate in music. Wearing aviator sunglasses, he told graduates, from a line in his song "The Pascagoula Run", that "it's time to see the world, time to kiss a girl, and time to cross the wild meridian."<ref>{{Cite AV media |title=Jimmy Buffett offers advice in 2015 University of Miami graduation speech |url=https://www.youtube.com/watch?v=ah31bk9UAHo| archive-url=https://ghostarchive.org/varchive/youtube/20211030/ah31bk9UAHo | archive-date=October 30, 2021 |date=May 8, 2015 | url-status=live}}{{cbignore}}</ref> Also in 2015, Buffett's hometown of [[Pascagoula, Mississippi]] named a bridge after him in his honor, Buffett Bridge.<ref>{{cite news | url=https://www.wlox.com/story/30015893/pascagoula-dedicates-bridge-to-jimmy-buffett-declares-jimmy-buffett-day/ | title=Pascagoula dedicates bridge to Jimmy Buffett; declares 'Jimmy Buffett Day' | work=[[WLOX]] | date=September 12, 2015}}</ref>
+
+A species of [[crustacean]] discovered in 2023, ''[[Gnathia jimmybuffetti]]'', was named after Buffett.<ref>{{Cite news | url=https://independenttribune.com/newly-found-sea-creature-named-for-music-legend-buffett/article_2a557c3b-78d5-51cc-bf80-7a4bc4ad35e5.html |title=Newly found sea creature named for music legend Buffett |first=HOWARD |last=COHEN | date=August 9, 2023 | work=[[Independent Tribune]] | archive-url=https://web.archive.org/web/20230816145514/https://independenttribune.com/newly-found-sea-creature-named-for-music-legend-buffett/article_2a557c3b-78d5-51cc-bf80-7a4bc4ad35e5.html |archive-date=August 16, 2023 |url-status=live}}</ref>
+
+In 2024, the Florida legislature declared August 30 '''Jimmy Buffett Day''', renamed [[State Road A1A]] as the '''Jimmy Buffett Memorial Highway''', and issued a commemorative Florida and Margaritaville-themed license plate, to benefit Buffett's charity SFC Charitable Foundation Inc., also known as Singing for Change.<ref>{{cite web | url=https://www.palmbeachpost.com/story/news/local/2024/09/03/florida-renames-state-road-a1a-to-jimmy-buffett-memorial-highway/75063273007/ | title=Florida unveils sign, dedicates State Road A1A for singer-songwriter Jimmy Buffett }}</ref>
+
+==Discography==
+{{main|Jimmy Buffett discography}}
+{{div col|colwidth=30em}}
+* ''[[Down to Earth (Jimmy Buffett album)|Down to Earth]]'' (1970)
+* ''[[High Cumberland Jubilee]]'' (1971)
+* ''[[A White Sport Coat and a Pink Crustacean]]'' (1973)
+* ''[[Living and Dying in 3/4 Time]]'' (1974)
+* ''[[A1A (album)|A1A]]'' (1974)
+* ''[[Havana Daydreamin']]'' (1976)
+* ''[[Changes in Latitudes, Changes in Attitudes]]'' (1977)
+* ''[[Son of a Son of a Sailor]]'' (1978)
+* ''[[Volcano (Jimmy Buffett album)|Volcano]]'' (1979)
+* ''[[Coconut Telegraph]]'' (1981)
+* ''[[Somewhere over China]]'' (1982)
+* ''[[One Particular Harbour]]'' (1983)
+* ''[[Riddles in the Sand]]'' (1984)
+* ''[[Last Mango in Paris]]'' (1985)
+* ''[[Floridays]]'' (1986)
+* ''[[Hot Water (Jimmy Buffett album)|Hot Water]]'' (1988)
+* ''[[Off to See the Lizard]]'' (1989)
+* ''[[Fruitcakes (album)|Fruitcakes]]'' (1994)
+* ''[[Barometer Soup]]'' (1995)
+* ''[[Banana Wind]]'' (1996)
+* ''[[Christmas Island (Jimmy Buffett album)|Christmas Island]]'' (1996)
+* ''[[Don't Stop the Carnival (Jimmy Buffett album)|Don't Stop the Carnival]]'' (1998)
+* ''[[Beach House on the Moon]]'' (1999)
+* ''[[Far Side of the World (album)|Far Side of the World]]'' (2002)
+* ''[[License to Chill]]'' (2004)
+* ''[[Take the Weather with You]]'' (2006)
+* ''[[Buffet Hotel]]'' (2009)
+* ''[[Songs from St. Somewhere]]'' (2013)
+* ''[['Tis the SeaSon]]'' (2016)
+* ''[[Life on the Flip Side]]'' (2020)
+* ''[[Songs You Don't Know by Heart]]'' (2020)
+* ''[[Equal Strain on All Parts]]'' (2023)
+{{div col end}}
+
+== Filmography ==
+{{More citations needed section|date=September 2023}}
+{| class="wikitable plainrwheaders"
+|+ Film
+! Year
+! Title
+! Role
+! Notes
+|-
+| 1973
+| ''Introducing Jimmy Buffett''<ref>{{cite book | first=Ryan | last=White | title=Jimmy Buffett: A Good Life All the Way | url=https://books.google.com/books?id=mDaMDAAAQBAJ&pg=PA346 |date=May 9, 2017 | publisher=[[Atria Publishing Group]] |isbn=978-1-5011-3257-5 |page=346}}</ref>
+| Himself
+| documentary short
+|-
+| 1973
+| ''Tarpon''<ref>{{cite magazine|url=https://www.newyorker.com/culture/postscript/a-sunset-toast-to-jimmy-buffett|title=A Sunset Toast to Jimmy Buffett|last=Paumgarten|first=Nick|magazine=[[The New Yorker]]|date=September 5, 2023|access-date=September 8, 2023}}</ref>
+| Unknown role
+| documentary
+|-
+| 1975
+| ''[[Rancho Deluxe]]''
+| Himself
+| also composer
+|-
+| 1978
+| ''[[FM (film)|FM]]''
+| Himself
+| 
+|-
+| 1984
+| ''[[Repo Man (film)|Repo Man]]''
+| Additional Blonde Agent
+|
+|-
+| 1986
+| ''[[Live by the Bay]]''
+| Himself
+| concert film; also executive producer
+|-
+| 1986
+| ''Doctor Duck's Secret All-Purpose Sauce''
+| Himself
+| direct-to-video
+|-
+| 1991
+| ''[[Hook (film)|Hook]]''
+| Shoe-Stealing Pirate
+| cameo
+|-
+| 1994
+| ''[[Cobb (film)|Cobb]]''
+| The Armless Guy
+|
+|-
+| 1995
+| ''[[Congo (film)|Congo]]''
+| 727 Pilot
+| 
+|-
+| 1998
+| ''Hemingway: Take Nothing''
+| Himself
+| direct-to-video; documentary
+|-
+| 1999
+| ''Music Bridges Over Troubled Water''
+| Himself
+| documentary
+|-
+| 2000
+| ''Tales from MargaritaVision''
+| Himself
+| direct-to-video; also executive producer
+|-
+| 2004
+| ''Bridge to Havana''
+| Himself
+| documentary
+|-
+| 2005
+| ''[[The Aristocrats (film)|The Aristocrats]]''
+| Himself
+| documentary
+|-
+| 2006
+| ''[[Hoot (film)|Hoot]]''
+| Mr. Ryan
+| also producer and composer
+|-
+| 2006
+|''[[Sun Dogs (2006 film)|Sun Dogs]]''
+|
+| documentary; producer
+|-
+| 2007
+| ''Live in Anguilla''
+| Himself
+| direct-to-video; concert film, also producer
+|-
+| 2008
+| ''[[Gonzo: The Life and Work of Dr. Hunter S. Thompson]]''
+| Himself
+| documentary
+|-
+| 2009
+| ''Scenes You Know by Heart''
+| Himself
+| direct-to-video; concert film, also producer
+|-
+| 2012
+| ''Basically Frightened: The Musical Madness of Colonel Bruce Hampton''
+| Himself
+| documentary
+|-
+| 2012
+| ''OnePeople: The Celebration''
+| Himself
+| documentary
+|-
+| 2015
+| ''[[Jurassic World]]''
+| Running Park Visitor with Margarita Drinks (Himself)
+| uncredited
+|-
+| 2017
+| ''Parrot Heads''
+| Himself
+| documentary
+|-
+| 2018
+| ''Up the Stairs''
+| Principal Anderson
+| short film
+|-
+| 2018
+| ''[[Billionaire Boys Club (2018 film)|Billionaire Boys Club]]''
+| Police Captain
+| 
+|-
+| 2018
+| ''The Wall's Embrace''<ref>{{cite web|url=https://www.kcet.org/shows/the-walls-embrace|title=The Wall's Embrace|website=KCET|access-date=September 8, 2023}}</ref>
+| Himself
+| documentary short
+|-
+| 2019
+| ''[[The Beach Bum]]''<ref>{{cite web|url=https://variety.com/2019/film/news/beach-bum-matthew-mcconaughey-jimmy-buffett-inspiration-1203175764/amp/|title=Matthew Mcconaughey's 'The Beach Bum' Was Inspired by Two Jimmy Buffett Songs|last=Moreau|first=Jordan|work=[[Variety (magazine)|Variety]]|date=March 29, 2019|access-date=September 8, 2023}}</ref>
+| Himself
+|
+|-
+| 2020
+| ''Jimmy Carter: Rock & Roll President''
+| Himself<ref>{{cite web |url=https://www.kiro7.com/news/trending/jimmy-carter-documentary-open-2020-tribeca-film-festival/75AS3SGWDNA27LZORBLS2XGNRM/ | title=Jimmy Carter documentary to open 2020 Tribeca Film Festival | work=[[KIRO-TV]] | date=February 20, 2020 | archive-url=https://web.archive.org/web/20200223080442/https://www.kiro7.com/news/trending/jimmy-carter-documentary-open-2020-tribeca-film-festival/75AS3SGWDNA27LZORBLS2XGNRM/ |archive-date=February 23, 2020 |url-status=live}}</ref>
+| documentary
+|-
+| 2021
+| ''[[Under the Volcano (2021 film)|Under the Volcano]]''
+| Himself
+| music documentary
+|}
+
+{| class="wikitable plainrwheaders"
+|+ Television
+! Year
+! Title
+! Role
+! Notes
+|-
+| 1974
+| ''[[Your Hit Parade]]''
+| Himself
+| one episode
+|-
+| 1978
+| ''[[Saturday Night Live]]''
+| Himself
+| one episode
+|-
+| 1981–92
+| ''[[The Tonight Show Starring Johnny Carson]]''
+| Himself
+| eight episodes
+|-
+| 1981
+| ''[[Fridays (TV series)|Fridays]]''
+| Himself
+| one episode
+|-
+| 1982
+| ''I Love Liberty''
+| Himself
+| TV special
+|-
+| 1982
+| ''[[Second City Television|SCTV Network]]''
+| Himself
+| one episode
+|-
+| 1977–84
+| ''[[Austin City Limits]]''
+| Himself
+| two episodes<ref>{{cite news | url=https://www.statesman.com/story/entertainment/music/2023/09/02/jimmy-buffett-has-died-how-austin-fits-into-his-margaritaville-anderson-lane-mexican-restaurant/70749956007/ | title=How Austin is part of the legend of Jimmy Buffett and Margaritaville | first=Sharon | last=Chapman | work=[[Austin American-Statesman]] | date=September 2, 2023}}</ref>
+|-
+| 1983–85
+| ''[[Late Night with David Letterman]]''
+| Himself
+| two episodes
+|-
+| 1984
+| ''[[Nashville Now]]''
+| Himself
+| one episode
+|-
+| 1987
+| ''Cinemax Sessions''
+| Himself
+| one episode
+|-
+| 1988
+| ''Breaking All the Rules''
+|
+| TV film; composer
+|-
+| 1989–2020
+| ''[[Today (American TV program)|Today]]''
+| Himself
+| eight episodes
+|-
+| 1991
+| ''[[Voices That Care]]''
+| Himself
+| TV special
+|-
+| 1992
+| ''New Orleans Live!''
+| Himself
+| TV concert special
+|-
+| 1992
+| ''Hurricane Relief''
+| Himself
+| TV concert special
+|-
+| 1993
+|''[[Johnny Bago]]''
+|
+| eight episodes; theme music composer
+|-
+| 1994–2008
+| ''[[Late Show with David Letterman]]''
+| Himself
+| five episodes
+|-
+| 1995–2003
+| ''[[The Tonight Show with Jay Leno]]''
+| Himself
+| six episodes
+|-
+| 1997
+| ''[[Music for Montserrat]]''
+| Himself
+| TV concert special
+|-
+| 1998–2005
+| ''[[Late Night with Conan O'Brien]]''
+| Himself
+| two episodes
+|-
+| 1998
+| ''[[Elmopalooza]]''
+| Himself
+| TV special<ref>{{cite web | url=https://variety.com/1998/tv/reviews/elmopalooza-1200452885/ | title=Elmopalooza! | last=Scott | first=Tony | work=[[Variety (magazine)|Variety]] |date=February 18, 1998 |archive-url=https://web.archive.org/web/20181216210801/https://variety.com/1998/tv/reviews/elmopalooza-1200452885/ |archive-date=December 16, 2018 | url-status=live}}</ref>
+|-
+| 1998
+| ''[[Brian Wilson]]'s Imagination''
+| Himself
+| TV documentary
+|-
+| 1998
+| ''[[From the Earth to the Moon (miniseries)|From the Earth to the Moon]]''
+| First Journalist
+| one episode
+|-
+| 1998
+| ''Time & Again''
+| Himself
+| one episode
+|-
+| 2002
+| ''Closeups''
+| Himself
+| one episode
+|-
+| 2004–06
+| ''[[60 Minutes]]''
+| Himself
+| two episodes
+|-
+| 2004–08
+| ''[[Live! with Regis and Kelly]]''
+| Himself
+| three episodes
+|-
+| 2005–13
+| ''[[The Ellen DeGeneres Show]]''
+| Himself
+| two episodes
+|-
+| 2008
+| ''Cubs Forever: Celebrating 60 Years of WGN-TV and the Chicago Cubs''
+| Himself
+| TV special
+|-
+| 2009
+| ''[[Late Night with Jimmy Fallon]]''
+| Himself
+| one episode
+|-
+| 2010
+| ''[[CMT Crossroads]]''
+| Himself
+| one episode
+|-
+| 2010
+| ''Bridge School News''
+| Himself
+| one episode
+|-
+| 2010
+| ''Jimmy Buffett & Friends: Live from the Gulf Coast''
+| Himself
+| TV concert special
+|-
+| 2010
+| ''CMT Insider''
+| Himself
+| two episodes
+|-
+| 2010
+| ''The Gulf Is Back''
+| Himself
+| TV concert special
+|-
+| 2011–20
+| ''[[Hawaii Five-0 (2010 TV series)|Hawaii Five-0]]''
+| Frank Bama
+| recurring guest star; seven episodes
+|-
+| 2013
+| ''Boston Strong: An Evening of Support and Celebration''
+| Himself
+| TV concert special
+|-
+| 2013
+| ''Kokua for the Philippines''
+| Himself
+| TV concert special
+|-
+| 2014–22
+| ''[[The Tonight Show Starring Jimmy Fallon]]''
+| Himself
+| three episodes
+|-
+| 2017
+| ''[[NCIS: New Orleans]]''
+| Himself
+| one episode
+|-
+| 2017
+| ''[[Magnificent Mile Lights Festival]]''
+| Himself
+| TV special
+|-
+| 2018
+| ''[[CBS News Sunday Morning]]''
+| Himself
+| one episode
+|-
+| 2018
+| ''[[The View (talk show)|The View]]''
+| Himself
+| one episode
+|-
+| 2018
+| ''[[Megyn Kelly Today]]''
+| Himself
+| one episode
+|-
+| 2018
+| ''[[Watch What Happens Live with Andy Cohen]]''
+| Himself
+| one episode
+|-
+| 2018
+| ''Buried Treasure''
+| Himself
+| TV film
+|-
+| 2019
+| ''[[The Late Late Show with James Corden]]''
+| Himself
+| one episode
+|-
+| 2019
+| ''[[Wheel of Fortune (American game show)|Wheel of Fortune]]''
+| Himself
+| two episodes
+|-
+| 2020
+| ''[[Celebrity Page]]''
+| Himself
+| one episode
+|-
+| 2020
+| ''Willie Nelson: American Outlaw''
+| Himself
+| TV special
+|-
+| 2022
+| ''[[Blue Bloods (TV series)|Blue Bloods]]''
+| Dickie Delaney<br />Himself
+| one episode
+|-
+| 2024
+| ''[[Life & Beth]]''
+| Street Busker
+| one episode
+|}
+
+== Tours ==
+{{div col|colwidth=30em}}
+* A Pink Crustacean Tour (1976)<ref>{{cite web|url=https://buffettworld.com/archives/1976-pink-crustacean/|title=1976 Pink Crustacean Tour Dates|website=BuffettWorld|access-date=September 5, 2023}}</ref>
+* [[Changes in Latitudes, Changes in Attitudes#Tour|Changes in Latitudes, Changes in Attitudes Tour]] (1977)<ref>{{cite web|url=http://www.buffettworld.com/archives/1977-changes-in-latitudes-changes-in-attitudes/|title=1977 Changes in Latitudes, Changes in Attitudes Tour Dates|website=BuffettWorld|access-date=September 5, 2023}}</ref>
+* [[Cheeseburger in Paradise (song)#Tour|Cheeseburger in Paradise Tour]] (1978)<ref>{{cite web|url=https://buffettworld.com/archives/1978-cheeseburger-in-paradise/|title=1978 Cheeseburger in Paradise Tour Dates|website=BuffettWorld|access-date=September 5, 2023}}</ref>
+* [[You Had to Be There#Tour|You Had to Be There Tour]] / [[Volcano (Jimmy Buffett album)#Tour|Volcano Tour]] (1979)<ref>{{cite web|url=https://buffettworld.com/archives/1979-volcano-tour/|title=1979 You Had to be There/Volcano Tour Dates|website=BuffettWorld|access-date=September 5, 2023}}</ref>
+* A Hot Dog & A Road Map Tour (1980)<ref>{{cite web|url=https://buffettworld.com/archives/1980-hot-dog-and-roadmap/|title=1980 Volcano Tour '80/Hot Dog & Roadmap Tour Dates|website=BuffettWorld|access-date=September 5, 2023}}</ref>
+* Coconut Telegraph Tour (1981)<ref>{{cite web|url=https://buffettworld.com/archives/1981-coconut-telegraph/|title=1981 Party Time '81/Coconut Telegraph Tour Dates|website=BuffettWorld|access-date=September 5, 2023}}</ref>
+* Somewhere over China Tour (with broken leg) (1982)<ref name="tour1982">{{cite web|url=https://buffettworld.com/archives/1982-homecoming/|title=1982 Somewhere Over China/Homecoming Tour Dates|website=BuffettWorld|access-date=September 5, 2023}}</ref>
+* Homecoming Tour (1982)<ref name="tour1982" />
+* The Six-Stop American Tour (1983)<ref>{{cite web|url=https://buffettworld.com/archives/1983-six-stop-american/|title=1983 Six-Stop American Tour Dates|website=BuffettWorld|access-date=September 5, 2023}}</ref>
+* Feeding Frenzy Tour (1984)<ref>{{cite web|url=https://www.ticketnews.com/2009/02/jimmy-buffett-tour-starts-the-season-early-with-summerzcool/|title=Jimmy Buffett tour starts the season early with Summerzcool|last=Reitz|first=Allison|website=TicketNews|date=February 3, 2009|access-date=September 5, 2023}}</ref>
+* Last Mango in Paris Tour (1985)<ref>{{cite encyclopedia|editor-last=Malone|editor-first=Bill C.|encyclopedia=The New Encyclopedia of Southern Culture|title=Buffett, Jimmy|url=https://books.google.com/books?id=AOynAgAAQBAJ&dq=%22Last+Mango+in+Paris+tour%22&pg=PA192|access-date=September 5, 2023|date=2014|publisher=UNC Press Books|volume=12|isbn=9781469616667|page=192}}</ref>
+* [[Floridays#Tour|Floridays Tour]] / World Tour of Florida (1986)<ref>{{cite web|url=https://buffettworld.com/archives/1986-floridays/|title=1986 Floridays Tour Dates|website=BuffettWorld|access-date=September 5, 2023}}</ref>
+* A Parrot Looks at Forty Tour (1987)<ref>{{cite web|url=https://buffettworld.com/archives/1987-a-pirate-looks-at-forty/|title=1987 A Pirate Looks at Forty Tour|website=BuffettWorld|access-date=September 5, 2023}}</ref>
+* Cheap Vacation Tour / [[Hot Water (Jimmy Buffett album)#Tour|Hot Water Tour]] (1988)<ref>{{cite web|url=https://buffettworld.com/archives/1988-hot-water/|title=1988 Hot Water Tour Dates|website=BuffettWorld|access-date=September 5, 2023}}</ref>
+* [[Off to See the Lizard#Tour|Off to See the Lizard Tour]] / Buffett Does Ballads Tour (1989)<ref>{{cite web|url=https://buffettworld.com/archives/1989-off-to-see-the-lizard/|title=1989 Off to See the Lizard Tour Dates|website=BuffettWorld|access-date=September 5, 2023}}</ref>
+* Jimmy's Jump Up Tour (1990)<ref>{{cite web|url=http://www.buffettworld.com/archives/1990-jimmys-jump-up/|title=1990 Jimmy's Jump Up! Tour Dates|website=BuffettWorld|access-date=September 5, 2023}}</ref>
+* Outpost Tour (1991)<ref>{{cite web|url=https://buffettworld.com/archives/1991-outposts/|title=1991 Outpost Tour Dates|website=BuffettWorld|access-date=September 5, 2023}}</ref>
+* Recession Recess Tour (1992)<ref>{{cite web|url=https://buffettworld.com/archives/1992-recession-recess/|title=1992 Recession Recess Tour Dates|website=BuffettWorld|access-date=September 5, 2023}}</ref>
+* Chameleon Caravan Tour (1993)<ref>{{cite web|url=https://buffettworld.com/archives/1993-chameleon-caravan/|title=1993 Chameleon Caravan Tour Dates|website=BuffettWorld|access-date=September 5, 2023}}</ref>
+* Fruitcakes Tour (1994)<ref>{{cite web|url=https://buffettworld.com/archives/1994-fruitcakes/|title=1994 Fruitcakes on Tour Dates|website=BuffettWorld|access-date=September 5, 2023}}</ref>
+* Domino College Tour (1995)<ref>{{cite web|url=https://buffettworld.com/archives/1995-domino-college/|title=1995 Domino College Tour Dates|website=BuffettWorld|access-date=September 5, 2023}}</ref>
+* Banana Wind Tour (1996)<ref>{{cite web|url=https://buffettworld.com/archives/1996-banana-wind/|title=1996 Banana Wind Tour Dates|website=BuffettWorld|access-date=September 5, 2023}}</ref>
+* Havana Daydreamin' Tour (1997)<ref>{{cite web|url=https://buffettworld.com/archives/1997-havana-daydreamin/|title=1997 Havana Daydreamin' Tour Dates|website=BuffettWorld|access-date=September 5, 2023}}</ref>
+* Don't Stop the Carnival Tour (1998)<ref>{{cite web|url=https://buffettworld.com/archives/1998-dont-stop-the-carnival/|title=1998 Don't Stop the Carnival Tour Dates|website=BuffettWorld|access-date=September 5, 2023}}</ref>
+* Beach House on the Moon Tour (1999)<ref>{{cite web|url=https://buffettworld.com/archives/1999-beach-house-on-the-moon/|title=1999 Beach House on the Moon Tour Dates|website=BuffettWorld|access-date=September 5, 2023}}</ref>
+* Tuesdays, Thursdays, Saturdays Tour (2000)<ref>{{cite web|url=https://buffettworld.com/archives/2000-tuesdays-thursdays-saturdays/|title=2000 Tuesdays, Thursdays, Saturdays Tour Dates|website=BuffettWorld|access-date=September 5, 2023}}</ref>
+* A Beach Odyssey Tour (2001)<ref>{{cite web|url=https://buffettworld.com/archives/2001-a-beach-odyssey/|title=2001: A Beach Odyssey Tour Dates|website=BuffettWorld|access-date=September 5, 2023}}</ref>
+* Far Side of the World Tour (2002)<ref>{{cite web|url=https://buffettworld.com/archives/2002-far-side-of-the-world/|title=2002 Far Side of the World Tour Dates|website=BuffettWorld|access-date=September 5, 2023}}</ref>
+* Tiki Time Tour (2003)<ref>{{cite web|url=https://buffettworld.com/archives/2003-the-tiki-time/|title=2003 Tiki Time Tour Dates|website=BuffettWorld|access-date=September 5, 2023}}</ref>
+* License to Chill Tour (2004)<ref>{{cite web|url=https://buffettworld.com/archives/2004-license-to-chill/|title=2004 License to Chill Tour Dates|website=BuffettWorld|access-date=September 5, 2023}}</ref>
+* A Salty Piece of Land Tour (2005)<ref>{{cite web|url=https://buffettworld.com/archives/2005-a-salty-piece-of-land/|title=2005 A Salty Piece of Land Tour Dates|website=BuffettWorld|access-date=September 5, 2023}}</ref>
+* Party at the End of the World Tour (2006)<ref>{{cite web|url=https://buffettworld.com/archives/2006-party-at-the-end-of-the-world/|title=2006 Party at the End of the World Tour Dates|website=BuffettWorld|access-date=September 5, 2023}}</ref>
+* Bama Breeze Tour (2007)<ref>{{cite web|url=https://buffettworld.com/archives/2007-bama-breeze/|title=2007 Bama Breeze Tour Dates|website=BuffettWorld|access-date=September 5, 2023}}</ref>
+* Year of Still Here Tour (2008)<ref>{{cite web|url=https://buffettworld.com/archives/2008-year-of-still-here/|title=2008 Year of Still Here Tour Dates|website=BuffettWorld|access-date=September 5, 2023}}</ref>
+* Summerzcool Tour (2009)<ref>{{cite web|url=https://buffettworld.com/archives/2009-summerzcool/|title=2009 Summerzcool Tour Dates|website=BuffettWorld|access-date=September 5, 2023}}</ref>
+* Under the Big Top Tour (2010)<ref>{{cite web|url=https://buffettworld.com/archives/2010-under-the-big-top/|title=2010 Under the Big Top Tour Dates|website=BuffettWorld|access-date=September 5, 2023}}</ref>
+* Welcome to Fin Land Tour (2011)<ref>{{cite web|url=https://buffettworld.com/archives/2011-welcome-to-fin-land/|title=2011 Welcome to Fin Land Tour Dates|website=BuffettWorld|access-date=September 5, 2023}}</ref>
+* Lounging at the Lagoon Tour (2012–13)<ref>{{cite web|url=https://buffettworld.com/archives/2012-lounging-at-the-lagoon/|title=2012 Lounging at the Lagoon Tour Dates|website=BuffettWorld|access-date=September 5, 2023}}</ref>
+* Songs from St. Somewhere Tour (2013–14)<ref>{{cite web|url=https://buffettworld.com/archives/2013-songs-from-st-somewhere-tour/|title=2013 Songs From St. Somewhere Tour|website=BuffettWorld|access-date=September 5, 2023}}</ref>
+* This One's for You Tour (2014–15)<ref>{{cite web|url=https://buffettworld.com/archives/2014-this-ones-for-you-tour/|title=2014 This One's For You Tour|website=BuffettWorld|access-date=September 5, 2023}}</ref>
+* Workin' n' Playin' Tour (2015–16)<ref>{{cite web|url=https://buffettworld.com/archives/2015-workin-n-playin-tour/|title=2015 Workin' n' Playin' Tour|website=BuffettWorld|access-date=September 5, 2023}}</ref>
+* I Don't Know Tour (2016–18)<ref>{{cite web|url=https://buffettworld.com/archives/2016-i-dont-know-tour/|title=2016 I Don't Know Tour|website=BuffettWorld|access-date=September 5, 2023}}</ref><ref>{{cite web|url=https://buffettworld.com/archives/2017-i-dont-know-tour/|title=2017 I Don't Know Tour|website=BuffettWorld|access-date=September 5, 2023}}</ref>
+* Son of a Son of a Sailor Tour (2018–19)<ref>{{cite web|url=https://buffettworld.com/archives/2018-son-of-a-son-of-a-sailor-tour/|title=2018 Son of a Son of a Sailor Tour|website=BuffettWorld|access-date=September 5, 2023}}</ref><ref>{{cite web|url=https://buffettworld.com/archives/2019-son-of-a-son-of-a-sailor-tour/|title=2019 Son of a Son of a Sailor Tour|website=BuffettWorld|access-date=September 5, 2023}}</ref>
+* Life on the Flip Side Tour (2021–22)<ref>{{cite web|url=https://buffettworld.com/archives/2021-life-on-the-flip-side-tour/|title=2021 Life on the Flip Side Tour Dates|website=BuffettWorld|access-date=September 5, 2023}}</ref><ref>{{cite web|url=https://buffettworld.com/archives/2022-life-on-the-flip-side-tour/|title=2022 Life on the Flip Side Tour|website=BuffettWorld|access-date=September 5, 2023}}</ref>
+* Second Wind Tour (2023)<ref>{{cite web|url=https://buffettworld.com/archives/2023-second-wind-tour/|title=2023 Second Wind Tour|website=BuffettWorld|access-date=September 5, 2023}}</ref>
+{{div col end}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{wikiquote}}
+{{Commons category|Jimmy Buffett}}
+* {{Official website|http://margaritaville.com/}}
+* [https://www.jimmybuffett.com/ https://www.jimmybuffett.com/]
+* {{AllMusic|class=artist|id=mn0000350840}}
+* {{Discogs artist|Jimmy Buffett}}
+* {{IMDb name|0119364}}
+* [https://encyclopediaofalabama.org/article/jimmy-buffett/ "Jimmy Buffett"] entry at the ''[[Encyclopedia of Alabama]]''
+
+{{Jimmy Buffett|state=expanded}}
+{{2024 Rock and Roll Hall of Fame}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Buffett, Jimmy}}
+[[Category:1946 births]]
+[[Category:2023 deaths]]
+[[Category:20th-century American male writers]]
+[[Category:20th-century American novelists]]
+[[Category:21st-century American male writers]]
+[[Category:21st-century American non-fiction writers]]
+[[Category:21st-century American novelists]]
+[[Category:ABC Records artists]]
+[[Category:American autobiographers]]
+[[Category:American aviators]]
+[[Category:American billionaires]]
+[[Category:American brewers]]
+[[Category:American children's writers]]
+[[Category:American country rock singers]]
+[[Category:American country singer-songwriters]]
+[[Category:American entertainment industry businesspeople]]
+[[Category:American film score composers]]
+[[Category:American folk rock musicians]]
+[[Category:American male non-fiction writers]]
+[[Category:American male novelists]]
+[[Category:American male pop singers]]
+[[Category:American male short story writers]]
+[[Category:American rock musicians]]
+[[Category:American rock singers]]
+[[Category:American trombonists]]
+[[Category:Coral Reefer Band members]]
+[[Category:Deaths from cancer in New York (state)]]
+[[Category:Deaths from Merkel-cell carcinoma]]
+[[Category:Dunhill Records artists]]
+[[Category:American easy listening musicians]]
+[[Category:Gulf and Western musicians]]
+[[Category:Jimmy Buffett| ]]
+[[Category:Musicians from Mobile, Alabama]]
+[[Category:Novelists from Alabama]]
+[[Category:Novelists from Mississippi]]
+[[Category:Pearl River Community College alumni]]
+[[Category:People from Fairhope, Alabama]]
+[[Category:People from Key West, Florida]]
+[[Category:People from Mobile, Alabama]]
+[[Category:People from Pascagoula, Mississippi]]
+[[Category:Singer-songwriters from Alabama]]
+[[Category:Singer-songwriters from Mississippi]]
+[[Category:University of Southern Mississippi alumni]]
+[[Category:Varèse Sarabande Records artists]]

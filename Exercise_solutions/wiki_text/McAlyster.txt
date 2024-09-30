@@ -1,0 +1,50 @@
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = McAlyster
+| image                 = 
+| caption            = 
+| image_size            = 
+| background          = group_or_band
+| origin              = [[Pensacola, Florida]], United States
+| genre               = [[Country music|Country]]
+| years_active        = 2000
+| label               = [[MCA Nashville]]
+| associated_acts     = [[Lonestar]]
+| past_members        = Cody Collins<br />Valerie Gills<br />Leigh Usilton<br />Josh Walther
+}}
+'''McAlyster''' was an American [[country music]] group founded in [[Pensacola, Florida]]. Its members comprised Cody Collins, Josh Walther, Leigh Usilton and Valerie Gills. They were signed to [[MCA Nashville Records]] in 2000. Their debut single, "I Know How the River Feels", was previously a No.&nbsp;32 country single in 1999 for [[Diamond Rio]], and was originally recorded by [[Ty Herndon]] on his 1996 album ''[[Living in a Moment]]''.<ref>{{cite web |url=http://www.cmt.com/news/news-in-brief/1477884/mca-to-release-demo-as-single.jhtml |archive-url=https://web.archive.org/web/20110606195135/http://www.cmt.com/news/news-in-brief/1477884/mca-to-release-demo-as-single.jhtml |url-status=dead |archive-date=June 6, 2011 |title=MCA to Release Demo as Single |accessdate=2008-10-19 |date=2000-08-24 |work=[[Country Music Television|CMT]]}}</ref> McAlyster's demo rendition was released as a single, peaking at No.&nbsp;69 on the country charts.<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=261|isbn=978-0-89820-177-2}}</ref> ''Billboard'' gave their version a mixed review, praising the harmonies but questioning its appeal to the country format.<ref>{{cite magazine|date=18 November 2000|title=Single reviews: Country|magazine=Billboard|page=29|url=https://books.google.com/books?id=0BAEAAAAMBAJ&q=%22mcalyster%22+%22how+the+river%22&pg=PA29}}</ref> McAlyster released no other material and broke up after this single.
+
+In 2007, former member Cody Collins succeeded [[Richie McDonald]] as lead singer of the group [[Lonestar]] for one album, ''[[Party Heard Around the World]]'', while Walther began a solo career leading the [[Tampa]]-based [[cover band]] Phase 5 which shared the stage with [[Paul McCartney]] at an event for McCartney's stepson in 2015.<ref>{{cite web |url=http://wcbsfm.cbslocal.com/2015/05/11/paul-mccartney-josh-walther-and-the-phase5/ |title=Meet The Event Singer, Josh Walther, Who Performed With Paul McCartney |accessdate=2016-01-08 |date=2015-05-11 |work=WCBSFM}}</ref> Usilton now works as a vocal coach.<ref>{{cite web | url=https://www.northsidevoicepgh.com/about-me | title=About Me &#124; Northside Voice &#124; Pittsburgh Pennsylvania &#124; Voice Lessons }}</ref>
+
+==Singles==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:16em;"| Single
+! colspan="1"| Peak positions
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]
+|-
+| 2000
+! scope="row"| "[[I Know How the River Feels]]"
+| 69
+|}
+
+==Music Videos==
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:16em;"| Video
+|-
+| 2000
+! scope="row"| "I Know How the River Feels"
+|}
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Macalyster}}
+[[Category:Country music groups from Florida]]
+[[Category:MCA Records artists]]
+
+
+{{US-country-band-stub}}

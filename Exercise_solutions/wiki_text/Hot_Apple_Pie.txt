@@ -1,0 +1,102 @@
+{{Short description|American country music band}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Hot Apple Pie
+| image                 = 
+| caption            = 
+| image_size            = 
+| background          = group_or_band
+| origin              = [[Nashville, Tennessee]], U.S.
+| genre               = [[Country music|Country]]
+| years_active        = 2002–2008
+| spinoff_of = [[Little Texas (band)|Little Texas]]
+| label               = [[DreamWorks Records|DreamWorks Nashville]], [[Universal Music Group Nashville|MCA Nashville]]
+| past_members        = Keith Horne<br />Trey Landry<br />[[Mark Matejka|Mark "Sparky" Matejka]]<br />Kevin Ray<br />[[Brady Seals]]
+}}
+'''Hot Apple Pie''' was an American [[country music]] band founded in 2002. The band consisted of [[Brady Seals]] (lead vocals), Keith Horne (bass guitar), Trey Landry (drums), and [[Mark Matejka]] (guitar). Matjeka was replaced in 2006 by Kevin Ray. Seals was initially co-lead vocalist and keyboardist of [[Little Texas (band)|Little Texas]] until 1994. Signed to [[DreamWorks Records]] Nashville in 2005, Hot Apple Pie released its [[Hot Apple Pie (album)|self-titled debut album]] that year. This album produced three chart singles on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] charts, including the No.&nbsp;26-peaking "Hillbillies."
+
+==History==
+Brady Seals was a keyboardist and co-lead vocalist (alongside [[Tim Rushlow]]) in the country band [[Little Texas (band)|Little Texas]] until late 1994, when he left in pursuit of a solo career.<ref name="allmusic">{{cite web |url={{Allmusic|class=artist|id=p702108/biography|pure_url=yes}} |title=Hot Apple Pie biography |accessdate=2008-04-04 |last=Monger |first=James Christopher |work=[[Allmusic]]}}</ref> Between then and the early 2000s, Seals recorded three albums, and charted six singles on the country charts.
+
+After deciding that his solo career was not proving successful, Seals opted to form a second band. Guitarist [[Mark Matejka|Mark "Sparky" Matejka]] and drummer Trey Landry, both of whom had backed Seals during his solo career, were recruited, with bass guitarist Keith Horne completing the lineup.<ref name="cmt">{{cite web |url=http://www.cmt.com/news/country-music/1505443/hot-apple-pie-leaves-the-oven.jhtml |archive-url=https://web.archive.org/web/20080926120225/http://www.cmt.com/news/country-music/1505443/hot-apple-pie-leaves-the-oven.jhtml |url-status=dead |archive-date=September 26, 2008 |title=Hot Apple Pie Leaves the Oven |accessdate=2008-04-04 |last=Morris |first=Edward |work=[[Country Music Television]]}}</ref> These three musicians all had experience prior to the band's foundation. Matejka had played for [[Sons of the Desert (band)|Sons of the Desert]] and [[Charlie Daniels]]; Landry, for [[Rodney Crowell]] and [[Suzy Bogguss]]; and Horne, for [[Waylon Jennings]].<ref name="cmt"/>
+
+In 2005, Hot Apple Pie signed to [[DreamWorks Records]]' Nashville division.<ref name="allmusic"/> That year, they released its debut album, also entitled ''[[Hot Apple Pie (album)|Hot Apple Pie]]''. It produced three singles, all of which charted on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] charts: "Hillbillies", "We're Makin' Up" and "Easy Does It."<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=194|isbn=978-0-89820-177-2}}</ref> Due to the dissolution of DreamWorks Records in late 2005, these latter two singles were issued on [[MCA Nashville]]. The band exited this label in 2006, the same year that Matejka left to join the [[Southern rock]] band [[Lynyrd Skynyrd]].<ref name="skynyrd">{{cite web |url=http://www.therockradio.com/2006/06/lynyrd-skynyrd-hope-to-team-up-with.html |title=Lynyrd Skynyrd hope to team up with George Jones |accessdate=2008-04-04 |date=2006-06-14 |work=The Rock Radio}}</ref> Kevin Ray took Matjeka's place in 2006. Seals released another solo album in mid-2009.
+
+== Discography ==
+
+=== Studio albums ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:10em;"| Title
+! rowspan="2" style="width:16em;"| Album details
+! colspan="2"| Peak chart<br>positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]<br><ref>{{cite web|url={{BillboardURLbyName|artist=hot apple pie|chart=Country Albums C}}|title=Hot Apple Pie Album & Song Chart History - Country Albums|publisher=Billboard|accessdate=September 5, 2010}}</ref>
+! width="45"| [[Billboard 200|US]]<br><ref>{{cite web|url={{BillboardURLbyName|artist=hot apple pie|chart=all}}|title=Hot Apple Pie Album & Song Chart History - Billboard 200|publisher=Billboard|accessdate=September 5, 2010}}</ref>
+|-
+! scope="row"| ''[[Hot Apple Pie (album)|Hot Apple Pie]]''
+| 
+* Release date: June 28, 2005
+* Label: [[DreamWorks Nashville]]
+| 6
+| 60
+|-
+|}
+
+=== Singles ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:10em;"| Single
+! colspan="2"| Peak chart<br>positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<br><ref>{{cite web|url={{BillboardURLbyName|artist=hot apple pie|chart=Country Songs}}|title=Hot Apple Pie Album & Song Chart History - Country Songs|publisher=Billboard|accessdate=September 5, 2010}}</ref>
+! width="45"| [[Bubbling Under Hot 100|US Bubbling]]<br><ref name="whitburn"/>
+|-
+| rowspan="2"| 2005
+! scope="row"| "[[Hillbillies (song)|Hillbillies]]"
+| 26
+| 22
+| align="left" rowspan="3"| ''Hot Apple Pie''
+|-
+! scope="row"| "We're Makin' Up"
+| 54
+| —
+|-
+| 2006
+! scope="row"| "Easy Does It"
+| 50
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:10em;"| Video
+! Director
+|-
+| rowspan="2"| 2005
+! scope="row"| "Hillbillies"<ref>{{cite web|url=http://www.cmt.com/videos/hot-apple-pie/48805/hillbillies.jhtml|archive-url=https://web.archive.org/web/20071021065354/http://www.cmt.com/videos/hot-apple-pie/48805/hillbillies.jhtml|url-status=dead|archive-date=October 21, 2007|title=CMT : Videos : Hot Apple Pie : Hillbillies|publisher=[[Country Music Television]]|accessdate=September 5, 2010}}</ref>
+| rowspan="2"| [[Philip Andelman]]
+|-
+! scope="row"| "We're Makin' Up"<ref>{{cite web|url=http://www.cmt.com/videos/hot-apple-pie/312975/were-making-up.jhtml|title=CMT : Videos : Hot Apple Pie : We're Making Up|publisher=[[Country Music Television]]|accessdate=October 14, 2011}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+|-
+| rowspan="2"| 2006
+! scope="row"| "Easy Does It"<ref>{{cite web|url=http://www.cmt.com/videos/hot-apple-pie/312975/were-making-up.jhtml|title=CMT : Videos : Hot Apple Pie : We're Making Up|publisher=[[Country Music Television]]|accessdate=October 27, 2012}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+| rowspan="2"| [[Philip Andelman]]
+|}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+[[Category:American country music groups]]
+[[Category:DreamWorks Records artists]]
+[[Category:American musical quartets]]
+[[Category:Musical groups established in 2002]]
+[[Category:Musical groups disestablished in 2008]]
+[[Category:Musical groups from Nashville, Tennessee]]

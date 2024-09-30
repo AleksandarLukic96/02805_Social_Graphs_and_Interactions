@@ -1,0 +1,125 @@
+{{Short description|American musician (born 1968)}}
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Melodie Crittenden
+| image               =
+| caption             =
+| image_size          =
+| background          = solo_singer
+| birth_name          =
+| alias               =
+| birth_place         =
+| birth_date          = {{birth date and age|September 13, 1968}}<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=107|isbn=978-0-89820-177-2}}</ref>
+| origin              = [[Shawnee, Oklahoma]], US
+| instrument          = Vocals
+| genre               = [[country music|Country]], [[Christian music|Christian]]
+| occupation          = Singer-songwriter
+| years_active        = 1992–present
+| label               = [[Asylum Records|Asylum]]/[[Elektra Records|Elektra]], Sandman (solo)<br />[[Curb Records|Curb]] (in Selah)
+| website             =
+}}
+
+'''Melodie Crittenden''' (born September 13, 1968) is an American [[country music|country]] and [[Christian music]] singer-songwriter. 
+
+== Career ==
+Her first album was recorded at the age of nine in [[Norman, Oklahoma]], and was titled ''Melodie Sings''.  She traveled around Oklahoma with her family band "The Crittendens", performing at crusade events with evangelist Larry Jones (founder of the "Feed The Children" charity).  
+
+Later, she recorded a self-titled debut album for [[Asylum Records|Asylum]]/[[Elektra Records]] in 1998, the same year that she charted with her rendition of "[[Bless the Broken Road]]" (her version was titled simply "Broken Road");<ref name="arts">{{cite web|url=http://www.news-star.com/stories/022298/art_crittendon.html |title=Shawnee native making dream come true in Nashville |accessdate=December 30, 2007 |date=February 2, 1998|work=The Shawnee News-Star |url-status=dead |archiveurl=https://web.archive.org/web/20041104194000/http://www.news-star.com/stories/022298/art_crittendon.html |archivedate=November 4, 2004 }}</ref> she would later record the song a second time as a member of the gospel group [[Selah (band)|Selah]].
+
+Crittenden has released two studio albums, starting with her self-titled debut in 1998.<ref name="arts"/> A third album, entitled ''The Woman I Am'', was slated for release around 2004<ref name="connection">{{cite web |url=http://homepage.ntlworld.com/ian.cruttenden1/modern/melodie_crittenden.htm |title=Melodie Crittenden |accessdate=December 30, 2007 |work=The Crittenden Connection |url-status=dead |archiveurl=https://web.archive.org/web/20080116013021/http://homepage.ntlworld.com/ian.cruttenden1/modern/melodie_crittenden.htm |archivedate=January 16, 2008 }}</ref> but was never released.
+
+As of 2016, Crittenden is a member of the [[Eagles (band)|Eagles]] tribute band Eaglemaniacs, which also includes Ron Hemby, formerly of [[The Buffalo Club]].<ref>{{cite web|url=https://eaglemaniacsnashville.com/band/ |title=The Eaglemaniacs – Band|website=Eaglemaniacsnashville.com|accessdate=January 22, 2020}}</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:24em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''Melodie Crittenden''
+|
+* Release date: February 24, 1998
+* Label: [[Elektra Records]]
+|-
+! scope="row"| ''Dream with Me Tonight: Lullabies for All Ages''
+|
+* Release date: September 18, 2001
+* Label: Sandman Records
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="2"| 1998
+! scope="row"| "[[Bless the Broken Road|Broken Road]]"
+| 42
+| 48
+| align="left" rowspan="2"| ''Melodie Crittenden''
+|-
+! scope="row"| "I Should've Known"
+| 72
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Guest singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! rowspan="2"| Artist
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Hot Christian Songs|US CHR]]
+|-
+| 2006
+! scope="row"| "[[Bless the Broken Road]]"
+| [[Selah (band)|Selah]]
+| 5
+| align="left"| ''Bless the Broken Road: The Duets Album''
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:14em;"| Video
+! Director
+|-
+| 1998
+! scope="row"| "Broken Road"
+| Jim Hershleder
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://myspace.com/melodiecrittenden Melodie Crittenden] on [[Myspace]]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Crittenden, Melodie}}
+[[Category:1968 births]]
+[[Category:Living people]]
+[[Category:People from Shawnee, Oklahoma]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Country musicians from Oklahoma]]
+[[Category:American performers of Christian music]]
+[[Category:Asylum Records artists]]
+[[Category:Singer-songwriters from Oklahoma]]
+[[Category:21st-century American women singers]]
+[[Category:21st-century American singer-songwriters]]

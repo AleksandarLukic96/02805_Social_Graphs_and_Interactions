@@ -1,0 +1,166 @@
+{{Infobox musical artist
+| name            = American Young
+| image           = American Young 2014.jpg
+| image_size      =
+| landscape       = <!-- yes, if wide image, otherwise leave blank -->
+| alt             =
+| caption         = American Young performing in 2014
+| origin          = [[Nashville, Tennessee]], U.S.
+| genre           = [[Country music|Country]]
+| years_active    = 2013-present
+| label           = [[Curb Records|Curb]]
+| website         =
+| current_members = Kristy Osmunson<br />Jon Stone
+}}
+'''American Young''' is an American [[country music]] duo signed to [[Curb Records]]. The duo is composed of Kristy Osmunson, formerly of the group [[Bomshel]], and songwriter/producer Jon Stone.
+
+In late 2013, the duo released their debut single, "Love Is War", which has charted on [[Country Airplay]].<ref>{{cite web|url=http://music.yahoo.com/blogs/our-country/meet-country-duo-american-young--familiar-faces--new-sound-203059879.html|title=Meet Country Duo American Young: Familiar Faces, New Sound|last=Geller|first=Wendy|date=5 December 2013|work=[[Yahoo! Music]]|accessdate=4 February 2014}}</ref> Billy Dukes of [[Taste of Country]] gave the song 4 out of 5 stars, comparing their sound favorably to [[The Civil Wars]].<ref>{{cite web|url=http://tasteofcountry.com/american-young-love-is-war/|title='Love Is War' review|last=Dukes|first=Billy|date=15 August 2013|work=Taste of Country|accessdate=4 February 2014}}</ref>
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" 
+|-
+! style="width:10em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''American Young''<ref>{{cite news|last1=Shelburne|first1=Craig|title=American Young Prepares Debut Album On Curb Records|url=http://www.musicrow.com/2016/07/american-young-prepares-debut-album-on-curb-records/|accessdate=July 2, 2016|work=[[MusicRow]]|date=July 1, 2016}}</ref>
+|  
+* Release date: August 5, 2016
+* Label: [[Curb Records]]
+|-
+! scope="row"| ''AYII''<ref>{{Cite web|url=https://www.lyricmagazine.co.uk/the-new-album-ayii-from-american-young-uplifting-dreamy-powerful/|title = Review: 'AYII' the New Album from American Young|date = 17 November 2021}}</ref>
+|
+* Release date: November 19, 2021
+* Label: Curb Records
+|-
+|}
+
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;" 
+|-
+! rowspan="2" style="width:10em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="2"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]
+! width="45"| [[Top Heatseekers|US<br />Heat]]
+|-
+! scope="row"| ''American Young''
+|  
+* Release date: June 24, 2014
+* Label: Curb Records
+| 39
+| 12
+|-
+! scope="row"| ''Soundtrack of Your Life''<ref>{{Cite web|url=https://www.bellesandgals.com/2019/08/07/review-american-youngs-soundtrack-of-your-life-ep/|title = REVIEW: American Young's 'Soundtrack of Your Life' EP|date = 7 August 2019}}</ref>
+|
+* Release date: August 23, 2019
+* Label: Curb Records
+|
+|
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:16em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Country Airplay|US Country Airplay]]
+|-
+| 2013
+! scope="row"| "Love Is War"
+| 44<ref>{{cite web|url=http://www1.billboard.biz/bbbiz/photos/pdf/2013/country_update_0224.pdf|title=Billboard Country Update|work=24 February 2014|accessdate=24 February 2014|archive-date=28 February 2014|archive-url=https://web.archive.org/web/20140228183928/http://www1.billboard.biz/bbbiz/photos/pdf/2013/country_update_0224.pdf|url-status=dead}}</ref>
+| align="left" rowspan="2"| ''American Young''
+|-
+| 2014
+! scope="row"| "Wasn't Gonna Drink Tonight"
+| 58
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:10em;"| Video
+! Director
+|-
+| 2013
+! scope="row"| "Love Is War"<ref>{{cite web|url=http://www.cmt.com/videos/american-young/956185/love-is-war.jhtml|archive-url=https://web.archive.org/web/20140222135558/http://www.cmt.com/videos/american-young/956185/love-is-war.jhtml|url-status=dead|archive-date=February 22, 2014|title=CMT : Videos : American Young : Love Is War|publisher=[[Country Music Television]]|accessdate=February 4, 2014}}</ref>
+| Eric Welch
+|-
+| 2016
+! scope="row"| "Be Here"
+|Chase Lauer
+|}
+
+==Songs written by Jon Stone==
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:18em;"| Title<ref>{{cite web|url=http://www.allmusic.com/artist/jon-stone-mn0002411723/credits|title=Credits|work=Allmusic|accessdate=24 March 2014}}</ref>
+! Artist
+! Album
+|-
+| 2006
+| "[[Me and My Gang (song)|Me and My Gang]]"
+| [[Rascal Flatts]]
+|''[[Me and My Gang]]''
+|-
+|rowspan=2|2010
+|"Seven Days"
+|[[Kenny Chesney]]
+|''[[Hemingway's Whiskey]]''
+|-
+|"Kiss My Country Ass"
+|[[Blake Shelton]]
+|''[[Hillbilly Bone]]''
+|-
+|rowspan=2|2012
+|"[[A Woman Like You (Lee Brice song)|A Woman Like You]]"
+|[[Lee Brice]]
+|''[[Hard 2 Love (Lee Brice album)|Hard 2 Love]]''
+|-
+|"[[Only God Could Love You More]]"
+|[[Jerrod Niemann]]
+|''[[Free the Music]]''
+|-
+|}
+
+==Songs written by Kristy Osmunson==
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:18em;"| Title<ref>{{cite web|url=http://www.allmusic.com/artist/kristy-osmunson-mn0001506330/credits|title=Credits|work=Allmusic|accessdate=24 March 2014}}</ref>
+! Artist
+! Album
+|-
+| 2008
+| "[[Cheater, Cheater]]"
+| [[Joey + Rory]]
+| ''[[The Life of a Song (Joey + Rory album)|The Life of a Song]]''
+|-
+|rowspan=2|2009
+|"[[Fight Like a Girl (Bomshel song)|Fight Like a Girl]]"
+|rowspan=2|[[Bomshel]]
+|rowspan=2|''[[Fight Like a Girl (Bomshel album)|Fight Like a Girl]]''
+|-
+|"[[19 and Crazy]]"
+|-
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+[[Category:Country music groups from Tennessee]]
+[[Category:American country music duos]]
+[[Category:Curb Records artists]]
+[[Category:Musical groups established in 2013]]
+[[Category:Musical groups from Nashville, Tennessee]]
+[[Category:2013 establishments in Tennessee]]
+[[Category:Musical duos from Tennessee]]
+[[Category:Male–female musical duos]]

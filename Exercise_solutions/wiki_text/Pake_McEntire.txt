@@ -1,0 +1,121 @@
+{{short description|American country singer}}
+{{Use mdy dates|date=March 2020}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Pake McEntire
+| image               =
+| caption             =
+| image_size          =
+| background          = solo_singer
+| birth_name          = Del Stanley McEntire
+| birth_date          = {{birth date and age|1953|06|23}}
+| origin              = [[Chockie, Oklahoma]], U.S.
+| instrument          = Vocals, [[fiddle]]
+| genre               = [[country music|Country]]
+| occupation          = Singer
+| years_active        = 1986–present
+| label               = [[RCA Records Nashville|RCA Nashville]]
+}}
+
+'''Del Stanley''' "'''Pake'''" '''McEntire''' (born June 23, 1953)<ref name="AMG">{{Cite web|url=https://www.allmusic.com/artist/pake-mcentire-mn0002139645/biography|title=Pake McEntire &#124; Biography & History|website=[[AllMusic]]|access-date=August 8, 2021}}</ref> is an American [[country music]] artist. He is elder brother to [[Reba McEntire]] and [[Susie Luchsinger]].<ref name="AMG"/>
+
+He was born in [[Chockie, Oklahoma]], United States,<ref name="LarkinCountry">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Who's Who of Country Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1993|edition=First|isbn=0-85112-726-6|page=250}}</ref> and signed to [[RCA Records Nashville|RCA Nashville]] in 1986, Pake made his debut on the national country music scene with the release of his first single, "Every Night",<ref name="LarkinCountry"/> which peaked at No.&nbsp;20 on the ''Billboard'' [[Hot Country Singles]] chart. It was followed by his biggest chart hit, "Savin' My Love for You" at No.&nbsp;3.<ref name="AMG"/> "Bad Love" and "Heart vs. Heart", also from his first album, were both minor hits as well.<ref name="AMG"/>
+
+McEntire's second album for RCA, titled ''My Whole World'', was released in 1988.<ref name="AMG"/> It produced two more minor chart entries before he was dropped from RCA's roster.<ref name="AMG"/> Since then, he has issued three more albums on independent labels.
+
+==Discography==
+===Albums===
+{| class="wikitable"
+!Year
+!Album
+!<small>[[Top Country Albums|US Country]]</small>
+|-
+|1980
+|''The Rodeo Man''
+|
+|-
+|1986
+|''Too Old to Grow Up Now''
+|align="center"|52
+|-
+|1988
+|''My Whole World''
+|
+|-
+|2003
+|''And They Danced''
+|
+|-
+|2005
+|''Your Favorites & Mine''
+|
+|-
+|2007
+|''Singin' Fiddlin' Cowboy''
+|
+|-
+|2008
+|''The Other Side Of Me''
+|
+|}
+
+===Singles===
+{| class="wikitable"
+!rowspan="2"|Year
+!rowspan="2"|Single
+!colspan="2"|Chart Positions
+!rowspan="2"|Album
+|-
+!width="50"|<small>[[Hot Country Songs|US Country]]</small>
+!width="50"|<small>CAN Country</small>
+|-
+|rowspan=3|1986
+|"[[Every Night (Pake McEntire song)|Every Night]]"
+|align="center"|20
+|align="center"|47
+|rowspan=5|''Too Old to Grow Up Now''
+|-
+|"[[Savin' My Love for You]]"
+|align="center"|3
+|align="center"|4
+|-
+|"[[Bad Love (Pake McEntire song)|Bad Love]]"
+|align="center"|12
+|align="center"|15
+|-
+|rowspan=3|1987
+|"Heart vs. Heart"
+|align="center"|25
+|align="center"|27
+|-
+|"Too Old to Grow Up Now"
+|align="center"|46
+|align="center"|51
+|-
+|"Good God, I Had It Good"
+|align="center"|29
+|align="center"|45
+|rowspan=2|''My Whole World''
+|-
+|1988
+|"Life in the City"
+|align="center"|62
+|align="center"|—
+|}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:McEntire, Pake}}
+[[Category:1953 births]]
+[[Category:American country singer-songwriters]]
+[[Category:Living people]]
+[[Category:People from Atoka County, Oklahoma]]
+[[Category:Singer-songwriters from Oklahoma]]
+[[Category:RCA Records Nashville artists]]
+[[Category:American country fiddlers]]
+[[Category:Country musicians from Oklahoma]]
+
+
+{{US-country-singer-stub}}

@@ -1,0 +1,179 @@
+{{Short description|Canadian singer-songwriter}}
+{{Use dmy dates|date=October 2020}}
+{{Infobox musical artist | <!-- See Wikipedia:WikiProject Musicians -->
+| image             = 
+| name            = Ridley Bent
+| background      = solo_singer
+| birth_name      = Brian Daniel Fowler<ref>{{cite web|url=https://www.ascap.com/repertory#/ace/search/workID/915486165 |title=ARLINGTON |website=ASCAP |publisher=American Society of Composers, Authors and Publishers |access-date=March 13, 2023}}</ref>
+| alias           = 
+| birth_date      = {{birth date and age|1979|01|01|df=y}}
+| death_date      = 
+| origin          = [[City of Halifax|Halifax]], Nova Scotia, Canada
+| instrument      = 
+| genre           = [[Country music|Country]], rock, [[Hip hop music|hip hop]]
+| occupation      = Singer-songwriter
+| years_active    = 2000–present
+| label           = [[MapleMusic Recordings]]<br />[[Open Road Recordings|Open Road]]
+| associated_acts = 
+| website         = {{URL|www.ridleybent.ca}}
+}}
+
+'''Ridley Bent''' is the stage name of '''Brian Daniel Fowler''',<ref>"Greased lightning", ''[[Chilliwack Progress]]'', February 18, 2005.</ref> a Canadian [[country music|country]] singer-songwriter. Born in [[City of Halifax|Halifax]], Nova Scotia, Bent was raised throughout Canada in a [[Military of Canada|military]] family.<ref>Patrick Langston, "'Hick-hop' worth hearing". ''[[Ottawa Citizen]]'', July 16, 2005.</ref> He formally launched his musical career in 2000 in [[British Columbia]], including performances as an opening act for [[Great Big Sea]]<ref>Mike Devlin, "Great Big Sea rises despite turbulence". ''[[Victoria Times-Colonist]]'', July 22, 2004.</ref> and [[Sam Roberts (singer-songwriter)|Sam Roberts]].<ref>Mike Youds, "Roberts' power has Store rocking". ''[[Kamloops Daily News]]'', September 4, 2004.</ref>
+
+His debut album, ''Blam!'', was released on [[MapleMusic Recordings]] in 2005, and was marked by a style that incorporated country, rock and [[Hip hop music|hip hop]] influences, in a manner similar to [[Buck 65]].<ref name=everettgreen>Robert Everett-Green, "Blam: Ridley Bent". ''[[The Globe and Mail]]'', May 13, 2005.</ref> The album was produced by [[Chin Injeti]], formerly of the [[R&B]] band [[Bass is Base]]. Described by Bent as "hick hop",<ref>"An earful of Bent 'Hick-Hop'". ''The Golden Star'', October 26, 2005.</ref> the album was best known for the single "Suicidewinder".<ref name=everettgreen/>
+
+His subsequent albums, 2007's ''[[Buckles and Boots]]'' and 2010's ''[[Rabbit on My Wheel]]'', pursued a more conventional country sound.<ref>Mark Weber, "Ridley Bent brings country tunes to City; Wild Card, his newest project, is the latest in a line of compelling recordings". ''Red Deer Express'', February 19, 2014.</ref>
+
+In early 2009, Bent's song "Nine Inch Nails" won in the 8th Annual Independent Music Awards and Vox Pop vote for Best Country Song.<ref>Melissa Martin, "Move here in January? Must be love". ''[[Winnipeg Free Press]]'', January 24, 2009.</ref>
+
+More recently he has toured and recorded with a new backing band, the '''Killer Tumbleweeds'''. His first album with that band, ''Ridley Bent and the Killer Tumbleweeds'', was released in 2018.<ref>Greg Vandermeulen, "Ridley Bent & The Killer Tumbleweeds". ''Morden Times'', August 22, 2019.</ref>
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:18em;"| Details
+|-
+! scope="row"| ''Blam!''
+| 
+* Release date: 24 May 2005
+* Label: [[MapleMusic Recordings]]
+|-
+! scope="row"| ''[[Buckles and Boots]]''
+| 
+* Release date: 27 November 2007
+* Label: [[Open Road Recordings]]
+|-
+! scope="row"| ''[[Rabbit on My Wheel]]''
+| 
+* Release date: 15 June 2010
+* Label: Open Road Recordings
+|-
+! scope="row"| ''Wildcard''
+| 
+* Release date: 29 April 2014
+* Label: Americana North
+|-
+! scope="row"| ''Ridley Bent and the Killer Tumbleweeds''
+| 
+* Release date: 6 April 2018
+* Label: Americana North
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:18em;"| Single
+! Album
+|-
+| 2005
+! scope="row"| "Suicidewinder"
+| ''Blam!''
+|-
+| rowspan="2"| 2008
+! scope="row"| "Heartland Heartbreak"
+| rowspan="3"| ''Buckles and Boots''
+|-
+! scope="row"| "Buckles and Boots"
+|-
+| 2009
+! scope="row"| "Arlington"
+|-
+| rowspan="3"| 2010
+! scope="row"| "I Can't Turn My Back on the Bottle"
+| rowspan="4"| ''Rabbit on My Wheel''
+|-
+! scope="row"| "Love Car"
+|-
+! scope="row"| "All the Heat Is in the Whiskey"
+|-
+| 2011
+! scope="row"| "Living with Her Ex"
+|-
+| rowspan="2"| 2014
+! scope="row"| "The Most Beautiful Woman Around"
+| rowspan="2"| ''Wildcard''
+|-
+! scope="row"| "[[You Got Lucky]]"<ref>{{cite news|last1=Ladan|first1=Bruce|title=Ridley Bent releases fourth album Wildcard in Winnipeg|url=http://www.cbc.ca/news/canada/manitoba/ridley-bent-releases-fourth-album-wildcard-in-winnipeg-1.2589299|accessdate=5 November 2014|work=[[CBC News]]|date=5 April 2014}}</ref>
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:18em;"| Video
+! Director
+|-
+| 2009
+! scope="row"| "Arlington"
+| Christopher Mills
+|-
+|}
+
+==Awards and nominations==
+{| class="wikitable"
+|-
+! Year
+! Association
+! Category
+! Result
+! Ref
+|-
+| rowspan="2"| 2008
+| rowspan="6"| [[Canadian Country Music Association]]
+| Roots Artist or Group of the Year
+| {{nom}}
+| rowspan=2| <ref>"CCMA list of nominees". ''[[Windsor Star]]'', September 8, 2008.</ref>
+|-
+| Top New Talent of the Year – Male
+| {{nom}}
+|-
+| 2009
+| Roots Artist or Group of the Year
+| {{nom}}
+| <ref>François Marchand, "And the winners could be ...". ''[[Regina Leader-Post]]'', September 10, 2009.</ref>
+|-
+| 2010
+| Roots Artist or Group of the Year
+| {{nom}}
+| <ref>Elizabeth Withey, "Sounds like Job well done, Gord; New album puts Alberta singing star at head of CCMA nominations list". ''[[The Province]]'', July 29, 2010.</ref>
+|-
+| 2011
+| Roots Artist or Group of the Year
+| {{nom}}
+| <ref>Jane Stevenson, "CCMA nominees announced". ''[[Grande Prairie Daily Herald-Tribune]]'', July 28, 2011.</ref>
+|-
+| 2012
+| Roots Artist or Group of the Year
+| {{nom}}
+|
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|http://www.ridleybent.ca}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bent, Ridley}}
+[[Category:Canadian country singer-songwriters]]
+[[Category:Canadian rock singers]]
+[[Category:Canadian male singer-songwriters]]
+[[Category:Canadian people of British descent]]
+[[Category:1979 births]]
+[[Category:Living people]]
+[[Category:Musicians from Halifax, Nova Scotia]]
+[[Category:Open Road Recordings artists]]
+[[Category:Canadian alternative country singers]]
+[[Category:Independent Music Awards winners]]
+[[Category:MapleMusic Recordings artists]]
+[[Category:21st-century Canadian male singers]]
+[[Category:21st-century Canadian singers]]
+[[Category:21st-century Canadian singer-songwriters]]
+[[Category:Singers from Nova Scotia]]

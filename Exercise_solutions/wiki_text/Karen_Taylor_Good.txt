@@ -1,0 +1,157 @@
+{{short description|American singer-songwriter}}
+{{Multiple issues|
+{{BLP sources|date=December 2017}}
+{{BLP one source|date=January 2024}}
+}}
+
+{{Infobox musical artist
+| name                = Karen Taylor-Good
+| image                 = Karen Taylor Good.JPG
+| image_size            = 
+| caption               = Karen Taylor-Good performing at the 2012 Posi Awards in Orlando, Fl
+| background          = solo_singer
+| birth_name          = Karen Berke
+| origin              = [[El Paso, Texas]], U.S.
+| instrument          = Vocals
+| genre               = [[Country music|Country]]
+| occupation          = Singer-songwriter, author, [[public speaking|speaker]]
+| years_active        = 1982-present
+| label               = {{flatlist|
+*Mesa
+*Song Guru Music}}
+| associated_acts     = 
+| website             = {{official website|http://www.stowegood.com}}
+}}
+'''Karen Taylor-Good''' (born Karen Berke in [[El Paso, Texas]]) is an American singer-songwriter, and one half of the duo
+'''StoweGood'''. Taylor-Good and her then-husband, Bill Taylor, started the Mesa Records label in 1982.<ref name="people">[http://www.karentaylorgood.com/media/Biography_Country_Music_People_KarenTaylor-Good.pdf Country Music People: Karen Taylor-Good]</ref> Her first single, "Diamond in the Rough," reached the Top 40 on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles]] chart early that year.<ref name="people" /> Taylor-Good was nominated for Best New Female Vocalist at the 1984 [[Academy of Country Music]] Awards.<ref name="people" /> After Mesa Records folded in 1986, she sang jingles for [[Taco Bell]], [[United Airlines]] and [[Peter Pan (peanut butter)|Peter Pan Peanut Butter]].<ref name="people" />
+
+Taylor-Good became a [[Warner/Chappell Music]] songwriter in 1992. She wrote Top 5 songs for [[Patty Loveless]] ("[[How Can I Help You Say Goodbye]]") and [[Collin Raye]] ("[[Not That Different]]").<ref name="people" /> In 1996, she was named [[SESAC]] Songwriter of the Year.<ref name="people" /> Her songs have since been recorded by [[Diamond Rio]], [[Laura Branigan]] and [[Melissa Manchester]].<ref name="people" />
+
+She wrote a book, ''On Angel's Wings'', and has produced eight CDs of her original material. Taylor-Good has presented her "musical keynotes" to many groups, including The [[American Business Women's Association]], The National Hospice Foundation, and [[Lions Clubs International]].
+
+In 2011, Karen became part of the songwriting/performing duo, '''StoweGood''', with author, hit songwriter, cancer survivor & sister-from-another-mister, Stowe Dailey. Stowe & Karen have written many, many tear and laugh-inducing songs which are available on their two studio albums, '''"Love Lives On"''' and '''"Beautiful Brokenness"''' and on their YouTube channel, https://www.youtube.com/channel/UC1cWSjUfI3NKfi8hZSOfoRQ. They share concerts and facilitate healing retreats across the US, Canada, Mexico, Ireland and the UK.
+
+As of 2020, Karen is living in Nashville with her husband of 38 years, Dennis Good, and her daughter Rachael Good.
+
+==Discography==
+
+===Albums===
+{| class="wikitable"
+! Year
+! Album
+! <small>[[Top Country Albums|US Country]]</small>
+! Label
+|- 
+| 1984
+| ''Karen''
+| align="center"| 63
+| Mesa
+|- 
+| 1994
+| ''One Mile Apart''
+| align="center"| —
+| K T Good Music
+|-
+| 2001
+| ''On Angel's Wings''
+| align="center"| —
+| Scream
+|-
+| rowspan="3"| 2006
+| ''Perfect Work of Art''
+| align="center"| —
+| rowspan="3"| Insight
+|-
+| ''Song Guru''
+| align="center"| —
+|-
+| ''How Many Women''
+| align="center"| —
+|}
+
+===Singles===
+{| class="wikitable"
+! Year
+! Single
+! width="50"| <small>[[Hot Country Songs|US Country]]</small>
+! Album
+|-
+| rowspan="3"| 1982
+| "Diamond in the Rough"
+| align="center"| 38
+| rowspan="6"| ''Karen''
+|-
+| "Country Boy's Song"
+| align="center"| 67
+|-
+| "I'd Rather Be Nothing with You"
+| align="center"| 62
+|-
+| rowspan="2"| 1983
+| "Tenderness Place"
+| align="center"| 42
+|-
+| "Don't Call Me"
+| align="center"| 62
+|-
+| rowspan="2"| 1984
+| "Handsome Man"
+| align="center"| 62
+|-
+| "We Just Gotta Dance"
+| align="center"| 66
+| rowspan="4"| singles only
+|-
+| rowspan="2"| 1985
+| "Starlite"
+| align="center"| 61
+|-
+| "Up On Your Love"
+| align="center"| 57
+|-
+| 1986
+| "Come in Planet Earth (Are You Listenin')"
+| align="center"| 79
+|}
+
+==Singles written by Taylor-Good==
+{| class="wikitable"
+! Year
+! Single
+! Artist
+|-
+| 1994
+| "[[How Can I Help You Say Goodbye]]"
+| [[Patty Loveless]]
+|-
+| 1995
+| "[[Not That Different]]"
+| [[Collin Raye]]
+|-
+| rowspan="2"| 1998
+| "Party On"
+| [[Neal McCoy]]
+|-
+| "[[How Do I Let Go]]"
+| [[Lisa Brokop]]
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{official website|http://www.stowegood.com}}
+*https://www.youtube.com/channel/UC1cWSjUfI3NKfi8hZSOfoRQ YouTube
+*[{{AllMusic|class=artist|id=p130573|pure_url=yes}} Karen Taylor-Good] at [[Allmusic]]
+
+{{authority control}}
+
+{{DEFAULTSORT:Taylor-Good, Karen}}
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Living people]]
+[[Category:Musicians from El Paso, Texas]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Country musicians from Texas]]
+[[Category:21st-century American women]]

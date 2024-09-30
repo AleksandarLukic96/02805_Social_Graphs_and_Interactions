@@ -1,0 +1,98 @@
+{{short description|American country music singer}}
+{{Use mdy dates|date=March 2020}}
+{{Infobox musical artist
+| name            = Joanie Keller
+| image           =
+| image_size      =
+| birth_name      =
+| alias           =
+| birth_date      =
+| birth_place     = [[Wayne, Nebraska]]
+| instrument      = Guitar
+| genre           = [[Country music|Country]]
+| occupation      = Singer
+| years_active    = 2000–present
+| label           = [[Broken Bow Records|Broken Bow]]
+| associated_acts =
+| website         = 
+}}
+
+'''Joanie Keller''' (born in [[Wayne, Nebraska]]<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|page=220|year=2008|isbn=978-0-89820-177-2}}</ref>) is an American [[country music]] singer. Keller began performing in her father's band when she was a small child.<ref name="allmusic">{{cite web|last=Proefrock|first=Stacia|title=Joanie Keller – Music Biography|url={{AllMusic|class=artist|id=mn0000138444|pure_url=yes}}|publisher=[[AllMusic]]|accessdate=March 11, 2013}}</ref> After graduating high school, she played local clubs in [[Colorado]] before moving to [[Nashville, Tennessee|Nashville]] to pursue a career as a country singer.<ref name="allmusic" />
+
+Keller's debut album, ''Sparks Are Gonna Fly'', was released by [[Broken Bow Records]] in April 2000.<ref name="allmusic" /> Its first single, "Three Little Teardrops", peaked at number 66 on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles & Tracks]] chart.<ref name="whitburn" /> The album received a mixed review from Joel Bernstein of ''[[Country Standard Time]]'', who wrote that "it's too smooth and polished to grab the hard-core honkytonkers, but it's often too country for much of today's younger audience."<ref>{{cite web|last=Bernstein|first=Joel|title=Joanie Keller – Sparks Are Gonna Fly|url=http://www.countrystandardtime.com/d/cdreview.asp?xid=1411|work=[[Country Standard Time]]|accessdate=March 11, 2013}}</ref> Carrie Attebury of [[about.com]] compared Keller favorably to [[Linda Davis]].<ref>{{cite web|last=Attebury|first=Carrie|title=CD Review: ''Sparks Are Gonna Fly'' – Joanie Keller|url=http://countrymusic.about.com/library/blsparksrev.htm|work=[[about.com]]|accessdate=March 11, 2013|archive-date=February 18, 2003|archive-url=https://web.archive.org/web/20030218042519/http://countrymusic.about.com/library/blsparksrev.htm|url-status=dead}}</ref>
+
+Since parting ways with Broken Bow, Keller has continued to perform in Nashville with the band 45 RPM.<ref name="norfolk">{{cite news|last=Pitzer|first=Carrie|title=Nebraska Music Hall of Fame to induct pioneers, legends|url=http://www.norfolkdailynews.com/entertainment/nebraska-music-hall-of-fame-to-induct-pioneers-legends/article_af990354-a049-5678-89dd-541c42983b3b.html|accessdate=March 11, 2013|newspaper=[[Norfolk Daily News]]|date=July 30, 2009}}</ref> She was inducted into the Nebraska Music Hall of Fame in 2009.<ref name="norfolk" />
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''Sparks Are Gonna Fly''
+| 
+* Release date: April 11, 2000
+* Label: [[Broken Bow Records]]
+|-
+! scope="row"| ''It's Me Again''
+| 
+* Release date: 2006
+* Label: self-released
+|-
+! scope="row"| ''Me and Dad''
+| 
+* Release date: July 31, 2009
+* Label: Long Lil Doggie Music
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]
+|-
+| 2000
+! scope="row"| "Three Little Teardrops"
+| 66
+| align="left"| ''Sparks Are Gonna Fly''
+|-
+| 2003
+! scope="row"| "If Heartaches Had Wings"
+| —
+| align="left"| ''It's Me Again''
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:14em;"| Video
+! Director
+|-
+| 2000
+! scope="row"| "Three Little Teardrops"
+| chris rogers<ref>{{cite news|title=Production Notes|url=https://books.google.com/books?id=JQ8EAAAAMBAJ&dq=%22Joanie+keller%22+%22Three+little+teardrops%22&pg=PA143|accessdate=March 11, 2013|newspaper=[[Billboard (magazine)|Billboard]]|date=May 13, 2000}}</ref>
+|}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Keller, Joanie}}
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:BBR Music Group artists]]
+[[Category:Living people]]
+[[Category:Country musicians from Nebraska]]
+[[Category:People from Wayne, Nebraska]]
+[[Category:Year of birth missing (living people)]]
+[[Category:21st-century American women]]
+[[Category:Singer-songwriters from Nebraska]]

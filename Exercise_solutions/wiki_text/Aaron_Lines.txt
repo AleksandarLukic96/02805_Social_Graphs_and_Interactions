@@ -1,0 +1,406 @@
+{{short description|Canadian country musician (born 1977)}}
+{{distinguish|Aaran Lines}}
+{{Use mdy dates|date=November 2020}}
+{{Infobox musical artist
+| name            = Aaron Lines
+| image           = Aaron Lines at Maverick Saloon.jpg
+| caption         = Aaron Lines in concert at the Maverick Saloon, Santa Ynez, California in 2006
+| birth_name      = Anthony Aaron Lines
+| alias           =
+| birth_date      = {{birth date and age|1977|11|17}}
+| birth_place     =
+| origin          = [[Fort McMurray]], Alberta, Canada
+| instrument      = Vocals, guitar, piano
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 2001–2011
+| label           = Combustion, [[RCA Records Nashville|RCA Nashville]], [[BNA Records|BNA]], [[Sony Music|Sony BMG Canada]], [[Fontana Distribution|Outside the Lines]], On Ramp
+| associated_acts =
+| website         =
+}}
+
+'''Anthony Aaron Lines''' (born November 17, 1977) is a Canadian [[country music|country]] musician. He has recorded for [[RCA Records Nashville|RCA Nashville]], [[BNA Records|BNA]] and On Ramp Records, and has charted three singles on the [[Hot Country Songs]] charts in the United States, in addition to landing one number one hit on the [[Canada Country]] chart.
+
+==Musical history==
+
+===''Love Changes Everything''===
+Aaron Lines' debut album, ''Love Changes Everything'', was released in Canada in 2001 by [[independent record label]] Combustion Music. The first two singles, "Love Changes Everything" and "I Can Read Your Heart," both found success on Canadian country radio. Lines was nominated for Best New Country Artist/Group at the 2002 [[Juno Award]]s, and Best New Artist at the 2002 [[Canadian Country Music Association]] (CCMA) Awards.
+
+===''Living Out Loud''===
+As Lines' career was taking off in Canada, he set his sights on an American record deal. He performed a showcase for [[RCA Records Nashville|RCA Nashville]] in May 2001. The next day, the label phoned to offer Lines a record deal.<ref>[https://web.archive.org/web/20040301030706/http://www.cmt.com/artists/az/lines_aaron/bio.jhtml CMT.com : Aaron Lines : Biography<!-- Bot generated title -->]</ref> He immediately began work on his debut album, ''[[Living Out Loud (album)|Living Out Loud]]'', released on January 7, 2003. The album debuted at No.&nbsp;9 on [[Billboard (magazine)|Billboard]]'s [[Top Country Albums]] chart, while the first single, "[[You Can't Hide Beautiful]]," reached No.&nbsp;4 on Billboard's [[Hot Country Songs]] chart. The album was a success in Canada as well, and at the 2003 CCMA Awards, Lines received six nominations, including the [[Kraft Foods|Kraft Cheez Whiz]] Fans' Choice Award. When the awards were handed out in September, Lines was named Male Artist of the Year, and also picked up the Rising Star Award.
+
+In 2003, Lines was an opening act for [[Martina McBride]]'s Greatest Hits tour.
+
+===''Waitin' on the Wonderful''===
+Aaron Lines' second album, ''[[Waitin' on the Wonderful]]'', was released on September 6, 2005. The title track stalled at No.&nbsp;36 on US Country and the album was not released in the US.  Meanwhile, in Canada, the first three singles from the album all reached the top 10 on the Canadian Country Singles chart. In fact, Lines was the most played country artist on Canadian radio in 2005.<ref>{{Cite web |url=http://www.aaronlines.com/fastfacts.html |title=:: Aaron Lines Official Website ::<!-- Bot generated title --> |access-date=June 13, 2007 |archive-url=https://web.archive.org/web/20070929033814/http://www.aaronlines.com/fastfacts.html |archive-date=September 29, 2007 |url-status=dead }}</ref> For two years, Lines had the most played song on Canadian country radio – "Waitin' on the Wonderful" in 2005, and "Lights of My Hometown" in 2006.<ref>{{Cite web |url=http://www.aaronlines.com/biography.html |title=:: Aaron Lines Official Website ::<!-- Bot generated title --> |access-date=June 13, 2007 |archive-url=https://web.archive.org/web/20070929033820/http://www.aaronlines.com/biography.html |archive-date=September 29, 2007 |url-status=dead }}</ref> At the 2006 CCMA Awards, Lines was again nominated for the Kraft Cheez Whiz Fans' Choice Award.<ref>{{cite web|url=http://www.ccma.org/Media/2006August02-02.pdf |title=2006 CCMA Awards Nominees |website=Canadian Country Music Association |accessdate=June 13, 2007 |url-status=dead |archiveurl=https://web.archive.org/web/20070928080950/http://www.ccma.org/Media/2006August02-02.pdf |archivedate=September 28, 2007 }}</ref>
+
+===''Moments That Matter''===
+Lines moved back from [[Nashville, Tennessee|Nashville]] to Canada in 2006 to work on his third album, ''[[Moments That Matter]]''. The album was released on June 12, 2007, and distributed by [[Fontana Distribution]]. The first single, "[[Cheaper to Keep Her (song)|Cheaper to Keep Her]]," became Lines' first No.&nbsp;1, reaching the top spot in 11 short weeks. The accompanying music video features cameos from [[Rhett Warrener]], [[Darren McCarty]], [[Jamie McLennan]], [[Richie Regehr]], and Lines' good friend [[Paul Brandt]]. ''Moments That Matter'' was nominated for the 2008 [[Juno Award]] for Country Recording of the Year.
+
+===''Sunday Afternoon''===
+Aaron Lines' fourth studio album, ''Sunday Afternoon'', was released on March 16, 2010, by On Ramp Records.<ref>{{cite news|title=Aaron Lines Releases "Sunday Afternoon" |url=http://www.oreillyinternational.com/emailblasts/aaronlines_sundayafternoon.htm |accessdate=September 12, 2012 |newspaper=O'Reilly International |url-status=dead |archiveurl=https://web.archive.org/web/20160304000743/http://www.oreillyinternational.com/emailblasts/aaronlines_sundayafternoon.htm |archivedate=March 4, 2016 }}</ref> The first single, "Sand" was released in April 2009. The second single "I Haven't Even Heard You Cry" was released on January 6, 2010.
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:14em;"| Title
+! rowspan="2" style="width:18em;"| Details
+! colspan="2"| Peak chart<br>positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]<br><ref name="Country Albums">{{cite magazine|url={{BillboardURLbyName|artist=aaron lines|chart=Country Albums C}}|title=Aaron Lines Album & Song Chart History – Country Albums|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=September 14, 2011}}</ref>
+! width="45"| [[Billboard 200|US]]<br><ref name="Billboard 200">{{cite magazine|url={{BillboardURLbyName|artist=aaron lines|chart=Billboard 200}}|title=Aaron Lines Album & Song Chart History – Billboard 200|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=September 14, 2011}}</ref>
+|-
+! scope="row"| ''[[Living Out Loud (album)|Living Out Loud]]''
+| 
+* Release date: January 7, 2003
+* Label: [[RCA Records Nashville|RCA Nashville]]
+| 9
+| 68
+|-
+! scope="row"| ''[[Waitin' on the Wonderful]]''
+| 
+* Release date: September 6, 2005
+* Label: [[Sony Music|Sony BMG Canada]]
+| —
+| —
+|-
+! scope="row"| ''[[Moments That Matter]]''
+| 
+* Release date: June 12, 2007
+* Label: [[Fontana Distribution|Outside the Lines]]
+| —
+| —
+|-
+! scope="row"| ''Sunday Afternoon''
+| 
+* Release date: March 16, 2010
+* Label: On Ramp Records
+| —
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! colspan="4"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="40"| [[Billboard charts|CAN Country]]<br><ref name="Canada Country">Peak chart positions for country singles in Canada:
+*"Turn It Up (I Like The Sound of That)" – {{cite journal|url=https://www.americanradiohistory.com/Archive-RandR/2000s/2004/RR-2004-04-16.pdf|title=Canada Country Top 30|journal=[[Radio & Records]]|date=April 16, 2004}}
+*"Waitin' on the Wonderful" – {{cite journal|url=https://www.americanradiohistory.com/Archive-RandR/2000s/2005/RR-2005-03-11.pdf|title=Canada Country Top 30|journal=Radio & Records|date=March 11, 2005}}
+*"It Takes a Man" – {{cite journal|url=https://www.americanradiohistory.com/Archive-RandR/2000s/2005/RR-2005-09-16.pdf|title=Canada Country Top 30|journal=Radio & Records|date=September 16, 2005}}
+*"Lights of My Hometown" – {{cite journal|url=https://www.americanradiohistory.com/Archive-RandR/2000s/2006/RR-2006-02-10.pdf|title=Canada Country Top 30|journal=Radio & Records|date=February 10, 2006}}
+*"Twenty Years Late" – {{cite journal|url=https://www.americanradiohistory.com/Archive-RandR/2000s/2006/RR-2006-06-02.pdf|title=Canada Country Top 40|journal=Radio & Records|date=June 2, 2006}}
+*All other singles – {{cite magazine|url=https://www.billboard.com/artist/aaron-lines/chart-history/ccw/|title=Aaron Lines Chart History – Canada Country|magazine=[[Billboard (magazine)|Billboard]]|accessdate=August 13, 2019}}</ref>
+! width="40"| [[Canadian Hot 100|CAN]]<br><ref>{{cite magazine |url=https://www.billboard.com/artist/aaron-lines/chart-history/can/|title=Aaron Lines Chart History – Canadian Hot 100|magazine=Billboard|accessdate=August 13, 2019}}</ref>
+! width="40"| [[Hot Country Songs|US Country]]<br><ref>{{cite magazine |url=https://www.billboard.com/artist/aaron-lines/chart-history/csi/|title=Aaron Lines Chart History – Hot Country Songs|magazine=Billboard|accessdate=August 13, 2019}}</ref>
+! width="40"| [[Billboard Hot 100|US]]<br><ref>{{cite magazine |url=https://www.billboard.com/artist/aaron-lines/chart-history/hsi/|title=Aaron Lines Chart History – Hot 100|magazine=Billboard|accessdate=August 13, 2019}}</ref>
+|-
+| rowspan="2"| 2001
+! scope="row"| "Love Changes Everything"
+| *
+| —
+| —
+| —
+| align="left" rowspan="2"| ''Love Changes Everything''
+|-
+! scope="row"| "I Can Read Your Heart"
+| *
+| —
+| —
+| —
+|-
+| 2002
+! scope="row"| "[[You Can't Hide Beautiful]]"
+| *
+| —
+| 4
+| 38
+| align="left" rowspan="5"| ''Living Out Loud''
+|-
+| rowspan="3"| 2003
+! scope="row"| "Living Out Loud"
+| *
+| —
+| —
+| —
+|-
+! scope="row"| "Love Changes Everything" {{small|(US release)}}
+| *
+| —
+| 39
+| —
+|-
+! scope="row"| "Close"
+| *
+| —
+| —
+| —
+|-
+| 2004
+! scope="row"| "Turn It Up (I Like the Sound of That)"
+| 7
+| —
+| —
+| —
+|-
+| rowspan="3"| 2005
+! scope="row"| "Waitin' on the Wonderful"
+| 5
+| —
+| 36
+| —
+| align="left" rowspan="5"| ''Waitin' on the Wonderful''
+|-
+! scope="row"| "It Takes a Man"
+| 6
+| —
+| —
+| —
+|-
+! scope="row"| "Lights of My Hometown"
+| 4
+| —
+| —
+| —
+|-
+| rowspan="2"| 2006
+! scope="row"| "Twenty Years Late"
+| 13
+| —
+| —
+| —
+|-
+! scope="row"| "Seeing Things"
+| 12
+| —
+| —
+| —
+|-
+| rowspan="2"| 2007
+! scope="row"| "[[Cheaper to Keep Her (song)|Cheaper to Keep Her]]"
+| 1
+| 68
+| —
+| —
+| align="left" rowspan="5"| ''Moments That Matter''
+|-
+! scope="row"| "Somebody's Son"
+| 12
+| 98
+| —
+| —
+|-
+| rowspan="3"| 2008
+! scope="row"| "Moments That Matter"
+| 8
+| 92
+| —
+| —
+|-
+! scope="row"| "Let's Get Drunk and Fight"
+| 28
+| —
+| —
+| —
+|-
+! scope="row"| "When We Make Love"
+| —
+| —
+| —
+| —
+|-
+| 2009
+! scope="row"| "Sand"
+| 24
+| —
+| —
+| —
+| align="left" rowspan="6"| ''Sunday Afternoon''
+|-
+| rowspan="3"| 2010
+! scope="row"| "I Haven't Even Heard You Cry"
+| 13
+| —
+| —
+| —
+|-
+! scope="row"| "The Trouble with California"
+| 25
+| —
+| —
+| —
+|-
+! scope="row"| "These Are Those Days"
+| 16
+| —
+| —
+| —
+|-
+| rowspan="2"| 2011
+! scope="row"| "Unloving You"
+| —
+| —
+| —
+| —
+|-
+! scope="row"| "Sunday Afternoon"
+| 41
+| —
+| —
+| —
+|-
+| colspan="7" style="font-size:8pt"| "—" denotes releases that did not chart<br>"*" denotes releases where no chart existed
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:18em;"| Video
+! Director
+|-
+| 2001
+! scope="row"| "I Can Read Your Heart"
+| Lisa Mann
+|-
+| 2002
+! scope="row"| "You Can't Hide Beautiful"
+| Thom Oliphant
+|-
+| 2003
+! scope="row"| "Living Out Loud"
+| Shawn Maher
+|-
+| rowspan="2"| 2005
+! scope="row"| "Waitin' on the Wonderful"
+| Kristin Barlowe
+|-
+! scope="row"| "Lights of My Hometown"
+| rowspan="2"| [[Warren P. Sonoda]]
+|-
+| rowspan="2"| 2007
+! scope="row"| "Cheaper to Keep Her"
+|-
+! scope="row"| "Somebody's Son"
+|
+|-
+| rowspan="2"| 2010
+! scope="row"| "I Haven't Even Heard You Cry"
+| Antonio Hrynchuk
+|-
+! scope="row"| "These Are Those Days"
+| Steve J Murphy
+|}
+
+==Awards and nominations==
+{| class="wikitable"
+|-
+! Year
+! Association
+! Category
+! Result
+|-
+| 2001
+| [[Canadian Country Music Association]]
+| Chevy Trucks Rising Star Award
+| {{nom}}
+|-
+| rowspan="4"| 2002
+| [[Juno Awards of 2002]]
+| [[Juno Award for Country Album of the Year|Best New Country Artist/Group]]
+| {{nom}}
+|-
+| rowspan="9"| Canadian Country Music Association
+| Chevy Trucks Rising Star Award
+| {{nom}}
+|-
+| Independent Male Artist of the Year
+| {{nom}}
+|-
+| Independent Song of the Year – "Love Changes Everything"
+| {{nom}}
+|-
+| rowspan="6"| 2003
+| Kraft Cheez Whiz Fans' Choice Award
+| {{nom}}
+|-
+| Male Artist of the Year
+| {{won}}
+|-
+| Chevy Trucks Rising Star Award
+| {{won}}
+|-
+| Album of the Year – ''Living Out Loud''
+| {{nom}}
+|-
+| Single of the Year – "You Can't Hide Beautiful"
+| {{nom}}
+|-
+| CMT Video of the Year – "You Can't Hide Beautiful"
+| {{nom}}
+|-
+| rowspan="2"| 2004
+| [[Juno Awards of 2004]]
+| Country Recording of the Year – ''Living Out Loud''
+| {{nom}}
+|-
+| Canadian Country Music Association
+| Male Artist of the Year
+| {{nom}}
+|-
+| rowspan="2"| 2006
+| [[Juno Awards of 2006]]
+| Country Recording of the Year – ''Waitin' on the Wonderful''
+| {{nom}}
+|-
+| Canadian Country Music Association
+| Kraft Cheez Whiz Fans' Choice Award
+| {{nom}}
+|-
+| 2008
+| [[Juno Awards of 2008]]
+| Country Recording of the Year – ''Moments That Matter''
+| {{nom}}
+|-
+| 2011
+| Canadian Country Music Association
+| Album of the Year – ''Sunday Afternoon''
+| {{nom}}
+|-
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{IMDb name|nm2517560}}
+
+{{Portal|Biography}}
+
+{{Aaron Lines}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lines, Aaron}}
+[[Category:306 Records artists]]
+[[Category:1977 births]]
+[[Category:Canadian country guitarists]]
+[[Category:Canadian male guitarists]]
+[[Category:Canadian country singer-songwriters]]
+[[Category:Canadian male singer-songwriters]]
+[[Category:Living people]]
+[[Category:Singers from Alberta]]
+[[Category:People from Fort McMurray]]
+[[Category:Canadian Country Music Association Male Artist of the Year winners]]
+[[Category:Canadian Country Music Association Rising Star Award winners]]
+[[Category:21st-century Canadian guitarists]]
+[[Category:21st-century Canadian male singers]]
+[[Category:21st-century Canadian singers]]
+[[Category:21st-century Canadian singer-songwriters]]

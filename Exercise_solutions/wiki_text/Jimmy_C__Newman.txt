@@ -1,0 +1,422 @@
+{{Short description|American country music singer-songwriter (1927–2014)}}
+{{Use mdy dates|date=December 2020}}
+{{More citations needed|date=June 2014}}
+{{Infobox musical artist
+| name             = Jimmy C. Newman
+| image            = Jimmycnewman.jpg
+| caption          = Newman at 2009 [[Festivals Acadiens et Créoles]]
+| image_size       = 
+| landscape        = yes
+| background       = solo_singer
+| birth_name       = Jimmy Yves Newman
+| alias            = 
+| birth_date       = {{birth date|1927|08|29}}
+| birth_place      = [[Mamou, Louisiana|Mamou]], [[Louisiana]], U.S.
+| death_date       = {{death date and age|2014|06|21|1927|08|29}}
+| death_place      = [[Nashville]], [[Tennessee]], U.S.
+| instrument       = Acoustic guitar
+| genre            = [[Country music|Country]], [[Cajun music|Cajun]]
+| occupation       = Singer-songwriter
+| years_active     = 1954–2014
+| label            = [[Feature Records]]
+| associated_acts  = 
+| website          = 
+}}
+
+'''Jimmy Yves Newman''' (August 29, 1927 – June 21, 2014),<ref name="AMG">{{Cite web|url=https://www.allmusic.com/artist/jimmy-c-newman-mn0000351840/biography|title=Jimmy C. Newman &#124; Biography & History|website=[[AllMusic]]|access-date=August 8, 2021}}</ref> better known as '''Jimmy C. Newman''' (the C stands for Cajun),<ref name="AMG"/><ref>{{cite web|title=CMT.com Jimmy C. Newman|url=http://www.cmt.com/artists/az/newman_jimmy_c_/bio.jhtml|archive-url=https://web.archive.org/web/20040203024437/http://www.cmt.com/artists/az/newman_jimmy_c_/bio.jhtml|url-status=dead|archive-date=February 3, 2004|publisher=Cmt.com|access-date=October 22, 2009}}</ref> was an American [[country music]] and [[cajun music|cajun]] singer-songwriter and long-time [[celebrity|star]] of the [[Grand Ole Opry]].
+
+==Early life==
+Newman was born near Big Mamou, [[Louisiana]], United States.<ref name="AMG"/>  As a child, he listened more to [[Gene Autry]] than to the [[Cajun music]] of the area, but had a number of Cajun songs in his repertoire when, as a teenager, he joined Chuck Guillory's Rhythm Boys.<ref name="AMG"/>
+
+==Early career==
+He [[sound recording and reproduction|recorded]] a few unsuccessful sides for [[J. D. "Jay" Miller]]'s [[Feature Records]] in the 1940s, but Miller persuaded [[Fred Rose (songwriter)|Fred Rose]] in [[Nashville, Tennessee]] to give the young singer an opportunity.<ref name="AMG"/>  In 1953, he was signed to [[Dot Records]] and the following year recorded "[[Cry, Cry, Darling]]", which reached No. 4 on the [[country music|country]] [[record chart|chart]].<ref name="AMG"/>
+
+His recording success led the ''[[Louisiana Hayride]]'' in [[Shreveport, Louisiana]], to hire him as a regular performer.<ref name="AMG"/> His next four records all reached [[Top 40|Top 10]] status, and in 1956 he was invited to become a member of the [[Grand Ole Opry]].<ref>{{cite web |url=http://www.opry.com/artists/n/Newman_JimmyC.html |title=Grand Ole Opry &#124; The Show That Made Country Music Famous |website=Opry.com |access-date=August 18, 2014 |archive-url=https://web.archive.org/web/20160307125928/http://opry.com/artists/n/newman_jimmyc.html |archive-date=March 7, 2016 |url-status=dead }}</ref> That following year he released his biggest [[hit single|hit]], "A Fallen Star", which spent two weeks at No. 2 and also entered the top 25 of the [[Billboard Hot 100|''Billboard'' Hot 100]] pop chart.<ref name="AMG"/>
+
+As an established artist, he began to integrate his Cajun influences into his music and recorded "Alligator Man", which was a top 25 record and continued to be his theme song at the Opry. In 1963, he released another top 10 hit, "The D.J. Cried".<ref name="AMG"/> His final hits came in 1965 and 1966 with "Artificial Rose" and "Back Pocket Money". When his commercial popularity declined he returned to Cajun music, forming his Cajun Country band and taking the high energy [[fiddle]]- and [[accordion]]-based music of his native Louisiana to fans around the world.  In 1976, his recording of the [[Cajun French]] song, "Lâche pas la patate" ("The Potato Song") earned [[music recording sales certification|gold record]] status in Canada. In 1991, Newman and Cajun Country earned a [[Grammy Award]] nomination for their album, ''Alligator Man''.
+
+Entertainer [[Dolly Parton]] has long credited Newman with enabling her first appearance on the Grand Ole Opry, in 1959, describing how when she appeared at the Opry unannounced at age 13, asking to sing, Newman relinquished one of his two allotted slots to allow Parton to perform.
+
+==Later career==
+In 2000, he was inducted into the North American [[Country Music Association]]’s International Hall of Fame and in 2004 was inducted into the Cajun Hall of Fame. He is also honored in the Cajun Music Hall of Fame in Eunice, Louisiana, and in 2009 he was inducted into The [[Louisiana Music Hall of Fame]]. He continued to tour and appear regularly at the Grand Ole Opry, making his last appearance on the show on June 6, 2014.<ref name=Tennessean>{{cite web|url=http://www.tennessean.com/story/entertainment/music/2014/06/22/jimmy-c-newman-obituary/11232265/ |title=Jimmy C. Newman, Cajun country pioneer, dies at 86 |publisher=Tennessean.com |date=June 22, 2014 |access-date=August 18, 2014}}</ref> In 2006, he joined a select group of entertainers who have marked 50 years of Opry membership.
+
+==Personal life==
+Newman and his wife made their home on their {{convert|670|acre|km2|adj=on}} ranch outside of Nashville near [[Murfreesboro, Tennessee]].
+
+==Death==
+Newman died of cancer, in Nashville, on June 21, 2014.<ref name=Tennessean />
+
+==Discography==
+===Albums===
+{| class="wikitable"
+|-
+! Year
+! Album title
+! [[US Country]]
+! Label
+|-
+| 1959
+| ''This Is Jimmy Newman''
+| style="text-align:center;"| —
+| MGM
+|-
+| 1962
+| ''Jimmy Newman''
+| style="text-align:center;"| —
+| rowspan="9"| Decca
+|-
+| 1963
+| ''Folk Songs of the Bayou Country''
+| style="text-align:center;"| —
+|-
+| rowspan="2"| 1966
+| ''Artificial Rose''
+| style="text-align:center;"| 10
+|-
+| ''Sings Country Songs''
+| style="text-align:center;"| —
+|-
+| 1967
+| ''The World of Country Music''
+| style="text-align:center;"| —
+|-
+| rowspan="2"| 1968
+| ''The Jimmy Newman Way''
+| style="text-align:center;"| —
+|-
+| ''Born to Love You''
+| style="text-align:center;"| 42
+|-
+| 1969
+| ''The Jimmy Newman Style''
+| style="text-align:center;"| —
+|-
+| 1970
+| ''Country Time''
+| style="text-align:center;"| —
+|-
+| 1974
+| ''Sings Cajun''
+| style="text-align:center;"| —
+| La Louisiane
+|-
+| rowspan="2"| 1976
+| ''Progressive Country''
+| style="text-align:center;"| —
+| rowspan="4"| Plantation
+|-
+| ''Greatest Hits''
+| style="text-align:center;"| —
+|-
+| 1978
+| ''Cajun Cowboy''
+| style="text-align:center;"| —
+|-
+| 1979
+| ''Happy Cajun''
+| style="text-align:center;"| —
+|-
+| 1981
+| ''Cajun Country''
+| style="text-align:center;"| —
+| Delta
+|}
+
+===Singles===
+{| class="wikitable"
+|-
+! Year
+! Single
+! <small>[[Hot Country Songs|US Country]]</small>
+! Album
+|-
+| rowspan=2 | 1953
+| "I Made a Big Mistake"<!-- ("J'ai Fait Une Grosse Error")-->
+| align=center | —
+| rowspan=2 | ''The Original Cry, Cry, Darling''<br>''Jimmy Newman & Al Terry – Their Earliest Recordings 1949–1952''<ref>{{cite web|url=http://www.discogs.com/Jimmy-Newman-Al-Terry-Their-Earliest-Recordings-1949-1952/release/2943924 |title=Jimmy Newman* & Al Terry – Their Earliest Recordings 1949–1952 (Vinyl, LP) at Discogs |date=1981 |publisher=Discogs.com |access-date=August 18, 2014}}</ref>
+|-
+| "I Don't Know What I'm Going to Do"
+| align=center | —
+|-
+| rowspan="3"| 1954
+| "[[Cry, Cry, Darling]]"
+| style="text-align:center;"| 4
+| rowspan=14| singles only
+|-
+| "Night Time Is Cry Time"
+| style="text-align:center;"| —
+|-
+| "Your True and Faithful One"
+| style="text-align:center;"| —
+|-
+| rowspan="2"| 1955
+| "Daydreamin'"
+| style="text-align:center;"| 7
+|-
+| "Blue Darlin'"
+| style="text-align:center;"| 7
+|-
+| rowspan="4"| 1956
+| "God Was So Good"
+| style="text-align:center;"| 9
+|-
+| "Seasons of My Heart"
+| style="text-align:center;"| 9
+|-
+| "Come Back to Me"
+| style="text-align:center;"| 13
+|-
+| "Honky Tonk Tears"
+| style="text-align:center;"| —
+|-
+| rowspan="3"| 1957
+| "I've Got You on My Mind"
+| style="text-align:center;"| —
+|-
+| "A Fallen Star"<sup>A</sup>
+| style="text-align:center;"| 2
+|-
+| "Need Me"
+| style="text-align:center;"| —
+|-
+| rowspan="3"| 1958
+| "Step Aside Shallow Water Let the Deep Sea Roll"
+| style="text-align:center;"| —
+|-
+| "Bop-a-Hula"
+| style="text-align:center;"| —
+|-
+| "You're Makin' a Fool Out of Me"
+| style="text-align:center;"| 7
+| rowspan="3"| ''This Is Jimmy Newman''
+|-
+| rowspan="4"| 1959
+| "So Soon"
+| style="text-align:center;"| 19
+|-
+| "Lonely Girl"
+| style="text-align:center;"| 30
+|-
+| "Grin and Bear It"
+| style="text-align:center;"| 9
+| rowspan="5"| singles only
+|-
+| "Walkin' Down the Road"
+| style="text-align:center;"| 29
+|-
+| rowspan="3"| 1960
+| "I Miss You Already"
+| style="text-align:center;"| 21
+|-
+| "A Lovely Work of Art"
+| style="text-align:center;"| 6
+|-
+| "Wanting You with Me Tonight"
+| style="text-align:center;"| 11
+|-
+| rowspan="2"| 1961
+| "Everybody's Dying for Love"
+| style="text-align:center;"| 14
+| rowspan="3"| ''Jimmy Newman''
+|-
+| "Big Mamou"
+| style="text-align:center;"| —
+|-
+| rowspan="3"| 1962
+| "Alligator Man"
+| style="text-align:center;"| 22
+|-
+| "Of All the Things (You Left)"
+| style="text-align:center;"| —
+| rowspan="8"| singles only
+|-
+| "After Dark Affair"
+| style="text-align:center;"| —
+|-
+| rowspan="2"| 1963
+| "Bayou Talk"
+| style="text-align:center;"| 12
+|-
+| "Everything"
+| style="text-align:center;"| —
+|-
+| rowspan="4"| 1964
+| "D.J. for a Day"
+| style="text-align:center;"| 9
+|-
+| "Angel on Leave"
+| style="text-align:center;"| 34
+|-
+| "Summer Skies and Golden Sands"
+| style="text-align:center;"| 34
+|-
+| "You're Still on My Mind"
+| style="text-align:center;"| —
+|-
+| rowspan="3"| 1965
+| "City of the Angels"
+| style="text-align:center;"| 37
+| rowspan="3"| ''Artificial Rose''
+|-
+| "Back in Circulation"
+| style="text-align:center;"| 13
+|-
+| "Artificial Rose"
+| style="text-align:center;"| 8
+|-
+| rowspan="2"| 1966
+| "Back Pocket Money"
+| style="text-align:center;"| 10
+| rowspan="2"| ''Sings Country Songs''
+|-
+| "Bring Your Heart Home"
+| style="text-align:center;"| 25
+|-
+| rowspan="3"| 1967
+| "Dropping Out of Sight"
+| style="text-align:center;"| 32
+| ''The World of Country Music''
+|-
+| "Louisiana Saturday Night"
+| style="text-align:center;"| 24
+| rowspan="2"| ''The Jimmy Newman Way''
+|-
+| "Blue Lonely Winter"
+| style="text-align:center;"| 11
+|-
+| rowspan="2"| 1968
+| "Sunshine and Bluebirds"
+| style="text-align:center;"| 47
+| rowspan="2"| ''Born to Love You''
+|-
+| "Born to Love You"<sup>B</sup>
+| style="text-align:center;"| 20
+|-
+| rowspan="3"| 1969
+| "Future Farmers of America"
+| style="text-align:center;"| —
+| Single Release only, quickly withdrawn after protests from the actual F.F.A.
+|-
+| "Boo Dan"
+| style="text-align:center;"| 31
+| rowspan="2"| ''The Jimmy Newman Style''
+|-
+| "Three"
+| style="text-align:center;"| —
+|-
+| rowspan="3"| 1970
+| "Foolishly"
+| style="text-align:center;"| —
+| rowspan="2"| ''Country Time''
+|-
+| "Washington, DC"
+| style="text-align:center;"| —
+|-
+| "I'm Holding Your Memory (But He's Holding You)"
+| style="text-align:center;"| 65
+| rowspan="7"| singles only
+|-
+| 1971
+| "Is It Really Over"
+| style="text-align:center;"| —
+|-
+| rowspan="3"| 1972
+| "Secret Love"
+| style="text-align:center;"| —
+|-
+| "Not as a Sweetheart (Just as a Friend)"
+| style="text-align:center;"| —
+|-
+| "Wild Rose"
+| style="text-align:center;"| —
+|-
+| rowspan="2"| 1973
+| "Kind of Love I Can't Forget"
+| style="text-align:center;"| —
+|-
+| "Just Once More"
+| style="text-align:center;"| —
+|-
+| rowspan="2"| 1974
+| "Potato Songs"
+| style="text-align:center;"| —
+| ''Sings Cajun''
+|-
+| "Go Go Song"
+| style="text-align:center;"| —
+| single only
+|-
+| 1978
+| "Happy Cajun"
+| style="text-align:center;"| —
+| rowspan="3"| ''Happy Cajun''
+|-
+| rowspan="2"| 1979
+| "Sugar Bee"
+| style="text-align:center;"| —
+|-
+| "Sweet Suzannah"
+| style="text-align:center;"| —
+|-
+| 1980
+| "Cotton Eyed Joe"
+| style="text-align:center;"| —
+| single only
+|-
+| 1981
+| "Louisiana"
+| style="text-align:center;"| —
+| ''Cajun Country''
+|-
+| 1982
+| "All My Cloudy Days Are Gone"
+| style="text-align:center;"| —
+| rowspan="4"| singles only
+|-
+| 1983
+| "Wondering"
+| style="text-align:center;"| —
+|-
+| 1984
+| "Passe par tout"
+| style="text-align:center;"| —
+|-
+| 1987
+| "Laissez les bons temps rouler"
+| style="text-align:center;"| —
+|}
+*<sup>A</sup>"A Fallen Star" peaked at No.&nbsp;23 on the ''[[Billboard (magazine)|Billboard]]'' [[Billboard Hot 100|Hot 100]] and No.7 on the R&B chart.<ref>{{cite book |title= Top R&B/Hip-Hop Singles: 1942–2004|last=Whitburn |first=Joel |author-link=Joel Whitburn |year=2004 |publisher=Record Research |page=428}}</ref>
+*<sup>B</sup>"Born to Love You" peaked at No.&nbsp;35 on the ''[[RPM (magazine)|RPM]]'' Country Tracks chart in Canada.
+
+==References==
+{{Reflist}}
+
+==Bibliography==
+*Seemann, Charlie (1998). "Jimmy C. Newman". In ''The Encyclopedia of Country Music''. Paul Kingsbury, Editor. New York: Oxford University Press. p.&nbsp;379.
+
+==External links==
+* {{allMusic|artist//jimmy-c-newman-mn0000351840}}
+* [https://adp.library.ucsb.edu/names/106800 Jimmy C. Newman recordings] at the [[Discography of American Historical Recordings]].
+* {{Discogs artist}}
+*{{IMDb name|2331775}}
+
+{{Grand Ole Opry members}}
+{{Authority control}}
+
+{{DEFAULTSORT:Newman, Jimmy C}}
+[[Category:1927 births]]
+[[Category:2014 deaths]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Cajun musicians]]
+[[Category:Feature Records artists]]
+[[Category:Charly Records artists]]
+[[Category:Deaths from cancer in Tennessee]]
+[[Category:Decca Records artists]]
+[[Category:Grand Ole Opry members]]
+[[Category:MGM Records artists]]
+[[Category:People from Mamou, Louisiana]]
+[[Category:Singer-songwriters from Louisiana]]
+[[Category:Country musicians from Louisiana]]
+[[Category:Country musicians from Tennessee]]
+[[Category:Singer-songwriters from Tennessee]]

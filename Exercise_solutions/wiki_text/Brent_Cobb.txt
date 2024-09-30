@@ -1,0 +1,216 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=June 2020}}
+{{Infobox musical artist
+| name             = Brent Cobb
+| image            = File:Brent Cobb 2016 press photo.png
+| landscape        = Yes
+| alt              =
+| caption          =
+| birth_name       =
+| native_name      =
+| native_name_lang =
+| alias            =
+| birth_date       = {{birth date and age|1986|08|01}}
+| birth_place      = [[Americus, Georgia|Americus]], Georgia
+| death_date       = <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date 1st) -->
+| death_place      =
+| genre            = {{hlist|[[Country music|Country]]|[[Americana music|Americana]]|[[Outlaw country]]|[[Southern rock]]|}}
+| occupation       = Singer-songwriter
+| instrument       =
+| years_active     = 2008–present
+| label            = {{flatlist|
+*[[Low Country Sound]]
+*[[Elektra Records|Elektra]]
+*[[Atlantic Records|Atlantic]]
+*[[Warner Music Group]]
+}}
+| associated_acts  = {{flatlist|
+*[[Luke Bryan]]
+*[[Chris Stapleton]]
+*[[Dave Cobb]]
+*[[Shooter Jennings]]
+}}
+| website          = {{URL|brentcobbmusic.com/}}
+}}
+
+'''Brent Cobb''' (born August 1, 1986) is an American [[Country (music)|country music]] singer-songwriter and artist.<ref name="Scene">{{cite news | last=Freeman| first=Jon| title =Brent Cobb Paints the Joy and Sadness of Rural Life in Stunning Detail on His New LP Shine On Rainy Day| work = [[Nashville Scene]]| date =October 6, 2016 | url =http://www.nashvillescene.com/music/features/article/20835969/brent-cobb-paints-the-joy-and-sadness-of-rural-life-in-stunning-detail-on-his-new-lp-shine-on-rainy-day| accessdate =October 31, 2016}}</ref><ref name="CMT">{{cite news | last=Tingle| first=Lauren| title =Brent Cobb on the Spirit Behind Shine On Rainy Day| publisher = [[CMT (U.S. TV channel)|CMT]]| date =October 11, 2016 | url =http://www.cmt.com/news/1771920/brent-cobb-on-the-spirit-behind-shine-on-rainy-day/| archive-url =https://web.archive.org/web/20161012150559/http://www.cmt.com/news/1771920/brent-cobb-on-the-spirit-behind-shine-on-rainy-day/| url-status =dead| archive-date =October 12, 2016| accessdate =October 31, 2016}}</ref> Cobb has released six studio albums and one EP.<ref name="BB">{{cite news | last=Leight| first=Elias| title =Brent Cobb Steps Back Into the Spotlight With 'Shine on Rainy Day'| work = [[Billboard (magazine)|Billboard]]| date =October 7, 2016 | url =http://www.billboard.com/articles/columns/country/7534046/brent-cobb-shine-on-rainy-day-interview| accessdate =October 31, 2016}}</ref> His most recent album, ''Southern Star'', was released on September 22, 2023. ''Providence Canyon'' was his second major-label LP with [[Low Country Sound]], an imprint of [[Elektra Records|Elektra]].<ref name="Songwriter">{{cite news | last=Horowitz| first=Hal| title =Brent Cobb: Shine On Rainy Day| work = [[American Songwriter]]| date =October 7, 2016 | url =http://americansongwriter.com/2016/10/brent-cobb-shine-rainy-day/| accessdate =October 31, 2016}}</ref><ref name="Boot">{{cite news | last=Carr| first=Courtney| title =Brent Cobb Releases Major-Label Debut Album| work = [[The Boot (website)|The Boot]]| date =October 7, 2016 | url =http://theboot.com/brent-cobb-shine-on-rainy-day/| accessdate =October 31, 2016}}</ref> His previous album ''Shine On Rainy Day'' peaked at number 17 on ''[[Billboard (magazine)|Billboard]]''{{'}}s [[Top Country Albums]] chart.<ref name="BBCountry">{{cite web |url=https://www.billboard.com/artist/brent-cobb/chart-history/clp/ |title=Brent Cobb – Chart History – Top Country Albums|author=<!--Staff writer(s); no by-line.--> |work=[[Billboard (magazine)|Billboard]]|accessdate=October 31, 2016}}</ref> Cobb also received a 2018 [[Grammy Award]] nomination for this album.<ref name="grammy1">{{cite web|last=Hertweck |first=Nate |url=https://www.grammy.com/grammys/news/2018-grammy-nominations-best-americana-album-roundup |title=2018 GRAMMY Nominations: Best Americana Album Roundup |publisher=National Academy of Recording Arts and Sciences |date=January 16, 2018 |accessdate=April 5, 2018}}</ref> Cobb has written songs for a variety of country artists, including [[Luke Bryan]], [[Kellie Pickler]], [[Kenny Chesney]], [[Miranda Lambert]], [[Little Big Town]], [[The Oak Ridge Boys]] as well as many others.<ref name="CMT"/>
+
+==Early life==
+
+Cobb was born in [[Americus, Georgia]]<ref name="Hour">{{cite news | last=Evans| first=Brad| title =A chat with singer/songwriter Brent Cobb – Playing Macon Aug. 26| newspaper =[[The 11th Hour (newspaper)|The 11th Hour]]| date =August 24, 2016 | url =http://11thhouronline.com/2016/08/24/a-chat-with-singersongwriter-brent-cobb/| accessdate =October 31, 2016}}</ref> but raised in the nearby town of [[Ellaville, Georgia|Ellaville]].<ref name="Scene"/><ref name="CMT"/> His father, Patrick Cobb, was an appliance repairman who was also in a rock band. Brent made his vocal debut at age 7 when he sang [[Tim McGraw]]'s "[[Don't Take the Girl]]" with his father's band in a [[Richland, Georgia]] festival performance.
+
+As a teenager, Cobb fronted a local band called Mile Marker 5 which had some regional success and opened for larger stars.<ref name="CS">{{cite news | last=DeYoung| first=Bill| title =5 questions: Brent Cobb | newspaper =Connect Savannah| date =January 8, 2013 | url =http://www.connectsavannah.com/savannah/5-questions-brent-cobb/Content?oid=2175613| accessdate =October 31, 2016}}</ref> At age 16, Cobb met his cousin, [[Dave Cobb]], at a family funeral. Dave was a producer based in Los Angeles, and Brent gave him a demo CD. Dave, along with [[Shooter Jennings]], would later fly Brent to Los Angeles to record his debut album, ''No Place Left to Leave''.<ref name="Scene"/><ref name="BB"/><ref name="Hour"/><ref name="Tenn">{{cite news | last=Melchior| first=Tom| title =How Brent Cobb made it to Nashville| newspaper =[[The Tennessean]]| date =October 28, 2016 | url =http://www.tennessean.com/story/life/entertainment/12th/2016/10/27/how-brent-cobb-made-nashville/92839550/| accessdate =October 31, 2016}}</ref>
+
+==Career==
+
+Cobb recorded his debut album, ''No Place Left to Leave'', in 2006 with his cousin while in Los Angeles. However, after some time in this period, he decided to return to Georgia.
+
+Country star and acquaintance [[Luke Bryan]] suggested Cobb move to [[Nashville]] which, in turn, he eventually did in 2008. Initially, Cobb worked as a photo developer at [[Walgreens]] but eventually managed to negotiate a songwriting contract with Carnival Music Publishing within the year.<ref name="BB"/>
+
+After obtaining his songwriting contract, Cobb then went on to write a variety of songs for many prominent stars, such as Luke Bryan's "Tailgate Blues", [[David Nail]] and [[Frankie Ballard]]'s "Grandpa's Farm", Kellie Pickler's "Rockaway", Kenny Chesney's "Don't It", Miranda Lambert's "Old Sh!t", as well as numerous other performers.<ref name="CMT"/><ref name="Boot"/><ref name="SMN">{{cite news | last=Sickler| first=Linda| title =Georgia songwriter Brent Cobb goes from Willie Nelson to stage of his own| newspaper =[[Savannah Morning News]]| date =January 10, 2013 | url =http://savannahnow.com/do/2013-01-10/georgia-songwriter-brent-cobb-goes-willie-nelson-stage-his-own| accessdate =October 31, 2016}}</ref>
+
+[[File:Brent Cobb Performance Third & Lindsley.jpeg|thumb|upright=0.90|Brent Cobb playing the Americana Festival at 3rd & Lindsley.]]
+Cobb released a self-titled EP in 2012, and began opening for established stars such as [[Blake Shelton]] and [[Sara Evans]], playing around 120 dates per year.<ref name="BB"/><ref name="CT">{{cite news | title =Brent Cobb plays free July 6 show at Western Carolina| newspaper =[[Asheville Citizen-Times]]| date =June 28, 2016 | url =http://www.citizen-times.com/story/life/2016/06/28/brent-cobb-plays-free-july-6-show-western-carolina/86487284/| accessdate =October 31, 2016}}</ref> In 2016, his song "Down Home" appeared on [[Dave Cobb]]'s compilation album, ''Southern Family'', alongside songs from artists like Miranda Lambert, [[Chris Stapleton]], and [[Zac Brown]].<ref name="Boot"/><ref name="CT"/>
+
+On October 7, 2016, Cobb's major-label debut album, ''Shine On Rainy Day'', was released via the Elektra Records imprint, Low Country Sound.<ref name="CMT"/><ref name="Songwriter"/><ref name="NPR">{{cite news | last=Powers| first=Ann| title =Nashville Sessions: Brent Cobb| publisher =[[NPR]]| date =June 27, 2016 | url =https://www.npr.org/sections/world-cafe/2016/06/27/483730677/nashville-sessions-brent-cobb| accessdate =October 31, 2016}}</ref> The album peaked at number 17 on ''Billboard''{{'s}} Top Country Albums chart<ref name="BBCountry"/> and at number 5 on the [[Top Heatseekers]] chart.<ref name="BBHeat">{{cite web |url=https://www.billboard.com/artist/brent-cobb/chart-history/tln/ |title=Brent Cobb – Chart History – Heatseekers Albums|author=<!--Staff writer(s); no by-line.--> |work=[[Billboard (magazine)|Billboard]]|accessdate=October 31, 2016}}</ref> Cobb also has received a 2018 Grammy Award nomination as Best [[Americana (music)|Americana]] Album for his work on ''Shine On Rainy Day''.<ref name="grammy1"/>
+
+Throughout 2018, Cobb went on a headline tour in support of his Low Country Sound LP album called ''Providence Canyon'', which was released May 11, 2018. Currently in 2023, Cobb was on a headline tour in support of his Ole Buddy Records LP album called ''Southern Star'', which was released September 22, 2023. 
+
+Cobb has toured extensively as a main supporting act and special guest for Chris Stapleton on his [[Chris Stapleton's All-American Road Show Tour|All-American Road Show Tour]].<ref>{{cite web|last=Gage |first=Jeff |url=https://www.rollingstone.com/country/news/hear-brent-cobb-honor-late-musician-wayne-mills-in-new-song-w517691 |title=Hear Brent Cobb Honor Late Musician Wayne Mills in New Song |work=Rolling Stone |date=March 9, 2018 |accessdate=April 5, 2018}}</ref><ref>{{cite web|url=http://www.chrisstapleton.com/tour/ |title=Shows |publisher=Chris Stapleton |accessdate=April 5, 2018}}</ref>
+Cobb has also toured as a special guest in 2023 on [[Luke Combs]] World Tour.<ref>{{cite web|last=McArdle |first=Tommy |url=https://people.com/country/luke-combs-announces-2023-world-tour-with-riley-green-lainey-wilson-cody-johnson/ |title=Luke Combs Announces 2023 World Tour with Opening Acts Lainey Wilson, Riley Green and Cody Johnson |work=People |date=September 8, 2022 |accessdate=October 19, 2023}}</ref>
+
+==Musical style==
+
+Cobb's musical style has been described as "blue collar country"<ref name="CMT"/> with "[[Bluegrass (music)|bluegrass]]-leaning inclinations."<ref name="RS">{{cite news | last=Moss| first=Marissa R.| title =See Brent Cobb Record Folksy 'Down Home' With Producer Cousin Dave Cobb| work =[[Rolling Stone]]| date =March 23, 2016 | url =https://www.rollingstone.com/music/news/see-brent-cobb-record-folksy-down-home-with-producer-cousin-dave-cobb-20160323| accessdate =October 31, 2016}}</ref> Some have noted that his sound is closer to Americana than contemporary country music. Jon Freeman of the ''[[Nashville Scene]]'' described Cobb's voice as "soft and sweet, with surefooted hints of soul."<ref name="Scene"/> His voice has been compared to [[Willie Nelson]], [[Al Green]],<ref name="CMT"/> and [[Merle Haggard]].<ref name="CS"/> Dave Cobb, who produced ''Shine On Rainy Day'', described the album as "pure rural, country, soul-filled music."<ref name="Boot"/>
+
+Lyrically, Cobb's songs often detail experiences of rural living in a conversational tone<ref name="Scene"/> and "the influence of his Southern raising is weaved through nearly every note and line."<ref name="WOC">{{cite news | last=Liebig| first=Lorie| title =Brent Cobb's 'Shine On Rainy Day' is the Best Debut Album We've Heard in a Long Time| work =Wide Open Country| date =October 6, 2016 | url =http://www.wideopencountry.com/brent-cobb-shine-on-rainy-day/| accessdate =October 31, 2016}}</ref> Writing for ''Billboard'', Elias Leight noted that Cobb is "a laid back narrator, easygoing even when forlorn."<ref name="BB"/>
+
+==Discography==
+
+===Studio albums===
+
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2" style="width:10em;"| Title
+! scope="col" rowspan="2" style="width:21em;"| Album details
+! scope="col" colspan="3"| Peak chart positions
+! scope="col" rowspan="2" style="width:8em;"| Sales
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[Top Country Albums|US<br />Country]]<br /><ref name="BBCountry"/>
+! scope="col" style="width:3em;font-size:85%;"| [[Top Heatseekers|US<br />Heat]]<br /><ref name="BBHeat"/>
+! scope="col" style="width:3em;font-size:85%;"| [[Folk Albums|US<br />Folk]]<br /><ref>{{cite web |url=https://www.billboard.com/artist/brent-cobb/chart-history/flk/|title=Brent Cobb Chart History (Americana/Folk Albums) |work=Billboard}}</ref>
+|-
+!scope="row"| ''No Place Left to Leave''
+|
+* Release: August 2006
+* Label: Beverly Martel 
+* Format: CD
+| — || — || —
+|
+|-
+!scope="row"| ''Shine on Rainy Day''
+|
+* Release: October 7, 2016
+* Label: Low Country Sound/[[Elektra Records|Elektra]]
+* Format: CD, digital download, vinyl
+| 17 || 5 || 16 
+|
+*US: 3,400<ref>{{cite news |url=http://roughstock.com/news/2016/10/41023-top-10-country-albums-chart-october-31-2016 |title=Top 10 Country Albums Sales Chart: October 31, 2016 |first= Matt |last=Bjorke |date= October 30, 2016 |work=Roughstock }}</ref>
+|-
+!scope="row"| ''Providence Canyon''
+|
+* Release: May 11, 2018
+* Label: Low Country Sound/[[Elektra Records|Elektra]]
+* Format: CD, digital download, vinyl
+| — || 2 || 23
+|
+*US:3,400<ref>{{cite news |url=http://roughstock.com/news/2018/06/43078-top-10-country-albums-sales-chart-june-5-2018 |title=Top 10 Country Albums Sales Chart: June 5, 2018 |first= Matt |last= Bjorke |date= June 4, 2018 |work=Roughstock |accessdate=July 1, 2018}}</ref>
+|-
+! scope="row" | ''Keep 'Em on They Toes''
+|
+* Release: October 2, 2020
+* Label: [[Thirty Tigers]]
+* Format: CD, digital download, vinyl
+| — || — || —
+|
+|-
+! scope="row" | ''And Now Let's Turn to Page...''
+|
+* Release: January 28, 2022
+* Label: Thirty Tigers
+* Format: CD, digital download, vinyl
+| — || — || —
+|
+|-
+! scope="row" | ''[[Southern Star (Brent Cobb album)|Southern Star]]''
+|
+* Release: September 22, 2023
+* Label: Ol' Buddy Records
+* Format: CD, digital download, vinyl
+| — || — || —
+|
+| colspan="7" style="font-size:8pt" | "—" denotes releases that did not chart
+|}
+
+===EPs===
+
+*''Brent Cobb'' (2012)<ref name="BB"/>
+
+===Songwriting===
+
+{| class="wikitable plainrowheaders"
+|+ Selected list of written songs showing album, artist, and year of release
+! scope="col"|Song
+! scope="col"|Year
+! scope="col"|Artist
+! scope="col"|Album
+|-
+| "Tailgate Blues"<ref name="CMT"/>
+| rowspan="4" |2011
+|[[Luke Bryan]]
+|''[[Tailgates & Tanlines]]''
+|-
+| "Go Outside and Dance"<ref name="SMN"/>
+| [[Eli Young Band]]
+| Non-album release
+|-
+| "Grandpa's Farm"<ref name="Boot"/><ref name="SMN"/>
+| [[Frankie Ballard]]
+| ''[[Frankie Ballard (album)|Frankie Ballard]]''
+|-
+| "Grandpa's Farm"<ref name="Boot"/><ref name="SMN"/>
+| [[David Nail]]
+| ''[[The Sound of a Million Dreams]]''
+|-
+| "Rockaway (The Rockin' Chair Song)"<ref name="CMT"/>
+| rowspan="2"| 2012
+| [[Kellie Pickler]]
+| ''[[100 Proof (album)|100 Proof]]''
+|-
+| "Pavement Ends"<ref name="CMT"/>
+| [[Little Big Town]]
+| ''[[Tornado (Little Big Town album)|Tornado]]''
+|-
+|"Old Shit"<ref name="CMT"/>
+| rowspan="3"| 2014
+| [[Miranda Lambert]]
+| ''[[Platinum (Miranda Lambert album)|Platinum]]''
+|-
+| "Stay All Night"<ref name="CMT"/>
+| [[Little Big Town]]
+| ''[[Pain Killer (Little Big Town album)|Pain Killer]]''
+|-
+| "Don't It"<ref name="CMT"/>
+| [[Kenny Chesney]]
+| ''[[The Big Revival]]''
+|-
+|"Sweet By And By"
+| 2016
+| [[Miranda Lambert]]
+| ''[[Southern Family]]''
+|}
+
+==References==
+
+{{reflist|2}}
+
+==External links==
+* [http://www.brentcobbmusic.com/ Official website]
+* {{Discogs artist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Cobb, Brent}}
+[[Category:American male singer-songwriters]]
+[[Category:American country singer-songwriters]]
+[[Category:Living people]]
+[[Category:Elektra Records artists]]
+[[Category:People from Americus, Georgia]]
+[[Category:1986 births]]
+[[Category:People from Schley County, Georgia]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:Country musicians from Georgia (U.S. state)]]
+[[Category:21st-century American male singers]]
+[[Category:Singer-songwriters from Georgia (U.S. state)]]
+[[Category:Thirty Tigers artists]]

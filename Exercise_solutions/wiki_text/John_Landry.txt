@@ -1,0 +1,204 @@
+{{about||the British actor|John Landry (actor)|other people with similar names|Jon Landry (disambiguation)}}
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist
+| name            = John Landry
+| image           =
+| image_size      =
+| birth_name      = John Mark Landry
+| alias           =
+| birth_date      = {{birth date and age|1969|12|22}}
+| origin          = [[Montreal]], Quebec, Canada
+| instrument      = Vocals, guitar
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 1999–present
+| label           = Spin Records/EMI Canada, Icon Records/Universal Canada, Tangents North
+| associated_acts =
+| website         = {{URL|jlandry.com}}
+}}
+'''John Landry''' (born December 22, 1969)<ref name="opry">[http://www.oprynorth.com/oprynorth2/independ%20july%20artist.htm John Landry] {{Webarchive|url=https://web.archive.org/web/20030303164542/http://www.oprynorth.com/oprynorth2/independ%20july%20artist.htm |date=March 3, 2003 }} at Opry North</ref> is a Canadian [[country music]] artist. Landry's debut album, ''Forever Took Too Long'', was released in 1999 by Spin Records. Its first two singles, "There You Were" and "Bit by Bit," both reached the Top 10 of the Canadian Country Singles chart. Landry was nominated for a 2000 [[Juno Award]] for [[Juno Award for Country Recording of the Year|Best Country Male Artist]].
+
+Landry entertained on the country stage at the 2003 Palmer Rapids Twin Festival in Ontario.<ref>Palmer Rapids Twin Festival Souvenir Program, July 2003</ref>
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders"
+! style="width:14em;"| Title
+! style="width:18em;"| Details
+|-
+! scope="row"| ''Forever Took Too Long''
+| 
+* Release date: August 23, 1999
+* Label: Spin Records
+|-
+! scope="row"| ''Bottom of the Ninth''
+| 
+* Release date: June 10, 2002
+* Label: Spin Records
+|-
+! scope="row"| ''Someday''
+| 
+* Release date: June 21, 2005
+* Label: Icon Records
+|-
+! scope="row"| ''Changing Man''
+| 
+* Release date: November 2, 2010
+* Label: Tangents North Music
+|-
+! scope="row"| ''Don't Look Back''
+| 
+* Release date: May 20, 2014
+* Label: Jlanpro
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Single
+! Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="4"| 1999
+! scope="row"| "[[There You Were (John Landry song)|There You Were]]"
+| 7
+| align="left" rowspan="7"| ''Forever Took Too Long''
+|-
+! scope="row"| "[[Bit by Bit]]"
+| 9
+|-
+! scope="row"| "Which Way Is Love" <small>(with [[Beverley Mahood]])</small>
+| —
+|-
+! scope="row"| "Long Gone and Forgotten"
+| 16
+|-
+| rowspan="2"| 2000
+! scope="row"| "My Heart Says Yes<br />(But the Hurt Says No)" <small>(with Stacey Lee)</small>
+| 35
+|-
+! scope="row"| "Fantasy Island"
+| *
+|-
+| 2001
+! scope="row"| "Same Old Love"
+| *
+|-
+| 2002
+! scope="row"| "When Will Your Memory Let Me Go"
+| *
+| align="left" rowspan="4"| ''Bottom of the Ninth''
+|-
+| rowspan="2"| 2003
+! scope="row"| "Everybody Rides"
+| *
+|-
+! scope="row"| "Ooh La La Baby"
+| *
+|-
+| 2004
+! scope="row"| "Drive On"
+| *
+|-
+| 2005
+! scope="row"| "Someday"
+| *
+| align="left" rowspan="2"| ''Someday''
+|-
+| 2006
+! scope="row"| "She Comes to Me"
+| *
+|-
+| 2010
+! scope="row"| "Everybody Wants to Be a Redneck"
+| *
+| align="left" rowspan="2"| ''Changing Man''
+|-
+| 2011
+! scope="row"| "Changing Man"
+| *
+|-
+| 2014
+! scope="row"| "God Given Day"
+| —
+| align="left" rowspan="2"| ''Don't Look Back''
+|-
+| 2015
+! scope="row"| "Bird's Eye View"
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart<br />* denotes unknown peak positions
+|-
+|}
+
+===Guest singles===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:10em;"| Single
+! Artist
+|-
+| 2011
+! scope="row"| "Home Now"
+| [[Tenille]]
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:20em;"| Single
+! Director
+|-
+| rowspan="4"| 1999
+! scope="row"| "There You Were"
+| 
+|-
+! scope="row"| "Bit by Bit"
+| 
+|-
+! scope="row"| "Which Way Is Love" <small>(with [[Beverley Mahood]])</small>
+| 
+|-
+! scope="row"| "Long Gone and Forgotten"
+| 
+|-
+| rowspan="2"| 2000
+! scope="row"| "My Heart Says Yes<br />(But the Hurt Says No)" <small>(with Stacey Lee)</small>
+| 
+|-
+! scope="row"| "Fantasy Island"
+| 
+|-
+| 2001
+! scope="row"| "Same Old Love"
+| 
+|-
+| 2002
+! scope="row"| "When Will Your Memory Let Me Go"
+| 
+|-
+| 2003
+! scope="row"| "Everybody Rides"
+| 
+|-
+| 2011
+! scope="row"| "Changing Man"
+| Zac Whyte
+|-
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.jlandry.com Official Site]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Landry, John}}
+[[Category:1969 births]]
+[[Category:Canadian male singer-songwriters]]
+[[Category:Canadian country singer-songwriters]]
+[[Category:Living people]]
+[[Category:Musicians from Montreal]]

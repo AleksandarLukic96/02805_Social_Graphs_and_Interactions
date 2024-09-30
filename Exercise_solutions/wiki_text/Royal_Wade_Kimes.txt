@@ -1,0 +1,204 @@
+{{short description|American country music singer (born 1951)}}
+{{Use mdy dates|date=June 2020}}
+{{Infobox musical artist
+| name            = Royal Wade Kimes
+| image           =
+| image_size      =
+| landscape       =
+| caption         =
+| birth_name      = Royal Wade Kimes<ref name="billboard"/>
+| birth_date      = {{birth date and age|1951
+|3|3}}<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=225|isbn=978-0-89820-177-2}}</ref>
+| birth_place     = [[Chester, Arkansas]], U.S.<ref name="billboard"/>
+| origin          = [[Nashville, Tennessee]], U.S.
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| instrument      = Vocals
+| years_active    = 1996–present
+| label           = [[Asylum Records|Asylum]], Wonderment
+| associated_acts = 
+}}
+'''Royal Wade Kimes''' (born March 3, 1951) is an American [[country music]] singer.
+
+==Biography==
+Kimes was the last cowboy to ride the Ark/Ok. border country, running cattle on the open range. He and his father ran a sawmill until he moved to [[Nashville, Tennessee]], in 1983. He also worked at [[Loretta Lynn]]'s [[dude ranch]] and later began recording demos through the encouragement of [[Eddy Arnold]]. Kimes also wrote the cut "We Bury the Hatchet" on [[Garth Brooks]]' album ''[[Ropin' the Wind]]'', and signed with [[Asylum Records]] in 1996. The label released the single "Leave My Mama Out Of This",<ref name="billboard">{{cite magazine|last=Price|first=Deborah Evans|date=September 28, 1996|title=Sky's the Limit for Royal Kimes|magazine=[[Billboard (magazine)|Billboard]]|pages=33, 35|url=https://books.google.com/books?id=vwkEAAAAMBAJ&q=%22Royal+wade+kimes%22&pg=PA33}}</ref> followed by his debut album ''Another Man's Sky''.<ref>{{cite web|url=http://www.allmusic.com/artist/royal-wade-kimes-mn0000353347|title=Royal Wade Kimes}}</ref>
+
+Following Leave My Mama Out Of This was the album's title track, which was made into a music video.<ref>{{cite magazine|date=June 14, 1997|title=Production notes|magazine=Billboard|page=84|url=https://books.google.com/books?id=2w8EAAAAMBAJ&q=%22royal+wade+kimes%22+%22another+man%27s+sky%22&pg=PA84}}</ref> The album's third single, "Guardian Angel", received a positive review in ''[[Billboard (magazine)|Billboard]]'', which called it "country to the core" and praised Kimes as a "talented songwriter".<ref>{{cite magazine|date=June 28, 1997|title=Single reviews: Country|magazine=Billboard|page=75|url=https://books.google.com/books?id=fQ8EAAAAMBAJ&q=%22royal+wade+kimes%22+%22asylum%22&pg=PA75}}</ref> After Kimes left Asylum, he began recording for Wonderment Records. Kimes charted at number 60 on the [[Hot Country Songs]] chart dated January 3, 2004 with "Mile High Honey".<ref name="whitburn"/> Following the song Mile High Honey Kimes began having hits abroad on Hot Disc Top 40/1st release On The Border topped the chart at no.1 followed by Ride at no.1 His song Cut The Line top out at no 2 and more followed.
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:16em;"| Title
+! style="width:18em;"| Album details
+|- 
+! scope="row"| ''Another Man's Sky''
+| 
+* Release date: 1996
+* Label: [[Asylum Records]]
+|- 
+! scope="row"| ''A Dyin' Breed''
+| 
+* Release date: 2002
+* Label: Wonderment Records
+|- 
+! scope="row"| ''Cowboy Cool''
+| 
+* Release date: 2004
+* Label: Wonderment Records
+|- 
+! rowspan="2" scope="row"| ''Snow''
+| 
+* Release date: 2005
+* Label: Wonderment Records
+|- 
+|
+* Release Date: 2000
+* Label: Wonderment Records
+|-
+! scope="row"| ''Hangin' Around the Moon''
+| 
+* Release date: 2005
+* Label: Wonderment Records
+|- 
+! scope="row"| ''Strikin' Matches''
+| 
+* Release date: 2006
+* Label: Wonderment Records
+|- 
+! scope="row"| ''How the West Was Sung''
+| 
+* Release date: 2008
+* Label: Wonderment Records
+|- 
+! scope="row"| ''White Light''
+| 
+* Release date: 2009
+* Label: Wonderment Records
+|- 
+! scope="row"| ''Crossing the Roads''
+| 
+* Release date: 2011
+* Label: Wonderment Records
+|- 
+! scope="row"| ''A Proud Land''
+| 
+* Release date: 2012
+* Label: Wonderment Records
+
+* Release Date: 2015
+* Label: Wonderment Records
+|-
+! Scope = "row" | '' Shadows Of Time''
+|
+* Release date: 2017
+* Label: Wonderment Records 
+|-
+! scope="row" | Love Of A Cowboy
+|
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! colspan="1"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]
+|- 
+| 1996
+! scope="row"| "Leave My Mama Out of This"
+| —
+| align="left" rowspan="3"| ''Another Man's Sky''
+|-
+| rowspan="2"| 1997
+! scope="row"| "Another Man's Sky"
+| —
+|-
+! scope="row"| "Guardian Angel"
+| —
+|-
+| 2002
+! scope="row"| "There Ain't Enough Miles"
+| —
+| align="left" rowspan="3"| ''A Dyin' Breed''
+|-
+| rowspan="2"| 2003
+! scope="row"| "Night Birds" <small>(with [[Garth Brooks]])</small>
+| —
+|-
+! scope="row"| "Mile High Honey"
+| 60
+|-
+| rowspan="2"| 2004
+! scope="row"| "[[Knockin' on Heaven's Door]]"
+| —
+| align="left" rowspan="2"| ''Cowboy Cool''
+|-
+! scope="row"| "Feelin' Stud"
+| —
+|-
+| 2006
+! scope="row"| "I've Got Your Back"
+| —
+| align="left"| ''Strikin' Matches''
+|-
+| rowspan="2"| 2011
+! scope="row"| "I'm an Ole Song"
+| —
+| align="left" rowspan="2"| ''Crossing the Roads''
+|-
+! scope="row"| "[[500 Miles|500 Miles Away from Home]]"
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"   
+! Year
+! style="width:18em;"| Title
+! Director
+|-   
+| 1997
+! scope="row"| "Another Man's Sky"
+| Norry Niven
+|-
+| 2000
+! scope="row"| "On The Border"
+|
+|-
+| rowspan="2" | 2002
+! scope="row"| "There Ain't Enough Miles"
+|
+|-
+! scope="row"| "In My Land"
+|
+|-
+| 2006
+! scope="row"| "Strikin' Matches In The Rain"
+|
+|-
+| 2011
+! scope="row"| "Cold Country"
+|
+|}
+
+==References==
+{{Reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Kimes, Royal Wade}}
+[[Category:1951 births]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Living people]]
+[[Category:Singer-songwriters from Arkansas]]
+[[Category:Asylum Records artists]]
+[[Category:People from Crawford County, Arkansas]]
+[[Category:Country musicians from Arkansas]]

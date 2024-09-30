@@ -1,0 +1,89 @@
+{{Short description|American singer-songwriter (1950–2021)}}
+{{Use mdy dates|date=August 2020}}
+{{Infobox musical artist
+| name                = Larry Willoughby
+| image               = 
+| image_size          = 
+| background          = solo_singer
+| birth_name          = 
+| alias               = 
+| birth_date          = {{birth date|1950|2|24}}
+| birth_place         = [[Sherman, Texas]], U.S.
+| death_date          = {{death date and age|2021|1|14|1950|2|24}}
+| death_place         = [[Sherman, Texas]], U.S.
+| origin              = 
+| instrument          = Vocals, guitar
+| genre               = [[Country music|Country]]
+| occupation          = Singer-songwriter
+| years_active        = 1983–2021
+| label               = [[Atlantic Records|Atlantic America]]
+| associated_acts     = 
+| website             = 
+}}
+'''Larry Willoughby''' (February 24, 1950<ref>[https://musicrow.com/2021/01/ar-executive-larry-willoughby-dies/ A&R Executive Larry Willoughby Dies]. ''Music Row''. Retrieved February 15, 2021.</ref> – January 14, 2021)<ref>{{cite web|url=https://tasteofcountry.com/larry-willoughby-dead-dies-covid-19/|title=Larry Willoughby, A&R Executive Who Signed Luke Bryan, Dies of COVID-19|publisher=Taste of Country|date=15 January 2021|accessdate=15 January 2021}}</ref> was an American [[country music]] singer-songwriter and the vice president of [[Artist and repertoire|A&R]] at [[Capitol Records]].<ref name="guitar">{{Cite web|url=http://www.vintageguitar.com/features/artists/details.asp?AID=2178|title=Rodney Crowell: Ditchin' the "Country" Connotation|website=Vintageguitar.com|access-date=July 13, 2009|archive-date=April 30, 2020|archive-url=https://web.archive.org/web/20200430052058/http://www.vintageguitar.com/features/artists/details.asp?AID=2178|url-status=dead}}</ref>
+
+==Biography==
+Willoughby's debut album, ''Building Bridges'', was released in 1984 by [[Atlantic Records|Atlantic America]]. Three singles were released from the album, including the [[Building Bridges (Brooks & Dunn song)|title track]], which was Willoughby's only single to reach the Top 60 of the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles]] chart.<ref>{{Cite web|url=http://www.cmt.com/news/1503686/crow-gill-to-harmonize-with-brooks-dunn/|archive-url=https://web.archive.org/web/20160312105138/http://www.cmt.com/news/1503686/crow-gill-to-harmonize-with-brooks-dunn/|url-status=dead|archive-date=March 12, 2016|title=Crow, Gill to Harmonize With Brooks & Dunn|website=Cmt.com|accessdate=April 12, 2020}}</ref> It was covered in 2006 by [[Brooks & Dunn]], whose version peaked at No.&nbsp;4.<ref>{{Cite web |url=http://magazine.angrycountry.com/article.php?story=2005060621093874 |title=Brooks & Dunn Are "Building Bridges" with Sheryl Crow & Vince Gill for Next CD |access-date=July 13, 2009 |archive-url=https://web.archive.org/web/20150923210437/http://magazine.angrycountry.com/article.php?story=2005060621093874 |archive-date=September 23, 2015 |url-status=dead }}</ref> Another single from the album, "Heart on the Line (Operator, Operator)," was covered by [[Eddy Raven]] as "Operator, Operator" and reached the country Top 10 in 1985. Willoughby's songs have also been recorded by [[The Oak Ridge Boys]], [[Waylon Jennings]], and his cousin [[Rodney Crowell]], who produced Willoughby's album.<ref name="guitar" /><ref>[{{AllMusic|class=artist|id=p25124/songs|pure_url=yes}} Songs Composed By Larry Willoughby], [[AllMusic]]</ref>
+
+Willoughby had [[Alzheimer's disease]].<ref>LB Cantrell: [https://musicrow.com/2021/01/ar-executive-larry-willoughby-dies/ A&R Executive Larry Willoughby Dies], musicrow.com, January 15, 2021</ref> He died in [[Sherman, Texas]], at the age of 70, after contracting [[COVID-19]] during the [[COVID-19 pandemic in Texas]].<ref>[https://tasteofcountry.com/larry-willoughby-dead-dies-covid-19/ Larry Willoughby, A&R Executive Who Signed Luke Bryan, Dies of COVID-19]</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable"
+! Year
+! Album
+! <small>[[Top Country Albums|US Country]]</small>
+! Label
+|- 
+| 1984
+| ''Building Bridges''
+| align="center"| 47
+| Atlantic America
+|}
+
+===Singles===
+{| class="wikitable"
+! Year
+! Single
+! width="50"| <small>[[Hot Country Songs|US Country]]</small>
+! Album
+|-
+| 1983
+| "[[Operator, Operator|Heart on the Line (Operator, Operator)]]"
+| align="center"| 65
+| rowspan="3"| ''Building Bridges''
+|-
+| rowspan="2"| 1984
+| "[[Building Bridges (song)|Building Bridges]]"
+| align="center"| 55
+|-
+| "Angel Eyes"
+| align="center"| 82
+|}
+
+==Books==
+* Texas Rhythm, Texas Rhyme: A Pictorial History of Texas Music
+* Texas, Our Texas
+
+==References==
+{{reflist}}
+
+==External links==
+* [{{AllMusic|class=artist|id=p25124|pure_url=yes}} Larry Willoughby] at [[Allmusic]]
+* {{Discogs artist|Larry Willoughby}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Willoughby, Larry}}
+[[Category:1950 births]]
+[[Category:2021 deaths]]
+[[Category:People from Sherman, Texas]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Atlantic Records artists]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:Country musicians from Texas]]
+[[Category:Deaths from the COVID-19 pandemic in Texas]]
+
+
+{{US-country-singer-stub}}

@@ -1,0 +1,133 @@
+{{short description|American country music group}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = The Remingtons
+| image               = Remingtons promo photo.jpg
+| caption             = 
+| image_size          = 
+| background          = group_or_band
+| origin              = [[Nashville, Tennessee]], United States
+| genre               = [[country music|Country]]
+| years_active        = 1991–1993
+| label               = [[BNA Records|BNA]]
+| spinoff_of = {{Hlist|[[Bread (band)|Bread]]|[[Cymarron]]}}
+| past_members        = [[Jimmy Griffin]]<br />Richard Mainegra<br />Rick Yancey<br />Denny Henson
+}}
+'''The Remingtons''' were an American [[country music]] group founded in 1991. They consisted of guitarists and vocalists [[Jimmy Griffin]], Richard Mainegra, and Rick Yancey. Griffin was previously a member of the [[soft rock]] group [[Bread (band)|Bread]], while Mainegra and Yancey had previously been part of another soft rock group called [[Cymarron]]. Yancey left in 1992 and was replaced by Denny Henson. The band recorded two albums for [[BNA Records]] (then known as BNA Entertainment) and charted five country singles, including the number 10 "[[A Long Time Ago (song)|A Long Time Ago]]." The Remingtons broke up in 1993 and all four members continued in other projects.
+
+==Biography==
+The Remingtons were founded in 1991 by singers [[Jimmy Griffin]], Richard Mainegra, and Rick Yancey (December 31, 1947 – September 10, 2021).<ref name="obiRYancey">{{cite web |url=https://www.dignitymemorial.com/obituaries/booneville-ms/ricky-yancey-10353687|title=Obituary Ricky Yancey|website=dignitymemorial.com}}</ref> Griffin was a founding member of the [[soft rock]] group [[Bread (band)|Bread]], and both Mainegra and Yancey previously recorded in [[Cymarron]], another soft rock band.<ref name="oldies">{{cite web|url=http://www.oldies.com/artist-biography/The-Remingtons.html |title=The Remingtons Biography &#124; OLDIES.com |publisher=oldies.com|accessdate=April 13, 2015}}</ref> Griffin also recorded in 1990 as one-third of [[Black Tie (band)|Black Tie]], which included country pop singer [[Billy Swan]] and former [[Eagles (band)|Eagles]] member [[Randy Meisner]].<ref name="cmt">{{cite web|url=http://www.cmt.com/news/country-music/1495786/jimmy-griffin-of-bread-and-the-remingtons-dead-at-61.jhtml |archive-url=https://web.archive.org/web/20140115060713/http://www.cmt.com/news/country-music/1495786/jimmy-griffin-of-bread-and-the-remingtons-dead-at-61.jhtml |url-status=dead |archive-date=January 15, 2014 |title=Jimmy Griffin, of Bread and the Remingtons, Dead at 61 |publisher=[[CMT (American TV channel)|CMT]]|access-date=April 13, 2015}}</ref>
+
+The Remingtons were one of the first acts signed to BNA Entertainment (later [[BNA Records]]), a country music record label founded in 1991.<ref name="google">{{cite book|title=The insider's country music handbook|author1=Flint, J.H.|author2=Nelson, J.A.|date=1993|publisher=Gibbs-Smith|isbn=9780879055639|url=https://books.google.com/books?id=pin7Ya25sGkC|accessdate=April 13, 2015}}</ref> Their debut album, ''[[Blue Frontier]]'', was released that year. It accounted for three straight Top 40 hits on the ''[[Billboard (magazine)|Billboard]]'' country charts, including the number 10 "[[A Long Time Ago (song)|A Long Time Ago]]".<ref>[{{Allmusic|class=artist|id=p28114/charts-awards/billboard-singles|pure_url=yes}} allmusic (((The Remingtons > Charts & Awards > Billboard singles)))]</ref> Yancey was replaced in 1992 by Denny Henson, a former member of [[Dan Fogelberg]]'s backing band,<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=347|isbn=978-0-89820-177-2}}</ref> shortly before the group released its second album, 1993's ''[[Aim for the Heart]]''. The album still featured several songs written by Yancey, and he played acoustic guitar on the album's cover of Bread's "[[Everything I Own]]".<Ref>{{Cite AV media notes |title=Aim for the Heart |others=The Remingtons |year=1993 |type=CD booklet |publisher=BNA Records |id=66152}}</ref>
+
+In 1993, The Remingtons was shortlisted for the [[Academy of Country Music Award for New Vocal Duo or Group of the Year]].<ref>{{cite magazine|url=https://www.worldradiohistory.com/Archive-All-Music/Cash-Box/90s/1993/CB-1993-02-13.pdf|title=ACM Announces Nominations|magazine=[[Cashbox (magazine)|Cashbox]]|pages=21|date=February 13, 1993}}</ref>
+
+Griffin and Yancey, along with Ronnie Guilbeau formed GYG (Griffin, Yancey, Guilbeau) in 2001. They recorded only one album and performed in and around the Nashville area until Griffin was diagnosed with cancer and died in 2005.<ref name="cmt"/>
+
+Yancey, singer and guitarist, died in [[Nashville]], Tennessee, on September 10, 2021, at age 73.<ref name="obiRYancey"/>
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:12em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="3"| Peak chart positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]<br><ref name="Country Albums">{{cite magazine|url={{BillboardURLbyName|artist=the remingtons|chart=Country Albums C}}|title=The Remingtons Album & Song Chart History - Country Albums|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=December 11, 2010}}</ref>
+! width="45"| [[Top Heatseekers|US Heat]]
+! width="45"| [[RPM (magazine)|CAN Country]]<br><ref>{{cite web|url=http://www.collectionscanada.gc.ca/rpm/028020-110.01-e.php?PHPSESSID=p80g1di4s1n7h4bej6fpv56826&q1=the+remingtons&q2=Country+Albums%2FCDs&interval=20|title=Results - RPM - Library and Archives Canada - Country Albums|work=[[RPM (magazine)|RPM]]|accessdate=December 11, 2010}}</ref>
+|-
+! scope="row"| ''[[Blue Frontier]]''
+|
+* Release date: January 28, 1992
+* Label: [[BNA Records]]
+| 55
+| 23
+| 18
+|-
+! scope="row"| ''[[Aim for the Heart]]''
+|
+* Release date: April 6, 1993
+* Label: BNA Records
+| —
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:22em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<br /><ref name="whitburn"/>
+! width="45"| [[RPM (magazine)|CAN Country]]<br /><ref>{{cite web|url=http://www.collectionscanada.gc.ca/rpm/028020-110.01-e.php?PHPSESSID=mfstfhcbgmru3ti1dqs7m84283&q1=the+remingtons&q2=Country+Singles&interval=20|title=Results - RPM - Library and Archives Canada - Country Singles|work=[[RPM (magazine)|RPM]]|accessdate=December 11, 2010}}</ref>
+|-
+| 1991
+! scope="row"| "[[A Long Time Ago (song)|A Long Time Ago]]"
+| 10
+| 18
+| align="left" rowspan="3"| ''Blue Frontier''
+|-
+| rowspan="2"| 1992
+! scope="row"| "[[I Could Love You (With My Eyes Closed)]]"
+| 33
+| 35
+|-
+! scope="row"| "[[Two-Timin' Me]]"
+| 18
+| 34
+|-
+| rowspan="2"| 1993
+! scope="row"| "Nobody Loves You When You're Free"
+| 52
+| 85
+| align="left" rowspan="2"| ''Aim for the Heart''
+|-
+! scope="row"| "Wall Around Her Heart"
+| 69
+| 91
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:22em;"| Video
+! Director
+|-
+| 1991
+! scope="row"| "A Long Time Ago"
+| Gustavo Garzon
+|-
+| 1992
+! scope="row"| "I Could Love You (With My Eyes Closed)"
+| Steve Boyle
+|-
+| rowspan="2"| 1993
+! scope="row"| "Nobody Loves You When You're Free"
+|
+|-
+! scope="row"| "Wall Around Her Heart"
+|
+|}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Remingtons}}
+[[Category:Country music groups from Tennessee]]
+[[Category:BNA Records artists]]
+[[Category:Musical groups established in 1991]]
+[[Category:Musical groups disestablished in 1993]]
+[[Category:Vocal trios]]
+[[Category:Musical groups from Nashville, Tennessee]]
+[[Category:1991 establishments in Tennessee]]

@@ -1,0 +1,77 @@
+{{short description|Australian music artist}}
+{{Use dmy dates|date=March 2019}}
+{{Use Australian English|date=March 2019}}
+'''Ray Kernaghan''' is an Australian [[country music]] artist. He is married to Pam Kernaghan and they are the parents of musicians [[Lee Kernaghan|Lee]], Greg, [[Tania Kernaghan|Tania]] and [[Fiona Kernaghan]].
+
+Kernaghan has twelve gold and two platinum records.<ref>{{cite news|last=Elder|first=Bruce|title=Kernaghan Country|url=http://newsstore.fairfax.com.au/apps/viewDocument.ac?multiview=true&sy=nstore&page=1&&pb=all_ffx&dt=selectRange&dr=entire&so=relevance&sf=article&rc=200&rm=200&sp=nrm&clsPage=1&hids=&sids=news951201_0076_1776|accessdate=6 January 2014|newspaper=The Sydney Morning Herald|date=1 December 1995}}</ref> He was inducted into the Australian Country Music Hands of Fame in 1995.<ref>{{cite web|title=Ray Kernaghan|url=http://www.countrymusichalloffame.com.au/Hands/Kernaghan_Ray.htm|publisher=countrymusichalloffame.com.au|accessdate=6 January 2014|url-status=dead|archiveurl=https://web.archive.org/web/20140106044518/http://www.countrymusichalloffame.com.au/Hands/Kernaghan_Ray.htm|archivedate=6 January 2014}}</ref> In 2015, Kernaghan was inducted into the [[Australian Roll of Renown]].<ref>{{cite web|url=https://www.tcmf.com.au/What-s-On/Roll-of-Renown/ |title=Roll of Renown|publisher=TCMF |accessdate=21 August 2018}}</ref>
+
+At one time Kernaghan owned the world's fastest truck ''Waltzing Matilda''.<ref>{{cite web|title=Waltzing Matilda|url=http://www.gregwapling.com/hotrod/land-speed-racing-australia/land-speed-racing-australia-waltzing-matilda.html|work=Australian Land Speed Racing|accessdate=6 January 2014}}</ref><ref>{{cite news|title=Fast truck's slick arrival|url=http://nla.gov.au/nla.news-article126877997?|accessdate=6 January 2014|newspaper=The Canberra Times|date=12 February 1982}}</ref>
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of albums, with selected chart positions
+! scope="col" rowspan="2" style="width:20em;" | Title
+! scope="col" rowspan="2" style="width:20em;" | Album details
+! scope="col" colspan="1" | Peak chart<br />positions
+|-
+! scope="col" style="text-align:center;" | <small>[[Kent Music Report|AUS]]</small><br /><ref name=aus>{{cite book|last=Kent|first=David|authorlink=David Kent (historian)|title=Australian Chart Book 1970–1992|edition=illustrated|publisher=Australian Chart Book|location=St Ives, N.S.W.|year=1993|isbn=0-646-11917-6|page=165}}</ref>
+|-
+! scope="row" | ''Me & Louie On the Road''
+|
+* Released: 1977
+* Format: [[LP album|LP]]
+* Label: Bullet (BLT/12-002)
+| align="center" | - 
+|-
+! scope="row" | ''Jet Set Country''
+|
+* Released: 1978
+* Format: LP
+* Label: Bullet (BLT-12-004)
+| align="center" |96 
+|-
+! scope="row" | ''Remember Me (I'm The One Who Loves You)''
+|
+* Released: 1979
+* Format: LP
+* Label: Bullet (BLT-12-007)
+| align="center" | - 
+|-
+! scope="row" | ''Ray Kernaghan Country''
+|
+* Released: 1981
+* Format: LP
+* Label: Telmak (TMAK 031)
+| align="center" | 96 
+|-
+! scope="row" | ''Family Tradition'' <br>(with [[Lee Kernaghan]])
+|
+* Released: 1985
+* Format: LP
+* Label: KCR (KCR 009)
+| align="center" |-
+|}
+
+==Awards and honours==
+===Australian Roll of Renown===
+The [[Australian Roll of Renown]] honours Australian and New Zealander musicians who have shaped the music industry by making a significant and lasting contribution to Country Music. It was inaugurated in 1976 and the inductee is announced at the [[Country Music Awards of Australia]] in Tamworth in January.<ref>{{cite web|url=https://www.tcmf.com.au/roll-of-renown |title=Roll of Renown |publisher=Tamworth Country Music Festival|accessdate=29 October 2020}}</ref> 
+
+{{awards table}}
+|-
+| 2015
+| Ray Kernaghan
+| Australian Roll of Renown
+| {{yes2|inductee}}
+{{end}}
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Kernaghan, Ray}}
+[[Category:Living people]]
+[[Category:Australian country singers]]
+[[Category:Year of birth missing (living people)]]
+
+
+{{Australia-musician-stub}}

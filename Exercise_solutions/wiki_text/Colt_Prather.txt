@@ -1,0 +1,63 @@
+{{short description|American country music singer-songwriter (born 1975)}}
+{{Use mdy dates|date=May 2020}}
+{{Infobox musical artist
+| name            = Colt Prather
+| image           =
+| image_size      =
+| birth_name      =
+| alias           =
+| birth_date      = {{birth date and age|1975|12|10}}
+| origin          = [[El Paso, Texas]]
+| instrument      =
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    =
+| label           = [[Epic Records|Epic]]
+| associated_acts =
+| website         = 
+}}
+
+'''Colt Prather''' (born December 10, 1971, in [[El Paso, Texas]]<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|page=328|year=2008|isbn=978-0-89820-177-2}}</ref>) is an American [[country music]] singer-songwriter. Prather was discovered playing with the house band at a [[Nashville, Tennessee|Nashville]] restaurant and signed to [[Epic Records]].<ref>{{cite news|title=BMI Visits Colt Prather and Friends|url=http://www.bmi.com/news/entry/233759|accessdate=July 11, 2011|newspaper=[[Broadcast Music Incorporated]]|date=June 24, 2003}}</ref> His third single for the label, "I Won't Go On and On," peaked at number 48 on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles & Tracks]] chart in early 2004.<ref name="whitburn" /> The song received a favorable review from Deborah Evans Price of ''Billboard'', who said that "Prather is the owner of a voice that should easily separate him from the rest of the pack" and "success in the country format is surely forthcoming."<ref>{{cite news|last=Price|first=Deborah Evans|title=''Billboard'' Picks|url=https://books.google.com/books?id=0A8EAAAAMBAJ&q=%22colt%20prather%22&pg=PA56|accessdate=July 11, 2011|newspaper=[[Billboard (magazine)|Billboard]]|date=March 13, 2004}}</ref> By June 2004, Prather had exited the label.<ref>{{cite news|last=Mansfield|first=Brian|title=A breath of fresh country air|url=https://www.usatoday.com/life/music/news/2004-06-16-nashvillle-main_x.htm|accessdate=July 11, 2011|newspaper=[[USA Today]]|date=June 16, 2004}}</ref>
+
+==Discography==
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! Peak positions
+|-
+! width="60"| <small>[[Hot Country Songs|US Country]]</small><br /><ref name="whitburn" />
+|-
+| rowspan="2"| 2003
+! scope="row"| "The Dash"
+| —
+|-
+! scope="row"| "Not a Brick Out of Place"
+| —
+|-
+| 2004
+! scope="row"| "I Won't Go On and On"
+| 48
+|-
+|}
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Prather, Colt}}
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Living people]]
+[[Category:Musicians from El Paso, Texas]]
+[[Category:Epic Records artists]]
+[[Category:1975 births]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:Country musicians from Texas]]
+[[Category:21st-century American male singers]]
+
+
+{{US-country-singer-stub}}

@@ -1,0 +1,201 @@
+{{short description|Irish country, pop and folk singer|bot=PearBOT 5}}
+{{Use dmy dates|date=February 2020}}
+{{for|the English tragedienne|Mary Ann Duff}}
+{{Infobox musical artist
+| name              = Mary Duff
+| caption           = 
+| birth_name        = 
+| birth_date        = {{Birth date and age|1964|07|19}}
+| birth_place       = [[County Meath|Meath]], Ireland
+| occupation        = Musician
+| genre             = [[Country music|Country]]<br>[[Folk music|folk]]
+| years_active      = 1987–present
+| label             = 
+| associated_acts   = [[Daniel O'Donnell]]
+| spouse            = Paul McKenna (divorced)
+| website           = {{url|maryduffmusic.com/}}
+}}
+'''Mary Duff''' is an Irish [[Country music|country]], pop and folk singer. 
+
+Duff’s rise to fame began in the 1990s when she was discovered by Irish singer [[Daniel O'Donnell]]. O'Donnell invited her to perform with him on his television show, and the rest, as they say, is history. Duff became a regular on the show and soon began touring with Daniel. She quickly gained a reputation as one of the most talented singers in Ireland, and her popularity began to grow beyond the country’s borders.<ref>{{Cite web |date=2023-06-07 |title=When was Irish singer Mary Duff born? - TravelAsker |url=https://travelasker.com/when-was-irish-singer-mary-duff-born/ |access-date=2024-04-06 |language=en-US}}</ref>
+
+Duff and O'Donnell parted ways as duo in 2019. Duff is quoted saying on the topic, "I wanted to experiment more with songs and do a wider variety of songs, not necessarily ones that would have suited his audience."<ref>{{Cite web |last=Walsh |first=Kayla |date=2021-02-11 |title=Mary Duff says people have accused her of having an affair with Daniel O'Donnell |url=https://www.rsvplive.ie/news/celebs/country-singer-mary-duff-says-23486409 |access-date=2024-04-06 |website=RSVP Live |language=en}}</ref>
+
+==Personal life==
+Mary Duff is a private person and keeps her personal life out of the public eye. Mary was married to her manager, Paul McKenna. They are now divorced.<ref>http://www.authorsden.com/visit/viewArticle.asp?id=18870{{dead link|date=June 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> They have two children together. Mary is also a devout Catholic and is known for her strong faith.<ref>{{Cite web |date=2023-06-07 |title=When was Irish singer Mary Duff born? - TravelAsker |url=https://travelasker.com/when-was-irish-singer-mary-duff-born/ |access-date=2024-04-06 |language=en-US}}</ref>
+
+==Discography==
+=== Studio albums ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of studio albums, with selected chart positions and certifications 
+! scope="col" rowspan="2" style="width:14em;"| Title
+! scope="col" rowspan="2" style="width:20em;"| Album details
+! scope="col" colspan="2"| Peak chart positions
+! scope="col" rowspan="2" style="width:12em;"| [[List of music recording certifications|Certifications]]
+|-
+! <small>[[ARIA Charts|AUS]]</small> <br><ref name="Ryan">{{cite book|last=Ryan|first=Gavin|title=Australia's Music Charts 1988–2010|year=2011|publisher=Moonlight Publishing|location=Mt. Martha, VIC, Australia|edition=pdf}}</ref>
+! <small>[[UK Albums Chart|UK]]</small> <br><ref name="UK charts">{{cite web|url=https://www.officialcharts.com/artist/3808/mary-duff/|title=Mary Duff {{!}} full Official Chart history|publisher=[[Official Charts Company]]|access-date=25 September 2021}}</ref>
+|-
+! scope="row"| ''Love Someone Like Me''
+|
+*Released: 1988
+*Label: Ritz (RITZLP0044)
+| align=center| —
+| align=center| —
+|
+|-
+! scope="row"| ''Winning Ways''
+|
+*Released: 1989
+*Label: Ritz (RITZCD112)
+| align=center| —
+| align=center| —
+|
+|-
+! scope="row"| ''Silver and Gold''
+|
+*Released: 1992
+*Label: Ritz (RITZCD066)
+| align=center| —
+| align=center| —
+|
+|-
+! scope="row"| ''Just Lovin' You''
+|
+*Released: 1995
+*Label: Ritz (RITZCD075)
+| align=center| —
+| align=center| —
+|
+|-
+! scope="row"| ''Timeless'' <br> (with [[Daniel O'Donnell]])
+|
+*Released: March 1996
+*Label: Ritz (RITZBCD707)
+| align=center| —
+| align=center| 13
+|
+*BPI: Silver<ref name="BPI"/>
+|-
+! scope="row"| ''Shades of Blue''
+|
+*Released: 1997
+*Label: Ritz (RITZCD082)
+| align=center| —
+| align=center| —
+|
+|-
+! scope="row"| ''Heartbreaker''
+|
+*Released: 2002
+*Label: Rosette Records	(ROSCD2029)
+| align=center| —
+| align=center| —
+|
+|-
+! scope="row"| ''Just a Country Girl''
+|
+*Released: 2004
+*Label: Rosette Records	(ROSCD2048)
+| align=center| —
+| align=center| —
+|
+|-
+! scope="row"| ''Time After Time''
+|
+*Released: 2004
+*Label: Rosette Records	(ROSCD2063)
+| align=center| —
+| align=center| —
+|
+|-
+! scope="row"| ''[[Together Again (Daniel O'Donnell album)|Together Again]]'' <br> (with Daniel O'Donnell)
+|
+*Released: November 2007
+*Label: Rosette (ROSCD2090)
+| align=center| 66
+| align=center| 6
+|
+*BPI: Gold<ref name="BPI">{{cite certification|region=United Kingdom|type=album|artist=Daniel O'Donnell|access-date=3 November 2020}}</ref>
+|-
+! scope="row"| ''Voice of an Angel''
+|
+*Released: 2009
+*Label: BIG JO-KE Music 
+| align=center| —
+| align=center| —
+|
+|-
+! scope="row"| '' Changing Lanes''
+|
+*Released: May 2016
+*Label: ISG Records / Venus (ISGRVEN003)
+| align=center| —
+| align=center| —
+|
+|-
+! scope="row"| ''Turn Back the Years''
+|
+*Released: 2019
+*Label: Rosette Records (ROSCD2777)
+| align=center| —
+| align=center| —
+|
+|-
+|}
+
+=== Charting compilation albums ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of charting compilation albums, with selected chart positions
+! scope="col" rowspan="2" style="width:14em;"| Title
+! scope="col" rowspan="2" style="width:20em;"| Album details
+! scope="col" colspan="2"| Peak chart positions
+|-
+! <small>[[ARIA Charts|AUS]]</small> <br><ref name="Ryan"/>
+! <small>[[UK Albums Chart|UK]]</small> <br><ref name="UK charts"/>
+|-
+! scope="row"| ''The Ultimate Collection''
+|
+*Released: September 2005
+*Label: DMG TV (DMGTV019)
+| align=center| —
+| align=center| 52
+|}
+
+== Singles ==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of charting singles, with selected chart positions 
+! scope="col" rowspan="2" style="width:18em;"| Title
+! scope="col" rowspan="2" style="width:1em;"| Year
+! scope="col" colspan="2"| Peak chart positions
+! scope="col" rowspan="2" style="width:18em;"| Album
+|-
+! <small>[[ARIA Charts|AUS]]</small> <br><ref name="Ryan"/>
+! <small>[[UK Albums Chart|UK]]</small> <br><ref name="UK charts"/>
+|-
+! scope="row"| "Secret Love" <br> (with Daniel O'Donnell)
+| 1995
+| — || 28
+|rowspan="2"| ''Timeless''
+|-
+! scope="row"| "Timeless" <br> (with Mary Duff)
+| 1996
+| — || 32
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*  [http://www.maryduffmusic.com/ Official website]
+*  [https://web.archive.org/web/20100516014359/http://maryduff-international.com/ Unofficial Fan Club site]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Duff, Mary}}
+[[Category:Irish country singers]]
+[[Category:Irish women singers]]
+[[Category:Irish folk singers]]
+[[Category:Musicians from County Meath]]
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]

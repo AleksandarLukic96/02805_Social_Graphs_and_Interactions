@@ -1,0 +1,458 @@
+{{Use dmy dates|date=February 2021}}
+{{Use Australian English|date=April 2012}}
+{{Infobox musical artist
+| name             = Sara Storer
+| image            = Sara Storer.png
+| image_upright    = 1.0
+| image_size       = 
+| landscape        = <!-- yes, if wide image, otherwise leave blank -->
+| alt              = 
+| caption          = 
+| background       = solo_singer
+| birth_name       = Sara Bettine Storer
+| alias            = 
+| birth_date       = {{Birth date and age|df=y|1973|10|6}}
+| birth_place      = [[Wemen, Victoria]]
+| genre            = [[Country music|Country]]
+| occupation       = {{flatlist|
+* Singer-songwriter
+* teacher
+}}
+| instrument       = {{flatlist|
+* Vocals
+* acoustic guitar
+}}
+| years_active     = 1996–present
+| label            = {{flatlist|
+* [[ABC Music|ABC]]
+* [[Universal Music Australia|Universal]]
+* [[EMI Records|EMI]]
+}}
+| associated_acts  = 
+* [[Greg Storer]]
+* [[Songbirds (group)|Songbirds]]
+| website          = {{URL|sarastorer.com.au}}
+}}
+
+'''Sara Bettine Storer''' (born 6 October 1973) is an Australian [[country music]] singer-songwriter and former teacher. She won a record breaking seven [[Golden Guitar]] awards in the [[Tamworth Country Music Festival]] in January 2004, and as of 2017, she has won 21 in total.<ref name="storer by storer">{{cite web|url=https://www.jbhifi.com.au/products/cd-storer-storer-cd|title=Storer by Storer|website=[[JB Hi-Fi]]|access-date=17 December 2022}}</ref> Three of her six studio albums have reached the top&nbsp;30 on the [[ARIA Charts|ARIA Albums Chart]], ''[[Firefly (Sara Storer album)|Firefly]]'' (July 2005), ''[[Lovegrass (album)|Lovegrass]]'' (August 2013) and ''[[Silos (album)|Silos]]'' (March 2016). ''Silos'' also won [[ARIA Award for Best Country Album|Best Country Album]] at the [[ARIA Music Awards of 2016]]. Storer has been a member of a country music trio, [[Songbirds (group)|Songbirds]] (2007–09) alongside [[Beccy Cole]] and [[Gina Jeffries]]. Her older brother, [[Greg Storer]], is also a country music singer-songwriter and the siblings have recorded and performed together.
+
+==Early career==
+Sara Bettine Storer was born in October 1973 in [[Wemen, Victoria|Wemen]] where her parents, Lindsay and Fay<!-- maiden name not seen in sources --> Storer, farmed wheat and cattle on a {{convert|5000|acre|ha}} property.<ref name="APRA Buffalo"/><ref name="Dawson"/> Her three brothers, including Doug and [[Greg Storer]], became farmers, she also has two older sisters.<ref name="Dawson"/><ref name="Fidler inter"/> She attended school in nearby, [[Robinvale]].<ref name="Thorburn"/>
+
+Storer later recalled, "I wasn't much of a farmer's daughter. Three brothers – they did everything and they enjoyed it. I would rather sit at home and help out with mum really. I was scared of cattle. I always got yelled at cos I was in the wrong spot you know, didn't really know what I was doing. I was never very good."<ref name="Fidler inter"/> She completed her tertiary studies in Melbourne, becoming a teacher and then headed north in the mid-1990s. Living in [[Camooweal, Queensland|Camooweal]], she met a retired [[domestic buffalo|water buffalo]] shooter, Harry Chandler, whose stories inspired her to write, "Buffalo Bill", her first song.<ref name="APRA Buffalo"/><ref name="Dawson"/>
+
+Nine months later, Storer moved to [[Katherine, Northern Territory]], where she taught kindergarten level at Casuarina Street Primary School.<ref name="ABC Bio"/> After a year there she taught at [[Kalkarindji]] ({{convert|466|km|mi}} southwest of Katherine), for four years.<ref name="ABC Bio"/><ref name="AMO Bio"/> Later she co-wrote and recorded a track, "Children of the Gurindji", with [[Kev Carmody]], for her compilation album, ''[[Calling Me Home – The Best of Sara Storer]]'' (April 2010).
+
+Carmody told [[Rhoda Roberts]] of ''Deadly Vibe'', "[Storer] came up here about 12 months ago and we did a song about the Gurindji kids together. The whole basis of the song was, when she went to teach at Kalkarindji – she taught there for a number of years – she said that she came away with the kids teaching her more than she taught them, and that was the chorus of the song."<ref name="Roberts"/>
+
+When not teaching she started playing at parties across the territory. She won a talent quest at [[Adelaide River, Northern Territory|Adelaide River]] which provided a scholarship to the College of Country Music, held two weeks before the [[Tamworth Country Music Festival]], in January 2000. There she met [[Garth Porter]], former keyboard player with [[Sherbet (band)|Sherbet]], and a record producer of fellow singers, [[Lee Kernaghan]] and [[Gina Jeffreys]]. Porter worked with Storer to record six tracks which he showcased to [[ABC Music]]'s owners, who agreed to sign her to their label.
+
+==Recording career==
+===2000–2009===
+Sara Storer released her debut studio album, ''[[Chasing Buffalo]]'', in August 2000 via ABC Music/[[Universal Music Australia]] with Porter producing. It peaked in the [[ARIA Charts|ARIA Albums Chart]] top&nbsp;100, No.&nbsp;20 on the Australasian Artists, No.&nbsp;8 on the Hitseekers and No.&nbsp;6 on the Country albums charts.<ref name="ARIA Report 626"/> She won the Best New Talent category at the 2001 [[Country Music Awards of Australia]] for her debut single, "Buffalo Bill", in January of that year.<ref name="CMAoA 2000s"/>
+
+Her second album, ''[[Beautiful Circle]]'', was released in November 2002, which was produced by Porter again. In January 2004 at the Country Music Awards of Australia she was nominated for eight Golden Guitars, and won seven of them – a then-record number of trophies at one ceremony:<ref name="ARIA Report 804"/><ref name="Morris 1"/> Vocal Collaboration, Single of the Year and Song of the Year all for "Raining on the Plains" (with [[John Williamson (singer)|John Williamson]]); Female Vocalist of the Year and Album of the Year for ''Beautiful Circle'', Songwriter of the Year for "Raining on the Plains" (co-written with Porter and Greg Storer); Bush Ballad of the Year for "Boss Drovers Pride" and Heritage Song of the Year for "Drover's Call".<ref name="CMAoA 2000s"/>
+
+The album reached No.&nbsp;50 on the ARIA Albums Chart in March 2004.<ref name="AUS Charts"/> It also peaked at No.&nbsp;11 on the Australasian Artists, No.&nbsp;1 on the Hitseekers and No.&nbsp;2 on the Country albums charts.<ref name="ARIA Report 732"/> She promoted it by touring with Australian country singer, [[Troy Cassar-Daley]],<ref name="Morris 1"/> and United Kingdom singer, [[Charlie Landsborough]], including playing to an audience of over 40,000 people at the [[Gympie Muster]], Queensland. On 6 October 2004 she issued her first DVD, ''Stories to Tell'', which included music videos, interview footage, acoustic performances and new tracks.<ref name="Morris 1"/>
+
+''[[Firefly (Sara Storer album)|Firefly]]'', was Storer's third album, was released in July 2005, which peaked at No.&nbsp;24 on the ARIA Albums Chart.<ref name="ARIA Report 804"/><ref name="AUS Charts"/> Porter produced the work and it became her first number-one on the ARIA Country Albums Chart.<ref name="ARIA Report 804"/> She co-wrote and recorded duets on three tracks: with Greg ("Chiller's Bend"), [[Josh Cunningham]] ("Important Things") and [[Paul Kelly (Australian musician)|Paul Kelly]] ("Must've Been a Hell of a Party").
+
+Kelly described Storer, "You know she's paid attention, heard the bush waking up in the morning, listened to the worries thrashed out at the kitchen table, smelt dry summer wheat up close, dreamed of far away places in a bedroom with a window on a big sky, driven miles on dirt and bitumen and fallen in and out of love. She's found her own way to sing the stories that are all around her and then inside her bubbling out. She doesn't copy over-emotive, fake sincere twangy country singers from overseas. She's found her own restraint and steel and lets her songs do their sweet, sly work."<ref name="ABC Bio"/>
+
+In December 2005 [[Deborah Conway]] established the Broad Festival project, "the idea that I would pull these different women performers together from different genres and call it Broad".<ref name="Elliott"/> Storer joined Conway, [[Katie Noonan]], [[Ruby Hunter]] and [[Clare Bowditch]] where they performed their own and each other's songs on an Australian tour.<ref name="Elliott"/><ref name="Broad2005"/> Conway observed, "Sara you're a gorgeous surprise package, quiet and unassuming offstage; onstage, you had us pissing ourselves every night. I love that simple yet deceptive guitar playing and those haunting songs, which have such a piercing truth to them."<ref name="Broad2005"/>
+
+In March 2006 Storer played at the Queens' Lunch during the [[2006 Commonwealth Games|Melbourne Commonwealth Games]]. In February and March 2007 she performed a double-headlining tour with fellow country musician, [[Felicity Urquhart]].<ref name="Morris 1"/> In November of that year she released her fourth studio album, ''[[Silver Skies]]'', which reached the ARIA Albums Chart top&nbsp;100 and No.&nbsp;3 on the Country Albums Chart.<ref name="AUS Charts"/> It was co-produced by Cunningham and Matt Fell for her new label, [[EMI Records]].<ref name="AUS Charts"/><ref name="Dawson 3"/>
+
+Its lead single, "Land Cries Out", was released in September 2007, which Andrew Tijs of ''Undercover News'' described, "an achingly beautiful rumination on the bitterness of being forced to leave the land you love – an all too common scenario during the recent drought. With this heartfelt subject matter, Storer has branched away from traditional country sounds... [she] uses electric guitar and drums to complement the lament."<ref name="Tijs 2"/> From late January to early February 2008 she supported a tour by American singer-songwriter, [[Suzanne Vega]].<ref name="Tijs"/>
+
+From 2007 to 2009 she joined [[Beccy Cole]] and [[Gina Jeffreys]] to form a country music trio, [[Songbirds (group)|Songbirds]].<ref name="Morris 1"/> The group released a live DVD, ''You've Got a Friend: Live in Concert'', on 1 May 2009, which was accredited by [[Australian Recording Industry Association|ARIA]] as a gold album by the end of that year.<ref name="ARIA Acred 09"/> It was recorded at Tamworth in January 2009.<ref name="Dawson 2"/> It was shown at cinemas from 29 April of that year, Storer opined, "I'm really proud of the Songbirds: You've Got a Friend live filming but am worried how pregnant I will look shown on a big screen."<ref name="Cashmere 1"/>
+
+Storer had encouraged her brother Greg, a cropping farmer from "Strawin" {{convert|60|km|mi}} north-west of [[Warren, New South Wales]], to write music, she has performed his work, including duets with him and she is recorded on his debut single, "When I Was a Boy" (December 2009).<ref name="Land Warren"/> He recalled, "Sara started off telling me to write some lyrics and then every now and then she said I should get up and have a sing at one of her shows. It was absolutely terrifying to get up and sing in front of some great artists... [its] a bit addictive. The trick is to never put the guitar away – in between wrestling with the kids or doing something else, I can just pick up the guitar."<ref name="Land Warren"/>
+
+===2010–2020===
+In April 2010, Storer released her first compilation album, ''Calling Me Home – The Best of Sara Storer'', which reached No.&nbsp;28 on the ARIA Albums Chart and No.&nbsp;1 on the Country Albums Chart.<ref name="AUS Charts"/> She had recorded three new tracks, "Calling Me Home", "Children of the Gurundi" (with Kev Carmody) and "Tears". At the [[ARIA Music Awards of 2010]] John Williamson was inducted into their [[ARIA Hall of Fame|Hall of Fame]] in October, where Storer performed his tune, "Mallee Boy", in his honour.<ref name="Ferris"/>
+
+The singer-songwriter launched her fifth album, ''[[Lovegrass (album)|Lovegrass]]'', at the [[Gympie Music Muster]] in August 2013.<ref name="Hamley"/> She explained her preparation, "I'm getting there early and we're all going to catch up prior to the Muster for a rehearsal, which is a must especially when I'm releasing a new album and playing the songs with the band for the first time, really. We need a little practice run otherwise we could end up a train smash."<ref name="Hamley"/> ''Lovegrass'', which was produced by Matt Fell, peaked at No.&nbsp;25 on the ARIA Albums Chart and No.&nbsp;5 on the Country Albums Chart.<ref name="AUS Charts"/> In 2015 Storer recorded "Song for Grace", a duet with Lee Kernaghan for his album, ''[[Spirit of the Anzacs (album)|Spirit of the Anzacs]]'' (March 2015).
+
+In March 2016 Storer released her sixth studio album, ''[[Silos (album)|Silos]]'', also produced by Fell, which peaked at No.&nbsp;30 on the ARIA Albums Chart and No.&nbsp;3 on the Country Music Albums Chart.<ref name="AUS Charts"/> It earned the musician her sixth nomination for [[ARIA Award for Best Country Album]] and her first win in the category, at [[ARIA Music Awards of 2016|that year's]] ceremony.<ref name="ARIA List"/> At the Country Music Awards of Australia in January 2017 she received her 21st Golden Guitar – the most by any female artist.<ref name="CMAoA 2010s"/><ref name="Young"/>
+
+In April 2019, Storer released her 7th studio album, ''[[Raindance (Sara Storer album)|Raindance]]''.
+
+===2020–present===
+In January 2023, Sara will feature on the self-titled album by Storer, alongside her brother Greg and Greg's daughters Bonnie & Pip.<ref name="storer by storer"/>
+
+== Personal life==
+When Sara Storer was 18, her parents moved from Wemen, Victoria to a farming property near Warren, New South Wales.<ref name="Dawson 2"/><ref name="OSullivan"/> Storer had lived in Melbourne, moved to Camooweal, North Queensland and then to Katherine and Kalkarindji, Northern Territory in the mid-1990s. By June 2009 Storer was living in Darwin.<ref name="Dawson 2"/><ref name="NT News"/> There she married David O'Hare, a cattle buyer, in April 2012 and the couple have four children.<ref name="Johnstone"/><ref name="Belt"/><ref name="Felicity"/> Storer took a break from song writing while focussing on parenting.<ref name="Hamley"/><ref name="NT News"/> O'Hare left Austrex in February 2014 after being their cattle export manager in Darwin for ten years.<ref name="Beef Central"/>
+
+As of May 2017 the family has a farm near [[Bowna]] {{convert|33|km|mi}} from [[Albury]], they also have a home in Albury.<ref name="Young"/><ref name="Byram"/><ref name="Torenbeek"/> In January of that year she acknowledged her family when receiving her Golden Guitars at the Country Music Awards, "Dave has been a great support when I've gotten down about still doing this with four little boys. I have to thank my boys as well, for giving me a little moment every now and then to get a few lines down on paper."<ref name="Young"/>
+
+==Discography==
+
+=== Studio albums ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of studio albums, with selected chart positions and certifications
+! scope="col" rowspan="2" style="width:12em;"| Title
+! scope="col" rowspan="2" style="width:18em;"| Details
+! scope="col" colspan="2"| Peak chart positions
+! scope="col" rowspan="2" style="width:12em;"| [[Music recording sales certification|Certifications]]<br><small>([[List of music recording certifications|sales thresholds]])</small>
+|-
+! scope="col" style="width:3em;font-size:90%;"|[[ARIA Charts|AUS]]<br /><ref name="AUS Charts"/>
+! scope="col" style="width:3em;font-size:90%;"|[[ARIA Charts|AUS]] Country<br /><ref name="AUS Charts"/>
+|-
+! scope="row" | ''[[Chasing Buffalo]]''
+|
+* Released: 31 August 2000
+* Label: [[ABC Music]] <small>(10062, 1778945)</small>
+* Formats: [[Compact disc|CD]]
+* Producer: [[Garth Porter]]
+| 99 || 6
+|
+|-
+! scope="row" | ''[[Beautiful Circle]]''
+|
+* Released: 4 November 2002
+* Label: ABC Music/[[Universal Music Australia]] <small>(1778976)</small>
+* Formats: CD
+* Producer: Garth Porter
+| 50 || 2
+|
+* [[Australian Recording Industry Association|ARIA]]: Gold<ref name="ARIA Acred 04"/>
+|-
+! scope="row" | ''[[Firefly (Sara Storer album)|Firefly]]''
+|
+* Released: 25 July 2005
+* Label: ABC Music/[[Warner Music Australia]] <small>(14460)</small>
+* Formats: CD
+* Producer: Garth Porter
+| 24 || 1
+|
+* ARIA: Gold<ref name="ARIA Acred 07"/>
+|-
+! scope="row" | ''[[Silver Skies]]''
+|
+* Released: 4 November 2007
+* Label: ABC Music/[[EMI Music Australia]] <small>(5132482)</small>
+* Formats: CD
+* Producer: [[Josh Cunningham]], Matt Fell
+| 60 || 3
+|
+|-
+! scope="row" | ''[[Lovegrass (album)|Lovegrass]]''
+|
+* Released: 23 August 2013
+* Label: ABC Music/Universal Music Australia <small>(3737063)</small>
+* Formats: CD, Music download
+* Producer: Matt Fell
+| 25 || 5
+|
+|-
+! scope="row" | ''[[Silos (album)|Silos]]''
+|
+* Released: 11 March 2016
+* Label: ABC Music/Universal Music Australia <small>(4778380)</small>
+* Formats: CD, Music download
+* Producer: Matt Fell
+| 30 || 3
+|
+|-
+! scope="row" | ''[[Raindance (Sara Storer album)|Raindance]]''
+|
+* Released: 12 April 2019<ref>{{cite web|url=https://www.jbhifi.com.au/music/browse/country/raindance/357706/|title=SARA STORER Raindance |publisher=JBHiFi|accessdate=20 February 2019}}</ref>
+* Label: ABC Music/Universal Music Australia <small>(7737855)</small>
+* Formats: CD, Music download, streaming
+* Producer: Matt Fell
+| 21 || 3
+|
+|-
+| colspan="5" style="text-align:center; font-size:85%"| "—" denotes releases that did not chart or were not released in that country.
+|}
+
+=== Collaborative albums ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of collaborative albums
+! scope="col" rowspan="2"| Title
+! scope="col" rowspan="2"| Details
+! scope="col" colspan="1"| Peak chart positions
+|-
+! scope="col" style="width:3em;font-size:90%;"|[[ARIA Charts|AUS]]<br /><ref>{{cite magazine|title=The ARIA Report: Week Commencing 23 January 2023|magazine=The ARIA Report|publisher=[[Australian Recording Industry Association]]|issue=1716|page=6|date=23 January 2023}}</ref>
+|-
+! scope="row" | ''Storer'' <br> (by Storer)
+|
+* Released: 13 January 2023<ref name="storer by storer"/>
+* Label: Compass Brothers <small>(108CBCD)</small>
+* Formats: CD, digital
+| 56
+|}
+
+=== Compilation albums ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of compilation albums, with selected chart positions and certifications
+! scope="col" rowspan="2" style="width:12em;"| Title
+! scope="col" rowspan="2" style="width:18em;"| Details
+! scope="col" colspan="2"| Peak chart positions
+|-
+! scope="col" style="width:3em;font-size:90%;"|[[ARIA Charts|AUS]]<br /><ref name="AUS Charts"/>
+! scope="col" style="width:3em;font-size:90%;"|[[ARIA Charts|AUS]] Country<br /><ref name="AUS Charts"/>
+|-
+! scope="row" | ''[[Calling Me Home – The Best of Sara Storer]]''
+|
+* Released: 30 April 2010
+* Label: [[ABC Music]]/[[Universal Music Australia]] <small>(2734999)</small>
+* Formats: [[Compact disc|CD]]
+* Producer: [[Garth Porter]], [[Josh Cunningham]], Matt Fell
+| style="text-align:center;"|28
+| style="text-align:center;"|1
+|}
+
+==Awards and nominations==
+===AIR Awards===
+The Australian Independent Record Awards (commonly known informally as [[AIR Awards]]) is an annual awards night to recognise, promote and celebrate the success of Australia's Independent Music sector.
+{{awards table}}
+|-
+| [[AIR Awards of 2014|2014]]<ref name="14nom">{{cite web|url=https://www.speakertv.com/news/latest-news/carlton-dry-air-awards-2014-nominees-announced/|title=CARLTON DRY AIR AWARDS 2014 NOMINEES ANNOUNCED|website=speaker tv|date=September 2014|accessdate=20 August 2020}}</ref>
+|''Lovegrass'' 
+| Best Independent Country Album
+| {{nom}}
+|-
+{{end}}
+
+===ARIA Awards===
+The [[ARIA Music Awards]] is an annual awards ceremony that recognises excellence, innovation, and achievement across all genres of [[Australian music]]. Storer has won one award.<ref name="ARIA List"/>
+
+{{awards table}}
+|-
+| [[ARIA Music Awards of 2001|2001]] || ''Chasing Buffalo'' || [[ARIA Award for Best Country Album|Best Country Album]] || {{nom}} 
+|-
+| [[ARIA Music Awards of 2003|2003]] || ''Beautiful Circle'' ||Best Country Album || {{nom}} 
+|-
+| [[ARIA Music Awards of 2005|2005]] || ''Firefly'' ||Best Country Album || {{nom}} 
+|-
+| [[ARIA Music Awards of 2008|2008]] || ''Silver Skies'' || Best Country Album || {{nom}} 
+|-
+| [[ARIA Music Awards of 2013|2013]] || ''Lovegrass'' || Best Country Album || {{nom}} 
+|-
+| [[ARIA Music Awards of 2016|2016]] || ''Silos'' || Best Country Album || {{won}} 
+|-
+| [[ARIA Music Awards of 2019|2019]] || ''Raindance'' || Best Country Album || {{nom}} 
+|-
+{{end}}
+
+===Country Music Awards (CMAA)===
+The [[Country Music Awards of Australia]] (CMAA) (also known as the Golden Guitar Awards) is an annual awards night held in January during the [[Tamworth Country Music Festival]], celebrating recording excellence in the Australian country music industry. They have been held annually since 1973. Sara Storer has won 22 awards.<ref name="CMAoA 2000s"/><ref name="CMAoA 2010s"/><ref name="Storer Silos"/><ref name="storer by storer"/><ref name=GGwins2024>{{cite web|url=https://www.kixcountry.com.au/hottest-country-news/brad-cox-the-wolfe-brothers-win-big-at-the-2024-golden-guitar-awards/ |title= Brad Cox, The Wolfe Brothers Win Big At The 2024 Golden Guitar Awards|website=Kix Country|date= 27 January 2024|access-date=29 January 2024}}</ref>
+
+{{awards table}}
+|-
+| 2001 || "Buffalo Bill" || New Talent of the Year || {{won}}
+|-
+|rowspan="7"| 2004 ||rowspan="2"| ''Beautiful Circle'' || Album of the Year || {{won}}
+|-
+| Female Vocalist of the Year || {{won}}
+|-
+| rowspan="2"| "Raining on the Plains" <small>(duet with [[John Williamson (singer)|John Williamson]])</small> || Vocal Collaboration of the Year || {{won}}
+|-
+| Single of the Year || {{won}}
+|-
+| "Raining on the Plains" <small>(written by Doug Storer, Sara Storer, [[Garth Porter]])</small> || APRA Song of the Year || {{won}}
+|-
+| "Drover's Call" || Heritage Song of the Year || {{won}}
+|-
+| "Boss Drovers Pride" || Bush Ballad of the Year || {{won}}
+|-
+| 2006 || ''Firefly'' || Female Vocalist of the Year || {{won}}
+|-
+|rowspan="2"| 2008 ||rowspan="2"| "Land Cries Out" <small>(written by Sara Storer)</small> || Heritage Song of the Year || {{won}}
+|-
+| APRA Song of the Year || {{won}}
+|-
+| 2010 || "When I Was a Boy" <small> (duet with [[Greg Storer]])</small> || Video of the Year || {{won}}
+|-
+| 2011 || "Calling Me Home" || Video of the Year || {{won}}
+|-
+| 2012 || "Children of the Gurindji" <small> (duet with [[Kev Carmody]])</small>|| Video of the Year || {{won}}
+|-
+| 2013 || "Women in Song" <small> (trio with Tamara Stewart and [[Felicity Urquhart]])</small> || Vocal Collaboration of the Year || {{won}}
+|-
+|rowspan="3"| 2014 ||rowspan="2"| ''Lovegrass'' || Album of the Year || {{won}}
+|-
+| Female Vocalist of the Year || {{won}}
+|-
+| "Pozie" <small> (duet with John Williamson)</small> || Vocal Collaboration of the Year || {{won}}
+|-
+| 2015 || "Canoe" || Video Clip of the Year || {{won}}
+|-
+|rowspan="2"| 2017 || ''Silos'' || Female Artist of the Year || {{won}}
+|-
+| "Amazing Night" || Bush Ballad of the Year || {{won}}
+|-
+| 2024 || "Dust Kids" (by SToReR) (written by Sara Storer, Greg Storer) || Bush Ballad of the Year || {{won}}
+|-
+{{end}}
+
+==See also==
+* [[Songbirds (group)|Songbirds]]
+
+==References==
+
+{{Refbegin}}
+;General
+* {{Citation | author1 = Williams, Sue | author2 = Milte, Catherine | title = Women of the Outback: Inspiring True Stories of Tragedy and Triumph | chapter = Chapter 5: The Sweet, Sly Work of Song: Sara Storer, near Wemen, Victoria | date = 1 September 2008 | publisher = Penguin Australia | isbn = 978-0-7181-0494-8 }}
+;Specific
+{{Refend}}
+{{Reflist|refs=
+
+<ref name="ARIA Report 804">{{cite journal | date = 22 March 2004 | archiveurl = https://webarchive.nla.gov.au/awa/20050819140000/http://pandora.nla.gov.au/pan/23790/20050820-0000/issue804.pdf | title = Week Commencing ~ 22nd March 2004 ~ Issue #804 | last = Thomas | first = Tara | journal = The ARIA Report | publisher = Australian Recording Industry Association (ARIA) | issue = 804 | pages = 2, 5, 10, 12, 19 | url = http://www.aria.com.au/pages/documents/issue804.pdf | archivedate = 19 August 2005 | accessdate = 20 November 2017 }}{{cbignore|bot=medic}}</ref>
+
+<ref name="Storer Silos">{{cite web|url=http://www.sarastorer.com.au/index.php/2013-11-18-20-52-06/news/item/375-the-silos-tour|title=Sara Storer The Silos Tour|publisher=Sara Storer|date=28 September 2016 |accessdate= 9 October 2016}}</ref>
+
+<ref name="APRA Buffalo">{{cite web | publisher = [[Australasian Performing Right Association]] (APRA) | title = 'Buffalo Bill' at APRA search engine | url = http://apraamcos.com.au/search?searchtype=works&keywords=buffalo+bill | accessdate = 19 November 2017 }} Note: For additional work user may have to select 'Search again' and then 'Enter a title:' or 'Performer:'</ref>
+
+<ref name="Dawson">{{cite web | url = http://www.nucountry.com.au/articles/diary/october2003/191003.htm | title = Dave's Diary: Sara Sows Crops in ''Beautiful Circle''s | last = Dawson | first = Dave | work = Nu Country | date = 19 October 2003 | accessdate = 19 November 2017 }}</ref>
+
+<ref name="Fidler inter">{{cite web | url = http://www.abc.net.au/local/stories/2007/12/04/2109331.htm | title = Australian singer song-writer Sara Storer on the joys of simple living | last = Fidler | first = Richard | authorlink = Richard Fidler | work = [[Conversations (radio program)|Conversations with Richard Fidler]] | publisher = [[Australian Broadcasting Corporation]] (ABC) | date = 4 December 2007 | accessdate = 19 November 2017 }}</ref>
+
+<ref name="Thorburn">{{cite news | archiveurl = https://webarchive.nla.gov.au/awa/20170518145500/http://pandora.nla.gov.au/pan/76956/20170519-0055/www.milduraindependent.com/index.php/talk-of-the-town/3818-ex-wemen-singer-inducted-into-tamworth-s-galaxy-of-stars.html | url = http://www.milduraindependent.com/index.php/talk-of-the-town/3818-ex-wemen-singer-inducted-into-tamworth-s-galaxy-of-stars.html | title = Ex-Wemen singer inducted into Tamworth's Galaxy of Stars | last = Thorburn | first = Max | work = Mildura Independent | archivedate = 18 May 2017 | date = 27 January 2017 | accessdate = 19 November 2017 }}{{cbignore|bot=medic}}</ref>
+
+<ref name="ARIA Report 626">{{cite journal | date = 25 February 2002 | archiveurl = https://webarchive.nla.gov.au/awa/20020305130000/http://pandora.nla.gov.au/pan/23790/20020306-0000/www.aria.com.au/Issue626.pdf | title = Week Commencing ~ 25th February 2002 ~ Issue #626 | last = Kellaghan | first = Ronan | journal = The ARIA Report | publisher = [[Australian Recording Industry Association]] (ARIA) | issue = 626 | pages = 2, 6, 10–11, 16–17 | url = http://www.aria.com.au/pages/documents/issue626.pdf | archivedate = 5 March 2002 | accessdate = 19 November 2017 }}{{cbignore|bot=medic}}</ref>
+
+<ref name="CMAoA 2000s">{{cite web|url=http://country.com.au/golden-guitars/award-winners/2000s/ | title = Golden Guitar Winners 2000s | publisher = [[Country Music Association of Australia]] (CMAA) | accessdate = 9 October 2016}}</ref>
+
+<ref name="ARIA Report 732">{{cite journal | date = 8 March 2002 | archiveurl = https://webarchive.nla.gov.au/awa/20040406140000/http://pandora.nla.gov.au/pan/23790/20040407-0000/Issue732.pdf | title = Week Commencing ~ 8th March 2002 ~ Issue #732 | last = Kellaghan | first = Ronan | journal = The ARIA Report | publisher = Australian Recording Industry Association (ARIA) | issue = 732 | pages = 5, 10–11, 17–18 | url = http://www.aria.com.au/pages/documents/issue732.pdf | archivedate = 6 April 2004 | accessdate = 20 November 2017 }}{{cbignore|bot=medic}}</ref>
+
+<ref name="Morris 1">{{cite web | url = http://www.countryragepage.com/Sara%20Storer.htm | title = Sara Storer | last = Morris | first = Helen | work = Tamworth Rage Page | accessdate = 20 November 2017 }}</ref>
+
+<ref name="ABC Bio">{{cite web | url = https://www.abcmusic.com.au/sara-storer | title = Sara Storer | publisher = [[ABC Music]] (Australian Broadcasting Corporation (ABC)) | accessdate = 20 November 2017 }}</ref>
+
+<ref name="AMO Bio">{{cite web | archiveurl = https://web.archive.org/web/20080817182147/http://www.amo.org.au/artist.asp?id=118 | url = http://www.amo.org.au/artist.asp?id=118 | title = Sara Storer | work = [[Australian Music Online]] | publisher = [[Australia Council for the Arts]] | archivedate = 17 August 2008 | accessdate = 21 November 2017 | url-status = dead }}</ref>
+
+<ref name="Roberts">{{cite web | url = http://www.deadlyvibe.com.au/2012/09/in-the-studio-with-kev-carmody/ | title = In the Studio with Kev Carmody | last = Roberts | first = Rhoda | work = Deadly Vibe | date = 3 September 2012 | accessdate = 21 November 2017 }}</ref>
+
+<ref name="Elliott">{{cite news | url = http://www.smh.com.au/news/music/ladys-night-at-the-beckoning-microphone/2008/08/18/1218911561072.html?page=fullpage#contentSwap1 | title = Lady's Night at the Beckoning Microphone | last = Elliott | first = Tim | newspaper = [[The Sydney Morning Herald]] | date = 19 August 2008 | accessdate = 5 June 2011 }}</ref>
+
+<ref name="Broad2005">{{cite web | archiveurl = https://web.archive.org/web/20070515214305/http://www.broadfestival.com/broad_2005.html | url = http://www.broadfestival.com/broad_2005.html | title = Broad 2005 | last = Conway | first = Deborah | authorlink = Deborah Conway | publisher = Broad Festival | archivedate = 15 May 2007 | url-status = usurped | accessdate = 20 November 2017 }}</ref>
+
+<ref name="ARIA Acred 09">{{cite certification|region=Australia|type=video|certyear=2009}}</ref>
+
+<ref name="Dawson 3">{{cite web | url = http://www.nucountry.com.au/articles/diary/october2007/291007_sarastorer.htm | title = Dave's Diary: 29 October 2007 – Sara Storer | last = Dawson | first = Dave | work = Nu Country | date = 29 October 2007 | accessdate = 20 November 2017 }}</ref>
+
+<ref name="Dawson 2">{{cite web | url = http://www.nucountry.com.au/articles/diary/previews2008_2009/series12/previewepisode2_series12.htm | title = Dave's Diary: 16/6/09 – Preview of Episode 2 – Series 12: Sara, Gina and Beccy – Golden Guitars | last = Dawson | first = Dave | work = Nu Country | date = 16 June 2009 | accessdate = 20 November 2017 }}</ref>
+
+<ref name="Land Warren">{{cite news | archiveurl = https://web.archive.org/web/20150402224010/http://www.theland.com.au/news/agriculture/agribusiness/general-news/warrens-singing-farmer/1711366.aspx | url = http://www.theland.com.au/news/agriculture/agribusiness/general-news/warrens-singing-farmer/1711366.aspx | title = Warren's Singing Farmer | last = Bell | first = Nicola | work = The Land | archivedate = 2 April 2015 | date = 27 December 2009 | accessdate = 20 November 2017 }}</ref>
+
+<ref name="AUS Charts">Peak positions for Australian charts:
+* All Top&nbsp;50: {{cite web | url = http://www.australian-charts.com/showinterpret.asp?interpret=Sara+Storer | title = Discography Sara Storer | work = Australian Charts Portal | publisher = Hung Medien | accessdate=9 October 2016}}
+* For ''Chasing Buffalo'': {{cite journal | date = 25 February 2002 | archiveurl = https://webarchive.nla.gov.au/awa/20020305130000/http://pandora.nla.gov.au/pan/23790/20020306-0000/www.aria.com.au/Issue626.pdf | title = Week Commencing ~ 25th February 2002 ~ Issue #626 | last = Kellaghan | first = Ronan | journal = The ARIA Report | publisher = [[Australian Recording Industry Association]] (ARIA) | issue = 626 | pages = 2, 6, 10–11, 16–17 | url = http://www.aria.com.au/pages/documents/issue626.pdf | archivedate = 5 March 2002 | accessdate = 19 November 2017 }}{{cbignore|bot=medic}}
+* For ''Beautiful Circle'': {{cite journal | date = 8 March 2002 | archiveurl = https://webarchive.nla.gov.au/awa/20040406140000/http://pandora.nla.gov.au/pan/23790/20040407-0000/Issue732.pdf | title = Week Commencing ~ 8th March 2002 ~ Issue #732 | last = Kellaghan | first = Ronan | journal = The ARIA Report | publisher = Australian Recording Industry Association (ARIA) | issue = 732 | pages = 5, 10–11, 17–18 | url = http://www.aria.com.au/pages/documents/issue732.pdf | archivedate = 6 April 2004 | accessdate = 20 November 2017 }}{{cbignore|bot=medic}}
+* For ''Firefly'': {{cite journal | date = 22 March 2004 | archiveurl = https://webarchive.nla.gov.au/awa/20050819140000/http://pandora.nla.gov.au/pan/23790/20050820-0000/issue804.pdf | title = Week Commencing ~ 22nd March 2004 ~ Issue #804 | last = Thomas | first = Tara | journal = The ARIA Report | publisher = Australian Recording Industry Association (ARIA) | issue = 804 | pages = 2, 5, 10, 12, 19 | url = http://www.aria.com.au/pages/documents/issue804.pdf | archivedate = 19 August 2005 | accessdate = 20 November 2017 }}{{cbignore|bot=medic}}
+* For ''Silver Skies'': {{cite journal | date = 12 November 2007 | archiveurl = https://webarchive.nla.gov.au/awa/20071119130000/http://pandora.nla.gov.au/pan/23790/20071120-0000/issue923.pdf | title = Week Commencing ~ 12th November 2007 ~ Issue #923 | last = Wallace | first = Ian | journal = The ARIA Report | publisher = Australian Recording Industry Association (ARIA) | issue = 923 | pages = 2, 5, 9, 15, 22 | url = http://www.aria.com.au/pages/documents/issue923.pdf | archivedate = 20 November 2007 | accessdate = 20 November 2017 }}{{cbignore|bot=medic}}
+* For ''Calling Me Home'': {{cite journal | date = 24 May 2010 | archiveurl = https://webarchive.nla.gov.au/awa/20100610140000/http://pandora.nla.gov.au/pan/23790/20100611-0000/Issue1056.pdf | title = Week Commencing ~ 24th May 2010 ~ Issue #1056 | last = Wallace | first = Ian | journal = The ARIA Report | publisher = Australian Recording Industry Association (ARIA) | issue = 1056 | pages = 5, 8, 14, 16, 22 | url = http://www.aria.com.au/pages/documents/issue1056.pdf | archivedate = 11 June 2010 | accessdate = 20 November 2017 }}{{cbignore|bot=medic}}
+* For ''Lovegrass'': {{cite journal | date = 2 September 2013 | archiveurl = https://webarchive.nla.gov.au/awa/20130918140000/http://pandora.nla.gov.au/pan/23790/20130919-0000/Issue1227.pdf | title = Week Commencing ~ 2nd September 2013 ~ Issue #1227 | last = Wallace | first = Ian | journal = The ARIA Report | publisher = Australian Recording Industry Association (ARIA) | issue = 1227 | pages = 2, 5, 7, 10, 15–16, 22 | url = http://www.aria.com.au/pages/documents/issue1227.pdf | archivedate = 19 September 2013 | accessdate = 20 November 2017 }}{{cbignore|bot=medic}}
+* For ''Silos'': {{cite journal | date = 21 March 2016 | archiveurl = https://webarchive.nla.gov.au/awa/20160321130000/http://pandora.nla.gov.au/pan/23790/20160322-0000/Issue1360.pdf | title = Week Commencing ~ 21st March 2016 ~ Issue #1360 | last = Wallace | first = Ian | journal = The ARIA Report | publisher = Australian Recording Industry Association (ARIA) | issue = 1360 | pages = 2, 5, 7, 10, 14, 16, 22 | url = http://www.aria.com.au/pages/documents/issue1360.pdf | archivedate = 22 March 2016 | accessdate = 21 November 2017 }}{{cbignore|bot=medic}}
+</ref>
+
+<ref name="ARIA Acred 04">{{cite certification|region=Australia|type=album|certyear=2004}}</ref>
+
+<ref name="ARIA Acred 07">{{cite certification|region=Australia|type=album|certyear=2007}}</ref>
+
+<ref name="ARIA List">ARIA Music Awards for Sara Storer:
+* Search Results 'Sara Storer': {{cite web
+ |url=http://www.ariaawards.com.au/history/search/?view=list&text=Sara%20Storer
+ |title=Search Results for 'Sara Storer' 
+ |publisher=Australian Recording Industry Association (ARIA) 
+ |accessdate=20 November 2017
+}}
+* 2001 winners and nominees: {{cite web
+ |archiveurl=https://web.archive.org/web/20070926235727/http://www.ariaawards.com.au/history-by-year.php?year=2001 
+ |url=http://www.ariaawards.com.au/history/year/2001 
+ |title=Winners by Year 2001 
+ |publisher=Australian Recording Industry Association (ARIA) 
+ |archivedate=26 September 2007 
+ |accessdate=20 November 2017
+ |url-status=dead 
+}}
+* 2003 winners and nominees: {{cite web
+ |archiveurl=https://web.archive.org/web/20070926235713/http://www.ariaawards.com.au/history-by-year.php?year=2003 
+ |url=http://www.ariaawards.com.au/history/year/2003 
+ |title=Winners by Year 2003 
+ |publisher=Australian Recording Industry Association (ARIA) 
+ |archivedate=26 September 2007 
+ |accessdate=20 November 2017
+ |url-status=dead 
+}}
+* 2005 winners and nominees: {{cite web
+ |archiveurl=https://web.archive.org/web/20070926235755/http://www.ariaawards.com.au/history-by-year.php?year=2005 
+ |url=http://www.ariaawards.com.au/history/year/2005 
+ |title=Winners by Year 2005 
+ |publisher=Australian Recording Industry Association (ARIA) 
+ |archivedate=26 September 2007 
+ |accessdate=20 November 2017
+ |url-status=dead 
+}}
+* 2008 winners and nominees: {{cite web
+ |archiveurl=https://web.archive.org/web/20090813152819/http://www.ariaawards.com.au/history-by-year.php?year=2008 
+ |url=http://www.ariaawards.com.au/history/year/2008 
+ |title=Winners by Year 2008 
+ |publisher=Australian Recording Industry Association (ARIA) 
+ |archivedate=13 August 2009 
+ |accessdate=20 November 2017
+ |url-status=dead 
+}}
+* 2013 winners and nominees: {{cite web
+ |url=http://www.ariaawards.com.au/history/year/2013 
+ |title=Winners by Year 2013 
+ |publisher=Australian Recording Industry Association (ARIA) 
+ |accessdate=20 November 2017
+}}
+* 2016 winners and nominees: {{cite web
+ |url=http://www.ariaawards.com.au/history/year/2016?view=list
+ |title=Winners by Year 2016
+ |publisher=Australian Recording Industry Association (ARIA)
+ |accessdate=20 November 2017
+}}
+</ref>
+
+<ref name="CMAoA 2010s">{{cite web|url=http://country.com.au/golden-guitars/award-winners/2010s/|title=Golden Guitar Winners 2010s|publisher=Country Music Association of Australia (CMAA) |accessdate= 19 November 2017 }}</ref>
+
+<ref name="Hamley">{{cite web | archiveurl = https://webarchive.nla.gov.au/awa/20170608142800/http://pandora.nla.gov.au/pan/119324/20170609-0028/jolenethecountrymusicblog.blogspot.com.au/2013/08/interview-sara-storer.html | url = http://jolenethecountrymusicblog.blogspot.com.au/2013/08/interview-sara-storer.html | title = Interview: Sara Storer | last = Hamley | first = Sophie | work = Jolene: The Country Music Blog | archivedate = 8 June 2017 | date = August 2013 | accessdate = 20 November 2017 }}{{cbignore|bot=medic}}</ref>
+
+<ref name="Johnstone">{{cite news | url = http://www.northqueenslandregister.com.au/story/3633112/ohares-passion-for-ag-started-young/ | title = O'Hare's Passion for Ag Started Young | last = Johnstone | first = Jenna | work = North Queensland Register | date = 11 September 2014 | accessdate = 20 November 2017 }}</ref>
+
+<ref name="Belt">{{cite news | url = http://www.northerndailyleader.com.au/story/3675092/sara-storer-on-life-appreciation-and-a-new-album/ | title = Sara Storer on life, appreciation and a new album - video | last = Belt | first = Rebecca | work = The Northern Daily Leader | date = 20 January 2016 | accessdate = 20 November 2017 }}</ref>
+
+<ref name="Byram">{{cite news | url = http://www.portnews.com.au/story/4687468/sara-storer-keeps-it-real/ | title = Singer songwriter Sara Storer performs tonight at LUSC | last = Byram | first = Vickii | work = Macquarie Port News | date = 25 May 2017 | accessdate = 20 November 2017 }}</ref>
+
+<ref name="Tijs 2">{{cite news | archiveurl = https://webarchive.nla.gov.au/awa/20080517140000/http://pandora.nla.gov.au/pan/11299/20080518-0000/undercover.com.au/News-Storyc58e.html | url = http://undercover.com.au/News-Storyc58e.html | title = Sara Storer Promises ''Silver Skies'' | last = Tijs | first = Andrew | work = Undercover News | publisher = [[Paul Cashmere]], Ros O'Gorman | archivedate = 17 May 2008 | date = 28 August 2007 | accessdate = 20 November 2017 }}{{cbignore|bot=medic}}</ref>
+
+<ref name="Tijs">{{cite news | archiveurl = https://webarchive.nla.gov.au/awa/20160516175200/http://pandora.nla.gov.au/pan/11299/20160517-0352/www.undercover.fm/news/2930-suzanne-vega-and-sara-storer-tour.html | url = http://www.undercover.fm/news/2930-suzanne-vega-and-sara-storer-tour.html | title = Suzanne Vega and Sara Storer Tour | last = Tijs | first = Andrew | work = Undercover News | publisher = Paul Cashmere, Ros O'Gorman | archivedate = 16 May 2016 | date = 2 October 2007 | accessdate = 20 November 2017 }}{{cbignore|bot=medic}}</ref>
+
+<ref name="Cashmere 1">{{cite news | archiveurl = https://webarchive.nla.gov.au/awa/20140516140000/http://pandora.nla.gov.au/pan/11299/20140517-0000/www.undercover.fm/news/8035-gina-jeffreys-beccy-cole-and-sara-storer-head-to-the-big-screen.html | url = http://www.undercover.fm/news/8035-gina-jeffreys-beccy-cole-and-sara-storer-head-to-the-big-screen.html | title = Gina Jeffreys, Beccy Cole and Sara Storer Head to the Big Screen | last = Cashmere | first = Paul | work = Undercover News | publisher = Paul Cashmere, Ros O'Gorman | archivedate = 16 May 2014 | date = 20 April 2009 | accessdate = 20 November 2017 | url-status = dead }}{{cbignore|bot=medic}}</ref>
+
+<ref name="Young">{{cite news | url = http://www.bordermail.com.au/story/4432290/border-vocalists-enjoy-golden-guitar-success/ | title = Golden night for Sara Storer and Fanny Lumsden | last = Young | first = Chris | work = The Border Mail | date = 28 January 2017 | accessdate = 21 November 2017 }}</ref>
+
+<ref name="Beef Central">{{cite news | url = https://www.beefcentral.com/news/people-on-the-move-elders-ruralco-austrex-ampc-fpe-and-more/ | title = People on the Move: Elders, Ruralco, Austrex, AMPC, FPE and more | last = staff writer | work = Beef Central | date = 11 February 2014 | accessdate = 21 November 2017 }}</ref>
+
+<ref name="Felicity">{{cite web | url = https://millineronthemove.com/2012/04/09/the-milliner-is-on-the-move-again-15/ | title = The Milliner Is on the Move Again... | last = Felicity | work = Milliner on the Move | date = 9 April 2012 | accessdate = 21 November 2017 }}</ref>
+
+<ref name="Torenbeek">{{cite journal | url = http://countryupdate.com.au/sara-storer/ | title = Sara Storer: Happy on Homesoil with ''Silos'' | last = Torenbeek | first = Denise | journal = Country Update | issue = 80 | accessdate = 21 November 2017 }}</ref>
+
+<ref name="Ferris">{{cite press release | url = http://www.ariaawards.com.au/archives/media-centre/2009/Media%20Release%20-%20ARIA%20Hall%20of%20Fame%20performers%20and%20inductors%20announced%21.pdf | title = Special Guests Line-Up to Salute Music Icons | last1 = Ferris | first1 = Rina | last2 = Brennan | first2 = Kristyn | publisher = Australian Recording Industry Association (ARIA) | date = 25 October 2010 | accessdate = 21 November 2017 }}</ref>
+
+<ref name="OSullivan">{{cite news | url = http://www.bordermail.com.au/story/4389665/saras-our-diamond-in-the-rough/ | title = Songstress Sara Storer finds inspiration in everyday pleasures at her Bowna farm | last = O'Sullivan | first = Jodie | work = The Border Mail | date = 6 January 2017 | accessdate = 21 November 2017 }}</ref>
+
+<ref name="NT News">{{cite news | archiveurl = https://web.archive.org/web/20140129190838/http://www.ntnews.com.au/entertainment/storer-thrilled-with-top-pozie/story-fnk0b1gl-1226811408912 | url = http://www.ntnews.com.au/entertainment/storer-thrilled-with-top-pozie/story-fnk0b1gl-1226811408912 | title = Storer thrilled with top 'Pozie' | work = NT News | publisher = [[News Corp Australia|News Limited]] | archivedate = 29 January 2014 | date = 27 January 2014 | accessdate = 21 November 2017 }}</ref>
+
+}}
+
+==External links==
+* {{Official website|sarastorer.com.au}}
+
+{{Sara Storer}}
+{{Authority control}}
+
+{{DEFAULTSORT:Storer, Sara}}
+[[Category:Australian country singers]]
+[[Category:ARIA Award winners]]
+[[Category:Living people]]
+[[Category:1973 births]]
+[[Category:Songbirds (group) members]]
+[[Category:21st-century Australian singers]]
+[[Category:21st-century Australian women singers]]

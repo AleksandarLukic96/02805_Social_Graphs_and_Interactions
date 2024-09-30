@@ -1,0 +1,173 @@
+{{Short description|Canadian singer-songwriter}}
+{{Use mdy dates|date=June 2020}}
+{{Infobox musical artist
+| image           =
+| name            = Cassandra Vasik
+| birth_name      = Sandra Vasicek
+| alias           = Cassandra Leigh
+| origin          = [[Blenheim, Ontario]], Canada
+| Instruments     =
+| genre           = [[Country pop]]
+| occupation      = Singer-songwriter
+| years_active    = 1990–2000
+| label           = [[Epic Records|Epic]], Perimeter
+| associated_acts = [[Tim Thorney]]
+}}
+'''Cassandra Vasik''' is a Canadian [[country music]] singer-songwriter from [[Blenheim, Ontario]]. Signed to [[Epic Records]], she released two albums and 11 singles for the label between 1991 and 1994.
+
+In 1992, she won the Rising Star award at the [[Canadian Country Music Association]] Awards.<ref>{{cite news|url=https://pqasb.pqarchiver.com/thestar/access/456599491.html?dids=456599491:456599491&FMT=ABS&FMTS=ABS:FT&type=current&date=Sep+21%2C+1992&author=Greg+Quill+TORONTO+STAR&pub=Toronto+Star&desc=Country+awards+show+a+rewarding+celebration&pqatl=google|archive-url=https://web.archive.org/web/20121102123412/http://pqasb.pqarchiver.com/thestar/access/456599491.html?dids=456599491:456599491&FMT=ABS&FMTS=ABS:FT&type=current&date=Sep+21,+1992&author=Greg+Quill+TORONTO+STAR&pub=Toronto+Star&desc=Country+awards+show+a+rewarding+celebration&pqatl=google|url-status=dead|archive-date=November 2, 2012|title=Country awards show a rewarding celebration|date=September 1, 1992|work=[[Toronto Star]]|accessdate=June 8, 2010}}</ref><ref>{{cite web|url=http://www.ccma.org/awards/awards_archives.cfm?SelectedAwardYear=1992|title=1992 CCMA Award Winners|publisher=[[Canadian Country Music Association]]|accessdate=June 8, 2010|url-status=dead|archive-url=https://web.archive.org/web/20100612223816/http://ccma.org/awards/awards_archives.cfm?SelectedAwardYear=1992|archive-date=June 12, 2010}}</ref> She also won the 1992 and 1994 [[Juno Award]] for Best Country Female Vocalist.<ref>{{cite news|url=https://pqasb.pqarchiver.com/thestar/access/454400971.html?dids=454400971:454400971&FMT=ABS&FMTS=ABS:FT&type=current&date=May+16%2C+1992&author=Judith+Fitzgerald+Special+to+The+Star&pub=Toronto+Star&desc=Cassandra+Vasik%27s+got+the+miracle+thing&pqatl=google|archive-url=https://archive.today/20130131185229/http://pqasb.pqarchiver.com/thestar/access/454400971.html?dids=454400971:454400971&FMT=ABS&FMTS=ABS:FT&type=current&date=May+16,+1992&author=Judith+Fitzgerald+Special+to+The+Star&pub=Toronto+Star&desc=Cassandra+Vasik's+got+the+miracle+thing&pqatl=google|url-status=dead|archive-date=January 31, 2013|title=Cassandra Vasik's got the miracle thing|date=May 16, 1992|work=[[Toronto Star]]|accessdate=June 8, 2010 | first=Judith | last=Fitzgerald}}</ref> In 2000, Vasik released a pop album, ''Different'', on Perimeter Records.
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:10em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! Peak positions
+|- style="font-size:smaller;"
+! width="65"| [[RPM (magazine)|CAN Country]]
+|-
+! scope="row"| ''[[Wildflowers (Cassandra Vasik album)|Wildflowers]]''
+|
+*Release date: 1991
+*Label: [[Epic Records]]
+| —
+|-
+! scope="row"| ''[[Feels Like Home (Cassandra Vasik album)|Feels Like Home]]''
+|
+*Release date: 1993
+*Label: Epic Records
+| 20
+|-
+! scope="row"| ''Different''
+|
+*Release date: May 16, 2000
+*Label: Perimeter Records
+| —
+|-
+| colspan="3" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+=== Singles ===
+{| class="wikitable plainrowheaders" style=text-align:center;
+! scope="col" rowspan="2" | Year
+! scope="col" rowspan="2" style="width:22em;" | Title
+! scope="col" colspan="2" | Peak chart<br />positions
+! scope="col" rowspan="2" | Album
+|- style="font-size:smaller;"
+! width="45"| [[RPM (magazine)|CAN Country]]
+! width="45"| [[RPM (magazine)|CAN AC]]
+|-
+| rowspan="2"| 1991
+! scope="row"| "The Black Book"
+| —
+| —
+| align="left" rowspan="5"| ''Wildflowers''
+|- 
+! scope="row"| "It Comes Back to You"
+| 14
+| —
+|- 
+| rowspan="3"| 1992
+! scope="row"| "[[Which Face Should I Put On Tonight]]"
+| 5
+| —
+|- 
+! scope="row"| "[[Wildflowers (Cassandra Vasik song)|Wildflowers]]"
+| 10
+| 27
+|- 
+! scope="row"| "Those Stars"
+| 20
+| —
+|- 
+| rowspan="4"| 1993
+! scope="row"| "[[Sadly Mistaken]]"
+| 7
+| —
+| align="left" rowspan="5"| ''Feels Like Home''
+|- 
+! scope="row"| "Fortune Smiled on Me" <small>(with [[Russell deCarle]])</small>
+| 11
+| —
+|- 
+! scope="row"| "[[Roll Like a Wheel]]"
+| 9
+| —
+|- 
+! scope="row"| "Almost Like You Cared"
+| 18
+| —
+|- 
+| rowspan="2"| 1994
+! scope="row"| "Stand Your Ground"
+| 27
+| —
+|- 
+! scope="row"| "Human Highway" <small>(with [[Jim Witter]])</small>
+| 24
+| —
+| align="left"| ''[[Borrowed Tunes: A Tribute to Neil Young]]''
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+====Guest singles====
+{| class="wikitable plainrowheaders" style=text-align:center;
+! scope="col" rowspan="2" | Year
+! scope="col" rowspan="2" style="width:22em;" | Title
+! scope="col" rowspan="2" | Artist
+! scope="col"| Peak positions
+! scope="col" rowspan="2" | Album
+|- style="font-size:smaller;"
+! width="65"| [[RPM (magazine)|CAN Country]]
+|-
+| 1994
+! scope="row"| "Chains"
+| [[Tim Thorney]]
+| 54
+| align="left"| ''Some Other Time''
+|}
+
+=== Music videos ===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:22em;" | Title
+|-
+| 1991
+! scope="row"| "The Black Book"
+|- 
+| rowspan="2"| 1992
+! scope="row"| "Which Face Should I Put On Tonight"
+|- 
+! scope="row"| "Wildflowers"
+|- 
+| 1993
+! scope="row"| "Sadly Mistaken"
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20110201211821/http://cassandravasik.com/ Official website]
+
+{{Cassandra Vasik}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Vasik, Cassandra}}
+[[Category:Canadian women country singers]]
+[[Category:Canadian country singer-songwriters]]
+[[Category:Juno Award winners]]
+[[Category:Singers from Ontario]]
+[[Category:People from Chatham-Kent]]
+[[Category:Living people]]
+[[Category:Canadian Country Music Association Rising Star Award winners]]
+[[Category:Year of birth missing (living people)]]
+
+
+{{Canada-singer-songwriter-stub}}

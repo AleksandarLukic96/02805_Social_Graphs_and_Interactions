@@ -1,0 +1,136 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=August 2020}}
+{{BLP sources|date=January 2008}}
+{{Infobox musical artist
+|image= | <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Kevin Denney
+| image_size          =
+| background          = solo_singer
+| birth_name          =
+| birth_date          = {{birth date and age|1978|01|27}}
+| origin              =
+| instrument          = Vocals, acoustic guitar
+| genre               = [[country music|Country]]
+| occupation          = Singer-songwriter
+| years_active        = 2001–present
+| label               = [[Lyric Street Records|Lyric Street]]
+| associated_acts     = [[Tracy Byrd]]<br />[[Easton Corbin]]<br />[[Craig Morgan (singer)|Craig Morgan]]
+}}
+'''Kevin Denney''' (born January 27, 1978)<ref>{{Cite web |last=Rose |first=Mike |date=January 27, 2020|title=Today's famous birthdays list for January 27, 2020 includes celebrities Alan Cumming, James Cromwell|url=https://www.cleveland.com/life-and-culture/j66j-2020/01/abe688f7241977/todays-famous-birthdays-list-for-january-27-2020-includes-celebrities-james-cromwell-mimi-rogers.html |access-date=January 27, 2023 |website=[[Cleveland.com]]}}</ref> is an American [[country music]] artist. Signed to [[Lyric Street Records]] in 2001, he made his debut on the country music scene with the release of his self-titled album (2002's ''[[Kevin Denney (album)|Kevin Denney]]''), which produced three chart singles, including "[[That's Just Jessie]]", a Top 20 hit on the ''[[Billboard (magazine)|Billboard]]'' Hot Country Singles & Tracks (now [[Hot Country Songs]]) charts. He was dropped from Lyric Street's roster in 2003, although he co-wrote a track on [[Tracy Byrd]]'s 2006 ''[[Different Things]]'' album.
+
+==Biography==
+Denney's interest in music began at an early age. His mother and father, both of whom sang in a [[gospel music]] quartet, bought Denney his first guitar when he was three years old.<ref name="about">{{Cite web|url=https://www.liveabout.com/country-4688258|title=Country|website=LiveAbout.com|accessdate=March 25, 2020}}</ref> He also became a frequent listener of the [[Grand Ole Opry]] radio shows, and played in his cousin's [[bluegrass music]] band.<ref name="about"/>
+
+At age 17, however, he briefly stopped focusing on his musical interests to re-assess his future. On his eighteenth birthday, his girlfriend took him to a [[George Strait]] concert. Seeing Strait in concert helped Denney discover that music was his passion, and he later joined a local band that was looking for a lead singer.<ref name="about"/> Denney later went solo, and was signed to [[Lyric Street Records]] in 2001.<ref name="all">{{cite web |url=https://www.allmusic.com/artist/kevin-denney-mn0000767883 |title=Kevin Denny |website=[[AllMusic]] |access-date=January 6, 2022}}</ref> His eponymous debut album, released in 2002, produced three charting singles on the [[Hot Country Songs]] charts: "[[That's Just Jessie]]" at number 16, "Cadillac Tears" at number 30 and "It'll Go Away" at number 43.<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=122|isbn=978-0-89820-177-2}}</ref> He also contributed a rendition of "[[White Christmas (song)|White Christmas]]" to the label's multi-artist compilation ''No Wrapping Required''.<ref>{{cite web|url={{AllMusic|class=album|id=r552889|pure_url=yes}}|title=''No Wrapping Required'' review|last=Birchmeier|first=Jason|website=[[AllMusic]]|accessdate=September 22, 2010}}</ref>
+
+In late 2003, Denney charted a fourth single, "A Year at a Time," which peaked at number 44 on the country charts. The song did not appear on an album, and Denney exited the label.<ref name="whitburn"/>
+
+He co-wrote a track on [[Tracy Byrd]]'s 2006 album ''[[Different Things]]'', and [[Craig Morgan (singer)|Craig Morgan]]'s 2009 single "[[Bonfire (Craig Morgan song)|Bonfire]]." He also co-wrote "Don't Ask Me About a Woman", a song recorded by [[Easton Corbin]] on his 2010 [[Easton Corbin (album)|self-titled debut album]].
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:12em;"| Title
+! rowspan="2" style="width:16em;"| Album details
+! colspan="3"| Peak chart positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]
+! width="45"| [[Billboard 200|US]]
+! width="45"| [[Top Heatseekers|US Heat]]
+|-
+! scope="row"| ''[[Kevin Denney (album)|Kevin Denney]]''
+| 
+* Release date: April 23, 2002
+* Label: [[Lyric Street Records]]
+| 14
+| 119
+| 2
+|-
+! scope="row"| ''Something in Between''
+| 
+* Release date: June 24, 2016
+* Label: KDM Records
+| —
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:16em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[Billboard Hot 100|US]]
+|-
+| 2001
+! scope="row"| "[[That's Just Jessie]]"
+| 16
+| 76
+| align="left" rowspan="3"| ''Kevin Denney''
+|-
+| 2002
+! scope="row"| "[[Cadillac Tears]]"
+| 30
+| —
+|-
+| rowspan="2"| 2003
+! scope="row"| "It'll Go Away"
+| 43
+| —
+|-
+! scope="row"| "A Year at a Time"
+| 44
+| —
+| {{n/a}}
+|-
+| 2016
+! scope="row"| "Ain't Gonna Hurt Nobody but Me"
+| —
+| —
+| align="left"| ''Something in Between''
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:12em;"| Video
+! Director
+|-
+| 2002
+! scope="row"| "That's Just Jessie"
+| [[Peter Zavadil]]
+|-
+| 2003
+! scope="row"| "A Year at a Time"
+| Brent Hedgecock
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Discogs artist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Denney, Kevin}}
+[[Category:1976 births]]
+[[Category:American country singer-songwriters]]
+[[Category:Country musicians from Kentucky]]
+[[Category:Living people]]
+[[Category:Lyric Street Records artists]]
+[[Category:Singer-songwriters from Kentucky]]
+[[Category:People from Monticello, Kentucky]]
+[[Category:21st-century American singer-songwriters]]

@@ -1,0 +1,258 @@
+{{short description|American country music singer-songwriter.}}
+
+{{Use mdy dates|date=June 2020}}
+{{Infobox musical artist <!-- Individual -->
+| name              = Kyle Park
+| image             = 
+| alt               = 
+| image_size        = 240
+| landscape         = yes
+| background        = solo_singer
+| birth_name        = 
+| alias             = 
+| birth_place       = [[Austin, Texas]]
+| birth_date        = 
+| origin            = 
+| instruments       = Vocals, guitar
+| genre             = [[Texas country music|Texas country]]
+| occupations       = Singer-songwriter, music producer
+| years_active      = 2005–present
+| label             = 
+| associated_acts   = 
+| website           = [http://www.kylepark.com/ kylepark.com]
+}}
+
+'''Kyle Park''' (born July 8, 1985){{citation needed|date=January 2024}} is a [[country music]] singer-songwriter, guitarist, and music producer born in [[Austin, Texas]].<ref name="temple" />
+
+==Biography==
+
+===Early life===
+Kyle Park was born in July 1985<ref name="newcomer" /> in [[Austin, Texas]], and was raised in [[Leander, Texas|Leander]], a small country town<ref name="wilers" /> north of Austin, where he<ref name="hayes" /><ref name="lonestar" /> attended [[Leander High School]].<ref name="newcomer" /><ref name="corcoran" /> He listened to [[country music|country]] and rock radio in particular, and eventually began focusing on artists such as<ref name="corcoran" /> [[Clint Black]] and [[Chris LeDoux]].<ref name="wilers" /><ref name="hayes" />
+
+Park was 12 when his father passed away from a heart attack.<ref>{{Cite web |date=2018-01-04 |title=Kyle Park Shares the Story Behind 'Don't Forget Where You Come From' |url=https://www.wideopencountry.com/kyle-parks-dont-forget-come-story-behind-song/ |access-date=2024-01-12 |website=Wide Open Country |language=en-US}}</ref>
+
+Park started playing guitar at age 14,<ref name="wilers" /> and wrote his first song and first performed live the next year.<ref name="okla" /><ref name="newcomer" /> His music was first played on the radio ([[KVET-FM|KVET]] 98.1 Austin) when he was 17 years old.<ref name="newcomer" /><ref name="corcoran" />
+
+===Music career===
+He has celebrated numerous #1 Texas radio singles from his self-released seven studio albums.<ref>{{Cite web |title=Facebook |url=https://www.facebook.com/T3RTexasRegionalRadioReport/posts/pfbid028MyF6USEJxjyUpRjNgeHvTcYPnKEnWskPQUbGLvnUKtXX187WhBkd5samnC22Qyql |access-date=2024-01-12 |website=www.facebook.com}}</ref><ref>{{Cite web |title=Facebook |url=https://www.facebook.com/TexasRegionalRadio/posts/pfbid0jHVTSaQQDCbS8XqxsBjSEqFeSgvQvR45AVyU7igxWtq9nUZNxcnhM4X3pY9vvWG8l |access-date=2024-01-12 |website=www.facebook.com}}</ref><ref>{{Cite web |title=Facebook |url=https://www.facebook.com/T3RTexasRegionalRadioReport/posts/pfbid02tqjPhtnUFoR9TgJCLhQEB6QEKy4GkHUpQSSaotWSzeo3ZoputNpP2eUap3D2dVFpl |access-date=2024-01-12 |website=www.facebook.com}}</ref> Since 2005, he has performed thousands of shows across North America and Europe, often headlining those events, as well as opening for artists such as George Strait, Clint Black, Willie Nelson, and more. As of 2024, he has independently released: ''Big Time'' (2005), ''Anywhere in Texas (''2008), ''Make Or Break Me'' (2011), ''Beggin’ For More'' (2013), ''The Blue Roof Sessions'' (2015), ''Don’t Forget Where You Come From'' (2018), and ''All Nighters'' (2024).<ref>{{Cite web |title=Music |url=https://www.kylepark.com/music |access-date=2024-01-12 |website=Kyle Park |language=en}}</ref>
+
+Park is also a member of Western Swing band The Texas Trio. Formed in 2020, the band consists of Park, Jason Roberts (fiddle, mandolin, guitar, vocals), and John Michael Whitby (piano, vocals). They have one self-titled album.<ref>{{Cite web |title=The Texas Trio |url=https://www.thetexastrio.com/ |access-date=2024-01-12 |website=www.thetexastrio.com}}</ref>
+
+==Discography==
+{{BLP unreferenced section|date=January 2024}}
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:12em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="2" | Peak chart positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]
+! width="45"| [[Top Heatseekers|US<br />Heat]]
+|-
+!''Big Time''
+|
+* Release date: 2005
+* Label: Lazy S.O.B. Recordings
+|–
+|–
+|-
+!''Anywhere in Texas''
+|
+* Release date: September 16, 2008
+* Label: Kyle Park Music
+|–
+|–
+|-
+!''The Spring EP''
+|
+* Release date: April 6, 2010
+* Label: Winding Road Music
+|69
+|–
+|-
+!''The Fall EP''
+|
+* Release date: September 21, 2010
+* Label: Winding Road Music
+|56
+|28
+|-
+!''[[Make or Break Me]]''
+|
+* Release date: September 20, 2011
+* Label: Winding Road Music
+|53
+|15
+|-
+!''[[Beggin' for More]]''
+|
+* Release date: March 19, 2013
+* Label: Kyle Park Music
+|24
+|8
+|-
+!''The Blue Roof Sessions''
+|
+* Release date: October 23, 2015
+* Label: Kyle Park Music
+|–
+|24
+|-
+!''Don't Forget Where You Come From''
+|
+* Release date: 2018
+* Label: Kyle Park Music
+|–
+|–
+|-
+!''All Nighters''
+|
+* Release date: January 12, 2024
+* Label: Kyle Park Music
+|–
+|–
+|-
+| colspan="4" style="font-size:8pt" | "—" denotes releases that did not chart
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:10em;"| Single
+|-
+|2006
+|"Half Empty Shotgun"
+|-
+|2007
+|"Somebody's Trying To Steal My Heart"
+|-
+|2008
+|Baby I'm Gone
+|-
+|2008
+|"Cold In Colorado"
+|-
+|2009
+|"Tossin' And Turnin'"
+|-
+|2009
+|"Don't Look"
+|-
+| 2010
+| scope="row" | "All Night"
+|-
+|2010
+|"I'm Missing You"
+|-
+| 2011
+| scope="row" | "Make or Break Me"
+|-
+|2011
+|"Leavin' Stephenville"
+|-
+| 2012
+| scope="row" | "The Night Is Young"
+|-
+| 2013
+| scope="row" | "True Love"
+|-
+| 2013
+| scope="row" | "Fit for the King"
+|-
+| 2013
+| scope="row" | "Long Distance Relationship"
+|-
+| 2014
+| scope="row" | "Turn That Crown Upside Down"
+|-
+|2015
+|"What Goes Around Comes Around"
+|-
+|2015
+|"Come On"
+|-
+|2017
+|"Rednecks With Paychecks"
+|-
+|2017
+|"Don't Forget Where You Come From"
+|-
+|2018
+|"What The Heaven"
+|-
+|2019
+|"Ain't Nobody Hotter"
+|-
+|2019
+|"Rio"
+|-
+|2019
+|"Every Day Kind of Love"
+|-
+|2021
+|"Rewind"
+|-
+|2021
+|"What's Your Drinkin' Song?"
+|-
+|2023
+|"Me When I Drink"
+|-
+|2023
+|"A Broken Heart Like That"
+|-
+|2023
+|"Hill Country Home"
+|-
+|}
+
+===Music videos===
+*"Make or Break Me" (2011)
+*"Leavin' Stephenville" (2012)
+*"Fit for the King" (2013)
+*"True Love" (2013)
+*"Long Distance Relationship" (2013)
+*"Turn That Crown Upside Down" (2014)
+*"What Goes Around Comes Around" (2015)
+*"Come On" (2015)
+*"Rednecks with Paychecks" (2016)
+*"Don't Forget Where You Come From" (2017)
+*"What the Heaven" (2018)
+*"Ain't Nobody Hotter" (2018)
+*"Rio" (2019)
+*"Every Day Kind of Love" (2019)
+*"What's Your Drinkin' Song" (2022)
+*"Me When I Drink" (2023)
+
+== References ==
+{{reflist|1=2|refs=
+<ref name="wilers">{{cite news | title = Kyle Park: Not Just Another Texas Country Artist, Looking For A Mainstream Takeover | first = Kyle | last = Wilkerson | url = http://www.nashvillemusicguide.net/kyle-park-not-just-another-texas-country-artist-looking-for-a-mainstream-takeover/|archive-url=https://web.archive.org/web/20111023232153/http://www.nashvillemusicguide.net/kyle-park-not-just-another-texas-country-artist-looking-for-a-mainstream-takeover/|archive-date=October 23, 2011|url-status=dead | newspaper = Nashville Music Guide | date = | accessdate = February 7, 2012}}</ref>
+<ref name="lonestar">{{cite magazine | title = Park in drive: Kyle Park on ''Make or Break Me,'' life on the road and writing on the run | first = Darleen | last = Dixon | url = https://lonestarmusicmagazine.com/in-profile-kyle-park/ | magazine = Lone Star Music Magazine | date = January 1, 2012|archive-url=https://web.archive.org/web/20221208152409/https://lonestarmusicmagazine.com/in-profile-kyle-park/|archive-date=December 8, 2022 |url-status=live}}</ref>
+<ref name="newcomer">{{cite news | title = Newcomer Park keeps it firmly in fourth gear | first = Mario | last = Tarradell| newspaper = [[The Dallas Morning News]] | date = December 14, 2011}}</ref>
+<ref name="temple">{{cite news | title = Country singer, songwriter at Buckaroos Bar and Grill in Temple | first = Jordan | last = Overturf | newspaper = Temple Daily Telegram | date = December 12, 2011}}</ref>
+<ref name="hayes">{{cite news | title = Interview with an Artist: Kyle Park | first = Joshua | last = Hayes | url = http://www.txrdr.com/blog.asp?article=309|archive-url=https://web.archive.org/web/20160304024045/http://txrdr.com/roadlog.asp?article=309|archive-date=March 4, 2016|url-status=dead | newspaper = TXRed Dirt Music | date = October 25, 2011 | accessdate = February 7, 2012}}</ref>
+<ref name="corcoran">{{cite news | title =Lone Star Jam singer received education from country greats | first = Michael | last = Corcoran | url = https://www.newspapers.com/article/austin-american-statesman-education/138630596/| newspaper = Austin American–Statesman | date = April 14, 2011 |page=D1}} [https://www.newspapers.com/article/austin-american-statesman-homesick/138630703/ story continued on page D12]</ref>
+<ref name="okla">{{cite news |last=McDonnell |first=Brandy|title= Park and drive |url= https://www.newspapers.com/article/the-daily-oklahoman-parkanddrive/138630292/ |newspaper= [[The Oklahoman]] |date= December 8, 2010 |page=6D}}</ref>
+}}
+
+==External links==
+*{{Official website|http://www.kylepark.com/}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Park, Kyle}}
+[[Category:Living people]]
+[[Category:1985 births]]
+[[Category:Writers from Austin, Texas]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Singers from Austin, Texas]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:People from Leander, Texas]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:Country musicians from Texas]]
+[[Category:21st-century American male singers]]

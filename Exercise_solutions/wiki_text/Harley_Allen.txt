@@ -1,0 +1,143 @@
+{{short description|American singer-songwriter}}
+{{Use American English|date=December 2022}}
+{{Use mdy dates|date=January 2020}}
+{{Infobox musical artist
+| name                = Harley Allen
+| image               =
+| caption             =
+| image_size          =
+| background          = non_performing_personnel
+| birth_name          = Harley Lee Allen
+| birth_date                = {{Birth date|1956|01|23}}
+|birth_place =[[Dayton, Ohio]], United States
+| death_date                = {{Death date and age|mf=yes|2011|03|30|1956|01|23}}
+|death_place =[[Brentwood, Tennessee]], United States
+| origin              =
+| instrument          = Guitar, [[mandolin]]
+| genre               = [[Country music|Country]], [[Bluegrass music|bluegrass]]
+| occupation          = Singer-songwriter
+| years_active        = [[1970s in music|1970s]]&ndash;[[1990s in music|1990s]]
+| label               = [[Folkways Records|Folkways]], [[PolyGram Records|PolyGram]], [[Rounder Records|Rounder]]
+| Publishing Company  =
+| website                 =
+}}
+'''Harley Lee Allen''' (January 23, 1956{{spaced ndash}}March 30, 2011) was an American [[Bluegrass music|bluegrass]] and [[Country music|country]] singer and songwriter.
+
+==Early life==
+Allen was born in [[Dayton, Ohio]], the son of [[Bluegrass music|bluegrass]] performer [[Red Allen (bluegrass)|Red Allen]].
+
+==Discography==
+
+=== Studio albums ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:10em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''Another River''
+| 
+* Release date: November 5, 1996
+* Label: [[PolyGram Records]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:16em;"| Single
+! Album
+|-
+| rowspan="3"| 1996
+! scope="row"| "Old Love Dreamin'"
+| rowspan="4"| ''Another River''
+|-
+! scope="row"| "The Waving Girl"
+|-
+! scope="row"| "Boy She Did"
+|-
+| 1997
+! scope="row"| "Love Ain't Supposed to Hurt"
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:16em;"| Video
+! Director
+|-
+| 1996
+! scope="row"| "Boy She Did"<ref>{{cite web|url=http://www.cmt.com/videos/harley-allen/385145/boy-she-did.jhtml|archive-url=https://web.archive.org/web/20160305101311/http://www.cmt.com/videos/harley-allen/385145/boy-she-did.jhtml|url-status=dead|archive-date=March 5, 2016|title=CMT : Videos : Harley Allen : Boy She Did|publisher=[[Country Music Television]]|access-date=January 16, 2012}}</ref>
+| Lynn Spinnato
+|}
+
+==Career==
+Allen appeared on several 1970s albums with his brothers as the '''Allen Brothers''': ''Allengrass'' (Lemco Records), ''Sweet Rumors'' (Rounder Records), ''Clara's Boys'' (Rounder Records), ''Are You Feeling It Too'' (Folkways Records), ''Red Allen Favorites'' (King Bluegrass Records). He recorded three [[solo album]]s, ''Across The Blueridge Mountains'' ([[Folkways Records|Folkways]], 1983), ''Another River'' ([[PolyGram Records|PolyGram]], 1996) and ''Live At The Bluebird'' (2001).
+
+He was most known for providing background vocals on the song "[[Man of Constant Sorrow|I Am a Man of Constant Sorrow]]" from the [[O Brother, Where Art Thou? (soundtrack)|''O Brother, Where Art Thou?'' soundtrack]].  He won two [[Grammy Award]]s for that recording in 2002, in the [[Grammy Award for Best Country Collaboration with Vocals|Best Country Collaboration with Vocals]] and [[Grammy Award for Album of the Year|Album of the Year]] categories.
+
+Allen performed on two bluegrass tribute albums for the British rock band [[the Moody Blues]]: ''[[Moody Bluegrass]]: A Nashville Tribute to the Moody Blues'' (2004), and ''[[Moody Bluegrass]] TWO... Much Love'' (2011).<ref>{{cite web|url=https://www.npr.org/templates/story/story.php?storyId=4247134 |title=Moody Bluegrass: Rocking Through the Hills |publisher=NPR |date=December 30, 2004 |access-date=August 25, 2015}}</ref><ref>{{cite web|url=http://bluegrasstoday.com/moody-bluegrass-two%E2%80%A6much-love/ |title=Moody Bluegrass Two…Much Love |publisher=bluegrasstoday.com |date=June 7, 2011 |access-date=August 25, 2015}}</ref> The latter album was released after Allen's death.
+
+==Personal life==
+Allen is survived by his three brothers, Ronnie, Greg and Mark Allen; his sister, Delores Allen; his wife, Debbie Nims; their two daughters, Katelyn and Maggie; and son, Aaron.<ref>[http://www.theboot.com/2011/03/31/harley-allen-dead/ Hit Songwriter Harley Allen Dies at 55]</ref>
+
+==Death==
+Allen died of lung cancer on March 30, 2011, at his home in [[Brentwood, Tennessee]].<ref> {{cite web|url=https://www.cmt.com/news/75agz0/hit-country-songwriter-harley-allen-dead-at-55|archive-url=https://web.archive.org/web/20221128192319/https://www.cmt.com/news/75agz0/hit-country-songwriter-harley-allen-dead-at-55|url-status=dead|archive-date=November 28, 2022|title=Hit Country Songwriter Harley Allen Dead at 55|date=March 30, 2011|work=CMT|access-date=September 8, 2023}}</ref>
+
+==Songs written==
+The singles/songs written or co-written by Allen have been, among others, performed by:
+* [[Gary Allan]] ("Bourbon Borderline", "The Devil's Candy", "I Just Got Back From Hell", Learning To Live With Me", "[[Tough Little Boys]]")
+* [[Dierks Bentley]] ("My Last Name")
+* [[Garth Brooks]] ("Rollin'")
+* [[Tracy Byrd]] ("Cowgirl")
+* [[John Conlee]] ("Pass It On", "She's Mine")
+* [[Billy Currington]] ("[[Like My Dog]]")
+* [[The Del McCoury Band]] ("Keep Her While She's There", "Never Grow Up Boy")
+* [[Joe Diffie]] ("Something I Do For Me")
+* [[Ty England]] ("New Faces in the Field")
+* [[Alan Jackson]] ("Another Good Reason", "[[Between the Devil and Me]]", "Everything I Love", "I Slipped And Fell in Love", "I Still Love You", "Life Or Love", "Meat And Potato Man", "The Angels Cried", "Who I Am")
+* [[George Jones]] ("The Man He Was")
+* [[Sammy Kershaw]] ("For Years")
+* [[Hal Ketchum]] ("No Easy Road")
+* [[Alison Krauss|Alison Krauss & Union Station]] ("It Doesn't Matter")
+* [[Jake Mathews]] ("That's Why They Call It Cheatin'")
+* [[Kathy Mattea]] ("Live It")
+* [[John Michael Montgomery]] ("Cool", "December 1943", "I Wanna Be There", "[[The Little Girl]]")
+* [[Craig Morgan (singer)|Craig Morgan]] ("Paradise")
+* [[Joe Nichols]] ("[[I'll Wait for You (Joe Nichols song)|I'll Wait for You]]", "If Nobody Believed in You")
+* [[Linda Ronstadt]] ("High Sierra")
+* Shannon Walker ("That's Why God Made Me", "Mommy All The Time", "His Father's Son", "Before I Let You Go", "Walk Out of the Rain")
+* [[Blake Shelton]] ("[[The Baby (song)|The Baby]]", "The Bartender", "When Somebody Knows You That Well")
+* [[Daryle Singletary]] ("That's Why God Made Me")
+* [[Ricky Skaggs]] ("A Simple Life", "Spread A Little Love Around")
+* [[Darden Smith]] ("Seven Wonders")
+* [[Josh Turner]] ("I Had One One Time")
+* [[Rhonda Vincent]] ("In Your Loneliness", "When Love Arrives")
+* [[Don Williams]] ("Gulf Shore Line")
+* [[Mark Wills]] ("Still Waiting")
+* [[Darryl Worley]] ("[[Awful, Beautiful Life]]", "Spread A Little Love Around")
+* [[Lonesome River Band]] ("[[Stray Dogs & Alley Cats]]")
+* [[Ronnie Bowman]] ("[[Merry Christmas,Ho Ho Ho]]")
+* [[Melonie Cannon]] ("[[Nobody Hops A Train Anymore]]")
+* The Allen Brothers ("Wildwood Flower Blues")
+* Britt Ballenger ("Make You Mine", "A Simple Life")
+* [[Sister Sadie]] ("Mama's Room")
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.folkways.si.edu/searchresults.aspx?sPhrase=Harley%20Allen&sType='phrase'/ Harley Allen discography on Folkways]{{Dead link|date=January 2020 |bot=InternetArchiveBot |fix-attempted=yes }}
+
+{{Grammy Award for Album of the Year 2000s}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Allen, Harley}}
+[[Category:1956 births]]
+[[Category:2011 deaths]]
+[[Category:Musicians from Dayton, Ohio]]
+[[Category:Country musicians from Ohio]]
+[[Category:Singer-songwriters from Ohio]]
+[[Category:American country singer-songwriters]]
+[[Category:Grammy Award winners]]

@@ -1,0 +1,144 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=August 2020}}
+{{Infobox musical artist
+| image        =
+| name         = Brian McComas
+| image_size   =
+| birth_date   = {{birth date and age|1972|5|23}}
+| birth_place  = [[Bethesda, Maryland]], U.S.
+| origin       = [[Harrison, Arkansas]], U.S.
+| instrument   = Vocals
+| genre        = [[country music|Country]]
+| occupation   = Singer-songwriter
+| years_active = 2000–present
+| label        = [[Universal Music Group Nashville|Mercury Nashville]]<br/>[[Lyric Street Records|Lyric Street]]<br/>Katapult
+}}
+
+'''Brian McComas''' (born May 23, 1972) is an American [[country music]] artist. Originally signed to [[Mercury Nashville Records]], and then [[Lyric Street Records]] in 2001, McComas charted two minor singles in 2001 and 2002. A year later, he charted the Top Ten single "[[99.9% Sure (I've Never Been Here Before)]]" on the ''Billboard'' Hot Country Singles & Tracks charts. His eponymous debut album was also released that year. It produced an additional single before McComas was dropped from Lyric Street. He later signed to Katapult Records, which released his second album, ''Back Up Again'', in 2006.
+
+==Biography==
+McComas was born in [[Bethesda, Maryland]], and his family moved to [[Harrison, Arkansas]] when he was four years old. At age sixteen, he attended a [[Paul Overstreet]] concert; while at the concert, Overstreet gave McComas the address of his publishing company. McComas submitted a demo tape to the publishing company, who then encouraged him to continue working on his writing skills.<ref name="allmusic">[http://www.allmusic.com/artist/brian-mccomas-mn0000618766 Profile], Allmusic.com; accessed September 6, 2015.</ref><ref name="cmt">[https://web.archive.org/web/20040121034511/http://www.cmt.com/artists/az/mccomas_brian/bio.jhtml McComas profile], cmt.com; accessed September 6, 2015.</ref>
+
+McComas later attended college, but soon dropped out to move to [[Nashville, Tennessee]].<ref name="cmt"/> He briefly signed with [[Mercury Records]], before he landed a deal with Lyric Street in 2001, charting the singles "Night Disappear With You" and "I Could Never Love You Enough."<ref name="whitburn">{{cite book|author=Joel Whitburn|authorlink=Joel Whitburn|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=266|isbn=978-0-89820-177-2}}</ref> In 2003, he landed his first Top 10, "[[99.9% Sure (I've Never Been Here Before)]]"<ref name="allmusic"/> and the follow-up "You're in My Head", a No.&nbsp;21 hit on the country charts. Another single for Lyric Street, "The Middle of Nowhere", fell short of the Top 40, and Lyric Street dropped him not long afterward.<ref>[http://www.countrystandardtime.com/news/newsitem.asp?xid=97&t=Brian_McComas_signs_with_Katapult_Records Brian McComas signs with Katapult Records], countrystandardtime.com; accessed September 6, 2015.</ref> He later signed to Katapult Records, where he released ''Back Up Again'', his second album.<ref>[http://nashville.about.com/od/musicguidesandreviews/gr/mccomasreview1.htm Brian McComas – Back Up Again] {{Webarchive|url=https://web.archive.org/web/20100818082220/http://nashville.about.com/od/musicguidesandreviews/gr/mccomasreview1.htm |date=August 18, 2010}}, nashville.about.com; accessed September 6, 2015.</ref>
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:12em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="3"| Peak chart positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]
+! width="45"| [[Billboard 200|US]]
+! width="45"| [[Top Heatseekers|US<br>Heat]]
+|-
+! scope="row"| ''[[Brian McComas (album)|Brian McComas]]''
+| 
+* Release date: July 22, 2003
+* Label: [[Lyric Street Records]]
+| 21
+| 149
+| 4
+|-
+! scope="row"| ''Back Up Again''
+| 
+* Release date: August 29, 2006
+* Label: Katapult Records
+| —
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:23em;"| Single
+! colspan="2"| Peak chart<br>positions<ref name="whitburn"/>
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[Billboard Hot 100|US]]
+|-
+| 2001
+! scope="row"| "Night Disappear with You"
+| 41
+| —
+| align="left" rowspan="4"| ''Brian McComas''
+|- 
+| 2002
+! scope="row"| "I Could Never Love You Enough"
+| 46
+| —
+|-
+| 2003
+! scope="row"| "[[99.9% Sure (I've Never Been Here Before)]]"
+| 10
+| 57
+|- 
+| 2004
+! scope="row"| "[[You're in My Head]]"
+| 21
+| —<sup>A</sup>
+|-
+| rowspan="2"| 2005
+! scope="row"| "The Middle of Nowhere"
+| 43
+| —
+| align="left" {{n/a}}
+|-
+! scope="row"| "Good, Good Lovin'"
+| 53
+| —
+| align="left" rowspan="2"| ''Back Up Again''
+|-
+| 2006
+! scope="row"| "All Comes Floodin' Down"
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+*<sup>A</sup>"You're in My Head" did not enter the Hot 100, but peaked at number 18 on [[Bubbling Under Hot 100 Singles]].
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:20em;"| Video
+! Director
+|-
+| 2002
+! scope="row"| "I Could Never Love You Enough"
+| [[Deaton-Flanigen Productions]]
+|-
+| rowspan="2"| 2003
+! scope="row"| "99.9% Sure (I've Never Been Here Before)"
+| rowspan="2"| Brent Hedgecock
+|-
+! scope="row"| "You're in My Head"
+|-
+| 2006
+! scope="row"| "Good, Good Lovin'"
+| [[Roman White]]
+|}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:McComas, Brian}}
+[[Category:1972 births]]
+[[Category:American country singer-songwriters]]
+[[Category:Living people]]
+[[Category:Country musicians from Arkansas]]
+[[Category:Lyric Street Records artists]]
+[[Category:Mercury Records artists]]
+[[Category:People from Harrison, Arkansas]]
+[[Category:Singer-songwriters from Arkansas]]
+[[Category:21st-century American singer-songwriters]]

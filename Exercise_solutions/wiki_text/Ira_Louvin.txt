@@ -1,0 +1,54 @@
+{{Short description|American singer-songwriter (1924–1965)}}
+
+{{Use mdy dates|date=January 2020}}
+{{More citations needed|date=July 2007}}
+{{Infobox musical artist  <!-- See Wikipedia:WikiProject Musicians -->
+| name                = Ira Louvin
+| image                 = 
+| caption            =
+| image_size            =
+| background          = solo_singer 
+| birth_name          = Ira Lonnie Loudermilk
+| alias               = 
+| birth_date                = {{birth date|1924|4|21|mf=y}}
+| death_date                =  {{death date and age|1965|6|20|1924|4|21}}  
+|death_place =[[Williamsburg, Missouri]], U.S.
+| origin              = [[Section, Alabama]], U.S.
+| instrument          = [[Mandolin]]
+| genre               = [[Country music|Country]], [[Gospel music|gospel]]
+| occupation          = Singer, songwriter
+| years_active        = 1940–1965
+| label               = [[MGM]], [[Capitol Records|Capitol]]
+| associated_acts     = [[The Louvin Brothers]]
+}}
+'''Ira Lonnie Loudermilk''' (April 21, 1924 – June 20, 1965), known professionally as '''Ira Louvin''', was an American [[country music]] singer, [[mandolin]]ist and songwriter. He was a cousin of songwriter [[John D. Loudermilk]].
+
+==Biography==
+Ira Louvin was born in [[Section, Alabama]], and played together with his brother, [[Charlie Louvin|Charlie]], in the [[close harmony]] tradition as [[the Louvin Brothers]]. They were heavily influenced by [[the Delmore Brothers]] and Monroe Brothers. Ira played mandolin with [[Charlie Monroe]], guitar player of the Monroe Brothers in the early 1940s. The Louvin Brothers' songs were heavily influenced by their Baptist faith and warned against sin.
+
+Ira was notorious for his drinking and short temper. He married four times, his third wife having shot him multiple times in the chest and hand after he allegedly beat her.<ref>{{cite news|title='Opry' Singer Star Shot; Wife Jailed|newspaper=The Miami Herald|date=February 21, 1963|url=https://www.newspapers.com/clip/4881654/ira-louvin-shooting-1963/|archive-url=https://archive.today/20220216142651/https://www.newspapers.com/clip/4881654/ira-louvin-shooting-1963/|url-status=dead|archive-date=2022-02-16|access-date=February 16, 2022}}</ref> He died on June 20, 1965, when a drunken driver struck his car in [[Williamsburg, Missouri]].<ref>{{cite news|last=Strauss|first=Neil|title=The Pop Life|newspaper=The New York Times|date=November 28, 1996|url=https://www.nytimes.com/1996/11/28/arts/the-pop-life-500887.html?pagewanted=1|access-date=January 22, 2010}}</ref> At the time, a warrant for Louvin's arrest had been issued on a DUI charge.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Official website|https://countrymusichalloffame.org/artist/the-louvin-brothers/}}
+*[https://www.allmusic.com/artist/ira-louvin-mn0000099966/biography Artist Bio by Kim Summers @ AllMusic]
+*[https://web.archive.org/web/20110514000658/http://www.alamhof.org/lmusachv.html Alabama Hall of Fame inductees – Louvin Brothers]
+*[https://web.archive.org/web/20091026190835/http://www.nashvillesongwritersfoundation.com/l-o/ira-louvin.aspx Nashville Songwriters Hall of Fame inductee – Ira Louvin]
+*{{Find a Grave|7014069}}
+*[http://raisedcountry.com/charlie_louvin/ The Louvin Brother's lives from 1927 to 1963, and Ira's brother Charlie's life to the present on Raised Country!] {{Webarchive|url=https://web.archive.org/web/20171108062250/http://raisedcountry.com/charlie_louvin/ |date=November 8, 2017 }}
+
+{{Grand Ole Opry members}}
+{{Authority control}}
+
+{{DEFAULTSORT:Louvin, Ira}}
+[[Category:1924 births]]
+[[Category:1965 deaths]]
+[[Category:Grand Ole Opry members]]
+[[Category:Road incident deaths in Missouri]]
+[[Category:American country singer-songwriters]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:American country mandolinists]]
+[[Category:Country musicians from Alabama]]
+[[Category:Singer-songwriters from Alabama]]

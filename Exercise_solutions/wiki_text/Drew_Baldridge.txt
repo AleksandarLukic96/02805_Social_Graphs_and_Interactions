@@ -1,0 +1,276 @@
+{{short description|American country singer}}
+{{Use mdy dates|date=August 2024}}
+{{Infobox musical artist
+| name              = Drew Baldridge
+| image             = 
+| caption           = 
+| birth_name        = Andrew Ray Baldridge
+| alias             = Drew Baldridge
+| birth_date        = {{birth date and age|1991|07|29}}
+| birth_place       = [[Patoka, Illinois]], U.S.
+| origin            = [[Nashville, Tennessee]], U.S.
+| genre             = [[Country music|Country]]
+| occupation        = {{flatlist|
+* Singer
+* songwriter
+}}
+| years_active      = 2013–present
+| label             = {{flatlist|
+* This Music
+* Cold River
+* Lyric Ridge
+}}
+}}
+'''Andrew Ray Baldridge''' (born July 29, 1991) is an American [[country music|country]] singer. He has issued several independent singles via Cold River Records, and has charted several times on [[Country Airplay]].
+
+==Biography==
+Drew Baldridge was born in [[Patoka, Illinois]] on July 29, 1991. He began performing in local talent contests as a teenager, and moved to [[Nashville, Tennessee]] at age 18 to pursue a career in country music. Baldridge released a pair of extended plays digitally between 2014 and 2015. Later on, he released the single "Dance with Ya", which was officially sent to radio and became his first chart entry on [[Country Airplay]]. A full studio album, ''Dirt on Us'', came by year's end.<ref name="allmusic">{{cite web|url=https://www.allmusic.com/artist/drew-baldridge-mn0003381264/biography|title=Drew Baldridge biography|work=[[Allmusic]]|accessdate=March 10, 2018}}</ref> In promotion of the album, Baldridge toured with [[Lee Brice]] and [[Cole Swindell]].<ref>{{cite web|url=http://www.nashcountrydaily.com/2016/05/19/whos-new-drew-baldridge/|title=Who's New: Drew Baldridge|work=Nash Country Daily|date=May 19, 2016 |accessdate=March 10, 2018}}</ref>
+
+Baldridge announced a new single, "Guns & Roses", at the end of 2017. The song is intended to be the lead single to his second studio album.<ref>{{cite web|url=https://www.rollingstone.com/country/features/drew-baldridge-on-new-song-guns-roses-bringing-the-funk-w511531|title=Rising Songwriter Drew Baldridge on New Song 'Guns & Roses,' Bringing the Funk|work=Rolling Stone Country|date=November 10, 2017 |accessdate=March 10, 2018}}</ref>
+
+In 2019, Baldridge's label Cold River closed. As a result, he founded his own label called Lyric Ridge in 2020. His first Lyric Ridge release, "[[She's Somebody's Daughter]]", was a song he had originally cut on Cold River. Between 2023 and 2024, the song became a viral hit, and went on to become Baldridge's first top-40 hit on the ''Billboard'' country charts.<ref>{{cite web | url=https://people.com/country/drew-baldridge-debuts-new-music-video-featuring-wedding-footage/ | title=Drew Baldridge Debuts 'She's Somebody's Daughter' Music Video — Featuring His Wedding Footage! | publisher=[[People (magazine)|People]] | date=May 18, 2021 | accessdate=July 4, 2024}}</ref><ref>{{cite web | url=https://countrynow.com/drew-baldridge-reflects-on-independent-journey-to-radio-success-with-shes-somebodys-daughter-exclusive/ | title=Drew Baldridge Reflects On Independent Journey To Radio Success With 'She's Somebody's Daughter' [Exclusive] | publisher=Country Now | date=June 20, 2024 | accessdate=July 4, 2024}}</ref>
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;" 
+|-
+! style="width:12em;" rowspan="2"| Title
+! style="width:18em;" rowspan="2"| Album details
+! colspan="3"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! style="width:45px;"| [[Billboard 200|US]]<br /><ref name="US200">{{cite magazine|url=https://www.billboard.com/artist/drew-baldridge/chart-history/tlp/|title=Drew Baldridge Album & Song Chart History – Billboard 200|magazine=[[Billboard (magazine)|Billboard]]|accessdate=November 14, 2017}}</ref>
+! style="width:45px;"| [[Top Country Albums|US<br />Country]]<br /><ref name="USCountry">{{cite magazine|url=https://www.billboard.com/artist/drew-baldridge/chart-history/clp/|title=Drew Baldridge Album & Song Chart History – Top Country Albums|magazine=Billboard|accessdate=November 14, 2017}}</ref>
+! style="width:45px;"| [[Top Independent Albums|US<br />Indie]]<br /><ref name="USIndie">{{cite magazine|url=https://www.billboard.com/artist/drew-baldridge/chart-history/ind/|title=Drew Baldridge Album & Song Chart History – Top Independent Albums|magazine=Billboard|accessdate=November 14, 2017}}</ref> 
+|-
+! scope="row"| ''Dirt on Us'' 
+|
+* Release date: June 10, 2016
+* Label: Cold River
+* Formats: CD, digital download
+| 111
+| 11
+| 8
+|}
+
+===Compilation albums===
+* ''Crossing Country Lines (Deluxe Edition)'' (2015)<ref>{{Cite web|url=http://roughstock.com/news/2015/08/37248-drew-baldridge-crossing-county-lines-deluxe-edition-tracklist-cover-art|title=Drew Baldridge "Crossing County Lines [Deluxe Edition]" Tracklist & Cover Art|date=August 26, 2015|first=Matt|last=Bjorke|website=Roughstock.com|access-date=June 22, 2021}}</ref>
+
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:20em;"| Album details
+|-
+! scope="row"| ''All Good''
+|
+* Release date: November 26, 2013<ref>{{Cite web|url=https://music.apple.com/us/album/all-good-ep/767666283|title=All Good – EP by Drew Baldridge on Apple Music|publisher=[[Apple Music]]|access-date=June 22, 2021}}</ref>
+* Label: THiS Music
+* Formats: CD, digital download
+|- 
+! scope="row"| ''Crossing Country Lines, Vol. 1''
+| 
+* Release date: December 2, 2014
+* Label: THiS Music
+* Format: Digital download
+|- 
+! scope="row"| ''Crossing Country Lines, Vol. 2''
+| 
+* Release date: April 7, 2015
+* Label: THiS Music
+* Format: Digital download
+|-
+! scope="row"| ''Dance with Ya''
+|
+* Release date: January 8, 2016<ref>{{Cite web|url=https://music.apple.com/us/album/dance-with-ya-ep/1066430706|title=Dance with Ya – EP by Drew Baldridge on Apple Music|publisher=[[Apple Music]]|access-date=June 22, 2021}}</ref>
+* Label: Cold River
+* Format: Digital download
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2"| Year
+! scope="col" rowspan="2" style="width:18em;"| Title
+! scope="col" colspan="4" | Peak chart positions
+! scope="col" rowspan="2" | Album
+|- style="font-size:smaller;"
+! scope="col" style="width:45px;" | [[Billboard Hot 100|US]]<br /><ref>{{cite magazine|url=https://www.billboard.com/charts/hot-100/2024-08-24/|title=''Billboard'' Hot 100: Week of August 24, 2024|magazine=[[Billboard (magazine)|Billboard]]|access-date=August 20, 2024}}</ref>
+! scope="col" style="width:45px;" | [[Hot Country Songs|US Country]]<br /><ref>{{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_0812.pdf|title=Billboard Country Update|magazine=[[Billboard (magazine)|Billboard]]|date=August 12, 2024|access-date=August 13, 2024}}</ref>
+! scope="col" style="width:45px;" | [[Country Airplay|US Country Airplay]]<br /><ref name="Country Airplay">{{cite magazine|url=https://www.billboard.com/artist/drew-baldridge/chart-history/csa/|title=Drew Baldridge Chart History – Country Airplay|magazine=Billboard}}
+* "She's Somebody's Daughter" (Reimagined): {{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_0823.pdf|title=Billboard Country Update|magazine=[[Billboard (magazine)|Billboard]]|date=August 23, 2024|access-date=August 24, 2024}}</ref>
+! scope="col" style="width:45px;" | [[Canada Country|CAN Country]]<br /><ref>{{cite magazine|url=https://www.billboard.com/charts/canada-country/2024-08-31|title=Canada Country: Week of August 31, 2024|magazine=[[Billboard (magazine)|Billboard]]|access-date=August 27, 2024|url-access=subscription}}</ref>
+|-
+|rowspan=2|2013
+! scope="row"| "B.Y.O.B."<ref name="allmusic"/>
+| —
+| —
+| —
+| —
+|rowspan=3| ''All Good''
+|-
+! scope="row"| "All Good"<ref name="allmusic"/>
+| —
+| —
+| —
+| —
+|-
+| 2014
+! scope="row"| "She's Taken"<ref name="allmusic"/>
+| —
+| —
+| —
+| —
+|-
+| rowspan="2"| 2016
+! scope="row"| "Dance with Ya"
+| —
+| —
+| 48
+| —
+|rowspan=2|''Dirt on Us''
+|-
+! scope="row"| "Rebound" {{Small|(featuring Emily Weisband)}}
+| —
+| —
+| 50
+| —
+|-
+| 2017
+! scope="row"| "Guns & Roses"
+| —
+| —
+| 51
+| —
+| rowspan="6" {{Non-album singles}}
+|-
+| 2018
+! scope="row"| "Gentle Man"<ref>{{Cite web|url=https://music.apple.com/us/album/gentle-man-single/1366511966|title=Gentle Man – Single by Drew Baldridge on Apple Music|publisher=[[Apple Music]]|access-date=June 22, 2021}}</ref>
+| —
+| —
+| —
+| —
+|-
+|rowspan=5 | 2019
+! scope="row"| "God's People"<ref>{{Cite web|url=https://music.apple.com/us/album/gods-people-single/1517039972|title=God's People – Single by Drew Baldridge on Apple Music|publisher=[[Apple Music]]|access-date=June 22, 2021}}</ref>
+| —
+| —
+| —
+| —
+|-
+! scope="row"| "Senior Year"
+| —
+| —
+| 50
+| —
+|-
+! scope="row"| "[[She's Somebody's Daughter]]"<ref>{{Cite web|url=https://music.apple.com/us/album/shes-somebodys-daughter-single/1472835593|title=She's Somebody's Daughter – Single by Drew Baldridge on Apple Music|publisher=[[Apple Music]]|access-date=June 22, 2021}}</ref>
+| —
+| —
+| —
+| —
+|-
+! scope="row"| "Middle of Nowhere Kids"<ref>{{Cite web|url=https://music.apple.com/us/album/middle-of-nowhere-kids-single/1472835190|title=Middle of Nowhere Kids – Single by Drew Baldridge on Apple Music|publisher=[[Apple Music]]|access-date=June 22, 2021}}</ref>
+| —
+| —
+| —
+| —
+|-
+! scope="row"| "You Brought the Party" <br> <small>(with [[Christie Lamb]])</small><ref>{{cite web|url=https://themusicnetwork.com/charts/singles-to-radio/|title=Singles to Radio w/c 6 September 2019 ISSUE 1253|website=The Music Network|accessdate=September 9, 2019}}</ref>
+| —
+| —
+| —
+| —
+| ''Broken Lines''
+|-
+| rowspan="3"| 2020
+! scope="row"| "Before You"<ref>{{Cite web|url=https://music.apple.com/us/album/before-you-single/1503139047|title=Before You – Single by Drew Baldridge on Apple Music|publisher=[[Apple Music]]|access-date=June 22, 2021}}</ref>
+| —
+| —
+| —
+| —
+| rowspan="7" {{Non-album singles}}
+|-
+! scope="row"| "When I Fall"<ref>{{Cite web|url=https://music.apple.com/us/album/when-i-fall-single/1517040312|title=When I Fall – Single by Drew Baldridge on Apple Music|publisher=[[Apple Music]]|access-date=June 22, 2021}}</ref>
+| —
+| —
+| —
+| —
+|-
+! scope="row"| "It's Your Loss"<ref>{{Cite web|url=https://music.apple.com/us/album/its-your-loss-single/1534413301|title=It's Your Loss – Single by Drew Baldridge on Apple Music|publisher=[[Apple Music]]|access-date=June 22, 2021}}</ref>
+| —
+| —
+| —
+| —
+|-
+| rowspan="3"| 2021
+! scope="row"| "That's You"<ref>{{Cite web|url=https://music.apple.com/us/album/thats-you-single/1550491707|title=That's You – Single by Drew Baldridge on Apple Music|publisher=[[Apple Music]]|access-date=June 22, 2021}}</ref>
+| —
+| —
+| —
+| —
+|-
+! scope="row"| "Beach Ain't One"<ref>{{Cite web|url=https://music.apple.com/us/album/beach-aint-one-single/1560159458|title=Beach Ain't One – Single by Drew Baldridge on Apple Music|publisher=[[Apple Music]]|access-date=June 22, 2021}}</ref>
+| —
+| —
+| —
+| —
+|-
+! scope="row"| "Stay at Home Dad"<ref>{{Cite web|url=https://music.apple.com/us/album/stay-at-home-dad-single/1570324483|title=Stay at Home Dad – Single by Drew Baldridge on Apple Music|publisher=[[Apple Music]]|access-date=June 22, 2021}}</ref>
+| —
+| —
+| —
+| —
+|-
+| 2023
+! scope="row"| "She's Somebody's Daughter" (Reimagined)
+| 93
+| 29
+| 3
+| 22
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;"| Video
+|-
+| 2013
+! scope="row"| "B.Y.O.B."
+|-
+| rowspan="2"| 2014
+! scope="row"| "Whistlin'"
+|-
+! scope="row"| "She's Taken"
+|-
+| rowspan="2"| 2015
+! scope="row"| "Missing a Shoe"
+|-
+! scope="row"| "Dance with Ya"
+|-
+| rowspan="3"| 2016
+! scope="row"| "Rebound"
+|-
+! scope="row"| "Train"
+|-
+! scope="row"| "It Is Well with My Soul"
+|}
+
+==References==
+{{Reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Baldridge, Drew}}
+[[Category:1991 births]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Living people]]
+[[Category:People from Marion County, Illinois]]
+[[Category:Singers from Nashville, Tennessee]]
+[[Category:Country musicians from Tennessee]]
+[[Category:Country musicians from Illinois]]
+[[Category:21st-century American male singers]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:Singer-songwriters from Tennessee]]
+[[Category:Singer-songwriters from Illinois]]

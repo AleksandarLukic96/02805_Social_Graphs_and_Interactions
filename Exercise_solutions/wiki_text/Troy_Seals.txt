@@ -1,0 +1,73 @@
+{{short description|American singer-songwriter}}
+
+{{BLP sources|date=October 2009}}
+'''Troy Harold Seals''' (born November 16, 1938, in [[Bighill, Kentucky|Bighill]], [[Madison County, Kentucky|Madison County]], [[Kentucky]], United States)<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc.|year=2008|pages=373|isbn=978-0-89820-177-2}}</ref> is an American singer, songwriter, and guitarist.<ref name="Larkin">{{cite book|title=[[Encyclopedia of Popular Music|The Virgin Encyclopedia of Popular Music]]|editor=Colin Larkin|editor-link=Colin Larkin (writer)|publisher=[[Virgin Books]]|date=1997|edition=Concise|isbn=1-85227-745-9|page=1064/5}}</ref>
+
+He is a member of the prominent Seals family of pop musicians that includes [[Jim Seals]] (of [[Seals and Crofts]]), [[Dan Seals]] (of [[England Dan & John Ford Coley]]), [[Brady Seals]] ([[Little Texas (band)|Little Texas]] and [[Hot Apple Pie]]), and [[Johnny Duncan (country singer)|Johnny Duncan]].<ref name="Larkin"/> During the 1970s, Seals recorded with [[Lonnie Mack]] and [[Doug Kershaw]] and although he made two albums of his own, he is best known as a songwriter.<ref name="Larkin"/> His songs have been recorded by artists such as [[Joe Cocker]], [[Eric Clapton]], [[Nancy Sinatra]], [[Randy Travis]], [[Conway Twitty]], [[Hank Williams Jr.]], [[Elvis Presley]], [[Roy Orbison]], [[Charlie Rich]], [[Levon Helm]], and [[Jerry Lee Lewis]]. [[George Jones]]' "[[Who's Gonna Fill Their Shoes]]," was co-written with Max D. Barnes.<ref name="Larkin"/>
+
+Seals has played guitar on numerous sessions for recording stars and has collaborated on songs with [[Waylon Jennings]], [[Vince Gill]], [[Will Jennings]] and others. He has had three co-written songs nominated for the [[Country Music Association]] "Song of the Year" award: "[[Seven Spanish Angels]]" (1985), "[[Lost in the Fifties Tonight]]" (1986), and  "If You Ever Have Forever In Mind" (1999). He also co-wrote "L.A. Lady" for the [[New Riders of the Purple Sage]], along with Will Jennings and Donald Clint Goodman. "L.A. Lady" was also recorded by [[Dobie Gray]].
+
+In recognition of his successful career, Seals was inducted into the [[Nashville Songwriters Hall of Fame]].
+
+==Singles==
+{| class="wikitable" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="1"| Peak chart positions
+|- style="font-size:smaller;"
+! width="40"| [[Hot Country Songs|US Country]]<ref name="whitburn"/>
+|-
+| 1973
+|align=left|"I Got a Thing About You Baby"
+|93
+|-
+| rowspan=3|1974
+|align=left|"Star of the Bar"
+|78
+|-
+|align=left|"You Can't Judge a Book by the Cover"<sup>A</sup>
+|96
+|-
+|align=left|"Honky Tonkin'"
+|81
+|-
+|1975
+|align=left|"Easy"
+|76
+|-
+|1976
+|align=left|"[[Sweet Dreams (Don Gibson song)|Sweet Dreams]]"
+|88
+|-
+|1977
+|align=left|"Grand Ole Blues"
+|93
+|-
+|1980
+|align=left|"One Night Honeymoon"
+|85
+|}
+*<sup>A</sup>[[B-side]] to "Star of the Bar."
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{discogs artist|Troy Seals}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Seals, Troy}}
+[[Category:1938 births]]
+[[Category:American country guitarists]]
+[[Category:American male guitarists]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Country musicians from Kentucky]]
+[[Category:Living people]]
+[[Category:People from Madison County, Kentucky]]
+[[Category:Singer-songwriters from Kentucky]]
+[[Category:Guitarists from Kentucky]]
+[[Category:20th-century American guitarists]]
+[[Category:20th-century American male musicians]]

@@ -1,0 +1,145 @@
+{{Infobox musical artist
+| name            = The Ellis Brothers
+| image           = Darrylanddon341165.jpg
+| caption         =
+| image_size      =
+| alias           =
+| origin          = [[Beaver Falls, Pennsylvania]] United States
+| genre           = [[Country music|Country]]
+| years_active    = 1992–1994
+| label           = [[Epic Records|Epic]]
+| past_members    = Darryl Ellis Gatlin<br />Don Ellis Gatlin
+}}
+
+'''The Ellis Brothers'' Were an American [[country music]] duo formed in [[Beaver Falls, Pennsylvania]] in 1992. The duo consisted of brothers Darryl Ellis Gatlin and Don Ellis Gatlin. Their highest charting single, "No Sir," peaked at No.&nbsp;58 on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles & Tracks]] chart in 1992. Don Ellis wrote songs on [[Blake Shelton]]'s first two albums, and later founded a second band called Savannah Jack.<ref>{{cite web|url=http://www.savannahjack.com/about.asp |title=Savannah Jack biography |work=Savannah Jack |accessdate=2009-10-23 |archiveurl=https://web.archive.org/web/20090607034848/http://www.savannahjack.com/about.asp |archivedate=June 7, 2009 }}</ref>
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:10em;"| Title
+! rowspan="2" style="width:20em;"| Album details
+! colspan="2"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]
+! width="45"| [[Top Heatseekers|US Heat]]
+|-
+! scope="row"| ''No Sir''
+| 
+* Release date: September 22, 1992
+* Label: [[Epic Records]]
+| 57
+| 21
+|-
+! scope="row"| ''Day in the Sun''
+| 
+* Release date: August 24, 1993
+* Label: Epic Records
+| —
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="3"| 1992
+! scope="row"| "Goodbye Highway"
+| 70
+| —
+| align="left" rowspan="3"| ''No Sir''
+|-
+! scope="row"| "No Sir"
+| 58
+| 77
+|-
+! scope="row"| "Something Moving in Me"
+| 73
+| —
+|-
+| rowspan="2"| 1993
+! scope="row"| "10 Minutes Till"<ref>{{cite magazine|url=http://americanradiohistory.com/Archive-Billboard/90s/1993/BB-1993-07-24.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|date=July 24, 1993}}</ref>
+| —
+| —
+| rowspan="2" align="left"| ''Day in the Sun''
+|-
+! scope="row"| "Walk Out of My Mind"<ref>{{cite magazine|url=http://americanradiohistory.com/Archive-Billboard/90s/1993/BB-1993-10-02.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|date=October 2, 1993}}</ref>
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:14em;"| Video
+! Director
+|-
+| rowspan="2"| 1992
+! scope="row"| "Goodbye Highway"
+| 
+|-
+! scope="row"| "No Sir"
+| rowspan="2"| Michael Merriman
+|-
+| 1993
+! scope="row"| "10 Minutes Till"
+|}
+
+== Awards and nominations ==
+{| class="wikitable"
+!Year
+!Organization
+!Award
+!Nominee/Work
+!Result
+|-
+|rowspan=2| 1993
+|TNN/Music City News Country Awards
+|Vocal Duo of the Year
+|Darryl & Don Ellis
+|{{nom}}
+|-
+|[[Country Music Association Awards]]
+|[[Country Music Association Award for Vocal Duo of the Year|Vocal Duo of the Year]]
+|Darryl & Don Ellis
+|{{nom}}
+|-
+|1994
+|[[Academy of Country Music Awards]]
+|Top Vocal Duo of the Year
+|Darryl & Don Ellis
+|{{nom}}
+|-
+|1995
+|TNN/Music City News Country Awards
+|Vocal Group or Duo of Tomorrow
+|Darryl & Don Ellis
+|{{nom}}
+|}
+
+==References==
+{{Reflist}}
+*[{{Allmusic|class=artist|id=p32440/discography|pure_url=yes}} allmusic ((( Darryl & Don Ellis > Discography )))]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ellis, Darryl and Don}}
+[[Category:Country music groups from Pennsylvania]]
+[[Category:American country music duos]]
+[[Category:Sibling musical duos]]
+[[Category:Epic Records artists]]
+[[Category:Musical groups established in 1992]]

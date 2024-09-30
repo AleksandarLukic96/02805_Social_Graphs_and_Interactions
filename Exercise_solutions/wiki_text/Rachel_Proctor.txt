@@ -1,0 +1,129 @@
+{{short description|American singer-songwriter}}
+{{Other uses|Proctor (surname)}}
+
+{{Use mdy dates|date=October 2020}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name             = Rachel Proctor
+| image            = 
+| caption          = 
+| image_size       = 
+| background       = solo_singer
+| birth_name       = Rachel Christine Proctor<ref name="about"/>
+| birth_place      = 
+| birth_date       = {{birth date and age|1974|08|11|mf=yes}}<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=335|isbn=978-0-89820-177-2}}</ref>
+| origin           = [[Charleston, West Virginia]], US
+| instrument       = Vocals, guitar
+| genre            = [[Country music|Country]]
+| occupation       = Singer-songwriter
+| years_active     = 2002–present
+| label            = [[BNA Records|BNA]]
+}}
+'''Rachel Christine Proctor''' (born August 11, 1974) is an American [[country music]] artist. Before signing to a record deal, she co-wrote [[Martina McBride]]'s 2002 single "[[Where Would You Be]]". By 2003, Proctor had signed to [[BNA Records]], releasing her debut single "Days Like This" that year. This song, which peaked at number 24 on the country charts, was the first of four singles from her 2004 debut album ''[[Where I Belong (Rachel Proctor album)|Where I Belong]]''. Proctor's only album for the label, it also produced her highest-charting single in the number 18 "[[Me and Emily]]". Although she has not charted a single since 2004, she has written singles for [[Jessica Simpson]] and [[Jesse Lee (singer)|Jesse Lee]]. Proctor has also had songs recorded by Blake Shelton, Gary Allan, Jana Kramer, Lauren Alaina, and Kenny Loggins. In March 2013 Rachel signed an exclusive songwriting agreement with Big Tractor Music Publishing. Big Tractor is owned by producer [[Scott Hendricks]].
+
+==Biography==
+Proctor was born in [[Charleston, West Virginia]], daughter of Danny Proctor, a selfless man, known for his gracious heart and thoughtful donations of time and labor whenever he could help. When she was in grade school, she appeared in local productions of ''[[Annie (musical)|Annie]]'' and ''[[The Sound of Music]]''. By the time she was in junior high school, she had signed with a New York management company that also managed [[New Kids on the Block]].<ref name="about">{{cite news |url=http://countrymusic.about.com/od/rachelproctor/a/blrproctorbio.htm |title=Rachel Proctor bio (page 1) |accessdate=June 5, 2008 |last=Fabian |first=Shelly |work=[[About.com]] |archive-date=January 20, 2012 |archive-url=https://web.archive.org/web/20120120065557/http://countrymusic.about.com/od/rachelproctor/a/blrproctorbio.htm |url-status=dead }}</ref> Proctor also competed on the television talent show ''[[Star Search]]'', and by the time she was eighteen, she had begun writing songs and performing in local bands as well.<ref name="about"/> (One band in which she performed also included a then-unknown [[Blake Shelton]].)<ref name="about2">{{cite web |url=http://countrymusic.about.com/od/rachelproctor/a/blrproctorbio_2.htm |title=Rachel Proctor bio (page 2) |accessdate=June 5, 2008 |last=Fabian |first=Shelly |work=About.com |archive-date=February 8, 2012 |archive-url=https://web.archive.org/web/20120208145052/http://countrymusic.about.com/od/rachelproctor/a/blrproctorbio_2.htm |url-status=dead }}</ref>
+
+Proctor moved to [[Nashville]], [[Tennessee]] in the mid 1990s in pursuit of a record deal. By the late 1990s, [[The Lynns]], [[Sonya Isaacs]], and [[Kortney Kayle]] had all recorded some of her compositions. In 2002, Martina McBride released "Where Would You Be", another one of Proctor's compositions, which reached number 3 on the ''[[Billboard (magazine)|Billboard]]'' country charts.<ref name="about2"/> Proctor also sang backing vocals on Shelton's 2002 single "[[Ol' Red]]".<ref>{{cite AV media notes |title=Blake Shelton |others=Blake Shelton |year=2001 |type=CD insert |publisher=Warner Bros. Records |id=24731}}</ref> Later that same year, Proctor signed to BNA Records, releasing her debut single "Days Like This" in 2003. The song, which served as the lead-off single to her debut album ''Where I Belong'', reached 24 on the country charts. It was followed by the number 43 "Didn't I", and then in 2004 by her highest chart hit, the number 18 "Me and Emily". Finally, the album's title track was released as its fourth single, peaking at 37. Proctor left BNA records to return to songwriting full-time.  She has released two independent albums, "What Didn't Kill Me" and "Only Lonely Girl."
+Proctor, along with [[Victoria Banks]], co-wrote Jessica Simpson's 2008 singles "[[Come On Over (Jessica Simpson song)|Come On Over]]" and "Remember That", the former of which was Simpson's first country single. She also co-wrote [[Jesse Lee (singer)|Jesse Lee]]'s 2009 debut single "It's a Girl Thing" in collaboration with Banks, as well as [[Jennette McCurdy]]'s 2010 single "[[Not That Far Away]]" and [[Lauren Alaina]]'s 2012 single "[[Georgia Peaches]]".
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:12em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="2"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]
+! width="45"| [[Billboard 200|US]]
+|-
+! scope="row"| ''[[Where I Belong (Rachel Proctor album)|Where I Belong]]''
+| 
+* Release date: August 10, 2004
+* Label: [[BNA Records]]
+| 8
+| 66
+|-
+! scope="row"| ''Only Lonely Girl''
+| 
+* Release date: October 26, 2007
+* Label: self-released
+| —
+| —
+|-
+! scope="row"| ''What Didn't Kill Me''
+| 
+* Release date: August 11, 2009
+* Label: self-released
+| —
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:10em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<br /><ref name="whitburn"/>
+! width="45"| [[Bubbling Under Hot 100|US Bubbling]]<br /><ref name="whitburn"/>
+|-
+| 2003
+! scope="row"| "[[Days Like This (Rachel Proctor song)|Days Like This]]"
+| 24
+| —
+| align="left" rowspan="4"| ''Where I Belong''
+|-
+| rowspan="3"| 2004
+! scope="row"| "Didn't I"
+| 43
+| —
+|-
+! scope="row"| "[[Me and Emily]]"
+| 18
+| 10
+|-
+! scope="row"| "[[Where I Belong (Rachel Proctor song)|Where I Belong]]"
+| 37
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:10em;"| Video
+! Director
+|-
+| 2004
+! scope="row"| "Me and Emily"
+| Kristin Barlowe
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20110724025711/http://www.rachelproctor.net/ Official Rachel Proctor Website]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Proctor, Rachel}}
+[[Category:1974 births]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Living people]]
+[[Category:Musicians from Charleston, West Virginia]]
+[[Category:BNA Records artists]]
+[[Category:Country musicians from West Virginia]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:21st-century American women singers]]
+[[Category:Singer-songwriters from West Virginia]]

@@ -1,0 +1,144 @@
+{{Infobox musical artist | <!-- See Wikipedia:WikiProject Musicians -->
+| name            = The Cruzeros
+| image           =
+| caption         =
+| image_size      = <!-- Only for images smaller than 220 pixels -->
+| background      = group_or_band
+| origin          = [[Kelowna]], [[British Columbia]], Canada
+| genre           = [[Country rock]]
+| years_active    = 1996–present
+| label           = [[Independent record label|Independent]]
+| current_members = 
+*Barry Mathers
+*Curtis Tulman
+*Gary Smyth
+*Jay Terrence
+*Jim Ryan
+*Rod Miller
+*Rachel Matkin
+| past_members    =
+}}
+
+'''The Cruzeros''' are a [[Canada|Canadian]] [[country rock]] band from [[Kelowna, British Columbia]]. Their concert lineup includes main songwriter and lead vocalist Barry Mathers on guitar and mandolin,<ref>[http://www.abbynews.com/community/abbotsford-community-builder-passes/ "Abbotsford community builder passes"]. ''The Abbotsford News'', Mar 28th, 2014. Lynne Wright</ref> Curtis Tulman on vocals, guitar, harmonica and saxophone, Jim Ryan on vocals and bass, songstress Rachel Matkin on vocals and mandolin, Jay Terrence on drums, Gary Smyth on lead guitar and Rod Miller on keys and accordion.<ref>[http://jam.canoe.com/Music/Pop_Encyclopedia/C/Cruzeros.html "Cruzeros"]{{dead link|date=February 2024|bot=medic}}{{cbignore|bot=medic}}. ''Canadian Pop Music Encyclopedia'', November 30, 2004</ref>
+
+==History==
+The Cruzeros were formed by Mathers and Tulman in 1985 under the name Sea Cruise. They played top forty cover tunes on the pub and nightclub circuit in Canada's BC Interior. They began writing and recording their own songs later that year and for the next decade home-produced singles which were played on local radio and television through videos produced by the BC Music Project. The band went on a tour of Mexico, and subsequently changed the name to The Cruzeros. During this time the band members settled in Kelowna and began raising families.
+
+In 1995 the band received funding through FACTOR to produce an album, which they did with Vancouver producer Bill Buckingham. The self-titled album was released to radio in 1996. It was played nationally, and its success earned them a 1977 JUNO nomination for Country Group of the Year.<ref name="Inc.1998">{{cite journal|author=Larry LeBlanc|title=McLaughlin at top of Juno nominations|work=Billboard|url=https://books.google.com/books?id=GQ8EAAAAMBAJ&pg=PA14|date=21 February 1998|publisher=Nielsen Business Media, Inc.|pages=14–|issn=0006-2510}}</ref>
+
+During the next 13 years they launched three albums independently, which spawned a total of 20 top forty hits on the national country charts, eight videos on CMT and a number of award citations, including a Canadian Indy for Country Album of the Year, CCMA Special Instrumentalist of the Year three years running and BCCMA Group, Songwriter and Album of the Year awards.
+
+The band performed about 150 concerts per year across Canada, with forays into the United States, Mexico and Europe.
+
+The Cruzeros retired from active touring in 2008; they have appeared a few times locally since then to perform at a benefit concert or special event.<ref>[http://infotel.ca/newsitem/what-happens-when-your-music-becomes-noise-in-kelowna/it21294 "What happens when your music becomes noise in Kelowna"]. ''Info News'', July 16, 2015 By John McDonald</ref> Mathers continues to produce and engineer from his home studio, Redhouse Recording<ref>[http://www.revelstokereview.com/ourtown/283226051.html "Joanne Stacey releases new album"]. ''Revelstoke Times Review'', by  Alex Cooper Nov 19, 2014</ref> and has joined with Matkin to form the rootsy Dirt Road Opera. Tulman heads the worship department for the Willow Park Church Network and joins Smyth and Miller in the eclectic gypsy jazz group Cowboy Bob. Ryan works as a studio musician who is regularly called to recording sessions in Vancouver, Toronto and Nashville. Terrance continues to perform locally.
+
+==Discography==
+===Albums===
+{|class="wikitable"
+!Year
+!Album
+|-
+|1996
+|''The Cruzeros''
+|-
+|2001
+|''El Niño''
+|-
+|2005
+|''Scandalosa''<ref>[http://infotel.ca/newsitem/okanagan-musician-honours-uncle-with-remembrance-day-song/it24876 "Okanagan musician honours uncle with Remembrance Day song"]. ''Info News'', November 11, 2015. By John McDonald</ref>
+|}
+
+===Singles===
+{| class="wikitable"
+! Year
+! Title
+! <small>CAN Country</small>
+! Album
+|-
+| rowspan="3"| 1996
+| "Am I Invisible"
+| align="center"| 29
+| rowspan="5"| ''The Cruzeros''
+|-
+| "Take You By the Heart"
+| align="center"| 13
+|-
+| "Landslide"
+| align="center"| 22
+|-
+| 1997
+| "The Last Time"
+| align="center"| 32
+|-
+| 1998
+| "Into Your Eyes"
+| align="center"| 
+|-
+| 2000
+| "Am I Losing You"
+| align="center"| 
+| rowspan="6"| ''El Niño''
+|-
+| 2001
+| "This Old Road"
+| align="center"| 
+|-
+| rowspan="3"| 2002
+| "Piece of Stone"
+| align="center"| 
+|-
+| "Roses and a Cross"
+| align="center"| 
+|-
+| "Tangled Up in You"
+| align="center"| 
+|-
+| 2003
+| "Going There with Grace"
+| align="center"| 
+|-
+| 2004
+| "November 11th"
+| align="center"| 
+| rowspan="5"| ''Scandalosa''
+|-
+| 2005
+| "Load Me Up"
+| align="center"| 
+|-
+| 2006
+| "The Way You're Looking at Me"
+| align="center"| 
+|-
+| 2007
+| "Cowboy Boots"
+| align="center"| 
+|-
+| 2008
+| "The Way It Is Around Here"
+| align="center"| 
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;"| Video
+|-
+| 2005
+! scope="row"| "Load Me Up"
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.cruzeros.ca/ Official Homepage]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Cruzeros, The}}
+[[Category:Canadian country music groups]]
+[[Category:Canadian country rock groups]]
+[[Category:Musical groups from Kelowna]]
+[[Category:1960 establishments in British Columbia]]

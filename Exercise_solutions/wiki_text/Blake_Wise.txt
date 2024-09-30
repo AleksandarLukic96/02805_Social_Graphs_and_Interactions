@@ -1,0 +1,89 @@
+{{short description|American singer-songwriter}}
+
+{{Infobox musical artist
+| name            = Blake Wise
+| image           =
+| alt             =
+| caption         =
+| image_size      =
+| birth_name      =
+| alias           =
+| birth_date      = ca. 1989
+| birth_place     = [[Nebo, North Carolina]]
+| death_place     =
+| origin          =
+| instrument      = Vocals
+| genre           = [[Country music|Country]]
+| occupation      =
+| years_active    = 2008–present
+| label           = [[Equity Music Group]]<br />[[Broken Bow Records|Broken Bow]]
+| associated_acts =
+| website         = 
+}}
+
+'''Blake Wise''' is an American [[country music]] singer from [[Nebo, North Carolina]]. He is signed to the independent [[Broken Bow Records]], for which he has released three singles: "Cornfields," "I've Got This Feeling" and "Can't Live Without."
+
+==Biography==
+Wise learned to play guitar at age four and began touring with his father at age thirteen. Two years later, a record label manager encouraged Wise to move to [[Nashville, Tennessee]] once Wise had turned eighteen.<ref>{{cite web |url=http://www.gactv.com/gac/ar_artists_a-z/article/0,,GAC_26071_6027290,00.html |archive-url=https://archive.today/20120731043410/http://www.gactv.com/gac/ar_artists_a-z/article/0,,GAC_26071_6027290,00.html |url-status=dead |archive-date=31 July 2012 |title=Blake Wise biography (page 1) |work=[[Great American Country]] |accessdate=29 November 2010 }}</ref>
+
+Wise signed to [[Equity Music Group]] in 2008 at age nineteen.<ref>{{cite web |url=https://news.google.com/newspapers?id=wpU1AAAAIBAJ&sjid=DygMAAAAIBAJ&pg=1702,3303966&dq=blake-wise&hl=en |title=Blake Wise to perform at Nashville Sound |date=30 March 2008 |work=Elizabethton Star |accessdate=29 November 2010}}</ref> The label closed soon afterward, and he signed to [[Broken Bow Records]] in September 2009.<ref>{{cite web |url=http://www.gactv.com/gac/ar_artists_a-z/article/0,3028,GAC_26071_6027290_02,00.html |archive-url=https://archive.today/20120905090418/http://www.gactv.com/gac/ar_artists_a-z/article/0,3028,GAC_26071_6027290_02,00.html |url-status=dead |archive-date=5 September 2012 |title=Blake Wise biography (page 2) |work=Great American Country |accessdate=29 November 2010 }}</ref> Broken Bow released his single "Cornfields" in mid-2010,<ref>{{cite web |url=http://www.roughstock.com/blog/blake-wise-cornfields- |title=Blake Wise — "Cornfields" |last=Bjorke |first=Matt |publisher=Roughstock |accessdate=29 November 2010 |url-status=dead |archiveurl=https://web.archive.org/web/20110102102937/http://www.roughstock.com/blog/blake-wise-cornfields- |archivedate=2 January 2011 }}</ref> followed by "I've Got This Feeling" later in the year. This song debuted at number 59 on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] chart dated for the week ending December 11, 2010.<ref>{{cite magazine |url=http://www.billboard.com/column/chartbeat/chart-highlights-adult-contemporary-country-1004132021.story#/column/chartbeat/chart-highlights-adult-contemporary-country-1004132021.story |title=Billboard chart highlights |date=29 November 2010 |magazine=Billboard |accessdate=29 November 2010 |archive-date=1 December 2010 |archive-url=https://web.archive.org/web/20101201011313/http://www.billboard.com/column/chartbeat/chart-highlights-adult-contemporary-country-1004132021.story#/column/chartbeat/chart-highlights-adult-contemporary-country-1004132021.story |url-status=dead }}</ref> A third single, "Can't Live Without," was released in September 2011.
+
+==Discography==
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! colspan="1"| Peak positions
+|-
+! style="width:6.5em;font-size:75%;"|[[Hot Country Songs|US Country]]
+|-
+| rowspan="2"| 2010
+! scope="row"| "Cornfields"
+| —
+|-
+! scope="row"| "I've Got This Feeling"
+| 54
+|-
+| 2011
+! scope="row"| "Can't Live Without"
+| —
+|-
+| colspan="3" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:14em;"| Video
+! Director
+|-
+| 2011
+! scope="row"| "Can't Live Without"
+| John Fucile
+|-
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20110107131908/http://blakewise.com/ Official website]
+
+{{authority control}}
+
+{{DEFAULTSORT:Wise, Blake}}
+[[Category:1980s births]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:BBR Music Group artists]]
+[[Category:Equity Music Group artists]]
+[[Category:Living people]]
+[[Category:Singer-songwriters from North Carolina]]
+[[Category:People from McDowell County, North Carolina]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:Country musicians from North Carolina]]
+[[Category:21st-century American male singers]]

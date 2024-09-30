@@ -1,0 +1,113 @@
+{{Short description|American country music singer}}
+{{Use mdy dates|date=June 2020}}
+{{Infobox musical artist
+| name            = Greg Bates
+| image           =
+| image_size      =
+| landscape       = <!-- yes, if wide image, otherwise leave blank -->
+| alt             =
+| caption         =
+| birth_name      =
+| birth_date      = {{birth date and age|1987|09|25}}<ref name="usatoday"/><ref>[http://www.countryhamfest.com/apps/GregBatesBio.pdf Greg Bates Biography from Hamfest] {{Webarchive|url=https://web.archive.org/web/20061111074120/http://countryhamfest.com/apps/GregBatesBio.pdf |date=November 11, 2006 }} Country Hamfest. Retrieved on May 1, 2012.</ref>
+| birth_place     = [[Nashville, Tennessee]], U.S.<ref name="usatoday"/>
+| origin          = [[Brentwood, Tennessee]], U.S.
+| occupation      = Singer-songwriter
+| instrument      = Vocals
+| years_active    = 2011–present
+| label           = [[Republic Nashville]]
+| associated_acts = 
+}}
+
+'''Greg Bates''' (born September 25, 1987) is an American [[country music]] singer formerly signed to [[Republic Nashville]]. Bates also is a songwriter, producer, singer, and guitarist.<ref>{{Cite web |title=Greg Bates |url=https://www.songfinch.com/artists/82855 |access-date=2023-05-10 |website=Songfinch |language=en}}</ref><ref>{{Cite web |date=2022-06-12 |title=Ten Years After "Did It for the Girl," Greg Bates is Right Where He Wants to Be |url=https://procountrymusic.com/2022/06/11/ten-years-after-did-it-for-the-girl-greg-bates-is-right-where-he-wants-to-be/ |access-date=2023-05-10 |website=Pro Country |language=en}}</ref>
+
+==Early life==
+In 2006, Bates graduated from [[Ravenwood High School]]. Bates then graduated in 2010 with a degree in Music Business from [[Belmont University]].<ref name="usatoday"/> He signed a recording contract in the fall of 2011.<ref name="usatoday">[https://www.usatoday.com/story/life/music/2012/11/18/did-it-for-the-girl-greg-bates-on-the-verge/1710439/ On the Verge: Country singer Greg Bates] USA Today. Retrieved on November 3, 2012.</ref> Bates quietly parted ways with Republic Nashville towards the end of 2013.
+
+==Personal life==
+He proposed to girlfriend Shelley Skidmore on Valentine's Day 2014.<ref>{{cite web|url=https://www.instagram.com/p/zFwndxhWjr/  |archive-url=https://ghostarchive.org/iarchive/instagram/gregbatesofficial/920355517128599787 |archive-date=December 25, 2021 |url-access=registration|title=Greg Bates on Instagram: "One year ago today I was a nervous wreck driving 4 hours to propose to @shelleyskidmore. Thanks for saying yes baby #ValentinesDay" |website=Instagram.com |date= |accessdate=March 21, 2020}}{{cbignore}}</ref> The couple was married on May 2, 2015 in Stanton, Kentucky. Stanton is Shelley's hometown. The two posted up wedding pictures on Instagram.<ref>{{cite web|url=http://theboot.com/greg-bates-married/ |title=Greg Bates Gets Married |website=Theboot.com |date= May 7, 2015|accessdate=March 21, 2020}}</ref>
+
+==Musical career==
+In April 2012, Bates released his debut single "Did It for the Girl", which debuted at Number 57 on the [[Hot Country Songs]] chart dated for April 28, 2012.<ref>[https://web.archive.org/web/20120423033736/http://www.cmt.com/news/country-music/1683569/lionel-richies-tuskegee-recaptures-no-1.jhtml News : Lionel Richie's Tuskegee Recaptures No. 1]. CMT (April 21, 2012). Retrieved on November 13, 2012.</ref> Billy Dukes gave the song four stars out of five, saying that it is "instantly memorable — if only for its clean simplicity."<ref>[http://tasteofcountry.com/greg-bates-did-it-for-the-girl/ Greg Bates, ‘Did It for the Girl’ – Song Review]. Tasteofcountry.com (April 20, 2012). Retrieved on November 13, 2012.</ref> Bates made his [[Grand Ole Opry]] debut in April 2012.<ref>[http://tasteofcountry.com/greg-bates-grand-ole-opry/ Greg Bates Makes His Debut at the Grand Ole Opry]. Tasteofcountry.com (May 3, 2012). Retrieved on November 13, 2012.</ref><ref>[http://www.musicrow.com/2012/05/greg-bates-makes-opry-debut/ Greg Bates Makes Opry Debut : MusicRow – Nashville's Music Industry Publication – News, Songs From Music City]. Musicrow.com (May 7, 2012). Retrieved on November 13, 2012.</ref> The album's second single, "Fill in the Blank," was released to country radio on February 11, 2013. Bates has received air play as a "Highway Find" on satellite radio channel [[The Highway (Sirius XM)]].
+
+==Discography==
+
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:10em;"| Title
+! rowspan="2" style="width:16em;"| Details
+! colspan="2"| Peak chart<br>positions
+|- style="font-size:smaller;"
+! style="width:45px;"| [[Top Country Albums|US Country]]
+! style="width:45px;"| [[Top Heatseekers|US<br>Heat]]
+|-
+! scope="row"| ''Greg Bates''
+| 
+* Release date: July 10, 2012
+* Label: [[Republic Nashville]]
+| 72
+| 43
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:12em;"| Single
+! colspan="4"| Peak chart positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! style="width:45px;"| [[Hot Country Songs|US Country]]<br /><ref>{{cite magazine|url={{BillboardURLbyName|artist=greg bates|chart=Country Songs}}|title=Greg Bates Album & Song Chart History – Country Songs|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=September 6, 2012}}</ref>
+! style="width:45px;"| [[Country Airplay|US Country Airplay]]<br /><ref>{{cite magazine|url={{BillboardURLbyName|artist=greg bates|chart=Country Airplay}}|title=Greg Bates Album & Song Chart History – Country Airplay|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=November 8, 2012}}</ref>
+! style="width:45px;"| [[Billboard Hot 100|US]]<br /><ref>{{cite magazine|url={{BillboardURLbyName|artist=greg bates|chart=Hot 100}}|title=Greg Bates Album & Song Chart History – Hot 100|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=September 27, 2012}}</ref>
+! style="width:45px;"| [[Canada Country|CAN Country]]<br /><ref>{{cite magazine|url={{BillboardURLbyName|artist=greg bates|chart=Canada Country}}|title=Greg Bates Album & Song Chart History – Canada Country|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=November 20, 2013}}</ref>
+|- 
+| 2012
+! scope="row"| "[[Did It for the Girl]]"
+| 14
+| 5
+| 66
+| 22
+| style="text-align:left;" rowspan="2"| ''Greg Bates''
+|- 
+| 2013
+! scope="row"| "Fill in the Blank"
+| —
+| 45
+| —
+| —
+|-
+| colspan="7" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;"| Video
+! Director
+|- 
+| 2012
+! scope="row"| "Did It for the Girl"
+| Brian Lazzaro
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{official website}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bates, Greg}}
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Living people]]
+[[Category:Singers from Nashville, Tennessee]]
+[[Category:Republic Records artists]]
+[[Category:1987 births]]
+[[Category:Singer-songwriters from Tennessee]]
+[[Category:Country musicians from Tennessee]]
+[[Category:21st-century American male singers]]
+[[Category:21st-century American singer-songwriters]]

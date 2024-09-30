@@ -1,0 +1,55 @@
+{{short description|American country music singer-songwriter (born 1982)}}
+{{Infobox musical artist
+| name            = Gabbie Nolen
+| image           =
+| image_size      =
+| birth_date      = {{birth date and age|1982|07|07}}
+| origin          = [[La Grange, Texas]]
+| instrument      =
+| genre           = [[Country music|Country]]
+| occupation      = Singer
+| years_active    = 1991–present
+| label           = [[Republic Records|Republic]]/[[Universal Records]]
+| associated_acts =
+| website         = {{official website|www.gabbienolen.com}}
+}}
+
+'''Gabbie Nolen''' (born July 7, 1982, in [[La Grange, Texas]]<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|page=301|year=2008|isbn=978-0-89820-177-2}}</ref>) is an American [[country music]] singer-songwriter. Nolen was signed by [[Republic Records|Republic]]/[[Universal Records]] in November 2001 after successfully recording and releasing several independent singles, including "Wait a Minute," written by [[Rodney Crowell]] and Hank Devito.<ref>{{cite news|title=Who's New ... Gabbie Nolen |url=http://web.countryweekly.com/vault/whos-new-gabbie-nolen |archive-url=https://archive.today/20140813015315/http://web.countryweekly.com/vault/whos-new-gabbie-nolen |url-status=dead |archive-date=August 13, 2014 |accessdate=September 3, 2011 |newspaper=[[Country Weekly]] |date=May 30, 2002 }}</ref><ref>{{cite news|title=Gabbie Nolen's 'Wait A Minute' hits the market|url=http://www.chron.com/CDA/archives/archive.mpl/2001_3307023/gabbie-nolen-s-wait-a-minute-hits-the-market.html|accessdate=July 25, 2012|newspaper=[[Houston Chronicle]]|date=May 24, 2001}}</ref> Her first single for the label, "Almost There," was released in March 2002 (written by Dickie Kaiser, M. Jason Greene, and Les Rawlins).<ref>{{cite web|title=Almost There/Little Did She Know She'd Kissed A Hero|url={{AllMusic|class=album|id=r583096|pure_url=yes}}|work=[[Allmusic]]|accessdate=September 3, 2011}}</ref> The song peaked at number 45 on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles & Tracks]] chart.<ref>{{cite web|title=Gabbie Nolen Billboard Singles|url={{AllMusic|class=artist|id=p527108/charts-awards/billboard-singles|pure_url=yes}}|work=[[Allmusic]]|accessdate=September 3, 2011}}</ref><ref>[http://www.billboard.com/artist/276254/gabbie-nolen/chart?f=357 "Gabbie Nolen"] ''Billboard''. Retrieved 2017-04-30.</ref> It went to number one on the ''Billboard'' Top Country Singles Sales Chart in November 2002. Republic/Universal closed its country division in late 2002.<ref>{{cite news|last=Boswell |first=Tim |title=Texas Star Rising |url=http://www.theshorthorn.com/index.php/entertainment/archives/26073-texas-star-rising |archive-url=https://archive.today/20120328050459/http://www.theshorthorn.com/index.php/entertainment/archives/26073-texas-star-rising |url-status=dead |archive-date=March 28, 2012 |accessdate=September 3, 2011 |newspaper=[[The Shorthorn]] |date=January 29, 2003 }}</ref>
+
+==Singles==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2"| Year
+! rowspan="2" style="width:10em;"| Single
+! Peak positions
+|- style="font-size:smaller;"
+! width="60"| [[Hot Country Songs|US Country]]<br /><ref name="whitburn" />
+|-
+| 2002
+! scope="row"| "Almost There"
+| 45
+|-
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{official website}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Nolen, Gabbie}}
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Living people]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:Republic Records artists]]
+[[Category:1982 births]]
+[[Category:People from La Grange, Texas]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:21st-century American women singers]]
+[[Category:Country musicians from Texas]]
+[[Category:Universal Records artists]]
+
+
+{{US-country-singer-stub}}

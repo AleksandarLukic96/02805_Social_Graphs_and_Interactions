@@ -1,0 +1,140 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=September 2020}}
+{{BLP sources|date=April 2020}}
+{{Infobox musical artist
+| name                = Paul Jefferson
+| image               = 
+| image_size          = 
+| background          = solo_singer
+| birth_name          = Paul Jefferson Jaqua
+| alias               = 
+| birth_date          = {{Birth date and age|1958|8|15}}
+| origin              = [[Woodside, California]], United States
+| instrument          = Vocals, guitar
+| genre               = [[Country music|Country]]
+| occupation          = Singer-songwriter
+| years_active        = 1996–present
+| label               = [[Almo Sounds]], [[Royalty Records|Royalty]]
+| associated_acts     = [[Lisa Brokop]], The Jeffersons
+| website             = [https://www.pauljeffersonmusic.com pauljeffersonmusic.com]
+}}
+
+'''Paul Jefferson''' (born August 15, 1958, in [[Woodside, California]], United States) is an American [[country music]] artist. Managed by Steven McClintock and McJames Music from 1993 through 1999 and then by Anastasia Pruit. Jefferson has released one studio album on [[Almo Sounds]] produced by Garth Fundis; he also charted three singles on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles & Tracks]] chart. His highest charting single, "Check Please," co-written with singer songwriter Jon Michaels, peaked at No.&nbsp;50 in 1996.
+
+In 2004, Jefferson recorded one album with Porter Howell, then formerly of [[Little Texas (band)|Little Texas]], in the band Hilljack.<ref>{{cite journal | url=https://books.google.com/books?id=0REEAAAAMBAJ | title=Dualtone gets Moore involved in promotion | author=Phyllis Stark | journal=Billboard |date=November 1, 2003 | pages=36}}</ref>
+
+As a songwriter, Jefferson has had his songs recorded by [[Keith Urban]] and [[Buddy Jewell]], among others. He also co-wrote [[Aaron Tippin]]'s Number One song "[[That's as Close as I'll Get to Loving You]]." He is married to Canadian country singer [[Lisa Brokop]]. In 2010, Brokop and Jefferson formed The Jeffersons and released their debut album on June 7, 2011, via [[Royalty Records]]. In 2017, Paul reconnected with his early manager, [[Steven McClintock]] ([[Tiffany Darwish|Tiffany]], [[Shiny Toy Guns]], [[Juice Newton]], [[Robin Schulz]], [[Pingpong]] fame), to produce the ''Brookhollow Road'' CD on [[37 Records]].
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:14em;"| Title
+! style="width:18em;"| Album details
+|- 
+! scope="row"| ''Paul Jefferson''
+| 
+* Release date: July 16, 1996
+* Label: [[Almo Sounds]]
+|- 
+! scope="row"| ''Greatest Hits Volume III''
+| 
+* Release date: 2000
+* Label: [[Jaqua Records]]
+|- 
+! scope="row"| ''Dive Right In''
+| 
+* Release date: August 26, 2008
+* Label: [[Biff-Bangs]]
+|-
+! scope="row"| ''The Jeffersons, Vol. 1''
+| 
+* Release date: June 7, 2011
+* Label: [[Royalty Records]]
+|-
+! scope="row"| ''Brookhollow Road''
+|
+*Release date: January 19, 2017
+*Label: [[37 Records]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="3"| 1996
+! scope="row"| "Check Please"
+| 50
+| 72
+| align="left" rowspan="3"| ''Paul Jefferson''
+|-
+! scope="row"| "Fear of a Broken Heart"
+| 73
+| 90
+|-
+! scope="row"| "I Might Just Make It"
+| 73
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Featured singles===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:14em;"| Single
+! Artist
+! Album
+|-
+| 2010
+! scope="row"| "Find the Sun"
+| rowspan="3"| The Jeffersons
+| rowspan="3"| ''The Jeffersons, Vol. 1''
+|-
+| rowspan="2"| 2011
+! scope="row"| "Crazy On Me"
+|-
+! scope="row"| "[[One Headlight]]"
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:14em;"| Video
+! Director
+|-
+| rowspan="2"| 1996
+! scope="row"| "Check Please"<ref>{{cite web|url=http://www.cmt.com/videos/paul-jefferson/385025/check-please.jhtml|title=CMT : Videos : Paul Jefferson : Check Please|publisher=[[Country Music Television]]|accessdate=October 14, 2011}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+| Jarl Olsen
+|-
+! scope="row"| "I Might Just Make It"
+| 
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[{{AllMusic|class=artist|id=p182469|pure_url=yes}} allmusic ((( Paul Jefferson > Overview )))]
+
+{{authority control}}
+
+{{DEFAULTSORT:Jefferson, Paul}}
+[[Category:1961 births]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Living people]]
+[[Category:Almo Sounds artists]]
+[[Category:People from Woodside, California]]
+[[Category:Country musicians from California]]
+[[Category:Singer-songwriters from California]]

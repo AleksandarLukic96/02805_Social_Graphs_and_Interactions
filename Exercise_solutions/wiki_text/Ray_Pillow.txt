@@ -1,0 +1,215 @@
+{{Short description|American country music singer (1937–2023)}}
+{{Infobox musical artist <!-- For individuals; see Wikipedia:WikiProject_Musicians -->
+| name                = Ray Pillow
+| image               = 
+| alt                 = 
+| caption             = 
+| image_size          = 
+| background          = solo_singer
+| birth_name          = Herbert Raymond Pillow
+| alias               = 
+| birth_date          = {{birth date|1937|7|4}}<ref name="allmusic">{{cite web |author=Sandra Brennan |title=Ray Pillow biography |url={{AllMusic|class=artist|id=p32501/biography|pure_url=yes}} |work=[[Allmusic]] |access-date=2009-10-08}}</ref><ref name="LarkinGE">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Encyclopedia of Popular Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1992|edition=First|isbn=0-85112-939-0|page=1960}}</ref>
+| birth_place         = [[Lynchburg, Virginia]], U.S.
+| death_date          = {{death date and age|2023|3|26|1937|7|4}}
+| death_place         = [[Nashville, Tennessee]], U.S.
+| origin              = 
+| instrument          = [[Singing|Vocals]]
+| genre               = [[Country music|Country]]
+| occupation          = Singer-songwriter
+| years_active        = 1963–2018
+| label               = [[Capitol Records|Capitol]], [[ABC Records|ABC]], [[Plantation Records|Plantation]], [[Mega Records|Mega]], [[Dot Records|Dot]], [[MCA Records|MCA]], First Generation<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc.|year=2008|pages=326|isbn=978-0-89820-177-2}}</ref>
+}}
+
+'''Herbert Raymond Pillow''' (July 4, 1937 – March 26, 2023) was an American [[country music]] singer, [[Music publisher (popular music)|music publisher]], and [[A&R|artists and repertoire]] (A&R) representative. In his career, he had 18 singles on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|country songs]] chart, with his highest-peaking song being the number 9 single "[[I'll Take the Dog]]", a duet with [[Jean Shepard]].<ref name="allmusic"/> After charting for the last time in 1981, Pillow founded Sycamore Records with Larry McFadden,<ref name="allmusic"/> and later worked in the A&R department of [[Capitol Records]].
+
+Pillow continued to perform as a member of the Grand Ole Opry and on popular classic country television programs such as ''Country's Family Reunion'', which airs regularly in the United States on [[RFD-TV]] network.
+
+Through his record label, Pillow released two albums, ''Ray Pillow Live'' and ''Country Class'', the latter of which contained new material. Pillow retired in 2018.
+
+Pillow was a member of the [[Grand Ole Opry]] since 1966.<ref>{{cite web
+| title = Ray Pillow
+| url = http://www.opry.com/artists/p/Pillow_Ray.html
+| publisher = Grand Ole Opry
+| access-date = July 10, 2012}}</ref><ref>{{cite web
+ |title       = Opry Member List PDF
+ |url         = http://www.opry.com/img/Opry%20Members%20List.pdf
+ |date        = April 23, 2012
+ |access-date  = July 6, 2012
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20120607030858/http://www.opry.com/img/Opry%20Members%20List.pdf
+ |archive-date = June 7, 2012
+}}</ref>
+
+Pillow died in [[Nashville, Tennessee]], on March 26, 2023, at the age of 85.<ref name="obi">{{cite web |url=https://www.legacy.com/us/obituaries/legacyremembers/ray-pillow-obituary?id=51488749|title=Ray Pillow Obituary|date=March 27, 2023|accessdate=March 28, 2023|website=legacy.com}}</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable"
+|-
+!rowspan="2"|Year
+!rowspan="2"|Single
+!colspan="1"|Chart Positions
+|-
+!width="50"|<small>[[Top Country Albums|US Country]]</small>
+|- 
+|1965
+|''Presenting Ray Pillow''
+|align=center|—
+|-
+|1966
+|''[[I'll Take the Dog (album)|I'll Take the Dog]]'' <small>(with Jean Shepard)</small>
+|align=center|11
+|-
+|1967
+|''Even When It's Bad, It's Good''
+|align=center|—
+|-
+|rowspan=2|1969
+|''Ray Pillow Sings''
+|align=center|—
+|-
+|''People Music''
+|align=center|—
+|-
+|1972
+|''Slippin' Around with Ray Pillow''
+|align=center|—
+|-
+|1975
+|''Countryfied''
+|align=center|46
+|-
+|1984
+|''One Too Many Memories''
+|align=center|—
+|-
+|1998
+|''Stars Of The Grand Ole Opry''
+|align=center|
+|-
+|2014
+|''Country Class''
+|align=center|
+|-
+|2017
+|''Ray Pillow Live''
+|align=center|—
+|}
+
+===Singles===
+{| class="wikitable"
+|-
+!rowspan="2"|Year
+!rowspan="2"|Single
+!colspan="2"|Chart Positions
+|-
+!width="50"|<small>[[Hot Country Songs|US Country]]</small><ref name="whitburn"/>
+!width="50"|<small>CAN Country</small>
+|- 
+|rowspan=2|1965
+|"Take Your Hands Off My Heart"
+|align=center|49
+|align=center|—
+|-
+|"Thank You Ma'am"
+|align=center|17
+|align=center|—
+|-
+|rowspan=4|1966
+|"Common Colds and Broken Hearts"
+|align=center|32
+|align=center|—
+|-
+|"[[I'll Take the Dog]]" <small>(with [[Jean Shepard]])</small>
+|align=center|9
+|align=center|—
+|-
+|"Volkswagen"
+|align=center|25
+|align=center|—
+|-
+|"Mr. Do It Yourself" <small>(with Jean Shepard)</small>
+|align=center|25
+|align=center|—
+|-
+|rowspan=2|1967
+|"I Just Want to Be Alone"
+|align=center|56
+|align=center|—
+|-
+|"Gone with the Wine"
+|align=center|62
+|align=center|—
+|-
+|1968
+|"Wonderful Day"
+|align=center|51
+|align=center|—
+|-
+|1969
+|"[[Reconsider Me]]"
+|align=center|38
+|align=center|—
+|-
+|rowspan=2|1972
+|"Since Then"
+|align=center|62
+|align=center|—
+|-
+|"She's Doing It to Me Again"
+|align=center|66
+|align=center|—
+|-
+|rowspan=2|1974
+|"Countryfied"
+|align=center|80
+|align=center|85
+|-
+|"Livin' in the Sunshine of Your Love"
+|align=center|77
+|align=center|—
+|-
+|1975
+|"Roll On, Truckers"
+|align=center|100
+|align=center|—
+|-
+|1978
+|"Who's Gonna Tie My Shoes"
+|align=center|97
+|align=center|—
+|-
+|1979
+|"Super Lady"
+|align=center|82
+|align=center|—
+|-
+|1981
+|"One Too Many Memories"
+|align=center|82
+|align=center|—
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Official website|http://www.raypillow.com/}} (not updated since 2010. [[Jim Glaser]] is listed as Webmaster; Glaser died in 2019.)
+* {{discogs artist|Ray Pillow}}
+* {{imdb name|0683566}}
+
+{{Grand Ole Opry members}}
+{{Authority control}}
+
+{{DEFAULTSORT:Pillow, Ray}}
+[[Category:1937 births]]
+[[Category:2023 deaths]]
+[[Category:American country singer-songwriters]]
+[[Category:Grand Ole Opry members]]
+[[Category:American male singer-songwriters]]
+[[Category:ABC Records artists]]
+[[Category:Capitol Records artists]]
+[[Category:Dot Records artists]]
+[[Category:MCA Records artists]]
+[[Category:Singer-songwriters from Virginia]]
+[[Category:Musicians from Lynchburg, Virginia]]

@@ -1,0 +1,113 @@
+{{short description|American singer-songwriter}}
+
+{{update|date=August 2012}}
+{{Infobox musical artist
+|name = Travis Rush
+|image = Travis.beach.classic._28.jpg
+|caption = 
+|background = solo_singer
+|birth_name = Travis Benjamin Rush
+|alias = 
+|birth_date =
+|death_date = 
+|origin = 
+|instrument = [[Piano]]
+|genre = [[Country music|Country]]
+|occupation = [[Singing|Singer]] / [[Songwriter]] / [[Record producer|Producer]]
+|years_active = 1987 - present
+|label = [[Mason Records]]
+|associated_acts = 
+|website = http://www.travisrush.com
+|current_members = 
+|past_members = 
+}}
+
+'''Travis Benjamin Rush''' is a [[country music]] [[singing|singer]] from [[Oregon]].<ref>{{cite web |title=Travis Rush Songs and Albums |url=https://www.allmusic.com/artist/travis-rush-mn0000978789 |website=AllMusic |access-date=15 June 2022 |language=en}}</ref>
+
+==Discography==
+
+===Albums===
+* ''[[Come And Get It (2007 album)|Come And Get It (2007)]]''<ref>{{cite news |last1=Staff |title=Travis Rush - Come And Get It |url=https://www.discogs.com/release/15774491-Travis-Rush-Come-And-Get-It |access-date=15 June 2022 |language=en}}</ref>
+* ''[[Feel (2010 album)|Feel (2010)]]''
+
+===Singles===
+{| class="wikitable"|width=100%
+|- bgcolor="#CCCCCC"
+!align="left" valign="bottom"|Year
+!align="left" valign="bottom"|Single
+!align="left" valign="bottom"|Album
+!align="center" valign="bottom" width="55"|<small>'''[[Billboard Hot 100|US]]'''</small>
+!align="center" valign="bottom" width="55"|<small>'''[[Hot Country Songs|US Country]]'''</small>
+!align="center" valign="bottom" width="55"|<small>'''[[Adult Contemporary|US AC]]'''</small>
+!align="center" valign="bottom" width="55"|<small>'''[[American popular music|US Pop]]'''</small>
+!align="center" valign="bottom" width="55"|<small>'''[[Hot Digital Songs|US Dig]]'''</small>
+!align="center" valign="bottom" width="55"|<small>'''[[European Country Music Association|ECMA]]'''</small>
+|-
+|- bgcolor="#F0F8FF"
+|align="left" valign="top"|'''[[2007 in music|2007]]'''
+|align="left" valign="top"|"Come And Get It"
+|align="left" valign="top"| ''Come And Get It (2007)''
+|align="center" valign="top"| -
+|align="center" valign="top"| -
+|align="center" valign="top"| -
+|align="center" valign="top"| -
+|align="center" valign="top"| -
+|align="center" valign="top"| -
+|-
+|- bgcolor="#efefef"
+|align="left" valign="top"|'''[[2007 in music|2007]]'''
+|align="left" valign="top"|"Just For Tonight (Radio Edit)"
+|align="left" valign="top"| ''(Single Only) (2007)''
+|align="center" valign="top"| -
+|align="center" valign="top"| -
+|align="center" valign="top"| -
+|align="center" valign="top"| -
+|align="center" valign="top"| -
+|align="center" valign="top"| No.&nbsp;3
+|-
+|- bgcolor="#efefef"
+|align="left" valign="top"|'''[[2010 in music|2010]]'''
+|align="left" valign="top"|"Feel"
+|align="left" valign="top"| ''Feel (2010)''
+|align="center" valign="top"| -
+|align="center" valign="top"| -
+|align="center" valign="top"| -
+|align="center" valign="top"| -
+|align="center" valign="top"| -
+|align="center" valign="top"| -
+|-
+|}
+
+===Music videos===
+{| class="wikitable"
+! Year
+! Video
+! Director
+|-
+| 2008
+| "Just For Tonight"
+| [[Matthew Harrison (director)]]
+|-
+| 2010
+| "You'll Find Your Way"
+| Dustin Rush
+|}
+
+== References ==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Rush, Travis}}
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Living people]]
+[[Category:Oregon State University alumni]]
+[[Category:Singer-songwriters from California]]
+[[Category:People from Orange, California]]
+[[Category:People from Gold Beach, Oregon]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:Country musicians from California]]
+[[Category:21st-century American male singers]]
+[[Category:Singer-songwriters from Oregon]]
+[[Category:Year of birth missing (living people)]]

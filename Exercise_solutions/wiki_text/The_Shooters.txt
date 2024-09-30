@@ -1,0 +1,120 @@
+{{other uses|Shooter (disambiguation)}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = The Shooters
+| image                 = 
+| caption            = 
+| image_size            = 
+| background          = group_or_band
+| origin              = [[Muscle Shoals, Alabama]], U.S.<ref name="whitburn"/>
+| years_active        = 1987–1990
+| label               = [[Epic Records|Epic]]
+| past_members        = [[Walt Aldridge]]<br />[[Gary Baker (songwriter)|Gary Baker]]<Br />Barry Billings<br />Chalmers Davis<br />Michael Dillon
+}}
+'''The Shooters''' was a five-piece [[country music]] band founded in [[Muscle Shoals, Alabama]]. It consisted of [[Walt Aldridge]] (lead vocals, guitar), [[Gary Baker (songwriter)|Gary Baker]] (bass guitar), Barry Billings (guitar), Chalmers Davis (keyboards), and Michael Dillon ([drums). They charted several times on the ''[[Billboard (magazine)|Billboard]]'' country charts between 1986 and 1989.<ref name="oldies">{{cite web |url= http://www.oldies.com/artist-biography/The-Shooters.html |title=The Shooters biography |accessdate=2008-09-30 |work=Oldies.com}}</ref> The quintet's first four singles were to have been included on an album titled ''Going Against the Wind''.<ref>{{cite news|url=https://news.google.com/newspapers?id=KrwcAAAAIBAJ&sjid=QnAEAAAAIBAJ&pg=2644,2645023&dq=the-shooters+going-against-the-wind&hl=en|title=Drummer is upbeat about The Shooters|last=Handelman|first=Jay|date=2 May 1987|work=Sarasota Herald-Tribune|accessdate=10 August 2011}}</ref> 1989's ''Solid as a Rock'' included their highest-charting single, the number 13 "Borderline".<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|date=2008|page=380|isbn=978-0-89820-177-2}}</ref>
+
+After disbanding, Aldridge worked as a songwriter and record producer, while Baker joined songwriting partner [[Frank J. Myers]] to write [[John Michael Montgomery]]'s 1994 hit single "[[I Swear]]",<ref name="oldies"/> which was later covered by [[All-4-One]] as well. Baker and Myers also recorded one album as the duo [[Baker & Myers]]. Chalmers Davis died on September 14, 2024 aged 73.
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:10em;"| Title
+! rowspan="2" style="width:16em;"| Details
+! colspan="2"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]<br /><ref>{{cite magazine|url={{BillboardURLbyName|artist=shooters|chart=all}}|title=''Solid as a Rock''|magazine=Billboard|accessdate=10 August 2011}}</ref>
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+! scope="row"| ''The Shooters''<ref>{{cite news|last=Frederick|first=Lorene|title=Muscle Shoals Raises City Flag|url=https://news.google.com/newspapers?id=JFgeAAAAIBAJ&sjid=qMcEAAAAIBAJ&pg=4315,249831|accessdate=August 29, 2013|newspaper=[[TimesDaily]]|date=February 3, 1989}}</ref>
+| 
+* Release date: 1987<ref>{{cite web|title=Shooters, The – The Shooters|url=http://www.discogs.com/Shooters-The-Shooters/release/3193855|work=[[Discogs]]|accessdate=August 29, 2013}}</ref>
+* Label: [[Epic Records]]
+| —
+| —
+|-
+! scope="row"| ''[[Solid as a Rock (album)|Solid as a Rock]]''
+| 
+* Release date: April 11, 1989
+* Label: Epic Records
+| 40
+| 23
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:24em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<br /><ref name="whitburn"/>
+! width="45"| [[RPM (magazine)|CAN Country]]<ref>{{cite web| url=https://www.bac-lac.gc.ca/eng/discover/films-videos-sound-recordings/rpm/Pages/list.aspx?OCRText=shooters& | title=Search results for The Shooters | date=17 July 2013 | publisher=RPM}}</ref>
+|-
+| rowspan="3"| 1987
+! scope="row"| "They Only Come Out at Night"
+| 21
+| 49
+| align="left" rowspan="4"| ''The Shooters''
+|-
+! scope="row"| "'Til the Old Wears Off"
+| 41
+| 39
+|-
+! scope="row"| "Tell It to Your Teddy Bear"
+| 34
+| —
+|-
+| rowspan="2"| 1988
+! scope="row"| "I Taught Her Everything She Knows About Love"
+| 31
+| 46
+|-
+! scope="row"| "[[Borderline (The Shooters song)|Borderline]]"
+| 13
+| 21<ref>{{cite journal | url=https://worldradiohistory.com/CANADA/RPM/80s/1989/RPM-1989-02-11.pdf | title=RPM 100 Country Singles | journal=RPM | pages=12 | date=February 11, 1989}}</ref>
+| align="left" rowspan="3"| ''Solid as a Rock''
+|-
+| rowspan="2"| 1989
+! scope="row"| "[[If I Ever Go Crazy]]"
+| 17
+| 21
+|-
+! scope="row"| "You Just Can't Lose 'Em All"
+| 39
+| 55
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;"| Video
+! Director
+|-
+| 1989
+! scope="row"| "If I Ever Go Crazy"<ref>{{cite web|url=http://www.cmt.com/videos/shooters/806857/if-i-ever-go-crazy.jhtml|title=CMT : Videos : The Shooters : If I Ever Go Crazy|publisher=[[Country Music Television]]|accessdate=August 29, 2013}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+| Steve Boyle
+|-
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+{{DEFAULTSORT:Shooters}}
+[[Category:Country music groups from Alabama]]
+[[Category:Epic Records artists]]
+[[Category:Musical groups from Alabama]]
+[[Category:Musical groups established in 1987]]
+[[Category:Musical groups disestablished in 1990]]
+[[Category:Muscle Shoals, Alabama]]
+
+
+{{US-country-band-stub}}

@@ -1,0 +1,129 @@
+{{Short description|American country music singer-songwriter (1931–1990)}}
+{{Use mdy dates|date=June 2020}}
+{{Infobox musical artist
+| name            = Carl Belew
+| image           = Carl Belew.png
+| image_size      = 250px
+| landscape       =
+| alt             =
+| caption         = Carl Belew in 1965
+| birth_name      = Carl Robert Belew<ref name="allmusic"/>
+| alias           =
+| birth_date      = {{birth date|1931|4|21}}
+| birth_place     = [[Salina, Oklahoma]], U.S.
+| origin          = [[Nashville, Tennessee]]
+| death_date      = {{death date and age|1990|10|31|1931|4|21}}
+| death_place     = Salina, Oklahoma, U.S.
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| instrument      = Vocals, guitar
+| years_active    = 1950s–1970s
+| label           = [[Decca Records|Decca]], [[RCA Victor]], [[MCA Records|MCA]]
+| past_member_of = [[Johnnie & Jack]], [[Jim Reeves]]
+}}
+'''Carl Robert Belew''' (April 21, 1931 – October 31, 1990) was an American [[country music]] singer and songwriter. Belew was recorded for [[Decca Records|Decca]], [[RCA Victor]], and [[MCA Records|MCA]] in the 1950s through 1970s, charting 11 times on [[Hot Country Songs]]. He also wrote singles for [[Johnnie & Jack]], [[Eddy Arnold]], [[Jim Reeves]], and others.
+
+==Career==
+Born in [[Salina, Oklahoma]], Belew began his musical career in the 1950s when he performed on the [[Louisiana Hayride]]. He signed to [[Decca Records]] by the end of the decade, reaching number 9 on the country music charts with "[[Am I That Easy to Forget]]",<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=46|isbn=978-0-89820-177-2}}</ref> which was later recorded by [[Skeeter Davis]], [[Debbie Reynolds]], [[Esther Phillips]], [[Engelbert Humperdinck (singer)|Engelbert Humperdinck]], [[Jim Reeves]], and others. Also in this period, [[Johnnie & Jack]] recorded Belew's "Stop the World and Let Me Off", while [[Andy Williams]] recorded "[[Lonely Street (Carl Belew song)|Lonely Street]]".
+
+Belew's only other chart entry for Decca was the Number 19 "Too Much to Lose", followed by the Number 8 "Hello Out There", his first [[RCA Victor]] release, in 1962. He continued to write songs for others, including "[[What's He Doing in My World]]" by [[Eddy Arnold]] and "That's When I See the Blues" by [[Jim Reeves]]; both [[Waylon Jennings]] and [[Susan Raye]] charted in the 1970s with covers of "Stop the World and Let Me Off".<ref name="allmusic">{{cite web|url=http://www.allmusic.com/artist/carl-belew-mn0000172674|title=Carl Belew biography|last=Ankeny|first=Jason|work=[[Allmusic]]|accessdate=December 14, 2012}}</ref>
+
+Belew died of cancer on October 31, 1990, in Salina, Oklahoma.<ref>{{cite web|url=http://nl.newsbank.com/nl-search/we/Archives?p_product=AT&p_theme=at&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=0EB7C4B71746A926&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM|title=DEATHS ELSEWHERE Mr. Carl Belew – Country singer, songwriter|date=November 1, 1990|work=[[Atlanta Journal-Constitution]]|accessdate=December 14, 2012}}</ref>
+
+==Discography==
+
+===Albums===
+*''Carl Belew'' (1960)
+*''Hello Out There'' (1964)
+*''Am I That Easy to Forget'' (1965)
+*''Another Lonely Night'' (1965)
+*''Country Songs'' (1966)
+*''Lonely Street'' (1967)
+*''Twelve Shades of Belew'' (1968)
+*''When My Baby Sings His Song'' (1972)
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:left;"
+|-z
+! rowspan="2"| Year
+! rowspan="2" style="width:22em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="60"| [[Hot Country Songs|US Country]]<br><ref name="whitburn"/>
+|-
+|1957
+|"[[Stop the World (And Let Me Off)]]"
+|align="center"| —
+|{{n/a}}
+|-
+| 1959
+|"[[Am I That Easy to Forget]]"
+|align="center"| 9
+| rowspan="2"|''Carl Belew''
+|-
+|1960
+|"Too Much to Lose"
+|align="center"| 19
+|-
+|1962
+|"Hello Out There"<sup>A</sup>
+|align="center"| 8
+| ''Hello Out There''
+|-
+|1964
+|"In the Middle of a Memory"
+|align="center"| 23
+| ''Am I That Easy To Forget''
+|-
+|1965
+|"[[Crystal Chandelier]]"
+|align="center"| 12
+| rowspan="3"| ''Twelve Shades of Belew''
+|-
+|rowspan=2|1966
+|"Boston Jail"
+|align="center"| 43
+|-
+|"Walking Shadow, Talking Memory"
+|align="center"| 65
+|-
+|1967
+|"Girl Crazy"
+|align="center"| 65
+| rowspan="2" {{n/a}}
+|-
+|1968
+|"Mary's Little Lamb"
+|align="center"| 68
+|-
+|1971
+|"All I Need Is You" <small>(with [[Betty Jean Robinson]])</small>
+|align="center"| 51
+| ''When My Baby sings His Songs''
+|-
+|1974
+|"Welcome Back to My World"
+|align="center"| 56
+| ''Big Time Gamblin' Man''
+|}
+*<sup>A</sup>Peaked at 20 on [[Bubbling Under Hot 100 Singles]].
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Belew, Carl}}
+[[Category:1931 births]]
+[[Category:1990 deaths]]
+[[Category:American male singer-songwriters]]
+[[Category:American country singer-songwriters]]
+[[Category:Deaths from cancer in Oklahoma]]
+[[Category:Decca Records artists]]
+[[Category:People from Salina, Oklahoma]]
+[[Category:RCA Records artists]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:Country musicians from Oklahoma]]
+[[Category:20th-century American male singers]]
+[[Category:Singer-songwriters from Oklahoma]]

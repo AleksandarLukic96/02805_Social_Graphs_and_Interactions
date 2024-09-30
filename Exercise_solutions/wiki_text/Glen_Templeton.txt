@@ -1,0 +1,138 @@
+{{short description|American country singer and songwriter}}
+{{Use mdy dates|date=May 2020}}
+{{Infobox musical artist
+| name            = Glen Templeton
+| image           = Glen Templeton (cropped).jpg
+| caption         = Templeton performing in 2018
+| origin          = [[Tuscaloosa, Alabama]], United States<ref>{{cite web|url=http://www.glentempleton.com/news_details.php?id=6|title=Capstone Artists Signs Glen Templeton|publisher=glentempleton.com|date=November 22, 2010|accessdate=July 18, 2011}}</ref>
+| instrument      = Vocals, guitar
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter, musician
+| years_active    = 2010–present
+| label           =
+| associated_acts =
+| website         = {{url|glen-templeton.com}}
+}}
+
+'''Glen Templeton''' is an American [[country music|country]] singer and songwriter.
+
+==Career==
+Templeton released his debut single "I Could Be the One",<ref>{{cite web|title=Glen Templeton – I Could Be the One|url=http://www.roughstock.com/audio/glen-templeton-i-could-be-the-one|url-status=dead|archive-url=https://web.archive.org/web/20110320041928/http://www.roughstock.com/audio/glen-templeton-i-could-be-the-one|archive-date=March 20, 2011|accessdate=July 18, 2011|publisher=Roughstock}}</ref> written by Jay Knowles and Thom McHugh, on April 19, 2011. "I Could Be the One" was originally recorded by [[Billy Ray Cyrus]] on his 2009 album ''[[Back to Tennessee]]''.<ref>{{cite web|title=I Could Be the One – Single by Glen Templeton|url=https://itunes.apple.com/us/album/i-could-be-the-one-single/id433162129|accessdate=July 18, 2011|publisher=[[iTunes]]}}</ref> In July 2011, Glen was signed to [[Black River Entertainment]].<ref>{{cite web|title=Black River signs artist|url=http://www.countrystandardtime.com/news/newsitem.asp?xid=5564|accessdate=July 20, 2011|publisher=Country Standard Time}}</ref> Templeton also released a self-titled [[extended play]] on June 6, 2011, which included the single as well as three additional songs. "I Could Be the One" debuted at number 58 on the U.S. ''Billboard'' [[Hot Country Songs]] chart for the week ending July 30, 2011, and ultimately reached a peak of number 53. Two more singles followed: "Sing That Song Again" and "Ball Cap." "Sing That Song Again" peaked at number 60 on the Hot Country Songs chart, while "Ball Cap" (written by Cassidy Lynn Alexander, Forest Whitehead, and [[Dylan Scott]]) was released to SiriusXM Satellite Radio.<ref>{{cite magazine|url=http://www.billboard.com/#/column/chartbeat/chart-highlights-adult-contemporary-dance-1005281582.story|title=Chart Highlights: Adult Contemporary, Dance/Club Play Songs & More|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=July 18, 2011}}</ref> In early 2015, Templeton and his label, Black River Entertainment, parted ways.
+
+==Discography==
+
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:10em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! Peak positions
+|- style="font-size:smaller;"
+! width="65"| [[Top Country Albums|US Country]]
+|-
+! scope="row"| ''Glen Templeton''
+| 
+* Label: Black River Entertainment 
+* Release date: June 6, 2011
+* Formats: download
+| —
+|-
+! scope="row"| ''Let Her Go''
+| 
+* Release date: July 29, 2014
+* Label: Black River Entertainment
+* Formats: download
+| 47
+|-
+! scope="row"| ''California''
+| 
+* Release date: January 18, 2019
+* Label: Coastal Cowboy Entertainment
+* Formats: download
+| —
+|-
+| colspan="3" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]
+|-
+| rowspan="2"|2011
+! scope="row"| "Country Boys for Life"
+| —
+| —
+|-
+! scope="row"| "I Could Be the One"
+| 53
+| align="left"| ''Glen Templeton''
+|-
+| 2012
+! scope="row"| "Sing That Song Again"
+| 60
+| align="left" rowspan="2"| ''Let Her Go''
+|-
+| 2013
+! scope="row"| "Ball Cap"
+| —
+|-
+| 2016
+! scope="row"| "Hip to Be Country"
+| —
+| align="left"| ''California''
+|-
+| 2019
+! scope="row"| "Run with Me"
+| —
+| —
+|-
+| 2020
+! scope="row"| [https://www.soundslikenashville.com/news/glen-templeton-country-wanna-get-premiere/ "Country as You Wanna Get"]
+| —
+| — 
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;"| Video
+! Director
+|-
+| 2011
+! scope="row"| "I Could Be the One"<ref>{{cite web|url=http://www.cmt.com/videos/glen-templeton/688051/i-could-be-the-one.jhtml|archive-url=https://web.archive.org/web/20120901125504/http://www.cmt.com/videos/glen-templeton/688051/i-could-be-the-one.jhtml|url-status=dead|archive-date=September 1, 2012|title=CMT : Videos : Glen Templeton : I Could Be the One|publisher=[[Country Music Television]]|accessdate=September 3, 2011}}</ref>
+| Eric Welch
+|-
+| rowspan="2"|2012
+! scope="row"| "Country Boys For Life"<ref>{{cite web|url=https://vimeo.com/56408888|title=Vimeo : Videos : Glen Templeton : Country Boys For Life|publisher=[[Vimeo]]|accessdate=December 28, 2012}}</ref>
+| Lance Holloway
+|-
+! scope="row"| "[[That's My Job]]"<ref>{{cite web|url=http://www.cmt.com/videos/glen-templeton/791470/thats-my-job.jhtml|archive-url=https://web.archive.org/web/20120901125849/http://www.cmt.com/videos/glen-templeton/791470/thats-my-job.jhtml|url-status=dead|archive-date=September 1, 2012|title=CMT : Videos : Glen Templeton : That's My Job|publisher=[[Country Music Television]]|accessdate=June 18, 2012}}</ref>
+| rowspan="2"| Robert Chavers
+|-
+| 2014
+! scope="row"| "[[Let Her Go (Passenger song)|Let Her Go]]"<ref>{{cite web|url=http://www.cmt.com/videos/glen-templeton/1079970/let-her-go.jhtml|archive-url=https://web.archive.org/web/20140910195753/http://www.cmt.com/videos/glen-templeton/1079970/let-her-go.jhtml|url-status=dead|archive-date=September 10, 2014|title=CMT : Videos : Glen Templeton : Let Her Go|publisher=[[Country Music Television]]|accessdate=September 9, 2014}}</ref>
+|-
+|}
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Templeton, Glen}}
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:People from Tuscaloosa, Alabama]]
+[[Category:Black River Entertainment artists]]
+[[Category:Living people]]
+[[Category:Country musicians from Alabama]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Singer-songwriters from Alabama]]

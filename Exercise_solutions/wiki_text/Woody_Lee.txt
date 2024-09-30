@@ -1,0 +1,155 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Woody Lee
+| image                 =
+| background          = solo_singer
+| birth_name          =
+| birth_place         =
+| birth_date          = {{Birth date and age|1968|04|01}}<ref name="whitburn">{{Cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=237|isbn=978-0-89820-177-2}}</ref>
+| origin              = [[Garland, Texas]], United States
+| instrument          = Vocals
+| genre               = [[Country music|Country]]
+| occupation          = Singer-songwriter
+| years_active        = 1994–1996
+| label               = [[Atlantic Records|Atlantic]]
+| associated_acts     = [[Tracy Lawrence]]
+| website                 =
+}}
+'''Woody Lee''' (born April 1, 1968) is an American [[country music]] singer and songwriter. Signed to [[Atlantic Records]] in 1995, he released his debut album ''Get Over It'' that year. It produced the double-sided single "Get Over It"/"I Like the Sound of That." Before the release of his album, he co-wrote "[[I See It Now (song)|I See It Now]]" for fellow labelmate [[Tracy Lawrence]].<ref>{{Cite web|last=John |first=Bush |title=Woody Lee biography |url={{AllMusic|class=artist|id=p144202/biography|pure_url=yes}} |work=[[Allmusic]] |accessdate=June 15, 2009}}</ref> He also wrote [[Shenandoah (band)|Shenandoah]]'s 1995 single "Always Have, Always Will".
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:10em;"| Title
+! style="width:16em;"| Album details
+|-
+! scope="row"| ''Get Over It''<ref>{{cite magazine|url=https://worldradiohistory.com/Archive-All-Music/Billboard/90s/1995/BB-1995-06-24.pdf|title=Album Reviews|magazine=[[Billboard (magazine)|Billboard]]|page=62|date=June 24, 1995}}</ref>
+| 
+* Release date: May 23, 1995
+* Label: [[Atlantic Records]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:22em;"| Single
+! colspan="1"| Peak chart<br>positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<br><ref name="whitburn"/>
+|-
+| rowspan="3"| 1995
+! scope="row"| "Get Over It"<ref>{{cite magazine|url=https://worldradiohistory.com/Archive-All-Music/Billboard/90s/1995/BB-1995-03-25.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|page=57|date=March 25, 1995}}</ref>
+| 46
+| align="left" rowspan="3"| ''Get Over It''
+|-
+! scope="row"| "I Like the Sound of That'"<ref>{{cite magazine|url=https://worldradiohistory.com/Archive-All-Music/Billboard/90s/1995/BB-1995-07-01.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|page=93|date=July 1, 1995}}</ref>
+| 58
+|-
+! scope="row"| "Salt and Water'"
+| —
+|-
+| colspan="10" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:14em;"| Video
+! Director
+|-
+| rowspan="2"| 1995
+! scope="row"| "Get Over It"
+| Martin Kahan
+|-
+! scope="row"| "I Like the Sound of That"
+|
+|}
+
+==''Get Over It''==
+{{Infobox album
+| italic_title = no
+| name       = ''Get Over It''
+| type       = studio
+| artist     = Woody Lee
+| cover      =
+| alt        =
+| released   = May 23, 1995
+| recorded   =
+| venue      =
+| studio     =
+| genre      = Country
+| length     = 32:45
+| label      = [[Atlantic Records]]
+| producer   = [[Barry Beckett]]
+| prev_title =
+| prev_year  =
+| next_title =
+| next_year  = 
+}}
+
+;Track listing
+#"I Can Do That" ([[Jerry Salley]], Marvin Morrow) – 2:50
+#"Get Over It" ([[Keith Follese]], [[Stephanie Bentley]], Adrienne Follese) – 3:33
+#"I Like the Sound of That" ([[Steve Seskin]], Andre Pessis) – 3:58
+#"Prove My Love" (Woody Lee, [[Larry Boone]], Paul Nelson) – 3:43
+#"Lonely Needin' Lovin'" ([[Buddy Brock]], [[Kenny Chesney]], [[Donny Kees]]) – 3:18
+#"Salt and Water" ([[Jerry Vandiver]]) – 2:57
+#"I'm on Your Side" ([[Johnny MacRae]], Steve Clark) – 3:47
+#"King of Pain" ([[Randy Boudreaux]], [[Kim Williams (songwriter)|Kim Williams]], Tracy Lawrence) – 3:10
+#*duet with [[Tracy Lawrence]]
+#"Hold It Right There" (Michael Huffman, Gene Dobbins, [[Bob Morrison (songwriter)|Bob Morrison]]) – 2:48
+#"Life in the Slow Lane" (Jess Leary, Jody Alan Sweet) – 2:48
+{{Clear}}
+
+==Chart Singles written by Woody Lee==
+
+The following is a list of Woody Lee compositions that were chart hits.
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Single Title
+! rowspan="2"| Recording Artist
+! colspan="6"| Chart Positions
+|-
+! width="55"| <small>Billboard Country</small>
+! width="55"| <small>Billboard Hot 100</small>
+! width="55"| <small>RPM Country</small>
+|-
+| 1994
+| ''[[I See It Now (song)|I See It Now]]'' <br /> <small>''co-written with [[Larry Boone]] and Paul Nelson''</small>
+| [[Tracy Lawrence]]
+| align="center"| 2
+| align="center"| 84
+| align="center"| 5
+|-
+| 1996
+| ''Always Have, Always Will'' <br /> <small>''co-written with Larry Boone and Paul Nelson''</small>
+| [[Shenandoah (band)|Shenandoah]]
+| align="center"| 40
+| 
+| align="center"| 23
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lee, Woody}}
+[[Category:1968 births]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Atlantic Records artists]]
+[[Category:Living people]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:People from Garland, Texas]]
+[[Category:Country musicians from Texas]]
+
+
+{{US-country-singer-stub}}

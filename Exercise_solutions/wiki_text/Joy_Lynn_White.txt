@@ -1,0 +1,165 @@
+{{short description|American country music singer-songwriter (born 1961)}}
+{{Infobox musical artist
+| name            = Joy Lynn White
+| image           =
+| image_size      = <!-- Only for images smaller than 220 pixels -->
+| background      = solo_singer
+| birth_name      = Joy White
+| alias           = Joy White
+| birth_date      = {{birth date and age|1961|10|02|mf=yes}}
+| birth_place     = [[Bentonville, Arkansas|Bentonville]], [[Arkansas]], [[United States]]
+| death_date      =
+| death_place     = 
+| origin          = [[Mishawaka, Indiana]]
+| genre           = [[Country music|Country]]
+| occupation      = [[singer/songwriter]]
+| years_active    = 1992&ndash;Present
+| label           = Columbia<br>Little Dog/Mercury<br>Thortch
+| associated_acts =
+| website         = 
+| current_members =
+| past_members    =
+}}
+'''Joy Lynn White''' (born October 2, 1961) (also known as '''Joy White''') is an American [[country music]] singer-songwriter. White was born in Bentonville, Arkansas but raised in [[Mishawaka, Indiana]].<ref>[https://web.archive.org/web/20141129024036/http://www.cmt.com/artists/joy-lynn-white/ Joy Lynn White | New Music And Songs | CMT] Retrieved 2014-11-15.</ref> Signed to [[Columbia Records]] in 1992, she released her debut album ''Between Midnight & Hindsight'' that same year. In 1993, she was nominated for Top New Female Vocalist at the [[Academy of Country Music]] Awards, along with [[Martina McBride]] and [[Michelle Wright]], but lost to Wright. A critical favorite, reviewer [[Alanna Nash]] once described White as "a fiery redhead with a wild-and-wounded delivery and an attitude that says she’s not to be ignored." The [[Dixie Chicks]] covered both "[[Cold Day in July]]" from White's first album and "[[Tonight the Heartache's on Me]]" from her ''Wild Love'' album.
+
+To commemorate the 30th anniversary of her ''Wild Love'' release, White gave a rare interview from her home near [[Memphis, Tennessee|Memphis]] to journalist Joseph Fenity. This was White's first on-camera interview in two decades.<ref>{{Cite AV media |url=https://www.youtube.com/watch?v=_yO3OEVUOZ4 |title=Joy Lynn White {{!}} Her first interview in decades! {{!}} 90s country music |date=2024-08-11 |last=Joseph Fenity |access-date=2024-08-13 |via=YouTube}}</ref> 
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:16em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''[[Between Midnight & Hindsight]]''
+| 
+* Release date: October 20, 1992
+* Label: [[Columbia Records]]
+|-
+! scope="row"| ''Wild Love''
+| 
+* Release date: August 9, 1994
+* Label: Columbia Records
+|-
+! scope="row"| ''The Lucky Few''
+| 
+* Release date: April 8, 1997
+* Label: Little Dog/[[Mercury Records|Mercury]]
+|-
+! scope="row"| ''One More Time''
+| 
+* Release date: October 18, 2005
+* Label: Thorch Records
+|-
+! scope="row"| ''On Her Own''
+| 
+* Release date: November 1, 2005
+* Label: self-released
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan=2| Year
+! rowspan=2 style="width:12em;"| Single
+! colspan=2| Peak chart<br />positions
+! rowspan=2| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| 1992
+! scope="row"| "Little Tears"
+| 68
+| —
+| align="left" rowspan=3| ''Between Midnight & Hindsight''<br/>{{small|(as Joy White)}}
+|-
+| rowspan=2| 1993
+! scope="row"| "True Confessions"
+| 45
+| 70
+|-
+! scope="row"| "[[Cold Day in July]]"
+| 71
+| —
+|-
+| rowspan=2| 1994
+! scope="row"| "Wild Love"
+| 73
+| —
+| align="left" rowspan=2 |''Wild Love''
+|-
+! scope="row"| "Bad Loser"
+| —
+| —
+|-
+| colspan=5 style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:20em;"| Video
+! Director
+|-
+| 1992
+! scope="row"| "Little Tears"
+| rowspan=3| [[John Lloyd Miller]]
+|-
+| 1993
+! scope="row"| "True Confessions"
+|-
+|1993
+! scope="row"| "Cold Day In July"
+|-
+| rowspan=2| 1994
+! scope="row"| "Wild Love"<ref>{{cite web|url=http://www.cmt.com/videos/joy-lynn-white/383416/wild-love.jhtml|title=CMT : Videos : Joy Lynn White : Wild Love|publisher=[[Country Music Television]]|accessdate=September 30, 2011}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+| Roger Pistole
+|-
+! scope="row"| "Bad Loser"
+| [[John Lloyd Miller]]
+|-
+| 1999
+! scope="row"| "Right Here, Right Now" {{small|(with [[Charlie Major]])}}
+| Eric Welch
+|}
+
+== Awards and nominations ==
+{| class="wikitable"
+!Year
+!Organization
+!Award
+!Nominee/Work
+!Result
+|-
+|1993
+|[[Academy of Country Music Awards]]
+|Top New Female Vocalist
+|Joy White
+|{{nom}}
+|}
+
+==References==
+{{reflist}}
+
+
+
+
+{{Authority control}}
+
+{{DEFAULTSORT:White, Joy Lynn}}
+[[Category:Living people]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Columbia Records artists]]
+[[Category:Mercury Records artists]]
+[[Category:Place of birth missing (living people)]]
+[[Category:1961 births]]
+[[Category:Singer-songwriters from Arkansas]]
+[[Category:People from Mishawaka, Indiana]]
+[[Category:Country musicians from Arkansas]]
+[[Category:Country musicians from Indiana]]
+[[Category:21st-century American women]]
+[[Category:Singer-songwriters from Indiana]]

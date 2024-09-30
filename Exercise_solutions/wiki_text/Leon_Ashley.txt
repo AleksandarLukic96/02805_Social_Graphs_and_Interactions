@@ -1,0 +1,209 @@
+{{Short description|American country music singer (1936–2013)}}
+{{Use mdy dates|date=October 2020}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Leon Ashley
+| image                 =
+| caption            =
+| image_size            =
+| background          = solo_singer
+| birth_name          = Leon Walton<ref name="whitburn"/>
+| birth_date          = {{birth date|1936|05|18}}
+| birth_place         = [[Mansfield, Georgia]]
+| death_date          = {{death date and age|2013|10|20|1936|05|18}}
+| death_place         = [[Hendersonville, Tennessee]]
+| origin              = [[Covington, Georgia]], U.S.
+| instrument          = Vocals
+| genre               = [[Country music|Country]]
+| occupation          = Singer-songwriter
+| years_active        = 1960–1980
+| label               = [[Goldband Records|Goldband]], [[Imperial Records|Imperial]], [[Dot Records|Dot]], Ashley
+}}
+'''Leon Walton''' (May 18, 1936 – October 20, 2013), better known by his stage name '''Leon Ashley''', was an American [[country music]] singer. He is known mainly for his single "[[Laura (What's He Got That I Ain't Got)]]", which topped the country singles charts in 1967. This single was distributed on his own label. Ashley wrote, recorded, released, distributed and published the single on his own. Besides this song, he released several other singles throughout the 1960s and 1970s.
+
+==Biography==
+Leon Walton was born on May 18, 1936, in [[Covington, Georgia]].<ref name="allmusic">{{cite web | last=Erlewine | first=Stephen Thomas | title=Leon Ashley biography | url={{AllMusic|class=artist|id=p52736/biography|pure_url=yes}} | work=[[Allmusic]] | accessdate=April 30, 2009 }}</ref> He first performed at age nine on a local radio show, and released his first single in 1960 on [[Goldband Records]]. This single did not attract significant airplay, neither did later releases on [[Imperial Records]] and [[Dot Records]]. Ashley eventually married singer [[Margie Singleton]].
+
+In 1964, Ashley founded his own label, Ashley Records. The label's releases proved more successful than his releases on Goldband and Imperial, with one Ashley Records release — "[[Laura (What's He Got That I Ain't Got)]]" — becoming his only number 1 country hit that year. This song made him the first country music artist "to write, record, release, distribute and publish his own material", according to [[Allmusic]].<ref name="allmusic"/> An album, also entitled ''Laura (What's He Got That I Ain't Got)'', reached No.&nbsp;10 on the [[Top Country Albums]] chart. He had several more hit singles soon afterward, including more duets with Singleton, as well as a duets album on the Ashley label. One single, "While Your Lover Sleeps", reached No.&nbsp;1 on the Canadian country charts. His chart success waned by 1969, however, and he shifted his focus to songwriting for other artists. [[Brook Benton]] and [[Frankie Laine]] concurrently sent of "Laura" to the pop and A.C. charts in 1969, and [[Claude King]] sent a version to the lower regions of the country charts shortly after Ashley's version fell from the top of the charts. [[Marty Robbins]] also charted in 1973 with it, and [[Kenny Rogers]] sent a cover to No.&nbsp;19 three years later.
+
+Ashley died in Hendersonville, Tennessee on October 20, 2013, after a lengthy illness.<ref>{{cite news|url=https://www.legacy.com/obituaries/shreveporttimes/obituary.aspx?n=leon-s-walton&pid=167648548&fhid=14210|title=Leon S. Walton|date=October 27, 2013|work=The Times|accessdate=August 30, 2020}}</ref>
+
+==Discography==
+
+===Albums===
+{| class="wikitable"
+!rowspan="2"| Year
+!rowspan="2"| Album
+!colspan="1"| Chart Positions
+|-
+!width="60"| <small>[[Top Country Albums|US Country]]</small>
+|-
+|1967
+|''Laura (What's He Got That I Ain't Got)''
+|align="center"|10
+|-
+|1968
+|''Ode to Billie Joe''
+|align="center"|—
+|-
+|1969
+|''A New Brand of Country'' <small> (with Margie Singleton)</small>
+|align="center"|—
+|-
+|1970
+|''Ease Up: By Special Request''
+|align="center"|—
+|}
+
+===Singles===
+{| class="wikitable"
+!rowspan="2"| Year
+!rowspan="2"| Song
+!colspan="2"| Chart Positions<ref name="whitburn">{{cite book |title=The Billboard Book of Top 40 Country Hits |last=Whitburn |first=Joel |authorlink=Joel Whitburn |pages=32}}</ref>
+|-
+!width="50"| <small>[[Hot Country Songs|US Country]]</small>
+!width="50"| <small>CAN Country</small>
+|-
+|1960
+|"He'll Never Go"
+|align="center"|—
+|align="center"|—
+|-
+|rowspan=2|1961
+|"Teen Age Angel"
+|align="center"|—
+|align="center"|—
+|-
+|"It's Alright Baby"
+|align="center"|—
+|align="center"|—
+|-
+|1962
+|"Not Going Home"
+|align="center"|—
+|align="center"|—
+|-
+|1964
+|"You Give Me Reason to Live"
+|align="center"|—
+|align="center"|—
+|-
+|1966
+|"How Can We Divide These Little Hearts" <small>(with [[Margie Singleton]])</small>
+|align="center"|—
+|align="center"|—
+|-
+|rowspan=5|1967
+|"Most Men"
+|align="center"|—
+|align="center"|—
+|-
+|"Before You Were Mine"
+|align="center"|—
+|align="center"|—
+|-
+|"[[Laura (What's He Got That I Ain't Got)]]"<sup>A</sup>
+|align="center"|1
+|align="center"|7
+|-
+|"[[Hangin' On (The Gosdin Brothers song)|Hangin' On]]" <small>(with Margie Singleton)</small>
+|align="center"|54
+|align="center"|—
+|-
+|"Anna, I'm Taking You Home"
+|align="center"|28
+|align="center"|—
+|-
+|rowspan=4|1968
+|"Mental Journey"
+|align="center"|14
+|align="center"|4
+|-
+|"You'll Never Be Lonely Again" <small>(with Margie Singleton)</small>
+|align="center"|55
+|align="center"|—
+|-
+|"Flower of Love"
+|align="center"|8
+|align="center"|—
+|-
+|"[[While Your Lover Sleeps]]"
+|align="center"|25
+|align="center"|1
+|-
+|rowspan=3|1969
+|"Walkin' Back to Birmingham"
+|align="center"|23
+|align="center"|—
+|-
+|"Ain't Gonna Worry"
+|align="center"|55
+|align="center"|—
+|-
+|"If Love Has Died" <small>(with Margie Singleton)</small>
+|align="center"|—
+|align="center"|—
+|-
+|rowspan=5|1970
+|"Life for a Wife"
+|align="center"|—
+|align="center"|—
+|-
+|"All That Love Is Gone" <small>(with Margie Singleton)</small>
+|align="center"|—
+|align="center"|—
+|-
+|"Brace Up and Face It"
+|align="center"|—
+|align="center"|—
+|-
+|"Happy Loving You" <small>(with Margie Singleton)</small>
+|align="center"|—
+|align="center"|—
+|-
+|"Mama's Ten"
+|align="center"|—
+|align="center"|—
+|-
+|1971
+|"There Ain't No Easy Way"
+|align="center"|—
+|align="center"|—
+|-
+|rowspan=2|1972
+|"Easy Up"
+|align="center"|—
+|align="center"|—
+|-
+|"There's Not a Single Thing About Me"
+|align="center"|—
+|align="center"|—
+|-
+|1973
+|"Love Fits Me Better"
+|align="center"|—
+|align="center"|—
+|-
+|rowspan=2|1980
+|"Look What Loving Me Has Done to You"
+|align="center"|—
+|align="center"|—
+|-
+|"Dear Willie (A Letter from Luckenbach)"
+|align="center"|—
+|align="center"|—
+|}
+*<sup>A</sup>Peaked at No.&nbsp;20 on [[Bubbling Under Hot 100]].
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ashley, Leon}}
+[[Category:1936 births]]
+[[Category:2013 deaths]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:People from Covington, Georgia]]
+[[Category:Country musicians from Georgia (U.S. state)]]
+[[Category:Singer-songwriters from Georgia (U.S. state)]]

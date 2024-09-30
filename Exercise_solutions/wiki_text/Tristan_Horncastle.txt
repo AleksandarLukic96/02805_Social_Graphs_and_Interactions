@@ -1,0 +1,161 @@
+{{short description|Canadian country music singer-songwriter (born 1986)}}
+{{Use mdy dates|date=June 2020}}
+{{Infobox musical artist
+| name            = Tristan Horncastle
+| image           =
+| caption         =
+| image_size      =
+| birth_date      = {{birth date and age|1986|03|23}}
+| birth_name      =
+| birth_place     = [[Fredericton]], [[New Brunswick]], Canada
+| origin          =
+| instrument      =
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 2012–present
+| label           = [[Royalty Records|Royalty]]
+| associated_acts =
+| website         = {{URL|www.tristanhorncastle.ca/|tristanhorncastle.ca}}
+}}
+'''Tristan Horncastle''' (born March 23, 1986)<ref>{{cite web|title=Tristan Horncastle & Southern Drive on CBC Music|url=http://music.cbc.ca/#/artists/Tristan-Horncastle-Southern-Drive|website=[[CBC Music]]|accessdate=September 11, 2014}}</ref> is a Canadian [[country music]] singer-songwriter. Horncastle signed to [[Royalty Records]] in November 2013.<ref>{{cite news|title=Royalty Records Welcomes Tristan Horncastle!|url=http://royaltyrecords.ca/?p=5026|accessdate=September 11, 2014|work=[[Royalty Records]]|date=December 11, 2013}}</ref> His first single for the label, "A Little Bit of Alright", was released in January 2014.<ref>{{cite news|title=A Little Bit Of Alright, 1st Single Release Of 2014!|url=http://royaltyrecords.ca/?p=5063|accessdate=September 11, 2014|work=[[Royalty Records]]|date=January 6, 2014}}</ref> It peaked at number 34 on the ''[[Billboard (magazine)|Billboard]]'' [[Canada Country]] chart.<ref name="Canada Country" /> Horncastle's debut album, ''A Little Bit of Alright'', was released via Royalty on May 27, 2014 and distributed by [[Sony Music Canada]].<ref>{{cite news|title=Brand New Album From Tristan Horncastle Out Today!|url=http://royaltyrecords.ca/?p=5340|accessdate=September 11, 2014|work=[[Royalty Records]]|date=May 27, 2014}}</ref>
+
+==Discography==
+
+===Extended plays===
+{| class="wikitable plainrowheaders"
+|-
+! style="width:12em;"| Title
+! style="width:18em;"| Details
+|-
+! scope="row"| ''Good Kinda Crazy''
+| 
+* Release date: September 2012
+* Label: self-released
+|-
+|}
+
+===Studio albums===
+{| class="wikitable plainrowheaders"
+|-
+! style="width:12em;"| Title
+! style="width:18em;"| Details
+|-
+! scope="row"| ''A Little Bit of Alright''
+| 
+* Release date: May 27, 2014
+* Label: [[Royalty Records]]
+|-
+! scope="row"| ''Turnin' Up a Sundown''
+| 
+* Release date: February 2016
+* Label: Royalty Records
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:12em;"| Single
+! Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Canada Country|CAN Country]]<br /><ref name="Canada Country">{{cite magazine|url=http://www.billboard.com/biz/search/charts?f%5B0%5D=ts_chart_artistname%3A%2ATristan%20Horncastle%2A&f%5B1%5D=itm_field_chart_id%3A1240&f%5B2%5D=ss_bb_type%3Achart_item&type=2&artist=Tristan%20Horncastle|title=Tristan Horncastle Album & Song Chart History – Canada Country|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=September 11, 2014}}</ref>
+|-
+| 2013
+! scope="row"| "She Brings the Beer"
+| —
+| align="left" rowspan="5"| ''A Little Bit of Alright''
+|-
+| rowspan="3"| 2014
+! scope="row"| "A Little Bit of Alright"
+| 34
+|-
+! scope="row"| "That Was Before"
+| —
+|-
+! scope="row"| "You Want"
+| —
+|-
+| rowspan="2"| 2015
+! scope="row"| "Recreation Land"
+| —
+|-
+! scope="row"| "Drinkin' Girl"
+| —
+| align="left" rowspan="3"| ''Turnin' Up a Sundown''
+|-
+| rowspan="2"| 2016
+! scope="row"| "On My Way Girl"
+| —
+|-
+! scope="row"| "Long as I'm Alive"
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Guest singles===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;"| Single
+! Artist
+! Album
+|-
+| 2015
+! scope="row"| "Whiskey Won't Fix Me"
+| [[Amy Metcalfe]]
+| TBD
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;"| Video
+! Director
+|-
+| 2015
+! scope="row"| "Drinkin' Girl"
+| Rich Misener
+|}
+
+==Awards and nominations==
+{| class="wikitable"
+|-
+! Year
+! Association
+! Category
+! Result
+|-
+| 2015
+| [[Canadian Country Music Association]]
+| Rising Star
+| {{nom}}
+|-
+| 2017
+| [[East Coast Music Awards]]
+| Country Recording of the Year – ''Turnin' Up A Sundown''
+| {{won}}
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Official website|http://www.tristanhorncastle.ca/}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Horncastle, Tristan}}
+[[Category:1986 births]]
+[[Category:Canadian country singer-songwriters]]
+[[Category:Canadian male singer-songwriters]]
+[[Category:Living people]]
+[[Category:Musicians from Fredericton]]
+[[Category:21st-century Canadian male singers]]
+[[Category:21st-century Canadian singers]]
+[[Category:21st-century Canadian singer-songwriters]]
+[[Category:Singers from New Brunswick]]

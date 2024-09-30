@@ -1,0 +1,5 @@
+#REDIRECT [[Raúl Malo]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

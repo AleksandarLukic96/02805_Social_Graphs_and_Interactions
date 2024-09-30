@@ -1,0 +1,151 @@
+{{short description|American musician (b. 1944)}}
+{{Use mdy dates|date=July 2014}}
+{{Infobox musical artist
+| name              = Chris Hillman
+| image             = Hillman1972.JPG
+| caption           = Hillman in 1972
+| birth_name        = Christopher Hillman
+| birth_date        = {{birth date and age|1944|12|4}}
+| birth_place       = Los Angeles, California, U.S.
+| instrument        = {{hlist|Bass|guitar|mandolin|vocals}}
+| genre             = {{hlist|[[Folk music|Folk]]|[[bluegrass music|bluegrass]]|[[folk rock]]|[[rock music|rock]]|[[country rock]]|[[country music|country]]}}
+| occupation        = Musician
+| years_active      = 1960–present
+| label             = {{hlist|[[Columbia Records|Columbia]]|[[Sugar Hill Records (bluegrass)|Sugar Hill]]|[[Asylum Records|Asylum]]|[[A&M Records|A&M]]|[[Rounder Records|Rounder]]}}
+| past_member_of    = {{hlist|[[Scottsville Squirrel Barkers]]|[[The Hillmen]]|[[The Byrds]]|[[The Flying Burrito Brothers]]|[[Manassas (band)|Manassas]]|[[Souther Hillman Furay Band]]| [[McGuinn, Clark & Hillman]]|[[The Desert Rose Band]]}}
+| website           = {{URL|http://www.chrishillman.com/}}
+}}
+
+'''Christopher Hillman''' (born December 4, 1944)<ref name="LarkinCountry">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Who's Who of Country Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1993|edition=First|isbn=0-85112-726-6|page=190}}</ref> is an American musician. He was the original bassist of [[the Byrds]]. With frequent collaborator [[Gram Parsons]], Hillman was a key figure in the development of [[country rock]], defining the genre through his work with the Byrds, [[the Flying Burrito Brothers]], [[Manassas (band)|Manassas]] and the country-rock group [[the Desert Rose Band]]. He was inducted into the Rock and Roll Hall of Fame in 1991 as a member of the Byrds.
+
+==Early life==
+Hillman was born in Los Angeles, California, the third of four children.<ref>{{cite web|title=Guitarist Chris Hillman|publisher=[[Library of Congress]]|url=https://www.loc.gov/today/cyberlc/feature_wdesc.php?rec=4766|access-date=2015-12-10}}</ref> He spent his early years at his family's ranch home in rural northern [[San Diego County, California|San Diego County]], approximately {{convert|110|mi}} from Los Angeles. He has credited his older sister with exciting his interest in [[Country music|country]] and [[folk music]], when she returned from college during the late 1950s with folk music records by [[The New Lost City Ramblers]] and others. Hillman soon began watching many of the country-music shows on local television in southern California at the time such as ''Town Hall Party'', ''The [[Spade Cooley]] Show'' and ''Cal's Corral''. Hillman's mother encouraged his musical interests and bought him his first guitar; shortly thereafter he developed an interest in [[Bluegrass music|bluegrass]], particularly the [[mandolin]]. At the age of 15, Hillman went to Los Angeles to see the [[Kentucky Colonels (band)|Kentucky Colonels]] bluegrass band at the [[Ash Grove (music club)|Ash Grove]], and later convinced his family to allow him to travel by train to [[Berkeley, California|Berkeley]] for lessons from mandolinist Scott Hambly. When Chris was 16, his father committed suicide.<ref>{{cite web|url=http://www.cbn.com/700club/guests/interviews/CW98_chris_hillman.aspx |title=Chris Hillman: 'Turn, Turn, Turn' |website=Cbn.com |access-date=2015-12-10}}</ref>
+
+Hillman became known in San Diego's folk music community as a solid player; this won him an invitation to join his first band, the [[Scottsville Squirrel Barkers]].<ref name="LarkinCountry"/> The band lasted barely two years, recording only one album (''Blue Grass Favorites'', which was distributed in supermarkets); however, it has a posthumous reputation as the spawning ground for a number of musicians who went on to play in [[the Eagles]], the Flying Burrito Brothers, the Byrds, [[Hearts & Flowers]], and the [[Country Gazette (band)|Country Gazette]]. When the band broke up in late 1963 Hillman received an invitation to join the Golden State Boys, regarded as the top bluegrass band in [[southern California]] and featuring future country star [[Vern Gosdin]], his brother Rex and banjoist [[Don Parmley]] (later of the [[Bluegrass Cardinals]]). Shortly thereafter the band changed its name to [[The Hillmen]];<ref name="LarkinCountry"/> soon Hillman was appearing regularly on television and using a fictitious ID, "Chris Hardin", to allow the underage musician into the country bars where many of his gigs were played. When the Hillmen folded, he briefly joined a spinoff of Randy Sparks' [[The New Christy Minstrels|New Christy Minstrels]] known as the Green Grass Revival.
+
+== Career ==
+
+=== The Byrds (1964–1968) ===
+{{main|The Byrds}}
+[[File:The Byrds 1965.png|thumb|Hillman (far left) as a member of the Byrds in 1965]]
+At this point a frustrated Hillman considered quitting music and enrolling at [[UCLA]] when he received an offer from The Hillmen's former manager and producer, Jim Dickson, to join Jim (later Roger) McGuinn, David Crosby, Gene Clark and Michael Clarke in a new band, The Byrds.<ref name="LarkinCountry"/> Hillman was recruited to play bass guitar, although he had never picked up the instrument. Thanks to his bluegrass background, he quickly developed his own melodic style on the instrument. The Byrds' first single, a jangly cover of [[Bob Dylan]]'s "[[Mr. Tambourine Man]]", was an international hit and marked the birth of [[folk rock]]. During the mid-1960s the Byrds ranked as one of the most successful and influential American pop groups; they recorded a string of hits, including "[[Turn! Turn! Turn!]]", "[[Eight Miles High]]" and "[[So You Want to Be a Rock 'n' Roll Star]]".
+
+Hillman kept a low profile on the band's first two albums, on which McGuinn and Clark shared lead vocals with Crosby adding high harmony and singing the bridge on "[[All I Really Want to Do]]". However, Clark's departure in 1966 and Crosby's growing restlessness allowed Hillman the opportunity to develop as a singer and songwriter in the group. He came into his own on the Byrds' 1967 album ''[[Younger Than Yesterday]]'', co-writing and sharing lead vocals with McGuinn on the hit "[[So You Want to Be a Rock 'n' Roll Star]]".<ref name="LarkinCountry"/> Hillman also wrote (and sang) the minor hit "[[Have You Seen Her Face]]", "Thoughts and Words", "Time Between" and "The Girl with No Name", the latter two demonstrating his bluegrass and country roots. Hillman's prominence continued with the Byrds' next album, ''[[The Notorious Byrd Brothers]]'', on which he shared songwriting credit on seven of the album's eleven songs.
+
+=== Pioneering country rock ===
+Internal strife dogged the Byrds, and by the beginning of 1968 the band was down to two original members (Hillman and McGuinn), with Hillman's cousin [[Kevin Kelley (musician)|Kevin Kelley]] on drums. They then hired [[Gram Parsons]] to replace Crosby. Hillman, who had brought country music into the Byrds' earliest recording of "Satisfied Mind", found another lover of country music in Parsons.  ''[[Sweetheart of the Rodeo]]'' was recorded in Nashville and Los Angeles and continues to inspire musicians in the Americana format.<ref name="LarkinCountry"/> Parsons left the band shortly thereafter; Hillman brought in former Kentucky Colonels guitarist [[Clarence White]] as a replacement and White suggested that the group replace Kelley with [[Gene Parsons]] (no relation to Gram) on drums, but this line-up was short-lived and Hillman himself left the Byrds due to financial misappropriation by their management.
+
+=== The Flying Burrito Brothers (1969–1972) ===
+{{Main article|The Flying Burrito Brothers}}
+[[File:FlyingBurritos1970.jpg|upright=1.35|thumb|[[The Flying Burrito Brothers]] (Amsterdam, 1970). From left to right: [[Pete Kleinow|'Sneaky' Pete Kleinow]], [[Rick Roberts (musician)|Rick Roberts]], Chris Hillman, [[Michael Clarke (musician)|Michael Clarke]] & [[Bernie Leadon]] ]]
+
+Hillman teamed with Gram Parsons again (this time as vocalist, guitarist and songwriter) to form the [[Flying Burrito Brothers]].<ref name="LarkinCountry"/> Further honing their pioneering country-rock hybrid sound by combining the energy, instrumentation and attitude of [[rock and roll]] with the issues and themes of [[country music]], the Burritos recorded the landmark ''[[The Gilded Palace of Sin]]'' (1969) followed by 1970's ''[[Burrito Deluxe]]''. Parsons was fired from the line-up by June 1970 (replaced by guitarist [[Rick Roberts (musician)|Rick Roberts]]) when the band toured Canada as part of the [[Festival Express]] tour, with Hillman reverting to bass guitar. Hillman stayed with the band for two more records, ''[[The Flying Burrito Bros (album)|The Flying Burrito Brothers]]'' and ''[[Last of the Red Hot Burritos]]''.
+
+=== Various bands and solo career (1970s) ===
+{{Main article|Manassas (band)|Souther-Hillman-Furay Band|McGuinn, Clark & Hillman}}
+Before the Flying Burrito Brothers disbanded, Hillman joined [[Stephen Stills]]' band [[Manassas (band)|Manassas]].<ref name="LarkinCountry" /> They released two albums, a 1972 [[Manassas (album)|self-titled double album]], and a 1973 album ''[[Down the Road (Manassas album)|Down the Road]]''. Led by Stills, Manassas was an exploration into a mixture of rock, country, blues, bluegrass and Latin music. In 1972, Stills gave Hillman a 1924 [[Lloyd Loar]] [[Gibson F-5]] mandolin.<ref>{{Cite web |last=Lewis |first=Randy |date=2017-09-18 |title=Byrds co-founder Chris Hillman taps David Crosby, Roger McGuinn, Tom Petty for new solo album |url=https://www.latimes.com/entertainment/music/la-et-ms-chris-hillman-bidin-my-time-tom-petty-20170810-story.html |access-date=2024-05-29 |website=Los Angeles Times |language=en-US}}</ref><ref>{{Cite web |date=2017-09-18 |title=Chris Hillman |url=https://www.latimes.com/94338813-132.html |access-date=2024-05-29 |website=Los Angeles Times |language=en-US}}</ref> Hillman remained with Manassas until 1973, when he briefly re-joined the original line-up of the Byrds for a reunion album on [[Asylum Records]].
+
+In 1974, Hillman teamed with singer-songwriter [[Richie Furay]] (who co-founded [[Buffalo Springfield]] and [[Poco (band)|Poco]]) and songwriter [[JD Souther]] (who co-wrote much of the [[Eagles (band)|Eagles]]' early repertoire) in the [[Souther-Hillman-Furay Band]].<ref name="LarkinCountry" /> The trio never quite gelled, and broke up in 1975 after two albums and internal squabbles.
+
+Hillman released two solo albums, ''Slippin' Away'' and ''Clear Sailin''',<ref name="LarkinCountry"/> which included several songs co-written with ''[[Crawdaddy!|Crawdaddy]]'' magazine editor [[Peter Knobler]]. One of their songs, "Step on Out," was recorded by [[The Oak Ridge Boys]] on their 1985 album and became the title cut. He was also an in-demand studio musician, playing and singing on sessions for [[Gene Clark]], [[Dillard & Clark]], [[Poco (band)|Poco]], [[Dan Fogelberg]] and others. After an early 1977 UK tour reunited him with [[Roger McGuinn]] and [[Gene Clark]], the trio stayed together as [[McGuinn, Clark & Hillman]] for two albums<ref name="LarkinCountry"/> (on which Hillman continued his songwriting collaboration with Knobler) and one under the McGuinn-Hillman name, with a hit single in 1979's "Don't You Write Her Off".
+
+=== The Desert Rose Band (1985–1994, 2008) ===
+{{Main article|The Desert Rose Band}}
+By the early 1980s Hillman had returned to his bluegrass and country roots, recording two acclaimed (mainly acoustic) albums for [[Sugar Hill Records (bluegrass)|Sugar Hill Records]] with singer/guitarist/banjo player [[Herb Pedersen]] (a former member of [[The Dillards]]). Soon after, Hillman and Pedersen formed the [[Desert Rose Band]];<ref name="LarkinCountry"/> this proved to be Hillman's most commercially successful post-Byrds project. Their self-titled debut album in 1987 generated two [[Record chart|Top Ten]] country hits in "Love Reunited" (written with Steve Hill), "One Step Forward" and the number-one single "He's Back and I'm Blue." From 1987 until late 1993 the band recorded five albums and one Greatest Hits package and had a string of 16 country-music [[Billboard magazine|hits]] (the majority of which were in the country Top Ten) and a number of [[Academy of Country Music]] awards before disbanding in 1994. As Hillman said, "We definitely quit while we were ahead."
+
+Chris Hillman, Herb Pedersen, JayDee Maness, John Jorgenson, Bill Bryson, and Steve Duncan performed their first reunion concert on August 27, 2008  in Solana Beach, CA. Before this date Chris Hillman and Herb Pedersen were as a duo joined by John Jorgenson on May 2, 2008 for a small DRB set at the [[Station Inn]] in Nashville. This six-man lineup is the best known, and includes all of the original members present on the hit albums from the 1980s. At this show, Hillman said it was the first time they had played together in 19 years. They went through a string of DRB hits but were unable to play "He's Back and I'm Blue" because Hillman said he had forgotten the words. This sold-out show prompted Hillman and the band to play a handful of other reunion shows at  music festivals throughout the U.S. Several of these were recorded for inclusion on a live album, which Hillman hopes to release in the U.S. and Europe. If released, this will be the Desert Rose Band's only live album.
+
+=== 1990s and beyond ===
+[[File:ChrisHillman.jpg|thumb|Hillman in 2004]]
+At the peak of the Desert Rose Band's success, Hillman began appearing infrequently with McGuinn. A duet recorded by the pair for the [[Nitty Gritty Dirt Band]]'s ''[[Will The Circle Be Unbroken Vol. II]]'' album, "You Ain't Going Nowhere", reached the Country Top 10 in 1989. Soon the pair joined Crosby in a reformed Byrds, playing a handful of club dates. In 1990 they appeared at a tribute to [[Roy Orbison]], performing "Mr. Tambourine Man" with the song's composer [[Bob Dylan]]. That same year the Byrds cut four new songs for inclusion in a career-spanning box set, and in 1991 they were inducted into the [[Rock and Roll Hall of Fame]]. In 1996 Hillman reunited with Desert Rose Band alumnus Herb Pederson for the CD ''Bakersfield Bound''. ''Like a Hurricane'' (1998) and three bluegrass-flavored releases on [[Rounder Records]] with Pedersen, [[Larry Rice (musician)|Larry Rice]], and [[Tony Rice]] followed. He appeared on the 1999 album ''[[Return of the Grievous Angel: A Tribute to Gram Parsons]]'' in a duet with [[Steve Earle]] on "High Fashion Queen" (which Hillman wrote with Parsons).
+
+After a brief hiatus Hillman and Pedersen returned with ''Way Out West'' (2002), a 17-track collection of country, [[roots rock]] and [[Americana (music)|Americana]]; this was followed by ''The Other Side'' (2005). In 2010 he recorded "Live at Edwards Barn" with Herb Pedersen for Rounder Records.
+
+Hillman has continued to write, perform and tour, with dates in 2017 with Herb Pedersen and John Jorgenson.<ref>{{cite web|url=http://www.chrishillman.com/calendar.html |title=Tour Dates |publisher=Chris Hillman |access-date=2017-10-07}}</ref>  He released his latest album, ''Bidin' My Time'' (2017), co-produced with [[Tom Petty]], featuring guests including Roger McGuinn, David Crosby and members of The Heartbreakers. This has been described as "a kind of summing up of Hillman's long and varied career, incorporating the folk, bluegrass, country and rock styles he's touched on over the years."<ref>{{cite magazine|last1=Graff|first1=Gary|title=Byrds Legend Chris Hillman Premieres Tom Petty-Produced 'Bidin' My Time' Album: Exclusive|url=http://www.billboard.com/articles/columns/rock/7968856/chris-hillman-bidin-my-time-album|magazine=Billboard|access-date=October 7, 2017|date=September 19, 2017}}</ref>
+
+Along with Roger McGuinn, Marty Stuart and his Fabulous Superlatives, Hillman toured in the U.S. with the 50th Anniversary of the Sweetheart of the Rodeo, to sold out venues and outstanding reviews.
+
+His memoir, ''Time Between: My Life as a Byrd, Burrito Brother and Beyond,''  was published by BMG Books in November 2020, with positive reviews in Rolling Stone, The Wall Street Journal, Associated Press, and now in the second printing.
+
+==Personal life==
+Chris Hillman identifies as a Christian although his father was Jewish.<ref>{{Cite web|url=https://thebluegrasssituation.com/read/counsel-of-elders-chris-hillman-on-looking-across-time/|title=Counsel of Elders: Chris Hillman on Looking Across Time|date=2017-11-10|website=The Bluegrass Situation|language=en-US|access-date=2020-01-28}}</ref> He married  former record executive Connie Pappas in 1979, who influenced him to affiliate with the [[Greek Orthodox Archdiocese of America|Greek Orthodox Church]]. He later stated, "I’m still learning. You know what I do on Sundays? I sing in a choir. I sing in a Greek Orthodox choir, and I’m the only hillbilly tenor in the Orthodox Church."<ref>{{cite web | url=https://www.patheos.com/blogs/joeljmiller/2013/11/i-like-the-christian-life-chris-hillman-talks-about-his-faith/ | title=I like the Christian life: The Byrds' Hillman talks about his faith | date=November 5, 2013 }}</ref> Hillman and Pappas have two children, Catherine and Nicholas.<ref name="bbc">{{Cite web |url=https://www.bbc.com/news/entertainment-arts-43547436 |title=5 pop songs you didn't know were about God |last=Savage |first=Mark |publisher=[[BBC]] |date=27 March 2018}}</ref>
+
+==Discography==
+{{Main| Chris Hillman discography}}
+
+=== Other Singles ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:22em;"| Single
+! colspan="2"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! style="width:45px;"| [[Hot Country Songs|US Country]]<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2017|publisher=Record Research, Inc|year=2017|page=166|isbn=978-0-89820-229-8}}</ref>
+! style="width:45px;"| [[RPM (magazine)|CAN Country]]<ref>{{cite web | url=https://www.bac-lac.gc.ca/eng/discover/films-videos-sound-recordings/rpm/Pages/image.aspx?Image=nlc008388.6409&URLjpg=http%3a%2f%2fwww.collectionscanada.gc.ca%2fobj%2f028020%2ff4%2fnlc008388.6409.gif&Ecopy=nlc008388.6409 | title=RPM 100 Country Singles | publisher=RPM | date=July 31, 1989 | accessdate=February 26, 2022}}</ref>
+|-
+| 1984
+! scope="row"| "Somebody's Back in Town"
+| 81
+| —
+| style="text-align:left;" rowspan="2"| ''Desert Rose''
+|-
+| 1985
+! scope="row"| "Running the Roadblocks"
+|77
+| —
+|-
+| 1989
+! scope="row"| "[[You Ain't Going Nowhere]]" <small>(with [[Roger McGuinn]])</small>
+| 6
+| 11
+| style="text-align:left;"| ''[[Will the Circle Be Unbroken: Volume Two]]''
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{commons category|Chris Hillman}}
+* [http://www.chrishillman.com Official homepage]
+* {{AllMusic | id= chris-hillman-mn0000096944 | label= Chris Hillman}}
+* {{discogs artist|275406-Chris-Hillman|Chris Hillman}}
+* [http://www.triste.co.uk/hillman.htm 2003 Interview]
+* [http://ancientfaith.com/podcasts/illuminedheart/turn_turn_turn 2009 Radio Interview]
+* [http://users.skynet.be/fa388247/discohillman2.htm Chris Hillman discography at Byrds Flyght] {{Webarchive|url=https://web.archive.org/web/20210211045458/http://users.skynet.be/fa388247/discohillman2.htm |date=February 11, 2021 }}
+
+{{S-start}}
+{{S-ach|aw}}
+{{S-bef|before=[[Levon Helm]]}}
+{{s-ttl|title=[[Americana Music Association|AMA Lifetime Achievement Award for Performing]]|years=2004}}
+{{S-aft|after=[[Marty Stuart]]}}
+{{S-end}}
+{{The Byrds}}
+{{The Desert Rose Band}}
+{{The Flying Burrito Brothers}}
+{{1991 Rock and Roll Hall of Fame}}
+{{Authority control}}
+
+{{DEFAULTSORT:Hillman, Chris}}
+[[Category:1944 births]]
+[[Category:Living people]]
+[[Category:American country rock musicians]]
+[[Category:American rock bass guitarists]]
+[[Category:American country bass guitarists]]
+[[Category:American male bass guitarists]]
+[[Category:Singer-songwriters from California]]
+[[Category:The Byrds members]]
+[[Category:Souther–Hillman–Furay Band members]]
+[[Category:The Desert Rose Band members]]
+[[Category:The Flying Burrito Brothers members]]
+[[Category:American folk rock musicians]]
+[[Category:American country guitarists]]
+[[Category:American bluegrass guitarists]]
+[[Category:American bluegrass mandolinists]]
+[[Category:American country mandolinists]]
+[[Category:Guitarists from Los Angeles]]
+[[Category:American male guitarists]]
+[[Category:20th-century American bass guitarists]]
+[[Category:Manassas (band) members]]

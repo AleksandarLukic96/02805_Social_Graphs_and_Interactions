@@ -1,0 +1,57 @@
+{{short description|American singer-songwriter}}
+
+{{Infobox musical artist
+| name            = John McEuen
+| image           = 10 JOHN solo John McEuen Deering Hi Res-31 conv copy 2 Deering, blue coat copy 2.jpg
+| caption         = John McEuen playing the banjo
+| birth_date      = {{birth date and age|1945|12|19}}
+| birth_place     = [[Oakland, California|Oakland]], California, U.S.
+| genre           = [[Country music|Country]], [[folk music|folk]], folk-rock, [[bluegrass music|bluegrass]]
+| occupation      = Musician, singer, producer
+| instrument      = Banjo, guitar, mandolin, fiddle, piano, accordion, vocals
+| years_active    = 1965–present
+| label           = [[Warner Bros. Records|Warner Bros.]], [[Vanguard Records|Vanguard]], Cedar Glen, Planetary, Aix, Rural Rhythm
+| past_member_of = [[Nitty Gritty Dirt Band]]
+| website         = {{official URL}}
+}}
+
+'''John McEuen''', born December 19, 1945, in [[Oakland, California|Oakland]], California, is an American folk musician and a founding member of the [[Nitty Gritty Dirt Band]].
+
+==Career==
+===Solo work===
+John McEuen was born in [[Oakland, California]]. In 1964, at age 18, he became interested in music after seeing a performance by [[the Dillards]], and learned to play the banjo. Eventually, he took an interest in fiddle and mandolin. In 1986, after twenty years with the Dirt Band, McEuen departed to pursue a solo career. From 1991–1997, he released four albums for [[Vanguard Records]]. He composed music for movies and television and he appeared as a guest on albums with several artists including five albums with [[Michael Martin Murphey]]. He then returned to the Dirt Band in 2001.<ref name="Deming">{{cite web|last1=Deming|first1=Mark|title=John McEuen {{!}} Biography & History|url=http://www.allmusic.com/artist/john-mceuen-mn0000222298/biography|website=AllMusic|access-date=7 January 2017}}</ref> McEuen departed the band once again in late 2017.<ref>{{cite web|url=https://bluegrasstoday.com/john-mceuen-leaves-nitty-gritty-dirt-band/|title=Bluegrass today|date=November 13, 2017}}{{Dead link|date=February 2022 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+===Steve Martin===
+McEuen has known [[Steve Martin]] since high school, when he would give Martin occasional lessons on the banjo. In 1978, he was asked by Martin to provide the backing band for a comic, novelty song called ''[[King Tut (song)|King Tut]]''. With Martin on vocals, the Dirt Band recorded the song under the alias "The Toot Uncommons".<ref name="Deming" />
+
+McEuen produced and played on Martin's album ''[[The Crow: New Songs for the 5-String Banjo]]'' ([[Rounder Records|Rounder]], 2009). The album was Number 1 for seven months and won the [[Grammy Award for Best Bluegrass Album]].<ref name="Deming" />
+
+===Other ventures===
+
+McEuen published an autobiography in 2018 titled ''The Life I've Picked - A Banjo Player's Nitty Gritty Journey''.<ref>{{cite web|url=http://www.chicagoreviewpress.com/life-i-ve-picked--the-products-9781613738955.php|title=The Life I've Picked|access-date=13 September 2018}}</ref>
+
+==Awards and honors==
+* [[American Banjo Museum|The American Banjo Museum]] [[American Banjo Museum Hall of Fame members|Hall of Fame Inductee]]<ref>{{cite web|url=http://www.americanbanjomuseum.com/hall-of-fame-celebration|title=American Banjo Museum|website=American Banjo Museum|access-date=21 November 2017}}</ref>
+*Independent Music Award for Best Americana Album, "Made in Brooklyn"<ref>{{Cite web|url=http://independentmusicawards.com/16th-independent-music-awards-winners/|title=The 16Th Independent Music Awards Winners}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{official website|1=https://www.johnmceuen.com/}}
+* [https://www.namm.org/library/oral-history/john-mceuen John McEuen Interview] at [[NAMM Oral History Program|NAMM Oral History Collection]] (March 6, 2004)
+
+{{Nitty Gritty Dirt Band}}
+{{authority control}}
+
+{{DEFAULTSORT:McEuen, John}}
+[[Category:1945 births]]
+[[Category:American country rock singers]]
+[[Category:American country singer-songwriters]]
+[[Category:American rock musicians]]
+[[Category:Country musicians from California]]
+[[Category:Living people]]
+[[Category:Singers from Oakland, California]]
+[[Category:Nitty Gritty Dirt Band members]]
+[[Category:Singer-songwriters from California]]
+[[Category:American country banjoists]]

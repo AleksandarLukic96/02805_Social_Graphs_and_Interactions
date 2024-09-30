@@ -1,0 +1,66 @@
+{{Short description|American country music group}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = The Jenkins
+| image                 = 
+| caption            = 
+| image_size            = 
+| background          = group_or_band
+| origin              = [[Sebastopol, California]], United States
+| genre               = [[country music|Country]]
+| years_active        = 2004-2008
+| label               = [[Capitol Records Nashville|Capitol Nashville]]
+| current_members     = Brodie Jenkins<br />Kacie Jenkins<br />Nancy Jenkins
+}}
+'''The Jenkins''' were an American [[country music]] group comprising Nancy Jenkins and her daughters, Kacie and Brodie. The trio had two singles in the U.S. ''Billboard'' [[Hot Country Songs]] charts: "Blame It on Mama" at No.&nbsp;34 and "Getaway Car" at No.&nbsp;38. The latter was later a single for [[Hall & Oates]]. An album was recorded for [[Capitol Records Nashville|Capitol Nashville]] but never released.
+
+==Biography==
+Nancy Jenkins and her daughters began to perform together when she started to produce the annual talent show at Kacie and Brodie's school.<ref name="cmt">[https://web.archive.org/web/20040706045314/http://www.cmt.com/artists/az/jenkins/bio.jhtml CMT.com : The Jenkins : Biography]</ref> When Kacie was in sixth grade, the three performed [[The Judds]]' song "Guardian Angels" in a school production. Dennis Hysom, a local songwriter, who attended the show persuaded Nancy and her daughters to pursue a career as a country music trio.<ref name="cmt"/> The three then recorded a [[demo tape]], with Nancy writing some of the songs.<ref name="allmusic">[{{Allmusic|class=artist|id=p657414/biography|pure_url=yes}} AllMusic ((( The Jenkins > Biography )))]</ref>
+
+In 2003, the trio was signed to Capitol Records, working with singer-songwriter and record producer [[Rodney Crowell]] on the first album, to be called ''The Jenkins''.<ref name="allmusic"/><ref name="nmc">[http://netmusiccountdown.com/inc/artist.php?artist=The+Jenkins Net Music Countdown : The Jenkins]</ref> "Blame It on Mama" was released as an advance single in early 2004; the song was a minor top 40 hit in the ''Billboard'' U.S. [[Hot Country Songs]] chart.<ref name="allmusic"/> A second single, "Getaway Car", was released but the album itself was never released. "Getaway Car" was originally recorded by [[4 Runner]] on their album ''Getaway Car'', and was later a hit in the [[Hot Adult Contemporary Tracks]] charts when [[Hall & Oates]] recorded it.
+
+The Jenkins left Capitol in 2008.<ref>{{Cite web|url=http://www.cmt.com/news/1585038/country-labels-keep-rosters-full-despite-album-sales-dip/|archive-url=https://web.archive.org/web/20141218124957/http://www.cmt.com/news/1585038/country-labels-keep-rosters-full-despite-album-sales-dip/|url-status=dead|archive-date=December 18, 2014|title=Country Labels Keep Rosters Full Despite Album Sales Dip|first=Edward|last=Morris|website=CMT News}}</ref>
+
+==Discography==
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:12em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]
+|-
+| rowspan="2"| 2004
+! scope="row"| "Blame It on Mama"
+| 34
+| align="left" rowspan="2"| ''The Jenkins'' <small>(unreleased)</small>
+|-
+! scope="row"| "[[Getaway Car (Susan Ashton song)|Getaway Car]]"
+| 38
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:12em;"| Video
+! Director
+|-
+| rowspan="2"| 2004
+! scope="row"| "Blame It on Mama"
+| [[Steven Goldmann]]
+|-
+! scope="row"| "Getaway Car"
+| [[Trey Fanjoy]]
+|}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Jenkins, The}}
+[[Category:Country music groups from California]]
+[[Category:Family musical groups]]
+[[Category:Vocal trios]]
+[[Category:Capitol Records artists]]

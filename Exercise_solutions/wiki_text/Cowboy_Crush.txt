@@ -1,0 +1,99 @@
+{{Short description|American country music band}}
+{{Infobox musical artist
+| name            = Cowboy Crush
+| image           =
+| caption         =
+| image_size      =
+| origin          = [[Nashville, Tennessee]], United States
+| genre           = [[country music|Country]]
+| years_active    = 2003—2009
+| label           = [[Asylum Records|Asylum]]-[[Curb Records|Curb]]
+| past_members = Trenna Barnes<br />Debbie Johnson<br /> Darla Perlozzi<br />[[Becky Priest]]<br />Renaé Truex
+}}
+'''Cowboy Crush''' was an American [[country music]] band signed to [[Curb Records]]' Asylum/Curb division. The group is composed of Trenna Barnes ([[lead vocals]]), Debbie Johnson ([[bass guitar]], vocals), Becky Priest ([[Keyboard instrument|keyboards]], vocals), and Renaé Truex ([[fiddle]], [[mandolin]]). Until 2006, Darla Perlozzi ([[Drum kit|drums]]) was also a member of the group. Perlozzi co-wrote [[Big & Rich]]'s 2007 single "Loud".
+
+All five founding members of Cowboy Crush had previously worked throughout [[Nashville, Tennessee]] before meeting at [[Belmont University]].<ref name="cmt">[https://web.archive.org/web/20050716075122/http://www.cmt.com/artists/az/cowboy_crush/bio.jhtml CMT.com : Cowboy Crush : Biography]</ref> They held their first practice together in a garage on March 18, 2003.<ref name="cmt"/> Cowboy Crush is also known for its high-energy concerts and backstage antics.<ref>[http://www.countrymusicfestival.com/ccrushinfo.htm Cowboy Crush] {{webarchive|url=https://web.archive.org/web/20070707210902/http://www.countrymusicfestival.com/ccrushinfo.htm |date=2007-07-07 }}</ref> The group's debut single, "Nobody Ever Died of a Broken Heart", was previously recorded by [[Trick Pony]]. Cowboy Crush's debut album was released to digital retailers on July 14, 2009.
+
+==Discography==
+
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:10em;"| Title
+! style="width:16em;"| Album details
+|- 
+! scope="row"| ''Cowboy Crush''
+| 
+* Release date: July 14, 2009
+* Label: [[Curb Records]]
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|- 
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Single
+! colspan="1"| Peak positions
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]
+|- 
+| rowspan="2"| 2005
+! scope="row"| "Nobody Ever Died of a Broken Heart"
+| 56
+|-
+! scope="row"| "He's Coming Home"
+| —
+|- 
+| 2006
+! scope="row"| "Hillbilly Nation"<ref>{{cite web | url=https://music.apple.com/us/album/hillbilly-nation-single/129511827 | title='Hillbilly Nation' - Single | publisher=iTunes | accessdate=June 26, 2023}}</ref>
+| —
+|- 
+| rowspan="2"| 2007
+! scope="row"| "Some Men Don't Cheat"
+| —
+|-
+! scope="row"| "Miss Difficult"
+| —
+|-
+| rowspan="2"| 2009
+! scope="row"| "Tougher Than a Man"
+| —
+|-
+! scope="row"| "Hillbilly Soldier"
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:20em;"| Video
+! Director
+|-
+| 2005
+! scope="row"| "Nobody Ever Died of a Broken Heart"
+| Eric Welch
+|-
+| 2007
+! scope="row"| "Miss Difficult"
+|
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.cowboycrush.com Official website]
+*[http://www.trennabarnes.com Official Trenna Barnes website]
+
+{{Authority control}}
+
+[[Category:American all-female bands]]
+[[Category:Country music groups from Tennessee]]
+[[Category:Curb Records artists]]
+[[Category:Musical groups established in 2003]]
+[[Category:Musical groups from Nashville, Tennessee]]
+[[Category:All-female country bands]]

@@ -1,0 +1,101 @@
+{{Short description|American country music duo}}
+{{Infobox musical artist
+| name            = The Goldens
+| image           =
+| caption         =
+| image_size      =
+| alias           =
+| origin          = [[Brewton, Alabama]]
+| genre           = [[Country music|Country]]
+| years_active    = 1987–1996, 2022-present
+| label           = [[Epic Records|Epic]], [[Capitol Records|Capitol]]/[[SBK Records|SBK]]
+| past_members = Rusty Golden<br />Chris Golden
+}}
+'''The Goldens''' were an American [[country music]] duo from [[Brewton, Alabama]] composed of brothers Rusty and Chris Golden.<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|page=164|year=2008|isbn=978-0-89820-177-2}}</ref> Rusty and Chris are the sons of [[The Oak Ridge Boys]] member [[William Lee Golden]].<ref name="whitburn" /> Before forming The Goldens, Chris was a member of Cedar Creek and Rusty was a member of The Boys Band.<ref name="whitburn" /> Supporting musicians in The Goldens included Greg Gordon, Don Breland, John Rich, Skip Mitchell, Buster Phillips, and John Sturdivant, Jr.<ref name="allmusic">{{cite web|last=Huey|first=Steve|title=The Goldens {{!}} Biography|url={{AllMusic|class=artist|id=mn0000059602|pure_url=yes}}|work=[[AllMusic]]|accessdate=September 13, 2014}}</ref>
+
+The Goldens' self-titled debut album was released by [[Epic Records]] in 1987.<ref name="allmusic" /> Two singles from the album, Put Us Together Again and Sorry Girls charted on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles & Tracks]] chart.<ref name="whitburn" /> The Goldens moved to [[Capitol Records|Capitol]]/[[SBK Records]] for the release of their second album, ''Rush for Gold'', in 1990.<ref name="allmusic" /> The album produced three charting singles and videos, 'Take Me Back To The Country', 'Keep The Faith', and 'Long Gone'.<ref name="whitburn" /> Since disbanding, Rusty has released three solo albums and continues to write songs. Chris joined The Oak Ridge Boys band as drummer from 1996-2014, and has also played drums with [[Alabama (band)|Alabama]] and [[Restless Heart]]. Chris returned to the spotlight in 2014, releasing seven solo albums garnering eight number one songs in the country gospel field. Chris also produced and released award winning videos, and won numerous awards in the Inspirational Country Music field. During the pandemic, the brothers reunited, and along with father William Lee Golden and Chris's three children, recorded 3 albums as William Lee Golden & The Goldens. They started touring as a family again in 2022, along with an all-star band. 
+
+Rusty Golden died July 1, 2024, at age 65.<ref>{{cite web | url=https://deadline.com/2024/07/rusty-golden-dead-1236000059/ | title=Rusty Golden Dies: Country Musician & Songwriter, Son of Oak Ridge Boys' William Lee Golden Was 65 | date=2 July 2024 }}</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:10em;"| Title
+! style="width:20em;"| Album details
+|-
+! scope="row"| ''The Goldens''
+| 
+* Release date: 1987
+* Label: [[Epic Records]]
+|-
+! scope="row"| ''Live '89''
+| 
+* Release date: October 1989
+* Label: [[24k Records]]
+|-
+! scope="row"| ''Rush for Gold''
+| 
+* Release date: September 18, 1990
+* Label: [[Capitol Records|Capitol]]/[[SBK Records]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2"| Year
+! rowspan="2" style="width:16em;"| Single
+! Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]<br /><ref name="whitburn" />
+|-
+| rowspan="2"| 1988
+! scope="row"| "Put Us Together Again"
+| 55
+| align="left" rowspan="2"| ''The Goldens''
+|-
+! scope="row"| "Sorry Girls"
+| 63
+|-
+| rowspan="3"| 1991
+! scope="row"| "Take Me Back to the Country"
+| —
+| align="left" rowspan="3"| ''Rush for Gold''
+|-
+! scope="row"| "Keep the Faith"
+| 67
+|-
+! scope="row"| "Little Piece of Land"
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:16em;"| Video
+! Director
+|-
+| rowspan="3"| 1991
+! scope="row"| "Take Me Back to the Country"
+| rowspan="2"| Bob Burwell
+|-
+! scope="row"| "Keep the Faith"
+|-
+! scope="row"| "Little Piece of Land"
+| Chris Golden
+|}
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Goldens, The}}
+[[Category:Country music groups from Alabama]]
+[[Category:Capitol Records artists]]
+[[Category:American country music duos]]
+[[Category:Epic Records artists]]
+[[Category:Musical groups established in 1987]]
+[[Category:Musical groups disestablished in 1991]]
+[[Category:Sibling musical duos]]

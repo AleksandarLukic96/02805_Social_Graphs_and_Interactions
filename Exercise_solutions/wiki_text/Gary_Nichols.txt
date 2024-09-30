@@ -1,0 +1,81 @@
+{{short description|American country music singer (born 1978)}}
+{{distinguish|Gary Nickels}}
+[[File:Gary Nichols 2023.jpg|thumb]]
+{{Use mdy dates|date=December 2020}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Gary Nichols
+| image               =
+| caption             =
+| image_size          =
+| background          = solo_singer
+| birth_name          =
+| birth_place         =
+| birth_date          = 1978
+| origin              = [[Muscle Shoals, Alabama]], United States
+| instrument          = Vocals<br />acoustic guitar
+| genre               = [[Country music|Country]]
+| occupation          = Singer-songwriter
+| years_active        = 2006–present
+| label               = [[Universal Music Group Nashville|Mercury Nashville]]
+| past_member_of = [[The SteelDrivers]]
+}}
+'''Gary Nichols''' (born 1978 in [[Muscle Shoals, Alabama]]<ref name="cmt">{{cite web |url=http://www.cmt.com/artists/az/nichols__gary__2_/bio.jhtml |archive-url=https://web.archive.org/web/20070717134316/http://www.cmt.com/artists/az/nichols__gary__2_/bio.jhtml |url-status=dead |archive-date=July 17, 2007 |title=Gary Nichols biography |accessdate=June 10, 2008 |work=[[CMT (American TV channel)|CMT]]}}</ref>) is an American [[country music]] singer. Signed to [[Universal Music Group Nashville|Mercury Nashville Records]] in 2006, Nichols made his debut that year with the release of his single "Unbroken Ground", which reached No.&nbsp;39 on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] charts. Following it were the singles "I Can't Love You Anymore" and "Goin' Fast." Nichols never released an album for the label and soon left it.
+
+In April 2010, he replaced [[Chris Stapleton]] as the lead singer and guitarist of [[The SteelDrivers]].<ref>{{cite web|url=http://www.countrystandardtime.com/news/newsitem.asp?xid=3958|title=Gary Nichols named SteelDrivers' new singer|date=April 2, 2010|work=[[Country Standard Time]]|accessdate=September 8, 2010}}</ref>
+
+After seven successful years and leading the band to win its first Grammy, Gary departed in August 2017. He released a solo album titled "Field Of Plenty" on Merrimack Records the same year. The mostly solo album features [[Charlie Musselwhite]] and [[Spooner Oldham]] on some tracks.<ref name="Music Connection">{{cite web |url=https://www.musicconnection.com/music-album-review-gary-nichols-field-plenty-1010/ |title=Album Review – Gary Nichols "Field Of Plenty" (10/10) |accessdate=June 14, 2019 |author=Eric Harabadian}}</ref>
+
+==Discography==
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:16em;"| Single
+! colspan="1"| Peak positions
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]
+|-
+| 2006
+! scope="row"| "Unbroken Ground"
+| 39
+|-
+| rowspan="2"| 2007
+! scope="row"| "I Can't Love You Anymore"
+| 59
+|-
+! scope="row"| "Goin' Fast"
+| —
+|-
+| colspan="3" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:16em;"| Video
+! Director
+|-
+| 2006
+! scope="row"| "Unbroken Ground"
+| [[Paul Boyd (director)|Paul Boyd]]
+|}
+
+===Games===
+*2006: The song "Goin' Fast" was featured in ''[[NASCAR 07]]''.
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Nichols, Gary}}
+[[Category:1978 births]]
+[[Category:American country singer-songwriters]]
+[[Category:Living people]]
+[[Category:People from Muscle Shoals, Alabama]]
+[[Category:Mercury Records artists]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:Country musicians from Alabama]]
+[[Category:Singer-songwriters from Alabama]]

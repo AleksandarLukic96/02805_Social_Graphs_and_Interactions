@@ -1,0 +1,67 @@
+{{Infobox musical artist
+| name            = Crawford/West
+| image           =
+| caption         =
+| image_size      =
+| alias           =
+| origin          = United States
+| genre           = [[Country music|Country]]
+| years_active    = 1997–1998
+| label           = [[Warner Bros. Records|Warner Bros.]]
+| past_members    = Rick Crawford<br />Kenny West
+}}
+'''Crawford/West''' was an American country music duo consisting of Rick Crawford (from [[Texas]]) and Kenny West (from [[Arkansas]]).<ref>[http://www.allbusiness.com/retail-trade/miscellaneous-retail-retail-stores-not/4628761-1.html Country | Entertainment & Arts > Music Industry from AllBusiness.com]</ref> Signed to [[Warner Bros. Records]], they released their first single, "Summertime Girls," in May 1997.<ref>[{{AllMusic|class=album|id=r338580|pure_url=yes}} allmusic ((( Summertime Girls > Overview )))]</ref> The song peaked at No.&nbsp;75 on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles & Tracks]] chart in the United States and No.&nbsp;91 on the ''[[RPM (magazine)|RPM]]'' Country Tracks chart in Canada. A second single, "Healing End," was released in June 1998, but failed to chart.<ref>[{{AllMusic|class=album|id=r439797|pure_url=yes}} allmusic ((( Healing End [CD5/Cassette Single<nowiki>]</nowiki> > Overview )))]</ref> Two months later, the duo requested to be released from their recording contract with Warner Bros.<ref>[http://www.allbusiness.com/services/amusement-recreation-services/4576445-1.html Talent Traffic | Trends & Events > Arts Festivals & Exhibitions from AllBusiness.com]</ref>
+
+==Discography==
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:12em;"| Single
+! colspan="2"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| 1997
+! scope="row"| "Summertime Girls"
+| 75
+| 91
+|-
+| 1998
+! scope="row"| "Healing End"
+| —
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:12em;"| Video
+! Director
+|-
+| 1997
+! scope="row"| "Summertime Girls"
+| 
+|-
+| 1998
+! scope="row"| "Healing End"
+| Jim Shea
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[{{AllMusic|class=artist|id=p30739|pure_url=yes}} allmusic ((( Rick Crawford > Overview )))]
+*[{{AllMusic|class=artist|id=p336784|pure_url=yes}} allmusic ((( Kenny West > Overview )))]
+
+{{DEFAULTSORT:Crawford West}}
+[[Category:American country music duos]]
+[[Category:Musical groups established in 1997]]
+[[Category:Warner Records artists]]
+[[Category:Musical groups disestablished in 1998]]

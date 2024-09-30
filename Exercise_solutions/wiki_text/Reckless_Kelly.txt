@@ -1,0 +1,85 @@
+{{For|the band of the same name|Reckless Kelly (band)}}
+{{Use dmy dates|date=February 2022}}
+{{Infobox film
+| name           = Reckless Kelly
+| image          = Poster of the movie Reckless Kelly.jpg
+| caption        = Theatrical release poster
+| director       = [[Yahoo Serious]]
+| producer       = Yahoo Serious<br />Warwick Ross
+| writer         = {{Nowrap|Yahoo Serious<br />Warwick Ross<br />David Roach<br />[[Lulu Pinkus|Lulu Serious]]}}
+| starring       = {{Nowrap|Yahoo Serious<br />[[Melora Hardin]]<br />[[Alexei Sayle]]<br>[[Hugo Weaving]]}}
+| music          = {{Ubl|Anthony Marinelli|Tommy Tycho<ref name="NYTimes credits">{{cite news|title=Reckless Kelly (1993)|url=https://www.nytimes.com/movies/movie/148793/Reckless-Kelly/credits|archive-url=https://web.archive.org/web/20160307172903/http://www.nytimes.com/movies/movie/148793/Reckless-Kelly/credits|url-status=dead|archive-date=7 March 2016|department=Movies & TV Dept.|work=[[The New York Times]]|date=2016|accessdate=27 October 2015}}</ref>}}
+| cinematography = Kevin Hayward
+| editing        = Lawrence Jordan
+| studio         = Serious Productions
+| distributor    = [[Roadshow Entertainment]]<ref>{{cite web|title=Reckless Kelly-Review|website=Ozmovies|access-date=12 July 2021|url=https://www.ozmovies.com.au/movie/reckless-kelly}}</ref>
+| released       = {{Film date|1993|04|08|df=y}}
+| runtime        = 103 minutes
+| country        = Australia
+| language       = English
+| budget         = A$20 million (est.)<ref name="andrew">Andrew L. Urban, "Yahoo Serious: Reckless Kelly", ''Cinema Papers'', April 1993 p31-35, 72</ref>
+| gross          = A$5.4 million
+}}
+'''''Reckless Kelly''''' is a 1993 Australian [[comedy film]] produced, written, directed and starring [[Yahoo Serious]]. It co-stars [[Melora Hardin]], [[Alexei Sayle]] and [[Hugo Weaving]]. The story is a [[Satire|satirical]] take on a modern-day [[Ned Kelly]], a famous Australian outlaw.
+
+== Synopsis ==
+A modern-day [[Ned Kelly]] robs banks in Australia and gives all the money to the poor people. Ned is forced to go to [[Hollywood, Los Angeles|Hollywood]] to make enough money to save his family's land. As it goes against his belief, he cannot simply rob banks there for his own benefit. Ned is forced to find another way to come up with the $1 million required to save his family island. That is when a movie producer shows up and gives Ned an offer he cannot refuse.
+
+== Cast ==
+* [[Yahoo Serious]] ... Ned Kelly
+* [[Melora Hardin]] ... Robin Banks
+* [[Alexei Sayle]] ... Major Wib
+* [[Hugo Weaving]] ... Sir John
+* [[Kathleen Freeman]] ... Mrs. Delance
+* [[John Pinette]] ... Sam Delance
+* [[Bob Maza]] ... Dan Kelly
+* [[Martin Ferrero]] ... Ernie the Fan
+* [[Anthony Ackroyd]] ... Joe Kelly
+* [[Max Walker]] ... Newsreader
+* [[Willie Fennell]] ... Mr. Arnold
+* [[Tracy Mann]] ... Miss Twisty
+* [[Tyler Coppin]] ... Hollywood Bank Teller
+
+== Production ==
+The film was financed by Warner Bros, Village Roadshow and the Australian [[Film Finance Corporation]]. Serious used many of the same key creatives he had on ''[[Young Einstein]]''.<ref name="andrew"/>
+
+== Reception ==
+Neil Jillett, film critic for ''[[The Age]]'' wrote, "There are some good gags along the way, and a few of the plot's twists have an entertainingly surreal zaniness. But there is much heavy going too. Most of the messages Serious loads into the film—protect the environment, hate violence and banks, mock the British, go for a republic, sneer at American fads and religious hypocrisy—are presented with a smugness that was missing from ''Young Einstein''".<ref>{{Cite news|url=https://www.newspapers.com/image/126085980/?terms=%22%22reckless%2Bkelly%22%2Bjillett|title=This Is Serious, Ned|last=Jillett|first=Neil|date=15 April 1993|work=The Age|access-date=6 January 2017|via=Newspapers.com}}</ref>
+
+== Box office ==
+''Reckless Kelly'' opened at [[List of 1993 box office number-one films in Australia|number one at the Australian box office]] with a gross of $2,036,224.<ref>{{cite magazine|magazine=[[Variety (magazine)|Variety]]|page=34|date=19 April 1993|title=International box office|quote=$1,466,081; $A1=$0.72}}</ref> It remained at number one for a second week and went on to gross $5,444,534 at the Australian box office.<ref>{{Cite web |url=http://film.vic.gov.au/resources/documents/AA4_Aust_Box_office_report.pdf |title=''Film Victoria – Australian Films at the Australian Box Office'' |access-date=23 November 2010 |archive-date=18 February 2011 |archive-url=https://web.archive.org/web/20110218045303/http://film.vic.gov.au/resources/documents/AA4_Aust_Box_office_report.pdf |url-status=dead }}</ref><ref>{{cite magazine|magazine=[[Variety (magazine)|Variety]]|page=38|date=26 April 1993|title=International box office}}</ref>
+
+== In popular culture ==
+* Australian rock duo [[Divinyls]] covered the song [[Wild Thing (The Troggs song)|"Wild Thing"]] in 1993 for the soundtrack to the film. It peaked at No. 39 on the [[Australian Singles Chart]].<ref>{{cite web|author=Steffen Hung |url=http://australian-charts.com/showitem.asp?interpret=Divinyls&titel=Wild+Thing&cat=s |title=Divinyls – Wild Thing |publisher=australian-charts.com |date= |accessdate=2 February 2014}}</ref>
+
+== See also ==
+* [[Cinema of Australia]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{IMDb title|id=0107930|title=Reckless Kelly}}
+* {{Mojo title|recklesskelly}}
+*[http://www.ozmovies.com.au/movie/reckless-kelly ''Reckless Kelly''] at Oz Movies
+* {{rotten-tomatoes|reckless_kelly}}
+* {{Internet Archive film|id=reckless-kelly-1993}}
+* [http://colsearch.nfsa.afc.gov.au/nfsa/search/display/display.w3p;adv=yes;group=;groupequals=;holdingType=;page=0;parentid=;query=Number%3A225728;querytype=;rec=0;resCount=10 RECKLESS KELLY : 1ST RE-CUT VERSION] (Australian video release) at the National Film and Sound Archive
+*[http://colsearch.nfsa.afc.gov.au/nfsa/search/display/display.w3p;adv=yes;group=;groupequals=;holdingType=;page=0;parentid=;query=Number%3A541676;querytype=;rec=0;resCount=10 RECKLESS KELLY : 2ND RE-CUT VERSION] (U.S.A. film release) at the National Film and Sound Archive
+
+{{Ned Kelly}}
+
+[[Category:1993 films]]
+[[Category:Australian Western (genre) comedy films]]
+[[Category:Australian satirical films]]
+[[Category:1990s English-language films]]
+[[Category:Films set in Los Angeles]]
+[[Category:Films shot in Australia]]
+[[Category:1993 comedy films]]
+[[Category:Films scored by Anthony Marinelli]]
+[[Category:Warner Bros. films]]
+[[Category:Cultural depictions of Ned Kelly]]
+[[Category:Films directed by Yahoo Serious]]
+[[Category:1990s Australian films]]
+[[Category:Ned Kelly]]
+[[Category:English-language Western (genre) comedy films]]

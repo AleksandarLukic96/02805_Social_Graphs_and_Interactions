@@ -1,0 +1,389 @@
+{{Short description|American country music singer-songwriter (1932–2023)}}
+{{Use mdy dates|date=January 2020}}
+{{Infobox musical artist
+| name              = Claude Gray
+| image             = Claude Gray.png
+| caption           = Gray in 1967
+| image_size        = 250px
+| birth_name        = Claude Gray Jr.
+| birth_date        = {{birth date|1932|1|25}}
+| birth_place       = [[Henderson, Texas]], U.S.
+| death_date        = {{death date and age|2023|4|28|1932|1|25}}
+| death_place       = [[Skokie, Illinois]], U.S.
+| instrument        = Vocals, guitar
+| genre             = [[Country music|Country]]
+| occupation        = Singer-songwriter
+| years_active      = 1959–2023
+| label             = [[Mercury Records|Mercury]]
+| website           = [http://claudegray.weebly.com Claude Gray Official Website]
+}}
+
+'''Claude Gray Jr.''' (January 25, 1932 – April 28, 2023), nicknamed "'''The Tall Texan'''", was an American [[country music]] singer-songwriter and guitar picker best known for his 1960 hit "[[Family Bible (song)|Family Bible]]", which has been covered by many different artists. Gray's other hit, "I'll Just Have a Cup of Coffee (Then I'll Go)", was covered and rearranged by [[Jamaicans|Jamaican]] [[reggae]] singer-songwriter [[Bob Marley]], who retitled the song as "One Cup Of Coffee".
+
+Alongside artists such as [[Ray Price (musician)|Ray Price]], [[Jim Reeves]], [[Eddy Arnold]], [[Don Gibson]] and [[Chet Atkins]], Gray was a purveyor of the [[Nashville sound]], embracing the [[Countrypolitan]] movement which paved the way for pop-oriented singers in country music and attracted new audiences to the genre.
+
+==Early life==
+Gray was born in [[Henderson, Texas]], on January 25, 1932,<ref>{{cite web |url=http://www.foxnews.com/wires/2009Jan25/0,4670,History,00.html |title=Today in History – Jan. 25 |publisher=[[Fox News Channel]] |date=January 25, 2009}}</ref><ref name="LarkinGE">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Encyclopedia of Popular Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1992|edition=First|isbn=0-85112-939-0|page=1019}}</ref> where he started his singing career while attending high school.<ref name="LarkinGE"/> After school, he served in the [[United States Navy]] from 1950 to 1954. Upon his return to home, he worked as a salesman for the rest of the decade. He began a recording career in 1959, after working as a radio announcer in [[Kilgore, Texas]], and performing as a disc jockey in [[Meridian, Mississippi]].<ref name="all">{{cite web |url= {{AllMusic|class=artist|id=p24363/biography|pure_url=yes}} |title=Claude Gray |last=Brennan |first=Sandra |website=[[AllMusic]] }}</ref>
+
+==Career==
+Gray was approached by D Records in 1959, and recorded "I'm Not Supposed", which was released as his first single. The song made the Cashbox country charts.<ref name="all"/> The following year, Gray and two friends purchased the song "[[Family Bible (song)|Family Bible]]" from [[Willie Nelson]]<ref name="Mohave">{{Cite news |url=https://news.google.com/newspapers?id=OX0LAAAAIBAJ&sjid=eVMDAAAAIBAJ&pg=5213,4246602&dq=claude-gray |title=Country music show to be one-night stand |first=Jo |last=Gray |newspaper=Mohave Daily Miner |date=June 7, 1988 |postscript=<!--None--> }}</ref> for $100.<ref>{{cite web |url=https://www.npr.org/templates/story/story.php?storyId=90066047 |first=Ed |last=Ward |title=Willie Nelson: The Songwriter at 75 |publisher=NPR |date=April 30, 2008 }}</ref> Gray then recorded the song, and released it as a single.<ref name="all"/> It peaked at No.&nbsp;10 on the country chart.<ref name="LarkinGE"/> In 1961, "I'll Just Have a Cup of Coffee (Then I'll Go)", was released, which peaked at No.&nbsp;4, and was followed by the biggest hit of Gray's career, the No.&nbsp;3 "My Ears Should Burn (When Fools Are Talked About)", which was penned by [[Roger Miller]].<ref name="LarkinGE"/> Gray's final top ten hit came in 1967 with "I Never Had the One I Wanted", which was also his final charted song upon re-release in 1979.<ref name="chart">{{cite web |url={{AllMusic|class=artist|id=p24363/charts-awards/billboard-singles|pure_url=yes}} |title=Claude Gray > Charts & Awards > Billboard Singles |publisher=[[AllMusic]] }}</ref>
+
+In the late 1970s, Gray co-wrote with Walt Breeland, a controversial song titled "The Ballad of Jimmy Hoffa". Gray's record label at the time ([[Mercury Records]]) refused to allow him to record the song, but he eventually recorded it for Ol' Podner Records, who subsequently released it directly to the [[Teamsters]].<ref name="all"/> In 1986, he released a cover of [[Neil Diamond]]'s "[[Sweet Caroline]]".<ref name="all"/>
+
+Gray continued to tour with The Claude Gray Roadshow, performing shows throughout North America and in parts of Europe, where classic country music remains popular.{{citation needed|date=April 2023}}
+
+==Personal life and death==
+Gray was {{convert|6|ft|5|in|m|2}} and because of his height, was given the moniker, "The Tall Texan."<ref name="all"/>
+
+On April 18, 2023, a social media post shared by a Gray family friend, stated that Gray had entered [[hospice]] care after the discovery of a large tumor on his brain, leaving him non-cognitive.<ref>{{Cite web |title=My Kind Of Country Music (Radio Station) |url=https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fmykindofcountrymusic |access-date=2023-04-18 |website=Facebook |language=en}}</ref> He died in [[Skokie, Illinois]], on April 28, 2023, at the age of 91.<ref name="Crawford obit">{{cite web |title=Mr. Claude Gray Jr.|url=https://www.crawfordacrim.com/obituaries/Claude-Gray-2/#!/Obituary |website=Crawford-A.Crim Funeral Home|access-date=April 29, 2023|date=April 29, 2023}}</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable"
+! Year
+! Album
+! <small>[[Top Country Albums|US Country]]</small>
+! Label
+|-
+| 1961
+| ''Songs of Broken Love Affairs''
+| 
+| rowspan="2"| Mercury
+|-
+| 1962
+| ''Country Goes to Town''
+| 
+|-
+| 1967
+| ''Claude Gray Sings''
+| align="center"| 45
+| rowspan="2"| Decca
+|-
+| rowspan="2"| 1968
+| ''Easy Way''
+| 
+|-
+| ''Treasure of Love''
+| 
+| Hilltop
+|-
+| 1972
+| ''Presenting''
+| 
+| Million
+|-
+|}
+
+===Singles===
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="3"| Chart Positions
+! rowspan="2"| Album
+|-
+! width="45"| <small>[[Hot Country Songs|US Country]]</small>
+! width="45"| <small>[[Billboard Hot 100|US]]</small>
+! width="45"| <small>CAN Country</small>
+|-
+| rowspan="2"| 1958
+| "My Tears Are Inside"
+| 
+| 
+| 
+| rowspan="7"| singles only
+|-
+| "Late Again"
+| 
+| 
+| 
+|-
+| rowspan="2"| 1959
+| "I'm Not Supposed"
+| 
+| 
+| 
+|-
+| "Best Part of Me"
+| 
+| 
+| 
+|-
+| rowspan="3"| 1960
+| "[[Family Bible (song)|Family Bible]]"
+| align="center"| 10
+| 
+| 
+|-
+| "[[My Party's Over]]"
+| 
+| 
+| 
+|-
+| "Homecoming in Heaven"
+| 
+| 
+| 
+|-
+| rowspan="2"| 1961
+| "I'll Just Have a Cup of Coffee (Then I'll Go)"
+| align="center"| 4
+| align="center"| 84
+| 
+| rowspan="2"| ''Songs of Broken Love Affairs''
+|-
+| "My Ears Should Burn (When Fools Are Talked About)"
+| align="center"| 3
+| 
+| 
+|-
+| rowspan="3"| 1962
+| "Let's End It Before It Begins"
+| align="center"| 26
+| 
+| 
+| rowspan="11"| singles only
+|-
+| "You Take the Table (And I'll Take the Chairs)"
+| 
+| 
+| 
+|-
+| "Daddy Stopped In"
+| align="center"| 20
+| 
+| 
+|-
+| rowspan="3"| 1963
+| "Knock Again, True Love"
+| align="center"| 18
+| 
+| 
+|-
+| "First Love Never Dies"
+| 
+| 
+| 
+|-
+| "I'm Gonna Lie Again"
+| 
+| 
+| 
+|-
+| rowspan="2"| 1964
+| "Eight Years (And Two Children Later)"
+| align="center"| 43
+| 
+| 
+|-
+| "Too Many Rivers"
+| 
+| 
+| 
+|-
+| rowspan="2"| 1965
+| "Kinderhook Bill"
+| 
+| 
+| 
+|-
+| "Thank You for the Ride"
+| 
+| 
+| 
+|-
+| rowspan="2"| 1966
+| "Mean Old Woman"
+| align="center"| 22
+| 
+| 
+|-
+| "I Never Had the One I Wanted"
+| align="center"| 9
+| 
+| 
+| ''Claude Gray Sings''
+|-
+| rowspan="3"| 1967
+| "Because of Him"
+| align="center"| 45
+| 
+| 
+| rowspan="2"| ''Easy Way''
+|-
+| "If I Ever Need a Lady (I'll Call You)"
+| align="center"| 67
+| 
+| 
+|-
+| "How Fast Them Trucks Can Go"
+| align="center"| 12
+| 
+| 
+| ''Claude Gray Sings''
+|-
+| rowspan="3"| 1968
+| "Your Devil Memory"
+| 
+| 
+| 
+| rowspan="2"| ''Easy Way''
+|-
+| "Night Life"
+| align="center"| 31
+| 
+| align="center"| 25
+|-
+| "The Love of a Woman"
+| align="center"| 68
+| 
+| 
+| single only
+|-
+| rowspan="2"| 1969
+| "Don't Give Me a Chance"
+| align="center"| 41
+| 
+| 
+| ''Easy Way''
+|-
+| "Take Off Time"
+| align="center"| 34
+| 
+| 
+| rowspan="5"| singles only
+|-
+| rowspan="2"| 1970
+| "The Cleanest Man in Cincinnati"
+| align="center"| 54
+| 
+| 
+|-
+| "Everything Will Be Alright"
+| align="center"| 40
+| 
+| align="center"| 27
+|-
+| rowspan="2"| 1971
+| "Angel"
+| align="center"| 41
+| 
+| 
+|-
+| "Baton Rouge"
+| 
+| 
+| 
+|-
+| rowspan="2"| 1972
+| "Jeannie"
+| 
+| 
+| 
+| rowspan="4"| ''Presenting''
+|-
+| "What Every Woman Wants to Hear"
+| align="center"| 66
+| 
+| 
+|-
+| rowspan="2"| 1973
+| "Woman Ease My Mind"
+| align="center"| 58
+| 
+| 
+|-
+| "Loving You Is a Habit I Can't Break"
+| 
+| 
+| 
+|-
+| 1976
+| "Rockin' My Memories (To Sleep)"
+| align="center"| 88
+| 
+| 
+| rowspan="4"| singles only
+|-
+| rowspan="2"| 1977
+| "We Fell in Love That Way"
+| align="center"| 92
+| 
+| 
+|-
+| "It'll Do"
+| 
+| 
+| 
+|-
+| rowspan="2"| 1978
+| "Slow Dancing"
+| 
+| 
+| 
+|-
+| "If I Ever Need a Lady" <small>(re-recording)</small>
+| align="center"| 68
+| 
+| 
+| rowspan="2"| ''If I Ever Need a Lady''
+|-
+| rowspan="3"| 1979
+| "I Never Had the One I Wanted" <small>(re-recording)</small>
+| align="center"| 78
+| 
+| 
+|-
+| "How Fast Them Trucks Can Go"
+| 
+| 
+| 
+| rowspan="7"|singles only
+|-
+| "It Ain't the Wakin' Up"
+| 
+| 
+| 
+|-
+| rowspan="2"| 1981
+| "Every Night Sensation"
+| 
+| 
+| 
+|-
+| "He's Just an Illusion"
+| 
+| 
+| 
+|-
+| rowspan="2"| 1982
+| "Let's Go All the Way" <small>(w/ [[Norma Jean (singer)|Norma Jean]])</small>
+| align="center"| 68
+| 
+| 
+|-
+| "Who Sent My Ex to Texas"
+| 
+| 
+| 
+|-
+| 1986
+| "[[Sweet Caroline]]"
+| align="center"| 77
+| 
+| 
+|}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gray, Claude}}
+[[Category:1932 births]]
+[[Category:2023 deaths]]
+[[Category:American country singer-songwriters]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:People from Henderson, Texas]]
+[[Category:Gold Star Records artists]]
+[[Category:Mercury Records artists]]
+[[Category:Country musicians from Texas]]

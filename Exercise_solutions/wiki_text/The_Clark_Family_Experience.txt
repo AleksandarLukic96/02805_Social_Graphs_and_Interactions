@@ -1,0 +1,197 @@
+{{Short description|American country music band}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name               = The Clark Family Experience
+| image              = 
+| caption            = 
+| image_size         = 
+| background         = group_or_band
+| origin             = [[Rocky Mount, Virginia]], U.S.
+| genre              = [[country music|Country]]
+| years_active       = 2000–2002
+| label              = [[Curb Records|Curb]]
+| spinoffs = [[Sons of Sylvia]]
+| past_members       = Aaron Clark<br />Adam Clark<br />Alan Clark<br />Andrew Clark<br />Ashley Clark<br />Austin Clark
+}}
+'''The Clark Family Experience''' was an American [[country music]] band composed of six brothers, all with the surname Clark: Alan ([[guitar]], [[Singing|vocals]]), Aaron ([[bass guitar]], vocals), Adam ([[mandolin]], vocals), Ashley ([[fiddle]]), Andrew ([[Drum kit|drums]]), and Austin ([[lap steel guitar]], [[Keyboard instrument|keyboards]]), all natives of the state of [[Virginia]].
+
+Signed to [[Curb Records]] in 2000, The Clark Family Experience debuted on the American country music scene that year with the release of their single "[[Meanwhile Back at the Ranch]]". A Top 20 hit on the ''[[Billboard (magazine)|Billboard]]'' Hot Country Singles & Tracks (now [[Hot Country Songs]]) charts, the song also became the thirteenth highest-selling single in the history of country music at the time. "Meanwhile Back at the Ranch" was the first of four chart singles from their [[The Clark Family Experience (album)|self-titled debut album]], released in 2001. Due to a series of financial problems, however, the band declared [[bankruptcy]] and disbanded later that year.
+
+In 2007, Adam, Ashley, and Austin reunited as The Clark Brothers and won the [[Fox Networks]] talent show ''[[The Next Great American Band]]'' that year. The Clark Brothers has since been renamed [[Sons of Sylvia]].
+
+==Biography==
+The six members of The Clark Family Experience — Aaron, Adam, Alan, Andrew, Ashley and Austin — are part of a musically inclined family that comprises the eleven children of Freddy and Sylvia Clark. All six boys first performed professionally in 1993, eventually assuming the name The Clark Family Experience.<ref name="allmusic">{{cite web |url={{AllMusic|class=artist|id=p454434|pure_url=yes}} |title=The Clark Family Experience Biography |accessdate=2007-12-27 |last=Wilson |first=MacKenzie |work=[[Allmusic]]}}</ref>
+
+The band was signed as "series regulars" on [[The Oak Ridge Boys]]' 1998 television show on [[The Nashville Network]], ''Live From Las Vegas.'' The show aired 15 episodes, and although just a modest success, it introduced the band to a nationwide audience.
+
+[[Curb Records]] signed The Clark Family Experience to a recording contract in 2000. The band also served as an opening act for several country musicians, including [[Faith Hill]] and [[Tim McGraw]]. McGraw also co-produced The Clark Family Experience's self-titled debut album, which was released on February 27, 2001.<ref>{{cite magazine|url=https://worldradiohistory.com/Archive-All-Music/Billboard/00s/2001/BB-2001-01-27.pdf|title=Popular Uprisings|magazine=[[Billboard (magazine)|Billboard]]|date=January 27, 2001}}</ref> The album produced a total of four singles on the ''[[Billboard (magazine)|Billboard]]'' country music charts, including "[[Meanwhile Back at the Ranch]]", which soon became a Top 20 hit on the Hot Country Singles & Tracks (now [[Hot Country Songs]]) charts, as well as the thirteenth highest-selling single in the history of country music at the time.<ref name="allmusic"/> The album's second single, "Standin' Still", peaked at No.&nbsp;36, while the third and fourth singles both failed to reach Top 40.
+
+===Bankruptcy===
+A year after the release of their debut album, The Clark Family Experience filed for [[Chapter 7 bankruptcy]].<ref>{{cite web |url=http://www.cmt.com/artists/news/1455008/20020605/clark_family_experience.jhtml |title=Clark Family Experiences Bankruptcy |accessdate=2007-12-27 |date=2002-06-05 |work=[[Country Music Television|CMT]]}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref> The band owed more than $800,000 in debt to Curb, citing mismanagement and unfair contracts from the label as the reasons for their debt.<ref name="ten">{{cite web |url=http://www.tennessean.com/business/archives/03/08/38047098.shtml |archive-url=https://archive.today/20130203165410/http://www.tennessean.com/business/archives/03/08/38047098.shtml |url-status=dead |archive-date=2013-02-03 |title=Clark Family Experience cuts ties with Curb Records |accessdate=2007-12-27 |last=Naujeck |first=Jeanne A. |date=2003-08-22 |work=The Tennessean}}</ref>
+
+Curb then attempted to dismiss the Clark brothers' bankruptcies, claiming that the band was trying to exit its contract.<ref name="ten"/> In addition, the label tried to seek an injunction to keep the band from recording for any other label. By August 2003, the label had dropped the suit.<ref>{{cite web |url=http://www.cmt.com/artists/news/1477132/20030821/clark_family_experience.jhtml |title=Curb Drops Clark Family Suit |accessdate=2007-12-27 |date=2003-08-21 |work=[[Country Music Television|CMT]]}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref> The Clark Family Experience disbanded soon afterward. Adam, Ashley, and Austin reunited in 2008 as The Clark Brothers and won the TV competition ''[[The Next Great American Band]]'' that year. In 2009, this trio changed its name to [[Sons of Sylvia]].
+
+== ''The Clark Family Experience'' (2001)==
+{{Infobox album
+| italic_title = no
+| name         = The Clark Family Experience
+| type         = studio
+| artist       = The Clark Family Experience
+| cover        = Clarkfamilyexp.jpg
+| alt          = 
+| released     = {{start date|2001|02|27}}
+| recorded     = 
+| venue        = 
+| studio       = 
+| genre        = Country
+| length       = 
+| label        = Curb
+| producer     = [[Byron Gallimore]] and [[Tim McGraw]]
+| prev_title   = 
+| prev_year    = 
+| next_title   = 
+| next_year    = 
+}}
+
+===Track listing===
+
+{{Track listing
+| collapsed       =
+| headline        = 
+| total length    =
+
+| title1          = Going Away 
+| writer1         = Ashley Clark 
+| length1         = 3:51
+
+| title2          = Because 
+| writer2         = [[Keith Follesé]], Dennis Matkosky 
+| length2         = 3:45
+
+| title3          = It'll Always Be You 
+| writer3         = Don Sampson, [[Randy VanWarmer]] 
+| length3         = 3:21
+
+| title4          = Standin' Still 
+| writer4         = [[Robin Lee (singer)|Robin Lee Bruce]], Christi Dannemiller, Camille Harrison
+| length4         = 3:23
+
+| title5          = When I Look at You 
+| writer5         = Alan Clark, Philip Douglas, Tony Marty 
+| length5         = 3:19
+
+| title6          = Tell Me What You Wanna Do 
+| writer6         = Steve Bogard, [[Marv Green]], Bill Luther
+| length6         = 3:21
+
+| title7          = [[Meanwhile Back at the Ranch]]
+| writer7         = [[Wayne Kirkpatrick]], [[Gordon Kennedy (musician)|Gordon Kennedy]] 
+| length7         = 2:59
+
+| title8          = Just Emily 
+| writer8         = Bruce, Bill Decker 
+| length8         = 3:41
+
+| title9          = You Were Smilin' 
+| writer9         = [[Holly Lamar]], Jess Leary 
+| length9         = 4:11
+
+| title10         = To Quote Shakespeare 
+| writer10        = Greg Barnhill, Lamar 
+| length10        = 3:57
+}}
+
+===Personnel===
+
+====The Clark Family Experience====
+* Aaron Clark - bass guitar, [[upright bass]], vocals
+* Adam Clark - bass guitar, [[mandolin]], electric guitar, vocals
+* Alan Clark - acoustic guitar, harmonica, vocals
+* Andrew Clark - drums
+* Ashley Clark - [[fiddle]], acoustic guitar
+* Austin Clark - [[Dobro]], acoustic guitar, piano
+
+====Additional musicians====
+* Mike Brignardello - bass guitar
+* [[Larry Byrom]] - acoustic guitar
+* [[Dan Dugmore]] - [[pedal steel guitar]]
+* [[Paul Franklin (musician)|Paul Franklin]] - pedal steel guitar
+* [[Aubrey Haynie]] - fiddle
+* [[Michael Landau]] - electric guitar
+* B. James Lowry - electric guitar
+* [[Brent Mason]] - electric guitar
+* Steve Nathan - keyboards
+* [[Biff Watson]] - acoustic guitar
+* [[Lonnie Wilson]] - drums
+* [[Glenn Worf]] - bass guitar
+
+===Chart performance===
+{| class="wikitable plainrowheaders"
+!Chart (2002)
+!Peak<br/>position
+|-
+{{album chart|BillboardCountry|68|artist=The Clark Family Experience|album=The Clark Family Experience|rowheader=true|accessdate=October 29, 2019}}
+|}
+
+=== Singles ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! colspan="2"| Peak positions
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<br><ref name="Country Songs">{{cite magazine|url=https://www.billboard.com/music/the-clark-family-experience/chart-history/country-songs|archive-url=https://web.archive.org/web/20191030055843/https://www.billboard.com/music/the-clark-family-experience/chart-history/country-songs|url-status=dead|archive-date=October 30, 2019|title=The Clark Family Experience - Hot Country Songs|magazine=Billboard|accessdate=October 29, 2019}}</ref>
+! width="45"| [[Billboard Hot 100|US]]<br><ref>{{cite magazine|url=https://www.billboard.com/music/the-clark-family-experience/chart-history/hot-100|archive-url=https://web.archive.org/web/20191030055830/https://www.billboard.com/music/the-clark-family-experience/chart-history/hot-100|url-status=dead|archive-date=October 30, 2019|title=The Clark Family Experience - Hot 100|magazine=Billboard|accessdate=October 29, 2019}}</ref>
+|-
+| 2000
+! scope="row"| "[[Meanwhile Back at the Ranch]]"<sup>{{anchor|ref_A}}[[#endnote_A|'''[A]''']]</sup>
+| 18
+| 80
+|- 
+| rowspan="2"| 2001
+! scope="row"| "Standin' Still"
+| 34
+| —
+|-
+! scope="row"| "To Quote Shakespeare"
+| 51
+| —
+|- 
+| 2002
+! scope="row"| "Going Away"
+| 44
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+{{refbegin}}
+;Notes
+*A{{anchor|endnote_A}}'''[[#ref_A|^]]''' "Meanwhile Back at the Ranch" reached number 39 on the ''[[RPM (magazine)|RPM]]'' Country Tracks chart on November 6, 2000, when ''RPM'' ceased publication.<ref>{{cite journal|url=http://www.bac-lac.gc.ca/eng/discover/films-videos-sound-recordings/rpm/Pages/image.aspx?Image=nlc008388.7268&URLjpg=http%3a%2f%2fwww.collectionscanada.gc.ca%2fobj%2f028020%2ff4%2fnlc008388.7268.gif&Ecopy=nlc008388.7268&|title=Country 100|journal=[[RPM (magazine)|RPM]]|date=November 6, 2000}}</ref>
+{{refend}}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:18em;"| Video
+|-
+| 2000
+| scope="row" | "Meanwhile Back at the Ranch"
+|-
+| 2002
+| scope="row" | "Going Away"
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Clark Family Experience}}
+[[Category:Country music groups from Virginia]]
+[[Category:Musical groups from Virginia]]
+[[Category:Curb Records artists]]
+[[Category:Musical groups established in 2000]]
+[[Category:Musical groups disestablished in 2002]]
+[[Category:Companies that filed for Chapter 7 bankruptcy in 2002]]
+[[Category:Companies that have filed for Chapter 7 bankruptcy]]

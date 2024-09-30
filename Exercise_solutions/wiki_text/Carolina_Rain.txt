@@ -1,0 +1,107 @@
+{{Short description|American country music group}}
+{{Use mdy dates|date=February 2013}}
+{{Infobox musical artist
+| name            = Carolina Rain
+| image           =
+| caption         =
+| genre           = [[Country music|Country]]
+| image_size      = 200
+| origin          = [[Nashville, Tennessee]], U.S.
+| years_active    = 2003–2009
+| label           = [[Equity Music Group]]
+| current_members = {{hlist|Jeremy Baxter|Rhean Boyer|Marvin Evatt}}
+}}
+'''Carolina Rain''' was an American [[country music]] group composed of Jeremy Baxter ([[tenor]] vocals, [[mandolin]]), Rhean Boyer (lead vocals, guitar), and Marvin Evatt ([[baritone]] vocals, guitar, [[banjo]]). Founded in 2003, the band was signed in 2004 as the first act on [[Equity Music Group]], an [[independent record label]] owned by country music artist [[Clint Black]]. Carolina Rain has released one studio album (2006's ''[[Weather the Storm]]'') and has charted five singles on the U.S. ''Billboard'' [[Hot Country Songs]] charts. Two more singles were released in 2008 before Equity closed.
+In April 2019, Marvin Evatt released his debut EP titled Songs from the Boat
+
+==Music career==
+===''Weather the Storm''===
+In 2004, Carolina Rain signed to [[Equity Music Group]], a label formed by [[Clint Black]]. The band was the first act signed to the label besides Black himself.<ref name="allmusic">{{cite web |url={{Allmusic|class=artist|id=p684671/biography|pure_url=yes}} |title=Carolina Rain biography |accessdate=2008-01-07 |last=Leggett |first=Steve |work=[[Allmusic]]}}</ref> Carolina Rain released its debut single, "I Ain't Scared", which reached No.&nbsp;41 on the U.S. ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] chart. Following it were two additional singles, "Louisiana Love", and "Let's Get It On". "Louisiana Love" failed to chart, and "Let's Get It On" reached No.&nbsp;57. However, those songs were never included on an album. Then in 2006, the group released "Get Outta My Way". Co-written by [[Robert Ellis Orrall]] and [[Curtis Wright]], this song became their first Top 40 country hit, peaking at No.&nbsp;28. After its release came their debut album ''[[Weather the Storm]]'',<ref name="allmusic"/> which also included "I Ain't Scared". After "Get Outta My Way" came their highest-charting single in the No.&nbsp;26 "Isn't She",<ref name="whitburn">{{cite book | title=Joel Whitburn's Top Country singles 1944-2017 | author=Joel Whitburn | authorlink=Joel Whitburn | year=2017 | pages=71 | isbn=978-0-89820-229-8}}</ref> followed by the non-charting "Dealin'".<ref>{{cite news | url=https://www.newspapers.com/image/278340934/ | title=5 questions with Carolina Rain | work=[[The Tennessean]] | date=September 13, 2007 | accessdate=January 26, 2018 | author=Heather Byrd | pages=17}}</ref>
+
+===''American Radio''===
+In late 2008, the group released a new single titled "American Radio". The single intended to be the lead-off to a second studio album of the same name. The song reached No.&nbsp;53 on the country charts a few weeks after its release. A second single from the album, "Weight of the World" was released, but Equity closed in December 2008.
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:12em;"| Title
+! rowspan="2" style="width:20em;"| Album details
+! colspan="1"| Peak positions
+|- style="font-size:smaller;"
+! width="60"| [[Top Country Albums|US Country]]<br><ref>{{cite magazine|url={{BillboardURLbyName|artist=carolina rain|chart=Country Albums C}}|title=Carolina Rain Album & Song Chart History – Country Albums|magazine=[[Billboard (magazine)|Billboard]]|accessdate=September 21, 2010}}</ref>
+|-
+! scope="row"| ''[[Weather the Storm]]''
+| 
+* Release date: September 19, 2006
+* Label: [[Equity Music Group]]
+| 60
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:12em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="60"| [[Hot Country Songs|US Country]]<br><ref name="whitburn"/>
+|-
+| 2004
+! scope="row"| "I Ain't Scared"
+| 41
+| align="left"| ''Weather the Storm''
+|-
+| rowspan="2"| 2005
+! scope="row"| "Louisiana Love"<ref>{{cite web | url=https://www.americanradiohistory.com/Archive-Billboard/Billboard-Airplay/2005/BBAM-2005-04-08.pdf | title=New Music Weekly: For the week of April 11 | work=Billboard Radio Monitor | date=April 8, 2005 | accessdate=January 26, 2019 | pages=7}}</ref>
+| —
+| rowspan="2" {{n/a}}
+|-
+! scope="row"| "Let's Get It On"
+| 57
+|-
+| 2006
+! scope="row"| "Get Outta My Way"
+| 28
+| align="left" rowspan="3"| ''Weather the Storm''
+|-
+| rowspan="2"| 2007
+! scope="row"| "Isn't She"
+| 26
+|-
+! scope="row"| "Dealin'"
+| —
+|-
+| rowspan="2"| 2008
+! scope="row"| "American Radio"
+| 53
+| align="left" rowspan="2" {{n/a}}
+|-
+! scope="row"| "Weight of the World"<ref>{{cite web | url=http://roughstock.com/news/2008/10/21411-carolina-rain-weight-of-the-world | title='Weight of the World' review | work=Roughstock | date=October 23, 2008 | accessdate=January 26, 2019 | author=Jaime Marconette}}</ref>
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:12em;"| Video
+! Director
+|-
+| 2006
+! scope="row"| "Get Outta My Way"
+| Sam Erickson
+|}
+
+==References==
+{{reflist}}
+{{Authority control}}
+
+[[Category:Country music groups from Tennessee]]
+[[Category:Vocal trios]]
+[[Category:Musical groups established in 2003]]
+[[Category:Equity Music Group artists]]
+[[Category:Musical groups disestablished in 2009]]

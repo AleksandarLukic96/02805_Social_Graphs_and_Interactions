@@ -1,0 +1,154 @@
+{{Short description|American country music duo}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Orrall & Wright
+| image                 = 
+| caption            = 
+| image_size            = 
+| background          = group_or_band
+| origin              = [[United States]]
+| genre               = [[Country music|Country]]
+| years_active        = 1994
+| label               = [[Giant Records (Warner Bros. subsidiary label)|Giant]]
+| past_members        = [[Robert Ellis Orrall]]<br />[[Curtis Wright]]
+}}
+'''Orrall & Wright''' was an American [[country music]] duo composed of [[Robert Ellis Orrall]] and [[Curtis Wright]]. Both members had recorded solo albums and had charted singles of their own prior to Orrall & Wright's inception. As Orrall & Wright, they charted two more singles and recorded a self-titled album on the [[Giant Records (Warner Bros. subsidiary label)|Giant]] label.
+
+Unlike most other country music duos present at the time, Orrall & Wright's members shared lead vocals on every song that they recorded.<ref>{{cite journal |last=Simons |first=David |date=July 1994 |title=New Traditions: Orrall & Wright |journal=New Country |volume=1 |issue=5 |pages=16 |issn=1074-536X}}</ref> Although active for only one year, they received a Duo of the Year nomination from the [[Country Music Association]].<ref>{{cite web |url=http://www.peermusic.com/artistpage/Robert_Ellis_Orrall.html |title=Robert Ellis Orrall |accessdate=2008-01-04 |work=Peer Music |archiveurl = https://web.archive.org/web/20071213154054/http://www.peermusic.com/artistpage/Robert_Ellis_Orrall.html <!-- Bot retrieved archive --> |archivedate = 2007-12-13}}</ref><ref>{{cite web |url=http://www.cmt.com/artists/news/1472579/20030612/bellamy_brothers.jhtml |archive-url=https://web.archive.org/web/20070930023836/http://www.cmt.com/artists/news/1472579/20030612/bellamy_brothers.jhtml |url-status=dead |archive-date=September 30, 2007 |title=They Vocal Duo Dilemma: They Also Serve Those Who Also Ran |accessdate=2008-01-04 |last=Morris |first=Edward |date=2000-08-10 |work=[[Country Music Television]]}}</ref><ref>{{cite web |url=http://cmaawards.net/2007/database/ByYear.aspx?year=1994 |title=Awards Database - 1994 |accessdate=2008-01-04 |work=[[Country Music Association]]}}</ref> By the end of 1994, both members resumed their solo careers. Wright joined the band [[Shenandoah (band)|Shenandoah]], in which he served as lead singer until being replaced with Jimmy Yeary in 2007. After leaving Shenandoah, he joined [[Pure Prairie League]]. Orrall, meanwhile, has continued a solo career.
+
+==''Orrall & Wright'' (1994)==
+{{Infobox album
+| italic_title = no
+| name       = ''Orrall & Wright''<ref>{{cite magazine|url=https://worldradiohistory.com/Archive-All-Music/Billboard/90s/1994/BB-1994-08-13.pdf|title=Album Reviews|magazine=[[Billboard (magazine)|Billboard]]|page=60|date=August 13, 1994}}</ref>
+| type       = studio
+| artist     = Orrall & Wright
+| cover      = orrall&wright.jpg
+| alt        =
+| released   = {{Start date|1994|7|12}}
+| recorded   =
+| venue      =
+| studio     =
+| genre      = [[country music|Country]]
+| length     = 32:29
+| label      = Giant
+| producer   = [[Lynn Peterzell]], Robert Ellis Orrall, Curtis Wright
+| prev_title =
+| prev_year  =
+| next_title =
+| next_year  =
+| misc       = {{Singles
+ | name        = Orrall & Wright
+ | type        = studio
+ | single1     = She Loves Me Like She Means It
+ | single1date = June 3, 1994
+ | single2     = If You Could Say What I'm Thinking
+ | single2date = October 11, 1994
+ | single3     = What Do You Want from Me
+ | single3date = 1995
+}}
+}}
+
+===Track listing===
+#"She Loves Me Like She Means It" ([[Angelo Petraglia|Angelo]], Robert Ellis Orrall, Billy Spencer) – 2:44
+#"The Last Time I Loved Like That" (Orrall, Curtis Wright) – 3:50
+#"I'm Outta Here" ([[Jeff Knight (musician)|T. J. Knight]], Wright) – 3:21
+#"Fall Reaching" ([[Josh Leo]], Orrall) – 3:31
+#"What Do You Want from Me" (Orrall, Wright) – 3:01
+#"Go West Young Man" (Orrall, Wright, Spencer) – 3:22
+#"You Saved Me" (Wright) – 3:03
+#"Pound, Pound, Pound" (Orrall, Dale Jarvis) – 3:11
+#"If You Could Say What I'm Thinking" (Orrall, Wright) – 3:43
+#"I'll Tell You When I Get There" (Petraglia, Orrall, Wright) – 2:43
+
+===Personnel===
+;Orrall & Wright
+*Robert Ellis Orrall - vocals, keyboards
+*Curtis Wright - vocals, electric guitar
+;Additional musicians
+* [[Eddie Bayers]] - drums
+* Mike Brignardello - bass guitar
+* [[Larry Byrom]] - acoustic guitar
+* Bill Cuomo - keyboards
+* [[Dan Dugmore]] - steel guitar
+* [[Stuart Duncan]] - fiddle
+* Sonny Garrish - steel guitar
+* [[Dann Huff]] - electric guitar
+;Technical
+*Marc Frigo - mixing assistant
+*Mark Hagen - mixing assistant
+*[[Julian King (recording engineer)|Julian King]] - recording, mixing assistant
+*Robert Ellis Orrall - production
+*[[Lynn Peterzell]] - production, recording, mixing
+*Denny Purcell - mastering
+*[[James Stroud]] - executive production
+*Craig White - recording
+*Curtis Wright - production
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Single
+! colspan="2"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="2"| 1994
+! scope="row"| "She Loves Me Like She Means It"
+| 47
+| 39
+|-
+! scope="row"| "If You Could Say What I'm Thinking"<ref>{{cite magazine|url=https://www.worldradiohistory.com/Archive-All-Music/Billboard/90s/1994/BB-1994-10-01-N.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|page=59|date=October 1, 1994}}</ref>
+| 70
+| 68
+|-
+| 1995
+! scope="row"| "What Do You Want from Me"
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:20em;"| Video
+! Director
+|-
+| rowspan="2"| 1994
+! scope="row"| "She Loves Me Like She Means It"<ref>{{cite web|url=http://www.cmt.com/videos/orrall-wright/384569/she-loves-me-like-she-means-it.jhtml|archive-url=https://web.archive.org/web/20121024011152/http://www.cmt.com/videos/orrall-wright/384569/she-loves-me-like-she-means-it.jhtml|url-status=dead|archive-date=October 24, 2012|title=CMT : Videos : Orrall & Wright : She Loves Me Like She Means It|publisher=[[Country Music Television]]|accessdate=August 5, 2011}}</ref>
+| Roger Pistole
+|-
+! scope="row"| "If You Could Say What I'm Thinking"<ref>{{cite web|url=http://www.cmt.com/videos/orrall-wright/384656/if-you-could-say-what-im-thinking.jhtml|archive-url=https://web.archive.org/web/20121024011159/http://www.cmt.com/videos/orrall-wright/384656/if-you-could-say-what-im-thinking.jhtml|url-status=dead|archive-date=October 24, 2012|title=CMT : Videos : Orrall & Wright : If You Could Say What I'm Thinking|publisher=[[Country Music Television]]|accessdate=August 5, 2011}}</ref>
+| Jeff Smith
+|-
+|}
+
+== Awards and nominations ==
+{| class="wikitable"
+!Year
+!Organization
+!Award
+!Nominee/Work
+!Result
+|-
+|1994
+|[[Country Music Association Awards]]
+|[[Country Music Association Award for Vocal Duo of the Year|Vocal Duo of the Year]]
+|Orrall & Wright
+|{{nom}}
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Orrall and Wright}}
+[[Category:American country music groups]]
+[[Category:American country music duos]]
+[[Category:Musical groups established in 1994]]
+[[Category:Giant Records (Warner) artists]]

@@ -1,0 +1,203 @@
+{{short description|American country music singer-songwriter|bot=PearBOT 5}}
+{{Lead too long|date=May 2024}}
+{{Use mdy dates|date=November 2017}}
+{{Infobox musical artist
+| name            = Devin Dawson
+| image           =
+| image_upright   =
+| image_size      =
+| landscape       = <!-- yes, if wide image, otherwise leave blank -->
+| alt             =
+| caption         =
+| birth_name      = Devin Dawson Durrett
+| birth_date      = {{birth date and age|1989|01|30}}
+| birth_place     = [[Orangevale, California]], U.S.<ref>{{cite web|url=http://www.lodinews.com/features/article_0e897874-6d84-11e7-a582-8741cceaaa7d.html|title=NorCal native Devin Dawson goes on tour with Tim McGraw, Faith Hill|date=July 20, 2017|work=Lodi News|accessdate=October 22, 2017}}</ref>
+| origin          =
+| genre           = {{flatlist|
+* [[Country music|Country]]
+* [[Heavy metal music|heavy metal]] (early)
+}}
+| occupation      = {{flatlist|
+* Singer
+* songwriter
+}}
+| instrument      = Vocals
+| years_active    = 2012–present
+| label           = [[Warner Bros. Records|Warner Bros.]]
+| associated_acts = 
+}}
+
+'''Devin Dawson Durrett''' (born January 30, 1989) is an American [[country music]] singer and songwriter. He became known after filming a mashup of [[Taylor Swift]] songs with his fellow friend Louisa Wendorff on her [[YouTube]] channel, which gained popularity on YouTube.<ref name=people>{{Cite news|url=http://people.com/country/devin-dawson-all-on-me-ones-to-watch/|title=From Death Metal to Country, Why Devin Dawson Moved to Nashville to Get Away from Himself|work=People.com|date=October 10, 2017|accessdate=October 13, 2017}}</ref><ref>{{Cite news|url=http://www.cmt.com/news/1787464/the-before-and-after-of-devin-dawson/|archive-url=https://web.archive.org/web/20171012033348/http://www.cmt.com/news/1787464/the-before-and-after-of-devin-dawson/|url-status=dead|archive-date=October 12, 2017|title=The Before and After of Devin Dawson|work=CMT News|accessdate=October 13, 2017}}</ref><ref>{{cite web|url=http://www.billboard.com/articles/columns/country/7824548/devin-dawson-all-on-me-debut-single-interview|title=Former YouTube Phenom Devin Dawson Puts It 'All' on the Line in Debut Single|author=|date=June 7, 2017|website=billboard.com|accessdate=November 16, 2017}}</ref> His debut single "[[All on Me]]" is also his first hit song.<ref name=people /> With the help of producer [[Jay Joyce]], he signed to [[Warner Bros. Records]] in 2017.<ref>{{cite web|url=https://www.allmusic.com/artist/devin-dawson-mn0003592778/biography|title=Devin Dawson biography|last=Monger|first=James Christopher|work=Allmusic|accessdate=October 22, 2017}}</ref> Dawson's "All on Me" has charted on the [[Hot Country Songs]] and [[Country Airplay]] charts.
+
+Dawson was born in [[Orangevale, California]]. Before launching his solo career, he was the bass player for the [[Heavy metal music|heavy metal]] band Shadow of the Colossus.<ref>{{Cite magazine|url=https://www.rollingstone.com/music/music-country/how-devin-dawson-went-from-heavy-metal-to-country-musics-dark-horse-628219/|title = How Devin Dawson Went from Heavy Metal to Country Music's 'Dark Horse'|magazine = [[Rolling Stone]]|date = May 16, 2018}}</ref>
+
+Dawson has also toured with [[Brett Eldredge]], [[Tim McGraw]] and [[Faith Hill]].<ref>{{cite web|url=http://www.cmt.com/news/1787464/the-before-and-after-of-devin-dawson/|archive-url=https://web.archive.org/web/20171012033348/http://www.cmt.com/news/1787464/the-before-and-after-of-devin-dawson/|url-status=dead|archive-date=October 12, 2017|title=The Before and After of Devin Dawson|author=|date=|website=[[CMT (American TV channel)|CMT]]|access-date=November 16, 2017}}</ref>
+
+Dawson's debut album ''[[Dark Horse (Devin Dawson album)|Dark Horse]]'' was released on January 19, 2018.<ref>{{cite web|url=http://www.billboard.com/articles/business/8014773/warner-music-nashville-southwest-live-35-music|title=Warner Music Nashville and Southwest Formalize Partnership Bringing Live Music to the Skies: Exclusive|author=|date=October 26, 2017|website=billboard.com|accessdate=November 16, 2017}}</ref><ref>{{cite web|url=http://tasteofcountry.com/devin-dawson-dark-horse-album/ |title=Devin Dawson Announces Debut Album 'Dark Horse' |publisher=[[Taste of Country]] |date= October 26, 2017|accessdate=November 14, 2017}}</ref><ref>{{cite web|url=http://www.countrystandardtime.com/news/newsitem.asp?xid=9845 |title=Dawson goes with "Dark Horse" |publisher=[[Country Standard Time]] |date=October 23, 2007 |accessdate=November 14, 2017}}</ref>
+
+Dawson's band includes Austin Taylor Smith (guitar, vocals), Nick DiMaria (lead guitar), Sam  Rodberg (bass guitar), and Kip Allen (drums).<ref>{{cite web|url=https://www.allmusic.com/album/dark-horse-mw0003130823|title=Dark Horse credits|author=|date=|website=[[AllMusic]]|accessdate=August 3, 2019}}</ref>
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center"
+|-
+! rowspan="2" style="width:20em;"| Title
+! rowspan="2"| Album details
+! colspan="2"| Peak positions
+! rowspan="2" style="width:9em;"| Sales
+|- style="font-size:smaller;"
+! width="40"| [[Billboard 200|US]]<br><ref>{{cite magazine|url=https://www.billboard.com/artist/devin-dawson/chart-history/tlp/|title=Devin Dawson – Chart history (Billboard 200)|magazine=Billboard|accessdate=January 30, 2018}}</ref>
+! width="40"| [[Top Country Albums|US<br> Country]]<br><ref>{{cite magazine|url=https://www.billboard.com/artist/devin-dawson/chart-history/clp/|title=Devin Dawson – Chart history (Country Albums)|magazine=Billboard|accessdate=January 30, 2018}}</ref>
+|-
+! scope="row"| ''[[Dark Horse (Devin Dawson album)|Dark Horse]]''
+|
+* Release date: January 19, 2018
+* Label: [[Warner Music Nashville]]
+* Formats: [[Compact disc|CD]], [[Music download|digital download]], [[LP album|LP]], [[Music streaming|streaming]]
+| 50 || 5
+|
+*US: 18,000<ref>{{cite news |url=http://roughstock.com/news/2018/06/43106-top-10-country-albums-chart-june-20-2018 |title=Top 10 Country Albums Chart: June 20, 2018 |first= Matt |last= Bjorke |date= June 22, 2018 |work=Roughstock |accessdate=June 28, 2018}}</ref>
+|}
+
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center"
+|-
+! style="width:20em;"| Title
+! Details
+|-
+! scope="row"| ''The Pink Slip''<ref>{{cite news |url=https://theboot.com/devin-dawson-pink-slip-ep/|title= Devin Dawson to Submit 'Pink Slip' EP in 2021|date=November 4, 2020|work=The Boot |accessdate=November 14, 2020}}</ref>
+|
+* Release date: January 15, 2021
+* Label: [[Warner Music Nashville]]
+* Formats: Digital download, streaming
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:20em;"| Title
+! rowspan="2"| Year
+! colspan="5"| Peak positions
+! scope="col" rowspan="2"| [[List of music recording certifications|Certifications]]
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="40"| [[Billboard Hot 100|US]]<br><ref>{{cite magazine|url=https://www.billboard.com/artist/devin-dawson/chart-history/hsi/|title=Devin Dawson – Chart history (Hot 100)|magazine=Billboard|accessdate=November 7, 2017}}</ref>
+! width="40"| [[Hot Country Songs|US<br> Country]]<br><ref>{{cite magazine|url=https://www.billboard.com/artist/devin-dawson/chart-history/csi/|title=Devin Dawson – Chart history (Country Songs)|magazine=Billboard|accessdate=October 31, 2017}}</ref>
+! width="40"| [[Country Airplay|US<br> Country<br> Airplay]]<br><ref>{{cite magazine|url=https://www.billboard.com/artist/devin-dawson/chart-history/csa/|title=Devin Dawson – Chart history (Country Airplay)|magazine=Billboard|accessdate=October 31, 2017}}</ref>
+! width="40"| [[Canadian Hot 100|CAN]]<br><ref>{{cite magazine|url=https://www.billboard.com/artist/devin-dawson/chart-history/can/|title=Devin Dawson – Chart history (Canadian Hot 100)|magazine=Billboard|accessdate=March 21, 2018}}</ref>
+! width="40"| [[Canada Country|CAN Country]]<br><ref>{{cite magazine|url=https://www.billboard.com/artist/devin-dawson/chart-history/ccw/|title=Devin Dawson – Chart history (Canada Country)|magazine=Billboard|accessdate=June 19, 2018}}</ref>
+|-
+! scope="row"| "[[All on Me]]"
+| 2017
+| 52 || 6 || 2 || 75 || 2
+|
+* [[Recording Industry Association of America|RIAA]]: 2× Platinum<ref name="RIAA">{{cite certification|region=United States|artist=Devin Dawson|access-date=May 16, 2022}}</ref>
+* [[Music Canada|MC]]: Platinum<ref name="MC">{{cite certification|region=Canada|artist=Devin Dawson|access-date=August 8, 2021}}</ref>
+| rowspan="3"| ''Dark Horse''
+|-
+! scope="row"| "Asking for a Friend"
+| rowspan="2"|2018
+| — || — || 52 || — || —
+|
+|-
+! scope="row"| "Dark Horse"<ref>{{cite web|url=http://roughstock.com/track/2018/11/43488-devin-dawson-dark-horse|title=Devin Dawson - "Dark Horse"|
+work=Roughstock|date=November 5, 2018|accessdate=November 10, 2018}}</ref>
+| — || — || — || — || —
+|
+|-
+! scope="row"| "[[Range Rover (song)|Range Rover]]"<ref name="CS">{{Cite web |url=https://countryswag.com/devin-dawson-range-rover/ |title=Devin Dawson Releases "Range Rover" + Announces New EP, 'The Pink Slip' |date=2020-10-05 |access-date=2024-01-08 |website=Country Swag |last=Zisman |first=Erica}}</ref>
+| 2020
+| — || — || — || — || —
+|
+|
+|-
+| colspan="10" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+====As a featured artist====
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:20em;"| Title
+! rowspan="2"| Year
+! colspan="5"| Peak positions
+! rowspan="2"| [[Music recording sales certification|Certifications]]
+! rowspan="2" style="width:10em;"| Album
+|- style="font-size:smaller;"
+! style="width:4em;"| [[Hot Country Songs|US Country]]<br /><ref>{{cite magazine | url=https://www.billboard.com/artist/hardy/chart-history/csi/ |title=HARDY Chart History (Hot Country Songs) |magazine=[[Billboard (magazine)|Billboard]] |accessdate=January 13, 2020}}</ref>
+! style="width:4em;"| [[Country Airplay|US Country Airplay]]<br /><ref>{{cite magazine | url=https://www.billboard.com/artist/hardy/chart-history/csa/ |title=HARDY Chart History (Country Airplay) |magazine=[[Billboard (magazine)|Billboard]] |accessdate=January 13, 2020}}</ref>
+! style="width:4em;"| [[Billboard Hot 100|US]]<br /><ref>{{cite magazine | url=https://www.billboard.com/artist/hardy/chart-history/hsi/ |title=HARDY Chart History (Hot 100) |magazine=[[Billboard (magazine)|Billboard]] |accessdate=June 9, 2020}}</ref>
+! style="width:4em;"| [[Canadian Hot 100|CAN]]<br /><ref>{{cite magazine | url=https://www.billboard.com/artist/hardy/chart-history/can/ |title=HARDY Chart History (Canadian Hot 100) |magazine=[[Billboard (magazine)|Billboard]] |accessdate=August 30, 2020}}</ref>
+! style="width:4em;"| [[Canada Country|CAN Country]]<br /><ref>{{cite magazine | url=https://www.billboard.com/artist/hardy/chart-history/ccw/ |title=HARDY Chart History (Canada Country) |magazine=[[Billboard (magazine)|Billboard]] |accessdate=January 13, 2020}}</ref>
+|-
+! scope="row"| "[[One Beer (Hardy song)|One Beer]]"<br>{{small|([[Hardy (singer)|Hardy]] featuring [[Lauren Alaina]] and Devin Dawson)}}
+| 2020
+| 7
+| 1
+| 33
+| 43
+| 1
+|
+* RIAA: 2× Platinum<ref>{{Cite certification|region=United States|type=single|artist=Hardy|title=One Beer (feat. Lauren Alaina & Devin Dawson)|accessdate=January 15, 2022}}</ref>
+* MC: 2× Platinum<ref name="MC"/>
+| ''A Rock''
+|}
+
+===Music videos===
+{| class="wikitable"
+|-
+! Year
+! Video
+! Director
+|-
+| 2015
+| "Blind Man"<ref>{{cite web | url=https://www.youtube.com/watch?v=nm9Y_dmV81E | title='Blind Man' video | publisher=` | work=YouTube | date=November 13, 2015 | accessdate=July 21, 2019}}</ref>
+|{{n/a}}
+|-
+| 2017
+| "All on Me"
+| Justin Clough<ref>{{cite web|url=http://www.cmt.com/video-clips/11tqa6/all-on-me|archive-url=https://web.archive.org/web/20180130210236/http://www.cmt.com/video-clips/11tqa6/all-on-me|url-status=dead|archive-date=January 30, 2018|title=Video Clips from CMT|website=CMT|accessdate=December 11, 2018}}</ref>
+|-
+| 2018
+| "Asking for a Friend"
+| Patrick Tracy<ref>{{cite web | url=https://www.radio.com/blogs/lauren-hoffman/devin-dawson-asking-friend-new-video | title=Devin Dawson Is 'Asking for a Friend' With New Video | work=Radio.com | date=August 9, 2018 | accessdate=July 21, 2019}}</ref>
+|-
+| 2019
+| "Dark Horse"
+| Justin Clough<ref>{{cite web | url=https://www.youtube.com/watch?v=oFgUS4zyxOE | title='Dark Horse' video | publisher=` | work=YouTube | date=February 25, 2019 | accessdate=July 21, 2019}}</ref>
+|}
+
+==Awards and nominations==
+{| class="wikitable"
+|-
+! Year !! Association !! Category !! Nominated Work !! Result
+|-
+| 2017 || rowspan=2| [[Academy of Country Music Awards]] || New Male Vocalist of the Year || Himself || {{nom}}
+|-
+| rowspan=2| 2019 || Song of the Year || rowspan=2| "[[God's Country (Blake Shelton song)|God's Country]]" || {{nom}}
+|-
+| [[Country Music Association Awards]] || [[Country Music Association Award for Song of the Year|Song of the Year]] || {{nom}}
+|-
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Official website|http://www.devindawsonmusic.com}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Dawson, Devin}}
+[[Category:1989 births]]
+[[Category:Living people]]
+[[Category:American country singer-songwriters]]
+[[Category:Warner Records artists]]
+[[Category:People from Sacramento County, California]]
+[[Category:Country musicians from California]]
+[[Category:American male singer-songwriters]]
+[[Category:Singer-songwriters from California]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:21st-century American male singers]]
+
+
+{{US-country-musician-stub}}

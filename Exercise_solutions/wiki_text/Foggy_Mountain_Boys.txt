@@ -1,0 +1,7 @@
+#REDIRECT [[Flatt and Scruggs]]
+
+{{Redirect category shell|
+{{R from move}}
+{{R from subtopic}}
+{{R printworthy}}
+}}

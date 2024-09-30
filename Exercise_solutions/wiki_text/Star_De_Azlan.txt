@@ -1,0 +1,95 @@
+{{short description|American country music singer|bot=PearBOT 5}}
+{{BLP sources|date=August 2010}}
+
+{{Infobox musical artist
+| name = Star De Azlan
+| image =
+| caption =
+| image_size =
+| background = solo_singer
+| alias =
+| birth_date =
+| origin = [[United States]]
+| genre = [[Country music|Country]]
+| occupation = [[Singing|Singer]]
+| years_active = 2007-present
+| label = [[Curb Records|Curb]]
+| associated_acts =
+| website =
+}}
+'''Star De Azlan''' (born '''Esther Gonzalez''')<ref name="Chronicle">{{cite news|url=http://www.chron.com/disp/story.mpl/headline/features/6540276.html|title=Star De Azlan shines bright on country music|date=July 21, 2009|work=[[The Houston Chronicle]]|accessdate=September 1, 2010}}</ref> is an American [[country music]] singer. Signed to [[Curb Records]]<ref>{{cite news|url=http://glasgowdailytimes.com/features/x211915170/Global-Fest-celebrates-diversity|title=Global Fest celebrates diversity|date=4 September 2008|work=[[Glasgow Daily Times]]|accessdate=1 September 2010}}</ref> in 2007, she released her debut single "She's Pretty" in early 2008; the song peaked at No.&nbsp;51 on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] charts.
+
+De Azlan's parents owned a family restaurant in [[San Marcos, Texas|San Marcos]], Texas, where her father would sometimes feature mariachi music.  After performing at Fiesta San Antonio when she was 12, she returned often to perform in the city's Market Square area. While attending [[San Marcos High School (Texas)]], she was in the school's mariachi band and performing regularly at Cheatham Street, a local live music venue, as well.<ref name="Chronicle"/> While performing at Cheatham Street, she was asked to audition for [[Curb Records]] after label head, [[Mike Curb]] heard her perform.<ref name="Chronicle"/>
+
+De Azlan released her debut single under Curb Records titled "She's Pretty" in 2007. On the chart week ending January 14, 2008, "She's Pretty" debuted at number 52 on the U.S. ''Billboard'' [[Hot Country Songs]] chart; it reached a peak of number 51 in its second week and spent eight weeks on the chart.<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=120|isbn=978-0-89820-177-2}}</ref> It was followed in 2009 by her second single, "Like a Rose," which failed to chart. A third single, "A Man Who Can Dance," was released in 2011, and also failed to chart before de Azlan and Curb eventually parted ways.{{citation needed|date=October 2015}}
+
+==Discography==
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:10em;"| Title
+! style="width:16em;"| Album details
+|-
+! scope="row"| ''Like a Rose''
+|
+* Release date: April 28, 2009
+* Label: [[Curb Records]]
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="60"| [[Hot Country Songs|US Country]]
+|-
+| 2008
+! scope="row"| "She's Pretty"
+| 51
+| align="left" rowspan="2"| ''Like a Rose''
+|-
+| 2009
+! scope="row"| "Like a Rose"
+| —
+|-
+| 2011
+! scope="row"| "A Man Who Can Dance"
+| —
+| {{n/a}}
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music Videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:16em;"| Title
+! Director
+|-
+| 2008
+! scope="row"| "She's Pretty"
+| Marc Ball
+|-
+|}
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:De Azlan, Star}}
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Curb Records artists]]
+[[Category:Living people]]
+[[Category:African-American country musicians]]
+[[Category:Year of birth missing (living people)]]
+[[Category:African-American songwriters]]
+[[Category:African-American women musicians]]
+[[Category:21st-century African-American musicians]]
+[[Category:21st-century African-American women singers]]

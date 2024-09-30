@@ -1,0 +1,92 @@
+{{for-multi|the African-American model|Sara Lou Harris Carter|the Canadian actress|Sarah Carter|the American author and editor|Sarah Carter Edgarton Mayo}}
+{{Use mdy dates|date=March 2017}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject Musicians -->
+| name             = Sara Carter
+| image            = File:Carter Family 1927.jpg
+| caption          = Carter (holding the autoharp) with the rest of the [[Carter Family]] in 1927
+| image_size       = 250 px
+| background       = solo_singer
+| birth_name       = Sara Elizabeth Dougherty
+| alias            = 
+| birth_date       = {{Birth date|mf=yes|1898|7|21}}
+| birth_place      = [[Copper Creek, Virginia]], U.S.
+| death_date       = {{Death date and age|mf=yes|1979|1|8|1898|7|21}}
+| death_place      = [[Lodi, California]], U.S.
+| instrument       = [[lead vocalist|Vocals]], [[autoharp]], guitar, [[guitaro]]
+| genre            = [[Country music|Country]], [[Folk music|folk]], [[Gospel music|gospel]]
+| occupation       = Singer-songwriter, musician
+| years_active     = 1927–1971
+| label            = [[Victor Records|Victor]], [[ARC Records|ARC]], [[Decca Records|Decca]]
+| past_member_of  = [[Carter Family]]
+}}
+
+'''Sara Elizabeth Carter''' (née '''Dougherty''', later '''Bayes'''; July 21, 1898 – January 8, 1979) was an American [[country music]] musician, singer, and songwriter. Remembered mostly for her deep, distinctive, mature singing voice, she was the lead singer on most of the recordings of the historic [[Carter Family]] act in the 1920s and 1930s. In her earliest recordings her voice was pitched very high.<ref name="Zwonitzer">{{cite book|last=Zwonitzer|first=Mark|author2=Hirshberg, Charles|title=Will You Miss Me When I'm Gone?: The Carter Family & Their Legacy in American Music|publisher=Simon & Schuster|year=2004|url=https://books.google.com/books?id=qTdns8tiSqUC&q=Will+You+Miss+Me+When+I'm+Gone%3F+The+Carter+Family+%26+Their+Legacy+in+American+Music|isbn=0-7432-4382-X}}</ref>
+
+== Life and career ==
+{{more citations needed section|date=January 2016}}
+Born in [[Copper Creek, Virginia]], the daughter of William Sevier Dougherty and Nancy Elizabeth Kilgore, at age 16 she married [[A. P. Carter]] on June 18, 1915; they divorced in 1936.<ref name="Zwonitzer"/> They had three children: Gladys (Mrs. Millard), [[Janette Carter|Janette]] (Mrs. Jett), and [[Joseph Dougherty Carter|Joe]].<ref name="Zwonitzer"/>
+
+In 1927, she and A. P. began performing as the [[Carter Family]], perhaps the first commercial rural country music group. They were joined by her cousin, [[Maybelle Carter|Maybelle]], who was married to A. P.'s brother, [[Ezra Carter]]. Later, Sara married Coy Bayes, A. P.'s first cousin, and moved to California in 1943, and the original group disbanded. In the late 1940s, Maybelle began performing with her daughters [[Helen Carter|Helen]], [[June Carter Cash|June]], and [[Anita Carter|Anita]] as The Carter Sisters and Mother Maybelle (the act was renamed The Carter Family during the 1960s).<ref>{{Cite book |last=Wolfe |first=Charles K. |url=https://books.google.com/books?id=tFWSAgAAQBAJ |title=Classic Country: Legends of Country Music |date=2002-05-03 |publisher=Routledge |isbn=978-1-135-95734-6 |page=17 |language=en}}</ref>
+
+On Carter Family recordings, Sara is credited as author of the songs "Fifty Miles of Elbow Room" and "Keep on the Firing Line"; in truth she discovered these [[public domain]] songs when they were being sung at a [[Seventh-day Adventist]] church she visited.
+
+RCA gave her songwriter credit, as it did A.P. Carter on his public domain discoveries. The Carter Family recordings of these tunes brought the songs worldwide fame. Sara wrote or co-wrote several other songs, including "My Foothills Home", "The Dying Soldier", "Lonesome Pine Special", "Farther On", and "Railroading on the Great Divide".
+
+Sara reunited with Maybelle in 1966 for a Columbia Records album titled "An Historic Reunion," which was later re-issued on Bear Family Records, with additional songs, as "Sara and Maybelle Carter." They performed together during the folk music craze of the 1960s at the Newport Folk Festival.<ref name="Zwonitzer"/> The duo were featured as guests in a late 1960s episode of [[the Wilburn Brothers]] television show, singing "Little Moses" and "As the Band Played Dixie". Following this period, Sara retired to California,<ref>{{Cite web|url=http://www.encyclopediavirginia.org/Carter_Sara_1898-1979|title=Carter, Sara (1898–1979)|last=Lornell|first=Kip|website=Encyclopedia Virginia|access-date=2016-05-04}}</ref> although she and Maybelle remained close for the rest of their lives and Sara and Coy journeyed yearly from California to Virginia by car, pulling a travel trailer.
+
+In the early 1970s, Sara and Maybelle reunited to appear on [[Johnny Cash]]'s network television show and to perform together at the first annual A.P. Carter Memorial Festival in [[Hiltons, Virginia]].
+
+== Family tree==
+{{Tree chart/start|align=center|summary=Carter Family Tree}}
+{{Tree chart| | | | | | | | | | | W.K. |~|y|~| NAK | |W.K.=William Kilgore|NAK=Nancy Kilgore}}
+{{Tree chart| | | | | | | | | | | | | ||)|-|-|-|-|-|-|-|-|-|.| }}
+{{Tree chart| | | | | | | |H.J.A. |~|y|~| M.E.K. | | | | | | | | N.E.K. |~|y|~| W.S.D. | | H.J.A.=Hugh J. Addington|M.E.K.=Margaret E. Kilgore|N.E.K.=Nancy E. Kilgore|W.S.D.=William S. Dougherty}}
+{{Tree chart| | | | | | | | | | ||!| | | | | | | | | | | | | | | |!| | }}
+{{Tree chart| | | | EZRA |~|y|~| MAY | | | | | | | | |A.P. |~|y|~| SARA |-|y|-| C.B. |EZRA=[[Ezra Carter]]|MAY=[[Maybelle Carter]]|A.P.=[[A. P. Carter|A.P. Carter]]|SARA='''Sara Carter'''|C.B.= Coy Bayes}}
+{{Tree chart| | | |,|-|-|-|+|-|-|-|.| | | | | | | | |,|-|-|-|+|-|-|-|.| | | }}
+{{Tree chart| | | H.C. | | A.C. | | J.C.C. |~|y|~| J.C. | | G.C. | | JETT | | JOE | |H.C.=[[Helen Carter]]|A.C.=[[Anita Carter]]|J.C.C.=[[June Carter Cash]]|J.C.=[[Johnny Cash]]|G.C.=Gladys Carter|JETT=[[Janette Carter]]|JOE=[[Joseph Dougherty Carter|Joe Carter]]}}
+{{Tree chart| | | | | | | | | | | | | | |!| | | }}
+{{Tree chart| | | | | | | | | | | | | | JOHN | |JOHN=[[John Carter Cash]]}}
+{{Tree chart/end}}
+
+== Legacy ==
+Carter was inducted as part of the Original [[Carter Family]] in the [[Country Music Hall of Fame]] in 1970, along with [[Bill Monroe]].
+<ref name="CMHF">{{cite web|last=Wolfe|first=Charles|title=Carter Family|publisher=Country Music Hall of Fame & Museum|url=http://www.countrymusichalloffame.org/full-list-of-inductees/view/carter-family|accessdate=February 17, 2010|url-status=dead|archiveurl=https://web.archive.org/web/20110807062544/http://countrymusichalloffame.org/full-list-of-inductees/view/carter-family|archivedate=August 7, 2011|df=mdy-all}}</ref> In 1993, her image appeared on a U.S. postage stamp honoring the Carter Family.<ref>{{Cite web|url=http://articles.sun-sentinel.com/1993-09-12/entertainment/9309080581_1_american-music-series-customer-affixed-stamps-first-day-cancellations|archive-url=https://web.archive.org/web/20170325202522/http://articles.sun-sentinel.com/1993-09-12/entertainment/9309080581_1_american-music-series-customer-affixed-stamps-first-day-cancellations|url-status=dead|archive-date=March 25, 2017|title='Legends' Series Salutes Country-western Stars|website=Sun-Sentinel|access-date=2016-05-04}}</ref> In 2001 she was inducted into the [[International Bluegrass Music Hall of Honor]].<ref>{{Cite web|url=http://www.bluegrassmuseum.org/sara-carter/|title=Sara Carter|website=International Bluegrass Music Museum|access-date=2016-05-04}}</ref>
+
+On her 2008 album ''[[All I Intended to Be]]'', [[Emmylou Harris]] includes the song "How She Could Sing the Wildwood Flower", co-written with [[Kate and Anna McGarrigle]] about the relationship between Sara and A.P., inspired by a documentary that the three of them saw on television.{{citation needed|date=November 2015}}
+
+==Death==
+[[File:Grave of Sara Carter Bayes and children at Mount Vernon United Methodist Church at Maces Springs, Virginia now Hiltons, Virginia.jpg|thumb|right|Grave of Sara Carter Bayes and children at [[Mount Vernon United Methodist Church]] at [[Hiltons, Virginia]]]]
+Sara Carter died in [[Lodi, California]], aged 80,<ref>{{Cite news |date=1979-01-09 |title=Sara Carter Bayes obit-Lodi 1979 |pages=28 |work=The San Francisco Examiner |url=https://www.newspapers.com/article/the-san-francisco-examiner-sara-carter-b/36095944/ |access-date=2023-12-12}}</ref> and is interred in the Mt. Vernon United Methodist Church graveyard in [[Hiltons, Virginia]]. The [[A. P. and Sara Carter House]], [[A. P. Carter Homeplace]], [[A. P. Carter Store]], [[Maybelle and Ezra Carter House]], and [[Mt. Vernon Methodist Church]] are listed on the [[National Register of Historic Places]] as components of the Carter Family Thematic Resource.<ref name="nris">{{NRISref|version=2010a}}</ref><ref>{{NRHP url|id=64000880|title=Carter family profile}}, pdfhost.focus.nps.gov (PDF); accessed November 14, 2015.</ref>
+
+== See also ==
+*[[Carter Family]]
+
+== References ==
+{{Reflist}}
+
+== Sources ==
+* Wolfe, Charles (1998). "The Carter Family". In ''The Encyclopedia of Country Music''. Paul Kingsbury, Editor. New York: Oxford University Press. pp.&nbsp;84–5, 617.<!--ISSN/ISBN needed-->
+
+==External links==
+*[https://adp.library.ucsb.edu/names/106602 Sara Carter recordings] at the [[Discography of American Historical Recordings]].
+
+{{Carter Family}}
+{{Authority control}}
+
+{{DEFAULTSORT:Carter, Sara}}
+[[Category:1898 births]]
+[[Category:1979 deaths]]
+[[Category:People from Russell County, Virginia]]
+[[Category:Country musicians from Virginia]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:American autoharp players]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:Cash–Carter family]]
+[[Category:American United Methodists]]
+[[Category:The Carter Family members]]
+[[Category:20th-century American women singers]]
+[[Category:20th-century American singers]]
+[[Category:20th-century Methodists]]
+[[Category:Singer-songwriters from Virginia]]

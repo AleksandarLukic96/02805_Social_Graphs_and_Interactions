@@ -1,0 +1,121 @@
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Redmon & Vale
+| image               = 
+| caption             = 
+| image_size          = 
+| background          = group_or_band
+| origin              = [[Nashville, Tennessee]], United States 
+| genre               = [[Country music|Country]]
+| years_active        = 1997–2000
+| label               = [[DreamWorks Records|DreamWorks Nashville]]
+| associated_acts     = [[Carolyn Dawn Johnson]]
+| website             = 
+| past_members        = Allison Redmon<br/>Tina Vale
+}}
+'''Redmon & Vale''' was an American [[country music]] duo formed in 1997 by Allison Redmon and Tina Vale, both of whom served as vocalists. They met through a common friend, with whom they initially performed as a trio before deciding to work as a duo instead after the trio split up.<ref name="allmusic"/>
+
+The duo released a self-titled studio album and two singles in 1999 on [[DreamWorks Records]].<ref name="allmusic">{{cite web |url={{Allmusic|class=artist|id=p376046/biography|pure_url=yes}} |title=Redmon & Vale biography |accessdate=2008-07-24 |last=Ankeny |first=Jason |work=[[Allmusic]]}}</ref> The album included two singles, both of which charted on the ''[[Billboard (magazine)|Billboard]]'' country charts. Jeffrey B. Remz of ''[[Country Standard Time]]'' gave the album a negative review, saying that it "mine[d] the generic, overproduced field of bland pop country."<ref>{{cite web |url=http://www.countrystandardtime.com/d/cdreview.asp?xid=2332 |title=Redmon and Vale|accessdate=2008-07-24 |last=Remz |first=Jeffrey B. |work=[[Country Standard Time]]}}</ref> A reviewer for ''[[The Technique]]'', the student newspaper for the [[Georgia Institute of Technology]], gave the album a more positive review, noting that the two singers seemed to focus more on harmonies than most other country groups.<ref>{{cite web |url=http://dev.nique.gatech.edu/issues/1999-09-17/entertainment/8 |title=Redmon & Vale: Country Can Be Good |accessdate=2008-07-24 |last=Dickenson |first=Darren |date=1999-09-17 |work=[[The Technique]] }}{{dead link|date=April 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> The album's first single, "If I Had a Nickel (One Thin Dime)" reached No.&nbsp;65 on the country charts, while the second single, "Squeezin' the Love Outta You", peaked at No.&nbsp;74. The latter was also recorded by [[Carolyn Dawn Johnson]] (who co-wrote it) on her 2004 album ''[[Dress Rehearsal (Carolyn Dawn Johnson album)|Dress Rehearsal]]''.
+
+==Discography==
+{{Infobox album
+| name       = Redmon & Vale
+| type       = Studio
+| artist     = Redmon & Vale
+| cover      = Redmon_&_Vale_-_Redmon_&_Vale_Cover.jpg
+| alt        =
+| released   = {{start date|1999|10|5}}
+| recorded   = 
+| venue      =
+| studio     = 
+| genre      = Country
+| length     = 39:28
+| label      = [[DreamWorks Nashville]]
+| producer   = {{hlist|[[James Stroud]]|[[Barry Beckett]]}}
+| prev_title = 
+| prev_year  = 
+| next_title = 
+| next_year  = 
+}}
+
+=== Track listing ===
+{{tracklisting
+| total_length      = 39:28
+| title1            = Movin' On
+| writer1           = Tina Vale
+| length1           = 3:40
+| title2            = If I Had a Nickel (One Thin Dime)
+| writer2           = {{hlist|Rick Bowles|[[Tom Shapiro]]}}
+| length2           = 3:11
+| title3            = Pretty Pink House
+| writer3           = Tina Vale
+| length3           = 3:34
+| title4            = Both Sides of Goodbye
+| writer4           = {{hlist|Bob Alan|[[Tommy Lee James]]}}
+| length4           = 2:54
+| title5            = In the Name of Love
+| writer5           = {{hlist|[[Skip Ewing]]|[[Doug Stone]]}}
+| length5           = 3:37
+| title6            = Rumors
+| writer6           = Tina Vale
+| length6           = 4:05
+| title7            = Last Exit to Eden
+| writer7           = {{hlist|[[Dean McTaggart]]|[[David Tyson]]}}
+| length7           = 4:52
+| title8            = Get Lost
+| writer8           = {{hlist|Sunny Russ|Cathy Majeski|Stephony Smith}}
+| length8           = 3:20
+| title9            = Kisses Don't Lie
+| writer9           = {{hlist|Michele McCord|Austin Cunningham}}
+| length9           = 3:05
+| title10           = I Wanna Know
+| writer10          = {{hlist|[[Carolyn Dawn Johnson]]|[[Troy Verges]]}}
+| length10          = 3:40
+| title11           = Squeezin' the Love Outta You
+| writer11          = {{hlist|Carolyn Dawn Johnson|Troy Verges|Steve Mandile}}
+| length11          = 3:30
+}}
+
+Track information and credits verified from ''[[Discogs]]'',<ref name=DC>{{cite web |url=https://www.discogs.com/Redmon-Vale-Redmon-Vale/release/4658221 |title=Discogs Credits |last= |first= |date= |website= |publisher=Discogs |access-date=17 April 2021 |quote=}}</ref> ''[[AllMusic]]'',<ref name=AM2>{{cite web |url=https://www.allmusic.com/album/redmon-vale-mw0000246901/credits |title=AllMusic Credits |last= |first= |date= |website= |publisher=AllMusic |access-date=17 April 2021 |quote=}}</ref> and the album's liner notes.<ref name=>{{Cite AV media notes |title=Redmon & Vale |others=Redmon & Vale |type=liner notes |access-date= |year= |publisher=DreamWorks Records |id=0044-50057-2}}</ref>
+
+===Singles===
+{|class="wikitable"
+|-
+! Title
+! Date
+! Chart
+! Peak<br />position
+|-
+| "If I Had a Nickel (One Thin Dime)"
+| June 4, 1999
+{{singlechart|Billboardcountrysongs|65|artist=Redmon & Vale|refname=BB1|accessdate=April 17, 2021}}
+|-
+| "Squeezin' the Love Outta You"
+| September 10, 1999
+{{singlechart|Billboardcountrysongs|74|artist=Redmon & Vale|refname=BB2|accessdate=April 17, 2021}}
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:18em;"| Video
+! Director
+|-
+| rowspan="2"| 1999
+! scope="row"| "If I Had a Nickel (One Thin Dime)"<ref>{{cite web|url=http://www.vevo.com/watch/redmon-and-vale/if-i-had-a-nickel/USUV70601818|title=If I Had A Nickel - Redmon & Vale|publisher=[[Vevo]]|accessdate=November 18, 2011}}</ref>
+| [[Steven Goldmann]]
+|-
+! scope="row"| "Squeezin' the Love Outta You"
+| David Abbott
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Redmon and Vale}}
+[[Category:Country music groups from Tennessee]]
+[[Category:American country music duos]]
+[[Category:Musical groups established in 1997]]
+[[Category:DreamWorks Records artists]]

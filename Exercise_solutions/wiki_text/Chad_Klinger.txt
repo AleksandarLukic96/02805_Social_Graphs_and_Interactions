@@ -1,0 +1,90 @@
+{{Use mdy dates|date=July 2020}}
+{{Infobox musical artist
+| name            = Chad Klinger
+| image           =
+| caption         =
+| image_size      =
+| origin          = [[Lashburn, Saskatchewan]], Canada
+| instrument      =
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 1998–2013
+| label           = CK
+| associated_acts =
+| website         = {{official website|http://www.chadklinger.com/}}
+}}
+'''Chad Klinger''' is a Canadian [[country music]] artist. Klinger recorded his self-titled debut CD in [[Nashville, Tennessee|Nashville]] in 1998, produced by Dean Sams of [[Lonestar]].<ref name="jam">{{cite web |last=Griwkowsky |first=Fish |title=From swinging to singing |url=http://jam.canoe.ca/Music/Artists/K/Klinger_Chad/2000/09/22/746647.html |archive-url=https://archive.today/20130115064217/http://jam.canoe.ca/Music/Artists/K/Klinger_Chad/2000/09/22/746647.html |url-status=usurped |archive-date=January 15, 2013 |work=[[Edmonton Sun]] |date=September 2, 2000|accessdate=February 11, 2010}}</ref> Two singles released from the project, "Who Needs the Moon" and "Bring It On," reached the Top 30 of the ''[[RPM (magazine)|RPM]]'' Country Tracks chart.<ref name="rpm1">{{cite web |title=Country Singles |url=http://www.collectionscanada.gc.ca/rpm/028020-119.01-e.php?&file_num=nlc008388.8377&volume=69&issue=15&issue_dt=August%2002%201999&type=1&interval=24&PHPSESSID=0csnhpv20m1hqesodipjde7ca1 |work=[[RPM (magazine)|RPM]] |date=August 2, 1999 |accessdate=February 11, 2010 |archive-url=https://web.archive.org/web/20121013030058/http://www.collectionscanada.gc.ca/rpm/028020-119.01-e.php?&file_num=nlc008388.8377&volume=69&issue=15&issue_dt=August%2002%201999&type=1&interval=24&PHPSESSID=0csnhpv20m1hqesodipjde7ca1 |archive-date=October 13, 2012 |url-status=dead }}</ref><ref name="rpm2">{{cite web |title=Country Singles |url=http://www.collectionscanada.gc.ca/rpm/028020-119.01-e.php?&file_num=nlc008388.10030&volume=70&issue=11&issue_dt=January%2017%202000&type=1&interval=24&PHPSESSID=0csnhpv20m1hqesodipjde7ca1 |work=[[RPM (magazine)|RPM]] |date=January 1, 2000|accessdate=February 11, 2010 |archive-url=https://web.archive.org/web/20121013030130/http://www.collectionscanada.gc.ca/rpm/028020-119.01-e.php?&file_num=nlc008388.10030&volume=70&issue=11&issue_dt=January%2017%202000&type=1&interval=24&PHPSESSID=0csnhpv20m1hqesodipjde7ca1 |archive-date=October 13, 2012 |url-status=dead }}</ref> He took a break from his recording career in 2000 to enroll in the [[University of Alberta]].<ref name="ualberta">{{cite web |last=Capello |first=Laura |title=Country star puts 'class' in his act |url=http://www.folio.ualberta.ca/38/01/08.html |work=Folio |date=September 8, 2000 |accessdate=February 11, 2010 |url-status=dead |archiveurl=https://web.archive.org/web/20110706210200/http://www.folio.ualberta.ca/38/01/08.html |archivedate=July 6, 2011 }}</ref>
+
+Klinger returned to the music business in November 2009 with the single "Minivan Man," which has reached the Top 50 of the ''[[Billboard (magazine)|Billboard]]'' Canadian Country Singles chart.<ref name="bbiz">{{cite magazine |title=Canadian Update |url=http://www.billboard.biz/billboardbiz/photos/pdf/canadian_update_021010.pdf |magazine=[[Billboard (magazine)|Billboard]] |date=February 1, 2010 |accessdate=February 11, 2010 |archive-date=May 12, 2020 |archive-url=https://web.archive.org/web/20200512001118/https://www.billboard.com/business |url-status=dead }}</ref> His second album, ''The Man I Am Inside'', was released in April 2010.
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:16em;"| Details
+|-
+! scope="row"| ''Chad Klinger''
+| 
+* Release date: 1999
+* Label: CK
+|-
+! scope="row"| ''The Man I Am Inside''
+| 
+* Release date: April 16, 2010
+* Label: CK
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2"| Year
+! rowspan="2" style="width:22em;"| Single
+! Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="2"| 1999
+! scope="row"| "[[Who Needs the Moon]]"
+| 12
+| align="left" rowspan="2"| ''Chad Klinger''
+|-
+! scope="row"| "Bring It On"
+| 23
+|-
+| 2009
+! scope="row"| "Minivan Man"
+| —
+| align="left" rowspan="5"| ''The Man I Am Inside''
+|-
+| rowspan="3"| 2010
+! scope="row"| "The Night Ain't Over Yet" <small>(with [[Gord Bamford]])</small>
+| —
+|-
+! scope="row"| "I'm Gonna Be There"
+| —
+|-
+! scope="row"| "Three Words Aren't Enough"
+| —
+|-
+| 2011
+! scope="row"| "Beer Cans and Bonfires"
+| —
+|-
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{official website|http://www.chadklinger.com/}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Klinger, Chad}}
+[[Category:Canadian country singer-songwriters]]
+[[Category:Canadian male singer-songwriters]]
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]
+[[Category:University of Alberta alumni]]
+[[Category:Singers from Saskatchewan]]

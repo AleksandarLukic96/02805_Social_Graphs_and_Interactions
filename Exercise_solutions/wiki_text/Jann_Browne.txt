@@ -1,0 +1,158 @@
+{{short description|American country singer|bot=PearBOT 5}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name            = Jann Browne
+| image           = 
+| caption         = 
+| image_size      = 150
+| background      = solo_singer
+| birth_name      = 
+| birth_date      = {{Birth date and age|1954|3|14}}
+| origin          = [[Anderson, Indiana]], United States
+| instrument      = [[Vocals]]
+| genre           = [[Country music|Country]]
+| occupation      = [[Singing|Singer]]
+| years_active    = 1989-present
+| label           = [[Curb Records|Curb]], Cross 3, Plan B
+| past_member_of = [[Asleep at the Wheel]]
+| website         = {{URL|http://www.jannbrowne.com/}}
+}}
+'''Jann Browne''' (born March 14, 1954<ref name="allmusic">{{cite web |url=http://allmusic.com/cg/amg.dll?p=amg&sql=11:aifexql5ldae~T1 |title=Jann Browne biography |access-date=2008-01-07 |last=Deming |first=Mark |work=Allmusic}}</ref>) is an American [[country music]] singer. She moved to Southern California in 1978 where she performed in a number of Orange County country bars.<ref>The Encyclopedia of country music - Oxford University Press 1998</ref> From 1981 through 1983, before her solo career, she was a vocalist with the [[Western swing]] group [[Asleep at the Wheel]]. She has recorded four studio albums, and has charted three singles on the [[Hot Country Songs]] charts. Her highest single is the 1990s "Tell Me Why" at No.&nbsp;18.  She was named "Female Entertainer of the Year", and her song "Louisville" was named "Song of the Year", by the California Country Music Association.<ref name="LA Times">{{cite news|first=Holly|last=Gleason|url=https://www.latimes.com/archives/la-xpm-1989-01-18-ca-719-story.html|title=Country Singer Jann Browne Gets a Shot at Big Time|date=January 18, 1989}}</ref> In 1990, she was nominated for Top New Female Vocalist at the [[Academy of Country Music Awards]], along with [[Daniele Alexander]] and [[Mary Chapin Carpenter]], but lost to Carpenter.
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan=2 style="width:14em;"| Title
+! rowspan=2 style="width:20em;"| Album details
+! colspan=1| Peak positions
+|- style="font-size:smaller;"
+! width="60"| [[Top Country Albums|US Country]]
+|-
+! scope="row"| ''[[Tell Me Why (Jann Browne album)|Tell Me Why]]''
+|
+* Release date: February 12, 1990
+* Label: [[Curb Records]]
+| 46
+|-
+! scope="row"| ''[[It Only Hurts When I Laugh (album)|It Only Hurts When I Laugh]]''
+|
+* Release date: April 23, 1991
+* Label: Curb Records
+| —
+|-
+! scope="row"| ''Count Me In''
+|
+* Release date: September 12, 1995
+* Label: Cross Three Records
+| —
+|-
+! scope="row"| ''[[Missed Me by a Mile (Jann Browne album)|Missed Me by a Mile]]''
+|
+* Release date: October 30, 2001
+* Label: Plan B Records
+| —
+|-
+! scope="row"| ''Buckin' Around''
+|
+* Release date: March 6, 2007
+* Label: Plan B Records
+| —
+|-
+| colspan=3 style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan=2| Year
+! rowspan=2 style="width:16em;"| Single
+! colspan=1| Peak positions
+! rowspan=2| Album
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]<ref>{{cite magazine|url=https://www.billboard.com/music/jann-browne|title=Jann Browne - Chart History|magazine=[[Billboard (magazine)|Billboard]]|access-date=January 29, 2018}}</ref>
+|-
+| rowspan=2| 1989
+! scope="row"| "[[You Ain't Down Home]]"
+| 19
+| align="left" rowspan=4| ''Tell Me Why''
+|-
+! scope="row"| "[[Tell Me Why (Jann Browne song)|Tell Me Why]]"
+| 18
+|-
+| rowspan=2| 1990
+! scope="row"| "Mexican Wind"
+| —<sup>A</sup>
+|-
+! scope="row"| "Louisville"
+| 75
+|-
+| rowspan=2| 1991
+! scope="row"| "Better Love Next Time"
+| —
+| align="left" rowspan=2| ''It Only Hurts When I Laugh''
+|-
+! scope="row"| "It Only Hurts When I Laugh"<ref>{{cite magazine|url=http://www.americanradiohistory.com/Archive-Billboard/90s/1991/BB-1991-06-29.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|date=June 29, 1991}}</ref>
+| —
+|-
+| colspan=4 style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+'''Notes:'''
+*<sup>A</sup> "Mexican Wind" did not chart on Hot Country Songs, but peaked at No. 2 on Hot Country Radio Breakouts.<ref>{{cite magazine|url=http://americanradiohistory.com/Archive-Billboard/90s/1990/BB-1990-06-30.pdf|title=Hot Country Radio Breakouts|date=June 30, 1990|magazine=Billboard}}</ref>
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;"| Video
+|-
+| rowspan="2"| 1990
+! scope="row"| "Tell Me Why"
+|-
+! scope="row"| "Mexican Wind"
+|-
+| 1991
+! scope="row"| "Better Love Next Time"
+|}
+
+== Awards and nominations ==
+{| class="wikitable"
+!Year
+!Organization
+!Award
+!Nominee/Work
+!Result
+|-
+|1990
+|[[Academy of Country Music Awards]]
+|Top New Female Vocalist
+|Jann Browne
+|{{nom}}
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.jannbrowne.com/ Jann Browne official site]
+{{Jann Browne}}
+{{Asleep at the Wheel}}
+{{Authority control}}
+
+{{DEFAULTSORT:Browne, Jann}}
+[[Category:1954 births]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Asleep at the Wheel members]]
+[[Category:Country musicians from Indiana]]
+[[Category:Musicians from Anderson, Indiana]]
+[[Category:Living people]]
+[[Category:Curb Records artists]]
+[[Category:21st-century American women]]
+[[Category:Singer-songwriters from Indiana]]
+
+
+{{US-country-singer-stub}}

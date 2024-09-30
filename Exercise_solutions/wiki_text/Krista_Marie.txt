@@ -1,0 +1,80 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Krista Marie
+| image                 = 
+| background          = solo_singer
+| origin              = [[Batavia (city), New York|Batavia]], New York, United States<ref name="wma">{{cite web |title=Krista Marie |url=http://www.wma.com/krista_marie/Bio/krista_marie_bio.pdf |work=WMA |accessdate=June 15, 2009}}</ref><ref name="gac">{{cite web|url=http://www.gactv.com/gac/ar_artists_a-z/article/0,3028,GAC_26071_5944849,00.html|title=Krista Marie biography|work=[[Great American Country]]|accessdate=October 12, 2009}}</ref>
+| instrument          = Vocals
+| genre               = [[Country music|Country]]
+| occupation          = Singer-songwriter
+| years_active        = 2009–present
+| label               = Holeshot/[[Broken Bow Records|Broken Bow]]
+| past_member_of = [[The Farm (American band)|The Farm]]
+| website                 = {{URL|www.kristamarie.com}}
+}}
+
+'''Krista Marie''' is an American [[country music]] artist; she is signed to [[Broken Bow Records]] subsidiary Holeshot Records. She has charted twice on the ''[[Billboard (magazine)|Billboard]]'' country singles charts. She is also a former member of [[The Farm (American band)|The Farm]].
+
+==Biography==
+Marie is also an avid ATV Motocross racer.  In 2008, Marie was involved in a crash while racing her ATV in Blountville, TN, suffering multiple injuries including a lacerated liver and four fractured vertebrae.  Just over a month later, she performed at the Hurricane Mills, TN ATV Dirt Days.<ref>{{cite web | url=http://www.atvriders.com/atvnews/amaproatv2008-11-krista-marie-country-singer-atv-interview.html | title=Racer Production's Krista Marie Interview |work=ATV Riders | accessdate=October 24, 2009}}</ref> According to her interview, she plans to continue racing, but will be selective in the events she enters.
+
+In March 2009, Marie started a promotional motorcycle ride as part of International Female Ride Day in [[Milwaukee, Wisconsin]].<ref>{{cite web |title=Krista Marie to Lead Women's Ride |url=http://www.motorcycle-usa.com/568/2833/Motorcycle-Article/Krista-Marie-to-Lead-Womens-Ride.aspx |date=March 1, 2009|work=Motorcycle USA |accessdate=June 15, 2009}}</ref> Her song "Drive It Like I Stole It" was used by [[ESPN]] for its coverage of the 2009 [[NHRA]] drag racing. In addition, this song was made available as a [[ringtone]], with profits from the ringtone going to the teen-driving safety association [[B.R.A.K.E.S.]]<ref>{{cite web |last=Cronin |first=Peter |title=BBR's Krista Marie – Ringtone for a Cause |url=http://www.musicrow.com/2009/03/broken-bows-krista-maries-ringtone-for-a-cause/ |date=March 1, 2009|work=Music Row |accessdate=June 15, 2009}}</ref> Marie charted in 2009 with "Jeep Jeep," followed by "Tomboy" in October.
+
+Marie founded the band [[The Farm (U.S. band)|The Farm]] in 2011 with [[Damien Horne]] and Nick Hoffman. The Farm signed to [[Elektra Records]] that same year.<ref>{{cite web|url=http://www.warnermusicnashville.com/artist/the-farm|title=The Farm|work=Warner Music Nashville|accessdate=August 17, 2011|archive-url=https://web.archive.org/web/20110918111622/http://www.warnermusicnashville.com/artist/the-farm|archive-date=September 18, 2011|url-status=dead}}</ref>
+
+==Discography==
+
+===Singles===
+{| class="wikitable" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Single
+!| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! style="width:45px;"| [[Hot Country Songs|US Country]]
+|- 
+| rowspan="3"| 2009
+| style="text-align:left;"| "Somethin' Fun"
+| —
+| rowspan="3" {{n/a}}
+|-
+| style="text-align:left;"| "Jeep Jeep"
+| 57
+|-
+| style="text-align:left;"| "Tomboy"
+| 57
+|}
+
+===Music videos===
+{| class="wikitable"
+|-
+! Year
+! Video
+! Director
+|-
+| 2009
+| "Tomboy"
+| [[Trey Fanjoy]]
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://www.kristamarie.com/]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Marie, Krista}}
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:BBR Music Group artists]]
+[[Category:Living people]]
+[[Category:Singer-songwriters from New York (state)]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Country musicians from New York (state)]]
+[[Category:21st-century American women]]
+[[Category:The Farm (American band) members]]

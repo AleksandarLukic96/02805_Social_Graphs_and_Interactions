@@ -1,0 +1,173 @@
+{{short description|American singer-songwriter and record producer}}
+{{Use American English|date=December 2022}}
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Keith Stegall
+| image                 = 
+| caption            = 
+| image_size            = 
+| background          = solo_singer
+| birth_name          = Robert Keith Stegall<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=401|isbn=978-0-89820-177-2}}</ref>
+| birth_date          = {{Birth date and age|1955|11|01}}
+| origin              = [[Wichita Falls, Texas]], United States
+| instrument          = Vocals<br />acoustic guitar<br />keyboard<br />[[banjo]]
+| genre               = [[country music|Country]]
+| occupation          = Singer-songwriter<br />record producer
+| years_active        = 1980–present
+| label               = [[Capitol Records|Capitol]]<br />[[Epic Records|Epic]]<br />[[Mercury Records|Mercury]]
+| website             = {{URL|www.keithstegall.com}}
+}}
+'''Robert Keith Stegall''' (born November 1, 1955<ref name="allmusic">{{cite web |url={{AllMusic|class=artist|id=p128262/biography|pure_url=yes}} |title=Keith Stegall biography |access-date=January 7, 2008 |last=Huey |first=Steve |work=[[Allmusic]]}}</ref>) is an American [[country music]] recording artist and record producer. Active since 1980, Stegall has recorded two major-label studio albums: 1985's ''Keith Stegall'' and 1996's ''Passages'', although he is mainly known for his production work.
+
+==Musical career==
+Robert Keith Stegall was born in [[Wichita Falls, Texas]], in 1955. He performed in local bands, spent a short time in northwestern Louisiana (in the mid-1970s) where he operated a small-time music recording business, then moved to [[Nashville, Tennessee]], at the persuasion of [[Kris Kristofferson]].<ref>{{Cite web |url=http://www.rama-info.com/home/producers/third/bio2_text.html |title=Keith Stegall |access-date=April 27, 2013 |archive-url=https://archive.today/20130630055830/http://www.rama-info.com/home/producers/third/bio2_text.html |archive-date=June 30, 2013 |url-status=dead }}</ref>
+
+Stegall charted thirteen singles on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] charts, with the highest-peaking being 1985's "Pretty Lady", a No.&nbsp;10 hit.<ref name="allmusic"/> Starting in the late 1980s, Stegall has been active primarily as a record producer for several recording acts, most notably [[Alan Jackson]], [[George Jones]], [[Zac Brown Band]], and [[Clay Walker]].<ref name="allmusic"/> Stegall has also written several of Jackson's singles, as well as [[George Strait]]'s Number one hit "[[I Hate Everything (song)|I Hate Everything]]" and [[Dr. Hook]]'s "[[Sexy Eyes (Dr. Hook song)|Sexy Eyes]]".
+
+In 2008, Stegall co-founded the label [[Bigger Picture Music Group]].<ref>{{Cite web |url=http://biggerpicturegroup.com/updates/news/producer%E2%80%99s-chair-keith-stegall-189 |title=News: The Producer's Chair: Keith Stegall &#124; Bigger Picture Group Artist Services |access-date=May 9, 2014 |archive-url=https://archive.today/20140509040502/http://biggerpicturegroup.com/updates/news/producer%E2%80%99s-chair-keith-stegall-189 |archive-date=May 9, 2014 |url-status=dead }}</ref> The label closed in 2014.
+
+In 2016, Stegall launched a Nashville-based production, management, and publishing firm, Dreamlined Entertainment Group, with Scott Miller of Miller Investment Management.<ref>{{cite web | date=February 1, 2016 | title=Keith Stegall Launches Dreamlined Entertainment Group | url=https://musicrow.com/2016/02/keith-stegall-launches-dreamlined-entertainment-group/ | work=Jessica Nicholson }}</ref>
+
+In October 2017, Fangate Music, a label run by Australian country music promoter Rob Potts, in conjunction with [[Sony Music Australia]], announced their partnership with Stegall's Dreamlined Entertainment Group.<ref>{{cite web | date=October 17, 2017 | title=Sony Music Australia & Fangate Music partner with Dreamlined Entertainment | url=https://www.theindustryobserver.com.au/sony-fangate-dreamlined-entertainment/ | work=Tyler Jenke }}</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:10em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="1"| Peak positions
+|- style="font-size:smaller;"
+! width="65"| [[Top Country Albums|US Country]]
+|-
+! scope="row"| ''Keith Stegall''
+| 
+* Release date: April 10, 1985
+* Label: Epic Records
+| 45
+|-
+! scope="row"| ''Passages''
+| 
+* Release date: February 27, 1996
+* Label: Mercury Nashville
+| —
+|-
+| colspan="3" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:22em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| 1980
+! scope="row"| "The Fool Who Fooled Around"
+| 58
+| —
+| align="left" rowspan="4" {{n/a}}
+|- 
+| rowspan="2"| 1981
+! scope="row"| "Anything That Hurts You (Hurts Me)"
+| 55
+| —
+|- 
+! scope="row"| "Won't You Be My Baby"
+| 65
+| —
+|- 
+| 1982
+! scope="row"| "In Love with Loving You"
+| 64
+| 40
+|- 
+| rowspan="2"| 1984
+! scope="row"| "I Want to Go Somewhere"
+| 25
+| —
+| align="left" rowspan="5"| ''Keith Stegall''
+|-
+! scope="row"| "Whatever Turns You On"
+| 19
+| —
+|-
+| rowspan="3"| 1985
+! scope="row"| "California"
+| 13
+| 11
+|-
+! scope="row"| "[[Pretty Lady (Keith Stegall song)|Pretty Lady]]"
+| 10
+| 12
+|-
+! scope="row"| "Feed the Fire"
+| 45
+| —
+|-
+| rowspan="2"| 1986
+! scope="row"| "I Think I'm in Love"
+| 36
+| 50
+| align="left" rowspan="2" {{n/a}}
+|-
+! scope="row"| "Ole Rock and Roller (With a Country Heart)"
+| 52
+| 48
+|-
+| rowspan="2"| 1996
+! scope="row"| "1969"
+| 43
+| 36
+| align="left" rowspan="2"| ''Passages''
+|-
+! scope="row"| "Fifty-Fifty"<sup>A</sup>
+| 75
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+*<sup>A</sup>[[B-side]] to "1969."
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:10em;"| Video
+! Director
+|-
+| 1985
+! scope="row"| "California"
+|{{n/a}}
+|-
+| rowspan="3"| 1996
+! scope="row"| "1969"
+| rowspan="3"| Piers Plowden
+|-
+! scope="row"| "Fifty-Fifty"
+|-
+! scope="row"| "Roll the Dice"
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Stegall, Keith}}
+[[Category:1955 births]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:American country record producers]]
+[[Category:Living people]]
+[[Category:People from Wichita Falls, Texas]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:Mercury Records artists]]
+[[Category:Epic Records artists]]
+[[Category:Capitol Records artists]]
+[[Category:Country musicians from Texas]]
+[[Category:Record producers from Texas]]

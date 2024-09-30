@@ -1,0 +1,114 @@
+{{Short description|American musician}}
+{{Use mdy dates|date=August 2020}}
+{{Infobox musical artist
+| name                = Mark Nesler
+| image_size            =
+| background          = solo_singer
+| birth_date = {{birth date and age|1961|01|05}}
+| origin              = [[Buna, Texas]], U.S.<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|pages=296|isbn=978-0-89820-177-2}}</ref>
+| instrument          = Vocals, guitar, [[banjo]]
+| genre               = [[country music|Country]]
+| occupation          = Singer-songwriter
+| years_active        = 1994–present
+| spouse = {{marriage|[[Jennifer Hanson]]|2000|2011|end=div}}
+| label               = [[Asylum Records|Asylum]], Compendia
+}}
+'''Mark Nesler''' (born January 5, 1961, in [[Beaumont, Texas]]) is an American [[country music]] artist. Signed to [[Elektra Records]] as a recording artist in 1998, Nesler charted three singles on the U.S. ''Billboard'' country charts. In addition, he has written several singles for other country music artists, including [[Tim McGraw]]'s "[[Just to See You Smile]]", a song which ''Billboard'' ranked as the number one country single of 1998.
+
+==Biography==
+Nesler played guitar at an early age. Inspired by the [[bluegrass music]] his father listened to, he soon learned to play [[banjo]] as well. After graduating high school, he played in a band called the Two Dollar Pistols.<ref name="allmusic">[{{AllMusic|class=artist|id=p294574/biography|pure_url=yes}} allmusic ((( Mark Nesler > Biography )))]</ref> In 1994, he was signed to a songwriting deal with [[Music Corporation of America|MCA Publishing]], and soon joined [[Tracy Byrd]]'s touring band.<ref name="allmusic"/> Byrd also recorded and released "[[Heaven in My Woman's Eyes]]", which Nesler wrote, as a single in 1996.
+
+In 1998, Nesler scored his first number one as a songwriter, when [[Tim McGraw]] spent six weeks at Number One on the ''Billboard'' country music charts with "[[Just to See You Smile]]".<ref>[http://countrymusic.about.com/library/bltimmcgrawdisco.htm Tim McGraw Discography at About.com]</ref> The same year, Nesler's first album was released on [[Asylum Records]]. Its leadoff single, "Used to the Pain", peaked at No.&nbsp;47 on the country charts. The album also produced his highest-charting single in "Slow Down" at No.&nbsp;46, followed by "Baby Ain't Rockin' Me Right" at No.&nbsp;62. He also co-wrote [[Aaron Tippin]]'s late-1998 single "[[For You I Will (Aaron Tippin song)|For You I Will]]".
+
+Although he exited Elektra in 1999, Nesler continued to write for Byrd, who released "Take Me with You When You Go" and "[[Just Let Me Be in Love]]" in 2000 and 2002 respectively. [[George Strait]] recorded two of his songs: "[[Go On (George Strait song)|Go On]]"; and "[[Living and Living Well]]" which was a No.&nbsp;1 single. In 2005, [[Tracy Lawrence]] reached No.&nbsp;35 on the country charts with a cover of "Used to the Pain". Nesler co-wrote [[Bucky Covington]]'s 2007 debut single "[[A Different World (song)|A Different World]]", while Nesler's other credits included "[[Why, Why, Why]]" and “Let Me Down Easy” by [[Billy Currington]] and another number one with [[Keith Urban]]'s 2008 single "[[You Look Good in My Shirt]]", along with Josh Turner’s “Time Is Love”, Billboard’s 2012 most played song of the year.
+
+Nesler is an ex-husband of singer-songwriter [[Jennifer Hanson]].<ref>{{cite web | url=https://songtown.com/on-songwriting/5-days-built-songwriting-career/ | title=5 Days Built a Songwriting Career - Songtown | date=March 23, 2017 }}</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:12em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="1"| Peak positions
+|- style="font-size:smaller;"
+! width="60"| [[Top Country Albums|US Country]]<br><ref name="Country Albums">{{cite magazine|url={{BillboardURLbyName|artist=mark nesler|chart=Country Albums C}}|title=Mark Nesler Album & Song Chart History – Country Albums|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=December 11, 2010}}</ref>
+|-
+! scope="row"| ''I'm Just That Way''
+| 
+* Release date: June 23, 1998
+* Label: [[Asylum Records]]
+| 70
+|-
+! scope="row"| ''Up All Night''
+| 
+* Release date: October 14, 2003
+* Label: Compendia
+| —
+|-
+| colspan="3" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:16em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<br><ref name="Country Songs">{{cite magazine|url={{BillboardURLbyName|artist=mark nesler|chart=Country Songs}}|title=Mark Nesler Album & Song Chart History – Country Songs|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=December 11, 2010}}</ref>
+! width="45"| [[RPM (magazine)|CAN Country]]<br><ref>{{cite web|url=http://www.collectionscanada.gc.ca/rpm/028020-110.01-e.php?PHPSESSID=mfstfhcbgmru3ti1dqs7m84283&q1=mark+nesler&q2=Country+Singles&interval=20|title=Results – RPM – Library and Archives Canada – Country Singles|work=[[RPM (magazine)|RPM]]|accessdate=December 11, 2010|archive-url=https://web.archive.org/web/20110929100921/http://www.collectionscanada.gc.ca/rpm/028020-110.01-e.php?PHPSESSID=mfstfhcbgmru3ti1dqs7m84283&q1=mark+nesler&q2=Country+Singles&interval=20|archive-date=September 29, 2011|url-status=dead}}</ref>
+|-
+| rowspan="2"| 1998
+! scope="row"| "[[Used to the Pain]]"
+| 47
+| 43
+| align="left" rowspan="3"| ''I'm Just That Way''
+|-
+! scope="row"| "Slow Down"
+| 46
+| 45
+|-
+| 1999
+! scope="row"| "Baby Ain't Rockin' Me Right"
+| 62
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:16em;"| Video
+! Director
+|-
+| rowspan="2"| 1998
+! scope="row"| "Used to the Pain"<ref>{{cite web|url=http://www.cmt.com/videos/mark-nesler/386327/used-to-the-pain.jhtml|title=CMT : Videos : Mark Nesler : Used To The Pain|publisher=[[Country Music Television]]|accessdate=October 14, 2011}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+| Jim Hershleder
+|-
+! scope="row"| "Slow Down"
+| [[Trey Fanjoy]]
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Nesler, Mark}}
+[[Category:1961 births]]
+[[Category:American country singer-songwriters]]
+[[Category:Living people]]
+[[Category:Musicians from Beaumont, Texas]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:Elektra Records artists]]
+[[Category:American male singer-songwriters]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:Country musicians from Texas]]
+[[Category:20th-century American male singers]]
+[[Category:21st-century American male singers]]

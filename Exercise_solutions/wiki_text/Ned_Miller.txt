@@ -1,0 +1,363 @@
+{{Short description|American country music singer-songwriter (1925–2016)}}
+{{distinguish|Ned Miller (baseball)|Ned Miller (composer)}}
+{{Infobox musical artist
+| name                = Ned Miller
+| background          = solo_singer
+| image               = Ned Miller.png
+| image_size          = 
+| caption             = Miller, 1964
+| birth_name          = Henry Ned Miller
+| birth_date          = {{birth date|1925|4|12}}<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=277|isbn=978-0-89820-177-2}}</ref>
+| birth_place         = [[Rains, Utah]], U.S.
+| origin              = Rains, Utah, U.S.
+| death_date          = {{death date and age|2016|3|18|1925|4|12}}<ref name="NYT">{{cite web |last=Slotnik |first=Daniel E. |url=https://www.nytimes.com/2016/05/04/arts/music/ned-miller-a-country-songwriter-who-gave-up-singing-is-dead-at-90.html |title=Ned Miller, a Country Songwriter Who Gave Up Singing, is Dead at 90 |work=[[The New York Times]] |date=3 May 2016 |access-date=4 May 2016}}</ref>
+| death_place         = [[Medford, Oregon]], U.S.
+| genre               = [[Country music|Country]]
+| occupation          = Singer-songwriter
+| instrument          = Vocals
+| years_active        = 1956–1970
+| label               = Fabor<br/>[[Capitol Records|Capitol]]<br/>Republic
+| associated_acts     = [[Bonnie Guitar]]<br/>[[Ricky Van Shelton]]<br/>[[Warren Smith (singer)|Warren Smith]]
+}}
+'''Henry Ned Miller''' (April 12, 1925 – March 18, 2016) was an American [[country music]] singer-songwriter. Active as a recording artist from 1956 to 1970, he is known primarily for his [[hit single]] "[[From a Jack to a King]]", a [[Crossover (music)|crossover]] hit in 1962 which reached [[Top 40|Top 10]] on the country music, adult contemporary, and [[Billboard Hot 100|''Billboard'' Hot 100]] [[record chart|charts]], No. 1 for 5 weeks in [[CHUM Chart|Canada]], as well as reaching No.2 in the UK charts.<ref>{{cite web|url=http://chumtribute.com/62-12-17-chart.jpg| title=CHUM Hit Parade - December 17, 1962}}</ref> He had several more chart singles in his career, although none matched the success of "From a Jack to a King". He also composed and recorded "Invisible Tears".
+
+==Biography==
+Miller's start as a songwriter came when he was sixteen years old.<ref name="allmusic">[{{AllMusic|class=artist|id=p24586/biography|pure_url=yes}} allmusic ((( Ned Miller > Biography )))]</ref> He later joined the [[United States Marine Corps]], from which he was later discharged.
+
+In 1956, both [[Gale Storm]] and [[Bonnie Guitar]] had Top Five hits with different versions of the song "[[Dark Moon (song)|Dark Moon]]", which Miller co-wrote.<ref name="allmusic"/> Another song he wrote, "A Fallen Star", was a country hit for [[Jimmy C. Newman]]. Very notable is also his uptempo song "Cave In", which in 1960 was the flip side of [[Warren Smith (singer)|Warren Smith]]'s No.&nbsp;5 country hit "I Don't Believe I'll Fall In Love Today" recorded for the [[Liberty Records]] label. He also wrote and recorded the song "From a Jack to a King", which was released on Fabor Records but saw little success on the charts.<ref name="oldies">{{Cite web|url=https://www.oldies.com/artist-biography/Ned-Miller.html|title=Ned Miller Biography|website=Oldies.com}}</ref> After being briefly signed to [[Capitol Records]], Miller returned to Fabor and persuaded them to re-release "[[From a Jack to a King]]". The song proved successful the second time around, and became a crossover hit for Miller.<ref name="allmusic"/> It sold over two million copies by July 1963, and was awarded a [[music recording sales certification|gold disc]].<ref name="The Book of Golden Discs">{{cite book
+| first= Joseph
+| last= Murrells
+| year= 1978
+| title= The Book of Golden Discs
+| edition= 2nd
+| publisher= Barrie and Jenkins Ltd
+| location= London
+| page= [https://archive.org/details/bookofgoldendisc00murr/page/148 148]
+| isbn= 0-214-20512-6
+| url-access= registration
+| url= https://archive.org/details/bookofgoldendisc00murr/page/148
+}}</ref> It was a big hit also in the United Kingdom, where it peaked at No.2 on the singles chart (spending four consecutive weeks there) and became the ninth best-selling single of 1963 in the U.K. in the process<ref name="Sixties City">{{Cite web|url=http://www.sixtiescity.net/charts/63chart.htm#top100|title=Sixties City - Pop Music Charts - Every Week Of The Sixties|website=Sixtiescity.net}}</ref> (making Miller the only American artist to reach the Top Ten best-sellers of the year in the U.K. that year).
+
+Miller was not particularly interested in his singing career, and rarely toured owing to [[stage fright]].<ref name="oldies"/> He gave up recording in the 1970s and soon moved to [[Prescott, Arizona|Prescott]], [[Arizona]], and later to [[Las Vegas Valley|Las Vegas]], [[Nevada]].<ref name="oldies"/>
+
+Country music artist [[Ricky Van Shelton]] covered "From a Jack to a King" in the 1980s; his version reached Number One on the country music chart.<ref name="allmusic"/>
+
+==Discography==
+===Albums===
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Album
+! colspan="2"| Chart positions
+! rowspan="2"| Label
+|-
+! width="50"| <small>[[Top Country Albums|U.S. Country]]</small>
+! width="50"| <small>[[Billboard 200|U.S.]]</small>
+|-
+| 1963
+| ''From a Jack to a King''
+| align="center"|
+| align="center"| 50
+| Fabor
+|-
+| rowspan="2"| 1965
+| ''Ned Miller Sings the Songs of Ned Miller''
+| align="center"|
+| align="center"|
+| rowspan="4"| Capitol
+|-
+| ''The Best of Ned Miller''
+| align="center"| 28
+| align="center"|
+|-
+| 1967
+| ''Teardrop Lane''
+| align="center"| 22
+| align="center"|
+|-
+| 1968
+| ''In the Name of Love''
+| align="center"|
+| align="center"|
+|-
+| 1970
+| ''Ned Miller's Back''
+| align="center"|
+| align="center"|
+| Republic
+|-
+| 1981
+| ''From a Jack to a King''
+| align="center"|
+| align="center"|
+| Plantation
+|}
+
+===Singles===
+{| class="wikitable"
+|- 
+!Year
+!Single
+!width="55"|<small>[[Hot Country Songs|U.S. Country]]</small>
+!width="55"|<small>[[Billboard Hot 100|U.S.]]</small>
+!width="55"|<small>[[Hot Adult Contemporary Tracks|U.S. AC]]</small>
+!width="55"|<small>[[CHUM Chart|CAN]]</small>
+!width="55"|<small>[[UK Singles Chart|UK]]<ref name="British Hit Singles & Albums">{{cite book
+| first= David
+| last= Roberts
+| year= 2006
+| title= British Hit Singles & Albums
+| edition= 19th
+| publisher= Guinness World Records Limited 
+| location= London
+| isbn= 1-904994-10-5
+| page= 367}}</ref></small>
+!width="55"|<small>[[Irish Singles Chart|IRE]]</small>
+!Album
+|- 
+|rowspan="3"|1957
+|"Roll O' Rollin' Stone"
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|rowspan=7|Singles only
+|- 
+|"[[From a Jack to a King]]"
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|-
+|"Lights in the Street"
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|- 
+|1958
+|"Gypsy"
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|- 
+|1959
+|"Ring the Bell for Johnny"
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|- 
+|rowspan="2"|1961
+|"Cold Grey Bars"
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|-
+|"[[Dark Moon (song)|Dark Moon]]"
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|- 
+|1962
+|"From a Jack to a King" <small>(re-release)</small>
+|align="center"|2
+|align="center"|6
+|align="center"|3
+|align="center"|1
+|align="center"|2
+|align="center"|1
+|rowspan="2"|''From a Jack to a King''
+|-
+|rowspan="3"|1963
+|"One Among the Many"
+|align="center"|27
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|- 
+|"Another Fool Like Me"
+|align="center"|28
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|rowspan=2|Singles only
+|- 
+|"Big Love"
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|-
+|1964
+|"Invisible Tears"
+|align="center"|13
+|align="center"|131
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|rowspan="2"|''The Best''
+|-
+|rowspan="4"|1965
+|"Do What You Do Do Well"
+|align="center"|7
+|align="center"|52
+|align="center"|—
+|align="center"|29<ref>{{cite web|url=http://chumtribute.com/65-01-25-chart.jpg| title=CHUM Hit Parade - January 25, 1965}}</ref>
+|align="center"|48
+|align="center"|—
+|-
+|"Two Voices, Two Shadows, Two Faces"
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|rowspan="3"|''Songs of Ned Miller''
+|-
+|"Whistle Walkin{{' "}}
+|align="center"|28
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|- 
+|"Down the Street"
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|- 
+|rowspan="3"|1966
+|"Lovin' Pains"
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|''The Best''
+|- 
+|"Summer Roses"
+|align="center"|39
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|rowspan="2"|''Teardrop Lane''
+|- 
+|"Teardrop Lane"
+|align="center"|44
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|-
+|rowspan="2"|1967
+|"Echo of the Pines"
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|rowspan=2|Singles only
+|- 
+|"Hobo"
+|align="center"|53
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|- 
+|1968
+|"Only a Fool"
+|align="center"|61
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|''In the Name of Love''
+|-
+|1969
+|"Autumn Winds"
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|rowspan=2|Singles only
+|- 
+|rowspan="3"|1970
+|"Breakin{{' "}}
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|- 
+|"Lover's Song"
+|align="center"|39
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|rowspan="2"|''Ned Miller's Back''
+|- 
+|"Back to Oklahoma"
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Miller, Ned}}
+[[Category:1925 births]]
+[[Category:2016 deaths]]
+[[Category:American country singer-songwriters]]
+[[Category:Country musicians from Utah]]
+[[Category:Capitol Records artists]]
+[[Category:People from Carbon County, Utah]]
+[[Category:United States Marine Corps personnel of World War II]]
+[[Category:Singer-songwriters from Utah]]

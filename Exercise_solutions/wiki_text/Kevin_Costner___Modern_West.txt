@@ -1,0 +1,178 @@
+{{Short description|American country rock band}}
+{{Infobox musical artist  <!-- See Wikipedia:WikiProject Musicians -->
+| name                = Kevin Costner & Modern West
+| image               = Costner and Modern West, 2010.jpg
+| caption             =
+| image_size          = 250
+| landscape           = yes
+| background          = group_or_band
+| origin              =
+| genre               = [[Country rock]], [[country music|country]]
+| years_active        = 2007–present
+| label               = [[Show Dog-Universal Music|Universal South]]
+| associated_acts     =
+| website             = [(hacked) redirects somewhere else Official Website]
+| current_members     = [[Kevin Costner]]<br/> John Coinman<br/> Teddy Morgan<br/> Blair Forward<br/> Larry Cobb<br/> Park Chisolm<br/> Luke Bulla<br/> Bobby Yang<br/> Roddy Chong
+| past_members        =
+}}
+
+'''Kevin Costner & Modern West''' is an American [[country rock]] band founded and fronted by actor [[Kevin Costner]]. He began a worldwide tour with the band in October 2007, which included shows in Istanbul and Rome. It also performed at NASCAR Sprint Cup Series races at Daytona International Speedway and Lowe's Motor Speedway in [[Concord, North Carolina]].
+
+The band released its first country album, ''[[Untold Truths]]'', on November 11, 2008, on Universal South Records. It peaked at No.&nbsp;61 on the ''Billboard'' Top Country Albums chart and No.&nbsp;35 on the Top Heatseekers chart. Three singles ("Superman 14", "Long Hot Night" and "Backyard") have been released to radio, although none have charted. Videos were made for the songs "Superman 14", "Backyard" and "Hey Man What About You".
+
+In 2009, Costner went on tour with the band and special guests The Alternate Routes. In August, at the Big Valley Jamboree in Camrose, Alberta, Costner and the band were scheduled next on stage when a severe thunderstorm struck, causing the stage and stands on the main stage to collapse. One person was reported dead and forty wounded.<ref>{{cite news|url=https://www.nytimes.com/aponline/2009/08/02/world/AP-CN-Canada-Stage-Collapse.html?_r=1 |title=1 Dead, 40 Injured in Canada Stage Collapse |newspaper=[[The New York Times]]|date=August 2, 2009 |accessdate=August 2, 2009}}{{dead link|date=February 2014}}</ref> Later, an auction was held to raise money for the two young sons of the woman killed. A dinner with Costner was auctioned for $41,000. Two guitars, one autographed by Costner, helped raise another $10,000 each.<ref>{{cite news |first=Nick |last=Lees |title=Katz likely culprit behind mystery $41,000 bid |url=https://www.pressreader.com/canada/edmonton-journal/20090812/281882999355295 |work=Edmonton Journal |date=August 12, 2009 |page=B3}}</ref>
+
+In February 2010, Kevin Costner & Modern West released their second album, ''Turn It On'', only in Europe. To support the album the band toured Europe, with ''Turn It On'' reaching the album charts in Germany, Austria, Switzerland and Greece. The first single from the album, "Let Me Be the One", with special guest Sara Beck singing with Costner, was also made as a music video. A third album, ''From Where I Stand'', was released in 2011 and included vocals from the German pop singer [[Nena]]. In April 2012, the band played a benefit gala for the [[Adrienne Arsht Center for the Performing Arts]] in Miami, Florida.
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:20em;"| Title
+! rowspan="2" style="width:20em;"| Album details
+! colspan="8"| Peak chart positions
+|- style="font-size:smaller;"
+! width="40"| [[Top Country Albums|US Country]]<br><ref>{{cite magazine|url={{BillboardURLbyName|artist=kevin costner|chart=all}}|title=Kevin Costner Album & Song Chart History (Country Albums)|magazine=Billboard|accessdate=August 11, 2010}}</ref>
+! width="40"| [[Billboard 200|US]]
+! width="40"| [[Top Heatseekers|US<br>Heat]]<br><ref>{{cite magazine|url={{BillboardURLbyName|artist=kevin costner|chart=Heatseekers Albums}}|title=Kevin Costner Album & Song Chart History (Heatseekers Albums)|magazine=Billboard|accessdate=August 11, 2010}}</ref>
+! width="40"| [[Independent Albums|US Indie]]
+! width="40"| [[Ö3 Austria Top 40|AUT]]<br><ref>{{cite web|url=http://www.austriancharts.at/search.asp?cat=a&search=Kevin+Costner|title=austriancharts.at - Austria Top 40|publisher=austriancharts.at|accessdate=August 11, 2010}}</ref>
+! width="40"| [[Media Control Charts|GER]]<br><ref>{{cite web|url=http://www.musicline.de/de/chartverfolgung_summary/artist/Costner%2CKevin+%26+Modern+West/longplay|title=German Charts - Albums - Kevin Costner and Modern West|publisher=Hung Medien|accessdate=December 21, 2010|archive-url=https://web.archive.org/web/20121011015056/http://www.musicline.de/de/chartverfolgung_summary/artist/Costner%2CKevin+%26+Modern+West/longplay|archive-date=October 11, 2012|url-status=dead|df=mdy-all}}</ref>
+! width="40"| [[Greek Albums Chart|GRE]]<br><ref>{{cite web|url=http://greekcharts.com/search.asp?cat=a&search=kevin+costner|title=greekcharts.com - Greek charts portal|publisher=greekcharts.com|accessdate=August 11, 2010|archive-url=https://web.archive.org/web/20120303025147/http://greekcharts.com/search.asp?cat=a&search=kevin+costner|archive-date=2012-03-03|url-status=dead}}</ref>
+! width="40"| [[Swiss Music Charts|SWI]]<br><ref>{{cite web|url=http://hitparade.ch/search.asp?search=kevin+costner&cat=a|title=Dir Offizielle Schweizer Hitparade und Music Community|publisher=hitparade.ch|accessdate=August 11, 2010}}</ref>
+|-
+! scope="row"| ''[[Untold Truths]]''
+| 
+* Release date: November 11, 2008
+* Label: [[Show Dog-Universal Music|Universal South Records]]
+| 61
+| —
+| 35
+| —
+| —
+| —
+| —
+| —
+|-
+! scope="row"| ''[[Turn It On (Kevin Costner and Modern West album)|Turn It On]]''
+| 
+* Release date: February 26, 2010
+* Label: [[Edel Music]]
+| —
+| —
+| —
+| —
+| 25
+| 28
+| 31
+| 65
+|-
+! scope="row"| ''[[From Where I Stand (album)|From Where I Stand]]''
+| 
+* Release date: September 27, 2011
+* Label: Edel Music
+| —
+| —
+| —
+| —
+| —
+| 39
+| —
+| 62
+|-
+! scope="row"| ''[[Famous for Killing Each Other: Music from and Inspired By Hatfields & McCoys]]''
+| 
+* Release date: May 22, 2012
+* Label: Madison Gate Records
+| 14
+| 73
+| 16
+| 15
+| —
+| —
+| —
+| —
+|-
+! scope="row"|''Tales from [[Yellowstone (American TV series)|Yellowstone]]''
+|
+* Released: 2020
+* Label: Kevin's Music
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+| colspan="10" style="font-size:8pt"| "—" denotes releases that did not chart or were not released to that country
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! Year
+! style="width:20em;"| Single
+! Album
+|-
+| rowspan="2"| 2008
+! scope="row"| "Superman 14"
+| align="left" rowspan="4"| ''Untold Truths''
+|-
+! scope="row"| "Long Hot Night"
+|-
+| rowspan="2"| 2009
+! scope="row"| "Backyard"
+|-
+! scope="row"| "Hey Man What About You"
+|-
+| 2010
+! scope="row"| "Let Me Be the One" <small>(featuring Sara Beck)</small>
+| align="left"| ''Turn It On''
+|-
+| 2011
+! scope="row"| "Let Go Tonight" <small>(featuring [[Nena]])</small>
+| align="left"| ''From Where I Stand''
+|-
+| 2014
+! scope="row"| "Alive in the City"
+|-
+| 2017
+! scope="row"| "Love Shine"
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:10em;"| Video
+! Director
+|-
+| rowspan="2"| 2008
+! scope="row"| "Superman 14"
+| Mark Gillard
+|-
+! scope="row"| "Backyard"
+| Rory Karpf
+|-
+| 2010
+! scope="row"| "Turn It On"
+| 
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category|Kevin Costner}}
+* [http://countrymusicpride.com/kevin-costner-modern-west-untold-truths-universal-south/ Review of Kevin's Country Band at www.CountryMusicpride.com]
+
+{{Kevin Costner}}
+{{Authority control}}
+{{DEFAULTSORT:Kevin Costner And Modern West}}
+[[Category:Musical groups established in 2007]]
+[[Category:Show Dog-Universal Music artists]]
+[[Category:American country rock groups]]
+[[Category:American country music groups]]

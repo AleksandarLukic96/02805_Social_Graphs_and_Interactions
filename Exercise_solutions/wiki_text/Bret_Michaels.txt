@@ -1,0 +1,452 @@
+{{Short description|American musician}}
+{{Use mdy dates|date=March 2019}}
+{{Infobox musical artist
+| name              = Bret Michaels
+| image             = Bret Michaels 2019 (cropped).jpg
+| caption           = Michaels performing in 2019
+| birth_name        = Bret Michael Sychak
+| birth_date        = {{birth date and age|mf=yes|1963|3|15}}<ref name="biography.com">{{cite web|url = https://www.biography.com/musician/bret-michaels|publisher = Biography.com|title = Bret Michaels| date=May 12, 2021 |access-date=6 July 2022}}</ref>
+| birth_place       = [[Butler, Pennsylvania]], U.S.
+| occupation        = {{hlist|Singer|musician|songwriter|actor|filmmaker}}
+| genre             = {{hlist||[[Hard rock]]|[[glam metal]]|[[country rock]]|[[country music|country]]|[[blues-rock]]}}
+| instrument        = {{hlist|Vocals|guitar<!--- If you think an instrument should be listed|a discussion to reach consensus as to the nobility of the instrument(s) being primary is highly recommended first. The related guideline is here: [[Template:Infobox_musical_artist#instrument]] --->}}
+| years_active      = 1983–present
+| label             = [[Capitol Records|Capitol]], Cyanide Music Inc., [[VH1 Classic]]
+| associated_acts   = {{hlist|[[Poison (American band)|Poison]]|[[Jessica Andrews]]|[[Loretta Lynn]]}}
+| website           = {{URL|bretmichaels.com}}
+}}
+'''Bret Michael Sychak''' (born March 15, 1963), known professionally as '''Bret Michaels''', is an American singer and musician. He is the frontman of rock band [[Poison (band)|Poison]] who has sold over 65 million albums worldwide<ref>{{cite web|url = http://www.poisonweb.com/?module=news&news_item_id=28 |title=Poison joins Def Leppard for summer 2009 tour!|publisher=Signatures Network Inc|date=February 25, 2009|access-date=2010-09-15}}</ref> and 30 million records in the United States.<ref>{{cite web|url=https://www.riaa.com/goldandplatinumdata.php?resultpage=2&table=tblTopArt&action= |title=Top Selling Artists |publisher=RIAA |url-status=dead |archive-url=https://web.archive.org/web/20130725020825/http://www.riaa.com/goldandplatinumdata.php?resultpage=2&table=tblTopArt&action= |archive-date=July 25, 2013 |df=mdy }}</ref> The band has also charted 10 singles to the [[Top 40]] of the [[Billboard Hot 100|''Billboard'' Hot 100]], including six Top 10 singles and a number-one single, "[[Every Rose Has Its Thorn]]".<ref name="allmusic">{{cite web|url = {{AllMusic|class=artist|id=p5162|pure_url=yes}}|title = Poison: Billboard|publisher = AllMusic.com}}</ref>
+
+Besides his career as frontman, he has several solo albums to his credit, including [[A Letter from Death Row (album)|the soundtrack album]] to the 1998 film ''[[A Letter from Death Row (film)|A Letter from Death Row]]'' in which Michaels starred, wrote and directed, and a rock album, ''[[Songs of Life (Bret Michaels album)|Songs of Life]]'', in 2003. Michaels has appeared in several films and TV shows, including as a judge on the talent show ''[[Nashville Star]]'' which led to his country influenced rock album ''[[Freedom of Sound]]'' in 2005. He starred in the hit [[VH1]] reality show ''[[Rock of Love with Bret Michaels]]'' and its sequels, which inspired his successful solo album ''[[Rock My World (album)|Rock My World]]''. He was also the winning contestant on NBC's reality show ''[[The Apprentice (American TV series) season 9|Celebrity Apprentice 3]]'' and also featured in his own reality docuseries ''[[Bret Michaels: Life as I Know It]]'', which inspired his highest-charting album as a solo artist, ''[[Custom Built]]'', reaching No. 1 on ''Billboard''{{'}}s Hard Rock chart. He is also known for hosting on the [[Travel Channel]]. In 2006, ''[[Hit Parader]]'' ranked Michaels at No. 40 on their list of greatest heavy metal singers of all time.<ref name="hit parader">{{cite web |url=http://www.hearya.com/2006/12/04/hit-paraders-top-100-metal-vocalist-of-all-time/ |title=Hit Parader's Top 100 Metal Vocalist of All Time |date=December 4, 2006 |publisher=[[Hit Parader]]}}</ref>
+
+==Early life==
+Michaels was born Bret Michael Sychak on March 15, 1963, to Wally and Marjorie Sychak, north of [[Pittsburgh]] in the town of [[Chicora, Pennsylvania]], and grew up in [[Mechanicsburg, Pennsylvania]].<ref name="biography.com"/> He attended [[Mechanicsburg Area Senior High School]]. He has two sisters, Michelle and Nicole.<ref>{{Cite web|url=https://www.tvguide.com/celebrities/bret-michaels/bio/142699|title=Bret Michaels|website=TV Guide|access-date=August 5, 2020}}</ref> He claims that his parents had originally intended for him to have the middle name "Maverick", after the title character in the popular [[James Garner]] TV Western series ''[[Maverick (TV series)|Maverick]]''.<ref name="annecarlini.com">{{cite web|url=http://www.annecarlini.com/ex_interviews.php?id=164 |title=Exclusive Magazine |publisher=Anne Carlini |access-date=2012-12-19}}</ref> He is of [[Rusyns|Carpatho-Rusyn]] (from his paternal grandfather), Irish, English, German, and Swiss descent.<ref>{{cite news| url=http://www.huffingtonpost.com/megan-smolenyak-smolenyak/bret-michaels-the-rusyn-r_b_585549.html | work=[[The Huffington Post]] | title=Bret Michaels: The Rusyn Roots of the Rock of Love | date=May 21, 2010 | first=Megan | last=Smolenyak}}</ref> Bret's great-uncle Nick Sychak fought at Omaha Beach in the Invasion of Normandy and was killed in action in France in 1944.<ref>{{Cite web|url=http://familyhistoryinsider.com/bret-michaels-ancestor-landed-at-omaha-beach-in-the-invasion-of-normandy|title=familyhistoryinsider.com|website=Familyhistoryinsider.com|access-date=August 5, 2020}}</ref>
+
+At the age of 6, Michaels fell ill, and during a three-week stay in the hospital, he was diagnosed with [[Type 1 diabetes]].<ref name=BehindMusic>''Behind the Music'' [[VH1]]; September 28, 2009</ref>
+
+==Music career==
+Michaels began playing the guitar as a teenager, forming a band with drummer [[Rikki Rockett]], bass player [[Bobby Dall]] and guitarist David Besselman.  Shortly thereafter, Besselman left the band due to creative differences and in 1983 the band hired [[Matt Smith (musician)|Matt Smith]] to form a new band named Paris in [[Mechanicsburg, Pennsylvania]]. In early 1984 the band tired of playing the Pennsylvania bar circuit, changed their name to [[Poison (American band)|Poison]]<ref name="BehindMusic"/> and moved west to Los Angeles to seek fame on the [[Sunset Boulevard]] scene. That same year, Michaels met 16-year-old Tracy Lewis, who would become both his girlfriend and the muse for one of his most memorable songs. Eventually, Matt Smith tired of the band's struggle to find fame and returned home. He was replaced by [[C.C. DeVille]], who would become both Michaels' friend and a source of conflict.<ref name=BehindMusic/>
+
+===1980s–1990s===
+Local publicity about the band eventually led to a record deal with [[Enigma Records]], and their first album, ''[[Look What the Cat Dragged In]]''. The album was not a great success until 1987, when Michaels convinced the band to film a video for their song, "Talk Dirty to Me". The album went platinum, and the band became famous. In March of that year, Poison headlined a show at [[Madison Square Garden]]. Michaels took his insulin injection before the show but was so nervous about performing that he neglected to eat. Several songs into Poison's set, Michaels went into [[Diabetic hypoglycemia|insulin shock]] and collapsed onstage. When subsequent media reports alleged that Michaels collapsed due to a drug overdose, Michaels publicly announced that he was a [[diabetic]].<ref name=BehindMusic/>
+
+1987 also saw the dissolution of his relationship with Lewis, who felt that fame had changed him. Though Michaels contends that Lewis was unfaithful to him, Lewis (now Lewis Crosby) insists that it was Michaels who was unfaithful. Michaels was inspired by the breakup to write "[[Every Rose Has Its Thorn]]", explaining that the rose represented his fame and success, whereas the loss of his relationship represented the thorn. The song was released as a [[power ballad]] single in December 1988, and is regarded as "the ultimate '80s anthem about heartbreak".<ref name=BehindMusic/>
+
+Throughout the 1980s and early 1990s, Poison became one of the biggest [[glam metal]] bands in the world, recording their second album, the multi-platinum selling ''[[Open Up and Say... Ahh!]]'', and their third album, the multi-platinum selling ''[[Flesh & Blood (Poison album)|Flesh & Blood]]''. However, their lives were characterized by the escalating tension between Michaels and DeVille that derived from their mutual drug use, which came to a head during their 1990/91 "Flesh and Blood" world tour. Also cited is the spectacle of DeVille's behavior during the [[1991 MTV Video Music Awards]]. After getting into a fistfight with Michaels, DeVille left the band, and descended further into addiction. Poison went on with new guitarist [[Richie Kotzen]] recording the Gold album ''[[Native Tongue (Poison album)|Native Tongue]]'' and then with guitarist [[Blues Saraceno]] recording the album ''[[Crack a Smile... and More!]]''. In the mid-1990s, after a night of partying, Michaels came close to dying when he crashed his [[Ferrari]] into a telephone pole.  He incurred serious injury, including broken ribs, a disfigured nose, and lost teeth.<ref name=BehindMusic/>
+In 1999, The band reunited with original guitarist, C.C. Deville. Poison went on a successful greatest hits reunion tour. In the next decade, Bret Michaels would split his time between Poison and a successful solo career.
+
+===2000s===
+[[file:BretMichaels.JPG|thumb|Michaels in 2008]]
+Michaels recorded his soundtrack album in 1998 titled ''[[A Letter from Death Row (album)|A Letter from Death Row]]'' which was the soundtrack to the [[A Letter from Death Row (film)|same-titled movie]] he directed, wrote, and starred in. In 2000 Michaels released a country demos ep and also released the album "Show Me Your Hits" which featured re-recorded Poison classics.The album featured Michaels performing Poison hits in a new way and also featured other artists with Michaels on selected tracks. In 2001 Michaels released a unique storytellers CD titled ''[[Ballads, Blues & Stories]]'' which featured Poison and Michaels solo tracks along with recorded stories about each song.
+
+In 2003, Michaels released a brand new studio album ''[[Songs of Life (Bret Michaels album)|Songs of Life]]'' which featured the singles "Raine" (dedicated to his daughter) and "Bittersweet". Michaels also released his first solo music video for the single "Raine" which was directed by award-winning director [[Shane Stanley]].<ref>{{cite web|url=http://legacy.roadrunnerrecords.com/blabbermouth.net/news.aspx?mode=Article&newsitemID=9833 |archive-url=https://archive.today/20120711180131/http://legacy.roadrunnerrecords.com/blabbermouth.net/news.aspx?mode=Article&newsitemID=9833 |url-status=dead |archive-date=2012-07-11 |title=POISON Frontman To Release First Enhanced Solo CD And Video |publisher=Blabbermouth.net |year=2003 |access-date=2012-06-06 }}</ref>
+The album also featured a music video for "Menace to Society" and a 9/11 tribute "One More Day".<ref>{{cite web|url=http://legacy.roadrunnerrecords.com/blabbermouth.net/news.aspx?mode=Article&newsitemID=5983 |archive-url=https://archive.today/20120710220226/http://legacy.roadrunnerrecords.com/blabbermouth.net/news.aspx?mode=Article&newsitemID=5983 |url-status=dead |archive-date=2012-07-10 |title=Bret Michaels posts 9/11 tribute |publisher=Blabbermouth.net |year=2002 |access-date=2012-06-06 }}</ref>
+
+Michaels served as a judge on the 2005 season of the [[reality television]] singing competition ''[[Nashville Star]]'' and released a country rock album in the same year called ''[[Freedom of Sound]]''. The album features the singles "Right Now, Right Here",<ref>{{cite web|url=http://legacy.roadrunnerrecords.com/blabbermouth.net/news.aspx?mode=Article&newsitemID=20012|archive-url=https://archive.today/20120713190311/http://legacy.roadrunnerrecords.com/blabbermouth.net/news.aspx?mode=Article&newsitemID=20012|url-status=dead|archive-date=2012-07-13|title=Bret Michaels posts new single|publisher=Blabbermouth.net|year=2004|access-date=2012-06-06}}</ref> "Open Road" which Michaels performed live on the show<ref>{{cite web|url=http://legacy.roadrunnerrecords.com/blabbermouth.net/news.aspx?mode=Article&newsitemID=35651|archive-url=https://archive.today/20120715053221/http://legacy.roadrunnerrecords.com/blabbermouth.net/news.aspx?mode=Article&newsitemID=35651|url-status=dead|archive-date=2012-07-15|title=BRET MICHAELS To Debut New Single On 'Nashville Star'|publisher=Blabbermouth.net|year=2005|access-date=2012-06-06}}</ref> and the hit single "[[All I Ever Needed]]" (featuring [[Jessica Andrews]]) which appeared on [[Billboard (magazine)|Billboard]]'s "Hot Country Songs" chart, with its best position being number 45.<ref>{{cite web|url= http://www.allmusic.com/artist/bret-michaels-mn0000935889/awards|title=Bret Michaels charts|publisher= Allmusic}}</ref> The song also featured a music video which appeared on Billboard's "Hot Videoclip Tracks" chart in 2008.<ref>{{cite magazine|url={{BillboardURLbyName|artist=bret michaels|chart=Hot Videoclip Tracks}}|title= Hot Videoclip Tracks – All I Ever Needed – Bret Michaels With Jessica Andrews |magazine=Billboard|access-date=2008-10-14}}</ref>
+
+Michaels released a best of album called ''[[Rock My World (album)|Rock My World]]'' in June 2008 which featured music from his reality television series ''[[Rock of Love with Bret Michaels|Rock of Love]]'' including the new singles "[[Go That Far (Bret Michaels song)|Go That Far]]" (Rock of Love theme), "Fallen" and "Start Again", the first two singles also featuring music videos with clips from the series. The album charted at No.&nbsp;40 on the [[Billboard 200|''Billboard'' 200]], No.&nbsp;4 on the [[Top Independent Albums]], No.&nbsp;4 on the [[Top Hard Rock Albums]] and No.&nbsp;16 on the [[Top Rock Albums]] chart.<ref>{{cite web|url={{BillboardURLbyName|artist=bret michaels|chart=all}}|title=Billboard – Bret Michaels chart history (Rock My World) |year= 2010 }}</ref> In December 2008, Michaels released a single version of "Driven" (rock mix) which also featured a music video with preview clips for the third season of Rock of Love, titled ''[[Rock of Love Bus]]''. Michaels also re released the "Fallen" single with acoustic, piano and demo versions included.<ref>{{cite web|url = http://www.bretmichaels.com/2009/music_files/2008singles.php|title = 2008 digital singles|publisher = BretMichaels.com|url-status = dead|archive-url = https://web.archive.org/web/20090617070624/http://www.bretmichaels.com/2009/music_files/2008singles.php|archive-date = June 17, 2009|df = mdy-all}}</ref>
+
+Michaels released a 30-minute DVD from [[Time Life]] in 2008 called ''Hard & Heavy Confidential featuring Bret Michaels'' which included acoustic versions of "All I Ever Needed", "Driven", "[[Every Rose Has Its Thorn]]" and "Something to Believe In", it also included in depth interviews.<ref>{{cite web|url = http://www.timelife.com/webapp/wcs/stores/servlet/ProductDisplay?catalogId=10001&storeId=1001&langId=-1&top_category=90001&productId=72518|title = Time Life Video: Hard & Heavy confidential featuring Bret Michaels|publisher=TimeLife.com}}</ref> The DVD was included in the Hard & Heavy CD/DVD collection from (Time Life) advertised on TV by Bret Michaels. The same four acoustic performances were also released on CD titled "Bret Michaels Acoustic Sessions".<ref>{{cite web|url = https://www.rollingstone.com/artists/bretmichaels/albums/album/24285466/acoustic_sessions|archive-url = https://web.archive.org/web/20090123064324/http://www.rollingstone.com/artists/bretmichaels/albums/album/24285466/acoustic_sessions|url-status = dead|archive-date = January 23, 2009|title = Bret Michaels Acoustic Sessions: Music Review|publisher = RollingStone.com}}</ref>
+
+===2010–2014===
+
+[[File:Bret Michaels performs in Massapequa%2C NY in 2014.jpg|thumb|left|Michaels performs at John J. Burns Park in Massapequa, New York, 2014]]
+In  2010, Michaels released a new single called "[[Nothing to Lose (Bret Michaels song)|Nothing to Lose]]" from his upcoming new studio album, ''[[Custom Built (album)|Custom Built]]''. The song featured the guest vocals of [[Miley Cyrus]] and was the most added song to radio the week of its release, topping both Bon Jovi and Nickelback.<ref name="New single">{{cite web|url =http://eddietrunk.com/bret-michaels-to-release-new-single-jorja-bleu-on-april-7th/|title=New single|date=March 29, 2017 |publisher=Eddietrunk}}2017</ref> In April 2010, he released the second single "[[Lie to Me (Bret Michaels song)|Lie to Me]]" and in May 2010 released the third single, "Wasted Time".
+
+Michaels performed on the [[American Idol (season 9)|''American Idol'' season 9]] finale on May 26 against his doctor's recommendation. Michaels also performed a duet of "Every Rose Has Its Thorn" with Miley Cyrus on the June 18, 2010 episode ''[[Good Morning America]]''.<ref>Herrera, Monica. [http://www.billboard.com/articles/columns/viral-videos/957693/miley-cyrus-and-bret-michaels-duet-on-good-morning-america "Miley Cyrus and Bret Michaels Duet on 'Good Morning America'"] ''[[Billboard (magazine)|Billboard]]''; June 18, 2020</ref>
+
+On July 6, 2010, Michaels released his new album ''[[Custom Built (album)|Custom Built]]''. The album became Michaels' highest charting solo album to date peaking at No.&nbsp;1 on both the [[Top Independent Albums]] and [[Top Hard Rock Albums]] chart and also charting at No.&nbsp;4 on the [[Top Rock Albums]] and No.&nbsp;14 on the [[Billboard 200|''Billboard'' 200]].<ref name="Billboard 200">{{cite web|url={{BillboardURLbyName|artist=bret michaels|chart=all}}|title=Bret Michaels Album & Song Chart History – Billboard 200|publisher=Billboard|access-date=September 17, 2010}}</ref>
+
+On August 4, 2010, Michaels appeared in the fifth season of ''[[America's Got Talent (season 5)|America's Got Talent]]'' and performed "[[Every Rose Has Its Thorn]]", accompanying himself on acoustic folk guitar.
+
+Despite not being released as a single, a music video was produced for "Riding Against the Wind" a song from Michaels' latest album "Custom Built" that also doubles as the theme song for his new VH1 reality show ''[[Bret Michaels: Life As I Know It]]''. The music video was released on October 7, 2010, exclusively at Billboard's and contains footage from the series, which officially premieres on VH1 on October 18, 2010.<ref>{{cite magazine|url=http://www.billboard.com/articles/news/954920/video-premiere-bret-michaels-riding-against-the-wind|title=Video Premiere: Bret Michaels' "Riding Against The Wind"|magazine=[[Billboard (magazine)|Billboard]]|year= 2010 }}</ref>
+Michaels also released a music video for the cover of [[Sublime (band)|Sublime]]'s song "[[What I Got]]", which is the fourth single from "Custom Built". The music video is a special tribute to his fans and was released on Thanksgiving.<ref>{{cite web|url = http://www.hollywoodnews.com/2010/11/26/bret-michaels-premieres-holiday-version-of-what-i-got-music-video/|title = Bret Michaels premieres holiday version of 'What I Got' music video|access-date = November 28, 2010|archive-date = November 28, 2010|archive-url = https://web.archive.org/web/20101128163913/http://www.hollywoodnews.com/2010/11/26/bret-michaels-premieres-holiday-version-of-what-i-got-music-video/|url-status = dead}}2010</ref>
+
+In early 2011 Michaels recorded a new song "Hit and Roll" for ''[[Top Gear (U.S. TV series)]]''<ref>{{cite web|url = http://blog.zap2it.com/frominsidethebox/2011/01/top-gear-bret-michaels-is-the-rock-star-in-a-small-car.html|title = Top Gear Bret Michaels|publisher = Zap2it|url-status = dead|archive-url = https://web.archive.org/web/20121113055619/http://blog.zap2it.com/frominsidethebox/2011/01/top-gear-bret-michaels-is-the-rock-star-in-a-small-car.html|archive-date = November 13, 2012|df = mdy-all}}2011</ref> which also included a music video featured on the series and the promo commercials.<ref>{{cite web|url = http://transmission.blogs.topgear.com/2011/01/08/top-gear-usa-episode-8-this-weekend/|title =Top Gear USA|publisher=Transmission}}2011</ref>
+
+On December 31, 2011, Michaels celebrated the new year with a New Year’s Eve concert from the "Get Your Rock On" solo tour. The concert took place in Springfield, IL at the Prairie Capital Convention Center. To make the night complete, this New Year's Eve bash will be featured and well documented in the music video for the new single "Get Your Rock On" from Bret's upcoming new album.<ref>{{cite web|url = http://www.bravewords.com/news/171033|title =Bret Michaels New Year's Eve Extravaganza}}2012</ref> The single "Get Your Rock On (featuring [[Phil Collen]] & Sal Costa)" was released January 9, 2012.
+
+In conjunction with his new single Michaels also released an alternate version titled "Get Your Ride On (featuring [[Phil Collen]])" on January 10, 2012. The song will also serve as Monster Energy [[AMA Supercross]] Opener all season on [[Speed (TV channel)|Speed]] with an exclusive video that premiered on SPEED TV January 7, 2012. The video will be customized for each race throughout the season.<ref>{{cite web|url=https://finance.yahoo.com/news/bret-michaels-ride-serve-monster-212000196.html |title=Bret Michaels' Get Your Ride On to Serve as Monster Energy AMA Supercross Opener All Season on SPEED™ }}{{dead link|date=November 2016 |bot=InternetArchiveBot |fix-attempted=yes }}2012</ref>
+
+Michaels toured with [[Def Leppard]] and [[Lita Ford]] in 2012.<ref name=Elavsky/> In August 2012 Michaels released a new single "They Don't Make An App For That (The App Song)" through Michaels' official Bret Michaels App. The song is a fun, tongue-in-cheek country crossover tune that takes on today’s social media culture. "The App Song" features a teaser video.<ref>{{cite web|url = http://metaltalk.net/news2012-2/2012355.php|title =Bret Michaels latest single|date =September 6, 2012|publisher=Metal Talk}}2013</ref>
+
+In January 2013, Michaels released a new single "You Know You Want It (Featuring [[Peter Keys]])" from his upcoming new album titled "[[Jammin' With Friends]]". The new album features collaborations with some of the top artists and players in music from a variety of genres and generations.<ref>{{cite web|url = http://www.bravewords.com/news/198024|title =Bret Michaels upcoming solo album|publisher=Bravewrds}}2013</ref> The album was released June 25, 2013 and charted at No. 13 on the [[Top Hard Rock Albums]] chart, #23 on the [[Top Independent Albums]] chart, #29 on the [[Top Rock Albums]] chart and #80 on [[The Billboard 200]].<ref>{{cite web|url= http://www.allmusic.com/artist/bret-michaels-mn0000935889/awards|title=Bret Michaels: Jammin' with Friends chart history|publisher= Allmusic|year= 2013 }}</ref>
+
+On April 1, 2014, Michaels released his new solo single, "[[A Beautiful Soul (Bret Michaels song)|A Beautiful Soul]]", with a music video being released on April 2. Michaels announced that he will perform the track live on the April 2 edition of "Oprah's Lifeclass" which will be taped live on Oprah's website.<ref>{{cite web|url= http://www.blabbermouth.net/news/bret-michaels-to-release-a-beautiful-soul-digital-single/|title=Bret Michaels: 'A Beautiful Soul' single and video|publisher= Blabbermouth|year= 2014 }}</ref><ref>{{cite web|url= http://purerocknews.com/bret-michaels-new-solo-single-a-beautiful-soul-audio-sample-available/|title=BRET MICHAELS' New Solo Single 'A Beautiful Soul'|publisher= Pure Rock News |year= 2014 }}</ref>
+
+===2015–present===
+
+On April 7, 2015, Michaels released a new song titled "Girls on Bars", making it the second year in a row he released a new song during the month of April.
+The song was co-written with Grammy award-winning songwriter of the year, [[Luke Laird]].<ref>{{cite web|url = http://bravewords.com/news/bret-michaels-girls-on-bars-fan-jam-appreciation-video-released|title =Bret Michaels Girls on Bars}}2015</ref> "Girls on Bars” boasted the highest number of views of any debut single ever on CMT.<ref name="New single"/>
+
+On April 9, 2015, Michaels announced his new solo album titled ''[[True Grit (Bret Michaels album)|True Grit]]''. The album features 21 new and classic hits. The compilation was released digitally May 5, 2015 and Michaels released the video for the new single "Girls On Bars" on May 12.<ref>{{Cite web |url=http://bretmichaels.com/site-news/news2/bret-michaels-set-to-release-true-grit-album-with-first-single-girls-on-bars-new-video-teaser-remastered-beautiful-soul-forthcoming/ |title=BretMichaels.com » Get Ready! Visit BretMichaels.com Tomorrow Morning, Monday April 13th at 7:00a.m. EST for a Major Announcement & Live Bret Michaels |access-date=April 9, 2015 |archive-date=March 22, 2016 |archive-url=https://web.archive.org/web/20160322045753/http://bretmichaels.com/site-news/news2/bret-michaels-set-to-release-true-grit-album-with-first-single-girls-on-bars-new-video-teaser-remastered-beautiful-soul-forthcoming/ |url-status=dead }}</ref> The album is on physical release as a cd exclusively via his website.
+
+In May 2017, Bret Michaels released a brand-new single which is a tribute to his youngest daughter, Jorja Bleu, in honor of her 12th birthday. The song titled "Jorja Bleu" features a music video which was posted at Michaels’ official YouTube channel and is a sequel to his 2003 single "Raine" which is titled after his oldest daughter.<ref>{{cite web|url=http://www.945bayfm.com/someone-to-believe-in-poisons-bret-michaels-releases-new-single-dedicated-to-his-daughter/|title=Poison's Bret Michaels releases new single dedicated to his daughter|publisher=BayFM|access-date=May 13, 2017|archive-url=https://web.archive.org/web/20170522093700/http://www.945bayfm.com/someone-to-believe-in-poisons-bret-michaels-releases-new-single-dedicated-to-his-daughter/|archive-date=May 22, 2017|url-status=dead|df=mdy-all}}2017</ref><ref>{{cite web|url =http://bravewords.com/news/bret-michaels-new-emotionally-charged-single-jorja-bleu-due-in-april|title=BRET MICHAELS – New Emotionally-Charged Single "Jorja Bleu"|publisher=Bravewords}}2017</ref>
+
+In 2019, Michaels released an official music video for his new single "Unbroken", which was co written with his 13-year-old daughter, Jorja Bleu. The song is about mental and physical strength over adversity.<ref>{{cite web|url =http://bravewords.com/news/bret-michaels-releases-official-video-for-new-single-unbroken|title=BRET MICHAELS releases official video for new single "Unbroken"|publisher=Bravewords}}2019</ref>
+
+In May 2020, he released his autobiography, ''Bret Michaels: Auto-Scrap-ography Volume 1: My Life in Pictures & Stories'' which is the first in a series of trilogies.<ref>{{cite web|url =https://sleazeroxx.com/bret-michaels-autobiography-bret-michaels-auto-scrap-ography-out-now-first-in-series-of-trilogies/|title=Bret Michaels' autobiography 'Bret Michaels: Auto-Scrap-Ography' out now + first in series of trilogies|date=May 12, 2020|publisher=Sleaze Roxx}}2020</ref> The book was initially set to be released in 2010 and titled ''Roses & Thorns'', but kept being pushed back to include more content.<ref>{{cite web|url =https://www.billboard.com/articles/news/957731/bret-michaels-adds-new-chapter-to-roses-thorns-autobiography/|title=Bret Michaels Adds New Chapter To 'Roses & Thorns' Autobiography|date=June 17, 2010|publisher=Billboards}}2020</ref> In 2019 Michaels announced its release in 2020 and it would be titled ''Unbroken: My life in Pictures & Stories'' to coincide with his single release "Unbroken".<ref>{{cite web|url =https://bravewords.com/news/bret-michaels-autobiography-unbroken-my-life-in-pictures-stories-available-for-pre-order|title=BRET MICHAELS' AUTOBIOGRAPHY, UNBROKEN: MY LIFE IN PICTURES & STORIES, AVAILABLE FOR PRE-ORDER|publisher=BraveWords}}2019</ref> More recently, he had signed a deal with the United Talent Agency.<ref>{{Cite magazine|last=Panaligan|first=E. J.|date=2021-12-09|title=The Deals: UTA Signs Bret Michaels; Dhruv Plots RCA Records Debut|url=https://www.billboard.com/pro/deals-uta-bret-michaels-dhruv-rca-richie-quake-mass-appeal/|access-date=2021-12-10|magazine=Billboard|language=en-US}}</ref>
+
+In December 2022, Michaels announced the 2023 Parti-Gras Tour which performed between July 13 and August 6, 2023. Along with Michaels, the tour included [[Jefferson Starship]] and [[Night Ranger]] with appearances by [[Steve Augeri]] and [[Mark McGrath]].<ref>{{cite web | title=Poison's Bret Michaels teaming up with Jefferson Starship, Night Ranger for 2023 Parti-Gras Tour | website=AM 880 KIXI | date=December 5, 2022 | url=https://kixi.com/poisons-bret-michaels-teaming-up-with-jefferson-starship-night-ranger-for-2023-parti-gras-tour/ | access-date=December 5, 2022}}</ref>
+
+In January 2023, Michaels released his new solo single, "Back in the Day", a throwback road-trip anthem featuring the exclusive world premiere of the video for the song on January 18.<ref>{{cite web | title=BRET MICHAELS Announces Release Date For 'Back In The Day' Single | website= Blabbermouth | date=January 6, 2023 | url=https://blabbermouth.net/news/bret-michaels-announces-release-date-for-back-in-the-day-single| access-date=January 28, 2023}}</ref><ref>{{cite web | title=Bret Michaels new single "Back in the Day"| website= Ultimate classic rock | date=January 18, 2023 | url=https://ultimateclassicrock.com/bret-michaels-back-in-the-day/| access-date=January 28, 2023}}</ref>
+
+==''Rock of Love''==
+Michaels starred in the [[reality television]] dating competition series ''[[Rock of Love with Bret Michaels]]'', the first season of which premiered in July 2007.<ref>{{cite web|url = http://www.starpulse.com/news/index.php/2007/02/14/rock_of_love_with_bret_michaels_premiere|title = StarPulse.com News}}</ref><ref>{{cite web|url = http://www.realityblurred.com/realitytv/archives/casting/2006_Dec_06_vh1_rock_of_love|publisher = RealityBlurred.com|date = December 6, 2006|title = VH1 Rock of Love|access-date = February 11, 2007|archive-url = https://web.archive.org/web/20070223135929/http://www.realityblurred.com/realitytv/archives/casting/2006_Dec_06_vh1_rock_of_love|archive-date = February 23, 2007|url-status = dead|df = mdy-all}}</ref> Jes Rickleff was the winner of [[Rock of Love with Bret Michaels (season 1)|Season One]]. However, she announced during the October 2007 reunion show that she and Michaels were not right for each other and told runner-up Heather he was all hers and that he should have chosen Heather. The first season was released on DVD in early 2008.
+
+The show's [[Rock of Love with Bret Michaels (season 2)|second season]] premiered on January 13, 2008. On April 13, 2008, Michaels selected Ambre Lake as his "Rock of Love". After the show the two maintained a relationship, but parted ways after just a few months due to personal commitments, but they remain good friends.<ref>{{cite web|url = http://tvwatch.people.com/2008/07/16/rock-of-love-2s-bret-michaels-ambre-lake-split/|title = Bret Michaels & Ambre Lake|url-status = dead|archive-url = https://web.archive.org/web/20090831152255/http://tvwatch.people.com/2008/07/16/rock-of-love-2s-bret-michaels-ambre-lake-split/|archive-date = August 31, 2009|df = mdy-all}}</ref>
+
+A third season, ''[[Rock of Love Bus]]'', premiered on January 4, 2009, to ratings which represented a series high for VH1.<ref name=thrbus>{{cite news | work = [[The Hollywood Reporter]] | title =  Brighter Mon. at NBC| first = James | last = Hibberd | date = April 15, 2009 | access-date = March 7, 2011 | url =http://www.hollywoodreporter.com/news/brighter-mon-nbc-82374}}</ref> Michaels chose Penthouse Pet [[Taya Parker]] as the winner. When asked about a fourth season of ''Rock of Love'', Michaels said "Now they want me to come back for a fourth 'Rock of Love.' I feel that it should be something that changes up, but I still want that fun element. What you see is what you get with me."<ref>{{cite web|url = http://www.coloradodaily.com/ci_13171844|title = Bret Michaels: Poison frontman talks music, 'Rock of Love' and new book|date = August 20, 2009|publisher = Coloradodaily.com}}</ref>
+
+==Television and film appearances==
+Michaels and actor [[Charlie Sheen]] established a film production company, Sheen/Michaels Entertainment, which produced the movie ''[[A Letter from Death Row (film)|A Letter from Death Row]]'' (1998), in which Michaels wrote, directed and starred, and for which he released a soundtrack album. They also produced ''[[No Code of Conduct]]'' that same year, which Michaels also directed and acted in. Their company also produced the feature film ''[[Free Money (film)|Free Money]]'', starring [[Marlon Brando]] and [[Mira Sorvino]], and the surfer movie ''[[In God's Hands (film)|In God's Hands]]'' in which Michaels also had a small acting role.
+
+Michaels appeared in the [[CBS]] sitcom ''[[Yes, Dear]]'', Season 1, Episode 6, titled ''Greg's Big Day'', first aired November 6, 2000. He also appeared as himself in three episodes of ''[[The Chris Isaak Show]]'' from 2001 to 2004.
+
+On May 1, 2008, Michaels appeared on a special celebrity edition of ''[[Don't Forget the Lyrics!]]'', on which he raised $200,000 to donate to charity.<ref>{{cite web|url = http://www.thegauntlet.com/article/1313/12534/Poison.html|publisher = TheGauntlet.com News|title = Poison}}</ref>
+
+In 2010, Michaels was the winning contestant on the [[NBC]] reality television series ''[[The Apprentice (U.S. season 9)|Celebrity Apprentice 3]]'' on NBC.<ref>{{cite news |title=Bret Michaels Wins 'Apprentice' After Illness |work=The New York Times |first=Brian |last=Stelter |date=May 24, 2010 |url=http://artsbeat.blogs.nytimes.com/2010/05/24/bret-michaels-wins-apprentice-after-illness/}}</ref>
+
+Michaels stars in a series named ''[[Bret Michaels: Life As I Know It]]'', which depicts his life at home with his daughters and their mother.<ref name=newseries>{{cite news |title=Bret Michaels Reveals Offstage World in VH1's 'Life As I Know It'. |work=The Rolling Stone |first=Daniel |last=Kreps |date=May 18, 2010 |url=https://www.rollingstone.com/music/news/bret-michaels-reveals-offstage-world-in-vh1s-life-as-i-know-it-20100518}}</ref> 
+Filming of the series began before Michaels' health troubles, and filming was suspended after his hospitalization.<ref name=newseries/> VH1 aired a preview of the series on May 31, 2010, and the series aired in fall 2010.<ref>{{cite web |title=Bret Michaels: Life As I Know It – Coming Soon To VH1 |work=VH1 |date=May 17, 2010 |url=http://blog.vh1.com/2010-05-17/bret-michaels-life-as-i-know-it/ |access-date=May 24, 2010 |archive-url=https://web.archive.org/web/20120801092358/http://blog.vh1.com/2010-05-17/bret-michaels-life-as-i-know-it/ |archive-date=August 1, 2012 |url-status=dead |df=mdy-all }}</ref>
+
+Michaels hosted the [[Miss Universe 2010]] pageant along with [[Natalie Morales (journalist)|Natalie Morales]] on August 23, 2010.<ref>{{cite web|url=http://missuniverse.com/news/view/77 |title=ROCKER BRET MICHAELS AND NATALIE MORALES (NBC'S 'TODAY') TO HOST THE '2010 MISS UNIVERSE; PAGEANT' ON NBC MONDAY, AUGUST 23 |publisher=Missuniverse.com |date=2010-08-03 |access-date=2012-12-19}}</ref>
+
+In 2020, Michaels competed in the [[The Masked Singer (American TV series) season 3|third season]] of ''[[The Masked Singer (American TV series)|The Masked Singer]]'' as "Banana". He ended up in seventh place on April 22, 2020.
+
+In 2023, Michaels appeared as a guest on the [[Impractical Jokers (season 10)|tenth season]] of ''[[Impractical Jokers]]''. He participated in the punishment for [[James Murray (comedian)|Murr]].<ref>{{cite web |date=February 8, 2023 |title=Q, Murr preview celebrity guests joining 10th season of 'Impractical Jokers' |url=https://www.wthr.com/article/entertainment/impractical-jokers-trutv-tbs-10th-season-february-9/531-6d58de96-92a0-4ddc-a762-6ad3f8104cfc |access-date=2023-02-14 |website=wthr.com }}</ref>
+
+==In other media==
+Michaels was portrayed as a guest singer in the video game ''[[Guitar Hero III: Legends of Rock]]'', which features him singing "[[Go That Far (Bret Michaels song)|Go That Far]]" from his solo career, and Poison's "[[Talk Dirty to Me]]".
+
+==Charity work==
+Michaels and his band visited troops at [[Al Asad Air Base]] on October 6, 2007, while on a tour of U.S. bases in Iraq in support of [[Armed Forces Entertainment]].<ref>{{cite web|url=http://www.dcmilitary.com/stories/102507/hendersonhall_28091.shtml|title=Bret Michaels hails troops at Al Asad Air Base|last=Sewell|first=Matthew|date=October 25, 2007|work=dcMilitary.com|publisher=Comprint Military Publications|access-date=May 18, 2010|url-status=dead|archive-url=https://archive.today/20130121084151/http://www.dcmilitary.com/stories/102507/hendersonhall_28091.shtml|archive-date=January 21, 2013|df=mdy-all}}</ref>
+
+Bret Michaels has done extensive work for [[Operation Homefront]]- a charity that provides emergency financial and other assistance to the families of service members and wounded warriors.
+
+He earned $640,000 for the [[American Diabetes Association]] for competing in and ultimately winning Celebrity Apprentice 3.
+
+In June, 2014, while on a national tour date in Omaha, Nebraska, Michaels became aware of a [[2014 Pilger, Nebraska tornado family|series of tornadoes]] that hit the Nebraska town of Pilger. He, his band, and crew, went to Pilger to see the damage and assist with clean-up. When his tour came near the area again in August, 2014, he hosted a fundraising performance in [[Norfolk, Nebraska]], to help tornado victims in the area.  
+<ref>{{cite web |url=http://www.wowt.com/home/headlines/Bret-Michaels-Rocks-N-Relieves-Pilger-Nebraska-272527601.html |title=Bret Michaels Rocks N' Relieves Pilger |website=www.wowt.com |access-date=15 January 2022 |archive-url=https://web.archive.org/web/20140827101424/http://www.wowt.com/home/headlines/Bret-Michaels-Rocks-N-Relieves-Pilger-Nebraska-272527601.html |archive-date=27 August 2014 |url-status=dead}}</ref>
+<ref>{{Cite web|url=https://norfolkdailynews.com/news/bret-michaels-to-help-in-pilger/article_e4079bfa-f7f0-11e3-8e5a-0017a43b2370.html|archive-url = https://web.archive.org/web/20200729151236/https://norfolkdailynews.com/news/bret-michaels-to-help-in-pilger/article_e4079bfa-f7f0-11e3-8e5a-0017a43b2370.html|archive-date = July 29, 2020|title = Bret Michaels to help in Pilger| date=June 19, 2014 }}</ref>
+
+==Personal life==
+
+While filming the finale of his reality show, ''[[Bret Michaels: Life As I Know It]]'', Michaels proposed to Kristi Lynn Gibson, his on-again, off-again companion of 16 years.<ref>Rodriguez, Jayson. [https://web.archive.org/web/20101224063229/http://www.mtv.com/news/articles/1654705/20101221/bret_michaels.jhtml "Bret Michaels Proposes To Longtime Girlfriend"], MTV, December 21, 2010</ref> In July 2012, he announced that he and Gibson had separated.<ref>{{cite news|url=http://www.people.com/people/article/0,,20616545,00.html|title=Bret Michaels Calls Off Engagement|publisher=[[People (magazine)|People]]|date=July 30, 2012|access-date=July 30, 2012}}</ref> The pair have two daughters together.<ref>{{cite news |url=https://www.usatoday.com/life/people/2010-05-05-bret-michaels_N.htm |title=Bret Michaels says hemorrhage felt like gunshot |work=[[USA Today]]|date=May 5, 2010 |access-date=March 7, 2011}}</ref>
+
+Michaels has a line of pet clothing and accessories called Pets Rock, sold at [[PetSmart]].<ref name=Elavsky>{{cite news|url=http://downriversundaytimes.com/2012/07/13/celebrity-extra-156/|title=Celebrity Extra|last=Elavsky|first=Cindy|work=Downriver Sunday Times|agency=[[King Features]]|date=July 13, 2012|access-date=July 27, 2012}}</ref> In October 2023, he adopted a [[husky]] named Bret Michaels from the Nebraska [[Humane society|Humane Society]], after reading a story about the dog providing a blood transfusion to a sick kitten.<ref>{{Cite web |last=Parsons |first=McKenzy |date=2023-10-20 |title=Poison frontman Bret Michaels adopts Nebraska Humane Society's kitten-saving hero, Bret Michaels |url=https://www.ketv.com/article/bret-michaels-adopts-nebraska-humane-societys-kitten-saving-pup-bret-michaels/45600024 |access-date=2023-10-20 |website=KETV |language=en}}</ref>
+
+On May 20, 2010, it was reported on his official website<ref name="news-May-20-2010">{{Cite web|url=http://www.bretmichaels.com/2010/news_files/news.shtml|archive-url=https://web.archive.org/web/20100430183817/http://www.bretmichaels.com/2010/news_files/news.shtml|url-status=dead|title=BretMichaels.com [Home&#93; – Your Source for Everything Bret Michaels|archive-date=April 30, 2010|access-date=August 5, 2020}}</ref> that Michaels had been "readmitted to the hospital the week after suffering numbness on the left side of his body". While conducting diagnostic tests it was found that Michaels has a "[[patent foramen ovale]] (PFO), a hole in the heart".<ref name="news-May-20-2010" /> It was further reported that his condition is "operable and treatable" and his doctors believe they "have diagnosed the problem that caused the [[transient ischemic attack]] (TIA) or warning stroke", but that they "feel it is highly unlikely this is connected to the brain hemorrhage he suffered just a few weeks earlier".<ref name="news-May-20-2010"/>  On October 11, 2011, Michaels commented on his 2010 health scare with the following: "2010 was, without question, a roller coaster year for me. But when you have an amazing family, and you still have a lot of music left to make, and you have such incredible and supportive fans behind you, you’re going to fight until the very last breath before you throw in that towel."<ref>{{cite web|url=http://www.vegasallnight.com/bret-michaels-interview/|title=Bret Michaels Interview (Exclusive!)|website=Vegasallnight.com |access-date=2011-10-11}}</ref>
+
+===Lawsuit with Tony Awards and CBS===
+Michaels was injured during his opening performance at the [[63rd Tony Awards#Performances|63rd Tony Awards]] on June 7, 2009. As he was ending his performance with Poison and exiting to the stage rear, a large portion of the descending set struck him on the head and knocked him down. The initial injury reported was a broken nose. However, the hemorrhage incident in 2010 prompted Michaels to file a lawsuit for unspecified damages against the [[Tony Awards]] and [[CBS]] claiming the incident caused the hemorrhage.<ref>{{cite web|last=Silverman|first=Stephen|title=Bret Michaels Sues CBS and Tony Awards over Head Injury|url=http://www.people.com/people/article/0,,20476799,00.html|publisher=People Magazine|access-date=April 12, 2012}}</ref>  On May 14, 2012, the parties announced that they had agreed to settle the lawsuit for an undisclosed amount.<ref>{{cite news|last=Gearty|first=Robert|title=Poison singer Bret Michaels to settle lawsuit over accident at 2009 Tony Awards|url=http://www.nydailynews.com/new-york/poison-singer-bret-michaels-settle-lawsuit-accident-2009-tony-awards-article-1.1078286#ixzz1ux1VANhU|access-date=May 15, 2012|location=New York|work=Daily News}}</ref> Michaels thanked the [[Barrow Neurological Institute]] at [[St. Joseph’s Hospital and Medical Center]] in [[Phoenix, Arizona|Phoenix]] for saving his life and career.<ref>{{cite news|last=D'Zurilla|first=Christie|title=Bret Michaels, Tony Awards settle lawsuit over 2009 injuries|url=http://www.latimes.com/entertainment/gossip/la-et-mg-bret-michaels-settlement-tony-awards,0,2599868.story|access-date=May 21, 2012|work=Los Angeles Times|date=May 15, 2012}}</ref>
+
+==Discography==
+{{Main|Bret Michaels discography}}
+{{See also|Poison discography}}
+;Studio albums
+* ''[[Songs of Life (Bret Michaels album)|Songs of Life]]'' (2003)
+* ''[[Freedom of Sound]]'' (2005)
+* ''[[Custom Built]]'' (2010)
+* ''[[Jammin' with Friends]]'' (2013)
+
+==Filmography==
+{| class="wikitable sortable"
+|+ Film and television
+|-
+! Year
+! Title
+! Role/Notes
+|-
+| 1994
+| ''Burke's Law''
+| TV series, 1 episode
+|-
+| 1997
+| ''[[Free Money (film)|Free Money]]''
+| Producer<ref>{{cite web | url=https://www.freedomfestohio.com/Artist/bret-michaels- | title=Freedom Fest Ohio 2023 }}</ref>
+|-
+| 1998
+| ''[[In God's Hands (film)|In God's Hands]]''
+| Phillips<ref>{{cite web | url=https://www.tvguide.com/movies/in-gods-hands/cast/2030102996/ | title=In God's Hands }}</ref>
+|-
+| 1998
+| ''{{sortname|A|Letter from Death Row|A Letter from Death Row (film)}}''
+| Michael Raine, also writer, director and producer<ref>{{cite web | url=https://www.imdb.com/title/tt0119521/ | title=A Letter from Death Row | website=[[IMDb]] }}</ref>
+|-
+| 1998
+| ''{{sortname|The|World's Greatest Magic 5|nolink=1}}''
+|
+|-
+| 1998
+| ''[[No Code of Conduct]]''
+| director
+|-
+| 1999
+| ''[[A Letter from Death Row (film)#Documentary|High Tension, Low Budget]]''
+| Documentary (''The Making of a Letter from Death Row'')
+|-
+| 1999
+| ''Martial Law''
+| TV series, 1 episode
+|-
+| 1999
+| ''[[Behind the Music]]: Poison''
+|-
+|2000
+|''[[Yes, Dear]]''
+|as himself
+|-
+| 2002
+| ''{{sortname|The|Making of Bret Michaels|nolink=1}}''
+| Documentary
+|-
+| 2005
+| ''[[Nashville Star]]''
+| TV series, season 3
+|-
+| 2007
+| ''[[Rock of Love with Bret Michaels (season 1)|Rock of Love with Bret Michaels]]''
+| TV series
+|-
+| 2008
+| ''[[Rock of Love with Bret Michaels (season 2)|Rock of Love 2]]''
+| TV series
+|-
+| 2008
+| ''Don't Forget The Lyrics''
+| Fox TV
+|-
+| 2008
+| ''Ellen-Fox Shows''
+| February 14, 2008
+|-
+| 2008
+| ''[[Saturday Night Live]]''||
+|-
+| 2008
+| ''VH1's "100 Greatest Hard Rock Songs"''
+| Host (5-part special; December 2008 – January 2009)
+|-
+| 2009
+| ''[[Rock of Love Bus with Bret Michaels]]''
+| TV series
+|-
+| 2009
+| ''E True Hollywood Story: Bret Michaels''
+|
+|-
+| 2009
+| ''{{sortname|The|Penguins of Madagascar}}''
+| singing "Wheels of Thunder" in ''Little Zoo Coupe''
+|-
+| 2009
+| ''[[Behind the Music]]: Bret Michaels''
+|
+|-
+| 2009
+| ''[[American Pie Presents: The Book of Love]]''
+| as himself
+|-
+| 2010
+| ''{{sortname|The|Celebrity Apprentice|The Apprentice (U.S. season 9)}}''
+| as himself
+|-
+| 2010
+| ''[[Bret Michaels: Life As I Know It]]''
+| as himself
+|-
+| 2011
+| ''[[Extreme Makeover: Home Edition]]''
+| as himself
+|-
+| 2012
+| ''[[The High Fructose Adventures of Annoying Orange]]''
+| as himself
+|-
+| 2013
+| ''[[The Celebrity Apprentice|The Celebrity Apprentice: All-Stars]]''
+| as himself
+|-
+| 2013
+| ''Rock My RV''
+| as himself
+|-
+| 2013
+| ''[[Full Throttle Saloon]]''
+| as himself
+|-
+| 2014
+| ''[[Revolution (TV series)|Revolution]]''
+| Season 2, Ep. 13 as himself
+|-
+| 2014
+| ''[[I Love the 2000s]]''
+| as himself
+|-
+| 2016
+| ''[[Pawn Stars]]''
+| Season 12 Ep. 33 ''Every Rose Has Its Pawn'' as himself 
+|-
+|2017
+| ''[[Sharknado 5: Global Swarming]]''
+| as himself 
+|-
+|2020
+| ''[[The Masked Singer (American TV series)|The Masked Singer]]''
+| Banana
+|-
+|2020
+| ''[[Impractical Jokers#Impractical Jokers: Dinner Party|Impractical Jokers: Dinner Party]]''
+| Episode: "The Food Ya Never Ate Episode" as himself
+|-
+|2022
+| ''[[Guy's Grocery Games]]''
+| Episode: "Craziest Day in Flavortown" as himself; special guest judge
+|}
+
+===Music videos===
+{| class="wikitable"
+|-
+! Year
+! Song
+! Director
+! Notes
+|-
+| 2003
+| "Raine"
+| [[Shane Stanley]]
+|
+|-
+| 2003
+| "Menace to Society"
+| Bret Michaels
+| Live montage video
+|-
+| 2005
+| "All I Ever Needed"
+| Christie Cook
+| 2nd version with Iraq footage released in 2008
+|-
+| 2008
+| "Go That Far" <small>([[Rock of Love with Bret Michaels|''Rock of Love'']] theme)</small>"
+| [[Shane Stanley]]
+| 3 versions – with ''Rock of Love'' clips, with live clips and standard with no clips
+|-
+| 2008
+| "Fallen"
+| [[Shane Stanley]]
+| 2 versions – with and without ''Rock of Love'' clips
+|-
+| 2008
+| "Driven (Rock Mix)"
+| [[Shane Stanley]]
+| cut and uncut versions
+|-
+| 2010
+| "Riding Against the Wind" <small>(''[[Bret Michaels: Life As I Know It]]'' Theme)</small>
+| [[Shane Stanley]]
+|
+|-
+| 2010
+| "What I Got"
+| Bret Michaels
+|
+|-
+| 2011
+| "Hit and Roll" <small>([[Top Gear (U.S. TV series)]] Theme)</small>
+| [[Jingle Punks Music]]
+|
+|-
+| 2012
+| "Get Your Rock On"
+|
+|
+|-
+| 2012
+| "Get Your Ride On" <small>([[AMA Supercross]] Theme)</small>
+|
+|
+|-
+| 2012
+| "The App Song"
+|
+| Video Montage
+|-
+| 2014
+| "A Beautiful Soul"
+|
+|
+|-
+| 2015
+| "Girls on Bars"<ref>{{cite web|url=http://www.cmt.com/videos/bret-michaels/1196349/girls-on-bars.jhtml|archive-url=https://web.archive.org/web/20150505055301/http://www.cmt.com/videos/bret-michaels/1196349/girls-on-bars.jhtml|url-status=dead|archive-date=May 5, 2015|title=CMT : Videos : Bret Michaels : Girls on Bars|publisher=[[Country Music Television]]|access-date=May 4, 2015}}</ref>
+| Damien Christian D'Amico/Bret Michaels
+|-
+| 2017
+| "Jorja Bleu"
+|
+|
+|-
+| 2019
+| "Unbroken"
+|
+|
+|-
+| 2023
+| "Back in the Day"
+|
+|
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{commons category}}
+* {{Official website}}
+* {{IMDb name|0584297}}
+
+{{S-start}}
+{{succession box|title=''[[The Apprentice (American TV series)|The Apprentice Winners]]''|before=[[Joan Rivers]]|after=Brandy Kuentzel|years=[[The Apprentice (U.S. season 9)|Season 9 (Celebrity Edition 3)]]}}
+{{S-end}}
+
+{{Bret Michaels}}
+{{Poison}}
+{{The Apprentice (American TV series)}}
+{{Authority control}}
+
+{{DEFAULTSORT:Michaels, Bret}}
+[[Category:1963 births]]
+[[Category:20th-century American male actors]]
+[[Category:20th-century American male singers]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:21st-century American male actors]]
+[[Category:21st-century American male singers]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:American baritones]]
+[[Category:American country singer-songwriters]]
+[[Category:American heavy metal singers]]
+[[Category:American male film actors]]
+[[Category:American male singer-songwriters]]
+[[Category:American male television actors]]
+[[Category:American people of Rusyn descent]]
+[[Category:American rhythm guitarists]]
+[[Category:The Apprentice winners]]
+[[Category:Country musicians from Arizona]]
+[[Category:Country musicians from Pennsylvania]]
+[[Category:Film directors from Arizona]]
+[[Category:Film directors from Pennsylvania]]
+[[Category:Film producers from Arizona]]
+[[Category:Film producers from Pennsylvania]]
+[[Category:Glam metal musicians]]
+[[Category:Judges in American reality television series]]
+[[Category:Living people]]
+[[Category:Musicians from Scottsdale, Arizona]]
+[[Category:Participants in American reality television series]]
+[[Category:People from Butler, Pennsylvania]]
+[[Category:People with congenital heart defects]]
+[[Category:People with type 1 diabetes]]
+[[Category:Singer-songwriters from Arizona]]
+[[Category:Singer-songwriters from Pennsylvania]]
+[[Category:Television producers from Arizona]]
+[[Category:Television producers from Pennsylvania]]

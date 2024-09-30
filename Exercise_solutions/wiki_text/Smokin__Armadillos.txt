@@ -1,0 +1,159 @@
+{{Infobox musical artist 
+| name            = Smokin' Armadillos
+| background      = group_or_band
+| image             =
+| image_size        = 
+| caption        =
+| alias           = 
+| origin          = [[Bakersfield, California]], United States
+| genre           = [[Country music|Country]]
+| years_active    = {{flatlist|
+* 1992–2023
+}}
+| label           = Gramac, MCG/[[Curb Records|Curb]], Housekeeping
+| associated_acts = 
+| website             = 
+| past_members =
+* Aaron Casida
+* Josh Graham
+* Darrin Kirkindoll 
+* Scott Meeks
+* Rick Russell (Deceased) 
+* Jason Theiste
+|
+}}
+'''Smokin' Armadillos''' were an American [[country music]] group formed in Bakersfield, California in 1992. Its members were Rick Russell (lead vocals), Josh Graham (guitar, vocals), Scott Meeks (guitar, vocals), Jason Theiste (fiddle, mandolin), Aaron Casida (bass guitar, vocals), and Darrin Kirkindoll (drums).
+
+==History==
+Smokin' Armadillos was founded in 1992 by guitarist Josh Graham, who created a [[country rap]] song called "I'm a Cowboy" which he performed at various talent shows before recruiting the rest of the band members.<ref>{{cite magazine|last=Flippo|first=Chet|date=March 9, 1996|title=Smokin' Armadillos Gather No Moss; More Companies Flock To Music Row|magazine=Billboard|page=37|url=http://www.americanradiohistory.com/Archive-Billboard/90s/1996/BB-1996-03-09.pdf}}</ref> The band recorded a five-song EP called ''Out of the Burrow'' in 1995 and after selling more than 150,000 copies of this disc, they signed to [[Curb Records]] in 1995.<ref>{{cite web|url=https://www.allmusic.com/artist/smokin-armadillos-mn0000033632|title=Smokin' Armadillos biography|last=Leaver|first=Chuck|work=Allmusic|accessdate=3 February 2018}}</ref> At the time of signing, the band's members ranged in age from 18 to 26.<ref name="fact">{{cite journal|date=January 26, 1996|title=New Artist Fact File|journal=[[Radio & Records]]|page=47|url=http://www.americanradiohistory.com/Archive-RandR/1990s/1996/R&R-1996-01-26.pdf}}</ref>
+
+The group recorded one album for Curb in 1996, which included the chart singles "Let Your Heart Lead Your Mind" and "Thump Factor". A third single, "I Don't Want No Part of It", did not appear on an album.<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2012|publisher=Record Research, Inc|date=2012|page=312|isbn=978-0-89820-203-8}}</ref> Chuck Howard produced their debut album, and encouraged the band to record some of their own material, including "Let Your Heart Lead Your Mind", which Meeks wrote.<ref name="fact"/> The album received mixed-to-positive reviews from ''[[Country Standard Time]]'' and [[Allmusic]], both of whom praised the musicianship.<ref>{{cite web|url=http://www.countrystandardtime.com/d/cdreview.asp?xid=1551|title=''Smokin' Armadillos'' review|last=Kuchar|first=Dan|work=[[Country Standard Time]]|accessdate=26 April 2013}}</ref><ref>{{cite web|url=http://www.allmusic.com/album/smokin-armadillos-mw0000185512|title=''Smokin' Armadillos'' review|last=Leaver|first=Jack|work=[[Allmusic]]|accessdate=26 April 2013}}</ref>
+
+In 2005 after 13 years together, the Armadillos went on hiatus, playing their last show together on March 25 at Rabobank Theater in Bakersfield, CA. They reconvened in 2017, releasing "The Other California" in September of that year.<ref>{{cite web|last1=Lay|first1=Marissa|title=Finding Fame: Lucky Ned Pepper|url=http://www.bakersfield.com/bakersfield_life/finding-fame-lucky-ned-pepper/article_724c6d1c-0869-5697-bbde-f4969bd03e25.html|website=Bakersfield.com|accessdate=25 August 2017}}</ref>
+
+Rick Russell, passed away peacefully at the age of 53, in 2023. He had been having heart issues and was scheduled to see a cardiologist.
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:12em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="2"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]<ref>{{cite magazine|url=https://www.billboard.com/music/smokin-armadillos/chart-history/country-albums|archive-url=https://web.archive.org/web/20180511094359/https://www.billboard.com/music/smokin-armadillos/chart-history/country-albums|url-status=dead|archive-date=May 11, 2018|title=Top Country Albums|magazine=Billboard|accessdate=3 February 2018}}</ref>
+! width="45"| [[Top Heatseekers|US Heat]]<ref>{{cite magazine|url=https://www.billboard.com/music/smokin-armadillos/chart-history/heatseekers-albums|archive-url=https://web.archive.org/web/20180511091100/https://www.billboard.com/music/smokin-armadillos/chart-history/heatseekers-albums|url-status=dead|archive-date=May 11, 2018|title=Heatseekers Albums|magazine=Billboard|accessdate=3 February 2018}}</ref>
+|-
+! scope="row"| ''Out of the Burrow'' (EP)
+| 
+* Release date: 1993
+* Label: Gramac
+| —
+| —
+|- 
+! scope="row"| ''[[Smokin' Armadillos (album)|Smokin' Armadillos]]''
+| 
+* Release date: March 12, 1996
+* Label: MCG/[[Curb Records]]
+| 37
+| 24
+|-
+! scope="row"| ''Strike the Match''
+| 
+* Release date: August 19, 2003
+* Label: Housekeeping
+| —
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<ref>{{cite magazine|url=https://www.billboard.com/music/smokin-armadillos/chart-history/country-songs|archive-url=https://web.archive.org/web/20180511094326/https://www.billboard.com/music/smokin-armadillos/chart-history/country-songs|url-status=dead|archive-date=May 11, 2018|title=Country Songs|magazine=Billboard|accessdate=3 February 2018}}</ref>
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+|rowspan=3|1993
+! scope="row"| "My Girlfriend Might"
+| —
+| —
+| align="left" rowspan="3"| ''Out of the Burrow''
+|-
+! scope="row"| "I'm a Cowboy"
+| —
+| —
+|-
+! scope="row"| "Red Rock"
+| —
+| —
+|-
+| rowspan="3"| 1996
+! scope="row"| "Let Your Heart Lead Your Mind"
+| 53
+| —
+| align="left" rowspan="3"| ''Smokin' Armadillos''
+|-
+! scope="row"| "Thump Factor"
+| 68
+| —
+|-
+! scope="row"| "Miracle Man"
+| —
+| —
+|-
+| rowspan="2"| 1998
+! scope="row"| "I Don't Want No Part of It"
+| 64
+| 90
+| align="left" rowspan="2"| ''Plan B''
+|-
+! scope="row"| "Waking Up Behind the Wheel"
+| —
+| —
+|-
+| 2003
+! scope="row"| "You Were a Mountain"
+| —
+| —
+| align="left"| ''Strike the Match''
+|-
+| 2017
+! scope="row"| "The Other California"
+| —
+| —
+|{{n/a}}
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:18em;"| Video
+|-
+| 1993
+! scope="row"| "Red Rock"
+|-
+| 1996
+! scope="row"| "Let Your Heart Lead Your Mind"
+|}
+
+==References==
+{{reflist}}
+
+
+{{Authority control}}
+
+[[Category:Country music groups from California]]
+[[Category:Musical groups from Bakersfield, California]]
+[[Category:Musical groups established in 1992]]
+[[Category:Curb Records artists]]

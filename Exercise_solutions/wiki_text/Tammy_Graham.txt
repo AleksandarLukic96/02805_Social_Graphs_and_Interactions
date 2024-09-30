@@ -1,0 +1,113 @@
+{{short description|American singer-songwriter}}
+
+{{More footnotes needed|date=April 2021}}
+{{Use mdy dates|date=January 2020}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Tammy Graham
+| caption            = 
+| image_size            = 
+| background          = solo_singer
+| birth_name          = Tammy Wynette Graham
+| birth_date                = {{birth date and age|1968|02|07}}
+| origin              = [[Little Rock, Arkansas]], United States
+| instrument          = Vocals<br />piano
+| genre               = [[Country music|Country]]
+| occupation          = Singer
+| years_active        = 1996–1997
+| label               = Career/[[Arista Nashville]]
+| associated_acts     = [[Joe Diffie]]
+}}
+'''Tammy Wynette Graham''' (born February 7, 1968<ref name="allmusic">{{cite web |url={{AllMusic|class=artist|id=p201685/biography|pure_url=yes}} |title=Tammy Graham biography |accessdate=March 14, 2008 |last=Erlewine |first=Stephen Thomas |authorlink=Stephen Thomas Erlewine |publisher=[[AllMusic]]}}</ref>) is an American [[country music]] artist. Active as a singer and self-taught pianist since childhood, she first gained attention in her hometown before moving to [[Las Vegas Valley|Las Vegas]] and subsequently to [[Nashville, Tennessee|Nashville]], where she was signed to a recording contract with a division of [[Arista Nashville]] in 1997, releasing a studio album and charting three singles on the ''[[Billboard (magazine)|Billboard]]'' country music charts that year, including the No.&nbsp;37-peaking "A Dozen Red Roses".
+
+==Biography==
+Graham was born in [[Little Rock, Arkansas]].<ref name="allmusic"/> She taught herself how to play the piano at an early age.<ref name="allmusic"/> In addition to winning several local talent competitions (some while she was nine years old), she demonstrated piano playing at a music store located in a Little Rock shopping mall.<ref name="allmusic"/>
+
+By age fourteen, Graham began billing herself as "Little Miss Jerry Lee Lewis". She had also formed a backing band, with whom she toured in both [[Nashville, Tennessee|Nashville]] and Las Vegas; although she recorded several demos while in Nashville, she did not attract the attention of any record labels at the time.<ref name="allmusic"/> While still in her late teenage years, Graham found work at [[Caesars Palace]], where she soon became a regular;<ref name="allmusic"/><ref name="oldies">{{cite web |url=http://www.oldies.com/artist-biography/Tammy-Graham.html |title=Tammy Graham biography |accessdate=March 14, 2008 |work=Oldies.com}}</ref> eventually, she was discovered by Danny Morrison, who served as a manager for country singer [[Joe Diffie]] at the time. Morrison then recommended Graham to the head of Career Records, a now-defunct division of the [[Arista Nashville]] record label.<ref name="oldies"/>
+
+Graham was signed to a recording contract with Career in 1996, with her debut single "Tell Me Again" being released that year; it peaked at No.&nbsp;63 on the ''[[Billboard (magazine)|Billboard]]'' Hot Country Singles & Tracks (now [[Hot Country Songs]]) charts. Her second single, "A Dozen Red Roses", became her only Top 40 hit, with a number 37 country peak and number 8 [[Bubbling Under Hot 100]] peak. By April 1997, she had released her self-titled album. "Cool Water", the third and final single, reached its high point at number 59 on the country charts. Graham was later dropped from Career when the label was merged into Arista Nashville's main division, and has not recorded since.
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:10em;"| Title
+! rowspan="2" style="width:16em;"| Album details
+! colspan="2"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]
+! width="45"| [[Top Heatseekers|US Heat]]
+|-
+! scope="row"| ''[[Tammy Graham (album)|Tammy Graham]]''
+| 
+* Release date: April 29, 1997
+* Label: Career Records
+| 47
+| 41
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:12em;"| Single
+! colspan="3"| Peak chart positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[Bubbling Under Hot 100|US Bubbling]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| 1996
+! scope="row"| "Tell Me Again"
+| 63
+| —
+| —
+| align="left" rowspan="3"| ''Tammy Graham''
+|-
+| rowspan="2"| 1997
+! scope="row"| "[[A Dozen Red Roses]]"
+| 37
+| 8
+| —
+|-
+! scope="row"| "Cool Water"
+| 59
+| —
+| 89
+|-
+| colspan="6" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:12em;"| Video
+|-
+| 1996
+! scope="row"| "Tell Me Again"
+|-
+| 1997
+! scope="row"| "A Dozen Red Roses"
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Graham, Tammy}}
+[[Category:1968 births]]
+[[Category:American child singers]]
+[[Category:American country pianists]]
+[[Category:American country singer-songwriters]]
+[[Category:American women country singers]]
+[[Category:Arista Nashville artists]]
+[[Category:Singer-songwriters from Arkansas]]
+[[Category:Living people]]
+[[Category:20th-century American pianists]]
+[[Category:20th-century American women pianists]]
+[[Category:Country musicians from Arkansas]]
+[[Category:21st-century American pianists]]
+[[Category:21st-century American women pianists]]

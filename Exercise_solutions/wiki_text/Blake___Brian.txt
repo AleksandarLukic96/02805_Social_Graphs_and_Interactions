@@ -1,0 +1,136 @@
+{{Infobox musical artist
+| name            = Blake & Brian
+| image           =
+| caption         =
+| image_size      =
+| origin          = [[Nashville, Tennessee]], U.S.
+| genre           = [[Country music|Country]]
+| years_active    = 1995–1999
+| label           = [[Curb Records|Curb]]
+| associated_acts = [[Rodney Atkins]]<br />Chuck Howard
+| past_members    = Brian Gowan<br />Blake Weldon
+}}
+'''Blake & Brian''' was an American [[country music]] duo composed of singer-songwriters Brian Gowan (born January 7, 1969, in [[Temple, Texas]]) and Blake Weldon (September 13, 1966, in [[Lufkin, Texas]]).<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=244|isbn=978-0-89820-177-2}}<!--|accessdate=6 October 2009--></ref>
+
+The two were paired up by record producer Chuck Howard in 1995.<ref name="cst">{{cite web |url=http://www.countrystandardtime.com/d/cdreview.asp?xid=205 |title=Blake & Brian - ''Blake & Brian'' |accessdate=2008-07-12 |last=Allread |first=Walter |work=[[Country Standard Time]]}}</ref><ref name="baby"/> Their self-titled debut album was issued in 1997 on the [[Curb Records]] label. The album's lead-off single, "Another Perfect Day", peaked at No.&nbsp;45 on the ''[[Billboard (magazine)|Billboard]]'' country charts. ''[[Country Standard Time]]'' gave the album a mixed review, stating that although Gowan and Weldon were "indistinguishable vocally and equally malleable", and although some of the songs were derivative of the [[Eagles (band)|Eagles]], the more up-tempo tracks were "punch[ed] up... with timeless [[Texas]] kick".<ref name="cst"/> After releasing this album, they charted two more singles ("The Wish" and "Amnesia"), the latter of which was not included on an album. By 1999, Blake & Brian had parted ways. Gowan released a solo album entitled ''Warm Spanish Wine'' in 2000.<ref name="baby">{{cite web |url=http://cdbaby.com/cd/gowan2 |title=Warm Spanish Wine |accessdate=2008-07-13 |work=CDBaby.com}}</ref> He also co-wrote [[Rodney Atkins]]' 1997 debut single "In a Heartbeat" and three songs on Atkins' 2003 debut album ''[[Honesty (Rodney Atkins album)|Honesty]]''.
+
+==Discography==
+
+===''Blake & Brian'' (1997)===
+{{Infobox album
+| italic_title = no
+| name         = Blake & Brian
+| type         = studio
+| artist       = Blake & Brian
+| cover        = blakebrianalbum.jpg
+| alt          =
+| released     = {{Start date|1997|08|19}}
+| recorded     =
+| venue        =
+| studio       =
+| genre        = Country
+| length       =
+| label        = Curb
+| producer     = Chuck Howard
+| prev_title   =
+| prev_year    =
+| next_title   =
+| next_year    =
+}}
+
+====Track listing====
+#"If Guitars Were Guns" (Brian Gowan, Roger Alan Wade) – 2:21
+#"Why, Why, Why" (Mark Selby, Doug Hughes) – 2:33
+#"Saving My Love" (Blake Weldon, Tony Stampley) – 3:43
+#"The Wish" (Conley White, Sam Hogin, Phil Barnhart) – 3:44
+#"There Is No End" (Weldon, [[Bill Rice]], [[Sharon Rice]]) – 3:29
+#"Straight to You" (Lee Satterfield, George Teren) – 2:44
+#"Another Perfect Day" (White, Barnhart, Brian Tabor) – 3:26
+#"Shut Up Heart" (Michael Huffman, Rick Williamson) – 2:27
+#"Confederate Rose" ([[Max T. Barnes]], [[Leslie Satcher]]) – 3:34
+#"Don't Apologize for Who You Are" ([[Troy Seals]], [[Waylon Jennings]]) – 2:12
+#*feat. Waylon Jennings and [[Charlie Daniels]]
+#"My Only Claim to Fame" (Weldon, B. Rice, S. Rice) – 3:07
+
+====Personnel====
+As listed in liner notes.<ref>{{cite AV media notes |title=Blake & Brian |others=Blake & Brian |year=1997 |type=CD liner notes |publisher=Curb Records |id=77900}}</ref>
+{{div col|colwidth=30em}}
+*[[Eddie Bayers]] – [[Drum kit|drums]]
+*Michael Black – [[Backing vocalist|background vocals]]
+*Bruce Bouton – [[steel guitar]]
+*Dennis Burnside – [[piano]]
+*[[J.T. Corenflos]] – [[electric guitar]]
+*Larry Franklin – [[fiddle]]
+*[[Paul Franklin (musician)|Paul Franklin]] – steel guitar
+*John Hobbs – piano
+*[[David Hungate]] – [[bass guitar]]
+*[[Brent Mason]] – electric guitar
+*[[Terry McMillan (musician)|Terry McMillan]] – [[harmonica]], [[percussion instrument|percussion]]
+*Scott Merry – bass guitar
+*[[John Wesley Ryles]] – background vocals
+*Paul Scholten – drums
+*Michael Spriggs – acoustic guitar
+*Dennis Wilson – background vocals
+*[[Glenn Worf]] – bass guitar
+{{Div col end}}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<br /><ref>{{cite web |url=http://mikecurb.com/about/pdf/billboard_charted_singles.pdf |title=Billboard charted singles |accessdate=2008-07-13 |work=Mike Curb official website}}</ref>
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="2"| 1997
+! scope="row"| "Another Perfect Day"
+| 45
+| 87
+| align="left" rowspan="2"| ''Blake & Brian''
+|-
+! scope="row"| "The Wish"
+| 62
+| —
+|-
+| 1998
+! scope="row"| "Amnesia"
+| 68
+| —
+| align="left"| Single only
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:14em;"| Video
+! Director
+|-
+| 1997
+! scope="row"| "Another Perfect Day"
+| rowspan="2"| David Abbott
+|-
+| 1998
+! scope="row"| "Amnesia"
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.briangowan.com/index.cfm Brian Gowan official website]
+*[http://www.kevinblakeweldon.com/ Kevin Blake Weldon official website]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Blake and Brian}}
+[[Category:American country music groups]]
+[[Category:American country music duos]]
+[[Category:Curb Records artists]]
+[[Category:Musical groups established in 1995]]
+[[Category:Musical groups disestablished in 1999]]

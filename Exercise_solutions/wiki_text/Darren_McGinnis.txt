@@ -1,0 +1,70 @@
+{{short description|Canadian country music singer}}
+{{Use mdy dates|date=January 2020}}
+{{Infobox musical artist
+| name            = Darren McGinnis
+| image           =
+| origin          = [[Sussex, New Brunswick]]
+| instrument      = Vocals
+| genre           = [[Country music|Country]]
+| occupation      = Singer
+| years_active    = 2003–present
+| label           = AIM Music/[[Fontana North]]
+| associated_acts =
+| website         = 
+}}
+
+'''Darren McGinnis''' (born in [[Sussex, New Brunswick]]<ref name="fontana">{{cite web|url=http://www.fontananorth.com/pdfs/FN00082.pdf|title=Fontana North Distribution|page=14|date=July 14, 2009|work=[[Fontana North]]|accessdate=November 12, 2013}}</ref>) is a Canadian [[country music]] singer. He debuted in 2009 with the single "More Than Me". It was nominated at the 2010 [[Canadian Radio Music Awards]] for Country Song of the Year.<ref>{{cite news|title=Nickelback, Karl Wolf lead race for radio airplay awards|url=http://www.cbc.ca/news/arts/nickelback-karl-wolf-lead-race-for-radio-airplay-awards-1.928415|accessdate=November 12, 2013|publisher=[[Canadian Broadcasting Corporation]]|date=January 13, 2010}}</ref>
+
+McGinnis' debut album, ''What's Your Story'', was released on March 3, 2009, by AIM Music and distributed by [[Fontana North]].<ref name="fontana" /> It received three and a half stars from Bruce Leperre of the ''[[Winnipeg Free Press]]'', who wrote that "McGinnis's strong writing and great vocals combine with Jason Barry's exquisite production to deliver an album that combines contemporary country with a rootsy feel." Leperre said that McGinnis "understands the importance of a good song" and compared him favorably to [[Keith Urban]] and [[Dierks Bentley]], writing that his album "stands tall and proud right alongside either of those artists' offerings as well as anyone else making country music today."<ref>{{cite news|last=Leperre|first=Bruce|title=Country – Winnipeg Free Press|url=http://www.winnipegfreepress.com/arts-and-life/entertainment/music/country-50532667.html|accessdate=November 12, 2013|newspaper=[[Winnipeg Free Press]]|date=July 11, 2009}}</ref>
+
+McGinnis was one of eight artists selected to perform at the New Artist Showcase at the 2009 [[Canadian Country Music Association]] Awards.<ref>{{cite news |title=Locals on stage in country music awards |url=http://www.canada.com/story_print.html?id=da5af8e3-452a-43df-b29d-803f4ddd2dab&sponsor= |accessdate=November 12, 2013 |newspaper=[[Postmedia News|Canada.com]] |date=September 11, 2009 |url-status=dead |archiveurl=https://web.archive.org/web/20131216230744/http://www.canada.com/story_print.html?id=da5af8e3-452a-43df-b29d-803f4ddd2dab&sponsor= |archivedate=December 16, 2013 }}</ref> ''What's Your Story'' was nominated for a CCMA Award for Album Design of the Year, and his producer, Jason Barry, was nominated for Record Producer of the Year for his production on the album.<ref>{{cite news|title=2009 CCMA Awards Nominees Listing|url=http://www.ccma.org/press_release.cfm?PressReleaseID=0401J44C526080441|accessdate=November 12, 2013|newspaper=[[Canadian Country Music Association]]|date=July 29, 2009|url-status=dead|archiveurl=https://web.archive.org/web/20131112150701/http://www.ccma.org/press_release.cfm?PressReleaseID=0401J44C526080441|archivedate=November 12, 2013}}</ref>
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:20em;"| Album details
+|-
+! scope="row"| ''What's Your Story''
+| 
+* Release date: March 3, 2009
+* Label: AIM Music/[[Fontana North]]
+* Formats: CD, [[music download]]
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! Year
+! style="width:15em;"| Single
+! Album
+|-
+| rowspan="3"| 2009
+! scope="row"| "More Than Me"
+| rowspan="3"| ''What's Your Story''
+|-
+! scope="row"| "Still Get to Me"
+|-
+! scope="row"| "I'll Find Me Another"
+|-
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{official|http://lisaboudreauimaginganddesign.com/darrenMsite/index.html}}
+*{{Allmusic|id=mn0001087178/discography|label=Darren McGinnis}}
+
+{{authority control}}
+
+{{DEFAULTSORT:McGinnis, Darren}}
+[[Category:Canadian country singers]]
+[[Category:Canadian male singers]]
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]
+
+
+{{Canada-singer-stub}}

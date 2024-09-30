@@ -1,0 +1,95 @@
+{{Redirect|Will Snyder|3=Will Snyder (politician)}}
+{{Infobox musical artist
+| name            = Caitlin & Will
+| image           =
+| image_size      =
+| landscape       =
+| alt             =
+| caption         =
+| origin          = [[Nashville, Tennessee]], United States
+| genre           = [[Country music|Country]]
+| years_active    = {{start date|2008}}–{{end date|2009}}
+| label           = [[Columbia Records|Columbia Nashville]]
+| past_members    =
+* Caitlin Lynn
+* Will Snyder
+}}
+
+'''Caitlin & Will''' were an American [[country music]] duo, consisting of members Caitlin Lynn and Will Snyder, that rose to fame when they won season one of CMT's ''[[Can You Duet]]''. After winning, they signed with [[Columbia Records|Columbia Nashville]]. They initially intended to release a song titled "Even Now" as their debut single, but the label decided to release "[[Address in the Stars]]" instead. The song was released to radio on March 30, 2009 and peaked at No.&nbsp;42. Their debut album went unreleased, and the duo disbanded in October 2009.
+
+==History==
+Caitlin Lynn was born in [[Glen Burnie, Maryland]], while Will Snyder was born in [[London, Kentucky]]. The two had originally auditioned for ''[[Can You Duet]]'' with different partners, but were put together by executives of the show.<ref>{{cite web|url=http://www.cmt.com/artists/az/caitlin_and_will/bio.jhtml|archive-url=https://web.archive.org/web/20090329044616/http://www.cmt.com/artists/az/caitlin_and_will/bio.jhtml|url-status=dead|archive-date=March 29, 2009|title=Caitlin & Will biography|work=[[Country Music Television]]|accessdate=2 October 2012}}</ref>
+
+After winning the competition, they were signed to [[Columbia Records]]' Nashville division and started work on recording their debut album. While originally their debut single was to be "Even Now", after a string of radio tours, the label decided to change the single to "[[Address in the Stars]]", which peaked at number 42 on [[Hot Country Songs]]. The song peaked at No.&nbsp;42 on [[Hot Country Songs]] in June 2009. They made their ''[[Grand Ole Opry]]'' debut on May 22, 2009.<ref>{{cite web|url=http://blogs.myspace.com/index.cfm?fuseaction=blog.ListAll&friendId=380659964|title=Caitlin & Will MySpace blog|author=Grand Ole Opry|date=2009-05-20|accessdate=2009-06-20|archive-url=https://web.archive.org/web/20090828094908/http://blogs.myspace.com/index.cfm?fuseaction=blog.ListAll|archive-date=2009-08-28|url-status=dead}}</ref>
+
+On March 31, 2009, they released a six song digital EP, entitled ''[[Caitlin & Will - EP]]'', which was produced by songwriter [[Chris Lindsey]]. The EP debuted and peaked on both the ''[[Billboard (magazine)|Billboard]]'' [[Top Country Albums]] and [[Top Heatseekers]] charts at No.&nbsp;51 and No.&nbsp;46, respectively. The album included "Address in the Stars" and five other songs, which would have been included on their debut album ''Dark Horse''. It was announced on October 1, 2009 that Caitlin & Will had parted ways with Columbia Records Nashville. Thus, ''Dark Horse'' went unreleased,<ref>{{cite web|url=http://www.theboot.com/2009/10/06/keith-anderson-caitlin-and-will-part-with-label/|title=Keith Anderson, Caitlin and Will part with label|last=Betts|first=Stephen L.|date=2009-10-06|work=The Boot|accessdate=2009-10-07}}</ref> and it was announced that the duo had split.<ref>{{cite web|url=http://blog.headlinecountry.net/?p=479|title=Anderson, Caitlyn <nowiki>[sic]</nowiki> & Will Leave Columbia Records|last=Parolin|first=Zach|date=2009-10-06|work=Headline Country|accessdate=2009-10-07|archive-url=https://web.archive.org/web/20110723142826/http://blog.headlinecountry.net/?p=479|archive-date=2011-07-23|url-status=dead}}</ref>
+
+== Discography ==
+
+=== Extended plays ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2" style="width:12em;"| Title
+! scope="col" rowspan="2"| Details
+! scope="col" colspan="2"| Peak chart positions
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[Top Country Albums|US Country]]
+! scope="col" style="width:2.5em;font-size:90%;"| [[Heatseekers charts|US<br>Heat]]
+|-
+! scope="row"| ''[[Caitlin & Will (EP)|Caitlin & Will – EP]]''
+| 
+* Released: March 31, 2009
+* Label: [[Columbia Records|Columbia Nashville]]
+| 51
+| 46
+|}
+
+=== Singles ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2" style="width:16em;"| Title
+! scope="col" rowspan="2"| Year
+! scope="col"| Peak chart positions
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[Hot Country Songs|US Country]]
+|-
+! scope="row"| "Even Now"<ref>{{cite web | url=http://www.cmt.com/news/1605497/can-you-duet-winners-caitlin-will-release-first-single/ | archive-url=https://web.archive.org/web/20190605021340/http://www.cmt.com/news/1605497/can-you-duet-winners-caitlin-will-release-first-single/ | url-status=dead | archive-date=June 5, 2019 | title=Can You Duet Winners Caitlin & Will Release First Single | work=CMT | date=February 4, 2009 | accessdate=June 4, 2019}}</ref>
+| rowspan="2"| 2009
+| —
+| rowspan="2"| ''Caitlin & Will''
+|-
+! scope="row"| "[[Address in the Stars]]"
+| 42
+|}
+
+=== Music videos ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" style="width:16em;"| Title
+! scope="col"| Year
+! scope="col"| Director
+|-
+! scope="row"| "Even Now"
+| rowspan="3"| 2009
+| The Erwin Bros.
+|-
+! scope="row"| "Address in the Stars" (version 1)
+| rowspan="2"| Steven L. Weaver
+|-
+! scope="row"| "Address in the Stars" (version 2)
+|}
+
+==References==
+{{Reflist}}
+
+{{Can You Duet}}
+
+{{DEFAULTSORT:Caitlin and Will}}
+[[Category:American country music duos]]
+[[Category:Country music groups from Tennessee]]
+[[Category:Columbia Records artists]]
+[[Category:Musical groups established in 2008]]
+[[Category:Musical groups disestablished in 2009]]
+[[Category:Musical groups from Nashville, Tennessee]]
+[[Category:2008 establishments in Tennessee]]

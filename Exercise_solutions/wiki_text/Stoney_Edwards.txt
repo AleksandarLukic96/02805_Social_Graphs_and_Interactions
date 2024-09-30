@@ -1,0 +1,334 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=July 2020}}
+{{Infobox musical artist  <!-- See Wikipedia:WikiProject Musicians -->
+| name                = Stoney Edwards
+| image                 = 
+| caption            = 
+| image_size            = <!-- Only for images narrower than 220 pixels -->
+| background          = solo_singer
+| birth_name          = Frenchie Edwards
+| alias               = 
+| birth_date                = {{Birth date|1929|12|24}}
+| death_date                = {{Death date and age|1997|4|5|1929|12|24}}
+| origin              = [[Seminole County, Oklahoma]]
+| instrument          = Vocals, guitar
+| genre               = [[Country music|Country]]
+| occupation          = Singer-songwriter
+| years_active        = 1970–1992
+| label               = [[Capitol Records|Capitol]]<br>Music America
+| associated_acts     =  
+| website                 = 
+}}
+
+'''Stoney Edwards''' was an American country singer. He was one of the first African-American singers to have a significant presence in [[country music]]. He is best known for the song, "[[She's My Rock]]," a Top 20 country hit that was later a hit song for [[Brenda Lee]] and then for [[George Jones]].
+
+==Biography==
+Born Frenchie (or Frenchy) Edwards on December 24, 1929<ref name='SSDI'>
+{{cite web
+ |url=http://www.ancestry.com
+ |title= Social Security Death Index [database on-line]
+ |publisher= The Generations Network
+ |location= United States
+|year=2009
+ |accessdate=December 3, 2009
+}}
+</ref><ref name='Poor-Folks'>{{cite AV media notes |title=The Best of Stoney Edwards: Poor Folks Stick Together |others=Stoney Edwards |year=1998 |first=John |last=Morthland |publisher=EMI-Capitol Special Markets |location=Hollywood, California }}</ref> He was one of the youngest of seven children born to Rescue Edwards (known as "Bub"), a farmer from [[North Carolina]] and his wife, Ollie (known as "Red").<ref name='Poor-Folks'/><ref name='1930-USCensus'>
+{{cite web
+ |url=http://www.ancestry.com
+ |title= Fifteenth Census of the United States (1930) [database on-line], Seminole County, Oklahoma, Enumeration District: 67-8, Pages: 6B-7A, Lines: 96–100 and 1–2, household of Rassie Edwards
+ |publisher= The Generations Network
+ |location= United States
+|date=April 9, 1930 |accessdate=December 3, 2009
+}}
+</ref>
+
+From an early age, Edwards dreamed of performing at the [[Grand Ole Opry]]. After moving to the San Francisco area and raising a family there, Edwards would play music in his spare time. However, in 1968, a job-related accident would change his life forever. While working as a forklift operator in a steel refinery, Edwards got trapped in a sealed-up tank and suffered severe carbon dioxide poisoning. He was sidelined for the next two years in either a coma, a near-coma, or in a state bordering on insanity.<ref name='Poor-Folks'/>
+
+As his condition improved, Edwards found work in odd jobs while at the same time devoting more of his energy to music. He sang in a [[honky tonk]] style reminiscent of [[Lefty Frizzell]] and [[Merle Haggard]].<ref name='OHS-Stoney'>{{cite web
+| url         =http://digital.library.okstate.edu/encyclopedia/entries/E/ED011.html
+| title       =Frenchy Edwards (1929–1997)
+| first       =Larry
+| last        =O'Dell
+| publisher   =[[Oklahoma Historical Society]]
+| location    =Stillwater, Oklahoma
+| accessdate  =December 8, 2009
+}}</ref> In 1970, while performing at a benefit for his hero, [[Bob Wills]] in [[Oakland, California]], Stoney was spotted by a local attorney, Ray Sweeney. In the wake of [[Charley Pride]]'s breakthrough success, the attorney knew that most labels were looking for a [[African-American|black]] country singer. Just six months after recovering from his accident, Edwards signed a contract with [[Capitol Records]].<ref name='Poor-Folks'/><ref name='AMG-Stoney'>{{cite web
+| url         ={{AllMusic|class=artist|id=p17252|pure_url=yes}}
+| title       =Stoney Edwards: Biography
+| first       =Sandra
+| last        =Brennan
+| publisher   =[[Allmusic]]
+| accessdate  =December 4, 2009
+}}</ref><ref name='FWIS-Liner'>{{cite AV media notes |title=From Where I Stand: The Black Experience in Country Music |others=Various Artists |year=1998 |chapter=The Artists & the Songs |first=John W. |last=Rumble |pages=49–50 |publisher=Warner Bros. Records |location=Burbank, California }}</ref>
+
+Backed by a then little-known [[Bob Wills|Wills]] tribute band called [[Asleep at the Wheel]], Edwards entered the studio to record some songs. "A Two Dollar Toy," his first single at Capitol, was inspired by an incident in which his plans to leave his family were aborted by the sound of a child's toy.  Having refused to sue the steel company, Edwards would also not allow his wife to accept welfare.  Unable to support his family due to his disability, Edwards planned to sneak out of the house so that there would be one less mouth to feed.  However, as he was leaving, he stepped on a toy, waking his daughter, Janice.<ref name='Poor-Folks'/><ref name='Hillbilly'>{{cite web |url=http://www.hillbilly-music.com/artists/story/index.php?id=14940 |title=Stoney Edwards |publisher=Hillbilly-Music dawt com |accessdate=December 2, 2009 }}</ref><ref name='AMG-Stoney'/>
+
+Edwards released five albums at [[Capitol Records|Capitol]] which included two singles to make the Top 20. While his chart success never reached the heights of [[Charley Pride]], Edwards had a devoted following. One of his biggest hits, "[[She's My Rock]]," which peaked at No.&nbsp;20 in 1973, was a No.&nbsp;6 single for [[Brenda Lee]] in 1975 (as "He's My Rock") and a No.&nbsp;2 hit for [[George Jones]] in 1984.<ref name='AMG-Stoney'/> On at least one occasion, Jones invited Edwards on stage to sing it.
+
+Another one of his popular songs was "Hank and Lefty Raised My Country Soul," a tribute to [[Hank Williams]] and [[Lefty Frizzell]]. It hit the Top 40 in 1973.
+
+In 1976, one of his last chart singles created the most controversy.  Many stations would not play, "Blackbird (Hold Your Head High)" because it contained the line "just a couple of country niggers" despite the song's affirmative message.<ref name='Poor-Folks'/><ref name='OHS-Stoney'/>
+
+By the early 1980s, both his health and his career began to decline.  He died on April 5, 1997, of [[stomach cancer]].<ref name='SSDI'/><ref name='Poor-Folks'/><ref name='AMG-Stoney'/><ref name='FWIS-Liner'/>
+
+== Discography ==
+
+=== Albums ===
+{| class="wikitable"
+! Year
+! Album
+! <small>[[Top Country Albums|US Country]]</small>
+! Catalogue #
+|-
+| rowspan="2"| 1971
+| ''Stoney Edwards, A Country Singer''
+| align="center"| 36
+| align="center"|Capitol ST-741
+|-
+| ''Down Home in the Country''
+| align="center"| —
+| align="center"|Capitol ST-834
+|-
+| 1972
+|''Stoney Edwards''
+| align="center"| —
+|align="center"|Capitol ST-11090
+|-
+| 1973
+|''She's My Rock''
+| align="center"| —
+|align="center"|Capitol ST-11173
+|-
+| 1975
+| ''Mississippi, You're on My Mind''
+| align="center"| 46
+| align="center"|Capitol ST-11401
+|-
+| 1976
+| ''Blackbird''
+| align="center"| 36
+| align="center"|Capitol ST-11499
+|-
+| 1981
+| ''No Way to Drown a Memory''
+| align="center"| —
+| align="center"|Music America 10021
+|-
+| 1991
+| ''Just For Old Time's Sake''
+|  align="center"| —
+| align="center"| RBR 1000
+|-
+| 1998
+| ''The Best of Stoney Edwards: Poor Folks Stick Together''
+| align="center"| —
+| align="center"| Razor & Tie RE-8
+|}
+
+=== Singles ===
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| A-Side
+! rowspan="2"| B-Side
+! colspan="2"| Chart Positions
+! rowspan="2"| Catalogue #
+|-
+! width="50"| <small>[[Hot Country Songs|US Country]]</small>
+! width="50"| <small>CAN Country</small>
+|-
+| rowspan="1"| 1970
+| "A Two Dollar Toy"
+| "An Old Mule's Hip"
+| align="center"| 68
+| align="center"| —
+| align="center"| Capitol 3005
+|-
+| rowspan="3"| 1971
+| "Poor Folks Stick Together"
+| "Mama's Love"
+| align="center"| 61
+| align="center"| —
+| align="center"| Capitol 3061
+|-
+| "The Cute Little Waitress"
+| "Please Bring a Bottle"
+| align="center"| 73
+| align="center"| —
+| align="center"| Capitol 3131
+|-
+| "Odd-Job Dollar Bill Man"
+| "Fishin' Song"
+| align="center"| —
+| align="center"| —
+| align="center"| Capitol 3191
+|-
+| rowspan="3"| 1972
+| "Daddy Did His Best"
+| "I Bought the Shoes"
+| align="center"| —
+| align="center"| —
+| align="center"| Capitol 3270
+|-
+| "All She Made of Me"
+| "You Can't Call Yourself Country"
+| align="center"| —
+| align="center"| —
+| align="center"| Capitol 3347
+|-
+| "[[She's My Rock]]"
+| "I Won't Make It Through the Day"
+| align="center"| 20
+| align="center"| 43
+| align="center"| Capitol 3462
+|-
+|rowspan="3"| 1973
+| "You're a Believer"
+| "She's Helping Me Get Over You"
+| align="center"| 54
+| align="center"| —
+| align="center"| Capitol 3550
+|-
+| "Hank and Lefty Raised My Country Soul"
+| "A Few of the Reasons"
+| align="center"| 39
+| align="center"| 54
+| align="center"| Capitol 3671
+|-
+| "Daddy Bluegrass"
+| "It's Raining on My Sunny Day"
+| align="center"| 85
+| align="center"| —
+| align="center"| Capitol 3766
+|-
+|rowspan="2"| 1974
+| "I Will Never Get Over You"
+| "Honey (Stoney's Yodel Blues)"
+| align="center"| —
+| align="center"| —
+| align="center"| Capitol 3878
+|-
+| "Our Garden of Love"
+| "Talk About a Woman"
+| align="center"| —
+| align="center"| —
+| align="center"| Capitol 3949
+|-
+|rowspan="4"| 1975
+|"Clean Your Own Tables"
+|"Do You Know the Man"
+| align="center"| 77
+| align="center"| —
+| align="center"| Capitol 4015
+|-
+| "Mississippi You're On My Mind" 
+| "A Two Dollar Toy"
+| align="center"| 20
+| align="center"| 17
+| align="center"| Capitol 4051
+|-
+| "Moon Over Morocca"
+| "Partners on the Road"
+| align="center"| —
+| align="center"| —
+| align="center"| Capitol 4124
+|-
+| "Blackbird (Hold Your Head High)"
+| "Picking Wildflowers"
+| align="center"| 41
+| align="center"| 35
+| align="center"| Capitol 4188
+|-
+|rowspan="2"| 1976
+| "Love Still Makes the World Go Round"
+| "Real Thing"
+| align="center"| 51
+| align="center"| —
+| align="center"| Capitol 4246
+|-
+| "Don't Give Up on Me"
+| "July 12, 1939"
+| align="center"| 90
+| align="center"| —
+| align="center"| Capitol 4337
+|-
+|1977
+| "Yankee Lady"
+| "Picking Wildflowers"
+| align="center"| —
+| align="center"| —
+| align="center"| Capitol 4433
+|-
+|1978
+| "If I Had to Do It All Over Again"
+| "I Feel Chained"
+| align="center"| 60
+| align="center"| —
+| align="center"| JMI 47
+|-
+|1979
+| "My Oklahoma"
+| "Someone Like You"
+| align="center"| —
+| align="center"| —
+| align="center"| JMI 49
+|-
+|rowspan="3"| 1980
+| "Lean On Me"
+| "Too Much of Too Little"
+| align="center"| —
+| align="center"| —
+| align="center"| Music America MA-105
+|-
+| "No Way to Drown a Memory"
+| "Reverend Leroy"
+| align="center"| 53
+| align="center"| —
+| align="center"| Music America MA-107
+|-
+| "One Bar at a Time"
+| "Stranger in My Arms"
+| align="center"| 85
+| align="center"| —
+| align="center"| Music America MA-109
+|-
+|rowspan='2'| 1982
+| "All-Around Cowboy"
+| "Reverend Leroy"
+| align="center"| —
+| align="center"| —
+| align="center"| Power 1
+|-
+| "Our Little Christmas Tree"
+| "Silent Night"
+| align="center"| —
+| align="center"| —
+| align="center"| Hill Country 901
+|}
+
+==References==
+<references/>
+
+==External links==
+*{{AllMusic|class=artist|id=p17252|label=Stoney Edwards}}
+*[http://www.hillbilly-music.com/artists/story/index.php?id=14940 Hillbilly-Music.com Bio]
+*{{YouTube|vzIforBJyis|Concert footage of Stoney Edwards performing "She's My Rock''}}
+*{{YouTube|w-FncVkC8BU|Concert footage of Stoney Edwards performing "Hank and Lefty Raised My Country Soul"}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Edwards, Stoney}}
+[[Category:1929 births]]
+[[Category:1997 deaths]]
+[[Category:People from Seminole County, Oklahoma]]
+[[Category:African-American country musicians]]
+[[Category:African-American male singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:American country singer-songwriters]]
+[[Category:Country musicians from Oklahoma]]
+[[Category:Deaths from stomach cancer]]
+[[Category:Singer-songwriters from Oklahoma]]
+[[Category:Capitol Records artists]]
+[[Category:20th-century African-American male singers]]
+[[Category:20th-century American male singers]]
+[[Category:20th-century American singers]]

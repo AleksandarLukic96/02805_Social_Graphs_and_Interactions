@@ -1,0 +1,93 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist
+| name                = Kelly Shane Brooks
+| image                 = 
+| image_size            = 
+| background          = solo_singer
+| birth_name          = Kelly Shane Brooks
+| alias               = 
+| birth_date          = {{birth date and age|1974|3|18}}
+| origin              = [[Breckenridge, Texas]], United States
+| instrument          = Vocals, guitar
+| genre               = [[Country music|Country]]
+| occupation          = Singer-songwriter
+| years_active        = 1998
+| label               = [[Decca Records|Decca]]
+| associated_acts     = 
+}}
+'''Kelly Shane Brooks''' (born March 18, 1974), whose stage name was '''Shane Stockton''', is a former American [[country music]] singer. He released one album, ''[[Stories I Could Tell]]'', through [[Decca Records]] Nashville in 1998.
+
+==Biography==
+Kelly Brooks was born in [[Breckenridge, Texas]], United States. Recording as Shane Stockton, Kelly released a single "What If I'm Right."  In June 1998, Decca released his only album, ''Stories I Could Tell''. Kelly wrote every song on the album, with one being co-written. Kelly sang with [[Buck Owens]] in [[Bakersfield, California]], at Buck Owens' birthday party. "What If I'm Right" peaked at number 54 on the country music charts, and the album's second single, "Gonna Have to Fall", reached number 51.<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|date=2008|page=404|isbn=978-0-89820-177-2}}</ref> One of his songs, "My Baby No Está Aquí No More", appeared on Garth Brooks's 2005 album ''The Lost Sessions''.<ref>{{cite web|url=http://www.allmusic.com/album/r444968|title=''Highways & Dance Halls''|last=Dinoia|first=Maria Konicki|work=Allmusic|accessdate=September 20, 2011}}</ref> Kelly Brooks lost his recording contract in 1999 and has not recorded since.<ref>{{cite web|url=http://www.kcbd.com/story/866727/whatever-happened-to-country-musics-shane-stockton?redirected=true|title=Whatever Happened to Country Music's Shane Stockton?|date=July 22, 2002|work=NewsChannel Lubbock|accessdate=September 9, 2011}}</ref> In 2001, this time going as Shane Brooks, Kelly became the pastor at Elgin Avenue Baptist Church in [[Lubbock, Texas]], which later changed its name to Freedom Fellowship. Kelly remained there until 2010 when the church disbanded.<ref>{{cite web|url=http://lubbockonline.com/stories/050402/rel_0504020112.shtml|title=When God calls…|date=May 4, 2002|work=Avalanche-Journal|accessdate=September 9, 2011}}</ref>
+
+Kelly Brooks now resides in Granbury, Texas and pastors The Bridge Church of Granbury.<ref>[https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Learning%20How%20to%20Overcome] {{dead link|date=February 2020}}</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:20em;"| Album details
+|- 
+! scope="row"| ''[[Stories I Could Tell]]''
+| 
+* Release date: June 2, 1998
+* Label: [[Decca Records]]
+* Format: CD, [[audio cassette|cassette]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! colspan="2"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<ref>{{cite magazine|url=https://www.billboard.com/music/shane-stockton|title=Chart results for Shane Stockton|magazine=Billboard|accessdate=February 19, 2018}}</ref>
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="2"| 1998
+! scope="row"| "What If I'm Right"
+| 54
+| 86
+|-
+! scope="row"| "Gonna Have to Fall"
+| 51
+| 92
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:14em;"| Title
+! Director
+|- 
+| rowspan="2"| 1998
+! scope="row"| "What If I'm Right"<ref>{{cite web|url=http://www.cmt.com/videos/shane-stockton/385337/what-if-im-right.jhtml|archive-url=https://web.archive.org/web/20121024011255/http://www.cmt.com/videos/shane-stockton/385337/what-if-im-right.jhtml|url-status=dead|archive-date=October 24, 2012|title=CMT : Videos : Shane Stockton : What If I'm Right|publisher=[[Country Music Television]]|accessdate=August 5, 2011}}</ref>
+| Gerry Wenner
+|-
+! scope="row"| "Gonna Have to Fall"<ref>{{cite web|url=http://www.cmt.com/videos/shane-stockton/308426/gonna-have-to-fall.jhtml|archive-url=https://web.archive.org/web/20121024011327/http://www.cmt.com/videos/shane-stockton/308426/gonna-have-to-fall.jhtml|url-status=dead|archive-date=October 24, 2012|title=CMT : Videos : Shane Stockton : Gonna Have To Fall|publisher=[[Country Music Television]]|accessdate=August 5, 2011}}</ref>
+| Jeffrey Phillips
+|}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Stockton, Shane}}
+[[Category:1974 births]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Living people]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:Decca Records artists]]
+[[Category:People from Breckenridge, Texas]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:Country musicians from Texas]]
+[[Category:21st-century American male singers]]

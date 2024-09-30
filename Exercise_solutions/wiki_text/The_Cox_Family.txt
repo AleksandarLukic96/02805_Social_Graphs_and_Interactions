@@ -1,0 +1,133 @@
+{{Short description|American band}}
+{{Distinguish|Cox family}}
+
+[[Image:Cox music family of Cotton Valley, LA IMG 3541.JPG|thumb|200px|right|<span style="font-size:100%;">[[Cotton Valley, Louisiana|Cotton Valley]] honors the Cox family with a [[tourism]] billboard.</span>]]
+'''The Cox Family''' is an American [[Country music|country]]/[[bluegrass music]] group from [[Cotton Valley, Louisiana|Cotton Valley]] in [[Webster Parish, Louisiana|Webster Parish]] in northwestern [[Louisiana]], United States.<ref name="Larkin90">{{cite book|title=The Virgin Encyclopedia of Nineties Music|title-link=Encyclopedia of Popular Music|editor=Colin Larkin|editor-link=Colin Larkin (writer)|publisher=[[Virgin Books]]|date=2000|edition=First|isbn=0-7535-0427-8|page=100}}</ref>  The Cox Family can be heard on the [[O Brother, Where Art Thou? (soundtrack)|''O Brother, Where Art Thou?'' soundtrack]]. Their 1994 collaboration with [[Alison Krauss]], ''[[I Know Who Holds Tomorrow]]'', won the 1995 [[Grammy Award for Best Southern, Country or Bluegrass Gospel Album]].<ref name="Larkin90"/> They were nominated for another Grammy for their album ''[[Beyond the City]]''. They may also be heard on the ''[[Traveller (1997 film)|Traveller]]'' (1997) motion picture soundtrack with their renditions of the [[Carter Family]]'s "[[I'm Thinking Tonight of My Blue Eyes]]" and "Sweeter Than the Flowers". In 2015, they released ''Gone Like the Cotton'', their first album for nearly 20 years.
+
+==Members==
+*Evelyn Cox (born June 20, 1959) – [[guitar]], vocals
+*Lynn Cox (born October 11, 1960) – [[double bass|bass]], vocals
+*Sidney Cox (born July 21, 1965) – [[banjo]], [[dobro]], guitar, vocals
+*Suzanne Cox (born June 5, 1967) – [[mandolin]], vocals
+*Willard Cox (June 9, 1937 – November 4, 2019), [[fiddle]], vocals
+*Dennis Sunderman – bass
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:20em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="2"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Bluegrass Albums|US Grass]]
+! width="45"| [[Heatseekers Albums|US Heat]]
+|-
+! scope="row"| ''Quiet Storm''
+| 
+* Release date: unknown
+* Label: Wilcox Records
+| —
+| —
+|-
+! scope="row"| ''Heartaches Along the Horizon''
+| 
+* Release date: 1987
+* Label: [[Wilcox Records]]
+| —
+| —
+|-
+! scope="row"| ''Everybody's Reaching Out for Someone''
+| 
+* Release date: April 1, 1993
+* Label: [[Rounder Records]]
+| —
+| —
+|-
+! scope="row"| ''[[I Know Who Holds Tomorrow]]''
+| 
+* Release date: January 28, 1994
+* Label: Rounder Records
+| —
+| —
+|-
+! scope="row"| ''Beyond the City''
+| 
+* Release date: April 25, 1995
+* Label: Rounder Records
+| —
+| —
+|-
+! scope="row"| ''Just When We're Thinking It's Over''
+| 
+* Release date: July 30, 1996
+* Label: [[Asylum Records]]
+| —
+| —
+|-
+! scope="row"| ''Gone Like the Cotton''
+|
+* Release date: October 23, 2015 
+* Label: Rounder Records
+| 1
+| 23
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:22em;"| Single
+! Album
+|-
+| 1993
+! scope="row"| "Cry, Baby, Cry"
+| ''Everybody's Reaching Out for Someone''
+|-
+| 1994
+! scope="row"| "Walk Over God's Heaven" <small>(with [[Alison Krauss]])</small>
+| ''I Know Who Holds Tomorrow''
+|-
+| 1996
+! scope="row"| "[[Runaway (Del Shannon song)|Runaway]]"
+| rowspan="2"| ''Just When We're Thinking It's Over''
+|-
+| 1997
+! scope="row"| "Cry, Baby, Cry" <small>(re-issue)</small>
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:22em;"| Video
+! Director
+|-
+| 1994
+! scope="row"| "Walk Over God's Heaven" <small>(with [[Alison Krauss]])</small><ref>{{cite web|url=http://www.cmt.com/videos/alison-krauss/111037/walk-over-gods-heaven.jhtml|archive-url=https://web.archive.org/web/20080920024808/http://www.cmt.com/videos/alison-krauss/111037/walk-over-gods-heaven.jhtml|url-status=dead|archive-date=September 20, 2008|title=CMT : Videos : Alison Krauss : Walk Over God's Heaven|publisher=[[Country Music Television]]|accessdate=October 6, 2012}}</ref>
+| Joanne Gardner
+|-
+| 1996
+! scope="row"| "Runaway"<ref>{{cite web|url=http://www.cmt.com/videos/the-cox-family/385076/runaway.jhtml|title=CMT : Videos : The Cox Family : Runaway|publisher=[[Country Music Television]]|accessdate=October 6, 2012}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+| [[John Lloyd Miller]]
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://coxfamilymusic.com/ Cox Family website]
+*[https://web.archive.org/web/20040530102438/http://www.cmt.com/artists/az/cox_family_the/bio.jhtml Cox Family biography on CMT Website]
+
+{{Grammy Award for Album of the Year 2000s}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Cox Family, The}}
+[[Category:Family musical groups]]
+[[Category:Grammy Award winners]]
+[[Category:People from Cotton Valley, Louisiana]]

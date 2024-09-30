@@ -1,0 +1,267 @@
+{{Short description|American country singer-songwriter (1940–1997)}}
+{{Use mdy dates|date=August 2020}}
+{{Infobox musical artist
+| name            = Johnny Darrell
+| image           = Johnny Darrell.jpg 
+| caption         =
+| image_size      =
+| alias           =
+| birth_date      = {{birth date|1940|07|23}}
+| birth_place     = [[Hopewell, Cleburne County, Alabama|Hopewell, Alabama]], U.S.
+| death_date      = {{Death date and age|1997|10|7|1940|07|23}}
+| death_place     = [[Kennesaw, Georgia|Kennesaw]], Georgia, U.S.
+| origin          =
+| instrument      = Guitar, vocals
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 1960s–1997
+| label           = United Artists<Br />[[Capricorn Records|Capricorn]]
+| associated_acts = 
+}}
+
+'''Johnny Darrell''' (July 23, 1940<ref name="LarkinCountry">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Who's Who of Country Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1993|edition=First|isbn=0-85112-726-6|pages=106/7}}</ref> – October 7, 1997)<ref name="AMHOF"/> was an American country music artist.
+Darrell was born in [[Hopewell, Cleburne County, Alabama|Hopewell, Alabama]] but grew up in [[Marietta, Georgia]].<ref name="AMG">{{Cite web|url=https://www.allmusic.com/artist/johnny-darrell-mn0000202599/biography|title=Johnny Darrell &#124; Biography & History|website=[[AllMusic]]|access-date=August 6, 2021}}</ref> After a stint in the army, he moved to Nashville and began managing a [[Holiday Inn]] near [[Music Row]], when he was discovered by Kelso Herstin, a producer working for United Artists, on the recommendation of [[Bobby Bare]].<ref name="LarkinCountry"/> In his recording career, Darrell established a trend of introducing "lyrically adventurous" songs that later became major hits for other artists.<ref name="AMHOF"/>
+
+His first single, a version of [[Curly Putman]]'s "[[Green Green Grass of Home]]" was issued in 1965, followed by "As Long as the Wind Blows" in 1966, which made the country Top 30 and saw Darrell being named "Most Promising Male Artist" by [[Cashbox (magazine)|Cashbox]].<ref>{{cite news|url=https://www.independent.co.uk/news/obituaries/obituary-johnny-darrell-1294178.html |archive-url=https://ghostarchive.org/archive/20220614/https://www.independent.co.uk/news/obituaries/obituary-johnny-darrell-1294178.html |archive-date=June 14, 2022 |url-access=subscription |url-status=live|title=Obituary: Johnny Darrell|newspaper=[[The Independent]] |first=Paul| last=Wadey|access-date=June 13, 2020|date=November 15, 1997 }}</ref> He was the first to record the [[Mel Tillis]] song "[[Ruby, Don't Take Your Love to Town]]", which became a top ten hit for him in 1967 and later a hit for [[Kenny Rogers]].<ref name="AMG"/> This was followed by his performance of [[Dallas Frazier]]'s "[[The Son of Hickory Holler's Tramp]]" in 1968, and the crossover hit "[[With Pen in Hand]]",<ref name="LarkinCountry"/> which would later become a hit for [[Vikki Carr]]. In the 1970s, Darrell was associated with the [[Outlaw country]] movement. Darrell suffered from [[diabetes]], a disease which would impair his health and ability to perform. Darrell died from the disease at age 57 in [[Kennesaw, Georgia]], and was survived by his wife Jody.<ref name="AMHOF">{{Cite web|url=http://www.alamhof.org/darrellj.htm|archiveurl=https://web.archive.org/web/20070807110112/http://www.alamhof.org/darrellj.htm|url-status=dead|title=Alabama Music Hall of Fame: Johnny Darrell|archive-date=August 7, 2007|access-date=August 6, 2021}}</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Album
+! colspan="2"| Chart Positions
+! rowspan="2"| Label
+|-
+! width="50"| <small>[[Top Country Albums|US Country]]</small>
+! width="50"| <small>[[Billboard 200|US]]</small>
+|-
+| 1966
+| ''As Long as the Winds Blow''
+| align="center"| —
+| align="center"| —
+| rowspan="7"| United Artists
+|-
+| 1967
+| ''Ruby, Don't Take Your Love to Town''
+| align="center"| 37
+| align="center"| —
+|-
+| rowspan="2"| 1968
+| ''The Son of Hickory Holler's Tramp''
+| align="center"| 37
+| align="center"| —
+|-
+| ''With Pen in Hand''
+| align="center"| 23
+| align="center"| —
+|-
+| 1969
+| ''Why You Been Gone So Long''
+| align="center"| 33
+| align="center"| 172
+|-
+| rowspan="2"| 1970
+| ''California Stop Over''
+| align="center"| —
+| align="center"| —
+|-
+| ''The Best of Johnny Darrell''
+| align="center"| —
+| align="center"| —
+|-
+| 1975
+| ''Water Glass Full of Whiskey''
+| align="center"| —
+| align="center"| —
+| Capricorn
+|-
+| 2000
+| ''Singin' It Lonesome: The Very Best...1965–1970''
+| align="center"| —
+| align="center"| —
+| Raven
+|-
+| 2002
+| ''The Complete Gusto/Starday/King Recordings''
+| align="center"| —
+| align="center"| —
+| King
+|}
+
+===Singles===
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="3"| Chart Positions
+! rowspan="2"| Album
+|-
+! width="45"| <small>[[Hot Country Songs|US Country]]</small>
+! width="45"| <small>[[Billboard Hot 100|US]]</small>
+! width="45"| <small>CAN Country</small>
+|-
+| rowspan="2"| 1965
+| "[[Green Green Grass of Home]]"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| rowspan="3"| ''As Long as the Winds Blow''
+|-
+| "As Long as the Wind Blows"
+| align="center"| 30
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="2"| 1966
+| "Johnny Lose It All"
+| align="center"| 44
+| align="center"| —
+| align="center"| —
+|-
+| "She's Mighty Gone"
+| align="center"| 72
+| align="center"| —
+| align="center"| —
+| rowspan="2"| ''Ruby, Don't Take Your Love to Town''
+|-
+| rowspan="4"| 1967
+| "[[Ruby, Don't Take Your Love to Town]]"
+| align="center"| 9
+| align="center"| —
+| align="center"| —
+|-
+| "[[My Elusive Dreams]]"
+| align="center"| 73
+| align="center"| —
+| align="center"| —
+| ''The Son of Hickory Holler's Tramp''
+|-
+| "Come See What's Left of Your Man"
+| align="center"| 37
+| align="center"| —
+| align="center"| —
+| ''Ruby, Don't Take Your Love to Town''
+|-
+| "[[The Son of Hickory Holler's Tramp]]"
+| align="center"| 22
+| align="center"| —
+| align="center"| —
+| ''The Son of Hickory Holler's Tramp''
+|-
+| rowspan="3"| 1968
+| "[[With Pen in Hand]]"
+| align="center"| 3
+| align="center"| 126
+| align="center"| —
+| ''With Pen in Hand''
+|-
+| "I Ain't Buying"
+| align="center"| 27
+| align="center"| —
+| align="center"| —
+| rowspan="2"| Why You Been Gone So Long!
+|-
+| "Woman Without Love"
+| align="center"| 20
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="4"| 1969
+| "The Coming of the Roads" <small>(with [[Anita Carter]])</small>
+| align="center"| 50
+| align="center"| —
+| align="center"| —
+| single only
+|-
+| "Why You Been Gone So Long!"
+| align="center"| 17
+| align="center"| —
+| align="center"| —
+| rowspan="2"| Why You Been Gone So Long!
+|-
+| "River Bottom"
+| align="center"| 23
+| align="center"| —
+| align="center"| 12
+|-
+| "Trouble Maker"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| single only
+|-
+| rowspan="3"| 1970
+| "Mama Come'n Get Your Baby Boy"
+| align="center"| 68
+| align="center"| —
+| align="center"| —
+| rowspan="2"| ''California Stop Over''
+|-
+| "Brother River"
+| align="center"| 75
+| align="center"| —
+| align="center"| —
+|-
+| "They'll Never Take Her Love from Me"
+| align="center"| 74
+| align="center"| —
+| align="center"| —
+| rowspan="5"| singles only
+|-
+| rowspan="2"| 1971
+| "Look Out Cleveland"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| "Don't It Seem to Rain a Lot"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="2"| 1973
+| "Crazy Daddy!"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| "Dakota the Dancing Bear"
+| align="center"| 66
+| align="center"| —
+| align="center"| —
+|-
+| 1974
+| "[[Orange Blossom Special (song)|Orange Blossom Special]]"
+| align="center"| 63
+| align="center"| —
+| align="center"| —
+| rowspan="3"| ''Water Glass Full of Whiskey''
+|-
+| rowspan="2"| 1975
+| "Glendale Arizona"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| "Rose Colored Gin"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AllMusic|class=artist|id=p25182}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Darrell, Johnny}}
+[[Category:1940 births]]
+[[Category:1997 deaths]]
+[[Category:People from Cleburne County, Alabama]]
+[[Category:Country musicians from Alabama]]
+[[Category:American country singer-songwriters]]
+[[Category:United Artists Records artists]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:Singer-songwriters from Alabama]]

@@ -1,0 +1,35 @@
+{{Infobox musical artist
+| name            = Kings County Queens
+| image           =
+| image_size      =
+| image_upright   =
+| landscape       = <!-- yes, if wide image, otherwise leave blank -->
+| alt             =
+| caption         =
+| alias           =
+| origin          = [[Brooklyn]], [[New York (state)|New York]]
+| genre           = [[Country music]]
+| years_active    = {{start date|2000}}–present
+| label           = [[Rubric Records]]
+| associated_acts = [[Daria Grace and the Pre-War Ponies]], [[God Is My Co-Pilot (band)|God is My Co-Pilot]], [[The Heroine Sheiks]], [[Melomane]]
+| website         = <!-- {{URL|www.example.com}}  -->
+| current_members = Daria Klotz, Chris Bowers, Suzanne Price, Eric Eble, Johnny Rock
+| past_members    = [[David Wm. Sims]]
+| module          =
+| module2         =
+| module3         = 
+}}
+'''Kings County Queens''' are a [[Brooklyn]]-based [[country music]] band known for their authentic, [[Nashville]]-like sound.<ref>{{Cite magazine |last=Ferris |first=Marc |date=2008-05-27 |title=Country Music Grows in Brooklyn  |url=https://www.villagevoice.com/2008/05/27/country-music-grows-in-brooklyn/ |magazine=Village Voice}}</ref><ref>{{Cite magazine |year=2002 |title=The New Yorker |url=https://books.google.com/books?id=6wMnAQAAIAAJ |language=en |publisher=F-R Publishing Corporation |volume=78 |issue=10–16}}</ref><ref>{{Cite web |url=https://www.brooklyndaily.com/stories/2008/26/williamsburg_courier_ent_newsourbrookly06202008.html |title=Our Brooklyn accent has developed a country twang |last=Deliso |first=Meredith |date=2008-06-27 |website=Brooklyn Daily |language=en |access-date=2017-09-25}}</ref> The band was formed in early 2000, and their debut album, ''Big Ideas'', was released by [[Rubric Records]] on May 7, 2002.<ref>{{Cite web |url=http://www.allmusic.com/artist/kings-county-queens-mn0000097378 |title=Kings County Queens: Biography & History  |last=Wilson |first=MacKenzie |website=AllMusic |access-date=2017-09-25}}</ref><ref>{{Cite web |url=http://www.kingscountyqueens.com/news.htm |title=News |website=Kings County Queens Website |url-status=bot: unknown |archiveurl=https://web.archive.org/web/20030205065022/http://www.kingscountyqueens.com/news.htm |archivedate=2003-02-05 }}</ref> Its original lineup consisted of Suzanne Price (accordion), Chris Bowers (vocals, guitar), Daria Klotz (vocals, [[baritone ukulele]]), Rennie Elliot ([[snare drum]]s), and [[David Wm. Sims]] (bass guitar). Elliot and Sims later left the band to pursue other projects, after which they were replaced by Johnny Rock and Eric Eble, respectively.<ref>{{Cite web |url=http://www.kingscountyqueens.com:80/bio.htm |title=Kings County Queens Biography |archive-url=https://web.archive.org/web/20030205062726/http://www.kingscountyqueens.com/bio.htm |archive-date=2003-02-05 |url-status=dead }}</ref>
+
+==Reviews==
+[[Country Standard Time]]'s Clarissa Sansone wrote that ''Big Ideas'' "...tips its hat to the city with its sometimes streetwise lyrics, but overall the sound is old-fashioned: a ukulele tune on a moonlit boat ride flavored with rockabilly riffs."<ref>{{Cite web |url=http://www.countrystandardtime.com/d/cdreview.asp?xid=1692 |title=Kings County Queens - Big Ideas |last=Sansone |first=Clarissa |website=Country Standard Time |access-date=2017-09-25}}</ref> Writing for ''[[the Village Voice]]'', [[Robert Christgau]] gave the album a one-star honorable mention rating, writing, "Beneath their warm country-folk exterior lurks bitter urban-folk experience".<ref>{{Cite magazine |last=Christgau |first=Robert |date=2002-05-14 |title=Nothing Major |url=https://www.villagevoice.com/2002/05/14/nothing-major/ |magazine=The Village Voice}}</ref><ref>{{Cite web |url=http://robertchristgau.com/get_artist.php?name=kings+county+queens |title=Robert Christgau: CG: kings county queens |website=robertchristgau.com |access-date=2017-09-25}}</ref> [[AllMusic]]'s Rick Anderson gave the album 4 out of 5 stars, writing that "Kings County Queens are urbanites, all right, but the love they bring to this repertoire feels sincere, their stylistic command is genuine, and, most importantly, the music they make is lots of fun."<ref>{{Cite web |url=http://www.allmusic.com/album/big-ideas-mw0000218183 |title=Big Ideas - Kings County Queens |last=Anderson |first=Rick |website=AllMusic |access-date=2017-09-25}}</ref>
+==Discography==
+*''Big Ideas'' (Rubric, 2002)
+==References==
+{{Reflist|30em}}
+{{DEFAULTSORT:Kings County Queens}}
+{{US-country-band-stub}}
+
+[[Category:Musical groups from Brooklyn]]
+[[Category:Musical groups established in 2000]]
+[[Category:2000 establishments in New York City]]

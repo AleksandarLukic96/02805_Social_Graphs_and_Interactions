@@ -1,0 +1,143 @@
+{{short description|American country music singer-songwriter (born 1970)}}
+{{Use mdy dates|date=May 2020}}
+{{Infobox musical artist
+| name            = Rich McCready
+| image           =
+| image_size      =
+| birth_name      =
+| alias           =
+| birth_date      = {{birth date and age|1970|02|09}}
+| origin          = [[Seneca, Missouri]]
+| instrument      = Guitar
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 1996–present
+| label           = Magnatone, American Originals, KP Records
+| associated_acts =
+| website         = {{official website|http://www.richmccready.com/}}
+}}
+
+'''Rich McCready''' (born February 9, 1970, in [[Seneca, Missouri]]<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|page=267|year=2008|isbn=978-0-89820-177-2}}</ref>) is an American [[country music]] singer-songwriter. McCready signed to Magnatone Records in 1995 and recorded two albums for the label.<ref name="amgbio">[{{AllMusic|class=artist|id=p173285|pure_url=yes}} Rich McCready] at [[Allmusic]]</ref> His highest-charting single, "Thinkin' Strait," peaked at number 53 in 1996. Rich also has 4 kids Kirby, Jordan, Savannah, Jaab<ref name="whitburn" />
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:14em;"| Title
+! style="width:20em;"| Album details
+|-
+! scope="row"| ''Rich McCready''
+| 
+* Release date: February 20, 1996
+* Label: Magnatone
+* Formats: CD, Cassette
+|-
+! scope="row"| ''That Just About Covers It''
+| 
+* Release date: June 17, 1997
+* Label: Magnatone
+* Formats: CD, Cassette
+|-
+! scope="row"| ''2005''
+| 
+* Release date: September 21, 2004
+* Label: American Originals
+* Formats: CD
+|-
+! scope="row"| ''Ride On''
+| 
+* Release date: June 1, 2011
+* Label: KP Records
+* Formats: CD
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]<br /><ref name="whitburn" />
+|-
+| 1995
+! scope="row"| "Hangin' On"
+| 58
+| align="left" rowspan="3"| ''Rich McCready''
+|-
+| rowspan="2"| 1996
+! scope="row"| "Thinkin' Strait"
+| 53
+|-
+! scope="row"| "When Hell Freezes Over"
+| —
+|-
+| rowspan="2"| 1997
+! scope="row"| "That Just About Covers It"
+| 74
+| align="left" rowspan="2"| ''That Just About Covers It''
+|-
+! scope="row"| "Let Me Take That Ol' Heartache"
+| —
+|-
+| 2005
+! scope="row"| "Wish I Was in Wichita"
+| —
+| align="left" rowspan="2"| ''2005''
+|-
+| 2006
+! scope="row"| "Intergalactic Cowboy"
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:18em;"| Video
+! Director
+|-
+| 1995
+! scope="row"| "Hangin' On"
+| Richard Murray
+|-
+| rowspan="2"| 1996
+! scope="row"| "Thinkin' Strait"
+| [[Steven Goldmann]]
+|-
+! scope="row"| "When Hell Freezes Over"
+| David Blood
+|-
+| 1997
+! scope="row"| "That Just About Covers It"
+| Richard Murray
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{official website|http://www.richmccready.com/}}
+
+{{authority control}}
+
+{{DEFAULTSORT:McCready, Rich}}
+[[Category:1970 births]]
+[[Category:American country guitarists]]
+[[Category:American male guitarists]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Living people]]
+[[Category:Singer-songwriters from Missouri]]
+[[Category:People from Seneca, Missouri]]
+[[Category:Guitarists from Missouri]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:Country musicians from Missouri]]
+[[Category:21st-century American guitarists]]
+[[Category:21st-century American male singers]]
+
+
+{{US-country-singer-stub}}

@@ -1,0 +1,624 @@
+{{short description|Australian country music artist|bot=PearBOT 5}}
+{{BLP sources|date=February 2024}}
+{{Use dmy dates|date=March 2020}}
+{{Use Australian English|date=June 2011}}
+{{Infobox musical artist
+| name            = Catherine Britt
+| image           = Catherine Britt.jpg
+| landscape       = <!-- Set as "yes" if image used is relatively wide compared to its height, otherwise leave blank -->
+| image_size      =
+| alt             =
+| caption         = Britt at radio station [[2ARM]] FM92.1, [[Armidale, New South Wales|Armidale]]. Photo by Bruce Howlett.
+| birth_name      = Catherine Elisabeth Britt
+| alias           =
+| birth_date      = {{birth date and age|df=y|1984|12|31}}
+| birth_place     = [[Newcastle, New South Wales]], Australia
+| origin          =
+| death_date      = <!-- {{death date and age|df=y|YYYY|MM|DD|YYYY|MM|DD}}, where first date = death and second = birth -->
+| death_place     =
+| genre           = [[Country music|Country]]
+| occupation      = Musician
+| instrument      = [[Singing|Vocals]], [[rhythm guitar]]
+| years_active    = 1996–present
+| label           = [[ABC Commercial|ABC]], [[RCA Records Nashville|RCA Nashville]]
+| website         = {{URL|catherinebritt.com}}
+}}
+
+'''Catherine Elisabeth Britt''' (born 31 December 1984) is an Australian [[country music]] artist who has had success in both her native Australia and in the United States. She started her career in [[Newcastle, New South Wales|Newcastle]] in 1999, she moved to [[Nashville, Tennessee|Nashville]] from 2002 to 2008 and then returned to Australia. Britt has had three singles in top&nbsp;40 on the US ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] charts with "The Upside of Being Down", her highest, peaking at No.&nbsp;36 in 2004. Britt has released seven studio albums in Australia, where all seven have appeared on the [[ARIA Charts|ARIA Albums Chart]], ''[[Too Far Gone (Catherine Britt album)|Too Far Gone]]'' (16 January 2006), ''Little Wildflower'' (14 January 2008), ''Catherine Britt'' (28 May 2010) and ''[[Always Never Enough]]'' (10 August 2012). All five albums have been nominated for [[ARIA Music Awards]] in the category, [[ARIA Award for Best Country Album|Best Country Album]].
+
+At the [[Country Music Awards of Australia]] Britt has won four [[Golden Guitar]] trophies, Female Artist of the Year for "What I Did Last Night" (2009), "Charlestown Road" (2013) and "Boneshaker" (2016), and Single of the Year for "Sweet Emmylou" (2011). Britt married her then-partner, James Beverley, in October 2013; the couple have two children. Britt was diagnosed with breast cancer in early 2015; she underwent surgery and chemotherapy.
+
+== Biography ==
+Catherine Elisabeth Britt was born on 31 December 1984 in [[Newcastle, New South Wales|Newcastle]].<ref name="Dicaire"/> Her father, Steve Britt, is a school counsellor and her mother, Anne, is a teacher-librarian; they have three older sons.<ref name="Morris">{{cite web | url = http://www.tamworthragepage.com/britt.htm | title = Catherine Britt | publisher = Tamworth Rage Page (Helen Morris) | last = Morris | first = Helen | access-date = 14 January 2015 | year = 2004 }}</ref> Steve has a vast collection of records, especially material by country music artists.<ref name="Morris"/> From the age of ten Britt was singing in her home drawing inspiration from Dolly Parton, Loretta Lynn and Hank Williams.<ref name="2008 Bio"/> Britt was a reluctant music student, "I got singing lessons for a while and hated it ... I hate people telling me what to do with my music and stuff. They used to tell me to sing all this Natalie Imbruglia stuff so I quit them. I had guitar lessons from the same guy and he taught me the basic chords and I gave that up once I knew all the basic chords, thinking that will do me."<ref name="Morris"/>
+
+Her first effort at song writing, "Guardian Angel", occurred when she was 11, she later recalled, "it was pretty bad".<ref name="Morris"/> In the following year her parents took her to meet Australian country musician, Bill Chambers, who invited Britt on stage to duet on "T. B. Blues", a cover version of [[Jimmie Rodgers (country singer)|Jimmie Rodgers]]' original.<ref name="Dicaire">{{cite book | chapter-url = https://books.google.com/books?id=ce2IuErOokkC&q=%22that+don%27t+bother+me%22+kasey+chambers&pg=PA235 | chapter = Part Five: Contemporary Country | last = Dicaire | first = David | title = The New Generation of Country Music Stars: Biographies of 50 Artists Born After 1940 | pages = 234–237 | date = 18 August 2008 | publisher = McFarland | isbn = 978-0-78648-559-8 }}</ref><ref name="2008 Bio"/> A week later Britt sang solo at a Merle Haggard tribute concert in Sydney presented by Chambers.<ref name="2008 Bio"/>
+
+In 1999 Britt independently released her debut four-track extended play, ''In the Pines'', which was produced by Chambers – she was aged 14.<ref name="2008 Bio">{{cite web | archive-url = https://web.archive.org/web/20080719164134/http://www.theresmoretocountry.com/catherinebritt.htm | url = http://www.theresmoretocountry.com/catherinebritt.htm | title = Catherine Britt – ''There's More to Country'' | publisher = [[ABC Commercial|ABC Music]] ([[Australian Broadcasting Corporation]] (ABC)) | archive-date = 19 July 2008 | access-date = 14 January 2015 }}</ref><ref name="Leggett">{{cite web | url = http://www.allmusic.com/artist/catherine-britt-mn0000102335/biography | title = Catherine Britt | last = Leggett | first = Steve | publisher = [[AllMusic]] | access-date = 14 January 2015 }}</ref> It included the track, "That Don't Bother Me!",<ref name="Dicaire"/> co-written with Chambers' daughter, [[Kasey Chambers|Kasey]]<ref name="APRA That">{{cite web | publisher = [[Australasian Performing Right Association]] (APRA) | title = 'That Don't Bother Me' at APRA search engine | url = https://www.apra.com.au/cms/worksearch/worksearch.srvlt?action=workSearch#That%20Cont%20Bother%20Me | access-date = 14 January 2015 | archive-date = 17 November 2015 | archive-url = https://web.archive.org/web/20151117020448/https://www.apra.com.au/cms/worksearch/worksearch.srvlt?action=workSearch#That%20Cont%20Bother%20Me | url-status = dead }} Note: User may have to click 'Search again' and provide details at 'Enter a title:' e.g That Dont Bother Me; or at 'Performer:' Catherine Britt</ref> – who also provided backing vocals.<ref name="Adsett">{{cite web | url = http://www.countrymusic.com.au/cmstore/Reviews/revfrm.htm#Dusty%20Smiles | title = Latest Reviews – ''Dusty Smiles and Heartbreak Cures'' | last = Adsett | first = Ron | work = Capital News | date = October–November 2001 | publisher = Country Music (Ron and Rosie Adsett) | access-date = 14 January 2014 | archive-url = https://web.archive.org/web/20140204041733/http://countrymusic.com.au/cmstore/Reviews/revfrm.htm#Dusty%20Smiles | archive-date = 4 February 2014 | url-status = dead }}</ref> Britt preferred to write on her own, however, she enjoyed working with Kasey "because we were such great friends, and we knew each other and we knew we both were coming from the same place when it came to music."<ref name="Kruger">{{cite web | url = http://www.debbiekruger.com/writer/aprap/tamworth2003.html | title = Songwriters in Tamworth – Old and New Souls in Country Music | last = Kruger | first = Debbie | author-link = Debbie Kruger | work = APRAP | date = March 2003 | publisher = Australasian Performing Right Association (APRA). Debbie Kruger | access-date = 14 January 2015 }}</ref>
+
+Britt issued her first studio album, ''Dusty Smiles and Heartbreak Cures'', on 16 May 2001, also independently and produced by Bill Chambers.<ref name="Dicaire"/><ref name="Leggett"/><ref name="Adsett"/> It contained "a half-dozen originals, as well as covers of [Williams] and [Haggard]".<ref name="Dicaire"/> She then signed to [[ABC Commercial|ABC Music]]/ABC Country to re-release the album on 11 March 2002.<ref name="AUS Country"/> In May Elton John, who was touring Australia, heard her album; he met Britt and recommended her to industry contacts in the United States.<ref name="2008 Bio"/><ref name="US Charts"/> ''Dusty Smiles and Heartbreak Cures'' appeared on the [[ARIA Charts|ARIA Country Chart]] in July that year, peaking at No.&nbsp;18.<ref name="AUS Country"/> At the [[ARIA Music Awards of 2002]] Britt received her first nomination for [[ARIA Award for Best Country Album|Country Album of the Year]].<ref name="ARIA Awards List">ARIA Music Awards for Catherine Britt:
+* Search Results 'Catherine Britt': {{cite web
+ |url=http://www.ariaawards.com.au/history/search/?view=list&text=Catherine%20Britt 
+ |title=Search Results for 'Catherine Britt' 
+ |publisher=Australian Recording Industry Association (ARIA) 
+ |access-date=14 January 2015 
+}}
+* 2002 winners and nominees: {{cite web
+ |url=http://www.ariaawards.com.au/history/year/2002?view=list 
+ |title=Winners By Year 2002 
+ |publisher=Australian Recording Industry Association (ARIA) 
+ |access-date=14 January 2015 
+}}
+* 2006 winners and nominees: {{cite web
+ |archive-url=https://web.archive.org/web/20071212125336/http://www.ariaawards.com.au/history-by-year.php?year=2006 
+ |url=http://www.ariaawards.com.au/history/year/2006?view=list 
+ |title=Winners By Year 2006 
+ |publisher=Australian Recording Industry Association (ARIA) 
+ |archive-date=12 December 2007 
+ |access-date=14 January 2015 
+ |url-status=dead 
+}}
+* 2008 winners and nominees: {{cite web
+ |archive-url=https://web.archive.org/web/20090813152819/http://www.ariaawards.com.au/history-by-year.php?year=2008 
+ |url=http://www.ariaawards.com.au/history/year/2008?view=list 
+ |title=Winners By Year 2008 
+ |publisher=Australian Recording Industry Association (ARIA) 
+ |archive-date=13 August 2009 
+ |access-date=14 January 2015 
+ |url-status=dead 
+}}
+* 2010 winners and nominees: {{cite web
+ |archive-url=https://web.archive.org/web/20120421080110/http://www.ariaawards.com.au/history/year/2010 
+ |url=http://www.ariaawards.com.au/history/year/2010?view=list 
+ |title=Winners by Year 2010 
+ |publisher=Australian Recording Industry Association (ARIA) 
+ |archive-date=21 April 2012 
+ |access-date=14 January 2015 
+ |url-status=dead 
+}}
+* 2012 winners and nominees: {{cite web
+ |url=http://www.ariaawards.com.au/history/year/2012?view=list 
+ |title=Winners By Year 2012 
+ |publisher=Australian Recording Industry Association (ARIA) 
+ |access-date=14 January 2015 
+}}
+</ref> Late in 2002 Britt, for three weeks, supported the Australian leg of a tour by [[Chris Isaak]].<ref name="Lobley">{{cite news | url = http://www.smh.com.au/articles/2002/12/19/1040174347827.html | title = True Britt | last = Lobley | first = Katrina | work = [[Sydney Morning Herald]] | publisher = [[Fairfax Media]] | access-date = 14 January 2015 }}</ref><ref name="Isaak">{{cite web | url = http://catalogue.nla.gov.au/Record/5811712 | title = Chris Isaak &#91;picture&#93;: with special guest Catherine Britt: Burswood Theatre, Monday 25th November | publisher = National Library of Australia | access-date = 14 January 2015 }}</ref> Her backing band included Kurt Bailey on drums and Ben Conicella on bass guitar.<ref name="Lobley"/>
+
+Britt attended the [[Country Music Awards of Australia]], held in Tamworth, in January 2003 and told [[Debbie Kruger]] of [[Australasian Performing Right Association]] (APRA) of her writing process for the album, "The way I write songs is a bit strange ... I just sit down and it'll be five minutes, and the song will just come out on paper, and then I'll have to look back on it and go, 'Right, does this make sense?' I hardly ever change my words, ever, I always just write them down and that's it. That real five-minute rush, I guess."<ref name="Kruger"/> For some lyrics she would check with her parents "I really didn't even know what it meant. And that happens a lot of the time for me, I have to go to Mum and Dad and say, 'Does this make sense?' And every time it does."<ref name="Kruger"/> Brendan Hutchens of TV series, ''[[George Negus Tonight]]'', interviewed Britt for "Episode 5", broadcast on 5 March 2003.<ref name="Hutchens">{{cite web | url = http://www.abc.net.au/dimensions/dimensions_people/Transcripts/s800459.htm | title = Episode 5: Catherine Britt – Country Singer: Transcript | publisher = Australian Broadcasting Corporation (ABC) | last = Hutchens | first = Brendan | work = [[George Negus Tonight]] | date = 5 March 2003| access-date = 14 January 2015 }}</ref> She described touring with Isaak "It's been great, he's been kind to me and his whole band's really good to me, so it's better than I thought".<ref name="Hutchens"/>
+
+In 2004, she moved to [[Nashville, Tennessee]], and was soon signed to [[RCA Records Nashville|RCA Nashville]] for international releases. Her US debut single, "The Upside of Being Down", peaked at No.&nbsp;36 on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] in August that year.<ref name="US Charts">''Billboard'' Charting:
+* Catherine Britt:&nbsp;{{cite magazine | url = http://www.billboard.com/artist/298808/catherine-britt/chart?f=357 | title = Catherine Britt – Chart History | magazine = [[Billboard (magazine)|Billboard]] | publisher = [[Prometheus Global Media]] | access-date = 14 January 2015 | archive-date = 24 August 2015 | archive-url = https://web.archive.org/web/20150824113209/http://www.billboard.com/artist/298808/catherine-britt/chart?f=357 | url-status = dead }}
+* Elton John and Catherine Britt:&nbsp;{{cite magazine | url = http://www.billboard.com/articles/news/61953/chart-beat | title = Chart Beat | first = Fred | last = Bronson | magazine = Billboard | publisher = Prometheus Global Media | date = 28 July 2005 | access-date = 14 January 2015 }}</ref> In July 2005 Britt and John released a country music duet, "Where We Both Say Goodbye", which was co-written by Britt with [[Jerry Salley]].<ref name="US Charts"/><ref name="APRA Where">{{cite web | publisher = [[Australasian Performing Right Association]] (APRA) | title = 'Where We Both Say Goodbye' at APRA search engine | url = https://www.apra.com.au/cms/worksearch/worksearch.srvlt?action=workSearch#Where%20We%20Both%20Say%20Goodbye | access-date = 14 January 2015 | archive-date = 17 November 2015 | archive-url = https://web.archive.org/web/20151117020448/https://www.apra.com.au/cms/worksearch/worksearch.srvlt?action=workSearch#Where%20We%20Both%20Say%20Goodbye | url-status = dead }} Note: User may have to click 'Search again' and provide details at 'Enter a title:' e.g Where We Both Say Goodbye; or at 'Performer:' Catherine Britt</ref> The single entered at No.&nbsp;49 on the Hot Country Songs – John's first appearance on that chart.<ref name="US Charts"/>
+
+Britt's second album, ''[[Too Far Gone (Catherine Britt album)|Too Far Gone]]'', was released in Australia on 16 January 2006.<ref name="AMG Too">{{cite web | url = http://www.allmusic.com/album/too-far-gone-mw0000452011/credits | title = ''Too Far Gone'' – Catherine Britt &#124; Credits | publisher = AllMusic | access-date = 15 January 2015 }}</ref><ref name="TooFar">{{cite web | date = 16 January 2006 | title = The ARIA Report | publisher = Australian Recording Industry Association (ARIA) | issue = 828 | archive-url = https://webarchive.nla.gov.au/awa/20060119130000/http://pandora.nla.gov.au/pan/23790/20060120-0000/issue828.pdf | url = http://issue828.pdf | page = 30 | archive-date = 19 January 2006 | access-date = 15 January 2015 }}{{cbignore|bot=medic}}</ref> It had been recorded in Nashville with Chambers co-producing with [[Keith Stegall]] ([[Alan Jackson]], [[George Jones]], [[Jamie O'Neal]]).<ref name="2008 Bio"/><ref name="AMG Too"/><ref name="AMG Stegall">{{cite web | url = http://www.allmusic.com/artist/keith-stegall-mn0000081608/credits | title = Keith Stegall &#124; Credits | publisher = AllMusic | access-date = 15 January 2015 }}</ref> Session musicians include [[Kenny Chesney]] on backing vocals, [[Stuart Duncan]] on fiddle and mandolin, Mark Fain on upright bass, [[Paul Franklin (musician)|Paul Franklin]] on steel guitar, [[Rob Ickes]] on dobro, [[Brent Mason]] on guitars (acoustic, electric), [[Dave Pomeroy]] on bass guitar, [[Hargus "Pig" Robbins]] on piano, [[John Wesley Ryles]] on backing vocals, Bruce Watkins on acoustic guitar and [[Glenn Worf]] on bass guitar.<ref name="AMG Too"/> In Australia the album reached No.&nbsp;47 on the ARIA Albums Chart and No.&nbsp;3 on the related Country Chart.<ref name="AUS Country"/><ref name="AUS Charts"/> Tim Noel of comcast.net opined "may not be strong enough to share with your friends as far as an introduction to [Britt]. There is some strong material here such as 'Swingin' Door' and 'Poor Man's Pride', but it's filled with mediocre stuff that sounds like late 90s material... I know Britt has a more rocking side that should hopefully come out in her upcoming [album]."<ref name="Noel">{{cite web | url = http://home.comcast.net/~cntryniche/britt2.htm | title = Catherine Britt review | publisher = [[Comcast Interactive Media]] ([[Comcast]]) | last = Noel | first = Tim | website = comcast.net | date = 14 June 2007 | access-date = 15 January 2015 }}</ref>
+
+At the [[ARIA Music Awards of 2006]] Britt, with ''Too Far Gone'', received her second nomination for Country Album of the Year.<ref name="ARIA Awards List"/> From May to October 2007 Britt was an opening act for a co-headlining tour of the US by Alan Jackson with [[Brooks & Dunn]].<ref name="Fabian">{{cite web | url = http://countrymusic.about.com/od/tourschedules/a/AJ_BnD_07Tour.htm | title = Alan Jackson and Brooks & Dunn Tour Dates – Featuring Jake Owen and Catherine Britt | publisher = [[IAC/InterActiveCorp]] | last = Fabian | first = Shelly | website = [[About.com]] | date = May 2007 | access-date = 15 January 2015 | archive-date = 6 April 2012 | archive-url = https://web.archive.org/web/20120406174738/http://countrymusic.about.com/od/tourschedules/a/AJ_BnD_07Tour.htm | url-status = dead }}</ref> Britt recorded her third studio album, ''Little Wildflower'', with [[Brett Beavers]] producing ([[Dierks Bentley]]) in Nashville. It was released on 14 January 2008 in Australia, which reached No.&nbsp;6 on the ARIA Country Albums chart;<ref name="AUS Country"/> it provided Britt with her third ARIA Award nomination in Best Country Album in [[ARIA Music Awards of 2008|2008]].<ref name="ARIA Awards List"/>
+
+Its lead single, "What I Did Last Night", appeared in May 2007 and peaked at No.&nbsp;39 on the US Hot Country Songs chart.<ref name="US Charts"/><ref name="Dawson 2">{{cite web | url = http://www.nucountry.com.au/articles/diary/may2007/190507_urbanflood.htm | title = Dave's Diary – 19/5/07 – Keith Urban, Greencards and Catherine Britt | publisher = David Dawson | last = Dawson | first = Dave | work = Nu Country | date = 19 May 2007 | access-date = 15 January 2015 }}</ref> When Brooks & Dunn toured Australia, during March 2008, they were supported by Britt.<ref name="Dawson 1">{{cite web | url = http://www.nucountry.com.au/articles/diary/february2008/200208_catherinebritt.htm | title = Dave's Diary – 20/2/08 – Catherine Britt | publisher = David Dawson | last = Dawson | first = Dave | work = Nu Country | date = 20 February 2008 | access-date = 15 January 2015 }}</ref> By April 2008 Britt was dropped from RCA's roster without releasing any albums in the US market.<ref name="MorrisE">{{cite news | url = http://www.cmt.com/news/country-music/1585038/country-labels-keep-rosters-full-despite-album-sales-dip.jhtml | archive-url = https://web.archive.org/web/20080411032354/http://www.cmt.com/news/country-music/1585038/country-labels-keep-rosters-full-despite-album-sales-dip.jhtml | url-status = dead | archive-date = 11 April 2008 | title = Country Labels Keep Rosters Full Despite Album Sales Dip | last = Morris | first = Edward | work = CMT News | publisher = [[Viacom International]] | date = 8 April 2008 | access-date = 14 January 2015 }}</ref> Britt returned to live in Newcastle by 2009.<ref name="Morris"/><ref name="JetStar Interview">{{cite journal | url = http://www.jetstarmag.com/story/my-favourite-place-catherine-britt/2106/1/ | title = My Favourite Place: Catherine Britt | journal = [[Jetstar Magazine]] | publisher = [[Ink (company)|Ink]] | date = January 2014 | access-date = 14 January 2015 | archive-url = https://archive.today/20150118183846/http://www.jetstarmag.com/story/my-favourite-place-catherine-britt/2106/1/ | archive-date = 18 January 2015 | url-status = dead }}</ref>
+
+Britt contacted Chambers to produce her next album, ''Catherine Britt'', and he co-opted his then-son-in-law, [[Shane Nicholson (singer)|Shane Nicholson]], as co-producer.<ref name="Dawson 3"/> It was recorded at Sing Sing Studios in Melbourne.<ref name="Dawson 3"/> The track, "Call You Back Town", which Britt co-wrote with [[Ashley Monroe]], relates to her experiences in Nashville; Britt recalled "[it] can be a very harsh place at times, wonderful place too ... I saw both sides of it. This song was a result of seeing that side at certain stages and how I felt about that. No, they never call you back – you call and leave a message and they never get back to you."<ref name="Dawson 3">{{cite web | url = http://www.nucountry.com.au/articles/diary/may2010/020510_catherine_britt.htm | title = Dave's Diary – 2/5/10 – Catherine Britt Interview | publisher = David Dawson | last = Dawson | first = Dave | work = Nu Country | date = 2 May 2010 | access-date = 15 January 2015 }}</ref> The album, which reached No.&nbsp;5 on the ARIA Country Albums chart,<ref name="AUS Country"/> was also nominated for Best Country Album in [[ARIA Music Awards of 2010|2010]] at the ARIA Awards ceremony.<ref name="ARIA Awards List"/>
+
+Britt's fifth studio album, ''[[Always Never Enough]]'', was released on 10 August 2012, which peaked at No.&nbsp;44 on the ARIA Albums Chart and No.&nbsp;3 on its Country Albums Chart.<ref name="AUS Country"/><ref name="AUS Charts"/> The album was recorded in [[Austin, Texas]] at Cedar Creek Studios with Britt and Chambers co-producing.<ref name="Ngarralinyi">{{cite web | url = http://www.2tlp.com.au/featured17.html | title = CD Review – Featured Album of the Month | publisher = Community Indigenous Radio – Ngarralinyi – 2TLP Radio – 103.3 FM (Ralph Saunders) | access-date = 16 January 2015 | archive-url = https://web.archive.org/web/20150116164416/http://www.2tlp.com.au/featured17.html | archive-date = 16 January 2015 | url-status = dead }}</ref> Sophie Hamley of Jolene: The Country Music Blog felt it was "her masterpiece" with "[n]ot a single song that I want to skip over or not pay close attention to."<ref name="Hamley">{{cite web | url = http://jolenethecountrymusicblog.blogspot.com.au/2012/08/album-review-always-never-enough-by.html | title = Album review: ''Always Never Enough'' by Catherine Britt | publisher = Awesome Inc (Sophie Hamley) | last = Hamley | first = Sophie | work = Jolene: The Country Music Blog | date = 8 August 2010 | access-date = 16 January 2015 }}</ref> Also in [[ARIA Music Awards of 2012|2012]] Britt received her fifth nomination for Best Country Album at the ARIA Awards ceremony.<ref name="ARIA Awards List"/>
+
+In November 2012 Britt, Chambers and [[Tim Rogers (musician)|Tim Rogers]] (of [[You Am I]]) formed a group, The Hillbilly Killers, as a side project to perform "[s]ad songs, high and lonesome songs, songs with an ache and a hurt undeniable, timeless even. But [Chambers] wanted those songs to have an edge too. Something a little unhinged. Something dark and unruly."<ref name="Swift">{{cite news | url = https://rhythms.com.au/interviews/the-hillbilly-killers-set-to-release-debut-record/ | title = The Hillbilly Killers Set to Release Debut Record | publisher = Martin and Verity Jones | last = Swift | first = Emma | work = Rhythms | date = August 2013 | access-date = 16 January 2015 | archive-url = https://web.archive.org/web/20150116120435/https://rhythms.com.au/interviews/the-hillbilly-killers-set-to-release-debut-record/ | archive-date = 16 January 2015 | url-status = dead }}</ref> Other members were James Gillard, Michael Muchow on guitar and [[Shane O'Mara (musician)|Shane O'Mara]] on guitar.<ref name="Condon">{{cite web | url = http://themusic.com.au/news/all/2012/11/07/country-supergroup-the-hillbilly-killers-announce-first-gig/ | title = Country Supergroup The Hillbilly Killers Announce First Gig | publisher = Street Press Australia | last = Condon | first = Dan | work = TheMusic.com.au | date = 7 November 2012 | access-date = 16 January 2015 }}</ref> Their official debut gig was at the [[Tamworth Country Music Festival]] in January 2013.<ref name="Condon"/>
+
+The group toured Australia's east coast and issued their debut single, "They Call Us the Hillbilly Killers", by March that year.<ref name="Swift"/> Natalie Salvo of ''The AU Review'' caught their performance at The Basement in Sydney on 24 April 2013, Britt Chambers and Rogers each had a brief solo set before the trio were joined by two more musicians,<ref name="Salvo"/> Gillard on double bass and backing vocals, and Paul Novosel on drums. Salvo felt "the now-quintet used everything from guitars to banjo, double bass, slide guitar and stomp box to create just the right mix of homespun charm, venomous love notes, down-to-earth storytelling and country hoedowns."<ref name="Salvo">{{cite web | url = http://www.theaureview.com/sydney/the-hillbilly-killers-feat-tim-rogers-bill-chambers-catherine-britt-the-basement-sydney-24-04-2013 | title = Live Review: The Hillbilly Killers (feat. Tim Rogers, Bill Chambers & Catherine Britt) – The Basement Sydney (24.04.13) | publisher = Heath Media & the AU review | last = Salvo | first = Natalie | work = The AU Review | date = 26 April 2014 | access-date = 16 January 2015 }}</ref> Britt provides rhythm guitar and backing vocals with occasional lead vocals.<ref name="Tarala">{{cite news | url = https://www.newcastleherald.com.au/story/1423026/britt-on-life-with-the-hillbilly-killers/ | title = Britt on life with The Hillbilly Killers | publisher = Fairfax Media | last = Tarala | first = Kate | work = [[The Newcastle Herald]] | date = 10 April 2013 | access-date = 16 January 2015 }}</ref>
+
+On 18 November 2013 Britt issued her first compilation album, ''The Hillbilly Pickin' Ramblin' Girl So Far...'', on ABC Music and [[Universal Music Australia]].<ref name="ARIA Hillbilly">{{cite web | date = 23 December 2013 | title = The ARIA Report | publisher = Australian Recording Industry Association (ARIA) | issue = 1238 | archive-url = https://webarchive.nla.gov.au/awa/20131123130000/http://pandora.nla.gov.au/pan/23790/20131124-0000/Issue%201238.pdf | url = http://issue%201238.pdf | page = 29 | archive-date = 23 November 2013 | access-date = 16 January 2015 }}{{cbignore|bot=medic}}</ref> The album reached No.&nbsp;20 on the ARIA Country Albums Chart.<ref name="AUS Country"/> A new track, "Who Cares", was issued as a single. In mid-2014 Britt was featured vocalist on a single by Graham Rodger, "Reach Out", which appeared on his album, ''Dust and Leather''. The charity single was provided for the Trans Help Foundation, which highlights the well-being of truck drivers.<ref name="Carroll">{{cite web | url = http://www.floreena.com/Artists-News.php | title = Artists News: Graham Rodger & Catherine Britt present their latest single 'Reach Out' | publisher = Trans Help Foundation | last = Carroll | first = Di | access-date = 16 January 2015 | archive-url = https://web.archive.org/web/20150116135953/http://www.floreena.com/Artists-News.php | archive-date = 16 January 2015 | url-status = dead }}</ref>
+
+In 2021, Britt collaborated with [[Lachlan Bryan]] and formed The Pleasures. The Pleasures released their debut single "The Beginning of the End" in January 2022<ref>{{cite web|url= https://www.thesoundcafe.com/post/australia-s-catherine-britt-lachlan-bryan-launch-the-pleasures |title= Australia's Catherine Britt & Lachlan Bryan launch The Pleasures |website=The Sound Cafe|date= January 2022|access-date= 17 August 2023}}</ref> and album of the same name on 4 August 2023.<ref>{{cite web|url= https://www.abc.net.au/listen/programs/saturdaynightcountry/saturday-night-country/102667128 |title= A pleasurable time with The Pleasures|website=[[Australian Broadcasting Corporation]]|date= 12 August 2023| access-date= 17 August 2023}}</ref> The album debuted at number 20 on the Australian ARIA Country Albums chart.<ref>{{cite web|url= https://www.aria.com.au/charts/country-albums-chart/2023-08-14 |title= ARIA Top 40 Country Albums for week of 14 August 2023|website=[[ARIA Charts]]|date=14 August 2023|access-date= 17 August 2023}}</ref>
+
+=== Personal life ===
+Britt married long-term partner, James Beverley, in October 2013.<ref name="Examiner March 2016"/> The couple had eloped to Las Vegas and kept the ceremony and details private.<ref name="Examiner March 2016">{{cite web | url = https://www.examiner.com.au/story/3825038/weekender-spill/ | title = Weekender Spill | work = [[The Examiner (Tasmania)|The Examiner]] | date = 31 March 2016 | access-date = 7 September 2020 }}</ref> In May 2015 Britt was diagnosed with breast cancer.<ref name="Kellar">{{cite news | url = http://www.smh.com.au/nsw/singer-catherine-britt-to-undergo-breast-cancer-surgery-20150609-ghkaik.html | title = Singer Catherine Britt to undergo breast cancer surgery | last = Kellar | first = Jim | work = [[The Sydney Morning Herald]] | date = 10 June 2015 | access-date = 24 January 2016 }}</ref> Amidst surgery and chemotherapy, her wedding re-enactment went ahead in October the same year, celebrating the couple's second anniversary.<ref name="Examiner March 2016"/><ref name="Moran">{{cite news | url = http://www.dailytelegraph.com.au/entertainment/sydney-confidential/family-affair-as-brave-catherine-britt-weds-love-of-her-life-james-beverley/news-story/a75347be1f1ead050aa4665eb29ffd11 | title = Family affair as brave Catherine Britt weds love of her life James Beverley | last = Moran | first = Jonathon | work = [[The Daily Telegraph (Sydney)|The Daily Telegraph]] | date = 18 October 2015 | access-date = 24 January 2016 }}</ref> Both Britt's mother, Anne Britt, and her mother-in-law, Lee Beverley, were subsequently diagnosed and treated for breast cancer.<ref name="Sams">{{cite web | url = https://www.smh.com.au/entertainment/celebrity/a-trifecta-of-bad-luck-singer-catherine-britts-family-cancer-battle-20170407-gvg8h9.html | title = A trifecta of bad luck: Singer Catherine Britt's family cancer battle | last = Sams | first = Christine | work = [[The Sydney Morning Herald]] | date = 9 April 2017 | access-date = 7 September 2020 }}</ref> By September 2019 Britt and Beverley had two children.<ref name="Rockman">{{cite web | url = https://www.newcastleherald.com.au/story/6397056/baby-joy-for-catherine-britt-and-husband-james/ | title = Country music star Catherine Britt has baby number two and couldn't be happier | last = Rockman | first = Lisa | work = Newcastle Herald | date = 20 September 2019 | access-date = 7 September 2020 }}</ref>
+
+In January 2016 she won her fourth Golden Guitar at the [[Country Music Awards of Australia]], for Female Artist of the Year ("Boneshaker").<ref name="Domjen">{{cite news | url = http://www.dailytelegraph.com.au/entertainment/sydney-confidential/golden-guitar-awards-country-singer-catherine-britt-wins-female-artist-of-the-year/news-story/fda72e77d6038a6181980316b5de204b | title = Golden Guitar Awards: Country singer Catherine Britt wins female artist of the year | last = Domjen | first = Briana | work = [[The Daily Telegraph (Sydney)|The Daily Telegraph]] | date = 23 January 2016 | access-date = 24 January 2016 }}</ref>
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of studio albums with selected chart positions
+! scope="col" rowspan="2" style="width:12em;"| Title
+! scope="col" rowspan="2" style="width:18em;"| Album details
+! scope="col" colspan="2"| Peak chart positions
+|- 
+! scope="col" style="width:3em;font-size:90%;"| [[ARIA Charts|AUS]]<br /><ref name="AUS Charts">ARIA Charts information:
+* ARIA Albums Chart Top&nbsp;50:&nbsp;{{cite web | url = http://www.australian-charts.com/showinterpret.asp?interpret=Catherine+Britt | title = Discography Catherine Britt | publisher = Australian Charts Portal. Hung Medien (Steffen Hung) | last = Hung | first = Steffen | access-date = 13 January 2015 }}
+* ''Little Wildflower'':&nbsp;{{cite web | date = 4 February 2008 | title = The ARIA Report | publisher = Australian Recording Industry Association (ARIA) | issue = 936 | archive-url = https://webarchive.nla.gov.au/awa/20080219130000/http://pandora.nla.gov.au/pan/23790/20080220-0000/issue936.pdf | url = http://issue936.pdf | pages = 6, 10, 22 | archive-date = 20 February 2008 | access-date = 13 January 2015 }}{{cbignore|bot=medic}}
+* ''Catherine Britt'':&nbsp;{{cite web | date = 14 June 2010 | title = The ARIA Report | publisher = Australian Recording Industry Association (ARIA) | issue = 1059 | archive-url = https://webarchive.nla.gov.au/awa/20100610140000/http://pandora.nla.gov.au/pan/23790/20100611-0000/Issue1059.pdf | url = http://issue1059.pdf | pages = 6, 9, 22 | archive-date = 11 June 2010 | access-date = 13 January 2015 }}{{cbignore|bot=medic}}
+* ''Catherine Britt & the Cold Cold Hearts'': {{cite web|url=https://www.auspop.com.au/2018/7/aria-chart-watch-483/|title=ARIA Chart Watch #483|publisher=auspOp|date=28 July 2018|access-date=28 July 2018|archive-date=3 May 2019|archive-url=https://web.archive.org/web/20190503100504/https://www.auspop.com.au/2018/7/aria-chart-watch-483/|url-status=dead}}</ref>
+! scope="col" style="width:3em;font-size:90%;"| AUS Country<br /><ref name="AUS Country">ARIA Country Chart information:
+* ''Dusty Smiles and Heartbreak Cures'', ''Too Far Gone'' and ''Little Wildflower'':&nbsp;{{cite web | date = 21 January 2008 | title = The ARIA Report | publisher = [[Australian Recording Industry Association]] (ARIA) | issue = 934 | archive-url = https://webarchive.nla.gov.au/awa/20080219130000/http://pandora.nla.gov.au/pan/23790/20080220-0000/issue934.pdf | url = http://issue934.pdf | pages = 2, 6, 10, 14, 22 | archive-date = 20 February 2008 | access-date = 13 January 2015 }}{{cbignore|bot=medic}}
+* ''Catherine Britt'':&nbsp;{{cite web | date = 14 June 2010 | title = The ARIA Report | publisher = Australian Recording Industry Association (ARIA) | issue = 1059 | archive-url = https://webarchive.nla.gov.au/awa/20100610140000/http://pandora.nla.gov.au/pan/23790/20100611-0000/Issue1059.pdf | url = http://issue1059.pdf | pages = 6, 9, 22 | archive-date = 11 June 2010 | access-date = 13 January 2015 }}{{cbignore|bot=medic}}
+* ''Always Never Enough'':&nbsp;{{cite web | date = 20 August 2012 | title = The ARIA Report | publisher = Australian Recording Industry Association (ARIA) | issue = 1173 | archive-url = https://webarchive.nla.gov.au/awa/20120924042300/http://pandora.nla.gov.au/pan/23790/20120924-1423/Issue1173.pdf | url = http://issue1173.pdf | pages = 2, 5, 7, 12, 15, 21 | archive-date = 24 September 2012 | access-date = 13 January 2015 }}{{cbignore|bot=medic}}
+* ''The Hillbilly Pickin' Ramblin' Girl So Far...'':&nbsp;{{cite web | date = 23 December 2013 | title = The ARIA Report | publisher = Australian Recording Industry Association (ARIA) | issue = 1243 | archive-url = https://webarchive.nla.gov.au/awa/20140113204000/http://pandora.nla.gov.au/pan/23790/20140114-0740/Issue%201243.pdf | url = http://issue1243.pdf | page = 22 | archive-date = 14 January 2014 | access-date = 16 January 2015 }}{{cbignore|bot=medic}}
+</ref>
+|-
+! scope="row"| ''Dusty Smiles and Heartbreak Cures''
+| 
+* Release date: 16 May 2001
+* Label: [[ABC Commercial|ABC Music]]
+* Format: [[Compact Disc|CD]]
+| — || 18
+|-
+! scope="row"| ''[[Too Far Gone (Catherine Britt album)|Too Far Gone]]''
+| 
+* Release date: 16 January 2006
+* Label: [[ABC Commercial|ABC Music]]/[[Warner Music Australia]]
+* Format: CD
+| 47 || 3
+|-
+! scope="row"| ''[[Little WildFlower]]''
+| 
+* Release date: 14 January 2008
+* Label: ABC Music
+* Format: CD
+| 73 || 6
+|-
+! scope="row"| ''[[Catherine Britt (album)|Catherine Britt]]''
+| 
+* Release date: 28 May 2010
+* Label: ABC Music
+* Format: CD, digital download
+| 73 || 5
+|-
+! scope="row"| ''[[Always Never Enough]]''
+| 
+* Release date: 10 August 2012
+* Label: ABC Music
+* Format: CD, digital download
+| 44 || 3
+|-
+! scope="row"| ''[[Boneshaker (Catherine Britt album)|Boneshaker]]''
+| 
+* Release date: 1 May 2015
+* Label: [[Lost Highway Records Australia]]
+* Format: CD, digital download
+| 41 || 5
+|-
+! scope="row"| ''Catherine Britt & the Cold Cold Hearts''
+| 
+* Release date: 13 July 2018
+* Label: [[Universal Music Australia]]
+* Format: CD, digital download
+| 62 || —
+|-
+! scope="row"| ''Home Truths''
+| 
+* Release date: 15 January 2021
+* Label: Catherine Britt
+* Format: CD, digital download
+| — || 7
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+=== Compilation albums ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of compilation albums with selected chart positions
+! scope="col" rowspan="2" style="width:12em;"| Title
+! scope="col" rowspan="2" style="width:18em;"| Album details
+! scope="col" colspan="2"| Peak chart positions
+|-
+! scope="col" style="width:3em;font-size:90%;"| AUS Country<br /><ref name="AUS Country"/>
+|-
+! scope="row"| ''The Hillbilly Pickin' Ramblin' Girl So Far...''
+| 
+* Release date: 18 November 2013
+* Label: [[ABC Commercial|ABC Music]]/[[Universal Music Australia]]
+* Format: [[Compact disc|CD]]
+| 20
+|}
+
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of extended plays
+! style="width:18em;"| Title
+! style="width:18em;"| Extended play details
+|-
+! scope="row"| ''In the Pines''
+| 
+* Release date: 1999
+* Label: [[Self-released]]
+* Format: [[Compact disc|CD]]
+|-
+! scope="row"| ''CMC Songs and Stories''
+| 
+* Release date: 18 October 2019<ref>{{cite web|url=https://music.apple.com/au/album/cmc-songs-stories-ep-live-acoustic/1474936189|title=CMC Songs and Stories|publisher=iTunes Australia|access-date=16 August 2019}}</ref>
+* Label: Lost Highway, Universal Music 
+* Format: CD, Digital download, streaming
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of singles, with selected chart positions, showing year released and album name
+! scope="col" rowspan="2" style="width:18em;" | Title
+! scope="col" rowspan="2" | Year
+! scope="col" colspan="1" | Peak chart positions
+! scope="col" rowspan="2" | Album
+|-
+! scope="col" style="width:3em;font-size:90%;"| [[Hot Country Songs|US Country]]<br /><ref name="US Charts"/>
+|-
+! scope="row"| "That Don't Bother Me"
+| 1999
+| —
+| align="left"| ''In the Pines''
+|-
+! scope="row"| "46 Miles from Alice"
+| rowspan="4"| 2002
+| —
+| align="left" rowspan="4"| ''Dusty Smiles and Heartbreak Cures''
+|-
+! scope="row"| "Easy Living"
+| —
+|-
+! scope="row"| "Hillbilly Pickin' Ramblin' Girl"
+| —
+|-
+! scope="row"| "Help Me, I'm Falling"
+| —
+|-
+! scope="row"| "The Upside of Being Down"
+| 2004
+| 36
+| align="left"| ''Too Far Gone''
+|-
+! scope="row"| "Where We Both Say Goodbye" <small>(with [[Elton John]])</small>
+| rowspan="2"| 2005
+| 38
+| align="left"| Non-album single
+|-
+! scope="row"| "Poor Man's Pride"
+| —
+| align="left" rowspan="3"| ''Too Far Gone''
+|-
+! scope="row"| "Swingin' Door"
+| rowspan="2"| 2006
+| —
+|-
+! scope="row"| "Too Far Gone"
+| —
+|-
+! scope="row"| "What I Did Last Night"
+| rowspan="3"| 2007
+| 39
+| align="left" rowspan="5"| ''Little Wildflower''
+|-
+! scope="row"| "Little Wildflower"
+| —
+|-
+! scope="row"| "I'm Gone"
+| —
+|-
+! scope="row"| "Lucky Girl"
+| 2008
+| —
+|-
+! scope="row"| "I'm Not Your Cinderella"
+| 2009
+| —
+|-
+! scope="row"| "Can't Change a Thing"
+| rowspan="2"| 2010
+| —
+| align="left" rowspan="3"| ''Catherine Britt''
+|-
+! scope="row"| "Sweet Emmylou"
+| —
+|-
+! scope="row"| "I Want You Back"
+| 2011
+| —
+|-
+! scope="row"| "Always Never Enough"
+| rowspan="3"| 2012
+| —
+| align="left" rowspan="3"| ''Always Never Enough''
+|-
+! scope="row"| "Charlestown Road"
+| —
+|-
+! scope="row"| "Troubled Man" <small>(with [[Tim Rogers (musician)|Tim Rogers]])</small>
+| —
+|-
+! scope="row"| "Who Cares"
+| 2013
+| —
+| align="left" |''The Hillbilly Pickin' Ramblin' Girl So Far...''
+|-
+! scope="row"| "Reach Out" <small>(by Graham Rodger featuring Catherine Britt)</small>
+| 2014
+| —
+| align="left" |''Dust and Leather''
+|-
+! scope="row"| "Good to Bad"
+| 2015
+| —
+|
+|-
+! scope="row"| "F U Cancer"<ref>{{cite web|url=https://itunes.apple.com/au/album/f-u-cancer-feat.-kasey-chambers/id1154668710|title=F U Cancer (single)|publisher=iTunes Australia|access-date=15 December 2016}}</ref><br/> <small>(featuring [[Kasey Chambers]], [[Beccy Cole]], [[Lyn Bowtell]], [[Josh Pyke]], [[Wes Carr]] and [[Wendy Matthews]])</small>
+| 2016
+| —
+|
+|-
+! scope="row"| "I am a Country Song"<ref>{{cite web|url=https://music.apple.com/au/album/i-am-a-country-song-single/1525325159|title=I am a Country Song - single|website=Apple Music|date=28 August 2020|access-date=29 August 2020}}</ref>
+| rowspan="2"| 2020
+| —
+| align="left" rowspan="2"|''Home Truths''
+|-
+! scope="row"| "Fav'rit Song"<ref>{{cite web|url=https://www.youtube.com/watch?v=TYVxy5OwkV0 |archive-url=https://ghostarchive.org/varchive/youtube/20211213/TYVxy5OwkV0 |archive-date=2021-12-13 |url-status=live|title=Fav'rit Song (Official Video) |website=YouTube|date=15 November 2020|accessdate=15 January 2021}}{{cbignore}}</ref>
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:22em;"| Video
+! Director
+|-
+| 2002
+! scope="row"| "Hillbilly Pickin' Ramblin' Girl"
+|
+|-
+| 2004
+! scope="row"| "The Upside of Being Down"
+| Traci Goudie
+|-
+| 2005
+! scope="row"| "Poor Man's Pride"
+| Ross Wood
+|-
+| rowspan="2"| 2006
+! scope="row"| "Swingin' Door"
+| 
+|-
+! scope="row"| "Too Far Gone"
+|
+|-
+| 2007
+! scope="row"| "Little Wildflower"
+| rowspan="2"| Myles Conti
+|-
+| rowspan="2"| 2008
+! scope="row"| "What I Did Last Night"
+|-
+! scope="row"| "Lucky Girl"
+| 
+|-
+| 2009
+! scope="row"| "I'm Not Your Cinderella"
+|
+|-
+| rowspan="2"| 2010
+! scope="row"| "Can't Change a Thing"
+|
+|-
+! scope="row"| "Sweet Emmylou"
+|
+|-
+| 2011
+! scope="row"| "I Want You Back"
+| 
+|-
+| rowspan="2"| 2012
+! scope="row"| "Always Never Enough"
+|
+|-
+! scope="row"| "Charlestown Road"
+|Jefferton James
+|-
+| rowspan="2"| 2013
+! scope="row"| "Troubled Man"
+|
+|-
+! scope="row"| "Who Cares"
+| Ducan Toombs
+|-
+| rowspan="3"| 2015
+! scope="row"| "Good To Bad"
+|
+|-
+! scope="row"| "Boneshaker"
+|
+|-
+! scope="row"| "We're All Waiting"
+|
+|-
+| rowspan="3"|2020
+! scope="row"| "I Am A Country Song"
+|
+|-
+! scope="row"| "Fav'Rit Song"
+|
+|-
+! scope="row"| "Me"
+|
+|}
+
+==Awards and nominations==
+===AIR Awards===
+The Australian Independent Record Awards (commonly known informally as [[AIR Awards]]) is an annual awards night to recognise, promote and celebrate the success of Australia's Independent Music sector.
+{{awards table}}
+|-
+| [[AIR Awards of 2013|2013]]<ref name="13nom">{{cite web|url=https://tonedeaf.thebrag.com/final-air-awards-2013-nominations-revealed-50000-prize-announced/|title=Final AIR Awards 2013 Nominations Revealed, $50,000 Prize Announced|website=tonedeaf|date=1 October 2013|access-date=20 August 2020}}</ref><ref name="AIRwins">{{cite web|url=https://www.air.org.au/awards/history|title=History Wins|website=[[Australian Independent Record Labels Association]]|access-date=18 August 2020}}</ref>
+|''Always Never Enough'' 
+| Best Independent Country Album
+| {{won}}
+|-
+{{end}}
+
+===APRA Awards===
+{| class="wikitable"
+!align="center"|Year
+!align="center"|Category
+!align="center"|For
+!align="center"|Result
+|-
+|align="left"|[[APRA Music Awards of 2011|2011]]
+|align="left"|Country Work of the Year<ref name="2011CWotYNom">{{cite web | url = http://apraamcos.com.au/awards/2011-awards/apra-music-awards/country-work-of-the-year/ | title = Country Work of the Year | publisher = [[Australasian Performing Right Association]] (APRA) &#124; [[Australasian Mechanical Copyright Owners Society]] (AMCOS) | year = 2011 | access-date = 11 April 2015 | archive-date = 2 April 2015 | archive-url = https://web.archive.org/web/20150402031312/http://apraamcos.com.au/awards/2011-awards/apra-music-awards/country-work-of-the-year/ | url-status = dead }}</ref>
+|align="left"|"Can't Change a Thing" (Catherine Britt, Melanie Horsnell)
+|{{nom}}
+|-
+|align="left"|[[APRA Music Awards of 2013|2013]]
+|align="left"|Country Work of the Year<ref name="2013CWotYNom">{{cite web | url = http://www.apraamcos.com.au/awards/2013-awards/apra-music-awards/country-work-of-the-year/ | title = Country Work of the Year | publisher = Australasian Performing Right Association (APRA) &#124; Australasian Mechanical Copyright Owners Society (AMCOS) | year = 2013 | access-date = 11 April 2015 | archive-date = 1 April 2015 | archive-url = https://web.archive.org/web/20150401040047/http://apraamcos.com.au/awards/2013-awards/apra-music-awards/country-work-of-the-year/ | url-status = dead }}</ref>
+|align="left"|"Charlestown Road" (Britt)
+|{{nom}}
+|-
+|}
+
+===ARIA Music Awards===
+The [[ARIA Music Awards]] are a set of annual ceremonies presented by [[Australian Recording Industry Association]] (ARIA), which recognise excellence, innovation, and achievement across all genres of the [[music of Australia]]. They commenced in 1987.Catherine Britt has been nominated for [[ARIA Award for Best Country Album]] for all first six studio albums.<ref name="ARIA Awards List"/><ref name="CountryAlbum">ARIA Award previous winners. {{cite web|url=http://www.ariaawards.com.au/history/award/Best-Country-Album|title=ARIA Awards Best Country Album|publisher=Australian Recording Industry Association (ARIA)|access-date=9 April 2022}}</ref>
+
+{{awards table}}
+|-
+| [[ARIA Music Awards of 2002|2002]]
+| ''Dusty Smiles and Heartbreak Cures''
+| Best Country Album
+| {{nom}}
+|-
+| [[ARIA Music Awards of 2006|2006]]
+| ''Too Far Gone''
+| Best Country Album
+| {{nom}}
+|-
+| [[ARIA Music Awards of 2008|2008]]
+| ''Little Wildflower''
+| Best Country Album
+| {{nom}}
+|-
+| rowspan="2"| [[ARIA Music Awards of 2010|2010]]
+| ''Catherine Britt''
+| Best Country Album
+| {{nom}}
+|-
+| Catherine Britt
+| Most Popular Australian Artist<ref name="Pascuzzi">{{cite news | url = http://www.mediasearch.com.au/music/spotlights/ariaawards2010 | title = Spotlight :: 2010 ARIA Awards | website = Mediasearch | publisher = Carmine Pascuzzi | last = Pascuzzi | first = Carmine | date = August 2010 | access-date = 14 January 2015 | archive-url = https://web.archive.org/web/20150114081432/http://www.mediasearch.com.au/music/spotlights/ariaawards2010 | archive-date = 14 January 2015 | url-status = dead }}</ref>
+| {{shortlisted}} 
+|-
+| [[ARIA Music Awards of 2012|2012]]
+| ''Always Never Enough''
+| Best Country Album
+| {{nom}}
+|-
+| [[ARIA Music Awards of 2015|2015]]
+| ''Boneshaker''
+| Best Country Album
+| {{nom}}
+|}
+
+===CMAA Country Music Awards of Australia ===
+The [[Country Music Awards of Australia]] were established in 1973 and have been staged by the [[Country Music Association of Australia]] (CMAA) since 1992).<ref name="CMAA">{{cite web | publisher = [[Country Music Association of Australia]] (CMAA) | title = About CMAA | url = http://www.country.com.au/index.cfm?page_id=1023 | archive-url = https://web.archive.org/web/20050206233726/http://www.country.com.au/index.cfm?page_id=1023 | url-status = dead | archive-date = 6 February 2005 | access-date = 15 January 2015}}</ref> Catherine Britt has won four [[Golden Guitar]] trophies, Female Artist of the Year in 2009, 2013 and 2016, and Single of the Year in 2011.<ref name="CMAA Awards list">CMAA Award winners by decade:
+* 2000–09:&nbsp;{{cite web | url = http://country.com.au/golden-guitars/award-winners/2000s/ | title = 2000's :: Country Music Awards of Australia | publisher = [[Country Music Association of Australia]] (CMAA) | access-date = 15 January 2015 | archive-url = https://web.archive.org/web/20140125225348/http://country.com.au/golden-guitars/award-winners/2000s/ | archive-date = 25 January 2014 | url-status = dead }}
+* 2010–14:&nbsp;{{cite web | url = http://country.com.au/golden-guitars/award-winners/2010s/ | title = 2010's :: Country Music Awards of Australia | publisher = Country Music Association of Australia | access-date = 15 January 2015 | archive-url = https://web.archive.org/web/20171018185540/http://country.com.au/golden-guitars/award-winners/2010s/ | archive-date = 18 October 2017 | url-status = dead }}</ref><ref name="CMAA Awards nominees">CMAA Award nominations:
+* 2007:&nbsp;{{cite web | url = http://www.tamworthcountrymusic.com.au/index.cfm?page_id=1049&news_display_year_10882=2006&display_news_id_10882=1049 | title = 19 Golden Guitar Nominations – The Most Ever for ABC Music | publisher = [[Tamworth Country Music Festival]] | date = 13 December 2006 | access-date = 16 January 2015 }}
+* 2009:&nbsp;{{cite web | url = http://www.abc.net.au/local/stories/2008/12/12/2444724.htm | title = Golden Guitar Nominations for 2009 | publisher = [[ABC New England North West]]. Australian Broadcasting Corporation | last = Moulder | first = Anna | date = 12 December 2008 | access-date = 16 January 2015 }}
+</ref>
+
+{{Awards table}}
+|-
+| 2006 || "Poor Man's Pride" (directed by Ross Wood) || Video Clip of the Year || {{nom}}
+|-
+| rowspan="3"| 2007 || ''Too Far Gone'' || Album of the Year || {{nom}}
+|-
+| "Too Far Gone" || Single of the Year || {{nom}}
+|-
+| Catherine Britt – ''Too Far Gone'' || Female Artist of the Year || {{nom}}
+|-
+| rowspan="4"| 2009 || ''Little Wildflower'' || Album of the Year || {{nom}}
+|-
+| "What I Did Last Night" || Single of the Year || {{nom}}
+|-
+| Catherine Britt – "What I Did Last Night" || Female Artist of the Year || {{won}}
+|-
+| "Little Wildflower" (directed by Myles Conti) || Video Clip of the Year || {{nom}}
+|-
+| 2010 || ''Catherine Britt'' || Album of the Year || {{nom}}
+|-
+| 2011 || "Sweet Emmylou" || Single of the Year || {{won}}
+|-
+| rowspan="6"| 2013 || ''Always Never Enough'' || Album of the Year || {{nom}}
+|-
+| Catherine Britt – "Charlestown Road" || Female Artist of the Year || {{won}}
+|-
+| "Charlestown Road" (directed by Jefferton James) || Video Clip of the Year || {{nom}}
+|-
+| "Charlestown Road" || Heritage Song of the Year || {{nom}}
+|-
+| "Always Never Enough" || Single of the Year || {{nom}}
+|-
+| "Troubled Man" (Catherine Britt and [[Tim Rogers (musician)|Tim Rogers]]) || Vocal Collaboration of the Year || {{nom}}
+|-
+| rowspan="6"| 2016<ref>{{cite web|url= https://themusicnetwork.com/2016-golden-guitar-awards-finalists-announced/ |title= 2016 Golden Guitar Awards Finalists Announced |website=The Music Network|date=17 November 2016|access-date=2 December 2022}}</ref> || ''Boneshaker'' || Album of the Year || {{nom}}
+|-
+| Catherine Britt – "Boneshaker" || Female Artist of the Year || {{won}}
+|-
+| "You And Me Against The World" (Catherine Britt and Steve Earle) || Vocal Collaboration of the Year || {{nom}}
+|-
+| "Boneshaker" || APRA AMCOS Song of the Year || {{nom}}
+|-
+| "Boneshaker" || Video Clip of the Year || {{nom}}
+|-
+| "Boneshaker" || Single of the Year || {{nom}}
+|-
+| 2017<ref>{{cite web|url=https://www.tcmf.com.au/2017-golden-guitar-award-finalists-announced|title=2017 GOLDEN GUITAR AWARD FINALISTS ANNOUNCED|website=TCMF|date=November 2016|access-date=2 December 2022}}</ref> || (unknown) || (unknown) || {{nom}}
+|-
+|rowspan="3"| 2019 <ref>{{cite web|url=https://www.triplem.com.au/story/nominees-announced-for-the-2019-toyota-golden-guitar-awards-118988|title=Nominees Announced for the 2019 Toyota Golden Guitar Awards and they look like this... |website=[[Triple M]]|date=21 November 2018 |access-date=2 December 2022}}</ref> || "Fire & Ice" (with Andrew Swift) || Vocal Collaboration of the Year || {{nom}}
+|-
+| ''Catherine Britt & The Cold Cold Hearts'' || Alternative Country Album of the Year || {{nom}}
+|-
+| Catherine Britt & The Cold Cold Hearts || Group or Duo of the Year || {{nom}}
+|-
+|rowspan="2"| 2024 <ref name="CMAA23noms1">{{cite web|url=https://www.tcmf.com.au/gga-nominees|title=Toyota 52nd Golden Guitar Awards|website=TCMF|date=20 November 2023|access-date=23 November 2023}}</ref><ref name="CMAA23noms2">{{cite web|url=https://www.tcmf.com.au/nominees-announced-for-the-52nd-country-music-awards-of-australia-the-toyota-golden-guitar-awards#:~:text=Tamworth%20Regional%20Council%20will%20present,livestreamed%20via%20the%20Festival%20website.|title=Nominees Announced for the 52nd Country Music Awards |website=TCMF|date=20 November 2023|access-date=23 November 2023}}</ref> || ''The Beginning of the End'' (as The Pleasures) || Alt. Country Album of the Year || {{pending}}
+|-
+|| The Pleasures (Catherine Britt and Lachlan Bryan) || Group or Duo of the Year || {{pending}}
+|}
+
+===CMC Country Music Channel Australia <sup>[http://countrymusicchannel.com.au/cmc/Default.aspx]</sup> ===
+{| class="wikitable"
+!align="center"|Year
+!align="center"|Category
+!align="center"|For
+!align="center"|Result
+|-
+|align="left"|2009
+|align="left"|CMC Oz Artist of the year
+|align="left"|Herself
+|align="left"|Nominated
+|-
+|align="left"|2012
+|align="left"|CMC Oz Artist of the year
+|align="left"|Herself
+|align="left"|Nominated
+|-
+|}
+
+===Vanda & Young Global Songwriting Competition===
+The [[Vanda & Young Global Songwriting Competition]] is an annual competition that "acknowledges great songwriting whilst supporting and raising money for [[Nordoff–Robbins music therapy|Nordoff-Robbins]]" and is coordinated by [[Albert Music]] and [[APRA AMCOS]]. It commenced in 2009.<ref name="about">{{cite web|url=https://www.apraamcos.com.au/about/supporting-the-industry/competitions/vanda-young-global-songwriting-competition#_89667|title=About the Vanda Young Global Song Writing Competition|website= [[APRA AMCOS]]|access-date=12 March 2021}}</ref>
+
+{{awards table}}
+|-
+| 2011<ref>{{cite web|url=https://www.apraamcos.com.au/about/supporting-the-industry/competitions/vanda-young-global-songwriting-competition/past-winners|title=Past Winners|website= [[APRA AMCOS]]|access-date=13 March 2021}}</ref>
+| "Sweet Emmylou"
+| Vanda & Young Global Songwriting Competition
+| style="background:silver;"| 2nd
+|-
+{{end}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.catherinebritt.com/ Catherine Britt official website]
+* [http://realcountry.podomatic.com/entry/2013-12-22T23_02_51-08_00 Interview with Catherine Britt] on [[Ben Sorensen's REAL Country]]
+{{Authority control}}
+
+{{DEFAULTSORT:Britt, Catherine}}
+[[Category:1984 births]]
+[[Category:Living people]]
+[[Category:Musicians from Newcastle, New South Wales]]
+[[Category:Australian country singer-songwriters]]
+[[Category:RCA Records Nashville artists]]
+[[Category:21st-century Australian singers]]
+[[Category:21st-century Australian women singers]]
+[[Category:Australian women singer-songwriters]]
+[[Category:21st-century Australian singer-songwriters]]

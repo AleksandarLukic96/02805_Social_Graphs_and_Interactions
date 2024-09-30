@@ -1,0 +1,314 @@
+{{Short description|U.S. musical group}}
+{{More citations needed|date=December 2018}}
+{{Infobox musical artist
+| name              = Whiskey Myers
+| image_size        = 
+| image             = Whiskey Myers .jpg
+| landscape         = yes
+| alt               = 
+| caption           = 
+| alias             = 
+| origin            = [[East Texas]]
+| genre             = [[Rock music|Rock]], [[Southern rock]],[[Country]], [[hard rock]]
+| years_active      = 2007–present
+| label             = Wiggy Thump Records
+| associated_acts   = 
+| website           = [http://www.whiskeymyers.com www.whiskeymyers.com]
+| current_members   = Cody Cannon<br />Cody Tate<br />John Jeffers<br />Jeff Hogg<br />Tony Kent<br /> Jamey Gleaves
+| past_members      = Gary Brown
+}}
+
+'''Whiskey Myers''' is an American rock and roll band from [[Palestine, Texas]] composed of Cody Cannon (lead vocals and acoustic guitar), John Jeffers (lead guitar, slide guitar, lap steel guitar, vocals), Cody Tate (lead and rhythm guitar, vocals), Jeff Hogg (drums), Tony Kent (percussion/drums), and Jamey Gleaves (bass). They have released six albums, the latest being ''[[Tornillo_(album)|Tornillo]]'' released in July 2022.
+
+==Music career==
+In 2008, the band released their debut album, ''Road of Life''.<ref name="allmusic">{{cite web |url={{Allmusic|class=artist|id=mn0001002713|pure_url=yes}} |title=Whiskey Myers Biography |last=Leggett |first=Steve |work=[[Allmusic]] |access-date=July 31, 2012}}</ref> Their second album, ''Firewater'', was released by Wiggy Thump in 2011 and debuted in the Top 30 on the ''[[Billboard (magazine)|Billboard]]'' [[Top Country Albums]] chart, largely thanks to the single "Ballad of a Southern Man". On February 4, 2014, the album, ''Early Morning Shakes'', was released and received mostly positive reviews. In September 2016, their fourth album ''Mud'' was released. The band's self-titled album was released on September 27, 2019 followed by "Tornillo" in July 29, 2022.
+
+The band started when friends Cody Cannon and John Jeffers began learning guitar together, inspired by the music of [[Lynyrd Skynyrd]], [[Hank Williams Jr.]], [[Waylon Jennings]], amongst many other artists. After being joined by Cannon's co-worker and friend Cody Tate. After playing together for a while, the three decided to start a more serious band. They enlisted friend Jeff Hogg to play drums, and asked Cannon's cousin Gary Brown to play bass (although he did not know how to play the instrument at the time). They began playing shows around their hometown and native state of Texas, slowly starting to build a following on the Texas/Red Dirt scene.
+
+In 2018, the band was featured in four episodes of the [[Kevin Costner]] [[Paramount Network]] series [[Yellowstone (American TV series)|''Yellowstone'']]. Shortly afterwards, the band's three available albums moved into the top 10 iTunes country chart. Their most recent album at the time, ''Mud'', reached No. 1 on the charts, and its song "Stone" reached No. 9 in all genres. 
+
+On September 27, 2019, the band released the self-titled album, ''[[Whiskey Myers (album)|Whiskey Myers]]''. It debuted at No. 1 on ''Billboard'' Country,<ref>{{cite magazine|url=https://www.billboard.com/articles/business/chart-beat/8532434/whiskey-myers-no-1-top-country-albums |title=Whiskey Myers Scores First Top Country Albums No. 1, Jon Pardi & Sturgill Simpson Debut in Top 3|date=October 8, 2019 |first= Jim |last=Asker|magazine=Billboard }}</ref> No. 2 on ''Billboard'' active rock,<ref>{{cite magazine|url=https://www.billboard.com/charts/hot-mainstream-rock-tracks|title= Mainstream Rock Songs |magazine=Billboard }}</ref> and No. 6 on the ''Billboard'' 200.<ref>{{cite web |url=https://www.entertainment-focus.com/music-section/ef-country/whiskey-myers-hit-billboard-200-top-10-with-new-self-titled-album/ |title=Whiskey Myers hit Billboard 200 Top 10 with new self-titled album |work=Entertainment Focus |date=15 October 2019 }}</ref>
+
+==Band members==
+<ref>{{cite web|url=https://www.whiskeymyers.com/about|title=About - Whiskey Myers|access-date=June 29, 2022}}</ref>
+===Current members=== 
+[[File:WM fullband.jpg|thumb|right|Whiskey Myers live in 2013]]
+* Cody Cannon – lead vocals, guitar, harmonica <small>(2007–present)</small>
+* John Jeffers – guitar, [[slide guitar]], [[lap steel]], vocals <small>(2007–present)</small>
+* Cody Tate – guitar, [[rhythm guitar]], vocals <small>(2007–present)</small>
+* Jeff Hogg – drums <small>(2007–present)</small>
+* Tony Kent – percussion, keyboards <small>(2016–present)</small>
+* Jamey Gleaves – bass guitar <small>(2017–present)</small>
+
+===Former members===
+* Gary Brown – bass guitar <small>(2007–2017)</small>
+
+;Timeline
+{{#tag:timeline|
+ImageSize = width:800 height:auto barincrement:20
+PlotArea = left:100 bottom:75 top:0 right:15
+Alignbars = justify
+DateFormat = mm/dd/yyyy
+Period = from:01/01/2007 till:{{#time:m/d/Y}}
+TimeAxis = orientation:horizontal format:yyyy
+Legend = orientation:vertical position:bottom columns:1
+ScaleMajor = increment:2 start:2007
+ScaleMinor = unit:year increment:1 start:2007
+
+Colors =
+ id:Vocals    value:red         legend:Vocals
+ id:harmonica value:yellow      legend:Harmonica
+ id:Guitar    value:green       legend:Guitar
+ id:Slide     value:purple      legend:Slide_Guitar,_Lap_Steel
+ id:Bass      value:blue        legend:Bass_Guitar
+ id:per       value:claret      legend:Percussion,_Keyboards
+ id:Drums     value:orange      legend:Drums
+ id:Studio    value:black       legend:Studio_Album
+ id:Bars      value:gray(0.93)
+
+BackgroundColors = bars:bars
+
+BarData = 
+ bar:Cannon  text:"Cody Cannon"
+ bar:Jeffers text:"John Jeffers"
+ bar:Tate    text:"Cody Tate"
+ bar:Brown   text:"Gary Brown"
+ bar:Gleaves text:"Jamey Gleaves"
+ bar:Kent    text:"Tony Kent"
+ bar:Hogg    text:"Jeff Hogg"
+
+LineData =
+ layer:back
+ at:07/15/2008 color:studio
+ at:04/26/2011 color:studio
+ at:02/04/2014 color:studio
+ at:09/09/2016 color:studio
+ at:09/27/2019 color:studio
+
+PlotData=
+ width:11 textcolor:black align:left anchor:from shift:(10,-4)
+ bar:Cannon  from:start      till:end        color:vocals
+ bar:Cannon  from:start      till:end        color:harmonica width:3
+ bar:Cannon  from:start      till:end        color:guitar    width:7
+ bar:Jeffers from:start      till:end        color:guitar
+ bar:Jeffers from:start      till:end        color:vocals    width:3
+ bar:Jeffers from:start      till:end        color:slide     width:7
+ bar:Tate    from:start      till:end        color:guitar   
+ bar:Tate    from:start      till:end        color:vocals    width:3
+ bar:Brown   from:start      till:11/01/2017 color:bass
+ bar:Gleaves from:11/01/2017 till:end        color:bass
+ bar:Kent    from:02/01/2016 till:end        color:per
+ bar:Hogg    from:start      till:end        color:drums
+ }}
+
+==Discography==
+
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-peeenus
+! rowspan="2" style="width:10em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="5"| Peak chart positions
+! rowspan="2" style="width:8em;"| Sales
+! rowspan="2" |[[List of music recording certifications|Certifications]]
+|- style="font-size:smaller;"
+! width="38"| [[Top Country Albums|US Country]]<br /><ref>{{cite magazine|url=https://www.billboard.com/artist/whiskey-myers/chart-history/clp/ |title=Whiskey Myers Chart History – Country Albums|magazine=[[Billboard (magazine)|Billboard]]|access-date=July 31, 2012}}</ref>
+! width="38"| [[Billboard 200|US]]<br /><ref>{{cite magazine|url=https://www.billboard.com/artist/whiskey-myers/chart-history/tlp/|title=Whiskey Myers Chart History – Billboard 200|magazine=Billboard|access-date=July 31, 2012}}</ref>
+! width="38"| [[Top Heatseekers|US<br />Heat]]<br /><ref>{{cite magazine|url=https://www.billboard.com/artist/whiskey-myers/chart-history/tln/|title=Whiskey Myers Chart History – Heatseekers Albums|magazine=Billboard|access-date=July 31, 2012}}</ref>
+! width="38"| [[Independent Albums|US<br />Indie]]<br /><ref>{{cite magazine|url=https://www.billboard.com/artist/whiskey-myers/chart-history/ind/|title=Whiskey Myers Chart History – Independent Albums|magazine=Billboard|access-date=July 31, 2012}}</ref>
+! width="38"| [[Top Rock Albums|US<br />Rock]]<br /><ref>{{cite magazine|url=https://www.billboard.com/artist/whiskey-myers/chart-history/rck/|title=Whiskey Myers Chart History – Top Rock Albums|magazine=Billboard|access-date=July 31, 2012}}</ref>
+|-
+! scope="row"| ''Road of Life''
+| 
+* Release date: July 15, 2008
+* Label: Smith Entertainment
+| —
+| —
+| —
+| —
+| —
+|
+|
+|-
+! scope="row"| ''[[Firewater (Whiskey Myers album)|Firewater]]''
+| 
+* Release date: April 26, 2011
+* Label: Wiggy Thump
+| 26
+| 198
+| 4
+| 39
+| —
+|
+|
+* [[Recording Industry Association of America|RIAA]]: Gold<ref name="RIAA">{{cite certification|region=United States|title=|artist=Whiskey Myers|type=|access-date=August 10, 2024}}</ref>
+|-
+! scope="row"| ''[[Early Morning Shakes]]''
+| 
+* Release date: February 4, 2014
+* Label: Wiggy Thump
+| 10
+| 54
+| —
+| 12
+| —
+|
+|
+|-
+! scope="row"| ''[[Mud_(Whiskey_Myers_album)|Mud]]''
+| 
+* Release date: September 9, 2016
+* Label: Wiggy Thump
+| 4
+| 80
+| —
+| 12
+| 17
+|
+*US: 8,600<ref>{{cite news |url=http://roughstock.com/news/2016/09/40874-country-album-sales-chart-september-22-2016|title=Country Album Sales Chart: September 22, 2016 |first=Matt |last=Bjorke |date=September 27, 2016 |work=Roughstock}}</ref>
+|
+|-
+! scope="row"| ''[[Whiskey Myers (album)|Whiskey Myers]]''
+| 
+* Release date: September 27, 2019
+* Label: Wiggy Thump
+| 1
+| 6
+| —
+| 1
+| 2
+|
+*US: 47,900<ref>{{cite web |url=http://roughstock.com/news/2020/03/44165-top-10-country-albums-pure-sales-chart-march-9-2020|title=Top 10 Country Albums Pure Sales Chart: March 9, 2020 |work=RoughStock|first=Matt |last=Bjorke |date= March 10, 2020 |access-date=March 22, 2020 }}</ref>
+|
+|-
+! scope="row"| ''[[Tornillo (album)|Tornillo]]''
+| 
+* Release date: July 29, 2022
+* Label: Wiggy Thump
+| 10
+| 67
+| —
+| 10
+| 14
+|
+|
+|-
+| colspan="8" style="font-size:85%"| "—" denotes releases that did not chart
+|
+|}
+
+=== Singles ===
+{| class="wikitable plainrowheaders" style="text-align:center"
+! scope="col" rowspan="2" | Year
+! scope="col" rowspan="2" | Title
+! scope="col" colspan="1" | Peak chart positions
+! rowspan="2" |[[List of music recording certifications|Certifications]]
+! rowspan="2" scope="col" | Album
+|-
+! scope="col" style="width:3em;font-size:90%;"| [[Mainstream Rock (chart)|US Main.]]<br /><ref>{{cite magazine|url=https://www.billboard.com/artist/whiskey-myers/chart-history/rtt/|title=Whiskey Myers Chart History: Mainstream Rock Songs|magazine=Billboard|access-date=December 24, 2019}}</ref>
+|-
+|2011
+! scope="row" |"Ballad of a Southern Man"
+|—
+|
+* RIAA: Platinum<ref name="RIAA" />
+| rowspan="2" |''Firewater''
+|-
+| rowspan="2" |2013
+! scope="row" |"Virginia"
+|—
+|
+* RIAA: Gold<ref name="RIAA" />
+|-
+! scope="row" |"Home"
+|—
+|
+| rowspan="2" |''Early Morning Shakes''
+|-
+|2014
+! scope="row" |"Dogwood"
+|—
+|
+|-
+|2016
+! scope="row" |"Stone"
+|—
+|
+* RIAA: 2× Platinum<ref name="RIAA" />
+|''Mud''
+|-
+| 2019
+! scope="row" | "Gasoline"
+| 20
+|
+| rowspan="2" | ''Whiskey Myers''
+|-
+| 2020
+! scope="row" | "Die Rockin"
+| —
+|
+|-
+| 2022
+! scope="row" | "The Wolf"
+| —
+|
+| rowspan="2" | ''Tornillo''
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:14em;"| Video
+! Director
+|-
+| 2011
+! scope="row"| "Ballad of a Southern Man"<ref>{{cite web|url=http://www.cmt.com/videos/whiskey-myers/699409/ballad-of-a-southern-man.jhtml|archive-url=https://web.archive.org/web/20111014222018/http://www.cmt.com/videos/whiskey-myers/699409/ballad-of-a-southern-man.jhtml|url-status=dead|archive-date=October 14, 2011|title=CMT : Videos : Whiskey Myers : Ballad of a Southern Man|publisher=[[Country Music Television]]|access-date=July 31, 2012}}</ref>
+| Mason Dixon
+|-
+| 2012
+! scope="row"| "Anna Marie"<ref>{{cite web|url=http://www.cmt.com/videos/whiskey-myers/818130/anna-marie.jhtml|archive-url=https://web.archive.org/web/20120727010405/http://www.cmt.com/videos/whiskey-myers/818130/anna-marie.jhtml|url-status=dead|archive-date=July 27, 2012|title=CMT : Videos : Whiskey Myers : Anna Marie|publisher=[[Country Music Television]]|access-date=July 31, 2012}}</ref>
+| Matt Bizer
+|-
+| rowspan="2"| 2013
+! scope="row"| "Virginia"<ref>{{cite web|url=http://www.cmt.com/videos/whiskey-myers/887057/virginia.jhtml|archive-url=https://web.archive.org/web/20130314081255/http://www.cmt.com/videos/whiskey-myers/887057/virginia.jhtml|url-status=dead|archive-date=March 14, 2013|title=CMT : Videos : Whiskey Myers : Virginia|publisher=[[Country Music Television]]|access-date=March 11, 2013}}</ref>
+| Phillip Guzman
+|-
+! scope="row"| "Home"<ref>{{cite web|url=http://www.cmt.com/videos/whiskey-myers/968421/home.jhtml|archive-url=https://web.archive.org/web/20131029203756/http://www.cmt.com/videos/whiskey-myers/968421/home.jhtml|url-status=dead|archive-date=October 29, 2013|title=CMT : Videos : Whiskey Myers : Home|publisher=[[Country Music Television]]|access-date=October 27, 2013}}</ref>
+| Jeff Ray
+|-
+| 2014
+! scope="row"| "Dogwood"<ref>{{cite web|url=http://www.cmt.com/videos/whiskey-myers/1057388/dogwood.jhtml|archive-url=https://web.archive.org/web/20151202011438/http://www.cmt.com/videos/whiskey-myers/1057388/dogwood.jhtml|url-status=dead|archive-date=December 2, 2015|title=CMT : Videos : Whiskey Myers : Dogwood|publisher=[[Country Music Television]]|access-date=June 30, 2014}}</ref>
+| Phillip Guzman
+|-
+| 2018
+! scope="row"| "Stone"
+|
+|-
+| rowspan="3"| 2019
+! scope="row"| "Die Rockin"<ref>{{cite web|url=http://www.cmt.com/videos/whiskey-myers/1057388/dierockin.jhtml|title=CMT : Videos : Whiskey Myers : Die Rockin|publisher=[[Country Music Television]]|access-date=August 21, 2019}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+| Zack Morris
+|-
+! scope="row"| "Bitch"<ref>{{cite web|url=http://www.cmt.com/videos/whiskey-myers/1057388/bitch.jhtml|title=CMT : Videos : Whiskey Myers : Bitch|publisher=[[Country Music Television]]|access-date=September 13, 2019}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+| Khris Poage
+|-
+! scope="row"| "Gasoline"<ref>{{cite web|url=http://www.cmt.com/videos/whiskey-myers/1057388/gasoline.jhtml|title=CMT : Videos : Whiskey Myers : Gasoline|publisher=[[Country Music Television]]|access-date=October 3, 2019}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+| Zack Morris
+|-
+| 2020
+! scope="row"| "Bury My Bones"<ref>{{cite web|url=http://www.cmt.com/videos/whiskey-myers/1057388/burymybones.jhtml|title=CMT : Videos : Whiskey Myers : Bury My Bones|publisher=[[Country Music Television]]|access-date=Jul 2, 2020}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+| Evan Kaufmann
+|-
+| 2022
+! scope="row"| "John Wayne"<ref>{{cite web |title=Whiskey Myers - John Wayne (Official Music Video) |url=https://www.youtube.com/watch?v=odz7qGD1OTY |website=www.youtube.com |publisher=YouTube |access-date=5 December 2022}}</ref>
+| Nayip
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+[[Category:American country rock groups]]
+[[Category:Country music groups from Texas]]
+[[Category:Musical groups established in 2008]]

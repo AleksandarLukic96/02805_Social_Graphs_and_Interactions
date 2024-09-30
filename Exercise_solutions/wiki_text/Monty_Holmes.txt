@@ -1,0 +1,91 @@
+{{short description|American country music singer-songwriter}}
+{{Use mdy dates|date=May 2020}}
+{{Infobox musical artist
+| name            = Monty Holmes
+| image           =
+| image_size      =
+| birth_name      =
+| alias           =
+| birth_date      =
+| origin          = [[Lubbock, Texas]]
+| instrument      =
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 1989–present
+| label           = Ashley, Bang II
+| associated_acts =
+| website         = 
+}}
+
+'''Monty Holmes''' (born in [[Lubbock, Texas]]<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|page=192|year=2008|isbn=978-0-89820-177-2}}</ref>) is an American [[country music]] singer-songwriter. Holmes signed to [[Bang Records|Bang II Records]] and released his debut album, ''All I Ever Wanted'', in 1998.<ref name="amgbio">[{{AllMusic|class=artist|id=p294668|pure_url=yes}} Monty Holmes] at [[Allmusic]]</ref> His highest charting single, "Why'd You Start Lookin' So Good," peaked at number 43 in 1998.<ref name="whitburn" /> Holmes' songs have been recorded by [[George Strait]] ("[[When Did You Stop Loving Me]]," "[[I Know She Still Loves Me]]," "[[Troubadour (song)|Troubadour]]") and [[Lee Ann Womack]] ("[[Never Again, Again]]").<ref name="amgbio" />
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:16em;"| Album details
+|-
+! scope="row"| ''All I Ever Wanted''
+| 
+* Release date: June 9, 1998
+* Label: [[Bang Records|Bang II Records]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! Peak positions
+! rowspan="2"| Album
+|-
+! width="65"| <small>[[Hot Country Songs|US Country]]</small><br /><ref name="whitburn" />
+|-
+| 1989
+! scope="row"| "A Way to Survive"
+| 82
+| {{n/a}}
+|-
+| rowspan="3"| 1998
+! scope="row"| "Why'd You Start Lookin' So Good"
+| 43
+| align="left" rowspan="3"| ''All I Ever Wanted''
+|-
+! scope="row"| "[[Alone (Bee Gees song)|Alone]]"
+| 53
+|-
+! scope="row"| "Leave My Mama Out of This"
+| 59
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:18em;"| Video
+! Director
+|-
+| rowspan="2"| 1998
+! scope="row"| "Why'd You Start Lookin' So Good"
+| [[Steven Goldmann]]
+|-
+! scope="row"| "Alone"
+| Bill Young
+|}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Holmes, Monty}}
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Living people]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:Musicians from Lubbock, Texas]]
+[[Category:Country musicians from Texas]]
+[[Category:Year of birth missing (living people)]]
+
+
+{{US-country-singer-stub}}

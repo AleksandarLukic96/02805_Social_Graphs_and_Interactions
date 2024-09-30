@@ -1,0 +1,368 @@
+{{Infobox musical artist | <!-- See Wikipedia:WikiProject Musicians -->
+| name            = The Johner Brothers
+| image           = 
+| caption         = 
+| image_size      = <!-- Only for images smaller than 220 pixels -->
+| background      = group_or_band
+| origin          = [[Midale, Saskatchewan|Midale]], [[Saskatchewan]], Canada
+| genre           = [[Country music|Country]]
+| years_active    = 1988&ndash;2001
+| label           = [[Warner Music Canada|Warner]]
+| associated_acts = 
+| website         = 
+| current_members = Ken Johner<br />[[Brad Johner]]<br />Bart McKay<br />Kevin Churko<br />Shaun Beavis
+| past_members    = 
+}}
+
+'''The Johner Brothers''' were a [[Canadians|Canadian]] [[country music]] duo from [[Midale, Saskatchewan|Midale]]. They won more than 40 awards from the Saskatchewan Country Music Association, including Entertainer of the Decade in 1999.<ref>[http://www.weyburnreview.com/News/1999/9912/johner.html Johner Brothers named Entertainer of the Decade<!-- Bot generated title -->]</ref>
+
+==History==
+Brothers Ken Johner and [[Brad Johner]] grew up in Saskatchewan playing music in their family band. In 1988, they teamed up together to form '''The Johner Brothers'''.<ref>[http://www.techmgt.ca/BJconcerts/artists/brad_johner.htm Brad Johner<!-- Bot generated title -->]</ref> In 2000 the pair took home a Prairie Music Award for their video and production skills.<ref>[https://www.theglobeandmail.com/news/national/singer-jann-arden-tops-music-awards/article1042761/ "Singer Jann Arden tops music awards"]. SASKATOON — ''Globe and Mail'', Oct. 02, 2000</ref>
+
+The duo signed with [[Warner Music Canada]] and released their first album, ''Some Kind of Magic'', in 1991. Two singles from the album reached the Canadian country singles chart, including the top 40 "Right On Time." That same year, the Johner's won four awards at the Saskatchewan Country Music Awards (SCMA), including Group of the Year, Single of the Year, Song of the Year, and Most Promising. They were also named Group or Duo of the Year by the [[Canadian Country Music Association]].
+
+In 1992, The Johner Brothers won seven awards from the SCMA, including Entertainer, Group, Duo, Song, Single and Album of the Year. They released their second studio album, ''My Brother and Me'', in 1993. Seven singles from the album found their way to the Canadian country singles chart, including the top 20 hit "Starting Right Now", and their duet with [[Lisa Brokop]], "Light In My Life." The duo won another four awards at the 1993 SCMA Awards, including Entertainer, Group and Single of the Year.
+
+The Johner Brothers became one of only a few Canadian country music acts to release a Christmas album with the release of 1993's ''One Winter's Night''. 1994 proved to be a banner year for the Johner's, when they won no less than 11 awards from SCMA. Among their wins were Entertainer, Group, Song, Single, Video and Album of the Year, along with Vocal Collaboration of the Year for their duet with [[Lisa Brokop]].
+
+Their success continued in 1995 with the release of their third album, ''Ten More Miles''. The album charted 5 singles, including the Top 25 songs "Hillbilly Country Boy" and the title track. They racked up another 7 awards at the SCMA Awards the same year, including their fourth straight win as Entertainer of the Year, and their fifth as Group of the Year. Their television special '''One Winter's Night''' also won an SCMA Award for TV Show of the Year.
+
+The Johner Brothers took some time off before the release of their fourth studio album, ''The Perfect Life'', in 1999. That same year, they were named Entertainer of the Decade by SCMA. As a condition of their win, that was their only honour from the SCMA for the year. They continued to rack up hits on the Canadian country singles chart, including the top 25 "Maybe She'll Change Her Mind", and their duet with [[Suzanne Gitzi]], "I Don't Wanna Know."
+
+In 2002, Ken decided to retire from the music business to pursue other interests. Before the duo disbanded in 2001, [[Warner Music Canada]] released The Johner Brothers' ''Greatest Hits''.<ref>[http://www.countrymusicnews.ca/news.ihtml?step=2&article_id=151 Country Music News Canadian country Music Artists CD's CDs CD Nashville report<!-- Bot generated title -->]</ref> The album included 16 of the Johner's biggest hits from their 11-year career, along with one new track, "Good Ol' Days." Brad continues to maintain a successful solo career in Canada.
+
+==Discography==
+
+===Albums===
+{|class="wikitable"
+!Year
+!Album
+!<small>CAN Country</small>
+|-
+|1991
+|''Some Kind of Magic''
+|
+|-
+|rowspan="2"| 1993
+|''My Brother and Me''
+|
+|-
+|''One Winter's Night''
+|
+|-
+|1995
+|''Ten More Miles''
+|align="center"|26
+|-
+|1999
+|''The Perfect Life''
+|
+|-
+|2002
+|''Greatest Hits''
+|
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style=text-align:center;
+! scope="col" rowspan="2" | Year
+! scope="col" rowspan="2" style="width:18em;" | Title
+! scope="col" colspan="1" | Chart Positions
+! scope="col" rowspan="2" | Album
+|- 
+! style="width:4em;font-size:90%;"|[[RPM (magazine)|CAN Country]]
+|-
+| rowspan="2"| 1991
+! scope="row"| "Goodbye for Good"
+| 43
+| align="left" rowspan="6"| ''Some Kind of Magic''
+|- 
+! scope="row"| "Right on Time"
+| 37
+|- 
+| rowspan="4"| 1992
+! scope="row"| "Why Did I Mistake You"
+| —
+|- 
+! scope="row"| "Old Gang"
+| —
+|- 
+! scope="row"| "Stranded in Love"
+| —
+|- 
+! scope="row"| "Where the Highway Divides"
+| —
+|- 
+| rowspan="4"| 1993
+! scope="row"| "My Brother and Me"
+| 49
+| align="left" rowspan="3"| ''My Brother and Me''
+|- 
+! scope="row"| "To Keep the Country Boy Alive"
+| 47
+|- 
+! scope="row"| "One Horse Town"
+| 37
+|- 
+! scope="row"| "Merry Christmas from Me"
+| —
+| align="left"| ''One Winter's Night''
+|- 
+| rowspan="3"| 1994
+! scope="row"| "If I Had Us"
+| 46
+| align="left" rowspan="4"| ''My Brother and Me''
+|- 
+! scope="row"| "Smooth Bottom Autumn"
+| 26
+|- 
+! scope="row"| "Light in My Life" <small>(with [[Lisa Brokop]])</small>
+| 16
+|- 
+| rowspan="2"| 1995
+! scope="row"| "Starting Right Now"
+| 18
+|- 
+! scope="row"| "Ten More Miles"
+| 22
+| align="left" rowspan="5"| ''Ten More Miles''
+|- 
+| rowspan="2"| 1996
+! scope="row"| "Hillbilly Country Boy"
+| 22
+|- 
+! scope="row"| "Feel So Bad"
+| 78
+|- 
+| rowspan="2"| 1997
+! scope="row"| "First Love"
+| 52
+|- 
+! scope="row"| "A Little Too Late"
+| 87
+|- 
+| 1998
+! scope="row"| "I Don't Wanna Know" <small>(with [[Suzanne Gitzi]])</small>
+| 73
+| align="left" rowspan="6"| ''The Perfect Life''
+|- 
+| rowspan="2"| 1999
+! scope="row"| "The Perfect Life"
+| 36
+|- 
+! scope="row"| "Still in Love with You"
+| —
+|- 
+| rowspan="2"| 2000
+! scope="row"| "Maybe She'll Change Her Mind"
+| 24
+|- 
+! scope="row"| "See Jane Run"
+| *
+|- 
+| 2001
+! scope="row"| "Head Over Heels in Love"
+| *
+|- 
+| 2002
+! scope="row"| "Good Ol' Days"
+| *
+| align="left"| ''Greatest Hits''
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart<br>* denotes unknown peak positions
+|}
+
+===Music videos===
+{| class="wikitable"
+|-
+! Year
+! Video
+|-
+| 1991
+| "Goodbye for Good"
+|-
+| 1993
+| "One Horse Town"
+|-
+| rowspan="2"| 1995
+| "Starting Right Now"
+|-
+| "Ten More Miles"
+|-
+| rowspan="2"| 1996
+| "Hillbilly, Country Boy"
+|-
+| "Feel So Bad"
+|-
+| 1997
+| "A Little Too Late"
+|-
+| 1998
+| "I Don't Wanna Know" <small>(with [[Suzanne Gitzi]])</small>
+|-
+| rowspan="2"| 1999
+| "The Perfect Life"
+|-
+| "Still in Love with You"
+|-
+| 2000
+| "Maybe She'll Change Her Mind"
+|}
+
+==Awards and nominations==
+{{Infobox musician awards
+| name = The Johner Brothers
+| image =
+| image_size =
+| alt =
+| caption =
+| wins = 28
+| nominations = 28
+| award1 = Saskatchewan Country Music Awards
+| award1W = 28
+| award1N = 28
+}}
+
+{| class="wikitable"
+|-
+! style="text-align:center;"|Year
+! style="text-align:center;"|Nominated work
+! style="text-align:center;"|Event
+! style="text-align:center;"|Award
+! style="text-align:center;"|Result
+|-
+| rowspan=2|1991
+| "Why Did I Mistake You"
+| rowspan=28|Saskatchewan Country Music Awards
+| Single of the Year
+| {{won}}
+|-
+| rowspan=4|The Johner Brothers
+| Most Promising
+| {{won}}
+|-
+| rowspan=5|1992
+| Entertainer of the Year
+| {{won}}
+|-
+| Group of the Year
+| {{won}}
+|-
+| Duo of the Year
+| {{won}}
+|-
+| "Goodbye For Good"
+| Single of the Year
+| {{won}}
+|-
+| ''Some Kind of Magic''
+| Album of the Year
+| {{won}}
+|-
+| rowspan=3|1993
+| rowspan=2|The Johner Brothers
+| Entertainer of the Year
+| {{won}}
+|-
+| Group of the Year
+| {{won}}
+|-
+| "Where the Highway Divides"
+| Single of the Year
+| {{won}}
+|-
+| rowspan=7|1994
+| rowspan=2|The Johner Brothers
+| Entertainer of the Year
+| {{won}}
+|-
+| Group of the Year
+| {{won}}
+|-
+| The Johner Brothers and Lisa Brokop
+| Vocal Collaboration of the Year
+| {{won}}
+|-
+| rowspan=3|"My Brother and Me"
+| Song of the Year
+| {{won}}
+|-
+| Single of the Year
+| {{won}}
+|-
+| Video of the Year
+| {{won}}
+|-
+| ''My Brother and Me''
+| Album of the Year
+| {{won}}
+|-
+| rowspan=3|1995
+| rowspan=2|The Johner Brothers
+| Entertainer of the Year
+| {{won}}
+|-
+| Group of the Year
+| {{won}}
+|-
+| "One Winter's Night"
+| TV show of the Year
+| {{won}}
+|-
+| 1996
+| "Ten More Miles"
+| Song of the Year
+| {{won}}
+|-
+| 1998
+| "It's a Little Too Late"
+| Video of the Year
+| {{won}}
+|-
+| rowspan=3|2000
+| ''Perfect Life''
+| Album of the Year
+| {{won}}
+|-
+| "Perfect Life"
+| Video of the Year
+| {{won}}
+|-
+| The Johner Brothers
+| National Achievement
+| {{won}}
+|-
+| rowspan=2|2001
+| "Maybe She'll Change Her Mind"
+| Video of the Year
+| {{won}}
+|-
+| The Johner Brothers
+| National Achievement
+| {{won}}
+|-
+| 2003
+| ''Greatest Hits''
+| Album of the Year
+| {{won}}
+|}
+
+==See also==
+*[[Brad Johner]]
+
+==References==
+<references/>
+
+==External links==
+* [http://www.bradjohner.com Brad Johner's] Official Site
+
+{{Authority control}}
+
+{{DEFAULTSORT:Johner Brothers, The}}
+[[Category:Musical groups established in 1988]]
+[[Category:Musical groups disestablished in 2001]]
+[[Category:Musical groups from Saskatchewan]]
+[[Category:Canadian country music groups]]
+[[Category:1988 establishments in Saskatchewan]]
+[[Category:2001 disestablishments in Canada]]
+[[Category:Canadian Country Music Association Duo of the Year winners]]

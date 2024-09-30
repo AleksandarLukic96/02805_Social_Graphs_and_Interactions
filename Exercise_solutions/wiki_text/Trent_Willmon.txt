@@ -1,0 +1,183 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=November 2020}}
+{{Infobox musical artist
+| name             = Trent Willmon
+| background       = solo_singer
+| birth_name       = 
+| birth_date       = {{birth date and age|1973|03|06}}
+| origin           = [[Afton, Texas]], United States
+| instrument       = Vocals, acoustic guitar
+| genre            = [[country music|Country]]
+| occupation       = Singer-songwriter, record producer
+| years_active     = 1998–present
+| label            = [[Sony Music Nashville|Columbia Nashville]], [[Compadre Records|Compadre]]
+| website          = [http://trentwillmon.com/ www.trentwillmon.com]
+}}
+'''Trent Willmon''' (born March 6, 1973) is an American [[country music]] artist, [[songwriter]], and [[Record producer|producer]]. Active since 1998 as a songwriter in [[Nashville, Tennessee]], Willmon was signed to [[Columbia Records]] in 2004. He released two albums for the label (2004's ''[[Trent Willmon (album)|Trent Willmon]]'' and 2006's ''[[A Little More Livin']]'') and charted six singles on the U.S. ''Billboard'' [[Hot Country Songs]] charts before exiting Columbia in 2006. A third album, ''[[Broken In]]'', was released on the independent Compadre label in February 2008.
+
+==Musical career==
+Willmon was born in [[Amarillo, Texas]]<ref name="allmusic">{{cite web |url={{AllMusic|class=artist|id=p668804|pure_url=yes}} |title=Trent Willmon biography |accessdate=January 1, 2008 |last=Ruhlmann |first=William |work=[[Allmusic]]}}</ref> and was raised on a ranch near [[Afton, Texas]]. After 2 years at South Plains College as an Animal Science major, he left to pursue music, playing with several Texas- based bands, including playing bass for bluegrass legend Karl Shiflett. In 1999 he signed a staff writing deal with SeaGayle Music. One of his first cuts as a songwriter was "It Doesn't Mean I Don't Love You", which he co-wrote with [[Bobby Pinson]] and Jeremy Spillman. It was recorded by the duo [[McHayes]] (which comprised 1990s country singer [[Wade Hayes]] and fiddler Mark McClurg), and reached 41 on the country charts in 2003.
+
+Willmon signed with [[Columbia Records]] in 2004. His [[Trent Willmon (album)|self-titled debut album]] was released that year, and it produced four singles. The first of these was "Beer Man", which peaked at 30 on the country charts. Following it were "Dixie Rose Deluxe's Honky-Tonk, Feed Store, Gun Shop, Used Car, Beer, Bait, BBQ, Barber Shop, Laundromat" at 36, "Home Sweet Holiday Inn" at 49, and finally "The Good Life" at 38.<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=469|isbn=0-89820-177-2}}</ref> A second album, ''[[A Little More Livin']]'', followed in 2006. Although its lead-off single "On Again Tonight" became his highest chart entry at 27, the follow-up "So Am I" peaked at 59, and Willmon exited Columbia's roster.<ref name="whitburn"/>
+
+Willmon signed with [[Compadre Records]] in 2007. His third album, ''[[Broken In]]'', was released on February 26, 2008.<ref name="weekly"/> The album produced three singles in "There Is a God", the title track, and "Cold Beer and a Fishing Pole", though none of these entered the charts. In early 2008, he also made his acting debut in the film ''Palo Pinto Gold'', a cowboy film also starring [[Roy Clark]] and [[Mel Tillis]].<ref name="weekly">{{cite journal |last=Neal |first=Chris |author2=Larry Holden  |date=January 14, 2008 |title=The Scoop: Trent Goes to the Movies |journal=[[Country Weekly]] |volume=15 |issue=1 |pages=14 }}</ref><!--Country Weekly post-dates its issues--> Willmon also co-wrote [[Montgomery Gentry]]'s 2009 single "[[Back When I Knew It All (song)|Back When I Knew It All]]" and [[Steel Magnolia]]'s 2010 single "[[Keep On Lovin' You]]".
+
+==Discography==
+
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+List of studio albums, with selected details and peak chart positions
+! scope="col" rowspan="2"| Title
+! scope="col" rowspan="2"| Details
+! scope="col" colspan="4"| Peak chart positions
+|- style="font-size:smaller;"
+! width="40"| [[Top Country Albums|US Country]]<br><ref name="Allmusic albums">{{cite web|url={{AllMusic|class=artist|id=p668804|pure_url=yes}}|title=allmusic ((( Trent Willmon > Charts & Awards > Billboard Albums )))|publisher=[[Allmusic]]|accessdate=April 4, 2010}}</ref>
+! width="40"| [[Billboard 200|US]]<br><ref name="Allmusic albums" />
+! width="40"| [[Top Heatseekers|US Heat.]]<br><ref name="Allmusic albums" />
+! width="40"| [[Independent Albums|US Indie]]<br><ref name="Allmusic albums" />
+|-
+! scope="row"| ''[[Trent Willmon (album)|Trent Willmon]]''
+| 
+* Release date: October 12, 2004
+* Label: [[Columbia Records|Columbia Nashville]]
+| 22
+| 150
+| 5
+| —
+|-
+! scope="row"| ''[[A Little More Livin']]''
+| 
+* Release date: June 13, 2006
+* Label: Columbia Nashville
+| 19
+| 70
+| —
+| —
+|-
+! scope="row"| ''[[Broken In]]''
+| 
+* Release date: February 26, 2008
+* Label: [[Compadre Records]]
+| 33
+| —
+| 7
+| 30
+|-
+! scope="row"| ''Little Ol' Cafe''
+| 
+* Release date: October 6, 2010
+* Label: Feed Store Records
+| —
+| —
+| —
+| —
+|-
+| colspan="10" style="font-size:85%"| "—" denotes releases that did not chart
+|}
+
+===Singles===
+{| class="wikitable"
+|+List of singles, with selected peak chart positions
+!scope="col" rowspan="2"|Year
+!scope="col" rowspan="2"|Single
+!scope="col" colspan="2"|Chart positions
+!scope="col" rowspan="2"|Album
+|-
+!width="50"|<small>[[Hot Country Songs|US Country]]</small><br /><ref name="whitburn"/>
+!width="50"|<small>[[Bubbling Under Hot 100|US Bubbling]]</small><br /><ref name="whitburn"/>
+|-
+| rowspan="2"| 2004
+| "Beer Man"
+| align="center"| 30
+| align="center"| —
+| rowspan="4"| ''Trent Willmon''
+|-
+| "[[Dixie Rose Deluxe's Honky-Tonk, Feed Store, Gun Shop, Used Car, Beer, Bait, BBQ, Barber Shop, Laundromat|Dixie Rose Deluxe's Honky-Tonk, Feed Store, Gun Shop,<br />Used Car, Beer, Bait, BBQ, Barber Shop, Laundromat]]"
+| align="center"| 36
+| align="center"| —
+|-
+| rowspan="2"| 2005
+| "Home Sweet Holiday Inn"
+| align="center"| 49
+| align="center"| —
+|-
+| "Population 81"
+| align="center"| 38
+| align="center"| —
+|-
+| rowspan="2"| 2006
+| "[[On Again Tonight]]"
+| align="center"| 27
+| align="center"| 24
+| rowspan="2"| ''A Little More Livin'''
+|-
+| "So Am I"
+| align="center"| 59
+| align="center"| —
+|-
+| 2007
+| "[[There Is a God]]"
+| align="center"| —
+| align="center"| —
+| rowspan="3"| ''Broken In''
+|-
+| rowspan="2"| 2008
+| "Broken In"
+| align="center"| —
+| align="center"| —
+|-
+| "Cold Beer and a Fishin' Pole"
+| align="center"| —
+| align="center"| —
+|}
+
+===Music videos===
+{| class="wikitable" border="1"
+|+List of music videos
+! scope="col"| Year
+! scope="col"| Video
+! scope="col"| Director
+|-
+| rowspan="2"| 2004
+| "Beer Man"
+| Brent Hedgecock
+|-
+| "Dixie Rose Deluxe's…"
+| Traci Goudie
+|-
+| 2005
+| "Home Sweet Holiday Inn"
+| Deb Haus
+|-
+| 2006
+| "On Again Tonight"
+| Sam Erickson
+|-
+| 2007
+| "There Is a God"
+| Andy Wehrspan
+|-
+| 2008
+| "Broken In"
+| The Brads
+|-
+| 2009
+| "Live from Gilley's"
+| Texas Roadhouse Live
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Willmon, Trent}}
+[[Category:1973 births]]
+[[Category:American country singer-songwriters]]
+[[Category:Columbia Records artists]]
+[[Category:Living people]]
+[[Category:Musicians from Amarillo, Texas]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:Country musicians from Texas]]

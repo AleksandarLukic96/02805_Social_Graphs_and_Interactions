@@ -1,0 +1,453 @@
+{{Short description|Canadian singer-songwriter (1940–2016)}}
+{{More citations needed|date=March 2020}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Ray Griff
+| image               = Ray Griff.png
+| caption             = Griff in 1969
+| image_size          = 250px
+| background          = solo_singer
+| alias               = 
+| birth_name          = John Raymond David Griff
+| birth_date          = {{Birth date|1940|4|22}}
+| birth_place         = [[Vancouver, British Columbia]], Canada
+| death_date          = {{Death date and age|2016|3|9|1940|4|22}}
+| instrument          = Vocals
+| genre               = [[Country music|Country]]
+| occupation          = Singer-songwriter
+| years_active        = 1964–2016
+| label               = [[Dot Records|Dot]], [[Capitol Records|Capitol]], [[GRT Records|GRT]]
+| past_member_of     = [[George Hamilton IV]], [[Jerry Lee Lewis]]
+| website                 = 
+}}
+
+'''John Raymond David Griff'''<ref name="CalgaryHerald²">{{cite news |url=http://www.legacy.com/obituaries/calgaryherald/obituary.aspx?pid=178108618 |title= John Griff obituary|date= March 19, 2016 |newspaper=[[Calgary Herald]]|access-date=October 17, 2016}}</ref> (April 22, 1940 – March 9, 2016)<ref name="allmusic">{{cite web |url={{AllMusic|class=artist|id=p187400|pure_url=yes}} |title=Ray Griff biography |access-date=2008-09-25 |last=Demalon |first=Tom |work=[[Allmusic]]}}</ref><ref>{{Cite web|url=http://www.yatesfuneral.ca/obits/obituary.php?id=594907|title=John GRIFF Obituary - Parksville|date=27 April 2016|archive-url=https://web.archive.org/web/20160427072807/http://www.yatesfuneral.ca/obits/obituary.php?id=594907|access-date=7 August 2021|archive-date=2016-04-27}}</ref> was a Canadian [[country music]] singer and songwriter, born in Vancouver and raised in [[Toronto]]. His songwriting credits reached over 2500 songs, many of which were recorded by Nashville's top recording artists.<ref name=FYI/>
+
+==Early life and career==
+Griff was born in [[Vancouver, British Columbia]], Canada <ref name="LarkinCountry">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Who's Who of Country Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1993|edition=First|isbn=0-85112-726-6|page=167}}</ref> and raised in [[Winfield, Alberta]].<ref name=FYI>{{cite news |url= http://www.fyimusicnews.ca/articles/2016/03/11/rip-canadian-country-star-ray-griff |last= Delaney |first= Larry |title= RIP: Canadian Country Star Ray Griff |date= March 11, 2016 |publisher=FYI Music News|access-date=October 17, 2016}}</ref> He began songwriting in the early 1960s and had early cuts by [[Johnny Horton]], [[Jim Reeves]], and others.<ref name="LarkinCountry"/> Griff moved to [[Nashville, Tennessee]] in 1964 to pursue his music career full-time. His first records as a singer were released in the late 1960s and Griff had his first hit, "[[Patches (Chairmen of the Board song)|Patches]]", a remake of the [[Clarence Carter]] soul hit in 1970 which peaked at No.&nbsp;26 in ''[[Billboard (magazine)|Billboard]]''. Griff recorded for the small country label Royal American and later moved on to [[Dot Records]] without much success. His stint at [[Capitol Records]] from 1975 to 1979 proved more successful,<ref name="LarkinCountry"/> racking up eight more country top 40 hits, the most successful being 1976's "If I Let Her Come In" which peaked at No.&nbsp;11.<ref name="allmusic"/>
+
+Griff's success as a songwriter, however, always overshadowed his recording work with over 700 songs recorded, including the major hits "[[Canadian Pacific (song)|Canadian Pacific]]" for [[George Hamilton IV]], "Who's Gonna Play This Old Piano" for [[Jerry Lee Lewis]], and "Baby" for [[Wilma Burgess]].<ref name="LarkinCountry"/> Others who had major hit records with Griff songs include [[Faron Young]], [[Porter Wagoner]] & [[Dolly Parton]], [[Bob Luman]], [[Gene Watson]], and [[Johnny Duncan (country music artist)|Johnny Duncan]].
+
+Griff returned to Canada in the late 1970s and remained active on the country music scene there as an artist, songwriter, and record producer. He lived a quiet life in Calgary, Alberta, occasionally performing at country venues with musicians from the area, most notably the Ranchman's Inn.
+
+==Later years==
+In 2008, Griff was awarded the Lifetime Achievement Award by [[SOCAN]] at the annual SOCAN Awards in Toronto.<ref>{{Cite web|url=http://www.socan.ca/about/awards/2008-socan-awards|title=2008 SOCAN AWARDS &#124; SOCAN|date=10 August 2016|archive-url=https://web.archive.org/web/20160810135616/http://www.socan.ca/about/awards/2008-socan-awards|access-date=7 August 2021|archive-date=2016-08-10}}</ref>
+
+Griff had battled throat cancer in his recent years,<ref name=FYI/> and he died on March 9, 2016, from pneumonia following surgery. He was 75.<ref name="CalgaryHerald²"/><ref>{{Cite web|url=http://www.rodeocountryradio.com/country-news/nde74xav5uw5et1pd6iik1j8gd4ttn|title="Ray Griff, dead at age 75"|website=Rodeocountryradi.com|date=March 10, 2016}}</ref><ref name= CalgaryHerald >{{cite news |url=https://calgaryherald.com/entertainment/music/legendary-calgary-country-gentleman-ray-griff-dies-at-the-age-of-75 |last=Bell|first=Mike |title= Legendary Calgary 'country gentleman' Ray Griff dies at the age of 75|date= March 11, 2016 |newspaper=[[Calgary Herald]]|access-date=June 10, 2016}}</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable"
+!Year
+!Album
+!width=45|<small>[[Top Country Albums|US Country]]</small>
+!Label
+|-
+|1968
+|''A Ray of Sunshine''
+|align="center"|42
+|rowspan=4|Dot
+|-
+|rowspan=2|1972
+|''The Entertainer''
+|align="center"|—
+|-
+|''Ray Griff Sings!''
+|align="center"|—
+|-
+|1973
+|''Songs for Everyone''
+|align="center"|22
+|-
+|1974
+|''Expressions''
+|align="center"|47
+|ABC/Dot
+|-
+|rowspan=2|1976
+|''Ray Griff''
+|align="center"|31
+|rowspan=3|Capitol
+|-
+|''The Last of the Winfield Amateurs''
+|align="center"|44
+|-
+|1977
+|''Raymond's Place''
+|align="center"|—
+|-
+|1978
+|''Ray's Bar and Grill''
+|align="center"|—
+|rowspan=5|Boot-London
+|-
+|1979
+|''Canada''
+|align="center"|—
+|-
+|1980
+|''Maple Leaf''
+|align="center"|—
+|-
+|1981
+|''Adam's Child''
+|align="center"|—
+|-
+|1982
+|''Greatest Hits''
+|align="center"|—
+|-
+|1983
+|''You Can Count on Me''
+|align="center"|—
+|rowspan=3|RCA
+|-
+|1984
+|''You''
+|align="center"|—
+|-
+|1985
+|''The Sky's the Limit''
+|align="center"|—
+|-
+|1987
+|''My Kind of Country''
+|align="center"|—
+|Bookshop
+|-
+|1988
+|''Ray Griff & Friends: Honest to Goodness Amigos''
+|align="center"|—
+|Warner Music Canada
+|-
+|1990
+|''There'll Always Be Christmas''
+|align="center"|—
+|ATI
+|-
+|1993
+|''Ray Griff: Through the Years, Vol. 1 & 2''
+|align="center"|—
+|Focus
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style=text-align:center;
+! scope="col" rowspan="2" | Year
+! scope="col" rowspan="2" | Title
+! scope="col" colspan="3" | Peak chart positions
+! scope="col" rowspan="2" | Album
+|- 
+! style="width:4em;font-size:90%;"|[[RPM (magazine)|CAN Country]]
+! style="width:4em;font-size:90%;"|[[RPM (magazine)|CAN AC]]
+! style="width:4em;font-size:90%;"|[[Hot Country Songs|US Country]]
+|-
+|rowspan=3| 1965
+! scope="row"| "Weeping Willow Tree"<sup>A</sup>
+| 6
+| —
+| —
+|align="left" rowspan=3| Non-album song
+|-
+! scope="row"| "Don't Lead Me On"
+| 10
+| —
+| —
+|-
+! scope="row"| "Golden Years"
+| 2
+| —
+| —
+|-
+| 1967
+! scope="row"| "Your Lily White Hands"
+| —
+| —
+| 49
+| align="left" rowspan=3| ''A Ray of Sunshine''
+|-
+|rowspan=2| 1968
+! scope="row"| "A Ray of Sunshine"
+| —
+| —
+| —
+|-
+! scope="row"| "The Sugar from My Candy"
+| 14
+| —
+| 50
+|-
+|rowspan=2| 1969
+! scope="row"| "Wanderin' Through the Valley"
+| 18
+| —
+| —
+|align="left" rowspan=2| ''The Entertainer''
+|-
+! scope="row"| "The Entertainer"
+| 6
+| —
+| —
+|-
+|rowspan=2| 1970
+! scope="row"| "[[Patches (Chairmen of the Board song)|Patches]]"
+| 13
+| 30
+| 26
+| align="left"| ''Ray Griff Sings!''
+|-
+! scope="row"| "Ain't Nowhere to Go"
+| 42
+| 18
+| —
+| align="left"| Non-album song
+|-
+|rowspan=2| 1971
+! scope="row"| "Wait a Little Longer"
+| —
+| —
+| —
+| align="left" rowspan=2| ''Ray Griff Sings!''
+|-
+! scope="row"| "[[The Morning After Baby Let Me Down]]"
+| 12
+| —
+| 14
+|-
+|1972
+! scope="row"| "It Rains Just the Same in Missouri"
+| 19
+| —
+| 62
+| align="left" rowspan=4| ''Songs for Everyone''
+|-
+|rowspan=3| 1973
+! scope="row"| "A Song for Everyone"
+| 38
+| 78
+| 66
+|-
+! scope="row"| "What Got to You (Before It Got to Me)"
+| 5
+| —
+| 46
+|-
+! scope="row"| "Darlin'"
+| 26
+| —
+| 42
+|-
+|rowspan=2| 1974
+! scope="row"| "That Doesn't Mean (I Don't Love My God)"
+| 12
+| —
+| 65
+| align="left" rowspan=2| ''Expressions''
+|-
+! scope="row"| "The Hill"
+| 18
+| —
+| 91
+|-
+|rowspan=2|1975
+! scope="row"| "If That's What It Takes"
+| —
+| —
+| 65
+| align="left"| Non-album song
+|-
+! scope="row"| "You Ring My Bell"
+| 40
+| —
+| 16
+| align="left" rowspan=3| ''Ray Griff''
+|-
+|rowspan=4| 1976
+! scope="row"| "[[If I Let Her Come In]]"
+| 1
+| —
+| 11
+|-
+! scope="row"| "I Love the Way That You Love Me"
+| 36
+| —
+| 40
+|-
+! scope="row"| "That's What I Get (For Doin' My Own Thinkin')"
+| 9
+| —
+| 24
+|align="left" rowspan=4| ''The Last of the Winfield Amateurs''
+|-
+! scope="row"| "The Last of the Winfield Amateurs"
+| 11
+| —
+| 27
+|-
+|rowspan=4| 1977
+! scope="row"| "You Put the Bounce Back into My Step"
+| —
+| —
+| flip
+|-
+! scope="row"| "A Passing Thing"
+| 20
+| —
+| 28
+|-
+! scope="row"| "A Cold Day in July"
+| 33
+| —
+| 69
+|align="left" rowspan=2| ''Raymond's Place''
+|-
+! scope="row"| "Raymond's Place"
+| 41
+| —
+| 52
+|-
+| 1978
+! scope="row"| "Canada"
+| 22
+| —
+| —
+| align="left" rowspan=3| ''Canada''
+|-
+|rowspan=2| 1979
+! scope="row"| "Betty Mitchell"
+| 43
+| —
+| —
+|-
+! scope="row"| "Friends and Neighbours"
+| 55
+| —
+| —
+|-
+|rowspan=2| 1981
+! scope="row"| "Jimmy, Luke and Me"
+| 48
+| —
+| —
+| align="left"| ''Maple Leaf''
+|-
+! scope="row"| "Draw Me a Line"
+| 24
+| —
+| 87
+| align="left" rowspan=4| ''You Can Count on Me''
+|-
+| 1982
+! scope="row"| "Things That Songs Are Made Of"
+| 30
+| —
+| 95
+|-
+|rowspan=2| 1983
+! scope="row"| "If Tomorrow Never Comes"
+| 8
+| —
+| 86
+|-
+! scope="row"| "You Can Count on Me"
+| 33
+| —
+| —
+|-
+|rowspan=3| 1984
+! scope="row"| "So Close"
+| 30
+| —
+| —
+| rowspan=2 align="left"| ''You''
+|-
+! scope="row"| "You"
+| —
+| —
+| —
+|-
+! scope="row"| "Diamond in the Rough"
+| 52
+| —
+| —
+| align="left"| ''You Can Count on Me''
+|-
+|rowspan=2| 1985
+! scope="row"| "A Light in the Window"
+| 48
+| —
+| —
+| align="left" rowspan=4| ''The Sky's the Limit''
+|-
+! scope="row"| "I Did"
+| 51
+| —
+| —
+|-
+| rowspan=2|1986
+! scope="row"| "What My Woman Does to Me"
+| 50
+| —
+| 71
+|-
+! scope="row"| "I Can't See Me"
+| —
+| —
+| —
+|-
+| 1987
+! scope="row"| "That Old Montana Moon"
+| 40
+| —
+| —
+| rowspan=2 align="left"| ''My Kind of Country''
+|-
+|rowspan=3| 1988
+! scope="row"| "Damned If I Do, Damned If I Don't"
+| —
+| —
+| —
+|-
+! scope="row"| "Light as a Feather" <small>(with Glory-Anne Carriere)</small>
+| 37
+| —
+| —
+| align="left" rowspan=2| ''Ray Griff & Friends:<br/>Honest to Goodness Amigos''
+|-
+! scope="row"| "Honest to Goodness Amigos" <small>(with [[Ronnie Prophet]])</small>
+| 86
+| —
+| —
+|-
+| 1989
+! scope="row"| "Flames"
+| 78
+| —
+| —
+| align="left" rowspan=2| Non-album song
+|-
+| 1990
+! scope="row"| "Daybreak"
+| 47
+| —
+| —
+|}
+
+*<sup>A</sup>"Weeping Willow Tree" also peaked at number 39 on the Canadian ''[[RPM (magazine)|RPM]]'' Top 40 chart.
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.raygriff.com/index.html Ray Griff website]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Griff, Ray}}
+[[Category:1940 births]]
+[[Category:2016 deaths]]
+[[Category:Canadian male singer-songwriters]]
+[[Category:Canadian country singer-songwriters]]
+[[Category:Groove Records artists]]
+[[Category:GRT Records artists]]
+[[Category:Singers from Vancouver]]
+[[Category:Singers from Nashville, Tennessee]]

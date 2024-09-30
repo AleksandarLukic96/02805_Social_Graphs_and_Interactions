@@ -1,0 +1,302 @@
+{{short description|Canadian country music singer|bot=PearBOT 5}}
+{{Infobox musical artist| <!-- See Wikipedia:WikiProject Musicians -->
+| image           = 
+| name            = Patricia Conroy
+| birth_date      = {{birth date and age|1964|1|30}}
+| birth_place     = [[Montreal]], [[Quebec]], Canada
+| origin          = [[Vancouver]], [[British Columbia]], Canada
+| background      = solo_singer
+| instrument      =
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 1987–present
+| label           = {{hlist|[[Warner Music Canada]]|[[Intersound Records|Intersound]]|Shoreline|Sunset|[[Koch Records|Koch]]|306|Angeline Entertainment}}
+| associated_acts =
+| website         = [http://www.patriciaconroy.net/ www.patriciaconroy.net]
+}}
+'''Patricia Conroy''' (born January 30, 1964) is a Canadian singer-songwriter. In her career, she has released five studio albums, and one compilation album. She has also released 25 singles, including the ''[[RPM (magazine)|RPM]]'' Country Tracks number one singles "[[Somebody's Leavin']]" (1994) and "[[What Else Can I Do]]" (1995). As a songwriter, Conroy has written singles for several artists including [[Steel Magnolia]] ("[[Just By Being You (Halo and Wings)]]"), [[Emerson Drive]] ("She Always Gets What She Wants"), and [[Lady A]] ("[[Champagne Night]]").
+
+Conroy was inducted into the [[Canadian Country Music Hall of Fame]] in 2021.<ref>{{Cite web|url=https://members.ccma.org/cgi/page.cgi/hall_of_fame_inductees.html?log=view&log_id=7121|title = Hall of Fame Inductees - Canadian Country Music Association}}</ref>
+
+==Biography==
+
+===Early life===
+Patricia Conroy was born on January 30, 1964, in [[Montreal]], [[Quebec]], Canada. Conroy was born to musical family which was influenced by her mother's Maritime country background and her father's Irish roots.<ref name=pc>{{cite web|url=http://www.patriciaconroy.net/bio.cfm|title=Patricia Conroy - Biography|access-date=2009-09-19|publisher=Patricia Conroy|url-status=dead|archive-url=https://web.archive.org/web/20091002062845/http://www.patriciaconroy.net/bio.cfm|archive-date=2009-10-02}}</ref> As a young girl her musical interests led to piano and vocal lessons and performances in a local church and with her family band, the Shamrock Ceili Band. In the late 1980s, Conroy hooked up with local musicians in [[Vancouver, British Columbia]] and eventually entered a Battle of the Bands contest. Conroy ultimately won and received $10,000, which gave her the opportunity to record demos of some of her original material.<ref name=pc/> By 1990, Conroy was approached by executives at [[Warner Music Canada]], who signed her to a recording contract.
+
+===Career===
+Her first album for the label, ''[[Blue Angel (Patricia Conroy album)|Blue Angel]]'', was released later the same year. Two singles from the album, "This Time" and "Take Me With You", both reached the top 10 in Canada.
+
+Conroy's second album, ''[[Bad Day for Trains]]'', was released in 1992. It contained four top 10s, including "Bad Day for Trains", "What Do You Care", "Blank Pages" and "[[My Baby Loves Me (Just the Way That I Am)]]", later recorded by [[Martina McBride]].
+
+Her most successful album to date, ''[[You Can't Resist]]'', was released in 1994. The first two songs released from the album, "[[Somebody's Leavin']]" and "[[What Else Can I Do]]", both reached No.&nbsp;1. Follow-up singles "You Can't Resist It", "I Don't Wanna Be the One" and "Keep Me Rockin'" all reached the top 10.
+
+Conroy signed with Shoreline Records in 1998 for the release of her fourth album, ''Wild As the Wind''. She continued her streak of hits with the songs "Direction Of Love" and "Ain't Nobody Like You". Her ''Greatest Hits'' album was released two years later, along with the top 40 song "Nobody's Fault".
+
+In 2005, Conroy returned with her new video, "When", which was the first single off her new album. In 2007, Conroy signed with 306 Records/Angeline Entertainment for the release of her first full-length studio album in 9 years, ''Talking to Myself''. Three singles have been released from the album so far, "When", "Talking to Myself" and "Ray of Sun."
+
+In a statement made on her official website in June 2008, Conroy announced that she was taking time to write songs for [[Lisa Brokop]], [[Jimmy Rankin]], [[Chad Brownlee]] and [[Michelle Wright]] for their upcoming projects. She has songwriting credits on [[The Rankin Family]]'s album, ''[[These Are the Moments]]'', released February 3, 2009. "[[Just By Being You (Halo and Wings)]]", a song co-written by Conroy, was released by American country duo [[Steel Magnolia]] in 2010. [[Emerson Drive]] recorded Conroy's "She Always Get What She Wants" for their 2012 album ''[[Roll (Emerson Drive album)|Roll]]'' and released it as the album's fourth single in June 2013.
+
+In 2020, Conroy co-wrote the song "[[Champagne Night]]", which was featured on the [[NBC]] songwriting competition series ''[[Songland]]'' and recorded by [[Lady A]].<ref>{{cite news|last1=Stefano|first1=Angela|title='Songland': Lady Antebellum Find 'Champagne Night'|url=https://tasteofcountry.com/lady-antebellum-champagne-night-madeline-merlo-songland/|work=[[Taste of Country]]|date=April 14, 2020}}</ref> The song reached number one on the ''[[Billboard (magazine)|Billboard]]'' [[Country Airplay]] chart in January 2021.<ref>{{cite magazine|url=https://www.billboard.com/charts/country-airplay/2021-01-09/|title=Country Airplay|magazine=Billboard|date=January 9, 2021}}</ref>
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:12em;"| Title
+! rowspan="2" style="width:18em;"| Details
+! Peak<br/>positions
+|- style="font-size:smaller;"
+! width="65"| [[RPM (magazine)|CAN Country]]<br/><ref>{{cite web|url=http://www.bac-lac.gc.ca/eng/discover/films-videos-sound-recordings/rpm/Pages/list.aspx?OCRText=Patricia+Conroy&ChartEn=Country+Albums%2fCDs&|title=Patricia Conroy - Country Albums/CDs|work=[[RPM (magazine)|RPM]]|date=17 July 2013 |access-date=November 29, 2021}}</ref>
+|-
+! scope="row"| ''[[Blue Angel (Patricia Conroy album)|Blue Angel]]''
+| 
+* Release date: 1990
+* Label: [[Warner Music Canada]]
+| —
+|-
+! scope="row"| ''[[Bad Day for Trains]]''
+| 
+* Release date: 1992
+* Label: Warner Music Canada
+| 20
+|-
+! scope="row"| ''[[You Can't Resist]]''
+| 
+* Release date: 1994
+* Label: Warner Music Canada
+| 3
+|-
+! scope="row"| ''Wild As the Wind''
+| 
+* Release date: March 17, 1998
+* Label: Shoreline / Sunset
+| —
+|-
+! scope="row"| ''Talking to Myself''
+| 
+* Release date: January 30, 2007
+* Label: 306 / Angeline Entertainment
+| —
+|-
+| colspan="3" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Compilation albums===
+{| class="wikitable plainrowheaders"
+|-
+! style="width:12em;"| Title
+! style="width:18em;"| Details
+|-
+! scope="row"| ''Greatest Hits''
+| 
+* Release date: February 29, 2000
+* Label: [[Koch Records]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:22em;"| Single
+! Peak<br/>positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[RPM (magazine)|CAN Country]]<br/><ref>Peak positions for country singles in Canada:
+*Singles released 1990 to 2000 – {{cite web|url=http://www.bac-lac.gc.ca/eng/discover/films-videos-sound-recordings/rpm/Pages/list.aspx?OCRText=Patricia+Conroy&ChartEn=Country+Singles&|title=Patricia Conroy - Country Tracks|work=RPM|date=17 July 2013 |accessdate=November 29, 2021}}
+*"When" – {{cite journal|url=https://worldradiohistory.com/Archive-RandR/2000s/2005/RR-2005-07-01.pdf|title=Canada Country Top 30|journal=[[Radio & Records]]|date=July 1, 2005}}
+*"Talking to Myself" – {{cite magazine|url=https://www.billboard.com/charts/canada-country/2007-01-13/|title=Canada Country|magazine=[[Billboard (magazine)|Billboard]]|date=January 13, 2007}}</ref>
+|- 
+| 1987
+! scope="row"| "My Heart's on Fire"
+| —
+| rowspan="3" {{n/a|Non-album singles}}
+|-
+| 1989
+! scope="row"| "Come on Back"
+| —
+|-
+| rowspan="2"| 1990
+! scope="row"| "A Thousand Rails"
+| 56
+|-
+! scope="row"| "[[This Time (Patricia Conroy song)|This Time]]"
+| 10
+| align="left" rowspan="4"| ''Blue Angel''
+|-
+| rowspan="3"| 1991
+! scope="row"| "[[Take Me with You (song)|Take Me with You]]"
+| 8
+|-
+! scope="row"| "Blue Angel"
+| 44
+|-
+! scope="row"| "Why I'm Walkin'"
+| 73
+|-
+| rowspan="2"| 1992
+! scope="row"| "[[My Baby Loves Me (Just the Way That I Am)]]"
+| 8
+| align="left" rowspan="5"| ''Bad Day for Trains''
+|-
+! scope="row"| "[[Bad Day for Trains (song)|Bad Day for Trains]]"
+| 7
+|-
+| rowspan="3"| 1993
+! scope="row"| "[[What Do You Care]]"
+| 8
+|-
+! scope="row"| "[[Blank Pages (Patricia Conroy song)|Blank Pages]]"
+| 7
+|-
+! scope="row"| "Here We Go Again"
+| 12
+|-
+| 1994
+! scope="row"| "[[Somebody's Leavin']]"
+| 1
+| align="left" rowspan="5"| ''You Can't Resist''
+|-
+| rowspan="3"| 1995
+! scope="row"| "[[What Else Can I Do]]"
+| 1
+|-
+! scope="row"| "[[You Can't Resist It]]"
+| 5
+|-
+! scope="row"| "[[I Don't Wanna Be the One]]"
+| 8
+|-
+| 1996
+! scope="row"| "[[Keep Me Rockin']]"
+| 3
+|-
+| 1997
+! scope="row"| "Mary on the Dashboard"
+| 77
+| align="left" rowspan="4"| ''Wild as the Wind''
+|-
+| 1998
+! scope="row"| "Direction of Love"
+| 8
+|-
+| rowspan="2"| 1999
+! scope="row"| "Ain't Nobody Like You"
+| 9
+|-
+! scope="row"| "Don't You Forget (Who You're Talkin' To)"
+| —
+|-
+| 2000
+! scope="row"| "Nobody's Fault"
+| 27
+| align="left"| ''Greatest Hits''
+|-
+| 2005
+! scope="row"| "When"
+| 27
+| align="left" rowspan="3"| ''Talking to Myself''
+|-
+| 2006
+! scope="row"| "Talking to Myself"
+| 43
+|-
+| 2007
+! scope="row"| "Ray of Sun"
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:22em;"| Video
+! Director
+|-
+| rowspan="2"| 1993
+! scope="row"| "Bad Day for Trains"
+| [[Steven Goldmann]]
+|-
+! scope="row"| "What Do You Care"
+|-
+| 1994
+! scope="row"| "Somebody's Leavin'"
+| rowspan="2"| Steven Goldmann
+|-
+| rowspan="3"| 1995
+! scope="row"| "What Else Can I Do"
+|-
+! scope="row"| "You Can't Resist It"
+|-
+! scope="row"| "I Don't Wanna Be the One"<ref>{{cite web|url=http://www.cmt.com/videos/patricia-conroy/385161/i-dont-wanna-be-the-one.jhtml|archive-url=https://web.archive.org/web/20160305032807/http://www.cmt.com/videos/patricia-conroy/385161/i-dont-wanna-be-the-one.jhtml|url-status=dead|archive-date=March 5, 2016|title=CMT : Videos : Patricia Conroy : I Don't Wanna Be The One|publisher=[[Country Music Television]]|access-date=October 14, 2011}}</ref>
+| Tara Johns
+|-
+| 1996
+! scope="row"| "Keep Me Rockin'"
+| rowspan="4"| Tom Bevins
+|-
+| 1997
+! scope="row"| "Mary on the Dashboard"
+|-
+| 1998
+! scope="row"| "Direction of Love"
+|-
+| 1999
+! scope="row"| "Ain't Nobody Like You"
+|-
+| rowspan="2"| 2005
+! scope="row"| "When"
+| Tony Hrynchuk
+|-
+! scope="row"| "It's Almost Christmas"
+|-
+| 2006
+! scope="row"| "Talking to Myself"
+|-
+|}
+
+==Awards==
+
+===Canadian Country Music Awards===
+*Vista Rising Star (1990)
+*Album of the Year, ''Bad Day for Trains'' (1993)
+*Female Artist of the Year (1994)
+*Independent Artist of the Year (1999, 2000)
+*Independent Female Artist of the Year (2006)
+*Songwriter of the Year (2021)
+*[[Canadian Country Music Hall of Fame]] (2021)
+
+===British Columbia Country Music Awards===
+*Ray McAuley Horizon Award (1988)
+*Female Vocalist of the Year (1988, 1989, 1990, 1991)
+*Entertainer of the Year (1989, 1991, 1993, 1994)
+*Album of the Year, ''Blue Angel'' (1991)
+*Song of the Year, "Bad Day for Trains" (1993)
+*Single of the Year, "Bad Day for Trains" (1993)
+*Album of the Year, ''Bad Day for Trains'' (1993)
+*Song of the Year, "Blank Pages" (1994)
+*International Achievement (1997)
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.patriciaconroy.net Official site]
+* {{IMDb name|nm4157827}}
+
+{{Patricia Conroy}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Conroy, Patricia}}
+[[Category:Singers from Montreal]]
+[[Category:Canadian women country singers]]
+[[Category:Canadian country singer-songwriters]]
+[[Category:Living people]]
+[[Category:Anglophone Quebec people]]
+[[Category:Canadian Country Music Association Female Artist of the Year winners]]
+[[Category:Canadian Country Music Association Rising Star Award winners]]
+[[Category:Canadian Country Music Association Album of the Year winners]]
+[[Category:1964 births]]

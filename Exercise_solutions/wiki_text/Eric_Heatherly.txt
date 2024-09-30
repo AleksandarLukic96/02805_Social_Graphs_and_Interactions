@@ -1,0 +1,199 @@
+{{Short description|American singer-songwriter (born 1970)}}
+
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Eric Heatherly
+| image               = 
+| caption             =
+| image_size          =
+| background          = solo_singer
+| birth_name          = Eric Lafon Heatherly
+| alias               =
+| birth_date          = {{birth date and age|1970|2|21}}
+| origin              = [[Chattanooga, Tennessee]], United States
+| instrument          = Vocals, guitar
+| genre               = {{Flatlist|
+* [[Rockabilly]]<ref>{{Cite web|url=https://www.allmusic.com/album/swimming-in-champagne-mw0000606937|title=Swimming in Champagne - Eric Heatherly &#124; Songs, Reviews, Credits &#124; AllMusic|via=www.allmusic.com}}</ref>
+* [[country rock]]<ref>{{cite news |last1=Printz |first1=Larry |title=ERIC HEATHERLY |work=The Morning Call |date=5 Aug 2000 |page=A38}}</ref>
+}}
+| occupation          = Singer-songwriter
+| years_active        = 2000–present
+| label               = [[Universal Music Group Nashville|Mercury Nashville]]<br />[[DreamWorks Records|DreamWorks Nashville]]<br />NashVegas/[[Koch Records|Koch]]
+| website                 = http://www.theericheatherly.com/
+}}
+'''Eric Lafon Heatherly''' (born February 21, 1970) is an American singer. In 2000, he debuted with a cover of [[The Statler Brothers]]' "[[Flowers on the Wall]]", the first of three singles from his debut album ''[[Swimming in Champagne]]'', which was issued in 2000 on [[Mercury Nashville Records]]. A second album for Mercury was planned in 2001 but not released, due to the label's restructuring.
+
+By 2002, he had signed to [[DreamWorks Records|DreamWorks Nashville]], where he recorded a third studio album which was also unreleased. His fourth overall album, and second to be released, was 2005's ''The Lower East Side of Life'', issued on his own NashVegas Records label.
+
+==Biography==
+Eric Heatherly was born February 21, 1970, in [[Chattanooga, Tennessee]]. Influenced at an early age by [[country rock]] acts such as [[Creedence Clearwater Revival]], Eric wrote his first song at 8.<ref name="allmusic"/> Throughout his teenage years, Heatherly played guitar in several bands in the Chattanooga area.
+
+He later moved to [[Nashville, Tennessee]], where he gained a following as a musician, as well as endorsements for guitar manufacturers [[Fender Musical Instruments Corporation]] and [[Takamine Guitars]].<ref name="allmusic"/> At the 1997 [[Country Music Association]] awards show, Heatherly also played lead guitar in [[Shania Twain]]'s band.<ref name="allmusic">{{cite web |url={{AllMusic|class=artist|id=p417055|pure_url=yes}} |title=allmusic ((( Eric Heatherly > Biography ))) |accessdate=2007-12-14 |last=Phares |first=Heather |work=[[Allmusic]]}}</ref>
+
+==Musical career==
+In 2000, Heatherly was signed to [[Mercury Nashville Records]] as a recording artist. His debut single was a [[cover version]] of [[The Statler Brothers]]' 1965 debut single "[[Flowers on the Wall]]".<ref>{{cite web |url=http://www.cmt.com/artists/news/1476343/20030808/heatherly_eric.jhtml |archive-url=https://web.archive.org/web/20070706210304/http://www.cmt.com/artists/news/1476343/20030808/heatherly_eric.jhtml |url-status=dead |archive-date=July 6, 2007 |title="Flowers on the Wall" Blooms Again |accessdate=2007-12-14 |date=2000-02-03 |work=CMT.com}}</ref> Heatherly's rendition was a Top Ten hit on the ''Billboard'' [[Hot Country Singles & Tracks]] chart, peaking at #6 in mid-2000.
+
+The song served as the first single from his debut album. Entitled ''[[Swimming in Champagne]]'', the album was co-produced by [[Keith Stegall]]. Due to a restructuring of Mercury Nashville's parent company, ''Swimming in Champagne'' received minimal promotion;<ref name="allmusic"/> its second and third singles peaked at #46 and at #32 on the chart. Heatherly had also recorded a second album for Mercury, but it was not released, and Heatherly was dropped from the label by 2002.<ref name="allmusic"/><ref>{{cite web |url=http://www.cmt.com/artists/news/1452243/20020211/heatherly_eric.jhtml |title=Heatherly Parts With Mercury |accessdate=2007-12-14 |date=2002-04-11 |work=CMT.com}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+
+A month after parting ways with Mercury, Heatherly signed to [[DreamWorks Records]]' Nashville division.<ref>{{cite web |url=http://www.cmt.com/artists/news/1452857/20020312/heatherly_eric.jhtml |title=Heatherly Signs With DreamWorks |accessdate=2007-12-14 |date=2002-03-12 |work=CMT.com}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref> His third album, to be titled ''Sometimes It's Just Your Time'', was to have been released in late 2002. Its lead-off single ("The Last Man Committed") entered the country music chart; although promotional advance copies of the album, ''Sometimes It's Just Your Time'', had been issued, it was ultimately unreleased as well.<ref name="allmusic"/>
+
+Three years after his departure from DreamWorks's roster, he founded a personal label named NashVegas Records, with [[Koch Records]] serving as distributor.<ref name="allmusic"/> His fourth album overall (but only the second to be released), ''[[The Lower East Side of Life]]'', was issued in 2005, though no singles were released from it.<ref name="cw">{{cite journal|last=Hollabaugh|first=Lorie|date=2009-05-11|title=In Bloom Once Again|journal=[[Country Weekly]]|volume=16|issue=13|pages=50}}</ref>
+
+After ''The Lower East Side of Life'', Heatherly continued to tour, in addition to manufacturing custom-made guitar straps. Through the help of songwriter and producer Carson Chamberlain, Heatherly recorded a song called "Unforgettable", which appeared in an episode of ''[[Grey's Anatomy]]''.<ref name="cw"/> He has also recorded another album, ''2 High 2 Cry'', released in 2009.<ref name="cw"/> A second self-released album, ''Painkillers'', followed in 2010.
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:16em;"| Title
+! rowspan="2" style="width:22em;"| Album details
+! colspan="3"| Peak chart positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]
+! width="45"| [[Billboard 200|US]]
+! width="45"| [[Top Heatseekers|US Heat]]
+|-
+! scope="row"| ''[[Swimming in Champagne]]''<sup><span id="ref_A"></span>[[#endnote_A|'''[A]''']]</sup>
+| 
+* Release date: April 18, 2000
+* Label: [[Universal Music Group Nashville|Mercury Nashville]]
+| 17
+| 157
+| 6
+|-
+! scope="row"| ''[[The Lower East Side of Life]]''
+| 
+* Release date: April 26, 2005
+* Label: NashVegas/[[E1 Entertainment|Koch Entertainment]]
+| —
+| —
+| —
+|-
+! scope="row"| ''2 High 2 Cry''
+| 
+* Release date: 2009
+* Label: Self-released
+| —
+| —
+| —
+|-
+! scope="row"| ''Painkillers''
+| 
+* Release date: 2010
+* Label: Self-released
+| —
+| —
+| —
+|-
+|-
+! scope="row"| ''The Goats of Kudzu''
+| 
+* Release date: 2012
+* Label: Self-released
+| —
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+{{refbegin}}
+;Notes
+*A<span id="endnote_A"></span>'''[[#ref_A|^]]''' ''Swimming in Champagne'' also peaked at number 6 on the ''[[RPM (magazine)|RPM]]'' Country Albums chart in Canada.
+{{refend}}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:16em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[Billboard Hot 100|US]]
+|-
+| rowspan="2"| 2000
+! scope="row"| "[[Flowers on the Wall]]"<sup><span id="ref_A"></span>[[#endnote_A|'''[A]''']]</sup>
+| 6
+| 50
+| align="left" rowspan="3"| ''Swimming in Champagne''
+|-
+! scope="row"| "Swimming in Champagne"
+| 46
+| —
+|-
+| 2001
+! scope="row"| "Wrong Five O'Clock"
+
+| 32
+| —
+|-
+| rowspan="2"| 2002
+! scope="row"| "The Last Man Committed"
+| 36
+| —
+| align="left" rowspan="3" |''Sometimes It's Just Your Time''
+|-
+! scope="row"| "Sometimes It's Just Your Time"
+| —
+| —
+|-
+| 2003
+! scope="row"| "When a Heart Begins to Drift"
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+{{refbegin}}
+;Notes
+*A<span id="endnote_A"></span>'''[[#ref_A|^]]''' "Flowers on the Wall" also peaked at number 3 on the ''[[RPM (magazine)|RPM]]'' Country Tracks chart in Canada.
+{{refend}}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:16em;"| Video
+! Director
+|-
+| rowspan="2"| 2000
+! scope="row"| "Flowers on the Wall"
+| Gerry Wenner
+|-
+! scope="row"| "Swimming in Champagne"
+|
+|-
+| 2002
+! scope="row"| "The Last Man Committed"<ref>{{cite web|url=http://www.cmt.com/videos/eric-heatherly/309978/last-man-committed.jhtml|title=CMT : Videos : Eric Heatherly : Last Man Committed|publisher=[[Country Music Television]]|accessdate=October 14, 2011}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+| [[Steven Goldmann]]
+|}
+
+== External links ==
+* [http://www.agr-music.com AGR Television Records] International Record Label of Eric Heatherly (multi-lingual)
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Heatherly, Eric}}
+[[Category:1970 births]]
+[[Category:American country guitarists]]
+[[Category:American country rock singers]]
+[[Category:American male guitarists]]
+[[Category:American country singer-songwriters]]
+[[Category:Living people]]
+[[Category:Musicians from Chattanooga, Tennessee]]
+[[Category:Mercury Records artists]]
+[[Category:DreamWorks Records artists]]
+[[Category:Singer-songwriters from Tennessee]]
+[[Category:Guitarists from Tennessee]]
+[[Category:Country musicians from Tennessee]]
+[[Category:21st-century American male singers]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:21st-century American guitarists]]
+[[Category:American male singer-songwriters]]
+[[Category:American rockabilly guitarists]]

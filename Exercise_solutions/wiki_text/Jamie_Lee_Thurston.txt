@@ -1,0 +1,117 @@
+{{short description|American country music singer}}
+{{Use mdy dates|date=June 2020}}
+{{Infobox musical artist
+| name             = Jamie Lee Thurston
+| image            =
+| image_size       =
+| landscape        = <!-- yes, if wide image, otherwise leave blank -->
+| alt              =
+| caption          =
+| alias            =
+| birth_place      = [[Montpelier, Vermont]], U.S.<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|date=2008|page=420|isbn=978-0-89820-177-2}}</ref>
+| origin           = [[Nashville, Tennessee]]
+| genre            = [[Country music|Country]]
+| occupation       = Singer-songwriter
+| instrument       = Vocals, guitar
+| years_active     = 2003–present
+| label            = View 2, [[Warner Bros. Records|Warner Bros.]], Country Thunder, Snakebit
+}}
+'''Jamie Lee Thurston''' is an American [[country music]] singer. He was raised in [[Waterbury, Vermont]] and performed with his father starting at age 15. After moving to Los Angeles, California, he moved again to [[Nashville, Tennessee]] in 1999.<ref>{{cite web|url=http://www.countryweekly.com/vault/jamie-lee-thurston-straight-shooter|archiveurl=https://web.archive.org/web/20160304052945/http://www.countryweekly.com/vault/jamie-lee-thurston-straight-shooter|archivedate=March 4, 2016|title=Jamie Lee Thurston: Straight Shooter|date=March 3, 2003|work=[[Country Weekly]]|accessdate=February 21, 2013}}</ref>
+
+In 2003, he released the album ''I Just Wanna Do My Thing'' via View 2. The album included the single "It Can All Be Gone", which peaked at number 59 on the [[Hot Country Songs]] charts. He later signed to [[Warner Bros. Records]] Nashville, then to Country Thunder.<ref>{{cite web|url=https://www.countryaircheck.com/email_publication/CAT_02_20_07/|title=Country Aircheck|date=February 20, 2007|accessdate=February 21, 2013}}</ref>
+
+Thurston wrote [[Rodney Atkins]]' 2009 single "[[15 Minutes (Rodney Atkins song)|15 Minutes]]", and cuts by [[Trace Adkins]] and [[Montgomery Gentry]].<ref>{{cite web|url=http://www.jamieleethurston.com/bio.php |title=Bio |work=Jamie Lee Thurston |accessdate=February 21, 2013 |url-status=dead |archiveurl=https://web.archive.org/web/20130115211604/http://www.jamieleethurston.com/bio.php |archivedate=January 15, 2013 }}</ref> In 2013, Thurston appeared on [[Game Show Network]]'s ''[[Family Trade]]'' to compose a jingle for G. Stone Motors in exchange for a new truck.<ref name="Family Trade">{{cite episode|series=Family Trade|network=[[Game Show Network]]|date=April 16, 2013|season=1|number=8}}</ref> The jingle, "We Trade for Anything" was also used as the show's opening credits theme music.<ref name="Family Trade"/>
+
+Thurston's life is the basis of a screenplay co-written by Tim Rhys, the founder of ''[[MovieMaker]]'' magazine.
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:20em;"| Title
+! style="width:12em;"| Album details
+|- 
+! scope="row"| ''I Just Wanna Do My Thing''
+| 
+* Release date: 2009
+* Label: CD Baby
+* Format: CD
+|- 
+! scope="row"| ''Where's an Outlaw When You Need One''
+| 
+* Release date: 2010
+* Label: Snakebit
+* Format: CD
+|- 
+! scope="row"| ''The Stayin Kind''
+| 
+* Release date: 2012
+* Label: CD Baby
+* Format: CD
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:12em;"| Single
+! colspan="1"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]
+|- 
+| 2003
+! scope="row"| "It Can All Be Gone"
+| 59
+| ''I Just Wanna Do My Thing''
+|-
+| 2006
+! scope="row"|"God Bless the Children" {{small|(with Wayne Warner and the Nashville All-Star Choir)}}<ref>{{cite web | url=http://www.waynewarner.com/photos/gbtc/choir.html | title=Nashville All Star Choir | work=Wayne Warner | accessdate=November 28, 2019}}</ref>
+| —
+| ''Turbo Twang'n''
+|-
+| rowspan="2"| 2007
+! scope="row"| "People Out There"
+| —
+| rowspan=2|''I Just Wanna Do My Thing''
+|-
+! scope="row"| "Dear God"
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;"| Video
+|- 
+| 2003
+! scope="row"| "It Can All Be Gone"
+|-
+| 2009
+! scope="row"| "Dance Around The Truth"
+|-
+| 2017
+! scope="row"| "Givin' Up Breathin'"
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.jamieleethurston.com/ Official website]
+
+{{authority control}}
+
+{{DEFAULTSORT:Thurston, Jamie Lee}}
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Living people]]
+[[Category:Singers from Vermont]]
+[[Category:People from Montpelier, Vermont]]
+[[Category:Warner Records artists]]
+[[Category:Year of birth missing (living people)]]

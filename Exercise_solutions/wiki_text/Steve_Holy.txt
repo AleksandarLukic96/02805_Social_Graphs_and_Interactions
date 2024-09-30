@@ -1,0 +1,353 @@
+{{short description|American country music singer|bot=PearBOT 5}}
+{{Infobox musical artist
+| image               = SH Pic 1.jpg
+| caption= Holy on the set of a music video shoot in 2006.
+| background          = solo_singer
+| birth_name          = Stephen Kyle Holy
+| birth_date          = {{birth date and age|1972|02|23}}
+| origin              = [[Dallas, Texas]], U.S.
+| instrument          = Vocals
+| genre               = [[country music|Country]]
+| occupation          = Singer
+| years_active        = 1999–present
+| label               = [[Curb Records|Curb]], Thrill Hill
+| website             = {{URL|steveholy.com}}
+| associated_acts     = 
+}}
+'''Stephen Kyle Holy''' (born February 23, 1972) is an American [[country music]] singer. Signed to [[Curb Records]] since 1999, he has released three studio albums: 2000's ''[[Blue Moon (Steve Holy album)|Blue Moon]]'', 2006's ''[[Brand New Girlfriend]]'', and 2011's ''[[Love Don't Run]]''. Fifteen of his singles have entered the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] charts, including the Number One hits "[[Good Morning Beautiful (song)|Good Morning Beautiful]]" (which was featured in the movie ''[[Angel Eyes (film)|Angel Eyes]]'') and "[[Brand New Girlfriend (song)|Brand New Girlfriend]]".
+
+==Career==
+===Early life===
+Steve  was born February 23, 1972, in [[Dallas, Texas]], as the youngest of eight children.<ref name="allmusic">{{cite web |url={{AllMusic|class=artist|id=p384504|pure_url=yes}} |title=Steve Holy biography |accessdate=2008-06-29 |last=Johnson |first=Zac |work=[[Allmusic]]}}</ref> He entered a local competition called the Mesquite Opry at age 19. While there, he caught the attention of Wilbur Rimes, the father of country singer [[LeAnn Rimes]]. By 1999, Holy was signed to [[Curb Records]].  His musical influences include [[Elvis Presley]], [[Roy Orbison]] and [[Lionel Richie]].
+
+===1999-2002: ''Blue Moon''===
+His first single for the label, Don't Make Me Beg, peaked at No.&nbsp;29 on the ''[[Billboard (magazine)|Billboard]]'' country charts in 2000. By October of that year, Holy's debut album, ''[[Blue Moon (Steve Holy album)|Blue Moon]]'', was released.<ref name="allmusic"/> Its second and third singles, which were [[Blue Moon (Steve Holy song)|the title track]] and "The Hunger", respectively, both reached No.&nbsp;24 on the country charts.<ref name="cmt">{{cite web|url=http://www.cmt.com/news/country-music/1539426/holy-resurfaces-with-brand-new-girlfriend.jhtml|archive-url=https://web.archive.org/web/20090927183747/http://www.cmt.com/news/country-music/1539426/holy-resurfaces-with-brand-new-girlfriend.jhtml|url-status=dead|archive-date=September 27, 2009|title=Holy resurfaces with "Brand New Girlfriend"|last=Morris|first=Edward|date=25 August 2006|work=[[Country Music Television|CMT]]|accessdate=13 April 2010}}</ref>
+
+Late in 2001, Holy reached Number One for the first time with "[[Good Morning Beautiful (song)|Good Morning Beautiful]],"<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=192|isbn=978-0-89820-177-2}}</ref> a selection from the soundtrack to the film ''[[Angel Eyes (film)|Angel Eyes]]''. This song spent five weeks at Number One on the country charts and reached No.&nbsp;29 on the [[Billboard Hot 100|''Billboard'' Hot 100]].<ref name="whitburn"/> Blue Moon eventually went [[Gold certification|Gold]] nine years after its release in February 2009.
+
+===2002–2010: Non-album singles and ''Brand New Girlfriend''===
+Holy released his fifth single, "I'm Not Breakin'," in late 2002. This song peaked at No.&nbsp;27 on the country music charts.<ref name="whitburn"/> This was followed by four more singles over the next two years: "Rock-a-Bye Heart" at No.&nbsp;37 in 2003, "Put Your Best Dress On" at No.&nbsp;26 in 2004, "Go Home" and "It's My Time (Waste It If I Want To)" at No.&nbsp;49 and No.&nbsp;59, respectively, in 2005.<ref name="whitburn"/> None of these five singles were included on a studio album.<ref name="cmt"/>
+
+In 2005, Holy released "[[Brand New Girlfriend (song)|Brand New Girlfriend]]," co-written by [[Jeffrey Steele]], [[Shane Minor]] and Bart Allmand. This song became Holy's second and to date final Number One on the country charts, and his first since “[[Good Morning Beautiful (song)|Good Morning Beautiful]]” in 2002, reaching the top of the charts in its 36th week and setting a record for the slowest climb to Number One on that chart since the inception of [[Nielsen SoundScan]] in 1990.<ref>[https://web.archive.org/web/20070929173748/http://www.billboard.com/bbcom/chart_beat/bonus_display.jsp?vnu_content_id=1003122345 Chart Beat<!-- Bot generated title -->]</ref> (This record was broken one year later by [[Tracy Lawrence]], whose "[[Find Out Who Your Friends Are]]" reached Number One in its forty-first chart week.) "Brand New Girlfriend" was the lead-off single to Holy's second studio album, also entitled ''[[Brand New Girlfriend]]''. This album also produced the lesser Top 40 country hits "Come On Rain" and "Men Buy the Drinks (Girls Call the Shots)" at No.&nbsp;35 and No.&nbsp;38.<ref name="whitburn"/> Also included on the album were a [[cover version]] of [[Hank Williams, Jr.]]'s "[[All for the Love of Sunshine]]" and a song co-written by [[United States Senator]] [[Orrin Hatch]].<ref name="cmt"/>
+
+A thirteenth single, "Might Have Been", was released in mid-2008 and on the chart week of December 27, 2008, debuted at No.&nbsp;60 on the Hot Country Songs chart.
+
+===2011–present: ''Love Don't Run''===
+In February 2011 Holy released "[[Love Don't Run (song)|Love Don't Run]]". The song became his first Top 20 hit on the country charts since "Brand New Girlfriend" in 2006. Holy's third studio album, also entitled ''[[Love Don't Run]]'', was released on September 13, 2011.  In 2012, Holy released "Radio Up" written by [[Ben Glover]] and Bruce Wallace.  In 2013, he parted ways with Curb Records.
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:12em;"| Title
+! rowspan="2" style="width:20em;"| Album details
+! colspan="3"| Peak chart positions
+! scope="col" rowspan="2" style="width:8em;"| [[List of music recording certifications|Certifications]]<br><small>([[List of best selling music artists|sales threshold]])</small>
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]<br><ref name="Country Albums">{{cite magazine|url={{BillboardURLbyName|artist=steve holy|chart=Country Albums C}}|title=Steve Holy Album & Song Chart History - Country Albums|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=December 11, 2010}}</ref>
+! width="45"| [[Billboard 200|US]]<br><ref name="Billboard 200">{{cite magazine|url={{BillboardURLbyName|artist=steve holy|chart=Billboard 200}}|title=Steve Holy Album & Song Chart History - Billboard 200|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=December 11, 2010}}</ref>
+! width="45"| [[Top Heatseekers|US<br>Heat]]
+|-
+! scope="row"| ''[[Blue Moon (Steve Holy album)|Blue Moon]]''
+| 
+* Release date: October 10, 2000
+* Label: [[Curb Records]]
+* Formats: [[Compact disc|CD]], [[Compact cassette|cassette]]
+| 7
+| 63
+| 1
+| 
+* [[Recording Industry Association of America|US]]: Gold{{Certification Cite Ref|region=United States|type=album|title=Blue Moon|artist=Steve Holy}}
+|-
+! scope="row"| ''[[Brand New Girlfriend]]''
+| 
+* Release date: August 8, 2006
+* Label: Curb Records
+* Formats: CD, [[music download]]
+| 2
+| 19
+| —
+| 
+|-
+! scope="row"| ''[[Love Don't Run]]''
+| 
+* Release date: September 13, 2011
+* Label: Curb Records
+* Formats: CD, music download
+| 30
+| 135
+| —
+| 
+|-
+! scope="row"| ''A Christmas to Remember''<ref>{{Cite web|url=https://music.apple.com/us/album/a-christmas-to-remember/1588238671|title=Steve Holy - A Christmas to Remember |publisher=[[Apple Music]] |accessdate= November 30, 2021}}</ref>
+| 
+* Release date: October 22, 2021
+* Label: Thrill Hill Records
+* Formats: CD, music download
+| —
+| —
+| —
+| 
+|-
+| colspan="6" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Compilation albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:20em;"| Album details
+|-
+! scope="row"| ''Best of Steve Holy''
+| 
+* Release date: February 11, 2014
+* Label: Curb Records
+* Formats: CD, music download
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Single
+! colspan="5"| Peak chart positions
+! rowspan="2" style="width:8em;"| [[Music recording sales certification|Certifications]]<br/><small>([[List of best selling music artists|sales threshold]])</small> 
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<br><ref name="Country Songs">{{cite magazine|url={{BillboardURLbyName|artist=steve holy|chart=Country Songs}}|title=Steve Holy Album & Song Chart History - Country Songs|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=December 11, 2010}}</ref>
+! width="45"| [[Country Airplay|US Country Airplay]]<br><ref name="Country Airplay">{{cite magazine|url={{BillboardURLbyName|artist=steve holy|chart=Country Airplay}}|title=Steve Holy Album & Song Chart History - Country Airplay|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=November 8, 2012}}</ref>
+! width="45"| [[Billboard Hot 100|US]]<br><ref>{{cite magazine|url={{BillboardURLbyName|artist=steve holy|chart=Hot 100}}|title=Steve Holy Album & Song Chart History - Hot 100|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=December 11, 2010}}</ref>
+! width="45"| [[Pop 100|US<br>Pop]]
+! width="45"| [[RPM (magazine)|CAN Country]]<br><ref>{{cite web|url=http://www.collectionscanada.gc.ca/rpm/028020-110.01-e.php?PHPSESSID=a0194ejsp8171jcmg3fs467sd7&q1=steve+holy&q2=Country+Singles&interval=20|title=Results - RPM - Library and Archives Canada - Country Singles|work=[[RPM (magazine)|RPM]]|accessdate=December 11, 2010}}</ref><ref>{{cite magazine|url=https://www.billboard.com/artist/steve-holy/chart-history/ccw/|title=Steve Holy Album & Song Chart History - Canada Country|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=November 8, 2012}}</ref>
+|-
+| 1999
+! scope="row"| "Don't Make Me Beg"
+| 29
+| —
+| —
+| —
+| 36
+| 
+| align="left" rowspan="4"| ''Blue Moon''
+|-
+| 2000
+! scope="row"| "[[Blue Moon (Steve Holy song)|Blue Moon]]"
+| 24
+| —
+| —<sup>A</sup>
+| —
+| 47
+| 
+|-
+| rowspan="2"| 2001
+! scope="row"| "The Hunger"
+| 24
+| —
+| —
+| —
+| *
+| 
+|-
+! scope="row"| "[[Good Morning Beautiful (song)|Good Morning Beautiful]]"
+| 1
+| —
+| 29
+| —
+| * 
+|
+* [[Recording Industry Association of America|US]]: Gold{{Certification Cite Ref|region=United States|type=single|title=Good Morning Beautiful|artist=Steve Holy}} 
+|-
+| 2002
+! scope="row"| "I'm Not Breakin'"
+| 27
+| —
+| —
+| —
+| *
+| 
+| rowspan="5" {{n/a}}
+|-
+| 2003
+! scope="row"| "Rock-a-Bye Heart"
+| 37
+| —
+| —
+| —
+| *
+| 
+|-
+| 2004
+! scope="row"| "Put Your Best Dress On"
+| 26
+| —
+| —
+| —
+| —
+| 
+|-
+| rowspan="2"| 2005
+! scope="row"| "Go Home"
+| 49
+| —
+| —
+| —
+| —
+| 
+|-
+! scope="row"| "It's My Time (Waste It If I Want To)"
+| 59
+| —
+| —
+| —
+| —
+| 
+|-
+| rowspan="2"| 2006
+! scope="row"| "[[Brand New Girlfriend (song)|Brand New Girlfriend]]"
+| 1
+| —
+| 40
+| 60
+| 6
+| 
+* [[Recording Industry Association of America|US]]: Gold{{Certification Cite Ref|region=United States|type=single|title=Brand New Girlfriend|artist=Steve Holy}}
+| align="left" rowspan="3"| ''Brand New Girlfriend''
+|-
+! scope="row"| "Come On Rain"
+| 35
+| —
+| —
+| —
+| —
+| 
+|-
+| 2007
+! scope="row"| "Men Buy the Drinks (Girls Call the Shots)"
+| 38
+| —
+| —
+| —
+| —
+| 
+|-
+| 2008
+! scope="row"| "Might Have Been"
+| 56
+| —
+| —
+| —
+| —
+| 
+| {{n/a}}
+|-
+| 2009
+! scope="row"| "Baby Don't Go"
+| —
+| —
+| —
+| —
+| —
+| 
+| align="left"| ''Brand New Girlfriend''
+|-
+| rowspan="2"| 2011
+! scope="row"| "[[Love Don't Run (song)|Love Don't Run]]"
+| 19
+| —
+| 78
+| —
+| —
+| 
+| align="left" rowspan="3"| ''Love Don't Run''
+|-
+! scope="row"| "Until the Rain Stops"
+| 57
+| —
+| —
+| —
+| —
+| 
+|-
+| 2012
+! scope="row"| "Hauled Off and Kissed Me"
+| 55
+| 55
+| —
+| —
+| —
+| 
+|-
+| 2013
+! scope="row"| "Radio Up"
+| —
+| —
+| —
+| —
+| —
+| 
+| align="left"| ''Best of Steve Holy''
+|-
+| colspan="9" style="font-size:8pt"| "—" denotes releases that did not chart<br>* denotes unknown peak positions
+|-
+|}
+*<sup>A</sup>"Blue Moon" did not enter the Hot 100, but peaked at number 20 on [[Bubbling Under Hot 100 Singles]].<ref name="whitburn"/>
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:20em;"| Video
+! Director
+|-
+| 1999
+! scope="row"| "Don't Make Me Beg"
+| rowspan="2"| [[Sherman Halsey]]
+|-
+| rowspan="2"| 2000
+! scope="row"| "Blue Moon"
+|-
+! scope="row"| "The Hunger"
+| chris rogers{{sic}}
+|-
+| 2001
+! scope="row"| "Good Morning Beautiful"
+| David Abbott<ref>{{cite web|url=http://www.cmt.com/videos/steve-holy/388236/good-morning-beautiful.jhtml|archive-url=https://web.archive.org/web/20121023233512/http://www.cmt.com/videos/steve-holy/388236/good-morning-beautiful.jhtml|url-status=dead|archive-date=October 23, 2012|title=CMT : Videos : Steve Holy : Good Morning Beautiful|publisher=[[Country Music Television]]|accessdate=July 11, 2011}}</ref>
+|-
+| 2003
+! scope="row"| "Rock-a-Bye Heart"
+|
+|-
+| 2004
+! scope="row"| "Put Your Best Dress On"
+| [[Deaton-Flanigen Productions|Deaton Flanigen]]
+|-
+| 2006
+! scope="row"| "Brand New Girlfriend"
+| rowspan="2"| Eric Welch
+|-
+| 2011
+! scope="row"| "Love Don't Run"
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{official website|http://www.steveholy.com/}}
+
+{{Steve Holy}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Holy, Steve}}
+[[Category:1972 births]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Curb Records artists]]
+[[Category:Living people]]
+[[Category:Singers from Dallas]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:Country musicians from Texas]]
+[[Category:21st-century American male singers]]

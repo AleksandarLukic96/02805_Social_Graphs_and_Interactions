@@ -1,0 +1,106 @@
+{{Use mdy dates|date=January 2020}}
+{{Infobox musical artist | <!-- See Wikipedia:WikiProject Musicians -->
+|image= 
+| name            = Melanie Laine
+| background      = solo_singer
+| birth_name      = Melanie Laine Wunsch
+| alias           = 
+| birth_date            = {{birth date and age|1975|11|30}}
+| death_date            = 
+| origin          = [[Saskatoon]], Saskatchewan, Canada
+| Instruments     = 
+| genre           = [[Country music|Country]]
+| occupation      = Singer
+| years_active    = 2002 &ndash; Present
+| label           = [[Royalty Records]] |
+| associated_acts = |
+| website             = [http://www.melanielaine.com/ www.melanielaine.com] |
+}}
+
+'''Melanie Laine''' is a [[country music]] singer from [[Saskatoon]], Saskatchewan, Canada, best known for her cover of [[Juice Newton]]'s "[[Queen of Hearts (Hank DeVito song)|Queen Of Hearts]]." Her first album, ''[[Time Flies (Melanie Laine album)|Time Flies]]'', was released in 2005.
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders"
+|-
+! style="width:8em;"| Title
+! style="width:16em;"| Details
+|-
+! scope="row"| ''[[Time Flies (Melanie Laine album)|Time Flies]]''
+| 
+* Release date: July 26, 2005
+* Label: [[Royalty Records]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Canada Country|CAN Country]]<br><ref>{{cite journal|url=https://www.americanradiohistory.com/Archive-RandR/2000s/2005/RR-2005-03-31.pdf|title=R&R Canada Country Top 30|journal=Radio & Records|pages=41|date=March 31, 2006}}</ref>
+|-
+| rowspan="2"| 2002
+! scope="row"| "Time Flies"
+| —
+| rowspan="7"| ''Time Flies''
+|-
+! scope="row"| "Jump Right In"
+| —
+|-
+| rowspan="2"| 2005
+! scope="row"| "If Love Is a Weakness"
+| —
+|-
+! scope="row"| "Is Goodbye the Best You Can Do"
+| —
+|-
+| rowspan="2"| 2006
+! scope="row"| "[[Queen of Hearts (Hank DeVito song)|Queen of Hearts]]"
+| 16
+|-
+! scope="row"| "One Night at Home"
+| —
+|-
+| 2007
+! scope="row"| "Til Love Makes Up Its Mind"
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:18em;"| Video
+! Director
+|-
+| 2005
+! scope="row"| "If Love Is a Weakness"
+| rowspan="2"| Antonio Hrynchuk
+|-
+| 2006
+! scope="row"| "Queen of Hearts"
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.melanielaine.com/ Official Site]
+*[http://www.countrymusicnews.ca/news.ihtml?step=2&article_id=1146 Biography at countrymusicnews.ca]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Laine, Melanie}}
+[[Category:1975 births]]
+[[Category:Canadian women country singers]]
+[[Category:Living people]]
+[[Category:Musicians from Saskatoon]]
+[[Category:21st-century Canadian women singers]]
+[[Category:Singers from Saskatchewan]]
+
+
+{{Canada-singer-stub}}

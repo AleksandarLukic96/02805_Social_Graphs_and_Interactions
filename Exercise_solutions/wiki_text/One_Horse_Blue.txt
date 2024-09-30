@@ -1,0 +1,190 @@
+{{Short description|Canadian country rock music group}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = One Horse Blue
+| image                 = 
+| caption            = 
+| image_size            = 
+| background          = group_or_band
+| origin              = [[Drayton Valley]], [[Alberta]], [[Canada]]
+| years_active        = 1975–1981, 1988–1995
+| label               = [[Vera Cruz Records|Vera Cruz]]<br>[[Savannah Records|Savannah]]
+| associated_acts     = [[Mavis McCauley]]<br>[[Wes Dakus]]<br>[[Fosterchild]]
+| past_members        = Winston Quelch<br>Bob Burghardt<br>Randy Lloyd<br>Michael Shellard<br>Ian Oscar<br>Ron (Rocko) Vaugeois<br>Steve Pugsley<br>Brent MacNab<br>James Wright<br>Gord Maxwell<br>Larry Pink<br>[[Jim Foster (musician)|Jim Foster]]<br>Greg Dunstan<br>Andreas Schuld<br><ref name="Canadian Bands">Dan Brisebois, with notes from Mavis McCauley, Ian Oscar, Alexis Schuld, Stan Twist and David Young. [http://www.canadianbands.com/One%20Horse%20Blue.html Biography of One Horse Blue]; www.canadianbands.com.  Retrieved 2012-06-12.</ref>
+}}
+'''One Horse Blue''' was a Canadian [[country rock]] music group that existed from 1975 to 1981 and, as reconstituted, from 1988 to 1995, releasing five albums.
+
+==History==
+
+The band first formed as Pickens in 1975 in [[Edmonton, Alberta]], with members Winston Quelch (guitar), Bob Burghardt (guitar), bassist Randy Lloyd and drummer Ron (Rocko) Vaugeois. In 1977, the band asked Ian Oscar of Stash to join on vocals. When Oscar joined, the band changed their name to One Horse Blue after the 1974 [[Poco (band)|Poco]] song from the album ''[[Cantamos]]''. Guitarist Michael Shellard came on board shortly after, and the band began touring across Canada. In 1978 they linked up again with producer Wes Dakus who had assisted on an earlier Pickens single; Dakus took the band into [[Sundown Recorders]] to cut their first album, ''One Horse Blue'' on Vera Cruz Records, with the lead single "Deliver Me".<ref name="Canadian Bands"/> They charted several singles on the ''[[RPM (magazine)|RPM]]'' Top Country Tracks charts and recorded four albums before disbanding in 1981.<ref name="allmusic">{{cite web |url={{AllMusic|class=artist|id=p168464/biography|pure_url=yes}} |title=One Horse Blue biography |accessdate=2008-10-14 |last=Bush |first=John |work=[[Allmusic]]}}</ref>
+
+By 1988, Shellard and Vaugeois had reformed the band, with new members Gordon Maxwell and Larry Pink, as well as Andreas Schuld taking over on guitar. This line-up recorded the band's fifth, self-titled album, released in 1993.  The album produced six Top 10 singles, including two Number One hits in "[[Hopeless Love]]" and "[[Bringing Back Your Love]]". In 1993 Schuld left the band and was replaced by  [[Jim Foster (musician)|Jim Foster]], co-founder of [[Fosterchild]].<ref name="canoe">{{cite web |url=http://jam.canoe.ca/Music/Pop_Encyclopedia/O/One_Horse_Blue.html |archive-url=https://archive.today/20130115083201/http://jam.canoe.ca/Music/Pop_Encyclopedia/O/One_Horse_Blue.html |url-status=usurped |archive-date=January 15, 2013 |title=One Horse Blue |accessdate=2008-10-14 |work=Canoe - JAM! Music}}</ref>
+
+In terms of later, occasional performances, the band was recently composed of Gord Maxwell ([[lead vocals]], [[bass guitar]]), Larry Pink ([[Keyboard instrument|keyboards]]), Michael Shellard ([[background vocals]], and Ron (Rocko) Vaugeois ([[drums]], background vocals).
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2" style="width:10em;"| Title
+! rowspan="2" style="width:16em;"| Details
+! colspan="2"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! width="45"| [[RPM (magazine)|CAN Country]]
+! width="45"| [[RPM (magazine)|CAN]]
+|-
+! scope="row"| ''One Horse Blue''
+|
+* Release date: 1978
+* Label: [[Vera Cruz Records]]
+| —
+| 77
+|-
+! scope="row"| ''Bite the Bullet''
+|
+* Release date: 1980
+* Label: Vera Cruz Records
+| —
+| —
+|-
+! scope="row"| ''Livin' on the Edge''
+|
+* Release date: 1981
+* Label: Vera Cruz Records
+| —
+| —
+|-
+! scope="row"| ''On the Street''
+|
+* Release date: 1982
+* Label: Vera Cruz Records
+| —
+| —
+|-
+! scope="row"| ''[[One Horse Blue (1993 album)|One Horse Blue]]'' 
+|
+* Release date: 1993
+* Label: [[Savannah Records]]
+| 4
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[RPM (magazine)|CAN Country]]
+! width="45"| [[RPM (magazine)|CAN]]
+|-
+| rowspan="3"| 1978
+! scope="row"| "Deliver Me"
+| —
+| —
+| align="left" rowspan="3"| ''One Horse Blue'' <small>(1978)</small>
+|-
+! scope="row"| "Cry Out for the Sun"
+| —
+| 68
+|-
+! scope="row"| "You and I"
+| —
+| —
+|-
+| 1979
+! scope="row"| "Bring My Love Around"
+| —
+| —
+| align="left" rowspan="4"| ''Bite the Bullet'' 
+|-
+| rowspan="3"| 1980
+! scope="row"| "Some Women"
+| —
+| —
+|-
+! scope="row"| "Crazy Fool"
+| —
+| 83
+|-
+! scope="row"| "Lost and Found"
+| —
+| —
+|-
+| rowspan="2"| 1981
+! scope="row"| "Some Night"
+| —
+| —
+| align="left" rowspan="2"| ''Livin' on the Edge''
+|-
+! scope="row"| "Livin' on the Edge"
+| —
+| —
+|-
+| rowspan="2"| 1990
+! scope="row"| "The Man Walks Alone"
+| 31
+| —
+| align="left" rowspan="8"| ''One Horse Blue'' <small>(1993)</small>
+|-
+! scope="row"| "Colours of Love"
+| 67
+| —
+|-
+| rowspan="2"| 1993
+! scope="row"| "[[Starting All Over Again (One Horse Blue song)|Starting All Over Again]]"
+| 7
+| —
+|-
+! scope="row"| "[[Love's Looking for Me]]"
+| 10
+| —
+|-
+| rowspan="3"| 1994
+! scope="row"| "[[Baby Don't Cry (One Horse Blue song)|Baby Don't Cry]]"
+| 6
+| —
+|-
+! scope="row"| "Everything Money Can Buy"
+| 14
+| —
+|-
+! scope="row"| "[[Hopeless Love]]"
+| 1
+| —
+|-
+| 1995
+! scope="row"| "[[Bringing Back Your Love]]"
+| 1
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:14em;"| Single
+|-
+| 1995
+! scope="row"| "Hopeless Love"
+|-
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://canadianbands.com/artists/one-horse-blue/ Article at canadianbands.com]
+* {{IMDb title|qid=Q12124703}} Played on the soundtrack of the 1992 movie "[[Harmony Cats]]"
+
+{{One Horse Blue}}
+{{Authority control}}
+
+[[Category:Canadian country music groups]]
+[[Category:Musical groups established in 1977]]
+[[Category:Musical groups disestablished in 1995]]

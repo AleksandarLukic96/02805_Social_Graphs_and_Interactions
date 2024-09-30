@@ -1,0 +1,130 @@
+{{Short description|US musical group}}
+{{Infobox musical artist
+| name            = Frazier River
+| image           = Frazier River.JPG
+| caption         = Frazier River, 1996.
+| image_size      =
+| origin          = [[Cincinnati, Ohio]], United States
+| genre           = [[Country music|Country]]
+| years_active    = 1991–1996
+| label           = [[Decca Records|Decca Nashville]]
+| associated_acts = Danny Frazier Band, [[Mark Wright (record producer)|Mark Wright]]
+| website         =
+| past_members    = Danny Frazier<br />Chuck Adair<br />Greg Amburgy<br />Brian "Gigs" Baverman<br />Jim Morris<br />Bob Wilson
+}}
+'''Frazier River''' was an American [[country music]] group formed in [[Cincinnati, Ohio]] in 1991 and disbanded in 1996. The group consisted of lead singer Danny Frazier and five musicians, Chuck Adair, Greg Amburgy, Brian "Gigs" Baverman, Jim Morris and Bob Wilson. Frazier River recorded one album for [[Decca Records]] Nashville and released three [[single (music)|single]]s, two of which charted on the ''[[Billboard (magazine)|Billboard]]'' Hot Country Singles & Tracks (now [[Hot Country Songs]]) charts.
+
+==History==
+Frazier River was founded in 1991 in [[Cincinnati, Ohio]] by Danny Frazier ([[lead vocals]], [[guitar]]), Chuck Adair (guitar), Greg Amburgy ([[Keyboard instrument|keyboards]], guitars, [[background vocals]]), Brian "Gigs" Baverman ([[drum kit|drums]]), Jim Morris ([[Keyboard instrument|keyboards]], background vocals) and Bob Wilson (background vocals, [[bass guitar]]).<ref>{{cite web |url={{AllMusic|class=artist|id=p173317/biography|pure_url=yes}} |title=Frazier River biography |accessdate=2008-07-16 |last= Bush |first= John |work=[[Allmusic]]}}</ref> They signed to [[Decca Records]] Nashville in 1996 and released a self-titled debut album for the label. This album produced two chart singles on the ''[[Billboard (magazine)|Billboard]]'' country charts: "She Got What She Deserves" at number 57 and "Tangled Up in Texas" at number 67. ''[[Country Standard Time]]'' critic Robert Loy gave a mostly favorable review of the album, comparing Frazier's "almost operatic" voice to that of [[Gary Morris]] and saying that his "voice even rescues lesser songs" on the album. He cited "Last Request" and "Heaven Is Smiling" as standout tracks.<ref name="cst">{{cite web|url=http://www.countrystandardtime.com/d/cdreview.asp?xid=1041|title=''Frazier River'' review|last=Loy|first=Robert|work=Country Standard Time|accessdate=2009-08-26}}</ref> After Frazier River disbanded, Frazier, Morris and Baverman founded a second band called the Danny Frazier Band, with Chris Goins and Jerry Owen.
+
+
+==''Frazier River'' (1996)==
+{{Infobox album
+| italic_title = no
+| name         = Frazier River
+| type         = studio
+| artist       = Frazier River
+| cover        = frazierriver.jpg
+| alt          =
+| released     = {{Start date|1996|02|27}}
+| recorded     = 1995
+| venue        =
+| studio       = *[[Javelina Studios|Javelina]] (Nashville, Tennessee)
+*[[Woodland Sound Studios|Woodland]] (Nashville, Tennessee)
+| genre        = Country
+| length       = 35:26
+| label        = Decca Nashville
+| producer     = [[Mark Wright (record producer)|Mark Wright]]
+| prev_title   =
+| prev_year    =
+| next_title   =
+| next_year    =
+}}
+
+===Track listing===
+#"Everything About You" (Jim Daddario, Greg Barnhill) – 4:32
+#"That's Why I'm Here" (Bill Luther) – 3:26
+#"Money Don't Make People" ([[Ronnie Rogers]], [[Mark Wright (record producer)|Mark Wright]]) – 2:38
+#"She Got What She Deserves" (Jenny Yates, Bobby Fischer, [[Charlie Black]]) – 2:58
+#"Last Request" (Mark Alan Springer, [[A. J. Masters]]) – 3:42
+#"I Don't Want to See You Again" (Jackson Leap) – 3:37
+#"Tangled Up in Texas" ([[Dennis Morgan (songwriter)|Dennis Morgan]], [[Billy Burnette]], Larry Henley) – 3:28
+#"Birmingham Steel" ([[John Brannen (singer)|John Brannen]], Alex Harvey) - 3:10
+#"Heaven Is Smiling" (Rick Crawford, Brian Tankersley, Morgan Cryer) – 4:12
+#"It Won't Bring Her Back" ([[Jimmy Webb]]) – 3:43
+
+===Personnel===
+
+====Frazier River====
+*Chuck Adair – [[guitar]]s
+*Greg Amburgy – [[background vocals]], [[Keyboard instrument|keyboards]], guitars
+*Brian "Gigs" Baverman – [[drums]]
+*Danny Frazier – [[lead vocals]], guitars
+*Jim Morris – background vocals, keyboards
+*Bob Wilson – background vocals, [[bass guitar]]
+
+====Additional musicians====
+*Bruce Bouton – [[steel guitar]]
+*[[J. T. Corenflos]] – guitars
+*[[Chad Cromwell]] – drums
+*B. James Lowry – guitars
+*Duncan Mullins – bass guitar
+*Steve Nathan – keyboards
+*[[Brent Rowan]] – guitars
+*[[Biff Watson]] – guitars
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:16em;"| Single
+! colspan="2"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="3"| 1996
+! scope="row"| "She Got What She Deserves"
+| 57
+| 60
+|-
+! scope="row"| "Tangled Up in Texas"
+| 67
+| 84
+|-
+! scope="row"| "Last Request"<ref>{{cite magazine|url=http://americanradiohistory.com/Archive-Billboard/90s/1996/BB-1996-09-21.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|date=September 21, 1996}}</ref>
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:16em;"| Video
+! Director
+|-
+| rowspan="2"| 1996
+! scope="row"| "Tangled Up in Texas"
+| 
+|-
+! scope="row"| "Last Request"<ref>{{cite web|url=http://www.cmt.com/videos/frazier-river/385092/last-request.jhtml|archive-url=https://web.archive.org/web/20121024011228/http://www.cmt.com/videos/frazier-river/385092/last-request.jhtml|url-status=dead|archive-date=October 24, 2012|title=CMT : Videos : Frazier River : Last Request|publisher=[[Country Music Television]]|accessdate=August 5, 2011}}</ref>
+| Charley Randazzo
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.dannyfrazierband.com/home.html Danny Frazier]
+
+{{Authority control}}
+
+[[Category:American country music groups]]
+[[Category:Musical groups established in 1991]]
+[[Category:Musical groups from Cincinnati]]
+[[Category:Decca Records artists]]
+[[Category:Musical groups disestablished in 1996]]
+[[Category:1991 establishments in Ohio]]

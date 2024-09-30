@@ -1,0 +1,293 @@
+{{short description|New Zealand international rugby league and England international rugby union footballer}}
+{{other uses}}
+{{Use dmy dates|date=March 2020}}
+{{Infobox rugby league biography
+|name            = Henry Paul
+|image           = Paul against Leeds.jpg
+|fullname        = Henry Rangi Paul
+|birth_date      = {{birth date and age|1974|2|10|df=y}}
+|birth_place     = [[Tokoroa, New Zealand]]
+|height          = {{convert|5|ft|11|in|m|abbr=on}}
+|weight          = {{convert|15|st|3|lb|kg|abbr=on}}
+|position        = {{rlp|SO|LF}}
+|club1           = [[Te Atatu Roosters]]
+|year1start = 
+|year1end = 
+|appearances1 = 
+|tries1 = 
+|goals1 = 
+|fieldgoals1 = 
+|points1 = 
+|club2 = {{nowrap|[[Waitakere City Raiders]]}}
+|year2start = 
+|year2end = 
+|appearances2 = 
+|tries2 = 
+|goals2 = 
+|fieldgoals2 = 
+|points2 = 
+|club3 = [[Wakefield Trinity]]
+|year3start = 1993
+|year3end = 94
+|appearances3 = 24
+|tries3 = 7
+|goals3 = 40
+|fieldgoals3 = 1
+|points3 = 109
+|club4 = [[Wigan Warriors|Wigan]]
+|year4start = 1994
+|year4end = 98
+|appearances4 = 147
+|tries4 = 78
+|goals4 = 119
+|fieldgoals4 = 0
+|points4 = 550
+|club5 = [[Bradford Bulls]]
+|year5start = 1999
+|year5end = 01
+|appearances5 = 100
+|tries5 = 32
+|goals5 = 416
+|fieldgoals5 = 7
+|points5 = 967
+|club6 = [[London Broncos#2006–2011: Harlequins Rugby League|Harlequins RL]]
+|year6start = 2006
+|year6end = 08
+|appearances6 = 66
+|tries6 = 10
+|goals6 = 105
+|fieldgoals6 = 2
+|points6 = 252
+|teamA = [[New Zealand national rugby league team|New Zealand]]
+|yearAstart = 1995
+|yearAend = 01
+|appearancesA = 24
+|triesA = 4
+|goalsA = 52
+|fieldgoalsA = 1
+|pointsA = 121
+|source = <ref name="Statistics at rugbyleagueproject.org">{{cite web|url=http://www.rugbyleagueproject.org/players/henry-paul/summary.html|title=Statistics at rugbyleagueproject.org|publisher=rugbyleagueproject.org|date=31 December 2017|access-date=1 January 2018}}</ref>
+|updated =
+|ru_position = [[Inside centre]]
+|ru_club1 = [[Bath Rugby|Bath]]
+|ru_year1start = 1996
+|ru_year1end = 
+|ru_appearances1 = 9
+|ru_tries1 = 5
+|ru_goals1 = 0
+|ru_fieldgoals1 = 0
+|ru_points1 = 25
+|ru_club2 = [[Gloucester RFC|Gloucester]]
+|ru_year2start = 2001
+|ru_year2end = 06
+|ru_appearances2 = 116
+|ru_tries2 = 20
+|ru_goals2 = 357
+|ru_fieldgoals2 = 2
+|ru_points2 = 802
+|ru_club3 = {{nowrap|[[Leeds Carnegie]]}}
+|ru_year3start = 2008
+|ru_year3end = 10
+|ru_appearances3 = 37
+|ru_tries3 = 2
+|ru_goals3 = 3
+|ru_fieldgoals3 = 16
+|ru_points3 = 16
+|ru_club4 = [[Rotherham R.U.F.C.|Rotherham]]
+|ru_year4start = 2010
+|ru_year4end = 11
+|ru_appearances4 = 5
+|ru_tries4 = 0
+|ru_goals4 = 0
+|ru_fieldgoals4 = 0
+|ru_points4 = 0
+|ru_teamA = [[England national rugby union team|England]]
+|ru_yearAstart = 2002
+|ru_yearAend = 04
+|ru_appearancesA = 6
+|ru_triesA = 0
+|ru_goalsA = 3
+|ru_fieldgoalsA = 0
+|ru_pointsA = 6
+|ru_teamB = {{nowrap|[[England national rugby sevens team|England sevens]]}}
+|ru_yearBstart = 
+|ru_yearBend = 
+|ru_appearancesB = 
+|ru_triesB = 
+|ru_goalsB = 
+|ru_fieldgoalsB = 
+|ru_pointsB = 
+| ru_coachteamA = {{nowrap|[[Canada national rugby sevens team|Canada 7s]]}}
+| ru_coachyearAstart = 2020
+| medaltemplates =
+{{MedalSport|Men's [[rugby sevens]]}}
+{{MedalCountry|{{ENG}}}}
+{{MedalCompetition|[[Commonwealth Games]]}}
+{{MedalSilver|[[2006 Commonwealth Games|2006 Melbourne]]|[[Rugby sevens at the 2006 Commonwealth Games|Team competition]]}}
+}}
+
+'''Henry Rangi Paul''' (born 10 February 1974) is a [[rugby union]] coach and former [[rugby league]] and rugby union player. A [[List of dual-code rugby internationals|dual-code international]], Paul won 24 caps for [[New Zealand national rugby league team|New Zealand]] in rugby league and 6 for [[England national rugby union team|England]] in rugby union, as well as [[England national rugby sevens team|rugby sevens]].<ref name="Statistics at rugbyleagueproject.org"/> Paul played as a [[Rugby league positions#Loose forward / Lock forward|loose forward]], [[Rugby league positions#Stand-off|stand-off]], {{rlp|fb}}, and occasionally as a {{rlp|hk}}, and as a [[Centre (rugby union)|centre]] and [[Fly-half (rugby union)|fly-half]] in rugby union. 
+
+He holds the record for kicking the most goals in a Super League season, with 178 for Bradford in 2001,<ref name="Darbyshire">{{Cite web|url=https://www.loverugbyleague.com/post/rugby-league-today-nrl-warms-to-folau-tomkins-excited-for-wane-reunion-disgusting-french-dummy/|title=Rugby League Today: NRL warms to Folau, Tomkins excited for Wane reunion & disgusting French dummy|last=Darbyshire|first=Drew|date=2020-03-09|website=Love Rugby League|language=en-GB|access-date=2020-03-11}}</ref> and the record for the most goals in a game, 14, for Bradford in 2000.<ref name="loverugbyleague.com">{{Cite web|url=https://www.loverugbyleague.com/post/rugby-league-today-melbourne-eye-mulhern-frayssinous-to-coach-ottawa-hardaker-puts-past-behind-him/|title=Rugby League Today: Melbourne eye Mulhern, Frayssinous to coach Ottawa & Hardaker puts past behind him|last=Darbyshire|first=Drew|date=2020-03-10|website=Love Rugby League|language=en-GB|access-date=2020-03-11}}</ref> He is the brother of former New Zealand rugby league international [[Robbie Hunter-Paul]].
+
+==Playing career==
+Born in [[Tokoroa]], New Zealand, Paul started playing rugby union at the age of three for [[Ponsonby Rugby Football Club]] and then rugby league for the [[Te Atatu Roosters]]. Later, during his time at [[Rutherford College, Auckland|Rutherford High School]] (1990), he led his team to break many Auckland club rugby league team and individual records. The following year, Paul moved to the [[Point Chevalier Pirates]].{{cn|date=February 2023}}
+
+In the 1992 season he returned to Te Atatū, debuting in their senior premier team at 18 years of age, making the [[Auckland Rugby League]] Finals. That off season, Paul was selected as a utility player for the under-19 Auckland side, playing a major part in his team winning the national tournament. Following that success, Paul was selected as the [[Junior Kiwis]] [[Captain (sports)|captain]] to tour England that same off season.
+
+Paul led by example when his team looked "out of sorts", guiding them to memorable victories against their Great Britain counterparts. His form was so inspiring that he earned full [[New Zealand national rugby league team|New Zealand]] representative honours on the same tour, when the senior team the (New Zealand Kiwis) hit an injury crisis on a [[1993 New Zealand rugby league tour of Great Britain and France|corresponding tour of Britain]]. Paul, at just 18 years of age, made his test début as a substitute against [[France national rugby league team|France]].
+
+===Wakefield Trinity===
+Paul's form on the Junior, and then subsequently New Zealand team tour, did not go unnoticed by scouts in [[England]] and in the off season of 1993/94 he joined [[Wakefield Trinity]] ([[List of Wakefield Trinity players|Heritage No. 1052]]) of the English [[Rugby Football League Championship]].<ref name="PAUL MAY BE BACK FOR MORE">{{cite web|url=http://www.sportinglife.com/rugbyleague/news/story_get.cgi?STORY_NAME=rleague/08/02/22/RUGBYL_Super_Nightlead.html|title=Paul May Be Back For More|publisher=Sportinglife|date=22 February 2008|access-date=22 February 2008}}</ref>
+
+===Return to New Zealand===
+He returned to New Zealand for the 1994 season, playing five matches for the [[Waitakere City Raiders]] in the new [[Lion Red Cup]]. He originally signed for the new [[New Zealand Warriors|Auckland Warriors]] club who were to enter the [[Australian Rugby League]] in 1995 but they released him as part of a deal that allowed [[Andy Platt]] to join Auckland from Wigan.
+
+===Wigan Warriors===
+{{Expand section|date=April 2012}}
+Paul joined [[Wigan Warriors]] for the [[1994–95 Rugby Football League season|1994–95 season]] and quickly established himself in the squad. At the end of [[Super League]]'s first season, he was named at stand-off half in the 1996 [[Super League Dream Team]]. He played at stand-off half back for [[Wigan Warriors]] in their [[1998 Super League Grand Final]] victory against [[Leeds Rhinos]].
+
+Paul played {{rlp|fb}} in Wigan's 40–10 victory over [[Warrington Wolves|Warrington]] in the [[1994–95 League Cup (rugby league)|1994–95 Regal Trophy]] final on 28 January 1995,<ref>{{cite web|url=http://wigan.rlfans.com/news.php?readmore=2931|title=28th January 1995: Warrington 10 Wigan 40 (Regal Trophy Final)|publisher=wigan.rlfans.com|date=31 December 2014|access-date=1 January 2015|archive-date=14 July 2014|archive-url=https://web.archive.org/web/20140714151036/http://wigan.rlfans.com/news.php?readmore=2931|url-status=dead}}</ref> and played {{rlp|so}}, and scored 2-[[Try (rugby)|tries]] and 4-[[Try (rugby)|conversions]] in the 25–16 victory over [[St Helens R.F.C.|St. Helens]] in the [[1995–96 League Cup (rugby league)|1995–96 Regal Trophy]] on 13 January 1996.<ref>{{cite web|url=http://wigan.rlfans.com/news.php?readmore=2976|title=13th January 1996: St Helens 16 Wigan 25 (Regal Trophy Final)|publisher=wigan.rlfans.com|date=31 December 2014|access-date=1 January 2015|archive-date=7 October 2018|archive-url=https://web.archive.org/web/20181007005311/http://wigan.rlfans.com/news.php?readmore=2976|url-status=dead}}</ref>
+
+===Bradford Bulls===
+In September 1998, at the end of his contract, he moved to the [[Bradford Bulls]].
+
+Paul played for [[Bradford Bulls]] at stand-off half back and scored his team's sole try and goal in the [[1999 Super League Grand Final]] which was lost to [[St Helens R.F.C.|St. Helens]]. Paul scored one of the most famous tries in Super League, running from 60 metres, scoring the first try of the 1999 Super League Grand Final with one boot.<ref>{{Cite tweet|number=1046027504660738048|title=That man was unstoppable – even with one boot! Henry Paul with a classic #GrandFinal try for @OfficialBullsRL in 1999 #DareToDreampic.twitter.com/9TI8rNVXfO|last=League|first=Betfred Super|date=29 September 2018|user=superleague|access-date=9 June 2019}}</ref>
+
+Paul was selected for the [[New Zealand national rugby league team|New Zealand]] team to compete in the end of season [[1999 Rugby League Tri-Nations]] tournament. In the final against [[Australia national rugby league team|Australia]] he partnered his brother Robbie in the halves, kicking six goals in the Kiwis' 22–20 loss. He helped beat his former club [[Wigan Warriors|Wigan]] in the [[2001 Super League Grand Final]]. When he was at Bradford he set a goalkicking record for consecutive goals (35), as well as for points in a season at the club.<ref name="Paul's conversion pays dividends">{{cite news|url=http://news.bbc.co.uk/sport1/hi/rugby_league/1457257.stm|title=Paul's conversion pays dividends|publisher=BBC|date=25 July 2001|access-date=22 February 2008}}</ref>{{failed verification|date=August 2022|reason=No mention of consecutive goals}}
+
+He won the [[Lance Todd Trophy]] for his performance in the [[2000 Challenge Cup]] victory over the [[Leeds Rhinos]].
+
+Paul played for the [[Bradford Bulls]] as his brother [[Robbie Paul|Robbie]]'s halves partner, kicking four goals and one [[drop goal]] in their [[2001 Super League Grand Final]] victory against the [[Wigan Warriors]].
+
+Paul still holds the record for kicking the most goals in a Super League season with 178 for Bradford in 2001.<ref name="Darbyshire"/> He also still holds the record for the most goals ever scored in a game, being 14, from Bradford's 96 – 16 win against Salford in 2000.<ref name="loverugbyleague.com"/>
+
+===International rugby league===
+In international rugby league he received 23 caps for [[New Zealand national rugby league team|New Zealand]] between 1995 and 2001,<ref name="Kiwis close door on Paul return">{{cite news|url=http://news.bbc.co.uk/sport1/hi/rugby_league/international_and_australian/5009792.stm|title=Kiwis close door on Paul return|publisher=BBC|date=23 May 2006|access-date=22 February 2008}}</ref> competing in the [[1995 Rugby League World Cup|1995]] and [[2000 Rugby League World Cup|2000]] Rugby League World Cups. Upon his return from rugby union in 2006 he qualified for both New Zealand and [[Great Britain national rugby league team|Great Britain]].<ref name="Paul stays silent on Lions talk">{{cite news|url=http://news.bbc.co.uk/sport1/hi/rugby_league/international_and_australian/4972576.stm|title=Paul stays silent on Lions talk|publisher=BBC|date=5 May 2006|access-date=22 February 2008}}</ref><ref name="Paul in frame for Great Britain">{{cite news|url=http://news.bbc.co.uk/sport1/hi/rugby_league/international_and_australian/4965760.stm|title=Paul in frame for Great Britain|publisher=BBC|date=2 May 2006|access-date=22 February 2008}}</ref>
+
+===Gloucester (rugby union)===
+Paul spoke to [[National Rugby League]] club the [[Canterbury Bulldogs]] and [[Super 12]] clubs the [[Blues (Super Rugby)|Auckland Blues]] and the [[Waikato Chiefs]]. He was eventually tempted away from the Bradford Bulls to play rugby union for [[Gloucester Rugby|Gloucester]], by [[Philippe Saint-André]] and [[Tom Walkinshaw]].<ref name="Bulldogs withdraw Paul offer">{{cite news|url=http://news.bbc.co.uk/sport1/hi/rugby_league/1434145.stm|title=Bulldogs withdraw Paul offer|publisher=BBC|date=11 July 2001|access-date=20 February 2008}}</ref><ref name="Walker on the warpath">{{cite news|url=http://news.bbc.co.uk/sport1/hi/rugby_union/1457375.stm|title=Walker on the warpath|publisher=BBC|date=25 July 2001|access-date=20 February 2008}}</ref>
+
+He had a dream début for Gloucester, scoring 28 points against [[Caerphilly RFC|Caerphilly]]. Paul began a four-year contract at [[Kingsholm Stadium|Kingsholm]] in 2001 and won an [[England Saxons|England A]] national squad selection after just one game for the Cherry and Whites.<ref name="Paul must wait for debut">{{cite news|url=http://news.bbc.co.uk/sport1/hi/rugby_union/1639327.stm|title=Paul must wait for debut|publisher=BBC|date=6 November 2001|access-date=20 February 2008}}</ref><ref name="Paul gets England 'A' call">{{cite news|url=http://news.bbc.co.uk/sport1/hi/rugby_union/international/1791649.stm|title=Paul gets England 'A' call|publisher=BBC|date=30 January 2002|access-date=20 February 2008}}</ref>
+
+He was linked with a return his former club the Bradford Bulls, the [[Widnes Vikings]] and a move to [[NRL]] club the [[Canberra Raiders]] and a reunion with former coach at Bradford [[Matthew Elliott (rugby league)|Matthew Elliott]].<ref name="Raiders hungry for Henry">{{cite news|url=http://news.bbc.co.uk/sport1/hi/rugby_union/english/1799973.stm|title=Raiders hungry for Henry|publisher=BBC|date=4 February 2002|access-date=20 February 2008}}</ref><ref name="McDermott: Time to forget Henry">{{cite news|url=http://news.bbc.co.uk/sport1/hi/rugby_league/1809787.stm|title=McDermott: Time to forget Henry|publisher=BBC|date=18 February 2002|access-date=20 February 2008}}</ref><ref name="Paul rejects Widnes approach">{{cite news|url=http://news.bbc.co.uk/sport1/hi/rugby_league/super_league/2776375.stm|title=Paul rejects Widnes approach|publisher=BBC|date=18 February 2003|access-date=20 February 2008}}</ref>
+
+Having experimented with being a [[Fullback (rugby union)|fullback]] and [[Fly-half (rugby union)|fly-half]] he settled into the [[inside centre]] position and his long passing stood well with Gloucester's style of play. He had his best year with Gloucester Rugby in 2004 when he won the club's season ticket holders' Player of the Year award and was also nominated for the Zurich Premiership Player of the Year award alongside [[Bruce Reihana]], [[Mark Robinson (rugby born 1975)|Mark Robinson]], [[Simon Shaw]] and [[Mark van Gisbergen]]. Whilst at Gloucester he started in the [[2001–02 English Premiership (rugby union)|2002 Zurich Championship Final]] (the year before winning the play-offs constituted winning the English title) in which Gloucester defeated [[Bristol Rugby]],<ref>{{cite web|url=http://news.bbc.co.uk/sport1/hi/rugby_union/english/2033061.stm|title=Clockwatch: Bristol v Gloucester |publisher=BBC|date=8 June 2002 |access-date=8 February 2018}}</ref> and the [[2002–03 Powergen Cup|2003 Powergen Cup Final]] in which Gloucester defeated [[Northampton Saints]].<ref>{{cite web|url=https://www.theguardian.com/sport/2003/apr/07/rugbyunion.gloucesterrugby|title=Gloucester given hope by cup win amid financial ruins|work=The Guardian|date=7 April 2003|access-date=8 September 2016}}</ref>
+
+===England national team and sevens===
+With his switch to rugby union, he decided to play for [[England national rugby union team|England]] rather than [[New Zealand national rugby union team|New Zealand]]. Although he was born in New Zealand, he qualified for England through his [[Liverpool|Liverpudlian]] grandfather.<ref name="Bulldogs withdraw Paul offer" />
+
+He won his first England cap as a replacement against [[France national rugby union team|France]] in the [[2002 Six Nations Championship]], but only managed to win a handful of caps thereafter, mostly during the [[2004 Six Nations Championship]], coming off the bench in [[Rome]] and at [[Murrayfield Stadium|Murrayfield]]. He was also considered Man of the Match for England A against [[France A national rugby union team|France A]] in March 2004 – with five [[Penalty (rugby union)|penalties]] and a conversion.
+
+He excelled for the [[England national rugby sevens team|England Sevens]] side and was a member of the [[2002 Commonwealth Games results#Rugby sevens|2002 Commonwealth Games]] and [[Rugby Sevens at the 2006 Commonwealth Games|2006 Commonwealth Games]] [[England at the 2006 Commonwealth Games#Rugby Sevens|squads]], winning a silver medal in 2006. Paul also was the acting captain of England Sevens when it won the [[USA Sevens]] tournament in 2006 and was part of the only Rugby 7s squad to win the Hong Kong 7s with him being awarded player of the tournament.<ref>{{Cite web |url=https://www.scotsman.com/sport/rugby-union/england-triumph-in-hong-kong-sevens-1-608123 |title=England triumph in Hong Kong Sevens - the Scotsman |access-date=18 September 2018 |archive-date=18 September 2018 |archive-url=https://web.archive.org/web/20180918193743/https://www.scotsman.com/sport/rugby-union/england-triumph-in-hong-kong-sevens-1-608123 |url-status=dead }}</ref> England 7s have failed to win in Hong Kong since their 2002 victory.<ref>{{Cite web|url=https://www.world.rugby/sevens-series/news/234785?lang=en|title=Amor: Hong Kong comes alive for the sevens - HSBC World Rugby Sevens Series|website=World.rugby|access-date=26 October 2021}}</ref>
+
+He was also a member of the England A team that won the [[2003 Churchill Cup]] in [[Canada]] and returned there again on the [[2004 Churchill Cup]] tour.
+
+===Harlequins RL===
+[[File:Henry Paul kicking against Leeds.jpg|200px|thumb|left|Paul in action for Harlequins RL]]
+On 27 April 2006, Paul agreed a move back to [[rugby league]] joining [[London Broncos#2006–2011: Harlequins Rugby League|Harlequins RL]]. The [[London]] side beat off competition from the [[Penrith Panthers]] to secure his signature.<ref name="Paul returns to league with Quins">{{cite news|url=http://news.bbc.co.uk/sport1/hi/rugby_league/super_league/london/4951414.stm|title=Paul returns to league with Quins|publisher=BBC|date=27 April 2006|access-date=19 February 2008}}</ref>
+
+His brother [[Robbie Paul]] played rugby league for [[Salford Red Devils|Salford City Reds]], having played with Paul at Bradford Bulls before a spell at [[Huddersfield Giants]]. Paul faced Robbie in his first game back in 2006's [[Super League XI]] on 29 April 2006.
+
+====Man of Steel Awards controversy====
+In 2007 Paul appeared [[drunk]] at the European [[Super League]]'s [[Man of Steel Award]]'s dinner. Paul slurred his acceptance speech when he received the [[Frontline Fairplay Index Award]], awarded for good behaviour on the field, on behalf of the club.<ref name="Paul in trouble after appearing drunk at show">{{cite news|url=http://sport.guardian.co.uk/rugbyleague/story/0,,2187341,00.html|title=Paul in trouble after appearing drunk at show|work=The Guardian|date=10 October 2007|access-date=10 October 2007|location=London|first=Andy|last=Wilson}}</ref><ref name="Paul's night of shame">{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportlatest/display.var.1751184.0.pauls_night_of_shame.php|title=Paul's night of shame|publisher=Telegraph and Argus|date=10 October 2007|access-date=10 October 2007}}</ref><ref name="Henry Paul's booze shame">{{cite web|url=https://www.mirror.co.uk/sport/rugby/2007/10/10/henry-the-thirst-on-rampage-89520-19925785/|title=Henry Paul's booze shame|work=Daily Mirror|date=10 October 2007|access-date=10 October 2007}}{{Dead link|date=April 2019 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> and subsequently apologised for his actions.<ref name="Paul Says Sorry For Faux Pas">{{cite web|url=http://www.sportinglife.com/rugbyleague/news/story_get.cgi?STORY_NAME=rleague/07/10/10/RUGBYL_Harlequins.html|title=Paul Says Sorry For Faux Pas|publisher=Sportinglife|date=10 October 2007|access-date=10 October 2007}}</ref><ref name="Quins accept Paul apology">{{cite web|url=http://www.skysports.com/story/0,19528,12196_2793628,00.html|title=Quins accept Paul apology|publisher=Sky Sports|date=10 October 2007|access-date=10 October 2007}}</ref><ref name="Quins RL support Henry Paul">{{cite web|url=http://www.quins.co.uk/newspage.ink?nid=37961&newstype=n&matchid=&Refid=&storytype=RL|title=Quins RL support Henry Paul|publisher=Quins|date=10 October 2007|access-date=10 October 2007}}{{dead link|date=September 2017 |bot=InternetArchiveBot |fix-attempted=yes}}</ref><ref name="Harlequins accept Paul's apology">{{cite news|url=http://news.bbc.co.uk/sport1/hi/rugby_league/super_league/london/7038590.stm|title=Quins Harlequins accept Paul's apology|publisher=BBC|date=10 October 2007|access-date=10 October 2007}}</ref>
+
+===Leeds Carnegie===
+
+In 2008, Paul was linked with a return to rugby union with [[Leeds Carnegie]].<ref name="Paul ready for Leeds code switch">{{cite news|url=http://news.bbc.co.uk/sport1/hi/rugby_union/my_club/leeds/7361683.stm|title=Paul ready for Leeds code switch|publisher=BBC|date=22 April 2008|access-date=22 April 2008}}</ref> But the move was initially seen as unlikely due to the team being relegated from the [[2007–08 Premiership Rugby|2007–08 English Premiership]].<ref name="Paul to cross divide again">{{cite web|url=http://www.sportinglife.com/rugbyleague/news/story_get.cgi?STORY_NAME=rugby/08/04/22/RUGBYU_Paul.html|title=Paul to cross divide again|publisher=Sportinglife|date=22 April 2008|access-date=22 April 2008}}</ref><ref name="Paul set for another switch">{{cite news|url=http://www.skysports.com/story/0,19528,12196_3461077,00.html|title=Paul set for another switch|newspaper=Sky Sports|date=22 April 2008|access-date=22 April 2008}}</ref>
+
+The 34-year-old switched codes and joined [[Leeds Carnegie]]'s [[National League 1]] campaign at the end of 2008's [[Super League XIII]].<ref name="Paul completes Leeds code switch">{{cite news|url=http://news.bbc.co.uk/sport1/hi/rugby_union/my_club/leeds/7361683.stm|title=Paul completes Leeds code switch|publisher=BBC|date=23 April 2008|access-date=23 April 2008}}</ref><ref name="Henry Paul to leave the Capital">{{cite web|url=http://www.quins.co.uk/newspage.ink?nid=38956&newstype=p&matchid=&storytype=RL&Refid=|title=Henry Paul to leave the Capital|publisher=Quins|date=23 April 2008|access-date=23 April 2008}}{{dead link|date=September 2017 |bot=InternetArchiveBot |fix-attempted=yes}}</ref>
+Henry played at centre and fly-half for the two years at Carnegie. While in the [[RFU Championship]] he captained the side to their biggest victory in Carnegie history against [[Manchester Rugby Club|Manchester]] and captained the side a numerous times, getting Man of the Match on several occasions. He helped Carnegie get promoted to the [[English Premiership (rugby union)|Premiership]]. Paul stayed with the side for one more year in the premiership before leaving the team to take up a coaching role as assistant coach for Russia's national 15's team.
+
+===Rotherham Titans===
+
+In 2010, Paul signed for [[RFU Championship]] side the [[Rotherham R.U.F.C.|Rotherham Titans]].<ref name="Bedford's backing for Paul">{{cite news|url=http://www.skysports.com/story/0,19528,12548_6251426,00.html|title=Bedford's backing for Paul|publisher=Sky Sports|date=8 July 2010|access-date=8 July 2010}}</ref> on a part-time basis.
+
+Paul did not stay long at the club due to work commitments with Russia putting him out of the country for most of the year.
+
+==Coaching career==
+
+Paul was released from Leeds in 2010 to embark on his coaching career as he signed up as the assistant coach of [[Russia national rugby union team|Russia]].<ref>[http://www.skysports.com/story/0,19528,12333_6194871,00.html Paul handed Russian role] ''skysports.com'', 7 June 2010.</ref>
+
+Paul started his role coaching Russia at the [[2010 Churchill Cup]] in the [[United States]]. He then coached them during the [[2010–12 European Nations Cup First Division]] and at the [[2011 Churchill Cup]] held in England, coming close against [[Italy A national rugby union team|Italy A]] and the [[United States national rugby union team|United States]].
+
+Paul took the side to the [[2011 Rugby World Cup]] with [[Kingsley Jones (rugby union, born 1969)|Kingsley Jones]] as head coach.<ref>{{Cite web|url=http://sport360.com/article/rugby/uae-rugby/266822/jebel-ali-dragons-coach-henry-paul-reconnects-with-friend-kingsley-jones-to-help-out-canada|title=Jebel Ali Dragons coach Henry Paul reconnects with friend Kingsley Jones to help out Canada – Article – Sport360|website=sport360.com|language=en-US|access-date=22 April 2018}}</ref> After two years with the Russian 15s team, Paul was appointed rugby 7s coach. After almost 4 years with Russia, Paul left to undertake a teaching role.
+
+Paul then took a role as Rugby Programmes Manager for Queen Ethelburga's School in York for two years. Queen Ethelburga's achieved their greatest rugby success in these two years winning the British Colleges National Cup<ref>{{Cite web |url=http://www.qe.org/college/news-article/rugby-champs/ |title=Rugby First XV National Champions &#124; News &#124; Queen Ethelburga's Collegiate |access-date=18 September 2018 |archive-url=https://web.archive.org/web/20180918160631/http://www.qe.org/college/news-article/rugby-champs/ |archive-date=18 September 2018 |url-status=dead }}</ref> and making it to the Semi-Finals of the Rosslyn Park 7s in 2015.<ref>{{Cite web |url=http://www.fifteenrugby.com/hsbc-rosslyn-park-national-school-7s-outstanding-cranleigh-claim-maiden-rosslyn-park-title/ |title=HSBC Rosslyn Park National School 7s: Outstanding Cranleigh claim maiden Rosslyn Park title &#124; Fifteen Rugby |access-date=18 September 2018 |archive-date=18 September 2018 |archive-url=https://web.archive.org/web/20180918160724/http://www.fifteenrugby.com/hsbc-rosslyn-park-national-school-7s-outstanding-cranleigh-claim-maiden-rosslyn-park-title/ |url-status=dead }}</ref> Paul continued his national coaching experience during this time however, coaching India's Men and Women's 15s and 7s teams for various tournaments during this time.
+
+Paul left Queen Ethelburga's to move to be with his now wife in Dubai, United Arab Emirates taking up the role of Head Coach of the Jebel Ali Dragons in July 2016<ref>{{Cite web|url=https://www.thenational.ae/sport/new-coach-henry-paul-wants-jebel-ali-dragons-to-go-on-the-attack-next-uae-rugby-season-1.208138|title = New coach Henry Paul wants Jebel Ali Dragons to go on the attack next UAE rugby season|website=Thenational.ae| date=17 July 2016 }}</ref> and also being appointed Director of Rugby of the club in 2017.<ref>{{Cite web|url=http://sport360.com/article/rugby/uae-rugby/233810/jebel-ali-dragons-ring-the-changes-with-henry-paul-named-as-new-director-of-rugby/|title = Jebel Ali Dragons ring the changes with Henry Paul named as new director of rugby |website=Sport360.com}}</ref> The club obtained their greatest success in years in the first year of Paul's coaching, with them making both the West Asia Premiership final and the UAE Premiership Final.<ref>{{Cite web|url=http://uaerugby.ae/NewsDetail.aspx?id=mnFbK1IBGcKskPJE0Cx/5Q==|title = UAE Rugby|website=Uaerugby.ae}}</ref> Despite not winning either of the finals the club was crowned West Asia Premiership winners in March 2018<ref>{{Cite web|url=https://www.thenational.ae/sport/rugby/henry-paul-credits-incredible-jebel-ali-dragons-players-for-west-asia-premiership-title-success-1.711863|title = Henry Paul credits 'incredible' Jebel Ali Dragons players for West Asia Premiership title success|website=Thenational.ae| date=10 March 2018 }}</ref> with Paul also being awarded coach of the season.
+
+===Canada===
+Paul was asked to assist the Canadian rugby team in February 2018 during the America's Rugby Championship<ref>{{Cite web|url=http://sport360.com/article/rugby/uae-rugby/266822/jebel-ali-dragons-coach-henry-paul-reconnects-with-friend-kingsley-jones-to-help-out-canada/|title = Jebel Ali Dragons coach Henry Paul reconnects with friend Kingsley Jones to help out Canada |website=Sport360.com}}</ref> and his performance secured him a permanent role as assistant coach of Canada Rugby alongside head coach Kingsley Jones in May 2018.<ref>{{Cite web|url=https://www.thenational.ae/sport/rugby/henry-paul-leaves-jebel-ali-dragons-to-take-up-canada-role-1.732078|title = Henry Paul leaves Jebel Ali Dragons to take up Canada role|website=Thenational.ae| date=20 May 2018 }}</ref> The Jebel Ali Dragons Chairman Stuart Quinn said he was thrilled for Paul, despite the fact that they meant they were losing "the best coach in the region".<ref>[https://www.youtube.com/watch?v=3yRFPBP9rxM] {{dead link|date=October 2021}}</ref>
+
+Paul was the 15s assistant coach for over a year helping Canada qualify for the 2019 Rugby World Cup in Japan.<ref>{{Cite web|url=https://www.rugbyworld.com/news/canada-qualify-2019-rugby-world-cup-95868|title=Canada qualify for Rugby World Cup 2019|date=23 November 2018|website=Rugbyworld.com|language=en-US|access-date=17 August 2019}}</ref> Paul was then asked to act as interim Canada Rugby Sevens coach following the departure of coach Damian McGrath in May 2019,<ref name="Dheensaw">{{Cite web|url=https://www.timescolonist.com/sports/canadian-men-s-rugby-squad-finishes-strong-at-paris-sevens-1.23844023|title=Canadian men's rugby squad finishes strong at Paris Sevens|last=Dheensaw|first=Cleve|website=Timescolonist.com|date=4 June 2019 |access-date=9 June 2019}}</ref> coaching the team for a month before taking them to the London and Paris Sevens. Despite Paul confirming the goal was to test players for the up-and-coming qualifiers for the Olympics in the Cayman Islands, Paul's team succeeded in getting to the cup quarter finals in London and winning the Challenge Cup in Paris,<ref name="Dheensaw"/> achieving the team's biggest success in the 2018/19 series. Paul then took the team to the Cayman Islands where they qualified for the 2020 Olympic Games in Japan in an undefeated tournament.<ref>{{Cite web|url=https://www.world.rugby/news/434729?lang=en|title=Canada's men qualify for Tokyo 2020|website=World.rugby|access-date=17 August 2019}}</ref>
+
+Paul's "interim" status was removed and he was appointed head coach at the start of the 2019 7's series and successfully coached the team for the 2019/2020 season. Canada achieve a bronze medal in the Vancouver 7's after narrowly missing out on the final due to a last second try from Australia.<ref>{{Cite web|url=https://dailyhive.com/vancouver/rugby-sevens-canada-bronze-medal-vancouver-2020|title=Canada's rugby sevens team earns surprise bronze medal in Vancouver {{!}} Offside|website=Dailyhive.com|language=en|access-date=2020-03-11}}</ref> Canada went on to defeat South Africa however, the first time in seven years, to get their first medal ever at their home tournament.<ref>{{Cite web|url=https://www.nsnews.com/sports/canada-thrills-bc-place-crowds-with-historic-rugby-sevens-bronze-1.24093704|title=Canada thrills BC Place crowds with historic rugby sevens bronze|last=Prest|first=Andy|website=Nsnews.com|date=9 March 2020 |access-date=2020-03-11}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* ''[http://wigan.rlfans.com/readarticle.php?article_id=795 Henry Paul Wigan Career Page] {{Webarchive|url=https://web.archive.org/web/20090826215410/http://wigan.rlfans.com/readarticle.php?article_id=795 |date=26 August 2009 }} on the Wigan RL Fansite''.
+* [https://web.archive.org/web/20080905213006/http://www.leedscarnegie.co.uk/index_9C874252CE764ED58722552044FB3EC2.htm Leeds Carnegie profile]
+* [http://www.quins.co.uk/playerdisplayRL.ink?skip=14&season=2007/2008&playertype=s Quins RL profile]{{dead link|date=April 2017 |bot=InternetArchiveBot |fix-attempted=yes}}
+* [https://web.archive.org/web/20070930015526/http://www.england-rugby.com/englandrugby/index.cfm?fuseaction=News.News_Detail&storyid=5916 England profile]
+* [http://news.bbc.co.uk/sport/hi/english/static/tv_and_radio/passion_for_sport/stars/henry_paul.stm Passion for Sport 2001] {{Webarchive|url=https://web.archive.org/web/20040626082216/http://news.bbc.co.uk/sport/hi/english/static/tv_and_radio/passion_for_sport/stars/henry_paul.stm |date=26 June 2004 }}
+* [https://web.archive.org/web/20110727230312/http://www.rugbyleague.org/features/content.php?feat_id=268&featcat_id=32 Kiwis too strong for Kumuls]
+* [https://web.archive.org/web/20090425162804/http://www.bradfordbulls.co.uk/content/History/3567/The%20Millennium%20Masters%20-%20Substitutes The Millennium Masters – Substitutes]
+* [https://web.archive.org/web/20090417041917/http://www.bradfordbulls.co.uk/content/History/4159/Bull%20Masters%20-%20Henry%20Paul Bull Masters – Henry Paul]
+* [http://rugby.statbunker.com/players/getPlayerStats?player_id=5804 ]
+
+{{Canada Men's 2020 Summer Olympics Squad}}
+{{Wigan RLFC - 1995 Challenge Cup Final winners}}
+{{Wigan Warriors - 1998 Super League Grand Final winners}}
+{{Bradford Bulls - 2000 Challenge Cup Final winners}}
+{{Bradford Bulls - 2001 Super League Grand Final winners}}
+{{New Zealand 1995 Rugby League World Cup squad}}
+{{New Zealand squad 2000 Rugby League World Cup}}
+{{Harry Sunderland Trophy winners}}
+{{Lance Todd Trophy winners}}
+{{1996 Super League Dream Team}}
+{{Bradford Bulls Millenium Masters}}
+{{Bradford Bulls Bull Masters}}
+
+{{DEFAULTSORT:Paul, Henry}}
+[[Category:1974 births]]
+[[Category:Living people]]
+[[Category:Bath Rugby players]]
+[[Category:Bradford Bulls players]]
+[[Category:Commonwealth Games medallists in rugby sevens]]
+[[Category:Commonwealth Games rugby sevens players for England]]
+[[Category:Commonwealth Games silver medallists for England]]
+[[Category:Dual-code rugby internationals]]
+[[Category:England international rugby sevens players]]
+[[Category:England international rugby union players]]
+[[Category:English rugby union players]]
+[[Category:Gloucester Rugby players]]
+[[Category:Junior Kiwis players]]
+[[Category:Lance Todd Trophy winners]]
+[[Category:London Broncos players]]
+[[Category:New Zealand expatriate rugby league players in England]]
+[[Category:New Zealand male rugby sevens players]]
+[[Category:New Zealand Māori rugby league players]]
+[[Category:New Zealand national rugby league team players]]
+[[Category:New Zealand sportspeople of Cook Island descent]]
+[[Category:New Zealand people of English descent]]
+[[Category:New Zealand rugby league players]]
+[[Category:New Zealand rugby union coaches]]
+[[Category:People educated at Rutherford College, Auckland]]
+[[Category:Point Chevalier Pirates players]]
+[[Category:Ponsonby Ponies players]]
+[[Category:Rotherham Titans players]]
+[[Category:Rugby league five-eighths]]
+[[Category:Rugby league fullbacks]]
+[[Category:Rugby league players from Tokoroa]]
+[[Category:Rugby sevens players at the 2002 Commonwealth Games]]
+[[Category:Rugby sevens players at the 2006 Commonwealth Games]]
+[[Category:Rugby union centres]]
+[[Category:Rugby union players from Tokoroa]]
+[[Category:Te Atatu Roosters players]]
+[[Category:Waitakere rugby league team players]]
+[[Category:Wakefield Trinity players]]
+[[Category:Wigan Warriors players]]
+[[Category:Medallists at the 2006 Commonwealth Games]]

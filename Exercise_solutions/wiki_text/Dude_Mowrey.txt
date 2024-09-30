@@ -1,0 +1,169 @@
+{{Short description|American musician}}
+{{Use mdy dates|date=February 2020}}
+{{Infobox musical artist
+| name            = Dude Mowrey
+| image           =
+| caption         =
+| image_size      =
+| birth_name      = Daniel Mowrey
+| birth_date      = {{birth date and age|1972|02|10}}
+| origin          = [[Fort Lauderdale, Florida]], United States
+| instrument      = Vocals
+| genre           = [[Country music|Country]]
+| occupation      = Singer
+| years_active    = 1991–1994; 2002–present
+| label           = [[Capitol Records|Capitol Nashville]], [[Arista Nashville]]
+| associated_acts = [[Mel Tillis]]
+| website         = 
+| 
+}}
+{{ listen |filename=Maybe_You_Were_The_One_(clip).mp3 | title=Maybe You Were The One |description=30-second clip of Dude Mowrey's song "Maybe You Were The One"}}
+'''Daniel "Dude" Mowrey''' (born February 10, 1972, in [[Fort Lauderdale, Florida]]<ref name="oldies">{{cite web |url=http://www.oldies.com/artist-biography/Dude-Mowrey.html |title=Dude Mowrey biography |accessdate=May 24, 2008 |work=Oldies.com}}</ref>) is an American [[country music]] artist. Between 1991 and 1993, Mowrey recorded two studio albums, both on major labels: 1991's ''Honky Tonk'' on [[Capitol Records]] Nashville, and 1993's ''Dude Mowrey'' on [[Arista Nashville]]. These albums produced four singles for Mowrey on the [[Hot Country Songs]] charts. The first of these, "Cowboys Don't Cry", was later a Top 40 hit when [[Daron Norwood]] recorded it for his debut album three years after Mowrey's version. Another cut, "Fallin' Never Felt So Good", was later recorded by both [[Shawn Camp (musician)|Shawn Camp]] and [[Mark Chesnutt]].
+
+Country singer [[Mel Tillis]] discovered Mowrey in the mid-1980s while Mowrey was still in his mid-teens;<ref name="oldies"/><ref>{{cite web |url=http://www.artsforthearts.org/dudemowrey.htm |title=May 12 featured guests |accessdate=May 24, 2008 |work=Arts for the Arts |url-status=dead |archiveurl=https://archive.today/20070616125033/http://www.artsforthearts.org/dudemowrey.htm |archivedate=June 16, 2007 }}</ref> Tillis also served as Mowrey's manager, and helped the singer sign to Capitol in 1991.<ref>{{cite news |title=Dude Mowrey slated for appearance on TNN |url=http://nl.newsbank.com/nl-search/we/Archives?p_product=NewsLibrary&p_multi=OSBB&d_place=OSBB&p_theme=newslibrary2&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=1033C71DEE9C8519&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM |work=Ocala Star-Banner |date=March 24, 1993 |accessdate=May 24, 2008}}</ref> Mowrey's debut album, ''Honky Tonk'', was released in 1991. Included on it was the single "Cowboys Don't Cry", as well as "Honky Tonk Song", a song which Tillis initially wrote for [[Webb Pierce]]. By 1993, Mowrey had transferred to Arista Nashville, releasing a self-titled album that year, as well as three more singles. Arista label mate Lee Roy Parnell made a guest appearance in Mowrey's music video for the song "Hold on Elroy" which was filmed at an old cabin just outside Nashville, TN.
+
+==Discography==
+
+===''Honky Tonk'' (1991)===
+{{Infobox album
+| italic_title = no
+| name         = Honky Tonk
+| type         = studio
+| artist       = Dude Mowrey
+| cover        = Dude_Mowrey_-_Honky_Tonk.jpg
+| alt          =
+| released     = {{Start date|1991|04|15}}
+| recorded     =
+| venue        =
+| studio       = Sound Stage Studios, [[Nashville TN]]
+| genre        = Country
+| length       = 29:30
+| label        = Capitol Nashville No.&nbsp;95085
+| producer     = [[Jimmy Bowen]], Dude Mowrey
+| prev_title   =
+| prev_year    =
+| next_title   =
+| next_year    =
+}}
+
+====Track listing====
+#"Honky Tonk Song" ([[Mel Tillis]], Buck Peddy) – 1:57
+#"It Could've Been Me" (Curt Ryle, Johnny Park) – 3:38
+#"[[Cowboys Don't Cry]]" (Jim Allison, Bob Simon, Doug Gilmore, Jeff Raymond) – 2:34
+#"Heartbreak Train" ([[Roger Murrah]], J.D. Martin) – 3:12
+#"[[Fallin' Never Felt So Good]]" ([[Shawn Camp (musician)|Shawn Camp]], Will Smith) – 2:22
+#"If I Ever Love Again" ([[Curtis Wright]], Billy Spencer) – 3:41
+#"Good Lookin'" (Mickey Jupp, Chris East) – 2:49
+#"The Rest of Forever" (Jim Martin) – 3:24
+#"We Got Love" ([[Kent Robbins]]) – 3:00
+#"Do You Want to Make Something of It?" (Wright, [[Jeff Knight (musician)|T.J. Knight]]) – 2:53
+{{Clear}}
+
+===''Dude Mowrey'' (1993)===
+{{Infobox album
+| italic_title = no
+| name         = Dude Mowrey
+| type         = studio
+| artist       = Dude Mowrey
+| cover        = Dude_Mowrey_-_Dude_Mowrey.jpg
+| alt          =
+| released     = {{Start date|1993|06|08}}
+| recorded     =
+| venue        =
+| studio       =
+| genre        = Country
+| length       = 32:12
+| label        = Arista Nashville No.&nbsp;18678
+| producer     = Mike Clute, [[Tim DuBois]]
+| prev_title   =
+| prev_year    =
+| next_title   =
+| next_year    =
+}}
+
+====Track listing====
+#"Maybe You Were the One" (Robert Bruce Landis, Hunter Moore) – 3:28
+#"Dr. Wurlitzer" (Jeff Crossan) – 2:37
+#"Walk Away" ([[Marc Beeson]], [[Robert Byrne (songwriter)|Robert Byrne]]) – 4:02
+#"Somewhere in Between" ([[Allen Shamblin]], [[Jon Vezner]]) – 2:55
+#"Happy Ever After (Comes One Day at a Time)" ([[Gary Nicholson (singer)|Gary Nicholson]], [[Kevin Welch]]) – 3:35
+#"What Kind of Memories Remain" (Joe Doyle, Rick Peoples) – 2:52
+#"Hold On, Elroy" ([[Dennis Linde]]) – 2:59
+#"View from the Bottom" (Dude Mowrey, Ralph Murthy) – 3:35
+#"I'll Never Listen to That Fool Again" (Larry Martin, [[Stan Munsey]]) – 3:36
+#"Turn for the Worse" (Frank Dycus, Kerry Kurt Phillips, [[Billy Yates (singer)|Billy Yates]]) – 2:38
+{{Clear}}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:16em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+|rowspan=2| 1991
+! scope="row"| "[[Honky Tong Song|Honky Tonk Song]]"<ref>{{cite magazine|url=https://www.worldradiohistory.com/Archive-All-Music/Billboard/90s/1991/BB-1991-03-23.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|date=March 23, 1991}}</ref>
+| —
+| —
+|align="left" rowspan="2"| ''Honky Tonk''
+|- 
+! scope="row"| "[[Cowboys Don't Cry]]"
+| 65
+| —
+|- 
+| rowspan="2"| 1993
+! scope="row"| "Maybe You Were the One"
+| 57
+| 87
+| align="left" rowspan="3"| ''Dude Mowrey''
+|-
+! scope="row"| "Hold On, Elroy"
+| 69
+| 82
+|-
+| 1994
+! scope="row"| "Somewhere in Between"
+| 57
+| 46
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:16em;"| Video
+! Director
+|-
+| rowspan="2"| 1993
+! scope="row"| "Maybe You Were the One"<ref>{{cite web|url=http://www.cmt.com/videos/dude-mowrey/55319/maybe-you-were-the-one.jhtml|archive-url=https://web.archive.org/web/20121024011138/http://www.cmt.com/videos/dude-mowrey/55319/maybe-you-were-the-one.jhtml|url-status=dead|archive-date=October 24, 2012|title=CMT : Videos : Dude Mowrey : Maybe You Were The One|publisher=[[Country Music Television]]|accessdate=August 5, 2011}}</ref>
+| Martin Kahan
+|-
+! scope="row"| "Hold On, Elroy"
+| 
+|-
+| 1994
+! scope="row"| "Somewhere in Between"<ref>{{cite web|url=http://www.cmt.com/videos/dude-mowrey/55320/somewhere-in-between.jhtml|archive-url=https://web.archive.org/web/20121024011147/http://www.cmt.com/videos/dude-mowrey/55320/somewhere-in-between.jhtml|url-status=dead|archive-date=October 24, 2012|title=CMT : Videos : Dude Mowrey : Somewhere in Between|publisher=[[Country Music Television]]|accessdate=August 5, 2011}}</ref>
+| chris rogers{{sic}}
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Mowrey, Dude}}
+[[Category:1972 births]]
+[[Category:American country singer-songwriters]]
+[[Category:Arista Nashville artists]]
+[[Category:Capitol Records artists]]
+[[Category:Living people]]
+[[Category:Musicians from Fort Lauderdale, Florida]]
+[[Category:Singer-songwriters from Florida]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:Country musicians from Florida]]

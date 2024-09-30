@@ -1,0 +1,63 @@
+{{Short description|American guitarist (1925–1980)}}
+{{about|the American guitarist|the singer|Jimmy Bryant (singer)|others|Jim Bryant (disambiguation)}}
+{{More citations needed|date=April 2019}}
+{{Use American English|date=August 2022}}
+{{Use mdy dates|date=August 2022}}
+{{Infobox musical artist
+| name                = Jimmy Bryant
+| image               = 
+| image_size          = 
+| landscape           = <!-- yes, if wide image, otherwise leave blank -->
+| caption             = 
+| background          = non_vocal_instrumentalist
+| birth_name          = Ivy J. Bryant, Jr.
+| origin              = 
+| birth_date          = {{birth date|1925|03|05}}
+| birth_place         = [[Moultrie, Georgia]], U.S.
+| death_date          = {{death date and age|1980|09|22|1925|03|05}}
+| death_place         = Moultrie, Georgia, U.S.
+| genre               = [[Country music]]
+| occupation          = Musician
+| instrument          = [[Guitar]]
+| years_active        = <!-- YYYY–YYYY (or –present) -->
+| label               = [[Capitol Records|Capitol]], [[Sundazed Records]]
+}}
+'''Ivy John Bryant Jr.''' (March 5, 1925 &ndash; September 22, 1980), known as '''Jimmy Bryant''', was an American country music guitarist. He is best known for his collaborations with steel guitarist [[Speedy West]] and his session work.
+
+==Biography==
+Bryant was born in [[Moultrie, Georgia]], the oldest of 12 children. During the [[Great Depression]] he played the [[fiddle]] on street corners to help support his family.
+
+In 1943, Bryant would join the [[United States Army]], serving in France and Germany. While fighting in Germany he was severely injured by a grenade, and would spend the rest of the war in a hospital, where he would meet [[Tony Mottola]], who motivated him to begin playing the guitar. Once the war ended, Bryant would join the [[United Service Organizations|USO]], where he would play until he was discharged.<ref>{{Cite web |title=Jimmy Bryant: faster guitar player resurfaces – December 2003 |url=https://www.countrystandardtime.com/d/article.asp?xid=313 |access-date=2023-01-02 |website=www.countrystandardtime.com}}</ref>
+
+After the war, he would drift around various states, including [[Georgia (U.S. state)|Georgia]], [[Tennessee]] and [[Washington, D.C.]], where he played as <nowiki>''Buddy''</nowiki> Bryant.<ref name=":0" /> He then moved to Los Angeles county where he worked in Western films and played music in bars around [[Skid Row, Los Angeles|L.A.'s Skid Row]], where he met pioneering pedal steel guitarist [[Speedy West]]. West, who joined [[Cliffie Stone]]'s popular [[Hometown Jamboree]] local radio and TV show, suggested Bryant be hired when the show's original guitarist departed. That gave Bryant access to [[Capitol Records]] since Stone was a Capitol artist and talent scout.
+
+In 1950 [[Tex Williams]] heard Bryant's style and used him on his recording of "Wild Card". In addition, Bryant and West played on the [[Tennessee Ernie Ford]]-[[Kay Starr]] hit "[[I'll Never Be Free]]", leading to both men being signed to Capitol as instrumentalists. Bryant and West became a team, working extensively with each other.
+
+Bryant was a difficult musician to work with. By 1955 he left [[Hometown Jamboree]] (retaining his friendship with West) and after various clashes with his Capitol producer [[Ken Nelson (United States record producer)|Ken Nelson]], the label dropped him in 1956. In 1957 Jimmy Bryant was a part of one of the first integrated television shows featuring popular radio and television star Jimmie Jackson who hosted the show along with black jazz violinist and recording star, [[Stuff Smith]] and black jazz percussionist and recording star, George Jenkins. He continued working in Los Angeles and in the early 1960s he and his trio made an appearance in the [[Coleman Francis]] film ''[[The Skydivers]]''.
+
+During the 1960s he shifted into music production. [[Waylon Jennings]] made a hit of his song "[[Only Daddy That'll Walk the Line]]". He can also be heard playing fiddle on the [[Monkees]]' "Sweet Young Thing".<ref>{{cite book|title= The Monkees|last= Sandoval|first= Andrew|author-link= Andrew Sandoval|year= 2005|publisher= Thunder Bay Press|location= San Diego|isbn= 978-1-59223-372-4|page= [https://archive.org/details/monkeesdaybydays00andr/page/300 300]|url= https://archive.org/details/monkeesdaybydays00andr/page/300|url-access= registration}}</ref> In the early 1970s Bryant ran a recording studio in [[Las Vegas, Nevada|Las Vegas]], but finally relocated to Georgia before settling in [[Nashville, Tennessee|Nashville]] in 1975, the same year he reunited with Speedy West for a reunion album produced by Nashville [[steel guitar]]ist [[Pete Drake]]. Bryant played in Nashville bars and did some recording work but his personality did not mesh well with Nashville's highly political music and recording industry. In 1978, in declining health, Bryant learned that he had [[lung cancer]]; He played his final performance in August, 1979 at a club in North Hollywood<ref name=":0">{{cite web |url=https://www.vintageguitar.com/34081/jimmy-bryant/ |title = Jimmy Bryant {{!}} Vintage Guitar® magazine| date=September 23, 2019 }}</ref> before he returned to his Georgia hometown.
+
+He died in Moultrie in September 1980 at the age of 55.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.talentondisplay.com/jimmybryant.html Brief biography]
+* [https://www.findagrave.com/memorial/8672703/jimmy-bryant Jimmy Bryant] on [[Find a Grave|Find A Grave]]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bryant, Jimmy}}
+[[Category:1925 births]]
+[[Category:1980 deaths]]
+[[Category:20th-century American guitarists]]
+[[Category:American country guitarists]]
+[[Category:American male guitarists]]
+[[Category:American session musicians]]
+[[Category:Guitarists from Georgia (U.S. state)]]
+[[Category:People from Moultrie, Georgia]]
+[[Category:Military personnel from Georgia (U.S. state)]]
+[[Category:Country musicians from Georgia (U.S. state)]]
+[[Category:20th-century American male musicians]]
+[[Category:Sundazed Records artists]]

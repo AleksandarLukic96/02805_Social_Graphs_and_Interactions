@@ -1,0 +1,212 @@
+{{short description|American country music artist (born 1949)}}
+{{Use mdy dates|date=September 2020}}
+{{BLP sources|date=January 2020}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Kieran Kane
+| image               = Kieran Kane Kevin Welch HSB 2005 Ron Baker (cropped).jpg
+| caption             = Kieran Kane at Hardly Strictly Bluegrass Festival in San Francisco, CA
+| image_size          = 
+| background          = solo_singer
+| birth_name          = 
+| alias               = 
+| birth_date          = {{birth date and age|1949|10|7}}
+| origin              = [[Queens]], New York, U.S.
+| instrument          = Vocals<br />guitar<br />[[banjo]]<br />[[mandolin]]<br />percussion
+| genre               = [[country music|Country]]
+| occupation          = Singer-songwriter
+| years_active        = 1970–present
+| label               = [[Asylum Records|Asylum]], [[Columbia Records|Columbia]], [[Atlantic Records|Atlantic]], [[Dead Reckoning Records|Dead Reckoning]]
+| past_member_of = [[The O'Kanes]]
+| website             = 
+}}
+
+'''Kieran Kane''' (born October 7, 1949) is an American [[country music]] artist, as well as the owner of [[Dead Reckoning Records]], an independent record label.<ref name="oldies">{{cite web |url=http://www.oldies.com/artist-biography/Kieran-Kane.html |title=Kieran Kane Biography |access-date=December 19, 2007 |work=Oldies.com}}</ref> Between 1986 and 1990, he and [[Jamie O'Hara (singer)|Jamie O'Hara]] comprised [[The O'Kanes]], a duo which charted seven singles on the U.S. Billboard Hot Country Singles charts, including the Number One single "[[Can't Stop My Heart from Loving You]]". In addition, Kieran charted a string of solo singles on [[Asylum Records]] in 1982. After The O'Kanes disbanded in 1990, both O'Hara and Kane recorded solo albums of their own. Kane was also responsible for writing the song "[[I'll Go On Loving You]]" which was a top 5 country hit for [[Alan Jackson]] in 1998.
+
+==Biography==
+Kane was born in [[Queens]], New York. His first musical experience was at age nine, playing drums in his brother's rock band. Eventually, Kane shifted his focus to [[bluegrass music|bluegrass]], before relocating to Los Angeles, California where he found work as a session guitarist and songwriter.<ref name="allmusic">{{cite web |url={{AllMusic|class=artist|id=p43302|pure_url=yes}} |title=Kieran Kane Biography |access-date=December 19, 2007 |last=Ankeny |first=Jason |work=[[Allmusic]]}}</ref>
+
+Kieran moved to [[Nashville, Tennessee]] by the 1980s, eventually signing to a publishing contract. He was also signed to a recording contract with [[Asylum Records]], releasing his self-titled album in 1982. This album included two Top 20 country hits.<ref name="allmusic"/>
+
+==The O'Kanes==
+{{main|The O'Kanes}}
+[[Jamie O'Hara (singer)|Jamie O'Hara]], another songwriter who worked for the same publishing company, first collaborated with Kane on a song entitled "Bluegrass Blues", eventually recorded by [[The Judds]]. Afterwards, the two began writing more songs together, and by 1986, they decided to form a duo known as [[The O'Kanes]].
+
+Signed to [[Columbia Records]] in 1986, The O'Kanes recorded three studio albums for the label, in addition to charting seven singles on the ''Billboard'' Hot Country Singles charts. Their third album failed to produce any singles, however, and by 1990, the duo parted ways.
+
+==Return to solo career==
+In 1993, Kieran returned to his career as a solo performer. He signed to [[Atlantic Records]] that year, releasing the album ''Find My Way Home''. Due to poor sales of this album, he was soon dropped from Atlantic's roster.<ref name="oldies"/> Two years later, Kane, along with three other Nashville singer-songwriters, founded [[Dead Reckoning Records]], an [[independent record label]] specializing in country music. The label's first release was his second studio album, titled ''Dead Rekoning''.<ref name="allmusic"/>
+
+==Personal life==
+Kane has three children.  His son Lucas occasionally plays percussion at his performances.
+
+==Discography==
+
+===Albums===
+{| class="wikitable"
+! Year
+! Album
+! <small>[[Top Country Albums|US Country]]</small><br /><ref name=billboard>{{cite magazine |url=https://www.billboard.com/music/kieran-kane |title=Kieran Kane |magazine=Billboard }}</ref>
+! Label
+|-
+| 1982
+| ''Kieran Kane''
+|align="center"| 38
+| Elektra
+|-
+| 1993
+| ''[[Find My Way Home]]''
+|align="center"| 
+| Atlantic
+|-
+| 1995
+| ''[[Dead Rekoning]]''
+|align="center"| 
+| rowspan=12|Dead Reckoning
+|-
+| 1998
+| ''[[Six Months, No Sun]]''
+|align="center"| 
+|-
+| rowspan=2|2000
+| ''[[11/12/13: Live in Melbourne]]'' <small>(with [[Kevin Welch]])</small>
+|align="center"| 
+|-
+| ''[[The Blue Chair (Kieran Kane album)|The Blue Chair]]''
+|align="center"| 
+|-
+| 2002
+| ''[[Shadows on the Ground]]''
+|align="center"| 
+|-
+| 2004
+| ''[[You Can't Save Everybody]]'' <small>(with [[Kevin Welch]] and [[Fats Kaplin]])</small>
+|align="center"| 
+|-
+| 2006
+| ''[[Lost John Dean]]'' <small>(with [[Kevin Welch]] and [[Fats Kaplin]])</small>
+|align="center"| 
+|-
+| 2007
+| ''Kane Welch Kaplin'' <small>(with [[Kevin Welch]] and [[Fats Kaplin]])</small>
+|align="center"| 
+|-
+| 2009
+| ''Somewhere Beyond the Roses''
+|align="center"| 
+|-
+| 2018
+| ''The Ledges'' <small>(with [[Rayna Gellert]])</small>
+|align="center"| 
+|-
+| 2019
+| ''When The Sun Goes Down'' <small>(with [[Rayna Gellert]])</small>
+|align="center"| 
+|-
+| 2022
+| ''The Flowers That Bloom in Spring'' <small>(with [[Rayna Gellert]])</small>
+|align="center"| 
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]
+|-
+| rowspan="3"| 1981
+! scope="row"| "The Baby"
+| 80
+| {{n/a}}
+|-
+! scope="row"| "You're the Best"
+| 14
+| rowspan="4" align="left"|''Kieran Kane''
+|-
+! scope="row"| "It's Who You Love"
+| 16
+|-
+| rowspan="3"| 1982
+! scope="row"| "I Feel It with You"
+| 26
+|-
+! scope="row"| "I'll Be Your Man Around the House"
+| 26
+|-
+! scope="row"| "Gonna Have a Party"
+| 45
+| rowspan="3" {{n/a}}
+|-
+| 1983
+! scope="row"| "It's You"
+| 30
+|-
+| 1984
+! scope="row"| "Dedicate"
+| 28
+|-
+| rowspan="2"| 1993
+! scope="row"| "I'm Here to Love You"
+| —
+|rowspan=2 align="left"|''[[Find My Way Home]]''
+|-
+! scope="row"| "Find My Way Home"
+| —
+|-
+| rowspan="2"| 1995
+! scope="row"| "This Dirty Little Town"
+| —
+|rowspan=2 align="left"|''[[Dead Rekoning]]''
+|-
+! scope="row"| "Cool Me Down"
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Music videos===
+{| class="wikitable"
+! Year
+! Video
+! Director
+|-
+| rowspan="2"| 1993
+| "I'm Here to Love You"
+| rowspan="2"| Martin Kahan
+|-
+| "Find My Way Home"<ref>{{cite web|url=http://www.cmt.com/videos/kieran-kane/384492/find-my-way-home.jhtml|title=CMT : Videos : Kieran Kane : Find My Way Home|publisher=[[Country Music Television]]|access-date=October 14, 2011}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+|-
+| rowspan="2"| 1995
+| "This Dirty Little Town"
+|
+|-
+| "Cool Me Down"
+| Martin Kahan
+|-
+| 1998
+| "Hysteria"
+|
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.deadreckoners.com/ Dead Reckoning Records official website]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kane, Kieran}}
+[[Category:1949 births]]
+[[Category:American country singer-songwriters]]
+[[Category:Living people]]
+[[Category:Musicians from New York City]]
+[[Category:The O'Kanes members]]
+[[Category:Elektra Records artists]]
+[[Category:Atlantic Records artists]]
+[[Category:Singer-songwriters from New York (state)]]
+[[Category:Country musicians from New York (state)]]

@@ -1,0 +1,56 @@
+{{short description|American singer and actor}}
+{{Infobox person
+| name               = Mark Wystrach
+| image              = File:Mark Wystrach.jpg
+| caption            = Mark Wystrach performing in 2018
+| birth_date         = {{birth date and age|1979|12|17}}
+| birth_place        = [[Sonoita, Arizona]], U.S.
+| alma_mater         = University of Arizona
+| occupation         = {{hlist|Singer|songwriter|guitarist|actor}}
+| years_active       = 2014–present
+| spouse             = Ty Haney
+| children           = 2
+| relatives          = [[Alex Flanagan]] (sister)
+| module             = {{Infobox musical artist
+| embed               = yes
+| background          = solo_singer
+| genre               = [[Country music|Country]]
+| instrument          = {{hlist|Vocals|guitar}}
+| label           = [[Big Machine Records|Big Machine]]
+| current_member_of = [[Midland (band)|Midland]]
+}}
+}}
+'''Mark Wystrach''' (born December 17, 1979) is an American  [[country music]] musician and actor. Wystrach appeared in the Academy Award-winning film ''[[The Eyes of Tammy Faye (2021 film)|The Eyes of Tammy Faye]]''. He is the lead singer of the country band [[Midland (band)|Midland]].<ref>{{Cite web|url=https://www.troubadour.com/event/1530234-midland-los-angeles/|title=Troubadour|website=www.troubadour.com}}</ref>
+
+==Acting and modeling careers==
+Wystrach played the role of [[Fox Crane]] on the [[NBC]] [[soap opera]] ''[[Passions]]'' from 2006–2007 before the show moved to [[DirecTV]] in September 2007. He had a cameo role in ''[[CSI: Miami]]'' (season 6, episode 11). He played Nolan and Vic Fraiser, aka Kamen Rider Wrath, in the television series ''[[Kamen Rider: Dragon Knight]]''. In 2017, Wystrach took the title role in the movie ''Johnny Christ''.<ref>{{Cite web|url=https://www.broadwayworld.com/bwwtv/article/Grammy-Nominated-Mark-Wystrach-Stars-in-Blackpills-New-Series-JOHNNY-CHRIST-20171206|title=Grammy Nominated Mark Wystrach Stars in Blackpills' New Series JOHNNY CHRIST|author=BWW News Desk|website=BroadwayWorld.com}}</ref>
+
+He also portrayed country singer [[Gary Paxton]] in the 2021 film ''[[The Eyes of Tammy Faye (2021 film)|The Eyes of Tammy Faye]]''.
+
+He was also signed to IMG Models as a model.<ref>{{Cite web|url=https://tasteofcountry.com/midland-mark-wystrach-model/|title=Midland's Mark Wystrach Used to Be a Model|first=Laura|last=McClellan|website=Taste of Country|date=28 June 2017 }}</ref>
+
+
+==References==
+{{reflist}}
+
+==External links==
+*{{IMDb name|1458132}}
+{{Midland}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Wystrach, Mark}}
+[[Category:1979 births]]
+[[Category:American male soap opera actors]]
+[[Category:Living people]]
+[[Category:Male actors from Tucson, Arizona]]
+[[Category:21st-century American male actors]]
+[[Category:American male television actors]]
+[[Category:American country singer-songwriters]]
+[[Category:American male models]]
+[[Category:IMG Models models]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:Country musicians from Arizona]]
+[[Category:American country guitarists]]
+[[Category:Singer-songwriters from Arizona]]
+[[Category:Midland (band) members]]

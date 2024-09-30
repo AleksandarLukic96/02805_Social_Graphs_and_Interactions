@@ -1,0 +1,128 @@
+{{Multiple issues|
+{{More footnotes|date=December 2010}}
+{{More citations needed|date=January 2020}}}}
+{{Infobox musical artist | <!-- See Wikipedia:WikiProject Musicians -->
+| name            = Zaca Creek
+| image             =
+| caption        =
+| image_size        = 
+| background      = group_or_band
+| alias           = 
+| origin          = [[Santa Ynez, California]]
+| genre           = [[Country music|Country]]
+| years_active    = 1989–1994
+| label           = [[Columbia Records|Columbia]]<br/>[[Giant Records (Warner Bros. subsidiary label)|Giant]]
+| associated_acts = 
+| website             = 
+| current_members = 
+| past_members    = Gates Foss<br/>Scot Foss<br/>Jeff Foss<br/>James Foss
+}}
+
+'''Zaca Creek''' was an American [[country music]] group formed in 1989. The band consisted of brothers Gates, Scot, Jeff and James Foss. Their debut single, "Sometimes Love's Not a Pretty Thing," was their only song to reach the Top 40 of the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles]] chart, peaking at No.&nbsp;38. It was included on their eponymous debut album, issued in 1989 on [[Columbia Records]]. The group was signed by [[Giant Records (Warner Bros. subsidiary label)|Giant Records]] in 1992, who released their second album, ''Broken Heartland''. The band broke up in 1994.
+
+In 1991, Zaca Creek was shortlisted for the [[Academy of Country Music Award for New Vocal Duo or Group of the Year]].<ref>{{cite magazine|url=https://www.worldradiohistory.com/Archive-All-Music/Billboard/90s/1991/BB-1991-02-02.pdf|title=Academy Of Country Music Names Award Nominees|magazine=[[Billboard (magazine)|Billboard]]|pages=41|date=February 2, 1991}}</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable"
+! Year
+! Album
+! Label
+|-
+| 1989
+| ''Zaca Creek''
+| Columbia
+|-
+| 1993
+| ''Broken Heartland''
+| Giant
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Single
+! colspan="2"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="2"| 1989
+! scope="row"| "Sometimes Love's Not a Pretty Thing"
+| 38
+| 41
+| rowspan="3" align="left"| ''Zaca Creek''
+|-
+! scope="row"| "Ghost Town"
+| 58
+| 50
+|-
+| 1990
+! scope="row"| "Warpaint"
+| —
+| 82
+|-
+| rowspan="2"| 1993
+! scope="row"| "Broken Heartland"
+| 70
+| —
+| rowspan="3" align="left"| ''Broken Heartland''
+|-
+! scope="row"| "Fly Me South"<ref>{{cite magazine|url=http://americanradiohistory.com/Archive-Billboard/90s/1993/BB-1993-06-26.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|date=June 26, 1993}}</ref>
+| —
+| —
+|-
+| 1994
+! scope="row"| "Two-Wheel Pony"
+| —
+| —
+|-
+| colspan="5" style="font-size: 8pt"| "—" denotes releases that did not chart
+|}
+
+===Music videos===
+{| class="wikitable"
+|-
+! Year
+! Video
+! Director
+|-
+| rowspan="2"| 1989
+| "Sometimes Love's Not A Pretty Thing"
+|
+|-
+| "Ghost Town"
+| Dan Chaika
+|-
+| 1990
+| "Warpaint"
+|
+|-
+| rowspan="2"| 1993
+| "Broken Heartland"
+| Marc Ball
+|-
+| "Fly Me South"
+| Zaca Creek
+|-
+| 1994
+| "Two Wheel Pony"
+| 
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[{{AllMusic|class=artist|id=p1888|pure_url=yes}} allmusic ((( Zaca Creek > Overview )))]
+
+{{Authority control}}
+
+[[Category:Country music groups from California]]
+[[Category:Columbia Records artists]]
+[[Category:Giant Records (Warner) artists]]
+
+
+{{US-country-band-stub}}

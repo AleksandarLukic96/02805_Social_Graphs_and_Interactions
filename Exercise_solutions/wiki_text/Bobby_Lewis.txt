@@ -1,0 +1,160 @@
+{{Short description|American singer (1925–2020)}}
+{{other people}}
+{{Infobox musical artist
+| name            = Bobby Lewis
+| image           =
+| caption         =
+| birth_name      = Robert Alan Lewis
+| birth_date      = {{birth date|mf=yes|1925|2|9}}
+| birth_place     = [[Indianapolis]], [[Indiana]], U.S.
+| death_date      = {{death date and age|mf=yes|2020|4|28|1925|2|9}}
+| instrument      =
+| genre           = [[Rhythm and blues]], [[rock and roll]]
+| occupation      = Singer
+| years_active    = 1950s–2020
+| label           =
+| associated_acts =
+| website         = 
+}}
+'''Robert Alan Lewis''' (February 9, 1925 – April 28, 2020)<ref>{{musicbrainz artist|id=34092bf3-c768-4781-9933-97b210e35441|name=Bobby Lewis}}</ref> was an American [[rock and roll]] and [[rhythm and blues]] singer, best known for his 1961 hit singles "[[Tossin' and Turnin']]" and "One Track Mind".
+
+==Biography==
+Lewis was born in [[Indianapolis]], [[Indiana]] and was raised in an [[orphanage]].<ref name="billb">{{cite magazine |last1=Unterberger|first1=Andrew|title=Bobby Lewis, '60s Singer and 'Tossin' & Turnin'{{'}} Hitmaker, Dies at 95 |url=https://www.billboard.com/articles/columns/rock/9401723/bobby-lewis-dead-tossin-turnin |magazine=Billboard |access-date=July 22, 2020 |date=June 13, 2020}}</ref> He learned to play the [[piano]] by age six, despite very poor eyesight. Adopted at age twelve, he moved to a [[fosterage|foster home]] in [[Detroit]], [[Michigan]],<ref name="The Book of Golden Discs"/> but ran away at the age of 14.<ref name=allmusic>[https://www.allmusic.com/artist/bobby-lewis-mn0000071409/biography  Bruce Eder, "Bobby Lewis: Biography", ''Allmusic.com'']. Retrieved 29 April 2020</ref>  Growing up with the influences of the pioneer [[blues]] musicians until the advent of [[rock and roll]], Lewis began to build a musical career in the 1950s, initially working in carnival shows, and then as a singer with the Leo Hines Orchestra in Indianapolis.  He made his first recordings for the Spotlight label, and then recorded "Mumbles Blues" for [[Chess Records]] in 1952.  At one stage he was managed by [[Nat Tarnopol]], who also managed [[Jackie Wilson]].<ref name=allmusic/>
+
+Lewis moved to New York City, and his 1960 [[Sound recording and reproduction|recording]] of "[[Tossin' and Turnin']]" on the Beltone label went to [[Hot 100 No. 1 Hits of 1961 (USA)|No.1 for seven weeks]] on the ''[[Billboard (magazine)|Billboard]]'' [[record chart|chart]] in summer 1961. It sold over one million copies and was awarded a [[music recording sales certification|gold disc]].<ref name="The Book of Golden Discs">{{cite book| first= Joseph| last= Murrells| year= 1978| title= The Book of Golden Discs| edition= 2nd| publisher= Barrie and Jenkins Ltd| location= London| page= [https://archive.org/details/bookofgoldendisc00murr/page/83 83]| isbn= 0-214-20512-6| url-access= registration| url= https://archive.org/details/bookofgoldendisc00murr/page/83}}</ref>  Later in 1961, Lewis had a second [[Top 40|Top Ten]] song, "One Track Mind", his only other major hit record (again on Beltone), charting at No. 9.   Subsequent records were less successful.  Beltone Records itself went out of business in 1963, and later recordings for [[ABC-Paramount]] and other labels were also commercial failures.
+
+In a 2011 interview, Lewis said that he had lived in [[Newark, New Jersey]] since about 1980, and had become almost blind, but still performed occasionally.<ref name=nj>[http://www.nj.com/entertainment/index.ssf/2011/04/bobby_lewis_interview.html Bobby Lewis: An Interview by Mark Voger for The New Jersey Star-Ledger, 2011]. Retrieved 29 April 2020</ref>
+
+Lewis died on April 28, 2020, aged 95, after contracting pneumonia.<ref>[https://www.hollywoodreporter.com/news/bobby-lewis-dead-singer-dies-at-95-1298323 Andrew Unterberger, "Bobby Lewis, '60s Singer and "Tossin' & Turnin" Hitmaker, Dies at 95", ''Hollywood Reporter'', June 13, 2020]. Retrieved 14 June 2020</ref>
+
+==Discography==
+===Singles===
+{| class="wikitable" style=text-align:center;
+|-
+!rowspan="2"|Year
+!rowspan="2"|Title
+!colspan="2"|Peak chart<br />positions
+!rowspan="2"|Record Label
+!rowspan="2"|[[A-side and B-side|B-side]]
+!rowspan="2"|Album
+|- style="font-size:smaller;"
+!align=centre| [[Billboard Hot 100|US<br />Pop]]
+!align=centre| [[Hot R&B/Hip-Hop Songs|US<br />R&B]]
+|-
+|rowspan="1"| 1957
+|align=left| "Mumbles Blues"
+| —
+| —
+|rowspan="2"| [[Mercury Records|Mercury]]
+|rowspan="1"| "Oh Baby"
+|rowspan="1"| 
+|-
+|rowspan="1"| 1958
+|align=left| "Oh Mr. Somebody"
+| —
+| —
+|rowspan="1"| "Yay, Yay, I Feel So Gay"
+|rowspan="1"| 
+|-
+|rowspan="1"| 1959
+|align=left| "Fire of Love"
+| —
+| —
+|rowspan="1"| [[Roulette Records|Roulette]]
+|rowspan="1"| "You Better Stop"
+|rowspan="1"| 
+|-
+|rowspan="3"| 1961
+|align=left| "[[Tossin' and Turnin']]"
+| 1
+| 1
+|rowspan="7"| Beltone
+|rowspan="1"| "Oh Yes, I Love You"
+|rowspan="3"| ''Tossin' & Turnin'''
+|-
+|align=left| "One Track Mind"
+| 9
+| 8
+|rowspan="1"| "Are You Ready"
+|-
+|align=left| "What a Walk"
+| 77
+| —
+|rowspan="1"| "Cry No More"
+|-
+|rowspan="4"| 1962
+|align=left| "Mamie in the Afternoon"
+| 110
+| —
+|rowspan="1"| "Yes, Oh Yes, It Did"
+|rowspan="1"| 
+|-
+|align=left| "A Man's Gotta Be a Man"
+| —
+| —
+|rowspan="1"| "Day by Day, I Need Your Love"
+|rowspan="1"| 
+|-
+|align=left| "I'm Tossin' and Turnin' Again"
+| 98
+| —
+|rowspan="1"| "Nothin' but the Blues"
+|rowspan="1"| 
+|-
+|align=left| "[[Lonely Teardrops]]"
+| —
+| —
+|rowspan="1"| "Boom-a-Chick-Chick"
+|rowspan="1"| ''Tossin' & Turnin'''
+|-
+|rowspan="2"| 1964
+|align=left| "Fannie Tucker"
+| —
+| —
+|rowspan="2"| [[ABC Records|ABC-Paramount]]
+|rowspan="1"| "That's Right"
+|rowspan="1"| 
+|-
+|align=left| "Jealous Love"
+| —
+| —
+|rowspan="1"| "Stark Raving Wild"
+|rowspan="1"| 
+|-
+|rowspan="1"| 1968
+|align=left| "Soul Seekin'"
+| —
+| —
+|rowspan="1"| Philips
+|rowspan="1"| "Give Me Your Yesterdays"
+|rowspan="1"| 
+|-
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.oldies.com/artist-view/Bobby-Lewis.html Oldies]
+* {{Discogs artist|Bobby Lewis}}
+
+{{Billboard Year-End number one singles 1960–1979}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lewis, Bobby}}
+[[Category:1925 births]]
+[[Category:2020 deaths]]
+[[Category:20th-century American pianists]]
+[[Category:21st-century American pianists]]
+[[Category:American male pianists]]
+[[Category:American pop pianists]]
+[[Category:American rhythm and blues singers]]
+[[Category:American rock pianists]]
+[[Category:American rock singers]]
+[[Category:Musicians from Indianapolis]]
+[[Category:Singers from Detroit]]
+[[Category:African-American pianists]]
+[[Category:20th-century African-American male singers]]
+[[Category:20th-century American male singers]]
+[[Category:20th-century American singers]]

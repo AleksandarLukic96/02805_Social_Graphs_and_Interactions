@@ -1,0 +1,133 @@
+{{short description|American singer-songwriter}}
+
+{{Infobox musical artist
+| name            = Bryan Austin
+| image           =
+| birth_name      = Bryan Cuevas
+| birth_date      = {{birth date and age|1967|09|12}}
+| origin          = {{nowrap|[[Pass Christian, Mississippi]], U.S.}}
+| instrument      = {{flatlist|
+*[[Singing|Vocals]]
+*[[electric guitar]]}}
+| genre           = [[Country music|Country]]
+| occupation      = [[Singing|Singer]]
+| years_active    = 1994, 2012
+| label           = Patriot/[[Liberty Records|Liberty]]
+| associated_acts = Phoenix
+| website         = 
+}}
+
+'''Bryan Cuevas''' (born September 12, 1967) is an American [[country music]] artist, known professionally as '''Bryan Austin'''. Signed to [[Liberty Records]]' sister label Patriot Records in 1994, he released an album and two singles for the label. The first of these singles, "Radio Active", charted on the ''[[Billboard (magazine)|Billboard]]'' Hot Country Singles & Tracks (now [[Hot Country Songs]]) chart.
+
+==Biography==
+Bryan Cuevas was born September 12, 1967<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc.|year=2008|page=35|isbn=978-0-89820-177-2}}</ref> in [[Pass Christian, Mississippi]].<ref name="book">{{cite book |title=The Encyclopedia of Country Music |last=Kingsbury |first=Paul |year=2004 |publisher=Sourcebooks, Inc. |page=407 |isbn=9780195176087 |url=https://books.google.com/books?id=v4GQDYx_RnkC&q=%22Bryan+austin%22+%22liberty+records&pg=PA407 |accessdate=2009-04-27}}</ref> Cuevas was raised near [[Biloxi, Mississippi]]. In the late 1980s, he founded a band called Texas Flat, whose membership occasionally included [[Brett Favre]], who would later become a quarterback for the [[Green Bay Packers]].<ref name="phoenix">{{cite web | last=Fulmer | first=John | title=Bryan Austin hopes to strike country gold with new band Phoenix. | url=http://www.accessmylibrary.com/coms2/summary_0286-6611037_ITM | date=1999-01-15 | work=Tribune News Service | accessdate=2009-04-27 }}</ref>
+
+Cuevas later changed his surname to Austin. In 1994, he was the first artist signed to Patriot Records, a sister label of [[Liberty Records]] founded by its then-president, [[Jimmy Bowen]].<ref name="book"/> He released his debut single, "Radio Active", that year. This song peaked at No.&nbsp;62 on the U.S. ''[[Billboard (magazine)|Billboard]]'' country singles charts,<ref name="whitburn"/> and was included on his self-titled debut album, which was produced by [[Keith Stegall]]. Another single, "Is It Just Me", was also released and made into a [[music video]],<ref>{{cite web | last=Rush | first=Diane Samms | title=Bryan Austin figures he's on the road to country music stardom | url=http://www.accessmylibrary.com/coms2/summary_0286-5522378_ITM | date=1999-01-15 | work=Tribune News Service | accessdate=2009-04-27 }}</ref>
+
+Austin left Patriot in 1995 after the label was merged into [[Capitol Records]]. He performed on [[Steve Wariner]]'s 1997 instrumental album ''[[No More Mr. Nice Guy (Steve Wariner album)|No More Mr. Nice Guy]]'' on the track "The Brickyard Boogie." This track, which featured [[Bryan White]], [[Jeffrey Steele]] and former [[Pearl River (band)|Pearl River]] member [[Derek George]], was nominated for Best Country Instrumental at the [[Grammy Awards of 1997]].<ref>{{cite news |title=Babyface Tops Grammy Nominations |url=http://community.seattletimes.nwsource.com/archive/?date=19970107&slug=2517543 |work=The Seattle Times |date=1997-01-07 |accessdate=20 February 2009}}</ref> In 1999, Austin founded another band called Phoenix, whose members included Darin Anthony and [[Noah Gordon (singer)|Noah Gordon]], the latter of whom was also signed as solo artist on Patriot in the 1990s.<ref name="phoenix"/>
+
+On November 15, 2012, he released a new EP titled "Drunk on Love".<ref>{{cite web|url=https://bryanaustin.bandcamp.com/album/drunk-on-love |title=Drunk On Love &#124; Bryan Austin |website=Bryanaustin.bandcamp.com |date= |accessdate=2020-03-06}}</ref>
+
+==''Bryan Austin'' (1994)==
+{{Infobox album
+| italic_title = no
+| name         = Bryan Austin
+| type         = studio
+| artist       = Bryan Austin
+| cover        =
+| alt          =
+| released     = July 12, 1994
+| recorded     =
+| venue        =
+| studio       =
+| genre        = Country
+| length       =
+| label        = Patriot/[[Liberty Records|Liberty]]
+| producer     = [[Keith Stegall]]
+| prev_title   =
+| prev_year    =
+| next_title   =
+| next_year    =
+}}
+
+===Track listing===
+#"Radio Active" (Bucky Jones, L. David Lewis, Kim Williams) – 3:20
+#"You're Right, I'm Wrong" (Wayne Perry, [[Marty Stuart]]) – 2:44
+#"That's What She Said" (Russ Roberts, [[Neil Thrasher]], Williams) – 3:45
+#"Is It Just Me" ([[Kent Blazy]], Thrasher) – 3:55
+#"Open Your Eyes" ([[Billy Kirsch]], [[Fred Koller]]) – 3:03
+#"Long Walk Back" (Bryan Austin) – 3:04
+#"Susannah" ([[Gretchen Peters]]) – 3:31
+#"Limo Driver" (Austin, [[Roger Murrah]], [[Keith Stegall]]) – 3:18
+#"That Makes One of Us" (Austin, Stegall, [[Gary Harrison]]) – 3:40
+#"All Dressed Up with No Place to Go" (Austin, James Dean Hicks) – 2:41
+
+===Personnel===
+* Bryan Austin - [[electric guitar]], lead vocals, background vocals
+* [[Eddie Bayers]] - [[drums]]
+* Bruce Bouton - [[steel guitar]]
+* [[Terri Clark]] - background vocals
+* [[Stuart Duncan]] - [[fiddle]]
+* [[Paul Franklin (musician)|Paul Franklin]] - steel guitar
+* Dennis Henson - background vocals
+* John Kelton - [[acoustic guitar]]
+* [[Brent Mason]] - electric guitar
+* Gary Prim - [[Keyboard instrument|keyboards]], [[piano]]
+* [[Hargus "Pig" Robbins]] - piano
+* [[Keith Stegall]] - acoustic guitar
+* [[Biff Watson]] - acoustic guitar
+* [[Glenn Worf]] - [[bass guitar]]
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:10em;"| Single
+!| Peak positions
+|- style="font-size:smaller;"
+! style="width:65px;"| [[Hot Country Songs|US Country]]<br /><ref name="whitburn"/>
+|-
+| rowspan="2"| 1994
+! scope="row"| "Radio Active"
+| 62
+|-
+! scope="row"| "Is It Just Me"
+| —
+|-
+| colspan="3" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:10em;"| Video
+! Director
+|-
+| rowspan="2"| 1994
+! scope="row"| "Radio Active"
+| [[Steven Goldmann]]
+|-
+! scope="row"| "Is It Just Me"
+| 
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Austin, Bryan}}
+[[Category:1967 births]]
+[[Category:Living people]]
+[[Category:People from Pass Christian, Mississippi]]
+[[Category:American country guitarists]]
+[[Category:American male guitarists]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Singer-songwriters from Mississippi]]
+[[Category:Liberty Records artists]]
+[[Category:Guitarists from Mississippi]]
+[[Category:20th-century American guitarists]]
+[[Category:Country musicians from Mississippi]]
+[[Category:20th-century American male musicians]]

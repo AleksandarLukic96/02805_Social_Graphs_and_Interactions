@@ -1,0 +1,120 @@
+{{Short description|American country music duo}}
+{{Infobox musical artist
+| name         = Hometown News
+| image        =
+| caption      =
+| image_size   =
+| origin       = [[Nashville, Tennessee]], United States
+| genre        = [[country music|Country]]
+| years_active = 2002-2006
+| label        = VFR<br />Quarterback
+| past_members = Ron Kingery<br />Scott Whitehead
+}}
+'''Hometown News''' was an American [[country music]] duo composed of singer-songwriters Ron Kingery and Scott Whitehead, both of whom were vocalists and guitarists.<ref name="allmusic">{{cite web |url={{Allmusic|class=artist|id=p529525/biography|pure_url=yes}} |title=allmusic ((( Hometown News > Biography ))) |accessdate=2007-07-19 |last=Monger |first=James Christopher |work=[[Allmusic]]}}</ref> Hometown News has recorded two independently released albums, in addition to charting two singles on the ''[[Billboard (magazine)|Billboard]]'' country music charts. Their highest-peaking single, "Minivan", reached No.&nbsp;37 in 2002.
+
+==History==
+Before the duo's formation, Ron Kingery worked as a studio engineer for various country music artists in [[Nashville, Tennessee]], in addition to writing children's music. Scott Whitehead, a graduate of the University of Tennessee at Martin and formerly a pilot for the [[United States Navy]], was also working a songwriter in Nashville, when he met Kingery at a songwriter's workshop in 1996.<ref name="about">{{cite web |url=http://countrymusic.about.com/library/blhometownnewsrev.htm |title=CD Review: Wheels - Hometown News |accessdate=2007-07-22 |last=Bjorke |first=Matt |work=[[About.com]] |archive-date=2002-12-02 |archive-url=https://web.archive.org/web/20021202154727/http://countrymusic.about.com/library/blhometownnewsrev.htm |url-status=dead }}</ref><ref name="ford">{{cite web |url=http://www.fordentertainment.com/artistdetail.aspx?ArtistID=20681 |title=Ford Entertainment & Productions |accessdate=2007-07-22 |work=Ford Entertainment.com}}</ref> In addition, the duo appeared on the [[Grand Ole Opry]], as well as playing gigs at several military bases.
+
+==Recording career==
+The duo were then signed to VFR Records in 2002, recording their album ''Wheels'' that year. The album produced two singles in its title track and "Minivan", the latter a Top 40 hit. Shortly afterward, the duo embarked on a tour of the United States, sponsored by the [[Ford Motor Company]].<ref>{{cite web |url=http://www.theautochannel.com/news/2002/02/21/036106.html |title="Hometown News" Sets Off On Minivan PromotionalTour'' |accessdate=2007-07-22 |work=The Auto Channel.com}}</ref> VFR closed in 2002, however, and the duo was left without a record deal.
+
+Hometown News sang "[[The Star-Spangled Banner]]" and "[[God Bless America]]" at game six of the 2004 National League Championship Series at [[Busch Stadium]] in [[St. Louis, Missouri]].
+
+In 2005, Hometown News signed to the independent Quarterback Records label. Their second album, ''Hometown News'', was released in 2006,<ref name="allmusic"/> although it did not produce any  chart singles.
+
+Whitehead died on March 12, 2021, of unknown causes.<ref>{{Cite web|url=https://theboot.com/scott-whitehead-hometown-news-dead/|title = Scott Whitehead of Early 2000s Duo Hometown News Dies|website = The Boot}}</ref>
+
+==Discography==
+
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:10em;"| Title
+! style="width:18em;"| Album details
+|- 
+! scope="row"| ''Wheels''
+| 
+* Release date: June 4, 2002
+* Label: VFR Records
+* Formats: [[Compact disc|CD]]
+|- 
+! scope="row"| ''Hometown News''
+| 
+* Release date: September 20, 2005
+* Label: Quarterback Records
+* Formats: CD, [[music download]]
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:12em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="50"| [[Hot Country Songs|US Country]]<br><ref>{{cite magazine|url={{BillboardURLbyName|artist=hometown news|chart=all}}|title=Hometown News Album & Song Chart History - Country Songs|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=July 24, 2011}}</ref>
+|-
+| rowspan="2"| 2002
+! scope="row"| "Minivan"
+| 37
+| align="left" rowspan="4"| ''Wheels''
+|-
+! scope="row"| "Wheels"
+| 47
+|-
+| 2003
+! scope="row"| "First Second Chance"
+| —
+|-
+| rowspan="2"| 2004
+! scope="row"| "Revitalize"
+| —
+|-
+! scope="row"| "If I Could"
+| —
+| align="left" rowspan="3"| ''Hometown News''
+|-
+| 2005
+! scope="row"| "That's Country to Me"
+| —
+|-
+|rowspan=2| 2006
+! scope="row"| "Brand New Me"
+| —
+|-
+! scope="row"|"God Bless the Children" {{small|(with Wayne Warner and the Nashville All-Star Choir)}}<ref>{{cite web | url=http://www.waynewarner.com/photos/gbtc/choir.html | title=Nashville All Star Choir | work=Wayne Warner | accessdate=November 28, 2019}}</ref>
+| —
+| ''Turbo Twang'n''
+|-
+| colspan="10" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;"| Video
+! Director
+|-
+| rowspan="2"| 2004
+! scope="row"| "Revitalize"
+| 
+|-
+! scope="row"| "If I Could"
+| 
+|-
+|}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+[[Category:Country music groups from Tennessee]]
+[[Category:American country music duos]]
+[[Category:Musical groups established in 2002]]
+[[Category:2002 establishments in Tennessee]]
+[[Category:Musical groups disestablished in 2008]]

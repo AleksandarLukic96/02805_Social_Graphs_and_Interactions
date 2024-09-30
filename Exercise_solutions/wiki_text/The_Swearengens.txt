@@ -1,0 +1,72 @@
+{{Short description|American alternative country band}}
+{{Infobox musical artist
+| name            = The Swearengens
+| image           = Promotional_photo_for_the_band_The_Swearengens.jpg
+| image_size      =
+| landscape       = <!-- yes, if wide image, otherwise leave blank -->
+| alt             =
+| caption         = L to R: Soren Godbersen, Kirsten Ballweg, Fredd Luongo, Jeff Baars. Photo by Corey Knafelz
+| alias           =
+| origin          = [[Seattle]], [[Washington (U.S. state)|Washington]], United States
+| genre           = [[Country music|Country]], [[Alternative country]], [[Americana music|Americana]], [[Country rock]], [[Roots rock]]
+| years_active    = 2010–present
+| label           =
+| associated_acts =
+| website         = {{URL|www.swearengens.com}}
+| current_members = * [[Fredd Luongo]]
+* Soren Godbersen
+* Forrest Marowitz
+* Jesse Harmonson
+| past_members    = * Kirsten Ballweg
+* Jeff Baars
+* Fred Slater
+* Fritz Marial
+* Brian Ochs
+* Nicole Clare
+| module          =
+| module2         =
+| module3         = 
+}}
+
+'''The Swearengens''' are an American [[alternative country]] band formed in 2010 in [[Seattle]].
+
+==Background==
+The band consists of [[Fredd Luongo]] on vocals and guitar, Soren Godbersen on guitars and "Cadillacs, etc.", Forrest Marowitz on bass and backing vocals, and Jesse Harmonson on drums. All of their songs are written by frontman Fredd. They can often be found playing, and sipping a beverage, at places in [[Seattle]] like the [http://www.tractortavern.com/ Tractor Tavern], the [http://www.conorbyrnepub.com/welcome/#about Conor Byrne Pub] and the [http://www.littleredhen.com/ Little Red Hen].
+
+The band has been described as: "From epic road songs to tear-stained tales of heartache, from Texas-style rockers to dark-humored murder ballads, The Swearengens cover a lot of musical and emotional territory in their twisted attempt at reviving the glory days alt-country of [[Whiskeytown]], [[The Jayhawks]], [[Dwight Yoakam]], [[Uncle Tupelo]], and [[Steve Earle]]."
+
+The band released their first album, ''[[Devil Gets Her Way]]'', on June 30, 2012. It was named one of "Seattle's Best Country Albums of 2012" by [[Seattle Weekly]].<ref>Gwendolyn Elliott [http://archive.seattleweekly.com/home/915910-129/lissssssssts "Seattle's Top Country Albums of 2012"]. ''[[Seattle Weekly]]'', December 12, 2012.</ref> Their second album, ''[[Waiting On The Sunrise]]'', was released on June 8, 2013. It was named one of the "Top Ten Albums of 2013" by Leigh Bezezekoff at [[KEXP-FM]].<ref>[http://blog.kexp.org/2013/12/18/kexp-staff-volunteers-interns-top-ten-albums-of-2013-part-1/ "KEXP Staff, Volunteers & Interns Top Ten Albums of 2013, Part 1"]. ''[[KEXP-FM]]'', December 18, 2013.</ref> The band's most recent album, ''[['Merican Woman & Other Tales]]'', was released on June 26, 2015.<ref>Aplscruf [http://nodepression.com/live-review/swearengens-album-release-party-packs-tractor-seattle-wa "The Swearengens Album Release Party Packs The Tractor (Seattle, WA)"]. ''[[No Depression (magazine)]]'', July 3, 2015.</ref>
+
+==Discography==
+{| class="wikitable" style="text-align:center;"
+! Year
+! Album
+|-
+| 2012
+| align="left"| ''[[Devil Gets Her Way]]''<ref>[https://swearengens.bandcamp.com/album/devil-gets-her-way Devil Gets Her Way on Bandcamp]</ref>
+|-
+| 2013
+| align="left"| ''[[Waiting On The Sunrise]]''<ref>[https://swearengens.bandcamp.com/album/waiting-on-the-sunrise Waiting On The Sunrise on Bandcamp]</ref>
+|-
+| 2015
+| align="left"| ''[['Merican Woman & Other Tales]]''<ref>[https://swearengens.bandcamp.com/album/merican-woman-other-tales 'Merican Woman & Other Tales on Bandcamp]</ref>
+|-
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* The Swearengens on [http://swearengens.bandcamp.com/ Bandcamp]
+* {{soundcloud|swearengens}}
+* The Swearengens on [https://www.youtube.com/user/swearengens YouTube]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Swearengens, The}}
+[[Category:American country music groups]]
+[[Category:American alternative country groups]]
+[[Category:American country rock groups]]
+[[Category:Musical groups established in 2010]]
+[[Category:Musical groups from Seattle]]
+[[Category:2010 establishments in Washington (state)]]

@@ -1,0 +1,110 @@
+{{More citations needed|date=October 2019}}
+{{Infobox musical artist | <!-- See Wikipedia:WikiProject Musicians -->
+| name                = Nashville West
+| image                 =
+| caption            =
+| image_size            =
+| background          = group_or_band
+| alias               =
+| origin              = [[California]], [[United States]]
+| instrument          =
+| genre               = [[Country music|Country]], [[country rock]], [[folk rock]], [[Bakersfield sound]]
+| occupation          =
+| years_active        = 1967–69
+| label               =
+| associated_acts     =
+| website             =
+| current_members     =
+| past_members        = [[Gene Parsons]]<br />[[Gib Guilbeau]]<br />[[Clarence White]]<br />[[Wayne Moore (musician)|Wayne Moore]]
+}}
+
+'''Nashville West''' was a short-lived [[United States|American]] [[country rock]] quartet, that was briefly together in the late 1960s.<ref name="Larkin">{{cite book|title=[[Encyclopedia of Popular Music|The Virgin Encyclopedia of Popular Music]]|editor=Colin Larkin|editor-link=Colin Larkin (writer)|publisher=[[Virgin Books]]|date=1997|edition=Concise|isbn=1-85227-745-9|page=889}}</ref> The group comprised multi-instrumentalist [[Gene Parsons]], guitarist [[Clarence White]], singer-guitarist-fiddler [[Gib Guilbeau]] and bassist [[Wayne Moore (musician)|Wayne Moore]].<ref name="Larkin"/> Parsons and White left the band to join [[The Byrds]] while Guilbeau and Parsons later joined [[the Flying Burrito Brothers]].
+
+Along with the [[International Submarine Band]], [[The Byrds]] and [[The Flying Burrito Brothers]], Nashville West was among the pioneering groups of the [[country rock]] genre.
+
+An album by Nashville West was released in 1978, about ten years after the band had broken up. The material on the ''Nashville West'' album was recorded during a club date in 1968.
+The album was released again 2003 on Rev-ola, a division of Cherry Red Records.
+
+==History==
+===Formation===
+In the mid-1960s, [[Gene Parsons]] and fiddler [[Gib Guilbeau]], who had been earlier acquainted from their time together in a band called the Castaways, were hired for a recording session with the Gosdin Brothers' singing duo of [[Vern Gosdin|Vern]] and Rex Gosdin. The session, being produced by [[The Byrds]]' [[Chris Hillman]], included guitarist [[Clarence White]], who had formerly played [[Bluegrass music|bluegrass]] guitar in the [[Kentucky Colonels (band)|Kentucky Colonels]]. Parsons, Guilbeau and White then went on to play on sessions together for several other [[country music]] artists and became the house band for [[Gary S. Paxton]]'s record label, [[Bakersfield, California|Bakersfield]] International Productions.<ref name="Byrdwatcher">{{Cite web|url=http://ebni.com/byrds/spnw1.html|archive-url=https://web.archive.org/web/20090425021745/http://ebni.com/byrds/spnw1.html|url-status=dead|archive-date=April 25, 2009|title=Nashville West|date=April 25, 2009}}</ref>
+
+In the course of their session work, Parsons and White devised the [[B-Bender]], or Stringbender, a system installed on White's [[Fender Telecaster]] that made the instrument sound like a [[pedal steel guitar]].<ref name = "Byrdwatcher"/>
+
+Eventually, Parsons, Guilbeau and White became a band, joining with fellow session player, bassist-vocalist Wayne Moore, who played in the Castaways with Parsons and Guilbeau.<ref name="Larkin"/>
+
+The group was known by various names, including The Reasons, Gib Guilbeau and The Reasons, the Gary Paxton Band or Cajun Gib and Gene.<ref name = "Gib">{{Cite web |url=http://members.chello.at/thomas.aubrunner/gib3.htm |title=Gib Guilbeau with Nashville West |access-date=2007-10-06 |archive-url=https://web.archive.org/web/20071118122158/http://members.chello.at/thomas.aubrunner/gib3.htm |archive-date=2007-11-18 |url-status=dead }}</ref> The Nashville West moniker was taken from the name of the [[El Monte, California]] club where they sat as the house band,<ref name = "Byrdwatcher"/> and was the name of an instrumental song composed by Parsons and White.
+
+===Break up===
+{{Unreferenced section|date=December 2010}}
+Parsons and White were then asked to join [[The Byrds]] in 1969.<ref name="Larkin"/> White had already played on 1968's ''[[The Notorious Byrd Brothers]]'' and ''[[Sweetheart of the Rodeo]]''. After both [[Gram Parsons]] (no relation to Gene) and Chris Hillman left the Byrds to form [[the Flying Burrito Brothers]], White and Gene Parsons joined [[Roger McGuinn]] and [[John York (musician)|John York]] to become full-fledged members of The Byrds. The resulting next album, ''[[Dr. Byrds & Mr. Hyde]]'', featured White's and Parsons' signature instrumental tune, "Nashville West".<ref name="Larkin"/> White and Parsons were with the Byrds for the albums ''[[Live at the Fillmore - February 1969]]'', ''[[Ballad of Easy Rider (album)|Ballad of Easy Rider]]'', ''[[Untitled (The Byrds album)|(Untitled)]]'',  ''[[Byrdmaniax]]'' and ''[[Farther Along (The Byrds album)|Farther Along]]''.
+
+When the original line-up of The Byrds reunited in March 1973 to record ''[[Byrds]]'', White left the Byrds to join the bluegrass [[Supergroup (music)|supergroup]] [[Muleskinner (band)|Muleskinner]]. He also played on a package tour with several other country rock pioneers at the time, including Gram Parsons. White then reformed his old band, the Kentucky Colonels, with his brothers, but was killed on July 15, 1973 in [[Palmdale, California]], when he was struck by a car driven by a [[Driving under the influence|drunken driver]]. <ref>"Car kills Topanga musician", ''Long Beach (CA) Press-Telegram'', Monday, July 16, 1973, p. 13 (A Topanga musician loading instruments aboard his van was struck and killed Sunday...")</ref>
+
+Guilbeau went on to play sessions with [[Linda Ronstadt]] and joined a band called Swampwater. He also played with [[Sneaky Pete Kleinow]] in a group called Cold Steel. In 1974, Guilbeau and Gene Parsons joined [[the Flying Burrito Brothers]].
+
+==Album==
+{{Infobox album
+| italic_title = no
+| name       = Nashville West
+| type       = live
+| artist     = Nashville West
+| cover      = Nashville_West_album_cover.jpg
+| alt        =
+| released   = 1978<br />1997 (CD reissue)<br />2003
+| recorded   = 1967<br />[[El Monte, California]]
+| venue      =
+| studio     =
+| genre      = [[Country rock]], [[Bakersfield sound]]
+| length     = 55:38
+| label      = [[Sierra Records|Sierra]]
+| producer   = [[Gary S. Paxton]]
+| prev_title =
+| prev_year  =
+| next_title =
+| next_year  =
+}}
+{{Album ratings
+| rev1 = [[Allmusic]]
+| rev1Score = {{Rating|3|5}} [{{AllMusic|class=album|id=r312682|pure_url=yes}} link]
+| noprose = yes
+}}
+
+As a session band, Nashville West recorded prolifically, though never under the Nashville West name, backing other artists on [[Gary S. Paxton]]'s record label.<ref name = "Gib"/> However, in 1978, an album under the name ''Nashville West'' was eventually released on the [[Sierra Records]] label. The material on it came from a 1967 club date in [[El Monte, California]], which had been recorded by Parsons for personal use, and not necessarily for album release.
+
+The songs include an instrumental reading of [[Bobbie Gentry]]'s "[[Ode to Billie Joe]]".
+
+"I had a Sony two-track, and I hooked it up, partly to the sound system and partly to the microphones, and just let it run and recorded the whole night," Parsons said. "There's a lot that never got on the album, thank goodness."<ref name = "Byrdwatcher"/>
+
+The album was reissued on CD by Sierra in 1997, and added four more tracks not included on the LP edition: "C.C. Rider", "Greensleeves", "Mom and Dad's Waltz" and "Columbus Stockade Blues".
+
+===Track listing===
+#"Nashville West" ([[Gene Parsons]], [[Clarence White]]) – 0:41
+#"Mental Revenge" ([[Mel Tillis]]) – 3:37
+#"I Wanna Live" ([[John D. Loudermilk]]) – 3:14
+#"[[See See Rider|C.C. Rider]]" (traditional) – 3:56
+#"Sweet Susannah"  ([[Gib Guilbeau]]) – 2:35
+#"[[Green Green Grass of Home]]" ([[Curly Putman]]) – 4:30
+#"[[Love of the Common People]]" (John Hurley, Ronnie Wilkins) – 3:09
+#"Tuff and String" ([[Gary S. Paxton]]) – 0:31
+#"[[I Washed My Hands In Muddy Water]]" ([[Joe Babcock]]) – 2:23
+#"[[Greensleeves]]" (traditional) – 3:23
+#"[[Ode to Billie Joe]] ([[Bobbie Gentry]]) – 3:43
+#"Mom and Dad's Waltz" ([[Lefty Frizzell]]) – 3:22
+#"Louisiana Rains" (Guilbeau) – 2:34
+#"Sing Me Back Home" ([[Merle Haggard]]) – 3:14
+#"Columbus Stockade Blues" (traditional) – 4:13
+#"[[Memphis, Tennessee (song)|Memphis]]" ([[Chuck Berry]]) – 3:27
+#"[[By the Time I Get to Phoenix]]" ([[Jimmy Webb]]) – 5:04
+#"Nashville West" (Parsons/White) – 2:03
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{AllMusic|class=artist|id=p40581|label=Nashville West}}
+
+{{Authority control}}
+
+[[Category:American country rock groups]]
+[[Category:Musical groups from California]]

@@ -1,0 +1,340 @@
+{{short description|American singer-songwriter (born 1985)}}
+{{Use mdy dates|date=July 2020}}
+{{Infobox musical artist
+| name            = Meghan Linsey
+| image           = Meghan Linsey.jpg
+| caption         = Meghan Linsey in 2010.
+| birth_name      =
+| birth_date      = {{birth date and age|1985|12|10}}
+| birth_place     = [[Ponchatoula]], [[Louisiana]], United States
+| instrument      =
+| genre           = [[Country music|Country]], pop
+| occupation      = Singer-songwriter
+| other names     =
+| label           =
+| years_active    = 2009–present
+| website         = http://www.meghanlinsey.com
+| past_member_of = [[Steel Magnolia]]
+}}
+
+'''Meghan Linsey''' (born December 10, 1985) is an American singer-songwriter.  A [[Ponchatoula, Louisiana]] native, Linsey started her musical career by forming [[Steel Magnolia]] with her boyfriend of three years, [[Joshua Scott Jones]]. Before trying out for ''[[Can You Duet]]'', Linsey was a karaoke host at a Nashville karaoke bar, called Lonnie's Western Room, which is where she met Jones.<ref name="Roughstock" /> After becoming the top winner on the show, the duo signed a recording contract with [[Big Machine Records]], and released its debut single "[[Keep On Lovin' You]]" in August 2009, which was a Top 10 hit on the U.S. ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] chart.<ref name="Roughstock">{{cite web|url=http://www.roughstock.com/blog/steel-magnolia-wins-season-2-of-can-you-duet |title=Steel Magnolia wins Season 2 of ''Can You Duet'' |last=Bjoke |first=Matt |date=August 9, 2009 |access-date=August 17, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20090819055339/http://www.roughstock.com/blog/steel-magnolia-wins-season-2-of-can-you-duet |archive-date=August 19, 2009 }}</ref> In March 2014, Linsey and Jones split and decided to pursue solo careers.<ref>{{cite web|url=https://www.facebook.com/steelmagnoliamusic/posts/10152018653627879|title=Steel Magnolia|website=www.facebook.com|access-date=May 5, 2019}}</ref>
+
+==Music career==
+Linsey started her solo career by releasing a cover of [[OneRepublic]]'s "[[Counting Stars]]". In 2015, Linsey was selected to audition for [[The Voice (U.S. season 8)|season 8]] of ''[[The Voice (U.S. TV series)|The Voice]]'', having three judges (with the exception of [[Blake Shelton]]) turn their chairs around. She chose [[Pharrell Williams]] as her coach, and was stolen by Shelton after losing in the battle rounds. She continued with Shelton as her coach throughout the season.  She finished the season coming in second place to [[Sawyer Fredericks]] from Team Pharrell. Shortly after she returned to Nashville, she released an EP titled ''Believer'' including six songs. Following the EP release, she developed a beauty brand titled "Believer by Meghan Linsey." To create this curated collection of cruelty-free products, she partnered with [[Previse]] and Modern Minerals.<ref>{{cite web|url=http://www.msopr.com/nashville/|title=About MSO PR Nashville – Mitch Schneider Organization|website=Msopr.com|access-date=May 5, 2019}}</ref>
+
+In 2017, her first Pop studio album, named ''Bold Like a Lion'', was released and contained 13 songs.
+
+===''The Voice''===
+{{Color box|gold|border=darkgray}} Studio version of performance reached the top 10 on iTunes
+{| class="wikitable" style="text-align:center; font-size:90%; line-height:16px;"
+|-
+! scope="col" | Stage
+! scope="col" | Song
+! scope="col" | Original Artist
+! scope="col" | Date
+! scope="col" | Order
+! scope="col" | Result
+|-
+! scope="row" | Blind Audition
+| "[[Love Hurts]]"
+| [[The Everly Brothers]]; later famously covered by [[Nazareth (band)|Nazareth]]
+| February 23, 2015
+| 1/8
+| style="background:white;" | [[Adam Levine]], [[Pharrell Williams]] and [[Christina Aguilera]] turned <br> Joined Team Pharrell
+|-
+! scope="row" | Battle Rounds (Top 48)
+| "[[Don't Let Me Down (Beatles song)|Don't Let Me Down]]" <small>(vs. Paul Pfau)</small>
+| [[The Beatles]]
+| March 10, 2015
+| 7/9
+| style="background:white;" | Defeated <br> Stolen by [[Blake Shelton]]
+|-
+! scope="row" | Knockout Rounds (Top 32)
+| "[[(You Make Me Feel Like) A Natural Woman]]"  <small>(vs. Travis Ewing)</small>
+| [[Aretha Franklin]]
+| March 23, 2015
+| 10/5
+| style="background:white;" | Saved by Coach
+|-
+! scope="row" | Live Playoffs (Top 20)
+| "[[Love Runs Out]]"
+| [[OneRepublic]]
+|  April 6, 2015
+| 9
+| style="background:white;" | Saved by Public Vote
+|-
+! scope="row" | Live Top 12
+| style="background:gold;" | "[[Girl Crush]]"
+| [[Little Big Town]]
+|  April 13, 2015
+| 11
+| style="background:white;" | Saved by Public Vote
+|-
+! scope="row" | Live Top 10
+|"[[Marc Broussard|Home]]"
+| [[Marc Broussard]]
+|  April 20, 2015
+| 4
+| style="background:white;" | Saved by Public Vote
+|-
+! scope="row" | Live Top 8
+|"[[Something (Beatles song)|Something]]"
+| [[The Beatles]]
+|  April 27, 2015
+| 4
+| style="background:white;" | Saved by Public Vote
+|-
+! scope="row" rowspan="2" | Live Top 6 
+| "[[Steamroller Blues]]" 
+| [[James Taylor]]
+| rowspan="2" | May 4, 2015
+| 5
+| rowspan="2" style="background:white;" | Saved by Public Vote
+|-
+| style="background:gold;" | "[[Amazing Grace]]"
+| Christian song
+| 12
+|-
+! scope="row" rowspan="2" | Live Top 5 (Semi-finals)
+|"[[I'm Not the Only One]]" 
+| [[Sam Smith (singer)|Sam Smith]]
+| rowspan="2" | May 11, 2015
+| 3
+| rowspan="2" style="background:white;" | Saved by Public Vote
+|-
+| style="background:gold;" | "[[Tennessee Whiskey (song)|Tennessee Whiskey]]"
+| [[David Allan Coe]]; later famously covered by [[George Jones]], also later covered by [[Chris Stapleton]]
+| 8
+|-
+! scope="row" rowspan="3" | Live Finale
+| "[[When a Man Loves a Woman (song)|When a Man Loves a Woman]]" 
+| [[Percy Sledge]]
+| rowspan="3" | May 18, 2015
+| 11
+| rowspan="3" style="background:white;" | Runner-up
+|-
+| "[[Freeway of Love]]" <small>(with [[Blake Shelton]]) </small>
+| [[Aretha Franklin]]
+| 8
+|-
+| style="background:gold;" | "Change My Mind" 
+| Meghan Linsey
+| 2
+|}
+
+==Discography==
+
+=== Albums ===
+{| class="wikitable plainrowheaders"
+|-
+! style="width:12em;"| Title
+! style="width:18em;"| Details
+|-
+! scope="row"| ''This Is Now''<ref>{{cite web|url=https://www.allmusic.com/album/this-is-now-mw0000249403/releases|title=This Is Now - Meghan Linsey &#124; Releases &#124; AllMusic|publisher=[[AllMusic]]|access-date=September 15, 2020}}</ref>
+| 
+* Release date: 2002
+* Label: Thumbprint
+* Formats: CD
+|-
+|}
+
+=== Extended plays ===
+{| class="wikitable plainrowheaders"
+|-
+! style="width:12em;"| Title
+! style="width:18em;"| Details
+|-
+! scope="row"| ''Meghan Linsey''
+| 
+* Release date: September 9, 2014
+* Label: Bold Music Group, LLC.
+* Formats: CD, [[music download]]
+|-
+! scope="row"| ''Believer''
+| 
+* Release date: July 31, 2015 
+* Label: Bold Music Group, LLC.
+* Formats: CD, music download
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Title
+! Peak<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! [[Billboard Hot 100|US]]<br /><ref>{{cite magazine|url={{BillboardURLbyName|artist=meghan linsey|chart=Hot 100}}|title=Meghan Linsey Album & Song Chart History – Hot 100|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|access-date=December 21, 2015}}</ref>
+|-
+| 2013
+! scope="row"| "[[Counting Stars]]"
+| —
+| align="left"| ''Meghan Linsey''
+|-
+| rowspan="3"| 2014
+! scope="row"| "Gasoline and Matches" <small>(with [[James Otto]])</small>
+| —
+| align="left"| ''Crazy Hearts: Nashville'' <small>(soundtrack)</small>
+|-
+! scope="row"| "Try Harder Than That" <small>(feat. [[Bubba Sparxxx]])</small>
+| —
+| align="left"| ''Meghan Linsey''
+|-
+! scope="row"| "[[O Holy Night]]"
+| —
+| {{n/a}}
+|-
+| rowspan="3"| 2015
+! scope="row"| "Love Never Sleeps"
+| —
+| align="left"| ''Meghan Linsey''
+|-
+! scope="row"| "Change My Mind"
+| 92
+| align="left"| ''The Voice: The Complete Season 8 Collection''
+|-
+! scope="row"| "Perfect Time of Year"
+| —
+| {{n/a}}
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:20em;"| Video
+! Director
+|-
+| 2013
+! scope="row"| "Counting Stars"<ref>{{cite web|url=http://www.cmt.com/videos/meghan-linsey/982901/counting-stars.jhtml|archive-url=https://web.archive.org/web/20150410101637/http://www.cmt.com/videos/meghan-linsey/982901/counting-stars.jhtml|url-status=dead|archive-date=April 10, 2015|title=CMT : Videos : Meghan Linsey : Counting Stars|publisher=[[Country Music Television]]|access-date=December 21, 2015}}</ref>
+| Josh Marx
+|-
+| 2014
+! scope="row"| "Try Harder Than That" <small>(feat. [[Bubba Sparxxx]])</small><ref>{{cite web|url=http://www.cmt.com/videos/meghan-linsey/1090118/try-harder-than-that.jhtml|archive-url=https://web.archive.org/web/20141120152531/http://www.cmt.com/videos/meghan-linsey/1090118/try-harder-than-that.jhtml|url-status=dead|archive-date=November 20, 2014|title=CMT : Videos : Meghan Linsey : Try Harder Than That|publisher=[[Country Music Television]]|access-date=December 21, 2015}}</ref>
+| Ryan Hamblin
+|-
+|}
+
+===Releases from ''The Voice''===
+
+====Albums====
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:12em;"| Title
+! rowspan="2" style="width:18em;"| Details
+! Peak<br />positions
+|- style="font-size:smaller;"
+! [[Billboard 200|US]]<br /><ref>{{cite magazine|url={{BillboardURLbyName|artist=meghan linsey|chart=Billboard 200}}|title=Meghan Linsey Album & Song Chart History – Billboard 200|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|access-date=December 21, 2015}}</ref>
+|-
+! scope="row"| ''The Voice: The Complete<br />Season 8 Collection''
+| 
+* Release date: May 19, 2015
+* Label: [[Republic Records]]
+* Formats: music download
+| 45
+|-
+|}
+
+====Singles====
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Title
+! colspan="4"| Peak chart positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Billboard Hot 100|US]]<br /><ref>{{cite magazine|url=http://www.billboard.com/biz/search/charts?f%5B0%5D=ts_chart_artistname%3AMeghan%20Linsey&f%5B1%5D=itm_field_chart_id%3A344&f%5B2%5D=ss_bb_type%3Achart_item&type=2&artist=Meghan%20Linsey|title=Meghan Linsey Album & Song Chart History – Bubbling Under Hot 100|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|access-date=December 21, 2015}}</ref>
+! width="45"| [[Christian Songs|US Christ]]<br /><ref>{{cite magazine|url={{BillboardURLbyName|artist=meghan linsey|chart=Christian Songs}}|title=Meghan Linsey Album & Song Chart History – Christian Songs|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|access-date=December 21, 2015}}</ref>
+! width="45"| [[Hot Country Songs|US Country]]<br /><ref>{{cite magazine|url={{BillboardURLbyName|artist=meghan linsey|chart=Country Songs}}|title=Meghan Linsey Album & Song Chart History – Country Songs|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|access-date=December 21, 2015}}</ref>
+! width="45"| [[Hot Rock Songs|US<br />Rock]]<br /><ref>{{cite magazine|url={{BillboardURLbyName|artist=meghan linsey|chart=Rock Songs}}|title=Meghan Linsey Album & Song Chart History – Rock Songs|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|access-date=December 21, 2015}}</ref>
+|-
+| rowspan="9"| 2015
+! scope="row"| "[[Girl Crush]]"
+| 101
+| —
+| 22
+| —
+| rowspan="9"| ''The Voice: The Complete<br />Season 8 Collection''
+|-
+! scope="row"| "Home"
+| —
+| —
+| —
+| 27
+|-
+! scope="row"| "[[Something (Beatles song)|Something]]"
+| —
+| —
+| —
+| 30
+|-
+! scope="row"| "[[Amazing Grace]]"
+| 109
+| 1
+| —
+| —
+|-
+! scope="row"| "[[Steamroller Blues]]"
+| —
+| —
+| —
+| 37
+|-
+! scope="row"| "[[I'm Not the Only One]]"
+| —
+| —
+| —
+| —
+|-
+! scope="row"| "[[Tennessee Whiskey (song)|Tennessee Whiskey]]"
+| 118
+| —
+| 28
+| —
+|-
+! scope="row"| "[[When a Man Loves a Woman (song)|When a Man Loves a Woman]]"
+| —
+| —
+| —
+| —
+|-
+! scope="row"| "[[Freeway of Love]]" <small>(with [[Blake Shelton]])</small>
+| —
+| —
+| —
+| —
+|-
+| colspan="7" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+==References==
+{{Reflist|30em}}
+
+{{Steel Magnolia}}
+{{The Voice (U.S.)}}
+
+==External links==
+*{{Official website|http://www.meghanlinsey.com/|Meghan Linsey's website}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Linsey, Meghan}}
+[[Category:1985 births]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:American women singer-songwriters]]
+[[Category:Country musicians from Louisiana]]
+[[Category:Living people]]
+[[Category:Singers from New Orleans]]
+[[Category:Participants in American reality television series]]
+[[Category:The Voice (franchise) contestants]]
+[[Category:Singer-songwriters from Louisiana]]
+[[Category:People from Ponchatoula, Louisiana]]
+[[Category:21st-century American women singers]]

@@ -1,0 +1,216 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=December 2019}}
+{{BLP sources|date=July 2008}}
+{{Infobox musical artist
+| name                = Ty England
+| background          = solo_singer
+| birth_name          = Gary Tyrone England
+| alias = Tyler England
+| birth_date                = {{birth date and age|1963|12|05}}
+| origin              = [[Oklahoma City]], Oklahoma, U.S.
+| instrument          = Vocals, guitar
+| genre               = [[country music|Country]]
+| occupation          = Singer-songwriter
+| years_active        = 1989–present
+| label               = [[RCA Records Nashville|RCA Nashville]]<br />[[Capitol Records Nashville|Capitol Nashville]]<br />Triple T
+| website                 = http://www.tyengland.com
+}}
+'''Gary Tyrone England''' (born December 5, 1963<ref name="allmusic">{{cite web |url={{AllMusic|class=artist|id=p146794/biography|pure_url=yes}} |title=Ty England biography |accessdate=July 8, 2008 |last=Erlewine |first=Stephen Thomas |authorlink=Stephen Thomas Erlewine |publisher=[[AllMusic]]}}</ref>) is an American [[country music]] singer and guitarist. Initially a member of [[Garth Brooks]]' band, England began his solo career in 1995, recording a self-titled debut album on [[RCA Records Nashville|RCA Nashville]]. A second album, ''Two Ways to Fall'', followed in 1996. Three years later, he recorded ''Highways & Dance Halls'' under the name Tyler England on [[Capitol Records Nashville|Capitol Nashville]], and ''Alive and Well and Livin' the Dream'' came in 2007 on the independent Triple T label. England has charted six singles on the country chart. His highest-charting single was his debut, "[[Should've Asked Her Faster]]", a No.&nbsp;3 hit in late 1995.
+
+==Biography==
+England began playing guitar during his youth. He sang with various bands in high school, and performed in his school chorus. While working at a coffee shop during his time as a student at [[Oklahoma State University]], fellow student [[Garth Brooks]] met him and soon the two were roommates. They performed together until failing grades forced England to move back home. He did eventually get a degree in marketing, but he worked at an automotive paint store.
+
+By 1988, Garth had moved to [[Nashville, Tennessee|Nashville]], and after landing a recording contract, called England to come be his guitarist and backup vocalist.
+In 1995, England left Brooks' road band and signed to [[RCA Records]] Nashville. His self-titled [[Ty England (album)|debut album]], released in late 1995, produced his first chart single in the No.&nbsp;3 "Should've Asked Her Faster",<ref name="allmusic"/> although the album's other two singles ("Smoke in Her Eyes" and "Redneck Son") fell short of Top 40. A second album, ''[[Two Ways to Fall]]'', followed in 1996.<ref name="allmusic"/> It produced his only other Top 40 country hit in the No.&nbsp;22 "Irresistible You" followed by "All of the Above" at No.&nbsp;46. After the latter, England exited RCA's roster.
+
+In 1999, England signed to [[Capitol Records Nashville|Capitol Nashville]], the same label to which Brooks was signed at the time. His third album, ''[[Highways & Dance Halls]]'' was issued under the name Tyler England. It produced three singles in "Too Many Highways", "I Drove Her to Dallas" (which peaked at No.&nbsp;53) and "I'd Rather Have Nothing." Also included on this album was a re-recording of "Should've Asked Her Faster", as well as the [[Bruce Robison]] song "[[Travelin' Soldier]]", which would later become a Number One hit in 2003 for the [[Dixie Chicks]]. He did not release another album until 2007's ''Alive and Well and Livin' the Dream'',<ref name="allmusic"/> which included the non-charting singles "Redneck Anthem" and "The Perfect Girl."
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:18em;"| Title
+! rowspan="2" style="width:20em;"| Album details
+! colspan="3"| Peak chart positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]
+! width="45"| [[Billboard 200|US]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+! scope="row"| ''[[Ty England (album)|Ty England]]''
+| 
+* Release date: August 15, 1995
+* Label: [[RCA Records|RCA Nashville]]
+| 13
+| 95
+| 30
+|-
+! scope="row"| ''[[Two Ways to Fall]]''
+| 
+* Release date: September 17, 1996
+* Label: RCA Nashville
+| 54
+| —
+| —
+|-
+! scope="row"| ''[[Highways & Dance Halls]]''<br /><small>(as Tyler England)</small>
+| 
+* Release date: November 23, 1999
+* Label: [[Capitol Nashville]]
+| —
+| —
+| —
+|-
+! scope="row"| ''Alive and Well and Livin' the Dream''
+| 
+* Release date: January 23, 2007
+* Label: Triple T
+| —
+| —
+| —
+|-
+| colspan="6" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:16em;"| Single
+! colspan="3"| Peak chart positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[Bubbling Under Hot 100|US Bubbling]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="2"| 1995
+! scope="row"| "[[Should've Asked Her Faster]]"
+| 3
+| 21
+| 2
+| align="left" rowspan="3"| ''Ty England''
+|-
+! scope="row"| "Smoke in Her Eyes"
+| 44
+| —
+| 41
+|-
+| rowspan="2"| 1996
+! scope="row"| "Redneck Son"
+| 55
+| —
+| —
+|-
+! scope="row"| "[[Irresistible You]]"
+| 22
+| —
+| 25
+| align="left" rowspan="2"| ''Two Ways to Fall''
+|-
+| 1997
+! scope="row"| "All of the Above"
+| 46
+| —
+| 53
+|-
+| 1999
+! scope="row"| "Too Many Highways"
+| —
+| —
+| —
+| align="left" rowspan="3"| ''Highways & Dance Halls''<br /><small>(as Tyler England)</small>
+|-
+| 2000
+! scope="row"| "I Drove Her to Dallas"
+| 53
+| —
+| —
+|-
+| 2001
+! scope="row"| "I'd Rather Have Nothing"
+| —
+| —
+| —
+|-
+| 2006
+! scope="row"| "Redneck Anthem"<ref>{{cite web | url=https://tulsaworld.com/archive/all-neck/article_462edf7a-3b35-5c14-b2f8-e456adbe1a00.html | title=All neck | publisher=Tulsa World | date=February 12, 2006 | accessdate=March 24, 2022}}</ref>
+| —
+| —
+| —
+| align="left" rowspan="2"| ''Alive and Well and Livin' the Dream''
+|-
+| 2007
+! scope="row"| "The Perfect Girl"
+| —
+| —
+| —
+|-
+| colspan="6" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:16em;"| Video
+! Director
+|-
+| rowspan="2"| 1995
+! scope="row"| "Should've Asked Her Faster"
+| rowspan="2"| Martin Kahan
+|-
+! scope="row"| "Smoke in Her Eyes"<ref>{{cite web|url=http://www.cmt.com/videos/ty-england/384907/smoke-in-her-eyes.jhtml|archive-url=https://archive.today/20120724062358/http://www.cmt.com/videos/ty-england/384907/smoke-in-her-eyes.jhtml|url-status=dead|archive-date=July 24, 2012|title=CMT : Videos : Ty England : Smoke in Her Eyes|publisher=[[Country Music Television]]|accessdate=October 14, 2011}}</ref>
+|-
+| 2000
+! scope="row"| "I Drove Her to Dallas"<ref>{{cite web|url=http://www.cmt.com/videos/tyler-england/387338/i-drove-her-to-dallas.jhtml|archive-url=https://archive.today/20120723045631/http://www.cmt.com/videos/tyler-england/387338/i-drove-her-to-dallas.jhtml|url-status=dead|archive-date=July 23, 2012|title=CMT : Videos : Tyler England : I Drove Her To Dallas|publisher=[[Country Music Television]]|accessdate=October 14, 2011}}</ref>
+| Gerry Wenner
+|}
+
+== Awards and nominations ==
+{| class="wikitable"
+!Year
+!Organization
+!Award
+!Nominee/Work
+!Result
+|-
+|1996
+|TNN/Music City News Awards
+|Male Star of Tomorrow
+|Ty England
+|{{nom}}
+|-
+|1997
+|TNN/Music City News Awards
+|Male Star of Tomorrow
+|Ty England
+|{{nom}}
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.tyengland.com/ Official Ty England website]
+
+{{Authority control}}
+
+{{DEFAULTSORT:England, Ty}}
+[[Category:1963 births]]
+[[Category:20th-century American guitarists]]
+[[Category:American country guitarists]]
+[[Category:American country singer-songwriters]]
+[[Category:American male guitarists]]
+[[Category:Capitol Records artists]]
+[[Category:Country musicians from Oklahoma]]
+[[Category:Guitarists from Oklahoma]]
+[[Category:Living people]]
+[[Category:Oklahoma State University alumni]]
+[[Category:RCA Records Nashville artists]]
+[[Category:Singer-songwriters from Oklahoma]]
+[[Category:20th-century American male musicians]]
+[[Category:American male singer-songwriters]]

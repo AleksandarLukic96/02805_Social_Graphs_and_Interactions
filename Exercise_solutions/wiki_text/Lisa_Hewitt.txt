@@ -1,0 +1,154 @@
+{{short description|Canadian country music singer}}
+{{Use mdy dates|date=February 2020}}
+{{Infobox musical artist
+| name            = Lisa Hewitt
+| image           = Lisa_Hewitt.jpg
+| caption         = Lisa Hewitt, November 2005
+| image_size      = 
+| background      = solo_singer
+| origin          = Canada
+| instrument      = 
+| genre           = [[Country music|Country]]
+| occupation      = Singer
+| years_active    = 1999–present
+| label           = Socan, [[Royalty Records|Royalty]], 306
+| associated_acts = 
+| website             = {{official website|http://www.lisahewitt.com}}
+}}
+'''Lisa Hewitt''' is a Canadian [[country music]] singer. Hewitt released her self-titled debut album on the independent Socan Records in 1999. Her second album, ''The Road I Chose'', was released in 2004 by [[Royalty Records]]. Its first single, "One of These Goodbyes," reached the Top 25 on the ''[[Radio & Records]]'' Canadian country singles chart. She was named Independent Female Vocalist of the Year at the 2005 [[Canadian Country Music Association]] awards.<ref name="cmn">{{cite web|url=http://secure4.worldsites.net/countrymusicnews-ca/news.ihtml?step=2&article_id=953 |title=2005 CCMA Award Winners |publisher=[[Country Music News]] |accessdate=October 31, 2009 |url-status=dead |archiveurl=https://archive.today/20110721214751/http://secure4.worldsites.net/countrymusicnews-ca/news.ihtml?step=2&article_id=953 |archivedate=July 21, 2011 }}</ref> Hewitt was featured in 2006 on the [[CMT (Canada)|CMT]] series ''Plucked'', a documentary about six country music stars in training.<ref>{{cite web|url=http://www.channelcanada.com/Article1517.html |title=CMT Premieres New Original Production Plucked this october |publisher=Channel Canada |accessdate=October 31, 2009 |url-status=dead |archiveurl=https://web.archive.org/web/20100104142711/http://channelcanada.com/Article1517.html |archivedate=January 4, 2010 }}</ref> In 2009, Hewitt was signed to 306 Records.<ref>[http://www.306records.com/news.cfm?JournalID=16723&UserID=22 306 Records] {{webarchive|url=https://web.archive.org/web/20090302032447/http://www.306records.com/news.cfm?JournalID=16723&UserID=22 |date=March 2, 2009 }}</ref> Her third album, ''Fearless'', was released in March 2009.
+
+==Discography==
+
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:19em;"| Album details
+|-
+! scope="row"| ''Lisa Hewitt''
+| 
+* Release date: September 1, 1999
+* Label: Socan Records
+* Formats: CD, [[Compact cassette|cassette]]
+|-
+! scope="row"| ''The Road I Chose''
+| 
+* Release date: October 19, 2004
+* Label: [[Royalty Records]]
+* Formats: CD, [[music download]]
+|-
+! scope="row"| ''Fearless''
+| 
+* Release date: March 31, 2009
+* Label: 306 Records
+* Formats: CD, music download
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:16em;"| Single
+! Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Radio & Records|CAN Country]]<br><ref>{{cite journal|url=https://www.americanradiohistory.com/Archive-RandR/2000s/2004/RR-2004-12-17.pdf|title=Canada Country Top 30|journal=[[Radio & Records]]|date=December 17, 2004}}</ref>
+|-
+| rowspan="2"| 2000
+! scope="row"| "Midnight in the Garden of Love"
+| —
+| rowspan="3"| ''Lisa Hewitt''
+|-
+! scope="row"| "I Just Want to Hold You"
+| —
+|-
+| 2001
+! scope="row"| "Slide Over I'm Driving"
+| —
+|-
+| 2004
+! scope="row"| "One of These Goodbyes"
+| 21
+| rowspan="4"| ''The Road I Chose''
+|-
+| rowspan="2"| 2005
+! scope="row"| "Say It's Gone"
+| —
+|-
+! scope="row"| "Take Me There"
+| —
+|-
+| 2006
+! scope="row"| "Somebody"
+| —
+|-
+| rowspan="2"| 2009
+! scope="row"| "Better in Texas"
+| —
+| rowspan="2"| ''Fearless''
+|-
+! scope="row"| "Too Used to Loving You"
+| —
+|-
+| 2014
+! scope="row"| "If I Could"
+| —
+| {{n/a}}
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:18em;"| Video
+! Director
+|-
+| 2006
+! scope="row"| "Somebody"
+| [[Stephano Barberis]]
+|}
+
+==Awards and nominations==
+{| class="wikitable"
+|-
+! Year
+! Association
+! Category
+! Result
+|-
+| rowspan="2"| 2005
+| rowspan="4"| [[Canadian Country Music Association]]
+| Chevy Trucks Rising Star Award
+| {{nom}}
+|-
+| Independent Female Artist of the Year
+| {{won}}
+|-
+| 2006
+| Independent Female Artist of the Year
+| {{nom}}
+|-
+| 2007
+| Independent Female Artist of the Year
+| {{nom}}
+|-
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{official website|http://www.lisahewitt.com}}
+*[http://www.cmt.ca/Artist/LisaHewitt Lisa Hewitt] at [[CMT (Canada)|CMT]]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hewitt, Lisa}}
+[[Category:Canadian women country singers]]
+[[Category:Canadian country singer-songwriters]]
+[[Category:Living people]]
+[[Category:306 Records artists]]
+[[Category:Year of birth missing (living people)]]

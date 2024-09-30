@@ -1,0 +1,65 @@
+{{Short description|American country music duo}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = McHayes
+| image                 = 
+| caption            = 
+| image_size            = 
+| background          = group_or_band
+| origin              = [[Nashville]], [[Tennessee]], [[United States]]
+| genre               = [[Country music|Country]]
+| years_active        = 2003
+| label               = [[Universal South Records|Universal South]] = 
+| past_members        = [[Wade Hayes]]<br />Mark McClurg
+}}
+'''McHayes''' was an American [[country music]] duo established in 2003 by [[Wade Hayes]] (guitar, vocals) and Mark McClurg (fiddle, vocals). Prior to the duo's foundation, Hayes was a solo artist, and McClurg was a member of [[Alan Jackson]]'s road band, The Strayhorns. Active only in the year 2003, McHayes recorded an unreleased studio album on the [[Universal South Records]] label, in addition to charting one single on the ''[[Billboard (magazine)|Billboard]]'' Hot Country Singles & Tracks (now [[Hot Country Songs]]) charts. After disbanding, McClurg rejoined Jackson's band, and Hayes joined former [[Alabama (American band)|Alabama]] lead singer [[Randy Owen]]'s backing band.
+
+==History==
+Between 1995 and 2002, McHayes frontman [[Wade Hayes]] was a solo artist, recording four studio albums, and charting more than a dozen singles on the ''Billboard'' country music charts, including the number 1 single "[[Old Enough to Know Better (song)|Old Enough to Know Better]]". After poor performance of his fourth studio album, ''[[Highways & Heartaches (Wade Hayes album)|Highways & Heartaches]]'', he partnered with musician Mark McClurg, who had previously played fiddle in [[Alan Jackson]]'s road band The Strayhorns, to form the duo McHayes.<ref>{{cite web|url=http://www.countrystarsonline.com/reviewarchives/McHayes.htm |title=McHayes Debut on the Grand Ole Opry |accessdate=2007-10-12 |last=Neal |first=Helen |work=Country Stars Online.com |archiveurl=https://web.archive.org/web/20070817103456/http://countrystarsonline.com/reviewarchives/McHayes.htm |archivedate=2007-08-17 |url-status=dead}}</ref><ref>{{cite web |url=http://www.cmt.com/artists/news/1470185/20030226/hayes_wade.jhtml |archive-url=https://web.archive.org/web/20071113105247/http://www.cmt.com/artists/news/1470185/20030226/hayes_wade.jhtml |url-status=dead |archive-date=November 13, 2007 |title=CMT.com : Wade Hayes : Wade Hayes Forms Duo, Signs New Deal |accessdate=2007-10-12 |work=CMT.com}}</ref> Signed to [[Universal South Records]] in 2003, McHayes charted one single, titled "It Doesn't Mean I Don't Love You",<ref>{{cite web |url=http://www.nashvillepost.com/news/2003/2/28/new_country_duo_mchayes_signs_with_universal_south |title=New country duo McHayes signs with Universal South |accessdate=2007-10-12 |last=Ruble |first=Drew |work=Nashville Post.com}}</ref> which peaked at number 41 on the U.S. country charts.<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=273|isbn=978-0-89820-177-2}}</ref> McHayes also recorded an album titled ''Lessons in Lonely'', which was slated for release in mid-2003 under the production of [[Brent Rowan]].<ref>{{cite web|url=http://www.allmusic.com/album/lessons-in-lonely-mw0001299550|title=''Lessons in Lonely'' review|last=Dinoia|first=Maria Konicki|work=[[Allmusic]]|accessdate=3 November 2012}}</ref> The album was never released, and the duo exited Universal South's roster.<ref>{{cite web|url=http://www.countrystarsonline.com/reviewarchives/Trap_JoeN_McHayes.htm |title=Universal-South Artists Capture The Trap |accessdate=2007-10-12 |last=Neal |first=Helen |work=Country Stars Online.com |archiveurl=https://web.archive.org/web/20070816163133/http://countrystarsonline.com/reviewarchives/Trap_JoeN_McHayes.htm |archivedate=2007-08-16 |url-status=dead}}</ref><ref>{{cite web |url=http://www.cmt.com/news/articles/1480570/20031120/bogguss_suzy.jhtml |archive-url=https://web.archive.org/web/20041123170051/http://www.cmt.com/news/articles/1480570/20031120/bogguss_suzy.jhtml |url-status=dead |archive-date=November 23, 2004 |title=CMT.com : News : Nashville Skyline : Some Orphaned CDs of 2003 |accessdate=2007-10-12 |last=Flippo |first=Chet |work=CMT.com}}</ref>
+
+==Discography==
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]
+|-
+| 2003
+! scope="row"| "It Doesn't Mean I Don't Love You"
+| 41
+| align="left" rowspan="2"| ''Lessons in Lonely'' <small>(unreleased)</small>
+|-
+| 2004
+! scope="row"| "[[Tulsa Time]]"
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:18em;"| Video
+|-
+| 2004
+! scope="row"| "Tulsa Time"
+|}
+
+==References==
+{{reflist}}
+{{Wade Hayes}}
+
+{{DEFAULTSORT:Machayes}}
+[[Category:Country music groups from Tennessee]]
+[[Category:American country music duos]]
+[[Category:Musical groups established in 2003]]
+[[Category:Musical groups disestablished in 2003]]
+[[Category:Show Dog-Universal Music artists]]
+[[Category:2003 establishments in Tennessee]]
+[[Category:Musicians from Nashville, Tennessee]]
+[[Category:American male musical duos]]

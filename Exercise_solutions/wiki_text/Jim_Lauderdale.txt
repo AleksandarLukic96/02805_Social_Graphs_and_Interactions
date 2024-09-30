@@ -1,0 +1,588 @@
+{{Short description|American musician}}
+{{Use mdy dates|date=December 2020}}
+{{Infobox musical artist
+| name             = Jim Lauderdale
+| background       = solo_singer
+| image            = Jim Lauderdale AMA 2010.jpg
+| image_size       = 
+| landscape        = yes
+| caption          = Jim Lauderdale 2010
+| birth_name       = James Russell Lauderdale
+| alias            = 
+| birth_date       = {{birth date and age|1957|4|11|mf=y}}
+| birth_place      = [[Troutman, North Carolina]], United States
+| origin           = [[Nashville, Tennessee]]
+| death_date       = <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date 1st) -->
+| death_place      = 
+| genre            = [[Americana music|Americana]], [[Blues music|Blues]], [[Country music|Country]], [[Bluegrass music|Bluegrass]]
+| occupation       = Musician, singer-songwriter
+| instrument       = Vocals<br/>guitar
+| years_active     = 1986–present
+| label            = [[Yep Roc Records|Yep Roc]], Sky Crunch, [[New West Records|New West]], [[Sugar Hill Records (bluegrass label)|Sugar Hill]], Thirty Tigers, [[Dualtone Records|Dualtone]], [[Proper Records|Proper]]
+| associated_acts  = [[Robert Hunter (lyricist)|Robert Hunter]], [[Buddy Miller]], [[Ralph Stanley]], [[Donna the Buffalo]]
+| website          = {{URL|jimlauderdalemusic.com}}
+}}
+
+'''James Russell Lauderdale'''<ref name=Dad-obit-GN /> (born April 11, 1957) is an American [[country music|country]], [[bluegrass music|bluegrass]], and [[Americana (music)|Americana]] singer-songwriter.<ref name=EncycCountryMusic /> Since 1986, he has released 31 studio albums, including collaborations with artists such as [[Ralph Stanley|Dr. Ralph Stanley]], [[Buddy Miller]], and [[Donna the Buffalo]]. A "songwriter's songwriter,"<ref name=NPR-WorldCafe-2013 /> his songs have been recorded by dozens of artists, notably [[George Strait]], [[Gary Allan]], [[Elvis Costello]], [[Blake Shelton]], the [[Dixie Chicks]], [[Vince Gill]], and [[Patty Loveless]].
+
+[[File:JimLauderdaleMCR.jpg|thumb|Jim Lauderdale hosting Music City Roots]]
+
+== Early life ==
+Lauderdale was born in [[Troutman, North Carolina]], the son of Barbara Ann Lauderdale (née Hobson)<ref name=Mom-obit>{{cite web|title=Barbara Hobson Lauderdale (July 10, 1930 – 8 March 2011)|url=http://www.chandlerjacksonfh.com/services.asp?page=odetail&id=5260&locid=1#.UqvoI2RDs1N|work=Chandler-Jackson Funeral Home and Cremation Services|access-date=December 14, 2013|archive-date=October 6, 2014|archive-url=https://web.archive.org/web/20141006164632/http://www.chandlerjacksonfh.com/services.asp?page=odetail&id=5260&locid=1#.UqvoI2RDs1N|url-status=dead}}</ref><ref name=Mom-obit-GN>{{cite news|title=Barbara Lauderdale Obituary|url=http://www.legacy.com/obituaries/greenvilleonline/obituary.aspx?page=lifestory&pid=149159540|access-date=December 14, 2013|newspaper=The Greenville News|date=March 9, 2011}}</ref> and Dr. Wilbur "Chap" Chapman Lauderdale.<ref name=Dad-obit-GN>{{cite news|title=Wilbur Lauderdale Obituary|url=http://www.legacy.com/obituaries/greenvilleonline/obituary.aspx?n=wilbur-lauderdale&pid=140744706|access-date=December 14, 2013|newspaper=The Greenville News|date=September 8, 2004}}</ref><ref name=Dad-obit>{{cite web|title=Wilbur "Chap" Chapman Lauderdale (August 29, 1924 – 7 September 2004)|url=http://www.chandlerjacksonfh.com/services.asp?page=odetail&id=4868&locid=1#.Uqvdn2RDs1M|work=Chandler-Jackson Funeral Home and Cremation Services|access-date=December 14, 2013|archive-date=October 6, 2014|archive-url=https://web.archive.org/web/20141006165742/http://www.chandlerjacksonfh.com/services.asp?page=odetail&id=4868&locid=1#.Uqvdn2RDs1M|url-status=dead}}</ref> Lauderdale's mother was originally from [[Kansas]].<ref name=Mom-obit-GN /> In addition to her work as a public school and piano teacher, she was active in the [[Associate Reformed Presbyterian Church]]es in [[Troutman, North Carolina|Troutman]], [[Charlotte, North Carolina|Charlotte]], and [[Due West, South Carolina]], where she served as music director, church organist, and choir director.<ref name=Mom-obit /> His father was born in [[Lexington, VA]], the son of Reverend David Thomas and Sallie Ann Lauderdale (née Chapman).<ref name=Dad-obit /> Lauderdale's father was a [[Associate Reformed Presbyterian Church#Members and Ministers|noted minister]] in the [[Associate Reformed Presbyterian Church]].<ref name=Dad-obit /> Lauderdale has one sister.
+
+He grew up in Due West, South Carolina.<ref name=EncycCountryMusic>{{cite book|last=Shone|first=Mark|title=The Encyclopedia of Country Music|year=2012|publisher=[[Oxford University Press]]|location=Oxford, MS|isbn=9780199920839|url=https://books.google.com/books?id=tLZz02EzmBYC&q=The%20Encyclopedia%20of%20Country%20Music%20jim%20lauderdale&pg=PT1132|edition=2nd|editor=Michael McCall|access-date=December 14, 2013}}</ref> Both of his parents were singers. He too sang in his early years, and learned the drums at 11, the harmonica at 13, and the banjo at 15.<ref name=TwangNation2013 /> He has cited the influence of [[Ralph Stanley]] and bluegrass music from an early age. He played a variety of music, including bluegrass, Grateful Dead, and folk in a duo with best friend Nathan Lajoie as a teenager.<ref name=DO-1999 />
+
+During his childhood in Due West, many music acts came to [[Erskine College]]. Lauderdale remembers enjoying the album ''[[Will the Circle be Unbroken (Nitty Gritty Dirt Band album)|Will the Circle be Unbroken]]'' by the [[Nitty Gritty Dirt Band]] and [[Neil Young]]'s ''[[Harvest (Neil Young album)|Harvest]].''<ref name=HometownHeart-1999>{{cite web|last=Cooper|first=Peter|title=Hometown Heart: Due West native Jim Lauderdale comes to Greenville for an important performance |url=http://web.cln.com/archives/greenville/newsstand/archives/051097/vibes2.htm |work=Greenville / Spartanburg Arts & Entertainment|publisher=Creative Loafing Online|access-date=December 14, 2013|archive-url=https://web.archive.org/web/19991009193946/http://web.cln.com/archives/greenville/newsstand/archives/051097/vibes2.htm|archive-date=October 9, 1999}}</ref> He attended the [[Carolina Friends School]] in Durham NC and then went on to the [[North Carolina School of the Arts]] in [[Winston-Salem, NC]], studying theater. He played in country and bluegrass bands during college.<ref name=DO-1999 />
+
+Lauderdale is a long-time resident of [[Nashville, Tennessee]].<ref name=ATC-12-2013>{{cite web|last=Ochs|first=Meredith|title=For The Bloodiest Tales In American Music, A Revenge-Themed Sequel|url=https://www.npr.org/2013/12/12/250535539/for-the-bloodiest-tales-in-american-music-a-revenge-themed-sequel?sc=fb&cc=fmp|work=[[All Things Considered]]|publisher=[[National Public Radio]]|access-date=December 14, 2013|format=radio show|date=December 12, 2013}}</ref>
+
+== Career ==
+[[File:Lauderdale-fls.jpg|thumb|left|Jim Lauderdale at MerleFest in 2007.]]
+
+After graduating from college, Lauderdale lived in Nashville for five months in the summer of 1979 while he tried to get a recording or publishing deal. He hung out a lot with [[Roland White]], an accomplished mandolin player, with whom he cut a record. But things never took off, so he decided to move to New York,<ref name=NPR-WorldCafe-2013>{{cite web|last=Dye|first=David|title=Buddy Miller And Jim Lauderdale On World Cafe |url=https://www.npr.org/2013/04/11/176161225/buddy-miller-and-jim-lauderdale-on-world-cafe|work=[[NPR]]|publisher=[[National Public Radio]]|access-date=January 3, 2014|format=audio interview|date=April 11, 2013}}</ref> where he played in [[Floyd Domino]]'s band and performed as a solo artist. In 1980 he met singer-songwriter [[Buddy Miller]].<ref name=NPR-WorldCafe-2013 /> He played in Miller's band in the active twang music scene that was evolving at the time.<ref name=DO-1999 />
+
+During his time in New York City, he also worked in the mailroom and as a messenger at ''[[Rolling Stone (magazine)|Rolling Stone]]'' magazine.<ref name=NPR-Buddy&JimTDC /> He often was assigned to pick up and drop off photographer [[Annie Leibovitz]]'s equipment.<ref name=DO-1999 />
+
+Lauderdale joined the national touring production of ''[[Pump Boys & Dinettes]]'', which eventually reached Los Angeles where he met musicians [[Rosie Flores]], Billy Bremmer, [[Pete Anderson]], [[Lucinda Williams]], [[Dale Watson (singer)|Dale Watson]], and others.<ref name=DO-1999 /> John Ciambotti became Lauderdale's manager and Lauderdale relocated to Los Angeles in the late 1980s, recording an album for CBS (which was later released as ''The Point of No Return''). The record was influenced by the [[Bakersfield, California|Bakersfield]] sound of [[Buck Owens]].<ref name=DO-1999 />
+
+Armed with a catalog of a few hundred songs he had written, Lauderdale was able to get a publishing deal with a small company called Blue Water Music (based in Houston, with a small office in Nashville). Living in Los Angeles he made a record with Anderson producing, but it was never released.<ref name=NPR-WorldCafe-2013 />
+
+Lauderdale then got a publishing deal with Reprise and moved into the second floor of Buddy and Julie Miller's house until he got his own place in Nashville.<ref name=NPR-WorldCafe-2013 />
+
+In 2013, Lauderdale started his own record label, Sky Crunch, so that he could release his many albums on a schedule that suited him.<ref>from an interview on [http://americanamusicshow.com/episode275 Americana Music Show #275], published December 1, 2015</ref>
+
+In April 2018, Lauderdale signed to Yep Roc Records.<ref name=Yep-Roc-Records>{{cite web|title=Yep Roc Records Welcomes Jim Lauderdale!|url=http://www.yeproc.com/yep-roc-records-welcomes-jim-lauderdale|access-date=May 23, 2018|date=April 24, 2018}}</ref>
+
+=== Solo career ===
+
+Lauderdale's solo debut, ''Planet of Love'', was produced by [[Rodney Crowell]] and [[John Leventhal]] and released in 1991.<ref name=DO-1999 /><ref name=MusicMonitor-TurnLeft>{{cite web |last=Winkworth |first=Bruce |title=Go to the Country, Turn Left |url=http://www.penduluminc.com/MM/articles/lauderdale.html |work=The Music Monitor|access-date=December 14, 2013 |archive-url=https://web.archive.org/web/20061106152010/http://www.penduluminc.com/MM/articles/lauderdale.html|archive-date=November 6, 2006}}</ref> ''Lost in the Lonesome Pines'', a 2002 collaboration with [[Ralph Stanley]], won the [[Grammy Award for Best Bluegrass Album]]. ''The Bluegrass Diaries'' won the same award in 2008. In 2003, Lauderdale was joined by roots/jam band [[Donna the Buffalo]] on the album ''Wait 'Til Spring''. ''Could We Get Any Closer?'' was nominated for a Grammy in 2009.
+
+In 2013, Lauderdale released ''Old Time Angels'' (a bluegrass album) and his first solo acoustic album, ''Blue Moon Junction'', followed by ''Black Roses,'' with the [[North Mississippi All-Stars]].<ref name=Bristol-NewTunes-2014>{{cite web|last=Netherland|first=Tom|title=Lauderdale brings new tunes, standbys to town|url=http://www.tricities.com/news/local/article_39009100-792c-11e3-bbd5-0019bb30f31a.html|work=Tri Cities – Bristol Herald Courier (Bristol, VA)|access-date=January 20, 2014|date=January 9, 2014}}</ref> Lauderdale appears on [[Laura Cantrell]]'s 2013 release ''No Way There From Here''.<ref name=BW-Cantrell-2014>{{cite web|title=Laura Cantrell to Release New Album No Way There From Here, 1/28; Plays Joe's Pub in NYC, 1/29|url=http://www.broadwayworld.com/article/Laura-Cantrell-to-Release-New-Album-NO-WAY-THERE-FROM-HERE-128-Plays-Joes-Pub-in-NYC-129-20140107|work=Broadway World|access-date=January 20, 2014|date=January 7, 2014}}</ref> 2014 saw the release of his album ''I'm A Song''.<ref name=MiamiNewTimes-2014>{{cite news|last=Zimmerman|first=Lee|title=Jim Lauderdale: "Slugging Along and Slugging It Out"|url=http://blogs.miaminewtimes.com/crossfade/2014/02/jim_lauderdale_interview_grassroots_festival_miami_2014.php|access-date=February 25, 2014|newspaper=[[Miami New Times]]|date=February 19, 2014}}</ref> Lauderdale will release his new album ''Time Flies'' on August 3, 2018, along with ''Jim Lauderdale and Roland White.''<ref name=RollingStone-2018>{{cite news|last=Gage|first=Jeff|title=Hear Americana King Jim Lauderdale's Rippling New Ballad 'Time Flies'|url=https://www.rollingstone.com/country/news/hear-americana-king-jim-lauderdales-new-song-time-flies-w520371|access-date=May 23, 2018|work=[[Rolling Stone]]|date=May 16, 2018}}</ref>
+
+=== Collaborations ===
+In 2007, he began a collaboration with [[Larry Campbell]], the band Olabelle, and others in the ''American Beauty Project,'' a loose collection of musicians dedicated to reimagining in performance the [[Grateful Dead]]'s two classic 1970 albums, ''[[Workingman's Dead]]'' and ''[[American Beauty (album)|American Beauty]]''.
+
+In 2011, Lauderdale toured with [[Hot Tuna]], an ensemble act that included [[Jorma Kaukonen]], [[Jack Casady]], Barry Mitterhof, [[G.E. Smith]], and, for a time, [[Charlie Musselwhite]]. He has also toured with [[Elvis Costello]], [[Rhonda Vincent]], [[Mary Chapin Carpenter]], and others.
+
+==== Dr. Ralph Stanley ====
+Lauderdale wrote and produced two bluegrass records with [[Ralph Stanley]]. Their first collaboration, ''I Feel Like Singing Today'', was nominated for a Grammy.
+
+==== Buddy Miller ====
+
+Lauderdale released a record called ''Buddy and Jim'' with long-time friend and collaborator [[Buddy Miller]] in 2013.<ref name=NPR-Buddy&JimTDC>{{cite web|title=Buddy Miller & Jim Lauderdale: Tiny Desk Concert|url=https://www.npr.org/event/music/183595144/buddy-miller-jim-lauderdale-tiny-desk-concert|work=Tiny Desk Concert|publisher=[[National Public Radio]]|access-date=December 14, 2013|format=video performance and interview|date=May 13, 2013}}</ref> Lauderdale said they recorded it in three days in Miller's home studio. Miller did the mixing and producing.<ref name=MiamiNewTimes-2014 />
+
+==== Robert Hunter ====
+Lauderdale has often collaborated with [[Grateful Dead]] lyricist [[Robert Hunter (lyricist)|Robert Hunter]].<ref name=MiamiNewTimes-2014 />
+
+Lauderdale's first collaboration with Hunter was ''Headed for the Hills'' and the second was ''Patchwork River'' in May 2010. The June 2011 release ''Reason and Rhyme'' was their third collaboration. Additionally, they wrote songs for a [[North Mississippi Allstars]] record that was released in the fall of 2013.<ref name=TwangNation2013 />
+
+Two 2013 releases, ''Black Roses'' and ''Blue Moon Junction,'' were co-written with Hunter. ''Black Roses'' features North Mississippi Allstars' Cody and [[Luther Dickinson]], whom Lauderdale met in Nashville at the Americana Music Festival,<ref name=CMTEdge-2014>{{cite web|last=Atkinson|first=Brian T.|title=Jim Lauderdale Teams Up for New Albums, Grammy Nod|url=http://www.cmtedge.com/2014/01/09/jim-lauderdale-teams-up-for-new-albums-grammy-nod/|work=CMT Edge|publisher=[[Viacom (2005–present)|Viacom]] / [[Country Music Television|Country Music Television, Inc.]]|access-date=January 20, 2014|date=January 9, 2014}}</ref> as well as [[Muscle Shoals]] musicians [[Spooner Oldham]] and [[David Hood]]. The album was recorded at their father [[Jim Dickinson]]'s studio, Zebra Ranch in Mississippi.<ref name=CMTEdge-2014 />
+
+2013's ''Blue Moon Junction'' features Lauderdale's work as a singer and songwriter, some of them co-written with Hunter in a solo, acoustic format. Lauderdale produced the record.<ref name=CMTEdge-2014 /> Lauderdale says that they have more material that might make a good follow-up album, and hopes they will have time to collaborate again soon.<ref name=MiamiNewTimes-2014 />
+
+==== Nick Lowe ====
+Lauderdale performed solo as the opening act for [[Nick Lowe]] on the latter's 1995 tour of the U.S. and Europe with the Impossible Birds. He later recorded with longtime members of Lowe's band and other British musicians at London's Goldtop Studio, sessions resulting in the 2017 album ''London Southern''.<ref name=MiamiNewTimes-2014 />
+
+==== Roland White ====
+
+On August 3, 2018, Lauderdale released ''Jim Lauderdale and Roland White,'' a previously lost record made with mandolin master [[Roland White]]. The disc was recorded in Earl Scruggs' basement in 1979, and the songs were only found recently by White's wife.<ref name=RollingStone-2018/>
+
+=== The Jim Lauderdale Phenomenon ===
+The term "the Jim Lauderdale Phenomenon", coined by singer-songwriter [[Kim Richey]] and cited in an April 2000 article in ''[[The Tennessean]]'' by writer Peter Cooper, is an ironic reference to the fact that Lauderdale was nominated for a [[Grammy Award|Grammy]] for his work with Stanley but was released from a record deal with [[RCA Records Nashville|RCA]] not long after. He was also released from contracts with Warner Bros., Columbia, and Atlantic Records.<ref name=Tennessean-RCA-drop>{{cite web|last=Cooper|first=Peter|title=Without 'star-level' clout, Lauderdale released from RCA|url=http://www.insurgentcountry.com/jim_lauderdale_dropped_from_rca.txt|work=[[The Tennessean]]|access-date=December 14, 2013|archive-url=https://web.archive.org/web/20010221172233/http://www.insurgentcountry.com/jim_lauderdale_dropped_from_rca.txt|archive-date=February 21, 2001}}</ref><ref name=CL-Whisper-review>{{cite web|last=Kelly|first=James|title=Music: Jim Lauderdale, Whisper|url=http://web.cln.com/archives/atlanta/newsstand/030798/v_rec7.htm|work=[[Creative Loafing]]|access-date=December 14, 2013|archive-url=https://web.archive.org/web/20010222041342/http://web.cln.com/archives/atlanta/newsstand/030798/v_rec7.htm|archive-date=February 22, 2001}}</ref> The article notes that many country artists that were signed to major labels in the 1990s failed to get radio airtime and had their contracts dropped after making one or two albums.<ref name=Tennessean-RCA-drop/> The problem became widespread in Nashville during this period, when a lot of good music was being created and recorded, but the megastars dominated the airwaves.<ref name=DO-PenPal-1998>{{cite news|last=Rowland|first=Hobart|title=Pen pal: Jim Lauderdale is the write man in the wrong place|url=http://www.dallasobserver.com/1998-05-21/music/pen-pal/|access-date=December 14, 2013|newspaper=Dallas Observer|date=May 21, 1998}}</ref>
+
+== Discography ==
+Lauderdale has had a long-time, successful<ref name=MusicMonitor-TurnLeft /> career on [[Music Row]] writing songs for many mainstream country music artists (and others); and has had four separate major-label record deals: with CBS, Warner/Reprise, Atlantic, and RCA/BMG.<ref name=DO-1999>{{cite news|last=Patterson|first=Rob|title=The grass is blue: Writing hits for the Dixie Chicks has given Jim Lauderdale his own wide open space|url=http://www.dallasobserver.com/1999-11-25/music/the-grass-is-blue/|access-date=December 14, 2013|newspaper=Dallas Observer|date=November 25, 1999|archive-date=December 14, 2013|archive-url=https://web.archive.org/web/20131214072710/http://www.dallasobserver.com/1999-11-25/music/the-grass-is-blue/|url-status=dead}}</ref><ref name=Discogs-writing>{{cite web|title=Jim Lauderdale – Credits – Writing & Arrangement|url=http://www.discogs.com/artist/Jim+Lauderdale#t=Credits_Writing-Arrangement&q=&p=1|work=[[Discogs]]|access-date=December 14, 2013}}</ref>
+
+=== Songwriting ===
+* [[Gary Allan]]: "Forever And A Day", "Wake Up Screaming", "What's On My Mind", "We Touched the Sun"
+* [[Mark Chesnutt]]: "Gonna Get a Life" (co-written with Frank Dycus) – hit No. 1 in 1995<ref name=EncycCountryMusic />
+* [[Elvis Costello]]: "I Lost You", "Poor Borrowed Dress"
+* [[The Dixie Chicks]]: "Hole in My Head" (co-written with Buddy Miller)
+*[[Sara Douga]]: "I'll Forgive You if You Don't" from ''Joe & Gin'' (2020) (co-written with Sara Douga)
+* [[Dave Edmunds]]: "[[Halfway Down]]"
+* [[Vince Gill]]: "Sparkle"
+* [[Patty Loveless]]: "Halfway Down", "To Feel That Way at All", "You Don't Seem To Miss Me"
+* [[George Strait]]:
+** "The King of Broken Hearts", "Where the Sidewalk Ends" from [[Pure Country (soundtrack)|''Pure Country'' Soundtrack]] (1992)
+** "I Wasn't Fooling Around", "Stay Out of My Arms" from ''[[Easy Come, Easy Go (George Strait album)|Easy Come, Easy Go]]'' (1993)
+** "Nobody Has to Get Hurt", "What Am I Waiting For" from ''[[Lead On]]'' (1994)
+** "Do the Right Thing" from ''[[Blue Clear Sky]]'' (1996)
+** "[[We Really Shouldn't Be Doing This]]" from ''[[One Step at a Time (George Strait album)|One Step at a Time]]'' (1998)
+** "One of You", "[[What Do You Say to That]]" from ''[[Always Never the Same (George Strait album)|Always Never the Same]]'' (1999)
+** "Don't Make Me Come Over There (and Love You)" from ''[[George Strait (album)|George Strait]]'' (2000)
+** "Twang", "I Gotta Get to You" from ''[[Twang (album)|Twang]]'' (2009)
+** "Two More Wishes" from ''[[Honky Tonk Time Machine]]'' (2019)
+* [[Lee Ann Womack]]: "The King of Broken Hearts"
+* [[Blake Shelton]]: "What's On My Mind"
+
+=== Albums ===
+{| class="wikitable"
+!rowspan="2"|Year
+!rowspan="2"|Album
+!rowspan="2"|Label
+!rowspan="2"|Featuring
+!colspan="3"|Peak chart positions
+|- style="font-size:smaller;"
+!width=45|[[Top Country Albums|US Country]]
+!width=45|[[Top Heatseekers|US Heat]]
+!width=45|[[Top Bluegrass Albums|US Grass]]
+|-
+|1991
+|''Planet of Love''
+|[[Reprise Records|Reprise]]
+|[[Rodney Crowell]] and [[John Leventhal]] (co-producers)
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|-
+|1994
+|''[[Pretty Close to the Truth]]''
+|[[Atlantic Records|Atlantic]]
+|
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|-
+|1995
+|''Every Second Counts''
+|Atlantic
+|
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|-
+|1996
+|''Persimmons''
+|[[Rounder Records|Rounder]] Select / Upstart
+|
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|-
+|1998
+|''Whisper''
+|[[BNA Records|BNA]]
+|[[Harlan Howard]], [[Melba Montgomery]], Frank Dycus (songwriters)
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|-
+|rowspan=2|1999
+|''I Feel Like Singing Today''
+|[[Rebel Records|Rebel]]
+|[[Ralph Stanley & The Clinch Mountain Boys]]
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|-
+|''Onward Through It All''
+|[[RCA Records|RCA]]
+|
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|-
+|rowspan=2|2001
+|''The Other Sessions''
+|[[Dualtone Records|Dualtone]]
+|[[Del Reeves]], [[Harlan Howard]], [[Melba Montgomery]], [[Kostas Lazarides|Kostas]], [[Clay Blaker]] (co-writers)
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|-
+|''Point of No Return: The Unreleased 1989 Album''
+|Westside Records
+|
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|-
+|rowspan=2|2002
+|''The Hummingbirds''
+|Dualtone
+|
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|-
+|''Lost in the Lonesome Pines''
+|Dualtone
+|Ralph Stanley & The Clinch Mountain Boys
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|-
+|2003
+|''Wait 'Til Spring''
+|Dualtone
+|[[Donna the Buffalo]]
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|-
+|2004
+|''Headed for the Hills''
+|Dualtone
+|Robert Hunter (co-writer)
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|-
+|rowspan=2|2006
+|''Bluegrass''
+|[[Yep Roc Records|Yep Roc]]
+|
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|-
+|''Country Super Hits Vol. 1''
+|Yep Roc
+|Odie Blackmon, Leslie Satcher, Shawn Camp (co-writers)
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|-
+|2007
+|''[[The Bluegrass Diaries]]''
+|Yep Roc
+|
+|align="center"|—
+|align="center"|—
+|align="center"|10
+|-
+|2008
+|''Honey Songs'' & the Dream Players
+|Yep Roc
+|[[James Burton]] (guitar), [[Ron Tutt]] (drums), [[Garry Tallent]] (bass), Glen D. Hardin (piano),<br />Al Perkins (pedal steel); vocals: [[Emmylou Harris]], Buddy Miller, [[Patty Loveless]], [[Kelly Hogan]]
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|-
+|2009
+|''Could We Get Any Closer?''
+|Sky Crunch Records
+|Scott Vestal (banjo)
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|-
+|2010
+|''Patchwork River''
+|Thirty Tigers
+|Songs by Robert Hunter and Jim Lauderdale
+|align="center"|47
+|align="center"|38
+|align="center"|—
+|-
+|2011
+|''Reason and Rhyme''
+|[[Sugar Hill Records (bluegrass label)|Sugar Hill]]
+|Bluegrass songs by Robert Hunter and Jim Lauderdale
+|align="center"|—
+|align="center"|—
+|align="center"|9
+|-
+|rowspan=2|2012
+|''Carolina Moonrise''
+|[[Compass Records|Compass]]
+|Bluegrass songs by Robert Hunter and Jim Lauderdale
+|align="center"|—
+|align="center"|—
+|align="center"|15
+|-
+|''Buddy & Jim''
+|[[New West Records|New West]]
+|Buddy Miller
+|align="center"|67
+|align="center"|20
+|align="center"|—
+|-
+|rowspan=3|2013
+|''Old Time Angels''
+|Sky Crunch Records
+|
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|-
+|''Black Roses''
+|Sky Crunch Records / Smith Music Group
+|Songs by Robert Hunter and Jim Lauderdale
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|-
+|''Blue Moon Junction''
+|Sky Crunch Records
+|Songs by Robert Hunter and Jim Lauderdale
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|-
+|2014
+|''I'm a Song''
+|Sky Crunch Records
+|
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|-
+|2015
+|''Soul Searching''
+|Sky Crunch Records
+|
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|-
+|2016
+|''This Changes Everything''
+|Sky Crunch Records
+|
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|-
+|2017
+|''London Southern''
+|Proper Records
+|
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|-
+|2018
+|''Time Flies''
+|Yep Roc Records
+|
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|-
+|2018
+|''Jim Lauderdale and Roland White''
+|Yep Roc Records
+|
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|-
+|2019 
+|''From Another World''
+|Yep Roc Records
+|[[Sara Douga]] (co-writer)
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|-
+|2020
+|''When Carolina Comes Home Again''
+|Yep Roc Records
+|[[Sara Douga]] (co-writer)
+|align="center"|—
+|align="center"|—
+|align="center"|—
+|-
+|2021
+|''Hope''
+|Yep Roc Records
+|
+|
+|
+|
+|-
+|2022
+|''Game Changer''
+|Sky Crunch Records
+|
+|
+|
+|
+|-
+|2023
+|''The Long and Lonesome Letting Go''
+|Sky Crunch Records
+|The Po' Ramblin' Boys
+|
+|
+|
+|}
+
+=== Singles ===
+{| class="wikitable"
+!Year
+!Single
+!width=45|<small>[[Hot Country Songs|US Country]]</small>
+!Album
+|-
+|1988
+|"Stay Out of My Arms"
+|align="center"|86
+|rowspan=2|''Point of No Return''
+|-
+|1989
+|"Lucky 13"
+|align="center"|—
+|-
+|1991
+|"Maybe"
+|align="center"|—
+|rowspan=3|''Planet of Love''
+|-
+|rowspan=2|1992
+|"I Wasn't Fooling Around"<ref>{{cite web|url=http://americanradiohistory.com/Archive-Billboard/90s/1992/BB1992.pdf|title=Single Reviews|work=[[Billboard (magazine)|Billboard]]|date=March 28, 1992}}</ref>
+|align="center"|—
+|-
+|"Wake Up Screaming"
+|align="center"|—
+|-
+|1999
+|"Still Not Out of the Woods"
+|align="center"|—
+|''Onward Through It All''
+|-
+|2000
+|"If I Were You"
+|align="center"|—
+|''The Other Sessions''
+|-
+|2002
+|"She's Looking at Me" <small>(with [[Ralph Stanley]])</small>
+|align="center"|—
+|''Lost in the Lonesome Pines''
+|-
+|2006
+|"I Met Jesus in a Bar"
+|align="center"|—
+|rowspan=3|''Bluegrass''
+|-
+|rowspan=2|2007
+|"Who's Leaving Who?"
+|align="center"|—
+|-
+|"There Goes Bessy Brown"
+|align="center"|—
+|-
+|2008
+|"This Is the Last Time (I'm Ever Gonna Hurt)"
+|align="center"|—
+|''The Bluegrass Diaries''
+|}
+
+=== Guest singles ===
+{| class="wikitable"
+!Year
+!Single
+!Artist
+!Album
+|-
+| 2009
+|"Love's Gonna Live Here"
+|[[Tanya Tucker]]
+|''[[My Turn (Tanya Tucker album)|My Turn]]''
+|}
+
+=== Music videos ===
+{| class="wikitable"
+!Year
+!Video
+!Director
+|-
+|1989
+|"Lucky 13"
+|Kevin Downs
+|-
+|1991
+|"Maybe
+|
+|-
+|1992
+|"Wake Up Screaming"
+|
+|-
+|1999
+|"Still Not Out of the Woods"
+|David McClister
+|-
+|2000
+|"If I Were You"
+|
+|-
+|2002
+|"She's Looking at Me" <small>(with [[Ralph Stanley]])</small>
+|
+|-
+|2006
+|"I Met Jesus in a Bar"
+|David McClister
+|-
+|rowspan=2|2007
+|"Who's Leaving Who?"
+|Travis Nicholson
+|-
+|"There Goes Bessy Brown"
+|
+|-
+|2008
+|"This Is the Last Time (I'm Ever Gonna Hurt)"
+|Jarboe
+|-
+|2018
+|"Wild On Me"
+|
+|-
+|2019
+|"The Secrets of the Pyramids"
+|
+|}
+
+=== Contributions ===
+*''A Town South of Bakersfield Vol. II'' (1988) – "What Am I Waiting For"
+*''Happy Birthday, Buck! A Texas Salute to Buck Owens'' (2002) – "Sweet Rosie Jones"
+*''Touch My Heart: A Tribute to Johnny Paycheck'' (2005) – "I Want You To Know"
+*''[[Born to the Breed: A Tribute to Judy Collins]]'' (2008) – "Easy Times"
+
+== Other activities ==
+Lauderdale has hosted the [[Americana Music Honors & Awards|Americana Music Awards]] since winning their first Artist of the Year and Song of the Year awards in 2002.<ref name=RollingStone-LeftofCenter-2014>{{cite news|last1=Durchholz|first1=Daniel|title=Jim Lauderdale Reflects on Legendary, 'Left of Center' Career|url=https://www.rollingstone.com/music/features/jim-lauderdale-interview-new-album-im-a-song-20140929|access-date=September 30, 2014|work=[[Rolling Stone (magazine)|Rolling Stone]]|date=September 29, 2014}}</ref> He was a judge for the second,<ref name=IMAJudge-Past>[http://www.independentmusicawards.com/ima_new/pastjudges.asp Independent Music Awards – Past Judges] {{webarchive|url=https://web.archive.org/web/20110713024722/http://www.independentmusicawards.com/ima_new/pastjudges.asp |date=July 13, 2011 }}</ref> 10th and 11th<ref name=IMAJudge-11th>[http://www.independentmusicawards.com/ima/judges/11th-annual-ima-judges/ "11th Annual IMA Judges]. Independent Music Awards. Retrieved on September 4, 2013.</ref> annual Independent Music Awards to support independent artists' careers. He is Honorary Chairperson for the Chris Austin Songwriting Contest each April at MerleFest in Wilkesboro, NC.
+
+He hosted "The Jim Lauderdale Show" on [[WSM Radio]]. He hosts, along with Buddy Miller, "The Buddy & Jim Show" on [[SiriusXM]] Outlaw Country. Lauderdale is also a frequent host and performer on "Music City Roots", a weekly Americana music show web-streamed live from The Factory at Franklin just outside Nashville.<ref name=TwangNation2013>{{cite web|last=Lane|first=Baron|title=A Song of Perseverance – An Interview With Jim Lauderdale|url=http://www.twangnation.com/2013/05/10/a-song-of-perseverance-an-interview-with-jim-lauderdale/|work=Twang Nation|access-date=December 14, 2013|date=May 10, 2013}}</ref>
+
+=== Jim Lauderdale: The King of Broken Hearts ===
+A documentary film called ''Jim Lauderdale: The King of Broken Hearts'', directed by Jeremy Dylan, was released in 2013. Using interviews with [[Elvis Costello]], [[Buddy Miller]], [[John Oates]], [[Gary Allan]], [[Tony Brown (record producer)|Tony Brown]], and [[Jerry Douglas]], the film describes Lauderdale's successes and failures as a recording artist.<ref name=Jim-doc-about>{{cite web|title=About the Film|url=http://jimlauderdalemovie.com/about|work=Jim Lauderdale: The King of Broken Hearts|access-date=December 14, 2013|archive-date=December 14, 2013|archive-url=https://web.archive.org/web/20131214090137/http://jimlauderdalemovie.com/about|url-status=dead}}</ref>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{Official website|http://www.jimlauderdalemusic.com}}
+* [http://jimlauderdalemovie.com/ ''Jim Lauderdale: The King of Broken Hearts'' (documentary)]
+* [http://www.reviewgraveyard.com/00_interviews/17-10-02_jim-lauderdale.html Jim Lauderdale Interview] at Reviewgraveyard.com
+
+{{s-start}}
+{{s-new|First|reason=None recognized before}}
+{{s-ttl|title=[[Americana Music Association|AMA Song of the Year (Songwriter)]]|years=2002}}
+{{s-aft|after=[[Trent Reznor]]}}
+{{s-new|First|reason=None recognized before}}
+{{s-ttl|title=[[Americana Music Association|AMA Artist of the Year]]|years=2002}}
+{{s-aft|after=[[Johnny Cash]]}}
+{{s-end}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lauderdale, Jim}}
+[[Category:1957 births]]
+[[Category:Living people]]
+[[Category:Bluegrass musicians from North Carolina]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Grammy Award winners]]
+[[Category:Singer-songwriters from North Carolina]]
+[[Category:People from Troutman, North Carolina]]
+[[Category:Associate Reformed Presbyterian Church]]
+[[Category:Country musicians from North Carolina]]
+[[Category:Yep Roc Records artists]]
+[[Category:Sugar Hill Records artists]]
+[[Category:Proper Records artists]]
+[[Category:Dualtone Records artists]]
+[[Category:New West Records artists]]

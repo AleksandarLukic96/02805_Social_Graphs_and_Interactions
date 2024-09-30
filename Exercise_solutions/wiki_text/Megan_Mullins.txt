@@ -1,0 +1,113 @@
+{{short description|American singer-songwriter}}
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name              = Megan Mullins
+| image             = Megan Mullins 2007.jpg
+| caption           = Mullins performing at the [[Grand Ole Opry]] in 2007
+| image_size        = 
+| background        = solo_singer
+| birth_name        = 
+| birth_date        = {{birth date and age|mf=yes|1987|11|24}}
+| birth_place       = [[Fort Wayne, Indiana]], U.S.
+| instrument        = Vocals, [[fiddle]], [[mandolin]], guitar
+| genre             = [[country music|Country]]
+| occupation        = Singer-songwriter
+| years_active      = 2006–present
+| label             = [[Broken Bow Records|Broken Bow]], Stoney Creek
+}}
+
+'''Megan Mullins''' (born November 24, 1987)<ref name="allmusic" /> is an American [[country music]] singer, songwriter, and multi-instrumentalist. At age 18, she made her debut on the country music scene with the single "Ain't What It Used to Be," a Top 40 hit on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] charts. Her debut album was originally slated for release in 2006 but was never released.<ref name="fort">{{cite news|url=http://www.journalgazette.net/apps/pbcs.dll/article?AID=/20071005/ENT02/710050387 |title=Singing a Broken record |accessdate=December 13, 2007 |last=Penhollow |first=Steve |date=October 5, 2007 |newspaper=[[Fort Wayne Journal-Gazette]]}}</ref>
+
+==Biography==
+Mullins was born in [[Fort Wayne, Indiana]].<ref name="allmusic">{{cite web | url=https://www.allmusic.com/artist/megan-mullins-mn0001521468 | title=Megan Mullins Songs, Albums, Reviews, Bio & More | website=[[AllMusic]] }}</ref> She began to learn several instruments at an early age, and by age 3, she had won the Indiana State Fair Showmanship award at the State Fiddle Championship.<ref name="allmusic"/> Many of her family members are also professional musicians, most notably her brother Marcus, with whom she performed on the [[Grand Ole Opry]] at age 14.<ref name="allmusic"/>
+
+By 2006, she was signed to [[Broken Bow Records]], an independent record label. Her first single, titled "Ain't What It Used to Be" (also recorded by [[Billy Currington]] on his debut album) was issued early that year, reaching a peak of No.&nbsp;32 on the country music charts. A second single, "Cryin' Days," failed to chart at all, and Mullins announced in October 2007 that she would be returning to the studio for further work on the album.<ref name="fort"/>
+
+Although the album has not been released, Mullins remained on Broken Bow's roster. In 2008, Mullins recorded a duet with former [[Alabama (American band)|Alabama]] lead singer [[Randy Owen]] (who is also signed to Broken Bow), for his solo debut album ''[[One on One (Randy Owen album)|One on One]]''. Mullins also plays fiddle in Owen's road band.<ref>{{cite web |url=http://www.countrystandardtime.com/d/concertreview.asp?xid=327 |title=Randy Owen leaves Alabama behind |accessdate=December 2, 2008 |last=Remz |first=Jeffrey B. |date=August 3, 2008|work=[[Country Standard Time]]}}</ref> In April 2009, she switched to Stoney Creek, a sister label also started by the founder of Broken Bow. Her first release for Stoney Creek, "Long Past Gone", made its chart debut in May 2009, and peaked at No.&nbsp;48 later in the year. A second single for the label, "Tradin' My Halo for Horns," failed to chart. In August 2010, Mullins and Stoney Creek parted ways.
+
+==Discography==
+===Singles===
+{| class="wikitable" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="60"| [[Hot Country Songs|US Country]]
+|-
+| 2006
+| align="left"| "Ain't What It Used to Be"
+| 32
+| align="left" rowspan="2"| ''Megan Mullins'' <small>(unreleased)</small>
+|-
+| 2007
+| align="left"| "Cryin' Days"
+| —
+|-
+| rowspan="2"| 2009
+| align="left"| "Long Past Gone"
+| 48
+| rowspan="2" {{n/a}}
+|-
+| align="left"| "Tradin' My Halo for Horns"
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that failed to chart
+|-
+|}
+
+===Guest singles===
+{| class="wikitable" style="text-align:center;"
+|-
+! Year
+! Single
+! Artist
+! Album
+|-
+| 2009
+| align="left"| "Holding Everything"
+| [[Randy Owen]]
+| align="left"| ''[[One on One (Randy Owen album)|One on One]]''
+|}
+
+===Music videos===
+{| class="wikitable"
+|-
+! Year
+! Single
+! Director
+|-
+| 2006
+| "Ain't What It Used to Be"
+| Kristin Barlowe 
+|-
+| 2009
+| "Long Past Gone"
+| Curt Aponovich 
+|-
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://web.archive.org/web/20040331034742/http://meganmullins.com/ Official website] (archived)
+*{{allmusic}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Mullins, Megan}}
+[[Category:1987 births]]
+[[Category:Living people]]
+[[Category:Writers from Fort Wayne, Indiana]]
+[[Category:American country singer-songwriters]]
+[[Category:American women country singers]]
+[[Category:American country fiddlers]]
+[[Category:Musicians from Fort Wayne, Indiana]]
+[[Category:American mandolinists]]
+[[Category:BBR Music Group artists]]
+[[Category:Country musicians from Indiana]]
+[[Category:21st-century American women singers]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:Singer-songwriters from Indiana]]

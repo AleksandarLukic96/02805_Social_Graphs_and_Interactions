@@ -1,0 +1,91 @@
+{{Short description|American bluegrass band}}
+{{Infobox musical artist
+| name            = Nashville Bluegrass Band
+| image           = 
+| image_size      = 
+| image_upright   = 
+| landscape       = <!-- yes, if wide image, otherwise leave blank -->
+| alt             = 
+| caption         = 
+| background      = group_or_band
+| alias           = 
+| origin          = [[Nashville]], [[Tennessee]], United States
+| genre           = [[Bluegrass music|Bluegrass]]
+| years_active    = {{start date|1984}}–present
+| label           = 
+| associated_acts = 
+| website         = {{URL|http://nashvillebluegrassband.net}}
+| current_members = *Alan O'Bryant
+*Pat Enright
+*[[Mike Compton (musician)|Mike Compton]]
+*[[Stuart Duncan]]
+*[[Andy Todd (American musician)|Andy Todd]]
+| past_members    = *[[Mark Hembree]]
+*[[Gene Libbea]] - bass
+*[[Roland White]] - mandolin
+*[[Dennis Crouch (bassist)|Dennis Crouch]] - bass
+}}
+The '''Nashville Bluegrass Band''' is an American [[bluegrass music]] ensemble founded in 1984.
+
+The group's members first played together in 1984 as a backing band for [[Vernon Oxford]] and [[Minnie Pearl]]; each of the members was an established musician from the [[Nashville, Tennessee|Nashville]] bluegrass community.<ref name="agent">{{cite web|url=http://www.keithcase.com/profiles/Nash/index.htm|title=Nashville Bluegrass Band Biography|publisher=Keith Case & Associates|accessdate=August 21, 2010|url-status=dead|archiveurl=https://web.archive.org/web/20100806025254/http://www.keithcase.com/profiles/Nash/index.htm|archivedate=August 6, 2010}}</ref> They signed to [[Rounder Records]] and recorded their [[Béla Fleck]]-produced debut, ''My Native Home'', in 1985. Incorporating elements of black [[gospel music|gospel]] and [[spiritual (music)|spiritual]]s, then a rarity in bluegrass, they became critical and popular successes both in America and abroad. The group toured in some 20 countries and were the first bluegrass band to ever play in [[China]].<ref name=amg>[{{Allmusic|class=artist|id=p665/biography|pure_url=yes}} Nashville Bluegrass Band] at [[Allmusic]]</ref>
+
+The group continued to record for Rounder and [[Sugar Hill Records (bluegrass label)|Sugar Hill]] into the 1990s; two of the albums, 1993's ''Waitin' for the Hard Times to Go'' and 1995's ''Unleashed'', won [[Grammy Award for Best Bluegrass Album|Grammy Awards for Best Bluegrass Album]].<ref>[{{Allmusic|class=artist|id=p665/charts-awards|pure_url=yes}} Grammy Awards], Allmusic.com</ref> Other albums were nominated for Grammys in the same category in 1988, 1990, 1991, 1998, and 2004.<ref name=amg/> After the departure of bassist Gene Libbea and mandolinist [[Roland White]] in 1998, the group went on a brief hiatus, but after vocalist Pat Enright sang as one of the [[Soggy Bottom Boys]] from ''[[O Brother, Where Art Thou?]]'', the group's career had a revival. They played as the backing group for many performers on the ''[[Down from the Mountain]]'' tour and album, and toured again on their own in the 2000s.
+
+==Members==
+'''Current members'''
+*Alan O'Bryant - banjo, vocals
+*Pat Enright - guitar, vocals
+*[[Mike Compton (musician)|Mike Compton]] - [[mandolin]]
+*[[Stuart Duncan]] - fiddle
+*Andy Todd - bass
+
+'''Past members'''
+*Mark Hembree - bass
+*Gene Libbea - bass
+*[[Roland White]] - mandolin
+*Dennis Crouch - bass
+
+==Discography==
+{| class="wikitable sortable"
+! Released
+! Title
+! Label
+! Number
+! Notes
+|-
+|1985||''My Native Home''||[[Rounder Records|Rounder]]||0212||LP
+|-
+|1986||''Idle Time''||[[Rounder Records|Rounder]]|| 0232||LP
+|-
+|1987||''To Be His Child''||[[Rounder Records|Rounder]]||0242||gospel LP, reissued on CD
+|-
+|1988||''New Moon Rising''||[[Sugar Hill Records (bluegrass label)|Sugar Hill]]||CD 3762|| Grammy nominee, with [[Peter Rowan]]
+|-
+|1990||''The Boys Are Back in Town''||[[Sugar Hill Records (bluegrass label)|Sugar Hill]]||CD 3778||Grammy nominee
+|-
+|1991||''The Nashville Bluegrass Band''||[[Rounder Records|Rounder]]||CD 0232||CD compiled from ''My Native Home'' and ''Idle Time'' LPs
+|-
+|1991||''Home of the Blues''||[[Sugar Hill Records (bluegrass label)|Sugar Hill]]||CD 3793||Grammy nominee
+|-
+|1993||''[[Waitin' for the Hard Times to Go]]''||[[Sugar Hill Records (bluegrass label)|Sugar Hill]]||CD 3809||Grammy winner
+|-
+|1995||''[[Unleashed (Nashville Bluegrass Band album)|Unleashed]]''||[[Sugar Hill Records (bluegrass label)|Sugar Hill]]||CD 3843||Grammy winner. Some sources list the pre-release title as ''Still Unplugged''
+|-
+|1998||''American Beauty''||[[Sugar Hill Records (bluegrass label)|Sugar Hill]]||CD 3882||Grammy nominee
+|-
+|2004||''Twenty Year Blues''||[[Sugar Hill Records (bluegrass label)|Sugar Hill]]||CD 3959||Grammy nominee
+|-
+|2007||''Best of the Sugar Hill Years''||[[Sugar Hill Records (bluegrass label)|Sugar Hill]]||CD 4036||compilation, 1990–2004
+|-
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://nashvillebluegrassband.net Official website]
+
+{{Authority control}}
+[[Category:Musical groups from Nashville, Tennessee]]
+[[Category:American bluegrass music groups]]
+[[Category:Musical groups established in 1984]]

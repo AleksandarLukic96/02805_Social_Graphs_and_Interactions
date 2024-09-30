@@ -1,0 +1,105 @@
+{{short description|American country music singer-songwriter (born 1956)}}
+{{Use mdy dates|date=July 2020}}
+{{Infobox musical artist 
+| name            = Terry Gregory
+| image             = 
+| caption        = 
+| image_size        = 
+| background      = solo_singer
+| birth_name      = Theresa Ann Gregory
+| alias           = 
+| birth_date            = {{birth date and age|1956|04|30}}<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2017|publisher=Record Research, Inc|year=2017|page=150|isbn=978-0-89820-229-8}}</ref>
+| origin          = [[Washington, D.C.]]
+| death_date            = 
+| instrument      = 
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 1981–1985
+| label           = Handshake, [[Scotti Brothers Records|Scotti Brothers]]
+| associated_acts = 
+| website             = 
+}}
+'''Theresa Ann Gregory''' (born April 30, 1956 in [[Washington, D.C.]])<ref name="book">[https://books.google.com/books?id=g2jSdOR8aUkC&dq=%22Terry+gregory+%22+%22just+like+me%22&pg=RA1-PA181 Mountaineer Jamboree: Country Music in West Virginia]</ref> is an American [[country music]] singer-songwriter. Gregory's debut album, ''Just Like Me'', was released in 1981 by Handshake Records. Its first single, the title track, reached the Top 20 on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles]] chart.<ref name="book" />
+
+Dave Mulholland of the ''[[Ottawa Citizen]]'' gave the album a mixed review, praising Gregory's "light, lilting voice" but criticizing the "mundane lyrics".<ref>{{cite news | url=https://www.newspapers.com/image/462856766/ | title=Kershaw makes sense | work=Ottawa Citizen | date=September 26, 1981 | accessdate=October 16, 2019 | author=Dave Mulholland | pages=36}}</ref>
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:10em;"| Title
+! rowspan="2" style="width:16em;"| Album details
+! Peak positions
+|- style="font-size:smaller;"
+! width="65"| [[Top Country Albums|US Country]]
+|-
+! scope="row"| ''Just Like Me''
+| 
+* Release date: 1981
+* Label: Handshake Records
+| 52
+|-
+! scope="row"| ''From the Heart''
+| 
+* Release date: 1982
+* Label: Handshake Records
+| —
+|- 
+| colspan="14" style="font-size:90%" | "—" denotes an album that did not chart.
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2"| Year
+! rowspan="2" style="width:22em;"| Single
+! Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]<ref name="whitburn"/>
+|-
+| rowspan="3"| 1981
+! scope="row"| "Just Like Me"
+| 16
+| rowspan="3"| ''Just Like Me''
+|-
+! scope="row"| "Cinderella"
+| 59
+|-
+! scope="row"| "I Can't Say Goodbye to You"
+| 30
+|-
+| rowspan="2"| 1982
+! scope="row"| "I Never Knew the Devil's Eyes Were Blue"
+| 44
+| rowspan="2"| ''From the Heart''
+|-
+! scope="row"| "I'm Takin' a Heart Break"
+| 48
+|-
+| 1984
+! scope="row"| "Cowgirl in a Coupe DeVille"
+| 75
+| rowspan="2"| <small>non-album singles</small>
+|-
+| 1985
+! scope="row"| "Pardon Me, But This Heart's Taken"
+| 66
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[{{AllMusic|class=artist|id=p187385|pure_url=yes}} Terry Gregory] at ''[[Allmusic]]''
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gregory, Terry}}
+[[Category:1956 births]]
+[[Category:American country singer-songwriters]]
+[[Category:American women country singers]]
+[[Category:Living people]]
+[[Category:Scotti Brothers Records artists]]
+[[Category:21st-century American women]]
+[[Category:Singer-songwriters from Washington, D.C.]]

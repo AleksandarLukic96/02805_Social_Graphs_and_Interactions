@@ -1,0 +1,310 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=May 2020}}
+{{Infobox musical artist 
+| name            = Tex Williams
+| image           = Tex Williams 1967.JPG 
+| caption         = Williams in 1967
+| image_size      = 220px
+| background      = solo_singer
+| birth_name      = Sollie Paul Williams
+| alias           = 
+| birth_date      = {{birth date|1917|08|23}}
+| origin          = [[Ramsey, Illinois]], United States
+| death_date      = {{Death date and age|1985|10|11|1917|08|23}}
+| death_place     = [[Newhall, California]], United States
+| instrument      = [[acoustic guitar|guitar]], Harmonica
+| genre           = {{Flatlist|
+*[[Western swing]]
+*[[Country music|country]]}}
+| occupation      = Singer-songwriter
+| years_active    = 1946–1978
+| label           = 
+| associated_acts = 
+| website         = 
+}}
+
+'''Sollie Paul "Tex" Williams''' (August 23, 1917 – October 11, 1985)<ref name="LarkinCountry">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Who's Who of Country Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1993|edition=First|isbn=0-85112-726-6|page=454}}</ref> was an American [[Western swing]] musician. He is best known for his [[talking blues]] style; his biggest hit was the [[novelty song]], "[[Smoke! Smoke! Smoke! (That Cigarette)]]", which held the number one position on the ''[[Billboard (magazine)|Billboard]]'' chart for sixteen weeks in 1947. "Smoke" was the No. 5 song on ''Billboard's'' Top 100 list for 1947, and was No. 1 on the country chart that year.<ref>{{Cite magazine |url=https://www.billboard.com/music/tex-williams |title=Tex Williams &#124; Billboard |magazine=[[Billboard (magazine)|Billboard]] |access-date=August 11, 2021 |archive-date=August 11, 2021 |archive-url=https://web.archive.org/web/20210811220217/https://www.billboard.com/music/tex-williams |url-status=dead }}</ref>
+
+==Life and career==
+He was born in [[Ramsey, Illinois]], United States.<ref name="LarkinCountry"/> Williams started out in the early 1940s as vocalist for the band of Western swing king [[Spade Cooley]], based in [[Venice, California]].<ref name="LarkinCountry"/>
+
+Williams' backing band, The Western Caravan, numbered about a dozen members. They originally played polkas for [[Capitol Records]], and later saw success with "Smoke, Smoke, Smoke" written in large part by [[Merle Travis]].<ref>{{cite web|url=http://www.cmt.com/artists/az/williams_tex/bio.jhtml |title=Tex Williams : Biography |publisher=CMT |access-date=March 25, 2012|archive-url=https://web.archive.org/web/20120417213638/http://www.cmt.com/artists/az/williams_tex/bio.jhtml|archive-date=April 17, 2012}}</ref>
+
+In April 1956, Williams appeared on the Chrysler-sponsored CBS TV broadcast, ''[[Shower of Stars]]''.<ref>Disk Talent Feature of 'Stars' Show. ''Billboard'', April 14, 1956. p. 36</ref>
+
+Williams died of [[pancreatic cancer]] on October 11, 1985.<ref name="LarkinCountry"/><ref>Kienzle, ''Southwest Shuffle'', p. 99: "In 1985, he died of pancreatic cancer (not lung cancer, as was widely reported)."</ref>
+
+==Filmography==
+Williams and the Western Caravan appeared in the following films: 
+* ''Tex Williams and His Western Caravan'' (1947)
+* ''Tex Williams & Orchestra in Western Whoopee'' (1948)
+* ''[[The Pecos Pistol]]'' (1949)
+* ''Tex Williams' Western Varieties'' (1951)
+
+== Discography ==
+===Albums===
+[[Image:TexWilliams.jpg|thumb|right|200px|alt=Tex Williams collection album cover|Williams collection album cover]]
+{| class="wikitable"
+|-
+! Year
+! Album
+! <small>[[Top Country Albums|US Country]]</small>
+! Label
+|-
+| 1955
+| ''Country and Western Dance-O-Rama No. 5''
+| 
+| [[Decca Records|Decca]]
+|-
+| 1960
+| ''Smoke! Smoke! Smoke!''
+| 
+| [[Capitol Records|Capitol]]
+|-
+| 1962
+| ''Country Music Time''
+| 
+| Decca
+|-
+| 1963
+| ''Voice of Authority''
+| 
+| [[Imperial Records|Imperial]]
+|-
+| 1963
+| ''Tex Williams in Las Vegas''
+| 
+| [[Liberty Records|Liberty]]
+|-
+| 1966
+| ''Two Sides of Tex Williams''
+| style="text-align:center;"| 26
+| Boone
+|-
+| 1971
+| ''A Man Called Tex''
+| style="text-align:center;"| 38
+| [[Monument Records|Monument]]
+|-
+| 1974
+| ''Those Lazy, Hazy Days''
+| 
+| Granite
+|-
+| 1977
+| ''The Legendary Tex Williams: Then... Now''
+| 
+| Corral
+|-
+| 1996
+| ''Vintage Collections: Tex Williams & His Western Caravan''
+| 
+| Capitol
+|}
+
+===Singles===
+{| class="wikitable"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="2"| Chart Positions
+! rowspan="2"| Album
+|-
+! style="width:50px;"| <small>[[Hot Country Songs|US Country]]</small>
+! style="width:50px;"| <small>[[Billboard Hot 100|US]]</small>
+|-
+| 1946
+| "The California Polka"
+| style="text-align:center;"| 4
+| 
+| rowspan="13"| singles only
+|-
+| rowspan="3"| 1947
+| "[[Smoke! Smoke! Smoke! (That Cigarette)]]"
+| style="text-align:center;"| 1
+| style="text-align:center;"| 1
+|-
+| "That's What I Like About the West"
+| style="text-align:center;"| 4
+| 
+|-
+| "Never Trust a Woman"
+| style="text-align:center;"| 8
+| 
+|-
+| rowspan="8"| 1948
+| "Don't Telephone – Don't Telegraph (Tell a Woman)"
+| style="text-align:center;"| 2
+| 
+|-
+| "[[Suspicion (Les Paul song)|Suspicion]]"
+| style="text-align:center;"| 4
+| 
+|-
+| "Banjo Polka"
+| style="text-align:center;"| 5
+| 
+|-
+| "Who? Me?"
+| style="text-align:center;"| 6
+| 
+|-
+| "Foolish Tears"
+| style="text-align:center;"| 15
+| 
+|-
+| "Talking Boogie"
+| style="text-align:center;"| 6
+| 
+|-
+| "Just a Pair of Blue Eyes"
+| style="text-align:center;"| 13
+| 
+|-
+| "Life Gits Tee-Jus, Don't It?"
+| style="text-align:center;"| 5
+| style="text-align:center;"| 27
+|-
+| 1949
+| "(There's a) Bluebird On Your Windowsill"
+| style="text-align:center;"| 11
+| 
+|-
+| rowspan="2"| 1965
+| "Too Many Tigers"
+| style="text-align:center;"| 26
+| 
+| rowspan="3"| ''Two Sides of Tex Williams''
+|-
+| "Big Tennessee"
+| style="text-align:center;"| 30
+| 
+|-
+| rowspan="3"| 1966
+| "Bottom of a Mountain"
+| style="text-align:center;"| 18
+| 
+|-
+| "First Step Down"
+| 
+| 
+| rowspan="8"| singles only
+|-
+| "Another Day, Another Dollar in the Hole"
+| style="text-align:center;"| 44
+| 
+|-
+| rowspan="3"| 1967
+| "Crazy Life"
+| 
+| 
+|-
+| "Black Jack County"
+| style="text-align:center;"| 57
+| 
+|-
+| "She's Somebody Else's Heartache Now"
+| 
+| 
+|-
+| rowspan="3"| 1968
+| "Smoke, Smoke, Smoke – '68"
+| style="text-align:center;"| 32
+| 
+|-
+| "Here's to You and Me"
+| style="text-align:center;"| 45
+| 
+|-
+| "Tail's Been Waggin' the Dog"
+| 
+| 
+|-
+| rowspan="2"| 1970
+| "Big Oscar"
+| 
+| 
+| rowspan="4"| ''A Man Called Tex''
+|-
+| "It Ain't No Big Thing"
+| style="text-align:center;"| 50
+| 
+|-
+| 1971
+| "The Night Miss Nancy Ann's Hotel<br />for Single Girls Burned Down"<sup>A</sup>
+| style="text-align:center;"| 29
+| 
+|-
+| rowspan="4"| 1972
+| "Everywhere I Go (He's Already Been There)"
+| style="text-align:center;"| 67
+| 
+|-
+| "Glamour of the Night Life (Is Calling Me Again)"
+| 
+| 
+| rowspan="3"| singles only
+|-
+| "Tennessee Travelin'"
+| 
+| 
+|-
+| "Cynthia Ann"
+| 
+| 
+|-
+| rowspan="3"| 1974
+| "Is This All You Hear (When a Heart Breaks)"
+| 
+| 
+| rowspan="3"| ''Those Lazy, Hazy Days''
+|-
+| "[[Those Lazy-Hazy-Crazy Days of Summer (song)|Those Lazy, Hazy, Crazy Days of Summer]]"
+| style="text-align:center;"| 70
+| 
+|-
+| "Bum Bum Bum"
+| 
+| 
+|-
+| 1978
+| "Make It Pretty for Me Baby"
+| 
+| 
+| single only
+|}
+
+*<sup>A</sup>"The Night Miss Nancy Ann's Hotel for Single Girls Burned Down" peaked at No. 27 on the ''[[RPM (magazine)|RPM]]'' Country Tracks chart in Canada.
+
+==Notes==
+{{Reflist}}
+
+==References==
+*Kienzle, Rich. ''Southwest Shuffle: Pioneers of Honky Tonk, Western Swing, and Country Jazz''. New York: Routledge, 2003. {{ISBN|0-415-94102-4}}
+*Whitburn, Joel. ''The Billboard Book of Top 40 Country Hits''. Billboard Books, 2006. {{ISBN|0-8230-8291-1}}
+
+==External links==
+* {{IMDb name|0931793|Tex Williams}}
+* [{{AllMusic|class=artist|id=p30218|pure_url=yes}} Tex Williams at Allmusic]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Williams, Tex}}
+[[Category:1917 births]]
+[[Category:1985 deaths]]
+[[Category:Deaths from pancreatic cancer in California]]
+[[Category:Western swing performers]]
+[[Category:American country singer-songwriters]]
+[[Category:People from Ramsey, Illinois]]
+[[Category:American comedy musicians]]
+[[Category:RCA Victor artists]]
+[[Category:Capitol Records artists]]
+[[Category:Shasta Records artists]]
+[[Category:Liberty Records artists]]
+[[Category:Monument Records artists]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:Singer-songwriters from Illinois]]
+[[Category:Comedians from Illinois]]
+[[Category:20th-century American comedians]]
+[[Category:Country musicians from Illinois]]

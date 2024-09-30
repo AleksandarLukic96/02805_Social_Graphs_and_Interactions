@@ -1,0 +1,160 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist 
+| name            = Vernon Oxford
+| image           = Vernon Oxford.png
+| caption         = Vernon Oxford in 1968
+| image_size      = 
+| background      = solo_singer
+| birth_name      = 
+| alias           = 
+| birth_date      = {{birth date|1941|06|08}}
+| birth_place     = [[Rogers, Arkansas]], U.S.
+| death_date      = {{death date and age|2023|08|18|1941|06|08}}
+| death_place     = [[Nashville, Tennessee]], U.S.
+| instrument      = [[Fiddle]], guitar
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 1966–1982
+| label           = [[RCA Records|RCA]], [[Meteor Records|Meteor]], [[Rounder Records|Rounder]]
+| associated_acts = 
+| website         = 
+}}
+
+'''Vernon Oxford''' (June 8, 1941 – August 18, 2023)<ref name=amg/> was an American [[country music]] singer and guitarist.
+
+==Biography==
+He was born in [[Rogers, Arkansas]], United States.<ref name=amg/> Oxford was raised in [[Wichita, Kansas]], United States, where his father played old-time [[fiddle]].<ref name=amg/> He began playing professionally in [[Utah]] in 1960, mostly playing in the Kansas area in the early 1960s, then relocated to [[Nashville]] in 1964.<ref name=amg>{{Cite web|url=https://www.allmusic.com/artist/vernon-oxford-mn0000270132/biography|title=Vernon Oxford &#124; Biography & History|website=[[AllMusic]]|access-date=August 9, 2021}}</ref> In 1965, he met [[Harlan Howard]], who got him signed to [[RCA Victor]] and helped him find material to record.<ref name=amg/> He then released seven singles and one LP, ''Woman Let Me Sing You a Song''; none of them charted, and he was soon dropped from RCA.<ref name=amg/>
+
+His career saw a resurgence in Britain, where he was first rediscovered in the middle of the 1970s.<ref name=amg/> A best-of was issued there in 1974, and RCA signed him again to tour there.<ref name=amg/> His hit singles "Shadows of My Mind", "Redneck (The Redneck National Anthem)", and "A Good Old Fashioned Saturday Night Honky Tonk Barroom Brawl" (U.S. Country No.&nbsp;55, 1977) reinvigorated his career in America; in Britain, he was well known for "I've Got to Get Peter Off Your Mind" and "Field of Flowers".<ref name=amg/> He also recorded a comedy duet with [[Jim Ed Brown]], "Mowing The Lawn".<ref name="LarkinCountry">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Who's Who of Country Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1993|edition=First|isbn=0-85112-726-6|page=305}}</ref> After a break of several years, he began a career as a [[gospel music|gospel]] singer in 1981.<ref name=amg/>
+
+==Recording career==
+Mostly as an independent artist, Oxford continued to record new material. Oxford's classic recordings have been reissued by numerous labels, including a comprehensive box set from [[Bear Family Records]], and some compilations from Westside UK and the Morello label, which is a division of UK-based [[Cherry Red Records]].
+
+==Acting career==
+As an actor, Oxford appeared in several films including ''[[The Thing Called Love]]'' starring [[River Phoenix]],<ref>{{Cite web|url=https://www.25thframe.co.uk/movies/index.php|title=The Thing Called Love|website=25thframe.co.uk|access-date=August 9, 2021}}</ref> and [[Coal Miner's Daughter (film)|''Coal Miner's Daughter'']], a 1980 film about American singer [[Loretta Lynn]], who was portrayed by actress [[Sissy Spacek]].<ref>{{Cite web|url=https://en.notrecinema.com/communaute/stars/stars.php3?staridx=212812|title=Welcome on notreCinema|website=En.notrecinema.com|access-date=August 9, 2021}}</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable"
+! Year
+! Album
+! Label
+|-
+| 1966
+| ''Woman, Let Me Sing You a Song''
+| rowspan="3"| RCA
+|-
+| 1975
+| ''By Public Demand''
+|-
+| 1977
+| ''I Just Want to Be a Country Singer''
+|-
+| rowspan="2"| 1978
+| ''A Tribute to Hank Williams''
+| rowspan="2"| Meteor
+|-
+| ''Nobody's Child''
+|-
+| 1979
+| ''If I Had My Wife to Love Over''
+| rowspan="4"| Rounder
+|-
+| 1980
+| ''His and Hers''
+|-
+| 1981
+| ''A Better Way of Life''
+|-
+| 1982
+| ''Keepin' It Country''
+|}
+
+===Singles===
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="2"| Chart Positions
+! rowspan="2"| Album
+|-
+! width="50"| <small>[[Hot Country Songs|US Country]]</small>
+! width="50"| <small>CAN Country</small>
+|-
+| 1974
+| "How High Does Cotton Grow"
+| align="center"| —
+| align="center"| —
+| single only
+|-
+| rowspan="3"| 1975
+| "I Wish You Would Leave Me Alone"
+| align="center"| —
+| align="center"| —
+| ''By Public Demand''
+|-
+| "Giving the Pill"
+| align="center"| —
+| align="center"| —
+| rowspan="5"| ''I Just Want to Be a Country Singer''
+|-
+| "Shadows of My Mind"
+| align="center"| 54
+| align="center"| 38
+|-
+| rowspan="3"| 1976
+| "Your Wanting Me Is Gone"
+| align="center"| 83
+| align="center"| —
+|-
+| "Redneck! (The Redneck National Anthem)"
+| align="center"| 17
+| align="center"| —
+|-
+| "Clean Your Own Tables"
+| align="center"| 60
+| align="center"| —
+|-
+| rowspan="3"| 1977
+| "A Good Old Fashioned Saturday Night Honky Tonk Barroom Brawl"
+| align="center"| 55
+| align="center"| —
+| rowspan="3"| singles only
+|-
+| "Only the Shadows Know"
+| align="center"| 87
+| align="center"| —
+|-
+| "Redneck Roots"
+| align="center"| 95
+| align="center"| —
+|-
+| rowspan="2"| 1981
+| "His and Hers"
+| align="center"| —
+| align="center"| —
+| rowspan="2"| ''His and Hers''
+|-
+| "They'll Never Take Her Love from Me"
+| align="center"| —
+| align="center"| —
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.cdbaby.com/cd/oxford Vernon Oxford's official artist page on CDBaby]
+* [http://www.hankwilliamslistings.com/ind-veox.htm?= Listing of all Vernon Oxford's songs and alternatives]
+* {{IMDb name|0654580}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Oxford, Vernon}}
+[[Category:1941 births]]
+[[Category:Living people]]
+[[Category:American country singer-songwriters]]
+[[Category:Singer-songwriters from Arkansas]]
+[[Category:RCA Victor artists]]
+[[Category:Country musicians from Arkansas]]

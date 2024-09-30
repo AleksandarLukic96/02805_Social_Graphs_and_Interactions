@@ -1,0 +1,67 @@
+{{short description|American musician|bot=PearBOT 5}}
+{{Infobox musical artist
+| honorific_prefix =
+| name             = Michaela Anne
+| honorific_suffix =
+| image            =
+| image_size       =
+| landscape        = <!-- yes, if wide image, otherwise leave blank -->
+| alt              =
+| caption          =
+| native_name      =
+| native_name_lang =
+| birth_name       = Michaela Anne Neller<ref>{{cite web|url=https://www.ascap.com/repertory#/ace/search/workID/888373822 |title=EASE MY MIND |website=ASCAP |publisher=American Society of Composers, Authors and Publishers |access-date=July 11, 2023}}</ref>
+| alias            =
+| birth_date       = <!-- {{birth date and age|YYYY|MM|DD}} for living people supply only the year unless the exact date is already WIDELY published, as per [[WP:DOB]] -->
+| birth_place      =
+| origin           = Brooklyn, New York
+| death_date       = <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date 1st) -->
+| death_place      =
+| genre            = {{flatlist|
+*[[Americana (music)|Americana]]
+*[[country music|country]]
+}}
+| occupation       =
+| instrument       =
+| years_active     = 2014–present
+| label            = {{flatlist|
+*Georgia June Records
+*Kingswood Records
+*Yep Roc Records
+}}
+| associated_acts  =
+| website          = {{URL|www.michaelaanne.com}}
+| module           =
+| module2          =
+| module3          = 
+}}
+
+'''Michaela Anne Neller''' is an American musician currently residing in [[Nashville, Tennessee]].<ref name="npr">{{cite web|last1=McCartney|first1=Kelly|title=Songs We Love: Michaela Anne, 'Where Will I Be Found (Feat. Kenneth Pattengale)'|url=https://www.npr.org/2016/07/11/485275437/songs-we-love-michaela-anne-where-will-i-be-found-feat-kenneth-pattengale|publisher=[[NPR]]|access-date=11 September 2016}}</ref> Her music incorporates elements of classic country, pop, indie rock, and honky-tonk. She has released four albums to date. Her fourth album, ''Oh To Be That Free,'' was released through [[Yep Roc Records]] on June 10, 2022.
+
+==Career==
+Michaela Anne first began garnering national attention with the 2014 release of ‘Ease My Mind,’ an old-school collection hailed by ''The New York Times'' for its “plain-spoken songs of romantic regret and small-town longing”<ref>{{Cite news|url=https://www.nytimes.com/2014/06/07/arts/music/michaela-anne-country-singer-and-a-law-school-crowd.html|title=A Country Negotiation in Brooklyn|last=Caramanica|first=Jon|date=2014-06-06|work=The New York Times|access-date=2019-07-11|language=en-US|issn=0362-4331}}</ref> and named one of the year's best country albums by ''The Village Voice''.<ref>{{Cite web|url=https://www.villagevoice.com/2014/12/15/2014s-top-country-albums-prove-the-musics-flourishing-radio-be-damned/|title=2014's Top Country Albums Prove the Music's Flourishing, Radio Be Damned|website=www.villagevoice.com|date=15 December 2014 |access-date=2019-07-11}}</ref> Michaela followed it up in 2016 with album ‘Bright Lights and the Fame,’ which featured guest appearances by [[Rodney Crowell]] and [[Punch Brothers|Punch Brother]] [[Noam Pikelny]].<ref>{{Cite web|url=https://www.bmi.com/news/entry/michaela_anne_finds_her_home_in_country|title=Michaela Anne Finds Her Home in Country|date=2016-07-21|website=BMI.com|language=en|access-date=2019-07-11}}</ref> Songs from the record landed on high-profile Spotify playlists as well as the ''HBO'' series [[Divorce (TV series)|‘Divorce]],’ and the album earned Michaela slots at Bristol Rhythm & Roots, [[MerleFest|Merlefest]], and both the US and UK iterations of AmericanaFest, along with a series of dates across the States and Europe with the likes of [[Mandolin Orange]], [[Courtney Marie Andrews]], [[Joe Pug]], [[Ron Pope]], and [[Sam Outlaw]].<ref>{{Cite web|url=https://www.npr.org/2016/07/11/485275437/songs-we-love-michaela-anne-where-will-i-be-found-feat-kenneth-pattengale|title=Songs We Love: Michaela Anne, 'Where Will I Be Found (Feat. Kenneth Pattengale)'|website=NPR.org|language=en|access-date=2019-07-11}}</ref>
+
+In 2018, Michaela left Nashville behind to record ‘Desert Dove’ in San Clemente, CA. The record was cut slow and steady over the course of several weeks with an all-star band, which included guitarist Brian Whelan ([[Dwight Yoakam]], [[Jim Lauderdale]]), fiddler Kristin Weber ([[Kacey Musgraves]], [[Margo Price]]), and drummers Mark Stepro ([[Ben Kweller]], [[Butch Walker]]) and Daniel Bailey ([[Everest (band)|Everest]], [[Josh Tillman|Father John Misty]]).<ref>{{Cite magazine|url=https://www.rollingstone.com/music/music-country/michaela-anne-readies-bright-lights-and-the-fame-album-177973/|title=Michaela Anne Readies 'Bright Lights and the Fame' Album|last=Hudak|first=Joseph|date=2016-02-11|magazine=Rolling Stone|language=en-US|access-date=2019-07-11}}</ref> The production pairing of [[Sam Outlaw|Outlaw]] and Winrich also proved to be an ideal fit for Michaela, with each artist bringing their own unique skill sets and approaches to the studio. Soon after, Michaela was signed to [[Yep Roc Records]]. ''Desert Dove'' was released on September 27, 2019.<ref>{{Cite web|url=https://www.vice.com/en_us/article/6vgnwa/michaela-anne-premiere-wont-go-down-country-florida-georgia-line|title=Michaela Anne Is The Answer To Bro Country v. Everyone Else With "Won't Go Down"|last=Domenighini|first=Annalise|date=2016-02-18|website=Vice|language=en-US|access-date=2019-07-11}}</ref><ref>{{Cite web|url=https://www.michaelaanne.com/bio|title=Bio|website=michaela anne|language=en-US|access-date=2019-07-11}}</ref><ref>{{Cite web|url=https://yeproc.com/artists/michaela-anne/|title=Michaela Anne|last=Artist|website=Yep Roc Records|access-date=2019-07-11}}</ref>
+
+==Discography==
+*''To Know Where'' (2011, Self Released)
+*''Ease My Mind'' (2014, Georgia June)
+*''Bright Lights and the Fame'' (2016, Kingswood)
+*''[[Desert Dove]]'' (2019, Yep Roc)
+*''Oh To Be That Free'' (2022, Yep Roc)
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Anne, Michaela}}
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:Americana musicians]]
+[[Category:Singer-songwriters from New York (state)]]
+[[Category:Musicians from Brooklyn]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Country musicians from New York (state)]]
+[[Category:21st-century American women musicians]]

@@ -1,0 +1,98 @@
+{{Use dmy dates|date=November 2016}}
+{{Use Australian English|date=November 2016}}
+{{Infobox musical artist
+| name            = McAlister Kemp
+| image           =
+| caption         =
+| image_size      =
+| alias           =
+| origin          = [[Australia]]
+| genre           = Country
+| years_active    = 2009-2015, 2022-present
+| label           = ABC Music
+| associated_acts =
+| website         =
+| current_members = [[Drew McAlister]]<br>Troy Kemp
+| past_members    = 
+}}
+'''McAlister Kemp''' are an Australian country music duo made up of Drew McAlister and Troy Kemp.<ref>{{Citation | last = Kellar | first = Jim | date = 10 December 2014 | title = McAlister Kemp break up | periodical = Newcastle Herald | url = https://www.newcastleherald.com.au/story/2755065/mcalister-kemp-disband/}}</ref><ref>{{Citation | last = Kellar | first = Jim | date = 14 February 2013 | title = McAlister Kemp ride high in the saddle | periodical = Sydney Morning Herald | url = http://www.smh.com.au/entertainment/music/mcalister-kemp-ride-high-in-the-saddle-20130213-2ecyk.html }}</ref> Their album ''Country Proud'' was nominated for a 2012 [[ARIA Awards|ARIA Award]] for [[ARIA Award for Best Country Album|Best Country Album]].<ref>{{Citation | date = 3 October 2012 | title = Rapper 360 dominates 2012 ARIA Award nominations | periodical = news.com.au | url = http://www.news.com.au/entertainment/music/rapper-360-dominates-2012-aria-award-nominations/story-e6frfn09-1226487201322}}</ref>
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+! scope="col" rowspan="2" style="width:14em;"| Title
+! scope="col" rowspan="2" style="width:20em;"| Album details
+! scope="col" colspan="1"| Peak chart positions
+|-
+! scope="col" style="width:3em;font-size:90%;"| [[ARIA Charts|AUS]]<br><ref name = "ARIA1248">Peaks in Australia:
+* All except noted: {{cite web|url=https://australian-charts.com/showinterpret.asp?interpret=McAlister+Kemp|title=Discography McAlister Kemp|website=australian-charts.com|access-date=25 August 2022}}
+* ''All Kinds of Tough'': [https://webarchive.nla.gov.au/awa/20140205203300/http://pandora.nla.gov.au/pan/23790/20140206-0733/issue1248.pdf ARIA Report, issue 1248]{{cbignore|bot=medic}}
+* ''We Roll On'': {{cite magazine|title=The ARIA Report: Week Commencing 29 August 2022|magazine=The ARIA Report|publisher=[[Australian Recording Industry Association]]|issue=1695|page=6|date=29 August 2022}}</ref>
+|-
+! scope="row"| ''All Kinds of Tough''
+|
+* Released: 2010
+* Label: ABC Music
+* Format: CD
+| 93
+|-
+! scope="row"| ''Country Proud''
+|
+* Released: March 2012
+* Label: ABC Music (2791965)
+* Format: CD, digital 
+| 18
+|-
+! scope="row"| ''Harder to Tame''
+|
+* Released: January 2014
+* Label: ABC Music (3753977)
+* Format: CD, CD+DVD, digital 
+| 18
+|-
+! scope="row"| ''We Roll On''
+|
+* Released: August 2022 
+* Label: ABC Music 
+* Format: CD, digital 
+| 93
+|}
+
+===Compilation albums===
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+! scope="col" rowspan="1" style="width:14em;"| Title
+! scope="col" rowspan="1" style="width:20em;"| Album details
+|-
+! scope="row"| ''The Best Of: 2008–2014''
+|
+* Released: March 2015 
+* Label: ABC Music (4721185)
+* Format: CD, digital 
+|}
+
+==Awards and nominations==
+===ARIA Music Awards===
+The [[ARIA Music Awards]] are a set of annual ceremonies presented by [[Australian Recording Industry Association]] (ARIA), which recognise excellence, innovation, and achievement across all genres of the [[music of Australia]]. They commenced in 1987. 
+
+{{awards table}}
+! {{Abbr|Ref.|Reference}}
+|-
+| [[ARIA Music Awards of 2012|2012]] || ''Country Proud'' || [[ARIA Award for Best Country Album|Best Country Album]] || {{nom}} || <ref>ARIA Award previous winners. {{cite web|url=http://www.ariaawards.com.au/history/award/Best-Country-Album|title=ARIA Awards Best Country Album|publisher=Australian Recording Industry Association (ARIA)|access-date=9 April 2022}}</ref>
+{{end}}
+
+===Country Music Awards of Australia===
+The [[Country Music Awards of Australia]] (CMAA) (also known as the Golden Guitar Awards) is an annual awards night held in January during the [[Tamworth Country Music Festival]], celebrating recording excellence in the Australian country music industry. They have been held annually since 1973.<ref>{{cite web|url=https://www.country.com.au/awards/past-award-winners|title=Past Award Winners|access-date=2 November 2020}}</ref>
+{{awards table}} (wins only)
+|-
+| 2011
+| McAlister Kemp
+| New Talent of the Year
+| {{won}}
+{{end}}
+
+==References==
+{{reflist}}
+
+[[Category:Australian country music groups]]
+[[Category:Australian musical duos]]
+[[Category:New South Wales musical groups]]

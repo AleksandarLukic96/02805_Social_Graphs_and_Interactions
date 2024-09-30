@@ -1,0 +1,74 @@
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Run C&W
+| image                 = 
+| caption            = 
+| image_size            = 
+| background          = group_or_band
+| origin              = [[Nashville, Tennessee]], USA
+| genre               = [[Bluegrass music|Bluegrass]]
+| years_active        = 1992–1995
+| label               = [[MCA Records|MCA]]
+| past_members        = [[Bernie Leadon]]<ref>{{cite news|title= A Gathering of Eagles |work= The Charlotte Observer |place= Charlotte, North Carolina |date= 26 Aug 1994 |page= 57|url= https://www.newspapers.com/clip/62488202/the-charlotte-observer/}}</ref><br />[[Vince Melamed]]<ref name=run>{{cite news |work= The Tennessean |place= Nashville, Tennessee |date= 23 Aug 1994 |page= 45 |title= Run for the hills |url= https://www.newspapers.com/clip/91275323/run-cw/}}</ref><br />[[Jim Photoglo]]<ref name=run/><br />[[Russell Smith (singer)|Russell Smith]]<ref name=run/>
+}}
+'''Run C&W''' was an American [[novelty music|novelty]]  [[bluegrass music|bluegrass]] group that was active in the early 1990s, playing mostly [[cover song|cover renditions]] of classic [[soul music|soul]] and [[R&B]] songs in a [[bluegrass music|bluegrass]] or [[Americana (music)|roots country]] style, including banjo, harmonica, [[washboard (musical instrument)|washboard]], and [[vocal harmony|multi-part vocal harmonies]].<ref name="allmusic">{{cite web |url={{Allmusic|class=artist|id=p22566/biography|pure_url=yes}} |title=Run C&W Biography |accessdate=2008-03-24 |last=Huey |first=Steve |work=[[Allmusic]]}}</ref><ref>{{cite news |title= What's going on?|url= https://www.newspapers.com/clip/91232548/run-cw/ |work= Record-Journal |place= Meriden, Connecticut |date=25 Nov 1994 |page= 49 |quote= ...as the opening act, Run C&W, which performs countrified remakes of r&b classics. }}</ref> They also played a handful of original parody songs. The band's name is a mix of the abbreviation for the "country & western" music genre ([[Country music|C&W]]), and [[Run DMC]], a popular hip-hop group of the time.
+
+The band was composed of veteran musicians including [[lead vocals|lead vocalist]] [[Russell Smith (singer)|Russell Smith]], formerly of the [[Amazing Rhythm Aces]]; [[banjo]]ist [[Bernie Leadon]], formerly of the [[Eagles (band)|Eagles]] and the [[Nitty Gritty Dirt Band]]; along with [[Nashville, Tennessee|Nashville]] songwriters [[Jim Photoglo]] and [[Vince Melamed]], both of whom played various instruments.<ref name="allmusic"/> In performance and in the album artwork and liner notes, the members portrayed fictitious non-identical quadruplets The Burns Brothers, each with [[pun]] names: [[wikt:crash and burn|Crash'n Burns]], G.W. "Wash" Burns, [[sideburns|Side Burns]], and [[rug burn|Rug Burns]].<ref name="allmusic"/> Their father was known as "[[wikt:dadburn|Dad Burns]]" and their mother as [[auburn hair|Augusta "Au" Burns]].
+
+Run C&W recorded two albums, both on [[MCA Records]]: 1993's ''Into the Twangy-First Century'', followed by 1994's ''Row vs. Wade'', and filmed at least one [[music video]].
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders"
+|-
+! style="width:16em;"| Title
+! style="width:18em;"| Details
+|-
+! scope="row"| ''Into the Twangy-First Century''
+| 
+* Release date: January 19, 1993
+* Label: [[MCA Records]]
+|-
+! scope="row"| ''Row vs. Wade''
+| 
+* Release date: July 19, 1994
+* Label: MCA Records
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:26em;"| Single
+! Album
+|-
+| 1992
+! scope="row"| "Itchy Twitchy Spot" (Parody of "[[Achy Breaky Heart]]")
+| rowspan="2"| ''Into the Twangy-First Century''
+|-
+| 1993
+! scope="row"| "[[Hold On, I'm Comin' (song)|Hold On, I'm Comin']]"
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;"| Video
+|-
+| 1993
+! scope="row"| "Hold On, I'm Comin'"
+|}
+
+== References ==
+{{reflist}}
+
+{{Authority control}}
+{{DEFAULTSORT:Run CandW}}
+[[Category:American country music groups]]
+[[Category:American bluegrass music groups]]
+[[Category:MCA Records artists]]
+[[Category:Bands with fictional stage personas]]
+[[Category:Country music supergroups]]
+
+{{US-country-band-stub}}

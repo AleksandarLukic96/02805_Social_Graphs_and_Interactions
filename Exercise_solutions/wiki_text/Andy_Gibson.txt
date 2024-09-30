@@ -1,0 +1,56 @@
+{{other people}}
+{{Infobox musical artist
+| name            = Andy Gibson
+| image           =
+| birth_name      = Albert Andrew Gibson
+| birth_date      = {{birth date|1913|11|6}}
+| birth_place     = [[Zanesville, Ohio]]
+| death_date      = {{death date and age|1961|2|10|1913|11|6}}
+| death_place     = [[Cincinnati]], Ohio
+| genre           = Jazz
+| occupation      = Musician
+| instrument      = Trumpet
+| years_active    =
+| past_member_of = [[Zack Whyte]], [[McKinney's Cotton Pickers]], [[Blanche Calloway]], [[Willie Bryant]],  [[Lucky Millinder]]
+}}
+
+'''Albert''' "'''Andy'''" '''Gibson''' (November 6, 1913 – February 11, 1961) was an American [[jazz]] trumpeter, arranger, and [[composer]].
+
+==Career==
+Gibson played violin early on before settling on trumpet. Although he played professionally in many orchestras, he did not solo and worked more often as an arranger. His associations include Lew Redman (1931), [[Zack Whyte]] (1932–33), [[McKinney's Cotton Pickers]] (1934–35), [[Blanche Calloway]], [[Willie Bryant]], and [[Lucky Millinder]]. He quit playing in 1937 to arrange and compose full-time, working with [[Duke Ellington]], [[Count Basie]], [[Cab Calloway]], [[Charlie Barnet]], and [[Harry James]]. He led a [[big band]] while serving in the [[United States Army]] from 1942-45.
+
+After his discharge, he continued working with Barnet but focused primarily on [[R&B]] music. He was musical director for [[King Records (USA)|King Records]] from 1955–60 and recorded four songs as a leader in 1959 which were released by [[RCA Camden]]. He composed "I Left My Baby" (popularized by [[Count Basie]]), "The Great Lie", and "[[The Hucklebuck]]".
+
+Andy Gibson died from a heart attack on February 11, 1961, in Cincinnati.<ref>[https://books.google.com/books?id=KSEEAAAAMBAJ&dq=%22Andy+Gibson%22+1961+died+heart&pg=PA5 ''Billboard'']</ref>
+
+==Discography==
+* ''Mainstream Jazz'' (RCA Camden, 1960)
+
+==As arranger==
+'''With [[Count Basie]]'''
+*''[[The Count!]]'' (Clef, 1952 [1955])
+
+==See also==
+* [[List of jazz arrangers]]
+
+==References==
+{{reflist}}
+
+*[[Scott Yanow]], [{{AllMusic|class=artist|id=p8593/biography|pure_url=yes}} Andy Gibson] at [[Allmusic]]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gibson, Andy}}
+[[Category:1913 births]]
+[[Category:1961 deaths]]
+[[Category:American jazz trumpeters]]
+[[Category:American male trumpeters]]
+[[Category:People from Zanesville, Ohio]]
+[[Category:20th-century American musicians]]
+[[Category:20th-century trumpeters]]
+[[Category:Jazz musicians from Ohio]]
+[[Category:20th-century American male musicians]]
+[[Category:American male jazz musicians]]
+
+
+{{Ohio-bio-stub}}

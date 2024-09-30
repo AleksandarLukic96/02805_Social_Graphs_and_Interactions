@@ -1,0 +1,115 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist
+| image           = Donovan Chapman.jpg
+| name            = Donovan Chapman
+| image_size      =
+| origin          = [[Farmerville, Louisiana]], United States
+| instrument      = Vocals<br />guitar<br />[[ukulele]]
+| genre           = [[country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 2003–present
+| label           = [[Curb Records|Curb]]<br />[[Category 5 Records|Category 5]]
+| website         = 
+}}
+
+'''Donovan Chapman''' (born in [[Farmerville, Louisiana]]) is an American [[country music]] artist. he has recorded two studio albums: one on [[Curb Records]], and one on [[Category 5 Records]]. He has also charted four singles on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] charts, with his highest being the No.&nbsp;42-peaking "House Like That" in late 2006-early 2007.
+
+==Biography==
+Chapman was raised in [[Farmerville, Louisiana]].<ref name="curb">[http://www.curb.com/artists/artistbio_T1.cfm?ID=116 Curb.com : Donovan Chapman biography]</ref> His mother, a native of Hawaii, exposed him to Hawaiian music at an early age, and he soon learned to play the [[ukulele]].<ref name="curb"/>
+
+At age seventeen, Chapman enlisted in the [[United States Air Force]]. He spent eleven years in the Air Force, serving for five years in [[U.S. Air Force Security Forces]] and six years as a [[United States Air Force Pararescue|Pararescueman]].<ref>{{cite web|url=http://www.af.mil/News/ArticleDisplay/tabid/223/Article/126241/singer-encourages-new-recruits-to-stay-focused.aspx |title=Singer encourages new recruits to stay focused > U.S. Air Force > Article Display |publisher=Af.mil |date= |accessdate=November 7, 2015}}</ref> During his leave time, he met [[Mike Curb]], head of the [[Curb Records]] label, and was soon signed to the label.
+
+Chapman's first single, "There Is No War", was released in 2003. The single was dedicated to families of American soldiers who had died overseas.<ref>[http://goliath.ecnext.com/coms2/summary_0199-1178083_ITM Former Staff Sergeant USAF and Member of Elite Air Force Pararescue PJs & Now Curb Recording Artist Donovan Chapman Releases "There Is No War" Families Across U.S. Embrace Song During Holidays Without Loved Ones. (brief article)]</ref> Chapman recorded two albums for Curb Records, shortly before returning to duty in [[Afghanistan]].<ref name="pdf">[http://www.brianrowland.com/images/Press%20Release.pdf Press Release.pdf] {{webarchive |url=https://web.archive.org/web/20070929151738/http://www.brianrowland.com/images/Press%20Release.pdf |date=September 29, 2007 }}</ref> In the same time, Chapman released a self titled EP, followed by his first full album, ''I Am America''.
+
+After returning to the United States, he signed to [[Category 5 Records]]. His first single for Category 5, "House Like That", was released in late 2006.<ref>[http://www.countrystandardtime.com/news/newsitem.asp?xid=261&t=Category_5_signs_new_artist Category 5 signs new artist]</ref> A second single, "All I Need", was released in 2007, shortly before Chapman terminated his relationship with Category 5 Records. "House Like That" was produced by [[Billy Joe Walker, Jr.]]
+
+Chapman's music career went into hiatus after he suffered from [[post traumatic stress disorder]] stemming from his service in the Air Force. After recovering, he released the album ''Brotherhood'' in late 2021.<ref>{{Cite web|url=https://www.freedomsingsusa.org/news/new-album-from-donovan-chapman|title = New Album from Donovan Chapman}}</ref>
+
+In September 2023, Chapman released his album "Raised Old School" which has the singles "Old School and Whatcha Know About That." Blake Shelton and Craig Morgan's fiddle player, Jim Ed Hodges along with Clint Black's drummer, Andy Hull and session and touring bassist, Todd Ashburn can be seen playing in the video "Old School." The company Four Branches Bourbon also uses the song and video "Old School" in their commercials. Chapman was the opening act for Montgomery Gentry's, Eddie Montgomery all of 2023 and into 2024.
+
+==Discography==
+
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''I Am America''
+| 
+* Release date: November 14, 2006
+* Label: [[Curb Records]]
+|-
+! scope="row"| ''Brotherhood''
+| 
+* Release date: October 29, 2021
+* Label: Self-released
+|}
+
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''Donovan Chapman''
+| 
+* Release date: August 16, 2005
+* Label: Curb Records
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+!| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! style="width:60px;"| [[Hot Country Songs|US Country]]
+|-
+| 2003
+! scope="row"| "There Is No War"
+| 58
+| style="text-align:left;" rowspan="4"| ''Donovan Chapman''
+|-
+| rowspan="3"| 2004
+! scope="row"| "Hey Hollywood"
+| 56
+|- 
+! scope="row"| "Panama City"
+| —
+|- 
+! scope="row"| "Good Problem to Have"
+| —
+|-
+| 2006
+! scope="row"| "House Like That"
+| 42
+| style="text-align:left;" rowspan="2"| ''I Am America''
+|-
+| 2007
+! scope="row"| "All I Need"
+| 58
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Chapman, Donovan}}
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:People from Farmerville, Louisiana]]
+[[Category:American country singer-songwriters]]
+[[Category:Country musicians from Louisiana]]
+[[Category:American ukulele players]]
+[[Category:Curb Records artists]]
+[[Category:United States Air Force airmen]]
+[[Category:Singer-songwriters from Louisiana]]
+[[Category:American people of Native Hawaiian descent]]

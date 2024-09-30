@@ -1,0 +1,106 @@
+{{Short description|American country music group}}
+{{Infobox musical artist
+| name            = The Hutchens
+| image           =
+| caption         =
+| image_size      =
+| alias           =
+| origin          = [[Sandy Ridge, North Carolina]]
+| genre           = [[Country music|Country]]
+| years_active    = 1994–1996
+| label           = [[Atlantic Records|Atlantic]]
+| associated_acts =
+| website         =
+| current_members =
+| past_members    = Barry Hurtchens<br />Bill Hutchens<br />Bryan Hutchens
+}}
+'''The Hutchens''' was an American [[country music]] trio from [[Sandy Ridge, North Carolina]] composed of brothers Barry, Bill and Bryan Hutchens.<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|page=199|year=2008|isbn=978-0-89820-177-2}}</ref> They were signed to [[Atlantic Records]] and released their debut album, ''Knock, Knock'', in 1995. [[Stephen Thomas Erlewine]] of [[Allmusic]] gave the album three stars out of five, writing that it "showcases their laid-back country-rock to a fine effect."<ref>{{cite web|url={{Allmusic|class=album|id=r229353|pure_url=yes}}|title=''Knock, Knock'' Review|last=Erlewine|first=Stephen Thomas|work=[[Allmusic]]|accessdate=May 14, 2012}}</ref>
+
+Its lead single, the title track, peaked at number 56 on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles & Tracks]] chart.<ref name="whitburn" /> It received a favorable review from Deborah Evans Price of ''Billboard'', who said that it features "high-energy production, lots of personality in the vocal delivery, and [a] catchy chorus."<ref>{{cite news|last=Price|first=Deborah Evans|title=Reviews & Previews|url=https://books.google.com/books?id=6Q0EAAAAMBAJ&dq=hutchens+%22knock+knock%22&pg=PA48|accessdate=May 14, 2012|newspaper=[[Billboard (magazine)|Billboard]]|date=September 16, 1995}}</ref>
+
+==''Knock, Knock''==
+{{Infobox album
+| italic_title = no
+| name       = ''Knock, Knock''
+| type       = studio
+| artist     = The Hutchens
+| cover      =
+| alt        =
+| released   = November 1995
+| recorded   =
+| venue      =
+| studio     =
+| genre      = Country
+| length     = 30:00
+| label      = [[Atlantic Records]]
+| producer   = [[James Stroud]]
+| prev_title =
+| prev_year  =
+| next_title =
+| next_year  = 
+| misc       = {{Singles
+ | name        = Knock, Knock
+ | type        = Studio
+ | single1     = Knock, Knock
+ | single1date = September 1995
+ | single2     = Wait a Minute
+ | single2date = January 1996
+}}
+}}
+
+===Track listing===
+#"Knock, Knock" ([[Jeff Stevens (singer)|Jeff Stevens]], [[Jerry Salley]]) – 2:09
+#"She Just Wants to Dance" ([[Bob Regan]], Calvin Davidson) – 3:14
+#"Fear of a Broken Heart" (Billy Spencer, [[Paul Jefferson]], [[Steve McClintock]]) – 2:51
+#"Your One And Only" (Even Stevens, Hillary Kanter) – 2:44
+#"Billy's Dream" (Jess Brown) – 3:56
+#"Wait a Minute" ([[Herb Pedersen]]) – 3:07
+#"Even Fools Get Lucky Sometimes" ([[Curtis Wright]], [[Robert Ellis Orrall]]) – 3:38
+#"The Train Don't Stop Here Anymore" ([[John Scott Sherrill]], [[Mike Henderson|Michael Henderson]]) – 2:31
+#"I'd Know" ([[Victoria Shaw (singer)|Victoria Shaw]], Salley) – 3:11
+#"I Like Simple Things" ([[Keith Stegall]], [[Roger Murrah]], J. Stevens) – 2:39
+{{Clear}}
+
+==Chart Performance==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2"| Year
+! rowspan="2" style="width:10em;"| Single
+! Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]
+|-
+| 1995
+! scope="row"| "Knock, Knock"
+| 56
+| align="left" rowspan="2"| ''Knock, Knock''
+|-
+| 1996
+! scope="row"| "Wait a Minute"
+| &mdash;
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:10em;"| Video
+|-
+| 1995
+! scope="row"| "Knock, Knock"
+|-
+| 1996
+! scope="row"| "Wait a Minute"
+|-
+|}
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Hutchens, The}}
+[[Category:Country music groups from North Carolina]]
+[[Category:Atlantic Records artists]]
+[[Category:Sibling musical trios]]
+
+
+{{US-country-band-stub}}

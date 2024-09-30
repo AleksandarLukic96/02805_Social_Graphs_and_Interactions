@@ -1,0 +1,191 @@
+{{short description|American country music singer (born 1945)}}
+{{Infobox musical artist
+| name              = Arlene Harden
+| image             = Arlene Harden.jpg
+| alt               = 
+| caption           = 
+| image_size        = 
+| birth_place       = 
+| birth_date        = {{birth date and age|1945|03|01}}<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=179|isbn=978-0-89820-177-2}}</ref>
+| origin            = [[England, Arkansas]], U.S.
+| genre             = [[Country music|Country]]
+| years_active      = 1966–1978
+| label             = [[Columbia Records|Columbia]]<br />[[Capitol Records|Capitol]]<br />[[Elektra Records|Elektra]]
+| past_member_of    = [[The Harden Trio]]
+}}
+'''Ava "Arlene" Harden''' (born March 1, 1945) is an American [[country music]] singer. Between 1966 and 1968, she was one-third of [[The Harden Trio]], which comprised her brother, Bobby and sister, Robbie. Arlene recorded for [[Columbia Records]] as a solo artist between 1967 and 1973, charting fifteen times on the [[Hot Country Songs]] charts.<ref name="whitburn"/> Her most successful release was a cover of [[Roy Orbison]]'s "[[Oh, Pretty Woman]]", titled "Lovin' Man (Oh Pretty Woman)".<ref>{{cite web|url=http://www.allmusic.com/artist/arlene-harden-mn0000596620|title=Arlene Harden biography|work=[[Allmusic]]|accessdate=5 December 2015}}</ref> She later recorded for [[Capitol Records|Capitol]] and [[Elektra Records|Elektra]] as Arleen Harden.<ref name="whitburn"/>
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:18em;"| Title
+! style="width:16em;"| Album details
+|-
+! scope="row"| ''What Can I Say''
+| 
+* Release date: August 1968
+* Label: [[Columbia Records]]
+|-
+! scope="row"| ''Arlene Harden Sings Roy Orbison''
+| 
+* Release date: March 1970
+* Label: Columbia Records
+|-
+! scope="row"| ''I Could Almost Say Goodbye''
+| 
+* Release date: June 1975
+* Label: [[Capitol Records]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:24em;"| Single
+! colspan="2"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<br><ref name="whitburn"/>
+! width="45"| [[RPM (magazine)|CAN Country]]<br><ref>{{cite web|url=http://www.collectionscanada.gc.ca/rpm/028020-119.01-e.php?brws_s=1&file_num=nlc008388.3813&type=1&interval=24&PHPSESSID=v6hhcl9so2237g17dkai2cvei7|title=RPM Country Tracks for June 27, 1970|work=[[RPM (magazine)|RPM]]|accessdate=17 September 2010}}</ref>
+|-
+| rowspan="3"| 1967
+! scope="row"| "You and Only You"
+| —
+| —
+| {{n/a}}
+|-
+! scope="row"| "Fair Weather Love"
+| 48
+| —
+| align="left"| ''What Can I Say''
+|-
+! scope="row"| "You're Easy to Love"
+| 49
+| —
+| {{n/a}}
+|-
+| rowspan="2"| 1968
+! scope="row"| "He's a Good Ole Boy"
+| 32
+| —
+| rowspan="2" align="left"| ''What Can I Say''
+|-
+! scope="row"| "What Can I Say"
+| 41
+| —
+|-
+| rowspan="2"| 1969
+! scope="row"| "Too Much of a Man (To Be Tied Down)"
+| 45
+| —
+| {{n/a}}
+|-
+! scope="row"| "My Friend"
+| 63
+| —
+| rowspan="3" align="left"| ''Arlene Harden Sings Roy Orbison'' 
+|-
+| rowspan="2"| 1970
+! scope="row"| "[[Oh, Pretty Woman|Lovin' Man (Oh Pretty Woman)]]"
+| 13
+| 24
+|-
+! scope="row"| "[[Crying (Roy Orbison song)|Crying]]"
+| 28
+| —
+|-
+| rowspan="4"| 1971
+! scope="row"| "True Love Is Greater Than Friendship"
+| 22
+| —
+| rowspan="7" {{n/a}}
+|-
+! scope="row"| "Married to a Memory"
+|25
+|—
+|-
+! scope="row"| "Congratulations (You Sure Made a Man out of Him)"
+| 49
+| —
+|-
+! scope="row"| "Ruby Gentry's Daughter"
+| 46
+| —
+|-
+| rowspan="2"| 1972
+! scope="row"| "A Special Day"
+| 29
+| —
+|-
+! scope="row"| "It Takes a Lot of Tenderness"
+| 45
+| —
+|-
+| 1973
+! scope="row"| "Would You Walk with Me Jimmy"
+| 21
+| —
+|-
+| 1974
+! scope="row"| "[[Leave Me Alone (Ruby Red Dress)]]"
+| 72
+| —
+| rowspan="4" align="left"| ''I Could Almost Say Goodbye''
+|-
+| rowspan="3"| 1975
+! scope="row"| "I Could Almost Say Goodbye"
+| —
+| —
+|-
+! scope="row"| "Country Sunday"
+| —
+| —
+|-
+! scope="row"| "Roll On, Sweet Mississippi"
+| —
+| —
+|-
+| 1976
+! scope="row"| "Misty Mountain Rain"
+| —
+| —
+| rowspan="4" {{n/a}}
+|-
+| rowspan="2"| 1977
+! scope="row"| "Southern Belle"
+| —
+| —
+|-
+! scope="row"| "A Place Where Love Has Been"
+| 100
+| —
+|-
+| 1978
+! scope="row"| "You're Not Free and I'm Not Easy"
+| 74
+| —
+|-
+| colspan="5" style="font-size: 8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+==References==
+{{Reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Harden, Arlene}}
+[[Category:1945 births]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Columbia Records artists]]
+[[Category:Living people]]
+[[Category:Singer-songwriters from Arkansas]]
+[[Category:People from Lonoke County, Arkansas]]
+[[Category:Country musicians from Arkansas]]
+[[Category:21st-century American women]]
+
+
+{{US-country-singer-stub}}

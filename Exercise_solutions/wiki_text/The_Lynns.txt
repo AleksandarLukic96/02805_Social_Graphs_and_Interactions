@@ -1,0 +1,175 @@
+{{Short description|American country music duo}}
+{{Infobox musical artist
+| name             = The Lynns
+| image            = 
+| caption          = 
+| background       = group_or_band
+| origin           = [[Hurricane Mills, Tennessee|Hurricane Mills]], Tennessee<ref name="allmusic"/>
+| genre            = [[Country music|Country]]
+| years_active     = 1997–99
+| label            = [[Reprise Records|Reprise]]
+| past_members     = {{hlist|Peggy Lynn (Marchetti)|Patsy Lynn (Russell)}}
+| birth_date       = {{birth date and age|1964|08|06}}
+}}
+
+'''The Lynns''' are an American [[country music]] duo, consisting of twin sisters [[Peggy Lynn]] and [[Patsy Lynn]] (born August 6, 1964<ref name="whitburn"/>), who are the youngest daughters of [[Oliver Lynn]] and singer [[Loretta Lynn]].<ref name="allmusic">{{cite web|url=http://www.allmusic.com/artist/lynns-mn0000054423|title=The Lynns biography|last=Ankeny|first=Jason|work=[[Allmusic]]|accessdate=11 September 2015}}</ref>
+
+They recorded one album for [[Reprise Records]], which charted two singles on [[Hot Country Songs]]. The Lynns have received [[Country Music Association|CMA Award]] nominations for Vocal Duo of the Year in 1998 and 1999.<ref>{{cite web|url=http://www.cmt.com/cma-awards/1998.jhtml|archive-url=https://web.archive.org/web/20140114055402/http://www.cmt.com/cma-awards/1998.jhtml|url-status=dead|archive-date=January 14, 2014|title=1998 CMA awards|work=CMT.com|accessdate=4 June 2017}}</ref><ref>{{cite web|url=http://www.cmt.com/cma-awards/1999.jhtml|archive-url=https://web.archive.org/web/20140114055400/http://www.cmt.com/cma-awards/1999.jhtml|url-status=dead|archive-date=January 14, 2014|title=1999 CMA awards|work=CMT.com|accessdate=4 June 2017}}</ref>
+
+Their album was met with mixed reception. Peter Margasak of ''Chicago Reader'' wrote that "musically they don't show much more spunk. Their singing...is no match for their mother's, but they're certainly not alone there....most of the material is typical Nashville mush: weepy ballads and tame, predictable rockers."<ref>{{cite web|url=https://www.chicagoreader.com/chicago/triumph-of-the-swill/Content?oid=895774|title=Triumph of the swill|last=Margasak|first=Peter|date=March 12, 1998|work=Chicago Reader|accessdate=4 June 2017}}</ref> Jason Ankeny of [[AllMusic]] praised the duo's "powerful voices" but criticized the "formulaic production".<ref name="ankeny"/>
+
+Patsy's daughter, [[Emmy Russell]], auditioned for [[American Idol (season 22)|season 22]] of American Idol, making the cut and earning the golden ticket to Hollywood.<ref>{{Cite web|last1=|first1=|url=https://www.tennessean.com/story/entertainment/music/2024/02/25/loretta-lynns-granddaughter-emmy-russell-auditions-for-american-idol-inspired-by-legacy/72736716007/|title=Loretta Lynn's granddaughter Emmy Russell auditions for American Idol inspired by legacy|date=February 25, 2024|website=The Tennessean}}</ref>
+
+==Discography==
+===''The Lynns''===
+{{Infobox album
+| italic_title = no
+| name       = The Lynns
+| type       = studio
+| artist     = The Lynns
+| cover      =
+| alt        =
+| released   = 1998
+| recorded   =
+| venue      =
+| studio     =
+| genre      = [[Country music|Country]]<ref name="ankeny">{{cite web|url=http://www.allmusic.com/album/the-lynns-mw0000032588|title=''The Lynns''|last=Ankeny|first=Jason|work=Allmusic|accessdate=4 June 2017}}</ref>
+| length     =
+| label      = Reprise
+| producer   = {{hlist|[[Don Cook]]|Dale Dodson}}<ref name="liner"/>
+| prev_title =
+| prev_year  =
+| next_title =
+| next_year  =
+}}
+;Track listing
+#"Crazy World of Love" (Patsy Lynn, Peggy Lynn, Philip Russell) - 2:36
+#"Woman to Woman" (Patsy Lynn, Peggy Lynn, Russell) -3:32
+#"This Must Be Love" ([[Kostas (songwriter)|Kostas]], [[James House (singer)|James House]]) - 2:23
+#"It Hurts" (Patsy Lynn, Peggy Lynn) - 4:08
+#"Cry Cry Baby" (Patsy Lynn, Peggy Lynn, James Lewis) - 3:03
+#"Nights Like These" (Patsy Lynn, Peggy Lynn) - 3:10
+#"Oh My Goodness" (Patsy Lynn, Peggy Lynn, Mitch Callis) - 3:29
+#"What Am I Doing Loving You" ([[Jamie O'Hara (singer)|Jamie O'Hara]]) - 2:47
+#"I Won't Leave This World Unloved" (Patsy Lynn, Jaime Kyle, [[Pat Bunch]]) - 3:08
+#"Someday" (Peggy Lynn, Patsy Lynn, Lewis) - 3:05
+
+;Musicians
+From ''The Lynns'' liner notes.<ref name="liner">{{Cite AV media notes |title=The Lynns |others=The Lynns |year=1998 |type=CD booklet |publisher=Reprise Records |id=46754}}</ref>
+
+*Dennis Burnside - piano, keyboards, [[Hammond B-3 organ]]
+*Mark Casstevens - acoustic guitar
+*Larry Franklin - fiddle
+*[[James House (singer)|James House]] - acoustic guitar
+* [[David Hungate]] - bass guitar, acoustic bass guitar
+*[[Lloyd Maines]] - steel guitar
+*Pat McGrath - electric guitar
+*Steve Nathan - piano, keyboards, Hammond B-3 organ
+*Tony Paoletta - steel guitar, lap steel guitar
+*[[Brent Rowan]] - electric guitar
+*Bob Warren - percussion
+*[[Biff Watson]] - acoustic guitar
+*[[Lonnie Wilson]] - drums, percussion
+
+;Technical
+*Mike Bradley - recording, mixing
+*Don Cook - producer
+*Dale Dodson - associate producer
+*Ken Love - mastering
+*Pat McMakin - recording
+*Kenny Royster - vocal arrangement
+*Hank Williams - mastering
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! colspan="3"| Peak chart positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<br><ref>{{cite magazine|url=https://www.billboard.com/music/the-lynns/country-songs|title=Hot Country Songs - The Lynns|magazine=Billboard|accessdate=December 20, 2018}}</ref>
+! width="45"| [[Bubbling Under Hot 100 Singles|US Bubbling]]<br><ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2012|publisher=Record Research, Inc|date=2012|page=204|isbn=978-0-89820-203-8}}</ref>
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| 1997
+! scope="row"| "Nights Like These"
+| 48
+| —
+| —
+| align="left" rowspan="3"| ''The Lynns''
+|-
+| rowspan="2"| 1998
+! scope="row"| "Woman to Woman"
+| 43
+| 11
+| 45
+|-
+! scope="row"| "What Am I Doing in Love"<ref>{{cite web|url=https://www.americanradiohistory.com/Archive-RandR/1990s/1998/RR-1998-06-26.pdf|title=Going for Adds - June 29, 1998|work=[[Radio & Records]]|date=June 26, 1998}}</ref>
+| —
+| —
+| —
+|-
+| colspan="6" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:12em;"| Video
+! Director
+|-
+| 1997
+! scope="row"| "Nights Like These"
+| Michael Merriman
+|-
+| 1998
+! scope="row"| "Woman to Woman"
+| [[Steven Goldmann]]
+|}
+
+== Awards and nominations ==
+{| class="wikitable"
+!Year
+!Organization
+!Award
+!Nominee/Work
+!Result
+|-
+|rowspan=2| 1998
+|[[Academy of Country Music Awards]]
+|Top New Vocal Group or Duo
+|The Lynns
+|{{nom}}
+|-
+|[[Country Music Association Awards]]
+|[[Country Music Association Award for Vocal Duo of the Year|Vocal Duo of the Year]]
+|The Lynns
+|{{nom}}
+|-
+|1999
+|Country Music Association Awards
+|Vocal Duo of the Year
+|The Lynns
+|{{nom}}
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lynns}}
+[[Category:1964 births]]
+[[Category:Living people]]
+[[Category:Country music groups from Tennessee]]
+[[Category:American country music duos]]
+[[Category:Identical twin females]]
+[[Category:Twin musical duos]]
+[[Category:Reprise Records artists]]
+[[Category:American twins]]
+[[Category:American people of Irish descent]]
+[[Category:Musical groups established in 1997]]
+[[Category:Musical groups disestablished in 1999]]
+[[Category:Female musical duos]]

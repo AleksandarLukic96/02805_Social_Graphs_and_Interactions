@@ -1,0 +1,284 @@
+{{Infobox musical artist | <!-- See Wikipedia:WikiProject Musicians -->
+| name            = Matthews, Wright & King
+| image           = Matthews, Wright & King.jpg
+| caption         = Raymond Matthews, Woody Wright, and Tony King
+| image_size      = 
+| background      = group_or_band
+| alias           = 
+| origin          = [[United States]]
+| genre           = [[Country music|Country]]
+| years_active    = 1991–1993
+| label           = [[Columbia Records|Columbia]]
+| associated_acts = Memphis
+| website         = 
+| current_members = 
+| past_members    = Raymond Matthews<br />Woody Wright<br />Tony King
+}}
+'''Matthews, Wright & King''' was an American [[country music]] group formed in 1991. The band, Raymond Matthews (born October 13, 1956), Woody Wright (born October 10, 1957) and Tony King (born June 27, 1957), was put together by [[Columbia Records]] producer Larry Strickland after [[Shenandoah (band)|Shenandoah]] left the label, as an attempt to keep a viable country band on that label. Wright had previously been in another band called Memphis.
+
+Though they enjoyed video success on [[Country Music Television|CMT]] and [[The Nashville Network|TNN]] as well as touring with [[Reba McEntire]] for two seasons, their highest charting radio single, "The Power of Love," peaked at No. 41 on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles & Tracks]] chart in 1992. It was the title track of their debut album, issued that same year on [[Columbia Records]]. The trio dissolved shortly after the release of their second album, ''Dream Seekers''.
+
+Since disbanding, Tony King joined [[Brooks & Dunn]]'s backing band and was also briefly engaged to [[Wynonna Judd]], Woody Wright found success as a [[gospel music|gospel]] songwriter, producer and solo artist, while Raymond Matthews returned to his native Alabama and a successful contracting business.
+
+In 2013, Raymond Matthews and his daughter, Ashley Matthews Mobley, released an album entitled ''Come Home''.  The album is a compilation of gospel songs written by Raymond. Production and recording took place at Dugger Mountain Music Hall near Heflin, Alabama.
+
+==Discography==
+
+===''Power of Love''===
+{{Infobox album
+| name       = Power of Love
+| type       = Studio
+| artist     = Matthews, Wright & King
+| cover      = Matthews,_Wright_&_King_-_Power_of_Love_Cover.jpg
+| alt        =
+| released   = {{start date|1992|5|5}}
+| recorded   = 
+| venue      =
+| studio     = The Doghouse & Nightingale
+| genre      = Country
+| length     = 30:41
+| label      = Columbia Records
+| producer   = {{hlist|Steve Buckingham|Larry Strickland}}
+| prev_title = 
+| prev_year  = 
+| next_title = Dream Seekers
+| next_year  = 1993
+}}
+{{Album ratings
+| rev1      = [[AllMusic]]
+| rev1Score = {{Rating|4|5}} <ref Name=AM1>{{AllMusic|class=album|id=mw0000075926 |label=''Power of Love'' Review |first=Jason |last=Ankeny |accessdate=2 May 2021 }}</ref>
+}}
+{{tracklisting
+| total_length      = 30:41
+| title1            = The Power of Love
+| writer1           = [[Walt Aldridge]]
+| length1           = 2:50
+| title2            = For a Moment There
+| writer2           = {{hlist|Mike McGuire|Billy Henderson|Billy Maddox}}
+| length2           = 3:15
+| title3            = You Found a Way
+| writer3           = {{hlist|[[Gary Burr]]|[[Harry Stinson (musician)|Harry Stinson]]}}
+| length3           = 2:31
+| title4            = Someone's Child
+| writer4           = {{hlist|Billy Troy|Lee Bach}}
+| length4           = 3:07
+| title5            = Standing in the River (Dying of Thirst)
+| writer5           = {{hlist|[[Russell Smith (singer)|Russell Smith]]|[[John Jarrard]]}}
+| length5           = 3:17
+| title6            = Mother's Eyes
+| writer6           = {{hlist|[[Karen Staley]]|[[Gary Harrison]]}}
+| length6           = 3:27
+| title7            = When the River Runs High
+| writer7           = {{hlist|[[Robert Ellis Orrall]]|Charles Quillen}}
+| length7           = 2:27
+| title8            = Leavin' Reasons
+| writer8           = {{hlist|[[Craig Wiseman]]|[[Kent Robbins]]}}
+| length8           = 3:18
+| title9            = House Huntin'
+| writer9           = {{hlist|[[Bob DiPiero]]|[[Mark D. Sanders]]|John Jarrard}}
+| length9           = 3:01
+| title10           = Everytime She Says Yes
+| writer10          = {{hlist|[[Jeff Silbar]]|Jan Buckingham}}
+| length10          = 3:28
+}}
+
+====Musicians====
+
+*Raymond Matthews – Vocals
+*Woody Wright – Vocals
+*Tony King – Vocals
+*[[Eddie Bayers]] – Drums
+*[[Willie Weeks]] – Bass
+*[[Tom Robb]] – Bass
+*Steve Gibson – Guitar
+*Bill Watson – Bass
+*Mark Casstevens – Guitar
+
+====Production====
+
+*Marshall Morgan – Engineer
+*Toby Seay – Assistant Engineer
+*John Kunz – Assistant Engineer
+*Denny Purcell – Mastering
+*Carlos Grier – Editing
+*Bill Johnson – Art Direction
+*Rollow Welch – Design
+*Randee Saint Nicholas – Photography
+
+===''Dream Seekers''===
+{{Infobox album
+| name       = Dream Seekers
+| type       = Studio
+| artist     = Matthews, Wright & King
+| cover      = Matthews,_Wright_&_King_-_Dream_Seekers_Cover.jpg
+| alt        =
+| released   = {{start date|1993|7|20}}
+| recorded   = 
+| venue      =
+| studio     = Scruggs Sound Studio, Nashville, TN
+| genre      = Country
+| length     = 35:35
+| label      = [[Columbia Records]]
+| producer   = [[Randy Scruggs]]
+| prev_title = Power of Love
+| prev_year  = 1992
+| next_title = 
+| next_year  = 
+}}
+{{Album ratings
+| rev1      = [[AllMusic]]
+| rev1Score = {{Rating|3|5}} <ref Name=AM2>{{AllMusic|class=album|id=mw0000099138 |label=''Dream Seekers'' Review |first=  |last= |accessdate=2 May 2021 }}</ref>
+}}
+{{tracklisting
+| total_length      = 35:35
+| title1            = One of These Days
+| writer1           = {{hlist|[[Billy Livsey]]|[[Don Schlitz]]}}
+| length1           = 3:47
+| title2            = Every Step of the Way
+| writer2           = {{hlist|[[Richard Leigh (songwriter)|Richard Leigh]]|Gary Scruggs}}
+| length2           = 3:32
+| title3            = I Got a Love
+| writer3           = Jackson Leap
+| length3           = 3:29
+| title4            = She's Letting Go
+| writer4           = {{hlist|[[Charlie Craig (songwriter)|Charlie Craig]]|Gene Nelson}}
+| length4           = 3:26
+| title5            = Don't Forget About Me
+| writer5           = {{hlist|Raymond Matthews|Mel Besher|Lee Buch}}
+| length5           = 3:11
+| title6            = Plain Jane
+| writer6           = {{hlist|Gary Scruggs|[[J. Fred Knobloch]]}}
+| length6           = 3:22
+| title7            = The Truth Is Killin' Me
+| writer7           = Raymond Matthews
+| length7           = 3:31
+| title8            = Uncle Sam's Right Hand Man
+| writer8           = Raymond Matthews
+| length8           = 3:43
+| title9            = Dream Seeker
+| writer9           = Raymond Matthews
+| length9           = 3:17
+| title10           = Big Money
+| writer10          = {{hlist|Jim Robinson|Andy Byrd}}
+| length10          = 4:17
+}}
+
+====Musicians====
+
+*[[Eddie Bayers]] – Drums
+*[[Willie Weeks]] – Bass
+*[[Michael Rhodes (musician)|Michael Rhodes]] – Bass
+*[[Brent Mason]] – Electric Guitars
+*[[Randy Scruggs]] – Electric Guitars
+*[[Don Potter (musician)|Don Potter]] - Acoustic Guitar
+*[[Paul Franklin (musician)|Paul Franklin]] - Steel Guitar
+*[[Matt Rollings]] - Piano, Synth
+*[[Steve Nathan]] - Organ, Synth
+*Ron Reynolds - Percussion
+
+====Production====
+
+*Ron Reynolds – Engineer
+*Glenn Meadows – Digital Editing, Mastering
+*Bill Johnson – Art Direction
+*Rollow Welch – Design
+*Jodi Lynn Miller – Design Assistant
+*Peter Nash – Photography
+
+Track information and credits verified from ''[[Discogs]]'',<ref name=DC>{{cite web |url=https://www.discogs.com/Matthews-Wright-King-Dream-Seekers/release/8388069 |title=Discogs Credits ''Dream Seekers'' |last= |first= |date= |website= |publisher=Discogs |access-date=2 May 2021 |quote=}}</ref><ref name=DC2>{{cite web |url=https://www.discogs.com/Matthews-Wright-King-Power-Of-Love/release/8743380 |title=Discogs Credits ''Power Of Love'' |last= |first= |date= |website= |publisher=Discogs |access-date=2 May 2021 |quote=}}</ref> ''[[AllMusic]]'',<ref name=AM3>{{cite web |url=https://www.allmusic.com/album/power-of-love-mw0000075926/credits |title=AllMusic Credits ''Power of Love'' |last= |first= |date= |website= |publisher=AllMusic |access-date=2 May 2021 |quote=}}</ref><ref name=AM4>{{cite web |url=https://www.allmusic.com/album/dream-seekers-mw0000099138/credits |title=AllMusic Credits ''Dream Seekers'' |last= |first= |date= |website= |publisher=AllMusic |access-date=2 May 2021 |quote=}}</ref> and the album's liner notes.<ref name=LN1>{{Cite AV media notes |title=Dream Seekers |others=Matthews, Wright & King |type=liner notes |access-date= |year=1993 |publisher=[[Columbia Records]] |id=CK 53198}}</ref><ref name=LN2>{{Cite AV media notes |title=Power of Love |others=Matthews, Wright & King |type=liner notes |access-date= |year=1992 |publisher=[[Columbia Records]] |id=CK 48797}}</ref>
+
+==Charts==
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:12em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="3"| 1992
+! scope="row"| "The Power of Love"
+| 41
+| 45
+| align="left" rowspan="3"| ''Power of Love''
+|-
+! scope="row"| "Mother's Eyes"
+| 55
+| 76
+|-
+! scope="row"| "House Huntin'"
+| 68
+| —
+|-
+| rowspan="2"| 1993
+! scope="row"| "I Got a Love"
+| 45
+| 75
+| align="left" rowspan="2"| ''Dream Seekers''
+|-
+! scope="row"| "One of These Days"
+| 74
+| 63
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:12em;"| Video
+! Director
+|-
+| rowspan="2"| 1992
+! scope="row"| "The Power of Love"
+| rowspan="4"| Michael Merriman
+|-
+! scope="row"| "Mother's Eyes"
+|-
+| rowspan="2"| 1993
+! scope="row"| "I Got a Love"
+|-
+! scope="row"| "One of These Days"
+|}
+
+== Awards and nominations ==
+{| class="wikitable"
+!Year
+!Organization
+!Award
+!Nominee/Work
+!Result
+|-
+|1993
+|TNN/Music City News Country Awards
+|Vocal Group of the Year
+|Matthews, Wright & King
+|{{nom}}
+|-
+|1994
+|TNN/Music City News Country Awards
+|Vocal Group of the Year
+|Matthews, Wright & King
+|{{nom}}
+|}
+
+==References==
+<references/>
+
+==External links==
+*[{{AllMusic|class=artist|id=p30167|pure_url=yes}} Matthews, Wright & King] at ''[[Allmusic]]''
+*[http://www.woodywright.net/index.php Woody Wright Official]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Matthews, Wright and King}}
+[[Category:Country music groups from Tennessee]]
+[[Category:Columbia Records artists]]
+[[Category:Musical groups established in 1991]]
+[[Category:Musical groups disestablished in 1993]]
+[[Category:1991 establishments in Tennessee]]

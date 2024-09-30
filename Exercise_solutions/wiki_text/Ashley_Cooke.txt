@@ -1,0 +1,101 @@
+{{short description|American singer-songwriter}}
+
+{{Infobox musical artist
+| name            = Ashley Cooke
+| image           =
+| caption         =
+| birth_name      = 
+| birth_date      = {{birth date and age|1997|06|12}}
+| birth_place     = [[Parkland, Florida]], United States
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| instrument      = Vocals, guitar
+| years_active    = 2020–present
+| label           = [[Big Loud]]
+| associated_acts = 
+| website         = {{URL|https://ashleycooke.com/}}
+}}
+'''Ashley Cooke''' (born June 12, 1997) is an American [[country music]] singer-songwriter from [[Parkland, Florida]] signed to [[Big Loud]].<ref>{{cite web|url=https://ashleycooke.com/|title=Ashley Cooke Official Website|accessdate=November 4, 2023}}</ref>
+
+==Background==
+Cooke independently released ''Already Drank That Beer - Side A'' in 2021.<ref name="ashley cooke talks radio">{{cite web|url=https://www.cmt.com/news/tk7gcj/ashley-cooke-talks-radio-single-never-til-now-with-brett-young-and-becoming-a-signed-artist|archive-url=https://web.archive.org/web/20220817190927/https://www.cmt.com/news/tk7gcj/ashley-cooke-talks-radio-single-never-til-now-with-brett-young-and-becoming-a-signed-artist|url-status=dead|archive-date=August 17, 2022|title=Ashley Cooke Talks Radio Single "Never Til Now" With Brett Young, Becoming a Signed Artist|author=Tiffany Goldstein|date=July 18, 2022|website=CMT|accessdate=November 6, 2023}}</ref> The album was later retitled as ''Already Drank That Beer'' and reissued on April 1, 2022, adding a new duet version of "Never Til Now" which featured [[Brett Young (singer)|Brett Young]]. It was released as Cooke's debut single in May 2022 and promoted by [[Big Loud]] who she inked a recording contract with.<ref name="ashley cooke talks radio"/> It peaked at number 49 on the ''Billboard'' [[Country Airplay]] chart. 
+
+''Shot in the Dark'', Cooke's 24-track second studio and major label debut album, was released on July 21, 2023, via Big Loud.<ref>{{cite web|url=https://musicrow.com/2023/06/ashley-cooke-to-take-a-shot-in-the-dark-on-july-21/|title=Ashley Cooke To Take A 'Shot In The Dark' On July 21|author=Lorie Hollabaugh|date=July 21, 2023|website=Music Row|accessdate=November 6, 2023}}</ref> It reprises Cooke's debut single "Never Til Now" and also features new collaborations with [[Colbie Caillat]], [[Nate Smith (singer)|Nate Smith]], and [[Jackson Dean]]. "Your Place" was released on December 11, 2023, as the album's lead single,<ref>{{cite web | url=https://musicrow.com/single-track-releases/ | title=Single/Track Releases }}</ref> and Cooke was the recipient of [[iHeartRadio]]'s On the Verge program.<ref>{{cite web | url=https://www.instagram.com/p/C0uZ8rEO2be/ | title=Instagram }}</ref>
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;" 
+|+ List of studio albums, with selected details, chart positions and sales
+! scope="col"| Title
+! scope="col"| Album details
+|- 
+! scope="row" |''Already Drank That Beer''
+|
+* Release date: April 1, 2022
+* Label: [[Big Loud]]
+* Format: CD, digital download, LP
+|-
+! scope="row" |''Shot in the Dark''
+|
+* Release date: July 21, 2023
+* Label: Big Loud
+* Format: CD, digital download, LP
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of singles, with selected chart positions
+! scope="col" rowspan="2"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="4"| Peak chart positions
+! scope="col" rowspan="2"| Certifications
+! scope="col" rowspan="2"| Album
+|- style="font-size:smaller;"
+! scope="col" width="45"| [[Billboard Hot 100|US]]<br /><ref>{{cite magazine|url=https://www.billboard.com/charts/hot-100/2024-06-29/|title=''Billboard'' Hot 100: Week of June 29, 2024|magazine=[[Billboard (magazine)|Billboard]]|access-date=June 25, 2024}}</ref>
+! scope="col" width="45"| [[Hot Country Songs|US Country]]<br /><ref>{{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_0610.pdf|title=Billboard Country Update|magazine=[[Billboard (magazine)|Billboard]]|date=June 10, 2024|access-date=June 11, 2024}}</ref>
+! scope="col" width="45"| [[Country Airplay|US Country Airplay]]<br /><ref name="Country Airplay">Peaks on the Country Airplay chart:
+* "Never Til Now": {{cite magazine|url=http://bulletins.billboard.com/country/country_update_2022_1212.pdf|title=Billboard Country Update|date=December 12, 2022|magazine=Billboard|access-date=November 6, 2023}}
+* "Your Place" and "Over When We're Sober": {{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_0621.pdf|title=Billboard Country Update|magazine=[[Billboard (magazine)|Billboard]]|date=June 21, 2024|access-date=June 22, 2024}}</ref>
+! scope="col" width="45"| [[Canada Country|CAN<br />Country]]<br /><ref>{{cite magazine|url=https://www.billboard.com/charts/canada-country/2024-07-27/|title=Canada Country: Week of July 27, 2024|magazine=[[Billboard (magazine)|Billboard]]|access-date=July 23, 2024}}</ref>
+|-
+! scope="row" | "Never Til Now"<br />{{small|(with [[Brett Young (singer)|Brett Young]])}}
+| 2022
+| — || — || 49 || —
+|
+* [[Recording Industry Association of America|RIAA]]: Gold<ref>{{Cite web |title=Gold & Platinum |url=https://www.riaa.com/gold-platinum/?tab_active=default-award&se=ashley+cooke#search_section |access-date=2024-09-13 |website=RIAA |language=en-US}}</ref>
+| ''Already Drank That Beer''
+|-
+! scope="row" | "[[Your Place]]"
+| 2023
+| 80 || 21 || 2 || 3
+|
+| ''Shot in the Dark''
+|}
+
+===As a featured artist===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of singles as a featured artist
+! scope="col" rowspan="2"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="1"| Peak chart positions
+! scope="col" rowspan="2"| Album
+|- style="font-size:smaller;"
+! scope="col" width="45"| [[Country Airplay|US Country Airplay]]<br /><ref name="Country Airplay"/>
+|-
+! scope="row"| "Over When We're Sober"<br />{{small|([[Brantley Gilbert]] featuring Ashley Cooke)}}<ref>{{cite web|url=https://www.instagram.com/p/C74OTQrgRO6/?img_index=1|date=June 6, 2024|website=Instagram|accessdate=June 6, 2024 |title=Instagram }}</ref>
+| 2024
+| 31
+| ''Tattoos''
+|}
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Cooke, Ashley}}
+[[Category:Living people]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Country musicians from Florida]]

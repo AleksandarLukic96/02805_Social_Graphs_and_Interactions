@@ -1,0 +1,30 @@
+{{Use mdy dates|date=June 2023}}
+{{Infobox musical artist
+| honorific_prefix    =
+| name                = Folk Soul Revival
+| image               =
+| landscape           =
+| caption             =
+| origin              = [[Wise, Virginia]], U.S.
+| genre               = [[Country music|Country]], [[Americana music|Americana]]
+| years_active        = 2008–2021
+| label               =
+| associated_acts     =
+| website             =
+| current_members     = Daniel Davis<br />Justin Venable<br />Brandon Sturgill<br />Chad Light<br />Justin Louthian
+| past_members        = Allun Cormier<br />Jordan Bledsoe<br />Aaron Faust<br />Daniel Vanover<br />Dan Witt
+| notable_instruments = 
+}}
+
+'''Folk Soul Revival''' (also known as '''FSR''') was an American [[Country music]] group. Its former members include Allun Cormier (guitar and vocals), Daniel Davis (guitar and vocals), Justin Venable ([[banjo]], harmonica, and vocals), Brandon Sturgill (bass and vocals), Chad Light (electric guitar, [[banjo]], pedal steel), and Justin Louthian (drums, percussion, vocals).<ref>{{Cite web|url=http://www.folksoulrevival.com/|title=Folk Soul Revival|website=Folk Soul Revival|language=en-US|access-date=2018-08-19}}</ref> The group was formed in Wise, Virginia in 2008 and regularly performed at regional [[festival]]s such as [[FloydFest]] and the [[Bristol Rhythm and Roots Reunion]].<ref>{{Cite web|url=http://www.folksoulrevival.com/info/|title=THE BAND|website=Folk Soul Revival|language=en-US|access-date=2018-08-19}}</ref> In April 2009, FSR released their independently produced debut studio album, Good Enough.<ref>{{Cite web|url=http://www.facebook.com/folksoulrevival?sk=info|title=Folk Soul Revival|website=www.facebook.com|language=en|access-date=2018-08-19}}</ref> Their second studio album, Words Off A Tongue, was released soon after in August 2010. They have since been named the 2011 Band of the Year by the Virginia Tourism Corporation.
+In 2012 the band released their third album named Prompting the Dapperness. The band stated that the name of the album was inspired by former member Allun Cormier. The band's fourth album, Out of Box, was released in 2015. The group announced the end of their journey together in 2021.<ref>{{Cite web|url=https://www.reverbnation.com/folksoulrevival/song/26540898-out-of-the-box-goodnight|title=Out of the Box – Goodnight {{!}} Folk Soul Revival|last=eMinor|website=ReverbNation|language=en-us|access-date=2018-08-19}}</ref>
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+[[Category:Country music groups from Virginia]]
+
+
+{{US-country-band-stub}}

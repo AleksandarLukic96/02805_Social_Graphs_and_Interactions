@@ -1,0 +1,153 @@
+{{short description|American country music singer-songwriter (born 1993)}}
+{{Use mdy dates|date=June 2020}}
+{{Infobox musical artist
+| name            = JJ Lawhorn
+| image           =
+| image_size      =
+| landscape       =
+| alt             =
+| caption         =
+| birth_name      = Jonathan Wayne Lawhorn
+| birth_date      = {{birth-date and age|September 1993}}
+| birth_place     = [[Hanover County, Virginia]]
+| origin          =
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| instrument      = Vocals, guitar, banjo
+| years_active    = 2010–present
+| label           = [[Average Joes Entertainment]] {{small|(former)}}
+| associated_acts = [[Justin Moore]]<br />[[Jeremy Stover]]<br />[[Ryan Upchurch]]
+| website         = {{URL|http://jjlawhorn.com/}}
+}}
+'''Jonathan Wayne "JJ" Lawhorn''' (born September 1993) in [[Hanover County, Virginia]]) is an American [[country music]] singer-songwriter. Lawhorn was discovered online by producer [[Jeremy Stover]] in 2010.<ref name="theboot">{{cite news|last=Whitaker|first=Sterling|title=JJ Lawhorn Interview: Newcomer Talks Debut Album, 'Original Good Ol' Boy'|url=http://theboot.com/jj-lawhorn-interview-2013/|access-date=March 4, 2014|newspaper=The Boot|date=July 17, 2013}}</ref> He signed with [[EMI Music Publishing]] within a year.<ref name="gac">{{cite news|last=Doerschuk|first=Bob|title=New Artist Spotlight: JJ Lawhorn|url=http://blog.gactv.com/blog/2013/07/24/new-artist-spotlight-jj-lawhorn/|access-date=March 4, 2014|newspaper=[[Great American Country]]|date=July 24, 2013}}</ref> He signed a recording contract with [[Average Joes Entertainment]], a record label owned by [[Colt Ford]], in June 2011 when he was 17 years old.<ref name="allmusic">{{cite web|last=Leggett|first=Steve|title=JJ Lawhorn {{!}} Biography|url={{AllMusic|class=artist|id=mn0002738497/biography|pure_url=yes}}|work=[[AllMusic]]|access-date=March 4, 2014}}</ref>
+
+Lawhorn's debut album, ''Original Good Ol' Boy'', was released by Average Joes on July 16, 2013.<ref name="theboot" /> The album was produced by Stover.<ref name="gac" /> Lawhorn wrote or co-wrote all thirteen tracks.<ref name="allmusic" /> Matt Bjorke of ''Roughstock'' gave the album four stars out of five, calling Lawhorn "an artist well worth seeking out."<ref>{{cite news|last=Bjorke|first=Matt|title=Album Review: JJ Lawhorn – Original Good Ol' Boy|url=http://www.roughstock.com/reviews/album-review-jj-lawhorn-original-good-ol-boy|access-date=March 4, 2014|newspaper=Roughstock|date=July 16, 2013|archive-url=https://archive.today/20140304190936/http://www.roughstock.com/reviews/album-review-jj-lawhorn-original-good-ol-boy|archive-date=March 4, 2014|url-status=dead}}</ref> The album sold 4,000 copies in its first week of release, debuting at number 20 on the ''[[Billboard (magazine)|Billboard]]'' [[Top Country Albums]] chart and number 91 on the [[Billboard 200|''Billboard'' 200]].<ref>{{cite news|last=Bjorke|first=Matt|title=Country Album Chart News: The Week of July 24, 2013: Travis Tritt, Luke Bryan, Florida Georgia Line, Jason Aldean, Blake Shelton, Hunter Hayes, Mud Digger 4|url=http://www.roughstock.com/blog/country-album-chart-news-the-week-of-july-24-2013-travis-tritt-luke-bryan-florida-georgia-line-jason-aldean-blake-shelton-hunter-hayes-mud-digger-4|access-date=March 4, 2014|newspaper=Roughstock|date=July 24, 2013|url-status=dead|archive-url=https://web.archive.org/web/20131005103309/http://www.roughstock.com/blog/country-album-chart-news-the-week-of-july-24-2013-travis-tritt-luke-bryan-florida-georgia-line-jason-aldean-blake-shelton-hunter-hayes-mud-digger-4|archive-date=October 5, 2013}}</ref>
+
+The single "Good Ol' Boys Like Us" was released to country radio on February 17, 2014.<ref>{{cite news|last=Thompson|first=Gayle|title=JJ Lawhorn Releasing New Single|url=http://theboot.com/jj-lawhorn-good-ol-boys-like-us/|access-date=March 4, 2014|newspaper=The Boot|date=February 13, 2014}}</ref> The song received a favorable review from Taste of Country, which called it "a great lyric and a strong vocal performance."<ref>{{cite news|title=JJ Lawhorn – 'Good Ol' Boys Like Us' [Listen]|url=http://tasteofcountry.com/jj-lawhorn-good-ol-boys-like-us/|access-date=March 4, 2014|newspaper=Taste of Country|date=February 17, 2014}}</ref>
+
+==Personal life==
+Lawhorn graduated from [[Hanover High School (Mechanicsville, Virginia)|Hanover High School]] in [[Mechanicsville, Virginia]].
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:12em;"| Title
+! rowspan="2" style="width:20em;"| Album details
+! colspan="3"| Peak chart positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]<br /><ref>{{cite magazine|url=http://www.billboard.com/biz/search/charts?f%5B0%5D=ts_chart_artistname%3A%2AJJ%20Lawhorn%2A&f%5B1%5D=itm_field_chart_id%3A320&f%5B2%5D=ss_bb_type%3Achart_item&type=2&artist=JJ%20Lawhorn|title=JJ Lawhorn Album & Song Chart History – Top Country Albums|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|access-date=March 4, 2014}}</ref>
+! width="45"| [[Billboard 200|US]]<br /><ref>{{cite magazine|url=http://www.billboard.com/biz/search/charts?f%5B0%5D=ts_chart_artistname%3A%2AJJ%20Lawhorn%2A&f%5B1%5D=itm_field_chart_id%3A305&f%5B2%5D=ss_bb_type%3Achart_item&type=2&artist=JJ%20Lawhorn|title=JJ Lawhorn Album & Song Chart History – The Billboard 200|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|access-date=March 4, 2014}}</ref>
+! width="45"| [[Independent Albums|US<br />Indie]]<br /><ref>{{cite magazine|url=http://www.billboard.com/biz/search/charts?f%5B0%5D=ts_chart_artistname%3A%2AJJ%20Lawhorn%2A&f%5B1%5D=itm_field_chart_id%3A326&f%5B2%5D=ss_bb_type%3Achart_item&type=2&artist=JJ%20Lawhorn|title=JJ Lawhorn Album & Song Chart History – Independent Albums|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|access-date=March 4, 2014}}</ref>
+|-
+! scope="row"| ''Original Good Ol' Boy''
+| 
+* Release date: July 16, 2013
+* Label: [[Average Joes Entertainment]]
+| 20
+| 91
+| 20
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:18em;"| Single
+! Album
+|-
+| rowspan="2"| 2012
+! scope="row"| "Sittin' on a Tailgate"
+| rowspan="4"| ''Original Good Ol' Boy''
+|-
+! scope="row"| "You Can Tell a Man by His Truck"
+|-
+| 2013
+! scope="row"| "Stomping Grounds"
+|-
+| 2014
+! scope="row"| "Good Ol' Boys Like Us"
+|-
+|}
+
+===Guest singles===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;"| Single
+! Artist
+! Album
+|-
+| 2012
+! scope="row"| "Answer to No One"
+| [[Colt Ford]]
+| ''[[Declaration of Independence (album)|Declaration of Independence]]''
+|-
+| 2013
+! scope="row"| "Field Party"
+| [[The Lacs]]
+| ''Keep It Redneck''
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|- 
+! Year
+! style="width:18em;"| Video
+! Director
+|-
+| rowspan="2"| 2012
+! scope="row"| "Sittin' on a Tailgate"<ref>{{cite web|url=http://www.cmt.com/videos/jj-lawhorn/734301/sittin-on-a-tailgate.jhtml|archive-url=https://web.archive.org/web/20120727020338/http://www.cmt.com/videos/jj-lawhorn/734301/sittin-on-a-tailgate.jhtml|url-status=dead|archive-date=July 27, 2012|title=CMT : Videos : JJ Lawhorn : Sittin' on a Tailgate|publisher=[[Country Music Television]]|access-date=March 4, 2014}}</ref>
+| Travis Nicholson
+|-
+! scope="row"| "Answer to No One" <small>(with [[Colt Ford]])</small><ref>{{cite web|url=http://www.cmt.com/videos/colt-ford/999714/answer-to-no-one.jhtml|archive-url=https://web.archive.org/web/20140304223919/http://www.cmt.com/videos/colt-ford/999714/answer-to-no-one.jhtml|url-status=dead|archive-date=March 4, 2014|title=CMT : Videos : Colt Ford : Answer to No One|publisher=[[Country Music Television]]|access-date=March 4, 2014}}</ref>
+| Paul Cain
+|-
+| rowspan="3"| 2013
+! scope="row"| "Stomping Grounds"
+| 
+|-
+! scope="row"| "Field Party" <small>(with [[The Lacs]])</small>
+| 
+|-
+! scope="row"| "You Can Tell a Man by His Truck"
+| 
+|-
+| 2014
+! scope="row"| "Good Ol' Boys Like Us"
+|
+|-
+| 2017
+! scope="row"| "New Kid on the Block"
+|
+|-
+| rowspan="2"| 2018
+! scope="row"| "Last of a Dying Breed"
+|
+|-
+! scope="row"| "Houndsman"
+|
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{official website|http://jjlawhorn.com/}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lawhorn, Jj}}
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Country musicians from Virginia]]
+[[Category:Living people]]
+[[Category:People from Hanover County, Virginia]]
+[[Category:Singer-songwriters from Virginia]]
+[[Category:1993 births]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:21st-century American male singers]]
+[[Category:Average Joes Entertainment artists]]

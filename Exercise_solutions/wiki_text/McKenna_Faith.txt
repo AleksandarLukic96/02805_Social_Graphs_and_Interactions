@@ -1,0 +1,61 @@
+{{short description|American singer-songwriter}}
+
+{{Infobox musical artist
+| name            = McKenna Faith
+| image           =
+| image_size      =
+| landscape       = <!-- yes, if wide image, otherwise leave blank -->
+| alt             =
+| caption         =
+| birth_name      = McKenna Garcia
+| alias           =
+| birth_date      = {{birth year and age|1995}}<!-- {{birth date and age|YYYY|MM|DD}} for living people supply only the year unless the exact date is already WIDELY published, as per [[WP:DOB]] -->
+| birth_place     =
+| origin          = [[Ukiah, California]], U.S.
+| death_date      = <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date 1st) -->
+| death_place     =
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| instrument      =
+| years_active    = <!-- YYYY–YYYY (or –present) -->
+| label           =
+| associated_acts =
+| website         = {{URL|http://www.mckenna-faith.com}}
+}}
+'''McKenna Garcia''' (born January 6, 1995),  better known by her stage name McKenna Faith is a country music singer/songwriter from [[Ukiah, California]].<ref>{{cite news | first = Dan | last = Taylor | title = Ukiah Teen's Faith in music | date = 2011-01-15 | url = http://www.pressdemocrat.com/article/20110115/LIFESTYLE/110119716 | work = Press Democrat | accessdate = 2011-09-23}}</ref><ref>{{cite news | first = Amy | last = Maginnis-Honey | title = 16-year-old aspires to country music career | date = 2011-09-21 | url = http://www.dailyrepublic.com/features/entertainment/16-year-old-aspires-to-country-music-career/ | work = Daily Republic | accessdate = 2011-09-23 | quote = The Ukiah resident}}</ref>
+
+==Career==
+On August 21, 2011 Faith opened the Sonoma Country Music BBQ in [[Santa Rosa, California]], playing with [[Dierks Bentley]], [[Thompson Square]] and [[Luke Bryan]].<ref>{{cite news | first = Steve | last = Hart | title = Country music, barbecue draw 7,500 to fairgrounds | date = 2011-08-21 | url = http://www.pressdemocrat.com/article/20110821/ARTICLES/110829939 | work = Press Democrat | accessdate = 2011-09-23}}</ref> On February 14, 2012, McKenna Faith debuted her single "Head Over My Boots For You" to radio.<ref>{{cite web|last=Risso|first=John|title=Featured Artist: McKenna Faith|url=http://www.norcalcountry.net/featured-artist-mckenna-faith/#.T2bS-GKXRe4}}</ref><ref>{{cite web|last=Mertle|first=Joey|title=Head Over My Boots For You Radio Premiere|url=http://www.mckenna-faith.com/news}}</ref> Faith performed on the Blake Shelton and Friends Cruise in 2013.<ref>{{cite web|last=Is Love|first=Country Music|title=Blake Shelton Cruise Sets Sail TODAY!|url=http://www.countrymusicislove.com/country-music-news/blake-shelton-cruise-sets-sail-today/|accessdate=11 November 2013|url-status=dead|archiveurl=https://web.archive.org/web/20131111074333/http://www.countrymusicislove.com/country-music-news/blake-shelton-cruise-sets-sail-today/|archivedate=11 November 2013}}</ref>
+
+On June 11, 2013 Faith released her first full length album, ''We Like Trucks''.<ref>{{cite web|last=LIEBRUM|first=JENNIFER|title=Test of Faith|url=http://www.mtexpress.com/index2.php?ID=2007148804#.UoB2PJTXSUA|accessdate=11 November 2013}}</ref> That September, Faith performed at the Sonoma Stampede Country Music Festival. She performed with [[Frankie Ballard]] and [[Tate Stevens]].<ref>{{cite web|last=KOVNER|first=GUY|title=Rain can't chase away music|url=http://www.pressdemocrat.com/article/20130921/articles/130929894#page=0|accessdate=11 November 2013}}</ref>
+
+==Discography==
+
+===Albums===
+*''We Like Trucks'' (2013)
+*''Let's Get Lost'' (2014)
+
+===EPs===
+*''Seal It With A Kiss'' (2015)
+
+== References ==
+<!--- See http://en.wikipedia.org/wiki/Wikipedia:Footnotes on how to create references using <ref></ref> tags which will then appear here automatically -->
+{{Reflist}}
+
+== External links ==
+*{{official website|http://www.mckenna-faith.com}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Faith, McKenna}}
+<!--- Categories --->
+[[Category:People from Ukiah, California]]
+[[Category:People from Santa Rosa, California]]
+[[Category:American country singer-songwriters]]
+[[Category:American women country singers]]
+[[Category:1995 births]]
+[[Category:Living people]]
+[[Category:Singer-songwriters from California]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:21st-century American women singers]]
+[[Category:Country musicians from California]]

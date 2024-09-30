@@ -1,0 +1,77 @@
+{{short description|American singer-songwriter}}
+{{Use American English|date=November 2022}}
+{{Use mdy dates|date=July 2013}}
+{{multiple issues|
+{{Autobiography|date=May 2022}}
+{{BLP sources|date=February 2010}}
+{{Cleanup rewrite|date=July 2023}}
+}}
+{{Infobox musical artist
+| name            = Aaron Benward
+| image           =
+| caption         =
+| birth_name      = Aaron Jeoffrey Benward
+| birth_date      = {{birth date and age|1973|09|13}}
+| origin          =
+| Instruments     =
+| genre           = [[Country music|Country]], [[Christian music]]
+| occupation      = Singer-songwriter,
+| years_active    = 2000–present
+| label           =
+| past_member_of = [[Blue County (music group)|Blue County]], [[Aaron Jeoffrey]]
+}}
+
+'''Aaron Jeoffrey Benward '''(born September 13, 1973) is an American singer-songwriter.
+
+==Life and career==
+Benward is the son of Candice and [[Jeoffrey Benward]] and has two siblings, Sareece and Colin. In [[high school]], he left his mark as an All-State football, basketball and soccer player and was named the U.S. Army Scholar/Athlete of the Year. After graduating, he decided to pursue a college degree before getting involved in music on a professional level. He attended college on a soccer scholarship studying music business at [[Belmont University]] in [[Nashville, Tennessee]].
+
+In 1991, he surprised his father Jeoffrey when he told his dad that he wanted to follow his steps in the music business. They went on to form a unique son/father duo called [[Aaron Jeoffrey]] that achieved great success in the [[Contemporary Christian music|CCM]] scene. They garnered 10 #1 Billboard CCM singles and sold over 1,000,000 copies on all three of their EMI released albums combined.
+
+Benward met his wife, Kenda, in [[San Jose, California]], and married in 1994. In the late 1990s, Benward decided to pursue a solo career. While recording his first solo album, Benward, his wife and children, were involved in a near fatal car accident. After recovering from his injuries, Benward was able to release his debut album titled ''Imagine'', that had Billboard #1 single called "Captured" in 2000.<ref>{{cite web|url=http://www.christianitytoday.com/music/artists/aaronbenward.html|title=Music|website=Christianitytoday.com|accessdate=September 3, 2017}}</ref>
+
+Benward founded the country music duo [[Blue County (music group)|Blue County]] with his friend [[Scott Reeves]].<ref>{{cite web|url=https://books.google.com/books?id=jhAEAAAAMBAJ&q=%22aaron+jeoffrey%22+%22blue+county%22&pg=PA34|title=Billboard|date=April 17, 2004|publisher=Nielsen Business Media, Inc.|accessdate=September 3, 2017|via=Google Books}}</ref> Blue County recorded one album for [[Curb Records]], which included the top 10 single "[[Good Little Girls (song)|Good Little Girls]]" and the Top 20 hit "That's Cool", which Aaron co-wrote. Blue County was also nominated three times for CMA/ACM Duo of the Year.  They participated as a featured artist in Conde Nast's/Chevrolet's Fashion Rocks campaign.
+
+In 2023, Benward began producing a new [[Amazon Freevee]] [[docu-series]], ''[[God. Family. Football.]]''<ref>Evans Price, Deborah (September 1, 2023). "[https://www.yahoo.com/lifestyle/anticipated-series-real-life-friday-145915901.html Anticipated New Series is a Real-Life 'Friday Night Lights' — With A Whole Lot of Faith]. ''[[Yahoo!]]/[[Woman's World]]''. Retrieved September 9, 2023.</ref>
+
+==Other work==
+
+{| class="wikitable"  style="width:100%"
+!rowspan=2 width=50px|Year
+!rowspan=2 width=800px|Label
+!rowspan=2 width=800px|Album
+!rowspan=2 width=50px|Artist
+!rowspan=2 width=800px|Song
+!colspan="2"|Lyrics
+!colspan="2"|Music
+|-
+!width=50px|Credited
+!width=800px |With
+!width=50px|Credited
+!width=800px|With
+|-
+| 2016 || [[SM Entertainment]] || ''[[Press It]]'' || [[Lee Tae-min|Taemin]] || "Soldier"   || {{No}} || [[Lee Tae-min|Taemin]] || {{Yes}} ||  [[Matthew Tishler]], [[Felicia Barton]]
+|}
+
+==See also==
+* [[Aaron Jeoffrey]]
+* [[Luke Benward]]
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Benward, Aaron}}
+[[Category:1973 births]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:American performers of Christian music]]
+[[Category:Place of birth missing (living people)]]
+[[Category:Blue County (duo) members]]
+[[Category:Living people]]
+[[Category:Singer-songwriters from Tennessee]]
+[[Category:Members of the Country Music Association]]
+[[Category:Country musicians from Tennessee]]
+[[Category:21st-century American male singers]]
+[[Category:21st-century American singer-songwriters]]

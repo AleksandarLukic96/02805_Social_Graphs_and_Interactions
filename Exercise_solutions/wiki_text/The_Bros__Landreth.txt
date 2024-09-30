@@ -1,0 +1,52 @@
+{{Short description|Canadian country/folk music group}}
+{{Infobox musical artist
+| name            = The Bros. Landreth
+| image           =
+| caption         =
+| image_size      = <!-- Only for images narrower than 220 pixels -->
+| landscape       =
+| alias           =
+| origin          = [[Winnipeg]], [[Manitoba]], Canada
+| genre           = {{hlist|[[Alternative country]]|[[folk rock]]|[[rock music|rock]]}}
+| years_active    = {{start date|2013}}–present
+| label           = [[Slate Creek Records]] <br /> [[Birthday Cake Records]]
+| associated_acts =
+| website         = {{URL|thebroslandreth.com}}
+| current_members = {{unbulleted list|Joey Landreth|David Landreth}}
+| past_members    = {{unbulleted list|Alex Campbell|Cody Iwasiuk|Ryan Voth|Ariel Posen}}
+}}
+
+'''The Bros. Landreth''' are a [[Canadians|Canadian]] [[alternative country]] and [[folk music]] group.<ref>[http://www.billboard.com/articles/columns/the-615/6327854/bros-landreth-interview "Meet the Bros. Landreth Before Their January Debut"]. ''[[Billboard (magazine)|Billboard]]'', November 26, 2014.</ref> Their debut album ''Let It Lie'' won the [[Juno Award]] for [[Juno Award for Roots & Traditional Album of the Year – Group|Roots & Traditional Album of the Year – Group]] at the [[Juno Awards of 2015]].<ref name=rayner>[[Ben Rayner]], "A long road to band of brothers: Joey and David Landreth frustrated themselves with side gigs before joining forces". ''[[Toronto Star]]'', April 2, 2015.</ref>
+
+The group was first formed in 2013 by brothers Joey and David Landreth, the sons of [[Winnipeg]] musician Wally Landreth.<ref name=familybusiness>"Musical brothers stick to family business". ''[[Saskatoon Star-Phoenix]]'', January 16, 2014.</ref> The brothers share vocal duties, while Joey plays guitar and David plays bass. The initial band lineup also included Alex Campbell on piano and Ryan Voth on drums.<ref>[http://exclaim.ca/Music/article/winnipegs_bros_landreth_announce_let_it_lie "Winnipeg's the Bros. Landreth Announce 'Let It Lie'"]. ''[[Exclaim!]]'', August 6, 2013.</ref> The band has also toured with musicians Ariel Posen on second guitar, Cody Iwasiuk, Curtis Nowosad and Michael Carbone on Drums, and Liam Duncan, Darryl "Duke" Havers on Keys.<ref name=rayner/>
+
+''Let It Lie'' was released independently in 2013.<ref>"Bros. Landreth just 'Let it Lie'; Winnipeg group's new album channels 60s and 70s sounds". ''[[Edmonton Journal]]'', September 12, 2013.</ref> In 2014, the band signed an American distribution deal with [[Slate Creek Records]], who rereleased the album in the United States and Europe in January 2015.<ref name=rayner/>
+
+At the [[10th Canadian Folk Music Awards]] in 2014, the band won the award for New/Emerging Artist of the Year,<ref>"National music award thrills Rheaume; Ottawa singer-songwriter honoured along with Shari Ulrich and Coig". ''[[Ottawa Citizen]]'', December 1, 2014.</ref> and ''Let It Lie'' was a nominee for Contemporary Album of the Year.<ref>"Local singers up for national folk awards; Edmonton's Lappa, Cook among 68 acts nominated in 19 categories". ''[[Edmonton Journal]]'', September 25, 2014.</ref> The band was nominated for Songwriter Of The Year and Roots Group Recording Of The Year at the Western Canadian Music Awards. 
+
+The band have toured both Canada and the United States. They attracted additional media attention when American rock icon [[John Oates]] agreed to perform as an opening act for the band at a 2015 tour stop in [[Nashville]].<ref name=oates>[http://www.cbc.ca/news/canada/manitoba/john-oates-to-open-for-winnipeg-s-bros-landreth-in-nashville-1.3052913 "John Oates to open for Winnipeg's Bros. Landreth in Nashville"]. [[CBC News]], April 29, 2015.</ref>
+
+In 2019 the band released their album ''87''.
+
+On February 24, 2022, [[Bonnie Raitt]] released a cover of "Made Up Mind", which appears on her album ''[[Just Like That...]]''.<ref>{{Cite web|url=https://www.npr.org/sections/now-playing/2022/02/25/1083127716/bonnie-raitt-made-up-mind|title=Bonnie Raitt's 'Made Up Mind' channels a steady rockin' spirit: #NowPlaying|last=Powers|first=Anne|date=February 25, 2022|publisher=[[NPR]]|accessdate=February 28, 2022}}</ref> Her recording of the song won a [[Grammy Award]] for [[Grammy Award for Best Americana Performance|Best Americana Performance]] at the [[65th Annual Grammy Awards]] in 2023.<ref>[https://www.thestar.com/entertainment/2023/02/07/winnipeg-group-humbled-by-bonnie-raitts-grammy-win-for-single-written-by-them.html "Winnipeg group ‘humbled’ by Bonnie Raitt’s Grammy win for single written by them"]. ''[[Toronto Star]]'', February 7, 2023.</ref>
+
+==Personal lives==
+David Landreth is married to Roberta Hansen,<ref name=oates/> an artist and designer who also won a Juno Award in 2015, in the [[Juno Award for Recording Package of the Year|Recording Package of the Year]] category, for her work on [[Steve Bell (musician)|Steve Bell]]'s album ''Pilgrimage''.
+
+==References==
+{{Reflist|2}}
+
+==External links==
+*{{official|http://www.thebroslandreth.com/}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bros Landreth, The}}
+[[Category:Canadian alternative country groups]]
+[[Category:Canadian folk rock groups]]
+[[Category:Juno Award for Roots & Traditional Album of the Year – Group winners]]
+[[Category:Musical groups from Winnipeg]]
+[[Category:Musical groups established in 2013]]
+[[Category:2013 establishments in Manitoba]]
+[[Category:Canadian Folk Music Award winners]]
+[[Category:Juno Award for Contemporary Roots Album of the Year winners]]

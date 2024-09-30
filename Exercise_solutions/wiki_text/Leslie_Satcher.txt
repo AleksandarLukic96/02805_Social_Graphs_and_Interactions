@@ -1,0 +1,99 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=August 2020}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Leslie Satcher
+| image               = 
+| caption             = 
+| image_size          = 
+| background          = solo_singer
+| birth_name          = Leslie Winn Satcher
+| birth_place         = Paris, Texas, U.S.
+| birth_date          = {{birth year and age|1962}}
+| death_date          = 
+| origin              = 
+| instrument          = Vocals
+| genre               = [[Country music|Country]]<br>[[Bluegrass music|Bluegrass]]
+| occupation          = Singer-songwriter
+| years_active        = 1989–present
+| label               = [[Warner Bros. Records|Warner Bros.]]
+| website             = http://lesliesatcher.com/
+}}
+
+'''Leslie Winn Satcher''' (born 1962) is a singer-songwriter based in [[Nashville]], [[Tennessee]]. She has recorded two albums of her own, and has additionally co-written several singles for such artists as [[George Strait]], [[Martina McBride]], [[Pam Tillis]], [[Gretchen Wilson]], [[Patty Loveless]], and [[Vince Gill]].
+
+==Biography and career==
+Leslie grew up in her birthplace of [[Paris, Texas|Paris]], Texas, United States, where she sang in local churches and schools – an experience which she lists as one of her biggest influences.<ref>{{cite web| title = Letters From Leslie| publisher = [[Country Music Television]]| year = 2001| url = http://www.cmt.com/artists/news/1472356/20030606/satcher_leslie.jhtml| archive-url = https://web.archive.org/web/20070930040721/http://www.cmt.com/artists/news/1472356/20030606/satcher_leslie.jhtml| url-status = dead| archive-date = September 30, 2007| accessdate = June 21, 2007  }}</ref> In 1989, she moved to [[Nashville, Tennessee]] to pursue her dream of being a country music singer, but found a niche writing the songs for which she is most well known – including many by notable country music acts like [[Patty Loveless]], [[Vince Gill]], [[Willie Nelson]], and [[Reba McEntire]].<ref>{{cite news | last = Tarradell| first = Mario| title = This train is bound for glory| publisher = [[Dallas Morning News]]| date = April 2, 2002}}</ref><ref name="leg">{{cite web| title = H.C.R. No. 106| publisher = [[Texas State Legislature]]| date = February 2, 2007| url = http://www.legis.state.tx.us/tlodocs/80R/billtext/html/HC00106I.htm| accessdate = June 21, 2007 }}</ref> [[Pam Tillis]] reached No.&nbsp;12 on the country charts in 1998 with Satcher's "I Said a Prayer". In 2002, [[Martina McBride]]'s performance of her song "[[When God-Fearin' Women Get the Blues]]" reached No.&nbsp;8 in the United States, while her 2006 song "Politically Uncorrect", performed by [[Merle Haggard]] and [[Gretchen Wilson]], reached No.&nbsp;23 and was nominated for a Grammy award.<ref>{{cite web| title = Students to perform at Country Music Hall of Fame| publisher = [[Country Music Hall of Fame]]| date = April 2, 2006| url = http://www.countrymusichalloffame.com/site/news_detail.aspx?cid=2025| accessdate = June 21, 2007| url-status = dead| archiveurl = https://web.archive.org/web/20070501201911/http://www.countrymusichalloffame.com/site/news_detail.aspx?cid=2025| archivedate = May 1, 2007}}</ref>
+
+At the same time, her singing career also began to take off, following her signing with [[Warner Bros. Records]], and the release of her first album ''[[Love Letters (Leslie Satcher album)|Love Letters]]'' in 2002.<ref name="leg"/> This was followed by the independent release of ''[[Creation (Leslie Satcher album)|Creation]]'' in 2005, which she has been touring to promote.<ref name="abc">{{cite web|last=Mackay |first=Jacquie |title=Who writes the songs for the Nashville greats? |publisher=[[ABC Records|ABC]] |date=April 3, 2006 |url=http://www.abc.net.au/capricornia/stories/s1606735.htm |accessdate=June 21, 2007 |url-status=dead |archiveurl=https://web.archive.org/web/20060819124152/http://www.abc.net.au/capricornia/stories/s1606735.htm |archivedate=August 19, 2006 }}</ref> Her work has met with critical acclaim, with the [[Texas State Legislature]] calling her:
+
+<blockquote>[Able] to craft songs that capture the ears and hearts of music lovers and honoring her [...] for bringing further acclaim to the illustrious musical reputation of the Lone Star State; and, be it further [..] an expression of high regard by the Texas House of Representatives and Senate.<ref name="leg"/></blockquote>
+
+[[USA Today]] listed her as part of a "groundswell" in traditional country and bluegrass music.<ref>{{cite web| last = Mansfield| first = Brian| title = O country music, where art thou?| publisher = [[USA Today]]| date = July 9, 2007| url = https://www.usatoday.com/life/music/2001-07-09-country-usat.htm| accessdate = June 21, 2007 }}</ref> Leslie Satcher continues to write and sing, after taking some time off in 2006.<ref name="abc"/>
+
+In 2008, two songs she co-wrote with [[Monty Holmes]], "[[Troubadour (song)|Troubadour]]" and "House Of Cash" were recorded by [[George Strait]].
+
+In 2017, Leslie and The Electric Honey Badgers released the single "This Won't Take Long", featuring [[Vince Gill]] and [[Sheryl Crow]].<ref>{{Cite news|url=https://musicrow.com/2017/09/leslie-satcher-joined-by-vince-gill-sheryl-crow-on-new-single-out-today/|title=Leslie Satcher Joined By Vince Gill, Sheryl Crow On New Single, Out Today|date=September 2, 2017|work=MusicRow – Nashville's Music Industry Publication – News, Songs From Music City|access-date=September 27, 2017|language=en-US}}</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:10em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''[[Love Letters (Leslie Satcher album)|Love Letters]]''
+| 
+* Release date: November 14, 2000
+* Label: [[Warner Bros. Records]]
+|-
+! scope="row"| ''Creation''
+| 
+* Release date: July 18, 2005
+* Label: Jellan Records
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! Year
+! style="width:16em;"| Single
+! Album
+|-
+| rowspan="3"| 2001
+! scope="row"| "Love Letters from Old Mexico"
+| rowspan="4"| ''Love Letters''
+|-
+! scope="row"| "Burn Me Down"
+|-
+! scope="row"| "[[Ode to Billie Joe]]"
+|-
+| 2002
+! scope="row"| "Slow Way Home"
+|-
+|2017
+! scope="row"|"This Won't Take Long"
+|
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://lesliesatcher.com/ Leslie Satcher's homepage]
+*[https://web.archive.org/web/20040403204357/http://www.cmt.com/artists/az/satcher_leslie/artist.jhtml Profile at Country Music Television]
+*[https://web.archive.org/web/20070607163634/http://www.csusa.org/caw/caw_2006_press_articles_satcher.htm Leslie Satcher on copyright awareness]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Satcher, Leslie}}
+[[Category:1962 births]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:American women country singers]]
+[[Category:Living people]]
+[[Category:American country singer-songwriters]]
+[[Category:American bluegrass musicians]]
+[[Category:People from Paris, Texas]]
+[[Category:Warner Records artists]]
+[[Category:Country musicians from Texas]]
+[[Category:21st-century American women]]

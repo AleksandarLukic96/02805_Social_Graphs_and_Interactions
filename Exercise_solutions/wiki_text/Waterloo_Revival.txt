@@ -1,0 +1,107 @@
+{{Infobox musical artist
+| name            = Waterloo Revival
+| image           =
+| image_size      =
+| landscape       = <!-- yes, if wide image, otherwise leave blank -->
+| alt             =
+| caption         =
+| alias           =
+| origin          = [[Austin, Texas]]
+| genre           = [[Country music|Country]]
+| years_active    = 2013-2021
+| label           = [[Big Machine Records|Big Machine]], [[Show Dog-Universal Music]]
+| past_members    = Cody Cooper<br />[[George Birge]]
+}}
+
+'''Waterloo Revival''' was an American [[country music]] duo consisting of vocalists Cody Cooper and [[George Birge]]. The duo released two singles through [[Big Machine Records]].
+
+==History==
+Cody Cooper and [[George Birge]], natives of [[Austin, Texas]], had been friends since [[middle school]] when they began performing music together. After high school, Birge worked in real estate and Cooper worked in mortgaging. The two reunited in 2013 and began writing songs and performing together. They took the name Waterloo Revival from the original name of the city of Austin.<ref name="allmusic">{{cite web|url=http://www.allmusic.com/artist/waterloo-revival-mn0003299308/biography|title=Waterloo Revival biography|last=Deming|first=Mark|work=[[Allmusic]]|accessdate=5 November 2015}}</ref><ref>{{cite web|url=http://tasteofcountry.com/waterloo-revival-name-debut-single/|title=Waterloo Revival Open Up About Their Unusual Name, Debut Single Read More: Waterloo Revival Open Up About Unusual Name, Debut Single|last=Alex|first=Sam|date=18 March 2015|work=[[Taste of Country]]|accessdate=5 November 2015}}</ref>
+
+The duo released a five-song extended play, and then signed to [[Big Machine Records]],<ref name="allmusic"/> which released two singles: "Hit the Road" and "Bad for You".<ref>{{cite magazine|url=https://www.rollingstone.com/music/lists/10-new-country-artists-you-need-to-know-summer-2015-20150717/waterloo-revival-20150717|title=10 New Country Artists You Need to Know: Summer 2015|magazine=[[Rolling Stone]]|date=17 July 2015|accessdate=5 November 2015}}</ref>
+
+In June 2016 Waterloo Revival signed to [[Toby Keith]]'s record label [[Show Dog-Universal Music]].
+
+In 2017 the duo released a new single "What Guy Wouldn't" reaching the Top 40 on the Music Row charts.<ref>{{Cite web|url=http://shockink.com/waterloo-revivals-what-guy-wouldnt-climbs-charts/|title=Waterloo Revival's "What Guy Wouldn't" Climbs Charts {{!}} Shock Ink|website=shockink.com|language=en-US|access-date=2018-09-12}}</ref> In 2018 they released a three-song EP "Wonder Woman".
+
+Waterloo Revival broke up in February 2021.<ref>{{Cite web|url=https://tasteofcountry.com/waterloo-revival-break-up/|title = Country Duo Waterloo Revival Have Broken up| date=12 February 2021 }}</ref> Later the same year, Birge released a solo single called "[[Beer Beer, Truck Truck]]".<ref>{{Cite web|url=https://people.com/country/george-birge-beer-beer-truck-truck-tiktok-hit/|title = A TikTok Influencer Poked Fun at Country Music - So George Birge Wrote a Song That May Make Them Stars}}</ref>
+
+==Discography==
+===Extended plays===
+{| class="wikitable plainrowheaders"
+|-
+! style="width:10em;"| Title
+! style="width:18em;"| Details
+|-
+! scope="row"| ''Little Lightning''
+|
+* Released: March 28, 2013
+* Label: self-released
+* Format: Digital download
+|-
+! scope="row"| ''Front Row''
+|
+* Released: March 10, 2016
+* Label: self-released
+* Format: Digital download
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! colspan="1"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! width="45"| [[Country Airplay|US Country Airplay]]
+|-
+| rowspan="2"| 2015
+! scope="row"| "Hit the Road"
+| 51<ref>{{cite magazine|url=http://www.billboard.com/files/pdfs/country_update_0615.pdf|title=Billboard Country Update|date=June 15, 2015|magazine=Billboard|accessdate=5 November 2015}}</ref>
+|-
+! scope="row"| "Bad for You"
+| 52<ref>{{cite magazine|url=http://www.billboard.com/files/pdfs/country_update_0831.pdf|title=Billboard Country Update|date=August 31, 2015|magazine=Billboard|accessdate=5 November 2015}}</ref>
+|-
+| 2016
+! scope="row"| "Backwood Bump"
+| —
+|-
+| 2017
+! scope="row"| "What Guy Wouldn't"
+| —
+|-
+| 2018
+! scope="row"| "Wonder Woman"
+| —
+|}
+
+===Music videos===
+
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:14em;" | Video
+! Director
+|-
+| 2015
+! scope="row" | "Bad for You"<ref>{{cite web|url=http://www.cmt.com/videos/waterloo-revival/1234619/bad-for-you.jhtml|archive-url=https://web.archive.org/web/20151123030958/http://www.cmt.com/videos/waterloo-revival/1234619/bad-for-you.jhtml|url-status=dead|archive-date=November 23, 2015|title=CMT : Videos : Waterloo Revival : Bad For You|publisher=[[Country Music Television]]|accessdate=November 22, 2015}}</ref>
+| Brian Lazzaro
+|-
+|2016
+! scope="row" | "Backwood Bump"<ref>{{Cite web|url=http://tasteofcountry.com/waterloo-revival-backwood-bump-video/|title=Waterloo Revival Crash An Engagement Party in 'Backwood Bump' Video [Watch]|website=Taste of Country|date=24 February 2017 |language=en-US|access-date=2017-03-16}}</ref>
+|William Gawley
+|-
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+[[Category:Country music groups from Texas]]
+[[Category:American country music duos]]
+[[Category:Big Machine Records artists]]
+[[Category:Musical groups established in 2013]]
+[[Category:Musical groups disestablished in 2021]]
+[[Category:Musical groups from Austin, Texas]]
+[[Category:2013 establishments in Texas]]

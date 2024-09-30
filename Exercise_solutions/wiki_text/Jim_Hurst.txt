@@ -1,0 +1,150 @@
+{{short description|American singer-songwriter}}
+
+{{For|others of the same name|James Hurst (disambiguation){{!}}James Hurst}}
+{{Infobox musical artist
+| honorific_prefix =
+| name             = Jim Hurst
+| honorific_suffix =
+| image            =Rob_Ickes_and_Jim_Hurst_-_ResoSummit_2012_(2012-11-10_20.09.14_by_brad_bechtel).jpg
+| image_size       =
+| landscape        = <!-- yes, if wide image, otherwise leave blank -->
+| alt              =
+| caption          =Rob Ickes (left) and Jim Hurst (right) performing in 2012
+| native_name      =
+| native_name_lang =
+| birth_name       =
+| alias            =
+| birth_date       = <!-- {{birth date and age|YYYY|MM|DD}} for living people supply only the year unless the exact date is already WIDELY published, as per [[WP:DOB]] -->
+| birth_place      =
+| origin           =
+| death_date       = <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date 1st) -->
+| death_place      =
+| genre            = [[Country music|Country]], [[Bluegrass music|Bluegrass]]
+| occupation       =
+| instrument       = [[Guitar]]
+| years_active     = <!-- YYYY–YYYY (or –present) -->
+| label            = [[Pinecastle Records|Pinecastle]]
+| associated_acts  = [[Holly Dunn]], [[Trisha Yearwood]], [[Sara Evans]], [[Missy Raines]]
+| website          = {{URL|http://www.jimhurst.com/}}
+| module           =
+| module2          =
+| module3          = 
+}}
+
+'''James Edward “Jim” Hurst'''<ref>{{cite web|url=https://www.ascap.com/repertory#/ace/search/workID/889390504 |title=ALL OF THIS, JUST ONE MAN |website=ASCAP |publisher=American Society of Composers, Authors and Publishers |access-date=April 26, 2023}}</ref> is an American [[Bluegrass music|bluegrass]] and [[Country music|country]] guitarist. He is known primarily as an instrumentalist but has also been credited for vocals with numerous other artists as well as his solo career. Hurst has performed with musicians that include [[Holly Dunn]], [[Trisha Yearwood]], [[Sara Evans]], and [[Missy Raines]]. He has also won numerous awards for his work.
+
+==Career==
+
+Hurst began his career with playing country music in the 1980s and 90s.<ref>{{cite news|last1=Tunis|first1=Walter|title=Bluegrass guitarist Jim Hurst is the embodiment of 'Intrepid'|url=http://www.kentucky.com/2012/03/11/2105010/bluegrass-guitarist-jim-hurst.html|accessdate=27 October 2015|publisher=Kentucky.com|date=11 March 2012}}</ref> He was the guitarist for [[Holly Dunn]] and the Rio Band where he played both nationally and internationally. He toured with [[Trisha Yearwood]] where he played acoustic and electric guitar.<ref>{{cite news|last1=Lynch|first1=Bill|title=Jim Hurst is a bluegrass true believer|url=http://www.wvgazettemail.com/Entertainment/201210030162?page=2|accessdate=28 October 2015|publisher=Charleston Gazette-Mail|date=3 October 2012}}</ref>
+
+Hurst joined [[Claire Lynch]] and the [[Front Porch String Band]] in 1995. During that time he met [[Missy Raines]] and they formed the duet "Jim Hurst and Missy Raines," playing together until 2000.<ref name=Girl>{{cite book|last1=Henry|first1=Murphy|title=Pretty Good for a Girl: Women in Bluegrass|date=May 2013|publisher=University of Illinois Press|isbn=9780252095887|url=https://books.google.com/books?id=plJvCQfDzyQC&q=%22jim+hurst+and+missy+raines%22&pg=PA291|accessdate=28 October 2015}}</ref> During their time together they released two albums which won them [[International Bluegrass Music Awards]] for Guitar Player of the Year and Bass Player of the Year in both 2001 and 2002.<ref name=Girl/> Hurst has returned to play with Lynch for a brief time in 2015 when her guitarist [[Matt Wingate]] left her group.<ref>{{cite news|last1=Lawless|first1=John|title=New guitarist coming for Claire Lynch Band|url=http://bluegrasstoday.com/new-guitarist-coming-for-claire-lynch-band/|accessdate=27 October 2015|publisher=Bluegrass Today|date=4 August 2014}}</ref>
+
+Hurst also performed [[Sara Evans]], appearing on her 1998 album [[No Place That Far]] with both acoustic guitar and vocals.<ref>{{cite news|title=Bluegrass great to play in Blytheville|url=http://www.blythevillecourier.com/story/2073243.html|accessdate=28 October 2015|publisher=Blytheville Courier News|date=23 April 2014}}</ref> He was also nominated for [[International Bluegrass Music Awards|Guitar Player of the Year]] in 2015, an award presented by the [[International Bluegrass Music Association]].<ref>{{cite news|last1=Teplyske|first1=Donald|title=International Bluegrass Music Awards, 2015 - Minute By Minute|url=http://www.countrystandardtime.com/blog/fervorcouleebluegrass/entry.asp?xid=1062|accessdate=12 October 2015|publisher=Country Standard Time|date=1 October 2015}}</ref>
+
+==Discography==
+===Albums===
+'''Solo albums'''
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:22em;"| Title
+! rowspan="2" style="width:20em;"| Album details
+! colspan="1"| Peak positions
+|- style="font-size:smaller;"
+! width="65"| [[Top Bluegrass Albums|US Bluegrass]]
+|-
+! scope="row"| ''Looking Glass''
+| 
+* Release date: 22 August 2014
+* Label: Self-Release
+| --
+|-
+! scope="row"| ''Intrepid''
+| 
+* Release date: 15 February 2012
+* Label: NN Guido Music
+| --
+|-
+! scope="row"| ''A Box of Chocolates''
+| 
+* Release date: 2007
+* Label: Self-Release
+| --
+|-
+! scope="row"| ''Second Son''
+| 
+* Release date: 23 April 2001
+* Label: [[Pinecastle Records]]
+| --
+|-
+! scope="row"| ''Open Window''
+| 
+* Release date: 1998
+* Label: NN Guido Music
+| --
+|-
+|}
+'''As part of Jim Hurst and Missy Raines'''
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:22em;"| Title
+! rowspan="2" style="width:20em;"| Album details
+! colspan="1"| Peak positions
+|- style="font-size:smaller;"
+! width="65"| [[Top Bluegrass Albums|US Bluegrass]]
+|-
+! scope="row"| ''Synergy''
+| 
+* Release date: 12 August 2003
+* Label: [[Pinecastle Records]]
+| --
+|-
+! scope="row"| ''Two''
+| 
+* Release date: 2000
+* Label: Pinecastle Records
+| --
+|-
+|}
+
+==Awards and recognition==
+
+{| class="wikitable"
+|-
+! Year
+! Association
+! Category
+! Result
+|-
+|rowspan=1|2015
+|rowspan=1| [[International Bluegrass Music Awards]]<ref>{{cite web|title=Steve martin Tapped for IBMA Distinguished Achievement Award|url=http://www.cmt.com/news/1756851/steve-martin-tapped-for-ibma-distinguished-achievement-award/|archive-url=https://web.archive.org/web/20150816000414/http://www.cmt.com/news/1756851/steve-martin-tapped-for-ibma-distinguished-achievement-award/|url-status=dead|archive-date=August 16, 2015|website=CMT News|accessdate=28 October 2015}}</ref>
+| Instrumental Performers of the Year - Guitar
+|{{nom}}
+|- 
+|rowspan=1|2002
+|rowspan=1| International Bluegrass Music Awards
+| Instrumental Performers of the Year - Guitar
+|{{won}}
+|- 
+|rowspan=1|2001
+|rowspan=1| International Bluegrass Music Awards<ref>{{cite news|title=Rhonda Vincent, Dan Tyminski Rake in Top Bluegrass Honors at IBMA Awards|url=http://www.bmi.com/news/entry/20011010_rhonda_vincent_dan_tyminski_rake_in_top_bluegrass_honors_at_ibm|accessdate=28 October 2015|publisher=BMI|date=9 October 2001}}</ref>
+| Instrumental Performers of the Year - Guitar
+|{{won}}
+|- 
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.jimhurst.com/ Jim Hurst official website]
+
+{{authority control}}
+
+{{DEFAULTSORT:Hurst, Jim}}
+[[Category:American bluegrass guitarists]]
+[[Category:American male guitarists]]
+[[Category:American country guitarists]]
+[[Category:American country singer-songwriters]]
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]
+[[Category:American male singer-songwriters]]

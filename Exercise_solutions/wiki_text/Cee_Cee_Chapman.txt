@@ -1,0 +1,135 @@
+{{short description|American country music singer-songwriter|bot=PearBOT 5}}
+{{Use mdy dates|date=July 2020}}
+{{Infobox musical artist
+| name            = Cee Cee Chapman
+| image           =
+| image_size      =
+| birth_name      = Melissa Carol Chapman
+| alias           =
+| birth_date      = {{birth date and age|1958|12|13}}
+| birth_place     = [[Portsmouth, Virginia]]
+| instrument      = Guitar
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 1988–1993
+| label           = [[Curb Records|Curb]], [[Capitol Records|Capitol]]
+| associated_acts =
+| website         = 
+}}
+
+'''Cee Cee Chapman''' (born '''Melissa Carol Chapman''' on December 13, 1958 in [[Portsmouth, Virginia]]<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|page=89|year=2008|isbn=978-0-89820-177-2}}</ref>) is an American [[country music]] singer-songwriter. Chapman was signed to [[Curb Records]].<ref>{{cite web|last=Brennan|first=Sandra|title=Cee Cee Chapman {{!}} Biography|url={{AllMusic|class=artist|id=mn0000798601|pure_url=yes}}|work=[[AllMusic]]|accessdate=September 12, 2014}}</ref> She charted five singles on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles & Tracks]] chart.<ref name="whitburn" />
+
+Chapman was nominated for Top New Female Vocalist at the 1988 [[Academy of Country Music Awards]].<ref>{{cite news|last1=Boehm|first1=Mike|title=K.T. Oslin Leads Country Pack With 5 Nominations|url=https://www.latimes.com/archives/la-xpm-1989-03-01-ca-658-story.html|access-date=September 12, 2014|work=[[Los Angeles Times]]|date=March 1, 1989}}</ref> She was also nominated for Favorite Country New Artist at the [[American Music Awards of 1990]].<ref>{{cite news|title=Brown Gets 5 American Music Award Nominations|url=http://www.deseretnews.com/article/79094/BROWN-GETS-5-AMERICAN-MUSIC-AWARD-NOMINATIONS.html?pg=all|accessdate=September 12, 2014|work=[[Deseret News]]|date=December 29, 1989}}</ref>
+
+Jack Hurst of the ''[[Chicago Tribune]]'' gave Chapman's eponymous second album three stars out of four, calling her a "straight-ahead singer" who "attacks almost any kind of song here with obvious personal involvement that is often stunning."<ref>{{cite news|last1=Hurst|first1=Jack|title=Cee Cee Chapman Cee Cee Chapman (Curb/Capitol...|url=http://articles.chicagotribune.com/1990-09-20/features/9003180837_1_star-reba-mcentire-straight-ahead|archive-url=https://web.archive.org/web/20120208012841/http://articles.chicagotribune.com/1990-09-20/features/9003180837_1_star-reba-mcentire-straight-ahead|url-status=dead|archive-date=February 8, 2012|accessdate=September 12, 2014|work=[[Chicago Tribune]]|date=September 20, 1990}}</ref> The album also received a favorable review from ''[[People (magazine)|People]]'', which stated that it was "characterized by intelligent song selection" and that Chapman "at times [sounds] like [[Cher]] gone down-home."<ref>{{cite news|title=Picks and Pans Review: Cee Cee Chapman|url=http://www.people.com/people/archive/article/0,,20113491,00.html|accessdate=September 12, 2014|work=[[People (magazine)|People]]|date=November 5, 1990}}</ref>
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:10em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''Twist of Fate''
+| 
+* Release date: 1988
+* Label: [[Curb Records]]
+|-
+! scope="row"| ''Cee Cee Chapman''
+| 
+* Release date: August 27, 1990
+* Label: Curb/[[Capitol Records]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Single
+! Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]<br /><ref name="whitburn" />
+|-
+| 1988
+! scope="row"| "Gone but Not Forgotten" {{small|(with Santa Fe)}}
+| 60
+| align="left" rowspan="4"| ''Twist of Fate''
+|-
+| rowspan="3"| 1989
+! scope="row"| "Frontier Justice"
+| 51
+|-
+! scope="row"| "Twist of Fate"
+| 49
+|-
+! scope="row"| "Love Is a Liar"
+| 64
+|-
+| 1990
+! scope="row"| "Everything"<ref>{{cite magazine|url=https://worldradiohistory.com/Archive-All-Music/Billboard/90s/1990/BB-1990-09-08.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|date=September 8, 1990}}</ref>
+| —
+| align="left" rowspan="3"| ''Cee Cee Chapman''
+|-
+| rowspan="2"| 1991
+! scope="row"| "Exit 99"<ref>{{cite magazine|url=https://worldradiohistory.com/Archive-All-Music/Billboard/90s/1991/BB-1991-01-05.pdf|title=Single Reviews|magazine=Billboard|date=January 5, 1991}}</ref>
+| —
+|-
+! scope="row"| "What Would Elvis Do"<ref>{{cite journal|last1=Chapman|first1=Cee Cee|title="What Would Elvis Do" (CD single)|journal=Curb-Capitol Nashville|date=1991|id=79823}}</ref>
+| —
+|-
+| rowspan="2"| 1992
+! scope="row"| "A Winter's Night"<ref>{{cite magazine|url=https://worldradiohistory.com/Archive-All-Music/Billboard/90s/1992/Billboard-1992-01-25.pdf|title=Single Reviews|magazine=Billboard|date=January 25, 1992}}</ref>
+| —
+| align="left"| ''Twist of Fate''
+|-
+! scope="row"| "Two Ships That Passed in the Moonlight"
+| 64
+| align="left"| ''Cee Cee Chapman''
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:20em;"| Video
+! Director
+|-
+| 1989
+! scope="row"| "Twist of Fate"
+| 
+|-
+| 1990
+! scope="row"| "Everything"
+| Greg Crutcher
+|-
+| rowspan="2"| 1992
+! scope="row"| "A Winters Night"
+|
+|-
+! scope="row"| "Two Ships That Passed in the Moonlight"
+| 
+|-
+|}
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Chapman, Cee Cee}}
+[[Category:1958 births]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Living people]]
+[[Category:Country musicians from Virginia]]
+[[Category:Musicians from Portsmouth, Virginia]]
+[[Category:Curb Records artists]]
+[[Category:Capitol Records artists]]
+[[Category:Singer-songwriters from Virginia]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:20th-century American women singers]]
+[[Category:20th-century American singers]]
+[[Category:21st-century American women]]

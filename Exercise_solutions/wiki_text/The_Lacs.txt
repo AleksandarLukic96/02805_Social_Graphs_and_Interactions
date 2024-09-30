@@ -1,0 +1,366 @@
+{{short description|American hip hop group}}
+{{Use American English|date=January 2023}}
+{{Use mdy dates|date=January 2023}}
+{{Infobox musical artist
+| name             = The LACs
+| origin           = [[Baxley, Georgia]], United States
+| genre            = [[Country rap]]
+| years_active     = 2002–present
+| label            = {{hlist|Side Ya Mouth|[[Average Joes Entertainment|Backroad Records]]|Dirt Rock Empire}}
+| current_members  = Brian Andrew "Rooster" King<Br />Robert Clayton "Uncle Snap" Sharpe<ref>{{cite web|url=https://www.ascap.com/repertory#/ace/search/workID/898010045 |title=DEAD MAN WALKING |website=ASCAP |publisher=American Society of Composers, Authors and Publishers |access-date=April 27, 2023}}</ref> <Br />
+| past_members   = Dennis Morgan
+}}
+'''The Lacs''' is an American [[country rap]] duo that consists of Robert Clayton (Clay) "Uncle Snap" Sharpe and Brian Andrew "Rooster" King.<ref>{{Cite magazine|url=http://www.billboard.com/articles/columns/the-615/5679824/the-lacs-score-career-best-rank-on-top-country-albums|title=The Lacs' Score Career-Best Rank On Top Country Albums|magazine=Billboard|access-date=May 3, 2016}}</ref> At first, the group also featured Brandon Herndon on the three self-released albums on Side Ya Mouth Records.<ref>{{Cite web|url=http://www.showcaseyourmusic.com/LACS|title=SYM – LACS|website=Showcase Your Music|access-date=May 3, 2016}}</ref>
+
+The Lacs have recorded six albums for Backroad Records, a subsidiary of [[Average Joes Entertainment]], an independent label co-owned by fellow country rap artist [[Colt Ford]]. Four albums have entered the [[Billboard 200|''Billboard'' 200]]: ''Keep it Redneck'' (2013), ''Outlaw in Me'' and ''American Rebelution'' (2017).
+
+The Lacs created their own record label ''Dirt Rock Empire''<ref name="dirtrocksite">{{cite web |url=http://www.dirtrockempire.com/ |title=DirtRockEmpire.com |work=DirRockEmpire }}</ref> in 2017. On September 22, 2017, The Lacs released the first album from Dirt Rock titled ''Dirtbagz, Vol. 1'' which is a compilation album featuring many of the labels artists such as Nate Kenyon, Crucifix and Hard Target.
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:16em;"| Title
+! rowspan="2" style="width:20em;"| Album details
+! colspan="5"| Peak chart positions
+! rowspan="2" style="width:9em;"| Sales
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]<br/><ref>{{cite magazine|url=https://www.billboard.com/artist/the-lacs/chart-history/clp/|title=The Lacs Album & Song Chart History – Top Country Albums|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]}}</ref><ref>{{cite magazine |url=http://www.billboard.com/biz/search/charts?f[0]=ss_chart_search_title%3A%22Country%20Boy%27s%20Paradise%22&f[1]=itm_field_chart_id%3A320&refine=1 |title=Country Boy's Paradise – The Lacs |magazine=Billboard }}</ref>
+! width="45"| [[Billboard 200|US]]<br /><ref>{{cite magazine|url=https://www.billboard.com/artist/the-lacs/chart-history/tlp/|title=The Lacs Album & Song Chart History – Billboard 200|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]}}</ref>
+! width="45"| [[Top Heatseekers|US<br>Heat]]<br/><ref>{{cite magazine |url=https://www.billboard.com/artist/the-lacs/chart-history/tln/ |title=Country Boy's Paradise – The Lacs  |magazine=Billboard }}</ref>
+! width="45"| [[Independent Albums|US<br>Indie]]<br /><ref>{{cite magazine|url=https://www.billboard.com/artist/the-lacs/chart-history/ind/|title=The Lacs Album & Song Chart History – Independent Albums|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]}}</ref>
+! width="45"| [[Top Rap Albums|US<br>Rap]]<br /><ref>{{cite magazine|url=https://www.billboard.com/artist/the-lacs/chart-history/rlp/|title=The Lacs Album & Song Chart History – Rap Albums|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]}}</ref>
+|-
+! scope="row"| ''Midas Well Get Drunk''
+|
+* Release date: 2002
+* Label: Side Ya Mouth Records
+* Formats: CD, music download
+| —
+| —
+| —
+| —
+| —
+|
+|-
+! scope="row"| ''South on Fire''
+|
+* Release date: 2002
+* Label: Side Ya Mouth Records
+* Formats: CD, music download
+| —
+| —
+| —
+| —
+| —
+|
+|-
+! scope="row"| ''Lacology''
+|
+* Release date: November 17, 2006
+* Label: Side Ya Mouth Records
+* Formats: CD, music download
+| —
+| —
+| —
+| —
+| —
+|
+|-
+! scope="row"| ''Country Boy's Paradise''
+| 
+* Release date: February 15, 2011
+* Label: [[Average Joes Entertainment|Backroad Records]]
+* Formats: [[Compact disc|CD]], [[music download]]
+| 52
+| —
+| 27
+| —
+| —
+|
+*US: 39,530<ref name="anti">{{cite web |url=http://www.antiindustry.com/20132014-hiphop-album-sales/ |title=2013/2014 HipHop album sales… |work=Anti Industry }}</ref>
+|-
+! scope="row"| ''[[190 Proof]]''
+| 
+* Release date: April 3, 2012
+* Label: Backroad Records
+* Formats: CD, music download
+| 16
+| 68
+| —
+| 9
+| 8
+|
+*US: 83,075<ref name="anti"/>
+|-
+! scope="row"| ''[[Keep It Redneck]]''
+|
+* Release date: August 20, 2013
+* Label: Backroad Records
+* Formats: CD, music download
+| 3
+| 23
+| —
+| 7
+| 5
+|
+*US: 100,000<ref>{{cite news|title=The Lacs "Nothing In Particular" Tracklist & Cover Art|url=http://roughstock.com/news/2014/10/29760-the-lacs-nothing-in-particular-tracklist/ |last= Bjorke|first=Matt |publisher=Roughstock |date= October 7, 2014 }}</ref>
+|-
+! scope="row"| ''Nothing in Particular''<ref>{{cite news|last1=Thompson|first1=Gayle|title=The Lacs Announce New Tour Dates|url=http://theboot.com/the-lacs-nothing-in-particular-road-to-lactoberfest-tour-dates/|accessdate=October 4, 2014|work=The Boot|date=July 29, 2014}}</ref>
+|
+* Release date: October 28, 2014
+* Label: Backroad Records
+* Formats: CD, music download
+| 20
+| 86
+| —
+| 21
+| 11
+|
+*US: 26,000<ref>{{cite magazine|archiveurl= https://web.archive.org/web/20150515165056/http://hitsdailydouble.com/new_album_releases |archivedate= May 15, 2015 |url=http://hitsdailydouble.com/new_album_releases |title=Upcoming Releases |magazine=Hits Daily Double |publisher=HITS Digital Ventures }}</ref>
+|-
+! scope="row"| ''Outlaw in Me''<ref>{{cite news|last1=Bjorke|first1=Matt|title=The Lacs "Outlaw In Me" Tracklist & Cover Art|url=http://roughstock.com/news/2015/03/33608-lacs-outlaw-tracklist-cover-art/|accessdate=April 16, 2015|work=Roughstock|date=March 16, 2015}}</ref>
+|
+* Release date: May 26, 2015
+* Label: Backroad Records
+* Formats: CD, music download
+| 3
+| 27
+| —
+| 2
+| 3
+|
+*US: 31,600<ref>{{cite news |url= http://roughstock.com/news/2015/07/36067-country-album-chart-report-july-1-2015/ |title=Country Album Chart Report for July 1, 2015|author= Matt Bjorke |date=July 1, 2015 |work=Roughstock }} Sales figure given [https://docs.google.com/spreadsheets/d/14PP-RSU0svr0LnHQBTJvz05cdw1RZ95yEErAVpfsco4/edit#gid=0 here]</ref>
+|-
+! scope="row"| ''Welcome to Dodge City''<br><small>(with Hard Target)</small>
+|
+* Release date: August 5, 2016
+* Label: Barn Burner Records
+* Formats: CD, music download
+| 22
+| —
+| —
+| 16
+| 10
+|
+*US: 3,100<ref>{{cite news |url=http://roughstock.com/news/2016/08/40733-top-10-country-albums-sales-chart-august-15-2016 |title=Top 10 Country Albums Sales Chart: August 15, 2016 |first= Matt |last=Bjorke |date=August 14, 2016 |work=Roughstock }}</ref>
+|-
+! scope="row"| ''American Rebelution''
+|
+* Release date: April 7, 2017
+* Label: Backroad Records
+* Formats: CD, music download
+| 10
+| 65
+| —
+| 8
+| 22
+|
+*US: 21,600<ref>{{cite news |url=http://roughstock.com/news/2017/08/42150-top-10-country-album-sales-chart-august-14-2017 |title=Top 10 Country Album Sales Chart: August 14, 2017 |first= Matt |last= Bjorke  |date= August 14, 2017 |work=Roughstock }}</ref>
+|-
+! scope="row"| ''Dirt Rock''
+|
+* Release date: May 4, 2018
+* Label: Dirt Rock Empire
+* Formats: CD, music download
+| 24
+| 178
+| —
+| 12
+| —
+|
+*US: 15,700<ref>{{cite news |url=http://roughstock.com/news/2018/09/43329-the-top-10-country-albums-september-4-2018 |title=The Top 10 Country Albums: September 4, 2018 |first= Matt |last= Bjorke |date=September 4, 2018 |work=Roughstock |accessdate=September 29, 2018 }}</ref>
+|-
+! scope="row"| ''Rise and Shine''
+|
+* Release date: October 18, 2019
+* Label: Dirt Rock Empire
+* Formats: CD, music download
+| —
+| —
+| —
+| 21
+| —
+| 
+*US: 3,200<ref>{{cite news |url=http://roughstock.com/news/2019/11/44049-top-10-country-albums-pure-sales-chart-november-24-2019 |title=Top 10 Country Albums Pure Sales Chart: November 24, 2019 |date= November 24, 2019 |work=Roughstock |accessdate= December 5, 2019}}</ref>
+|-
+! scope="row"| ''Kickin' Up Mud''
+|
+* Release date: January 31, 2020
+* Label: Backroad Records
+* Formats: music download
+| —
+| —
+| —
+| —
+| —
+|
+*US: 1,500<ref>{{cite web |url=http://roughstock.com/news/2020/03/44165-top-10-country-albums-pure-sales-chart-march-9-2020|title=Top 10 Country Albums Pure Sales Chart: March 9, 2020 |work=RoughStock|first=Matt |last=Bjorke |date= March 10, 2020 |accessdate=March 22, 2020 }}</ref>
+|-
+| colspan="8" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+=== Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! scope="col" style="width:16em;"| Title
+! scope="col" | Year
+! scope="col" | Certifications
+! scope="col" | Album
+!Credits
+|-
+! scope="row" | "Dirt Road Dollars"<br/>{{small|(with [[Nate Kenyon]])}}
+| 2017
+|
+* [[Recording Industry Association of America|RIAA]]: Gold<ref name="RIAA">{{cite certification|region=United States|artist=The Lacs|access-date=May 20, 2022}}</ref>
+| ''Dirtbagz, Vol 1''
+|Written by: Nate Kenyon and The Lacs
+Produced by : Wess Nyle
+Mixed by: Wess Nyle
+Mastered by: Dave Fore
+|}
+
+=== Other certified songs===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! scope="col" style="width:16em;"| Title
+! scope="col" | Year
+! scope="col" | Certifications
+! scope="col" | Album
+|-
+! scope="row" |"Country Road"
+|2006
+|
+* RIAA: Gold<ref name="RIAA" />
+| ''Lacology''
+|-
+! scope="row" | "Kickin' Up Mud"
+| 2010
+|
+* RIAA: Gold<ref name="RIAA"/>
+| ''Country Boy’s Paradise ''
+|}
+
+===Guest singles===
+{| class="wikitable"
+|-
+! Year
+! Single
+! Artist
+! Album
+|-
+| 2014
+| "Throwdown"
+| [[Moonshine Bandits]]
+| ''[[Calicountry]]''
+|-
+| 2015
+| "Outback"
+| Moonshine Bandits <small>(with Durwood Black)</small>
+| ''[[Blacked Out]]''
+|}
+
+===Music videos===
+{{more citations needed section|date=January 2016}}
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:18em;"| Video
+! Director
+|-
+| rowspan="3"| 2011
+! scope="row"| "Kickin' Up Mud"
+| David Poag
+|-
+! scope="row"| "Country Boy's Paradise"
+| rowspan="2"| Phivestarr Productions
+|-
+! scope="row"| "Country Road"
+|-
+| rowspan="3"| 2012
+! scope="row"| "Shake It" <small>(with [[Big & Rich]])</small><ref>{{cite web|url=http://www.cmt.com/videos/the-lacs/821406/shake-it-featuring-big-rich.jhtml|title=CMT : Videos : The Lacs : Shake It featuring Big & Rich|publisher=[[Country Music Television]]|accessdate=August 9, 2012}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+| Potsy Ponciroli
+|-
+! scope="row"| "Let Your Country Hang Out"
+| 
+|-
+! scope="row"| "Wylin'" <small>(with [[Bubba Sparxxx]])</small>
+|-
+| rowspan="2"| 2013
+! scope="row"| "Field Party" <small>(with [[JJ Lawhorn]])</small>
+| 
+|-
+! scope="row"| "Keep It Redneck"
+| Potsy Ponciroli
+|-
+| rowspan="3"| 2014
+! scope="row"| "Smokestack"
+| 
+|-
+! scope="row"| "Nothing in Particular"
+| 
+|-
+! scope="row"| "Throwdown" <small>(with [[Moonshine Bandits]])</small>
+| Scott Hansen
+|-
+| rowspan="4"| 2015
+! scope="row"| "God Bless a Country Girl"
+|
+|-
+! scope="row"| "Outback (Extended Remix)" <small>(with Moonshine Bandits, Durwood Black, [[Redneck Souljers]], Bubba Sparxxx, D. Thrash, [[Lenny Cooper]], Demun Jones & Moccasin Creek)</small>
+|
+|-
+! scope="row"| "Make the Rooster Crow"<ref>{{cite web|url=https://screen.yahoo.com/rooster-crow-021107666.html|title=The Lacs {{!}} Make the Rooster Crow {{!}} VEVO – Yahoo Screen|publisher=[[Yahoo! Screen]]|accessdate=August 4, 2015}}</ref>
+| IvinxPryor
+|-
+! scope="row"| "Tonight on Repeat" <small>(with [[Josh Thompson (singer)|Josh Thompson]])</small>
+| [[Ed Pryor]]
+|- 
+| rowspan="2"| 2016
+! scope="row"| "Back to Georgia" <small>(with [[Craig Campbell (singer)|Craig Campbell]])</small>
+| [[Ed Pryor]]
+|-
+! scope="row"| "Out Here"
+|
+|-
+| rowspan="2"| 2017
+! scope="row"| "Drink as a Team"
+| Casey Pierce
+|-
+! scope="row"| "Jack in My Coke" <small>(with [[Montgomery Gentry]])</small>
+|
+|-
+| rowspan="4"| 2018
+! scope="row"| "Redneck Rockstar"
+| [[Chris Hicky]]
+|-
+! scope="row"| "Country Livin"
+| rowspan="3"| Crucifix & Joshua Kirk
+|-
+! scope="row"| "Willie Nelson" <small>(with Nate Kenyon)</small>
+|-
+! scope="row"| "Red Eyes"
+|-
+| rowspan="4"| 2019
+! scope="row"| 
+"City Boy's Nightmare" <small>(with Nate Kenyon)</small>
+|-
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{official website|http://www.thelacsmusic.com/}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lacs, the}}
+[[Category:Average Joes Entertainment artists]]
+[[Category:American hip hop duos]]
+[[Category:American country music duos]]
+[[Category:Hip hop groups from Georgia (U.S. state)]]
+[[Category:Musical groups established in 2011]]
+[[Category:Country rap musicians]]
+[[Category:2011 establishments in Georgia (U.S. state)]]
+[[Category:Country music groups from Georgia (U.S. state)]]
+[[Category:Musical duos from Georgia (U.S. state)]]
