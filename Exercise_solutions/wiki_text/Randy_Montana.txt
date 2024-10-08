@@ -1,0 +1,134 @@
+{{short description|American musician}}
+{{Use mdy dates|date=July 2020}}
+{{Infobox musical artist
+| name            = Randy Montana
+| image           =
+| alt             =
+| caption         =
+| image_size      =
+| birth_name      = Randy Schlappi
+| birth_place     =
+| birth_date      = {{birth date and age|1985|09|23}}<ref>[http://www.umgnashville.com/artist/detail.aspx?nid=6380&aid=220 And The Bus Rolls On In The Latest Episode of Van Cam]</ref>
+| origin          = [[Albany, New York]], U.S.<ref name="engine145"/>
+| instrument      = Vocals
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 2009{{spaced ndash}}present
+| label           = [[Mercury Nashville]]
+}}
+
+'''Randy Schlappi''' (born September 23, 1985), known professionally as '''Randy Montana''', is an American [[country music|country]] singer signed to [[Mercury Records Nashville]]. His first album, ''Randy Montana'', was released in 2011.
+
+==Early and personal life==
+Randy Schlappi is the son of singer-songwriter [[Billy Montana]].<ref>{{cite web |url=http://blog.gactv.com/blog/2010/02/25/sugarland-david-nail-josh-turner-a-massive-demonstration-at-the-ryman/ |title=Sugarland, David Nail, Josh Turner: a Massive Demonstration at the Ryman |author=Tom Roland |date=February 25, 2010 |work=[[Great American Country]] |accessdate=March 23, 2010}}</ref>
+
+He is married to Montgomery "Gummy" Lee, daughter of retired [[stock car racing|stock car]] racer [[Kyle Petty]], and granddaughter of [[Richard Petty]]. The couple have one daughter Sullivan Mae Montana born February 27, 2012, and one son Gunnar West Montana born December 10, 2014.
+
+==Musical career==
+In March 2010, Montana released his debut single "Ain't Much Left of Lovin' You," to radio. The song entered at No.&nbsp;59 on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] charts dated for the week ending April 3, 2010. His self-titled album's second single "1,000 Faces" released to country radio on 2011.
+
+Karlie Justus of Engine 145 gave "Ain't Much Left of Lovin' You" a thumbs-up, calling Montana's voice "raspy" and comparing the song's theme to [[George Jones]]'s "[[The Grand Tour (song)|The Grand Tour]]."<ref name="engine145">{{cite web |url=http://www.engine145.com/randy-montana-aint-much-left-of-lovin-you/ |title=Randy Montana — "Ain't Much Left of Lovin' You" |author=Karlie Justus |date=March 18, 2010 |work=Engine 145 |accessdate=March 23, 2010 |archive-date=December 18, 2014 |archive-url=https://web.archive.org/web/20141218080820/http://www.engine145.com/randy-montana-aint-much-left-of-lovin-you/ |url-status=dead }}</ref> Matt Bjorke of Roughstock rated it three-and-a-half stars out of five, saying that the song is a "grow-on-you type" but that it "really feels like a genuine and proper introduction."<ref>{{cite web |url=http://www.roughstock.com/blog/randy-montana-ain-t-much-left-of-lovin-you- |title=Randy Montana — "Ain't Much Left of Lovin' You" |author=Matt Bjorke |date=March 23, 2010 |work=Roughstock |accessdate=March 23, 2010 |archive-date=June 13, 2011 |archive-url=https://web.archive.org/web/20110613154347/http://www.roughstock.com/blog/randy-montana-ain-t-much-left-of-lovin-you- |url-status=dead }}</ref>
+
+===Concert Tours===
+*'''Own The Night Tour ''' with [[Lady Antebellum]] (2011)
+
+==Discography==
+
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:10em;"| Title
+! rowspan="2" style="width:18em;"| Details
+! colspan="2"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]<br><ref>{{cite magazine|url={{BillboardURLbyName|artist=randy montana|chart=Country Albums C}}|title=Randy Montana Album & Song Chart History – Country Albums|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=August 4, 2011}}</ref>
+! width="45"| [[Top Heatseekers|US Heat]]<br><ref>{{cite magazine|url={{BillboardURLbyName|artist=randy montana|chart=Heatseekers Albums}}|title=Randy Montana Album & Song Chart History – Heatseekers Albums|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=August 4, 2011}}</ref>
+|-
+! scope="row"| ''Randy Montana''
+| 
+* Release date: July 26, 2011
+* Label: [[Universal Music Group Nashville|Mercury Nashville]]
+* Formats: CD, [[music download]]
+| 43
+| 7
+|-
+|}
+
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:10em;"| Title
+! style="width:18em;"| Details
+|-
+! scope="row"| ''1,000 Faces''
+| 
+* Release date: January 4, 2011
+* Label: Mercury Nashville
+* Formats: CD, music download
+|-
+! scope="row"| ''Put Me in a Box''
+|
+* Release date: November 18, 2014
+* Label: 12 Points Records
+* Formats: Music download
+|}
+
+===Singles===
+{| class="wikitable" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="50"| [[Hot Country Songs|US Country]]
+|-
+| 2010
+| align="left"| "Ain't Much Left of Lovin' You"
+| 36
+| align="left" rowspan="2"| ''Randy Montana''
+|-
+| 2011
+| align="left"| "1,000 Faces"
+| 37
+|-
+|}
+
+===Music videos===
+{| class="wikitable"
+|-
+! Year
+! Video
+! Director
+|-
+| 2010
+| "Ain't Much Left of Lovin' You"
+| [[Shaun Silva]]
+|-
+| 2011
+| "1,000 Faces"
+| [[Deaton-Flanigen Productions|Deaton Flanigen]]
+|-
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://randymontana.com Official Website]
+
+{{Petty family}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Montana, Randy}}
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Living people]]
+[[Category:Singer-songwriters from New York (state)]]
+[[Category:Musicians from Albany, New York]]
+[[Category:1985 births]]
+[[Category:Mercury Records artists]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:Country musicians from New York (state)]]
+[[Category:21st-century American male singers]]

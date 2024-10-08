@@ -1,0 +1,193 @@
+{{BLP sources|date=January 2017}}
+{{Infobox musical artist
+| image           =
+| name            = Jim Witter
+| image_size      =
+| caption         =
+| birth_name      =
+| alias           =
+| birth_date      = {{Birth date and age|1964|11|02}}
+| birth_place     =
+| death_date      =
+| death_place     =
+| origin          = [[Hamilton, Ontario]], Canada
+| instrument      = Vocals, piano, guitar
+| genre           = [[Country music|Country]], [[contemporary Christian music]]
+| occupation      = Singer, songwriter, producer
+| years_active    = 1993&ndash;present
+| label           = [[FRE Records|FRE]], [[Curb Records|Curb]]
+| associated_acts =
+| website         = {{URL|thepianomen.net/}}
+| current_members =
+| past_members    = 
+}}
+
+'''Jim Witter''' (born November 2, 1964) is a Canadian award-winning [[country music]] and [[Christian music]] singer/songwriter. Ten of Witter's songs reached the top 10 on Canadian country radio.<ref name="Jim Witter's Biography">{{Cite web |url=http://www.thepianomen.net/bio.htm |title=Jim Witter's Biography<!-- Bot generated title --> |access-date=2007-06-05 |archive-url=https://web.archive.org/web/20090322190824/http://www.thepianomen.net/bio.htm |archive-date=2009-03-22 |url-status=dead }}</ref>
+
+==Biography==
+
+Jim Witter grew up playing music. In 1982, he performed four songs on the "Music for Safe Water" compilation by 820 CHAM radio.  As a teenager, while still in high school, Jim honed his musical talents by playing evenings at a piano bar and restaurant called Snuggles, in Hamilton Ont.  In 1990, one of Witter's demos caught the attention of a [[Sony Music Entertainment|Sony Music Canada]] executive.<ref name="Jim Witter's Biography"/> Within three years, Witter was signed to [[FRE Records]]. His debut album, ''Jim Witter'', was released in 1993.<ref name="Inc.1995">{{cite magazine|author=Larry LeBlanc|title=Canada: Who's Who|magazine=Billboard|url=https://books.google.com/books?id=sAsEAAAAMBAJ&pg=PA80|date=4 February 1995|publisher=Nielsen Business Media, Inc.|pages=80–|issn=0006-2510}}</ref> The first single, "Everything and More," entered the National Country Chart at No.&nbsp;40, at the time a first for a debut Canadian single.<ref>[https://web.archive.org/web/20220623084137/http://www.geocities.com/jimwitteronline/facts.html%3F20075  Jim Witter Online - Facts<!-- Bot generated title -->]</ref> Every single released from the album reached the top 10 on the Canadian country singles chart, including "Distant Drum," "Stolen Moments," "Sweet Sweet Poison" and "Chevy Coupe." Witter received a [[Juno Awards of 1994|1994]] [[Juno Award|Juno]] nomination for Best New Solo Artist, an award that covered all genres of music, as well as a nomination for Best Country Male Vocalist.
+
+Witter signed a songwriting deal with [[Curb Records]] in 1999. That resulted in a record deal and the release of his second album, ''All My Life'', in both Canada and the United States. He continued his string of hits in Canada with songs like "All My Life," "Jumpin' Right In," "Tough As A Pickup Truck," "One Beat at a Time" and "One Hundred Years." Unfortunately, none of his singles reached ''[[Billboard (magazine)|Billboard]]'s'' [[Hot Country Songs]] chart in the U.S.
+
+When it came time to go back into the studio, Witter was encouraged by [[Mike Curb]] to record a [[Christian music|Christian]] record.<ref>[https://web.archive.org/web/20220623185451/http://www.geocities.com/jimwitteronline/bio.html%3F20075  Jim Witter - Biography<!-- Bot generated title -->]</ref> The result was his third album, 2003's ''Forgiveness''. The album received a nomination at the 2004 [[GMA Dove Awards]] for Album of the Year.<ref>{{Cite web |url=http://www.tigerseye.ca/rave/reviews/music/piano_men.htm |title=TEP MUsic Review: "Piano Men"<!-- Bot generated title --> |access-date=2007-06-05 |archive-url=https://web.archive.org/web/20070615042504/http://www.tigerseye.ca/rave/reviews/music/piano_men.htm |archive-date=2007-06-15 |url-status=dead }}</ref>
+
+Witter is currently performing in The Piano Men, a tribute to [[1970s in music|the music of the 1970s]], performing the songs of [[Billy Joel]] and [[Elton John]].<ref>{{Cite web |url=http://www.thepianomen.net/synopsis.htm |title=Jim Witter's Biography<!-- Bot generated title --> |access-date=2007-06-05 |archive-url=https://web.archive.org/web/20070319222947/http://www.thepianomen.net/synopsis.htm |archive-date=2007-03-19 |url-status=dead }}</ref>
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders"
+! style="width:10em;"| Title
+! style="width:18em;"| Details
+|-
+! scope="row"| ''[[Jim Witter (album)|Jim Witter]]''
+|
+* Release date: November 12, 1993
+* Label: [[FRE Records]]
+|-
+! scope="row"| ''[[All My Life (Jim Witter album)|All My Life]]''
+|
+* Release date: October 11, 1999
+* Label: [[Curb Records]]
+|-
+! scope="row"| ''[[Forgiveness (album)|Forgiveness]]''
+|
+* Release date: January 14, 2003
+* Label: Curb Records
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Single
+! Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="3"| 1993
+! scope="row"| "[[Everything and More (song)|Everything and More]]"
+| 5
+| align="left" rowspan="4"| ''Jim Witter''
+|- 
+! scope="row"| "[[Distant Drum]]"
+| 4
+|- 
+! scope="row"| "[[Stolen Moments (Jim Witter song)|Stolen Moments]]"
+| 5
+|- 
+| rowspan="3"| 1994
+! scope="row"| "[[Sweet Sweet Poison]]"
+| 6
+|- 
+! scope="row"| "Human Highway" <small>(with [[Cassandra Vasik]])</small>
+| 24
+| align="left"| ''[[Borrowed Tunes: A Tribute to Neil Young]]''
+|- 
+! scope="row"| "[[Chevy Coupe]]"
+| 6
+| align="left"| ''Jim Witter''
+|- 
+| rowspan="3"| 1999
+! scope="row"| "[[All My Life (Jim Witter song)|All My Life]]"
+| 8
+| align="left" rowspan="6"| ''All My Life''
+|- 
+! scope="row"| "[[Jumpin' Right In]]"
+| 10
+|- 
+! scope="row"| "[[Tough as a Pickup Truck]]"
+| 7
+|- 
+| 2000
+! scope="row"| "[[One Beat at a Time]]"
+| 7
+|- 
+| rowspan="2"| 2001
+! scope="row"| "One Hundred Years"
+| *
+|- 
+! scope="row"| "[[I Want You to Want Me]]"
+| *
+|- 
+| rowspan="3"| 2003
+! scope="row"| "Forgiveness"
+| *
+| align="left" rowspan="3"| ''Forgiveness''
+|- 
+! scope="row"| "You Are the Sun"
+| *
+|- 
+! scope="row"| "[[Turn! Turn! Turn!]]"
+| *
+|-
+| colspan="4" style="font-size:8pt"| * denotes unknown peak positions
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:20em;"| Video
+! Director
+|-
+| rowspan="3"| 1993
+! scope="row"| "Everything and More"
+| Keith Harrick
+|-
+! scope="row"| "Distant Drum"
+| 
+|-
+! scope="row"| "Stolen Moments"
+| Keith Harrick
+|-
+| rowspan="2"| 1999
+! scope="row"| "All My Life"
+| [[Warren P. Sonoda]]
+|-
+! scope="row"| "Tough as a Pickup Truck"
+| 
+|-
+| 2000
+! scope="row"| "One Beat at a Time"
+| 
+|-
+| 2003
+! scope="row"| "Turn! Turn! Turn!"
+| Antonio Hrynchuk
+|}
+
+== Awards and recognition ==
+;[[Canadian Country Music Association|Canadian Country Music Awards]]
+* 1994 Video of the Year: "Stolen Moments"
+* 1995 Vocal Collaboration Of The Year
+* 1996 Vocal Collaboration Of The Year
+
+;[[GMA Music Awards|GMA Dove Awards]]
+* 2004 nominee, Inspirational Album of the Year: ''Forgiveness''
+
+;[[Juno Awards]]
+* [[Juno Awards of 1994|1994 nominee]], Country Male Vocalist of the Year
+* [[Juno Awards of 1994|1994 nominee]], Best New Solo Artist
+* [[Juno Awards of 1995|1995 nominee]], Country Male Vocalist of the Year
+* [[Juno Awards of 2000|2000 nominee]], Best Country Male Artist
+* [[Juno Awards of 2004|2004 nominee]], Contemporary Christian/Gospel Album of the Year: ''Forgiveness''
+
+== References ==
+{{Reflist|2}}
+
+== External links ==
+*[https://web.archive.org/web/20070820073321/http://www.thepianomen.net/ The Piano Men Starring Jim Witter]
+
+{{Jim Witter}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Witter, Jim}}
+[[Category:1964 births]]
+[[Category:Living people]]
+[[Category:Canadian country singer-songwriters]]
+[[Category:Canadian male singers]]
+[[Category:Canadian performers of Christian music]]
+[[Category:Musicians from Hamilton, Ontario]]
+[[Category:Canadian male singer-songwriters]]

@@ -1,0 +1,209 @@
+{{short description|American singer-songwriter}}
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist
+| name              = Cleve Francis
+| image             = 
+| image_size        = 
+| birth_name        = Cleveland Francis, Jr.<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=150|isbn=978-0-89820-177-2}}</ref>
+| alias             = 
+| birth_date        = {{Birth date and age|1945|04|22}}<ref name="allmusic">{{cite web |url={{AllMusic|class=artist|id=p30158/biography|pure_url=yes}} |title=Cleve Francis biography |accessdate=May 31, 2008 |last=Loftus |first=Johnny |work=[[Allmusic]]}}</ref>
+| origin            = [[Jennings, Louisiana]], U.S.
+| instrument        = Vocals, guitar
+| genre             = {{hlist|[[Country Music|Country]]|[[Folk music|Folk]]}}
+| occupation        = Singer-songwriter, cardiologist
+| years_active      = 1970{{endash}}present
+| label             = Playback, <br />[[Liberty Records|Liberty]], Forager
+| website           = [http://www.clevefrancis.com http://www.clevefrancis.com]
+}}
+
+'''Cleveland Francis''' (born April 22, 1945) is an American [[country music]] singer, songwriter, and cardiologist. Active since the late 1960s, Francis has recorded a total of nine albums, including three for [[Liberty Records]]. He has charted four times on ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]], most successfully with "You Do My Heart Good" in 1992.
+
+==Biography==
+Francis began his music career as a folk and blues singer and songwriter in the late 1960s while still a graduate student at the [[College of William & Mary]], where he graduated with a [[Master of Arts]] degree in 1969.<ref>{{cite magazine |last=Eshleman |first=Tina |date=January 2023 |title=Heart & Soul |url=https://alumni.wm.edu/magazine_pdf/2023-winter.pdf |magazine=William & Mary Alumni Magazine |location=[[Williamsburg, Virginia]] |publisher=[[College of William & Mary]] |access-date=January 24, 2023}}</ref> He attended medical school at the Medical College of Virginia (now [[VCU School of Medicine|Virginia Commonwealth University School of Medicine]]), eventually becoming a [[cardiologist]]. However, in the late 1980s he switched his focus to country music, signing first to Playback Records. His debut country album ''Last Call for Love'' was released that year. The album included a single titled "Love Light", which was also made into a [[music video]].<ref name="des">{{cite news | url=https://www.newspapers.com/image/132285874/ | title=Cleve Francis is a country (music) doctor | work=The Des Moines Register | date=April 17, 1992 | accessdate=July 16, 2021 | pages=16T}}</ref>
+
+After seeing the video for "Love Light" on [[CMT (American TV channel)|CMT]], record producer [[Jimmy Bowen]] signed Francis to [[Liberty Records]] in 1992.<ref name="des"/> Between 1992 and 1994, Francis released three studio albums on Liberty, in addition to charting four singles on the ''[[Billboard (magazine)|Billboard]]'' Hot Country Singles & Tracks (now [[Hot Country Songs]]) charts. In 1994 Francis returned to his medical practice in Northern Virginia. He is president of Mount Vernon Cardiology Associates.<ref name="Cleveland">{{cite web |url=http://www.clevefrancis.com/biography.htm} |title=Thumbnail Biography of Cleve Francis |accessdate=December 19, 2019}}</ref> Francis has performed at [[The Birchmere]] in [[Alexandria, Virginia]], and has a live album recorded there in 2006 called ''Storytime''.<ref>{{cite web | url=https://music.apple.com/us/album/storytime/213586214 | title=''Storytime'' | work=iTunes Store | accessdate=July 16, 2021}}</ref> In 2022, Francis released "Beyond the Willow Tree" on Forager Records, a remastered reissue of his 1970 self-released folk album, "Follow Me," which includes several other folk songs Francis had recorded as demos in 1968 and 1970.<ref>{{Cite web |title=Beyond The Willow Tree, by Cleveland Francis |url=https://clevelandfrancis.bandcamp.com/album/beyond-the-willow-tree-2 |access-date=2023-01-09 |website=Cleveland Francis |language=en}}</ref> 
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:14em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="2"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]
+! width="45"| [[Top Heatseekers|US Heat]]
+|-
+! scope="row"| ''Follow Me''
+| 
+* Release date: 1970
+* Label: Self-released
+| —
+| —
+|-|-
+! scope="row"| ''Last Call for Love''
+| 
+* Release date: 1990
+* Label: Playback
+| —
+| —
+|-
+! scope="row"| ''Tourist in Paradise''
+| 
+* Release date: March 16, 1992
+* Label: [[Liberty Records|Liberty]]
+| 58
+| 34
+|-
+! scope="row"| ''Walkin'''
+| 
+* Release date: May 10, 1993
+* Label: Liberty
+| —
+| —
+|-
+! scope="row"| ''You've Got Me Now''
+| 
+* Release date: August 23, 1994
+* Label: Liberty
+| —
+| —
+|-
+! scope="row"| ''Meet Cleve Francis''
+| 
+* Release date: 2000
+* Label: K-Tel
+| —
+| —
+|-
+! scope="row"| ''Storytime''
+| 
+* Release date: 2006
+* Label: Self-released
+| —
+| —
+|-
+! scope="row"| ''Lovelight''
+| 
+* Release date: 2021
+* Label: K-Tel
+| —
+| —
+|-
+! scope="row"| ''Beyond the Willow Tree''
+|
+* Release date: 2022
+* Label: Forager Records
+| —
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<br /><ref name="whitburn"/>
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| 1990
+! scope="row"| "Love Light"
+| —
+| —
+| ''Last Call for Love''
+|-
+| rowspan="3"| 1992
+! scope="row"| "Love Light" <small>(re-release)</small>
+| 52
+| —
+| align="left" rowspan="3"| ''Tourist in Paradise''
+|-
+! scope="row"| "You Do My Heart Good"
+| 47
+| 76
+|-
+! scope="row"| "How Can I Hold You"
+| 74
+| —
+|-
+| rowspan="2"| 1993
+! scope="row"| "Walkin'"
+| 63
+| —
+| align="left" rowspan="2"| ''Walkin'''
+|-
+! scope="row"| "I Won't Let You Walk Away"
+| —
+| —
+|-
+| rowspan="2"| 1994
+! scope="row"| "Love or the Lack Thereof"
+| —
+| —
+| align="left" rowspan="2"| ''You've Got Me Now''
+|-
+! scope="row"| "We Fell in Love Anyway" <small>(with [[Patti Austin]])</small>
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:20em;"| Video
+! Director
+|-
+| 1990
+! scope="row"| "Love Light"
+|D.J. Schweitzer<ref>{{cite news | url=https://www.newspapers.com/image/112419000/ | title=Music Row prints local video honors | work=The Tennessean | date=December 11, 1990 | accessdate=July 16, 2021 | pages=1D}}</ref>
+|-
+| 1992
+! scope="row"| "You Do My Heart Good"
+| Bill Young
+|-
+| rowspan="2"| 1993
+! scope="row"| "Walkin'"
+|Sara Nichols
+|-
+! scope="row"| "I Won't Let You Walk Away"
+| Joanne Gardner
+|-
+| rowspan="2"| 1994
+! scope="row"| "Love or the Lack Thereof"<ref>{{cite web|url=http://www.cmt.com/videos/cleve-francis/384599/love-or-the-lack-thereof.jhtml|title=CMT : Videos : Cleve Francis : Love Or The Lack Thereof|publisher=[[Country Music Television]]|accessdate=October 14, 2011}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+| L. J. Kreussling
+|-
+! scope="row"| "We Fell in Love Anyway" <small>(with [[Patti Austin]])</small><ref>{{cite web|url=http://www.cmt.com/videos/patti-austin/384691/we-fell-in-love-anyway.jhtml|title=CMT : Videos : Patti Austin : We Fell In Love Anyway|publisher=[[Country Music Television]]|accessdate=October 14, 2011}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+| Dominic Orlando
+|}
+
+
+==References==
+{{Reflist|2}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Francis, Cleve}}
+[[Category:1945 births]]
+[[Category:Living people]]
+[[Category:20th-century African-American musicians]]
+[[Category:21st-century African-American musicians]]
+[[Category:African-American country musicians]]
+[[Category:African-American songwriters]]
+[[Category:American cardiologists]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:College of William & Mary alumni]]
+[[Category:Country musicians from Louisiana]]
+[[Category:Liberty Records artists]]
+[[Category:People from Jennings, Louisiana]]
+[[Category:Singer-songwriters from Louisiana]]

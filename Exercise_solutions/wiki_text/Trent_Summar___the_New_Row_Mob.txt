@@ -1,0 +1,124 @@
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Trent Summar & The New Row Mob
+| image                 = 
+| caption            = 
+| image_size            = 
+| background          = group_or_band
+| origin              = [[Tennessee]], United States
+| genre               = [[country music|Country]]
+| years_active        = 2000–present
+| label               = VFR, [[Palo Duro Records|Palo Duro]]
+| associated_acts     = [[The Georgia Satellites]]<br />[[Hank Flamingo]]
+| website                 = http://www.trentsummarmusic.com
+| current_members     = Trent Summar<br />Dave Kennedy<br />[[Dan Baird]]<br />Michael "Supe" Granada<br />Ken McMahan
+| past_members        = Jerry Dale McFadden<br />Jared Reynolds<br />[[Kenny Vaughan]]<br />Philip Wallace
+}}
+'''Trent Summar & The New Row Mob''' is an American [[country music]] group from the state of [[Tennessee]]. Its membership comprises Trent Summar ([[Singing|lead vocals]]), Ken McMahan ([[guitar]]), [[Dan Baird]] (guitar), Dave Kennedy ([[Drum kit|drums]]), and Michael "Supe" Granda ([[bass guitar]], vocals). Granda is a founding member of [[Ozark Mountain Daredevils]], Baird is a former member of the [[Southern rock]] band [[The Georgia Satellites]],<ref name="bmi"/> and Summar previously fronted a band called [[Hank Flamingo]].<ref name="allmusic"/> To date, Trent Summar & The New Row Mob have recorded two studio albums and a live compilation, in addition to charting one single on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] charts.
+
+==Biography==
+Trent Summar & The New Row Mob was founded in 2000.<ref name="allmusic">{{cite web |url=
+{{Allmusic|class=artist|id=p129608|pure_url=yes}} |title=Trent Summar biography |accessdate=2007-12-25 |last=Johnson |first=Zac |work=[[Allmusic]]}}</ref> The band's original lineup consisted of Trent Summar ([[Singing|lead vocals]]), Kenny Vaughan ([[guitar]]), Philip Wallace (guitar), Jared Reynolds ([[bass guitar]], vocals), Dave Kennedy ([[Drum kit|drums]]), and Jerry Dale McFadden ([[piano]]).<ref>{{cite web | url=https://www.mtv.com/news/p2hwpk/trent-summar-returns-with-flair | archive-url=https://web.archive.org/web/20230126210014/https://www.mtv.com/news/p2hwpk/trent-summar-returns-with-flair | url-status=dead | archive-date=January 26, 2023 | title=Trent Summar Returns With Flair: Ex-Hank Flamingo star assembles all-star New Row Mob. | publisher=[[MTV]] | date=August 10, 2000 | accessdate=January 26, 2023}}</ref><ref name="allmusic"/> Both Summar and Wallace had formerly been in a sextet called [[Hank Flamingo]], which recorded an album for [[Giant Records (Warner Bros. subsidiary label)|Giant Records]] in 1994, and Vaughn had previously been a member of [[McBride & the Ride]]. Trent Summar's unique voice merges elements of traditional country with rock & roll, honky tonk, and contemporary country music.<ref>{{Cite web |title=About |url=https://www.trentsummarmusic.com/about |access-date=2024-05-10 |website=Trent Summar |language=en-US}}</ref>   
+
+Under the original lineup, Trent Summar & The New Row Mob released its self-titled debut album on VFR Records in 2000. This album contained their debut single "[[It Never Rains in Southern California]]", a cover of [[Albert Hammond]]'s hit single from 1972. An independently released live album was issued three years later, followed by ''Horseshoes & Hand Grenades'' in 2006.<ref name="bmi">{{cite web |url=http://www.bmi.com/musicworld/entry/533989 |title=Trent Summar |accessdate=2007-12-25 |date=2006-12-12 |work=[[Broadcast Music Incorporated]]}}</ref>
+
+In addition to his contributions as a member of The New Row Mob, frontman Trent Summar has composed songs for other country music artists, including album tracks by [[Billy Currington]] and [[Gary Allan]], as well as "[[Love You (Jack Ingram song)|Love You]]", a 2006 single for [[Jack Ingram]],<ref name="bmi"/> and "There's the Sun", a 2013 single for [[Kix Brooks]]. He also co-wrote [[David Nail]]'s "[[Kiss You Tonight]]" (2014).
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:20em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''Trent Summar & The New Row Mob''
+| 
+* Release date: August 22, 2000
+* Label: VFR Records
+|-
+! scope="row"| ''Live at 12th and Porter''
+| 
+* Release date: March 25, 2003
+* Label: DCN Records
+|-
+! scope="row"| ''Horseshoes & Hand Grenades''
+| 
+* Release date: October 10, 2006
+* Label: [[Palo Duro Records]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="60"| [[Hot Country Songs|US Country]]
+|-
+| rowspan="2"| 2000
+! scope="row"| "New Money"
+| —
+| align="left" rowspan="3"| ''Trent Summar & The New Row Mob''
+|-
+! scope="row"| "[[It Never Rains in Southern California]]"
+| 74
+|-
+| 2001
+! scope="row"| "Paint Your Name in Purple"
+| —
+|-
+| 2006
+! scope="row"| "Horseshoes & Hand Grenades"
+| —
+| align="left" rowspan="2"| ''Horseshoes & Hand Grenades''
+|-
+| 2007
+! scope="row"| "Never Really Loved Her Anyway"
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:20em;"| Video
+! Director
+|-
+| rowspan="2"| 2000
+! scope="row"| "New Money"
+| David McClister 
+|-
+! scope="row"| "It Never Rains in Southern California"
+| Trent Hardville
+|-
+| 2001
+! scope="row"| "Paint Your Name in Purple" 
+| David McClister 
+|-
+| 2002
+! scope="row"| "I'm Country"
+|
+|-
+| 2007
+! scope="row"| "Never Really Loved Her Anyway"
+| Cole Douglas
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20070912162335/http://www.trentsummarmusic.com/ Trent Summar official website]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Summar, Trent, and The New Row Mob}}
+[[Category:Country music groups from Tennessee]]
+[[Category:Musical groups established in 2000]]
+[[Category:2000s establishments in Tennessee]]
+[[Category:Songwriters from Tennessee]]

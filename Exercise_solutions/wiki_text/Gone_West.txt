@@ -1,0 +1,59 @@
+{{Short description|American-bred Thoroughbred racehorse}}
+{{for|the country group|Gone West (band)}}
+{{Use mdy dates|date=November 2023}} 
+{{Infobox racehorse
+| horsename = Gone West
+| image = 
+| caption = 
+| sire = [[Mr. Prospector]]
+| grandsire = [[Raise a Native]]
+| dam = [[Secrettame]]
+| damsire = [[Secretariat (horse)|Secretariat]]
+| sex = [[Stallion (horse)|Stallion]]
+| foaled = 1984
+| country =  United States
+| colour = [[Brown]]
+| breeder = William O. Reed
+| owner = [[Alice du Pont Mills|Hickory Tree Stable]]
+| trainer = [[Woody Stephens]]
+| record = 17: 6-4-2
+| earnings = [[United States dollar|US$]]682,251
+| race = [[Dwyer Stakes]] (1987)<br /> [[Gotham Stakes]] (1987)<br />[[Withers Stakes]] (1987)
+| awards = 
+| honours =  
+| updated= 
+}}
+
+'''Gone West''' (March 10, 1984 – September 7, 2009) was an American [[Thoroughbred]] [[Horse racing|racehorse]]. Bred by William O. Reed, he was a son of the influential sire [[Mr. Prospector]]. His dam, [[Secrettame]], was a daughter of 1973 [[United States Triple Crown of Thoroughbred Racing|U.S. Triple Crown]] winner [[Secretariat (horse)|Secretariat]].
+
+Purchased by [[Alice du Pont Mills]] and raced under her Hickory Tree Stable banner, Gone West was conditioned for racing by [[National Museum of Racing and Hall of Fame|U.S. Racing Hall of Fame]] trainer [[Woody Stephens]]. While Gone West won three important stakes races, he is best known as a sire and a sire of sires. At [[Stud (horse)|stud]], among the notable horses he sired are:
+* [[West by West]] (1989-2011) - multiple stakes winner with career earnings of $1,038,123
+* [[Zafonic]] (1990-2002) - won [[British Classic Races|British Classic]] [[2,000 Guineas Stakes]] [[Cartier Racing Award|European Champion Two-Year-Old Colt]]
+* [[Lassigny (horse)|Lassigny]] (b. 1991) - won G1 [[Canadian International Stakes|Rothman's International]] (1995), career earnings $1,318,371
+* [[Da Hoss]] (b. 1992) - won [[Breeders' Cup Mile]] (1996, 1998), career earnings $1,931,558
+* [[Elusive Quality]] (1993-2018) - stakes winner, sired [[Smarty Jones]], [[Raven's Pass]], [[Quality Road]]
+* [[Commendable]] (1997-2014) -  won [[Belmont Stakes]] (2000)
+* [[Speightstown (horse)|Speightstown]] (b. 1998) -  won [[Breeders' Cup Sprint]] (2004), [[American Champion Sprint Horse]] (2004), career earnings $1,258,256
+* [[Came Home]] (1999-2021) - multiple Grade 1 winner, career earnings $1,835,940
+* [[Johar]] (1999-2014) - won G1 [[Hollywood Derby]] (2002), G1  [[Breeders' Cup Turf]] (2003); career earnings $1,494,496
+* [[Marsh Side]] (b. 2003) - won G1 [[Canadian International Stakes|Canadian International]], career earnings $1,519,706
+
+Other sons of Gone West who became good sires were Zamindar, Mr. Greeley, Proud Citizen, [[Grand Slam (horse)|Grand Slam]], and Western Winter. Gone West is the damsire of 2005 [[Epsom Derby]] winner, [[Motivator (horse)|Motivator]].
+
+At maturity, he reached {{hands|16}} high.<ref>{{cite news |author1=Anne Peters |title=Pedigree Analysis: Is Bigger Always Better? |url=http://www.bloodhorse.com/horse-racing/articles/90474/pedigree-analysis-is-bigger-always-better |access-date=19 November 2023 |work=Blood Horse |date=13 March 2015}}</ref>
+
+Gone West stood at Mill Ridge Farm in [[Lexington, Kentucky]]. They announced that the stallion would be pensioned after the 2009 breeding season. However, he was euthanized due to complications from [[Horse colic|colic]].
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.pedigreequery.com/gone+west Gone West's pedigree and partial racing stats]
+* [https://web.archive.org/web/20090511151010/http://www.millridge.com/stallions-gonewest.aspx Gone West at Mill Ridge Farm]
+
+[[Category:1984 racehorse births]]
+[[Category:2009 racehorse deaths]]
+[[Category:Racehorses bred in Kentucky]]
+[[Category:Racehorses trained in the United States]]
+[[Category:Thoroughbred family 2-f]]
+[[Category:Chefs-de-Race]]

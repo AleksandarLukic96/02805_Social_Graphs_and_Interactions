@@ -1,0 +1,97 @@
+{{short description|American country music singer-songwriter|bot=PearBOT 5}}
+{{Use mdy dates|date=October 2020}}
+{{Infobox musical artist
+| name             = Joe Barnhill
+| image            = 
+| image_size       = 
+| birth_name       = 
+| alias            = 
+| birth_date       = {{birth date and age|1965|06|13}}
+| origin           = [[Turkey, Texas]], US
+| instrument       = Vocals
+| genre            = [[Country music|Country]]
+| occupation       = Singer-songwriter
+| years_active     = 1989–1997, 2012
+| label            = [[Universal Records (1988 record label)|Universal]], [[Capitol Records|Capitol]], Avion
+| associated_acts  = 
+| website          = 
+}}
+
+'''Joe Barnhill''' (born June 13, 1965, in [[Turkey, Texas]]) is an American [[country music]] singer-songwriter. Between 1990 and 1997, Barnhill released 2 studio albums. He also charted two singles on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles & Tracks]] chart. His highest charting single, "Your Old Flame's Goin' Out Tonite," peaked at No.&nbsp;56 in 1989.
+
+His self-titled debut album was praised by one critic for its "excellent" selections of songs including a cover of [[Paul Overstreet]]'s "Becky Morgan (Cotton Pickin' Time)".<ref>{{cite news |last1=Nichols |first1=Lee |title=Worth a note |url=https://www.newspapers.com/clip/72089627/worth-a-note/ |access-date=February 26, 2021 |work=Austin American-Statesman |date=July 5, 1990}}</ref>
+
+As a songwriter, Barnhill along with Wayne Perry wrote "[[Not a Moment Too Soon (song)|Not a Moment Too Soon]]," a No.&nbsp;1 hit for [[Tim McGraw]] in 1994.
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:16em;"| Title
+! style="width:20em;"| Album details
+|- 
+! scope="row"| ''Joe Barnhill''
+| 
+* Release date: April 23, 1990
+* Label: [[Capitol Records]]
+|-
+! scope="row"| ''America's Musical Highway''
+| 
+* Release date: September 23, 1997
+* Label: Avion Records
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<br><ref>{{cite magazine|url=https://www.billboard.com/music/joe-barnhill/chart-history|title=Joe Barnhill – Chart History|magazine=[[Billboard (magazine)|Billboard]]|accessdate=January 29, 2018}}</ref>
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="3"| 1989
+! scope="row"| "Becky Morgan (Cotton Pickin' Time)"<ref>{{cite magazine|url=https://worldradiohistory.com/Archive-All-Music/Billboard/80s/1989/BB-1989-05-06.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|page=85|date=May 6, 1989}}</ref>
+| —
+| —
+| align="left" rowspan="4"| ''Joe Barnhill''
+|-
+! scope="row"| "Your Old Flame's Goin' Out Tonite"
+| 56
+| 75
+|-
+! scope="row"| "Good as Gone"
+| 57
+| —
+|-
+| 1990
+! scope="row"| "Any Ole Time"
+| —<sup>A</sup>
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+'''Notes:'''
+*<sup>A</sup> "Any Ole Time" did not chart on Hot Country Songs, but peaked at No. 8 on Hot Country Radio Breakouts.<ref>{{cite magazine|url=http://americanradiohistory.com/Archive-Billboard/90s/1990/BB-1990-04-21.pdf|title=Hot Country Radio Breakouts|date=April 21, 1990|magazine=Billboard}}</ref>
+
+==References==
+<references />
+
+==External links==
+*[{{AllMusic|class=artist|id=p28031|pure_url=yes}} Joe Barnhill] at [[Allmusic]]
+
+{{authority control}}
+
+{{DEFAULTSORT:Barnhill, Joe}}
+[[Category:1965 births]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Living people]]
+[[Category:Country musicians from Texas]]
+[[Category:Singer-songwriters from Texas]]
+
+
+{{US-country-singer-stub}}

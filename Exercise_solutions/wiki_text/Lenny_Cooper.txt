@@ -1,0 +1,257 @@
+{{short description|American country rap singer-songwriter|bot=PearBOT 5}}
+{{for|the English cricketer|Lenny Cooper (cricketer)}}
+{{Use mdy dates|date=June 2020}}
+{{Infobox musical artist
+| name            = Lenny Cooper
+| image           =
+| image_size      =
+| landscape       =
+| alt             =
+| caption         =
+| birth_name      =
+| birth_date      = 1988
+| birth_place     = [[Jacksonville, North Carolina]]
+| origin          =
+| genre           = [[Country rap]]
+| occupation      = Singer-songwriter
+| instrument      = Vocals
+| years_active    = 2012–present
+| label           = [[Average Joes Entertainment]], [[Backroad]]
+| associated_acts = [[Colt Ford]] 
+*[[Bucky Covington]]
+*[[Bubba Sparxxx]]
+| website         = {{URL|www.lennycoopermusic.com/}}
+}}
+'''Lenny Cooper''' (born 1988 in [[Jacksonville, North Carolina]]<ref name="allmusic">{{cite web|last=Leggett|first=Steve|title=Lenny Cooper {{!}} Biography|url={{AllMusic|class=artist|id=mn0002519137/biography|pure_url=yes}}|work=[[AllMusic]]|accessdate=September 4, 2014}}</ref>) is an American [[country rap]] singer-songwriter.<ref>[http://www.billboard.com/articles/columns/the-615/6229298/lenny-cooper-the-grind-interview "Lenny Cooper Explains How His Father & Brother Turned Him Into a Country Rapper"] ''Billboard''. Retrieved February 4, 2015.</ref> Cooper is signed to [[Colt Ford]]'s record label, [[Average Joes Entertainment]], and released his debut album, ''Diesel Fuel'', in 2012.<ref name="allmusic" /> Cooper's second album, ''Mud Dynasty'', was released on May 7, 2013.<ref>{{cite news|last1=Carter|first1=Liv|title=UCN Interview – Lenny Cooper: "The new album feels totally like me."|url=http://www.urbancountrynews.com/ucn-interview-lenny-cooper-the-new-album-feels-totally-like-me/|accessdate=September 4, 2014|work=Urban Country News|date=April 26, 2013}}</ref> It sold 3,000 copies in its first week of release, debuting at number 34 on the ''[[Billboard (magazine)|Billboard]]'' [[Top Country Albums]] chart and number 198 on the [[Billboard 200|''Billboard'' 200]].<ref>{{cite news|last1=Bjorke|first1=Matt|title=Country Album Chart News For May 15, 2013: Lady Antebellum Debuts At #1; Pistol Annies Top 5 with New Albums; Country Music Dominates|url=http://roughstock.com/news/country-album-chart-news-for-may-15-2013-lady-antebellum-debuts-at-1-pistol-annies-top-5-with-new-albums-country-music-dominates/|accessdate=September 4, 2014|work=Roughstock|date=May 15, 2013|archive-url=https://web.archive.org/web/20140905051232/http://roughstock.com/news/country-album-chart-news-for-may-15-2013-lady-antebellum-debuts-at-1-pistol-annies-top-5-with-new-albums-country-music-dominates/|archive-date=September 5, 2014|url-status=dead}}</ref>
+
+Cooper released his third album, ''The Grind'', on August 26, 2014.<ref>{{cite news|last1=Frazer|first1=Bear|title=Lenny Cooper: Staying On The Grind|url=https://arena.com/article/lenny-cooper-staying-on-the-grind|accessdate=September 4, 2014|work=Arena|date=August 20, 2014}}</ref> The album features collaborations with Ford, [[Bucky Covington]] and [[Bubba Sparxxx]].<ref>{{cite news|last1=Thompson|first1=Gayle|title=Lenny Cooper Releasing 'The Grind'|url=http://theboot.com/lenny-cooper-the-grind/|accessdate=September 4, 2014|work=The Boot|date=August 9, 2014}}</ref> It sold 2,400 copies in its first week of release, debuting at number 17 on the ''Billboard'' Top Country Albums chart and number 142 on the ''Billboard'' 200.<ref>{{cite news|last1=Bjorke|first1=Matt|title=Country Album Sales Report – September 3, 2014|url=http://roughstock.com/news/country-album-sales-report-09-03-2014/|accessdate=September 4, 2014|work=Roughstock|date=September 3, 2014|url-status=dead|archiveurl=https://web.archive.org/web/20140904072435/http://roughstock.com/news/country-album-sales-report-09-03-2014/|archivedate=September 4, 2014}}</ref>
+
+==Discography==
+{{redirect|Diesel Fuel|the fuel used in diesel engines|Diesel fuel}}
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:10em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="5"| Peak chart positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]<br /><ref>{{cite magazine|url={{BillboardURLbyName|artist=lenny cooper|chart=Country Albums}}|title=Lenny Cooper Album & Song Chart History – Country Albums|magazine=Billboard|accessdate=September 4, 2014}}</ref>
+! width="45"| [[Billboard 200|US]]<br /><ref>{{cite magazine|url={{BillboardURLbyName|artist=lenny cooper|chart=Billboard 200}}|title=Lenny Cooper Album & Song Chart History – Billboard 200|magazine=Billboard|accessdate=September 4, 2014}}</ref>
+! width="45"| [[Top Heatseekers|US<br />Heat]]<br /><ref>{{cite magazine|url={{BillboardURLbyName|artist=lenny cooper|chart=Heatseekers Albums}} |title=Lenny Cooper Album & Song Chart History – Heatseekers Albums |magazine=Billboard |accessdate=September 4, 2014 |url-status=dead |archiveurl=https://www.webcitation.org/628q51XQN?url=http://www.billboard.com/#/artist/Rihanna/chart-history/658897?f=793&g=Singles |archivedate=October 2, 2011 }}</ref>
+! width="45"| [[Independent Albums|US<br />Indie]]<br /><ref>{{cite magazine|url={{BillboardURLbyName|artist=lenny cooper|chart=Independent Albums}} |title=Lenny Cooper Album & Song Chart History – Independent Albums |magazine=Billboard |accessdate=September 4, 2014 |url-status=dead |archiveurl=https://www.webcitation.org/628q51XQN?url=http://www.billboard.com/#/artist/Rihanna/chart-history/658897?f=793&g=Singles |archivedate=October 2, 2011 }}</ref>
+! width="45"| [[Rap Albums|US<br />Rap]]<br /><ref>{{cite magazine|url={{BillboardURLbyName|artist=lenny cooper|chart=Rap Albums}}|title=Lenny Cooper Album & Song Chart History – Rap Albums|magazine=Billboard|accessdate=September 4, 2014}}</ref>
+|-
+! scope="row"| ''Diesel Fuel''
+| 
+* Release date: February 7, 2012
+* Label: [[Average Joes Entertainment|Backroad Records]]
+| 73
+| —
+| 43
+| —
+| —
+|-
+! scope="row"| ''Mud Dynasty''
+| 
+* Release date: May 7, 2013
+* Label: Backroad Records
+| 34
+| 198
+| 4
+| 34
+| 17
+|-
+! scope="row"| ''The Grind''
+| 
+* Release date: August 26, 2014
+* Label: Backroad Records
+| 17
+| 142
+| 2
+| 24
+| 13
+|-
+! scope="row"| ''Dirtified''
+|
+* Release date: October 28, 2016
+* Label: Backroad Records
+| 43
+| —
+| 10
+| 49
+| 19
+|-
+! scope="row"| ''Still the King''
+|
+* Release date: March 6, 2020
+* Label: Backroad Records
+|
+|
+|
+|
+|
+|-
+| colspan="7" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Singles===
+{| class="wikitable"
+|-
+! Year
+! Single
+!Certifications
+! Album
+|-
+| 2011
+| "Big Tires"
+|
+| rowspan="3" | ''Diesel Fuel''
+|-
+| rowspan="2"| 2012
+| "Mud Digger" <small>(with [[Colt Ford]])</small>
+|
+* RIAA: Gold<ref name="BPIb">{{cite certification|region=United States|artist=Lenny Cooper|access-date=June 27, 2023}}</ref>
+|-
+| "Hillbilly Dance"
+|
+|-
+| rowspan="2"| 2013
+| "Mud Dynasty"
+|
+| rowspan="3" | ''Mud Dynasty''
+|-
+| "Rodeo"
+|
+|-
+| rowspan="3"| 2014
+| "Country Folks Anthem" <small>(with Charlie Farley)</small>
+|
+|-
+| "Lights On"
+|
+| rowspan="5" | ''The Grind''
+|-
+| "Redneck Country Song" <small>(with [[Bucky Covington]])</small>
+|
+|-
+| rowspan="3"| 2015
+| "Duramax" <small>(with Young Gunner)</small>
+|
+|-
+| "54's"
+|
+|-
+| "She's So Country"
+|
+|-
+| 2016
+| "Keep It So Country" <small>(with Young Gunner)</small>
+|
+| rowspan="3" | ''Dirtified''
+|-
+| rowspan="2"| 2017
+| "Dirty Girl"
+|
+|-
+| "Dirtified"
+|
+|-
+| 2018
+| "Still the King"
+|
+| rowspan="3" | ''Still the King''
+|-
+| 2019
+| "Mud Fly" <small>(with Beastmode)</small>
+|
+|-
+| 2020
+| "Go Head" <small>(with Long Cut)</small>
+|
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:22em;"| Video
+! Director
+|-
+| 2011
+! scope="row"| "Big Tires"
+| David Poag
+|-
+| rowspan="3"| 2013
+! scope="row"| "Mud Dynasty"<ref>{{cite web|url=http://www.cmt.com/videos/lenny-cooper/999719/mud-dynasty.jhtml|archive-url=https://web.archive.org/web/20140905052539/http://www.cmt.com/videos/lenny-cooper/999719/mud-dynasty.jhtml|url-status=dead|archive-date=September 5, 2014|title=CMT : Videos : Lenny Cooper : Mud Dynasty|publisher=[[Country Music Television]]|accessdate=September 4, 2014}}</ref>
+| Shannon Houchins
+|-
+! scope="row"| "Rodeo"<ref>{{cite web|url=http://www.cmt.com/videos/lenny-cooper/999718/rodeo.jhtml|archive-url=https://web.archive.org/web/20140905052328/http://www.cmt.com/videos/lenny-cooper/999718/rodeo.jhtml|url-status=dead|archive-date=September 5, 2014|title=CMT : Videos : Lenny Cooper : Rodeo|publisher=[[Country Music Television]]|accessdate=September 4, 2014}}</ref>
+| Paul Cain
+|-
+! scope="row"| "Country Folks Anthem" <small>(with Charlie Farley)</small>
+| 
+|-
+| rowspan="2"| 2014
+! scope="row"| "Lights On"
+| Paul Cain
+|-
+! scope="row"| "She's So Country"
+| Gregory R. Alosio
+|-
+| rowspan="3"| 2015
+! scope="row"| "Duramax" <small>(with Young Gunner)</small>
+| 
+|-
+! scope="row"| "Redneck Country Song" <small>(with [[Bucky Covington]])</small>
+| 
+|-
+! scope="row"| "Outback (Extended Remix)" <small>(with [[Moonshine Bandits]], [[The Lacs]], D. Thrash, Redneck Souljers, [[Bubba Sparxxx]], Durwood Black, Demun Jones & Moccasin Creek)</small>
+|
+|-
+| 2016
+! scope="row"| "Keep It So Country" <small>(with Young Gunner)</small>
+| Michael Monaco
+|-
+| rowspan="2"| 2017
+! scope="row"| "Dirty Girl"
+|
+|-
+! scope="row"| "Dirtified"
+|
+|-
+| 2018
+! scope="row"| "Still The King"
+|
+|-
+| 2019
+! scope="row"| "Mud Fly" <small>(with Beastmode)</small>
+| [[Stephano Barberis]]
+|-
+| 2020
+! scope="row"| "Go Head" <small>(with Long Cut)</small>
+| Roger Pistole
+|-
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{official website|http://www.lennycoopermusic.com/}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Cooper, Lenny}}
+[[Category:1988 births]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Average Joes Entertainment artists]]
+[[Category:Country musicians from North Carolina]]
+[[Category:Country rap musicians]]
+[[Category:Living people]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:21st-century American male singers]]
+[[Category:Singer-songwriters from North Carolina]]

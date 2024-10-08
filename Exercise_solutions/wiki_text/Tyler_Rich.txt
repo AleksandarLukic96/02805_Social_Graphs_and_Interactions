@@ -1,0 +1,176 @@
+{{short description|American country music singer (born 1986)}}
+{{Infobox musical artist
+| name            = Tyler Rich
+| image           =
+| image_size      =
+| image_upright   =
+| landscape       = <!-- yes, if wide image, otherwise leave blank -->
+| alt             =
+| caption         =
+| birth_name      = Tyler Weinrich
+| birth_date      = {{birth date and age|1986|2|24}}<ref name="allmusic"/>
+| birth_place     = [[Yuba City, California]]
+| origin          = [[Nashville, Tennessee]]
+| genre           = [[Country music|Country]]
+| years_active    = 2014-present
+| label           = [[Big Machine Records|Valory]]
+| associated_acts =
+| website         = 
+}}
+'''Tyler Rich''' (born February 24, 1986) is an American [[country music]] singer. He was born Tyler Weinrich in [[Yuba City, California]] and began listening to country music at age eight. Rich began learning to play guitar at age 14 and, after graduating college, moved to [[Los Angeles, California]]. He self-released the single "Radio" in 2014. He also self-released a four-song extended play. After moving to [[Nashville, Tennessee]], he was signed by [[Big Machine Records]] imprint Valory Music Group. The label issued his single "The Difference" in 2018.<ref name="allmusic">{{cite web | url=https://www.allmusic.com/artist/tyler-rich-mn0003716382/biography | title=Tyler Rich biography | work=Allmusic | accessdate=22 October 2018}}</ref> "The Difference" has charted on [[Hot Country Songs]] and [[Country Airplay]] and was certified Platinum by [[Music Canada]] and Gold in the U.S. by [[RIAA]]. The song, written by [[Rhett Akins]], [[Devin Dawson]], Benjamin Burgess, and Jacob Durrett, was inspired by Rich's wife (then fiancée), [[Sabina Gadecki|Sabina Rich (Gadeki)]].<ref>{{cite web | url=http://tasteofcountry.com/tyler-rich-the-difference/ | title=Tyler Rich Wants to Be 'The Difference' In His Love's Life on Debut Single [Listen] | work=Taste of Country | date=22 September 2018 | accessdate=22 October 2018}}</ref> Rich began touring with [[Brett Young (singer)|Brett Young]] in late 2018.<ref>{{cite web | url=https://people.com/country/tyler-rich-the-difference-what-to-know/ | title=From Red Robin to Hitting No. 1: What to Know About 'The Difference' Singer Tyler Rich | work=People | accessdate=22 October 2018}}</ref>
+
+Tyler Rich's debut album "Two Thousand Miles" was released on September 4, 2020.  Tyler has amassed nearly half a billion global streams to date and notched three No. 1 hits on SiriusXM's The Highway with his debut album TWO THOUSAND MILES ([[Big Machine Records|The Valory Music Co.]]), featuring GOLD-certified “The Difference” plus subsequent releases “Better Than You’re Used To,” “A Little Bit of You” and “Trucks Don’t Lie.” In 2022, Tyler joined forces with one of Canada's most successful bilingual singer-songwriters, [[Marie-Mai]] for a duet on “Thinkin’ We’re In Love” in both English and French.<ref>{{Cite web |title=About |url=https://www.tylerrich.com/about/ |access-date=2023-09-16 |website=Tyler Rich |language=en-US}}</ref>
+
+==Discography==
+
+=== Albums ===
+{| class="wikitable"
+|+
+!Year
+!Album
+|-
+|2020
+|''Two Thousand Miles''
+* Released: September 4, 2020
+* Label: Valory
+|}
+
+===Extended plays===
+{| class="wikitable"
+|-
+! Year
+! Album
+|-
+| 2015
+| ''Valerie''
+* Released: August 11, 2015
+* Label: self-released
+* Formats: [[Compact disc|CD]], [[Music download|digital download]], [[Streaming media|streaming]]
+|-
+| 2018
+| ''Tyler Rich EP''
+* Released: September 21, 2018
+* Label: [[Big Machine Records|Valory]]
+* Formats: [[Compact disc|CD]], [[Music download|digital download]], [[Streaming media|streaming]]
+|-
+|2020
+|''Live at Home''
+* Released: July 31, 2020
+* Label: [[Big Machine Records|Valory]]
+* Formats: [[Compact disc|CD]], [[Music download|digital download]], [[Streaming media|streaming]]
+|-
+|2023
+|''I Know You Do''
+* Released: March 31, 2023
+* Label: [[Big Machine Records|Valory]]
+* Formats: [[Compact disc|CD]], [[Music download|digital download]], [[Streaming media|streaming]]
+|-
+|2023
+|''Unplugged In Nashville''
+* Released: May 19, 2023
+* Label: Valory
+* Formats: [[Compact disc|CD]], [[Music download|digital download]], [[Streaming media|streaming]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:22em;"| Single
+! colspan="4" | Peak chart<br />positions
+! rowspan="2"| Album/EP
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<br /><ref name="BCU">{{cite magazine | url=https://bulletins.billboard.com/country/country_update_0122.pdf | title=Billboard Country Update: January 22, 2019 | magazine=Billboard | accessdate=January 23, 2019}}</ref>
+! width="45"| [[Country Airplay|US Country Airplay]]<br /><ref>{{cite magazine | url=https://bulletins.billboard.com/country/country_update_0211.pdf | title=Billboard Country Update: February 11, 2019 | magazine=Billboard | accessdate=February 12, 2019}}</ref>
+![[The Highway (Sirius XM)|Sirius XM]] 
+[[The Highway (Sirius XM)|"The Highway"]]
+!Top 100 
+BDS Palmares
+
+Quebec, CAN
+|-
+| 2014
+! scope="row"| "Radio"
+| —
+| —
+| -
+| -
+|Valerie
+|-
+| 2018
+! scope="row"| "The Difference"
+| 30
+| 19
+|1<ref name=":0">{{Cite web |last=Taylor |first=Kristi |date=2022-03-03 |title=TYLER RICH COMMEMORATES THREE SIRIUSXM NO. 1 HITS |url=https://www.bigmachinelabelgroup.com/tyler-rich-commemorates-three-siriusxm-no-1-hits/ |access-date=2023-09-16 |website=Big Machine Label Group |language=en-US}}</ref>
+| -
+| Two Thousand Miles
+|-
+| 2019
+! scope="row"| "Leave Her Wild"
+| —
+| —
+|1<ref name=":0" />
+| -
+|Two Thousand Miles
+|-
+| 2021
+! scope="row"| "Bottom Of This Bottle"<br/><span style="font-size:85%;">(with [[Anna Bergendahl]])</span><ref>{{cite web|url=https://music.apple.com/au/album/grain-of-trust-single/1578273820|title=Bottom Of This Bottle - Single av Anna Bergendahl Tyler Rich|website=[[Apple Music]]|date=September 17, 2021|access-date=September 17, 2021}}</ref>
+| —
+| —
+| -
+| -| -
+|-
+|2021
+!Better Than You're Used To
+| -
+| --
+|1<ref name=":0" />
+| -
+|Better Than You're Used To
+|-
+|2022
+!Thinking We're In Love ft. [[Marie-Mai]]
+| -
+| -
+| -
+|5
+|Thinking We're In Love
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! Year
+! Video
+! Director
+|-
+| 2018
+| "The Difference"
+| Mason Dixon
+|-
+|2020
+|"Feels Like Home"
+|Aaron Eisenberg
+|}
+
+==Certifications and Sales==
+{{Certification Table Top}}
+{{Certification Table Entry|region=United States|artist=Tyler Rich|certyear=2020|title=The Difference|type=single|award=Gold}}{{Certification Table Entry|region=Canada|title=The Difference|artist=Tyler Rich|type=single|award=Platinum|certyear=2019|refname=MC}}
+{{Certification Table Bottom|nosales=yes|noshipments=yes|streaming=yes}}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Rich, Tyler}}
+[[Category:1986 births]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Big Machine Records artists]]
+[[Category:Country musicians from California]]
+[[Category:People from Yuba City, California]]
+[[Category:Living people]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:21st-century American male singers]]
+[[Category:Singer-songwriters from California]]

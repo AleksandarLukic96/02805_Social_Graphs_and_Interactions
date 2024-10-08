@@ -1,0 +1,89 @@
+{{Use mdy dates|date=September 2020}}
+{{BLP sources|date=January 2019}}
+
+{{Infobox musical artist
+|image= |  <!-- See Wikipedia:WikiProject Musicians -->
+|name                = Luke Stricklin
+|image_size            = <!-- Only for images narrower than 220 pixels -->
+|background          = solo_singer
+|birth_name          = 
+| birth_place  =
+| birth_date   ={{Birth date and age|1982|12|21|mf=y}}<ref name="whitburn"/> 
+|origin              = [[Arkadelphia, Arkansas]]<ref name="whitburn"/>
+|instrument          = vocals
+|genre               = [[country music|Country]]
+|occupation          = Singer-songwriter
+|years_active        = 2005–present
+|label               = Pacific-Time Records
+|associated_acts     = 
+|website                 = [http://www.LukeStricklin.com Luke Stricklin]
+}}
+'''Luke Stricklin''' (born December 21, 1982) is an American [[country music]] singer and songwriter. He is from [[Arkadelphia]], [[Arkansas]]. He has a single "American by God's Amazing Grace," which he originally wrote and recorded in [[Baghdad]], [[Iraq]] with '''J.R. Schultz'''. It tells of their experiences fighting in the [[Iraq War]].<ref>{{cite web|url=https://www.allmusic.com/album/american-by-gods-amazing-grace-mw0000397047|title=American by God's Amazing Grace – Luke Stricklin – Songs, Reviews, Credits|website=AllMusic|accessdate=January 7, 2019|archive-url=https://web.archive.org/web/20170323115942/http://www.allmusic.com/album/american-by-gods-amazing-grace-mw0000397047|archive-date=March 23, 2017|url-status=live}}</ref> Stricklin signed with Pacific-Time Records. Luke is a 2001 graduate from Van Buren High School, and attended Arkadelphia Public Schools until his senior year, when his mother, Sheila Harrington and step-father, Patrick Harrington, moved to Van Buren. Luke currently resides in Rudy, [[Arkansas]] with his wife, '''Tommie Sue Stricklin''' (born March 10, 1990) and daughter.
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:18em;"| Title
+! rowspan="2" style="width:20em;"| Album details
+! colspan="1"| Peak positions
+|- style="font-size:smaller;"
+! width="60"| [[Top Country Albums|US Country]]
+|- 
+! scope="row"| ''American by God's Amazing Grace''
+| 
+* Release date: September 27, 2005
+* Label: Pacific-Time Records
+| 64
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="60"| [[Hot Country Songs|US Country]]<br /><ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=409|isbn=978-0-89820-177-2}}</ref>
+|-
+| 2005
+! scope="row"| "American by God's Amazing Grace"
+| 50
+| align="left" rowspan="2"| ''American by God's Amazing Grace''
+|-
+| 2006
+! scope="row"| "Does That Make Me Bad"
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:18em;"| Video
+|-
+| 2005
+! scope="row"| "American by God's Amazing Grace"
+|}
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Stricklin, Luke}}
+[[Category:1982 births]]
+[[Category:Living people]]
+[[Category:People from Van Buren, Arkansas]]
+[[Category:United States Army soldiers]]
+[[Category:United States Army personnel of the Iraq War]]
+[[Category:American country singer-songwriters]]
+[[Category:People from Arkadelphia, Arkansas]]
+[[Category:Singer-songwriters from Arkansas]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:Country musicians from Arkansas]]
+
+
+{{US-country-singer-stub}}

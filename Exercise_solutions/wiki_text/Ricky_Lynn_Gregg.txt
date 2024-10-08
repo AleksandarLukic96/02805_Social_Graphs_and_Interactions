@@ -1,0 +1,198 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist
+| name                = Ricky Lynn Gregg
+| background          = solo_singer
+| Img                 = 
+| birth_date          = {{Birth date and age|1959|8|22}}
+| origin              = [[Henderson, Texas]], United States
+| instrument          = Vocals<br />Acoustic guitar<br />Electric guitar<br />Harmonica<br />Piano<ref name="allmusic"/>
+| genre               = [[country music|Country]]
+| occupation          = Singer-songwriter
+| years_active        = 1978–present
+| label               = [[Liberty Records|Liberty]]<br />Rowe Music Group
+| associated_acts     = 
+| website             = http://rickylynngregg.com
+}}
+'''Ricky Lynn Gregg''' (born August 22, 1959) is a [[country music]] artist of Native American descent.<ref name="oldies">{{cite web |url=http://www.oldies.com/artist-biography/Ricky-Lynn-Gregg.html |title=Ricky Lynn Gregg biography |accessdate=August 23, 2007 |work=Oldies.com}}</ref> Active between the years of 1992 and 2001, he has recorded three studio albums: two on [[Capitol Records Nashville|Capitol]]/[[Liberty Records]] (1992's ''Ricky Lynn Gregg'' and 1994's ''Get a Little Closer'') and one on Rowe Music Group (2001's ''Careful What You Wish For''). His first two albums produced three hit singles on the ''[[Billboard (magazine)|Billboard]]'' country music charts, including the No.&nbsp;36-peaking "If I Had a Cheatin' Heart".
+
+==Musical career==
+Ricky Lynn Gregg was raised in [[Longview, Texas|Longview]], Texas, and began singing in the church at a very early age. His earliest influences were gospel and country. As a teenager in school Gregg was influenced by rock & roll and formed the "Ricky Lynn Gregg Project" playing in local venues around his hometown. In 1978 Gregg moved to [[Ft Worth]], Texas and began performing as guitarist and singer for a band known as "Savvy" with their debut album "Made In Texas" being released in 1982.<ref name="eagleaudiorecording">{{cite web |url=http://www.eagleaudiorecording.com/savvyalbum.html |title=Savvy's New Album Release |accessdate=April 5, 2015 |date=April 4, 1982 |work=eagleaudiorecording.com}}</ref> Gregg was also a member of [[Head East]] between 1984 and 1987. By 1992, Gregg was performing as a solo singer; the same year, he signed to [[Liberty Records]] and released his self titled debut album.<ref name="allmusic">{{cite web |url={{AllMusic|class=artist|id=p39168|pure_url=yes}} |title=allmusic ((( Ricky Lynn Gregg > Biography ))) |accessdate=August 23, 2007 |last=Seida |first=Linda |work=[[Allmusic]]}}</ref> The album produced a No.&nbsp;34 single in "If I Had a Cheatin' Heart", a cover of a [[Mel Street]] song.<ref name="allmusic"/><ref name="oldies"/> Following it were "Can You Feel It" and "Three Nickels and a Dime". In 1993, ''[[Billboard (magazine)|Billboard]]'' ranked him at No.&nbsp;4 on their list of Top New Country Artists of the Year.<ref name="allmusic"/>
+
+A second album, titled ''Get a Little Closer'', was released on Liberty in 1994, with its title track being the only single. One year later, Gregg's manager, [[Jimmy Bowen]], retired due to thyroid cancer. In 1997, Gregg found another manager, named Eddie Rhines, who helped the singer rebuild his fan base.<ref name="allmusic"/> By 2001, his third album, titled ''Careful What You Wish For'', was released on the then-newly established independent label Rowe Music Group (RMG).<ref name="allmusic"/>
+
+Gregg has also begun a charity called Trail of Hope, which provides clothing for underprivileged [[Cherokee]], [[Choctaw]] and [[Sioux]] Indians.<ref name="allmusic"/>
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:16em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="3"| Peak chart positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]
+! width="45"| [[Billboard 200|US]]
+! width="45"| [[Top Heatseekers|US Heat]]
+|-
+! scope="row"| ''Ricky Lynn Gregg''
+| 
+* Release date: April 20, 1992
+* Label: [[Liberty Records]]
+| 37
+| 190
+| 9
+|-
+! scope="row"| ''Get a Little Closer''
+| 
+* Release date: July 26, 1994
+* Label: Liberty Records
+| —
+| —
+| —
+|-
+! scope="row"| ''Careful What You Wish For''
+| 
+* Release date: April 17, 2001
+* Label: Row Music Group
+| —
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! colspan="3"| Peak chart positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[Bubbling Under Hot 100|US Bubbling]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="3"| 1993
+! scope="row"| "If I Had a Cheatin' Heart"
+| 36
+| 9
+| 42
+| align="left" rowspan="4"| ''Ricky Lynn Gregg''
+|-
+! scope="row"| "Can You Feel It"
+| 58
+| —
+| 79
+|-
+! scope="row"| "Three Nickels and a Dime"
+| —
+| —
+| —
+|-
+| rowspan="3"| 1994
+! scope="row"| "No Place Left to Go"
+| —
+| —
+| —
+|-
+! scope="row"| "Get a Little Closer"
+| 73
+| —
+| —
+| align="left" rowspan="3"| ''Get a Little Closer''
+|-
+! scope="row"| "[[After the Fire Is Gone]]"
+| —
+| —
+| —
+|-
+| rowspan="2"| 1995
+! scope="row"| "To Find Where I Belong"
+| —
+| —
+| —
+|-
+! scope="row"| "[[Santa Claus is Coming to Town]]"
+| —
+| —
+| —
+| align="left"| single only
+|-
+| 2001
+! scope="row"| "Be Careful What You Wish For"
+| —
+| —
+| —
+| align="left" rowspan="2"| ''Careful What You Wish For''
+|-
+| 2002
+! scope="row"| "I Wanna Be Loved by You"
+| —
+| —
+| —
+|-
+| colspan="6" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:18em;"| Video
+! Director
+|-
+| rowspan="3"| 1993
+! scope="row"| "If I Had a Cheatin' Heart"
+| Marc Ball
+|-
+! scope="row"| "Can You Feel It"
+| Steve Boyle
+|-
+! scope="row"| "Three Nickels and a Dime"
+|-
+| rowspan="2"| 1994
+! scope="row"| "Get a Little Closer"<ref>{{cite web|url=http://www.cmt.com/videos/ricky-lynn-gregg/384583/get-a-little-closer.jhtml|title=CMT : Videos : Ricky Lynn Gregg : Get A Little Closer|publisher=[[Country Music Television]]|accessdate=October 14, 2011}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+| rowspan="2"| Michael Merriman
+|-
+! scope="row"| "After the Fire Is Gone"
+|-
+| 1995
+! scope="row"| "To Find Where I Belong"
+|-
+| 2001
+! scope="row"| "Be Careful What You Wish For"
+| Tom Bevins
+|-
+| 2002
+! scope="row"| "I Wanna Be Loved by You"
+| Peter Lippman
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.rickylynngregg.com/ Official website]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gregg, Ricky Lynn}}
+[[Category:1959 births]]
+[[Category:American country bass guitarists]]
+[[Category:American male bass guitarists]]
+[[Category:American country singer-songwriters]]
+[[Category:Living people]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:American country harmonica players]]
+[[Category:Liberty Records artists]]
+[[Category:Guitarists from Texas]]
+[[Category:People from Henderson, Texas]]
+[[Category:20th-century American bass guitarists]]
+[[Category:Country musicians from Texas]]
+[[Category:20th-century American male musicians]]
+[[Category:American male singer-songwriters]]

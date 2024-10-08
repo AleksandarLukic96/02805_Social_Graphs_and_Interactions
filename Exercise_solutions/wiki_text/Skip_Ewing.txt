@@ -1,0 +1,322 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=September 2020}}
+{{BLP sources|date=April 2020}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name             = Skip Ewing
+| image            =
+| caption          = 
+| background       = solo_singer
+| birth_name       = Donald Ralph Ewing
+| birth_date       = {{birth date and age|1964|03|06}}
+| origin           = [[Redlands, California]], United States
+| instrument       = Vocals, guitar, [[banjo]], piano
+| genre            = [[country music|Country]]
+| occupation       = Singer-songwriter
+| years_active     = 1988–present
+| label            = [[MCA Records|MCA]]<br />[[Capitol Records|Capitol]]<br />[[Word Records|Word]]<br />Write!
+| website          = {{url|skipewing.com/}}
+}}
+
+'''Donald Ralph "Skip" Ewing''' (born March 6, 1964) is an American [[country music]] singer and songwriter. Active since 1988, Ewing has recorded nine studio albums and has charted 15 singles on the ''[[Billboard (magazine)|Billboard]]'' country charts.
+
+==Career==
+Ewing was born in [[Redlands, California]], United States. He first began to gain national attention during the mid-1980s, both as a songwriter and recording artist for [[MCA Records|MCA]] and [[Capitol Records]]. His 1988 debut, ''The Coast of Colorado'', produced the number 3 hit "[[Burnin' a Hole in My Heart]]" and four other top 20 country hits. ''The Will to Love'' included the top 5 hit "It's You Again". Although none of Ewing's subsequent chart entries made the Top 40, he released eight more albums from 1990 to 2009.<ref>{{cite web|url=http://www.allmusic.com/artist/skip-ewing-mn0000015072|title=Skip Ewing biography|last=Huey|first=Steve|work=Allmusic|access-date=February 11, 2013}}</ref>
+
+Ewing is a notable attendee of [[Columbine High School]] in [[Jefferson County, Colorado|Jefferson County]], Colorado, and [[Redlands High School]] in [[Redlands, California]].
+
+In 1990, Ewing wrote two songs for [[Kenny Rogers]]' album ''[[Love Is Strange (album)|Love Is Strange]]'': "Listen to the Rain" and "If I Were a Painting".
+
+In 2008, he served as the duet partner of the radio version of [[Reba McEntire]]'s single, "Every Other Weekend". He also co-wrote the single; the song reached the Top 20 on the Billboard Country Chart. Although the song was credited for one week to Ewing and [[Kenny Chesney]] as ""Every Other Weekend" by Reba McEntire and Skip Ewing or Kenny Chesney", the song was thereafter credited to McEntire alone on the chart.
+
+== Awards ==
+* [[Broadcast Music Incorporated]] (BMI) Songwriter of the Year 2000;
+* Nashville Songwriters Association International (NSAI) Song of the Year;
+* [[Country Music Association]] (CMA) Triple Play Award (three No.&nbsp;1 songs within 12 months).
+
+Additionally, Ewing has received a CMA Song of the Year nomination, a Grammy nomination, a Tony nomination and multiple BMI "Million Air" awards.
+
+== Horse and Writer ==
+Horse and Writer is an annual songwriting retreat Skip Ewing organizes every year with members of the [[Nashville]] songwriting community. The retreat lasts six days, and takes place at the Triangle C Ranch in [[Dubois, Wyoming]]. The mission is to help aspiring songwriters realize their potential, as they are mentored by experienced pros like Ewing, who describes the event as "a labor of love."
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:18em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! Peak<br>positions
+|-
+! style="width:4em;font-size:90%;"|[[Top Country Albums|US Country]]
+|-
+! scope="row"| ''[[The Coast of Colorado]]''
+|
+*Release date: April 4, 1988
+*Label: [[MCA Records]]
+| 29
+|-
+! scope="row"| ''[[The Will to Love]]''
+|
+*Release date: September 19, 1989
+*Label: MCA Records
+| 44
+|-
+! scope="row"| ''A Healin' Fire''
+|
+*Release date: July 24, 1990
+*Label: MCA Records
+| —
+|-
+! scope="row"| ''Following Yonder Star''
+|
+*Release date: October 2, 1990
+*Label: MCA Records
+| —
+|-
+! scope="row"| ''Naturally''
+|
+*Release date: July 2, 1991
+*Label: [[Capitol Records Nashville|Capitol Nashville]]
+| —
+|-
+! scope="row"| ''Homegrown Love''
+|
+*Release date: March 23, 1993
+*Label: [[Liberty Records]]
+| —
+|-
+! scope="row"| ''Until I Found You''
+|
+*Release date: April 29, 1997
+*Label: [[Word Records]]
+| —
+|-
+! scope="row"| ''Indian Elephant Tea''<br>{{small|(The Big Kidz Band featuring Skip Ewing)}}
+|
+*Release date: July 31, 2001
+*Label: Write! Records
+| —
+|-
+! scope="row"| ''Wyoming''
+|
+*Release date: August 21, 2020
+*Label: Write! Records
+| —
+|-
+| colspan="3" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Compilation albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:18em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''Greatest Hits''
+|
+*Release date: August 13, 1991
+*Label: MCA Records
+|-
+! scope="row"| ''Hits Volume One''
+|
+*Release date: December 10, 2009
+*Label: Write! Records
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! colspan="2"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<br /><ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc.|year=2008|isbn=978-0-89820-177-2}}</ref>
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="3"| 1988
+! scope="row"| "[[Your Memory Wins Again]]"
+| 17
+| —
+| align="left" rowspan="5"| ''The Coast of Colorado''
+|-
+! scope="row"| "[[I Don't Have Far to Fall]]"
+| 8
+| —
+|-
+! scope="row"| "[[Burnin' a Hole in My Heart]]"
+| 3
+| 5
+|-
+| rowspan="3"| 1989
+! scope="row"| "[[The Gospel According to Luke (song)|The Gospel According to Luke]]"
+| 10
+| 11
+|-
+! scope="row"| "[[The Coast of Colorado (song)|The Coast of Colorado]]"
+| 15
+| 24
+|-
+! scope="row"| "[[It's You Again (Skip Ewing song)|It's You Again]]"
+| 5
+| 9
+| align="left" rowspan="2"| ''The Will to Love''
+|-
+| rowspan="3"| 1990
+! scope="row"| "If a Man Could Live on Love Alone"
+| 70
+| —
+|-
+! scope="row"| "I'm Your Man"
+| 69
+| 77
+| align="left" rowspan="2"| ''A Healin' Fire''
+|-
+! scope="row"| "The Dotted Line"
+| —
+| 80
+|-
+| 1991
+! scope="row"| "I Get the Picture"
+| 73
+| —
+| align="left" rowspan="2"| ''Naturally''
+|-
+| 1992
+! scope="row"| "Naturally"
+| 71
+| 84
+|-
+| rowspan="2"| 1993
+! scope="row"| "Losing You Is New to Me"
+| —
+| 78
+| align="left" rowspan="2"| ''Homegrown Love''
+|-
+! scope="row"| "Grandma's Garden"
+| —
+| 84
+|-
+| 1995
+! scope="row"| "Christmas Carol"{{efn|"Christmas Carol" also peaked on Hot Country Songs at number 60 in 1998 and number 44 in 2000.<ref name="whitburn"/>}}
+| 68
+| —
+| align="left"| ''Following Yonder Star''
+|-
+| rowspan="2"| 1997
+! scope="row"| "Mary Go 'Round"
+| 58
+| —
+| align="left" rowspan="2"| ''Until I Found You''
+|-
+! scope="row"| "Answer to My Prayer"
+| 66
+| —
+|-
+| 2023
+! scope="row"| "Knots"<ref>{{cite web | url=https://www.countryschatter.com/2023/06/skip-ewing-releases-knots-friday-june-16/ | title=Skip Ewing Releases "Knots", Friday, June 16 | date=June 19, 2023 }}</ref>
+| —
+| —
+| align="left" {{tba}}
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+====As a featured artist====
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! colspan="2"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<br><ref name="whitburn"/>
+! width="45"| [[Bubbling Under Hot 100 Singles|US Bubbling]]<br><ref name="whitburn"/>
+|-
+| 2008
+! scope="row"| "[[Every Other Weekend]]"<br>{{small|([[Reba McEntire]] with Skip Ewing)}}{{efn|The radio edit of "Every Other Weekend" featured Skip Ewing as a duet partner, while the version on McEntire's ''Reba: Duets'' album  features [[Kenny Chesney]]. The song was only credited to Ewing for one week, at which point it had reached No. 57 on Hot Country Songs.}}
+| 15
+| 4
+| align="left"| ''[[Reba: Duets]]''
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! Year
+! style="width:18em;"| Video
+! Director
+|-
+| rowspan="2"| 1988
+! scope="row"| "Your Memory Wins Again"
+| align="left" rowspan="2"| Jim May
+|-
+! scope="row"| "I Don't Have Far to Fall"
+|-
+| 1990
+! scope="row"| "If a Man Could Live on Love Alone"
+| align="left"| [[John Lloyd Miller]]
+|-
+| 1993
+! scope="row"| "Losing You is New to Me"
+| 
+|-
+| rowspan="2"| 1997
+! scope="row"| "Mary Go 'Round"
+| 
+|-
+! scope="row"| "Answer to My Prayer"<ref>{{cite web|url=http://www.cmt.com/videos/skip-ewing/385271/answer-to-my-prayer.jhtml|archive-url=https://web.archive.org/web/20160305050605/http://www.cmt.com/videos/skip-ewing/385271/answer-to-my-prayer.jhtml|url-status=dead|archive-date=March 5, 2016|title=CMT : Videos : Skip Ewing : Answer To My Prayer|publisher=[[Country Music Television]]|access-date=October 14, 2011}}</ref>
+| align="left"| Chuck Shanlever
+|}
+
+== Awards and nominations ==
+===As a recording artist===
+{| class="wikitable"
+!Year
+!Organization
+!Award
+!Nominee/Work
+!Result
+|-
+|1989
+|[[Academy of Country Music Awards]]
+|[[Academy of Country Music Award for New Male Artist of the Year|Top New Male Vocalist]]
+|rowspan=3| Skip Ewing
+|{{nom}}
+|-
+|rowspan=2| 1990
+|[[American Music Awards]]
+|[[American Music Award for Favorite Country New Artist|Favorite Country New Artist]]
+|{{nom}}
+|-
+|TNN/Music City News Awards
+|Star of Tomorrow
+|{{nom}}
+|}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.skipewing.com/ Skip Ewing official website]
+
+{{Skip Ewing}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ewing, Skip}}
+[[Category:1964 births]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:MCA Records artists]]
+[[Category:Capitol Records artists]]
+[[Category:Word Records artists]]
+[[Category:Singer-songwriters from California]]
+[[Category:Columbine High School alumni]]
+[[Category:Living people]]
+[[Category:People from Redlands, California]]
+[[Category:Country musicians from California]]
+[[Category:Singer-songwriters from Colorado]]

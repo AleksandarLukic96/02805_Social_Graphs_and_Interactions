@@ -1,0 +1,264 @@
+{{short description|American musician (born 1957)}}
+{{distinguish|Gretchen Peters (journalist)}}
+{{BLP sources |date=March 2009}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject Musicians -->
+| name         = Gretchen Peters
+| image        = GretchenPeters SadSongsMakeMeHappy.jpg
+| image_size   = 250
+| landscape    = yes
+| background   = solo_singer
+| birth_name   = 
+| birth_date   = {{birth date and age|1957|11|14}}
+| birth_place  = [[Bronxville, New York]], U.S.
+| genre        = {{flatlist|
+* [[Country folk]]
+* [[Americana (music)|Americana]]
+}}
+| occupation   = {{flatlist|
+* Singer
+* songwriter
+}}
+| instrument   = {{flatlist|
+* Guitar
+* piano
+* vocals
+}}
+| years_active = 1996–present
+| label        = {{flatlist|
+* [[Imprint Records|Imprint]]
+* Purple Crayon
+* Scarlet Letter
+}}
+| spouse       = {{marriage|Barry Walsh|2011}}
+| website      = {{URL|www.gretchenpeters.com}}
+}}
+'''Gretchen Peters''' is an American singer and songwriter. 
+
+==Early life==
+Peters was born in [[Bronxville, New York]] on November 14, 1957.  She wrote her first song with her sister at the age of 5. In 1970, her parents broke up, and Peters moved with her mother to [[Boulder, Colorado]]. 
+
+==Music career==
+In Boulder, she discovered a lively music scene, and began playing at local clubs. In 1988 she moved to [[Nashville, Tennessee|Nashville]], where she found work as a songwriter, composing hits for [[Martina McBride]], [[Etta James]], [[Trisha Yearwood]], [[Patty Loveless]], [[George Strait]], [[Anne Murray]], [[Shania Twain]], [[Neil Diamond]] and co-writing songs with [[Bryan Adams]].<ref>[https://www.allmusic.com/artist/gretchen-peters-mn0000197165/biography] Biography at Allmusic.com, Retrieved May 10, 2023.</ref><ref>{{YouTube|3ke4uGjK2dU}}</ref> Some of Peters' notable compositions include "[[The Secret of Life (song)|The Secret of Life]]", "[[On a Bus to St. Cloud]]", "[[You Don't Even Know Who I Am]]" and "[[Independence Day (Martina McBride song)|Independence Day]]", for which she received the [[Country Music Association Award for Song of the Year]]. In addition, Peters has released fourteen studio albums of her own, beginning with 1996's ''[[The Secret of Life (album)|The Secret of Life]]''.
+
+As a writer, Peters' style is defined by melancholy lyrics and dark themes, such as murder, loneliness, PTSD, sexual abuse, domestic violence. She was inducted to the [[Nashville Songwriters Hall of Fame]] on October 5, 2014.<ref>[http://www.nashvillesongwritersfoundation.com/2014/nashville-songwriters-hall-of-fame-inducts-john-anderson,-paul-craft,-tom-douglas-and-gretchen-peters-nsai-presents-annual-awards.aspx ]  {{webarchive|url=https://web.archive.org/web/20141024070704/http://www.nashvillesongwritersfoundation.com/2014/nashville-songwriters-hall-of-fame-inducts-john-anderson%2C-paul-craft%2C-tom-douglas-and-gretchen-peters-nsai-presents-annual-awards.aspx |date=October 24, 2014 }}</ref> 
+
+On August 12, 2022, Peters announced her intention to retire from touring, playing her final shows in June 2023, though she will continue to write and record.<ref>{{cite web| publisher=Gretchen Peters| url=https://www.gretchenpeters.com/2022/08/an-announcement/ | title=News: An announcement | date=August 12, 2022| accessdate=August 8, 2024}}</ref>
+
+==Personal life==
+
+Peters is married to keyboardist and producer [[Barry Walsh]], her long-time performing partner, who has also performed with the reunified [[The Box Tops|Box Tops]].<ref>{{cite web| publisher=Gretchen Peters| title=Gretchen Peters| url=https://gretchenpeters.com/| accessdate=August 8, 2024}}</ref><ref>{{cite web| publisher=Barry Walsh| title=Bio - Silecio| date=2023| url=https://barrywalshmusic.com/bio| accessdate=August 8, 2024}}</ref>
+
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:18em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+!| Peak positions
+|- style="font-size:smaller;"
+! style="width:60px;"| [[UK Albums Chart|UK]]<br /><ref>{{cite web|url=http://www.officialcharts.com/artist/2331/gretchen-peters/|title=Gretchen Peters {{!}} full Official Chart history|publisher=[[Official Charts Company]]|access-date=26 May 2018}}</ref>
+|-
+! scope="row"| ''[[The Secret of Life (album)|The Secret of Life]]''
+| 
+* Release date: June 4, 1996
+* Label: [[Imprint Records]]
+| —
+|-
+! scope="row"| ''Gretchen Peters''
+| 
+* Release date: February 13, 2001
+* Label: Purple Crayon Records
+| —
+|-
+! scope="row"| ''Halcyon''
+| 
+* Release date: May 31, 2004
+* Label: Purple Crayon Records
+| —
+|-
+! scope="row"| ''Trio: Recorded Live''
+| 
+* Release date: March 28, 2006
+* Label: Purple Crayon Records
+| —
+|-
+! scope="row"| ''Burnt Toast & Offerings''
+| 
+* Release date: August 7, 2007
+* Label: Scarlet Letter Records
+| —
+|-
+! scope="row"| ''Northern Lights''
+| 
+* Release date: October 21, 2008
+* Label: Scarlet Letter Records
+| —
+|-
+! scope="row"| ''One to the Heart, One to the Head''<br /><small>(with [[Tom Russell]])</small>
+| 
+* Release date: February 1, 2009
+* Label: Scarlet Letter Records
+| —
+|-
+! scope="row"| ''Circus Girl: The Best Of''<br /><small>(single CD and 2-CD versions)</small>
+| 
+* Release date: May 12, 2009
+* Label: Scarlet Letter Records
+| —
+|-
+! scope="row"| ''Hello Cruel World''
+| 
+* Release date: January 31, 2012
+* Label: Scarlet Letter Records
+| 70
+|-
+! scope="row"| ''Woman on the Wheel: Live from the Hello Cruel World Tour 2012 <small>(Limited Edition Book/CD/DVD)</small>''
+| 
+* Release date: May 7, 2013
+* Label: Scarlet Letter Records
+| —
+|-
+! scope="row"| ''Blackbirds''
+| 
+* Release date: February 10, 2015
+* Label: Scarlet Letter Records
+| 39
+|-
+! scope="row"| ''Dancing with the Beast''
+| 
+* Release date: May 18, 2018
+* Label: Scarlet Letter Records
+| 87
+|-
+! scope="row"| ''The Night You Wrote That Song''
+| 
+* Release date: May 15, 2020
+* Label: Scarlet Letter Records
+| 
+|-
+! scope="row"| ''The Show: Live from the UK''
+| 
+* Release date: August 19, 2022
+* Label: Scarlet Letter Records
+| 
+|-
+| colspan="3" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:12em;"| Single
+!| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! style="width:60px;"| [[Hot Country Songs|US Country]]
+|-
+| rowspan="2"| 1996
+! scope="row"| "When You Are Old"
+| 68
+| rowspan="2" style="text-align:left;"| ''The Secret of Life''
+|-
+! scope="row"| "I Ain't Never Satisfied"<ref>{{cite magazine|url=http://americanradiohistory.com/Archive-Billboard/90s/1996/BB-1996-06-15.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|date=June 15, 1996}}</ref>
+| —
+|-
+| 2012
+! scope="row"| "Hello Cruel World"
+| —
+| style="text-align:left;"| ''Hello Cruel World''
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Guest singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:12em;"| Single
+! rowspan="2"| Artist
+!| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! style="width:60px;"| [[Hot Country Songs|US Country]]
+|-
+| 1999
+! scope="row"| "New Year's Eve 1999"
+| [[Alabama (American band)|Alabama]]
+| 55
+| {{n/a}}
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;"| Video
+! Director
+|-
+| 1996
+! scope="row"| "When You Are Old"<ref>{{cite web|url=http://www.cmt.com/videos/gretchen-peters/384996/when-you-are-old.jhtml|archive-url=https://web.archive.org/web/20160112123846/http://www.cmt.com/videos/gretchen-peters/384996/when-you-are-old.jhtml|url-status=dead|archive-date=January 12, 2016|title=CMT : Videos : Gretchen Peters : When You Are Old|publisher=[[Country Music Television]]|access-date=October 14, 2011}}</ref>
+| Bud Schaetzle
+|-
+|2012
+|"The Matador"
+|Bud Schaetzle
+|-
+| 2015
+! scope="row"| "Blackbirds"
+| Eric Power
+|-
+| 2018
+! scope="row"| "Arguing With Ghosts"
+| Joshua Britt & Neilson Hubbard/Neighborhoods Apart
+|}
+
+==Awards and nominations==
+{{BLP unsourced section|date=May 2017}}
+{| class="wikitable"
+|-
+! Year !! Association !! Category !! Nominated Work !! Result
+|-
+| 1995 || [[Country Music Association Awards|Country Music Association]] || [[Country Music Association Award for Song of the Year|Song of the Year]] || rowspan=2|"[[Independence Day (Martina McBride song)|Independence Day]]" || {{Won}}
+|-
+| 1995 || [[37th Annual Grammy Awards|Grammy Awards]] || rowspan=2| [[Grammy Award for Best Country Song|Best Country Song]] || {{Nom}}
+|-
+| 1996 || [[38th Annual Grammy Awards|Grammy Awards]] || rowspan=2| "[[You Don't Even Know Who I Am]]" || {{Nom}}
+|-
+| 1996 || [[Academy of Country Music Awards|Academy of Country Music]] || Song of the Year || {{Nom}}
+|-
+| 2002 || [[60th Golden Globe Awards|Golden Globes]] || [[Golden Globe Award for Best Original Song|Best Original Song]] || "[[Here I Am (Bryan Adams song)|Here I Am]]" || {{Nom}}
+|-
+| 2016 || UK Americana Association || International Album of the Year || ''Blackbirds'' || {{Won}}
+|-
+| 2016 || UK Americana Association || International Artist of the Year || Gretchen Peters || {{Nom}}
+|-
+| 2016 || UK Americana Association || International Song of the Year <small>(shared with Ben Glover)</small>|| "Blackbirds" || {{Won}}
+|-
+| 2021 || [[Academy of Country Music Awards|Academy of Country Music]] || Poet's Award || Gretchen Peters || {{Won}}
+|}
+
+{{commons category}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.gretchenpeters.com Official Web Site]
+*{{IMDb name|0676458}}
+
+{{CMA for Song of the Year}}
+{{Authority control}}
+
+{{DEFAULTSORT:Peters, Gretchen}}
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:American people of Dutch descent]]
+[[Category:Living people]]
+[[Category:1957 births]]
+[[Category:People from Bronxville, New York]]
+[[Category:Imprint Records artists]]
+[[Category:Country musicians from New York (state)]]
+[[Category:21st-century American women]]
+[[Category:Singer-songwriters from New York (state)]]

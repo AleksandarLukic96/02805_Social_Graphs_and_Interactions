@@ -1,0 +1,198 @@
+{{short description|American country music singer-songwriter (born 1957)}}
+{{Use mdy dates|date=October 2020}}
+{{Infobox musical artist
+| name              = Tim Malchak
+| image             = 
+| image_size        = 
+| background        = solo_singer
+| birth_name        = 
+| alias             = 
+| birth_date        = {{birth date and age|1957|06|25}}
+| origin            = [[Binghamton, New York]], U.S.
+| instrument        = Vocals, guitar
+| genre             = [[Country music|Country]], [[Christian music|Christian]]
+| occupation        = Singer-songwriter
+| years_active      = 1982–present
+| label             = Revolver, Alpine, [[Universal Records (1988 record label)|Universal]], Full House, River Road, Parable
+| associated_acts   = 
+| website           = {{url|malchak.com}}
+}}
+
+'''Tim Malchak''' (born June 25, 1957 in [[Binghamton, New York]]) is an American [[country music]] singer-songwriter. He partnered with Dwight Rucker in 1982 to form the country music duo Malchak & Rucker. Together, they became the first black/white duo in country music history with a single, "Just Like That" to chart. It debuted on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles & Tracks]] chart in 1984.
+
+When the duo disbanded in 1986, Malchak launched a solo career. Alpine Records released his debut album, ''Colorado Moon'', in 1987 and its title track became his first Top 40 single. His second Top 40 single, the self-penned, "Restless Angel" followed as part of his next album, ''American Man''. 
+
+It was released in 1988. The album's second single, "It Goes Without Saying," was his highest-charting single on the ''[[Billboard (magazine)|Billboard]]'' Hot Country Singles & Tracks chart, peaking at No.&nbsp;35. Malchak then signed with [[Jimmy Bowen]]'s [[Universal Music Group|Universal Records]] for the release of his third album, ''Different Circles''. In 1989, Malchak was slated to be a nominee for the [[Academy of Country Music Award for New Male Artist of the Year]], but he didn't make the final five.<ref>{{cite magazine|url=https://www.worldradiohistory.com/Archive-All-Music/Billboard/80s/1989/BB-1989-03-04.pdf|title=Slew Of Stars Vie For ACM Awards|magazine=[[Billboard (magazine)|Billboard]]|pages=42|date=March 4, 1989}}</ref>
+
+After the album failed to produce any Top 40 singles, Malchak moved to [[South Carolina]] in 1992. In 2001, he released his first [[Christian music|Christian]] album, ''Pathway to Glory'', on his own Parable Records. Later in the year, he launched Tim Malchak Ministries.<ref>{{cite web |last1=Collins |first1=Stacey |title=Singer Tim Malchak talks about his life and music |url=https://www.islandpacket.com/2011/03/28/1599794/singer-tim-malchak-talks-about.html |website=islandpacket |access-date=7 September 2022 |archive-url=https://web.archive.org/web/20110731125108/http://www.islandpacket.com/2011/03/28/1599794/singer-tim-malchak-talks-about.html |archive-date=31 July 2011}}</ref> As of 2017, Malchak has released twelve Christian albums. Currently, he and his wife, Leslie, tour the southeastern United States with their traveling music ministry.
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! Year
+! Title
+! Label
+|- 
+| 1987
+| ''Colorado Moon''
+| rowspan="2"| Alpine
+|-
+| 1988
+| ''American Man''
+|-
+| 1989
+| ''Different Circles''
+| Universal
+|-
+| 1994
+| ''Home Town''
+| Full House
+|-
+| 1996
+| ''The Coast Is Clear''
+| River Road
+|-
+| 2001
+| ''Pathway to Glory''
+| rowspan="4"| Parable
+|-
+| 2003
+| ''Servant's Heart''
+|-
+| 2005
+| ''Be My Peace''
+|-
+| 2007
+| ''Boundless''
+|-
+| 2010
+| ''Sovereign King''
+| rowspan="4"| Tim Malchak
+|-
+| 2013
+| ''The Best of Tim Malchak – Volume One''
+|-
+| 2014
+| ''The Best of Tim Malchak – Volume Two''
+|-
+| 2016
+| ''Plans''
+|-
+| 2017
+| ''Morning Hour of Praise''
+|-
+| 2018 
+| "Carolina Rain"
+|}
+2020
+“One Nation Under God”
+
+2021
+“Renewed”
+
+2022
+"God Knows"
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2"| Year
+! rowspan="2"| Title
+! colspan="2"| Chart Positions
+! rowspan="2"| Album
+|-
+! width="50"| <small>[[Hot Country Songs|US Country]]</small>
+! width="50"| <small>CAN Country</small>
+|-
+| 1984
+| "Just Like That" <small>(as Malchak & Rucker)</small>
+| align="center"| 92
+| align="center"| —
+| {{n/a}}
+|-
+| rowspan="2"| 1985
+| "Why Didn't I Think of That" <small>(as Malchak & Rucker)</small>
+| align="center"| 67
+| align="center"| —
+| rowspan="6"| ''Colorado Moon''
+|-
+| "I Could Love You in a Heartbeat" <small>(as Malchak & Rucker)</small>
+| align="center"| 69
+| align="center"| —
+|-
+| rowspan="3"| 1986
+| "Let Me Down Easy" <small>(as Malchak & Rucker)</small>
+| align="center"| 67
+| align="center"| —
+|-
+| "Slow Motion" <small>(as Malchak & Rucker)</small>
+| align="center"| 64
+| align="center"| —
+|-
+| "Easy Does It"
+| align="center"| 68
+| align="center"| —
+|-
+| rowspan="2"| 1987
+| "Colorado Moon"
+| align="center"| 37
+| align="center"| —
+|-
+| "Restless Angel"
+| align="center"| 39
+| align="center"| —
+| rowspan="3"| ''American Man''
+|-
+| rowspan="2"| 1988
+| "It Goes Without Saying"
+| align="center"| 35
+| align="center"| —
+|-
+| "Not a Night Goes By"
+| align="center"| 43
+| align="center"| —
+|-
+| rowspan="2"| 1989
+| "Not Like This"
+| align="center"| 70
+| align="center"| 81
+| rowspan="2"| ''Different Circles''
+|-
+| "If You Had a Heart"
+| align="center"| 54
+| align="center"| —
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"   
+! Year
+! style="width:16em;"| Title
+! Director
+|-
+| 1985
+! scope="row"| "I Could Love You in a Heartbeat"
+|
+|-
+| 1987
+! scope="row"| "Colorado Moon"
+|
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{official website|http://www.malchak.com/home.html}}
+*[http://www.timmalchak.com/ Tim Malchak Ministries]
+*[{{AllMusic|class=artist|id=p22099|pure_url=yes}} Tim Malchak] at [[Allmusic]]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Malchak, Tim}}
+[[Category:1957 births]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Living people]]
+[[Category:Universal Records (1988) artists]]
+
+
+{{US-country-singer-stub}}

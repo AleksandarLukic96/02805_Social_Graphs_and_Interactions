@@ -1,0 +1,111 @@
+{{Short description|American country music singer-songwriter (1973–2022)}}
+{{other people}}
+{{Use mdy dates|date=August 2020}}
+{{Infobox musical artist
+| image           =
+| name            = Brad Martin
+| image_size      =
+| birth_name      = Bradley Curtis Martin
+| birth_date      = {{birth date|1973|5|3}}
+| birth_place     = [[Chillicothe, Ohio]], U.S.
+| death_date      = {{death date and age|2022|3|11|1973|5|3}}
+| death_place     = [[Nashville, Tennessee]], U.S.
+| instrument      = Vocals
+| genre           = [[country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 2002–2022
+| label           = [[Epic Records|Epic]], [[Curb Records|Curb]]
+| past_member_of = Martin Ramey
+}}
+
+'''Bradley Curtis Martin''' (May 3, 1973 – March 11, 2022)<ref name="obi">{{cite web |url=https://www.murrayfettro.com/obituary/bradley-martin|title=Bradley Curtis Martin 1973 - 2022 Obituary|date=|accessdate=August 13, 2022|website=murrayfettro.com}}</ref> was an American [[country music]] singer-songwriter. He made his debut on the American country music scene in 2002 with the release of his debut album ''[[Wings of a Honky-Tonk Angel]]'', which produced the No. 15 single "[[Before I Knew Better]]". In 2008, he and songwriter John Ramey briefly founded the duo Martin Ramey.
+
+==Biography==
+Martin was taught to play the guitar at an early age. He later gained an interest in songwriting, and moved to [[Nashville, Tennessee]] in his early 20s.<ref name="allmusic">[{{AllMusic|class=artist|id=p304699/biography|pure_url=yes}} AllMusic ((( Brad Martin > Biography )))]</ref> He performed daily in a nightclub, and was eventually spotted by Joe Carter, an artist manager who had previously worked with [[Tracy Byrd]].<ref name="about">{{Cite web|url=https://www.liveabout.com/country-4688258|title=Country|website=LiveAbout.com}}</ref> Carter saw potential in the young artist and he was soon signed to Sony Epic Record Label.<ref name="about"/>
+
+Martin was signed to [[Epic Records]] in 2000. His debut single, "Before I Knew Better", was released in 2002, the first single from his debut album ''Wings of a Honky-Tonk Angel''.<ref name="allmusic"/><ref name="about"/> The album received a favorable review from [[About.com]] for its neotraditionalist sound.<ref>{{Cite web|url=https://www.liveabout.com/country-artists-similar-to-george-strait-933904|title=5 Country Artists Similar to George Strait|first=Shelly|last=Fabian|website=LiveAbout.com}}</ref> In addition, "Before I Knew Better" won an award from [[Broadcast Music Incorporated|BMI]] for being among the fifty most played country songs of 2003.<ref>{{Cite web|url=http://www.cmt.com/artists/news/1480197/20031105/id_0.jhtml|archive-url=https://web.archive.org/web/20070930040757/http://www.cmt.com/artists/news/1480197/20031105/id_0.jhtml|url-status=dead|archive-date=September 30, 2007|website=Cmt.com |title=2003 BMI Award Winners}}</ref> However, the second single from ''Wings of a Honky-Tonk Angel'', "Rub Me The Right Way", failed to make Top 40, as did "Just Like Love". A non-album single, "One of Those Days", followed in 2003 before Martin exited Epic's roster. He remained inactive in country music until joining songwriter John Ramey to found the duo Martin Ramey in 2008. Martin Ramey signed to [[Curb Records]] that year.<ref>{{cite web|url=http://www.soundclick.com/bands/default.cfm?bandID=907965|title=Martin Ramey|website=Soundclick.com|accessdate=June 6, 2009}}</ref>
+
+Martin died in Nashville on March 11, 2022, at the age of 48.<ref>{{cite news |last1=Whitaker |first1=Sterling |title=Country Hitmaker Brad Martin Dead At 48 |url=https://tasteofcountry.com/country-singer-brad-martin-dead-dies/ |access-date=12 March 2022 |publisher=Taste of Country |date=12 March 2022}}</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:16em;"| Title
+! rowspan="2" style="width:16em;"| Album details
+! colspan="2"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]
+! width="45"| [[Top Heatseekers|US Heat]]
+|-
+! scope="row"| ''[[Wings of a Honky-Tonk Angel]]''
+| 
+* Release date: June 18, 2002
+* Label: [[Epic Records]]
+| 34
+| 32
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2" |Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[Bubbling Under Hot 100|US Bubbling]]
+|-
+| rowspan="3"| 2002
+! scope="row"| "[[Before I Knew Better]]"
+| 15
+| 8
+| align="left" rowspan="3"| ''Wings of a Honky-Tonk Angel''
+|-
+! scope="row"| "Rub Me the Right Way"
+| 51
+| —
+|-
+! scope="row"| "Just Like Love"
+| —
+| —
+|-
+| 2003
+! scope="row"| "One of Those Days"
+| 50
+| —
+| {{NA}}
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:14em;"| Video
+! Director
+|-
+| 2002
+! scope="row"| "Before I Knew Better"
+| [[Shaun Silva]]
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{discogs artist|Brad Martin (2)}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Martin, Brad}}
+[[Category:1973 births]]
+[[Category:2022 deaths]]
+[[Category:Epic Records artists]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:American country singer-songwriters]]
+[[Category:Country musicians from Ohio]]
+[[Category:People from Greenfield, Ohio]]
+[[Category:Singer-songwriters from Ohio]]

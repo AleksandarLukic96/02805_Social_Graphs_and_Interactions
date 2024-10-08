@@ -1,0 +1,85 @@
+{{Short description|US musical group}}
+{{Use dmy dates|date=April 2022}}
+{{Infobox musical artist
+| name            = Bekka & Billy
+| image           =
+| caption         =
+| image_size      =
+| alias           =
+| origin          = [[Nashville, Tennessee]], U.S.
+| genre           = [[Country music|Country]]
+| years_active    = 1997–1998
+| label           = [[Almo Sounds]]
+|spinoff_of = [[Fleetwood Mac]]
+| past_members    = [[Bekka Bramlett]]<br />[[Billy Burnette]]
+}}
+
+'''Bekka & Billy''' was an American country music duo consisting of singer-songwriters [[Bekka Bramlett]] and [[Billy Burnette]], who first worked together as members of [[Fleetwood Mac]].<ref>{{Cite web |url=http://bla.fleetwoodmac.net/index.php?page=index_v2&id=81&c=13 |title=Archived copy |access-date=2009-02-11 |archive-url=https://web.archive.org/web/20070923222725/http://bla.fleetwoodmac.net/index.php?page=index_v2&id=81&c=13 |archive-date=2007-09-23 |url-status=dead }}</ref> Their eponymous debut album was released by [[Almo Sounds]] in April 1997. While their debut single, "Patient Heart," failed to chart in the United States, it reached No.&nbsp;96 on the ''[[RPM (magazine)|RPM]]'' Country Tracks chart in Canada.<ref>{{Cite web |url=http://www.collectionscanada.gc.ca/rpm/028020-119.01-e.php?brws_s=1&file_num=nlc008388.8289&volume=65&issue=11&issue_dt=May%2019%201997&type=1&interval=24&PHPSESSID=85u3t0aesdurkjmb4ecvegl3n5 |title=RPM Volume 65 No. 11, May 19 1997 - RPM |access-date=2009-02-11 |archive-url=https://web.archive.org/web/20121007022555/http://www.collectionscanada.gc.ca/rpm/028020-119.01-e.php?brws_s=1&file_num=nlc008388.8289&volume=65&issue=11&issue_dt=May%2019%201997&type=1&interval=24&PHPSESSID=85u3t0aesdurkjmb4ecvegl3n5 |archive-date=2012-10-07 |url-status=dead }}</ref>
+
+''[[Entertainment Weekly]]'' gave ''Bekka & Billy'' a B rating, saying that if "Patient Heart" didn't become a big hit, Nashville was "asleep at the wheel."<ref>{{Cite web|url=https://ew.com/article/1997/06/06/bekka-billy/|title=Bekka & Billy|website=Ew.com|access-date=2020-04-08}}</ref> [[AllMusic]] gave their album three stars, calling the duo "tailor made for stardom."<ref>[{{AllMusic|class=album|id=r259933|pure_url=yes}} ((( Bekka & Billy > Overview )))], [[AllMusic]]</ref> [[Vince Gill]] played guitar on the album, which featured a song written by [[Delaney Bramlett]].<ref>{{Cite web |url=http://bla.fleetwoodmac.net/index.php?page=index_v2&id=80&c=13 |title=Archived copy |access-date=2009-02-11 |archive-url=https://web.archive.org/web/20070923222820/http://bla.fleetwoodmac.net/index.php?page=index_v2&id=80&c=13 |archive-date=2007-09-23 |url-status=dead }}</ref>
+
+The duo went their separate ways in January 1998.<ref>{{Cite web |url=http://bla.fleetwoodmac.net/index.php?page=index_v2&id=82&c=13 |title=Archived copy |access-date=2009-02-11 |archive-url=https://web.archive.org/web/20071206091656/http://bla.fleetwoodmac.net/index.php?page=index_v2&id=82&c=13 |archive-date=2007-12-06 |url-status=dead }}</ref>
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:10em;"| Title
+! style="width:15em;"| Details
+|-
+! scope="row"| ''Bekka & Billy''
+| 
+* Release date: April 22, 1997
+* Label: Almo Sounds
+* Formats: [[Compact disc|CD]], [[Compact cassette|cassette]]
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:8em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[RPM (magazine)|CAN Country]]<br /><ref>{{cite web|url=http://www.collectionscanada.gc.ca/rpm/028020-110.01-e.php?PHPSESSID=s6osjkasnilo8kp87vuvc0eg03&q1=Bekka+%26+Billy&q2=&interval=20|title=Results - RPM - Library and Archives Canada - Country Singles|work=[[RPM (magazine)|RPM]]|access-date=February 26, 2011|archive-url=https://web.archive.org/web/20121021162427/http://www.collectionscanada.gc.ca/rpm/028020-110.01-e.php?PHPSESSID=s6osjkasnilo8kp87vuvc0eg03&q1=Bekka+&+Billy&q2=&interval=20|archive-date=October 21, 2012|url-status=dead}}</ref>
+|-
+| rowspan="2"| 1997
+! scope="row"| "Patient Heart"
+| 96
+| align="left" rowspan="2"| ''Bekka & Billy''
+|-
+! scope="row"| "Better Days"
+| —
+|-
+| colspan="10" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:8em;"| Title
+! Director
+|-
+| 1997
+! scope="row"| "Better Days"
+| [[Steven Goldmann]]
+|-
+|}
+
+==References==
+{{Reflist}}
+
+{{Fleetwood Mac}}
+{{Authority control}}
+
+{{DEFAULTSORT:Bekka and Billy}}
+[[Category:American country music groups]]
+[[Category:American country music duos]]
+[[Category:Musical groups established in 1997]]
+[[Category:Almo Sounds artists]]
+[[Category:Musical groups disestablished in 1998]]
+[[Category:Fleetwood Mac]]

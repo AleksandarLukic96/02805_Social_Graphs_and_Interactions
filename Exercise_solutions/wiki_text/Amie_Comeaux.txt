@@ -1,0 +1,123 @@
+{{short description|American singer-songwriter (1976-1997)}}
+{{Infobox musical artist
+| name            = Amie Comeaux
+| image           = Amie Comeaux promo image.png
+| caption         = A promotional image of Amie Comeaux, circa 1995
+| alt = An image of singer Amie Comeaux.
+| image_size      =
+| birth_name      = Amie Noelle Comeaux
+| birth_date      = {{birth date|1976|12|04}}<br>[[Brusly, Louisiana]], U.S.
+| death_date      = {{death date and age|1997|12|21|1976|12|04}}<br>[[Lacombe, Louisiana]], U.S.
+| origin          = [[Nashville, Tennessee]], U.S.
+| instrument      = Vocals
+| genre           = [[Country music|Country]]
+| occupation      = Singer
+| years_active    = 1984–1997
+| label           = [[Polydor Records|Polydor Nashville]]
+}}
+'''Amie Noelle Comeaux''' ({{IPAc-en|ˈ|k|oʊ|m|oʊ}}; December 4, 1976 – December 21, 1997) was an American [[country music]] singer who gained fame in her teens. Her debut album, ''Moving Out'', was released on [[Polydor Records]] in 1994, and it produced the single "Who's She to You", a No.&nbsp;64 on the ''[[Billboard (magazine)|Billboard]]'' country charts. Two posthumous albums, ''A Very Special Angel'' and ''Memories Left Behind'', were issued in 1998 and 2007, respectively.
+
+==Early life==
+Comeaux first began singing at nursing homes and weddings as a child. When she was nine years old, she sang the [[Star-Spangled Banner]] at a [[New Orleans Saints]] game in the [[Louisiana Superdome]], and continued to do so throughout her teenage years. Comeaux was also chosen to play the lead role in ''[[Annie (musical)|Annie]]'' at the [[Baton Rouge, Louisiana|Baton Rouge]] Little Theater.
+
+==Career==
+Record producer [[Harold Shedd]] had been working with Comeaux since she was ten years old, helping her with her singing skills.<ref name="allmusic">{{cite web|author= |url=http://www.allmusic.com/artist/amie-comeaux-mn0000747865/discography |title=Amie Comeaux &#124; Album Discography |website=[[AllMusic]] |date=1998-06-30 |accessdate=2020-03-22}}</ref><ref name="wire">{{cite web |url=http://weeklywire.com/ww/01-12-98/nash_music-industry.html |title="Before Her Time": Country music loses Amie Comeaux |accessdate=2008-01-07 |last=Keel |first=Beverly |date= 1998-01-12 |work=Nashville Scene}}</ref>
+
+In 1993, she was signed to [[Polydor Records]] label. A year later, her debut album ''Moving Out'' was released;<ref name="allmusic"/> however, Polydor closed its doors soon afterward, and Comeaux was left without a record deal. [[Toby Keith]], who was also on Polydor at the time, had offered to help with Comeaux's second album before the label's closure.<ref name="wire"/>
+
+==Death==
+On December 21, 1997, Comeaux was returning home with her grandmother and her godchild, Megan, from a [[Christmas]] family gathering in [[Alabama]]. As Comeaux passed a car, her own automobile [[hydroplaning (tires)|hydroplaned]] due to heavy rain and struck a tree. She was killed instantly.<ref>{{cite news|title=Brusly singer dies in car wreck|date=December 22, 1997|work=[[The Advocate (Louisiana)|The Advocate]]}}</ref> Comeaux's grandmother and godchild were injured in the crash and were hospitalized for some time, but both survived. She was buried in Grace Memorial Park Cemetery in [[Plaquemine, Louisiana]].<ref>{{cite news|title=Briefs|date=December 23, 1997|work=The Advocate}}</ref>
+
+Comeaux's posthumous album ''A Very Special Angel'' was released March 6, 1998, by Rival Records of [[Nashville, Tennessee]], but due to printing errors, the album had to be repackaged and was re-released 20 days later. Comeaux had co-written some of the songs on the album. A second posthumous album, ''Memories Left Behind'', was released in 2007. This album was dedicated to Comeaux's mother, who died in August 2006.
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:14em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''Moving Out''
+| 
+* Release date: October 18, 1994
+* Label: [[Polydor Records|Polydor Nashville]]
+|-
+! scope="row"| ''A Very Special Angel''
+| 
+* Release date: June 30, 1998
+* Label: Contraband
+|-
+! scope="row"| ''Memories Left Behind''
+| 
+* Release date: October 24, 2006
+* Label: Beaujo Music
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:12em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! style="width:45px;"| [[Hot Country Songs|US Country]]
+! style="width:45px;"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="2"| 1994
+! scope="row"| "Moving Out"<ref>{{cite magazine|url=http://americanradiohistory.com/Archive-Billboard/90s/1994/BB-1994-09-10.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|date=September 10, 1994}}</ref>
+| —
+| —
+| style="text-align:left;" rowspan="3"| ''Moving Out'' 
+|-
+! scope="row"| "Who's She to You"
+| 64
+| 58
+|-
+| 1995
+! scope="row"| "Blue"
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;"| Video
+|-
+| rowspan="2"| 1994
+! scope="row"| "Moving Out"
+|-
+! scope="row"| "Who's She to You"
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GSln=Comeaux&GSfn=Amie+&GSbyrel=all&GSdyrel=all&GSob=n&GRid=7328190& Amie Comeaux] at [[Find A Grave]]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Comeaux, Amie}}
+[[Category:1976 births]]
+[[Category:1997 deaths]]
+[[Category:20th-century American actresses]]
+[[Category:Accidental deaths in Louisiana]]
+[[Category:American child singers]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Burials in Louisiana]]
+[[Category:Cajun people]]
+[[Category:Singer-songwriters from Louisiana]]
+[[Category:People from West Baton Rouge Parish, Louisiana]]
+[[Category:Polydor Records artists]]
+[[Category:Road incident deaths in Louisiana]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:Actresses from Louisiana]]
+[[Category:20th-century American women singers]]
+[[Category:Country musicians from Louisiana]]

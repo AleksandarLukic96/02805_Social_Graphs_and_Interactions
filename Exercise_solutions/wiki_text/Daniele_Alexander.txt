@@ -1,0 +1,150 @@
+{{short description|American country music singer|bot=PearBOT 5}}
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist
+| name            = Daniele Alexander
+| image           =
+| caption         =
+| image_size      =
+| birth_name      =
+| birth_date      = {{Birth date and age|1954|12|02}}<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=21|isbn=978-0-89820-177-2}}</ref>
+| birth_place     = [[Fort Worth, Texas]], United States
+| origin          =
+| instrument      = Vocals, piano
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 1986–1997
+| label           = [[Mercury Records|Mercury]]
+| associated_acts = [[Mila Mason]], [[Butch Baker]]
+| website         = 
+}}
+'''Daniele Alexander''' (born December 2, 1954, in [[Fort Worth, Texas]]) is an American [[country music]] singer. She began her career as a teenager, performing [[jazz]] initially before moving to [[Las Vegas Valley|Las Vegas]], [[Nevada]] to sing in [[casino]]s. She also charted in the Top 20 on the ''[[Billboard (magazine)|Billboard]]'' charts with the single "She's There", a single from her 1989 [[Mercury Records]] album ''First Move''.<ref>{{cite web |url=http://www.oldies.com/artist-biography/Daniele-Alexander.html |title=Daniele Alexander biography |accessdate=November 10, 2008 |work=Oldies.com}}</ref> In 1990, she was nominated for Top New Female Vocalist at the [[Academy of Country Music Awards]], along with [[Jann Browne]] and [[Mary Chapin Carpenter]], but lost to Carpenter. A second album, ''I Dream in Color'', produced a duet with labelmate [[Butch Baker]] in "It Wasn't You, It Wasn't Me," the last chart single for either artist. Alexander exited Mercury in 1991, and later co-wrote two songs on [[Mila Mason]]'s 1997 debut ''[[That's Enough of That]]''.
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:10em;"| Title
+! rowspan="2" style="width:20em;"| Album details
+! colspan="1"| Peak positions
+|- style="font-size:smaller;"
+! width="65"| [[Top Country Albums|US Country]]
+|-
+! scope="row"| ''First Move''
+| 
+* Release date: August 22, 1989
+* Label: [[PolyGram]]/[[Mercury Records]]
+| 59
+|-
+! scope="row"| ''I Dream in Color''
+| 
+* Release date: January 10, 1991
+* Label: PolyGram/Mercury Records
+| —
+|-
+| colspan="3" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:24em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<br /><ref name="whitburn"/>
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="2"| 1989
+! scope="row"| "[[She's There]]"
+| 19
+| —
+| align="left" rowspan="3"| ''First Move''
+|-
+! scope="row"| "Where Did the Moon Go Wrong"
+| 53
+| 60
+|-
+| rowspan="2"| 1990
+! scope="row"| "You Called"<ref>{{cite magazine|url=http://americanradiohistory.com/Archive-Billboard/90s/1990/BB-1990-02-10.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|date=February 10, 1990}}</ref>
+| —
+| —
+|-
+! scope="row"| "It Wasn't You, It Wasn't Me" <small>(with [[Butch Baker]])</small>
+| 55
+| —
+| align="left" rowspan="3"| ''I Dream in Color''
+|-
+| rowspan="2"| 1991
+! scope="row"| "I Know What I Do Know"<ref>{{cite magazine|url=http://americanradiohistory.com/Archive-Billboard/90s/1991/BB-1991-03-30.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|date=March 30, 1991}}</ref>
+| —
+| —
+|-
+! scope="row"| "Who Can She Turn To"<ref>{{cite magazine|url=http://americanradiohistory.com/Archive-Billboard/90s/1991/BB-1991-06-22.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|date=June 22, 1991}}</ref>
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;"| Video
+! Director
+|-
+| rowspan="2"| 1989
+! scope="row"| "She's There"
+| John Lloyd Miller
+|-
+! scope="row"| "Where Did the Moon Go Wrong"
+| Marius Penczner
+|-
+| 1990
+! scope="row"| "It Wasn't You, It Wasn't Me"
+| Tom Neff
+|}
+
+== Awards and nominations ==
+{| class="wikitable"
+!Year
+!Organization
+!Award
+!Nominee/Work
+!Result
+|-
+|1990
+|[[Academy of Country Music Awards]]
+|Top New Female Vocalist
+|Daniele Alexander
+|{{nom}}
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Alexander, Daniele}}
+[[Category:1954 births]]
+[[Category:Living people]]
+[[Category:Musicians from Fort Worth, Texas]]
+[[Category:American country pianists]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Country musicians from Texas]]
+[[Category:Mercury Records artists]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:20th-century American women pianists]]
+[[Category:20th-century American pianists]]
+[[Category:20th-century American women singers]]
+[[Category:20th-century American singers]]
+[[Category:21st-century American women pianists]]
+[[Category:21st-century American pianists]]
+[[Category:21st-century American women singers]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:20th-century American singer-songwriters]]

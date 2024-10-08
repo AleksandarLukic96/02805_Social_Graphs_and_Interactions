@@ -1,0 +1,82 @@
+{{short description|American singer-songwriter}}
+
+{{Infobox musical artist  <!-- See Wikipedia:WikiProject Musicians -->
+| name            = Roscoe Holcomb
+| image           = Roscoe Holcomb 1960s LOC.jpg
+| caption         = Roscoe Holcomb in 1962
+| image_size      = <!-- Only for images narrower than 220 pixels -->
+| background      = solo_singer
+| birth_name      = Roscoe Halcomb
+| alias           =
+| birth_date      = {{birth date|1912|9|5}}
+| birth_place     = [[Daisy, Kentucky]], U.S.
+| death_date      = {{death date and age|1981|2|1|1912|9|5}}
+| death_place     = [[Perry County, Kentucky]], U.S.
+| origin          = 
+| instrument      = [[Banjo]], [[guitar]], [[harmonica]]
+| genre           = {{hlist|[[Folk music|Folk]]|[[Bluegrass music|bluegrass]]|[[Country music|country]]|[[Gospel music|gospel]]|[[Old-time music|old-time]]|[[blues]]}}
+| occupation      = [[Miner]], [[construction worker]], [[farmer]], musician
+| years_active    = 1958–1978
+| label           =
+}}
+
+'''Roscoe Holcomb''' (born '''Roscoe Halcomb''';<ref>{{Cite journal|url=https://southernspaces.org/2008/john-cohen-eastern-kentucky-documentary-expression-and-image-roscoe-halcomb-during-folk-revival|title=John Cohen in Eastern Kentucky: Documentary Expression and the Image of Roscoe Halcomb During the Folk Revival|first=Scott L.|last=Matthews|date=July 27, 2008|volume=2008|journal=Southern Spaces|doi=10.18737/M74W3W|doi-access=free}}</ref> September 5, 1912 – February 1, 1981) was an American singer, [[banjo]] player, and [[guitarist]] from [[Daisy, Kentucky]]. A prominent figure in [[Appalachian folk music]],<ref name="PetrusCohen2015">{{cite book|author1=Stephen Petrus|author2=Ronald D. Cohen|title=Folk City: New York and the American Folk Music Revival|url=https://archive.org/details/folkcitynewyorka0000petr|url-access=registration|date=8 June 2015|publisher=Oxford University Press|isbn=978-0-19-023103-3|pages=[https://archive.org/details/folkcitynewyorka0000petr/page/183 183]–}}</ref> Holcomb was the inspiration for the term "high, lonesome sound", coined by folklorist and friend [[John Cohen (musician)|John Cohen]]. The "high lonesome sound" term is now used to describe [[bluegrass music|bluegrass]] singing, although Holcomb was not, strictly speaking, a bluegrass performer.{{cn|date=July 2024}}
+
+==Performance style==
+Holcomb's repertoire included [[old-time music]], [[hymns]], [[traditional music]] and [[blues]] ballads. In addition to playing the banjo and guitar, he was a competent [[harmonica]] and [[fiddle]] player, and sang many of his most memorable songs [[a cappella]]. Holcomb stated: "Up till then the blues were only inside me; [[Blind Lemon]] was the first to 'let out' the blues."<ref>{{cite book|title=The Devil's Music|author=Giles Oakley|publisher=[[Da Capo Press]]|page=[https://archive.org/details/devilsmusichisto00oakl_0/page/116 116]|isbn=978-0-306-80743-5|date=1997|url-access=registration|url=https://archive.org/details/devilsmusichisto00oakl_0/page/116}}</ref>
+
+Holcomb sang in a nasal style informed by the [[Old Regular Baptist]] vocal tradition. [[Bob Dylan]], a fan of Holcomb, described his singing as possessing "an untamed sense of control".<ref name="AllMusic_Untamed">{{AllMusic|album|mw0000019275|''An Untamed Sense of Control''}}</ref> He was also admired by the [[Stanley Brothers]] and [[Eric Clapton]], who cited Holcomb as his favorite country musician.<ref name="AllMusic_Untamed" />
+
+==Life and career ==
+A [[coal miner]], construction laborer and farmer for much of his life,<ref name="Wolfe2015">{{cite book|author=Charles K. Wolfe|title=Kentucky Country: Folk and Country Music of Kentucky|url=https://books.google.com/books?id=ZJIfBgAAQBAJ&pg=PA154|date=5 February 2015|publisher=[[University Press of Kentucky]]|isbn=978-0-8131-4960-8|pages=154–}}</ref> Holcomb was not recorded until 1958, after which his career as a professional musician was bolstered by the [[folk revival]] in the 1960s. Holcomb gave his last live performance in 1978. Due to what he described as injuries he sustained during his long career as a laborer, Holcomb was eventually unable to work for more than short periods, and his later income came primarily from his music. Suffering from asthma and [[emphysema]] as a result of working in coal mines, he died in a nursing home in 1981, at the age of 68.<ref name="cohen2">{{cite book|author=John Cohen|title=The High & Lonesome Sound: The Legacy of Roscoe Holcomb|url=https://books.google.com/books?id=9KpPYgEACAAJ|year=2012|publisher=Steidl|isbn=978-3-86930-254-6}}</ref>
+
+==Discography==
+Holcomb's discography includes the following albums released on LP during his lifetime:<ref name="discogs-artist">{{Discogs artist}}</ref>
+* ''The Music of Roscoe Holcomb and Wade Ward'', [[Folkways Records]], 1962
+* ''The High Lonesome Sound'', Folkways Records, 1965
+* ''Close to Home'', Folkways Records, 1975
+
+The following single-artist compilations have been released since his death:<ref name="discogs-artist" />
+* ''The High Lonesome Sound'', [[Smithsonian Folkways]], 1998
+* ''An Untamed Sense of Control'', Smithsonian Folkways, 2003
+
+Holcomb's work appears on many multiple-artist compilations, including the following released during his lifetime:<!-- note: multiple-artist compilations released after Holcomb's death are likely not notable enough to list -->
+* ''Mountain Music of Kentucky'', Folkways Records, 1960 (6 of 29 tracks)<ref>{{Discogs master|592027|Mountain Music of Kentucky|type=album}}</ref>
+* ''FOTM – Friends of Old Time Music'', Folkways Records, 1964 (2 of 16 tracks)<ref>{{Discogs master|568901|FOTM – Friends of Old Time Music|type=album}}</ref>
+* ''[[Zabriskie Point (album)|Zabriskie Point (Original Motion Picture Soundtrack)]]'', [[MGM Records]], 1970 (1 of 11 tracks)<ref>{{Discogs master|78667|Zabriskie Point (Original Motion Picture Soundtrack)|type=album}}</ref>
+* ''3rd Annual Brandywine Mountain Music Convention – '76 Music of Kentucky'', Heritage Records [Virginia]<!-- do not link -- as of March 2018, [[Heritage Records]] lists: [[Heritage Records (United States)]], [[Heritage Records (England)]], and [[BMG Heritage Records]], none of which refer to this label! -->, 1977 (2 of 14 tracks)<ref>{{Discogs release|8109578|3rd Annual Brandywine Mountain Music Convention – '76 Music of Kentucky|type=album}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20040616203901/http://www.cmt.com/artists/az/holcomb_roscoe/bio.jhtml Short biography from CMT.com]
+*{{YouTube|6zOI9pvq-tU|Holcomb Video playing "John Hardy"}}
+*[http://www.mustrad.org.uk/reviews/holcombe.htm Review and short biography by Tom Netherland]
+*[https://www.youtube.com/watch?v=-I0ZxDXV4dc John Cohen's documentary 'The High Lonesome Sound']
+*[https://www.youtube.com/watch?v=mVu78DSovhI Television appearance on Pete Seeger's Rainbow Quest]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Holcomb, Roscoe}}
+[[Category:1912 births]]
+[[Category:1981 deaths]]
+[[Category:American country guitarists]]
+[[Category:American folk guitarists]]
+[[Category:American male guitarists]]
+[[Category:American country singer-songwriters]]
+[[Category:American folk singers]]
+[[Category:American banjoists]]
+[[Category:American country banjoists]]
+[[Category:Old-time musicians]]
+[[Category:People from Perry County, Kentucky]]
+[[Category:Musicians from Appalachia]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:Folk musicians from Kentucky]]
+[[Category:Country musicians from Kentucky]]
+[[Category:Singer-songwriters from Kentucky]]
+[[Category:Bluegrass musicians from Kentucky]]
+[[Category:20th-century American guitarists]]
+[[Category:Guitarists from Kentucky]]
+[[Category:20th-century American male musicians]]
+[[Category:American male singer-songwriters]]

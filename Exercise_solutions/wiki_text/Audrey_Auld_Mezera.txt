@@ -1,0 +1,172 @@
+{{Use dmy dates|date=April 2022}}
+{{Infobox musical artist
+| name             = Audrey Auld-Mezera
+| image            = Audrey Auld at Threadgill's in Austin, TX. Photo by Ron Baker..jpg
+| image_size       =
+| landscape        = <!-- yes, if wide image, otherwise leave blank -->
+| alt              = Audrey Auld at Threadgill's in Austin, TX. Photo by Ron Baker
+| caption          = Audrey Auld at Threadgill's in Austin, TX (2010)
+| birth_name       = Audrey Auld
+| native_name      =
+| native_name_lang =
+| alias            =
+| birth_date       = 14 January 1964
+| birth_place      =
+| origin           = Hobart, Tasmania, Australia
+| death_date       = {{Death date and age|2015|8|9|1964|1|14|df=y}}
+| death_place      = Stinson Beach, California, USA
+| genre            = [[country music|Country]]
+| occupation       = Singer-Songwriter
+| instrument       = Guitar
+| years_active     = <!-- YYYY–YYYY (or –present) -->
+| label            = [http://www.recklessrecords.com Reckless Records]
+| past_member_of  = [[Bill Chambers (musician)|Bill Chambers]], [[Kieran Kane]], [[Fred Eaglesmith]], [[Mary Gauthier]], [[Dale Watson (singer)|Dale Watson]], [[Kasey Chambers]], and [[Carrie Rodriguez]]
+| website          = {{URL|http://www.audreyauld.com/}}<!-- {{URL|example.com}} -->
+}}
+
+'''Audrey Auld-Mezera''' (''[[née]]'' '''Audrey Auld''';<ref name="amg"/> 14 January 1964 – 9 August 2015) was an [[Australian American]] [[country music]] touring [[singer–songwriter]]. She had released eleven albums and three EPs on her own Reckless Records label,<ref name="amg"/> and had recorded with numerous musicians including [[Bill Chambers (musician)|Bill Chambers]], [[Kieran Kane]], [[Fred Eaglesmith]], [[Mary Gauthier]], [[Dale Watson (singer)|Dale Watson]], [[Kasey Chambers]], and [[Carrie Rodriguez]].<ref name="reckless"/> She had songs recorded by various artists and songs placed on the FX TV shows "Justified", "Longmire", "NCIS: New Orleans" and "The Good Guys". She hosted songwriting workshops with inmates in San Quentin Prison in California from 2007 till 2013.<ref name="reckless"/>
+
+Auld-Mezera died of [[cancer]] on 9 August 2015, aged 51.<ref>{{cite news|url=http://www.tennessean.com/story/entertainment/2015/08/10/singer-songwriter-audrey-auld-dies-51/31421879/|title=Singer-songwriter Audrey Auld dies at 51|newspaper=[[The Tennessean]]|date=August 10, 2015|accessdate=August 10, 2015}}</ref><ref>{{cite news|url=http://obituaries.themercury.com.au/notice/187872002?random=1439253882358/|title=Tributes: Auld, Audrey (Mrs Daniel Mezera)|newspaper=[[The Mercury (Hobart)]]|date=August 11, 2015|accessdate=August 11, 2015}}</ref>
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+List of albums, with release date and label shown
+! scope="col" rowspan="1"| Title
+! scope="col" rowspan="1"| Album details
+|-
+! scope="row"| ''Looking Back to See'' <br /> (with [[Bill Chambers (musician)|Bill Chambers]])
+| 
+* Released: 1998
+* Format: CD
+* Label: Reckless Records (RECK001)
+|-
+! scope="row"| ''The Fallen''
+| 
+* Released: 2000
+* Format: CD
+* Label: Reckless Records (RECK002)
+|-
+! scope="row"| ''Losing Faith''
+| 
+* Released: May 2003
+* Format: CD
+* Label: Reckless Records (RECK004)
+|-
+! scope="row"| ''Texas''
+| 
+* Released: 2004
+* Format: CD
+* Label: Reckless Records (RECK007)
+|-
+! scope="row"| ''Lost Men and Angry Girls''
+| 
+* Released: 2006
+* Format: CD
+* Label: Reckless Records (RECK009)
+|-
+! scope="row"| ''Come Find Me''
+| 
+* Released: 2011
+* Format: CD, DD
+* Label: Reckless Records (RECK011)
+|-
+! scope="row"| ''Resurrection Moon''
+| 
+* Released: 2012
+* Format: CD, DD
+* Label: Reckless Records (RECK012)
+|-
+! scope="row"| ''Tonk''
+| 
+* Released: 2013
+* Format: CD, DD
+* Label: Reckless Records (RECK014)
+|-
+! scope="row"| ''Hey Warden''
+| 
+* Released: 2014
+* Format: CD, DD
+* Label: Reckless Records (RECK017)
+|}
+
+===Compilation albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+List of albums, with release date and label shown
+! scope="col" rowspan="1"| Title
+! scope="col" rowspan="1"| Album details
+|-
+! scope="row"| ''Reckless Records Garage Sale: 1997-2003'' <br /> (by various artists])
+| 
+* Released: 2003
+* Format: CD 
+* Label: Reckless Records (RECK006)
+* Note: 14 of the 19 tracks are performed by Auld-Mezera.
+|}
+
+===Live albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+List of albums, with release date and label shown
+! scope="col" rowspan="1"| Title
+! scope="col" rowspan="1"| Album details
+|-
+! scope="row"| ''In the House'' <br /> (with [[Nina Gerber]])
+| 
+* Released: 2006
+* Format: CD 
+* Label: Reckless Records 
+* Note: Recorded in December 2005
+|}
+
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+List of EPs, with release date and label shown
+! scope="col" rowspan="1"| Title
+! scope="col" rowspan="1"| EP details
+|-
+! scope="row"| ''Billabong Song''
+| 
+* Released: 2009
+* Format: CD, DD
+* Label: Reckless Records (RECK0010)
+|-
+! scope="row"| ''Wood''
+| 
+* Released: July 2012
+* Format: CD, DD
+* Label: Reckless Records
+
+|}
+
+==Awards and nominations==
+===ARIA Music Awards===
+The [[ARIA Music Awards]] are a set of annual ceremonies presented by [[Australian Recording Industry Association]] (ARIA), which recognise excellence, innovation, and achievement across all genres of the [[music of Australia]]. They commenced in 1987.<ref name="reckless"/><ref name="CountryAlbum">ARIA Award previous winners. {{cite web|url=http://www.ariaawards.com.au/history/award/Best-Country-Album|title=ARIA Awards Best Country Album|publisher=Australian Recording Industry Association (ARIA)|access-date=9 April 2022}}</ref>
+{{awards table}}
+|-
+| [[ARIA Music Awards of 2001|2001]] || ''The Fallen'' || Best Country Album || {{nom}} 
+|-
+| [[ARIA Music Awards of 2005|2005]] || ''Texas'' || Best Country Album || {{nom}} 
+|-
+{{end}}
+
+==References==
+{{reflist|1|refs=
+
+<ref name="amg">[{{AllMusic|class=artist|id=p792142|pure_url=yes}} Audrey Auld Mezera] at allmusic</ref>
+
+<ref name="reckless">[http://www.recklessrecords.com/aa_bio.html Reckless Records biography]</ref>
+
+}}
+
+==External links==
+* [http://audreyauld.com/index.html Official website]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Auld-Mezera, Audrey}}
+[[Category:Australian country singer-songwriters]]
+[[Category:Australian women singer-songwriters]]
+[[Category:Australian singer-songwriters]]
+[[Category:Australian women guitarists]]
+[[Category:1964 births]]
+[[Category:2015 deaths]]

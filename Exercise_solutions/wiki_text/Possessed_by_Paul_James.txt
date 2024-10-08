@@ -1,0 +1,100 @@
+{{Infobox musical artist
+| name                = Possessed by Paul James
+| image               =
+| alt                 = 
+| caption             =Possessed by Paul James - Pickathon 2014 
+| image_size          = 
+| background          = non_vocal_instrumentalist
+| birth_name          = Konrad Wert 
+| alias               = Possessed by Paul James
+| birth_date          = July 26, 1976
+| birth_place         = Immokalee, Florida
+| origin              =
+| death_date          = <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date 1st) -->
+| death_place         = 
+| genre               = [[Alternative country]], [[folk music|folk]], [[country music|country]], [[bluegrass music|bluegrass]], [[antifolk]], [[blues music|blues]], [[punk music|punk]]
+| occupation          = 
+| instrument          = [[banjo]], [[guitar]], [[fiddle]], [[stomp box]]
+| years_active        = <!-- YYYY–YYYY (or –present) -->
+| label               = 
+| associated_acts     = [[Scott Biram]], [[Deer Tick (band)|Deer Tick]], [[East Cameron Folkcore]], [[Chuck Ragan]], [[Frank Turner]], [[The Weary Boys]], [[Shakey Graves]]
+| website             = 
+}}
+'''Konrad Wert''', known as '''Possessed by Paul James''' since 2005, is an American folk singer, songwriter and musician from [[Lee County, Florida]].<ref>[http://www.austinchronicle.com/music/2005-12-16/320177/ One in a Million]</ref>  His music is composed of string instruments including [[banjo]], [[guitar]] and [[fiddle]] with roots within [[Folk music|folk]], [[blues]] and [[Punk rock|punk]].  He was raised in a small [[Mennonite]] community among [[pacifists]], service workers and transplants. He lives in Texas with his wife and sons selling his music online and going on tours. He is also a special education teacher in Kerrville, Texas.<ref name="emu">{{cite web|url=http://emu.edu/now/news/2015/01/konrad-wert-a-k-a-possessed-by-paul-james-draws-spotlight-from-billboard-charts-npr-and-ny-times-before-returning-yet-again-to-emu/|title=Konrad Wert, a.k.a. Possessed by Paul James, draws spotlight from Billboard charts, NPR and NY Times before returning (yet again) to EMU|date=13 January 2015|accessdate=16 January 2015}}</ref> 
+
+At the end of 2013 ''There Will Be Nights When I'm Lonely'' was released with Hillgrass Bluebilly Records. The album initially charted at #12 on [[Billboard Magazine]] under the Country/Bluegrass genre. [[National Public Radio]], [[Country Music Television|CMT]], [[MTV]] featured both articles and tracks from the release. ''[[The New York Times]]'' stated "PPJ [was] a one man folk wonder"<ref name="nytimes.com">{{Cite news|url=https://www.nytimes.com/slideshow/2014/08/05/arts/music/20140804PICKATHON.html#6|title = Photos from the Pickathon Music Festival|newspaper = The New York Times|date = 4 August 2014|last1 = Caramanica|first1 = Jon}}</ref> and was featured at one of the top concerts of the 2014 Pickathon Music Festival in Oregon.<ref>{{Cite news|url=https://www.nytimes.com/2014/12/30/arts/music/best-concerts-of-2014-beyonc-lorde-st-vincent-romeo-santos-and-more.html?_r=0|title=Sounds That Lingered: Critics' Top 10 Concerts|newspaper=The New York Times|date=29 December 2014|last1=Pareles|first1=Jon}}</ref>
+ 
+== Discography ==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:18em;"| Title
+! rowspan="2" style="width:20em;"| Album details
+! Peak positions
+|- style="font-size:smaller;"
+! width="65"| [[Top Bluegrass Albums|US Grass]]
+|-
+| scope="row" | ''Possessed by Paul James''
+| 
+* Release date: 2006
+* Label: SYA Records
+| —
+|-
+| scope="row" | ''Cold and Blind''
+| 
+* Release date: March 10, 2008
+* Label: [[Voodoo Rhythm Records]]
+| —
+|-
+| scope="row" | ''The Revival Tour''
+| 
+* Release date: 2009<ref>[http://www.chuckraganmusic.com/news.html Ten Four Records] {{webarchive|url=https://web.archive.org/web/20090803130639/http://www.chuckraganmusic.com/news.html |date=2009-08-03 }}</ref>
+* Label: Ten Four Records
+| —
+|-
+| scope="row" | ''Feed the Family''
+| 
+* Release date: September 21, 2010<ref>{{Cite web | url=http://ninebullets.net/archives/possessed-by-paul-james-feed-the-family | archive-url=https://web.archive.org/web/20100913025318/http://ninebullets.net/archives/possessed-by-paul-james-feed-the-family | url-status=usurped | archive-date=September 13, 2010 | title=POSSESSED BY PAUL JAMES – FEED THE FAMILY | author= | publisher=ninebullets.net | date=2010-08-30 | accessdate=2011-04-08}}</ref>
+* Label: Hillgrass Bluebilly Records
+| —
+|-
+| scope="row" | ''Live at Antone's''
+| 
+* Release date: 2012
+* Label: Normandeep Blues Records
+| —
+|-
+| scope="row" | ''There Will Be Nights When I'm Lonely''
+| 
+* Release date: October 29, 2013
+* Label: Hillgrass Bluebilly Records
+| 12
+|-
+| scope="row" | ''As We Go Wandering''
+| 
+* Release date: 2020
+* Label: PPJ Records
+| —
+|-
+|''Fighting For Our Own Survival''
+|
+* Release date: June 16, 2023
+* Label: PPJ Records
+|—
+|-
+| colspan="3" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [http://www.ppjrecords.com www.ppjrecords.com]
+{{Authority control}}
+
+{{DEFAULTSORT:Possessed by Paul James}}
+[[Category:1976 births]]
+[[Category:Living people]]
+[[Category:Musicians from Texas]]
+[[Category:People from Collier County, Florida]]
+[[Category:American Mennonites]]
+[[Category:Mennonite musicians]]

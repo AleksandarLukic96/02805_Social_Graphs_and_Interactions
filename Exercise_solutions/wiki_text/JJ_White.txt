@@ -1,0 +1,85 @@
+{{short description|American country music group}}
+{{Infobox musical artist
+| name            = JJ White
+| image           =
+| caption         =
+| image_size      =
+| alias           =
+| origin          = [[Yuba City, California]]
+| genre           = [[Country music|Country]]
+| years_active    = 1989-2003
+| label           = [[Curb Records|Curb]]
+| past_members    = Janice White<br />Jayne White
+}}
+
+'''JJ White''' was an American [[country music]] duo from [[Yuba City, California]] composed of sisters Janice and Jayne White. Signed to [[Curb Records]] in 1989, the duo charted four singles on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles & Tracks]] chart between 1991 and 1992.<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|page=210|year=2008|isbn=978-0-89820-177-2}}</ref> Their 1991 debut album, ''Janice and Jayne'', received a B rating from [[Entertainment Weekly]]'s [[Alanna Nash]].<ref>{{cite news|last=Nash|first=Alanna|title=Janice and Jayne Review|url=https://ew.com/article/1991/08/16/janice-and-jayne/|accessdate=August 31, 2011|newspaper=[[Entertainment Weekly]]|date=August 16, 1991}}</ref> Their second album ''Scratches on Her Knees'' was independently produced and released in 1999.<ref name="white">{{cite news|last=Bransford|first=Scott|url=https://www.appeal-democrat.com/y-s-entertainer-community-spirited-jayne-white-dies/article_a04a82f5-ee20-5dd9-83bf-8862cb75b945.html|title=Y-S entertainer, community-spirited Jayne White dies|newspaper=[[Appeal-Democrat]]|date=July 29, 2003}}</ref> Jayne White died in 2003 from cancer.<ref name="white"/>
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:14em;"| Title
+! style="width:16em;"| Album details
+|- 
+! scope="row"| ''Janice & Jayne''
+| 
+* Release date: June 18, 1991
+* Label: [[Curb Records]]
+|-
+! scope="row"| ''Scratches on Her Knees''
+| 
+* Release date: 1999
+* Label: Self-released
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:12em;"| Single
+! Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]<br/><ref name="whitburn"/>
+|-
+| rowspan="3"| 1991
+! scope="row"| "Have a Little Faith"<ref>{{cite magazine|title=Single Reviews|page=95|magazine=Billboard|date=January 26, 1991}}</ref>
+| —
+| align="left" rowspan="4"| ''Janice & Jayne''
+|-
+! scope="row"| "The Crush"
+| 69
+|-
+! scope="row"| "Heart Break Train"
+| 73
+|-
+| rowspan="2"| 1992
+! scope="row"| "Jezebel Kane"
+| 63
+|-
+! scope="row"| "One Like That"
+| 64
+| {{n/a|Non-album single}}
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[{{Allmusic|class=artist|id=p28140|pure_url=yes}} JJ White] on [[Allmusic]]
+
+{{DEFAULTSORT:Jj White}}
+[[Category:Country music groups from California]]
+[[Category:American country music duos]]
+[[Category:Curb Records artists]]
+[[Category:Musical groups established in 1991]]
+[[Category:Musical groups disestablished in 2003]]
+[[Category:1991 establishments in California]]
+[[Category:Female musical duos]]
+[[Category:Sibling musical duos]]
+[[Category:People from Yuba City, California]]
+
+
+{{US-country-band-stub}}

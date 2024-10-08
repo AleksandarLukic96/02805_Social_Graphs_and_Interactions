@@ -1,0 +1,93 @@
+{{Short description|American country music group}}{{Use mdy dates|date=June 2012}}
+{{Infobox musical artist
+| name            = The Dirt Drifters
+| image           =
+| caption         =
+| origin          = [[Nashville, Tennessee]], U.S.
+| genre           = [[Country music|Country]]
+| years_active    = 2010–2012
+| label           = [[Warner Bros. Records|Warner Bros.]]
+| associated_acts =
+| website         =
+| current_members = Matt Fleener<br />Ryan Fleener<br/ >Jeff Middleton<br />Jeremy Little<br />Nick Diamond
+}}
+
+'''The Dirt Drifters''' was an American [[country music]] group made up of five musicians: lead singer/guitarist Matt Fleener, vocalist/guitarist Ryan Fleener, vocalist/guitarist Jeff Middleton, bassist Jeremy Little and drummer Nick Diamond.<ref>{{cite web|url=http://www.thedirtdrifters.com/bio/|title=Bio|work=The Dirt Drifters|accessdate=August 10, 2011}}</ref> They were signed to [[Warner Bros. Records]] and their debut CD, ''This Is My Blood'', was released on July 19, 2011.<ref>{{cite web|url=http://tasteofcountry.com/the-dirt-drifters-interview-2011/|title=The Dirt Drifters Will Always Have a 'Reason' for Making Country Music|last=Conaway|first=Alanna|date=June 29, 2011|work=Taste of Country|accessdate=July 18, 2011}}</ref>
+
+Their debut single, "Something Better," was released in February 2011.<ref>{{cite web|url=http://www.theboot.com/2011/03/04/the-dirt-drifters-interview/|title=Dirt Drifters Bring 'Something Better' to Country Music|last=Duvall|first=Erin|date=March 4, 2011|work=The Boot|accessdate=March 10, 2011}}</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:12em;"| Title
+! rowspan="2" style="width:16em;"| Album details
+! colspan="2"| Peak chart<br>positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]<br><ref>{{cite magazine|url={{BillboardURLbyName|artist=the dirt drifters|chart=Country Albums C}}|title=The Dirt Drifters Album & Song Chart History – Country Albums|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=July 28, 2011}}</ref>
+! width="45"| [[Top Heatseekers|US<br>Heat]]<br><ref>{{cite magazine|url={{BillboardURLbyName|artist=the dirt drifters|chart=Heatseekers Albums}}|title=The Dirt Drifters Album & Song Chart History – Heatseekers Albums|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=July 28, 2011}}</ref>
+|-
+! scope="row"| ''This Is My Blood''
+| 
+* Release date: July 19, 2011
+* Label: [[Warner Bros. Records]]
+| 57
+| 32
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:12em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]<br><ref>{{cite magazine|url={{BillboardURLbyName|artist=the dirt drifters|chart=Country Songs}}|title=The Dirt Drifters Album & Song Chart History – Country Songs|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=July 28, 2011}}</ref>
+|-
+| rowspan="2"| 2011
+! scope="row"| "Something Better"
+| 48
+| align="left" rowspan="3"| ''This Is My Blood''
+|-
+! scope="row"| "Always a Reason"
+| —
+|-
+| 2012
+! scope="row"| "There She Goes"
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:12em;"| Video
+! Director
+|-
+| rowspan="2"| 2011
+! scope="row"| "Something Better"<ref>{{cite web|url=http://www.cmt.com/videos/the-dirt-drifters/643502/something-better.jhtml|archive-url=https://web.archive.org/web/20110424092829/http://www.cmt.com/videos/the-dirt-drifters/643502/something-better.jhtml|url-status=dead|archive-date=April 24, 2011|title=CMT : Videos : The Dirt Drifters : Something Better|publisher=[[Country Music Television]]|accessdate=April 19, 2011}}</ref>
+| [[Wes Edwards]]
+|-
+! scope="row"| "Always a Reason"<ref>{{cite web|url=http://www.cmt.com/videos/the-dirt-drifters/705736/always-a-reason.jhtml|archive-url=https://web.archive.org/web/20130625231748/http://www.cmt.com/videos/the-dirt-drifters/705736/always-a-reason.jhtml|url-status=dead|archive-date=June 25, 2013|title=CMT : Videos : The Dirt Drifters : Always A Reason|publisher=[[Country Music Television]]|accessdate=October 28, 2011}}</ref>
+| Andi Zack
+|}
+
+== References ==
+{{Reflist|colwidth=30em}}
+
+== External links ==
+* [http://www.thedirtdrifters.com/ The Dirt Drifters Official Website]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Dirt Drifters, The}}
+[[Category:Country music groups from Tennessee]]
+[[Category:Musical groups from Nashville, Tennessee]]
+[[Category:Warner Records artists]]
+
+
+{{US-country-band-stub}}

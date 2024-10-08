@@ -1,0 +1,196 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist
+|name            = Trent Tomlinson
+|image             = Trent 7 resized.jpg
+|caption        = Tomlinson singing at the seventh annual Country Music Festival in Essex, Vermont, on July 9, 2006.
+|background      = solo_singer
+| birth_place  = [[Blytheville, Arkansas]], United States
+| birth_date   = {{Birth date and age|1975|07|03}}<ref>{{cite web|url=http://countrymusic.about.com/od/trenttomlinson/p/ttomlinsonpr.htm|title=History of the Grand Ole Opry|website=countrymusic.about.com}}</ref>
+|origin          = [[Kennett, Missouri]], United States
+|instrument      = Vocals, guitar
+|genre           = [[Country music|Country]]
+|occupation      = Singer-songwriter
+|years_active    = 2004–present
+|label           = [[Lyric Street Records|Lyric Street]]<br />Carolwood<br>Skyville<br />New Revolution
+|website             ={{URL|trenttomlinson.net}}
+}}
+
+'''Trent Tomlinson''' (born July 3, 1975) is an American [[country music]] artist. After several failed attempts at finding a record deal, Tomlinson was signed to [[Lyric Street Records]] in 2005, with his debut album ''[[Country Is My Rock]]'', released in early 2006. This album produced three Top 40 singles on the U.S. ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] charts: "Drunker Than Me" at No.&nbsp;19, "One Wing in the Fire" at No.&nbsp;11, and "Just Might Have Her Radio On" at No.&nbsp;21. Three further singles were released in 2009.
+
+==Biography==
+Tomlinson was born in [[Blytheville, Arkansas]].<ref>{{cite web|url=http://www.kait8.com/Global/story.asp?S=5191356|title=KAIT – Jonesboro, AR : Trent Tomlinson: Rising Star|website=www.kait8.com}}</ref> He was raised in [[Kennett, Missouri]]. His father is a former basketball star who set scoring records at the [[University of Missouri]] and was drafted by the [[Cleveland Cavaliers]]. He was also the basketball coach, biology teacher, and assistant principal at Kennett High School.
+
+In his junior year of high school, Tomlinson reached the finals for "You Can Be a Star," a television talent show on The Nashville Network (now [[Spike TV]]), in which Trent placed second. After numerous deals cut short due to labels that went bankrupt or were being taken over, Tomlinson landed a songwriting deal with Cal IV Entertainment. Some of his songs were recorded by [[Emerson Drive]] and [[Blue County (music group)|Blue County]] on their respective debut albums. He also cut some sides for [[Lyric Street Records]], with whom he later signed a record deal. Tomlinson's debut single, "Drunker Than Me," was released in late 2005, followed by his album ''Country Is My Rock''. Two additional singles were also released from the album: "One Wing in the Fire" and "Just Might Have Her Radio On," the former is a song about Tomlinson's father. Tomlinson also co-wrote the track "Missing Missouri" on [[Sara Evans]]'s 2005 album ''[[Real Fine Place]]'' and "Why Can't I Leave Her Alone" on [[George Strait]]'s 2006 album ''[[It Just Comes Natural]]''.
+
+On December 15, 2008, it was announced that Tomlinson would be the second artist signed to Lyric Street's subsidiary label, Carolwood Records. His fourth single, "That's How It Still Oughta Be," made its chart debut in January 2009. That song fell from the charts in May 2009 and was replaced by "Henry Cartwright's Produce Stand." A third single, "Angels Like Her" (a re-recording of a song on his debut), was released on October 26, 2009, shortly before the closure of Carolwood. Tomlinson subsequently returned to Lyric Street before parting ways in March 2010. All three songs were included on an EP titled ''A Guy Like Me''.
+
+Tomlinson released "Man Without a Woman" via Skyville Records in 2011, and did not release an album despite the single charting. In 2014, [[Parmalee]] released the single "[[Close Your Eyes (Parmalee song)|Close Your Eyes]]," which Tomlinson co-wrote.
+
+Tomlinson also co-wrote the RIAA Diamond Certified hit "In Case You Didn't Know" which was released in 2017.
+
+==Personal life==
+Tomlinson married model Jessica Lowman on March 22, 2008.<ref>{{cite web|url=http://www.trenttomlinson.com/index.php?page=news&n_id=285|title= Trent says "I do" to model Jessica Lowman|date=April 1, 2008|accessdate=March 23, 2009}}</ref> They have one daughter, Harleigh Alexyia Tomlinson, who was born January 14, 2008. Tomlinson and Lowman are now divorced.<ref>{{cite web|url=http://www.soundslikenashville.com/music/trent-tomlinson-gets-personal-on-new-album-thats-whats-working-right-now/|title=Trent Tomlinson Gets Personal on New Album, 'That’s What’s Working Right Now'|date=November 5, 2016|website=www.soundslikenashville.com}}</ref><ref>{{cite web|url=http://celebritybabies.people.com/2008/03/10/trent-tomlinson/|title=Singer Trent Tomlinson is a new dad|website=celebritybabies.people.com}}</ref>
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:12em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="2"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]<br><ref name="Country Albums">{{cite web|url={{BillboardURLbyName|artist=trent tomlinson|chart=Country Albums C}}|title=Trent Tomlinson Album & Song Chart History – Country Albums|work=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=September 10, 2011}}</ref>
+! width="45"| [[Billboard 200|US]]<br><ref name="Billboard 200">{{cite web|url={{BillboardURLbyName|artist=trent tomlinson|chart=Billboard 200}}|title=Trent Tomlinson Album & Song Chart History – Billboard 200|work=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=September 10, 2011}}</ref>
+|-
+! scope="row"| ''[[Country Is My Rock]]''
+| 
+* Release date: March 7, 2006
+* Label: [[Lyric Street Records]]
+| 20
+| 95
+|-
+! scope="row"| ''That's What's Working Right Now''
+| 
+* Release date: October 7, 2016
+* Label: Mucho Love Music
+| —
+| —
+|}
+
+===Extended plays===
+{| class="wikitable plainrowheaders"
+|-
+! style="width:12em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''A Guy Like Me''
+| 
+* Release date: January 12, 2010
+* Label: Lyric Street Records
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<br><ref name="Country Songs">{{cite web|url={{BillboardURLbyName|artist=trent tomlinson|chart=Country Songs}}|title=Trent Tomlinson Album & Song Chart History – Country Songs|work=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=September 10, 2011}}</ref>
+! width="45"| [[Billboard Hot 100|US]]<br><ref name="Hot 100">{{cite web|url={{BillboardURLbyName|artist=trent tomlinson|chart=Hot 100}}|title=Trent Tomlinson Album & Song Chart History – Hot 100|work=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=September 10, 2011}}</ref>
+|-
+| 2005
+! scope="row"| "[[Drunker Than Me]]"
+| 19
+| —{{efn|group=upper-alpha|"Drunker Than Me" did not enter the Hot 100, but peaked at number 3 on [[Bubbling Under Hot 100 Singles]].<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2012|publisher=Record Research, Inc|date=2012|isbn=978-0-89820-203-8|page=339}}</ref>}}
+| align="left" rowspan="3"| ''Country Is My Rock''
+|-
+| 2006
+! scope="row"| "[[One Wing in the Fire]]"
+| 11
+| 90
+|-
+| 2007
+! scope="row"| "[[Just Might Have Her Radio On]]"
+| 21
+| —{{efn|group=upper-alpha|"Just Might Have Her Radio On" did not enter the Hot 100, but peaked at number 14 on Bubbling Under Hot 100 Singles.<ref name="whitburn"/>}}
+|-
+| rowspan="3"| 2009
+! scope="row"| "That's How It Still Oughta Be"
+| 34
+| —
+| align="left" rowspan="3"| ''A Guy Like Me''
+|-
+! scope="row"| "Henry Cartwright's Produce Stand"
+| 44
+| —
+|-
+! scope="row"| "Angels Like Her"
+| —
+| —
+|-
+| 2010
+! scope="row"| "Cross My Heart"
+| —
+| —
+| align="left"| Non-album song
+|-
+| 2011
+! scope="row"| "A Man Without a Woman"
+| 59
+| —
+| align="left"| ''When I Get on a Roll'' <small>(unreleased)</small>
+|-
+| 2014
+! scope="row"| "Come Back To Bed"
+| —
+| —
+| align="left"| Non-album song
+|-
+|-
+| 2016
+! scope="row"| "When She Goes There"
+| —
+| —
+| align="left" rowspan=2| ''That's What's Working Right Now''
+|-
+| 2017
+! scope="row"| "That's What's Working Right Now"
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+;Notes
+{{notelist-ua}}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:18em;"| Video
+! Director
+|-
+| 2005
+! scope="row"| "Drunker Than Me"
+| [[Trey Fanjoy]]
+|-
+| 2006
+! scope="row"| "One Wing in the Fire"
+| [[Shaun Silva]]
+|-
+| 2007
+! scope="row"| "Just Might Have Her Radio On"
+| Steve Cook
+|-
+| 2014
+! scope="row"| "Come Back to Bed"
+|
+|-
+| 2016
+! scope="row"| "When She Goes There"
+|
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.trenttomlinson.com/ Official website]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Tomlinson, Trent}}
+[[Category:1975 births]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Country musicians from Arkansas]]
+[[Category:Living people]]
+[[Category:Lyric Street Records artists]]
+[[Category:Singer-songwriters from Arkansas]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:21st-century American male singers]]

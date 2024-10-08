@@ -1,0 +1,102 @@
+{{Short description|American country music group}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Palomino Road
+| image               =
+| caption             =
+| image_size          =
+| background          = group_or_band
+| origin              = [[Nashville, Tennessee]], United States
+| genre               = [[Country music|Country]], [[southern rock]]
+| years_active        = 1992-1993
+| label               = [[Liberty Records|Liberty]]
+| past_members        = [[J. T. Corenflos]]<br />Randy Frazier<br />Ronnie Guilbeau<br />James Lewis
+}}
+'''Palomino Road''' was an American [[country music]] group composed of Ronnie Guilbeau ([[Lead vocalist|lead vocals]]), [[J. T. Corenflos]] ([[guitar]]), James Lewis ([[Drum kit|drums]]) and Randy Frazier ([[bass guitar]]). Founded in 1992, the band recorded a self-titled album for [[Liberty Records]], and charted with a cover of [[George Jones]]'s 1955 debut single "[[Why Baby Why]]".
+
+==History==
+All four members of Palomino Road had experience in country music prior to the band's foundation. Lead singer Ronnie Guilbeau (son of [[Gib Guilbeau]] of [[The Flying Burrito Brothers]])<ref name="whitburn"/> had played in that band before a 1980s move to [[Nashville, Tennessee]]. J.T. Corenflos, the band's guitarist, was previously a backing musician for [[Joe Stampley]], while Randy Frazier had previously backed [[Sammy Kershaw]] and James Lewis had been active as a drummer in Nashville since the 1970s.
+
+Palomino Road signed to [[Liberty Records]] in 1992, releasing its self-titled debut album in early 1993. This record featured no contributions from external musicians. Its first single, a cover of [[George Jones]]'s 1955 single "[[Why Baby Why]]", reached number 46 on the ''[[Billboard (magazine)|Billboard]]'' Hot Country Singles & Tracks (now [[Hot Country Songs]]) charts. The album's second single, "The Best That You Can Do", was released in 1993 but failed to chart. The band broke up later that same year.
+
+In 1994, Frazier joined the band [[McBride & the Ride]] as bass guitarist.<ref name="new">{{cite journal |last=Mansfield |first=Brian |date=March 1994 |title=McBride & the Ride: Now They Are Six |journal=New Country |volume=1 |issue=1 |pages=11}}</ref> The lineup with Frazier disbanded in 1996. Corenflos, meanwhile, found work as a session guitarist.<ref>{{cite web |url=http://specials.tribstar.com/nashville/corenflos/ |title=Man behind the music: Session guitarist J.T. Corenflos backs many top-name stars |accessdate=2008-08-10 |last=Bennett |first=Mark |work=Tribune-Star |archive-url=https://web.archive.org/web/20080602062432/http://specials.tribstar.com/nashville/corenflos/ |archive-date=2008-06-02 |url-status=dead }}</ref>
+
+==''Palomino Road'' (1993)==
+{{Infobox album
+| italic_title = no
+| name         = Palomino Road
+| type         = studio
+| artist       = Palomino Road
+| cover        = palominoroad.png
+| alt          =
+| released     = {{start date|1993|03|09}}
+| recorded     =
+| venue        =
+| studio       =
+| genre        = Country
+| length       =
+| label        = Liberty
+| producer     = Thom McHugh<Br />[[Keith Follesé]]<br />Chuck Howard
+| prev_title   =
+| prev_year    =
+| next_title   =
+| next_year    =
+}}
+
+===Track listing===
+All songs written by Keith Follesé, Ronnie Guilbeau and Thom McHugh except where noted.
+#"[[Why Baby Why]]" ([[George Jones]], Darrell Edwards) – 2:33
+#"It Works Both Ways" – 2:40
+#"That's Where I Draw the Line" ([[Roger Ballard (American singer-songwriter)|Roger Ballard]], Follesé, McHugh) – 3:06
+#"The Best That You Can Do" – 3:52
+#"Dead End Saloon" (J.T. Corenflos, Follesé, McHugh) – 4:08
+#"Love Come Back" – 2:56
+#"Over and Over" – 3:45
+#"No Time to Stop Believing" – 3:03
+#"She Rides Alone" – 3:53
+#"Love Has the Last Word" (Guilbeau, [[Craig Wiseman]]) – 3:11
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:16em;"| Single
+! colspan="2"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<br /><ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=314|isbn=978-0-89820-177-2}}</ref>
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| 1992
+! scope="row"| "[[Why Baby Why]]"
+| 46
+| 42
+|-
+| 1993
+! scope="row"| "The Best That You Can Do"<ref>{{cite magazine|url=http://americanradiohistory.com/Archive-Billboard/90s/1993/BB-1993-05-08.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|date=May 8, 1993}}</ref>
+| —
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:16em;"| Video
+|-
+| 1992
+! scope="row"| "Why Baby Why"
+|-
+| 1993
+! scope="row"| "The Best That You Can Do"
+|}
+
+==References==
+{{Reflist}}
+
+[[Category:Country music groups from Tennessee]]
+[[Category:Musical groups from Nashville, Tennessee]]
+[[Category:Liberty Records artists]]
+[[Category:Musical groups established in 1992]]
+[[Category:Musical groups disestablished in 1993]]

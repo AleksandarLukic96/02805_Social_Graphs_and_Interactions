@@ -1,0 +1,66 @@
+{{short description|American country music singer}}
+{{Use mdy dates|date=July 2020}}
+{{Infobox musical artist 
+| name            = Rosemary Sharp
+| image             = 
+| caption        = 
+| image_size        = 
+| background      = solo_singer
+| origin          = [[Fort Worth, Texas]]
+| instrument      = 
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 1987–1988
+| label           = Canyon Creek
+| associated_acts = 
+| website             = 
+}}
+'''Rosemary Sharp''' is an American [[country music]] singer. Between 1987 and 1988, Sharp released four singles on Canyon Creek Records, including "If You're Going to Tell Me Lies" which peaked at 67<ref>{{Cite magazine|url=https://www.billboard.com/music/rosemary-sharp|title=Rosemary Sharp If You're Gonna Tell Me Lies Chart History|magazine=Billboard|access-date=February 9, 2020}}</ref> and "Real Good Heartache" which peaked at 76.<ref>{{Cite book|last=Whitburn|first=Joel|url=https://books.google.com/books?id=AZszAQAAIAAJ&q=rosemary+sharp+real+good+heartache|title=Top Country Singles, 1944 to 2001: Chart Data Compiled from Billboard's Country Singles Charts, 1944–2001|date=2002|publisher=Record Research|isbn=978-0-89820-151-2|pages=497|language=en}}</ref> Three of her songs reached the Top 20 on the ''[[RPM (magazine)|RPM]]'' Country Tracks chart in Canada.<ref>[http://www.collectionscanada.gc.ca/rpm/028020-110.01-e.php?PHPSESSID=or6t8bec3u9j94qn4p1q18enu5&q1=rosemary+sharp&q2=Country+Singles&interval=24 ''RPM'' Country Singles]</ref> Her single "Didn't You Go and Leave Me" is included in the collection of the [[National Museum of American History]].<ref>{{cite news |title=Didn't You Go and Leave Me |url=https://americanhistory.si.edu/collections/search/object/nmah_1271155 |access-date=12 May 2022 |work=[[National Museum of American History]] |publisher=[[Smithsonian]]}}</ref>
+
+==Discography==
+
+===Singles===
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="2"| Chart Positions
+|-
+! width="50"| <small>[[Hot Country Songs|US Country]]</small>
+! width="50"| <small>CAN Country</small>
+|-
+| rowspan="3"| 1987
+| "Didn't You Go and Leave Me"
+| align="center"| 85<ref>{{Cite magazine|url=https://www.billboard.com/music/rosemary-sharp|title=Rosemary Sharp Chart History|magazine=Billboard|access-date=February 9, 2020}}</ref>
+| align="center"| 17
+|-
+| "Real Good Heartache"
+| align="center"| 76
+| align="center"| 17
+|-
+| "If You're Gonna Tell Me Lies (Tell Me Good Ones)"
+| align="center"| 67
+| align="center"| 9
+|-
+| 1988
+| "The Stairs"
+| align="center"| 68
+| align="center"| —
+|}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Sharp, Rosemary}}
+[[Category:American women country singers]]
+[[Category:Living people]]
+[[Category:Singers from Texas]]
+[[Category:Musicians from Fort Worth, Texas]]
+[[Category:Songwriters from Texas]]
+[[Category:Country musicians from Texas]]
+[[Category:Year of birth missing (living people)]]
+[[Category:21st-century American women]]
+
+
+{{US-country-singer-stub}}

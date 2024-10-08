@@ -1,0 +1,331 @@
+{{short description|Australian singer and songwriter (born 1995)}}
+{{Use dmy dates|date=October 2019}}
+{{Use Australian English|date=October 2019}}
+{{Infobox musical artist
+| name            = Caitlyn Shadbolt
+| image           =
+| alt             =
+| caption         =
+| birth_name      =
+| birth_date      = {{Birth date and age|df=yes|1995|10|4}} [[Gympie]], [[Queensland]]
+| birth_place     =
+| origin          =
+| genre           = [[Country music|Country]]
+| associated_acts =
+| occupation      = {{flat list|
+*Singer
+*songwriter
+}}
+| instrument      = {{flat list|
+*Vocals
+}}
+| years_active    = {{flat list|
+*2014–present
+}}
+| label           = [[ABC Music]]
+| website         = {{URL|http://caitlynshadbolt.com}}
+}}
+
+'''Caitlyn Shadbolt''' is an Australian singer and songwriter. Shadbolt rose to fame after being the ninth contestant eliminated on the [[The X Factor (Australia season 6)|sixth season]] of ''[[The X Factor (Australian TV series)|The&nbsp;X&nbsp;Factor&nbsp;Australia]]''. She released her debut [[extended play]] in 2015, which peaked at number 50.
+
+==Early life==
+{{Empty section|date=December 2018}}
+
+==Career==
+Shadbolt started playing in a band at the age of 12.
+
+===2014: ''The X Factor Australia''===
+In 2014, Shadbolt successfully auditioned for the [[The X Factor (Australia season 6)|sixth season]] of ''[[The X Factor (Australian TV series)|The X Factor Australia]]'' singing "[[Life Is a Highway]]" by [[Tom Cochrane]]. She made it through to the live shows and was mentored by [[Ronan Keating]].
+
+{|class="wikitable collapsible collapsed" style="text-align:center;"
+|-
+! scope="col"| Show
+! scope="col"| Theme
+! scope="col"| Song
+! scope="col"| Original artist(s)
+! scope="col"| Order
+! scope="col"| Result
+|-
+!scope="row"| Audition
+|Free choice
+|"[[Life Is a Highway]]"
+|[[Tom Cochrane]]
+|rowspan="4"| N/A
+|Through to super bootcamp
+|-
+! scope="row"| Super bootcamp 1
+|Group performance
+|Unknown
+|Unknown
+|Through to super bootcamp 2
+|-
+!scope="row"| Super bootcamp 2
+|Solo performance
+|"[[Brave (Sara Bareilles song)|Brave]]"
+|[[Sara Bareilles]]
+|Through to home visits
+|-
+!scope="row"| Home visits
+|Free choice
+|"[[Skyscraper (song)|Skyscraper]]"
+|[[Demi Lovato]]
+|Through to live shows
+|-
+!scope="row"| Week 1
+|Judges' Choice<ref>{{cite web|url=https://au.tv.yahoo.com/x-factor/24673433/week-1-judges-choice/ |title=Week 1: Judges' Choice |work=The X Factor Australia |publisher=Yahoo!7 |date=9 August 2014 |archiveurl=https://web.archive.org/web/20141028235855/https://au.tv.yahoo.com/x-factor/24673433/week-1-judges-choice/ |archivedate=28 October 2014 |url-status=dead }}</ref>
+|"[[Days Go By (Keith Urban song)|Days Go By]]"
+|[[Keith Urban]]
+|10
+|Safe
+|-
+!scope="row"| Week 2
+|Legends<ref>{{cite web|url=https://au.tv.yahoo.com/x-factor/24733515/week-2-legends/ |title=Week 2: Legends |work=The X Factor Australia |publisher=Yahoo!7 |date=16 August 2014 |archiveurl=https://web.archive.org/web/20141029001425/https://au.tv.yahoo.com/x-factor/24733515/week-2-legends/ |archivedate=29 October 2014 |url-status=dead }}</ref>
+|"[[Blaze of Glory (Jon Bon Jovi song)|Blaze of Glory]]"
+|[[Jon Bon Jovi]]
+|9
+|Safe
+|-
+!scope="row"| Week 3
+|Decades Challenge<ref>{{cite web|url=https://au.tv.yahoo.com/x-factor/24767859/week-3-decades-challenge/ |title=Week 3: Decades Challenge |work=The X Factor Australia |publisher=Yahoo!7 |date=20 August 2014 |archiveurl=https://web.archive.org/web/20141028235911/https://au.tv.yahoo.com/x-factor/24767859/week-3-decades-challenge/ |archivedate=28 October 2014 |url-status=dead }}</ref>
+|"[[Is She Really Going Out with Him?]]"
+|[[Joe Jackson (musician)|Joe Jackson]]
+|2
+|Safe
+|-
+!scope="row"| Week 4
+|Top 10 Hits<ref>{{cite web|url=https://au.tv.yahoo.com/x-factor/24851404/the-top-10-do-top-10-hits-/ |title=The Top 10 Do Top 10 Hits! |work=The X Factor Australia |publisher=Yahoo!7 |date=29 August 2014 |archiveurl=https://web.archive.org/web/20141028235905/https://au.tv.yahoo.com/x-factor/24851404/the-top-10-do-top-10-hits-/ |archivedate=28 October 2014 |url-status=dead }}</ref>
+|"[[Shake It Off]]" 
+|[[Taylor Swift]]
+|10
+|Safe
+|-
+!scope="row"| Week 5
+|Latest and Greatest<ref>{{cite web|url=https://au.tv.yahoo.com/x-factor/24905497/week-5-latest-and-greatest/ |title=Week 5: Latest and Greatest |work=The X Factor Australia |publisher=Yahoo!7 |date=5 September 2014 |archiveurl=https://web.archive.org/web/20141029001420/https://au.tv.yahoo.com/x-factor/24905497/week-5-latest-and-greatest/ |archivedate=29 October 2014 |url-status=dead }}</ref>
+|"[[You and I (Lady Gaga song)|You and I]]"
+|[[Lady Gaga]]
+|7
+|Safe (6th)
+|-style="background:lightblue;"
+!scope="row" rowspan="2"| Week 6
+|Rock<ref>{{cite web|url=https://au.tv.yahoo.com/x-factor/24955960/week-6-rock-week-/ |title=Week 6: Rock Week! |work=The X Factor Australia |publisher=Yahoo!7 |date=10 September 2014 |archiveurl=https://web.archive.org/web/20141028235900/https://au.tv.yahoo.com/x-factor/24955960/week-6-rock-week-/ |archivedate=28 October 2014 |url-status=dead }}</ref>
+| "[[Closer to the Edge]]"
+| [[Thirty Seconds to Mars]]
+|6
+|Bottom two (7th)
+|- 
+| Final showdown
+|"[[Before the Worst]]"
+|[[The Script]]
+|1
+|Saved via deadlock
+|-style="background:lightblue;"
+!scope="row" rowspan="2"| Week 7
+|Judges' Challenge<ref>{{cite web|url=https://au.tv.yahoo.com/x-factor/25047936/week-7-song-list-judges-challenge/ |title=Week 7 Song List: Judges' Challenge |work=The X Factor Australia |publisher=Yahoo!7 |date=18 September 2014 |archiveurl=https://web.archive.org/web/20141006091148/https://au.tv.yahoo.com/x-factor/25047936/week-7-song-list-judges-challenge/ |archivedate=6 October 2014 |url-status=dead }}</ref>
+|"[[Still Into You]]"
+|[[Paramore]]
+|5
+|Bottom three (5th/6th)
+|-
+| Final showdown
+|"[[Temporary Home]]"
+|[[Carrie Underwood]]
+|1
+|Saved via deadlock
+|-
+!scope="row"| Week 8
+|Aussie Week<ref>{{cite web|url=https://au.tv.yahoo.com/x-factor/25116442/aussie-week-song-list/ |title=Aussie Week Song List |work=The X Factor Australia |publisher=Yahoo!7 |date=26 September 2014 |archiveurl=https://web.archive.org/web/20141016090306/https://au.tv.yahoo.com/x-factor/25116442/aussie-week-song-list/ |archivedate=16 October 2014 |url-status=dead }}</ref>
+|"[[Circus Animals|Bow River]]"
+|[[Cold Chisel]]
+|2
+|Safe
+|-style="background:lightblue;"
+!scope="row" rowspan="3"| Week 9
+|rowspan="2"|Killer Tracks and Curveballs<ref>{{cite web|url=https://au.tv.yahoo.com/x-factor/25181031/killer-tracks-and-curve-balls-song-list/ |title=Killer Tracks and Curveballs Song List |work=The X Factor Australia |publisher=Yahoo!7 |date=3 October 2014 |archiveurl=https://web.archive.org/web/20141006163724/https://au.tv.yahoo.com/x-factor/25181031/killer-tracks-and-curve-balls-song-list/ |archivedate=6 October 2014 |url-status=dead }}</ref>
+| "[[Before He Cheats]]"
+| Carrie Underwood
+|5
+|rowspan="2"| Bottom two
+|-style="background:lightblue;"
+| "[[Will You Love Me Tomorrow]]"
+|[[The Shirelles]]
+|10
+|-style="background:pink;"
+| Final showdown
+|"[[If I Die Young]]"
+|[[The Band Perry]]
+|1
+|Eliminated
+|}
+{{Color box|lightblue|border=darkgray}} denotes week in the bottom two/three.<br/>{{Color box|pink|border=darkgray}} denotes being eliminated.
+
+===2015–2016: Debut EP===
+In January 2015, Shadbolt released her debut single, "Maps Out The Window" which shot straight to the top of the iTunes Country Singles Chart and reached the Top 5 on the Australian Country Airplay Chart.<ref name="a">{{cite web|url=https://shop.abc.net.au/products/caitlyn-shadbolt-cd|title=Caitlyn Shadbolt CD|publisher=ABC|accessdate=23 January 2017|archive-url=https://web.archive.org/web/20170202005825/https://shop.abc.net.au/products/caitlyn-shadbolt-cd|archive-date=2 February 2017|url-status=dead}}</ref> In July, Shadbolt signed with ABC Music and released her second single, "Shoot Out The Lights". Her [[Caitlyn Shadbolt (EP)|self-titled]] debut EP was released in August 2015 and peaked at number 50.
+
+In 2016, Shadbolt was nominated for "Best New Artist" Country Music Awards, losing to Chrissie Lamb.<ref>{{cite web|url=http://www.dailytelegraph.com.au/entertainment/sydney-confidential/caitlyn-shadbolt-compared-to-pop-star-taylor-swift-with-the-singer-receiving-a-huge-nomination/news-story/f9bdc8584c61d12971d652ae64312f32 |title=Australia's 'bogan' version of Taylor Swift, Caitlyn Shadbolt takes over country music |publisher=Daily Telegraph|date=30 November 2016|accessdate=23 January 2017}}</ref> In March 2016, Shadbolt won New Oz Artist of the Year at the Country Music Channel Awards.<ref>{{cite web|url=http://www.gympietimes.com.au/news/the-rise-and-rise-of-cait/2960218/|title= Gympie singer Caitlyn Shadbolt wins CMC award|publisher=Gympie Times|date=11 March 2016|accessdate=23 January 2017}}</ref>
+
+===2017–2019: ''Songs on My Sleeve''===
+In March 2017, Shadbolt released "My Break Up Anthem" as the lead single from her debut studio album ''[[Songs on My Sleeve]]'' released in May 2017.<ref name="b">{{cite web|url=http://www.cmcrocks.com/artists/caitlyn-shadbolt.aspx|title=CAITLYN SHADBOLT CMC Rocks Queensland|publisher=CMC Rocks|accessdate=23 January 2017|archive-url=https://web.archive.org/web/20170202020039/http://www.cmcrocks.com/artists/caitlyn-shadbolt.aspx|archive-date=2 February 2017|url-status=dead}}</ref><ref>{{cite web|url=https://www.auspop.com.au/2017/03/caitlyn-shadbolt-announces-debut-album/|title=CAITLYN SHADBOLT ANNOUNCES DEBUT ALBUM|publisher=auspOp|date=17 March 2017|accessdate=19 March 2017}}</ref>
+
+===2020: ''Stages''===
+In January 2020, Shadbolt released a new single titled "Bones". Upon release, Shadbolt said "'Bones' is about chasing the dream. It's a song about persistence, passion and trusting your gut instinct. There are always so many hurdles that come with dreaming big, but when you love something enough, you'll do it regardless. It couldn't speak more truth for me."<ref>{{cite web|url=https://www.caitlynshadbolt.com/bio|title=Bio|date=12 January 2020|accessdate=16 January 2020}}</ref> Singles "Porcelain" and "Edge of the Earth" followed with Shadbolt's second studio album, ''Stages'' set for release in November 2020.
+
+===2021-present: ''Bloom & Surrender''===
+On 26 August 2022, Shadbolt released "Lost On Me", the lead single from her forthcoming third studio album.<ref name="LOM">{{cite web|url=https://www.kixcountry.com.au/hottest-country-news/48341-caitlyn-shadbolt-to-release-her-first-solo-single-in-two-years|title=Caitlyn Shadbolt to Release Her First Solo Single in Two Years|website=Kix Country|date= 26 August 2022|access-date=27 August 2022}}</ref>
+
+In April 2023, Shadbolt announced the release of her third studio album, ''Bloom & Surrender'', set for release on 9 June 2023.<ref name="B&S">{{cite web|url=https://countrytown.com/news/caitlyn-shadbolt-announces-her-3rd-studio-album-bloom-surrender/2Mdmys3Mz84/20-04-23|title= Caitlyn Shadbolt Announces Her 3rd Studio Album 'Bloom & Surrender'|website=Country Town|date=23 April 2023|access-date=2 May 2023}}</ref>
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of Studio albums
+! scope="col" rowspan="2" style="width:14em;"| Title
+! scope="col" rowspan="2"| Album details
+! scope="col" colspan="1"| Peak chart positions
+|-
+! scope="col" style="width:3em;font-size:90%;"| [[ARIA Charts|AUS]]<br /><ref name="Australian Charts">{{cite web|url=http://australian-charts.com/showitem.asp?interpret=Caitlyn+Shadbolt&titel=Caitlyn+Shadbolt&cat=a|title=Australian Charts - Caitlyn Shadbolt|publisher=Australian Charts|accessdate=22 January 2017}}</ref>
+|-
+! scope="row"| ''[[Songs on My Sleeve]]''
+| 
+* Released: 26 May 2017
+* Label: Caitlyn Shadbolt / ABC Music (5757158)
+* Formats: [[Compact Disc|CD]], [[Music download|digital download]]
+| 26
+|-
+! scope="row"| ''Stages''
+| 
+* Released: 6 November 2020<ref>{{cite web|url=https://www.jbhifi.com.au/products/cd-shadbolt-caitlyn-stages-cd|title=Stages|website=[[JB Hi-Fi]]|accessdate=6 October 2020}}</ref>
+* Label: Caitlyn Shadbolt / ABC Music (0743564)
+* Formats: CD, digital download, [[Media streaming]]
+| -
+|-
+! scope="row"| ''Bloom & Surrender''
+| 
+* Scheduled: 9 June 2023<ref name="B&S"/>
+* Label: ABC Music (ABCC0026)
+* Formats: CD, digital download, streaming
+| {{tba}}
+|}
+
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of extended plays
+! scope="col" rowspan="2" style="width:14em;"| Title
+! scope="col" rowspan="2"| Album details
+! scope="col" colspan="1"| Peak chart positions
+|-
+! scope="col" style="width:3em;font-size:90%;"| [[ARIA Charts|AUS]]<br /><ref name="Australian Charts"/>
+|-
+! scope="row"| ''[[Caitlyn Shadbolt (EP)|Caitlyn Shadbolt]]''<ref name="a" />
+| 
+* Released: 21 August 2015 <span style="font-size:85%;">(Australia)</span><ref>{{cite web|url=https://itunes.apple.com/au/album/caitlyn-shadbolt-ep/id1133504702|title=Caitlyn Shadbolt (EP) |publisher=iTunes Australia|accessdate=22 January 2017}}</ref>
+* Label: Caitlyn Shadbolt / ABC Music
+* Formats: [[Compact Disc|CD]], [[Music download|digital download]]
+| 50
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of singles
+! scope="col" style="width:14em;"| Title
+! scope="col"| Year
+! scope="col"| Album
+|-
+! scope="row"| "Maps Out the Window"
+| rowspan="3"| 2015
+| rowspan="3"| ''Caitlyn Shadbolt''
+|-
+! scope="row"| "Shoot Out the Lights"
+|-
+! scope="row"| "Pushing Through"
+|-
+! scope="row"| "My Breakup Anthem"<ref>{{cite web|url=https://itunes.apple.com/au/album/my-breakup-anthem-single/id1210967518|title=My Breakup Anthem|publisher=iTunes Australia|accessdate=19 March 2017}}</ref>
+| rowspan="2"| 2017
+| rowspan="3"| ''Songs on My Sleeve''
+|-
+! scope="row"| "Bad"<ref>{{cite web|url=https://www.auspop.com.au/2017/09/caitlyn-shadbolts-new-video-bad/|title=CAITLYN SHADBOLT'S NEW VIDEO IS BAD|publisher=auspOp|date=4 September 2017|accessdate=15 September 2017}}</ref>
+|-
+! scope="row"| "Me Without You"<ref>{{cite web|url=https://www.girlfriend.com.au/reece-mastin-and-caitlyn-shadbolt-new-song-me-without-you|title=Reece Mastin & Caitlyn Shadbolt have teamed up for an EPIC new song "Me Without You"|publisher=Girlfriend|date=April 2018|accessdate=30 July 2019}}</ref><br><small>(with [[Reece Mastin]])</small>
+| 2018
+|-
+! scope="row"| "Bones"<ref>{{cite web|url=https://music.apple.com/au/album/bones-single/1484033337|title=Bones – Single by Caitlyn Shadbolt|website=Apple Music|accessdate=16 January 2020}}</ref>
+| rowspan="4"| 2020
+| rowspan="5"| ''Stages''<ref name="LOM"/> 
+|-
+! scope="row"| "Porcelain"<ref>{{cite web|url=https://music.apple.com/au/album/porcelain-single/1515839933|title=Porcelain– Single by Caitlyn Shadbolt|website=Apple Music|date=12 June 2020|accessdate=16 January 2020}}</ref>
+|-
+! scope="row"| "Edge of the Earth"<ref>{{cite web|url=https://music.apple.com/au/album/edge-of-the-earth-single/1526762014|title=Edge of the Earth – Single by Caitlyn Shadbolt|website=Apple Music|date=24 August 2020|accessdate=16 January 2020}}</ref>
+|-
+! scope="row"| "Two Lost Lovers"<ref>{{cite web|url=https://music.apple.com/us/album/two-lost-lovers-single/1583343129|title=Two Lost Lovers – Single by Caitlyn Shadbolt|website=Apple Music|date=23 October 2020|access-date=24 June 2022}}</ref>
+|-
+! scope="row"| "Oxygen"<ref>{{cite web|url=https://themusicnetwork.com/charts/singles-to-radio/|title=Singles to Radio 30 April 2021|website=themusicnetwork|access-date=3 May 2021}}</ref>
+| rowspan="1"| 2021
+|-
+! scope="row"| "Dumb Decisions"<ref>{{cite web|url=https://ms-my.facebook.com/CaitlynShadboltMusic/videos/dumb-decisions-out-now-available-on-all-streaming-platforms-turn-it-up-tag-those/808075936823083/|title=DUMB DECISIONS - OUT NOW! 🎉 |website=[[Facebook]]|date=5 May 2022|access-date=24 June 2022}}</ref><br><small>(with Melanie Dyer)</small> 
+| rowspan="2"| 2022
+| rowspan="3"| ''Bloom & Surrender''
+|-
+! scope="row"| "Lost On Me"<ref name="LOM"/> 
+|-
+! scope="row"| "Monsters"<ref name="B&S"/>
+| 2023
+|-
+|}
+
+==Awards and nominations==
+===AIR Awards===
+The Australian Independent Record Awards (commonly known informally as [[AIR Awards]]) is an annual awards night to recognise, promote and celebrate the success of Australia's Independent Music sector.
+{{awards table}}
+|-
+| [[AIR Awards of 2018|2018]]<ref name="18nom">{{cite web|url=https://theindustryobserver.thebrag.com/2018-air-awards-nominees-announced/|title=2018 AIR Awards Nominees|date=17 April 2018 |accessdate=20 August 2020}}</ref><ref name="AIRwins">{{cite web|url=https://www.air.org.au/awards/history|title=History Wins|website=[[Australian Independent Record Labels Association]]|accessdate=18 August 2020}}</ref>
+|''Songs On My Sleeve'' 
+| Best Independent Country Album
+| {{nom}}
+|-
+{{end}}
+
+===Country Music Awards of Australia===
+The [[Country Music Awards of Australia]] is an annual awards night held in January during the [[Tamworth Country Music Festival]]. Celebrating recording excellence in the [[Australian country music]] industry. They commenced in 1973.
+{{awards table}}
+! {{Abbr|Ref.|Reference}}
+|-
+|rowspan="1"| 2016 || Caitlyn Shadbolt || New Talent of the Year || {{nom}} || <ref>{{cite web|url= https://themusicnetwork.com/2016-golden-guitar-awards-finalists-announced/ |title= 2016 Golden Guitar Awards Finalists Announced |website=The Music Network|date=17 November 2016|access-date=2 December 2022}}</ref>
+|-
+|rowspan="1"| 2017 || (unknown) || (unknown) || {{nom}} ||<ref>{{cite web|url=https://www.tcmf.com.au/2017-golden-guitar-award-finalists-announced|title=2017 GOLDEN GUITAR AWARD FINALISTS ANNOUNCED|website=TCMF|date=November 2016|access-date=2 December 2022}}</ref>
+|-
+|2023 || "Dumb Decisions" (with Melanie Dyer) || Vocal Collaboration of the Year || {{nom}} || <ref>{{cite web|url=https://themusic.com.au/news/tamworth-toyota-golden-guitar-awards-nominees-announced/AFcYEhUUFxY/22-11-22|title= Tamworth Toyota Golden Guitar Award Nominees Announced|website=[[The Music (magazine)|The Music]]|date=22 November 2022|access-date=23 November 2022}}</ref>
+|-
+{{end}}
+
+===Country Music Channel ([[Country Music Channel|CMC]])===
+{{awards table}}
+|-
+| 2016 || Herself || New Oz Artist of the Year<ref name="b" /> || {{won}}
+|-
+| 2017 || Herself || Female Oz Artist of the Year || {{nom}}
+|-
+{{end}}
+
+==See also==
+* [[The X Factor (Australia season 6)]]
+* [[List of The X Factor finalists (Australia season 6)]]
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==External links==
+*{{Official website|http://caitlynshadbolt.com}}
+
+{{The X Factor (Australia)}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Shadbolt, Caitlyn}}
+[[Category:Living people]]
+[[Category:Musicians from Queensland]]
+[[Category:Australian women singer-songwriters]]
+[[Category:The X Factor (Australian TV series) contestants]]
+[[Category:1996 births]]
+[[Category:21st-century Australian singers]]
+[[Category:21st-century Australian women singers]]
+[[Category:21st-century Australian singer-songwriters]]

@@ -1,0 +1,214 @@
+{{Short description|American country music singer-songwriter (1931–2007)}}
+{{Use mdy dates|date=August 2020}}
+{{Infobox musical artist
+| name            = Jim Nesbitt
+| image           = Jim Nesbitt.png
+| caption         = Nesbitt in 1965
+| image_size      = 250px
+| birth_name      = James Thomas Nesbitt, Jr.
+| alias           =
+| birth_date      = {{birth date|1931|12|1}}
+| origin          = [[Bishopville, South Carolina]], U.S.
+| death_date      = {{death date and age|2007|11|29|1931|12|1}}
+| instrument      =
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 1961–1978
+| label           = [[Dot Records|Dot]], [[Chart Records|Chart]], [[Smash Records|Smash]]
+| associated_acts =
+| website         = 
+}}
+'''James Thomas Nesbitt, Jr.'''<ref name="obiJNjr">{{cite web |url=https://www.legacy.com/us/obituaries/legacyremembers/james-nesbitt-obituary?id=25873370|title=James Nesbitt Jr. Obituary|date=December 1, 2007|accessdate=April 23, 2023|website=legacy.com}}</ref> (December 1, 1931 &ndash; November 29, 2007)<ref>{{cite web |title=Country music comedian Jim Nesbitt dies |url=https://www.wistv.com/story/7433570/country-music-comedian-jim-nesbitt-dies/ |website=WISTV.com |date=December 2007|publisher=[[WIS (TV)]] |access-date=23 February 2022}}</ref> was an American [[country music]] singer. He had his first hit with "Please Mr. Kennedy" in 1961. It was released on [[Dot Records]] and became a number 11 hit on the Billboard charts.<ref name="chartrecords.net">{{Cite web|url=http://www.chartrecords.net/JimNesbitt.htm|title=Jim Nesbitt|website=Chartrecords.net|accessdate=March 3, 2020}}</ref> His biggest hit, "Lookin' for More in '64", got to number 7.<ref name="chartrecords.net" /> He also recorded "A Tiger In My Tank". It stayed on the Cash Box charts for 13 weeks. He had several other hits on the Chart label. He released his last album, Phone Call From The Devil, in 1975 on Scorpion Records.<ref name="chartrecords.net" />
+
+Nesbitt died of congestive heart failure on November 29, 2007, at age 75.<ref name="obiJNjr"/><ref name="TheItem">{{cite web |url=https://www.theitem.com/stories/jim-nesbitt-jr,137544|title=Jim Nesbitt Jr|date=November 30, 2007|accessdate=April 23, 2023|publisher=[[The Item|The Sumter Item]]}}</ref><ref name="wistv">{{cite web |url=https://www.wistv.com/story/7433570/country-music-comedian-jim-nesbitt-dies/|title=Country music comedian Jim Nesbitt dies|date=December 1, 2007|accessdate=April 23, 2023|website=wistv.com}}</ref>
+
+==Discography==
+
+===Albums===
+{| class="wikitable"
+! Year
+! Album
+! <small>[[Top Country Albums|US Country]]</small>
+! Label
+|-
+| 1964
+| ''Your Favorite Comedy and Heart Songs''
+| align="center"| —
+| rowspan="4"| Chart
+|-
+| 1968
+| ''Truck Drivin' Cat with Nine Wives''
+| align="center"| 26
+|-
+| 1970
+| ''Runnin' Bare''
+| align="center"| —
+|-
+| 1971
+| ''The Best of Jim Nesbitt''
+| align="center"| —
+|-
+| 1978
+| ''Phone Call from the Devil''
+| align="center"| —
+| Scorpion
+|}
+
+===Singles===
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="2"| Chart Positions
+! rowspan="2"| Album
+|-
+! width="50"| <small>[[Hot Country Songs|US Country]]</small>
+! width="50"| <small>CAN Country</small>
+|-
+| 1961
+| "Please Mr. Kennedy"
+| align="center"| 11
+| align="center"| —
+| rowspan="2"| singles only
+|-
+| 1963
+| "Livin' Offa Credit"
+| align="center"| 28
+| align="center"| —
+|-
+| rowspan="2"| 1964
+| "Looking for More in '64"
+| align="center"| 7
+| align="center"| —
+| rowspan="2"| ''Your Favorite Comedy and Heart Songs''
+|-
+| "Mother-in-Law"
+| align="center"| 20
+| align="center"| —
+|-
+| rowspan="3"| 1965
+| "A Tiger in My Tank"
+| align="center"| 15
+| align="center"| —
+| rowspan="3"| singles only
+|-
+| "Still Alive in '65"
+| align="center"| 34
+| align="center"| —
+|-
+| "The Friendly Undertaker"
+| align="center"| 21
+| align="center"| —
+|-
+| rowspan="4"| 1966
+| "You Better Watch Your Friends"
+| align="center"| 49
+| align="center"| —
+| ''Your Favorite Comedy and Heart Songs''
+|-
+| "She Didn't Come Home"
+| align="center"| —
+| align="center"| —
+| rowspan="5"| singles only
+|-
+| "Heck of a Fix in 66"
+| align="center"| 38
+| align="center"| —
+|-
+| "Stranded"
+| align="center"| 60
+| align="center"| —
+|-
+| rowspan="2"| 1967
+| "Husbands-in-Law"
+| align="center"| 74
+| align="center"| —
+|-
+| "Quittin' Time"
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="3"| 1968
+| "Truck Drivin' Cat with Nine Wives"
+| align="center"| 63
+| align="center"| —
+| ''Truck Drivin' Cat with Nine Wives''
+|-
+| "Clean the Slate in '68"
+| align="center"| —
+| align="center"| —
+| single only
+|-
+| "Six Broken Hearts"
+| align="center"| —
+| align="center"| —
+| rowspan="2"| ''Runnin' Bare''
+|-
+| rowspan="2"| 1969
+| "If You See Me Brother"
+| align="center"| —
+| align="center"| —
+|-
+| "Intoxicated Frustrated Me"
+| align="center"| —
+| align="center"| —
+| ''Truck Drivin' Cat with Nine Wives''
+|-
+| rowspan="3"| 1970
+| "Runnin' Bare"
+| align="center"| 20
+| align="center"| 2
+| rowspan="3"| ''Runnin' Bare''
+|-
+| "My Old Drinking Friends"
+| align="center"| —
+| align="center"| —
+|-
+| "Pollution"
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="3"| 1971
+| "I Love Them Old Nasty Cigarettes"
+| align="center"| —
+| align="center"| —
+| single only
+|-
+| "Havin' Fun in '71"
+| align="center"| —
+| align="center"| —
+| ''The Best of Jim Nesbitt''
+|-
+| "Going Home to Die"
+| align="center"| —
+| align="center"| —
+| rowspan="3"| singles only
+|-
+| rowspan="2"| 1973
+| "Bars Put Me Behind Those Bars"
+| align="center"| —
+| align="center"| —
+|-
+| "Whiskey Sampler"
+| align="center"| —
+| align="center"| —
+|}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Nesbitt, Jim}}
+[[Category:1931 births]]
+[[Category:2007 deaths]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:American country singer-songwriters]]
+[[Category:American novelty song performers]]
+[[Category:Dot Records artists]]
+[[Category:Smash Records artists]]
+[[Category:People from Bishopville, South Carolina]]
+[[Category:Country musicians from South Carolina]]
+[[Category:Singer-songwriters from South Carolina]]
+
+
+{{US-country-singer-stub}}

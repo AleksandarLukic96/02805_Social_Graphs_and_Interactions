@@ -1,0 +1,37 @@
+{{Short description|American songwriting team}}
+
+{{Infobox musical artist
+| name            = The Peach Pickers
+| image           =
+| image_size      =
+| landscape       = <!-- yes, if wide image, otherwise leave blank -->
+| alt             =
+| caption         =
+| alias           =
+| origin          = [[Valdosta, Georgia]], U.S.
+| genre           = [[Country music|Country]]
+| years_active    = 2004–present
+| associated_acts = [[Blake Shelton]], [[Luke Bryan]]
+| current_members = [[Rhett Akins]]<br />[[Dallas Davidson]]<br />[[Ben Hayslip]]
+}}
+'''The Peach Pickers''' are an American [[songwriting]] team, composed of [[Rhett Akins]], [[Dallas Davidson]], and [[Ben Hayslip]].
+
+Akins and Hayslip met while attending high school together in [[Valdosta, Georgia]], before Akins signed a contract with [[Decca Records]] in the mid-1990s. Davidson began songwriting in college, where he was roommates with singer [[Luke Bryan]] at Georgia Southern University.  He and Akins met in 2004 when the two co-wrote "Kiss My Country Ass", which both Akins and [[Blake Shelton]] recorded. After Akins brought Davidson to a songwriting session, the three began holding songwriting meetings every Wednesday.<ref name="peach">{{cite web|author= |url=http://www.theboot.com/2011/01/31/peach-pickers-songs/ |title=Peach Pickers — Behind the Spotlight |publisher=Theboot.com |date=2011-01-31 |accessdate=2014-08-22}}</ref><ref>{{cite web|url=http://www.bizjournals.com/nashville/news/2012/11/05/peach-pickers-success-from-peristent.html?page=all |title=Peach Pickers songwriting trio finds success with weekly quotas - Nashville Business Journal |publisher=Bizjournals.com |date=2012-11-05 |accessdate=2014-08-22}}</ref> Among the songs that they have written together are Shelton's "[[All About Tonight (Blake Shelton song)|All About Tonight]]", [[Josh Turner]]'s "[[All Over Me (Josh Turner song)|All Over Me]]", [[Jack Ingram]]'s "[[Barefoot and Crazy]]", [[Brooks & Dunn]]'s "[[Put a Girl in It]]", [[Joe Nichols]]' "[[Gimmie That Girl]]", and Bryan's "[[I Don't Want This Night to End]]".<ref name="row">{{cite web|url=http://www.musicrow.com/2012/11/the-insiders-view-the-peach-pickers/ |title=The Insider's View: The Peach Pickers : MusicRow – Nashville's Music Industry Publication – News, Songs From Music City |publisher=Musicrow.com |date=2012-11-20 |accessdate=2014-08-22}}</ref> All three members of the team also have co-writers' credits outside their collaborations.<ref name="peach"/>
+
+In 2022, the trio began touring as a performing act on Luke Bryan's tour.<ref>{{cite web | url=https://www.countrystandardtime.com/news/newsitem.asp?xid=12354 | title=Bryan hits the farms again | publisher=[[Country Standard Time]] | date=April 29, 2022 | accessdate=July 25, 2022}}</ref>
+==References==
+{{Reflist}}
+==External links==
+*{{official website|http://www.peachpickers.com}}
+
+{{Rhett Akins}}
+
+{{DEFAULTSORT:Peach Pickers}}
+[[Category:American country songwriters]]
+[[Category:American male songwriters]]
+[[Category:People from Valdosta, Georgia]]
+[[Category:American songwriting teams]]
+[[Category:Songwriters from Georgia (U.S. state)]]
+
+
+{{US-songwriter-stub}}

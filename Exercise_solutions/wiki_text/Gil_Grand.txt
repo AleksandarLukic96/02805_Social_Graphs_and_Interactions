@@ -1,0 +1,251 @@
+{{short description|Canadian country music singer}}
+{{Use mdy dates|date=March 2023}}
+{{BLP sources|date=August 2018}}
+{{Infobox musical artist | <!-- See Wikipedia:WikiProject Musicians -->
+|image=
+| name            = Gil Grand |
+| background      = solo_singer |
+| birth_name      = Gilles Lagrandeur |
+| alias           = |
+| birth_date      = {{birth date and age|1968|01|08}} |
+| death_date      = |
+| origin          = [[Greater Sudbury|Sudbury]], Ontario, Canada |
+| instruments     = Vocals, guitar |
+| genre           = [[Country music|Country]] |
+| occupation      = Singer-songwriter |
+| years_active    = 1998–present |
+| label           = [[Monument Records|Monument]]<br />[[Royalty Records|Royalty]]
+| website         = [http://www.gilgrand.com/ www.gilgrand.com] |
+}}
+
+'''Gil Grand''' (born '''Gilles Lagrandeur''', January 8, 1968) is a Canadian [[country music]] singer. Since 1998, he has released three studio albums: ''[[Famous First Words (Gil Grand album)|Famous First Words]]'' (1998), ''Burnin{{'}}'' (2002) and ''Somebody's Someone'' (2006).<ref>{{cite web|url={{AllMusic|class=artist|id=p380511|pure_url=yes}}|title=Biography: Gil Grand|last=Seida|first=Linda|publisher=[[All Media Guide|AMG]]|accessdate=May 13, 2010}}</ref> He has charted several singles on the Canadian country singles charts as well, including the ''[[RPM (magazine)|RPM]]'' top ten single "[[Famous First Words (song)|Famous First Words]]" in 1998.
+
+==Career==
+In 1998, Grand signed a record deal with [[Monument Records]]' Nashville division. His debut album, ''[[Famous First Words (Gil Grand album)|Famous First Words]]'', helped him receive three [[Canadian Country Music Awards]] nominations including Male Vocalist of the Year, Album of the Year and [[Wrangler Jeans|Wrangler]] Rising Star.
+
+''Burnin{{'}}'' was released in December 2002. "Cry A Little," "Break It to Them Gently," "Run" and the title track were all released as singles. Grand earned five CCMA nominations in 2003 including Single of the Year, [[SOCAN]] Song of the Year, Video of the Year, and Best Album Graphics, and won Independent Male Artist of the Year.
+
+He released his third album, ''Somebody's Someone'', in March 2006. In 2006, Grand and his younger brother [[Jake Mathews|Jake]] joined forces for Raise the Roof, a tour that took them from British Columbia to Ontario, raising awareness of Ronald McDonald House Charities. Grand now lives in Nashville where he is co-owner and president of Grand & Gee Music Group.
+
+==Discography==
+'''Studio albums'''
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:14em;"| Title
+! rowspan="2" style="width:20em;"| Details
+! Peak positions
+|- style="font-size:smaller;"
+! width="65"| [[RPM (magazine)|CAN Country]]<br/><ref>{{cite web|url=http://www.bac-lac.gc.ca/eng/discover/films-videos-sound-recordings/rpm/Pages/list.aspx?OCRText=Gil+Grand&ChartEn=Country+Albums%2fCDs&|title=Gil Grand – Country Albums/CDs|work=RPM|date=July 17, 2013 |access-date=May 30, 2022}}</ref>
+|-
+! scope="row"| ''[[Famous First Words (Gil Grand album)|Famous First Words]]''
+| 
+* Release date: September 22, 1998
+* Label: [[Monument Records]]
+| 22
+|-
+! scope="row"| ''Burnin'''
+| 
+* Release date: November 19, 2002
+* Label: [[Royalty Records]]
+| ×
+|-
+! scope="row"| ''Somebody's Someone''
+| 
+* Release date: February 28, 2006
+* Label: Royalty Records
+| ×
+|-
+| colspan="4" style="font-size:8pt"| "×" indicates that no relevant chart existed or was archived
+|}
+
+'''Singles'''
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! colspan="2"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| CAN Country<br/>{{efn|Peak positions from ''[[RPM (magazine)|RPM]]'' Country Singles in 1998 and 1999, [[Radio & Records]] in 2004, and [[Canada Country]] from 2006 to present.}}<ref name="Canada Country">Peak positions for country singles of Gil Grand in Canada:
+* Singles charted in 1998 and 1999 – {{cite magazine|url=http://www.bac-lac.gc.ca/eng/discover/films-videos-sound-recordings/rpm/Pages/list.aspx?OCRText=Gil+Grand&ChartEn=Country+Singles&|title=Gil Grand – Country Singles|magazine=[[RPM (magazine)|RPM]]|access-date=May 30, 2022}}
+* "Burnin'" – {{cite journal|url=https://worldradiohistory.com/Archive-RandR/2000s/2004/RR-2004-06-11.pdf|title=Canada Country Top 30|journal=[[Radio & Records]]|date=June 11, 2004}}
+* "Never Comin' Down" – {{cite journal|url=https://worldradiohistory.com/Archive-RandR/2000s/2004/RR-2004-10-08.pdf|title=Canada Country Top 30|journal=[[Radio & Records]]|date=October 8, 2004}}
+* All other singles – {{cite magazine|url=https://www.billboard.com/artist/gil-grand/chart-history/ccw|title=Gil Grand – Chart History (Canada Country)|magazine=Billboard|access-date=May 30, 2022}}</ref>
+! width="45"| [[Hot Country Songs|US Country]]<br/><ref>{{cite magazine|url=https://www.billboard.com/artist/gil-grand/chart-history/csi|title=Gil Grand – Chart History (Hot Country Songs)|magazine=[[Billboard (magazine)|Billboard]]|access-date=April 9, 2022}}</ref>
+|- 
+| rowspan="3"| 1998
+! scope="row"| "[[Famous First Words (song)|Famous First Words]]"
+| 6
+| 73
+| rowspan="6"| ''Famous First Words''
+|- 
+! scope="row"| "Spilled Perfume"<ref>{{cite web|url=https://www.americanradiohistory.com/Archive-RandR/1990s/1998/RR-1998-06-19.pdf|title=Going for Adds – June 22, 1998|work=[[Radio & Records]]|date=June 19, 1998}}</ref>
+| —
+| —
+|-
+! scope="row"| "Let's Start Livin'"
+| 17
+| 55
+|-  
+| rowspan="2"| 1999
+! scope="row"| "I Can't Put Your Memory to Bed"
+| 26
+| —
+|- 
+! scope="row"| "I Already Fell"
+| 19
+| 70
+|-  
+| 2000
+! scope="row"| "Love Me or Not (Here I Come)"
+| —
+| —
+|- 
+| 2001
+! scope="row"| "There She Goes"
+| ×
+| —
+| rowspan="7"| ''Burnin'''
+|- 
+| 2002
+! scope="row"| "Cry a Little"
+| ×
+| —
+|- 
+| rowspan="2"| 2003
+! scope="row"| "Break It to Them Gently"
+| ×
+| —
+|- 
+! scope="row"| "Run"
+| ×
+| —
+|- 
+| rowspan="3"| 2004
+! scope="row"| "Burnin'"
+| 16
+| —
+|- 
+! scope="row"| "Never Comin' Down"
+| 15
+| —
+|- 
+! scope="row"| "Sometimes She Cries"
+| —
+| —
+|- 
+| 2005
+! scope="row"| "These Wheels Won't Roll"
+| —
+| —
+| rowspan="5"| ''Somebody's Someone''
+|- 
+| rowspan="3"| 2006
+! scope="row"| "Quit Teasin' Me"
+| 21
+| —
+|- 
+! scope="row"| "Never Saw Her Leavin' Comin'"
+| 43
+| —
+|- 
+! scope="row"| "Somebody's Someone"
+| 48
+| —
+|- 
+| 2007
+! scope="row"| "Good Days, Bad Days"
+| —
+| —
+|-
+| 2012
+! scope="row"| "Baby Knows a Lot About Leavin'"
+| 33
+| —
+| rowspan="3" {{n/a|Non-album singles}}
+|-
+| 2014
+! scope="row"| "Groove"
+| —
+| —
+|-
+| 2016
+! scope="row"| "She'll Always Be Mine"
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart<br/>"×" indicates that no relevant chart existed or was archived
+|}
+
+'''Note'''
+{{notelist}}
+
+'''Music videos'''
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:18em;"| Video
+! Director
+|-
+| 1998
+! scope="row"| "Famous First Words"
+| Michael Merriman
+|-
+| 1999
+! scope="row"| "Spilled Perfume"
+| 
+|-
+| rowspan="2"| 2002
+! scope="row"| "There She Goes"
+| 
+|-
+! scope="row"| "Cry a Little"
+|
+|-
+| rowspan="2"| 2003
+! scope="row"| "Break It to Them Gently"
+| 
+|-
+! scope="row"| "Run"
+| 
+|-
+| 2006
+! scope="row"| "Quit Teasin' Me"
+| 
+|}
+
+==Awards and nominations==
+'''1998'''
+* [[RPM (magazine)|RPM]] Male Vocalist of the Year
+
+'''1999'''
+* [[Canadian Country Music Association|CCMA]] Album of the Year, ''Famous First Words''
+* CCMA Male Vocalist of the Year
+* CCMA [[Wrangler Jeans|Wrangler]] Rising Star
+
+'''2003'''
+* CCMA Independent Male Artist of the Year
+* CCMA Single of the Year, "Cry A Little"
+* CCMA [[SOCAN]] Song of the Year, "Cry A Little"
+* CCMA Video of the Year, "Cry A Little"
+
+'''2004'''
+* CCMA Video of the Year, "Run"
+* CCMA Independent Male Artist of the Year
+
+'''2006'''
+* CCMA Record Producer of the Year
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Grand, Gil}}
+[[Category:1968 births]]
+[[Category:Canadian male singer-songwriters]]
+[[Category:Canadian country singer-songwriters]]
+[[Category:Franco-Ontarian people]]
+[[Category:Living people]]
+[[Category:Musicians from Greater Sudbury]]
+[[Category:Singers from Ontario]]

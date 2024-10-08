@@ -1,0 +1,236 @@
+{{short description|American country singer-songwriter (born 1966)}}
+
+{{Use mdy dates|date=February 2020}}
+{{BLP sources|date=December 2017}}
+{{Infobox musical artist
+| name             = Ronna Reeves
+| image            = 
+| background       = solo_singer
+| birth_name       = Ronna Renee Reeves
+| birth_date       = {{Birth date and age|1966|09|21}}
+| birth_place      = [[Big Spring, Texas]], U.S.
+| instrument       = Vocals
+| genre            = [[country music|Country]]
+| occupation       = singer
+| years_active     = 1990–1999, 2016-present
+| label            = [[Mercury Records|Mercury Nashville]]<br>[[River North Records|River North]]<br>Enterprise Music
+| website          = 
+}}
+'''Ronna Renee Reeves''' (born September 21, 1966) is an American [[country music]] singer. Between 1990 and 1998, she released five studio albums, including three on [[Mercury Records]]; she has also charted five singles on the [[Hot Country Songs]] charts. She was also nominated for [[Academy of Country Music Award for New Female Artist of the Year|Top New Female Vocalist]] at the [[Academy of Country Music Awards]] in 1992. Her highest-charting single was "The More I Learn (The Less I Understand About Love)", which reached No. 49 in 1992.<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=346|isbn=978-0-89820-177-2}}</ref>
+
+In 1993, she was named one of the New Faces of Country Music by the Country Radio Seminar.<ref name="CRS">{{cite web |url=https://www.countryradioseminar.com/new-faces-criteria|title=New Faces of Country Music |work=[[Country Radio Seminar]]}}</ref>
+
+After leaving Mercury in 1994, Reeves signed to River North Records and released two more albums. The second album she recorded for River North Records, ''Day 14'', was more pop-oriented and she simply went by Ronna. She recorded a duet "There's Love on the Line" with [[Sammy Kershaw]] on her album ''The More I Learn'' as well a duet with [[Peter Cetera]], on a cover of [[ABBA]]'s "[[SOS (ABBA song)|SOS]]", on his album ''[[One Clear Voice]]''.<ref>{{cite web|url=http://allmusic.com/artist/ronna-reeves-p1785/biography|title=Ronna Reeves biography|last=Loftus|first=Johnny|publisher=[[AllMusic]]|accessdate=May 23, 2011}}</ref>
+
+She is perhaps best remembered as a regular on ''[[The Statler Brothers Show]]'' during the mid-1990s, as well as opening act on many of their tours.
+
+Since 2010, Reeves has owned Showbiz-Ro Music, an independent Songplugging & Writer Management Service, in Nashville, Tennessee, alongside Liz Morin.
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:14em;"| Title
+! rowspan="2" style="width:20em;"| Album details
+! colspan="1"| Peak positions
+|- style="font-size:smaller;"
+! width="60"| [[Top Country Albums|US Country]]
+|-
+! scope="row"| ''Only the Heart''
+| 
+* Release date: July 9, 1991
+* Label: [[PolyGram Records|PolyGram]]/[[Mercury Records|Mercury]]
+* Formats: CD, Cassette
+| —
+|-
+! scope="row"| ''The More I Learn''
+| 
+* Release date: March 17, 1992
+* Label: PolyGram/Mercury
+* Formats: CD, Cassette
+| 72
+|-
+! scope="row"| ''What Comes Naturally''
+| 
+* Release date: September 27, 1993
+* Label: PolyGram/Mercury
+* Formats: CD, Cassette
+| —
+|-
+! scope="row"| ''After the Dance''
+| 
+* Release date: November 7, 1995
+* Label: [[River North Records|River North Nashville]]
+* Formats: CD, Cassette
+| —
+|-
+! scope="row"| ''Day 14''
+| 
+* Release date: May 19, 1998
+* Label: River North Nashville
+* Formats: CD, Cassette
+| —
+|}
+
+===Compilation albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:20em;"| Album details
+|-
+! scope="row"| ''Ten Best''
+| 
+* Release date: March 14, 2016
+* Label: Enterprise Music
+* Formats: Music download
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:26em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="2"| 1990
+! scope="row"| "Sadly Mistaken"<ref>{{cite magazine|url=http://americanradiohistory.com/Archive-Billboard/90s/1990/BB-1990-04-21.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|date=April 21, 1990}}</ref>
+| —
+| —
+| align="left" rowspan="4"| ''Only the Heart''
+|-
+! scope="row"| "The Letter"<ref>{{cite magazine|url=http://americanradiohistory.com/Archive-Billboard/90s/1990/BB-1990-10-13.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|date=October 13, 1990}}</ref>
+| —
+| —
+|-
+| rowspan="2"| 1991
+! scope="row"| "That's More About Love (Than I Wanted to Know)"<ref>{{cite magazine|url=http://americanradiohistory.com/Archive-Billboard/90s/1991/BB-1991-01-26.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|date=January 26, 1991}}</ref>
+| —
+| —
+|-
+! scope="row"| "Ain't No Future in the Past"
+| —
+| —
+|-
+| rowspan="3"| 1992
+! scope="row"| "The More I Learn (The Less I Understand About Love)"
+| 49
+| 89
+| align="left" rowspan="3"| ''The More I Learn''
+|- 
+! scope="row"| "What If You're Wrong"
+| 70
+| 75
+|- 
+! scope="row"| "We Can Hold Our Own"
+| 71
+| 86
+|-
+| rowspan="2"| 1993
+! scope="row"| "Never Let Him See Me Cry"
+| 73
+| 85
+| align="left" rowspan="2"| ''What Comes Naturally''
+|-
+! scope="row"| "He's My Weakness"
+| 74
+| —
+|-
+| rowspan="3"| 1996
+! scope="row"| "My Heart Wasn't in It"<ref>{{cite web|url=http://americanradiohistory.com/Archive-Cash-Box/90s/1996/CB-1996-03-23.pdf|title=Single Reviews|work=[[Cashbox (magazine)|Cashbox]]|date=March 23, 1996}}</ref>
+| —
+| —
+| align="left" rowspan="3"| ''After the Dance''
+|-
+! scope="row"| "Collect from Wichita"
+| —
+| —
+|-
+! scope="row"| "Rodeo Man"<ref>{{cite magazine|url=http://americanradiohistory.com/Archive-Billboard/90s/1996/BB-1996-08-10.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|date=August 10, 1996}}</ref>
+| —
+| —
+|-
+| 1998
+! scope="row"| "Sweet Pretender"
+| —
+| —
+| align="left"| ''Day 14''
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:26em;"| Video
+! Director
+|-
+| rowspan="3"| 1992
+! scope="row"| "The More I Learn (The Less I Understand About Love)"
+| Peter Lippman
+|- 
+! scope="row"| "What If You're Wrong"
+| Thom Ferrell
+|- 
+! scope="row"| "We Can Hold Our Own"
+| Steve McWilliams
+|-
+| rowspan="2"| 1993
+! scope="row"| "Never Let Him See Me Cry"
+| Alan Chebot
+|-
+! scope="row"| "He's My Weakness"
+| Sara Nichols
+|-
+| rowspan="2"| 1996
+! scope="row"| "My Heart Wasn't in It"
+| Sara Nichols
+|-
+! scope="row"| "Rodeo Man"
+| Steven R. Monroe
+|-
+| rowspan="3"| 1998
+! scope="row"| "Sweet Pretender"
+|
+|-
+|}
+
+== Awards and nominations ==
+{| class="wikitable"
+!Year
+!Organization
+!Award
+!Nominee/Work
+!Result
+|-
+|1992
+|[[Academy of Country Music Awards]]
+|[[Academy of Country Music Award for New Female Artist of the Year|Top New Female Vocalist]]
+|Ronna Reeves
+|{{nom}}
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Reeves, Ronna}}
+[[Category:1966 births]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Living people]]
+[[Category:Mercury Records artists]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:People from Big Spring, Texas]]
+[[Category:Country musicians from Texas]]
+[[Category:21st-century American women]]
+[[Category:River North Records artists]]
+
+
+{{US-country-singer-stub}}

@@ -1,0 +1,64 @@
+{{short description|American singer-songwriter}}
+{{Use mdy dates|date=September 2019}}
+{{Infobox musical artist
+| name            = Dori Freeman
+| image           =
+| alt             =
+| caption         =
+| image_size      = <!-- Only for images narrower than 220 pixels -->
+| birth_name      =
+| alias           =
+| birth_date      =
+| birth_place     =
+| death_date      =
+| origin          = [[Galax, Virginia]], United States
+| instrument      = Singing, acoustic guitar
+| genre           = [[country music|Country]], [[Americana (music)|Americana]], [[Old-time music|old time]]
+| occupation      = Singer-songwriter
+| years_active    =
+| label           = Free Dirt Records
+| associated_acts =
+| website         = {{URL|www.dorifreeman.com}}
+| current_members =
+| past_members    = 
+}}
+
+'''Dori Freeman''' is an American singer-songwriter based in [[Galax, Virginia]].
+
+==Biography==
+Freeman is from the [[Appalachia|Appalachian]] town of [[Galax, Virginia]] where she grew up in a musical family. Her father, Scott Freeman, and grandfather, Willard Gayheart,<ref>{{cite web|last=Harrison |first=Don |url=http://www.virginialiving.com/culture/where-i-stood/ |title=Where I Stood |publisher=VirginiaLiving.com |date=December 28, 2016 |accessdate=January 10, 2017}}</ref> both play music and their family owns the Front Porch Gallery and Frame Shop which is part of The Crooked Road, Virginia's heritage music trail.<ref name="Dori Freeman Story">{{cite web|last1=Seely|first1=Mike|title=Tantalizing Teddy Thompson: The Dori Freeman Story|url=http://nodepression.com/album-review/tantalizing-teddy-thompson-dori-freeman-story|website=No Depression|accessdate=February 17, 2016|archive-url=https://web.archive.org/web/20160225163318/http://nodepression.com/album-review/tantalizing-teddy-thompson-dori-freeman-story|archive-date=February 25, 2016|url-status=dead}}</ref> In late 2014, she sent a Facebook message to [[Teddy Thompson]] who liked her music so much he decided to produce her album. Thompson says that it took him "maybe 10 to 12 seconds to realize she's great" and he was struck by her "straight-to-the-heart delivery."<ref name="Dori Freeman Story" /> The album was funded through [[Kickstarter]] and released by Free Dirt Records on February 5, 2016.
+
+''[[Rolling Stone| Rolling Stone Country]]'' called the album "a strong contender for [[Americana music|Americana]] debut of the year"<ref name="35 Anticipated Albums">{{cite magazine|last1=Freeman|first1=Jon|title=35 Most Anticipated Country Albums of 2016|url=https://www.rollingstone.com/music/pictures/35-most-anticipated-country-albums-of-2016-20160108/dori-freeman-20160108|magazine=Rolling Stone|accessdate=February 25, 2016}}</ref> and [[Jon Pareles]], writing in ''[[The New York Times]]'', said "the purity of Dori Freeman's voice and the directness of her songwriting reflect not only her Appalachian hometown – Galax, Va. — but also a determined classicism, a rejection of the ways modern country punches itself up for radio and arenas."<ref>{{cite news|last1=Pareles|first1=Jon|title=New Albums From Infamous Stringdusters, Trixie Whitley and Others|work=The New York Times |date=February 5, 2016 |url=https://www.nytimes.com/2016/02/07/arts/music/new-albums-from-infamous-stringdusters-trixie-whitley-and-others.html|accessdate=February 17, 2016}}</ref> ''[[NPR]]'''s Ann Powers said the "debut album shows great range and incredible emotional nuance."<ref name="World Cafe Preview">{{cite web|title=World Cafe's 2016 Preview|url=https://www.npr.org/sections/world-cafe/2016/01/04/461705738/world-cafes-2016-preview|publisher=NPR|accessdate=February 25, 2016}}</ref> NPR also said "it's startling to hear such a fully formed singing and songwriting voice come out of nowhere."<ref>{{cite web|last1=Hight|first1=Jewly|title=Songs We Love: Dori Freeman, 'Still A Child'|url=https://www.npr.org/2016/02/02/464837832/songs-we-love-dori-freeman-still-a-child|publisher=NPR|accessdate=February 17, 2016}}</ref> ''Rolling Stone'' recently included Freeman on their list of "10 New Country Artists You Need To Know: February 2016."<ref name="10 New Artists">{{cite magazine|title=10 New Country Artists You Need to Know: February 2016|url=https://www.rollingstone.com/music/lists/10-new-country-artists-you-need-to-know-february-2016-20160201/dori-freeman-20160131|magazine=Rolling Stone|accessdate=February 17, 2016}}</ref>
+
+==Influences==
+Freeman has cited [[Peggy Lee]] and [[Rufus Wainwright]] as major influences.<ref name= "Virginia Songbird" /> In an interview with ''The Bluegrass Situation'', she mentioned that a common theme in her music is "dealing with relationships and breakups, and wanting to be strong and independent, but also wanting to have a partner through things."<ref name= "Virginia Songbird">{{cite web|last1=Wicks|first1=Amanda|title=THE VIRGINIA SONGBIRD TAKES FLIGHT: A CONVERSATION WITH DORI FREEMAN|url=http://www.thebluegrasssituation.com/read/virginia-songbird-takes-flight-conversation-dori-freeman|website=The Bluegrass Situation|date=January 22, 2016 |accessdate=February 17, 2016}}</ref> Freeman is also heavily influenced by traditional [[Appalachian music]]: "I was brought up here and have spent the better part of my adult life here... I think a large part of America has a very specific idea of what Appalachia or [[Bluegrass music|bluegrass]] is. I think people think of this area and they think of [[hillbillies]] and being isolated and poverty and things like that. My experience living here is one of meeting genuine, honest people who don't have any affectation and are really proud of their culture. I’m really proud of my culture as a result of that."<ref name="Dori Freeman Story" />
+
+==Discography==
+;Solo
+*''Porchlight'' (2011), self-produced
+*''Dori Freeman'' (2016), [[Free Dirt Records]]
+*''Letters Never Read'' (2017), Blue Hens Music / MRI
+*''Every Single Star'' (2019), Blue Hens Music
+*''Ten Thousand Roses'' (2021), Blue Hens Music
+*''Do You Recall'' (2023), Blue Hens Music
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.dorifreeman.com Official Website]
+
+{{authority control}}
+
+{{DEFAULTSORT:Freeman, Dori}}
+[[Category:American country singer-songwriters]]
+[[Category:Country musicians from Virginia]]
+[[Category:Singer-songwriters from Virginia]]
+[[Category:American women country singers]]
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]
+[[Category:21st-century American women guitarists]]
+[[Category:21st-century American guitarists]]
+[[Category:Guitarists from Virginia]]
+[[Category:21st-century American women singers]]
+[[Category:21st-century American singer-songwriters]]

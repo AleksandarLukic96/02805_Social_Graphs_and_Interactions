@@ -1,0 +1,99 @@
+{{Short description|Australian singer, songwriter, musician and producer}}
+{{BLP refimprove|date=April 2020}}
+{{Use dmy dates|date=February 2020}}
+{{Use Australian English|date=March 2019}}
+{{Infobox musical artist
+| name         = Jedd Hughes
+| image        =
+| birth_name   =
+| birth_date   = {{birth date and age|df=y|1982|03|31}}<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|pages=197|isbn=978-0-89820-177-2}}</ref>
+| origin       = [[Quorn, South Australia|Quorn]], South Australia, Australia<ref name="whitburn"/>
+| genre        = [[Country music|Country]], Rock
+| occupation   = Singer, songwriter
+| instrument   = Vocals, guitar
+| years_active = 2004–present
+| label        = [[Universal Music Group Nashville|MCA Nashville]], [[Capitol Records Nashville|Capitol Nashville]]
+| website      = http://www.royalnoiseproductions.com
+}}
+
+'''Jedd Hughes''' (born in [[Quorn, South Australia|Quorn]], Australia) is an Australian singer, songwriter, [[session musician]], and record producer.
+
+==Early life==
+Hughes grew up in [[Quorn, South Australia|Quorn]], where he grew up listening to his father's country records. He won a local country music contest at the age of eight and began playing guitar from age nine, taking lessons from his father. He toured Europe when he was 12 and played with various Australian country musicians throughout his teens.<ref name=amg>William Ruhlmann, [{{Allmusic|class=artist|id=p663967/biography|pure_url=yes}} Jedd Hughes] at [[Allmusic]]</ref> After graduating from high school he moved to [[Levelland, Texas]], to study [[bluegrass music|bluegrass]] at [[South Plains College]]. After studying under [[Terry McBride (musician)|Terry McBride]], (formerly of [[McBride & the Ride]]) he [[dropping out|dropped out]] and moved to [[Nashville, Tennessee|Nashville]], where he worked as a guitarist for [[Patty Loveless]].<ref name=amg/> Eventually he signed with [[MCA Records]], who released his debut album ''Transcontinental'' in 2004. He had hits with the singles "High Lonesome" and "Soldier for the Lonely", the latter of which hit No.&nbsp;60 on the U.S. [[Billboard magazine|Billboard]] Country charts.<ref>[{{Allmusic|class=artist|id=p663967/charts-awards|pure_url=yes}} Billboard], AllMusic</ref> Hughes and McBride, along with [[Brett James]], also co-wrote [[Josh Gracin]]'s "[[Stay with Me (Brass Bed)]]." Hughes is featured as a duet partner on the track "That's All It Took" from [[Patty Loveless]]'s 2008 album ''[[Sleepless Nights (Patty Loveless album)|Sleepless Nights]]''. He is featured on three tracks from [[Sarah Buxton]]'s [[Sarah Buxton (album)|self-titled debut album]], which was released on 23 February 2010.{{fact|date=March 2019}}
+
+==Later Career (2011–present)==
+Hughes was a part of the platinum selling [[Little Big Town]] record ''[[Tornado (Little Big Town album)|Tornado]]'' where he played guitar and co-wrote "Self Made". He partnered with [[Sarah Jarosz]] to co-write on her [[56th Annual Grammy Awards|Grammy Nominated]] Record ''[[Build Me Up from Bones]]''. Songs included "Mile on the Moon" and "[[Over the Edge (Sarah Jarosz song)|Over The Edge]]". In the spring of 2013, he became lead guitarist of the Emmylou Harris & Rodney Crowell Tour for their [[56th Annual Grammy Awards|Grammy Award Winning]] Album ''[[Old Yellow Moon]]''. Hughes also produced Australian Musician Morgan Evans' latest record. In 2014, Hughes relocated to Los Angeles and started Royal Noise Productions.
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''Transcontinental''
+| 
+* Release date: 31 August 2004
+* Label: [[Universal Music Group Nashville|MCA Nashville]]
+|-
+! scope="row"| ''West''
+| 
+* Release date: August 2019
+* Label: Carnival Music
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="60"| [[Hot Country Songs|US Country]]<br /><ref name="whitburn"/>
+|-
+| 2004
+! scope="row"| "High Lonesome"
+| 54
+| align="left" rowspan="2"| ''Transcontinental''
+|-
+| 2005
+! scope="row"| "Soldier for the Lonely"
+| 60
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:14em;"| Video
+! Director
+|-
+| 2004
+! scope="row"| "High Lonesome"
+| Brent Hedgecock
+|}
+
+==Awards==
+===Country Music Awards of Australia===
+The [[Country Music Awards of Australia]] (CMAA) (also known as the Golden Guitar Awards) is an annual awards night held in January during the [[Tamworth Country Music Festival]], celebrating recording excellence in the Australian country music industry. They have been held annually since 1973.<ref>{{cite web|url=https://www.country.com.au/awards/past-award-winners|title=Past Award Winners|access-date=2 November 2020|archive-date=25 October 2020|archive-url=https://web.archive.org/web/20201025171148/https://country.com.au/awards/past-award-winners|url-status=dead}}</ref>
+{{awards table}}
+|-
+| 2005
+| himself
+| New Talent of the Year
+| {{won}}
+{{end}}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hughes, Jedd}}
+[[Category:1982 births]]
+[[Category:Living people]]
+[[Category:Australian country singers]]
+[[Category:MCA Records artists]]
+[[Category:South Plains College alumni]]
+[[Category:21st-century Australian singers]]

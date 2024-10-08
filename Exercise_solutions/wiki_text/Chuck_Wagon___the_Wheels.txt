@@ -1,0 +1,72 @@
+{{Short description|US musical group}}
+{{distinguish|The Chuck Wagon Gang}}
+{{Infobox musical artist
+| name            = Chuck Wagon and the Wheels
+| image           =
+| caption         =
+| origin          =
+| genre           = [[Country rock]]
+| years_active    = 2000
+| label           = [[Lyric Street Records|Lyric Street]]
+| past_members    = Chuck Wagon<br />Carl "Cal" Pyle<br />Sid Sequin
+}} 
+
+'''Chuck Wagon and the Wheels''' was an American [[country music]] group with a [[professional wrestling]] theme. It was composed of members:  Carl "Cal" Pyle (background vocals), and Sid Sequin (bass guitar, vocals), pseudonyms of brothers [[Gordon Kennedy (musician)|Gordon Kennedy]], Bryan Kennedy, and Shelby Kennedy.<ref>{{Cite web|url=http://www.copyrightencyclopedia.com/chris-wood-suite-of-songs-i-fell-for-you-bill-crosby-tunes/|title=Chris Wood--Suite of songs, I fell for you, Bill Crosby tunes|website=Copyrightencyclopedia.com|accessdate=2020-03-25}}</ref> The group signed to [[Lyric Street Records]] in 2000, releasing their album ''Off the Top Rope'' that year.<ref name="allmusic">{{cite web|url={{Allmusic|class=artist|id=p547461/biography|pure_url=yes}}|title=Chuck Wagon & the Wheels biography|last=Phares|first=Heather|website=[[AllMusic]]|accessdate=2009-02-26}}</ref> It included the single "Beauty's in the Eye of the Beerholder," which peaked at 75 on the ''[[Billboard (magazine)|Billboard]]'' country singles charts. Bryan Kennedy purchased the rights to the name Chuck Wagon and the Wheels from the founding member of the original group, Chuck W. Maultsby, in 1998.<ref>{{cite news | url=https://tucson.com/entertainment/music/wheels-reunion-benefit-concert-this-saturday/article_4f689c0f-bae2-5060-a016-c65962c948c2.html | title=Wheels reunion, benefit concert this Saturday | work=Tucson.com | agency=May 19, 2006 | accessdate=May 30, 2021}}</ref>
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:16em;"| Album details
+|-
+! scope="row"| ''Off the Top Rope''
+| 
+* Release date: June 13, 2000
+* Label: [[Lyric Street Records]]
+* Formats: [[Compact disc|CD]], [[Compact cassette|cassette]]
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="60"| [[Hot Country Songs|US Country]]<br><ref>{{cite web|url={{Allmusic|class=artist|id=p547461/charts-awards|pure_url=yes}}|title=allmusic ((( Chuck Wagon and the Wheels > Charts & Awards > Billboard Singles )))|website=[[AllMusic]]|accessdate=August 27, 2010}}</ref>
+|-
+| 2000
+! scope="row"| "Beauty's in the Eye of the Beerholder"
+| 75
+| align="left"| ''Off the Top Rope''
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:20em;"| Video
+! Director
+|-
+| 2000
+! scope="row"| "Beauty's in the Eye of the Beerholder"<ref>{{cite web|title=Home Site of Trey Fanjoy - Video Director |url=http://treyfanjoy.com/main/credits.html |accessdate=November 18, 2011 |url-status=dead |archiveurl=https://web.archive.org/web/20100612164124/http://treyfanjoy.com/main/credits.html |archivedate=June 12, 2010 }}</ref>
+| [[Trey Fanjoy]]
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+{{DEFAULTSORT:Wagon, Chuck, and the Wheels}}
+[[Category:American country music groups]]
+[[Category:Lyric Street Records artists]]
+[[Category:American musical trios]]
+[[Category:Musical groups established in 2000]]
+[[Category:Musical groups disestablished in 2000]]
+[[Category:Bands with fictional stage personas]]
+
+
+{{US-country-band-stub}}

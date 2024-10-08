@@ -1,0 +1,217 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=July 2020}}
+{{Infobox musical artist  <!-- See Wikipedia:WikiProject Musicians -->
+| name            = Tammy Cochran
+| image           =
+| caption         =
+| image_size      =
+| birth_name      =
+| birth_date      = {{birth date and age|1972|01|30}}
+| origin          = [[Austinburg, Ohio|Austinburg]], Ohio
+| instrument      = Vocals
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 2000–present
+| label           = [[Epic Records|Epic]]<br />[[Shanachie Records|Shanachie]]
+}}
+'''Tammy Cochran''' (born January 30, 1972) is an American [[country music]] artist. Signed to [[Epic Records]] Nashville in 2000, she released her [[Tammy Cochran (album)|self titled debut album]] in 2001, followed a year later by ''[[Life Happened]]''. These two albums produced a total of six chart singles for her on the ''[[Billboard (magazine)|Billboard]]'' country charts between 2000 and 2003, of which the highest-charting was "[[Angels in Waiting]]" at No.&nbsp;9. A third album, ''Where I Am'', followed in 2007.
+
+==Biography==
+Tammy was born and raised in a small rural town called [[Austinburg, Ohio|Austinburg]], Ohio<ref name="Dillon">Dillon, Charlotte "[http://www.allmusic.com/artist/tammy-cochran-p431616/biography Tammy Cochran Biography]", [[Allmusic]], retrieved July 23, 2011</ref>
+
+She was born in 1972 to Mabel and Delmar Cochran and was the third of three children.<ref name="Dillon" /> Growing up, she listened to recordings from [[Loretta Lynn]] and [[Barbara Mandrell]]. Tammy sang at her family's local church, and then she entered a talent show contest and won.<ref name="Dillon" /> She joined a couple of bands before making her own band called "TC Country" that played at fairs and weddings.<ref name="Dillon" />
+
+Cochran finished high school and took vocational training to become a secretary. She then moved to [[Nashville, Tennessee|Nashville]], Tennessee, in 1991.<ref name="Price">Evans Price, Deborah (2002) "[https://books.google.com/books?id=Hw0EAAAAMBAJ&dq=%22Tammy+Cochran%22&pg=PA9 Tammy Cochran Stays True to 'Life' on Her Second Epic Album]", ''[[Billboard (magazine)|Billboard]]'', October 19, 2002, p. 9, retrieved July 23, 2011</ref> She married in 1996 but divorced soon afterward.<ref name="Dillon" />
+
+==Musical career==
+In 1998, Cochran met Shane Decker, a songwriter for [[Warner Bros. Records]].<ref name="Dillon" /> He offered his help on making demos to send to record companies after seeing Cochran. He also helped her get a job as a songwriter for Warner Chappell.<ref name="Dillon" /> Her demo tapes were sent to [[Epic Records]]. She released her first single in 2000 called "If You Can", followed by "So What". Although neither single made Top 40 on the country charts, the third single ("[[Angels in Waiting]]", written about her brothers) peaked at No.&nbsp;9,<ref name="Price" /> and its success led to the release of her [[Tammy Cochran (album)|self-titled debut album]] in 2001. The video for "Angels in Waiting" won a Christian Country Music Award for 'Video of the Year'.<ref name="Stark">Stark, Phyllis (2001) "[https://books.google.com/books?id=ABIEAAAAMBAJ&dq=%22Tammy+Cochran%22&pg=PA36 Fox Brothers named Entertainer of the Year at CCMA Awards]", ''[[Billboard (magazine)|Billboard]]'', November 10, 2001, p. 36, retrieved July 23, 2011</ref> This album's fourth single, "I Cry", reached Top 20 as well.
+
+Cochran's second album for Epic, ''[[Life Happened]]'', was released a year later. The lead-off single reached Top 20, while "Love Won't Let Me", the follow-up, peaked at No.&nbsp;31 and Cochran was dropped from Epic in 2003. Her third album, ''Where I Am'', was issued on the independent [[Shanachie Records]] in 2007.
+
+In 2014 she starred in a musical show titled "One" at the Alabama Theatre in Myrtle Beach, South Carolina.
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:14em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="3"| Peak chart positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]
+! width="45"| [[Billboard 200|US]]
+! width="45"| [[Top Heatseekers|US Heat]]
+|-
+! scope="row"| ''[[Tammy Cochran (album)|Tammy Cochran]]''
+|
+* Release date: May 1, 2001
+* Label: [[Epic Records|Epic Nashville]]
+| 27
+| —
+| 13
+|-
+! scope="row"| ''[[Life Happened]]''
+|
+* Release date: October 15, 2002
+* Label: Epic Nashville
+| 11
+| 95
+| —
+|-
+! scope="row"| ''Where I Am''
+|
+* Release date: July 31, 2007
+* Label: [[Shanachie Records]]
+| —
+| —
+| —
+|-
+! scope="row"| ''30 Something and Single''
+|
+* Release date: June 9, 2009
+* Label: IBI Records
+| —
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<br><ref name="whitburn2010">{{cite book|last=Whitburn|first=Joel|title=Top Pop Singles 1955–2010|publisher=Record Research, Inc|year=2011|isbn=978-0-89820-188-8}}</ref>
+! width="45"| [[Billboard Hot 100|US]]<br><ref name="whitburn2010"/>
+|-
+| rowspan="2"| 2000
+! scope="row"| "If You Can"
+| 41
+| —
+| align="left" rowspan="4"| ''Tammy Cochran''
+|-
+! scope="row"| "So What"
+| 51
+| —
+|-
+| rowspan="2"| 2001
+! scope="row"| "[[Angels in Waiting]]"
+| 9
+| 73
+|-
+! scope="row"| "[[I Cry (Tammy Cochran song)|I Cry]]"
+| 18
+| —{{Efn|"I Cry" did not enter the Hot 100, but peaked at number 7 on [[Bubbling Under Hot 100 Singles]], which acts as a 25-song extension of the Hot 100.<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2012|publisher=Record Research, Inc|date=2012|page=79|isbn=978-0-89820-203-8}}</ref>}}
+|-
+| rowspan="2"| 2002
+! scope="row"| "[[Life Happened (song)|Life Happened]]"
+| 20
+| —{{Efn|"Life Happened" did not enter the Hot 100, but peaked at number 17 on Bubbling Under Hot 100 Singles, which acts as a 25-song extension of the Hot 100.<ref name="whitburn"/>}}
+| align="left" rowspan="3"| ''Life Happened''
+|-
+! scope="row"| "[[Love Won't Let Me]]"
+| 31
+| —
+|-
+| 2003
+! scope="row"| "What Kind of Woman Would I Be"<ref>{{cite web|url=http://americanradiohistory.com/Archive-RandR/2000s/2003/RR-2003-04-11.pdf|title=Country – Going for Adds|work=[[Radio & Records]]|date=April 11, 2003}}</ref>
+| —
+| —
+|-
+| rowspan="2"| 2007
+! scope="row"| "The Ride of Your Life"
+| —
+| —
+| align="left" rowspan="2"| ''Where I Am''
+|-
+! scope="row"| "Where I Am"
+| —
+| —
+|-
+| 2010
+! scope="row"| "He Really Thinks He's Got It"
+| —
+| —
+| align="left"| ''30 Something and Single''
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+;Notes
+{{notelist}}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:18em;"| Video
+! Director
+|-
+| rowspan="2"| 2000
+! scope="row"| "If You Can"
+| Adolfo Doring
+|-
+! scope="row"| "So What"
+| [[Trey Fanjoy]]
+|-
+| rowspan="2"| 2001
+! scope="row"| "Angels in Waiting"
+| Deb Haus/Tammy Cochran
+|-
+! scope="row"| "I Cry"
+| Trey Fanjoy
+|-
+| 2002
+! scope="row"| "Life Happened"
+| [[Peter Zavadil]]
+|}
+
+==Awards and nominations==
+=== Academy of Country Music Awards ===
+
+{{awards table}}
+|-
+|[[36th Academy of Country Music Awards|2001]]
+|rowspan=2| Tammy Cochran
+|rowspan=2| [[Academy of Country Music Award for New Female Artist of the Year|Top New Female Vocalist]]
+|{{nom}}
+|-
+|rowspan=3| [[37th Academy of Country Music Awards|2002]]
+|{{nom}}
+|-
+|rowspan=2| "[[Angels in Waiting]]"
+|Song of the Year
+|{{nom}}
+|-
+|Video of the Year
+|{{nom}}
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [{{AllMusic|class=artist|id=p431616/charts-awards/billboard-singles|pure_url=yes}} Tammy Cochran Discography at Allmusic]
+* [https://web.archive.org/web/20031221135230/http://www.cmt.com/artists/az/cochran_tammy/artist.jhtml CMT.com: Tammy Cochran]
+
+{{Authority control}}
+
+{{Tammy Cochran}}
+
+{{DEFAULTSORT:Cochran, Tammy}}
+[[Category:1972 births]]
+[[Category:Living people]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:People from Austinburg, Ohio]]
+[[Category:Singer-songwriters from Ohio]]
+[[Category:Epic Records artists]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:21st-century American women singers]]
+[[Category:Country musicians from Ohio]]

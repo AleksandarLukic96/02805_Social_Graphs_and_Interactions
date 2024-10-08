@@ -1,0 +1,91 @@
+{{short description|American country music duo}}
+
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Thrasher Shiver
+| image                 = 
+| caption            = 
+| image_size            = 
+| background          = group_or_band
+| origin              = [[Nashville, Tennessee]], U.S.
+| genre               = [[country music|Country]]
+| years_active        = 1995–1997
+| label               = [[Asylum Records|Asylum]]
+| associated_acts     = 
+| past_members        = Kelly Shiver<br/>[[Neil Thrasher]]
+}}
+'''Thrasher Shiver''' {{IPAc-en|ˈ|θ|r|æ|ʃ|ər|_|ˈ|ʃ|aɪ|v|ər}} was an American [[country music]] duo composed of [[Neil Thrasher]] and Kelly Shiver, both of whom sang [[lead vocals]] and played [[acoustic guitar]]. In late 1996, the duo released a [[Thrasher Shiver (album)|self-titled album]] for [[Asylum Records]], and charted two singles on the ''[[Billboard (magazine)|Billboard]]'' Hot Country Singles & Tracks (now [[Hot Country Songs]]) charts. After the duo split up in 1997, Thrasher found work as a songwriter, writing for [[Rascal Flatts]], [[Kenny Chesney]], and others.
+
+==Biography==
+Thrasher Shiver was founded in 1995, when singer-songwriters Neil Thrasher and Kelly Shiver were introduced to each other by Bob Doyle, owner of a management company who managed [[Garth Brooks]]. When the two began writing and singing songs together, they discovered that their voices blended well, so they decided to form a duo.<ref name="allmusic">{{cite web |url={{Allmusic|class=artist|id=p194726|pure_url=yes}} |title=allmusic ((( Thrasher Shiver > Biography ))) |accessdate=2007-12-07 |last=Loftus |first=Johnny |work=[[Allmusic]]}}</ref> Both members sang all the lead vocals together, as opposed to one singing lead and the other singing harmony.
+
+In 1995, Thrasher Shiver was signed to [[Asylum Records]]. The duo's self-titled debut album was released on September 9, 1996.<ref name="allmusic"/> It produced two chart singles in "Goin' Goin' Gone" and "Be Honest", which respectively reached No.&nbsp;65 and No.&nbsp;49. on the country charts. One year after the album's release, [[Diamond Rio]] charted with the song "[[That's What I Get for Lovin' You]]", which Thrasher co-wrote. (He would later co-write the band's 2003 single "Wrinkles" as well.) Thrasher Shiver also was nominated for Vocal Duo of the Year at the [[Country Music Association]] Awards.<ref>[http://www.cmaawards.com/2007/database/ArtistDetail.aspx?artistId=697 Awards Database: Thrasher & Shiver]</ref>
+
+Although Thrasher Shiver did not record another album, both of its members have continued to write songs for other country music artists, with Thrasher being the more prolific of the two.<ref name="allmusic"/> Thrasher's credits include Number One hits for [[Rascal Flatts]] and [[Kenny Chesney]], as well as several cuts by other artists.
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:10em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''[[Thrasher Shiver (album)|Thrasher Shiver]]''
+| 
+* Release date: September 9, 1996
+* Label: [[Asylum Records]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:16em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]
+|-
+| rowspan="2"| 1996
+! scope="row"| "Goin' Goin' Gone"
+| 65
+| align="left" rowspan="4"| ''Thrasher Shiver''
+|-
+! scope="row"| "Closer"<ref>{{cite magazine|date=October 26, 1996|title=Reviews|magazine=Billboard|page=80|url=https://books.google.com/books?id=xwkEAAAAMBAJ&dq=%22thrasher+shiver%22+%22closer%22&pg=PA80}}</ref>
+| —
+|-
+|rowspan=2|1997
+! scope="row"| "Be Honest"
+| 49
+|-
+! scope="row"| "Between the Stones and Jones"<ref>{{cite magazine|date=June 14, 1997|title=Reviews|magazine=Billboard|page=74|url=https://books.google.com/books?id=2w8EAAAAMBAJ&dq=%22thrasher+shiver%22+%22between+the+stones%22&pg=PA74}}</ref>
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:10em;"| Video
+! Director
+|-
+| 1996
+! scope="row"| "Goin' Goin' Gone"
+| 
+|-
+| 1997
+! scope="row"| "Be Honest"<ref>{{cite web|url=http://www.cmt.com/videos/thrasher-shiver/385154/be-honest.jhtml|title=CMT : Videos : Thrasher Shiver : Be Honest|publisher=[[Country Music Television]]|accessdate=September 30, 2011}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+| Joel Franks
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+[[Category:Country music groups from Tennessee]]
+[[Category:American country music duos]]
+[[Category:Musical groups established in 1995]]
+[[Category:Asylum Records artists]]
+[[Category:Musical groups disestablished in 1997]]

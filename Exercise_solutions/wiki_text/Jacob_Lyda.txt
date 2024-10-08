@@ -1,0 +1,82 @@
+{{short description|American country music singer (born 1975)}}
+{{Infobox musical artist
+| name            = Jacob Lyda
+| alias           =
+| birth_date      = {{birth date and age|1975|05|18}}<ref>LES CONCERTS GRATUITS 2002, Jacob Lyda: Bio [http://www.equiblues.com/conc2002.htm link] {{Webarchive|url=https://web.archive.org/web/20080907141426/http://www.equiblues.com/conc2002.htm |date=2008-09-07 }}</ref>
+| birth_place     = [[Stevenson, Alabama]]
+| origin          =
+| genre           = [[Country music|Country]]
+| occupation      = Singer
+| instrument      = Vocals
+| years_active    = 1995-present
+| label           = BGR (Bob Grady Records) in association with Country Discovery Records 1995-2003.<br>Davis Music Group 2011-
+| associated_acts = [[Paul Overstreet]]
+}}
+
+'''Jacob Lyda''' (born May 18, 1975) is an American [[country music]] singer. His first four albums were produced by Mike Headrick for BGR Records/Country Discovery Records 1995–2003. He is now signed to Davis Music Group and is being promoted by Nine North Records. In early 2011, Lyda released his debut single "I'm Doin' Alright", which has charted on [[Hot Country Songs]]. Lyda co-wrote the song with [[Paul Overstreet]].<ref>{{cite web|url=http://www.musicrow.com/2011/02/jacob-lyda/|title=Jacob Lyda|date=1 February 2011|work=Music Row|accessdate=16 May 2011}}</ref>
+
+The song was to have been included on his album ''Another Song I Just Had to Write''.<ref>{{cite web|url=http://www.roughstock.com/blog/new-artists-spotlight-jacob-lyda-s-doin-more-than-alright/|title=New Artists Spotlight:Jacob Lyda's Doin' More Than Alright|last=Dauphin|first=Chuck|date=26 April 2011|work=Roughstock|accessdate=16 May 2011|archive-url=https://web.archive.org/web/20110430090643/http://www.roughstock.com/blog/new-artists-spotlight-jacob-lyda-s-doin-more-than-alright|archive-date=30 April 2011|url-status=dead}}</ref>
+
+Karlie Justus of Engine 145 gave the song a "thumbs up", saying that the song was "something greater than the sum of its parts". She praised its sound and the "charisma" in Lyda's voice.<ref>{{cite web|url=http://www.engine145.com/jacob-lyda-im-doing-alright/|title=Jacob Lyda — "I'm Doing Alright"|last=Justus|first=Karlie|date=11 February 2011|work=Engine 145|accessdate=16 May 2011|archive-url=https://web.archive.org/web/20141218081417/http://www.engine145.com/jacob-lyda-im-doing-alright/|archive-date=18 December 2014|url-status=dead}}</ref>
+
+==Discography==
+
+===Albums===
+* 1995 - My Dreams Just Came True - BGR 9502
+* 1997 - Here We Go Again - BGR 9509
+* 1998 - Three Times the Charm - BGR/Country Discovery CD1103
+* 2003 - Back in the Swing - Country Discovery CD1052
+ 
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:12em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="60"| [[Hot Country Songs|US Country]]<br><ref>{{cite magazine|url=http://www.billboard.biz/bbbiz/billboardbiz/photos/pdf/country_update_0502.pdf|title=Billboard Country Update, May 2, 2011|magazine=[[Billboard (magazine)|Billboard]]|page=8|accessdate=May 16, 2011}}</ref>
+|- 
+|rowspan=2|2011
+! scope="row"| "I'm Doing Alright"
+| 53
+| align="left" rowspan=2|''Another Song I Just Had to Write'' <small>(unreleased)</small>
+|-
+! scope="row"| "Born at a Truck Stop"
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! Year
+! style="width:12em;"| Title
+! Director
+|- 
+| 2011
+! scope="row"| "I'm Doing Alright"<ref>{{cite web|url=http://www.cmt.com/videos/jacob-lyda/656757/im-doing-alright.jhtml|archive-url=https://web.archive.org/web/20121023215839/http://www.cmt.com/videos/jacob-lyda/656757/im-doing-alright.jhtml|url-status=dead|archive-date=October 23, 2012|title=CMT : Videos : Jacob Lyda : I'm Doing Alright|publisher=[[Country Music Television]]|accessdate=May 31, 2011}}</ref>
+| Mitchell Stuart
+|-
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{official website|http://www.jacoblyda.com}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Lyda, Jacob}}
+[[Category:American country singer-songwriters]]
+[[Category:People from Stevenson, Alabama]]
+[[Category:American male singer-songwriters]]
+[[Category:Living people]]
+[[Category:1975 births]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:Country musicians from Alabama]]
+[[Category:21st-century American male singers]]
+[[Category:Singer-songwriters from Alabama]]

@@ -1,0 +1,91 @@
+{{short description|American singer-songwriter}}
+
+{{Infobox musical artist
+| name            = Kassi Ashton
+| image           =
+| caption         =
+| birth_name      = Kassi Meisenheimer
+| birth_date      = {{birth date and age|1994|02|03}}
+| birth_place     = [[California, Missouri]], United States
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| instrument      = Vocals, guitar
+| years_active    = 2017–present
+| label           = [[Universal Music Group Nashville|MCA Nashville]]<br>[[Interscope Records]]
+| associated_acts = 
+| website         = {{URL|https://kassiashton.com/}}
+}}
+'''Kassi Ashton''' (born '''Kassi Meisenheimer'''; February 3, 1994) is an American [[country music]] singer-songwriter from [[California, Missouri]] signed to [[Universal Music Group Nashville|MCA Nashville]] and [[Interscope Records]].<ref name="kassi ashton">{{cite web|url=https://www.kassiashton.com|title=Kassi Ashton Official Website|accessdate=December 29, 2023}}</ref>
+
+==Background==
+Kassi Ashton signed a joint recording deal with UMG Nashville and Interscope in December 2017.<ref>{{cite web|url=https://musicrow.com/2017/12/kassi-ashton-inks-joint-deal-with-interscopeumg-nashville/|title=Kassi Ashton Inks Joint Deal With Interscope/UMG Nashville|author=Lorie Hollabaugh|date=December 14, 2017|publisher=Music Row|accessdate=December 29, 2023}}</ref> Her first promotional single with the MCA Nashville imprint was named after her hometown ("California, Missouri") and released in January 2018.<ref>{{cite web|url=https://tasteofcountry.com/kassi-ashton-california-missouri-song-interview/|title=Kassi Ashton's on California, Missouri: It's Complicated|author=Billy Dukes|date=January 19, 2018|publisher=Taste of Country|accessdate=December 29, 2023}}</ref> The label issued several promotional singles over the next four years, until "Dates in Pickup Trucks", which was serviced to country radio on February 28, 2022, as Ashton's debut single.<ref name="kassi ashton"/><ref>{{cite web|url=https://people.com/country/kassi-ashton-song-dates-in-pickup-trucks-inspired-by-grandma/|title=Kassi Ashton on Why Love Is 'Worth It' — and How Her Grandma Inspired Her Song 'Dates in Pickup Trucks'|author=Tricia Despres|date=February 25, 2022|publisher=People Magazine|accessdate=December 29, 2023}}</ref> It reached a peak of number 57 on the ''Billboard'' [[Country Airplay]] chart. On March 13, 2023, "Drive You Out of My Mind" was released as her second single, which peaked at number 42 on the ''Billboard'' Country Airplay chart in September. Ashton made her debut on the [[Grand Ole Opry]] on March 15, 2023.<ref>{{cite web | url=https://www.instagram.com/p/Cp26gmdOP_f/?img_index=1 | title=Instagram }}</ref> 
+
+"[[Called Crazy]]" debuted at number 53 on ''Billboard'' Country Airplay,<ref name="BCU">{{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_0329.pdf|title=Billboard Country Update|magazine=[[Billboard (magazine)|Billboard]]|date=March 29, 2024|access-date=March 30, 2024}}</ref> Ashton was chosen as [[Audacy, Inc.]]'s 'Launch' Artist for her third single "Called Crazy",<ref>{{cite web|url=https://www.audacy.com/national/music/meet-audacy-launch-artist-kassi-ashton|title=Meet Audacy 'Launch' artist, Kassi Ashton|author=Monica Rivera|date=May 6, 2024|website=Audacy|accessdate=May 6, 2024}}</ref> which became her first top 40 hit on the ''Billboard'' Country Airplay chart. Ashton's debut studio album, ''Made from the Dirt'', was released on September 20, 2024.<ref name="Debut Album"/>
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;" 
+|+ List of studio albums, with selected details, chart positions and sales
+! rowspan="1" style="width:10em;"| Title
+! rowspan="1" style="width:22em;"| Album details
+|- 
+! scope="row" |''Made from the Dirt''<ref name="Debut Album">{{cite web|url=https://musicrow.com/2024/07/kassi-ashton-slates-debut-album-made-from-the-dirt-for-september/|title=Kassi Ashton Slates Debut Album 'Made From The Dirt' For September|author=Lorie Hollabaugh|date=July 12, 2024|website=Music Row|access-date=July 13, 2024}}</ref>
+|
+* Release date: September 20, 2024
+* Label: [[Universal Music Group Nashville|MCA Nashville]]/[[Interscope Records]]
+* Format: CD, digital download, LP
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of singles, with selected chart positions
+! scope="col" rowspan="2" style="width:14em;"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="1"| Peak chart positions
+! scope="col" rowspan="2" | Album
+|- style="font-size:smaller;"
+! scope="col" width="45"| [[Country Airplay|US Country Airplay]]<br /><ref>{{cite magazine|title=Kassi Ashton Chart History: Country Airplay|url=https://www.billboard.com/artist/kassi-ashton/chart-history/csa/|magazine=Billboard|access-date=August 3, 2024}}</ref>
+|-
+! scope="row" | "Dates in Pickup Trucks"
+| 2022
+| 57
+| {{Non-album single}}
+|-
+! scope="row" | "Drive You Out of My Mind"
+| 2023
+| 42
+| rowspan="2" | ''Made from the Dirt''
+|-
+! scope="row" | "[[Called Crazy]]"
+| 2024
+| 32
+|}
+
+==Other album appearances==
+{| class="wikitable sortable plainrowheaders" style="text-align: center;"
+|+ List of other album appearances, showing year released, other artists, and album name
+! scope="col" style="width:8em;"| Title
+! scope="col" | Year
+! scope="col" | Other artist(s)
+! scope="col" | Album
+! scope="col" class="unsortable"| {{Abbr|Ref.|Reference}}
+|-
+! scope = "row" | "Drop Top"
+| 2018
+| [[Keith Urban]]
+| ''[[Graffiti U]]''
+| <ref>{{Cite magazine|url=https://www.rollingstone.com/country/news/hear-keith-urban-revamp-a-haggard-riff-in-new-song-coming-home-w518161|title=Hear Keith Urban Revamp a Merle Haggard Riff in New Song 'Coming Home'|last=Crawford|first=Robert|date=21 March 2018|magazine=[[Rolling Stone]]|access-date=18 August 2018|language=en-US}}</ref>
+|-
+|}
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Ashton, Kassi}}
+[[Category:Living people]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Year of birth missing (living people)]]

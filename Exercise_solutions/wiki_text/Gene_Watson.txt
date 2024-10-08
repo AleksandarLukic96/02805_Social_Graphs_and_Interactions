@@ -1,0 +1,110 @@
+{{short description|American country music singer (born 1943)}}
+{{BLP sources|date=August 2015}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject Musicians -->
+| name               = Gene Watson
+| image              = Gene Watson 2007.jpg
+| caption            = Watson performing at the [[Grand Ole Opry]] in 2007 
+| background         = solo_singer
+| birth_name         = Gary Gene Watson
+| birth_date         = {{birth date and age|1943|10|11}}
+| birth_place        = [[Palestine, Texas]]
+| genre              = [[Country music|Country]] 
+| occupation         = Singer
+| instrument         = Vocals, guitar
+| years_active       = 1962–present
+| label              = [[Capitol Records|Capitol]], [[MCA Records|MCA]], [[Epic Records|Epic]], [[Warner Bros. Records|Warner Bros.]], [[Step One Records|Step One]], [[Shanachie Records|Shanachie]] 
+| website            = {{URL|genewatsonmusic.com}}
+}}
+
+[[File:Gene watson IMG 0679 Gene Watson.jpg|thumb|Gene Watson, September 2016, [[Ruidoso, New Mexico]], OnstageMagazineGroup]]
+
+'''Gary Gene Watson''' (born October 11, 1943)<ref name="LarkinCountry">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Who's Who of Country Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1993|edition=First|isbn=0-85112-726-6|page=436}}</ref> is an American [[country music]] singer. He is most famous for his 1975 hit "[[Love in the Hot Afternoon]]," his 1981 No. 1 hit "[[Fourteen Carat Mind]]," and his signature 1979 song "[[Farewell Party]]."  Watson's long career has included five number one hits,<ref>Billboard, Cashbox, Radio & Records, Gavin and Music Row Music Charts</ref> 21 top tens, and 48 charted singles.
+
+==Biography==
+Watson was born in [[Palestine, Texas]], United States.<ref name="LarkinCountry"/><ref>{{cite web |url=http://musiccityroots.com/artist/gene-watson/ |title=Gene Watson |work=Music City Roots |access-date=2016-03-17 |archive-url=https://web.archive.org/web/20170202001609/http://musiccityroots.com/artist/gene-watson/ |archive-date=2017-02-02 |url-status=dead }}</ref> He was raised in [[Paris, Texas]], but in 1963 he relocated to [[Houston]]. There is a street in Paris, Texas called Gene Watson Boulevard that was named after the singer.<ref name="LarkinCountry"/> He began his music career in the 1960s, performing in local clubs at night while working in a Houston [[Automobile repair shop|auto body shop]] during the day.<ref name="LarkinCountry"/> He recorded for only a few small, regional record labels having a regional hit "Bad Water", until 1975, when [[Capitol Records]] picked up his album ''Love in the Hot Afternoon'' and released it nationally.<ref name="LarkinCountry"/> The title track, a mid-tempo [[ballad]] in three-quarter time, was released in June 1975, and it  reached No. 3 on the ''[[Billboard magazine]]'' [[Hot Country Singles & Tracks|Hot Country Singles]] chart.<ref name="LarkinCountry"/>
+
+Watson's national success continued throughout the late 1970s and early 1980s, as he recorded several [[Billboard charts|Billboard]] top-40 hits, including "Where Love Begins," "Paper Rosie," "Should I Go Home (or Should I Go Crazy)," "Nothing Sure Looked Good on You," and "[[Farewell Party]]," which was released in 1979,<ref name="LarkinCountry"/> and quickly became Watson's signature song, and the namesake of his Farewell Party Band.
+
+In February 2012, Watson, celebrated his 50th year in the music business with the release of ''Best of the Best, 25 Greatest Hits''. (His first single on radio was "If It Was That Easy", released in 1962). The collection of songs was re-recorded to recreate the originals as closely as possible.  The project was produced by Dirk Johnson and released on Watson's own Fourteen Carat Music label. In June 2014, Watson released an eleven track CD, ''My Heroes Have Always Been Country,''<ref name="AMG">{{Cite web|url=https://www.allmusic.com/artist/gene-watson-mn0000803757/biography|title=Gene Watson &#124; Biography & History|website=[[AllMusic]]|access-date=August 11, 2021}}</ref> covering hits by some of his musical heroes such as [[Merle Haggard]], [[Ray Price (musician)|Ray Price]] and [[Lefty Frizzell]].  On February 26, 2016, Watson released his 33rd studio album titled, ''Real.Country.Music.''<ref name="AMG"/>  The 13-track CD contained traditional country music and the first single release is "Enough For You", a song written by [[Kris Kristofferson]]. In 2018, Watson released a gospel music CD titled ''My Gospel Roots''.<ref name="AMG"/> The first single from the 13-track release, "Old Roman Soldier" hit No. 1 on the Cashbox and Christian Servant Country Gospel charts in June 2018.
+
+Watson was inducted into the [[Texas Country Music Hall of Fame]] in 2002,<ref>{{Cite web|url=https://www.tcmhof.com/latest-inductees/13-inductees-2002|title=2002 - Texas Country Music Hall of Fame|website=Tcmhof.com|access-date=August 11, 2021}}</ref> and inducted into the inaugural class of the Houston Music Hall of Fame in August 2013. In 2018, Watson received the "Entertainer of the Year" Award from the R.O.P.E. Awards, an honor he shared with singer, [[Jeannie Seely]]. It was the first time in the history of the Awards that there was a tie in any category.
+
+Watson was invited to join the [[Grand Ole Opry]], by [[Vince Gill]], on January 17, 2020.<ref>{{Cite web|url=https://tasteofcountry.com/gene-watson-grand-ole-opry-invitation-vince-gill/|title=WATCH: Vince Gill Invites Gene Watson to Join the Grand Ole Opry|website=Tasteofcountry.com|date=18 January 2020 |access-date=August 11, 2021}}</ref>
+
+==The Farewell Party Band==
+{{BLP unsourced section|date=August 2021}}
+The Farewell Party Band is his long-time backing band. They were named after his 1978 hit single "[[Farewell Party]]." Between 1982 and 1984, two studio albums were released credited to Gene Watson and the Farewell Party Band. The Farewell Party Band backed Watson on one of his solo albums, and they released one studio album on their own. Several notable musicians were members of the Farewell Party Band, such as [[Tony Booth (musician)|Tony Booth]]. While many other members have played with them since the 1980s, below is a timeline of just the members during their recorded output.
+{{#tag:timeline|
+ImageSize = width:1200 height:auto barincrement:25
+PlotArea = left:100 bottom:80 top:0 right:0
+Alignbars = justify
+DateFormat = mm/dd/yyyy
+Period = from:01/01/1982 till:12/31/1984
+TimeAxis = orientation:horizontal format:yyyy
+
+Legend = orientation:horizontal position:bottom
+
+Colors =
+  id:lead     value:green        legend:Lead_Guitar
+  id:steel    value:teal       legend:Steel_Guitar
+  id:keys  value:purple legend:Keyboards
+  id:bass     value:blue     legend:Bass
+  id:drums     value:orange        legend:Drums
+  id:gtr    value:brightgreen      legend:Guitar
+  id:tic    value:darkblue      legend:Tic_Tac_Bass
+
+ScaleMajor = unit:year increment:2 start:1982
+ScaleMinor = unit:year increment:1 start:1984
+
+BarData =
+   bar:Larry    text:"Larry Booth"
+   bar:Tiny    text:"Chris ‘Tiny’ Olsen"
+   bar:Doug text:"Doug Boggs"
+   bar:Joe   text:"Joe Eddie Gough"
+   bar:Daniel     text:"Daniel Rainwater"
+   bar:Norm    text:"Norm Castner"
+   bar:Tony     text:"Tony Booth"
+
+PlotData =
+   width:10
+   bar:Larry   from:01/01/1982 till:12/31/1984 color:bass
+   bar:Tiny from:01/01/1982 till:12/31/1984 color:steel
+   bar:Doug from:01/01/1982 till:12/31/1984 color:drums
+   bar:Joe from:01/01/1982 till:12/31/1984 color:keys
+   bar:Daniel from:01/01/1982 till:12/31/1984 color:lead
+   bar:Norm from:01/01/1982 till:12/31/1984 color:gtr
+   bar:Tony from:01/01/1984 till:12/31/1984 color:tic
+   width:3
+   bar:Tony from:01/01/1984 till:12/31/1984 color:bass
+  
+}}
+
+==Discography==
+{{main|Gene Watson discography}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.genewatsonmusic.com Official Gene Watson website]
+* [https://gene-watson.com Original Gene Watson Fan Site] - The Original Gene Watson Fan Site, which has been active since September 2004, is recognized by Gene Watson & his management team at Lytle Management in Brentwood, TN.
+
+{{Authority control}}
+
+{{Gene Watson}}
+{{Grand Ole Opry members}}
+
+{{DEFAULTSORT:Watson, Gene}}
+[[Category:1943 births]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Living people]]
+[[Category:People from Palestine, Texas]]
+[[Category:Singers from Houston]]
+[[Category:MCA Records artists]]
+[[Category:Epic Records artists]]
+[[Category:Warner Records artists]]
+[[Category:Capitol Records artists]]
+[[Category:Step One Records artists]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:Country musicians from Texas]]

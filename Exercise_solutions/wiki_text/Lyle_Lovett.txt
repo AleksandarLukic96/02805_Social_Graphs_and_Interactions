@@ -1,0 +1,359 @@
+{{Short description|American country singer (born 1957)}}
+{{Use mdy dates|date=September 2022}}
+{{Infobox musical artist
+|name            = Lyle Lovett
+|image           = LyleLovett.jpg
+|caption         = Lyle Lovett during the 2005 Austin City Limits Music Festival
+|background      = solo_singer
+|birth_name      = Lyle Pearce Lovett
+|birth_date      = {{birth date and age|1957|11|01}}
+|birth_place     = [[Houston]], Texas, U.S.
+|origin          = [[Klein, Texas]], U.S.
+|genre           = {{Hlist|[[Alternative country]]<ref>{{cite web |url=https://www.allmusic.com/artist/lyle-lovett-mn0000174122/biography |title=Lyle Lovett Biography by Stephen Thomas Erlewine |last= Erlewine |first=Stephen Thomas |work=[[AllMusic]] |access-date=2023-07-19}}</ref>|[[Americana (music)|Americana]]<ref>{{Cite web |last=Dansby |first=Andrew |date=August 18, 2016 |title=30 years since first album, Lyle Lovett is Americana success story |url=https://www.houstonchronicle.com/entertainment/music/article/30-years-since-first-album-Lyle-Lovett-is-9171322.php |access-date=July 29, 2023 |website=[[Houston Chronicle]]}}</ref>|[[rockabilly]]<ref>{{Cite web |title=5 things to know about Lyle Lovett before he comes to town |url=https://www.pilotonline.com/entertainment/music/article_bb3786d0-b2fd-527e-9c61-e00dc8434aa7.html |access-date=2022-09-03 |website=The Virginian-Pilot|date=August 3, 2017 }}</ref>|[[blues]]<ref name=Deming>{{cite web |url=https://www.allmusic.com/album/joshua-judges-ruth-mw0000009517 |title=Joshua Judges Ruth Review  |last=Deming |first=Mark |publisher=AllMusic |access-date=2022-09-03}}</ref>|[[jazz]]<ref name=Deming/>|[[Swing music|swing]]<ref>{{cite web |url=https://www.chicagotribune.com/1992/04/02/lyle-lovettjoshua-judges-ruth-curbmca-starstarstarif-lovett/ |title=Lyle Lovett: Joshua Judges Ruth (Curb/MCA) |last=Kot |first=Greg |date=April 1, 1992
+|publisher=Chicago Tribune |access-date=2022-09-04}}</ref>}}
+|instrument      = {{flatlist|
+* Vocals
+* guitar
+* piano
+}}
+|discography = [[Lyle Lovett discography]]
+|associated_acts = {{flatlist|
+* [[Randy Newman]]
+* [[John Hiatt]]
+* [[Joe Ely]]
+* [[Guy Clark]]
+* [[Los Super Seven]]
+* [[Francine Reed]]
+}}
+|occupation      = {{flatlist|
+* Singer
+* songwriter
+}}
+|years_active    = 1980–present
+|label           = {{flatlist|
+* [[MCA Records|MCA]]
+* [[Curb Records|Curb]]
+* [[Lost Highway Records|Lost Highway]]
+* [[Verve Records|Verve]]
+}}
+|website = {{URL|lylelovett.com}}
+| spouse = {{Unbulleted list|{{marriage|[[Julia Roberts]]|1993|1995|reason=div}}|{{marriage|April Kimble|2017}}}}
+}}
+
+'''Lyle Pearce Lovett''' (born November 1, 1957)<ref name="allmusic">[{{AllMusic|class=artist|id=p4798|pure_url=yes}} Lyle Lovett Page] at [[Allmusic]] – Lovett's Genre and Styles. Retrieved February 2, 2007</ref> is an American [[Country music|country]] singer. Active since 1980, he has recorded 14 albums and released 25 singles to date, including his highest entry, the number 10 chart hit on the U.S. ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] chart, "Cowboy Man". Lovett has won four [[Grammy Awards]], including Best Male Country Vocal Performance and Best Country Album.<ref name="Grammy">{{Cite web|url=https://www.grammy.com/grammys/artists/lyle-lovett|title=Lyle Lovett|date=June 4, 2019|website=GRAMMY.com}}</ref> His most recent album is ''12th of June'', released in 2022.
+
+==Early life==
+Lovett was born in [[Houston]], Texas,<ref>{{cite web
+|url=http://www.visithoustontexas.com/travel-tools/myhouston/lyle-lovett/
+|title=Lyle Lovett – Musician
+|year=2012
+|work=Visit Houston
+|publisher=Houston Convention & Visitors Bureau
+|quote=I was born at the Methodist Hospital in Houston, TX.
+|access-date=2013-11-06}}</ref><ref>{{cite web
+ |url         = http://www.uh.edu/features/on-campus/Lyle-Lovett/
+ |title       = Musician Recalls Early Connection to UH
+ |date        = September 21, 2012
+ |work        = University of Houston
+ |type        = University website
+ |quote       = I was born at Methodist [hospital] and never lived anywhere else but Houston.
+ |access-date  = November 6, 2013
+ |url-status     = dead
+ |archive-url  = https://archive.today/20131106174606/http://www.uh.edu/features/on-campus/Lyle-Lovett/
+ |archive-date = November 6, 2013
+|df          = mdy-all
+}}</ref><ref>{{cite web
+|url=https://www.facebook.com/Houstorian/posts/569499003104812?comment_id=5146607&offset=0&total_comments=2
+|date=November 1, 2013
+|work=Houstorian
+|type=Facebook page
+|title=&#91;No title&#93;
+|publisher=James Glassman
+|quote=Mr. Lovett just DM'ed me that he was born in Methodist Hospital in the Medical Center.
+|access-date=2013-11-06}}</ref> when his family lived in the nearby community of [[Klein, Texas|Klein]]. He is the son of William Pearce and Bernell Louise (née Klein) Lovett, a marketing executive and training specialist, respectively. He was raised in the [[Lutheran Church–Missouri Synod]].<ref>{{cite web|url=https://www.npr.org/templates/story/story.php?storyId=1501840|title=Lyle Lovett: 'My Baby Don't Tolerate'|website=Npr.org|access-date=July 22, 2016}}</ref> Lovett attended [[Texas A&M University]], where he received Bachelor of Arts degrees in both German and Journalism in 1980. In the early 1980s, Lovett often played solo acoustic sets at the small bars just off the A&M campus.
+
+==Career==
+Lovett began his music career as a singer-songwriter. By the early 1980s, Lovett had already distinguished himself in the burgeoning [[Texas]] folk acoustic scene.  He had performed in the New Folk competition at the [[Kerrville Folk Festival]] in 1980 and 1982.<ref name = "KFF">"Kerrville Folk Festival Finalist History", compiled by Doug Coppock ([http://www.happenstance-music.com/KFF_History.asp link] {{Webarchive|url=https://web.archive.org/web/20060220031051/http://www.happenstance-music.com/KFF_History.asp |date=February 20, 2006}})</ref> An American singer, Buffalo Wayne, whom he had met in 1978 during a college trip to Germany, invited Lovett to play with him at the 1983 [[Schueberfouer]] in Luxembourg. One of the [[happening|events]] at the [[funfair]] was an American musical tent.  The owner of that event was a fan of the [[Phoenix, Arizona]], [[house band]] J. David Sloan and the Rogues.<ref name = Lu/> He invited the Rogues for the event, and Lovett was encouraged by band members [[Ray Herndon]] and [[Matt Rollings]] to sit in with the group,<ref name = s>{{Cite web |last=Coughlin |first=Kevin |title=Lyle Lovett and His Band loom Large in Morristown {{!}} Morristown Green |date=August 2, 2016 |url=https://morristowngreen.com/2016/08/02/lyle-lovett-and-his-band-loom-large-in-morristown/ |access-date=2022-06-16 |language=en-US}}</ref> which did some of his songs. They opened his eyes to what his songs could sound like with proper backing; Lovett had never sung with a band before.<ref name = Lu>{{Cite web |last=Leatherman |first=Benjamin |title=Mr. Lucky's Oral History: 55 Years of Wild Tales From Phoenix's Iconic Country Nightclub |url=https://www.phoenixnewtimes.com/music/mr-luckys-oral-history-55-years-of-wild-tales-from-phoenixs-iconic-country-nightclub-12142863 |access-date=2022-06-25 |website=Phoenix New Times |language=en}}</ref> Sloan and band member [[Billy Williams (record producer)|Billy Williams]] offered Lovett a deal on studio time, first day free. In 1984 Lovett took them up on the offer. After several stays in Arizona over that summer he recorded 18 songs.<ref name = L/> The demo tape of the first four songs led to his first record deal;<ref>{{Cite web |title=How to Hire LYLE LOVETT – Booking Alt-Country Singer/Songwriters Music – Corporate Event Booking Agent |url=https://www.delafont.com/music_acts/lyle-lovett.htm |access-date=2022-06-15 |website=www.delafont.com}}</ref> ten of those songs, recorded with the Rogues, became Lovett's self-titled debut album.<ref>{{Cite web |date=July 1, 2014 |title=Arizona Country Roads |url=https://www.phoenixmag.com/2014/07/01/arizona-country-roads/ |access-date=2022-06-15 |website=PHOENIX magazine |language=en-US}}</ref> He made many longtime contacts in Arizona during that time.  Several of the Rogue players, Herndon, Matt McKenzie, Rollings, and Williams, went on to play in his band. Williams produced or co-produced several of his albums from 1987 to 2007. Through them he met [[Francine Reed]], who began recording with him in 1985 and toured with him for decades.<ref>{{Cite web |title=How Francine Reed became a Phoenix legend, from church radio to touring with Lyle Lovett |url=https://www.azcentral.com/story/entertainment/music/2023/02/03/francine-reed-on-singing-with-lyle-lovett/69864700007/ |access-date=2023-02-07 |website=The Arizona Republic |language=en-US}}</ref><ref>{{Cite web |title=Rhythm and blues singer known for Lovett link to perform in Olin |date=October 5, 2011 |url=https://www.bates.edu/news/2011/10/05/reed-music/}}</ref>  In 2022, reliving his Phoenix connection:<blockquote>It led to a demo tape, an album and now, this rolling Thanksgiving tour...It's all because of running into this band in Luxembourg. That's a long way to get to Phoenix from Texas. It's a lot shorter if you just do [[Interstate 10|I-10]].<ref name = L>{{Cite web |last=Masley |first=Ed |title=Lyle Lovett on his new album '12th of June' and how a Phoenix house band changed his life |url=https://www.azcentral.com/story/entertainment/music/2022/06/11/lyle-lovett-tour-2022-phoenix-date/7572710001/ |access-date=2022-06-15 |website=The Arizona Republic |language=en-US}}</ref></blockquote>
+
+He signed with [[MCA Records]] in 1986 and released his eponymous [[Lyle Lovett (album)|debut album]]. He sang harmony vocals on Nanci Griffith's ''[[The Last of the True Believers]]'' album (1986). While typically associated with the [[country music|country]] genre, Lovett's compositions often incorporate [[Folk music|folk]], [[Swing (genre)|swing]], [[blues]], [[jazz]] and [[gospel music]] as well as more traditional country & western styling. He has won four [[Grammy Awards]], including Best Country Album (1996 for ''The Road to Ensenada''), Best Country Duo/Group with Vocal (1994 for "Blues For Dixie" with the Texas swing group [[Asleep at the Wheel]]), Best Pop Vocal Collaboration (1994 for "[[Funny How Time Slips Away]]" with [[Al Green]]) and Best Country Male Vocal (1989 for ''Lyle Lovett and His Large Band''). In 1995, Lovett performed a duet of "[[You've Got a Friend in Me]]" with [[Randy Newman]] for ''[[Toy Story]]''. He plays [[Collings Guitars|Collings acoustic guitars]].<ref>{{cite web |url=http://www.fretbase.com/fretbase/2008/06/play-guitar-lik.html |title=Fretbase: Play Guitar Like Lyle Lovett |access-date=July 8, 2008 |archive-url=https://web.archive.org/web/20081009120151/http://www.fretbase.com/fretbase/2008/06/play-guitar-lik.html |archive-date=October 9, 2008}}</ref>
+
+[[File:Lylelovett2-fls.jpg|thumb|left|Lyle Lovett performing on the Watson Stage at [[MerleFest]] in 2011, [[Wilkesboro, North Carolina]]]]
+Lovett has acted in a number of films, notably four for director [[Robert Altman]]: ''[[The Player (1992 film)|The Player]]'' (1992), ''[[Short Cuts]]'' (1993), ''[[Prêt-à-Porter (film)|Prêt-à-Porter]]'' (1994), and ''[[Cookie's Fortune]]'' (1999). He also composed the score for the director's ''[[Dr. T & the Women]]'' (2000).  Some of his other film roles include ''[[Bastard out of Carolina (film)|Bastard Out Of Carolina]]'' (1996), ''[[The New Guy]]'' (2002), ''[[Walk Hard: The Dewey Cox Story]]'' (2007), and a humorous role in ''[[Angels Sing]]'', a family Christmas movie (alongside fellow actors and musicians such as [[Harry Connick, Jr.]], [[Connie Britton]], [[Willie Nelson]], and [[Kris Kristofferson]]).<ref>{{cite web |url=https://www.imdb.com/title/tt1833888/ |title=Angels Sing |publisher=IMDb|access-date=2016-12-07}}</ref> His television acting forays include guest roles on ''[[Mad About You]]'' and ''[[Castle (TV series)|Castle]]'', a recurring role on ''[[The Bridge (2013 TV series)|The Bridge]]'' (as Flagman, a lawyer), and appearances as himself on ''[[Dharma & Greg]]'' and ''[[Brothers & Sisters (2006 TV series)|Brothers & Sisters]]''.
+
+[[Mary Chapin Carpenter]]'s 1992 song "[[I Feel Lucky]]" makes reference to Lovett, as does [[Bloodhound Gang]]'s 1999 song "[[The Bad Touch]]", which includes the lyric, "and you'll Lovett just like Lyle."
+
+Lovett was given an award called an "Esky" for Surest Thing in [[Esquire (magazine)|Esquire's]] 2006 Esky Music Awards in the April issue. The magazine said of Lovett: "The secret of Lyle Lovett's endurance comes down to the three C's: class, [[charisma]] and consistency... In the studio and on stage with his giant orchestra, he's spent two decades gracefully matching genuine songcraft with A-list musicianship".
+
+In 2010, Lovett appeared on an episode of ''[[Spectacle: Elvis Costello with...]]'' that also featured [[John Prine]] and [[Ray LaMontagne]].
+
+In 2011, Lovett was named ''Texas State Artist Musician ''by the Texas Commission on the Arts.<ref>{{cite web|url=http://www.arts.texas.gov/initiatives/texas-state-artist/state-musician/ |title=State Musician &#124; Texas Commission on the Arts |website=Arts.texas.gov |access-date=2016-12-07}}</ref>
+
+Lovett contributed a cover of [[Buddy Holly]]'s "[[Well... All Right]]" for the tribute album ''[[Listen to Me: Buddy Holly]]'', released on September 6, 2011.
+
+On October 24, 2019, Lovett was inducted into the [[Austin City Limits]] Hall of Fame.
+
+In 2022, he released his first album since 2012, ''12th of June''.
+
+==Personal life==
+[[File:Lyle Lovett at Oregon Zoo.jpg|thumb|150px|Lovett performing at the [[Oregon Zoo]], July 2016]]
+Lovett married actress [[Julia Roberts]] after meeting her on the set of ''The Player''. Following a three-week romance, they eloped and married in June 1993 in [[Marion, Indiana]]. In March 1995, they divorced after less than two years of marriage. ''[[People (magazine)|People]]'' magazine reported that the breakup was caused by career demands.<ref>{{Cite news|url=http://www.people.com/people/archive/article/0,,20105480,00.html|title=One Last Sad Song|work=People|access-date=March 6, 2013|date=April 10, 1995|author=Schneider, Karen S.}}</ref> They remained friends afterwards.<ref name="heraldscotland.com">{{cite web|url=http://www.heraldscotland.com/arts-ents/music/lyle-lovett-goes-where-the-love-is.14371767?_=540d3e47795cb7cf660d17fac99e2ad4296c26ca|title=Lyle Lovett goes where the love is|website=Heraldscotland.com|date=July 17, 2011 |access-date=July 22, 2016}}</ref>
+
+On March 28, 2002, Lovett was trapped by a bull against a fence on his uncle's farm in [[Klein, Texas]], before being pulled to safety. He fully recovered after six months from a badly broken leg, and he began touring again in summer 2003.
+
+Lovett was conferred an honorary [[Doctor of Humane Letters]] by the [[University of Houston]] on May 15, 2010, at its general commencement ceremony.<ref name="University of Houston">{{cite web|url = http://www.uh.edu/features/on-campus/Lyle-Lovett/index.php|title = Musician Recalls Early Connection to University of Houston|publisher = [[University of Houston]]|access-date = May 16, 2010|url-status = dead|archive-url = https://web.archive.org/web/20100519024424/http://www.uh.edu/features/on-campus/Lyle-Lovett/index.php|archive-date = May 19, 2010|df = mdy-all}}</ref><ref>{{cite web |url = http://www.uh.edu/news-events/stories/2010articles/May2010/05132010Commencement.php|title = The University of Houston to Graduate More Than 4,500 Students|publisher=[[University of Houston]] |access-date =May 16, 2010}}</ref> His mother was in the audience as her son was presented with an honorary doctorate from the same university from which she had received her bachelor's degree in 1960.<ref>{{cite web |url = http://www.chron.com/news/photogallery/UH_graduation.html#21668742|title = Singer and songwriter Lyle Lovett received an honorary degree during the ceremony|work=Houston Chronicle |date = May 15, 2010|access-date =May 16, 2010}}</ref> His father was also a graduate of the [[Hines College of Architecture|Gerald D. Hines College of Architecture]] of the University of Houston.<ref name="University of Houston"/>
+
+In 2015, Lovett received the Distinguished Alumnus Award from Texas A&M University.
+
+Lovett is also a horse enthusiast and co-owns and competes in [[reining]] competitions with world class [[Quarter Horse]], Smart and Shiney.<ref name="EQLiving">{{cite web|last1=Peters|first1=Stephanie|title=The Renaissance Cowboy of Texas|url=https://eqliving.com/the-renaissance-cowboy-of-texas-text-errors/|website=eqliving.com|date=December 23, 2014|access-date=May 13, 2017}}</ref><ref name="H&R">{{cite web|title=Horse & Rider Q&A with Lyle Lovett|url=http://horseandrider.com/training/lyle_lovett_041610|website=Horse & Rider|date=April 16, 2010 |access-date=May 13, 2017|language=en}}</ref><ref name="RollingStoneHorse">{{cite magazine|last1=Hudak|first1=Joseph|title=Hear Pat Green and Lyle Lovett's Ode to Texas Girls|url=https://www.rollingstone.com/music/news/lyle-lovett-records-duet-with-pat-green-shows-off-horse-skills-on-letterman-20140827|magazine=Rolling Stone|date=August 27, 2014|access-date=May 13, 2017}}</ref> In 2012, Lovett was inducted into the [[Texas Cowboy Hall of Fame]].<ref>{{cite web|title=Inductees|url=http://www.tchof.com/inductees|publisher=Texas Cowboy Hall of Fame|access-date=March 7, 2020}}</ref> In 2018, he was awarded the [[National Reining Horse Association]] Lifetime Achievement Award in the [[National Reining Horse Association Hall of Fame]].<ref>{{cite web |title=Dale Wilkinson Lifetime Achievement Award |url=https://nrha.com/halloffame |website=National Reining Horse Association Hall of Fame |publisher=www.nrha.com |access-date=May 14, 2019}}</ref>
+
+==Discography==
+{{Main|Lyle Lovett discography}}
+
+*''[[Lyle Lovett (album)|Lyle Lovett]]'' (1986)
+*''[[Pontiac (album)|Pontiac]]'' (1987)
+*''[[Lyle Lovett and His Large Band]]'' (1989)
+*''[[Joshua Judges Ruth]]'' (1992)
+*''[[I Love Everybody]]'' (1994)
+*''[[The Road to Ensenada]]'' (1996)
+*''[[Step Inside This House]]'' (1998)
+*''[[My Baby Don't Tolerate]]'' (2003)
+*''[[It's Not Big It's Large]]'' (2007)
+*''[[Natural Forces]]'' (2009)
+*''[[Release Me (Lyle Lovett album)|Release Me]]'' (2012)
+*''12th of June'' (2022)
+
+==Filmography==
+
+===Musician===
+* ''[[Still Alice]]'' (2014)&nbsp;— song performer "If I Had A Boat"; songwriter for [[Karen Elson]]'s performance of same
+* ''[[The Bridge (2013 TV series)|The Bridge]]'' (TV series, 2014)
+* ''[[True Blood]]'' (TV series, episode "[[True Blood (season 2)#ep21|I Will Rise Up]]", 2009)&nbsp;— song performer "I Will Rise Up"
+* ''[[Walk Hard]]'' (2007)&nbsp;— song performer "[[Walk Hard]]"
+* ''[[Deadwood (TV series)|Deadwood]]'' (TV series, episode "[[List of Deadwood episodes#ep7|Bullock Returns to the Camp]]", 2005)&nbsp;— song performer "Old Friend" (1994)
+* ''[[The Exonerated]]'' (TV movie, 2005)&nbsp;— song performer "[[Amazing Grace]]"
+* ''[[The Interpreter (2005 film)|The Interpreter]]'' (2005)&nbsp;— song performer "If I Had a Boat"
+* ''[[61*]]'' (TV movie, 2001)&nbsp;— song performer "Nobody Knows Me"
+* ''[[All Over the Guy]]'' (2001)&nbsp;— song performer and composer "She Makes Me Feel Good" and "The Blues Walk"
+* ''[[Dr. T & the Women]]'' (2000)&nbsp;— Song performer and composer and also used a recording of "You've Been So Good Up to Now" (1992), "She's Already Made Up Her Mind" (1992), "Ain't It Something" (1994)
+* ''[[For Love of the Game (film)|For Love of the Game]]'' (1999)&nbsp;— song performer "Summer Wind"
+* ''[[Stuart Little (film)|Stuart Little]]'' (1999)&nbsp;— song performer "Walking Tall"
+* ''[[Mumford (film)|Mumford]]'' (1999)&nbsp;— song performer "Ballad of the Snow Leopard and The Tanqueray Cowboy", "Till It Shines"
+* ''[[Clay Pigeons]]'' (1998)&nbsp;— song performer "Teach Me About Love"
+* ''[[Hope Floats]]'' (1998)&nbsp;— song performer "[[Smile (Charlie Chaplin song)|Smile]]"
+* ''[[The Apostle]]'' (1997)&nbsp;— song performer "(I'm a) Soldier in the Army of the Lord"
+* ''[[Toy Story]]'' (1995)&nbsp;— song performer "You've Got a Friend in Me" with [[Randy Newman]] as the lead vocals.
+* ''[[Beverly Hills, 90210]]'' (TV series, episode "[[Beverly Hills, 90210 (season 6)#ep154|One Wedding and A Funeral]]", 1995)&nbsp;— song performer "Nobody Knows Me"
+* ''[[Quiz Show (film)|Quiz Show]]'' (1994)&nbsp;— song performer "[[Mack the Knife|Moritat]]" by [[Kurt Weill]]
+* ''[[With Honors (film)|With Honors]]'' (1994)&nbsp;— song performer "Blue Skies"
+* ''[[Major League II]]'' (1994)&nbsp;— song performer and composer "All My Love Is Gone"
+* ''[[The Firm (1993 film)|The Firm]]'' (1993)&nbsp;— song performer "M-O-N-E-Y"
+* ''[[Leap of Faith (film)|Leap of Faith]]'' (1992)&nbsp;— song performer "Pass Me Not"
+* ''[[The Crying Game]]'' (1992)&nbsp;— song performer "[[Stand By Your Man]]"
+* ''[[Major League (film)|Major League]]'' (1989)&nbsp;— song performer "Cryin' Shame"
+* ''[[Always (1989 film)|Always]]'' (1989)&nbsp;— song performer "Cowboy Man"
+
+===Actor===
+{| class="wikitable"
+|-
+! Year
+! Title
+! Role
+! Notes
+|-
+| 1983 || ''[[Bill: On His Own]]'' || Singer at Beach || (TV movie)
+|-
+| 1992 || ''[[The Player (1992 film)|The Player]]'' || Detective DeLongpre ||
+|-
+| 1993 || ''[[Short Cuts]]'' || Andy Bitkower ||
+|-
+| 1994 || ''[[Prêt-à-Porter (film)|Prêt-à-Porter]]'' || Clint Lammeraux ||
+|-
+| 1995 || ''[[Mad About You]]'' || Lenny || (TV series, episode "[[List of Mad About You episodes#ep60|Mad About You: Part 2]]")
+|-
+| 1996 || ''[[Bastard Out of Carolina (film)|Bastard Out of Carolina]]'' || Wade ||
+|-
+| 1997 || ''[[Breast Men]]'' || Research Scientist || (TV movie)
+|-
+| 1998 || ''[[Fear and Loathing in Las Vegas (film)|Fear and Loathing in Las Vegas]]'' || Road Person ||
+|-
+| 1998 || ''[[The Opposite of Sex]]'' || Sheriff Carl Tippett ||
+|-
+| 1999 || ''[[Cookie's Fortune]]'' || Manny Hood ||
+|-
+| 1999 || ''[[Penn & Teller's Sin City Spectacular]]'' || Himself || (episode #1.23)
+|-
+| 1999 || ''[[Mad About You]]'' || Lenny || (episode "[[The Final Frontier (Mad About You)|The Final Frontier]]" Part 1)
+|-
+| 2000 || ''[[Dharma and Greg]]'' || Himself || (episode "[[List of Dharma & Greg episodes#ep62|The Trouble With Troubadours]]")
+|-
+| 2002 || ''Three Days of Rain'' || Disc Jockey ||
+|-
+| 2002 || ''[[The New Guy]]'' || Bear Harrison ||
+|-
+| 2007 || ''[[Brothers & Sisters (2006 TV series)|Brothers and Sisters]]'' || Himself || (episode "[[Brothers & Sisters (season 2)#ep31|Something New]]")
+|-
+| 2007 || ''[[Walk Hard: The Dewey Cox Story]]'' || Himself ||
+|-
+| 2008 || ''[[The Open Road]]'' || Peabody Bartender ||
+|-
+| 2010 || ''[[Castle (TV series)|Castle]]'' || Agent Westfield || (episode "[[Castle (season 3)#ep43|Close Encounters of the Murderous Kind]]")
+|-
+| 2013 || ''[[Angels Sing]]'' || Griffin ||
+|-
+| 2013–2014 || ''[[The Bridge (2013 TV series)|The Bridge]]'' || Monte P. Flagman || (10 episodes)
+|-
+| 2017 || ''[[Life in Pieces]]'' || Ned Gawler || (TV series, episode "[[List of Life in Pieces episodes#ep36|Facebook Fish Planner Backstage]]")
+|-
+| 2020–2023 || ''[[Blue Bloods (TV series)|Blue Bloods]]'' || Texas Ranger Waylon Gates || (3 episodes)
+|-
+| 2022–2023 || ''[[Big Sky (American TV series)|Big Sky]]'' || Tex || (TV series, 3 episodes)
+|}
+
+==Theatre==
+===Actor===
+* ''[[Much Ado About Nothing]]'' (The [[Shakespeare Center of Los Angeles]], 2010) – Balthazar<ref>{{cite web |url=http://www.centertheatregroup.org/tickets/productiondetail.aspx?performanceNumber=8078 |title=The Shakespeare Center of Los Angeles Presents ''Much Ado About Nothing'' |website=Center Theatre Group |access-date=December 25, 2010 |archive-url=https://web.archive.org/web/20101229144348/http://www.centertheatregroup.org/tickets/productiondetail.aspx?performanceNumber=8078 |archive-date=December 29, 2010}}</ref><ref name=latimes_Dec2010>{{cite web|url=http://latimesblogs.latimes.com/culturemonster/2010/12/lyle-lovett-joining-helen-hunt-in-la-production-of-much-ado-about-nothing.html |title=Lyle Lovett joining Helen Hunt in cast of 'Much Ado About Nothing' |website=Latimesblogs.latimes.com |date=December 2, 2010 |access-date=2016-12-07}}</ref>
+
+===Composer===
+* ''[[Much Ado About Nothing]]'' (The Shakespeare Center of Los Angeles, 2010)<ref name=latimes_Dec2010 />
+
+== Honors ==
+{| class="wikitable"
+|+
+!Year
+!Honor
+!Reference
+|-
+|2012
+|Inducted into the [[Texas Cowboy Hall of Fame]]
+|<ref>{{cite web|url=https://www.tchof.com/post/lyle-lovett|title=Lyle Lovett|date=November 20, 2011|publisher=Texas Cowboy Hall of Fame|access-date=March 8, 2020}}</ref>
+|}
+
+=== Grammy Awards ===
+The [[Grammy Award]]s are awarded annually by the [[National Academy of Recording Arts and Sciences]]. Lovett has won four awards from 17 nominations.<ref name="Grammy"/>
+
+{{awards table}}
+|-
+|rowspan=2|[[31st Annual Grammy Awards|1989]]
+|"[[Pontiac (album)|She's No Lady]]"
+|[[Grammy Award for Best Country Song|Best Country Song]]
+|{{nom}}
+|-
+|''[[Pontiac (album)|Pontiac]]''
+|rowspan=2|[[Grammy Award for Best Male Country Vocal Performance|Best Male Country Vocal Performance]]
+|{{nom}}
+|-
+|[[32nd Annual Grammy Awards|1990]]
+|''[[Lyle Lovett and His Large Band]]''
+|{{won}}
+|-
+|rowspan=2|[[35th Annual Grammy Awards|1993]]
+|''[[Joshua Judges Ruth]]''
+|[[Grammy Award for Best Male Pop Vocal Performance|Best Male Pop Vocal Performance]]
+|{{nom}}
+|-
+|"[[Joshua Judges Ruth|Church]]"
+|[[Grammy Award for Best Music Video|Best Music Video]]
+|{{nom}}
+|-
+|rowspan=3|[[37th Annual Grammy Awards|1995]]
+|''[[I Love Everybody]]''
+|[[Grammy Award for Best Pop Vocal Album|Best Pop Album]]
+|{{nom}}
+|-
+|"[[Funny How Time Slips Away]]" <small>(with [[Al Green]])</small>
+|[[Grammy Award for Best Pop Collaboration with Vocals|Best Pop Collaboration]]
+|{{won}}
+|-
+|"[[Wheelin' and Dealin' (Asleep at the Wheel album)|Blues for Dixie]]" <small>(with [[Asleep at the Wheel]])</small>
+|[[Grammy Award for Best Country Performance by a Duo or Group with Vocal|Best Country Performance by a Duo or Group with Vocal]]
+|{{won}}
+|-
+|rowspan=3|[[39th Annual Grammy Awards|1997]]
+|"[[The Road to Ensenada|Private Conversation]]"
+|[[Grammy Award for Best Male Country Vocal Performance|Best Male Country Vocal Performance]]
+|{{nom}}
+|-
+|"[[The Road to Ensenada|Long Tall Texan]]" <small>(with [[Randy Newman]])</small>
+|[[Grammy Award for Best Country Collaboration with Vocals|Best Country Collaboration with Vocals]]
+|{{nom}}
+|-
+|''[[The Road to Ensenada]]''
+|[[Grammy Award for Best Country Album|Best Country Album]]
+|{{won}}
+|-
+|[[41st Annual Grammy Awards|1999]]
+|''[[Step Inside This House]]''
+|[[Grammy Award for Best Contemporary Folk Album|Best Contemporary Folk Album]]
+|{{nom}}
+|-
+|[[42nd Annual Grammy Awards|2000]]
+|"[[That's Right (You're Not from Texas)]]"
+|rowspan=3|[[Grammy Award for Best Male Country Vocal Performance|Best Male Country Vocal Performance]]
+|{{nom}}
+|-
+|[[44th Annual Grammy Awards|2002]]
+|"[[My Baby Don't Tolerate|San Antonio Girl]]"
+|{{nom}}
+|-
+|rowspan=2|[[46th Annual Grammy Awards|2004]]
+|"[[My Baby Don't Tolerate]]"
+|{{nom}}
+|-
+|''[[My Baby Don't Tolerate]]''
+|[[Grammy Award for Best Country Album|Best Country Album]]
+|{{nom}}
+|-
+|[[47th Annual Grammy Awards|2005]]
+|"[[My Baby Don't Tolerate|In My Own Mind]]"
+|[[Grammy Award for Best Male Country Vocal Performance|Best Male Country Vocal Performance]]
+|{{nom}}
+{{end}}
+
+== Citations ==
+{{Reflist|30em}}
+
+==Sources==
+* Oermann, Robert K. (1998). "Lyle Lovett". In ''The Encyclopedia of Country Music''. Paul Kingsbury, Editor. New York: Oxford University Press. p.&nbsp;307.
+* {{Cite news|url=http://www.elpasotimes.com/ci_10059730?source=most_viewed|title=Through fame, fortune and marriage to Julia Roberts, Texan Lyle Lovett has stayed true to his roots|work=El Paso Times|access-date=August 1, 2008|date=August 1, 2008|author=Pullen, Doug}}{{dead link|date=January 2018 |bot=InternetArchiveBot |fix-attempted=yes }}
+
+==External links==
+{{commonscat|Lyle Lovett}}
+*[http://www.lylelovett.com Official Lyle Lovett Website]
+*[https://web.archive.org/web/20061104101348/http://main.losthighwayrecords.com/artist.aspx?ob=ros&src=lb&aid=54 Lyle Lovett] at [[Lost Highway Records]]
+*{{IMDb name|id=0005164|name=Lyle Lovett}}
+
+{{S-start}}
+{{S-ach|aw}}
+{{s-new|First|reason=None recognized before}}
+{{s-ttl|title=[[Americana Music Association|AMA Americana Trailblazer Award]]|years=2007}}
+{{S-aft|after=[[Nanci Griffith]]}}
+{{S-end}}
+{{Lyle Lovett}}
+{{Authority control}}
+
+{{DEFAULTSORT:Lovett, Lyle}}
+[[Category:1957 births]]
+[[Category:American alternative country singers]]
+[[Category:American blues singers]]
+[[Category:American country singer-songwriters]]
+[[Category:American jazz singers]]
+[[Category:American Lutherans]]
+[[Category:American rockabilly guitarists]]
+[[Category:American male singer-songwriters]]
+[[Category:American people of German descent]]
+[[Category:Americana Music Honors & Awards winners]]
+[[Category:Country musicians from Texas]]
+[[Category:Curb Records artists]]
+[[Category:Fast Folk artists]]
+[[Category:Grammy Award winners]]
+[[Category:Klein High School alumni]]
+[[Category:Living people]]
+[[Category:Lost Highway Records artists]]
+[[Category:MCA Records artists]]
+[[Category:Male actors from Houston]]
+[[Category:Singers from Houston]]
+[[Category:People from Klein, Texas]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:Swing revival musicians]]
+[[Category:Texas A&M University alumni]]
+[[Category:Volpi Cup winners]]

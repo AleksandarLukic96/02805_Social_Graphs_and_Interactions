@@ -1,0 +1,112 @@
+{{for-multi|the Bahamian high jumper|Charles W. Major|other people|Charles Major (disambiguation){{!}}Charles Major}}
+{{BLP sources|date=July 2023}}
+{{Use mdy dates|date=July 2020}}
+{{Infobox musical artist
+| name            = Charlie Major
+| image           =
+| caption         =
+| image_size      = <!-- Only for images smaller than 220 pixels -->
+| birth_name      = Charles Bernard Major
+| alias           =
+| birth_date      = {{birth date and age|1954|12|31}}
+| death_date      =
+| origin          = [[Aylmer, Quebec]], Canada
+| instrument      = Vocals, guitar
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 1993–present
+| label           = [[Arista Records|Arista]]<br>[[Imprint Records|Imprint]]<br>[[ViK. Recordings]]<br>[[Dead Reckoning Records|Dead Reckoning]]<br>[[Stony Plain Records|Stony Plain]]<br>[[Koch Entertainment Canada]]<br>[[EMI]]<br>[[MDM Recordings Inc.|MDM Recordings]]
+| associated_acts = [[Ricky Van Shelton]], [[Joy Lynn White]], [[Kim Mitchell]]
+| website         = [http://www.charliemajor.com/ www.charliemajor.com]
+}}
+
+'''Charles Bernard Major''' (born December 31, 1954) is a Canadian [[country music]] artist. He has recorded seven studio albums and released more than twenty singles. In 2019 he was inducted into the Canadian Country Music Hall of Fame.
+
+==Musical career==
+Born in [[Aylmer, Quebec]], Charlie Major knew he wanted to be a musician since he was 19 years old.<ref>[{{AllMusic|class=artist|id=p194953/biography|pure_url=yes}} allmusic ((( Charlie Major > Biography )))<!-- Bot generated title -->]</ref> He was blinded in one eye as a result of a pellet gun accident when he was 12.<ref>Guest Appearance, Holmes on Homes, Season 6, Episode 11</ref> Major released his debut album in Canada, ''[[The Other Side (Charlie Major album)|The Other Side]]'', in 1993. All six singles released from the album went to No.&nbsp;1 on the [[RPM (magazine)|RPM Country]] chart.
+
+He won the [[Juno Award]] as Country Male Vocalist of the Year two years in a row (Juno Awards in [[Juno Awards of 1994#Best Country Male Vocalist|1994]] and [[Juno Awards of 1995#Best Country Male Vocalist|1995]]). Five major [[Canadian Country Music Awards]] followed, along with songwriting honours from [[SOCAN]], and a [[Broadcast Music Incorporated|BMI]] Award in 1993 for "[[Backroads (song)|Backroads]]", recorded by [[Ricky Van Shelton]] in 1991 on his ''[[Backroads (Ricky Van Shelton album)|Backroads]]'' album, as the "Most Performed Song in America." In 2006 he made an appearance on the television show ''[[Holmes on Homes]]''.
+
+==Personal life==
+Charlie Major is divorced and is the father of three sons.  He divides his time between homes in [[Ottawa]], Ontario; and in [[Nashville, Tennessee]], where he first moved in 1994.  Today Major spends the majority of his time in his native Canada.
+
+==Discography==
+{{main|Charlie Major discography}}
+
+==Awards and nominations==
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! Association
+! Category
+! Result
+|-
+| rowspan="5"| 1994
+! scope="row" rowspan="2"| [[Juno Awards of 1994]]
+| [[Juno Award for Country Recording of the Year|Country Male Vocalist of the Year]]
+| {{won}}
+|-
+| Best New Solo Artist
+| {{nom}}
+|-
+! scope="row" rowspan="3"| [[Canadian Country Music Association]]
+| [[Society of Composers, Authors and Music Publishers of Canada|SOCAN]] Song of the Year — "I'm Going to Drive You Out of My Mind"
+| {{won}}
+|-
+| Single of the Year — "I'm Going to Drive You Out of My Mind"
+| {{won}}
+|-
+| Male Artist of the Year
+| {{won}}
+|-
+| rowspan="2"| 1995
+! scope="row"| [[Juno Awards of 1995]]
+| [[Juno Award for Country Recording of the Year|Country Male Vocalist of the Year]]
+| {{won}}
+|-
+! scope="row"| Canadian Country Music Association
+| Male Artist of the Year
+| {{won}}
+|-
+| rowspan="3"| 1996
+! scope="row" rowspan="2"| [[Juno Awards of 1996]]
+| [[Juno Award for Country Recording of the Year|Country Male Vocalist of the Year]]
+| {{won}}
+|-
+| Best Male Vocalist
+| {{nom}}
+|-
+! scope="row"| Canadian Country Music Association
+| Male Artist of the Year
+| {{won}}
+|-
+|}
+
+==References==
+<references/>
+
+== External links ==
+*[http://www.charliemajor.com/ Official web site]
+*[https://www.myspace.com/charliebmajor Official MySpace page]
+*[https://www.youtube.com/profile?user=charliebmajor Music Videos]
+*[http://www.stonyplainrecords.com/Web/downloads/majorBio.pdf Charlie Major: Tough Music That's Headed Straight for Your Heart]
+* {{IMDb name|nm14012068}}
+
+{{Charlie Major}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Major, Charlie}}
+[[Category:1954 births]]
+[[Category:Living people]]
+[[Category:Musicians from Gatineau]]
+[[Category:Writers from Gatineau]]
+[[Category:Canadian country singer-songwriters]]
+[[Category:Canadian male singer-songwriters]]
+[[Category:Juno Award winners]]
+[[Category:Arista Nashville artists]]
+[[Category:Imprint Records artists]]
+[[Category:Canadian Country Music Association Male Artist of the Year winners]]
+[[Category:Canadian Country Music Association Single of the Year winners]]
+[[Category:Canadian Country Music Association Song of the Year winners]]
+[[Category:Canadian Country Music Association Album of the Year winners]]

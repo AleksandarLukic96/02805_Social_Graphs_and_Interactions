@@ -1,0 +1,256 @@
+{{short description|Canadian country music artist}}
+{{Use dmy dates|date=March 2020}}
+{{Infobox musical artist
+| name            = Colin Amey
+| image           = Colin_Amey.jpg
+| caption         = Colin Amey, November 2005
+| birth_name      =
+| alias           =
+| birth_date      = <!-- {{birth date and age|YYYY|MM|DD|df=y}} -->
+| birth_place     = [[Dunnville, Ontario]], Canada
+| death_date      = <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD|df=y}} (death date 1st) -->
+| death_place     =
+| origin          = Dunnville, Ontario, Canada
+| instrument      = Vocals
+| genre           = [[Country music|Country]]
+| occupation      = Singer
+| years_active    = 1990–present
+| label           = Makin' Tracks<br />[[Royalty Records|Royalty]]
+| associated_acts =
+| website         = 
+}}
+'''Colin Amey''' (born [[Dunnville, Ontario]]) is a Canadian [[country music]] artist.<ref name="jam.canoe.ca"/> Amey has released three studio albums which include 1998's ''Colin Amey'', 2000's ''What My Heart Don't Know'' and 2006's ''Getaway''. Two of Amey's singles reached the Top 20 on the ''[[RPM (magazine)|RPM]]'' Country Tracks chart in Canada, "I Wish She Was Mine"<ref name="avtrust.ca_RPM(Country Singles)_1"/> and "What My Heart Don't Know."<ref name="avtrust.ca_RPM(Country Singles)_4"/>
+
+==Discography==
+
+===Albums===
+{| class="wikitable"
+! Year
+! Album
+|- 
+| 1998
+| ''Colin Amey''
+|-
+| 2000
+| ''What My Heart Don't Know''
+|-
+| 2006
+| ''Getaway''
+|-
+| 2013
+| ''Just Do What You Do'' (EP)
+|}
+
+===Singles===
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="2"| Chart Positions
+! rowspan="2"| Album
+|-
+! width="50"| <small>CAN Country</small>
+! width="50"| <small>CAN AC</small>
+|-
+| 1988
+| "Gonna Last Forever"
+| align="center"| —
+| align="center"| 16
+| {{n/a}}
+|-
+| 1998
+| "I Wish She Was Mine"
+| align="center"| 19
+| align="center"| —
+| rowspan="3"| ''Colin Amey''
+|-
+| rowspan="2"| 1999
+| "Could've Fooled Me"
+| align="center"| 37<ref name="avtrust.ca_RPM(Country Singles)_2"/>
+| align="center"| —
+|-
+| "You're Crazy Too"
+| align="center"| 71<ref name="avtrust.ca_RPM(Country Singles)_3"/>
+| align="center"| —
+|-
+| rowspan="2"| 2000
+| "What My Heart Don't Know"
+| align="center"| 19
+| align="center"| —
+| rowspan="6"| ''What My Heart Don't Know''
+|-
+| "If I Didn't Call It Love"
+| align="center"| *
+| align="center"| —
+|-
+| rowspan="2"| 2001
+| "Any Man with Half a Heart"
+| align="center"| *
+| align="center"| —
+|-
+| "Might as Well Have Been a Train"
+| align="center"| *
+| align="center"| —
+|-
+| rowspan="2"| 2002
+| "She's That Girl"
+| align="center"| *
+| align="center"| —
+|-
+| "What Would I Do Without You" <small>(with [[Nancy Denault]])</small>
+| align="center"| *
+| align="center"| —
+|-
+| 2003
+| "You Don't See That Every Day"
+| align="center"| *
+| align="center"| —
+| rowspan="5"| ''Getaway''
+|-
+| rowspan="3"| 2006
+| "Getaway"
+| align="center"| *
+| align="center"| —
+|-
+| "Look at That Truck"
+| align="center"| *
+| align="center"| —
+|-
+| "Millionaire"
+| align="center"| *
+| align="center"| —
+|-
+| 2007
+| "That Hurts"
+| align="center"| *
+| align="center"| —
+|-
+| 2013
+| "Go for a Soda"
+| align="center"| —
+| align="center"| —
+| rowspan="2"| ''Just Do What You Do''
+|-
+| 2014
+| "Life Happens"
+| align="center"| —
+| align="center"| —
+|-
+| 2015
+| "Sunday Drive"
+| align="center"| —
+| align="center"| —
+| TBD
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;"| Video
+|-
+| 1999
+! scope="row"| "You're Crazy Too"
+|-
+| rowspan="2"| 2000
+! scope="row"| "What My Heart Don't Know"
+|-
+! scope="row"| "If I Didn't Call It Love"
+|-
+| 2013
+! scope="row"| "Go for a Soda"
+|-
+| 2015
+! scope="row"| "Sunday Drive"
+|}
+
+==See also==
+{{Portal|Music|Canada}}
+*[[Music of Canada]]
+*[[List of Canadian musicians]]
+
+==References==
+;Citations
+{{Reflist
+| colwidth = 30em
+| refs     =
+
+<ref name="avtrust.ca_RPM(Country Singles)_1">{{cite web
+ |url          = http://www.collectionscanada.gc.ca/rpm/028020-119.01-e.php?&file_num=nlc008388.7176&type=1&interval=50&PHPSESSID=bb0e7somh8osmahbvuk8ubb1u5.pdf
+ |title        = Country Singles – Volume 71, No. 19, September 11, 2000
+ |work       = [[RPM (magazine)|RPM]]
+ |date         = 11 September 2000
+ |via          = Collections Canada
+ |publisher    = [[Ottawa]]: [[Library and Archives Canada]]
+ |oclc         = 352936026
+ |accessdate   = 16 January 2012
+|archive-url  = https://web.archive.org/web/20111225030129/http://www.collectionscanada.gc.ca/rpm/028020-119.01-e.php
+ |archive-date = 25 December 2011
+|url-status   = dead
+}}</ref>
+
+<ref name="avtrust.ca_RPM(Country Singles)_2">{{cite web
+ |url          = http://www.collectionscanada.gc.ca/rpm/028020-119.01-e.php?&file_num=nlc008388.8399&type=1&interval=50&PHPSESSID=osk8t2iohtcrs2qsu7fdudga51.pdf
+ |title        = Country Singles – Volume 69, No. 11, July 05 1999
+ |work         = [[RPM (magazine)|RPM]]
+ |date         = 5 July 1999
+ |via          = Collections Canada
+ |publisher    = [[Ottawa]]: [[Library and Archives Canada]]
+ |oclc         = 352936026
+ |accessdate   = 16 January 2012
+ |archive-url  = https://web.archive.org/web/20111225030129/http://www.collectionscanada.gc.ca/rpm/028020-119.01-e.php
+ |archive-date = 25 December 2011
+ |url-status   = dead
+}}</ref>
+
+<ref name="avtrust.ca_RPM(Country Singles)_3">{{cite web
+ |url          = http://www.collectionscanada.gc.ca/rpm/028020-119.01-e.php?&file_num=nlc008388.8434&type=1&interval=20&PHPSESSID=mmqkk7jpk3a50qcgnigodvuc91.pdf
+ |title        = Country Singles – Volume 69, No. 24, October 04 1999
+ |work       = [[RPM (magazine)|RPM]]
+ |date         = 4 October 1999
+ |via          = Collections Canada
+ |publisher    = [[Ottawa]]: [[Library and Archives Canada]]
+ |oclc         = 352936026
+ |accessdate   = 16 January 2012
+|archive-url  = https://web.archive.org/web/20111225030129/http://www.collectionscanada.gc.ca/rpm/028020-119.01-e.php
+ |archive-date = 25 December 2011
+|url-status   = dead
+}}</ref>
+
+<ref name="avtrust.ca_RPM(Country Singles)_4">{{cite web
+ |url          = http://www.collectionscanada.gc.ca/rpm/028020-119.01-e.php?&file_num=nlc008388.7470&type=1&interval=20&PHPSESSID=cijt82gt1tdkl9lasfcl7rp6n2.pdf
+ |title        = Country Singles – Volume 68, No. 20, March 08 1999
+ |work       = [[RPM (magazine)|RPM]]
+ |date         = 8 March 1999
+ |via         = Collections Canada
+ |publisher    = [[Ottawa]]: [[Library and Archives Canada]]
+ |oclc         = 352936026
+ |accessdate   = 16 January 2012
+|archive-url  = https://web.archive.org/web/20111225030129/http://www.collectionscanada.gc.ca/rpm/028020-119.01-e.php
+ |archive-date = 25 December 2011
+|url-status   = dead
+}}</ref>
+
+<ref name="jam.canoe.ca">
+{{cite web
+| url         = http://jam.canoe.ca/Music/Pop_Encyclopedia/A/Amey.html
+| title       = Artist: Amey, Colin Biography
+| date        = 14 January 2006
+| work        = canoe.ca
+| publisher   = [[Jam!]]
+| archiveurl  = https://archive.today/20130115065341/http://jam.canoe.ca/Music/Pop_Encyclopedia/A/Amey.html
+| archivedate = 15 January 2013
+| accessdate  = 16 January 2012
+| url-status    = usurped
+}}
+</ref>
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Amey, Colin}}
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:Canadian country singers]]
+[[Category:Canadian male singers]]
+[[Category:Singers from Ontario]]
+[[Category:People from Haldimand County]]

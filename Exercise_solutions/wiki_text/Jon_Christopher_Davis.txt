@@ -1,0 +1,73 @@
+{{Use mdy dates|date=December 2020}}
+{{short description|American singer-songwriter|bot=PearBOT 5}}
+{{Infobox musical artist
+|image =Jon Christopher Davis (LIVE).jpg |
+|image_size = 250 |
+|name = Jon Christopher Davis
+|background = solo_singer
+|birth_name = Jon Christopher Davis
+| birth_date = {{birth date and age|1968|06|27}}
+|origin = [[Dallas]], [[Texas]]
+|instrument = 
+|genre = {{hlist|[[Rock music|Rock]]|[[indie rock]]|[[heartland rock]]|[[Americana (music)|Americana]]}}
+|occupation = {{hlist|[[Record producer|Producer]]|[[musician]]| [[songwriter]]}}
+|years_active = 1990–present
+|website = [https://www.jonchristopherdavis.com/]
+}}
+'''Jon Christopher Davis''' (born June 27, 1968) is an American [[singer]], [[songwriter]] and [[record producer]] whose musical style encompasses [[Rock music|rock]], [[soul]] and [[country]]. His songs have been covered by [[Dolly Parton]], [[Hal Ketchum]], [[Timothy B. Schmit]] of [[the Eagles]], [[Billy Ray Cyrus]], [[Sherrie Austin]], [[Tammy Cochran]] and various [[Independent artist|indie artists]]. His music has been featured on [[American Broadcasting Company|ABC]], [[CBS]], [[FOX]], [[CMT (American TV channel)|CMT]] and in [[USA Today]], ''[[Billboard]]'', ''[[Texas Highways]]'' and the ''[[Washington Post]]''. His discography includes work with [[Vince Gill]], [[Radney Foster]], [[Rodney Crowell]], [[Steve Lukather]] ([[Toto (band)|Toto]]), [[Stan Lynch]] ([[Tom Petty and the Heartbreakers]]), [[Dann Huff]] ([[Carrie Underwood]], [[Keith Urban]]) and [[David Z (producer)|David Z]] ([[Prince]], [[Jonny Lang]]).
+
+==Early career==
+Davis began his career in 1990 by playing the [[Dallas]] bar scene. In 1996, he was encouraged to move to [[Nashville]] by Grammy Award-winner, [[Rodney Crowell]]. In 1998, Davis signed with [[Warner/Chappell Music]] where he wrote songs for major-label artists. The following year, he signed an artist development deal with [[Warner Bros. Records]]. After six months, the label considered the recordings to be too left of center and eventually shelved the project. Those self-produced recordings caught the ear of hit producer, Dann Huff, who later signed Davis to his new subsidiary label under [[Sony Records]].
+
+==2002–2007==
+In 2002, Davis signed with [[MCA Records]] where fellow Texas singer-songwriter, [[Radney Foster]], came on board as producer. Davis also signed a new publishing deal with [[Bertelsmann Music Group|BMG]] Publishing. When MCA decided to not release the record, Davis returned to his Texas roots and signed with the indie label, [[Palo Duro Records]]. After his debut album received a national release in 2006, ''[[USA Today]]'' called his song, The Bottom Line, "One of the most intriguing tracks from the present, past and near future." The album also caught the attention of renowned music critic, [[Robert K. Oermann]] – "I’m a huge fan of this man’s album. Its second single sizzles with zesty rhythm, yelping vocals, sidewinder guitar and a ridiculously catchy melody. The major-label 'stars' on [[Music Row]] have nothing on this guy."
+
+==2008–2013==
+In 2008, Davis released the patriotic single, The Boy I Left Behind, with fellow Texas singer-songwriter, [[Deryl Dodd]]. It became the official theme song for The American Fallen Soldiers Project.
+
+In 2009, Davis was the Texas statewide voice for [[Energy Future Holdings|TXU]] Energy. That same year, he released "Demos From the Vault (1999–2009)." The double album features guest appearances by [[Vince Gill]], Radney Foster, [[Jon Randall]], [[Steve Lukather]] (Toto) and Stan Lynch (The Heartbreakers).
+
+In 2010, Davis was awarded Song of the Year by the [[American Cancer Society]].
+
+In 2012, Davis was a featured artist on Troubadour TX, a national TV show following the careers of Texas singer-songwriters.
+
+In 2013, LSA Burger Co. (named after his top 40 dance hall track, Lone Star Attitude) opened in Denton, TX. A second location is in The Colony, TX.
+There are also two airport stores named after Lone Star Attitude located at [[DFW International Airport]].
+
+==2014–present==
+In 2014, Davis released the album, "Last Night's Dinner Party." 
+
+In 2016, Davis collaborated with CMA Song of the Year nominee, [[Max T. Barnes]], on several singles and produced eight music videos.
+
+In 2018, Davis released the album, "New Wind Blowing." 
+
+In 2020, Davis released the EP, "The Ride." 
+
+Davis is currently working on a new band project with Stan Lynch (Tom Petty and the Heartbreakers, Don Henley) called The Speaker Wars.
+
+==Discography==
+;Albums
+* ''Jon Christopher Davis Live'' (2005)
+* ''Jon Christopher Davis'' (2006)
+* ''Demos from the Vault (1999–2009)'' 
+* ''Last Night's Dinner Party'' (2014)
+* ''New Wind Blowing'' (2018)
+* ''The Ride'' (2020)
+
+==References==
+{{Reflist}}
+
+==External links==
+* https://www.jonchristopherdavis.com/
+*[http://www.facebook.com/jonchristopherdavismusic Facebook page]
+* https://www.instagram.com/jonchristopherdavis/
+*http://countrymusic.about.com/od/cdreviewsmz/fr/jcdavis.htm {{Webarchive|url=https://web.archive.org/web/20130415180145/http://countrymusic.about.com/od/cdreviewsmz/fr/jcdavis.htm |date=April 15, 2013 }}
+*http://www.allmusic.com/album/jon-christopher-davis-r849749/review
+*http://artreach.smugmug.com/Community-Programs/Sept-2010-Texas-Music-Project/13601132_PKsRW#992217115_rSehu
+
+{{Authority control}}
+
+{{DEFAULTSORT:Davis, Jon Christopher}}
+[[Category:American country singer-songwriters]]
+[[Category:Living people]]
+[[Category:1968 births]]

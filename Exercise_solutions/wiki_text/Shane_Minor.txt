@@ -1,0 +1,102 @@
+{{short description|American singer-songwriter}}
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist
+| name                = Shane Minor
+| birth_name          = Shane Allen Minor<ref>{{cite web|url=http://repertoire.bmi.com/writer.asp?blnWriter=True&blnPublisher=True&blnArtist=True&page=1&fromrow=1&torow=25&querytype=WriterID&keyid=688694&keyname=MINOR+SHANE+ALLEN&CAE=197615138&Affiliation=BMI|title=Listing for Minor, Shane Allen|work=[[Broadcast Music Incorporated]]|accessdate=May 25, 2010}}</ref>
+| image = Defense.gov News Photo 991222-D-2987S-159.jpg
+| caption = Shane Minor singing to a US soldier at [[Tuzla Air Base]], [[Bosnia and Herzegovina]], in 1999.
+| alias               = 
+| birth_date                = {{birth date and age|1968|05|03}}
+| origin              = [[Modesto, California]], U.S.
+| instrument          = Vocals
+| genre               = [[country music|Country]]
+| occupation          = Singer-songwriter
+| years_active        = 1999–present
+| label               = [[Mercury Nashville]]
+}}
+
+'''Shane Allen Minor''' (born May 3, 1968) is an American [[country music]] artist. Signed to [[Mercury Nashville Records]] in 1999, Minor released his [[Shane Minor (album)|self-titled album]] that year, and it produced three hit singles on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Singles & Tracks]] charts. Although he was dropped from Mercury's roster in 2000, he has continued to write songs for other artists, including the No. 1 singles "[[Beautiful Mess (Diamond Rio song)|Beautiful Mess]]" by [[Diamond Rio]], "[[Brand New Girlfriend (song)|Brand New Girlfriend]]" by [[Steve Holy]], and "[[Live a Little (song)|Live a Little]]" by [[Kenny Chesney]].
+
+==Career==
+Before his recording career began, Minor was a patrol officer for the [[Los Angeles Police Department]] LAPD, as well as a [[rodeo]] [[bull riding|bull rider]].<ref name="allmusic">[{{AllMusic|class=artist|id=p366328/biography|pure_url=yes}} AllMusic ((( Shane Minor > Biography )))]</ref><ref name="cmt">{{Cite web|url=http://www.cmt.com/artists/news/1476871/20030813/minor_shane.jhtml|archive-url=https://web.archive.org/web/20070930061748/http://www.cmt.com/artists/news/1476871/20030813/minor_shane.jhtml|url-status=dead|archive-date=September 30, 2007|website=Cmt.com |title=Shane Minor : Shane Minor, Mercury Split}}</ref> After leaving the LAPD in 1994, Minor became a singer, working small gigs throughout California, eventually recording a demo tape which was sent to producer [[Dann Huff]].<ref name="allmusic"/><ref name="emi">{{Cite web|url=http://www.eminashville.com/bios/sminor.html|archive-url=https://web.archive.org/web/20071006165120/http://www.eminashville.com/bios/sminor.html|url-status=dead|archive-date=October 6, 2007|title=EMI Music Publishing &#124; The World's Leading Music Publisher|date=October 6, 2007}}</ref>
+
+Shane was signed to Mercury Nashville Records in 1999. His debut single, "Slave to the Habit" (co-written by [[Kostas Lazarides|Kostas]], [[Toby Keith]], and [[Chuck Cannon]]), reached number 20 on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Singles & Tracks]] charts that same year. In addition, he was signed as an opening act for country pop singer [[Shania Twain]].<ref>{{Cite web|url=http://www.prnewswire.com/cgi-bin/stories.pl?ACCT=104&STORY=/www/story/05-09-1999/0000929215&EDATE=|title=Shane Minor Joins Shania Twain Tour|website=Prnewswire.com}}</ref><ref>{{Cite web|url=http://www.cmt.com/artists/news/1475423/20030805/minor_shane.jhtml|archive-url=https://web.archive.org/web/20070927184126/http://www.cmt.com/artists/news/1475423/20030805/minor_shane.jhtml|url-status=dead|archive-date=September 27, 2007|website=Cmt.com |title=Shane Minor : Minor Scores Twain's Opening Act Slot}}</ref> The album also produced the top 30 hit "Ordinary Love" and "I Think You're Beautiful". Despite the success of its first two singles, however, the album did not chart on [[Top Country Albums]] at all.
+
+Minor left Mercury Nashville in 2000,<ref name="cmt"/> and has not recorded any albums since. In the 2000s, he found success as a songwriter when [[Diamond Rio]] reached number 1 in 2002 with "[[Beautiful Mess (Diamond Rio song)|Beautiful Mess]]".<ref name="emi"/> Minor also co-wrote several hits for other artists, including "You're in My Head" by [[Brian McComas]], "[[She Thinks She Needs Me]]" by [[Andy Griggs]], "[[Brand New Girlfriend (song)|Brand New Girlfriend]]" by [[Steve Holy]], "[[International Harvester (song)|International Harvester]]" by [[Craig Morgan]], "[[Fall (Clay Walker song)|Fall]]" by [[Clay Walker]] (which was also released by [[Kimberley Locke]]), "Keep in Mind" and "Here Comes Summer" by [[LoCash Cowboys]], "Hell Yes I Like Beer" by [[Kevin Fowler]], "Playing the Part" and "I Remember You" by [[Jamey Johnson]], "His Kind of Money (My Kind of Love)" by [[Eric Church]], "[[Live a Little (song)|Live a Little]]" by [[Kenny Chesney]], "[[Close Your Eyes (Parmalee song)|Close Your Eyes]]" by [[Parmalee]], and "[[Chillin' It]]" by [[Cole Swindell]]. Minor has penned songs for [[Luke Bryan]], [[Justin Moore]], [[Chris Young (singer)|Chris Young]], [[Trace Adkins]], and [[Rodney Atkins]].
+
+==Discography==
+
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:10em;"| Title
+! style="width:16em;"| Album details
+|-
+! scope="row"| ''[[Shane Minor (album)|Shane Minor]]''
+| 
+* Release date: April 13, 1999
+* Label: [[Universal Music Group Nashville|Mercury Nashville]]
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! colspan="3"| Peak chart positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[Billboard Hot 100|US]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|- 
+| rowspan="2"| 1999
+! scope="row"| "[[Slave to the Habit]]"
+| 20
+| 82
+| 8
+| align="left" rowspan="3"|''Shane Minor''
+|- 
+! scope="row"| "[[Ordinary Love (Shane Minor song)|Ordinary Love]]"
+| 24
+| 111
+| 8
+|- 
+| 2000
+! scope="row"| "I Think You're Beautiful"
+| 44
+| —
+| 43
+|-
+| colspan="6" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|- 
+! Year
+! style="width:14em;"| Video
+! Director
+|-
+| rowspan="2"| 1999
+! scope="row"| "Slave to the Habit"
+| rowspan="2"| [[Steven Goldmann]]
+|-
+! scope="row"| "Ordinary Love"
+|}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Minor, Shane}}
+[[Category:1968 births]]
+[[Category:American country singer-songwriters]]
+[[Category:Living people]]
+[[Category:Los Angeles Police Department officers]]
+[[Category:Mercury Records artists]]
+[[Category:Country musicians from California]]
+[[Category:Musicians from Modesto, California]]

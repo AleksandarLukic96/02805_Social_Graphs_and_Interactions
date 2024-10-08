@@ -1,0 +1,75 @@
+{{short description|American singer-songwriter}}
+
+{{Infobox musical artist
+| name                = Jeffrey Foucault
+| image               = 
+| caption             = 
+| background          = solo_singer
+| birth_name          = Jeffrey Foucault
+| birth_date          = {{Birth date and age|1976|01|26}}
+| origin              = [[Whitewater, Wisconsin]], United States
+| instrument          = [[Acoustic guitar]], [[electric guitar]]
+| genre               = [[Folk blues]], [[Country music|country]], [[rock and roll]], [[Folk music|folk]]
+| occupation          = Musician, singer/songwriter
+| years_active        =
+| label               = [[Signature Sounds Recordings|Signature Sounds]]
+| associated_acts     = [[Redbird (band)|Redbird]], [[Kris Delmhorst]], [[Caitlin Canty]], Cold Satellite, [[Peter Mulvey]], [[Billy Conway (drummer)|Billy Conway]]
+| website             = [http://www.jeffreyfoucault.com/ Jeffreyfoucault.com]
+| current_members     =
+| past_members        =
+}}
+
+'''Jeffrey Foucault''' (born January 26, 1976) is an American songwriter and record producer from  [[Whitewater, Wisconsin]], United States, whose work marries the influence of American country, blues, rock 'n' roll, and folk music. He has released seven full-length solo albums under his own name and two full-band lyrical collaborations with poet Lisa Olstein, under the moniker Cold Satellite.<ref name="AM">{{cite web |first=Timothy |last=Monger |title= Allmusic biography for Jeffrey Foucault |url=http://www.allmusic.com/artist/jeffrey-foucault-mn0000104716/biography |publisher=[[Allmusic]] |accessdate=March 25, 2016}}</ref> Foucault has toured extensively in the United States, Canada, the United Kingdom and Europe since 2001, in both full-band and solo appearances. From 2013 through 2020, he performed as a duo with drummer [[Billy Conway (drummer)|Billy Conway]] ([[Morphine (band)|Morphine]], [[Treat Her Right]]).
+
+Foucault's solo releases were previously issued by western Massachusetts-based independent label [[Signature Sounds]], including ''Stripping Cane'' (2004), ''Ghost Repeater'' (2006) and ''Horse Latitudes'' (2011). His 2015 release, ''Salt As Wolves'', was self-released on BlueBlade Records. His bands have featured or included Eric Heywood (Son Volt, Pretenders, Ray Lamontagne), Bo Ramsey (Greg Brown, Lucinda Williams, Pieta Brown), Billy Conway (Morphine), Jennifer Condos (Joe Henry, Sam Phillips), Jeremy Moses Curtis (Booker T), David Goodrich ([[Chris Smither]]), [[Van Dyke Parks]] (Harry Nilsson, Ry Cooder, Ringo Starr) and Caitlin Canty.<ref name="AM" />
+
+Foucault has produced three albums for other artists, including [[Hayward Williams]]'s ''The Reef'' (2014), [[Caitlin Canty]]'s ''Reckless Skyline'' (2015) and John Statz's ''Tulsa'' (2015).<ref name="ND" />
+[[Don Henley]] performed Foucault's song, "Everybody's Famous", during his 2011 tour of California, and Foucault's songs have appeared on the television shows ''Sons of Anarchy'', Preacher, and ''Nashville''.
+
+Foucault's 2015 release, ''Salt As Wolves'', debuted at number 7 in the [[Billboard charts|''Billboard'' Top Blues Album Chart]] for the week of November 7, 2015.<ref>{{cite web|author= |url=http://www.billboard.com/charts/blues-albums |title=Blues Music: Top Blues Albums Chart |publisher=Billboard |date= |accessdate=2015-11-01}}</ref>
+
+Foucault lives in New England with his wife, fellow musician and songwriter [[Kris Delmhorst]].<ref name="ND">{{cite web |first=Joel |last=Barrett |title= Jeffrey Foucault 'Salt As Wolves': More Than a Blues Record |url=http://nodepression.com/article/jeffrey-foucault-salt-wolves-more-blues-record |publisher=[[No Depression (magazine)|No Depression]] |accessdate=March 25, 2016}}</ref>
+
+==Discography==
+*2001: ''[[Miles from the Lightning]]''
+*2004: ''[[Stripping Cane]]''
+*2005: ''[[Redbird (Redbird album)|Redbird]]'' (with [[Peter Mulvey]] and [[Kris Delmhorst]])
+*2006: ''[[Ghost Repeater]]''
+*2009: ''[[Shoot the Moon Right Between the Eyes|Shoot the Moon Right Between the Eyes: Jeffrey Foucault Sings the Songs of John Prine]]''
+*2010: ''Seven Curses'' (with [[Mark Erelli]])
+*2010: ''Cold Satellite'' (with Cold Satellite)
+*2011: ''[[Live at the Cafe Carpe]]'' (with Redbird)
+*2011: ''[[Horse Latitudes (album)|Horse Latitudes]]''
+*2013: ''Cavalcade'' (with Cold Satellite)
+*2015: ''[[Salt as Wolves]]''
+*2018: ''Blood Brothers''
+*2018: ''Horse Latitudes Solo / Acoustic Demos''
+*2020: ''Deadstock: Uncollected Recordings 2005 – 2020''
+*2024: ''The Universal Fire''
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.jeffreyfoucault.com/ Official website]
+*[http://www.coldsatellite.com/ Official website for the ''Cold Satellite'' album]
+*[https://archive.org/details/JeffreyFoucault Jeffrey Foucault collection] at the [[Internet Archive]]'s live music archive
+
+{{Authority control}}
+
+{{DEFAULTSORT:Foucault, Jeffrey}}
+[[Category:Living people]]
+[[Category:American country singer-songwriters]]
+[[Category:American country rock singers]]
+[[Category:American folk guitarists]]
+[[Category:American male guitarists]]
+[[Category:American male singer-songwriters]]
+[[Category:American folk singers]]
+[[Category:People from Whitewater, Wisconsin]]
+[[Category:1976 births]]
+[[Category:Guitarists from Wisconsin]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:21st-century American guitarists]]
+[[Category:21st-century American male singers]]
+[[Category:Signature Sounds artists]]
+[[Category:Singer-songwriters from Wisconsin]]

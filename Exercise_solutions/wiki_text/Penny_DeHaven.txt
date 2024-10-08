@@ -1,0 +1,204 @@
+{{Short description|American singer-songwriter (1948–2014)}}
+{{Use mdy dates|date=January 2020}}
+{{More citations needed|date=February 2014}}
+{{Infobox musical artist
+| name            = Penny DeHaven
+| image           =
+| caption         =
+| image_size      =
+| background      = solo_singer
+| birth_name      = Charlotte DeHaven
+| alias           = Penny Starr
+| birth_date      = {{Birth date|1948|05|17}}
+| birth_place     = [[Winchester, Virginia]], U.S.
+| origin          = 
+| death_date      = {{death date and age|2014|02|23|1948|05|17}}
+| instrument      =
+| genre           = [[Country music|Country]], [[gospel music|gospel]]
+| occupation      = Singer
+| years_active    = 1967–2014
+| label           = [[United Artists]], Mainstreet, Elektra, Imperial
+| past_member_of = Del Reeves
+| website         =
+}}
+
+'''Charlotte''' "'''Penny'''" '''DeHaven''' (May 17, 1948<ref name="LarkinCountry">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Who's Who of Country Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1993|edition=First|isbn=0-85112-726-6|page=114}}</ref> – February 23, 2014)<ref name=musicrow/> was an American country and gospel music singer. At the beginning of her career, she recorded as '''Penny Starr'''.<ref name="LarkinCountry"/>
+
+She was born in [[Winchester, Virginia]], United States,<ref name="CMT">{{cite web|url=http://www.cmt.com/artists/az/dehaven_penny/bio.jhtml|archive-url=https://web.archive.org/web/20050216121337/http://www.cmt.com/artists/az/dehaven_penny/bio.jhtml|url-status=dead|archive-date=February 16, 2005|title=Penny DeHaven biography|last=Bush|first=John|publisher=Country Music Television|accessdate=March 17, 2010}}</ref> she is best known for her country hit singles in the late 1960s and early 1970s. Her biggest hit was "Land Mark Tavern", a duet with [[Del Reeves]] in 1970.<ref name="LarkinCountry"/>
+
+DeHaven's other singles included country remakes of such pop hits as [[Billy Joe Royal]]'s "[[Down in the Boondocks (song)|Down in the Boondocks]]" (1969), [[The Beatles]]' "[[I Feel Fine]]" (1970), [[The Everly Brothers]]' "[[Crying in the Rain]]" (with Reeves, 1972), and [[Marvin Gaye]]'s "[[I'll Be Doggone]]" (1974).<ref name=musicrow/>
+
+Her albums included 1972's ''Penny DeHaven'' and 2011's gospel collection ''A Penny Saved''.<ref name=musicrow/>
+
+As an actress, she made two guest appearances on the CBS-TV/syndicated TV show ''[[Hee Haw]]'' in 1972–73.  She also appeared in the movies ''Traveling Light,'' ''Country Music Story,''<ref name="LarkinCountry"/> the 1973 horror movie ''Valley of Blood'', and the 1974 TV series ''[[Funny Farm (TV series)|Funny Farm]]''.
+
+DeHaven died from cancer on February 23, 2014, at the age of 65.<ref name=musicrow>{{cite news|last=Oermann|first=Robert K.|title=[Updated] Lifenotes: Penny DeHaven Passes|url=http://www.musicrow.com/2014/02/penny-dehaven-passes/|accessdate=February 25, 2014|newspaper=[[MusicRow]]|date=February 25, 2014}}</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable"
+! Year
+! Album
+! Label
+|-
+| 1972
+| ''Penny DeHaven''
+| United Artists
+|-
+| 1984
+| ''Penny DeHaven''
+| Mainstreet
+|}
+
+===Singles===
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="2"| Chart Positions
+! rowspan="2"| Album
+|-
+! width="50"| <small>[[Hot Country Songs|US Country]]</small>
+! width="50"| <small>CAN Country</small>
+|-
+| 1967
+| "A Grain of Salt" <small>(as Penny Starr)</small>
+| align="center"| 69
+| align="center"| —
+| rowspan="9"| singles only
+|-
+| rowspan="3"| 1968
+| "Big City Men"
+| align="center"| —
+| align="center"| —
+|-
+| "Kid Games and Nursery Rhymes"
+| align="center"| —
+| align="center"| —
+|-
+| "I Am the Woman"
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="3"| 1969
+| "You're Never Gonna See My Face Again"
+| align="center"| —
+| align="center"| —
+|-
+| "Mama Lou"
+| align="center"| 34
+| align="center"| —
+|-
+| "[[Down in the Boondocks (song)|Down in the Boondocks]]"
+| align="center"| 37
+| align="center"| 8
+|-
+| rowspan="3"| 1970
+| "[[I Feel Fine]]"
+| align="center"| 59
+| align="center"| —
+|-
+| "Land Mark Tavern" <small>(with [[Del Reeves]])</small>
+| align="center"| 20
+| align="center"| 24
+|-
+| "Awful Lotta Lovin'"
+| align="center"| 69
+| align="center"| —
+| rowspan="4"| ''Penny DeHaven'' <small>(1972)</small>
+|-
+| rowspan="3"| 1971
+| "The First Love"
+| align="center"| 46
+| align="center"| —
+|-
+| "Don't Change on Me"
+| align="center"| 42
+| align="center"| —
+|-
+| "Another Day of Loving"
+| align="center"| 61
+| align="center"| —
+|-
+| rowspan="2"| 1972
+| "[[Crying in the Rain]]" <small>(with Del Reeves)</small>
+| align="center"| 54
+| align="center"| —
+| single only
+|-
+| "[[Gone (Ferlin Husky song)|Gone]]"
+| align="center"| —
+| align="center"| —
+| ''Penny DeHaven'' <small>(1972)</small>
+|-
+| rowspan="2"| 1973
+| "The Lovin' of Your Life"
+| align="center"| 96
+| align="center"| —
+| rowspan="6"| singles only
+|-
+| "[[I'll Be Doggone]]"
+| align="center"| 67
+| align="center"| —
+|-
+| rowspan="2"| 1974
+| "Play with Me"
+| align="center"| 93
+| align="center"| —
+|-
+| "I'll Never Stop"
+| align="center"| —
+| align="center"| —
+|-
+| 1976
+| "(The Great American) Classic Cowboy"
+| align="center"| 83
+| align="center"| —
+|-
+| 1980
+| "Bayou Lullaby"
+| align="center"| —
+| align="center"| —
+|-
+| 1982
+| "We Made Memories" <small>(with [[Boxcar Willie]])</small>
+| align="center"| 77
+| align="center"| —
+| ''Last Train to Heaven'' <small>(Boxcar Willie album)</small>
+|-
+| 1983
+| "Only the Names Have Been Changed"
+| align="center"| 74
+| align="center"| —
+| rowspan="3"| ''Penny DeHaven'' <small>(1984)</small>
+|-
+| rowspan="2"| 1984
+| "Friendly Game of Hearts"
+| align="center"| 78
+| align="center"| —
+|-
+| "Yes, I Do"
+| align="center"| —
+| align="center"| —
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb name|2793395|Penny DeHaven}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Dehaven, Penny}}
+[[Category:1948 births]]
+[[Category:2014 deaths]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:People from Winchester, Virginia]]
+[[Category:American gospel singers]]
+[[Category:United Artists Records artists]]
+[[Category:Singer-songwriters from Virginia]]
+[[Category:21st-century American women]]
+
+
+{{US-country-singer-stub}}

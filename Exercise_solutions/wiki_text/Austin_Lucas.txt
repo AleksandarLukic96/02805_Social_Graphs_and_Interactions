@@ -1,0 +1,68 @@
+{{short description|American musician}}
+{{Use mdy dates|date=April 2023}}
+{{Infobox musical artist
+| background      = person
+| name            = Austin Lucas
+| image           =
+| birth_name      =
+| alias           = <!-- "For listing OFFICIAL stage names for the act; also for solo artists who change their birth name. This field is not for nicknames..." -->
+| birth_place     = [[Bloomington, Indiana]], United States
+| birth_date      =
+| instrument      = {{hlist|Vocals|guitar}}
+| genre           = {{hlist|[[Punk rock]]|[[folk punk]]|[[Folk music|folk]]|[[alternative rock]]|[[Bluegrass music|bluegrass]]|[[Country music|country]]}}
+| occupation      = Musician
+| years_active    = 1997–present
+| label           = [[New West Records|New West]]
+| website         = {{url|austinlucasmusic.com}}
+}}
+
+'''Austin Lucas''' is an American indie artist best known for his own blend of [[folk punk]].
+
+==Early years==
+Lucas grew up in Bloomington, Indiana, but moved to the Czech Republic in 2003. In 2008, he relocated back to the United States. He is the son of Bob Lucas, who is a producer/songwriter best known for his work with [[Alison Krauss]]. Lucas spent six years as a member of the [[Jacobs School of Music|Indiana University Children's Choir]].<ref>{{cite web|url=http://www.austinlucasmusic.com/biography |title=Biography – Austin Lucas [OFFICIAL WEBSITE&#93; |publisher=Austinlucasmusic.com |date= |access-date=January 2, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110707190819/http://www.austinlucasmusic.com/biography |archive-date=July 7, 2011  }}</ref>
+
+==Career==
+Lucas was bassist and backing vocalist in the band Twenty Third Chapter from 1997 to 1999 and lead vocalist in Rune from 1998 to 2000. He was also involved with the band K10 Prospect as lead singer/guitarist from 2000 to 2004. He then played lead guitar in the Prague-based band Guided Cradle, starting in 2004.
+He has also worked with fellow indie artist [[Chuck Ragan]]. The two first collaborated in 2007 when they released a split album, and later on the ''Bristle Ridge'' record in 2008.<ref name="austinlucasmusic.com">{{cite web|url=http://www.austinlucasmusic.com/discography |title=Discography – Austin Lucas [OFFICIAL WEBSITE&#93; |publisher=Austinlucasmusic.com |date= |access-date=January 2, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110707190915/http://www.austinlucasmusic.com/discography |archive-date=July 7, 2011  }}</ref> Lucas took part in the Revival Tour alongside Ragan, Ben Nichols of [[Lucero (band)|Lucero]], and [[Tim Barry]].<ref>{{cite web|url=http://www.myspace.com/austinlucas1 |title=Austin Lucas op Myspace Music – Gratis gestreamde MP3's, foto's en Videoclips |publisher=Myspace.com |date= |access-date=January 2, 2011}}</ref> The following year, he rejoined the Revival Tour alongside his father, Ragan, Barry, [[Frank Turner]], [[Jim Ward (musician)|Jim Ward]], and other artists.<ref>{{cite web|title=Revival Tour 2009 w/Chuck Ragan, Jim Ward, many more |url=https://www.brooklynvegan.com/revival-tour-20/ |website=brooklynvegan.com |date=August 12, 2009 |access-date=January 25, 2021}}</ref>
+
+In 2013, Lucas was signed to [[New West Records]] and released a new studio album, ''Stay Reckless''.{{Citation needed|date=May 2022}}
+
+On August 17, 2018, he released the album ''Immortal Americans'' on Cornelius Chapel Records.{{Citation needed|date=May 2022}}
+
+Lucas, who is anti-fascist,<ref>{{Cite web |date=April 30, 2022 |title=American Songwriter and Activist Austin Lucas is Finally Returning to Prague |url=https://www.praguemorning.cz/austin-lucas-prague-meetfactory/ |access-date=May 17, 2022 |website=Prague Morning |language=en-US}}</ref><ref>{{Cite web |date=August 27, 2020 |title=Austin Lucas Debuts an Anti-Fascist Folk-Punk Anthem, "Already Dead" |url=https://americansongwriter.com/already-dead-austin-lucas-song-interview/ |access-date=May 17, 2022 |website=American Songwriter |language=en-US}}</ref> Jewish, and openly pansexual, has spoken about how the American country music genre is "a very cis, hetero club overall", and how he used to worry that his identity and politics might negatively affect his career.<ref>{{Cite web |title=One Hot Minute: Austin Lucas {{!}} Holler |url=https://holler.country/feature/one-hot-minute-austin-lucas |access-date=May 17, 2022 |website=holler.country |language=en}}</ref>
+
+==Discography==
+* ''The Common Cold'' (2006)
+* Split 7" with Chuck Ragan (2007)
+* ''Putting the Hammer Down'' (2007)
+* ''Bristle Ridge'' with Chuck Ragan (2008)
+* ''At War with Freak Folk'' (2008)
+* ''Somebody Loves You'' (2009)
+* ''Two Songs EP'' (2010)
+* ''Collection'' (2010)
+* ''A New Home in the Old World'' (2011)
+* ''Stay Reckless'' (2013)
+* ''Between the Moon & the Midwest'' (2016)
+* ''Immortal Americans'' (2018)
+* ''No One Is Immortal'' (2019)
+* ''Alive in the Hot Zone'' (2020)<ref>{{Cite web |date=November 14, 2020 |title=Austin Lucas Keeps Chasing Liberation • Country Queer |url=https://countryqueer.com/reviews/album-spotlight/austin-lucas-keeps-chasing-liberation/ |access-date=May 17, 2022 |website=[[Country Queer]]}}</ref><ref>{{Cite web |title=Austin Lucas dips into dark Americana sound on socially relevant Alive in the Hot Zone album |url=https://glidemagazine.com/250014/austin-lucas-dips-into-dark-americana-sound-on-socially-relevant-alive-in-the-hot-zone-album-review/ |access-date=May 17, 2022 |website=glidemagazine.com|date=October 29, 2020 }}</ref>
+* ''Reinventing Against Me!'' (2023)
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{official|austinlucasmusic.com}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lucas, Austin}}
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:American folk singers]]
+[[Category:American punk rock musicians]]
+[[Category:Country musicians from Indiana]]
+[[Category:American folk musicians]]
+[[Category:Musicians from Indiana]]
+[[Category:American male singer-songwriters]]
+[[Category:Pansexual musicians]]

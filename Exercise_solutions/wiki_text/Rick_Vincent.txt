@@ -1,0 +1,135 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Rick Vincent
+| image                 = 
+| caption            = 
+| image_size            = 
+| background          = solo_singer
+| origin              = [[San Bernardino, California]], United States<ref name="allmusic">{{cite web |url={{AllMusic|class=artist|id=p34726/biography|pure_url=yes}} |title=Rick Vincent biography |accessdate=January 25, 2008 |last=Loftus |first=Johnny |work=[[Allmusic]]}}</ref>
+| instrument          = {{hlist|Vocals|guitar}}
+| genre               = [[country music|Country]]
+| occupation          = Singer-songwriter
+| years_active        = 1993–1996
+| label               = [[Curb Records|Curb]]<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2012|publisher=Record Research, Inc|date=2012|page=352|isbn=978-0-89820-203-8}}</ref>
+}}
+'''Rick Vincent''' is an American [[country music]] artist. Signed to [[Curb Records]] in 1992, Vincent released his debut album, ''A Wanted Man'', the following year and had two singles on the ''[[Billboard (magazine)|Billboard]]'' country chart. The album and its two singles remain Vincent's only contributions as a recording artist.
+
+Vincent moved to [[Nashville, Tennessee]] in 1989 to pursue his musical career. After songwriter and producer [[Wendy Waldman]] discovered one of his demo tapes, he signed to [[Curb Records]] in 1992.<ref name="post">{{cite news|url=https://www.newspapers.com/image/89597436/|title=Rick Vincent: ''A Wanted Man'' review|last=Sharpe|first=Jerry|date=June 11, 1993|work=Weekend Edition|publisher=Pittsburgh Post-Gazette|page=19|accessdate=June 15, 2018}}</ref> His lone Curb album, ''A Wanted Man'', charted two singles: "The Best Mistakes I Ever Made" and "Ain't Been a Train Through Here in Years".<ref name="whitburn"/> The album received a positive review from [[Brian Mansfield]] of ''[[Allmusic]]'', who said that Vincent "writes thoughtful and literate lyrics" while praising Vincent's singing voice.<ref>{{cite web|url=https://www.allmusic.com/album/a-wanted-man-mw0000093123|title=''A Wanted Man''|work=Allmusic|accessdate=June 15, 2018}}</ref> Similarly, a review in the ''[[Pittsburgh Post-Gazette]]'' praised Vincent's lyricism and influence from the [[Bakersfield sound]], while also noting his "strong, rich baritone".<ref name="post"/> A third single from the album, "Hello, She Lied", did not chart,<ref name="lied"/> and Vincent never recorded again. However, he co-wrote the song "[[Heartbroke Every Day]]", a top 20 country hit for [[Lonestar]] in 1996.<ref name="allmusic"/>
+
+==Discography==
+
+===''A Wanted Man'' (1993)===
+{{Infobox album
+| italic_title = no
+| name       = ''A Wanted Man''
+| type       = studio
+| artist     = Rick Vincent
+| cover      =
+| alt        =
+| released   = {{Start date|1993|1|12}}
+| recorded   =
+| venue      =
+| studio     =
+| genre      = Country
+| length     =
+| label      = Curb
+| producer   = {{hlist|[[Wendy Waldman]]|Brad Parker}}
+}}
+
+===Track listing===
+#"The Best Mistakes I Ever Made" (Vincent) – 3:01
+#"Hello, She Lied" (Vincent, [[Will Jennings]]) – 2:54
+#"When the Smoke Clears" (Vincent, Brad Parker) – 3:45
+#"Ain't Been a Train Through Here in Years" (Vincent, Steve Hill) – 3:17
+#"You're Not in This Alone" (Vincent, Tim Lancaster) – 2:30
+#"Outlaw Heart" (Vincent, Kevin Ball) – 3:30
+#"A Wanted Man" (Vincent, Rick West, Bill Shore) – 2:47
+#"Cottonwood Creek" (Vincent) – 2:48
+#"'Round the Honky Tonk Bend" (Vincent, Ball) – 4:17
+#"San Joaquin" (Vincent) – 4:19
+
+===Personnel===
+From ''A Wanted Man'' liner notes.<ref>{{Cite AV media notes |title=A Wanted Man |others=Rick Vincent |year=1993 |type=CD insert |publisher=Curb Records |id=D277586}}</ref>
+;Musicians
+*[[Eddie Bayers]] – drums
+*[[Karla Bonoff]] – background vocals
+*[[Sam Bush]] – mandolin
+*[[Jerry Douglas]] – [[Dobro]]
+*[[Dan Dugmore]] – steel guitar
+*Kenny Edwards – mandolin, background vocals
+*Steve Gibson – electric guitar, acoustic guitar, mandolin
+*[[Andrew Gold]] – background vocals
+*Rob Hajacos – fiddle
+*Sid Page – fiddle
+*Brad Parker – electric guitar
+*Gary Prim – piano
+*[[Michael Rhodes (musician)|Michael Rhodes]] – bass guitar
+*[[Brent Rowan]] – electric guitar
+*Rick Vincent – acoustic guitar, lead and background vocals
+*Wendy Waldman – acoustic guitar, background vocals
+*[[Willie Weeks]] – bass guitar
+;Technical
+*Steve Hall – mastering
+*Brad Parker – assistant producer
+*Dennis Ritchie – recording, mixing
+*Wendy Waldman – producer
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:22em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| 1992
+! scope="row"| "The Best Mistakes I Ever Made"
+| 39
+| 49
+| align="left" rowspan="3"| ''A Wanted Man''
+|-
+|rowspan="2"| 1993
+! scope="row"| "Ain't Been a Train Through Here in Years"
+| 69
+| —
+|-
+! scope="row"| "Hello, She Lied"<ref name="lied">{{cite magazine|date=November 11, 1993|title=Reviews|magazine=Billboard|page=77|url=https://www.americanradiohistory.com/Archive-Billboard/90s/1993/BB-1993-11-13.pdf}}</ref>
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"   
+! Year
+! style="width:16em;"| Title
+! Director
+|-   
+| 1992
+! scope="row"| "The Best Mistakes I Ever Made"
+| 
+|}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Vincent, Rick}}
+[[Category:American country singer-songwriters]]
+[[Category:Singer-songwriters from California]]
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Curb Records artists]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:Country musicians from California]]
+[[Category:American male singer-songwriters]]
+[[Category:20th-century American male singers]]
+[[Category:Musicians from San Bernardino, California]]

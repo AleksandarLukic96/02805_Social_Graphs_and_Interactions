@@ -1,0 +1,9 @@
+#Redirect [[Pink (singer)]]
+
+{{Redirect category shell|1=
+{{Redirect from move}}
+{{Redirect from modification}}
+{{Redirect with history}}
+{{Redirect from stylization}}
+{{Redirect printworthy}}
+}}

@@ -1,0 +1,328 @@
+{{Short description|American country music singer-songwriter (1939–2021)}}
+{{Use mdy dates|date=January 2020}}
+{{Multiple issues|
+{{More citations needed|date=December 2009}}
+{{More footnotes|date=December 2009}}}}
+{{Infobox musical artist
+| name             = Razzy Bailey
+| background       = solo_singer
+| image            = Razzy.jpg
+| caption          = Bailey at [[CMA Music Festival]] in 2010
+| landscape        = yes
+| birth_name       = Rasie Michael Bailey<ref>{{Cite web|url=http://razzybailey.com/site/?page_id=10|title=Fact Sheet|date=July 15, 2011|archive-url=https://web.archive.org/web/20110715155655/http://razzybailey.com/site/?page_id=10|access-date=August 4, 2021|archive-date=July 15, 2011}}</ref>
+| birth_date       = {{birth date|1939|2|14}}<ref name="LarkinCountry">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Who's Who of Country Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1993|edition=First|isbn=0-85112-726-6|page=34}}</ref>
+| birth_place      = [[Five Points, Alabama]], U.S.
+| death_date       = {{death date and age|2021|8|4|1939|2|14}}
+| death_place      = [[Goodlettsville, Tennessee]], U.S.
+| genre            = [[Country music|Country]]
+| occupation       = Singer, musician, songwriter, and producer
+| years_active     = 1966–2021
+| label            = [[Atlantic Records|Atlantic]]<br />[[MGM Records|MGM]]<br />Erastus<br />[[RCA Records|RCA]]<br />[[Universal Music Group Nashville|MCA]]<br />SOA<br/>Spectra Records
+| spouse           = Faye Bright-Bailey 1990
+| website          = https://therazzybailey.com/
+}}
+
+'''Rasie Michael Bailey''' (February 14, 1939 – August 4, 2021), better known as '''Razzy Bailey''', was an American [[country music]] singer-songwriter and musician. In the early 1980s, he scored 5 No. 1's on the ''[[Billboard Magazine|Billboard]]'' country music charts.
+
+==Early life==
+Bailey was born in [[Five Points, Alabama]], United States,<ref name="LarkinCountry"/> and raised on a farm in [[La Fayette, Alabama]]. Bailey got his first experience of musical performance as a member of his high school's [[Future Farmers of America]] string band. After graduation, he married and had children immediately and had little time to pursue his career,<ref name="AMG" /> but he spent many years playing occasional gigs at honkytonks in [[Georgia (U.S. state)|Georgia]] and Alabama and developing his songwriting.
+
+==Early releases==
+In 1966, Bailey took his material to [[Bill Lowery (record producer)|Bill Lowery]] at [[Atlantic Records]], who arranged for him to record "9,999,999 Tears" backed by a studio band featuring [[Billy Joe Royal]], [[Joe South]], and [[Freddy Weller]].<ref name="LarkinCountry"/> The song failed to hit the charts at that time, but Bailey was encouraged, forming the pop trio Daily Bread which released a pair of albums on small labels.<ref name="AMG">{{Cite web|url=https://www.allmusic.com/artist/razzy-bailey-mn0000869042/biography|title=Razzy Bailey &#124; Biography & History|website=[[AllMusic]]|access-date=August 4, 2021}}</ref> Another group, The Aquarians, followed in 1972; in 1974, Bailey recorded the album ''I Hate Hate'' simply as "Razzy." It sold over half a million copies before being picked up by [[MGM Records]]. 
+
+==Career at RCA==
+In 1976, [[Dickey Lee]] recorded "9,999,999 Tears", and it became a country and pop hit in 1976,<ref name="LarkinCountry"/> and in 1977, Lee repeated this with another Bailey tune, "Peanut Butter," which also went into the charts.<ref name="AMG"/> As his songwriting talents became known, Bailey signed with [[RCA Records]] and, in 1978, began releasing singles of his own songs.<ref name="AMG"/> His first hit as a singer-songwriter, "What Time Do You Have To Be Back in Heaven?",<ref name="LarkinCountry"/> was on the charts for over four months. Bailey charted a total of seven No. 1 singles on [[Billboard charts|''Billboard'']]'s [[Hot Country Songs|"Country" charts]] and another eight Top 10 in the late 1970s and early 1980s. His sound combines [[Rhythm and blues|R&B]] influences with country; his version of [[Wilson Pickett]]'s "[[In the Midnight Hour]]" was a country hit.<ref name="LarkinCountry"/> His last country No.&nbsp;1 hit was with "[[She Left Love All Over Me]]" in 1982.<ref name="LarkinCountry"/>
+
+Bailey had three double sided number 1's in succession on the Country chart,<ref name="LarkinCountry"/> a feat never accomplished by any other artist.
+
+He also operated Razzy's Hit House, his recording studio where he helped other artists with their projects.
+
+==Personal life==
+Bailey died in August 2021, at the age of 82.<ref>[https://www.wideopencountry.com/razzy-bailey '80s Hitmaker Razzy Bailey Dies at Age 82], ''Wideopencountry.com''</ref>
+
+==Discography==
+===Albums===
+{|class="wikitable"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Album
+! colspan="2"| Chart Positions
+! rowspan="2"| Label
+|-
+! style="width:60px;"|<small>[[Top Country Albums|US Country]]</small>
+! style="width:60px;"|<small>[[Billboard 200|US]]</small>
+|-
+| 1974
+| ''I Hate Hate''
+|
+|
+| MGM
+|-
+| 1979
+| ''If Love Had a Face''
+| style="text-align:center;"| 33
+|
+| rowspan="7"| RCA
+|-
+| 1980
+| ''Razzy''
+| style="text-align:center;"| 12
+|
+|-
+| 1981
+| ''Makin' Friends''
+| style="text-align:center;"| 8
+| style="text-align:center;"| 183
+|-
+| rowspan="2"| 1982
+| ''Feelin' Right''
+| style="text-align:center;"| 10
+| style="text-align:center;"| 176
+|-
+| ''A Little More Razz''
+| style="text-align:center;"| 59
+|
+|-
+| 1983
+| ''Greatest Hits''
+| style="text-align:center;"| 33
+|
+|-
+| 1984
+| ''The Midnight Hour''
+| style="text-align:center;"| 36
+|
+|-
+| 1985
+| ''Cut from a Different Stone''
+| style="text-align:center;"| 38
+|
+| rowspan="2"| MCA
+|-
+| 1986
+| ''Arrival''
+|
+|
+|-
+| 2009
+| ''Damned Good Time''
+|
+|
+| SOA
+|}
+
+===Singles===
+{| class="wikitable"
+|-
+! rowspan="2"|Year
+! rowspan="2"|Single
+! colspan="2"|Chart Positions
+! rowspan="2"|Album
+|-
+! style="width:50px;"|<small>[[Hot Country Songs|US Country]]</small>
+! style="width:50px;"|<small>CAN Country</small>
+|-
+| 1966
+| "[[9,999,999 Tears]]"
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| Single only
+|-
+| 1974
+| "I Hate Hate" <small>(as Razzy)</small><sup>A</sup>
+| style="text-align:center;"| —
+| style="text-align:center;"| —
+| ''I Hate Hate''
+|-
+| 1976
+| "Keepin' Rosie Proud of Me"
+| style="text-align:center;"| 99
+| style="text-align:center;"| —
+| Single only
+|-
+| rowspan="2"| 1978
+| "What Time Do You Have to Be Back to Heaven"
+| style="text-align:center;"| 9
+| style="text-align:center;"| 20
+| rowspan="4"| ''If Love Had a Face''
+|-
+| "Tonight She's Gonna Love Me (Like There Was No Tomorrow)"
+| style="text-align:center;"| 6
+| style="text-align:center;"| 5
+|-
+| rowspan="3"| 1979
+| "If Love Had a Face"
+| style="text-align:center;"| 6
+| style="text-align:center;"| 33
+|-
+| "I Ain't Got No Business Doin' Business Today"
+| style="text-align:center;"| 10
+| style="text-align:center;"| 18
+|-
+| "I Can't Get Enough of You"
+| style="text-align:center;"| 5
+| style="text-align:center;"| —
+| rowspan="4"| ''Razzy''
+|-
+| rowspan="3"| 1980
+| "Too Old to Play Cowboy"
+| style="text-align:center;"| 13
+| style="text-align:center;"| —
+|-
+| "[[Loving Up a Storm (Razzy Bailey song)|Loving Up a Storm]]"
+| style="text-align:center;"| 1
+| style="text-align:center;"| 10
+|-
+| "[[I Keep Coming Back (Razzy Bailey song)|I Keep Coming Back]]" / "True Life Country Music"
+| style="text-align:center;"| 1
+| style="text-align:center;"| 3
+|-
+| rowspan="4"| 1981
+| "[[Friends (Razzy Bailey song)|Friends]]" / "Anywhere There's a Jukebox"
+| style="text-align:center;"| 1
+| style="text-align:center;"| 9
+| rowspan="3"| ''Makin' Friends''
+|-
+| "[[Midnight Hauler]]"
+| style="text-align:center;"| 1
+| style="text-align:center;"| 1
+|-
+| "Scratch My Back (And Whisper in My Ear)"<sup>B</sup>
+| style="text-align:center;"| 8
+| style="text-align:center;"| —
+|-
+| "[[She Left Love All Over Me]]"
+| style="text-align:center;"| 1
+| style="text-align:center;"| 2
+| rowspan="2"| ''Feelin' Right''
+|-
+| rowspan="3"| 1982
+| "Everytime You Cross My Mind (You Break My Heart)"
+| style="text-align:center;"| 10
+| style="text-align:center;"| 9
+|-
+| "[[Love's Gonna Fall Here Tonight]]"
+| style="text-align:center;"| 8
+| style="text-align:center;"| 11
+| rowspan="2"| ''A Little More Razz''
+|-
+| "Poor Boy"
+| style="text-align:center;"| 30
+| style="text-align:center;"| —
+|-
+| rowspan="2"| 1983
+| "After the Great Depression"
+| style="text-align:center;"| 19
+| style="text-align:center;"| 23
+| rowspan="2"| ''Greatest Hits''
+|-
+| "This Is Just the First Day"
+| style="text-align:center;"| 62
+| style="text-align:center;"| 48
+|-
+| rowspan="3"| 1984
+| "[[In the Midnight Hour]]"
+| style="text-align:center;"| 14
+| style="text-align:center;"| 32
+| ''The Midnight Hour''
+|-
+| "[[Knock on Wood (Eddie Floyd song)|Knock on Wood]]"
+| style="text-align:center;"| 29
+| style="text-align:center;"| —
+| rowspan="3"| ''Cut from a Different Stone''
+|-
+| "Touchy Situation"
+| style="text-align:center;"| 43
+| style="text-align:center;"| —
+|-
+| rowspan="3"| 1985
+| "Modern Day Marriages"
+| style="text-align:center;"| 51
+| style="text-align:center;"| —
+|-
+| "Fightin' Fire with Fire"
+| style="text-align:center;"| 78
+| style="text-align:center;"| —
+| rowspan="3"| ''Arrival''
+|-
+| "Old Blue Yodeler"
+| style="text-align:center;"| 48
+| style="text-align:center;"| —
+|-
+| 1986
+| "Rockin' in the Parkin' Lot"
+| style="text-align:center;"| 63
+| style="text-align:center;"| 42
+|-
+| 1987
+| "If Love Ever Made a Fool"
+| style="text-align:center;"| 69
+| style="text-align:center;"| —
+| rowspan="5"| Singles only
+|-
+| rowspan="2"| 1988
+| "Unattended Fire"
+| style="text-align:center;"| 58
+| style="text-align:center;"| —
+|-
+| "Starting All Over Again"
+| style="text-align:center;"| 73
+| style="text-align:center;"| —
+|-
+| 1989
+| "But You Will"
+| style="text-align:center;"| 65
+| style="text-align:center;"| —
+|-
+| 1991
+| "Fragile (Handle with Care)"
+| style="text-align:center;"| —
+| style="text-align:center;"| 36
+|}
+*<sup>A</sup>"I Hate Hate" peaked at No.&nbsp;67 on the [[Billboard Hot 100|''Billboard'' Hot 100]] and No.&nbsp;50 on the ''[[RPM (magazine)|RPM]]'' Top Singles chart in Canada.
+*<sup>B</sup>[[B-side]] to "Midnight Hauler."
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;"| Video
+|-
+| 1980
+! scope="row"| "Friends"
+|-
+| rowspan="3"| 1981
+! scope="row"| "Anywhere There's a Jukebox"
+|-
+! scope="row"| "Midnight Hauler"
+|-
+! scope="row"| "I've Had My Limit (Of Two-Timing Women)"
+|-
+| 1982
+! scope="row"| "Night Life"
+|-
+| 1985
+! scope="row"| "Old Blue Yodeler"
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://therazzybailey.com/ Razzy Bailey's home website]
+* {{Discogs artist|Razzy Bailey}}
+* {{IMDb name|id=1379207}}
+
+{{Authority control}}
+
+{{Razzy Bailey}}
+
+{{DEFAULTSORT:Bailey, Razzy}}
+[[Category:1939 births]]
+[[Category:2021 deaths]]
+[[Category:People from Chambers County, Alabama]]
+[[Category:People from LaFayette, Alabama]]
+[[Category:American country singer-songwriters]]
+[[Category:RCA Records artists]]
+[[Category:Country musicians from Alabama]]
+[[Category:Singer-songwriters from Alabama]]

@@ -1,0 +1,288 @@
+{{Short description|Canadian American country musician and comedy performer (1937–2018)}}
+{{More citations needed|date=April 2020}}
+{{Use Canadian English|date=July 2014}}
+{{Use dmy dates|date=July 2014}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Ronnie Prophet
+| image               = 
+| caption             = 
+| image_size          = 
+| background          = solo_singer
+| alias               = 
+| birth_name          = Ronald Lawrence Victor Prophet
+| birth_date          = {{Birth date|df=yes|1937|12|26}}
+| death_date          = {{Death date and age|df=yes|2018|03|02|1937|12|26}}
+| birth_place         = [[Hawkesbury, Ontario]], Canada<ref name="auto">{{cite news | url=https://www.thecanadianencyclopedia.ca/en/article/ronnie-prophet-emc | title=Ronnie Prophet | date=18 June 2007 | website=Thecanadianencyclopedia.ca/ | access-date=2 February 2021}}</ref>
+| death_place         = [[Tavares, Florida]], U.S.
+| instrument          = Vocals, guitar
+| genre               = [[Country music|Country]]
+| occupation          = Singer
+| years_active        = 1973–2018
+| label               = 
+| associated_acts     = 
+| website             = 
+}}
+
+'''Ronald Lawrence Victor Prophet''' (26 December 1937<ref name="LarkinCountry">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Who's Who of Country Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1993|edition=First|isbn=0-85112-726-6|page=328}}</ref> – 2 March 2018)<ref>{{Cite web|url=https://tasteofcountry.com/ronnie-prophet-dies/|title=Country Music Singer and TV Host Ronnie Prophet Dies at 80|website=Tasteofcountry.com|date=4 March 2018 |access-date=9 August 2021}}</ref> was a Canadian-American country musician and comedy performer.
+
+He was born in [[Hawkesbury, Ontario]], Canada.<ref name="auto"/> In his childhood, Prophet lived in [[Grenville-sur-la-Rouge, Quebec|Calumet, Quebec]], and began performing at local venues in his youth.<ref name="LarkinCountry"/> His successful musical career in the United States began in the mid-1960s.<ref name="LarkinCountry"/> Prophet also performed in numerous Canadian television productions in the 1970s including ''[[Grand Old Country]]'' and ''[[The Ronnie Prophet Show]]''.{{fact|date=December 2022}}
+
+From 1997, he was based in [[Branson, Missouri]], United States, and was married to musician [[Glory-Anne Carriere]].<ref>{{cite news | url=https://www.theglobeandmail.com/arts/music/country-music-star-ronnie-prophet-80-was-a-superb-showman/article38350383/ | title=Country music star Ronnie Prophet, 80, was a superb showman | newspaper=The Globe and Mail | first=Diane | last=Peters | date=26 March 2018 | accessdate=9 August 2021 }}</ref>
+
+Prophet died on 2 March 2018 at his home in [[Tavares, Florida]], following cardiac and kidney failure. He was 80.<ref>{{cite news | url=https://www.fyimusicnews.ca/articles/2018/03/02/rip-canadian-country-star-ronnie-prophet | title=RIP: Canadian Country Star Ronnie Prophet | date=2 March 2018 | website=Fyimusicnews.ca| access-date=10 January 2020}}</ref>
+
+==Awards and recognition==
+* 1978: winner, [[Juno Award for Country Recording of the Year|Juno Award, Country Male Vocalist of the Year]]
+* 1979: winner, [[Juno Award for Country Recording of the Year|Juno Award, Country Male Vocalist of the Year]]
+* 1980: nominee, [[Juno Award for Country Recording of the Year|Juno Award, Country Male Vocalist of the Year]]
+* 1984: winner Canadian Country Music Duo of the Year with Glory-Anne Carriere 
+* 1984: winner Canadian Country Music Entertainer of the Year
+* 1985: Ottawa Valley Country Music Hall of Fame
+* 1987: nominee, [[Juno Award for Country Recording of the Year|Juno Award, Country Male Vocalist of the Year]]
+* 1999: inductee, [[Canadian Country Music Hall of Fame]]
+
+==Singles==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Single
+! colspan="3"| Peak chart positions
+! rowspan="2"| Album
+|-
+! style="width:4em;font-size:90%;"|[[RPM (magazine)|CAN Country]]
+! style="width:4em;font-size:90%;"|[[RPM (magazine)|CAN AC]]
+! style="width:4em;font-size:90%;"|[[Hot Country Songs|US Country]]
+|-
+| 1973
+! scope="row"| "San Diego"
+| 36
+| 35
+| —
+| align="left"| ''Faces & Phases of Ronnie Prophet''
+|-
+| 1975
+! scope="row"| "Sanctuary"
+| 20
+| 30
+| 26
+| align="left" rowspan="5"| ''Ronnie Prophet'' <small>(1976)</small>
+|-
+| rowspan="3"| 1976
+! scope="row"| "Shine On"
+| 13
+| —
+| 36
+|-
+! scope="row"| "It's Enough"
+| 33
+| —
+| 50
+|-
+! scope="row"| "Big Big World"
+| 13
+| —
+| 82
+|-
+| rowspan="2"| 1977
+! scope="row"| "Phone Call from Allyson"
+| 19
+| —
+| —
+|-
+! scope="row"| "It Ain't Easy Loving Me"
+| 27
+| —
+| 99
+| align="left"| ''Ronnie Prophet Country''
+|-
+| rowspan="2"| 1979
+! scope="row"| "Everybody Needs a Love Song"
+| 49
+| —
+| —
+| align="left"| Non-album song
+|-
+! scope="row"| "The Phantom of the Opry"
+| 3
+| —
+| —
+| align="left" rowspan="2"| ''The Phantom''
+|-
+| 1981
+! scope="row"| "Every Story in the Book"
+| 19
+| —
+| —
+|-
+| rowspan="2" | 1982
+! scope="row"| "The Ex-Superstar's Waltz"
+| 8
+| —
+| —
+| align="left" rowspan="2"| ''I Need a Lover''
+|-
+! scope="row"| "I Need a Lover"
+| 18
+| —
+| —
+|-
+| rowspan="2"| 1983
+! scope="row"| "Smooth Operator"
+| 37
+| —
+| —
+| align="left" rowspan="2"| ''I'm Gonna Love Him Out of You''
+|-
+! scope="row"| "I'm Gonna Love Him Out of You"
+| 30
+| —
+| —
+|-
+| rowspan="2"| 1986
+! scope="row"| "Stealer of Hearts"
+| 14
+| —
+| —
+| align="left" rowspan="6"| ''Ronnie Prophet'' <small>(1987)</small>
+|-
+! scope="row"| "Don't Take Her to Heart"
+| 27
+| —
+| —
+|-
+| rowspan="2"| 1987
+! scope="row"| "No Holiday in L.A."
+| 9
+| 17
+| —
+|-
+! scope="row"| "If You're Up for Love"
+| 17
+| —
+| —
+|-
+| rowspan="2"| 1988
+! scope="row"| "Fire in the Feeling"
+| 42
+| —
+| —
+|-
+! scope="row"| "Breaking Up Ain't Hard to Do"
+| 55
+| —
+| —
+|-
+| 1989
+! scope="row"| "Trying to Outrun Your Memory"
+| 61
+| —
+| —
+| align="left"| Non-album song
+|-
+| rowspan="2"| 1990
+! scope="row"| "Touch of Class"
+| 37
+| —
+| —
+| align="left"| ''Prophet of Love''
+|-
+! scope="row"| "You've Got Me Right Where I Want Me"
+| 47
+| —
+| —
+| align="left"| Non-album song
+|-
+| rowspan="2"| 1991
+! scope="row"| "I Won't Be There"
+| 35
+| —
+| —
+| align="left" rowspan="3"| ''Prophet of Love''
+|-
+! scope="row"| "The Feeling of Love"
+| 59
+| —
+| —
+|-
+| 1992
+! scope="row"| "Prophet of Love"
+| 86
+| —
+| —
+|}
+
+===Singles with Glory-Anne Carriere===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Single
+! colspan="1"| Peak chart positions
+! rowspan="2"| Album
+|-
+! style="width:4em;font-size:90%;"|[[RPM (magazine)|CAN Country]]
+|-
+| 1982
+! scope="row"| "Storybook Children"
+| 32
+| align="left"| Non-album song
+|-
+| 1984
+! scope="row"| "If This Is Love"
+| 6
+| align="left" rowspan="4"| ''Sure Thing''
+|-
+| rowspan="2"| 1985
+! scope="row"| "I'm Glad We're Bad at Something"
+| 10
+|-
+! scope="row"| "I'll Be There"
+| 31
+|-
+| 1987
+! scope="row"| "Lucky in Love"
+| 57
+|-
+| 1989
+! scope="row"| "Two Hearts"
+| 77
+| align="left"| ''Prophet of Love''
+|}
+
+===Guest singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Single
+! rowspan="2"| Artist
+! colspan="1"| Peak chart positions
+! rowspan="2"| Album
+|-
+! style="width:4em;font-size:90%;"|[[RPM (magazine)|CAN Country]]
+|-
+| 1988
+! scope="row"| "Honest to Goodness Amigos"
+| [[Ray Griff]]
+| 86
+| align="left"| ''Honest to Goodness Amigos''
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.ronnieprophet.com/ Official website]
+* {{cite encyclopedia | url=https://thecanadianencyclopedia.ca/en/article/ronnie-prophet-emc | encyclopedia=[[The Canadian Encyclopedia]] | access-date=14 September 2007 | title=Prophet, Ronnie | first=Richard | last=Green }}
+*{{cite web|url=http://www.ottawacountrymusichof.org/members/1985/ronnie_prophet.htm |publisher=Ottawa Valley Country Music Hall of Fame |title=1985 Entertainer Inductee: Ronnie Prophet |access-date=14 September 2007 |date=26 January 2007 |url-status=dead |archiveurl=https://web.archive.org/web/20070220120645/http://www.ottawacountrymusichof.org/members/1985/ronnie_prophet.htm |archive-date=20 February 2007}} 
+*{{imdb name|0698698}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Prophet, Ronnie}}
+[[Category:1937 births]]
+[[Category:2018 deaths]]
+[[Category:Canadian comedy musicians]]
+[[Category:Canadian country singers]]
+[[Category:Canadian male singers]]
+[[Category:Canadian expatriate musicians in the United States]]
+[[Category:Juno Award winners]]
+[[Category:Apex Records artists]]
+[[Category:People from Hawkesbury, Ontario]]
+[[Category:Canadian Country Music Association Entertainer(s) of the Year winners]]
+[[Category:Canadian Country Music Association Fans' Choice Award winners]]

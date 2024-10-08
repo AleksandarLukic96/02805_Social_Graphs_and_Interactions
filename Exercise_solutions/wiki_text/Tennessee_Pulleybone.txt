@@ -1,0 +1,31 @@
+{{Infobox musical artist
+| name             = Tennessee Pulleybone
+| image            = 
+| caption          = 
+| image_size       = 
+| background       = group_or_band
+| alias            = 
+| origin           = [[Cookeville]], [[Tennessee]], [[United States|U.S.]]
+| genre            = [[Country music|Country]]
+| years_active     = 1970–1979
+| label            = [[JMI Records]], [[RCA Records]]
+| past_members  = "Big" Ken Smith<br />Jerry Tuttle<br />[[Biff Watson]]<br />John Wolters<br />Dave Gillon<br />Tom Hamilton<br />Thomas "Bones" Kaelin
+}}
+
+'''Tennessee Pulleybone''' was a band formed in [[Cookeville]], [[Tennessee]]. The original group featured "Big" Ken Smith (Bass), Jerry Tuttle (Instrumentalist), [[Biff Watson]] (Guitar), and John Wolters (Drums). Later members were Dave Gillon (Guitar), Tom Hamilton (Steel Guitar,Dobro,Banjo), and Thomas "Bones" Kaelin (Drums). Their recording of "[[The Door Is Always Open]]" on [[JMI Records]] ([[Jack Clement]] International) hit the Billboard Country chart on September 8, 1973 and peaked at 75.<ref name="Joel Whitburn's Top Country Songs 1944-2005">{{cite web |url=http://www.recordresearch.com/ |title=Home |website=recordresearch.com}}</ref> Other singles on JMI Records were "I Ain't In A Long, Long Time", and "Clean Your Own Tables".<ref name="MusicDish">{{Cite web | url=http://www.musicdish.com/mag/index.php3?id=7040 | title=The Tennessee Pulleybone: A Forgotten Piece of Country Music History | archive-url=https://web.archive.org/web/20171027125651/http://www.musicdish.com/mag/index.php3?id=7040 | archive-date=2017-10-27}}</ref> After JMI Records closed, the band went on to sign with [[RCA Records]] and began touring with [[Willie Nelson]], [[Bobby Bare]], [[Freddy Fender]], [[Gary Stewart (singer)|Gary Stewart]] and numerous others. Still today they are often referred to as the first country band to sign to a major label.<ref name="MusicDish"/> Some of their songs were written by Dave Gillon who also wrote hits for other artists such as [[Roy Clark]], and [[Kenny Rogers]].<ref name="The Amplifier Online">{{Cite web|url=http://www.bgdailynews.com/articles/2008/03/05/the_amplifier/feature/10047cover-thomas_bones_kaelin-may03.txt|title=Thomas "Bones" Kaelin}}</ref>
+
+Watson, a keyboardist and guitarist, later became a backing musician for [[Don Williams]].<ref>{{Cite web|url=http://www.allmusic.com/artist/scratch-band-mn0001169021|title = Scratch Band Songs, Albums, Reviews, Bio & More|website = [[AllMusic]]}}</ref>
+
+An article in Hank Magazine stated 
+<blockquote>
+“''What we’ve got here are four one time R&B and Top Forty pickers who have found a home with a style that’s unusual for the Nashville area. It’s country, R&B, bluegrass rock with Beachboys overtones. Some of the most interesting stuff they do is electric bluegrass tunes like Bill Monroe’s Uncle Pen, even with Tom Hamilton playing five string banjo, it still sounds like a dance record from Soul Train. What the Pulleybone does is hard to explain but it’s easy to enjoy.”''</blockquote>
+
+Tennessee Pulleybone lasted from 1973 to 1979.<ref name="The Amplifier Online"/> After disbanding, Wolters joined [[Dr. Hook & the Medicine Show]].
+
+==References==
+{{reflist}}
+
+[[Category:Country music groups from Tennessee]]
+[[Category:RCA Records Nashville artists]]
+[[Category:Musical groups established in 1970]]
+[[Category:Musical groups disestablished in 1979]]

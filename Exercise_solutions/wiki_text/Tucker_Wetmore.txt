@@ -1,0 +1,124 @@
+{{Short description|American country music artist}}
+{{Infobox musical artist
+| background        = person
+| name              = Tucker Wetmore
+| image             = 
+| image_upright     = 
+| image_size        = 
+| landscape         =
+| alt               = 
+| caption           = 
+| birth_name        = <!-- leave empty if the same "name" -->
+| alias             = 
+| birth_date        = {{birth date and age|1999|11|05}}
+| birth_place       = [[Kalama, Washington]]
+| origin            = 
+| genre             = [[Country music|Country]]
+| occupation        = {{flatlist|
+* Singer
+* songwriter
+}}
+| instrument        = Vocals
+| discography       = 
+| years_active      = 2021–present
+| label             = {{flatlist|
+* Back Blocks
+* [[Universal Music Group Nashville|UMG Nashville]]
+}}
+| website           = <!-- {{URL|example.com}} or {{Official URL}} -->
+}}
+'''Tucker Wetmore''' (born November 5, 1999)<ref>{{Cite web |date=2024-06-28 |title=Tucker Wetmore Bio, Age, Girlfriend, Net Worth - Ent Radar |url=https://entradar.com/tucker-wetmore/1582/ |access-date=2024-09-04 |language=en-US}}</ref> is an American [[country music]] singer and songwriter.<ref name="musicrow">{{cite web |last1=Hollabaugh |first1=Leslie |title=Tucker Wetmore Signs With Back Blocks Music |url=https://musicrow.com/2023/01/tucker-wetmore-signs-with-back-blocks-music/ |website=MusicRow |access-date=6 March 2024}}</ref>
+
+==Early life and education==
+Wetmore was raised in [[Kalama, Washington]] and graduated from [[Kalama Middle/High School|Kalama High School]] in 2018.<ref>{{cite news |last1=n.a. |title=Pickering, VandenBos, Torgerson sign with Tech |url=https://www.greatfallstribune.com/story/sports/college/2018/01/18/pickering-vandenbos-torgerson-sign-tech/1046988001/ |access-date=6 March 2024 |agency=Great Falls Tribune}}</ref> At age 11, he taught himself how to play piano. This was inspired by a love for Jerry Lee Lewis. <ref>{{cite news |last1=Leskiw |first1=Jason |title=2B State Football Championship: Quick-study Wetmore Shines in Final Year |url=https://tdn.com/sports/high-school/2b-state-football-championship-quick-study-wetmore-shines-in-final-year/article_5c389e09-86b6-5877-a4a7-46ee9a3f62a3.html |access-date=7 March 2024 |agency=Longview Daily News}}</ref> He played football at [[Montana Technological University]], where he majored in business and information technology.<ref>{{cite web |last1=n.a. |title=Tucker Wetmore |url=https://godiggers.com/sports/football/roster/tucker-wetmore/2069 |website=Dig City Supply |access-date=6 March 2024}}</ref>
+
+==Career==
+After an injury ended his football career, Wetmore turned to music and relocated to [[Nashville, Tennessee]] in 2020. He released a string of promotional singles in 2021: "Kiss My A$$", "Another Shot", and "She's Trouble".<ref>{{cite web |last1=n.a. |title=Tucker Wetmore Issues a Written Warning with His New Single "She's Trouble" |url=https://www.thecountrynote.com/in-the-news/tucker-wetmore-issues-a-written-warning-with-his-new-single-shes-trouble/ |website=The Country Note |access-date=6 March 2024}}</ref>
+
+In 2023, Wetmore signed with Back Blocks Music,<ref name="musicrow"/> and then later signed an additional partnership with [[Universal Music Group Nashville|UMG Nashville]].<ref>{{cite web |last1=Anderson |first1=Liza |title=Tucker Wetmore Signs With UMG Nashville In Partnership With Back Blocks Music |url=https://musicrow.com/2024/05/tucker-wetmore-signs-with-umg-nashville-in-partnership-with-back-blocks-music/ |website=Music Row |access-date=May 31, 2024}}</ref> "[[Wine Into Whiskey]]" became his first song to chart on the [[Billboard Hot 100]] and [[Hot Country Songs]] charts in 2024.<ref>{{cite web |last1=Zellner |first1=Xander |title=Hot 100 First-Timers: Tucker Wetmore Scores First Chart Hit With 'Wine Into Whiskey' |url=https://www.billboard.com/music/chart-beat/tucker-wetmore-hot-100-debut-wine-into-whiskey-1235622294/ |website=Billboard |access-date=6 March 2024}}</ref> "[[Wind Up Missin' You]]" was digitally released on March 29, 2024, and was released as Wetmore's country radio debut single on June 10, 2024.<ref name="Country Aircheck"/>
+
+==Discography==
+===Extended plays===
+{| class="wikitable plainrowheaders"
+|+Extended play, with selected details
+! style="width:10em;"| Title
+! style="width:20em;"| Details
+|-
+! scope="row"| ''[[Waves on a Sunset]]''
+| 
+* Release date: October 4, 2024
+* Label: Back Blocks / [[Universal Music Group Nashville|UMG Nashville]]
+* Format: Digital download, streaming
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+List of singles, with selected chart positions
+! scope="col" rowspan="2"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="6"| Peak chart positions
+! scope="col" rowspan="2"| [[Music recording certification|Certifications]]
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:3em;font-size:90%;"| [[Billboard Hot 100|US]]<br /><ref>{{cite magazine|url=https://www.billboard.com/charts/hot-100/2024-06-29/|title=''Billboard'' Hot 100: Week of June 29, 2024|magazine=[[Billboard (magazine)|Billboard]]|access-date=June 25, 2024}}</ref>
+! scope="col" style="width:3em;font-size:90%;"| [[Hot Country Songs|US Country]]<br /><ref name="Country Songs">{{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_0429.pdf|title=Billboard Country Update|magazine=Billboard|access-date=April 30, 2024}}</ref>
+! scope="col" style="width:3em;font-size:90%;"| [[Country Airplay|US Country Airplay]]<br /><ref>Peaks on the Country Airplay chart:
+* "Wine Into Whiskey": {{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_0426.pdf|title=Billboard Country Update|magazine=[[Billboard (magazine)|Billboard]]|date=April 26, 2024|access-date=April 27, 2024}}
+* "Wind Up Missin' You": {{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_0920.pdf|title=Billboard Country Update|magazine=[[Billboard (magazine)|Billboard]]|date=September 20, 2024|access-date=September 21, 2024}}</ref>
+! scope="col" style="width:3em;font-size:90%;"| [[Canadian Hot 100|CAN]]<br /><ref>{{cite magazine|url=https://www.billboard.com/charts/canadian-hot-100/2024-04-13/|title=''Billboard'' Canadian Hot 100: Week of April 13, 2024|magazine=[[Billboard (magazine)|Billboard]]|access-date=April 9, 2024}}</ref>
+! scope="col" style="width:3em;font-size:90%;"| [[Canada Country|CAN<br />Country]]<br /><ref>{{cite magazine|url=https://www.billboard.com/charts/canada-country/2024-09-21/|title=Canada Country: Week of September 21, 2024|magazine=[[Billboard (magazine)|Billboard]]|access-date=September 17, 2024}}</ref>
+! scope="col" style="width:3em;font-size:90%;"| [[Official New Zealand Music Chart|NZ<br />Hot]]<br /><ref>{{cite web|url=https://nztop40.co.nz/chart/hotsingles?chart=5786|title=NZ Hot Singles Chart|publisher=[[Recorded Music NZ]]|date=April 8, 2024|access-date=April 5, 2024}}</ref>
+|-
+! scope="row" | "[[Wine Into Whiskey]]"
+| rowspan="3" | 2024
+| 68 || 16 || 56 || 64 || — || —
+|
+* [[RIAA certification|RIAA]]: Gold<ref name="riaa">{{cite certification|region=United States|artist=Tucker Wetmore|access-date=September 18, 2024}}</ref>
+| rowspan="2" | ''Waves on a Sunset''
+|-
+! scope="row"| "[[Wind Up Missin' You]]"<ref name="Country Aircheck">{{cite web|url=https://assets.countryaircheck.com/public/abd699a8-552f-4c08-abe4bd03d380cacc/Issue-911-May-28-2024.pdf|title=Country Aircheck Weekly May 28, 2024, Issue 911|date=May 28, 2024|website=Country Aircheck|access-date=May 29, 2024}}</ref>
+| 63 || 11 || 22 || 42 || 37 || 13
+|
+* RIAA: Gold<ref name="riaa"/>
+|}
+
+===Promotional singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+List of promotional singles
+! scope="col" rowspan="2"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="2"| Peak chart positions
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:3em;font-size:90%;"| [[Hot Country Songs|US Country]]<br /><ref>{{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_0603.pdf|title=Billboard Country Update|magazine=Billboard|access-date=June 4, 2024}}</ref>
+! scope="col" style="width:3em;font-size:90%;"| [[Official New Zealand Music Chart|NZ Hot]]<br /><ref>{{cite web|url=https://nztop40.co.nz/chart/hotsingles?chart=5867|title=NZ Hot Singles Chart|publisher=[[Recorded Music NZ]]|date=September 23, 2024|access-date=September 20, 2024}}</ref>
+|-
+! scope="row" | "Kiss My A$$"
+| rowspan="3" | 2021
+| — || —
+| rowspan="3" {{Non-album singles}}
+|-
+! scope="row" | "Another Shot"
+| — || —
+|-
+! scope="row" | "She's Trouble"
+| — || —
+|-
+! scope="row" | "What Would You Do?"
+| rowspan="2" | 2024
+| 44 || —
+| rowspan="2" | ''Waves on a Sunset''
+|-
+! scope="row" | "Silverado Blue"
+| — || 36
+|}
+
+==References==
+{{reflist}}
+{{DEFAULTSORT:Wetmore, Tucker}}
+[[Category:1999 births]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:American country singer-songwriters]]
+[[Category:Living people]]
+[[Category:People from Kalama, Washington]]
+[[Category:Year of birth missing (living people)]]

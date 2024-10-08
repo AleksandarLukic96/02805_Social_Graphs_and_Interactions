@@ -1,0 +1,79 @@
+{{Use mdy dates|date=March 2019}}
+{{Infobox musical artist
+| name            = Jesse Mast
+| image           =
+| caption         =
+| image_size      =
+| birth_date      =
+| birth_name      =
+| birth_place     = [[Edmonton]], Alberta, Canada
+| origin          = [[Salmon Arm]], British Columbia, Canada
+| instrument      =
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 2014–2017
+| label           =
+| associated_acts =
+| website         = {{URL|jessemast.com/}}
+}}
+'''Jesse Mast''' is a Canadian [[country music]] singer-songwriter from [[Salmon Arm]], British Columbia.<ref>{{cite web|title=Jesse Mast Biography|url=http://www.cmt.ca/artist/jesse-mast|website=[[CMT (Canadian TV channel)|CMT]]|accessdate=May 5, 2016}}</ref> He has written with Larry Wayne Clark and toured with [[Gord Bamford]].<ref>{{cite news|last1=Peebles|first1=Frank|title=Mast hoists his flag in P.G.|url=http://www.princegeorgecitizen.com/entertainment/local-a-e/mast-hoists-his-flag-in-p-g-1.2228853|accessdate=May 5, 2016|work=[[The Prince George Citizen]]|date=April 11, 2016}}</ref> He won three awards from the North American Country Music Association International in 2014: Songwriter of the Year, Male Vocalist of the Year and Male Entertainer of the Year.<ref>{{cite news|title=Coldstream is the place to be this Victoria Day weekend|url=http://www.vernonmorningstar.com/entertainment/258700091.html|accessdate=May 5, 2016|work=[[The Morning Star (Vernon, British Columbia)|The Morning Star]]|date=May 11, 2014}}</ref>
+
+Mast is signed to Cache Entertainment/[[Sony Music Canada]] and released his debut single, "Bad Blood", in January 2016.<ref>{{cite web|title=Bad Blood – Single|url=https://itunes.apple.com/ca/album/bad-blood-single/id1075413736|publisher=[[iTunes Store]]|accessdate=May 5, 2016}}</ref> It debuted on the ''[[Billboard (magazine)|Billboard]]'' [[Canada Country]] chart in March 2016.<ref name="Canada Country" />
+
+==Discography==
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:8em;"| Single
+! Peak<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! [[Canada Country|CAN<br />Country]]<br /><ref name="Canada Country">{{cite magazine|url=http://www.billboard.com/biz/search/charts?f%5B0%5D=ts_chart_artistname%3A%Jesse%20Mast%2A&f%5B1%5D=itm_field_chart_id%3A1240&f%5B2%5D=ss_bb_type%3Achart_item&type=2&artist=Jesse%20Mast|title=Jesse Mast Album & Song Chart History – Canada Country|magazine=[[Billboard (magazine)|Billboard]]|accessdate=May 5, 2016}}</ref>
+|-
+| 2016
+! scope="row"| "Bad Blood"
+| 30
+| align="left"| TBD
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:16em;"| Video
+! Director
+|-
+| 2016
+! scope="row"| "Bad Blood"<ref>{{cite news|title=News: Watch The Behind The Scenes Footage For Jesse Mast's New Video 'Bad Blood'|url=http://thefield.ca/news-watch-the-behind-the-scenes-footage-for-jesse-masts-new-video-bad-blood/|accessdate=May 5, 2016|work=The Field|date=February 18, 2016}}</ref>
+| [[Stephano Barberis]]
+|-
+| rowspan="2"| 2017
+! scope="row"| "Hold the Line"
+|
+|-
+! scope="row"| "Somewhere South"
+|
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{official website|http://www.jessemast.com/}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Mast, Jesse}}
+[[Category:Canadian country singer-songwriters]]
+[[Category:Canadian male singer-songwriters]]
+[[Category:Living people]]
+[[Category:Musicians from British Columbia]]
+[[Category:Musicians from Edmonton]]
+[[Category:People from Salmon Arm]]
+[[Category:21st-century Canadian male singers]]
+[[Category:21st-century Canadian singers]]
+[[Category:Year of birth missing (living people)]]
+[[Category:21st-century Canadian singer-songwriters]]
+[[Category:Singers from Alberta]]

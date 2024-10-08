@@ -1,0 +1,128 @@
+{{Short description|Canadian country  music band}}
+{{Multiple issues|
+{{No footnotes|date=December 2019}}
+{{More citations needed|date=December 2019}}
+}}
+{{Infobox musical artist
+| name            = Jo Hikk
+| image           =
+| caption         =
+| image_size      =
+| birth_name      =
+| birth_date      =
+| origin          = [[Calgary, Alberta]], Canada
+| genre           = [[Country music|Country]]
+| years_active    = 2004–present
+| label           = [[MDM Recordings Inc.|MDM Recordings]]
+| associated_acts =
+| website         =
+| current_members = Kelly Sitter<br />Kenny Sitter<br /> Al Doell<br />Don Jorgensen
+}}
+'''Jo Hikk''' is a Canadian [[country music]] group founded in [[Calgary, Alberta]]. This four-piece band is composed of brothers Kelly Sitter ([[lead vocals]], [[bass guitar]]) and Kenny Sitter ([[guitar]], [[Guitjo (six-string)|ganjo]], [[vocals]]), Al Doell ([[drums]], [[vocals]]) and Don Jorgensen ([[Keyboard instrument|keyboards]], [[mandolin]]). Their first album, ''[[Ride (Jo Hikk album)|Ride]]'', was re-released in early 2009. Their first single, "Closer", charted in the Top 40. The song was written and originally recorded by [[Thrasher Shiver]] in 1996.
+
+Jo Hikk scored two more hit singles with "My Kind Of Radio" and "Sweet City Woman"(cover version of a hit song by The Stampeders].(both hit top #20), while another key track, "Pimp My Tractor," was placed on the Big Rock compilation. With the success of "Ride", Jo Hikk was nominated at the CCMA Awards 'Rising Star' three years in a row and for 'Group or Duo of the Year'.
+
+Jo Hikk's second album, ''The Game'', was released in August 2010. A music video was shot on location in Toronto with [[Warren P. Sonoda]] for the first single, "The Big Spoon".
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:10em;"| Title
+! style="width:20em;"| Details
+|-
+! scope="row"| ''[[Ride (Jo Hikk album)|Ride]]''
+| 
+* Release date: April 7, 2009
+* Label: Landis Productions
+|-
+! scope="row"| ''The Game''
+| 
+* Release date: August 10, 2010
+* Label: [[MDM Recordings Inc.|MDM Recordings]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! Year
+! style="width:18em;"| Single
+! Album
+|-
+| 2007
+! scope="row"| "Closer"
+| align="left" rowspan="6"| ''Ride''
+|-
+| rowspan="2"| 2008
+! scope="row"| "Pimp My Tractor"
+|-
+! scope="row"| "[[Sweet City Woman]]"
+|-
+| rowspan="2"| 2009
+! scope="row"| "My Kind of Radio"
+|-
+! scope="row"| "Dancing with the Devil's Daughter"
+|-
+| rowspan="3"|2010
+! scope="row"| "Shame on the Moon"
+|-
+! scope="row"| "The Big Spoon"
+| align="left" rowspan="3"|''The Game''
+|-
+! scope="row"| "With a Smile Like That"
+|-
+| 2011
+! scope="row"| "Not Even a Memory"
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:14em;"| Video
+! Director
+|-
+| 2009
+! scope="row"| "My Kind of Radio"
+| rowspan="2"| Warren P. Sonoda
+|-
+| 2010
+! scope="row"| "The Big Spoon"
+|-
+| 2011
+! scope="row"| "Not Even a Memory"
+| 
+|}
+
+==Awards and nominations==
+{| class="wikitable"
+|-
+! Year
+! Association
+! Category
+! Result
+|-
+| 2007
+| rowspan="4"| [[Canadian Country Music Association]]
+| Chevy Trucks Rising Star Award
+| {{nom}}
+|-
+| 2008
+| Top New Talent of the Year – Group or Duo
+| {{nom}}
+|-
+| rowspan="2"| 2009
+| Group or Duo of the Year
+| {{nom}}
+|-
+| Rising Star
+| {{nom}}
+|-
+|}
+
+==References==
+*[http://www.cmt.ca/Artist/JoHikk Jo Hikk biography] at [[Country Music Television|CMT]].ca
+*[http://www.countrymusicnews.ca/news.ihtml?step=2&article_id=1462 Review of ''Ride''] at Country Music News
+
+[[Category:Canadian country music groups]]

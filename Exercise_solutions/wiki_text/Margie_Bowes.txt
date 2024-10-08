@@ -1,0 +1,171 @@
+{{Short description|American country music singer (1941–2020)}}
+{{Infobox musical artist  <!-- See Wikipedia:WikiProject Musicians -->
+| name                = Margie Bowes
+| image               =
+| caption             = Bowes performing on stage
+| image_size          =
+| background          = solo_singer
+| birth_name          = Margie Marie Bowes
+| alias               = 
+| birth_date          = {{Birth date|1941|3|18|mf=y}}
+| birth_place         = [[Roxboro, North Carolina]], U.S.
+| death_date          = {{death date and age|2020|10|22|1941|3|18|mf=y}}
+| death_place         = [[Brentwood, Tennessee]], U.S.
+| instrument          = [[Vocals]]
+| genre               = [[Country music]]
+| occupation          = [[singing|Singer]]
+| years_active        = 1958–2020
+| label               = [[Hickory]], [[Decca Records|Decca]], [[Gusto Records|Stop Records]]
+| associated_acts     = [[Kitty Wells]], [[Jean Shepard]], [[Connie Hall]], [[Patsy Cline]]
+}}
+
+'''Margie Marie Bowes''' (March 18, 1941 – October 22, 2020) was an American [[country music]] singer who was popular in the late 1950s. She had a top 10 country hit, "Poor Old Heartsick Me", in 1959.  She was briefly married to Doyle Wilburn of the [[Wilburn Brothers]].
+
+==Biography==
+
+===Early years===
+Bowes was born on March 18, 1941,<ref>{{cite news|url=https://www.washingtontimes.com/news/2020/mar/9/celebrity-birthdays-for-the-week-of-march-15-21/ |title=Celebrity birthdays for the week of March 15–21 |website=Washington Times|access-date=24 October 2020|quote=Bowes turned 79 in 2020}}</ref> in [[Roxboro, North Carolina]]. She began singing in elementary school. By the time she was 13 years old, she was appearing on TV programs including ''WDVA Virginia Barn Dance'' in Danville, WRXO-AM in Roxboro and other radio programs in [[North Carolina]]. In 1958, Bowes participated in the [[Pet, Inc.|Pet Milk Company]]'s nationwide talent search. She entered the contest in [[Nashville, Tennessee]] and won the competition later that year.
+
+===Recording career===
+Bowes signed with [[Hickory Records]] and released her first single in 1958, "Won'tcha Come Back to Me" backed with "One Broken Heart". The singles gained some attention, but failed to chart. Her next two-sided single, "One Time Too Many"/"Violets and Cheap Perfume" also failed to chart, but she made her debut on the [[Grand Ole Opry]] later that year. In 1959, she released her third single, "Poor Old Heartsick Me". The song proved very successful for Bowes, and it just made the country top 10 that year. "Poor Old Heartsick Me" remained her signature tune.
+
+In 1959, she released her follow-up, "My Love and Little Me". The song made the country top 20 and demonstrated she was more than a [[one-hit wonder]]. Bowes appeared on ABC-TV's ''[[Jubilee USA (television program)|Jubilee USA]]'', and between 1959 and 1960 she released three more singles, though none of them gained any further success.
+
+In 1961, Bowes moved to [[Mercury Records]] and released a single that year called "Little Miss Belong to No One". The song just missed the top 20. No other singles with Mercury were successful for Bowes. By 1963, she moved to [[Decca Records]] and again started releasing singles that year. She had two singles that made the Top 40 with Decca. By 1969, Bowes left the label and recorded one more time for [[Stop Records]] in the early 1970s.
+Margie married Doyle Wilburn, half of the popular Country duo, [[the Wilburn Brothers]] on November 11, 1961. They had one daughter born in 1962. She died January 29, 2020. Neither Bowes nor Wilburn ever remarried.
+
+===Later life===
+In the late 1960s she appeared in a [[movie]] called ''[[Golden Guitar]]''. In 1995, Bowes was in a car accident, suffering a serious foot injury resulting in numerous operations.{{citation needed|date=October 2020}} Prior to her car accident, she worked for many years in the medical field. Bowes died on October 22, 2020, in [[Brentwood, Tennessee]] after an extended illness.<ref name="obit">{{cite web|url=https://obits.tennessean.com/obituaries/tennessean/obituary.aspx?n=margie-bowes-wilburn&pid=197000000 |title=Margie Bowes Wilburn |website=The Tennessean|access-date=26 October 2020}}</ref><ref name=obituary>{{cite web|url=https://www.woodbinefuneralhome.com/obituary/margie-bowes-wilburn |title=Margie Bowes Wilburn|website=woodbinefuneralhome.com|access-date=October 29, 2020}}</ref>
+
+==Discography==
+
+=== Albums ===
+{| class=wikitable style=text-align:center;
+|-
+! Year
+! Album details
+|-
+| 1966
+| align=left| '''''Margie Bowes Sings'''''
+* <small>Released: June 1966</small>
+* <small>Label: [[Decca Records|Decca]]</small>
+|-
+| 1967
+| align=left| '''''Today's Country Sound'''''
+* <small>Released: 1968</small>
+* <small>Label: Decca</small>
+|-
+|}
+
+=== Singles ===
+{| class="wikitable"
+|-
+! Year
+! Single
+! <small>[[Hot Country Songs|US Country]]</small> 
+|-
+| rowspan="2"| 1958
+| "One Broken Heart"
+| align="center"| —
+|-
+| "One Time Too Many"
+| align="center"| —
+|-
+| rowspan="3"| 1959
+| "Poor Old Heartsick Me"
+| align="center"| 10 
+|-
+| "My Love and Little Me"
+| align="center"| 15
+|-
+| "Make a Wish"
+| align="center"| —
+|-
+| rowspan="2"| 1960
+| "Day After Day"
+| align="center"| —
+|-
+| "Are You Teasing Me"
+| align="center"| —
+|-
+| rowspan="2"| 1961
+| "Little Miss Belong to No One"
+| align="center"| 21
+|-
+| "Lonely Pillow"
+| align="center"| —
+|-
+| 1962
+| "You're Still a Part of Me"
+| align="center"| —
+|-
+| rowspan="2"| 1963
+| "Think It Over"
+| align="center"| —
+|-
+| "Our Things"
+| align="center"| 33
+|-
+| rowspan="3"| 1964
+| "[[Understand Your Man|Understand Your Gal]]"
+| align="center"| 26
+|-
+| "Overnight"
+| align="center"| —
+|-
+| "Big City"
+| align="center"| —
+|-
+| 1965
+| "I Can't Love That Way"
+| align="center"| —
+|-
+| rowspan="2"| 1966
+| "That Completely Destroys My Plans"
+| align="center"| —
+|-
+| "It's Enough to Make a Woman Lose Her Mind"
+| align="center"| —
+|-
+| 1967
+| "A Man Around the House"
+| align="center"| —
+|-
+| rowspan="2"| 1968
+| "Broken Hearted, Too"
+| align="center"| —
+|-
+| "Gatherin' Dust"
+| align="center"| —
+|-
+| 1969
+| "I Have What It Takes"
+| align="center"| —
+|-
+| 1970
+| "The Note"
+| align="center"| —
+|}
+
+==References==
+<references />
+
+==External links==
+* [https://web.archive.org/web/20070927234955/http://www.lpdiscography.com/b/Bowes/bowes_bio.htm Margie Bowes at LP Discography.com]
+* {{Discogs artist|Margie Bowes}}
+* [http://www.45cat.com/artist/margie-bowes Entry at 45cat.com]
+
+{{Grand Ole Opry members}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Bowes, Margie}}
+[[Category:1941 births]]
+[[Category:2020 deaths]]
+[[Category:People from Roxboro, North Carolina]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Grand Ole Opry members]]
+[[Category:Singer-songwriters from North Carolina]]
+[[Category:Country musicians from North Carolina]]
+[[Category:21st-century American women]]

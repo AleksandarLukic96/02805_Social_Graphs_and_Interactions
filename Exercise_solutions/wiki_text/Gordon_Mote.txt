@@ -1,0 +1,181 @@
+{{Use mdy dates|date=November 2016}}
+{{Infobox musical artist
+| name            = Gordon Mote
+| image           = David Phelps, Gordon Mote, Bill Gaither.jpg
+| caption         = Mote (center) with [[David Phelps (musician)|David Phelps]] (left) and [[Bill Gaither (gospel singer)|Bill Gaither]] (right)
+| image_size      =
+| birth_name      = Gordon James Mote
+| birth_date      = {{Birth date and age|1970|10|25|mf=y}}
+| birth_place     = [[Gadsden, Alabama|Gadsden]], Alabama
+| origin          = [[Nashville, Tennessee|Nashville]], Tennessee
+| instrument      = Vocals, piano
+| genre           = [[Christian country music|Christian country]], [[contemporary Christian music|CCM]], [[southern gospel]]
+| occupation      = Singer, songwriter, instrumentalist
+| years_active    = 2000–present
+| label           = Spring Hill
+| associated_acts = [[Lee Greenwood]], [[Gaither Homecoming]]
+| website         = {{URL|gordonmote.com}}
+}}
+
+'''Gordon James Mote'''<ref name="BMI">{{cite web|title=Songwriter/Composer: Mote Gordon James |url=http://repertoire.bmi.com/writer.asp?blnWriter=True&blnPublisher=True&blnArtist=True&page=1&fromrow=1&torow=25&querytype=WriterID&keyid=452000&keyname=MOTE+GORDON+JAMES&CAE=243319290&Affiliation=BMI |publisher=[[Broadcast Music, Inc.]] |author=[[Broadcast Music, Inc.]] |access-date=January 5, 2016 }}{{dead link|date=March 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> (born October 25, 1970) is an American [[Christian country music|Christian country]]/[[southern gospel]] singer, piano virtuoso, and [[Contemporary worship|worship leader]]. He was born blind. He has released eight studio albums. His album ''Don't Let Me Miss the Glory'' (2007) was his breakthrough on the ''[[Billboard (magazine)|Billboard]]'' charts.
+
+==Early life==
+Mote was born, on October 25,<ref name="Day">{{cite web |title=@HamblenMusic: @GordonMote We were a day early on the birthday wish, weren't we? (Your birthday is tomorrow, correct?)You are correct... |url=https://twitter.com/GordonMote/status/525779717572808704 |author=Gordon Mote (GordonMote)|publisher=Twitter|access-date=January 5, 2015|date=October 24, 2014}}</ref> 1970, in [[Gadsden, Alabama]], as a blind person,<ref name="AllMusic Biography">{{cite web|title=Gordon Mote : Biography|url=http://www.allmusic.com/artist/gordon-mote-mn0000776983/biography|author=[[AllMusic]]|publisher=[[AllMusic]]|access-date=January 5, 2016}}</ref> where he grew up in nearby [[Attalla, Alabama|Attalla]]. He attended both [[Jacksonville State University]], where he spent the first three years of his music education, while he transferred to [[Belmont University]] in [[Nashville, Tennessee]], where he graduated [[Latin honors|with honors]] in music.<ref name="AllMusic Biography"/>
+
+==Music career==
+Just after graduating, [[Lee Greenwood]] asked Mote to join his band. Since then, he has toured with artists such as [[Trisha Yearwood]], [[Tanya Tucker]], [[Porter Wagoner]], the [[Gaither Vocal Band]], and the [[Gaither Homecoming]] Tour. In 2001, when a pianist was needed for [[Alan Jackson]]'s "[[Where Were You (When the World Stopped Turning)]]" recording, Mote was recommended. After that, he became a very sought-after studio musician, playing on numerous country and gospel artist's albums.<ref>{{cite web|title=Gordon Mote Biography|url=http://www.gordonmote.com/bio.html}}</ref>
+
+His studio album, ''Don't Let Me Miss the Glory'', was his debut as a vocalist.<ref name="AllMusic Biography"/> It was released on October 23, 2007,<ref name="AM Review">{{cite web|title=''Don't Let Me Miss the Glory'' – Gordon Mote : Review|url=http://www.allmusic.com/album/dont-let-me-miss-the-glory-mw0000485414 |author=[[AllMusic]] |publisher=[[AllMusic]] |access-date=January 5, 2016|date=October 23, 2007}}</ref> with Spring Hill Records.<ref name="CR Review">{{cite web|title=Review: Don't Let Me Miss the Glory – Gordon Mote |url=http://www.crossrhythms.co.uk/products/Gordon_Mote/Dont_Let_Me_Miss_The_Glory/32961/ |first=Dave |last=Brassington |publisher=[[Cross Rhythms]] |access-date=January 5, 2016|date=February 14, 2008}}</ref> This album was his breakthrough, appearing on the [[Billboard (magazine)|''Billboard'' magazine]] charts, peaking at No. 170 on the [[Billboard 200]]<ref name="Billboard 200 Albums">{{cite magazine|url=http://www.billboard.com/artist/303025/gordon-mote/chart?f=305 |title=Gordon Mote Album & Song Chart History (Billboard 200)|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]] |access-date=January 5, 2016}}</ref> and No. 10 on the [[Christian Albums]] chart.<ref name="Christian Albums">{{cite magazine|url=http://www.billboard.com/artist/303025/gordon-mote/chart?f=310 |title=Gordon Mote Album & Song Chart History (Christian Albums)|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]] |access-date=January 5, 2016}}</ref>
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! scope="col" rowspan="2" style="width:16em;" | Title
+! scope="col" rowspan="2" style="width:16em;" | Album details
+! scope="col" colspan="2" | Peak chart positions
+|- style="font-size:smaller;"
+!style="width:3em; |[[Top Heatseekers|US<br />200]]<ref name="Billboard 200 Albums"/>
+!style="width:3em; |[[Christian Albums|US<br />CHR]]<ref name="Christian Albums"/>
+|-
+!scope="row"|''Christmas Piano: The Holly and the Ivory''
+|
+* Released: December 27, 2005
+* {{nowrap|Label: Spring Hill / EMI CMG}}
+| —
+| —
+|-
+!scope="row"|''Piano Hymns: If You Could Hear What I See''
+|
+* Released: January 31, 2006
+* {{nowrap|Label: EMI Christian Music Group}}
+| —
+| —
+|-
+!scope="row"|''Don't Let Me Miss the Glory''
+|
+* Released: October 23, 2007
+* Label: Spring Hill
+| 170
+| 10
+|-
+!scope="row"|''I Will Sing''
+|
+* Released: March 9, 2010
+* Label: New Haven
+| —
+| —
+|-
+!scope="row"|''Songs I Grew Up Singing''
+|
+* Released: August 7, 2012
+* {{nowrap|Label: New Haven / Provident}}
+| —
+| —
+|-
+!scope="row"|''The Star Still Shines''
+|
+* Released: October 16, 2012
+* Label: New Haven
+| —
+| —
+|-
+!scope="row"|''All Things New''
+|
+* Released: August 27, 2013
+* Label: New Haven
+| —
+| —
+|-
+!scope="row"|''[[Hymns and Songs of Inspiration]]''
+|
+* Released: October 23, 2015
+* Label: New Haven
+| —
+| —
+|-
+!scope="row"|''Love, Love, Love''
+|
+* Released: August 3, 2018<ref>{{Cite web|url=https://itunes.apple.com/us/album/love-love-love/1393199650|title = Love, Love, Love by Gordon Mote| website=[[iTunes]] | date=August 3, 2018 }}</ref>
+* Label: New Haven
+| —
+| —
+|}
+
+===Gaither Homecoming Video featured performances===
+*2007: ''How Great Thou Art''; "Shall We Gather at the River"
+*2008: ''Homecoming Picnic''; "Sweet Forgiveness"
+*2008: ''Country Bluegrass Homecoming, Volume 1''; "I Know Somebody Who Does"
+*2008: ''Country Bluegrass Homecoming, Volume 2''; "Ain't Gonna Give Up on God"
+*2010: ''Giving Thanks''; "[[Everything Is Beautiful]]"
+*2011: ''Alaskan Homecoming''; "I'm Working on a Road"
+*2011: ''Majesty''; "When I Lift Up My Head", "Heaven's Jubilee"
+*2012: ''Mercy Walked In''
+
+==Awards and nominations==
+{| class="wikitable"
+! Year
+! Association
+! Category
+! Nominated work
+! Result
+! Ref.
+|-
+|2003–06
+|rowspan=3|[[Academy of Country Music Awards]]
+|Piano/Keyboards Player of the Year
+|
+|{{nom}}
+|<ref name="ACM">{{cite web|title=Winners Search Results|url=https://www.acmcountry.com/winners}}</ref>
+|-
+|2008/10
+|Piano/Keyboards Player of the Year
+|
+|{{won}}
+|<ref name="ACM"/>
+|-
+|2012–14
+|Piano/Keyboards Player of the Year
+|
+|{{nom}}
+|<ref name="ACM"/>
+|-
+|2015
+|[[GMA Dove Awards]]
+|[[46th GMA Dove Awards#Country and Bluegrass|Country Song of the Year]]
+|"Ain't It Just Like The Lord" <br /><small>(shared with songwriters)</small>
+|{{nom}}
+|<ref>{{cite web|title=2015 Nominees |url=http://doveawards.com/nominees/ |url-status=dead |archive-url=https://web.archive.org/web/20160111190016/http://doveawards.com/nominees/ |archive-date=January 11, 2016 |df=mdy-all }}</ref>
+|-
+|2019
+|[[Academy of Country Music Awards]]
+|Piano/Keyboards Player of the Year
+|
+|{{won}}
+|<ref name="ACM"/>
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Official website|http://www.gordonmote.com/}}
+* [http://www.crossrhythms.co.uk/artists/Gordon_Mote/14009/ Cross Rhythms profile]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Mote, Gordon}}
+[[Category:1970 births]]
+[[Category:American performers of Christian music]]
+[[Category:Blind musicians]]
+[[Category:Christian country singers]]
+[[Category:Gospel music pianists]]
+[[Category:Living people]]
+[[Category:Singers from Alabama]]
+[[Category:Songwriters from Alabama]]
+[[Category:Musicians from Gadsden, Alabama]]
+[[Category:Southern gospel performers]]
+[[Category:21st-century American singers]]
+[[Category:21st-century pianists]]
+[[Category:American blind people]]
+[[Category:American musicians with disabilities]]

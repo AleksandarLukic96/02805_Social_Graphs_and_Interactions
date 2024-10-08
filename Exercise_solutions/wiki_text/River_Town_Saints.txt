@@ -1,0 +1,177 @@
+{{Infobox musical artist
+| name             = River Town Saints
+| image            = River Town Saints walking in Nashville.jpg
+| image_size       = 
+| caption          = River Town Saints walking in Nashville
+| alias            = 
+| origin           = [[Arnprior]], [[Ontario]], [[Canada]]
+| genre            = [[Country music|Country]]
+| years_active     = 2013–present
+| label            = 
+*Sakamoto Music
+*[[Open Road Recordings]]
+| associated_acts  = 
+| website          = {{URL|http://www.rivertownsaints.com/}}
+| current_members  = Chris McComb<br />Jeremy Bortot<br />Chase Kasner<br />Joey Patrois
+| past_members     = Chris Labelle<br />Daniel Di Giacomo<br />Jordan Potvin
+}}
+'''River Town Saints''' is a Canadian [[country music]] group from [[Arnprior]], [[Ontario]], composed of Chris McComb, Jeremy Bortot, Jordan Potvin, Chase Kasner,<ref>{{cite web|title=River Town Saints|url=http://music.cbc.ca/#!/artists/River-Town-Saints|website=[[CBC Music]]|access-date=February 19, 2016}}</ref> and Joey Patrois. Labelle, McComb and Bortot formed the trio Labelle in 2014, later adding Potvin and Daniel DiGiacomo and changing their name to River Town Saints. On February 21, 2019, DiGiacomo died unexpectedly at the age of 31. Afterwards, the band added Chase Kasner.<ref>{{cite news|last1=Melanson|first1=Jenna|title=Interview – River Town Saints|url=http://canadianbeats.ca/2015/03/29/interview-river-town-saints/|access-date=February 19, 2016|work=Canadian Beats|date=March 29, 2015}}</ref> Patrois initially filled in on bass before joining the band officially a short while later. The group began playing shows around their hometown in 2014.<ref>{{cite news|title=Artist of the Month: River Town Saints|url=http://www.cmaontario.ca/newsletter/2016/01/artist-of-the-month-river-town-saints/|access-date=February 19, 2016|work=Country Music Association of Ontario|date=January 2016}}</ref> They signed to [[Open Road Recordings]] in July 2015 and released their debut single, "A Little Bit Goes a Long Way", in November of that same year.<ref>{{cite news|title=River Town Saints, Open Road Recording's Newest Signing, Release Debut Single "A Little Bit Goes A Long Way"|url=http://topcountry.ca/new-artist-spotlight-river-town-saints/|access-date=February 19, 2016|work=Top Country|date=November 6, 2015}}</ref> The song debuted on the ''[[Billboard (magazine)|Billboard]]'' [[Canada Country]] chart in January 2016, eventually peaking at #31. A music video, filmed in Ottawa, premiered on [[CMT (Canadian TV channel)|CMT]] the following month.<ref>{{cite news|last1=Dorken|first1=Geoff|title=River Town Saints – A Little Bit Goes A Long Way – New Video|url=http://buckandbeaver.co/2016/02/12/river-town-saints-a-little-bit-goes-a-long-way-new-video/|access-date=February 19, 2016|work=Buck & Beaver Co.|date=February 12, 2016}}</ref> Their follow up single, "Cherry Bomb", released May 6 of 2016, saw greater success, peaking at #24 on the Billboard Canadian Country Charts. The band released their third single "Bonfire" in January 2017, and it was their first song to debut on the Canadian Country Top 40, coming in at #39 its first week on radio. It went on to become the band's first Top 10 hit in April 2017, peaking at #9.<ref>[http://topcountry.ca/top-country-charts-april-3-2017/ Top Country April 7, 2017] Top Country.</ref>
+
+In 2016 the band was nominated for the [[CCMA Awards|CCMA]] award in the Rising Star category.<ref name=CCMA2016/> Their album ''River Town Saints'' was released on June 9, 2017.<ref>{{cite web|url=http://www.soundcheckentertainment.ca/river-town-saints-debut-album-june-9/ |title=River Town Saints set to release debut album June 9 - Sound Check Entertainment |website=Soundcheckentertainment.ca |date=2017-05-17 |access-date=2020-03-09}}</ref>
+
+In 2019 their lead singer Chris Labelle left the band to pursue a solo career,<ref name=longtime>{{cite web |last1=Murray |first1=Joshua |title=River Town Saints, Long Time Coming EP Review |url=https://thereviewsarein.com/2020/06/28/river-town-saints-long-time-coming-ep-review/ |website=thereviewsarein |access-date=1 February 2021 |language=en-CA |date=28 June 2020}}</ref> and the band's bass player, Dan Di Giacomo, died unexpectedly.<ref>{{cite web |title=Family looks for answers after popular musician struck down by blood clot |url=https://ottawacitizen.com/news/local-news/family-looks-for-answers-after-popular-musician-struck-down-by-blood-clot |website=ottawacitizen |access-date=1 February 2021 |language=en-CA}}</ref>  The band reformed with a new lead singer, Chase Kasner, and a new bass player, Joe Patrois.<ref name=longtime />
+
+==Discography==
+===Studio albums===
+{| class="wikitable"
+|-
+! Title
+! Details
+|-
+| ''River Town Saints''
+|
+* Release date: June 9, 2017
+* Label: [[Open Road Recordings]]
+* Formats: [[Compact disc|CD]], [[Music download|digital download]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" | Year
+! rowspan="2" style="width:16em;" | Single
+! Peak<br />positions
+! rowspan="2" | Album
+|- style="font-size:smaller;"
+! [[Canada Country|CAN<br />Country]]<br /><ref name="Canada Country">{{cite magazine|url=http://www.billboard.com/biz/search/charts?f%5B0%5D=ts_chart_artistname%3A%2ARiver%20Town%20Saints%2A&f%5B1%5D=itm_field_chart_id%3A1240&f%5B2%5D=ss_bb_type%3Achart_item&type=2&artist=River%20Town%20Saints|title=River Town Saints Album & Song Chart History - Canada Country|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|access-date=February 19, 2016}}</ref>
+|-
+| 2015
+! scope="row" | "A Little Bit Goes a Long Way"
+| 31
+| rowspan="4" style="text-align:left;"| ''River Town Saints''
+|-
+| rowspan="2" | 2016
+! scope="row" | "Cherry Bomb"
+| 24
+|-
+! scope="row" | "Bonfire"
+| 9
+|-
+| 2017
+! scope="row" | "Woke Up Like This"
+| 32
+|-
+| 2018
+! scope="row"| "You Get to Me"
+| 38
+| {{n/a}}
+|-
+|2021
+! scope="row"| "Long Time Coming"
+| 41
+| style="text-align:left;"| ''Long Time Coming''
+|-
+|2021
+! scope="row"| "What Ya Doin' Tonight"
+| 46
+| rowspan="4" {{n/a|Non-album singles}}
+|-
+|2022
+! scope="row"| "Name Drop"
+| ⁠—
+|-
+|2023
+! scope="row"| "She Got That"
+| ⁠—
+|- 
+|2024
+! scope="row"| "Lying in Bed" {{small|(featuring [[Kaylee Bell]])}}
+| ⁠—
+|- 
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;"| Video
+|-
+| 2015
+! scope="row"| "A Little Bit Goes a Long Way"
+|-
+| rowspan="2"| 2016
+! scope="row"| "Cherry Bomb"
+|-
+! scope="row"| "Bonfire"
+|-
+| 2017
+! scope="row"| "Woke Up Like This"
+|-
+| 2018
+! scope="row"| "You Get to Me"
+|-
+| 2020
+! scope="row"| "Long Time Coming"
+|-
+| 2021
+! scope="row"| "What Ya Doin' Tonight"
+|}
+
+==Awards and nominations==
+{| class="wikitable"
+|-
+!Year
+!Association
+!Category
+!Result
+!Ref
+|-
+|2016
+|[[Canadian Country Music Association]] Awards
+|Rising Star
+|{{Nominated}}
+|<ref name=CCMA2016>{{cite web|url=https://www.ccma.org/cgi/page.cgi/_article.html/News/2016_CCMA_Awards_Nominees |title=2016 CCMA Awards Nominations Announced |publisher= Canadian Country Music Association |archive-url=https://web.archive.org/web/20171009113849if_/https://ccma.org/cgi/page.cgi/_article.html/News/2016_CCMA_Awards_Nominees |url-status=dead |archive-date=9 October 2017}}</ref>
+|-
+|rowspan=5|2017
+|rowspan=5|Country Music Association of Ontario Awards
+|Single of the Year - "Cherry Bomb"
+|{{won}}
+|rowspan=5|<ref>{{cite web|title=Nominees announced for 2017 CMAO Awards hosted in London|url=http://globalnews.ca/news/3371414/nominees-announced-for-2017-cmao-awards-hosted-in-london/|website=AM980|access-date=12 June 2017|language=en}}</ref><ref>{{cite web|title=CMAO Awards - Winners! - Country 101.1|url=http://www.country1011.com/2017/06/12/cmao-awards-full-list-winners/|website=Country 101.1|access-date=12 June 2017|date=12 June 2017}}</ref>
+|-
+|Group or Duo of the Year
+|{{nom}}
+|-
+|Rising Star Award
+|{{nom}}
+|-
+|Fan's Choice
+|{{nom}}
+|-
+|Music Video of the Year - "Cherry Bomb"
+|{{nom}}
+|-
+|2018
+|[[Canadian Radio Music Awards]]
+|Best New Group or Solo Artist: Country - "Bonfire"
+|{{win}}
+|<ref>{{cite web |last1=Jagger |first1=Juliette |title=Canadian Music Week Announces Winners For The 2018 Canadian Radio Music Awards |url=https://celebrityaccess.com/2018/05/10/canadian-music-week-announces-winners-for-the-2018-canadian-radio-music-awards/ |website=CelebrityAccess |access-date=1 February 2021 |date=10 May 2018}}</ref>
+|-
+|2023
+|Country Music Association of Ontario
+|Group or Duo of the Year
+|{{nom}}
+|<ref>{{cite web|url=https://frontporchmusic.ca/cmaontario-awards-nominees-winners/ |title=2023 CMAOntario Awards: Celebrating the Best Country Music In Ontario |date=March 27, 2023|work=Front Porch Music|access-date=April 17, 2023}}</ref><ref>{{cite web|url=https://cmaontario.ca/2023-cmaontario-awards-winners-announced/|title=2023 CMAOntario Awards: Winners Announced!|date=June 5, 2023|work=Country Music Association of Ontario|archive-url=https://web.archive.org/web/20230605153030/https://cmaontario.ca/2023-cmaontario-awards-winners-announced/|archive-date=June 5, 2023}}</ref>
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{official website|http://www.rivertownsaints.com/}}
+
+[[Category:Canadian country music groups]]
+[[Category:Canadian musical quintets]]
+[[Category:Musical groups established in 2013]]
+[[Category:Musical groups from Ottawa]]
+[[Category:Open Road Recordings artists]]
+[[Category:2013 establishments in Ontario]]

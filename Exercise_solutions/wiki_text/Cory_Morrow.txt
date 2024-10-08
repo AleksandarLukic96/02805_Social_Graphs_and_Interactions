@@ -1,0 +1,203 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=January 2020}}
+{{BLP sources|date=August 2008}}
+{{Infobox musical artist
+| name            = Cory Morrow
+| image           = Cory_at_Whitewater.jpg
+| caption         = Morrow performing at Whitewater Amphitheater in 2019
+| image_size      = <!-- Only for images smaller than 220 pixels -->
+| birth_date      = {{birth date and age|1972|5|1}}
+| origin          = [[Houston]], Texas, United States
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| instrument      = Vocals, guitar
+| years_active    = 1997&ndash;present
+| label           = WriteOn<br />Greenhorse<br />Smith Entertainment<br />Sustain<br />APEX/WriteOn
+| associated_acts = Pat Green<br />Roger Creager<br />Randy Rogers Band<br />Reckless Kelly<br />Stoney Larue
+| website         = {{URL|corymorrow.com}}
+}}
+'''Cory Morrow''' (born May 1, 1972, in [[Houston]], Texas) is a [[Texas Country]] singer-songwriter who has gained popularity throughout the Southwest.<ref>{{Cite web|last=|first=|date=July 6, 2020|title=Texas country singer Cory Morrow connects with fans on Facebook|url=https://www.fox4news.com/video/736709|url-status=live|archive-url=https://web.archive.org/web/20200806190132/https://www.fox4news.com/video/736709 |archive-date=August 6, 2020 |access-date=2020-07-29|website=FOX 4 News Dallas-Fort Worth|language=en-US}}</ref>
+
+== Biography ==
+Morrow was born May 1, 1972, in [[Houston]], [[Texas]]. He started playing guitar at [[Memorial High School (Hedwig Village, Texas)|Memorial High School]] in Houston and continued to develop as a musician while attending [[Texas Tech University]], where he was a member of the [[Phi Gamma Delta]] fraternity.{{Citation needed|date=July 2020}}
+
+In 1993, Morrow moved to [[Austin, Texas]], to pursue music as a career. He is also considered part of the [[Red Dirt (music)|Red Dirt]] music scene, that differentiates itself from the popular Nashville music scene. Morrow has sold over 200,000 albums independently. Morrow's 2002 release Outside the Lines reached No.&nbsp;28 on [[Billboard Magazine|Billboard]]'s Country Album chart, No.&nbsp;3 on the magazine's Internet Sales chart, No.&nbsp;8 on its Independent Album chart and No.&nbsp;16 on Heatseekers chart. [[SoundScan]] ranked him No.&nbsp;7 among "country debut artists" that year.<ref>[http://lonestarmusic.com/biography.asp?id=23 Lone Star Music Artist Biography]</ref>
+
+==Discography==
+
+===Albums===
+{| class="wikitable"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Album
+! colspan="2"| Chart Positions
+! rowspan="2"| Label
+|-
+! width="60"|<small>[[Top Country Albums|US Country]]</small>
+! width="60"|<small>[[Top Heatseekers|US Heat]]</small>
+|-
+| rowspan="2"| 1997
+| ''Texas Time Travelin' EP''
+| align="center"|
+| align="center"|
+| rowspan="4"| Write On
+|-
+| ''The Cory Morrow Band''
+| align="center"|
+| align="center"|
+|-
+| 1998
+|''The Man That I've Been''
+| align="center"|
+| align="center"|
+|-
+| rowspan="2" |2001
+| ''Double Exposure: Live''
+| align="center"|
+| align="center"|
+|-
+| ''Songs We Wish We'd Written'' <small>(w/ [[Pat Green]])</small>
+| align="center"| 26
+| align="center"| 20
+| Greenhorse/Write On
+|-
+| 2002
+| ''Outside the Lines''
+| align="center"| 28
+| align="center"|
+| rowspan="2"| Write On
+|-
+| 2003
+| ''Full Exposure Live''
+| align="center"| 40
+| align="center"| 30
+|-
+| 2005
+| ''Nothing Left to Hide''
+| align="center"| 42
+| align="center"| 24
+| Smith Entertainment/Write On
+|-
+| rowspan="2" |2007
+| ''Live From Austin TX''
+| align="center"|
+| align="center"|
+| New West Records
+|-
+| ''Ten Years''
+| align="center"|
+| align="center"|
+| rowspan="2"| Sustain/Universal/Write On
+|-
+| 2008
+| ''Vagrants & Kings''
+| align="center"| 45
+| align="center"| 38
+|-
+| rowspan="2"| 2010
+| ''Ramblin' Man EP''
+| align="center"|
+| align="center"|
+| rowspan="2"| APEX/Write On
+|-
+| ''Brand New Me''
+| align="center"| 49
+| align="center"| 20
+|-
+| 2012
+| ''Live at Billy Bob's Texas''
+| align="center"| 66
+| align="center"| 39
+| Billy Bob's Texas
+|-
+| 2015
+| ''The Good Fight''
+| align="center"| 45
+| align="center"| 19
+| Write On/Thirty Tigers
+|-
+|
+2018
+| ''Whiskey And Pride''
+| align="center"|
+| align="center"|
+| Write On
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="60"| [[Hot Country Songs|US Country]]
+|-
+| 2001
+! scope="row"| "Texas on My Mind" <small>(with [[Pat Green]])</small>
+| 60
+| align="left"| ''Songs We Wish We'd Written''
+|-
+| 2005
+! scope="row"| "Beat of Your Heart"
+| 59
+| align="left"| ''Nothing Left to Hide''
+|-
+| rowspan="2"| 2010
+! scope="row"| "Ramblin' Man"
+| —
+| align="left"| ''Ramblin' Man EP''
+|-
+! scope="row"| "Brand New Me"
+| —
+| align="left" rowspan="2"| ''Brand New Me''
+|-
+| 2011
+! scope="row"| "Lead Me On"
+| —
+|-
+| 2012
+! scope="row"| "Hold Us Together"
+| —
+| align="left"| ''Live at Billy Bob's Texas''
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable" border="1"
+|-
+! Year
+! Video
+! Director
+|-
+| 2008
+| "He Carries Me"
+| Jim Shea
+|-
+| 2018
+| "Whiskey and Pride"
+|
+|}
+
+==References==
+<!--See http://en.wikipedia.org/wiki/Wikipedia:Footnotes for an explanation of how to generate footnotes using the <ref(erences/)> tags-->
+{{reflist}}
+
+==External links==
+*[http://corymorrow.com Cory Morrow Official Site]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Morrow, Cory}}
+[[Category:American country singer-songwriters]]
+[[Category:Living people]]
+[[Category:Country musicians from Texas]]
+[[Category:Texas Tech University alumni]]
+[[Category:Singers from Houston]]
+[[Category:1972 births]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:21st-century American singer-songwriters]]

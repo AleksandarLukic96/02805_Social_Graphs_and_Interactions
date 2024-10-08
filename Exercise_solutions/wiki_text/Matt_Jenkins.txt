@@ -1,0 +1,80 @@
+{{short description|American musician}}
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Matt Jenkins
+| image               = 
+| caption             = 
+| image_size          = 
+| background          = solo_singer
+| birth_date          = 
+| birth_place         = [[Fort Worth, Texas]]
+| origin              = [[Aledo, Texas]], United States
+| instrument          = Vocals
+| genre               = [[Country music|Country]]
+| occupation          = Singer-songwriter
+| years_active        = 2005–present
+| label               = [[Universal South Records|Universal South]]
+| associated_acts     = 
+| website             = 
+}}
+'''Matt Jenkins''' (born in [[Fort Worth, Texas]]) is an American [[country music]] artist. Signed to [[Universal South Records]] in 2003,<ref>{{cite web |url=http://nl.newsbank.com/nl-search/we/Archives?p_product=ST&s_site=dfw&p_multi=ST&p_theme=realcities&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=0F8C815372951F79&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM |title=Next stop, Nashville Nineteen-year-old Aledo country singer/songwriter Matt Jenkins is hard at work in the family living room – crafting his first CD and creating buzz in Music City |accessdate=January 27, 2009|date=January 2, 2003|work=Fort Worth Star-Telegram}}</ref> he released two singles in 2005, including "King of the Castle", which reached number 51 on the [[Hot Country Songs]] charts, but did not release an album. He also appeared on the [[Fox Networks]] reality show ''[[Nashville (2007 TV series)|Nashville]]'',<ref>{{cite web |url=http://www.buddytv.com/articles/nashville/matt-jenkins-has-mixed-feeling-12628.aspx |title=Matt Jenkins Has "Mixed Feelings" About 'Nashville' Experience |accessdate=January 27, 2009|date=October 1, 2007|work=Buddy TV}}</ref> which was canceled after two episodes. An eight-song digital EP, ''Quarter of a Century'', was released in late 2008.<ref>{{cite web |url=http://www.roughstock.com/reviews/matt-jenkins-quarter-of-a-century-ep |last=Bjorke |first=Matt |title=''Quarter of a Century'' review |accessdate=January 27, 2009 |work=Roughstock |archive-url=https://web.archive.org/web/20090421064523/http://www.roughstock.com/reviews/matt-jenkins-quarter-of-a-century-ep |archive-date=April 21, 2009 |url-status=dead }}</ref>
+
+Jenkins is the brother of fellow songwriter [[Josh Jenkins (songwriter)|Josh Jenkins]].<ref>{{cite web |first=Dale |last=Kawashima |url= https://www.songwriteruniverse.com/josh-jenkins-songwriter-interview-2022.htm  |title=Rising Songwriter & Artist Josh Jenkins Co-Writes Two Of Country Music's Big Hits: 'Fancy Like' and 'Buy Dirt' |website=Songwriteruniverse.com |date=February 25, 2022 |accessdate=October 14, 2022 }}</ref>
+
+Jenkins co-wrote [[Steve Holy]]'s 2011 single "Until the Rain Stops", [[Love and Theft (duo)|Love and Theft]]'s 2012 single "[[Runnin' Out of Air]]", [[Keith Urban]]'s 2014 single "[[Cop Car (Keith Urban song)|Cop Car]]", [[Dustin Lynch]]'s 2014 single "[[Where It's At (Dustin Lynch song)|Where It's At]]", and [[Jordan Davis (singer)|Jordan Davis]]'s 2021 single "[[Buy Dirt]]", which won the [[Country Music Association Award for Song of the Year]].
+
+==Discography==
+
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:14em;"| Title
+! style="width:16em;"| Album details
+|-
+! scope="row"| ''Quarter of a Century''
+| 
+* Release date: 2008
+* Label: [[self-released]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:12em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="60"| [[Hot Country Songs|US Country]]
+|-
+| 2005
+! scope="row"| "King of the Castle"
+| 51
+| align="left" rowspan="2"| ''I'm Just a Man'' <small>(unreleased)</small>
+|-
+| 2006
+! scope="row"| "Bad as I Want To"
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+==References==
+{{Reflist}}
+{{CMA for Song of the Year}}
+{{authority control}}
+
+{{DEFAULTSORT:Jenkins, Matt}}
+[[Category:American male singer-songwriters]]
+[[Category:Living people]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:American country singer-songwriters]]
+[[Category:Musicians from Fort Worth, Texas]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Show Dog-Universal Music artists]]
+[[Category:People from Aledo, Texas]]
+[[Category:Country musicians from Texas]]
+
+
+{{US-country-singer-stub}}

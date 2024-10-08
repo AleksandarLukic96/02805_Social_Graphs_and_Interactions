@@ -1,0 +1,250 @@
+{{short description|American singer-songwriter|bot=PearBOT 5}}
+{{Use mdy dates|date=June 2020}}
+{{Infobox musical artist
+| name            = Aaron Barker
+| image           =
+| image_size      =
+| birth_name      =
+| alias           =
+| birth_date      = {{birth date and age|1953|03|05}}
+| birth_place     = [[San Antonio|San Antonio, Texas]]
+| instrument      =
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 1988–present
+| label           = [[Atlantic Records|Atlantic]]
+| associated_acts = [[George Strait]]
+| website         = [http://www.AaronBarker.com Aaron Barker]
+}}
+'''Aaron Barker''' (born March 5, 1953, in [[San Antonio|San Antonio, Texas]]<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|page=43|year=2008|isbn=978-0-89820-177-2}}</ref>) is an American singer-songwriter.
+
+Barker has written No. 1 songs for [[George Strait]] ("[[Baby Blue (George Strait song)|Baby Blue]]", "[[Love Without End, Amen]]", "[[Easy Come, Easy Go (George Strait song)|Easy Come, Easy Go]]") and [[Lonestar]] ("[[What About Now (Lonestar song)|What About Now]]").<ref name="musicvf">{{cite web|title=Aaron Barker – Top Songs as Writer|url=http://www.musicvf.com/songs.php?page=artist&artist=Aaron+Barker&tab=songaswriterchartstab|work=Music VF|accessdate=February 14, 2014}}</ref> His songs have also been recorded by [[Doug Supernaw]], [[Clay Walker]], [[Neal McCoy]], [[Aaron Tippin]] and others.<ref name="musicvf" /><ref>{{cite web|title=Aaron Barker {{!}} Credits|url={{AllMusic|class=artist|id=mn0000489280/credits|pure_url=yes}}|work=[[AllMusic]]|accessdate=February 14, 2014}}</ref> Barker turned "Love Without End, Amen" into a book in 2002.<ref>{{cite news|title=Strait's Hit Becomes a Book|url=http://www.cmt.com/news/news-in-brief/1452016/straits-hit-becomes-a-book.jhtml|archive-url=https://web.archive.org/web/20140115062641/http://www.cmt.com/news/news-in-brief/1452016/straits-hit-becomes-a-book.jhtml|url-status=dead|archive-date=January 15, 2014|accessdate=February 14, 2014|newspaper=[[Country Music Television]]|date=January 29, 2002}}</ref><ref>{{cite news|last=Holden|first=Larry|title=Story Behind The Song ...'Love Without End, Amen'|url=http://www.countryweekly.com/vault/story-behind-song-love-without-end-amen|accessdate=February 14, 2014|newspaper=[[Country Weekly]]|date=February 13, 2002}}</ref> He was inducted into the Texas Heritage Songwriters' Hall of Fame in 2007.<ref>{{cite web|title=Aaron Barker {{!}} TxHSA|url=http://www.texasheritagesongwriters.com/inductee/aaron-barker/|work=Texas Heritage Songwriters' Association|accessdate=February 14, 2014}}</ref>
+
+Barker's debut album, ''The Taste of Freedom'', was released by [[Atlantic Records]] in August 1992.<ref>{{cite news|last=Abbott|first=Jim|title=Here's what's new in the record racks|url=https://www.orlandosentinel.com/1992/08/07/heres-whats-new-in-the-record-racks-19/|access-date=February 14, 2014|newspaper=[[Orlando Sentinel]]|date=August 7, 1992}}</ref> The title track peaked at number 73 on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles & Tracks]] chart.<ref name="whitburn" />
+
+Barker also writes and performs commercials for [[Blue Bell Creameries|Blue Bell Ice Cream]].<ref>{{cite news|title=Advocate Editorial Board opinion: Songwriters' art supports groups in need|url=http://www.victoriaadvocate.com/news/2013/nov/12/vp_concert_editorial_111313_224912/|accessdate=February 14, 2014|newspaper=[[The Victoria Advocate]]|date=November 12, 2013}}</ref>
+
+On August 8, 2016, it was announced at a private press conference that Barker would be inducted into the [[Nashville Songwriters Hall of Fame]] at a ceremony held on October 9, 2016.<ref>{{Cite web|url=https://heartsbluffmusic.com/2016/08/aaron-barker-to-be-inducted-into-nashville-songwriters-hall-of-fame/|title=Aaron Barker To Be Inducted into Nashville Songwriters Hall of Fame {{!}} Hearts Bluff Music|website=heartsbluffmusic.com|access-date=September 2, 2016|archive-url=https://web.archive.org/web/20160921021722/https://heartsbluffmusic.com/2016/08/aaron-barker-to-be-inducted-into-nashville-songwriters-hall-of-fame/|archive-date=September 21, 2016|url-status=dead}}</ref>
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:16em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''The Taste of Freedom''
+| 
+* Release date: August 4, 1992
+* Label: [[Atlantic Records]]
+|-
+! scope="row"| ''Straight from the Horse's Mouth''<br /><small>(with Curtis Wayne)</small>
+| 
+* Release date: 1998
+* Label: BSW Records
+|-
+! scope="row"| ''Lifelines''
+| 
+* Release date: 2002
+* Label: self-released
+|-
+! scope="row"| ''Echoes''
+| 
+* Release date: October 17, 2006
+* Label: self-released
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]<br><ref>{{cite magazine|url={{BillboardURLbyName|artist=aaron barker|chart=Country Songs}}|title=Aaron Barker Album & Song Chart History – Country Songs|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=February 14, 2014}}</ref>
+|-
+| 1992
+! scope="row"| "The Taste of Freedom"
+| 73
+| align="left"| ''The Taste of Freedom''
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:14em;"| Video
+|-
+| 1992
+! scope="row"| "The Taste of Freedom"
+|}
+
+==List of singles written by Aaron Barker==
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Single<ref name="musicvf" />
+! rowspan="2"| Artist
+! rowspan="2"| Co-writer(s)
+! Peak positions
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]
+|-
+| 1988
+| "[[Baby Blue (George Strait song)|Baby Blue]]"
+| rowspan="2"| [[George Strait]]
+| 
+| align="center"| 1
+|-
+| 1990
+| "[[Love Without End, Amen]]"
+| 
+| align="center"| 1
+|-
+|1992
+|"What A Friday Night Is For"
+|Jessica Bouche
+|
+| --
+|-
+|1992
+|"The Taste Of Freedom"
+|Aaron Barker
+|
+|73
+|-
+| rowspan="3"| 1993
+| "Honky Tonkin' Fool"
+| [[Doug Supernaw]]
+| 
+| align="center"| 50
+|-
+| "[[Easy Come, Easy Go (George Strait song)|Easy Come, Easy Go]]"
+| rowspan="2"| George Strait
+| [[Dean Dillon]]
+| align="center"| 1
+|-
+| "[[I'd Like to Have That One Back]]"
+| Bill Shore, Rick West
+| align="center"| 3
+|-
+| rowspan="3" | 1995
+| "[[Not Enough Hours in the Night]]"
+| Doug Supernaw
+| Ron Harbin, Kim Williams
+| align="center"| 3
+|-
+|"Dallas Morning Blues"
+|Ram Herrera
+|Sonny La Maire
+| --
+|-
+| "[[I Know She Still Loves Me]]"
+| rowspan="2"| George Strait
+| [[Monty Holmes]]
+| align="center"| 5
+|-
+| 1996
+| "[[I Can Still Make Cheyenne]]"
+| Erv Woolsey
+| align="center"| 4
+|-
+| 1997
+| "[[Watch This (Clay Walker song)|Watch This]]"
+| [[Clay Walker]]
+| rowspan="2"| Ron Harbin, Anthony L. Smith
+| align="center"| 4
+|-
+| rowspan="2"| 1998
+| "Love Happens Like That"
+| [[Neal McCoy]]
+| align="center"| 29
+|-
+| "[[You're Beginning to Get to Me]]"
+| Clay Walker
+| [[Tom Shapiro]]
+| align="center"| 1
+|-
+|1998
+|"I'm A Cowboy"
+|Bill Engvall
+|Bill Engvall
+|60
+|-
+| 1999
+| "[[I'm Leaving (Aaron Tippin song)|I'm Leaving]]"
+| [[Aaron Tippin]]
+| Ron Harbin, David Lewis
+| align="center"| 17
+|-
+|1999
+|"Christmas Cookies"
+|George Strait
+|
+|33
+|-
+|
+|"Peace Of Mind"
+|George Strait
+|Dean Dillon
+|74
+|-
+|
+|"Terrible Twos"
+|Damon Gray
+|Michael Garvin
+|73
+|-
+| 2000
+| "[[What About Now (Lonestar song)|What About Now]]"
+| [[Lonestar]]
+| Ron Harbin, Anthony L. Smith
+| align="center"| 1
+|-
+|
+|"Old Time Christmas"
+|George Strait
+|John Barlow Jarvis
+|62
+|-
+|2008
+|"What A Friday Night Is For"
+|Jessica Boucher
+|
+|
+|-
+| rowspan="2"| 2013
+| "Best Seat in the House"
+| [[LoCash Cowboys]]
+| Preston Brust, Chris Lucas
+| align="center"| 52
+|-
+| "I'm Gonna Lie"
+| [[Philip Claypool]]
+| Gary Hannan, Ira Dean
+| align="center"| —
+|-
+|2015
+|"Suffer In Peace"
+|Tyler Farr
+|Phil O'Donnell
+|3
+|-
+| align="center" colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Barker, Aaron}}
+[[Category:1953 births]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Country musicians from Texas]]
+[[Category:Living people]]
+[[Category:Musicians from San Antonio]]
+[[Category:Atlantic Records artists]]
+[[Category:Singer-songwriters from Texas]]

@@ -1,0 +1,336 @@
+{{short description|Canadian country music singer-songwriter}}
+{{about|the Canadian singer-songwriter|the American businessman|Shawn Hogan|the Irish republican|Seán Hogan}}
+{{Use mdy dates|date=October 2020}}
+{{Infobox musical artist | <!-- See Wikipedia:WikiProject Musicians -->
+| image = Sean_Hogan.jpg
+| name            = Sean Hogan |
+| caption         = Sean Hogan, November 2005
+| background      = solo_singer |
+| origin          = [[Sarnia]], Ontario, Canada |
+| instrument     = Guitar |
+| genre           = [[Country music|Country]] |
+| occupation      = singer-songwriter |
+| years_active    = 1996&ndash;present |
+| label           = Barnstorm<br>Raving Rooster |
+| associated_acts = |
+| website             = [http://www.seanhogan.net/ www.seanhogan.net] |
+}}
+
+'''Sean Hogan''' is a Canadian [[country music]] singer-songwriter.
+
+==Biography==
+Born in [[Sarnia]], Ontario, Hogan attended [[Fanshawe College]] in [[London, Ontario]], studying music.<ref>{{cite news|author = The Observer|title = Sean Hogan to play the Imperial Centre|publisher = Sarnia Observer |date = June 1, 2002}}</ref><ref>{{cite news|author = The Observer|title = Sean Hogan offers his take on Junos|publisher = Sarnia Observer|date = March 11, 2000}}</ref> In 2003 he won the Roots Artist of the Year at the Canadian Country Music Awards and he has also won the Independent Male Artist of the Year award in 1997.<ref>{{cite news|author = Mike Bell|title = SUN RISES ON SEAN HOGAN|publisher = Calgary Sun|date = May 26, 2004}}</ref> Hogan engages in charity work and in 2005 the Saskatchewan Country Music Association named him Humanitarian of the Year.<ref>{{cite news|author = John P. McLaughlin|title = 'Help out and give back': Sean Hogan brings cavalcade of Canadian talent to town|publisher = The Vancouver Province|date = December 19, 2005}}</ref>
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders"
+! style="width:14em;"| Title
+! style="width:18em;"| Details
+|-
+! scope="row"| ''Sean Hogan''
+| 
+* Release date: April 1996
+* Label: Barnstorm
+|-
+! scope="row"| ''Hijacked''
+| 
+* Release date: June 1999
+* Label: Barnstorm
+|-
+! scope="row"| ''Late Last Night''
+| 
+* Release date: November 20, 2001
+* Label: Barnstorm
+|-
+! scope="row"| ''Ruled by Mercury''<br /><small>(U.S. release)</small>
+| 
+* Release date: 2002
+* Label: Barnstorm
+|-
+! scope="row"| ''Catalina Sunrise''
+| 
+* Release date: April 2005
+* Label: Raving Rooster
+|-
+! scope="row"| ''The Southern Sessions'' 
+| 
+* Release date: June 2007
+* Label: Raving Rooster
+|-
+! scope="row"| ''Conspiracy Radio''
+| 
+* Release date: July 2008
+* Label: Northbuck Records
+|-
+! scope="row"| ''The Southern Sessions''<br /><small>(U.S. release)</small>
+| 
+* Release date: September 15, 2009
+* Label: Lakeland Heart
+|-
+! scope="row"| ''Phoenix''
+| 
+* Release date: March 20, 2012
+* Label: Lakeland Heart
+|}
+
+===Singles===
+
+====1996–2000====
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2"| Year
+! rowspan="2" style="width:26em;"| Single
+! Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="2"| 1996
+! scope="row"| "Beg, Borrow and Steal the World"
+| 25
+| align="left" rowspan="7"| ''Sean Hogan''
+|-
+! scope="row"| "Vulnerable"
+| 25
+|-
+| rowspan="3"| 1997
+! scope="row"| "Slow Turning"
+| 20
+|-
+! scope="row"| "Wild Rose"
+| 19
+|-
+! scope="row"| "Heaven by Your Side"
+| 26
+|-
+| rowspan="3"| 1998
+! scope="row"| "The Outcome"
+| 37
+|-
+! scope="row"| "Nothin' Could Be Better"
+| 59
+|-
+! scope="row"| "Walk the Talk"
+| 40
+| align="left" rowspan="6"| ''Hijacked''
+|-
+| rowspan="2"| 1999
+! scope="row"| "[[Sure Fire Love]]"
+| 9
+|-
+! scope="row"| "Tired of Leavin'"
+| 19
+|-
+| rowspan="3"| 2000
+! scope="row"| "Dream Vacation"
+| 19
+|-
+! scope="row"| "[[Angeline (Sean Hogan song)|Angeline]]"
+| 8
+|-
+! scope="row"| "Love Letters"
+| *
+|-
+| colspan="5" style="font-size:8pt"| * denotes unknown peak positions
+|-
+|}
+
+====2001–present====
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:26em;"| Single
+! Album
+|-
+| rowspan="3"| 2001
+! scope="row"| "Silver Lining Girl"
+| rowspan="2"| ''Hijacked''
+|-
+! scope="row"| "Hijacked"
+|-
+! scope="row"| "I'd Rather Have You"
+| rowspan="5"| ''Late Last Night''
+|-
+| rowspan="2"| 2002
+! scope="row"| "Come Another Fine Day"
+|-
+! scope="row"| "Your Rockin' Horse"
+|-
+| rowspan="2"| 2003
+! scope="row"| "Love of Life"
+|-
+! scope="row"| "Ruled by Mercury"
+|-
+| rowspan="3"| 2004
+! scope="row"| "Centered"
+| rowspan="7"| ''Catalina Sunrise''
+|-
+! scope="row"| "Catalina Sunrise"
+|-
+! scope="row"| "It's Christmas Time" <small>(Sean Hogan & Friends)</small><sup>{{anchor|ref_A}}[[#endnote_A|'''[A]''']]</sup>
+|-
+| rowspan="2"| 2005
+! scope="row"| "My Livin' End Begins"
+|-
+! scope="row"| "A Cowboy's Heart"
+|-
+| rowspan="2"| 2006
+! scope="row"| "Yesterday's Town"
+|-
+! scope="row"| "Sweet Talk Me"
+|-
+| rowspan="3"| 2007
+! scope="row"| "What Would You Have Me Believe"
+| rowspan="6"| ''The Southern Sessions''
+|-
+! scope="row"| "Shangri-La"
+|-
+! scope="row"| "Don't Sweat the Small Stuff"
+|-
+| rowspan="2"| 2008
+! scope="row"| "Genuine Love"
+|-
+! scope="row"| "Suck It Up"
+|-
+| rowspan="3"| 2009
+! scope="row"| "Straight"
+|-
+! scope="row"| "Catalina Sunrise" <small>(U.S. release)</small>
+| ''Conspiracy Radio''
+|-
+! scope="row"| "Heartbreak Song"
+| ''The Southern Sessions''
+|-
+| 2010
+! scope="row"| "Something Beautiful"
+| rowspan="8"| ''Phoenix''
+|-
+| rowspan="3"| 2011
+! scope="row"| "Travel Plans"
+|-
+! scope="row"| "A Song We Can Sing To"
+|-
+! scope="row"| "Better Angels Prevail"
+|-
+| rowspan="3"| 2012
+! scope="row"| "Like We Never Had to Say Goodbye"
+|-
+! scope="row"| "Phoenix"
+|-
+! scope="row"| "Make It Look Easy"
+|-
+| rowspan="2"| 2013
+! scope="row"| "One Kiss from You"
+|-
+! scope="row"| "Come Hell or High Water (See What Love Can Do)"<br /><small>(Sean Hogan & Friends)</small><sup>{{anchor|ref_B}}[[#endnote_B|'''[B]''']]</sup>
+| {{n/a}}
+|-
+| rowspan="2"| 2018
+! scope="row"| "California"
+|
+|}
+
+{{refbegin}}
+;Notes
+*A{{anchor|endnote_A}}'''[[#ref_A|^]]''' Featuring [[Gord Bamford]], [[Duane Steele]], [[Jake Mathews]], [[Diane Chase]], [[Jamie Warren]], [[Brad Johner]], [[Lisa Hewitt]], [[Colin Amey]], Val LeRoy and Tracey James.
+*B{{anchor|endnote_B}}'''[[#ref_B|^]]''' Featuring [[Beverley Mahood]], [[Patricia Conroy]], [[Bobby Wills]], [[Amber Marshall (actor)|Amber Marshall]], Wildflower, Angela Harris, [[Shane Yellowbird]], [[Jake Mathews]], [[Jamie Warren]], [[Tenille]], Pear and Leonard Bearshirt & Spirit Horse.
+{{refend}}
+
+===Guest singles===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:14em;"| Single
+! Artist
+! Album
+|-
+| 2011
+! scope="row"| "Waste of Good Whisky"
+| [[Duane Steele]]
+| ''[[Gas and Time]]''
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:26em;"| Video
+! Director
+|-
+| rowspan="2"| 1996
+! scope="row"| "Beg, Borrow and Steal the World"
+| rowspan="9"| Jason Bourque
+|-
+! scope="row"| "Vulnerable"
+|-
+| rowspan="3"| 1997
+! scope="row"| "Slow Turning"
+|-
+! scope="row"| "Wild Rose"
+|-
+! scope="row"| "Heaven by Your Side"
+|-
+| rowspan="2"| 1998
+! scope="row"| "The Outcome"
+|-
+! scope="row"| "Walk the Talk"
+|-
+| rowspan="2"| 1999
+! scope="row"| "Sure Fire Love"
+|-
+! scope="row"| "Tired of Leavin'"
+|-
+| 2000
+! scope="row"| "Dream Vacation"
+| 
+|-
+| rowspan="2"| 2001
+! scope="row"| "Silver Lining Girl"
+| 
+|-
+! scope="row"| "Hijacked"
+| 
+|-
+| rowspan="2"| 2002
+! scope="row"| "I'd Rather Have You"
+| rowspan="3"| Colin Cunningham
+|-
+! scope="row"| "Come Another Fine Day"
+|-
+| rowspan="2"| 2004
+! scope="row"| "Catalina Sunrise"
+|-
+! scope="row"| "It's Christmas Time" <small>(Sean Hogan & Friends)</small>
+| 
+|-
+| 2005
+! scope="row"| "A Cowboy's Heart"
+| rowspan="4"| Colin Cunningham
+|-
+| rowspan="2"| 2011
+! scope="row"| "Travel Plans"
+|-
+! scope="row"| "A Song We Can Sing To"
+|-
+| 2013
+! scope="row"| "Come Hell or High Water (See What Love Can Do)"<br /><small>(Sean Hogan & Friends)</small>
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.seanhogan.net Sean Hogan's Webpage]
+* [http://www.myspace.com/seanhoganfans Sean Hogan's MySpace Page]
+* [https://www.youtube.com/seanhoganvids Sean Hogan's YouTube Page]
+* [http://www.canadiancountrychristmas.net/ Sean Hogan's Canadian Country Christmas]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hogan, Sean}}
+[[Category:Canadian male singer-songwriters]]
+[[Category:Canadian country singer-songwriters]]
+[[Category:Living people]]
+[[Category:Fanshawe College alumni]]
+[[Category:Musicians from Sarnia]]
+[[Category:Singers from Ontario]]
+[[Category:Year of birth missing (living people)]]

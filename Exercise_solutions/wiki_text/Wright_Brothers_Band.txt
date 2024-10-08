@@ -1,0 +1,99 @@
+{{Short description|Indiana-based music group}}
+{{Infobox musical artist | <!-- See Wikipedia:WikiProject Musicians -->
+| name            = Wright Brothers Band
+| image             =
+| caption        =
+| image_size        = 
+| background      = group_or_band
+| alias           = The Wright Brothers
+| origin          = [[French Lick, Indiana]], [[United States|USA]]
+| genre           = [[Country music|Country]]
+| years_active    = 1972–present
+| label           = Wright & Perry, [[Warner Bros. Records|Warner Bros.]], [[Universal Music Group Nashville|Mercury Nashville]], Airborne
+| associated_acts = 
+| website             = 
+| current_members = Tom Wright<br />Tim Wright<br />John McDowell
+| past_members    = Karl Hinkle<br />Steve Walker, drums}}
+
+'''The Wright Brothers Band''', formerly known as the Wright Brothers Overland Stage Company, formed in 1972, is an [[Indiana]]-based music group.  They perform songs from the 1920s to the present day, and can cover bluegrass, pop standards, country, gospel, and even [[Aerosmith]] rock standards.  The band briefly gained national attention with their patriotic song "Made in the U.S.A.", which celebrated companies that continued to manufacture their products in the [[United States]]. They performed on the ''[[Grand Ole Opry]]'', ''[[The Today Show]]'' and appeared 12 times on ''[[Nashville Now]]''. Signed with [[Warner Bros.]] and [[Mercury Records]] in the 1980s, the Wright Brothers had nine singles reach ''[[Billboard magazine|Billboard]]''{{'}}s Hot Country Singles chart. The band also recorded ''Shot Down in Hot Blood'' and a cover of "[[Jim Dandy (song)|Jim Dandy]]" for the soundtrack of the 1987 [[Goldie Hawn]] movie ''[[Overboard (1987 film)|Overboard]]'', in which they also made a live appearance.<ref>{{citation 
+ | url= https://www.imdb.com/title/tt0093693/soundtrack 
+ | title=Soundtracks for Overboard (1987) 
+ | accessdate=2010-09-09 
+ | publisher = [[Internet Movie Database]] 
+}}</ref>
+
+The band's first three albums, ''Cornfield Cowboys'', ''Memorabilia Box'', and ''Third Phonograph Album'', were collected into a box set called ''Anthology'', first on vinyl and then on CD. ''Memorabilia Box'' featured live medleys of [[Harry Nilsson]]'s "The Rainmaker" with their own "Dawson", [[Mickey Newbury]]'s "An American Trilogy" (Battle Hymn of the Republic/Dixie/All My Trials), and [[Neil Diamond]]'s "Solaimon/Brother Love".
+
+==Discography==
+===Albums===
+{| class="wikitable"
+|-
+! Year
+! Album
+! <small>[[Top Country Albums|US Country]]</small>
+! Label
+|-
+| 1984
+| ''Easy Street''
+| style="text-align:center;"| 55
+| Mercury
+|}
+
+===Singles===
+{| class="wikitable"
+|-
+! Year
+! Single
+! <small>[[Hot Country Songs|US Country]]</small>
+! Album
+|-
+| 12-12-1981
+| "Family Man"
+| style="text-align:center;"| 35
+| rowspan="4"| singles only
+|-
+| rowspan="2"| 1982
+| "When You Find Her, Keep Her"
+| style="text-align:center;"| 42
+|-
+| "Made in the U.S.A."
+| style="text-align:center;"| 40
+|-
+| 1983
+| "So Easy to Love"
+| style="text-align:center;"| 68
+|-
+| 05-26-1984
+| "Southern Women"
+| style="text-align:center;"| 33
+| rowspan="3"| ''Easy Street''
+|-
+| rowspan="3"| 1984
+| "So Close"
+| style="text-align:center;"| 46
+|-
+| "[[Eight Days a Week]]"
+| style="text-align:center;"| 57
+|- 
+| 
+|-
+| 05-18-1985
+| "Fire in the Sky"
+| style="text-align:center;"| 48
+| rowspan="2"| singles only
+|-
+| 1988
+| "Come On Rain"
+| style="text-align:center;"| 85
+|}
+
+==References==
+{{Reflist}}
+
+
+{{Authority control}}
+[[Category:American country music groups]]
+[[Category:Musical groups from Indiana]]
+
+
+{{US-country-band-stub}}

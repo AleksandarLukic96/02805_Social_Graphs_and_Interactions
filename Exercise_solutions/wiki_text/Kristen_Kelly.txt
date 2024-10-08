@@ -1,0 +1,142 @@
+{{short description|American singer-songwriter}}
+
+{{Infobox musical artist
+| name            = Kristen Kelly
+| image           =
+| image_size      =
+| landscape       = <!-- yes, if wide image, otherwise leave blank -->
+| alt             =
+| caption         =
+| birth_name      =
+| birth_place     = [[Waco, Texas]]
+| origin          = [[Lorena, Texas]]
+| occupation      = Singer, Songwriter
+| instrument      = Vocals, Guitar
+| years_active    = 2012–present
+| label           = [[Arista Nashville]]
+| website         = www.kristenkellymusic.com
+| associated_acts = 
+}}
+
+'''Kristen Kelly''' is an American [[country music]] singer from [[Lorena, Texas]]. While signed to [[Arista Nashville]] she released her debut single, "Ex-Old Man". The song was the first from her self titled ep, produced by [[Tony Brown (record producer)|Tony Brown]] and [[Paul Overstreet]].<ref>{{cite web|url=http://www.aristanashville.com/artists/kristen-kelly |title=Kristen Kelly |publisher=Arista Nashville |date= |accessdate=2012-11-19}}</ref> "Ex-Old Man" was the number one most added debut song at country radio for a female artist and was Kelly’s first TOP 30 single. Radio Country Universe gave the song a B+, praising the sound as "back-to-basics".<ref>{{cite web|last=Foster |first=Ben |url=http://www.countryuniverse.net/2012/05/12/single-review-kristen-kelly-ex-old-man/ |title=Country Universe – A Country Music Blog » Single Review: Kristen Kelly, "Ex-Old Man" |publisher=Countryuniverse.net |date=2012-05-12 |accessdate=2012-11-19}}</ref> It debuted at number 60 on the [[Hot Country Songs]] chart dated May 12, 2012.<ref>{{cite web|author=Written by Edward Morris |url=http://www.cmt.com/news/country-music/1684475/rascal-flatts-banjo-rings-as-weeks-top-song.jhtml |archive-url=https://web.archive.org/web/20120508223130/http://www.cmt.com/news/country-music/1684475/rascal-flatts-banjo-rings-as-weeks-top-song.jhtml |url-status=dead |archive-date=May 8, 2012 |title=News : Rascal Flatts' "Banjo" Rings as Week's Top Song |publisher=CMT |date=2012-05-05 |accessdate=2012-11-19}}</ref>
+
+That same year Kristen was a member of the first class of female artists inducted into CMT's Next Women of Country campaign which shines a spotlight on the newest ladies of country music.
+
+Kelly has played the Grand Ole Opry and toured with some of country music's biggest names including [[Brad Paisley]]'s 2012 Virtual Reality World Tour<ref>{{cite web|author=|url=http://www.cmt.com/news/news-in-brief/1684507/brad-paisley-adds-three-newcomers-to-tour.jhtml |archive-url=https://web.archive.org/web/20120508095548/http://www.cmt.com/news/news-in-brief/1684507/brad-paisley-adds-three-newcomers-to-tour.jhtml |url-status=dead |archive-date=May 8, 2012 |title=News : Brad Paisley Adds Three Newcomers to Tour |publisher=CMT |date=2012-05-04 |accessdate=2012-11-19}}</ref>  Rascal Flatts, Alan Jackson, Sheryl Crow, The Band Perry, Willie Nelson, Gary Allan, Dierks Bentley, Jake Owen and more.
+
+Kelly independently released her FIRE ep in 2015 and has released 3 new singles in 2020: “Ashes” which was on Season 7 episode 1 of the Netflix show The Ranch, “Country Music” featuring Craig Campbell and “Thank God For The Neon.”
+
+==Discography==
+
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:10em;"| Title
+! style="width:18em;"| Details
+|-
+! scope="row"| ''Kristen Kelly''<ref>{{cite news|title=Kristen Kelly, "Ex-Old Man" Singer, Plans EP|url=http://www.cmt.com/news/news-in-brief/1695276/kristen-kelly-ex-old-man-singer-plans-ep.jhtml|archive-url=https://web.archive.org/web/20121018030719/http://www.cmt.com/news/news-in-brief/1695276/kristen-kelly-ex-old-man-singer-plans-ep.jhtml|url-status=dead|archive-date=October 18, 2012|accessdate=October 11, 2012|newspaper=[[Country Music Television]]|date=October 10, 2012}}</ref>
+| 
+* Release date: October 30, 2012
+* Label: [[Arista Nashville]]
+|-
+! scope="row"| ''Fire''
+| 
+* Release date: June 9, 2015
+* Label: self-released
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:16em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! style="width:45px;"| [[Hot Country Songs|US Country]]<br /><ref>{{cite magazine|url={{BillboardURLbyName|artist=kristen kelly|chart=Country Songs}}|title=Kristen Kelly Album & Song Chart History - Country Songs|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=November 8, 2012}}</ref>
+! style="width:45px;"| [[Country Airplay|US Country Airplay]]<br /><ref>{{cite magazine|url={{BillboardURLbyName|artist=kristen kelly|chart=Country Airplay}} |title=Kristen Kelly Album & Song Chart History - Country Airplay |magazine=[[Billboard (magazine)|Billboard]] |publisher=[[Prometheus Global Media]] |accessdate=November 8, 2012 |url-status=dead |archiveurl=https://www.webcitation.org/628q51XQN?url=http://www.billboard.com/#/artist/Rihanna/chart-history/658897?f=793&g=Singles |archivedate=October 2, 2011 }}</ref>
+|- 
+| 2012
+! scope="row"| "[[Ex-Old Man]]"
+| 30
+| 28
+| style="text-align:left;" rowspan="2"| ''Kristen Kelly''
+|- 
+| 2013
+! scope="row"| "He Loves to Make Me Cry"
+| —
+| 54
+|-
+| 2014
+! scope="row"| "Kiss by Kiss"
+| —
+| —
+| style="text-align:left;" rowspan="2"| ''Fire''
+|-
+| 2015
+! scope="row"| "Fire"
+| —
+| —
+|-
+|2020
+|“Ashes”
+|
+|
+|
+|-
+|2020
+|“Country Music” featuring Craig Campbell
+|
+|
+| rowspan="2" |Something Worth Saying, PT. 1
+|-
+|2020
+|“Thank God For The Neon” 
+|
+|
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:16em;"| Video
+! Director
+|- 
+| 2012
+! scope="row"| "Ex-Old Man"<ref>{{cite web|url=http://www.cmt.com/videos/kristen-kelly/825718/ex-old-man.jhtml|archive-url=https://web.archive.org/web/20120818001949/http://www.cmt.com/videos/kristen-kelly/825718/ex-old-man.jhtml|url-status=dead|archive-date=August 18, 2012|title=CMT : Videos : Kristen Kelly : Ex-Old Man|publisher=[[Country Music Television]]|accessdate=August 13, 2012}}</ref>
+| rowspan="2"| [[Anna Mastro]]
+|- 
+| 2013
+! scope="row"| "He Loves to Make Me Cry"<ref>{{cite news|title=CMT/CMT.com Music Premieres For March 11 – March 17|url=http://press.cableu.tv/cmtcmt-com-music-premieres-for-march-11-march-17/|accessdate=March 17, 2013|newspaper=[[CableU]]|date=March 11, 2013}}</ref>
+|- 
+| 2014
+! scope="row"| "Kiss by Kiss"<ref>{{cite web|url=http://www.cmt.com/videos/kristen-kelly/1092582/kiss-by-kiss.jhtml|archive-url=https://web.archive.org/web/20141022145127/http://www.cmt.com/videos/kristen-kelly/1092582/kiss-by-kiss.jhtml|url-status=dead|archive-date=October 22, 2014|title=CMT : Videos : Kristen Kelly : Kiss by Kiss|publisher=[[Country Music Television]]|accessdate=October 22, 2014}}</ref>
+| Zack Morris
+|- 
+| 2016
+! scope="row"| "Fire"<ref>{{cite web|url=http://www.cmt.com/videos/kristen-kelly/1513571/fire.jhtml|archive-url=https://web.archive.org/web/20160817213621/http://www.cmt.com/videos/kristen-kelly/1513571/fire.jhtml|url-status=dead|archive-date=August 17, 2016|title=CMT : Videos : Kristen Kelly : Fire|publisher=[[Country Music Television]]|accessdate=August 8, 2016}}</ref>
+| Skylar Sprague
+|}
+
+==References==
+{{Reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Kelly, Kristen}}
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Arista Nashville artists]]
+[[Category:Living people]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:Year of birth missing (living people)]]
+[[Category:People from Lorena, Texas]]
+[[Category:Country musicians from Texas]]
+[[Category:21st-century American women]]
+
+
+{{US-country-singer-stub}}

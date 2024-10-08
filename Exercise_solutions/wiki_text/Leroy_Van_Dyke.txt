@@ -1,0 +1,299 @@
+{{short description|American singer-songwriter (born 1929)}}
+{{BLP refimprove|date=July 2023}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject Musicians -->
+| name              = Leroy Van Dyke
+| image             = 
+| caption           = 
+| image_size        = <!-- Only for images smaller than 220 pixels -->
+| background        = solo_singer
+| birth_name        = Leroy Frank Van Dyke
+| birth_date        = {{birth date and age|1929|10|4|mf=y}}
+| birth_place       = [[Mora, Missouri]], U.S.
+| origin            = 
+| instrument        = {{flatlist|
+* Vocals
+* guitar
+}}
+| genre             = {{flatlist|
+* [[Country music|Country]]
+* [[honky-tonk]]
+* [[rockabilly]]
+}}
+| occupation        = {{flatlist|
+* Singer
+* guitarist
+}}
+| years_active      = 1956–present
+| label             = {{flatlist|
+* [[Dot Records|Dot]]
+* [[Mercury Records|Mercury]]
+}}
+| associated_acts   = 
+| website           = {{URL|https://www.leroyvandyke.com/}}
+}}
+
+'''Leroy Frank Van Dyke''' (born October 4, 1929) is an American [[country music]] and honky-tonk singer and guitarist, best known for his hits "[[The Auctioneer]]" (1956) and "[[Walk On By (Leroy Van Dyke song)|Walk on By]]" (1961).
+
+==Biography==
+
+Van Dyke was born in [[Mora, Missouri]]. He lived in Spencer, Wisconsin, and graduated from the University of Missouri majoring in agricultural journalism.<ref name="The Book of Golden Discs">{{cite book
+| first= Joseph
+| last= Murrells
+| year= 1978
+| title= The Book of Golden Discs
+| edition= 2nd
+| publisher= Barrie and Jenkins Ltd
+| location= London
+| page= [https://archive.org/details/bookofgoldendisc00murr/page/87 87]
+| isbn= 0-214-20512-6
+| url-access= registration
+| url= https://archive.org/details/bookofgoldendisc00murr/page/87
+}}</ref> He was catapulted into country music fame in 1956 with his composition "The Auctioneer", co-written with Buddy Black, which sold over 2.5 million records.<ref name="The Book of Golden Discs"/> He wrote the song about the life of his cousin, [[National Auctioneers Association]] Hall of Famer Ray Sims, also a Missourian. Van Dyke had the lead role of a budding country music performer in the 1967 movie ''What Am I Bid?'' in which Sims played himself as an auctioneer.<ref name="The Book of Golden Discs"/>
+
+In his 50 years-plus career, Van Dyke has recorded more than 500 songs, dozens of them making the charts. His record of "Walk on By" (1961) was named by ''[[Billboard (magazine)|Billboard]]'' magazine in 1994 as the biggest country single of all time, based on sales, plays, and weeks in the charts.<ref>{{Cite web|last=Randy McDaniel|title=LeRoy Van Dyke's Biggest Hit Was 'Walk On By'|url=https://kxrb.com/forgotten-classic-leroy-van-dyke-walk-on-by/|access-date=2020-06-24|website=KXRB 1140 AM/100.1 FM|language=en}}</ref> It stayed at number one in the U.S. country chart for 19 weeks, and in all, charted for 42 weeks, reaching number five on the pop listings. It sold more than 1.5 million copies.<ref name="The Book of Golden Discs"/>
+
+Other Van Dyke hits were "If a Woman Answers", "Black Cloud", "Big Man in a Big House", "Anne of a Thousand Days", "Happy to Be Unhappy", "Night People", "Be a Good Girl", "Dim Dark Corner", "Five Steps Away", "How Long Must You Keep Me a Secret", "Afraid of a Heartache", "Big Wide Wonderful World of Country Music", "Birmingham", "Just a State of Mind", "Mr. Professor", "My World Is Caving In", "The Other Boys Are Talking", "Poor Guy", "Roses from a Stranger", "Texas Tea", "Who’s Gonna Run the Truck Stop in Tuba City When I’m Gone", "Wrong Side of the Tracks", "Your Daughter Cried All Night", "Your Money", and "The Life You Offered Me".
+
+In the [[UK Singles Chart]] Van Dyke had two hits: "Walk on By" reached number five in February 1962, and "Big Man in a Big House" made number 34 in May that year.<ref name="British Hit Singles & Albums">{{cite book
+| first= David
+| last= Roberts
+| year= 2006
+| title= British Hit Singles & Albums
+| edition= 19th
+| publisher= Guinness World Records Limited 
+| location= London
+| isbn= 1-904994-10-5
+| page= 580}}</ref>
+
+He was a cast member in the late 1950s on ''[[Ozark Jubilee]]'', and was co-host, with [[Bill Mack (singer)|Bill Mack]], of the Southern Baptist Radio/TV Commission-produced ''Country Crossroads'' radio show for 10 years, and was joined by a third co-host [[Jerry Clower]]. It became the most widely syndicated radio show in country music history.{{Citation needed|date=January 2009}}
+
+Van Dyke continues a performance schedule, traveling from his office/home complex on his 1,000-acre (4&nbsp;km<sup>2</sup>) ranch in west-central Missouri near [[Sedalia, Missouri]]. He is a member of the National Auctioneers Association Hall of Fame, is active in many music industry organizations, and as a sideline, raises premium quality Arabian mules. All aspects of Leroy Van Dyke Enterprises are managed by his wife Gladys, a former legal secretary and court reporter. Their son Ben plays lead guitar in all Van Dyke performances. Van Dyke is also a [[Korean War]] veteran.
+
+==Discography==
+===Albums===
+{| class="wikitable"
+! Year
+! Album
+! Label
+|-
+| rowspan="2"| 1962
+| ''Walk On By''
+| rowspan="5"| Mercury
+|-
+| ''Movin' Van Dyke''
+|-
+| 1963
+| ''The Great Hits''
+|-
+| rowspan="2"| 1964
+| ''Songs for Mom and Dad''
+|-
+| ''At the Trade Winds''
+|-
+| rowspan="3"| 1965
+| ''Out of Love''
+| Wing
+|-
+| ''Walk on By''
+| Mt. Dew
+|-
+| ''The Leroy Van Dyke Show''
+| rowspan="2"| Warner Bros.
+|-
+| rowspan="3"| 1966
+| ''Country Hits''
+|-
+| ''Movin''
+| Wing
+|-
+| ''Auctioneer''
+| Dot
+|-
+| rowspan="2"| 1967
+| ''Have a Party''
+| Mt. Dew
+|-
+| ''What Am I Bid''
+| MGM
+|-
+| 1968
+| ''Lonesome Is''
+| rowspan="3"| Kapp
+|-
+| rowspan="3"| 1969
+| ''Greatest Hits''
+|-
+| ''Just a Closer Walk with Thee''
+|-
+| ''I've Never Been Loved Before''
+| Harmony
+|-
+| 1972
+| ''Greatest Hits''
+| Decca
+|-
+| 1973
+| ''Golden Hits''
+| Sun
+|-
+| 1975
+| ''Just for You''
+| Dot
+|-
+| 1977
+| ''Gospel Greats''
+| rowspan="2"| Plantation
+|-
+| 1978
+| ''Rock Relics''
+|-
+| 1982
+| ''Cross Section''
+| rowspan="2"| [[Audiograph]]
+|-
+| 1983
+| ''Audiograph Live''
+|}
+
+===Singles===
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="2"| Chart Positions
+! rowspan="2"| Album
+|-
+! width="50"| {{small|[[Hot Country Songs|US Country]]}}
+! width="50"| {{small|[[Billboard Hot 100|US]]}}<br /><ref name="whitburn2010">{{cite book|last=Whitburn|first=Joel|title=Top Pop Singles 1955–2010|publisher=Record Research, Inc|page=935|year=2011|isbn=0-89820-188-8}}</ref>
+|-
+| 1956
+| "[[The Auctioneer]]"
+| align="center"| 9
+| align="center"| 19
+| single only
+|-
+| 1961
+| "[[Walk On By (Leroy Van Dyke song)|Walk on By]]"
+| align="center"| 1
+| align="center"| 5
+| ''Walk On By''
+|-
+| rowspan="2"| 1962
+| "If a Woman Answers (Hang Up the Phone)"
+| align="center"| 3
+| align="center"| 35
+| ''Movin' Van Dyke''
+|-
+| "Black Cloud"
+| align="center"| 16
+| 
+| ''The Great Hits''
+|-
+| rowspan="2"| 1964
+| "Happy to Be Unhappy"
+| align="center"| 54
+| 
+| rowspan="4"| singles only
+|-
+| "Night People"
+| align="center"| 45
+| 
+|-
+| 1965
+| "Anne of a Thousand Days"
+| align="center"| 40
+| 
+|-
+| rowspan="2"| 1966
+| "You Couldn't Get My Love Back (if You Tried)"
+| 
+| align="center"| 120
+|-
+| "Roses from a Stranger"
+| align="center"| 34
+| 
+| rowspan="3"| ''I've Never Been Loved Before''
+|-
+| 1967
+| "I've Never Been Loved"
+| align="center"| 66
+| 
+|-
+| rowspan="2"| 1968
+| "Louisville"
+| align="center"| 23
+| 
+|-
+| "You May Be Too Much for Memphis, Baby"
+| align="center"| 69
+| 
+| ''Lonesome Is''
+|-
+| 1969
+| "Crack in My World"
+| align="center"| 56
+| 
+| rowspan="8"| singles only
+|-
+| rowspan="2"| 1970
+| "An Old Love Affair, Now Showing"
+| align="center"| 63
+| 
+|-
+| "Mister Professor"
+| align="center"| 71
+| 
+|-
+| 1971
+| "I Get Lonely When It Rains"
+| align="center"| 62
+| 
+|-
+| 1972
+| "I'd Rather Be Wantin' Love"
+| align="center"| 69
+| 
+|-
+| 1975
+| "Unfaithful Fools"
+| align="center"| 79
+| 
+|-
+| 1976
+| "Who's Gonna Run the Truck Stop in<br />Tuba City When I'm Gone?"
+| align="center"| 75
+| 
+|-
+| 1977
+| "Texas Tea"
+| align="center"| 77
+| 
+|}
+
+==Awards==
+In 1967, Leroy Van Dyke was awarded the Founding President's Award (formerly Connie B. Gay Award) from the [[Country Music Association]].<ref>[http://www.cmaworld.com/info/about/honors#founding-president-award Founding President's Award (formerly Connie B. Gay Award)] {{webarchive|url=https://web.archive.org/web/20120919192211/http://www.cmaworld.com/info/about/honors |date=2012-09-19 }} CMAWorld.com</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|http://www.leroyvandyke.com/}}
+*[{{AllMusic|class=artist|id=p21229/biography|pure_url=yes}} Allmusic.com]
+*Dauphin, Chuck. [http://www.billboard.com/articles/columns/the-615/6472982/leroy-van-dyke-opens-up-on-his-career-doubters-the-road-ahead ''Leroy Van Dyke Opens-Up on His Career, Doubters & the Road Ahead''] [[Billboard (magazine)|Billboard]], February 16, 2015.
+
+{{Grand Ole Opry members}}
+{{Authority control}}
+
+{{DEFAULTSORT:Van Dyke, Leroy}}
+[[Category:1929 births]]
+[[Category:Living people]]
+[[Category:People from Benton County, Missouri]]
+[[Category:American country singer-songwriters]]
+[[Category:Singer-songwriters from Missouri]]
+[[Category:American male singer-songwriters]]
+[[Category:Grand Ole Opry members]]
+[[Category:American people of Dutch descent]]
+[[Category:Members of the Country Music Association]]
+[[Category:Country musicians from Missouri]]
+[[Category:Dot Records artists]]
+[[Category:Mercury Records artists]]
+[[Category:Audiograph artists]]

@@ -1,0 +1,140 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Philip Claypool
+| image               = Philip Claypool, 2013, HeyDay, I'm Gonna Lie.jpg
+| caption             = Philip Claypool 2013
+| image_size          = 
+| background          = solo_singer
+| birth_date          = 
+| origin              = [[Memphis, Tennessee]], United States
+| instrument          = Vocals, guitar
+| genre               = [[Country music|Country]]
+| occupation          = Singer-songwriter
+| years_active        = 1995&ndash;present
+| label               = [[Curb Records|Curb]], HeyDay Productions
+| website             = {{URL|www.philipclaypool.com/home/}}
+}}
+'''Philip Kennard Claypool''' (born in [[Memphis, Tennessee]]) is an American [[country music]] artist. Between 1995 and 1999, he recorded two studio albums for the [[Curb Records]] label (1995's ''A Circus Leaving Town'' and 1999's ''Perfect World''), in addition to charting four singles on the ''[[Billboard (magazine)|Billboard]]'' Hot Country Singles & Tracks (now [[Hot Country Songs]]) charts. His highest-charting single was a cover of [[Bad Company]]'s 1975 hit "Feel Like Makin' Love."
+
+==Biography==
+Philip Claypool was born and raised in [[Memphis, Tennessee]].<ref name="oldies">{{cite web |url=http://www.oldies.com/artist-biography/Philip-Claypool.html |title=Philip Claypool biography |accessdate=July 31, 2008 |work=oldies.com}}</ref> His mother, a church organist, influenced him to take interest in [[gospel music]].<ref name="oldies"/> By the time he was in high school, Claypool had begun writing songs as well, and by age 21, he had made his first professional performance.<ref name="modern">{{cite journal |last=Rutkoski |first=Rick |date=August 1996 |title=Philip Claypool: Left of Center |journal=Modern Screen's Country Music |volume=90 |issue=6 |pages=46&ndash;47 }}</ref>
+
+By 1995, Claypool had signed to [[Curb Records]] as a recording artist.<ref name="allmusic">{{cite web |url={{AllMusic|class=artist|id=p169638/biography|pure_url=yes}} |title=Philip Claypool biography |accessdate=July 31, 2008 |last=Ankeny |first=Jason |work=[[Allmusic]]}}</ref> Working with producer [[Jerry Crutchfield]], he released his debut album ''A Circus Leaving Town'' that same year. This album produced four chart singles on the ''[[Billboard (magazine)|Billboard]]'' Hot Country Singles & Tracks charts (now [[Hot Country Songs]]). Among these were the title track (which was later recorded by [[Travis Tritt]] on his 2004 album ''[[My Honky Tonk History]]'') and Claypool's highest-charting hit, a cover of British band [[Bad Company]]'s 1975 single "Feel Like Makin' Love".<ref name="cst"/>
+
+Claypool's debut album received a three-star rating from [[Stephen Thomas Erlewine]] of [[Allmusic]], who called it "a diverse collection [b]uilding on a solid contemporary base", with "intriguing" production that "sav[ed] even the weakest tracks".<ref>{{cite web |url={{AllMusic|class=album|id=r229251|pure_url=yes}} |title=A Circus Leaving Town &mdash; Overview |accessdate=July 31, 2008 |last=Erlewine |first=Stephen Thomas |work=Allmusic}}</ref> Dan Kuchar of ''[[Country Standard Time]]'' noted Claypool's "leather and velvet" voice but said that, except for the Bad Company cover and one other song, the material was largely "tired, cliché-laden… [and] devoid of any hooks".<ref name="cst">{{cite web |url=http://www.countrystandardtime.com/d/cdreview.asp?xid=3460 |title=A Circus Leaving Town |accessdate=July 31, 2008 |last=Kuchar |first=Dan |work=Country Standard Time}}</ref> Claypool himself described the album as being "left of center". In a 1996 interview with ''Modern Screen's Country Music'' magazine, he called it "more mature" but "a little distanced from what is happening radio-wise".<ref name="modern"/>
+
+Claypool also recorded a song for the soundtrack to the 1998 film ''[[Major League: Back to the Minors]]'' His self-produced second album, ''Perfect World'', was released in 1999,<ref name="allmusic"/> although it contained no chart singles and mostly comprised material from his first album. In late 2012, Claypool recorded his first album in over a decade. Scheduled to be released in 2013, it was produced by Michael Lloyd. The first single from the album, "I'm Gonna Lie", was released on March 18, 2013.
+
+Claypool is now the resident musician at Southend Brewery and Smokehouse in Charleston, South Carolina, home of the Big Pig and celebrity chef Orlando Barrera.<ref>{{cite web | url=http://southendbrewery.com/event-space/music-calendar/ | title=Southend Best Restaurant Charleston SC &#124; Dining &#124; Bar &#124; Brewery Downtown }}</ref>
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:14em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''A Circus Leaving Town''
+| 
+* Release date: November 21, 1995
+* Label: [[Curb Records]]
+|-
+! scope="row"| ''Perfect World''
+| 
+* Release date: July 6, 1999
+* Label: Curb Records
+|-
+! scope="row"| ''Come On Back Home''
+| 
+* Release date: June 19, 2014
+* Label: Heyday Records
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]<br /><ref>{{cite web |url=http://mikecurb.com/about/pdf/billboard_charted_singles.pdf |title=Billboard charted singles (page 12) |accessdate=August 6, 2008 |work=Mike Curb.com}}</ref>
+|-
+| rowspan="2"| 1995
+! scope="row"| "Swingin' on My Baby's Chain"
+| 71
+| align="left" rowspan="4"| ''A Circus Leaving Town''
+|-
+! scope="row"| "[[Feel Like Makin' Love (Bad Company song)|Feel Like Makin' Love]]"
+| 60
+|-
+| rowspan="2"| 1996
+! scope="row"| "The Strength of a Woman"
+| 73
+|-
+! scope="row"| "Circus Leaving Town"
+| 70
+|-
+| 1998
+! scope="row"| "Looking Up from a Long Way Down"
+| —
+| align="left"| ''[[Major League: Back to the Minors]]'' <small>(soundtrack)</small>
+|-
+| rowspan="2"| 2013
+! scope="row"| "I'm Gonna Lie"
+| —
+| align="left" rowspan="4"| ''Come On Back Home''
+|-
+! scope="row"| "Strong One"
+| —
+|-
+| 2014
+! scope="row"| "Come On Back Home"
+| —
+|-
+| 2015
+! scope="row"| "Three More Beers"
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:20em;"| Video
+! Director
+|-
+| rowspan="2"| 1995
+! scope="row"| "Swingin' on My Baby's Chain"<ref>{{cite web|url=http://www.cmt.com/videos/philip-claypool/384836/swingin-on-my-babys-chain.jhtml|archive-url=https://archive.today/20120730210943/http://www.cmt.com/videos/philip-claypool/384836/swingin-on-my-babys-chain.jhtml|url-status=dead|archive-date=July 30, 2012|title=CMT : Videos : Philip Claypool : Swingin' On My Baby's Chain|publisher=[[Country Music Television]]|accessdate=October 14, 2011}}</ref>
+| Roger Pistole
+|-
+! scope="row"| "The Strength of a Woman"
+| Chris Rogers
+|-
+| 1998
+! scope="row"| "Looking Up from a Long Way Down"
+| 
+|-
+| 2014
+! scope="row"| "Jack Daniel and Mr. Jim Beam"
+|-
+| 2015
+! scope="row"| "Three More Beers"
+|}
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Claypool, Philip}}
+[[Category:American country singer-songwriters]]
+[[Category:Singers from Memphis, Tennessee]]
+[[Category:Curb Records artists]]
+[[Category:Living people]]
+[[Category:Singer-songwriters from Tennessee]]
+[[Category:Country musicians from Tennessee]]
+[[Category:Year of birth missing (living people)]]

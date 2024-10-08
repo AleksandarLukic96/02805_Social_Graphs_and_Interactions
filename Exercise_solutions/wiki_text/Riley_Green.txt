@@ -1,0 +1,348 @@
+{{short description|American singer/songwriter}}
+{{otheruses}}
+{{Infobox musical artist
+| name             = Riley Green
+| image            = Welcome Riley Green (7) (cropped).jpg
+| caption          = Green in 2022
+| image_upright    = 
+| image_size       = 
+| landscape        = 
+| birth_name       = 
+| birth_date       = {{Birth date and age|mf=yes|1988|10|18}}
+| birth_place      = [[Jacksonville, Alabama]], U.S.
+| origin           = 
+| genre            = [[Country music|Country]]
+| occupation       = {{flatlist|
+* Singer
+* songwriter
+}}
+| instrument       = {{flatlist|
+* Vocals
+* guitar
+}}
+| years_active     = 2013–present
+| label            = [[Nashville Harbor Records & Entertainment|Nashville Harbor]]
+}}
+'''Riley Green''' (born October 18, 1988) is an American [[country music]] singer and songwriter. Signed to [[Nashville Harbor Records & Entertainment]] (formerly BMLG) since 2019, he has released two albums: ''[[Different 'Round Here]]'' in 2019 and ''[[Ain't My Last Rodeo]]'' in 2023. Green has charted four top-20 hits on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] and [[Country Airplay]] charts: "[[There Was This Girl]]", "[[I Wish Grandpas Never Died]]", "[[Half of Me (Thomas Rhett and Riley Green song)|Half of Me]]" (with [[Thomas Rhett]]), and "[[Different 'Round Here (song)|Different 'Round Here]]" (with [[Luke Combs]]).
+
+==Music career==
+
+Before he was a recording artist, Green was a Division 1 FCS Quarterback on the  [[Jacksonville State University]] football team. Green was also a contestant on the [[CMT (U.S. TV channel)|CMT]] reality show ''Redneck Island''. He released a self-titled EP in 2013, followed by additional EPs in 2015, 2016, and 2017. In 2018, he signed to the [[Big Machine Records|Big Machine Label Group]].<ref>{{cite web | url=https://www.allmusic.com/artist/riley-green-mn0003672594/biography | title=Riley Green biography | work=Allmusic | accessdate=October 17, 2018}}</ref><ref>{{cite web | url=https://www.bigmachinelabelgroup.com/news/bmlg-records-signs-riley-green | title=BMLG RECORDS SIGNS RILEY GREEN | work=Big Machine Label Group | date=22 February 2018 | accessdate=May 4, 2019}}</ref>
+
+Billy Dukes of ''[[Taste of Country]]'' reviewed "There Was This Girl" favorably, comparing its theme to "[[Chicks Dig It]]" by [[Chris Cagle]] and noting the more [[neotraditional country]] influence compared to Green's peers.<ref>{{cite web | url=http://tasteofcountry.com/riley-green-there-was-this-girl/ | title=Don't quit on Riley Green's 'There Was This Girl' [Listen] | work=Taste of Country | date=9 August 2018 | accessdate=October 17, 2018}}</ref> The song charted on [[Country Airplay]], and a music video was shot in October 2018.<ref>{{cite web | url=http://tasteofcountry.com/riley-green-there-was-this-girl-video/ | title=Riley Green's 'There Was This Girl' video comes together thanks to screaming fans | work=Taste of Country | date=15 October 2018 | accessdate=October 17, 2018}}</ref>
+
+In April 2019, Green announced the release of his second single, "In Love by Now", co-written with [[Rhett Akins]], [[Ben Hayslip]], and [[Marv Green]], and released an accompanying music video shot in Belize.<ref>{{cite web | url=https://www.whiskeyriff.com/2019/04/15/riley-green-announces-new-single-in-love-by-now-following-his-first-1/ | title=Riley Green Announces New Single "In Love By Now", following his first #1 | work=Whiskey Riff | date=15 April 2019 | accessdate=May 4, 2019}}</ref><ref>{{cite magazine | url=https://www.billboard.com/articles/columns/country/8507760/riley-green-in-love-by-now-video | title=Riley Green's 'In Love By Now' Video: Exclusive | magazine=Billboard | accessdate=May 4, 2019}}</ref>
+
+"[[I Wish Grandpas Never Died]]" was released in August 2019 as the third single from Green's debut album, ''[[Different 'Round Here]]'', which was released on September 20, 2019.<ref>{{cite web|url=https://tasteofcountry.com/riley-green-different-round-here-new-album/|title=Riley Green Announces Different 'Round Here Album|author=Billy Dukes|date=August 2, 2019|work=Taste of Country|accessdate=August 6, 2019}}</ref>
+
+The Academy of Country Music presented Riley Green with the New Male Artist of the Year Award for 2019.<ref>web|url= https://www.acmcountry.com/winners?awardTitle=&awardCategory=New+Male+Artist+of+the+Year&awardYear=2019&actionButton=Submit</ref>
+
+He collaborated on a song with [[Justin Moore]] for his 2023 album, ''Stray Dog''.<ref>{{cite web | url=https://www.whiskeyriff.com/2023/03/28/justin-moore-says-collaboration-with-riley-green-everybody-get-along-is-dropping-this-friday/ | title=Justin Moore Says Collaboration With Riley Green, "Everybody Get Along," Is Dropping This Friday | publisher=Whiskey Riff | date=March 28, 2023 | accessdate=April 14, 2023}}</ref>
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+List of studio albums, with selected details, peak chart positions and certifications
+! scope="col" rowspan="2" style="width:12em;"| Title
+! scope="col" rowspan="2" style="width:18em;"| Details
+! scope="col" colspan="2"| Peak chart positions
+! scope="col" rowspan="2" style="width:10em;"| Certifications
+|-style="font-size:smaller;"
+! scope="col" style="width:4em;"| [[Billboard 200|US]]<br /><ref name=billboard200>{{cite magazine |url=https://www.billboard.com/artist/riley-green/chart-history/tlp/ |title=Riley Green Chart History: Billboard 200 |magazine=Billboard |access-date=April 23, 2024}}</ref>
+! scope="col" style="width:4em;"| [[Top Country Albums|US Country]]<br /><ref name="country albums">{{cite magazine |url=https://www.billboard.com/artist/riley-green/chart-history/clp/ |title=Riley Green Chart History: Top Country Albums |magazine=Billboard |access-date=April 23, 2024}}</ref>
+|-
+! scope="row"| ''[[Different 'Round Here]]''
+|
+* Release date: September 20, 2019
+* Label: [[Nashville Harbor Records & Entertainment|Nashville Harbor]]
+* Format: CD, [[Music download|digital download]], [[Streaming media|streaming]]
+| 95 || 11 
+|
+*RIAA: Gold<ref>{{Cite web |title=Gold & Platinum |url=https://www.riaa.com/gold-platinum/?tab_active=default-award&se=Riley+Green#search_section |access-date=2023-10-24 |website=RIAA |language=en-US}}</ref>
+|-
+! scope="row"| ''[[Ain't My Last Rodeo]]''
+|
+* Release date: October 13, 2023
+* Label: Nashville Harbor
+* Format: CD, digital download, streaming
+| 79 || 15
+|
+|-
+! scope="row"| ''Don't Mind If I Do''
+|
+* Scheduled: October 18, 2024
+* Label: Nashville Harbor
+* Format: CD, digital download, streaming
+| colspan="3"| To be released<ref>{{cite web|url=https://holler.country/news/breaking/riley-green-slates-new-album-don-t-mind-if-i-do-for-october/|title=Riley Green Slates New Album, 'Don't Mind If I Do,' for October|author=Lydia Farthing|date=September 3, 2024|website=Holler|access-date=September 3, 2024}}</ref>
+|}
+
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+List of EPs, with selected details and peak chart positions
+! scope="col" rowspan="2" style="width:12em;"| Title
+! scope="col" rowspan="2" style="width:15em;"| Details
+! scope="col" colspan="4"| Peak chart positions
+|-style="font-size:smaller;"
+! scope="col" style="width:4em;"| [[Billboard 200|US]]<br /><ref name=billboard200/>
+! scope="col" style="width:4em;"| [[Heatseekers Albums|US Heat]]<br /><ref name="heatseekers albums">{{cite magazine |url=https://www.billboard.com/artist/riley-green/chart-history/tln/ |title=Riley Green Chart History: Heatseekers Albums |magazine=Billboard |access-date=July 13, 2021}}</ref>
+! scope="col" style="width:4em;"| [[Top Country Albums|US Country]]<br /><ref name="country albums"/>
+! scope="col" style="width:4em;"| [[Independent Albums|US Indie]]<br /><ref>{{cite magazine |url=https://www.billboard.com/artist/riley-green/chart-history/ind/ |title=Riley Green Chart History: Independent Albums |magazine=Billboard |access-date=April 23, 2024}}</ref>
+|-
+! scope="row"| ''Outlaws Like Us''
+|
+* Release date: August 2017
+* Label: Self-released
+* Format: Digital download, streaming
+| —
+| 5
+| —
+| 24
+|-
+! scope="row"| ''Riley Green''<ref>{{cite web | url=https://music.apple.com/nz/album/riley-green-ep/1391486385 | title=''Riley Green'' EP | publisher=Apple Music | accessdate=April 2, 2022}}</ref>
+| 
+* Release date: June 1, 2018
+* Label: Nashville Harbor
+* Format: Digital download, streaming
+| —
+| —
+| —
+| —
+|-
+! scope="row"| ''In a Truck Right Now''
+|
+* Release date: June 29, 2018
+* Label: Nashville Harbor
+* Format: Digital download, streaming
+| —
+| 3
+| —
+| —
+|-
+! scope="row"| ''Get That Man a Beer''<ref>{{cite web |url=http://abcnewsradioonline.com/music-news/2019/5/24/riley-green-will-get-that-man-a-beer-to-toast-his-new-ep.html |title=Riley Green will "Get That Man a Beer" to toast his new EP |work=ABC News Radio |date=May 24, 2019 }}</ref>
+|
+* Release date: June 14, 2019
+* Label: Nashville Harbor
+* Format: Digital download, streaming
+| —
+| 8
+| —
+| —
+|-
+! scope="row"| ''Behind the Bar''
+|
+* Release date: July 2, 2021
+* Label: Nashville Harbor
+* Format: Digital download, streaming
+| 122
+| —
+| 18
+| —
+|-
+! scope="row"| ''[[Way Out Here (EP)|Way Out Here]]''
+|
+* Release date: April 12, 2024
+* Label: Nashville Harbor
+* Format: Digital download, streaming
+| 149
+| —
+| 29
+| 23
+|-
+| colspan="7" style="font-size:85%"| "—" denotes releases that did not chart
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+List of singles, with selected peak chart positions and certifications shown
+! scope="col" rowspan="2"| Year
+! scope="col" rowspan="2" style="width:15em;"| Title
+! scope="col" colspan="5"| Peak chart positions
+! scope="col" rowspan="2"| Certifications
+! scope="col" rowspan="2"| Album
+|- style="font-size:smaller;"
+! scope="col" width="45"| [[Billboard Hot 100|US]]<br /><ref name="Hot 100">{{cite magazine | url=https://www.billboard.com/artist/riley-green/chart-history/hsi/ | title=Riley Green Chart History: Billboard Hot 100 | magazine=Billboard | accessdate=September 24, 2024}}</ref>
+! scope="col" width="45"| [[Hot Country Songs|US Country Songs]]<br /><ref name="Country Songs">{{cite magazine | url=https://www.billboard.com/artist/riley-green/chart-history/csi/ | title=Riley Green Chart History: Country Songs | magazine=Billboard | accessdate=September 24, 2024}}</ref>
+! scope="col" width="45"| [[Country Airplay|US Country Airplay]]<br /><ref name="Country Airplay">{{cite magazine | url=https://www.billboard.com/artist/riley-green/chart-history/csa/ | title=Riley Green Chart History: Country Airplay | magazine=Billboard | accessdate=September 28, 2024}}</ref>
+! scope="col" width="45"| [[Canadian Hot 100|CAN]]<br /><ref name="Canadian Hot 100">{{cite magazine | url=https://www.billboard.com/artist/riley-green/chart-history/can/ | title=Riley Green Chart History: Canadian Hot 100 | magazine=Billboard | accessdate=July 9, 2024}}</ref>
+! scope="col" width="45"| [[Canada Country|CAN Country]]<br /><ref name="Canada Country">{{cite magazine | url=https://www.billboard.com/artist/riley-green/chart-history/ccw/ | title=Riley Green Chart History: Canada Country | magazine=Billboard | accessdate=September 28, 2024}}</ref>
+|-
+| 2018
+! scope="row"| "[[There Was This Girl]]"
+| 70
+| 11
+| 3
+| 75
+| 1
+|
+* [[Recording Industry Association of America|RIAA]]: Platinum<ref name="riaa">{{cite web | url=https://www.riaa.com/gold-platinum/?tab_active=default-award&se=riley+green#search_section | title=Search results for Riley Green | publisher=Recording Industry Association of America | access-date=February 19, 2022}}</ref>
+* [[Australian Recording Industry Association|ARIA]]: Gold<ref name="ARIA23">{{cite certification|region=Australia|certyear=2023|access-date=November 30, 2023}}</ref>
+* [[Music Canada|MC]]: Gold<ref name="MC">{{cite certification|region=Canada|artist=Riley Green|access-date=October 11, 2023}}</ref>
+| align="left" rowspan="3"| ''Different 'Round Here''
+|-
+| rowspan="2"|2019
+! scope="row"| "In Love by Now"
+| —
+| —
+| 52
+| —
+| —
+|
+|-
+! scope="row"| "[[I Wish Grandpas Never Died]]"
+| 66
+| 12
+| 12
+| 95
+| 11
+|
+* RIAA: 3× Platinum<ref name="riaa"/>
+* ARIA: Gold<ref name="ARIA23"/>
+* MC: Platinum<ref name="MC"/>
+|-
+| 2020
+! scope="row"| "If It Wasn't for Trucks"
+| —
+| 40
+| 41
+| —
+| —
+|
+* RIAA: Gold<ref name="riaa"/>
+* MC: Gold<ref name="MC"/>
+| align="left"| ''Behind the Bar''
+|-
+| 2022
+! scope="row"| "Hell of a Way to Go"
+| —
+| 50
+| —
+| —
+| —
+|
+* RIAA: Gold<ref name="riaa" />
+| {{n/a}}
+|-
+| 2023
+! scope="row"| "[[Different 'Round Here (song)|Different 'Round Here]]"<br />{{small|(with [[Luke Combs]])}}<ref>{{cite web | url=https://themusicuniverse.com/riley-green-luke-combs-release-different-round-here/ | title=Riley Green, Luke Combs release 'Different Round Here' | website=The Music Universe | date=May 11, 2023 | accessdate=May 11, 2023}}</ref>
+| 60
+| 15
+| 2
+| 89
+| 11
+|
+* RIAA: Platinum<ref name="riaa" />
+* MC: Platinum<ref name="MC"/>
+| rowspan="2" align="left" | ''Ain't My Last Rodeo''
+|-
+| 2024
+! scope="row"| "[[Damn Good Day to Leave]]"
+| —
+| —
+| 22
+| —
+| 32
+|
+|-
+| colspan="9" style="font-size:85%"| "—" denotes releases that did not chart
+|}
+
+====Featured singles====
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+List of singles as featured artist, with selected peak chart positions and certifications shown
+! scope="col" rowspan="2"| Year
+! scope="col" rowspan="2"| Title
+! scope="col" colspan="10"| Peak chart positions
+! scope="col" rowspan="2"| Certifications
+! scope="col" rowspan="2"| Album
+|- style="font-size:smaller;"
+! scope="col" width="45"| [[Billboard Hot 100|US]]<br /><ref name="Hot 100"/>
+! scope="col" width="45"| [[Hot Country Songs|US Country Songs]]<br /><ref name="Country Songs"/>
+! scope="col" width="45"| [[Country Airplay|US Country Airplay]]<br /><ref name="Country Airplay"/>
+! scope="col" width="45"| [[ARIA Charts|AUS]]<br /><ref>{{cite magazine|title=The ARIA Report: Week Commencing 29 July 2024|magazine=The ARIA Report|publisher=[[Australian Recording Industry Association]]|issue=1795|page=4|date=July 29, 2024}}</ref>
+! scope="col" width="45"| [[Canadian Hot 100|CAN]]<br /><ref name="Canadian Hot 100"/>
+! scope="col" width="45"| [[Canada Country|CAN<br />Country]]<br /><ref name="Canada Country" />
+! scope="col" width="45"| [[Irish Singles Chart|IRE]]<br /><ref>{{cite web|url=http://irma.ie/index.cfm?page=irish-charts&chart=Singles|title=IRMA – Irish Charts|publisher=[[Irish Recorded Music Association]]|access-date=July 13, 2024}}</ref>
+! scope="col" width="45"| [[Official New Zealand Music Chart|NZ]]<br /><ref>{{cite web|url=https://nztop40.co.nz/chart/singles?chart=5840|title=NZ Top 40 Singles Chart|publisher=[[Recorded Music NZ]]|date=July 29, 2024|access-date=July 26, 2024}}</ref>
+! scope="col" width="45"| [[UK Singles Chart|UK]]<br /><ref>{{cite web|url=https://www.officialcharts.com/artist/ella-langley-riley-green/|title=Ella Langley/Riley Green songs and albums {{!}} full Official Chart history|publisher=[[Official Charts Company]]|access-date=July 12, 2024}}</ref>
+! scope="col" width="45"| [[Billboard Global 200|WW]]<br /><ref>{{cite magazine | url=https://www.billboard.com/artist/riley-green/chart-history/glo/ | title=Riley Green Chart History: ''Billboard'' Global 200 | magazine=Billboard | accessdate=July 16, 2024}}</ref>
+|-
+| 2022
+! scope="row"| "[[Half of Me (Thomas Rhett and Riley Green song)|Half of Me]]"<br />{{small|([[Thomas Rhett]] featuring Riley Green)}}
+| 52 || 9 || 1 || — || 54 || 1 || — || — || — || —
+|
+*RIAA: Platinum<ref name="riaa" />
+| align="left" | ''[[Where We Started]]''
+|-
+| 2024
+! scope="row"| "[[You Look Like You Love Me]]"<br />{{small|([[Ella Langley]] featuring Riley Green)}}
+| 36 || 12 || 16<br /><ref>{{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_0927.pdf|title=Billboard Country Update|magazine=[[Billboard (magazine)|Billboard]]|date=September 27, 2024|access-date=September 28, 2024}}</ref> || 67 || 33 || 23 || 66 || 19 || 59 || 89
+|
+| align="left" | ''[[Hungover (album)|Hungover]]''
+|}
+
+==== Other charted and certified songs ====
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+List of other charted and certified songs, with selected certifications
+! scope="col" rowspan="2" | Year
+! scope="col" rowspan="2" | Title
+! scope="col" colspan="2" | Peak chart positions
+! scope="col" rowspan="2" | Certifications
+! scope="col" rowspan="2" | Album
+|- style="font-size:smaller;"
+! scope="col" width="45"| [[Billboard Hot 100|US]]<br /><ref name="Hot 100"/>
+! scope="col" width="45"| [[Hot Country Songs|US Country Songs]]<br /><ref name="Country Songs"/>
+|-
+| rowspan="2" |2018
+! scope="row" |"Bury Me in Dixie"
+| — || —
+|
+*RIAA: Gold<ref name="riaa" />
+|''Outlaws Like Us''
+|-
+! scope="row" |"When She Comes Home Tonight"
+| — || —
+|
+*RIAA: Gold<ref name="riaa" />
+| align="left" |''Riley Green''
+|-
+| 2024
+! scope="row" |"Worst Way"
+| 100 || 24
+|
+| align="left" |''Way Out Here''
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|+List of music videos
+! scope="col"| Year
+! scope="col"| Video
+|-
+| 2017
+! scope="row"| "Bury Me in Dixie"
+|-
+| 2018
+! scope="row"| "There Was This Girl"
+|-
+| 2019
+! scope="row"| "In Love by Now"
+|-
+| 2020
+! scope="row"| "If It Wasn't for Trucks"
+|}
+
+==References==
+{{Reflist}}
+
+{{authority control}}
+{{Riley Green}}
+{{DEFAULTSORT:Green, Riley}}
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Big Machine Records artists]]
+[[Category:Living people]]
+[[Category:Participants in American reality television series]]
+[[Category:People from Calhoun County, Alabama]]
+[[Category:Country musicians from Alabama]]
+[[Category:1988 births]]
+[[Category:Singer-songwriters from Alabama]]

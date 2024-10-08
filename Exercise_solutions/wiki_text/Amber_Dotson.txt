@@ -1,0 +1,71 @@
+{{short description|American singer-songwriter}}
+
+{{Infobox musical artist
+| name            = Amber Dotson
+| image           =
+| birth_date      =
+| origin          = [[Garland, Texas]], United States
+| instrument      = [[Vocals]]
+| genre           = [[Country music|Country]]
+| occupation      = [[Singing|Singer]]
+| years_active    = 2004-present
+| label           = [[Capitol Records|Capitol Nashville]]
+| associated_acts = [[George Strait]]<br />[[Travis Tritt]]
+| website         = 
+}}
+'''Amber Dotson''' (born in [[Garland, Texas]]<ref name="allmusic">{{cite web |url={{AllMusic|class=artist|id=p675686|pure_url=yes}} |title=Amber Dotson biography |accessdate=2008-06-14 |last=Leggett |first=Steve |work=[[Allmusic]]}}</ref>) is an American [[country music]] artist. Initially a songwriter for Sony/Tree Publishing, Dotson soon began singing demos as well. She also made an appearance on [[Travis Tritt]]'s 2004 album ''[[My Honky Tonk History]]'' as a background vocalist.<ref name="liner">{{cite AV media notes |title=My Honky Tonk History |others=Travis Tritt |year=2004 |publisher=[[Columbia Records]] Nashville |id=CK 92084}}</ref> [[George Strait]] heard some of the singer's demos, and asked her to join him on his 2005 tour, which also included [[Dierks Bentley]].<ref name="cmt">{{cite web |url=http://www.cmt.com/artists/az/dotson__amber/bio.jhtml |archive-url=https://web.archive.org/web/20080128184558/http://www.cmt.com/artists/az/dotson__amber/bio.jhtml |url-status=dead |archive-date=January 28, 2008 |title=Amber Dotson biography |accessdate=2008-06-14 |work=[[Country Music Television]]}}</ref> Dotson was signed to [[Capitol Records]] Nashville in 2005, and although she released two singles for the label, she did not release an album.
+
+==Discography==
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:12em;"| Single
+! colspan="1"| Peak positions
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]
+|-
+| rowspan="2"| 2005
+! scope="row"| "I'll Try Anything"
+| 59
+|-
+! scope="row"| "I Ain't Your Mama"
+| —
+|-
+| colspan="3" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:12em;"| Video
+! Director
+|-
+| rowspan="2"| 2005
+! scope="row"| "I'll Try Anything"
+| [[Peter Zavadil]]
+|-
+! scope="row"| "I Ain't Your Mama"
+| [[Wes Edwards]]
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20080719125733/http://www.amberdotson.com/ Amber Dotson official website]
+
+{{authority control}}
+
+{{DEFAULTSORT:Dotson, Amber}}
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:People from Garland, Texas]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:Capitol Records artists]]
+[[Category:Country musicians from Texas]]
+[[Category:21st-century American women]]

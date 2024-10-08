@@ -1,0 +1,139 @@
+{{short description|American country and rock music group}}
+{{Infobox musical artist
+| name            = The Southern Gothic
+| image           =
+| image_size      =
+| landscape       =
+| alt             =
+| caption         = The Sothern Gothic: Yannie, Connor, and Shawn
+| alias           = Connor Christian & the Morningstar Revival<br />Connor Christian & Southern Gothic
+| origin          = [[Atlanta|Atlanta, Georgia]]
+| genre           = [[Country music|Country]], [[southern rock]]
+| years_active    = 2007-present
+| label           = Perfect Symmetry<br />Vintage Earth<br />Rocket Science
+| associated_acts =
+| website         = {{url|http://www.thesoutherngothicmusic.com}}
+| current_members = Connor Christian<br />Shawn Thacker<br />Yannie Reynecke <br />Quinn Loggins
+| past_members    = Nick Edelstein<br />Dan Emmett<br />Joe Abramson<br />Elena Martin<br />Faye Petree<br />Rashad Abu-Azzam <br />Jeff Spirko
+}}
+
+'''The Southern Gothic''' is an American music group with an Americana sound that leans heavily on [[country music|country]] and [[southern rock]] roots. Known to fans as SoGo, originally from Atlanta, now based in [[Nashville|Nashville, Tennessee]] The Southern Gothic is composed of Connor Christian, Shawn Thacker, Yannie Reynecke and Quinn Loggins.
+
+The group was formed in 2007 as Connor Christian & the Morningstar Revival.<ref name="allmusic">{{cite web|url={{Allmusic|class=artist|id=mn0001481616|pure_url=yes}}|title=Connor Christian & Southern Gothic Biography|last=Ruhlmann|first=William|work=[[Allmusic]]|accessdate=March 24, 2013}}</ref> Under the name "Connor Christian & Southern Gothic," they released 2 studio albums. The 2013 album ''New Hometown'' sold 5,000 copies in its first week of release, debuting in the Top 20 of the ''[[Billboard (magazine)|Billboard]]'' [[Top Country Albums]] chart and at number one on the [[Top Heatseekers]] chart.<ref>{{cite news|last=Jessen|first=Wade|title=Connor Christian & Southern Gothic Enters Top Country Albums, Carrie Underwood Gains Post-Grammys|url=http://www.billboard.com/articles/columns/chart-beat/1549718/connor-christian-southern-gothic-enters-top-country-albums|accessdate=March 24, 2013|newspaper=[[Billboard (magazine)|Billboard]]|date=February 21, 2013}}</ref> In January 2014, the band recorded a double-live album entitled "Shuffle & Stomp," as well as its first full-length concert DVD entitled "CCSG Live in Atlanta."
+
+In 2015, the band re-branded as "The Southern Gothic" and relocated to Nashville to record a new album. After taking a four-year hiatus to work on individual projects, the band reformed in late 2018 and released a stand-alone single, "Let it Ride," on April 19, 2019. Though pushed back several times due to Covid, their newest single and EP ("Past Midnight" and "Burnin' Moonlight" respectively), was released on December 4, 2020.
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:10em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="4"| Peak chart positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]
+! width="45"| [[Billboard 200|US]]
+! width="45"| [[Top Heatseekers|US<br />Heat]]
+! width="45"| [[Independent Albums|US<br />Indie]]
+|-
+! scope="row"| ''A Southern Gothic''
+| 
+* Release date: February 16, 2007
+* Label: Perfect Symmetry
+| —
+| —
+| —
+| —
+|-
+! scope="row"| ''90 Proof Lullabies''
+| 
+* Release date: March 10, 2009
+* Label: Vintage Earth
+| —
+| —
+| —
+| —
+|-
+! scope="row"| ''New Hometown''
+| 
+* Release date: February 12, 2013
+* Label: Rocket Science
+| 17
+| 127
+| 1
+| 18
+|-
+!Burnin' Moonlight
+|Release Date: Dec 4, 2020
+| -
+| -
+| -
+| -
+|-
+| colspan="6" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Live albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:10em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="4"| Peak chart positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]
+! width="45"| [[Billboard 200|US]]
+! width="45"| [[Top Heatseekers|US<br />Heat]]
+! width="45"| [[Independent Albums|US<br />Indie]]
+|-
+! scope="row"| ''Shuffle & Stomp''
+| 
+* Release date: June 10, 2014
+| —
+| —
+| —
+| —
+|-
+| — colspan="6" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:10em;"| Video
+! Director
+|-
+| 2010
+! scope="row"| "Sunday Suit"<ref>{{cite web|url=http://www.cmt.com/videos/connor-christian/470119/sunday-suit.jhtml|archive-url=https://web.archive.org/web/20100121012247/http://www.cmt.com/videos/connor-christian/470119/sunday-suit.jhtml|url-status=dead|archive-date=January 21, 2010|title=CMT : Videos : Connor Christian : Sunday Suit|publisher=[[Country Music Television]]|accessdate=March 24, 2013}}</ref>
+| Jonathan Barbee
+|-
+| 2013
+! scope="row"| "Sheets Down"<ref>{{cite web|url=http://www.cmt.com/videos/connor-christian-southern-gothic/873879/sheets-down.jhtml|archive-url=https://web.archive.org/web/20130126060304/http://www.cmt.com/videos/connor-christian-southern-gothic/873879/sheets-down.jhtml|url-status=dead|archive-date=January 26, 2013|title=CMT : Videos : Connor Christian & Southern Gothic : Sheets Down|publisher=[[Country Music Television]]|accessdate=March 24, 2013}}</ref>
+| Mil Cannon
+|-
+| 2014
+! scope="row"| "16 Bars"
+| Mil Cannon
+|-
+|2020
+!"Past Midnight"
+|Mil Cannon
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{official|http://www.connorchristian.com/}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Southern Gothic}}
+[[Category:Country music groups from Georgia (U.S. state)]]
+[[Category:Musical groups established in 2007]]
+[[Category:American southern rock musical groups]]
+
+
+{{US-country-band-stub}}

@@ -1,0 +1,179 @@
+{{short description|American old-time fiddler player}}
+{{Infobox musical artist
+| name             = Eck Robertson
+| image            = EckRobertson.jpg
+| caption          = 
+| image_size       = <!-- Only for images narrower than 220 pixels -->
+| birth_name       = Alexander Campbell Robertson
+| alias            = 
+| birth_date       = November 20, 1887
+| birth_place      = Delaney, Arkansas, United States
+| death_date       = {{death date and age|1975|2|15|1887|11|20}}
+| death_place      = [[Borger, Texas]], United States
+| origin           = [[Amarillo, Texas]]
+| instrument       = [[Fiddle]], [[Banjo]], [[Guitar]]
+| genre            = [[Country music|Country]]
+| occupation       = [[Musician]], [[piano tuner]]
+| years_active     = 1920s &ndash; 1960s
+| label            = [[Victor Talking Machine Company|Victor]], [[County Records|County]]
+| associated_acts  = 
+| website          = 
+| notable_instruments = 
+}}
+'''Alexander Campbell "Eck" Robertson''' (born November 20, 1887, in [[Delaney, Arkansas|Delaney]], [[Arkansas]], died February 15, 1975, in Borger, Texas) was an American [[fiddle]] player, mostly known for commercially recording the first [[country music]] songs in 1922 with Henry Gilliland (1845 - 1924).
+
+==Early life==
+Robertson was born in Arkansas and grew up on a farm in the [[Texas panhandle]] where his family moved when he was three years old. His father, grandfather and uncles were fiddlers who competed in local contests. His father, a veteran of the Civil War, was also a farmer, and later quit fiddling to become a preacher.<ref name="handbook">{{cite web |url= http://www.tshaonline.org/handbook/online/articles/froam|title= ROBERTSON, ALEXANDER (ECK)|author= Jill S. Seeber|work= The Handbook of Texas Online|publisher= Texas State Historical Association|access-date=January 17, 2010}}</ref> At the age of five, Robertson began learning to play the fiddle, and later learned banjo and guitar. In 1904, at the age of 16, he decided to become a professional musician and left home to travel with a [[medicine show]] through [[Indian Territory]]. In 1906, he married and settled in [[Vernon, Texas]], and became a piano tuner for the Total Line Music Company.<ref name="wolfe">{{cite book |title= The Devil's Box: Masters of Southern Fiddling|last= Wolfe|first= Charles|year= 1997|publisher= [[Vanderbilt University Press]]/Country Music Foundation Press|location= Nashville|isbn= 978-0-8265-1324-3}}</ref>
+
+==Recordings==
+Robertson and his wife Nettie performed at silent movie theaters and fiddling contests through the region. As the son of a [[Confederate States Army|Confederate veteran]], Robertson was able to attend the annual Old Confederate Soldiers' Reunions across the South, and became a regular performer at these events. He met 74-year-old fiddler Henry C. Gilliland at one of these reunions, and the two began performing together. After the reunion in June 1922, Gilliland and Robertson traveled to New York City, auditioned for and received a recording contract with the [[Victor Talking Machine Company]].<ref name="handbook"/> On Friday, June 30, 1922, Robertson and Gilliland recorded four fiddle duets for Victor. These probably represent the first commercial recordings of country music performers. Two of them, "[[The Arkansas Traveler (song)|Arkansaw Traveler]]" and "[[Turkey in the Straw]]", were released on Victor. Two others, "Forked Deer" and "Apple Blossom", were never issued. At the company's request, Robertson returned the next day, July 1, without Gilliland and recorded six additional sides. Four of them - "Sallie Gooden", "Ragtime Annie", "Sally Johnson/Billy in the Low Ground" and "Done Gone" - were released on Victor over the next two years. The other two, "General Logan Reel/Dominion Hornpipe" and "Brilliancy and Cheatum", remain unissued.<ref name="wolfe"/> Robertson's rendition of "Sallie Gooden" is now a classic since he played the traditional fiddle tune followed by 12 variations.
+
+Robertson's first record, with his solo "Sallie Gooden" on one side and duet "Arkansaw Traveler" on the other, was released on September 1, 1922, but was not widely circulated until the spring of 1923. Sales figures are not known, but Victor did not promote the record strongly.<ref name="wolfe"/> His next two records were released in 1923 and 1924, but only after the summer of 1923, when [[Fiddlin' John Carson]]'s recordings on [[Okeh Records]] kicked off a boom in old-time country music record sales. In 1925, Victor started using a new electrical recording process, but Robertson's 1922 acoustically made recordings continued to be made available for several years, being listed in “The Catalog of Victor Records 1930”.<ref name="wolfe"/><ref name="victor_electrical">
+{{cite web
+| url         =http://www.mainspringpress.com/vic_minicon.html
+| title       =A Miniature Concert: The Earliest Issued Victor Electrical Recordings
+|work        = Mainspring Press
+| author   = Allan Sutton
+| access-date  =July 30, 2010
+}}</ref>
+
+Robertson approached Victor about recording again, and in 1929 arranged to meet a Victor field recording engineer in Dallas, Texas. This time he included his wife Nettie on guitar, his daughter Daphne on tenor guitar and his son Dueron on tenor banjo. On August 12, 1929, the group recorded four fiddle tunes - "Texas Wagoner", "There's a Brown Skin Gal Down the Road", "Amarillo Waltz" and "Brown Kelly Waltz". On October 10, the Robertson family band returned to Dallas and recorded two fiddle duets with Texas fiddler J. B. Cranfill, "Great Big Taters" and "Run Boy Run". Two additional tunes were recorded that evening, "Apple Blossom" and "My Frog Ain't Got No Blues", but were not issued. The next day, October 11, the band recorded "Brilliancy Medley", released in September 1930, and the ballad "The Island Unknown", released in December 1929. That day the band also recorded three additional sides that were not released - "My Experience on the Ranch" and remakes of "Arkansaw Traveler" and "Sallie Gooden".<ref name = "wolfe"/>
+
+The week of September 20, 1940, Robertson recorded 100 fiddle tunes at Jack Sellers Studios in Dallas, Texas. Unfortunately, there is no song listing from these sessions, and none of the tunes have ever surfaced.<ref name="wolfe"/>
+
+Robertson continued to perform extensively at dances, theaters, fiddlers' conventions and on radio. In 1963, [[John Cohen (musician)|John Cohen]], [[Mike Seeger]] and [[Tracy Schwarz]] visited Robertson at his home in Amarillo, Texas and taped some of his music, which was released on [[County Records]] as ''Eck Robertson, Famous Cowboy Fiddler''. Robertson appeared at the UCLA Folk Festival in 1964, and at the [[Newport Folk Festival]] in 1965, accompanied by the [[New Lost City Ramblers]].<ref name="handbook"/>
+
+Robertson died in 1975 in Borger, Texas and was interred at the Westlawn Memorial Park Cemetery. His tombstone is engraved "World's Champion Fiddler."<ref name="handbook"/>
+
+==Discography==
+
+===78 RPM===
+{| class="wikitable sortable"
+! Year
+! Title
+! Label
+! Number
+! Notes
+|-
+|1922||"Sallie Gooden" / "Arkansaw Traveler"||[[Victor Talking Machine Company|Victor]]||18956||Recorded 7/1/1922 and 6/30/1922, B side duet with Henry C. Gilliland
+|-
+|1923||"Turkey in the Straw" / "Ragtime Annie"||Victor ||19149||Recorded 6/30/1922 and 7/1/1922, A side duet with Henry C. Gilliland
+|-
+|1924||"Sally Johnson/Billy in the Low Ground" / "Done Gone"||Victor||19372||Recorded 7/1/1922, with pianist [[Nat Shilkret]]
+|-
+|1929||"Texas Wagoner" / "There's a Brown Skin Gal Down the Road"||Victor||V40145||Recorded 8/12/1929, with wife, son and daughter.
+|-
+|1929||"The Island Unknown Part 1" / "The Island Unknown Part 2"||Victor||V40166||Recorded 10/11/1929, with wife, son and daughter.
+|-
+|1929||"Run Boy Run" / "Great Big Taters"||Victor||V40205||Recorded 10/10/1929, with J.B. Cranfill
+|-
+|1930||"Brilliancy Medley" / "Amarillo Waltz"||Victor||V40298||Recorded 10/11/1929 and 8/12/1929, with wife, son and daughter.
+|-
+|1930||"Brown Kelly Waltz Part 1" / "Brown Kelly Waltz Part 2"|||Victor||V40334||Recorded 8/12/1929, with wife, son and daughter. Reissued as [[Bluebird Records|Bluebird]] 5777 and Montgomery Ward 4908
+|-
+|}
+<ref name="victor18500">
+{{cite web
+| url         =http://www.78discography.com/vic18500.html
+| title       =Victor 18500 - 19000
+|work        = The Online 78 rpm Discography
+| author   = Steven Abrams
+| access-date  =January 10, 2010
+}}</ref>
+<ref name="victor19000">
+{{cite web
+| url         =http://www.78discography.com/vic19000.html
+| title       =Victor 19000 - 19500
+|work        = The Online 78 rpm Discography
+| author   = Steven Abrams
+| access-date  =January 10, 2010
+}}</ref>
+<ref name="victor40000">
+{{cite web
+| url         =http://www.78discography.com/vic40000.html
+| title       =Victor V-40000 series
+|work        = The Online 78 rpm Discography
+| author   = Steven Abrams
+| access-date  =January 10, 2010
+}}</ref>
+
+===Albums===
+{| class="wikitable"
+! Year
+! Title
+! Label
+! Number
+! Notes
+|-
+|1989||''Eck Robertson, Famous Cowboy Fiddler''||[[County Records|County]]||202||1963 field recording, Amarillo, Texas<ref name="ibiblio">
+{{cite web
+| url         =http://www.ibiblio.org/keefer/rp08.htm#Robeeck
+| title       =Folk Music Performer Index - Robertson to Robic
+| author      = Keefer, Jane
+| work        = Folk Music Index
+| publisher   = [[ibiblio]]
+| access-date  =January 10, 2010
+}}</ref>
+|-
+|}
+
+===Compilations and reissues===
+{| class="wikitable sortable"
+! Year
+! Title
+! Label
+! Number
+! Notes
+|-
+|1976||''Master Fiddler''||Sonyatone||STR-201||Reissue of the Victor recordings, 1922-1929<ref name="Sonyatone">
+{{cite web
+| url         =http://www.bluegrasswest.com/disc.htm
+| title       = Peter Feldmann: Sonyatone Records
+| publisher   = BlueGrass West
+| access-date  =January 10, 2010
+}}</ref>
+|-
+|1998||''Old-Time Texas Fiddler''||County||CO-3515-CD||Reissue of the Victor recordings, 1922-1929<ref name="County3515">{{cite web
+| url         =http://www.countysales.com/php-bin/ecomm4/products.php?category_id=&product_id=419
+| archive-url =https://archive.today/20130119235123/http://www.countysales.com/php-bin/ecomm4/products.php?category_id=&product_id=419
+| url-status  =dead
+| archive-date =January 19, 2013
+| title         =Eck Robertson
+| publisher         =County Sales
+| access-date         =January 10, 2010
+}}</ref>
+|-
+|}
+
+==References==
+{{reflist}}
+
+==Further reading==
+*''Stars of Country Music'', (University of Illinois Press, 1975)
+*''Tony Russell; Country Music Originals'', (Oxford University Press, 2007)
+
+==External links==
+*[https://web.archive.org/web/20060503162008/http://www.oldtimemusic.com/FHOFEck.html Eck Robertson] in the Fiddler's Hall of Fame. (Includes MP3 of "Sally Gooden")
+*[https://web.archive.org/web/20110712215715/http://honkingduck.com/mc/listen/eck-c-robertson/sallie-johnson-billy-lowground MP3 of "Sally Johnson/Billy in the Low Ground"]
+*[http://bluegrasswest.com/gallery/eck_robertson.htm Eck Robertson, UCLA, 1964, photo by Peter Feldmann]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Robertson, Eck}}
+[[Category:1887 births]]
+[[Category:1975 deaths]]
+[[Category:American country fiddlers]]
+[[Category:American country singer-songwriters]]
+[[Category:Musicians from Amarillo, Texas]]
+[[Category:Old-time fiddlers]]
+[[Category:Texas-style fiddlers]]
+[[Category:Old-time musicians from Texas]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:Country musicians from Texas]]
+[[Category:20th-century American violinists]]
+[[Category:American male violinists]]
+[[Category:20th-century American male singers]]
+[[Category:People from Madison County, Arkansas]]
+[[Category:Singer-songwriters from Arkansas]]
+[[Category:Country musicians from Arkansas]]

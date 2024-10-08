@@ -1,0 +1,49 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=December 2016}}
+{{Infobox musical artist
+| name            = Griffin Layne
+| image           = Griffin Layne Grammy Awards 2013.jpg
+| image_size      =
+| landscape       =
+| alt             =
+| caption         = Griffin Layne at the 55th Annual Grammy Awards- Staples Center (Los Angeles, CA)
+| birth_name      = Griffin Layne
+| birth_date      =
+| birth_place     = [[Kettering, Ohio]]
+| origin          = [[Nashville, Tennessee]]
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter, producer
+| instrument      = Vocals, guitar
+| years_active    = 2007–present
+| label           = [[Universal Music Group|UMG]]<br />[[Equus Records]]
+| associated_acts =
+| website         = www.equusrecords.com
+}}
+'''Griffin Layne''' is an American [[country music]] singer and songwriter.
+
+Layne's debut single,"Nothin like a Southern Girl", has been added to the Most Popular Urban Cowboy Music Tracks Chart, by [[93.5 FM]].<ref>{{cite web|url=http://www.countrychart.com/2015/07/top-100-urban-cowboy-songs-albums-chart.html|title=Top 100 Urban Cowboy iTunes Songs & Albums Chart 2016 – CowboyC Country Music Charts of CDs, Vinyl Albums|publisher=}}</ref> Layne co-wrote and produced his debut single, "Nothin like a Southern Girl", which was released on January 23, 2016 on Equus Records.<ref>{{cite web|url=http://www.equusrecords.com|title=Equus Records|publisher=}}</ref><ref name="auto">{{cite web|url=http://www.fairfaxtimes.com/online_features/food_recipes_entertaining/local-award-winning-country-singer-retires/article_78543696-3efe-11e6-8a6e-ab89fa319db1.html|title=Local award-winning country singer retires|first=Caroline Boras Special to the Fairfax County|last=Times|publisher=}}</ref>
+
+Griffin won four awards for his work, including Artist of the Year at the Los Angeles Music Awards in 2007, Producers Choice Award at the Los Angeles Music Awards in 2008, Best Country Artist and Best Country Song at the IMC Awards in 2015.<ref>{{cite web|url=http://www.losangelesmusicawards.net/ |title=The Los Angeles Music Awards |date=October 11, 2007 |url-status=unfit |archiveurl=https://web.archive.org/web/20071011003104/http://www.losangelesmusicawards.net/ |archivedate=October 11, 2007 }}</ref><ref>{{cite web|url=http://www.gazette.net/stories/121207/gaitnew62055_32362.shtml|title=Make a child's season brighter|publisher=}}</ref><ref>{{cite web|url=http://www.theindiemusicchannel.com/IMCA4countrywinners.htm|title=Country Nominees|publisher=}}</ref><ref>{{cite web|url=http://www.theindiemusicchannel.com/imca4countrynom.htm|title=IMCA4 Country|publisher=}}</ref>
+
+Griffin has cited some of his musical influencers, such as [[Dave Grohl]].<ref name="auto"/>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.digitaljournal.com/article/360544 Review: Country singer Griffin Layne delivers on new song 'Won't Let Go']
+*[http://buenascosas.org/southern-girl-chica-surena-cashew-tree-planted/ Tree Planted for Griffin Layne in honor of his contributions to the Buenas Cosas community outreach program] {{Webarchive|url=https://web.archive.org/web/20160807072543/http://buenascosas.org/southern-girl-chica-surena-cashew-tree-planted/ |date=August 7, 2016 }}
+
+{{DEFAULTSORT:Layne, Griffin}}
+[[Category:Country musicians from Ohio]]
+[[Category:American country singer-songwriters]]
+[[Category:Year of birth uncertain]]
+[[Category:Living people]]
+[[Category:Music of Ohio]]
+[[Category:Singer-songwriters from Ohio]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:Year of birth missing (living people)]]
+
+
+{{US-country-musician-stub}}

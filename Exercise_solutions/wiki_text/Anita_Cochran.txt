@@ -1,0 +1,209 @@
+{{short description|American singer-songwriter}}
+
+{{For|the American astronomer|Anita Cochran (astronomer)}}
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist
+| name         = Anita Cochran
+| image        = File:Anitacochran (cropped).jpg
+| caption      = Anita Cochran in 2009
+| birth_name   = Anita Renee Cockerham
+| birth_date   = {{birth date and age|1967|2|6}}
+| origin       = [[South Lyon, Michigan]], United States
+| instrument   = Vocals, guitar, [[dobro]], [[banjo]], [[mandolin]]
+| genre        = [[country music|Country]]
+| occupation   = Singer-songwriter, record producer
+| years_active = 1997–present
+| label        = [[Warner Bros. Records|Warner Bros. Nashville]], Straybranch
+}}
+'''Anita Renee Cockerham''' (born February 6, 1967), known professionally as '''Anita Cochran''', is an [[Americans|American]] [[country music]] singer, songwriter, and guitarist. She has released two albums for [[Warner Bros. Records]] Nashville and one for Straybranch Records. Cochran is best known for her late 1997-early 1998 single "[[What If I Said]]", a duet with [[Steve Wariner]] that reached the number-one position on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] charts.
+
+==Biography==
+Anita Cochran was born in [[South Lyon, Michigan]], into a family that enjoyed listening to country music. She began to play guitar at an early age, and later learned to play [[banjo]], [[mandolin]] and [[Dobro]] as well.<ref name="allmusic">{{cite web|url={{AllMusic|class=artist|id=p203369|pure_url=yes}}|title=allmusic ((( Anita Cochran > Biography )))|publisher=[[Allmusic]]|accessdate=October 2, 2010}}</ref><ref name="oldies">{{cite web|url=http://www.oldies.com/artist-biography/Anita-Cochran.html|title=Anita Cochran biography|publisher=Oldies.com|accessdate=October 2, 2010}}</ref> A local country musician, Anita's father often took her to country music festivals.<ref name="oldies"/> She later found work both in bands and as a solo act,<ref name="cmt">{{cite web|url=http://www.cmt.com/artists/az/cochran_anita/bio.jhtml|archive-url=https://web.archive.org/web/20040427073625/http://www.cmt.com/artists/az/cochran_anita/bio.jhtml|url-status=dead|archive-date=April 27, 2004|title=CMT.com : Anita Cochran : Biography|publisher=[[Country Music Television]]|accessdate=October 2, 2010}}</ref> and was eventually hired to manage Pearl Recording Studios, a studio in [[Canton, Michigan]].<ref name="allmusic"/>
+
+In 1997, after moving to [[Nashville, Tennessee]], she was signed to [[Warner Bros. Records]]. Released in 1997, her debut album, ''[[Back to You (album)|Back to You]]'', was produced by her as well. She co-wrote all but one of the album's songs and played several instruments on it. The album's lead-off single, "I Could Love a Man Like That", peaked at No.&nbsp;64, followed by the No.&nbsp;69 "Daddy, Can You See Me". The third single, a duet with [[Steve Wariner]] titled "What If I Said", reached the top of the U.S. ''Billboard'' [[Hot Country Singles & Tracks]] charts in early 1998.<ref name="allmusic"/> Following this song was the album's fourth and final single, "Will You Be Here?" also at No.&nbsp;69. Her second album, ''Anita'', produced three singles, all of which failed to reach the top 40.
+
+For the first single from her third album, ''God Created Woman'', Cochran spliced in [[Conway Twitty]]'s vocals from earlier songs of his to form a duet entitled "(I Wanna Hear) A Cheatin' Song".<ref>[https://archive.today/20130628221013/http://www.cmt.com/news/country-music/1488119/conway-twitty-sings-a-song-he-never-heard.jhtml Conway Twitty Sings a Song He Never Heard]</ref> This song peaked at No.&nbsp;57; the album was never released.
+
+In 2007, Cochran produced country music singer [[Tammy Cochran]]'s album ''Where I Am''. The two singers are not related.<ref>{{cite web|url=http://countrymusic.about.com/od/cdreviewsal/fr/WhereIAm.htm|title=Tammy Cochran – ''Where I Am''|publisher=countrymusic.about.com|accessdate=October 2, 2010|archive-date=April 15, 2013|archive-url=https://web.archive.org/web/20130415212913/http://countrymusic.about.com/od/cdreviewsal/fr/WhereIAm.htm|url-status=dead}}</ref>
+
+Cochran was diagnosed with breast cancer in late 2017. In 2018, several artists gathered to hold a benefit concert for her.<ref>[http://www.wideopencountry.com/anita-cochran-cancer-benefit/ 90s Country Stars Band Together at Anita Cochran Cancer Benefit]</ref>
+
+== Discography ==
+
+=== Studio albums ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:10em;"| Title
+! rowspan="2" style="width:20em;"| Album details
+! colspan="3"| Peak chart positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]<br><ref>{{cite web|url={{BillboardURLbyName|artist=anita cochran|chart=Country Albums C}} |title=Anita Cochran Album & Song Chart History – Country Songs |publisher=[[Billboard (magazine)|Billboard]] |accessdate=October 2, 2010 |archiveurl=https://web.archive.org/web/20101002023600/http://www.billboard.com// |archivedate=October 2, 2010 |url-status=dead }}</ref>
+! width="45"| [[Billboard 200|US]]<br><ref>{{cite web|url={{BillboardURLbyName|artist=anita cochran|chart=Billboard 200}} |title=Anita Cochran Album & Song Chart History – Billboard 200 |publisher=[[Billboard (magazine)|Billboard]] |accessdate=October 2, 2010 |archiveurl=https://web.archive.org/web/20101002023600/http://www.billboard.com// |archivedate=October 2, 2010 |url-status=live }}</ref>
+! width="45"| [[Top Heatseekers|US<br>Heat]]<br><ref>{{cite web|url={{AllMusic|class=artist|id=p203369|pure_url=yes}}|title=allmusic ((( Anita Cochran > Charts & Awards > Billboard Albums )))|publisher=[[Allmusic]]|accessdate=October 2, 2010}}</ref>
+|-
+! scope="row"| ''[[Back to You (album)|Back to You]]''
+| 
+* Release date: April 22, 1997
+* Label: [[Warner Bros. Nashville]]
+| 24
+| 173
+| 9
+|-
+! scope="row"| ''Anita''
+| 
+* Release date: October 5, 1999
+* Label: Warner Bros. Nashville
+| —
+| —
+| —
+|-
+! scope="row"| ''Serenity''
+| 
+* Release date: November 10, 2009
+* Label: Straybranch Records
+| —
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:26em;"| Single
+! colspan="3"| Peak chart positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<br><ref>{{cite web|url={{BillboardURLbyName|artist=anita cochran|chart=Country Songs}} |title=Anita Cochran Album & Song Chart History – Country Songs |publisher=[[Billboard (magazine)|Billboard]] |accessdate=October 2, 2010 |archiveurl=https://web.archive.org/web/20101002023600/http://www.billboard.com// |archivedate=October 2, 2010 |url-status=live }}</ref>
+! width="45"| [[Billboard Hot 100|US]]<br><ref>{{cite web|url={{BillboardURLbyName|artist=anita cochran|chart=all}} |title=Anita Cochran Album & Song Chart History – Hot 100 |publisher=[[Billboard (magazine)|Billboard]] |accessdate=October 2, 2010 |archiveurl=https://web.archive.org/web/20101002023600/http://www.billboard.com// |archivedate=October 2, 2010 |url-status=live }}</ref>
+! width="45"| [[RPM (magazine)|CAN Country]]<br><ref>{{cite web|url=http://www.collectionscanada.gc.ca/rpm/028020-110.01-e.php?PHPSESSID=osfnvf78mvbotrkls9en9r4gp2&q1=Anita+Cochran&q2=Country+Singles&interval=20|title=Results – RPM – Library and Archives Canada – Country Singles|publisher=[[RPM (magazine)|RPM]]|accessdate=October 2, 2010|archive-url=https://web.archive.org/web/20121019125710/http://www.collectionscanada.gc.ca/rpm/028020-110.01-e.php?PHPSESSID=osfnvf78mvbotrkls9en9r4gp2&q1=Anita+Cochran&q2=Country+Singles&interval=20|archive-date=October 19, 2012|url-status=dead}}</ref>
+|-
+| rowspan="3"| 1997
+! scope="row"| "I Could Love a Man Like That"
+| 64
+| —
+| —
+| rowspan="4"| ''Back to You''
+|-
+! scope="row"| "Daddy Can You See Me"
+| 69
+| —
+| —
+|-
+! scope="row"| "[[What If I Said]]" {{small|(with [[Steve Wariner]])}}
+| 1
+| 59
+| 1
+|-
+| 1998
+! scope="row"| "Will You Be Here?"
+| 69
+| —
+| —
+|-
+| 1999
+! scope="row"| "For Crying Out Loud"
+| 58
+| —
+| 93
+| rowspan="3"| ''Anita''
+|-
+| rowspan="2"| 2000
+! scope="row"| "Good Times"
+| 50
+| —
+| —
+|-
+! scope="row"| "You With Me"
+| 61
+| —
+| —
+|-
+| rowspan="2"| 2004
+! scope="row"| "(I Wanna Hear) A Cheatin' Song" {{small|(with [[Conway Twitty]])}}
+| 57
+| —
+| —
+| rowspan="2"| ''God Created Woman'' {{small|(unreleased)}}
+|-
+! scope="row"| "God Created Woman"
+| —
+| —
+| —
+|-
+| 2018
+! scope="row"| "Fight Like a Girl"
+| —
+| —
+| —
+| {{n/a|Non-album single}}
+|-
+| colspan="6" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music Videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:18em;"| Video
+! Director
+|-
+| rowspan="3"| 1997
+! scope="row"| "I Could Love a Man Like That"
+| [[Michael Salomon]]
+|-
+! scope="row"| "Daddy Can You See Me"
+| rowspan="2"| Jim Shea
+|-
+! scope="row"| "What If I Said" <small>(with [[Steve Wariner]])</small>
+|-
+| 1999
+! scope="row"| "For Crying Out Loud"
+| Thom Oliphant
+|-
+| rowspan="2"| 2000
+! scope="row"| "Good Times"
+| Gerry Wenner/Frank Scarpaci
+|-
+! scope="row"| "You With Me"
+| Jim Shea
+|-
+| 2003
+! scope="row"| "Destiny's Song" (With [[Deborah Allen]] & [[Tammy Cochran]])
+| 
+|-
+| 2004
+! scope="row"| "(I Wanna Hear) A Cheatin' Song"
+|
+|- 
+| 2018
+! scope="row"| "Fight Like A Girl"
+|
+|-
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Cochran, Anita}}
+[[Category:1967 births]]
+[[Category:American country guitarists]]
+[[Category:American country singer-songwriters]]
+[[Category:American women country singers]]
+[[Category:American country record producers]]
+[[Category:Resonator guitarists]]
+[[Category:Living people]]
+[[Category:American mandolinists]]
+[[Category:People from South Lyon, Michigan]]
+[[Category:Country musicians from Michigan]]
+[[Category:Singer-songwriters from Michigan]]
+[[Category:Guitarists from Michigan]]
+[[Category:20th-century American guitarists]]
+[[Category:American women record producers]]
+[[Category:20th-century American women guitarists]]
+[[Category:21st-century American women]]

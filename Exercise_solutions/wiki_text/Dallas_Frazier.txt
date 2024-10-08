@@ -1,0 +1,212 @@
+{{Short description|American country musician and songwriter (1939–2022)}}
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist
+| name         = Dallas Frazier
+| image        = Dallas Frazier.png
+| image_size   = 200px
+| caption      = Frazier in 1966
+| birth_name   =
+| alias        =
+| birth_date   = {{birth date|1939|10|27}}
+| death_date   = {{death date and age|2022|01|14|1939|10|27}}
+| birth_place  = [[Spiro, Oklahoma]], U.S.
+| death_place  = [[Gallatin, Tennessee]], U.S.
+| instrument   = Vocals
+| genre        = [[Country music|Country]]
+| occupation   = Singer-songwriter
+| years_active = 1954–1988
+| label        = [[Capitol Records|Capitol]], [[RCA Records|RCA]]
+}}
+
+'''Dallas Frazier''' (October 27, 1939 – January 14, 2022) was an American [[country music]]ian and songwriter who had success in the 1950s and 1960s.<ref name=allmusic>{{cite web |url={{AllMusic|class=artist|id=p77627|pure_url=yes}} |title=Dallas Frazier Biography |first=Jason |last=Ankeny |access-date=August 11, 2008 |website=[[AllMusic]]}}</ref>
+
+==Life and career==
+Frazier was born in [[Spiro, Oklahoma]], on October 27, 1939,<ref name="LarkinCountry">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Who's Who of Country Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1993|edition=First|isbn=0-85112-726-6|pages=146/7}}</ref> but was raised in [[Bakersfield, California]].<ref name="LarkinCountry"/> As a teenager, he played with [[Ferlin Husky]] and on the program ''[[Hometown Jamboree]]''; and released his first single, "Space Command", at age 14 in 1954.<ref name=allmusic/> As he told writer Edd Hurt in a 2008 profile for the music website [[Perfect Sound Forever (magazine)|Perfect Sound Forever]], "We were part of ''[[The Grapes of Wrath]]''. We were the Okies who went out to California with mattresses tied on the tops of their Model A Fords. My folks were poor. At twelve I moved away from home, with my folks' permission. Ferlin [Husky] offered me a job, and I started working with him when I was twelve. Then I recorded a side for [[Capitol Records]] when I was fourteen, and I did some country. I cut in the big circular building that's still out there on Hollywood and Vine."
+
+Frazier's 1957 song "[[Alley Oop (song)|Alley Oop]]", later taken to No. 1 in the US by [[The Hollywood Argyles]], was his first hit.<ref name="LarkinCountry"/> After ''Hometown Jamboree'' went off the air, Frazier moved to [[Nashville, Tennessee]], and found work as a songwriter. Among his early successes was "Timber I'm Falling", a hit for Husky in 1964, and "[[There Goes My Everything (song)|There Goes My Everything]]", a big hit for [[Jack Greene]] in 1966,<ref name="LarkinCountry"/> that earned him a nomination for the [[Grammy Award for Best Country Song]].
+
+In 1966, he released his solo debut album ''Elvira'', containing his song "[[Elvira (song)|Elvira]]". His follow-up, ''Tell It Like It Is'' (1967), was also a success.<ref name=allmusic/>
+
+While his singing success was limited, Frazier became an oft-covered songwriter.<ref name="LarkinCountry"/> His tunes were recorded by [[O.C. Smith]], [[George Jones]] (who recorded [[Sings the Songs of Dallas Frazier|an entire album]] of Frazier's songs in 1968), [[Diana Ross]], [[Engelbert Humperdinck (singer)|Engelbert Humperdinck]], [[Jerry Lee Lewis]], [[Jack Greene]], [[Connie Smith]] (who also recorded an [[If It Ain't Love and Other Great Dallas Frazier Songs|entire album]] of Frazier's songs in 1972), [[Willie Nelson]], [[Brenda Lee]], [[Carola Standertskjöld|Carola]], [[Charley Pride]], [[Waylon Jennings]], [[Merle Haggard]], [[Gene Watson]], [[Elvis Presley]], [[Moe Bandy]], [[Roy Head]], [[Charlie Louvin]], [[Rodney Crowell]], [[Dan McCafferty]], [[Poco]] and [[Ronnie Hawkins]]. In 1970, Frazier earned his second [[Grammy Award|Grammy]] nomination for [[Grammy Award for Best Country Song|Best Country Song]], which is awarded to the songwriter rather than the performer, for "[[All I Have to Offer You (Is Me)]], which became a No. 1 hit for [[Charley Pride]]. Many of the songs became hits into the 1980s; examples include the [[Oak Ridge Boys]] cover of "[[Elvira (song)|Elvira]]" and [[Emmylou Harris]]'s version of "Beneath Still Waters".<ref name="LarkinCountry"/> The cover of "Elvira" by the Oak Ridge Boys was a crossover hit, peaking at No. 1 on Billboard's [[Hot Country Songs|Hot Country Singles and Tracks]] chart and No. 5 on the all genre [[Billboard Hot 100]]; and earned Frazier his third Grammy nomination for Best Country song. [[Anne Murray]] with [[Glen Campbell]], [[George Strait]], [[Randy Travis]], and [[Patty Loveless]] have all also recorded Frazier tunes.<ref name=allmusic/> Frazier himself charted eight times on the U.S. country chart. He was inducted into the [[Nashville Songwriters Hall of Fame]] in 1976.
+
+In 1988, Frazier left the music industry and became a [[minister (Christianity)|minister]].<ref name=allmusic/> Frazier suffered two strokes in late 2021, and died from related complications at a care facility in [[Gallatin, Tennessee]], on January 14, 2022, at the age of 82.<ref>{{cite news|url = https://www.nytimes.com/2022/01/16/arts/music/dallas-frazier-dead.html|title = Dallas Frazier, Who Wrote Hits for Country Stars, Dies at 82|last = Friskics-Warren|first = Bill|date = January 16, 2022|accessdate = January 16, 2022|work = [[The New York Times]]|url-access = limited}}</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable"
+! Year
+! Album
+! Label
+|-
+| 1966
+| ''Elvira''
+| rowspan="2"| Capitol
+|-
+| 1967
+| ''Tell It Like It Is''
+|-
+| 1970
+| ''Singing My Songs''
+| rowspan="2"| RCA Victor
+|-
+| 1971
+| ''My Baby Packed Up My Mind and Left Me''
+|}
+
+===Singles===
+{| class="wikitable"
+!rowspan="2"|Year
+!rowspan="2"|Single
+!colspan="4"|Chart Positions
+!rowspan="2"|Album
+|-
+!width="45"|<small>[[Hot Country Songs|US Country]]</small>
+!width="45"|<small>[[Billboard Hot 100|US]]</small><br /><ref name="whitburn2010">{{cite book|last=Whitburn|first=Joel|title=Top Pop Singles 1955–2010|publisher=Record Research, Inc|page=339|year=2011|isbn=978-0-89820-188-8}}</ref>
+!width="45"|<small>CAN Country</small>
+!width="45"|<small>[[RPM (magazine)|CAN]]</small>
+|-
+|1954
+|"Space Command"
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|single only
+|-
+|rowspan=3|1966
+|"[[Elvira (song)|Elvira]]"
+|align=center|—
+|align=center|72
+|align=center|—
+|align=center|27
+|rowspan=3|''Elvira''
+|-
+|"Just a Little Bit of You"
+|align=center|—
+|align=center|108
+|align=center|—
+|align=center|—
+|-
+|"Especially for You"
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|-
+|rowspan=2|1967
+|"My Woman Up't and Gone"
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|''Tell It Like It Is''
+|-
+|"Everybody Oughta Sing a Song"
+|align=center|28
+|align=center|—
+|align=center|23
+|align=center|—
+|rowspan=4|singles only
+|-
+|rowspan=2|1968
+|"The Sunshine of My World"
+|align=center|43
+|align=center|—
+|align=center|—
+|align=center|—
+|-
+|"I Hope I Like Mexico Blues"
+|align=center|59
+|align=center|—
+|align=center|—
+|align=center|—
+|-
+|rowspan=2|1969
+|"The Conspiracy of Homer Jones"
+|align=center|63
+|align=center|120
+|align=center|—
+|align=center|—
+|-
+|"California Cotton Fields"
+|align=center|45
+|align=center|—
+|align=center|—
+|align=center|—
+|rowspan=2|''Singing My Songs''
+|-
+|rowspan=2|1970
+|"She Wants to Be Good"
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|-
+|"The Birthmark Henry Thompson Talks About"
+|align=center|45
+|align=center|—
+|align=center|—
+|align=center|—
+| single only
+|-
+|rowspan=3|1971
+|"Big Mable Murphy"
+|align=center|43
+|align=center|—
+|align=center|—
+|align=center|—
+|rowspan=2|''My Baby Packed Up My Mind and Left Me''
+|-
+|"My Baby Packed Up My Mind and Left Me"
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|-
+|"High Steppin' Mama"
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|rowspan=3|singles only
+|-
+|1972
+|"North Carolina"
+|align=center|42
+|align=center|—
+|align=center|55
+|align=center|—
+|-
+|1973
+|"Let That Lonesome Fiddle Man Take the Lead"
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|}
+
+==References==
+;Notes
+{{reflist}}
+
+;Further reading
+*[https://web.archive.org/web/20100717001023/http://www.nashvillesongwritersfoundation.com/d-g/dallas-frazier.aspx Nashville Songwriters Foundation]
+
+==External links==
+* {{discogs artist|Dallas Frazier}}
+* {{IMDb name|1531651}}
+*[http://www.songwriter.co.uk/page711.html Interview with Dallas Frazier in International Songwriters Association's "Songwriter Magazine"]
+
+{{Authority control}}
+{{CMA for Song of the Year}}
+
+{{DEFAULTSORT:Frazier, Dallas}}
+[[Category:1939 births]]
+[[Category:2022 deaths]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:American country singer-songwriters]]
+[[Category:Bakersfield sound]]
+[[Category:Country musicians from Oklahoma]]
+[[Category:Musicians from Bakersfield, California]]
+[[Category:People from Spiro, Oklahoma]]
+[[Category:Singer-songwriters from Oklahoma]]

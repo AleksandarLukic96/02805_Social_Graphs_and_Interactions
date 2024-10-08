@@ -1,0 +1,78 @@
+{{short description|American singer-songwriter}}
+
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Dale Daniel
+| image               = 
+| caption             = 
+| image_size          = 
+| background          = solo_singer
+| birth_name          = Lisa Dale Daniel 
+| origin              = [[Kentucky]], U.S.
+| instrument          = Vocals
+| genre               = [[Country music|Country]]
+| occupation          = Singer-songwriter
+| years_active        = 1993-1994
+| label               = [[BNA Records|BNA]]
+| website             = 
+}}
+'''Lisa Dale Daniel''' is an American country music artist. She has recorded one studio album, ''Luck of Our Own''. Daniel is the daughter of songwriter Naomi Martin, whose credits include the Grammy nominated "Let's Take the Long Way Around the World" by [[Ronnie Milsap]] and "My Eyes Can Only See as Far as You" by [[Charley Pride]].<ref name="oldies">{{cite web |url=http://www.oldies.com/artist-biography/Dale-Daniel.html |title=Dale Daniel biography |accessdate=2008-09-03 |work=Oldies.com}}</ref> Daniel and Martin also co-wrote the track "Someone to Call Me Darling" on [[Lorrie Morgan]]'s 1992 album ''[[Watch Me (album)|Watch Me]]''She also co-penned a Barbara Mandrel and Lee Greewood duet, “I’d Give Anything to be Everything to You”.<ref name="oldies"/> which also featured Daniel on background vocals.
+
+Daniel made her first recording at age 14, and by 1991, she had joined [[Moe Bandy]]'s band.<ref name="oldies"/> Signed to [[RCA/BNARecords]] (then known as BNA Entertainment) in 1993, she released her [[Jerry Crutchfield]]-produced debut album ''Luck of Our Own'' in 1994 and Daniel still continues to write and live in Nashville, and plans on putting out more music. Daniel's title track on her album “Luck of Our Own” was covered by Keith Urban.[[Keith Urban]]'s 1999 [[Keith Urban (1999 album)|self-titled album]].
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:20em;"| Album details
+|- 
+! scope="row"| ''[[Luck of Our Own]]''
+| 
+* Release date: 1993
+* Label: [[BNA Records]]
+* Format: [[compact disc|CD]], [[audio cassette|cassette]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:16em;"| Single
+! Album
+|-
+| 1993
+! scope="row"| "Coming Back to Haunt Me"
+| rowspan="2"| ''Luck of Our Own''
+|-
+| 1994
+! scope="row"| "You Gave Her Your Name"<ref>{{cite magazine|url=https://www.americanradiohistory.com/Archive-Billboard/90s/1994/BB-1994-01-22.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|date=January 22, 1994}}</ref>
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:16em;"| Video
+! Director
+|-
+| 1993
+! scope="row"| "Coming Back to Haunt Me"<ref>{{cite web|url=http://www.cmt.com/videos/dale-daniel/384325/coming-back-to-haunt-me.jhtml|archive-url=https://web.archive.org/web/20121023173746/http://www.cmt.com/videos/dale-daniel/384325/coming-back-to-haunt-me.jhtml|url-status=dead|archive-date=October 23, 2012|title=CMT : Videos : Dale Daniel: Coming Back to Haunt Me|publisher=[[Country Music Television]]|accessdate=March 17, 2011}}</ref>
+| [[Steven Goldmann]]
+|-
+| 1994
+! scope="row"| "You Gave Her Your Name"<ref>{{cite web|url=http://www.cmt.com/videos/dale-daniel/384407/you-gave-her-your-name.jhtml|title=CMT : Videos : Dale Daniel: You Gave Her Your Name|publisher=[[Country Music Television]]|accessdate=October 14, 2011}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+| Michael Merriman
+|}
+
+==References==
+{{Reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Daniel, Dale}}
+[[Category:American country singer-songwriters]]
+[[Category:Country musicians from Kentucky]]
+[[Category:Living people]]
+[[Category:BNA Records artists]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Singer-songwriters from Kentucky]]

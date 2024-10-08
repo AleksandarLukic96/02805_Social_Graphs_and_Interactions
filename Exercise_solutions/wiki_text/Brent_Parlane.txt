@@ -1,0 +1,115 @@
+{{Use dmy dates|date=April 2017}}
+{{Use Australian English|date=April 2017}}
+{{Infobox musical artist
+| name        = Brent Parlane
+| image       =
+| image_size  =
+| landscape   = <!-- yes, if wide image, otherwise leave blank -->
+| alt         =
+| caption     =
+| birth_name  =
+| alias       =
+| birth_date  =
+| birth_place = New Zealand
+| origin      =
+| death_date  =
+| death_place =
+| genre       = Country
+}}
+'''Brent Parlane''' is a [[country music]] musician and songwriter.<ref>{{Citation | last = Glass | first = Keith | date = July 2003 | title = BRENT'S HAPPY PLACE | periodical = Capital News | url = http://www.capitalnews.com.au/editorial.asp?editorial_id=337&issue=45 | access-date = 10 April 2017 | archive-url = https://web.archive.org/web/20170410220210/http://www.capitalnews.com.au/editorial.asp?editorial_id=337&issue=45 | archive-date = 10 April 2017 | url-status = dead }}</ref><ref>{{Citation | last = Thow | first = Penny | date = 8 January 2004 | title = Parlane back for Tassie fans | periodical = Hobart Mercury }}</ref> His self-titled album was nominated for a 1993 [[ARIA Awards|ARIA Award]] for [[ARIA Award for Best Country Album|Best Country Album]]<ref name="CountryAlbum">{{cite web|url=http://www.ariaawards.com.au/history/award/Best-Country-Album|title=ARIA Awards Best Country Album|publisher=Australian Recording Industry Association (ARIA)|access-date=4 April 2017}}</ref> and he won the 1993 [[Golden Guitar]] for Best New Talent<ref name = "gold">{{Citation | last = Schembri | first = Jim | date = 9 February 1993 | title = The Golden Guitar Comes To Town | periodical = The Age }}</ref> and has been a finalist on four occasions.<ref>{{Citation | date = 25 November 2006 | title = Country musician's new song of freedom | periodical = Canberra Times }}</ref>
+
+Parlane was born in [[New Zealand]] and moved to [[Australia]] in 1976.<ref name = "gold"/> His first solo album was a self-financed and self-produced live album. He then signed with [[ABC Country]].<ref>{{Citation | last = Daly | first = Mike | date = 21 January 1993 | title = Time To Recognise Parlane | periodical = The Age }}</ref>
+
+Parlane was a member of New Zealand [[country rock]] band Beech, which released a single, "Head For Home"/"Ready To Run" (1975), through White Cloud. The band's lineup was Parlane (guitar and vocals), Andrew Forrer (bass), Andrew Kay (keyboards), Phil Jones (guitar and vocals), Ron Mahony (drums) and later Donald Bean (drums).
+
+In Australia Parlane formed 33° South (previously called Tourists)<ref>{{Citation | last = Maskell | first = Vin | date = 19 July 1985 | title = And direct from his record breaking run at... | periodical = The Age | url = https://www.newspapers.com/newspage/122207299/ }}</ref> with Forrer, Kay, Co Tipping (guitar) and Dave Cail (drums). The band put out two singles through [[Polydor Records]]: "This Time It's Love"/"Something To Believe In" (1979) and "Mr President"/"Baby Jane" (1980). These were followed by an album, ''33° South'' (1980).
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+! scope="col" | Title
+! scope="col" | Album details
+|-
+! scope="row" | ''Come On You Guys This Is Serious!''
+|
+* Released: 1982
+* Label: EMI Custom Records (YPRX-1957)
+|-
+! scope="row" | ''Guitar Army''
+|
+* Released: 1988
+* Label: Mr. Wonderful Records 
+|-
+! scope="row" | ''Brent Parlane''
+|
+* Released: 1992<ref>{{Citation | date = 12 December 1992 | title = New Releases: NEW TALENT | periodical = Music & Media }}</ref>
+* Label: ABC Country
+|-
+! scope="row" | ''Tex Loves Daisy''
+|
+* Released: 1994<ref>{{Citation | last = Jarvis | first = Susan | date = 2 April 1995 | title = Parlane's hit | periodical = Sydney Morning Herald | url = https://www.newspapers.com/newspage/120368102/}}</ref>
+* Label: ABC Country (4797812)
+|-
+! scope="row" | ''The Closest''
+|
+* Released: September 1999<ref>{{Citation | last = Glass | first = Keith | date = 3 October 1999 | title = THE CLOSEST BRENT PARLANE (GIBBON MUSIC) | periodical = Sunday Herald Sun }}</ref>
+* Label: Shoestring Records Australia (SR 43)
+|-
+! scope="row" | ''Good Man Down''
+|
+* Released: 2001
+* Label: Shoestring Records Australia (SR 45)
+|-
+! scope="row" | ''The Happy Note''
+|
+* Released: 2003<ref>{{Citation | last = Glass | first = Keith | date = 18 May 2003 | title = COUNTRY The Happy Note Brent Parlane (BP Records) .... In short//Songs rule. | periodical = Sunday Herald Sun }}</ref>
+* Label: Shoestring Records Australia
+|-
+! scope="row" | ''Little Revolution''
+|
+* Released: 2006
+* Label: Shoestring Records Australia
+|-
+! scope="row" | ''This Wonderful Parade''
+|
+* Released: 2011<ref>{{Citation | last = Lawrence | first = Matt | title = THIS WONDERFUL PARADE | periodical = Capital News | url = http://www.capitalnews.com.au/editorial.asp?editorial_id=1965 | access-date = 10 April 2017 | archive-url = https://web.archive.org/web/20170411054223/http://www.capitalnews.com.au/editorial.asp?editorial_id=1965 | archive-date = 11 April 2017 | url-status = dead }}</ref>
+|-
+! scope="row" | ''Brent Parlane Band'' <br> (as Brent Parlane Band)
+|
+* Released: 2016
+|}
+
+==Awards and nominations==
+===ARIA Music Awards===
+The [[ARIA Music Awards]] are a set of annual ceremonies presented by [[Australian Recording Industry Association]] (ARIA), which recognise excellence, innovation, and achievement across all genres of the [[music of Australia]]. They commenced in 1987. 
+
+{{awards table}}
+! {{Abbr|Ref.|Reference}}
+|-
+| [[ARIA Music Awards of 1993|1993]] || ''Brent Parlane'' || [[ARIA Award for Best Country Album|Best Country Album]] || {{nom}} || <ref>ARIA Award previous winners. {{cite web|url=http://www.ariaawards.com.au/history/award/Best-Country-Album|title=ARIA Awards Best Country Album|publisher=Australian Recording Industry Association (ARIA)|access-date=9 April 2022}}</ref>
+{{end}}
+
+===Country Music Awards of Australia===
+The [[Country Music Awards of Australia]] (CMAA) (also known as the Golden Guitar Awards) is an annual awards night held in January during the [[Tamworth Country Music Festival]], celebrating recording excellence in the Australian country music industry. They have been held annually since 1973.<ref>{{cite web|url=https://www.country.com.au/awards/past-award-winners|title=Past Award Winners|access-date=2 November 2020|archive-date=25 October 2020|archive-url=https://web.archive.org/web/20201025171148/https://country.com.au/awards/past-award-winners|url-status=dead}}</ref>
+{{awards table}}
+|-
+| 1993
+| himself - "Save a Little Love"
+| New Talent of the Year
+| {{won}}
+{{end}}
+* Note: wins only
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://bparlane.customer.netspace.net.au/ Brent Parlane]
+
+{{authority control}}
+
+{{DEFAULTSORT:Parlane, Brent}}
+[[Category:20th-century Australian male singers]]
+[[Category:20th-century New Zealand male singers]]
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]

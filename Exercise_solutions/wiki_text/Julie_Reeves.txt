@@ -1,0 +1,113 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=August 2020}}
+{{BLP sources|date=August 2008}}
+{{Infobox musical artist
+| image           =
+| name            = Julie Reeves
+| image_size      =
+| background      = solo_singer
+| birth_name      =
+| alias           =
+| birth_date      = {{birth date and age|1974|6|18}}
+| origin          = [[Ashland, Kentucky]], United States
+| instrument      = Vocals
+| genre           = [[country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 1999–present
+| label           = [[Virgin Records Nashville]], Capitol Records
+| associated_acts = [[Cledus T. Judd]]
+}}
+'''Julie Reeves''' (born June 18, 1984) is an American [[country music]]  recording artist and radio personality. She has had three hit singles on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] chart with two of those singles charting in the [[Top 40]]. Reeves was formerly married to country music parodist and fellow recording artist [[Cledus T. Judd]] but she is now married to bluegrass singer and musician, Chris Davis.
+
+==Biography==
+Julie Reeves grew up in the city of [[Ashland, Kentucky]] then moved to [[Nashville, Tennessee|Nashville]] in 1994 where she gained employment in the country music industry.  Some of her first assignments in Nashville were providing vocals in studio sessions and doing back-up studio work.  She also worked on [[demo recording]]s prior to signing with Capitol Records in 1997. She recorded her debut album with producer Scott Hendricks. After finishing the album, Hendricks left Capitol Records to head the newly formed [[Virgin Records Nashville]]. Julie became the flagship artist of Virgin Records Nashville and released her debut album ''It's About Time'' in 1999 and featured three hit singles which charted on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] charts including two Top 40 hits. She was featured on "Shoulda Shut Up", a song featuring [[Bill Engvall]]'s spoken-word comedy and a sung chorus. Reeves married country music parodist [[Cledus T. Judd]] and gave birth to a daughter, Caitlyn Rose, in 2004.  After giving birth, Reeves took a break from the country music business to raise her daughter.  She later divorced Judd and returned home to the Ashland, Kentucky area.  She is now married to bluegrass musician Chris Davis. The two of them have a son together, Rylan Wesley Davis, born November 5, 2011.
+
+Beginning in April 2013, Reeves became host of the ''Julie Reeves Live'' morning show on [[WDGG|93.7 The Dawg]] (WDGG), which once had the highest share of listeners of all radio stations in the Huntington, WV-Ashland, KY market. She is now the midday announcers for Big Buck Country, a classic country station in the Huntington market.<ref>{{Cite web|url=https://ratings.radio-online.com/cgi-bin/rol.exe/arb193|title=Nielsen Audio Ratings|website=Ratings.radio-online.com|accessdate=April 26, 2020}}</ref> Coincidentally, Reeves morning radio show aired at the same time as her ex-husband Cledus T. Judd's in the Huntington-Ashland MSA. Judd is co-host of ''The Cletus T. Judd Party on [[WTCR-FM]] 103.3.
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:10em;"| Title
+! rowspan="2" style="width:16em;"| Album details
+! colspan="2"| Peak chart<br>positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]<br><ref>{{cite magazine|url={{BillboardURLbyName|artist=julie reeves|chart=Country Albums C}}|title=Julie Reeves Album & Song Chart History – Country Albums|magazine=[[Billboard (magazine)|Billboard]]|accessdate=October 3, 2010}}</ref>
+! width="45"| [[RPM (magazine)|CAN Country]]<br><ref>{{cite magazine|url=http://www.collectionscanada.gc.ca/rpm/028020-110.01-e.php?PHPSESSID=n4krhv4879vqacf5jj1f5bp716&q1=Julie+Reeves&q2=Country+Albums%2FCDs&interval=20|title=Results – RPM – Library and Archives Canada – Country Albums/CDs|magazine=[[RPM (magazine)|RPM]]|accessdate=October 3, 2010|archive-url=https://web.archive.org/web/20170305004227/http://www.collectionscanada.gc.ca/rpm/028020-110.01-e.php?PHPSESSID=n4krhv4879vqacf5jj1f5bp716&q1=Julie+Reeves&q2=Country+Albums%2FCDs&interval=20|archive-date=March 5, 2017|url-status=dead}}</ref>
+|-
+! scope="row"| ''[[It's About Time (Julie Reeves album)|It's About Time]]''
+| 
+* Release date: April 20, 1999
+* Label: [[Virgin Records]]
+| 70
+| 14
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:12em;"| Single
+! colspan="2"| Peak chart<br>positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<br><ref>{{cite magazine|url={{BillboardURLbyName|artist=julie reeves|chart=all}}|title=Julie Reeves Album & Song Chart History – Country Songs|magazine=[[Billboard (magazine)|Billboard]]|accessdate=October 3, 2010}}</ref>
+! width="45"| [[RPM (magazine)|CAN Country]]<br><ref>{{cite magazine|url=http://www.collectionscanada.gc.ca/rpm/028020-110.01-e.php?q1=Julie+Reeves&q2=Country+Singles&interval=20&sk=21&&PHPSESSID=4kmm1fm30cq6tfm7t08su4ja42|title=Results – RPM – Library and Archives Canada – Country Singles|magazine=[[RPM (magazine)|RPM]]|accessdate=October 3, 2010|archive-url=https://web.archive.org/web/20121019144949/http://www.collectionscanada.gc.ca/rpm/028020-110.01-e.php?q1=Julie+Reeves&q2=Country+Singles&interval=20&sk=21&&PHPSESSID=4kmm1fm30cq6tfm7t08su4ja42|archive-date=October 19, 2012|url-status=dead}}</ref>
+|-
+| rowspan="3"| 1999
+! scope="row"| "It's About Time"
+| 51
+| 53
+| align="left" rowspan="3"| ''It's About Time''
+|-
+! scope="row"| "Trouble Is a Woman"
+| 39
+| 57
+|-
+! scope="row"| "What I Need"
+| 38
+| 71
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:12em;"| Video
+! Director
+|-
+| rowspan="3"| 1999
+! scope="row"| "It's About Time"
+| [[Steven Goldmann]]
+|-
+! scope="row"| "Trouble Is a Woman"
+| Guy Guillet
+|-
+! scope="row"| "What I Need"
+| Stephen Shepherd
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20040514063124/http://www.cmt.com/artists/az/reeves_julie/artist.jhtml CMT entry]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Reeves, Julie}}
+[[Category:1974 births]]
+[[Category:Living people]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Musicians from Ashland, Kentucky]]
+[[Category:Virgin Records artists]]
+[[Category:Musicians from Appalachia]]
+[[Category:Country musicians from Kentucky]]
+[[Category:Singer-songwriters from Kentucky]]
+[[Category:Kentucky women musicians]]
+[[Category:Singers from Kentucky]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:21st-century American women singers]]

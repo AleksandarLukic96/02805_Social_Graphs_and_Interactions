@@ -1,0 +1,93 @@
+{{short description|American singer-songwriter}}
+{{redirect|Summer Thing|Afrojack song|SummerThing!}}
+
+{{Use mdy dates|date=July 2020}}
+{{Infobox musical artist
+| name            = Troy Olsen
+| image           =
+| alt             =
+| caption         =
+| image_size      =
+| birth_name      =
+| birth_date      = {{birth date and age|1973|07|12}}<ref>[http://azstarnet.com/entertainment/music/article_cf28f034-6262-5015-b52d-17b976c38427.html Azstarnet.com: Troy Olsen Bio]</ref><br>[[Morenci, Arizona]], U.S.
+| alias           =
+| origin          = [[Duncan, Arizona]], U.S.
+| instrument      = Vocals, guitar
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 2009–present
+| label           = [[Capitol Records Nashville|EMI Nashville]]
+| associated_acts = [[Blake Shelton]]
+}}
+'''Troy Olsen''' (born July 12, 1973) is an American [[country music]] singer-songwriter signed to [[Capitol Records Nashville|EMI Nashville]], He co-wrote [[Blake Shelton]]'s 2009 hit single "[[I'll Just Hold On]]" and [[Tim McGraw]]'s "Ghost Town Train," a cut from the album ''[[Southern Voice (album)|Southern Voice]]''.He also has cuts by many artists including Kid Rock, Michael English, Allison Moorer, Chris Young, Patty Loveless, and Aaron Watson. He has also written several songs for major motion pictures.<ref>{{cite web|url=http://www.bmi.com/news/entry/547922|title=Troy Olsen, More Than a 'Summer Thing'|date=April 22, 2010|work=[[Broadcast Music Incorporated]]|accessdate=May 11, 2010}}</ref><ref>{{cite web|url= http://www.kvoa.com/news/musician-troy-olsen-makes-tucson-proud/|title=Musician Troy Olsen makes Tucson proud|last=Taylor|first=Rebecca|date=April 22, 2010|work=KVOA|accessdate=May 11, 2010}}</ref>
+
+Olsen released his debut single, "Summer Thing," in April 2010, followed by a digital self-titled [[extended play]] on May 11.<ref>{{cite web|url=http://blog.cmt.com/2010-05-11/troy-olsen-arrives-early-on-ghost-town-train/|archive-url=https://web.archive.org/web/20100514013951/http://blog.cmt.com/2010-05-11/troy-olsen-arrives-early-on-ghost-town-train/|url-status=dead|archive-date=May 14, 2010|title=Troy Olsen arrives early on ''Ghost Town Train''|last=Bonaguro|first=Alison|date=May 11, 2010|work=[[Country Music Television|CMT]]|accessdate=May 11, 2010}}</ref> "Summer Thing" debuted at No.&nbsp;57 on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] charts dated for the week ending May 15, 2010. Olsen wrote the song with [[Ben Hayslip]] and [[Jimmy Yeary]].<ref>{{cite web|url=http://www.charlestoncitypaper.com/charleston/troy-olsen-brings-country-to-the-jammer/Content?oid=2189574|title=Troy Olsen brings country to the 'Jammer|last=Lesemann|first=T. Ballard|work=Charleston City Paper|accessdate=August 13, 2010}}</ref>
+
+==Discography==
+
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''Troy Olsen EP''
+|
+* Release date: May 11, 2010
+* Label: [[Capitol Records Nashville|EMI Nashville]]
+|-
+! scope="row"| ''Troy Olsen EP No.&nbsp;2''
+|
+* Release date: October 5, 2010
+* Label: EMI Nashville
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:10em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="60"| [[Hot Country Songs|US Country]]
+|-
+| rowspan="2"| 2010
+! scope="row"| "Summer Thing"
+| 35
+| align="left"| ''Troy Olsen EP''
+|-
+! scope="row"| "Good Hands"
+| 36
+| align="left"| ''Troy Olsen EP No.&nbsp;2''
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:10em;"| Video
+! Director
+|-
+| rowspan="2"| 2010
+! scope="row"| "Summer Thing"
+| Potsy Ponciroli
+|-
+! scope="row"| "Good Hands"
+| Jim Wright
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Olsen, Troy}}
+[[Category:American country singer-songwriters]]
+[[Category:Musicians from Tucson, Arizona]]
+[[Category:EMI Records artists]]
+[[Category:1973 births]]
+[[Category:Living people]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:Country musicians from Arizona]]
+[[Category:Singer-songwriters from Arizona]]

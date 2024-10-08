@@ -1,0 +1,140 @@
+{{short description|American country singer}}
+
+{{Use mdy dates|date=May 2024}}
+{{Other people5|Ken Starr (disambiguation)}}
+{{Infobox musical artist
+| image               = 
+| background          = solo_singer
+| birth_name          = Kenneth Trebbe<ref name="whitburn" />
+| birth_date          = {{birth date and age|1952|09|21}}
+| origin              = [[Burlingame, Kansas]], U.S.
+| birth_place         = [[Topeka, Kansas]], U.S.
+| genre               = [[Country music|Country]]
+| occupation          = Singer
+| years_active        = 1973–1978
+| label               = [[MCA Nashville Records|MCA Nashville]]
+}}
+
+'''Kenneth Trebbe''' (born September 21, 1952),<ref>{{Cite web|url=https://www.allmusic.com/artist/kenny-starr-mn0001610088|title=Kenny Starr &#124; Album Discography|website=[[AllMusic]]|access-date=August 10, 2021}}</ref> known professionally as '''Kenny Starr''', is an American [[country music|country]] singer.<ref name="LarkinCountry">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Who's Who of Country Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1993|edition=First|isbn=0-85112-726-6|page=391}}</ref>
+
+== Biography ==
+Starr was born in [[Topeka, Kansas]] and grew up in [[Burlingame, Kansas]].<ref name="LarkinCountry" /> At the age of nine, he fronted his own group, the Rockin' Rebels, and in his teens he played at local clubs leading a pop group, Kenny and the Imperials.<ref name="LarkinCountry" /> Later switching to country music, a win in a local talent contest led him to perform on a bill containing [[Conway Twitty]] and [[Loretta Lynn]].<ref name="LarkinCountry" /> Lynn encouraged his efforts and, with her support, Starr secured a recording contract with [[MCA Records]].<ref name="LarkinCountry" />
+
+He recorded for MCA between 1973 and 1978, charting 13 [[single (music)|singles]],<ref name="auto">{{Cite web|url=https://www.billboard.com/artist/kenny-starr/chart-history/csi/|title=Kenny Starr|website=Billboard.com|access-date=August 10, 2021}}</ref> and releasing one studio album. For much of the 1970s, he was a member of Loretta Lynn's touring band, the Coal Miners.<ref name="LarkinCountry" />
+
+Starr's biggest hit was a [[cover version|cover]] of [[David Geddes (musician)|David Geddes]]'s single "The Blind Man in the Bleachers".<ref name="LarkinCountry" /> Starr's version was a hit single in the U.S. on the country charts in 1976, reaching No.&nbsp;2 on the Country Singles chart,<ref name="auto" /> and was a minor hit on the pop charts peaking at No.&nbsp;58 on the [[Billboard Hot 100|''Billboard'' Hot 100]] and went to No.&nbsp;1 on the country chart in Canada. The album from which it was taken, also called ''The Blind Man in the Bleachers'', reached No.&nbsp;12 on the [[Billboard magazine|Billboard]] Country Albums chart.
+
+== Discography ==
+{| class="wikitable"
+|-
+!rowspan="2"|Year
+!rowspan="2"|Single
+!colspan="4"|Chart Positions
+|-
+!width="50"|<small>[[Hot Country Songs|US Country]]</small><ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc.|year=2008|pages=399|isbn=978-0-89820-177-2}}</ref>
+!width="50"|<small>[[Billboard Hot 100|US]]</small><ref name="whitburn" />
+!width="50"|<small>CAN Country</small>
+!width="50"|<small>CAN</small>
+|-
+|rowspan=2|1973
+|"That's a Whole Lotta Lovin' (You Give Me)"
+|align=center|56
+|align=center|—
+|align=center|—
+|align=center|—
+|-
+|"Ev'ryday Woman"
+|align=center|97
+|align=center|—
+|align=center|—
+|align=center|—
+|-
+|rowspan=2|1975
+|"Put Another Notch in Your Belt"
+|align=center|89
+|align=center|—
+|align=center|—
+|align=center|—
+|-
+|"[[The Blind Man in the Bleachers]]"
+|align=center|2
+|align=center|58
+|align=center|1
+|align=center|82
+|-
+|rowspan=4|1976
+|"Tonight I'll Face the Man (Who Made It Happen)"
+|align=center|26
+|align=center|—
+|align=center|—
+|align=center|—
+|-
+|"The Calico Cat"
+|align=center|73
+|align=center|—
+|align=center|—
+|align=center|—
+|-
+|"Victims"<sup>A</sup>
+|align=center|75
+|align=center|—
+|align=center|—
+|align=center|—
+|-
+|"I Just Can't (Turn My Habit into Love)"
+|align=center|58
+|align=center|—
+|align=center|—
+|align=center|—
+|-
+|rowspan=3|1977
+|"Me and the Elephant"
+|align=center|43
+|align=center|—
+|align=center|—
+|align=center|—
+|-
+|"Old Time Lovin'"
+|align=center|64
+|align=center|—
+|align=center|—
+|align=center|—
+|-
+|"Hold Tight"
+|align=center|25
+|align=center|—
+|align=center|—
+|align=center|—
+|-
+|rowspan=2|1978
+|"The Rest of My Life"
+|align=center|72
+|align=center|—
+|align=center|—
+|align=center|—
+|-
+|"Slow Drivin'"
+|align=center|70
+|align=center|—
+|align=center|—
+|align=center|—
+|-
+|}
+*<sup>A</sup>[[B-side]] to "The Calico Cat."
+
+== References ==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Starr, Kenny}}
+[[Category:1952 births]]
+[[Category:Living people]]
+[[Category:American country singer-songwriters]]
+[[Category:Musicians from Topeka, Kansas]]
+[[Category:MCA Records artists]]
+[[Category:People from Burlingame, Kansas]]
+[[Category:Singer-songwriters from Kansas]]
+
+
+{{US-singer-stub}}

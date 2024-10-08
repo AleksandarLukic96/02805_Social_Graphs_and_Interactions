@@ -1,0 +1,100 @@
+{{Short description|Australian musician}}
+{{EngvarB|date=December 2021}}
+{{Use dmy dates|date=December 2021}}
+{{Portal|Music|Australia}}
+{{Infobox musical artist
+| image           =
+| caption         =
+| name            = Lawrie Minson
+| birth_date      = {{birth date and age|df=yes|1958|9|13}}
+| birth_place     = [[Paddington, New South Wales|Paddington]], NSW Australia
+| birth_name      = Lawrence Minson
+| instrument      = Accordion, banjo, [[didgeridoo]], guitar, harmonica, harp, mandolin, piano, vocals <ref>{{Cite web | url=http://www.allmusic.com/artist/lawrie-minson-mn0001980170/credits | title=Lawrie Minson &#124; Credits | website=[[AllMusic]] }}</ref>
+| genre           = [[Country music|Country]] / [[Rockabilly]]
+| occupation      = Musician, Songwriter
+| years_active    = 1979–present
+| label           =
+| associated_acts = Buddy Williams <br /> Lee Kernaghan
+| website         = 
+}}
+
+'''Lawrence (Lawrie) Minson''' (born 13 September 1958) is an Australian country musician, best known as a session player.<ref name=headlineact>{{cite web|url=https://www.examiner.com.au/story/430134/minson-goes-it-alone-for-the-first-time/|title=Minson goes it alone for the first time|publisher=The Examiner|date=5 February 2012|accessdate=14 December 2021}}</ref>
+
+==Career==
+Minson is the son of former Australian radio personality [[John Minson]]. His country music career commenced in 1979 accompanying [[Buddy Williams (country musician)|Buddy Williams]] on tour as a guitarist. He went on to performing with Slim Dusty in 1981 and 1982. Since then, Minson has performed as part of the [[Lee Kernaghan]] touring band and accompanied various other Australian acts.<ref>https://www.imdb.com/name/nm1323682/ {{User-generated source|certain=yes|date=March 2022}}</ref> In 1989, Minson contributed "[[When the Rain Tumbles Down in July]]" and "Murrumbidgee Jack", as a tribute to [[Tex Morton]], on an instrumental record album of Australian classics. He married Shelley Watts in 2008. Together, they have performed as a rockabilly duo. In 2012, Minson's debut as a headline act was at an Australian Italian club in [[Launceston, Tasmania]].<ref name=headlineact />
+
+In 2016, Tamworth Songwriters' Association presented Minson with the ''Tex Morton Award'' for his support and promotion of new songwriters.<ref>{{cite web |title=Tamworth Songwriters Association Past Winners History |url=https://www.tsaonline.com.au/wp-content/uploads/2021/07/2016-to-2017correction.pdf |website=TSA Online |access-date=20 December 2021}}</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of Albums
+! scope="col"| Title
+! scope="col"| Details
+|-
+! scope="row"| ''Memories Of Home - An Instrumental Tribute to Our Travelling Country Music Showmen''
+|
+* Released: 1989
+* Label: EMI (EMX 781815)
+|-
+! scope="row" | ''Family Tree''
+|
+* Released: 1996
+* Label: ABC Music (724348984029)
+|-
+! scope="row" | ''Milestones: The Ultimate Collection''
+|
+* Released: 2011
+* Note: Compilation album
+|}
+
+===Charting singles===
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1" 
+|+ List of singles as featured artist, with selected chart positions
+! scope="col" rowspan="2" style="width:19em;"| Title 
+! scope="col" rowspan="2" style="width:1em;"| Year 
+! scope="col" colspan="1" |Peak chart positions 
+|- 
+! scope="col" style="width:3em;font-size:90%;"| [[ARIA Charts|AUS]]<br /><ref>{{cite book|last=Kent|first=David|authorlink=David Kent (historian)|title=Australian Chart Book 1970–1992|edition=Illustrated|publisher=Australian Chart Book|location=St Ives, N.S.W.|year=1993|pages=22|isbn=0-646-11917-6}} N.B. The Kent Report chart was licensed by [[Australian Recording Industry Association|ARIA]] between mid-1983 and 19 June 1988.</ref>
+|- 
+! scope="row"| "[[The Garden (Australia Too song)|The Garden]]"<br /><span style="font-size:85%;">(as Australia Too)</span> 
+| 1985
+| 22
+|}
+
+==Awards==
+===CMAA Awards===
+These annual awards have been presented since 1973 and have been organised by [[Country Music Association of Australia]] (CMAA) from 1993,<ref>{{cite web | url = http://www.country.com.au/index.cfm?page_id=1011 | title = About the CMAA Country Music Awards of Australia | publisher = Country Music Association of Australia (CMAA) | access-date = 25 October 2012 |archive-url = https://web.archive.org/web/20080719040922/http://country.com.au/index.cfm?page_id=1011 | archive-date = 19 July 2008 }}</ref> to "encourage, promote and recognise excellence in Australian country music recording". From that time, the recipient's trophy has been a [[Country Music Awards of Australia#Golden Guitar trophy|Golden Guitar]].<ref>{{cite web | url = http://www.country.com.au/index.cfm?page_id=1019 | title = CMAA Country Music Awards of Australia Winners Archive | publisher = Country Music Association of Australia | access-date = 25 October 2012 |archive-url = https://web.archive.org/web/20080719044338/http://country.com.au/index.cfm?page_id=1019 | archive-date = 19 July 2008 }}</ref><ref>{{cite web|url=https://www.country.com.au/awards/past-award-winners|title=Past Award Winners|accessdate=2 November 2020}}</ref>
+{{awards table}} (wins only)
+|-
+| 1990
+| "Wild River"
+| Instrumental of the Year
+| {{won}}
+|-
+| 1997
+| "Action Jackson"
+| Instrumental of the Year
+| {{won}}
+{{end}}
+
+===Tamworth Songwriters Awards===
+The Tamworth Songwriters Association (TSA) is an annual songwriting contest for original country songs, awarded in January at the [[Tamworth Country Music Festival]]. They commenced in 1986.<ref>{{cite web|url=https://www.tsaonline.com.au/song-competition/|title=Tamworth Songwriters Association|website=Tamworth Songwriters Association Online|access-date=23 March 2022}}</ref><ref>{{cite web|url=https://www.tsaonline.com.au/past-winners/|title=Tamworth Songwriters Association Past Winners|website=Tamworth Songwriters Association Online|access-date=23 March 2022}}</ref>
+{{awards table}} (wins only)
+|-
+| 2016
+| Lawrie Minson 
+| Tex Morton Award
+| {{yes2|awarded}}
+|-
+{{end}}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Minson, Lawrie}}
+[[Category:1958 births]]
+[[Category:Australian musicians]]
+[[Category:Living people]]

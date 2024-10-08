@@ -1,0 +1,435 @@
+{{Use dmy dates|date=May 2014}}
+{{Infobox musical artist
+| name         = Graeme Connors
+| image        =
+| caption      =
+| birth_place  = [[Mackay, Queensland]], Australia
+| birth_date   = {{b-da|29 April 1956}}
+| occupation   = {{hlist|Singer|songwriter|composer|musician}}
+| years_active = 1974–present
+}}
+
+'''Graeme Connors''' (born 29 April 1956) is an [[Australian country music]] singer, songwriter, and performer. Connors has released seventeen studio albums and has received fourteen [[Golden Guitar]] awards among other prestige [[Australian country music awards]]. 
+
+In 2009 as part of the [[Q150]] celebrations, Graeme Connors was announced as one of the [[Q150 Icons]] of Queensland for his role as an "Influential Artists".<ref>{{Cite web|url=http://statements.qld.gov.au/statement/id/64301|title=PREMIER UNVEILS QUEENSLAND'S 150 ICONS|last=Bligh|first=Anna|authorlink=Anna Bligh|date=10 June 2009|publisher=[[Queensland Government]]|archive-url=https://web.archive.org/web/20170524033717/http://statements.qld.gov.au/statement/id/64301|archive-date=24 May 2017|url-status=|access-date=24 May 2017}}</ref>
+
+In 2016, Connors was inducted into the [[Australian Roll of Renown]].<ref>{{cite web |url=https://www.tcmf.com.au/What-s-On/Roll-of-Renown/ |title=Roll of Renown |publisher=TCMF |accessdate=21 August 2018 |archive-url=https://web.archive.org/web/20180821093757/https://www.tcmf.com.au/What-s-On/Roll-of-Renown/ |archive-date=21 August 2018 |url-status=dead }}</ref>
+
+==Career==
+===1965-1987: Early career===
+Graeme attended school [[St. Patricks in Mackay]]. Graeme commenced his music career in the mid-1970s doing support vocals for many well-known acts of the day. 
+
+In 1974, at the age of 18, Connors opened for American singer/songwriter, [[Kris Kristofferson]] during his Australian tour. Kristofferson was so impressed with young Connors, that he took him into the recording studio to produce his 1976 debut album ''And When Morning Comes''.<ref name="about">{{cite web|url=https://graemeconnors.com|title=About Graeme Connors|website=Graeme Connors|accessdate=24 August 2020}}</ref>
+
+From the late 1970s through to the late 1980s, Connors wrote songs that became big hits for [[Slim Dusty]], [[John Denver]] and [[Jon English]].
+
+Connors spent the first half of the 1980s writing songs based on truck driving which became hits for Slim Dusty such as "I'm Married to My Bulldog Mack" and "Dieseline Dreams".
+
+===The 1987-present===
+In 1988, Connors had recorded and released the breakthrough single "A Little Further North", featured on his first album on the Australian ABC Records label, ''North''. Subsequent singles followed with the releases of "Let the Canefields Burn", "Cyclone Season", "Sicilian Born" and "A Heartache (Or Two)".
+
+In 1995 - Connors released the album ''The Here and Now'' and won three golden guitars at the CMAA Awards, including Album of the Year. 
+In 1995, Connors won MO Award for Male Country Performer of the Year and was Inducted into the Hands of Fame.<ref name="AboutGC"/>
+
+In 1998 Connors wrote the Cowboys Theme song "The Cowboys are my Team".<ref name="about"/>
+
+In 2000, Connors performed at both the Opening and Closing Ceremonies for the [[Sydney 2000|2000 Paralympics]] and he wrote their theme song "Being Here".<ref name="AboutGC"/> 
+
+In 2011, Connors was awarded Album of the Year at the 2011 [[Tamworth Country Music Festival]] for ''Still Walking''.<ref name="AboutGC"/>
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of studio albums, with selected chart positions and certifications 
+! scope="col" rowspan="2" style="width:14em;"| Title
+! scope="col" rowspan="2" style="width:20em;"| Album details
+! scope="col" colspan="1"| Peak chart positions
+! scope="col" rowspan="2" style="width:12em;"| [[List of music recording certifications|Certifications]]
+|-
+! scope="col" style="width:3em;font-size:90%;"| [[ARIA Charts|AUS]]<br><ref name="AUS Charts">{{cite book|last=Ryan|first=Gavin|title=Australia's Music Charts 1988–2010|year=2011|publisher=Moonlight Publishing|location=Mt. Martha, VIC, Australia|edition=pdf|page=65}}</ref><ref>{{cite web|url=https://australian-charts.com/search.asp?cat=a&search=Graeme+Connors+|title=Australian Charts Graeme Connors |work=Australian Charts Portal|publisher=Hung Medien|accessdate=25 August 2020}}</ref>
+|-
+! scope="row"| ''And When Morning Comes''
+|
+*Released: 1976
+*Label: [[Festival Records]] (L35794)
+*Format: [[Vinyl record|LP]]
+| -
+|
+|-
+! scope="row"| ''North''
+|
+*Released: April 1988
+*Label: ABC Music (479593-2)
+*Format: CD, LP
+| 99
+|
+*ARIA: Platinum<ref name="AboutGC">{{cite web|url=https://www.countrymusichalloffame.com.au/Renown/2016%20-%20Connors_Graeme.html|title=GRAEME CONNORS - 2016|website=countrymusichalloffame|accessdate=24 August 2020}}</ref>
+|-
+! scope="row"| ''South of These Days''
+|
+*Released: 1989
+*Label: ABC Music (479614-2)
+*Format: CD, LP
+| -
+|
+|-
+! scope="row"| ''Tropicali''
+|
+*Released: 1991
+*Label: ABC Music (510307-2)
+*Format: CD, LP
+| -
+|
+|-
+! scope="row"| ''The Return''
+|
+*Released: May 1993
+*Label: ABC Music (514511-2)
+*Format: CD, Cassette
+| 90
+|
+|-
+! scope="row"| ''Homeland''
+|
+*Released: 1993
+*Label: The Panama Music Company (423576-2)
+*Format: CD, Cassette
+| -
+|
+|-
+! scope="row"| ''The Here and Now''
+|
+*Released: 1995
+*Label: ABC Country (489119-2)
+*Format: CD, Cassette
+| -
+|
+|-
+! scope="row"| ''[[The Road Less Travelled (Graeme Connors album)|The Road Less Travelled]]''
+|
+*Released: August 1996
+*Label: ABC Country (489598-2) 
+*Format: CD, Cassette
+| 62
+|
+*ARIA: Gold<ref name="AUS Charts"/>
+|-
+! scope="row"| ''One of the Family''
+|
+*Released: 1997
+*Label: ABC Country 
+*Format: CD, Cassette
+| -
+|
+|-
+! scope="row"| ''A Delicate Balance''
+|
+*Released: 1999
+*Label: ABC Country (520795 2)
+*Format: CD, Cassette
+| 94
+|
+|-
+! scope="row"| ''This Is Life''
+|
+*Released: 2002
+*Label: ABC Country (2558302953)
+*Format: CD
+| 60
+|
+|-
+! scope="row"| ''The Moment''
+|
+*Released: 2004
+*Label: ABC Country 
+*Format: CD, Dd
+| -
+|
+|-
+! scope="row"| ''The Last Supperteers'' (with The Fiddler's Feast)
+|
+*Released: 2007
+*Label: Panama Music (70510518819)
+*Format: CD, Digital download
+| -
+|
+|-
+! scope="row"| ''Still Walking''
+|
+*Released: 2010<ref>{{cite web|url=https://music.apple.com/au/album/still-walking/1374682424|title=Still Walking (DD)|website=Apple Music|date=2010|accessdate=24 August 2020}}</ref>
+*Label: Panama Music (1794200015)
+*Format: CD, Digital download
+| -
+|
+|-
+! scope="row"| ''At the Speed of Life''
+|
+*Released: 2011<ref>{{cite web|url=https://music.apple.com/au/album/at-the-speed-of-life/1374710783|title=At the Speed of Life (DD)|website=Apple Music|date=2011|accessdate=24 August 2020}}</ref>
+*Label: Panama Music 
+*Format: CD, Digital download
+| -
+|
+|-
+! scope="row"| ''Kindred Spirit''
+|
+*Released: 2013<ref>{{cite web|url=https://music.apple.com/au/album/kindred-spirit/1374692002|title=Kindred Spirit|website=Apple Music|date= 2013|accessdate=24 August 2020}}</ref>
+*Label: Panama Music (1794200018)
+*Format: CD, Digital download
+| -
+|
+
+|-
+! scope="row"| ''From the Backcountry''
+|
+*Released: 3 August 2018<ref>{{cite web|url=https://music.apple.com/au/album/from-the-backcountry/1395771149|title=From the Backcountry|website=Apple Music|date=3 August 2018|accessdate=24 August 2020}}</ref>
+*Label: Panama Music (1794200018)
+*Format: CD, Digital download
+| 31
+|
+|}
+
+===Live albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of live albums, with selected details
+! scope="col" rowspan="1" style="width:14em;"| Title
+! scope="col" rowspan="1" style="width:20em;"| Album details
+|-
+! scope="row"| ''#1 Hits Live''
+|
+*Released: May 2018<ref>{{cite web|url=https://music.apple.com/au/album/1-hits-live/1375375559|title=1 Hits Live|website=Apple Music|date=4 May 2018|accessdate=24 August 2020}}</ref>
+*Label: Panama Music
+*Format: Digital download, streaming
+|}
+
+===Compilation albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of compilation, with selected chart positions and certifications 
+! scope="col" rowspan="2" style="width:20em;"| Title
+! scope="col" rowspan="2" style="width:20em;"| Album details
+! scope="col" colspan="1"| Peak chart positions
+! scope="col" rowspan="2" style="width:12em;"| [[List of music recording certifications|Certifications]]
+|-
+! scope="col" style="width:3em;font-size:90%;"| [[ARIA Charts|AUS]]<br><ref name="AUS Charts"/>
+|-
+! scope="row"| ''The Best... Til' Now''
+|
+*Released: October 2000
+*Label: ABC Music (520795-2)
+*Format: CD
+| 45
+|
+*ARIA: Gold<ref name="AUS Charts"/>
+|-
+! scope="row"| ''It's All Good... More of the Best''
+|
+*Released: 2006<ref>{{Cite web |url=http://graemeconnors.com/biography.php |title=Graeme Connors |access-date=16 July 2012 |archive-url=https://web.archive.org/web/20120320095217/http://www.graemeconnors.com/biography.php |archive-date=20 March 2012 |url-status=dead }}</ref>
+*Label: Panama Music (1794200013)
+*Format: CD
+| -
+|
+|-
+! scope="row"| ''[[60 Summers|60 Summers – The Ultimate Collection]]''
+|
+*Released: 29 April 2016<ref>{{Cite web |url=https://www.jbhifi.com.au/products/cd-connors-graeme-60-summers-cd|title=60 Summers – The Ultimate Collection |website=[[JB Hi-Fi]]|date= |accessdate=24 August 2020}}</ref>
+*Label: (4785233)
+*Format: 2x CD, DD
+| 11
+|
+|-
+|}
+
+==Awards and nominations==
+===AIR Awards===
+The Australian Independent Record Awards (commonly known informally as [[AIR Awards]]) is an annual awards night to recognise, promote and celebrate the success of Australia's Independent Music sector.
+{{awards table}}
+|-
+| [[AIR Awards of 2012|2012]]<ref name="12nom">{{cite web|url=https://www.air.org.au/news/story/nominations-2012-jagermeister-independent-music-awards|title=NOMINATIONS: 2012 Jagermeister Independent Music Awards|website=Australian Independent Record Labels Association|date=17 September 2012|accessdate=20 August 2020|archive-date=17 April 2021|archive-url=https://web.archive.org/web/20210417032418/https://www.air.org.au/news/story/nominations-2012-jagermeister-independent-music-awards|url-status=dead}}</ref>
+|''At the Speed of Life'' 
+| Best Independent Country Album
+| {{nom}}
+|-
+{{end}}
+
+===APRA Awards===
+The [[APRA Awards (Australia)|APRA Awards]] are held in Australia and New Zealand by the [[Australasian Performing Right Association]] to recognise songwriting skills, sales and airplay performance by its members annually. Lewis has won three awards from seven nominations.<ref>{{cite web|url=https://apraamcos.com.au/search?searchtype=site&keywords=Graeme+connors|title=Graeme Connors APRA search|publisher=[[APRA Awards (Australia)]]|accessdate=24 August 2020}}</ref>
+
+{{awards table}}
+|-
+| [[APRA Music Awards of 1986|1986]]
+| "I'm Married To My Bulldog Mack" (written by Graeme Connors / Doug Trevor)
+| Most Performed Australasian Country Work
+| {{won}}
+|-
+| [[APRA Music Awards of 1990|1990]]
+| "A Little Further North Each Year" (written by Graeme Connors)
+| Most Performed Australasian Country Work
+| {{won}}
+|-
+| [[APRA Music Awards of 1998|1998]]
+| "Road Less Travelled" by Graeme Connors (written by Graeme Connors)
+| Most Performed Australasian Country Work
+| {{nom}}
+|-
+| [[APRA Music Awards of 1998|1998]]
+| "These Uncertain Times" by Graeme Connors (written by Graeme Connors)
+| Most Performed Australasian Country Work
+| {{nom}}
+|-
+| [[APRA Music Awards of 2002|2002]]
+| "Good Things in Life" by Adam Brand (written by Adam Brand & Graeme Connors)
+| Most Performed Australasian Country Work
+| {{nom}}
+|-
+|}
+
+===ARIA Music Awards===
+The [[ARIA Music Awards]] is an annual awards ceremony that recognises excellence, innovation, and achievement across all genres of [[Australian music]]. Connors has won one award from four nominations.<ref>{{cite web|url=https://www.ariaawards.com.au/history/search/?text=Graeme%20connors|title=Grame Connors search|website=ARIA search|accessdate=24 August 2020}}</ref>
+{{awards table}}
+|-
+| [[ARIA Music Awards of 1992|1992]]
+|''Tropicali'' 
+| [[ARIA Award for Best Country Album|Best Country Album]]
+| {{nom}}
+|-
+| [[ARIA Music Awards of 1994|1994]]
+|''The Return'' 
+| Best Country Album
+| {{nom}}
+|-
+| [[ARIA Music Awards of 1996|1996]]
+|''The Here and Now'' 
+| Best Country Album
+| {{nom}}
+|-
+| [[ARIA Music Awards of 1997|1997]]
+|''The Road Less Travelled'' 
+| Best Country Album
+| {{won}}
+|-
+{{end}}
+
+===Country Music Awards (CMAA)===
+Connors has won fourteen [[Golden Guitar|Golden guitar]] awards at the [[Tamworth, New South Wales|Tamworth]] [[Country Music Awards of Australia]] and was inducted into the [[Australian Roll of Renown]].<ref name="about"/>
+*Note: Wins Only
+{{awards table}}
+|-
+| 1989 || "We've Done Us Proud" (recorded by [[Slim Dusty]]) || Song of the Year || {{won}}
+|-
+| 1995 || "Songs from the Homeland" || Song of the Year || {{won}}
+|-
+| 1995 || ''Homeland'' || Album of the Year || {{won}}
+|-
+| 1995 || ''Homeland' || Male Vocalist of the Year || {{won}}
+|-
+| 1996 || "The Great Australian Dream" || Song of the Year || {{won}}
+|-
+| 1996 || "Slowly But Surely" (with Rosemary Rae)|| Vocal Collaboration of the Year || {{won}}
+|-
+| 1996 || "The Ringer and the Princess" || Bush Ballad Heritage Song || {{won}}
+|-
+| 1996 || "The Great Australian Dream" || Video Track of the Year || {{won}}
+|-
+| 1997 || ''The Road Less Travelled'' || Album of the Year || {{won}}
+|-
+| 1997 || "The Road Less Travelled" || Male Vocalist of the Year || {{won}}
+|-
+| 2001 || "Good Things in Life" (recorded by Adam Brand) || Song of the Year || {{won}}
+|-
+| 2004 || "The Simple Truth" || Video Track of the Year || {{won}}
+|-
+| 2011 || "A Good Life" || Male Artist of the Year || {{won}}
+|-
+| 2011 || ''Still Walking'' || Album of the Year || {{won}}
+|-
+| 2017 || himself || [[Australian Roll of Renown]] || {{yes2|inductee}}
+|-
+{{end}}
+
+===Mo Awards===
+The Australian Entertainment Mo Awards (commonly known informally as the [[Mo Awards]]), were annual Australian entertainment industry awards. They recognise achievements in live entertainment in Australia from 1975 to 2016. Graeme Connors won two awards in that time.<ref>{{cite web|url=https://www.moawards.com.au/awardwinners|title=MO Award Winners|website=Mo Awards|access-date=16 March 2022|archive-date=7 March 2022|archive-url=https://web.archive.org/web/20220307064432/https://www.moawards.com.au/awardwinners|url-status=dead}}</ref>
+{{awards table}} (wins only)
+|-
+| 1994
+| Graeme Connors 
+| Male Country Entertainer of the Year 
+| {{won}}
+|-
+| 1996
+| Graeme Connors 
+| Male Country Entertainer of the Year 
+| {{won}}
+|-
+{{end}}
+
+===Tamworth Songwriters Awards===
+The Tamworth Songwriters Association (TSA) is an annual songwriting contest for original country songs, awarded in January at the [[Tamworth Country Music Festival]]. They commenced in 1986.<ref>{{cite web|url=https://www.tsaonline.com.au/song-competition/|title=Tamworth Songwriters Association|website=Tamworth Songwriters Association Online|access-date=23 March 2022}}</ref> Graeme Connors won nine awards in that time.<ref>{{cite web|url=https://www.tsaonline.com.au/past-winners/|title=Tamworth Songwriters Association Past Winners|website=Tamworth Songwriters Association Online|access-date=23 March 2022}}</ref><ref name="about"/>
+{{awards table}} (wins only)
+|-
+| 1992
+| Graeme Connors 
+| Songmaker Award
+| {{won}}
+|-
+|rowspan="2"| 1994
+|rowspan="2"| "Prodigal Son"
+| Contemporary Song of the Year
+| {{won}}
+|-
+| Country Song of the Year
+| {{won}}
+|-
+| 1995
+| "Songs from the Homeland"
+| Contemporary Song of the Year
+| {{won}}
+|-
+| 1996
+| "The Great Australian Dream"
+| Contemporary Song of the Year
+| {{won}}
+|-
+| 1997
+| "The Road Less Travelled"
+| Contemporary Song of the Year
+| {{won}}
+|-
+|rowspan="2"| 1998
+| "I Believe in Santa Claus"
+| Children's Song of the Year
+| {{won}}
+|-
+| "One Child Born"
+| Gospel Song of the Year
+| {{won}}
+|-
+| 2000
+| "These Uncertain Times"
+| Contemporary Song of the Year
+| {{won}}
+|-
+{{end}}
+
+===Other Awards===
+*1975 American Song Festival Award<ref name="about"/>
+*1976 American Song Festival Award<ref name="about"/>
+*2000 Victorian Country Music Awards - Song of the Year "These Uncertain Times"<ref name="about"/>
+*2005 Victorian Country Music Awards - Song of the Year "Hard Decisions"<ref name="about"/>
+*2009 Q150 Queensland Icon Award<ref name="about"/>
+*2011 WARP Gold Medallion Award (Queensland Male Vocalist of the Year)<ref name="about"/>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.graemeconnors.com Graeme Connors Official Website]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Connors, Graeme}}
+[[Category:1956 births]]
+[[Category:Living people]]
+[[Category:APRA Award winners]]
+[[Category:ARIA Award winners]]
+[[Category:Australian country singers]]
+[[Category:Musicians from Queensland]]
+[[Category:Q150 Icons]]

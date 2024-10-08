@@ -1,0 +1,252 @@
+{{short description|American singer-songwriter}}
+{{for|the American actor Bobby (Quinn) Rice|Bobby Rice}}
+
+{{Use mdy dates|date=July 2020}}
+{{BLP one source|date=August 2021}}
+{{Infobox musical artist
+| name            = Bobby G. Rice
+| image           =
+| caption         =
+| image_size      =
+| birth_name      = Robert Gene Rice
+| alias           =
+| birth_date      = {{birth date and age|1944|07|11}}
+| origin          = [[Boscobel, Wisconsin]], United States
+| death_date      =
+| instrument      = Vocals, guitar
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 1970–1988
+| label           = Royal American, Metromedia, GRT, Sunbird, [[Audiograph]], Door Knob
+| associated_acts =
+| website         = 
+}}
+
+'''Robert Gene Rice''' (born July 11, 1944, in [[Boscobel, Wisconsin]], United States)<ref name="LarkinCountry">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Who's Who of Country Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1993|edition=First|isbn=0-85112-726-6|pages=340/1}}</ref> is an American [[country music]] singer-songwriter, known professionally as '''Bobby G. Rice'''. Between 1970 and 1988, Rice released nine albums and charted thirty songs on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles]] chart. His biggest hit, "You Lay So Easy On My Mind," peaked at Number 3 in 1973.<ref name="LarkinCountry"/>
+
+==Discography==
+===Albums===
+{| class="wikitable"
+! Year
+! Album
+! <small>[[Top Country Albums|US Country]]</small>
+! Label
+|-
+| 1972
+| ''Hit After Hit''
+| align="center"| —
+| Royal American
+|-
+| 1973
+| ''You Lay So Easy on My Mind''
+| align="center"| 7
+| Metromedia
+|-
+| 1974
+| ''She Sure Laid the Lonelies On Me''
+| align="center"| 43
+| rowspan="4"| GRT
+|-
+| 1975
+| ''Write Me a Letter''
+| align="center"| 43
+|-
+| rowspan="2"| 1976
+| ''Instant Rice: The Best of Bobby G.''
+| align="center"| 41
+|-
+| ''With Love''
+| align="center"| —
+|-
+| 1981
+| ''The Best of Bobby G. Rice''
+| align="center"| —
+| [[Sunbird Records]]
+|-
+| 1982
+| ''Bobby's Back''
+| align="center"| —
+| [[Audiograph]]
+|-
+| 1985
+| ''A New Beginning''
+| align="center"| —
+| Door Knob
+|}
+
+===Singles===
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="2"| Chart Positions
+! rowspan="2"| Album
+|-
+! width="50"| <small>[[Hot Country Songs|US Country]]</small>
+! width="50"| <small>CAN Country</small>
+|-
+| rowspan="2"| 1970
+| "Sugar Shack"
+| align="center"| 32
+| align="center"| —
+| rowspan="5"| ''Hit After Hit''
+|-
+| "[[Hey! Baby|Hey Baby]]"
+| align="center"| 35
+| align="center"| —
+|-
+| rowspan="2"| 1971
+| "[[Lover Please]]"
+| align="center"| 46
+| align="center"| —
+|-
+| "[[Mountain of Love]]"
+| align="center"| 20
+| align="center"| —
+|-
+| 1972
+| "[[Suspicion (Terry Stafford song)|Suspicion]]"
+| align="center"| 33
+| align="center"| —
+|-
+| rowspan="3"| 1973
+| "You Lay So Easy On My Mind"
+| align="center"| 3
+| align="center"| 7
+| rowspan="2"| ''You Lay So Easy on My Mind''
+|-
+| "You Give Me You"
+| align="center"| 8
+| align="center"| 8
+|-
+| "The Whole World's Making Love Again Tonight"
+| align="center"| 13
+| align="center"| 38
+| ''She Sure Laid the Lonelies On Me''
+|-
+| 1974
+| "Make It Feel Like Love Again"
+| align="center"| 30
+| align="center"| —
+| rowspan="3"| ''Write Me a Letter''
+|-
+| rowspan="3"| 1975
+| "Write Me a Letter"
+| align="center"| 9
+| align="center"| 13
+|-
+| "Freda Comes, Freda Goes"
+| align="center"| 10
+| align="center"| 17
+|-
+| "I May Never Be Your Lover (But I'll Always Be Your Friend)"
+| align="center"| 64
+| align="center"| —
+| rowspan="2"| ''Instant Rice: The Best of Bobby G.''
+|-
+| rowspan="3"| 1976
+| "Pick Me Up On Your Way Down"
+| align="center"| 35
+| align="center"| —
+|-
+| "You Are My Special Angel"
+| align="center"| 53
+| align="center"| —
+| rowspan="2"| ''With Love''
+|-
+| "Woman Stealer"
+| align="center"| 54
+| align="center"| —
+|-
+| 1977
+| "Just One Kiss Magdelena"
+| align="center"| 66
+| align="center"| —
+| rowspan="4"| singles only
+|-
+| rowspan="2"| 1978
+| "Whisper It to Me"
+| align="center"| 57
+| align="center"| —
+|-
+| "The Softest Touch in Town"
+| align="center"| 30
+| align="center"| 53
+|-
+| rowspan="2"| 1979
+| "[[(Oh Baby Mine) I Get So Lonely]]"
+| align="center"| 49
+| align="center"| —
+|-
+| "You Make It So Easy"
+| align="center"| 67
+| align="center"| —
+| rowspan="2"| ''The Best of Bobby G. Rice''
+|-
+| 1980
+| "The Man Who Takes You Home"
+| align="center"| 53
+| align="center"| —
+|-
+| rowspan="2"| 1981
+| "Livin' Together (Lovin' Apart)"
+| align="center"| 86
+| align="center"| —
+| single only
+|-
+| "Pardon My French"
+| align="center"| 63
+| align="center"| —
+| ''Bobby's Back''
+|-
+| 1985
+| "New Tradition"
+| align="center"| 95
+| align="center"| —
+| ''A New Beginning''
+|-
+| rowspan="2"| 1986
+| "Red Neck and Over Thirty" <small>(w/ [[Wayne Kemp]])</small>
+| align="center"| 70
+| align="center"| —
+| rowspan="6"| singles only
+|-
+| "You've Taken Over My Heart"
+| align="center"| 70
+| align="center"| —
+|-
+| rowspan="2"| 1987
+| "Rachel's Room"
+| align="center"| 85
+| align="center"| —
+|-
+| "You Lay So Easy On My Mind" <small>(re-recording)</small>
+| align="center"| 79
+| align="center"| —
+|-
+| rowspan="2"| 1988
+| "A Night of Love Forgotten"
+| align="center"| 70
+| align="center"| —
+|-
+| "Clean Livin' Folk" <small>(w/ Perry LaPointe)</small>
+| align="center"| 76
+| align="center"| —
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{official website|https://web.archive.org/web/20100804230123/http://www.bobbygrice.net:80/main.htm}}
+*[{{AllMusic|class=artist|id=p191580|pure_url=yes}} Bobby G. Rice] at ''[[Allmusic]]''
+
+{{Authority control}}
+
+{{DEFAULTSORT:Rice, Bobby G.}}
+[[Category:1944 births]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Living people]]
+[[Category:People from Boscobel, Wisconsin]]
+[[Category:Singer-songwriters from Wisconsin]]
+[[Category:Audiograph artists]]

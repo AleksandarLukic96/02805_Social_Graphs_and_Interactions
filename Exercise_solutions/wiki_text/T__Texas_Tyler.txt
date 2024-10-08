@@ -1,0 +1,98 @@
+{{Short description|American musician}}
+{{Use mdy dates|date=September 2020}}
+{{More citations needed|date=February 2020}}
+{{Infobox musical artist 
+| name            = T. Texas Tyler
+| image           = T. Texas Tyler.jpg
+| caption         = 
+| image_size      = 
+| background      = solo_singer
+| birth_name      = David Luke Myrick
+| alias           = T. Texas Tyler
+| birth_date      = {{birth date|1916|06|20}}
+| birth_place     = near [[Mena, Arkansas]], U.S.
+| death_date      = {{death date and age|1972|01|28|1916|06|20}}
+| death_place     = [[Springfield, Missouri]], U.S.
+| instrument      = [[acoustic guitar|Guitar]]
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 1946–1954
+| label           = 4 Star, Starday, Capitol
+| associated_acts = 
+| website         = 
+}}
+
+'''David Luke Myrick''' (June 20, 1916 – January 28, 1972),<ref name="LarkinCountry">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Who's Who of Country Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1993|edition=First|isbn=0-85112-726-6|page=424}}</ref> known professionally as '''T. Texas Tyler''', was an American [[country music]] singer and songwriter primarily known for his 1948 hit, "[[The Deck of Cards]]".
+
+==Biography==
+Myrick was born just outside [[Mena, Arkansas]], United States.<ref name="LarkinCountry"/> He recorded first for [[Black & White Records]] as a member of The Six Westernaires, and for [[Four Star Records|4 Star Records]] (Hollywood) from September 1945 until the end of the 1950s. Some recordings in the [[country boogie]] (or pre-[[rockabilly]]) style were produced for the label with top session musicians on the steel and electric guitar, e.g. the driving instrumental "Guitar Boogie Woogie" (4 Star-1114; recorded in May 1946). The accompanying musicians were billed as The Oklahoma Melody Boys on the record labels.
+
+Tyler recorded "The Deck of Cards" in 1948.<ref name="LarkinCountry"/> The spoken-word hit single, which was his biggest hit, tells the story of a [[World War II]] soldier who explains how a deck of playing-cards serves him as a Bible, an almanac and a prayer-book. Tyler altered but did not write "The Deck of Cards." It appeared in the New York Irish-American newspaper, ''The Advocate'', on June 10, 1916, simply credited to "E. L." Tyler followed that smash with another recitation, the Mary Jean Shurtz composition, "Dad Gave My Dog Away".<ref name="LarkinCountry"/> His popularity resulted in a booking at New York City's Carnegie Hall.<ref name="LarkinCountry"/><ref name="AMG">{{Cite web|url=https://www.allmusic.com/artist/t-texas-tyler-mn0000001486/biography|title=T. Texas Tyler &#124; Biography & History|website=[[AllMusic]]|access-date=August 10, 2021}}</ref>
+
+He was a frequent performer on the ''[[Grand Ole Opry]]'' and ''[[Louisiana Hayride]],'' as well as hosting his own television show in Los Angeles, California in 1950.<ref name="LarkinCountry"/> Some of his 4 Star recordings were leased to US-[[Decca Records]] from 1952 to 1955. His career was hampered at the end of the 1950s because of personal problems, although some albums on [[King Records (USA)]] with 4 Star material and hymns have been released. In the 1960s, Tyler enjoyed a revival when he recorded two albums (one containing hymns) for [[Capitol Records]] and, in 1966, another for [[Starday Records]].<ref name="AMG"/>
+
+Following the death of his first wife, Claudia, in 1968, Tyler remarried Dorie (née Susanna Falk Buhr) and settled down in [[Springfield, Missouri]], where he preached to a local congregation and occasionally performed.<ref name="AMG"/> He died in Springfield on January 28, 1972, of stomach cancer.<ref name="LarkinCountry"/><ref name="AMG"/>
+
+==Tributes==
+"T-Texas Tyler", a ballad on songwriter and recording artist [[Bucky Halker]]'s 2008 CD ''Wisconsin 2.13.63, Volume 2'', recalls Tyler's performances in Burley, Idaho in the early 1950s when he struggled with alcohol and drugs and barely made it through his set many nights, but still managed moments of skillful performance.
+
+[[David McEnery|"Red River Dave" McEnery]] wrote and recorded a song called "Jailhouse Blues" about T. Texas Tyler's arrest in the mid-1950s for marijuana possession. In it he quotes and refers to several of Tyler's hits: "Remember Me (When the Candlelights Are Gleaming)" and "Deck of Cards".
+
+==Charted singles==
+{| class="wikitable"
+! Year
+! Single
+! <small>[[Hot Country Songs|US Country]]</small>
+|-
+| 1946
+| "[[Filipino Baby]]"
+| align="center"| 5
+|-
+| rowspan="4"| 1948
+| "[[The Deck of Cards]]"
+| align="center"| 2
+|-
+| "Dad Gave My Dog Away"
+| align="center"| 10
+|-
+| "Memories of France"
+| align="center"| 9
+|-
+| "Honky Tonk Gal"
+| align="center"| 11
+|-
+| 1949
+| "[[My Bucket's Got a Hole in It]]"
+| align="center"| 4
+|-
+| 1953
+| "[[Just Bummin' Around|Bumming Around]]"
+| align="center"| 5
+|-
+| 1954
+| "Courtin' in the Rain"
+| align="center"| 3
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20040722083631/http://www.cmt.com/artists/az/tyler_t_texas/bio.jhtml T. Texas Tyler biography at CMT.com]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Tyler, T. Texas}}
+[[Category:1916 births]]
+[[Category:1972 deaths]]
+[[Category:Singer-songwriters from Arkansas]]
+[[Category:American country singer-songwriters]]
+[[Category:Deaths from stomach cancer in the United States]]
+[[Category:Four Star Records artists]]
+[[Category:Apex Records artists]]
+[[Category:RCA Victor artists]]
+[[Category:Starday Records artists]]
+[[Category:People from Mena, Arkansas]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:Country musicians from Arkansas]]
+[[Category:Deaths from cancer in Missouri]]

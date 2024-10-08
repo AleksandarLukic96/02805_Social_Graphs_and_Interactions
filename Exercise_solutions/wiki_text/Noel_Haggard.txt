@@ -1,0 +1,139 @@
+{{short description|American singer-songwriter}}
+
+{{Infobox musical artist
+| name                = Noel Lee Haggard
+| image                 = 
+| image_size            = 
+| background          = solo_singer
+| birth_name          = 
+| alias               = 
+| birth_date          = {{Birth date and age|1963|9|4}}
+| origin              = [[Bakersfield, California]], U.S.
+| instrument          = {{flatlist|
+*[[Vocals]]
+*[[guitar]]}}
+| genre               = [[Country music|Country]]
+| occupation          = [[Singing|Singer]]
+| years_active        = 1997–present
+| label               = [[Atlantic Records|Atlantic]]
+| associated_acts     = [[Merle Haggard]], [[The Strangers (American band)|The Strangers]]
+| website                 = 
+}}
+
+'''Noel Lee Haggard''' (born September 4, 1963) is an American [[country music]] artist.
+
+Haggard is the son of country music legend [[Merle Haggard]].<ref>[http://www.truecountry.com/noelbio.shtml Noel Haggard Biography]</ref> He was signed to a recording deal with [[Atlantic Records]] and released his debut album, ''One Lifetime'', in 1997. The album produced two singles, both of which peaked at No.&nbsp;75 on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles & Tracks]] chart.<ref>[{{AllMusic|class=artist|id=p201703/charts-awards|pure_url=yes}} Noel Haggard Singles]</ref>
+
+His first single, "Once You Learn," also peaked at No.&nbsp;72 on the ''[[RPM (magazine)|RPM]]'' Country Tracks chart in Canada. His second single, "[[Tell Me Something Bad About Tulsa]]," was covered by [[George Strait]] on his 2003 album ''[[Honkytonkville]]''. Strait's version of the song peaked at No.&nbsp;11 on the Hot Country Singles & Tracks chart.
+
+Haggard was also featured on the [[Maverick (soundtrack)|soundtrack]] of the 1994 film ''[[Maverick (film)|Maverick]]'' as a member of the "Maverick Choir.".<ref>[https://www.imdb.com/title/tt0110478/soundtrack Maverick (1994) - Soundtracks]</ref> Noel was a member of the Strangers and opened up shows for Merle his whole professional life. He continues to perform with the remaining Strangers  and his brother Ben, since the passing of Merle.
+
+==''One Lifetime'' (1997)==
+{{Infobox album
+| name       = One Lifetime
+| type       = studio
+| artist     = Noel Haggard
+| cover      =
+| alt        =
+| released   = {{start date|1997|3|4}}
+| recorded   =
+| venue      =
+| studio     =
+| genre      = [[Country music|Country]]
+| length     = 33:36
+| label      = Atlantic
+| producer   = [[Barry Beckett]]
+| prev_title =
+| prev_year  =
+| next_title =
+| next_year  =
+|italic_title=no
+}}
+
+===Track listing===
+#"Cowgirl Blues" (Luke Reed, Phil Thomas) - 3:58
+#"You Ain't in It" ([[Shawn Camp (musician)|Shawn Camp]], [[Tim Mensy]]) - 2:52
+#"Once You Learn" ([[Billy Livsey]], [[Don Schlitz]]) - 3:16
+#"Palm of My Hand" (Gene Dobbins, Mensy) - 3:31
+#"Wishin' on a Lone Star" (Jess Brown, Brett Jones) - 3:13
+#"One Life Time" ([[Buddy Brock]], Michael Huffman, Rick Williamson) - 3:14
+#"Left, Leavin', Goin' or Gone" ([[Frank J. Myers]], Don Pfrimmer) - 2:48
+#"I've Learned to Live" ([[Dean Dillon]], Frank Dycus) - 3:53
+#"I Can't" (Brown, Jones) - 3:38
+#"[[Tell Me Something Bad About Tulsa]]" (Red Lane) - 3:13
+
+===Personnel===
+*[[Eddie Bayers]] - [[drums]]
+*[[Barry Beckett]] - [[Keyboard instrument|keyboards]]
+*[[Paul Franklin (musician)|Paul Franklin]] - [[steel guitar]]
+*Noel Haggard - lead vocals
+*Owen Hale - drums
+*[[Terry McMillan]] - [[percussion]]
+*Phil Naish - keyboards
+*Bobby Ogdin - keyboards
+*[[Don Potter (musician)|Don Potter]] - [[acoustic guitar]]
+*Michael Rhodes - [[bass guitar]]
+*[[Brent Rowan]] - [[electric guitar]]
+*[[John Wesley Ryles]] - background vocals
+*Joe Spivey - [[fiddle]]
+*[[Harry Stinson (musician)|Harry Stinson]] - background vocals
+*[[Billy Joe Walker Jr.]] - acoustic guitar
+*[[Willie Weeks]] - bass guitar
+*Dennis Wilson - background vocals
+*Curtis Young - background vocals
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Single
+! colspan="2"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="2"| 1997
+! scope="row"| "Once You Learn"
+| 75
+| 72
+|-
+! scope="row"| "[[Tell Me Something Bad About Tulsa]]"
+| 75
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:20em;"| Video
+! Director
+|-
+| rowspan="2"| 1997
+! scope="row"| "Once You Learn"
+| Bob Gabrielsen
+|-
+! scope="row"| "Tell Me Something Bad About Tulsa"
+| chris rogers{{sic}}
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[{{AllMusic|class=artist|id=p201703|pure_url=yes}} allmusic ((( Noel Haggard > Overview )))]
+{{Merle Haggard}}
+{{Authority control}}
+
+{{DEFAULTSORT:Haggard, Noel}}
+[[Category:1963 births]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Living people]]
+[[Category:Atlantic Records artists]]
+[[Category:Musicians from Bakersfield, California]]
+[[Category:Singer-songwriters from California]]
+[[Category:Country musicians from California]]
+[[Category:The Strangers (American band) members]]

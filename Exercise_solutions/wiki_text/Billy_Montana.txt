@@ -1,0 +1,113 @@
+{{short description|American country music singer-songwriter (born 1959)}}
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist
+| name            = Billy Montana
+| image           = Billy Montana 151206-D-VO565-029 (23217558049).jpg
+| image_size      =
+| birth_name      = William Schlappi
+| alias           =
+| birth_date      = {{Birth date and age|1959|09|28}}
+| origin          = [[Voorheesville, New York]], United States
+| instrument      = Vocals<br />guitar<br />bass
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 1987–present
+| label           = [[Warner Bros. Records|Warner Bros.]]<br />Magnatone
+| website         = 
+}}
+
+'''Billy Montana''' (born '''William Schlappi''' on September 28, 1959, in [[Voorheesville, New York]]) is an American [[country music]] singer-songwriter. Between 1987 and 1995, Montana released one studio album and charted six singles on ''[[Billboard (magazine)|Billboard]]''{{'}}s [[Hot Country Songs|Hot Country Singles & Tracks]] chart. As a songwriter, Montana's songs have been recorded by [[Lee Brice]], [[Garth Brooks]], [[Sara Evans]], [[Jo Dee Messina]], [[Tim McGraw]], [[Martina McBride]], [[Jon Pardi]], [[Sister Hazel]] and [[Kenny Rogers]], among others.<ref name="moraine">{{Cite web |url=http://www.morainemusic.com/writerpages/billymontana.html |title=Moraine Music Group |access-date=July 25, 2008 |archive-url=https://web.archive.org/web/20080719040312/http://www.morainemusic.com/writerpages/billymontana.html |archive-date=July 19, 2008 |url-status=dead }}</ref>
+
+==Career==
+
+===Singer===
+In the late 1980s, Montana and his brother, Kyle, formed a country music group with Bobby Kendall, Dave Flint and Doug Bernhard.<ref name="bmi">[http://www.bmi.com/news/entry/233039 Curb Music at BMI]</ref> '''Billy Montana & the Long Shots''' signed with [[Warner Bros. Records]] and charted three singles on ''Billboard''<nowiki>'</nowiki>s Hot Country Singles & Tracks chart before disbanding without releasing an album. Their highest charting single, "Baby I Was Leaving Anyhow," peaked at No.&nbsp;40 in 1987. After the group disbanded, Montana moved to [[Nashville, Tennessee|Nashville]] in 1989 to pursue his dream of songwriting.<ref name="moraine"/>
+
+In 1994, Magnatone Records signed Montana to a solo record deal.<ref name="amgbio">[{{AllMusic|class=artist|id=p169659/biography|pure_url=yes}} allmusic ((( Billy Montana > Biography )))]</ref> His debut album, ''No Yesterday'', was released in April 1995.<ref>[{{AllMusic|class=album|id=r229264|pure_url=yes}} allmusic ((( No Yesterday > Biography )))]</ref> Three singles were released from the project and charted on ''Billboard''<nowiki>'</nowiki>s Hot Country Singles & Tracks, the highest of which peaked at No.&nbsp;55. One of the album's tracks, "A Clean Mind and Dirty Hands," was named Song of the Year by [[Farm Journal]] in 1996 as the song best depicting genuine farm life.<ref name="moraine"/><ref name="amgbio"/>
+
+===Songwriter===
+Montana was signed to a songwriting deal with Moraine Music in 1994. He was picked up by Curb Publishing in a joint venture in 2000.<ref name="moraine"/> The following year, Jo Dee Messina released Montana's "[[Bring On the Rain]]" as a single.<ref name="bmi"/> The song topped ''Billboard''<nowiki>'</nowiki>s Hot Country Singles & Tracks in March 2002 and was nominated for a [[Grammy Award]].<ref name="moraine"/> Montana has since written No.&nbsp;1 songs for Sara Evans ("[[Suds in the Bucket]]"), Lee Brice ("[[Hard to Love (Lee Brice song)|Hard to Love]]"), and Garth Brooks ("[[More Than a Memory]]").<ref name="moraine"/> "More Than a Memory" debuted at No.&nbsp;1 on ''Billboard''<nowiki>'</nowiki>s [[Hot Country Songs]] chart in September 2007, becoming the first song in the chart's entire history to accomplish that feat.<ref>[http://www.billboard.com/articles/news/1049494/soulja-boy-cranks-hot-100-no-1-with-debut-single Soulja Boy 'Cranks' Hot 100 No. 1 With Debut Single]</ref>
+
+===Family===
+Billy Montana's son, [[Randy Montana]], signed to [[Mercury Nashville]] in 2010. The younger Montana has reached Top 40 on the country music charts with "Ain't Much Left of Lovin' You" and "1,000 Faces".
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:10em;"| Title
+! style="width:18em;"| Album details
+|- 
+! scope="row"| ''No Yesterday''
+| 
+* Release date: April 28, 1995
+* Label: Magnatone Records
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:16em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]
+|-
+| rowspan="2"| 1987
+! scope="row"| "Crazy Blue"<sup>A</sup>
+| 46
+| align="left" rowspan="3"| Singles only
+|-
+! scope="row"| "Baby I Was Leaving Anyhow"<sup>A</sup>
+| 40
+|-
+| 1988
+! scope="row"| "Oh Jenny"<sup>A</sup>
+| 48
+|-
+| rowspan="3"| 1995
+! scope="row"| "Didn't Have You"
+| 55
+| align="left" rowspan="3"| ''No Yesterday''
+|-
+! scope="row"| "Rain Through the Roof"
+| 58
+|-
+! scope="row"| "No Yesterday"
+| 70
+|}
+*<sup>A</sup>Credited to Billy Montana & the Long Shots.
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:16em;"| Video
+|-
+| rowspan="2"| 1995
+! scope="row"| "Didn't Have You"
+|-
+! scope="row"| "Rain Through the Roof"
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Commons category-inline|Billy Montana}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Montana, Billy}}
+[[Category:1959 births]]
+[[Category:Living people]]
+[[Category:American country bass guitarists]]
+[[Category:American male bass guitarists]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:People from Voorheesville, New York]]
+[[Category:20th-century American bass guitarists]]
+[[Category:Country musicians from New York (state)]]
+[[Category:20th-century American male musicians]]
+[[Category:Singer-songwriters from New York (state)]]

@@ -1,0 +1,67 @@
+{{short description|American singer-songwriter}}
+{{Use mdy dates|date=July 2019}}
+{{Infobox musical artist
+| name            = Rachel Baiman
+| image           =
+| alt             =
+| caption         =
+| image_size      = <!-- Only for images narrower than 220 pixels -->
+| birth_name      =
+| alias           =
+| birth_date      =
+| birth_place     =
+| death_date      =
+| origin          = [[Oak Park, Illinois]], U.S.
+| instrument      = {{hlist|Vocals|[[fiddle]]|[[banjo]]|acoustic guitar}}
+| genre           = {{hlist|[[Country music|Country]]|[[Americana (music)|Americana]]|[[Bluegrass music|bluegrass]]|[[Old-time music|old-time]]}}
+| occupation      = Singer-songwriter
+| years_active    =
+| label           = {{hlist|[[Free Dirt Records|Free Dirt]]|[[Signature Sounds Recordings]]}}
+| website         = {{URL|rachelbaiman.com}}
+}}
+
+'''Rachel Baiman''' is an American singer-songwriter and fiddler based in [[Nashville, Tennessee]].
+
+==Biography==
+Baiman grew up in Oak Park, Illinois. She has described her father as a "radical economist" and her mother is a social worker.<ref name="NPR Music">{{cite web|last1=Hight|first1=Jewly|title=Songs We Love: Rachel Baiman, 'Shame'|url=https://www.npr.org/2017/05/02/526069220/songs-we-love-rachel-baiman-shame|website=NPR Music|accessdate=August 2, 2017}}</ref> When she was young, her parents took her to meetings at the Ethical Humanist Society of Greater Chicago.<ref name="NPR Music" /> She moved to Nashville at age 18 to attend [[Vanderbilt University]]<ref name="Americana UK">{{cite web|last1=Hayes|first1=Rudie|title=Dirty Dozen: Rachel Baiman|url=http://americana-uk.com/rachel-baiman|website=Americana UK|date=July 31, 2017 |accessdate=August 2, 2017}}</ref> She became an Illinois State Fiddle champion at age 17.<ref>{{cite web|last1=Bee|first1=Kate|title=Guest Review: Kate Logsdon on Rachel Baiman – Speakeasy Man – Beautiful and emotive bluegrass debut solo album|url=http://www.eartothegroundmusic.co/2014/02/12/guest-review-kate-logsdon-on-rachel-baiman-speakeasy-man-beautiful-and-emotive-bluegrass-debut-solo-album/|website=Ear to the Ground|date=February 12, 2014 |accessdate=August 2, 2017}}</ref>
+
+Baiman is the co-founder of Folk Fights Back, a musician-led national organization that puts together benefit concerts and awareness events in response to the Trump administration.<ref name="NPR Music" /> She also performs in the fiddle duo 10 String Symphony with Christian Sedelmyer.
+
+She is married to George Jackson, a Nashville-based fiddle player from Australia.<ref>{{Cite web |date=2021-06-16 |title=Rachel Baiman On The String: A Fiddler Emerges As A Songwriter Investigating 'Cycles' |url=https://www.wmot.org/roots-radio-news/2021-06-16/rachel-baiman-on-the-string-a-fiddler-emerges-as-a-songwriter-investigating-cycles |access-date=2022-03-21 |website=WMOT |language=en}}</ref>
+
+Her 2017 album ''Shame'' was produced by [[Mandolin Orange]]'s Andrew Marlin.
+
+==Influences==
+Baiman has said her songwriting is influenced by [[Bluegrass music|Bluegrass]] and traditional music such as [[John Hartford]] as well as contemporary songwriters like [[Courtney Barnett]].<ref name="NPR Music" />
+
+''[[NPR Music|NPR]]'' has said her music "captures the spirit of wry truth-telling" and ''[[Paste Magazine]]'' called her song "Shame" "a potent message from an especially powerful messenger."<ref>{{cite web|last1=Ham|first1=Robert|title=Daily Dose: Rachel Baiman – "Shame"|url=https://www.pastemagazine.com/articles/2017/06/daily-dose-rachel-baiman---shame.html|website=Paste Magazine|accessdate=August 2, 2017}}</ref> ''[[Vice Media|Vice]]'''s Noisey highlighted her political songwriting saying "Rachel Baiman's 'Shame' Will Have You Flipping Authority off One Song at a Time."<ref name="Noisey">{{cite web|last1=Domenighini|first1=Annalise|title=Rachel Baiman's 'Shame' Will Have You Flipping Authority off One Song at a Time|url=https://noisey.vice.com/en_us/article/kzev7v/rachel-baimans-shame-will-have-you-flipping-authority-off-one-song-at-a-time|website=Noisey|date=May 25, 2017 |accessdate=August 2, 2017}}</ref> ''American Standard Time'' said the record ''Shame'' is "iconoclastic folk that will be handed down in song and record for generations."<ref name="American Standard Time">{{cite web|last1=Jewell|first1=Sean|title=Rachel Baiman – Shame|url=http://www.americanstandardtime.com/music/rachel-baiman-shame/|website=American Standard Time|accessdate=August 2, 2017}}</ref>
+
+==Discography==
+'''Solo'''
+* ''Speakeasy Man'' (2014), self-produced
+* ''Shame'' (2017), [[Free Dirt Records]]
+* ''Thanksgiving'' EP (2018), Free Dirt Records
+* ''Cycles'' (2021), [[Signature Sounds Recordings]]
+* ''Common Nation of Sorrow'' (2023), Signature Sounds Recordings
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.rachelbaiman.com Official Website]
+
+{{authority control}}
+
+{{DEFAULTSORT:Baiman, Rachel}}
+[[Category:21st-century American women singers]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:American country singer-songwriters]]
+[[Category:Country musicians from Illinois]]
+[[Category:Country musicians from Tennessee]]
+[[Category:Singer-songwriters from Tennessee]]
+[[Category:American women country singers]]
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]
+[[Category:21st-century American women guitarists]]
+[[Category:21st-century American guitarists]]
+[[Category:Singer-songwriters from Illinois]]

@@ -1,0 +1,71 @@
+{{short description|American country music group}}
+{{Infobox musical artist
+| name            = Hank Flamingo
+| image           = Hank Flamingo.jpg
+| caption         = Hank Flamingo, 1994
+| image_size      =
+| origin          = [[Lascassas, Tennessee]], United States
+| genre           = [[country music|Country]]
+| years_active    = 1988–1994
+| label           = [[Giant Records (Warner Bros. subsidiary label)|Giant]]
+| past_members    = Eddie Grigg<br />Ben Northern<br />Stuart E. Stuart<br />Trent Summar<br />Philip Wallace<br />Roy Watts
+}}
+'''Hank Flamingo''' was an American [[country music]] band founded in the late 1980s. Its membership comprised Trent Summar ([[lead vocals]]), Philip Wallace ([[guitar]]),  Eddie Grigg (guitar, vocals), Ben Northern ([[bass guitar]], vocals), Stuart E. Stuart ([[fiddle]], vocals), and Roy Watts ([[Drum kit|drums]]).<ref name="hankallmusic">{{cite web |url={{AllMusic|class=artist|id=p142880|pure_url=yes}} |title=Hank Flamingo Biography |accessdate=2007-12-25 |last=Bush |first=John |work=Allmusic}}</ref> The band recorded one major-label studio album in 1994, before disbanding not long afterward. By 2000, frontman Trent Summar founded another group called [[Trent Summar & The New Row Mob]], in which former Hank Flamingo guitarist Philip Wallace was also a member.<ref name="allmusic"/>
+
+==Biography==
+Hank Flamingo was founded in 1989 in the state of [[Tennessee]]. Lead vocalist Trent Summar and his friend Eddie Grigg owned a [[farmhouse]] in [[Lascassas, Tennessee]], where they began working on music together. They began working with other musicians until they decided to form a band. The band's name originated when a friend of Summar's gave him a [[plastic flamingo]] as a gift, which he mounted inside the farmhouse next to a portrait of [[Hank Williams]].<ref>{{cite news | url=https://www.newspapers.com/image/496800550/ | title=Honest, downhome, and crazy | work=[[The Leader-Post]] | date=July 11, 1994 | accessdate=May 30, 2022 | pages=C3}}</ref>
+
+By 1993, they were signed to a recording contract with [[Giant Records (Warner Bros. subsidiary label)|Giant Records Nashville]], who released the band's eponymous debut album the following year. Hank Flamingo made an appearance on the talk show ''[[Late Night with Conan O'Brien]]'' to promote their album.<ref name="allmusic">{{cite web |url=
+{{AllMusic|class=artist|id=p129608|pure_url=yes}} |title=Trent Summar biography |accessdate=2007-12-25 |last=Johnson |first=Zac |work=[[Allmusic]]}}</ref> Included on the disc was a cover of [[George Jones]]' "[[White Lightning (The Big Bopper song)|White Lightning]]", along with songs written by [[John Hiatt]] and former [[NRBQ]] member [[Al Anderson (NRBQ)|Al Anderson]]. "Baby It's You" was the album's lead single.<ref>{{cite journal | url=https://worldradiohistory.com/Archive-RandR/1990s/1994/RR-1994-01-07.pdf | title=Flamingo Debut Takes Flight | journal=[[Radio & Records]] | pages=34 | date=January 7, 1994}}</ref>
+
+Writing about the band in ''[[Billboard (magazine)|Billboard]]'', Melinda Newman stated that " This new sextet comes on like a cross between [[Webb Wilder]] and [[the Georgia Satellites]]...Much of this release is way too quirky for country radio, but cuts such as 'Redneck Martians Stole My Baby' should make inroads at college and wacky alternative outlets."<ref>{{cite magazine | url=https://worldradiohistory.com/hd2/IDX-Business/Music/Billboard-Index/IDX/1993/1993-07-31-Billboard-Page-0012.pdf | title=Upcoming Releases Rise To The Top; Garth Sparks Barbecues & Boycotts | author=Melinda Newman | magazine=Billboard | pages=12 | date=July 31, 1993}}</ref> A review in the same magazine was mixed, stating that it "caters to new country audience by combining country and alternative rock. Unfortunately, the record is devoid of any surprises."<ref>{{cite magazine | url=https://worldradiohistory.com/Archive-All-Music/Billboard/90s/1994/BB-1994-02-19.pdf | title=Reviews | magazine=Billboard | pages=56 | date=February 19, 1994}}</ref> Susan Beyer of ''[[The Ottawa Citizen]]'' was more positive, praising the band's sense of humor and "controlled thrashing" of their playing, although she criticized the slower songs on the album.<ref>{{cite news | url=https://www.newspapers.com/image/464855779/ | title=Country | work=The Ottawa Citizen | date=March 12, 1994 | accessdate=May 30, 2022 | pages=F3}}</ref> Mario Tarradell of ''[[The Miami Herald]]'' similarly commended the band's humorous cuts such as "Redneck Martians Stole My Baby" and "Slaw", comparing the band favorably to [[Confederate Railroad]].<ref>{{cite news | url=https://www.newspapers.com/image/638287247/ | title=Hank Flamingo tracks hard-driving, offbeat | work=[[The Miami Herald]] | date=May 6, 1994 | accessdate=May 30, 2022 | pages=12G}}</ref>
+
+Hank Flamingo disbanded after only one album, and Trent Summar founded another band known as [[Trent Summar & The New Row Mob]], which also included former Hank Flamingo guitarist Philip Wallace.<ref name="allmusic"/>
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:10em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''Hank Flamingo''
+| 
+* Release date: February 1, 1994
+* Label: [[Giant Records (Warner)|Giant Records]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! Year
+! style="width:10em;"| Single
+|-
+| 1993
+! scope="row"| "Baby It's You"
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:10em;"| Video
+! Director
+|-
+| 1993
+! scope="row"| "Baby It's You"
+| [[John Lloyd Miller]]
+|}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+[[Category:Country music groups from Tennessee]]
+[[Category:Musical groups established in 1988]]
+[[Category:Musical groups disestablished in 1994]]
+[[Category:Giant Records (Warner) artists]]
+[[Category:Murfreesboro, Tennessee]]
+[[Category:People from Rutherford County, Tennessee]]
+[[Category:People from the Nashville metropolitan area]]

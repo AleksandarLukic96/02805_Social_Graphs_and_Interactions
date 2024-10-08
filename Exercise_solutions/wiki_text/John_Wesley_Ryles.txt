@@ -1,0 +1,261 @@
+{{short description|American singer-songwriter}}
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist
+| name            = John Wesley Ryles
+| image           = John Wesley Ryles.png
+| caption         = Ryles in 1970
+| image_size      =
+| alias           = John Wesley Ryles I
+| birth_date      = {{birth date and age|1950|12|02}}<ref name="allmusic">{{cite web |url={{AllMusic|class=artist|id=p32717/biography|pure_url=yes}} |title=John Wesley Ryles biography |access-date=March 29, 2008 |last=Brennan |first=Sandra |website=[[AllMusic]]}}</ref>
+| origin          = [[Bastrop, Louisiana]], U.S.
+| instrument      = Vocals, guitar
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter, [[session musician]]
+| years_active    = 1968–1971, 1976–present
+| label           = {{hlist|[[Columbia Records|Columbia]]|RCA|Plantation|Music Mill|[[ABC Records|ABC]]/[[Dot Records|Dot]]|[[MCA Records|MCA]]|Primero|[[16th Avenue Records|16th Avenue]]|[[Warner Bros. Records|Warner Bros.]]}}
+| spouse = [[Joni Lee]]
+}}
+
+'''John Wesley Ryles''' (born December 2, 1950) is an American [[country music]] artist. Ryles recorded a string of hit country songs, beginning in 1968 when he was still a teenager, and continuing through the 1980s. He no longer records as a headline artist but remains active in the music industry as a [[session musician]].
+
+==Biography==
+At age 17, he made his debut in 1968 with the single "[[Kay (song)|Kay]]", a Top Ten hit on the ''[[Billboard (magazine)|Billboard]]'' Hot Country Singles (now [[Hot Country Songs]]) charts, and the title track to his debut album for [[Columbia Records]].<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=367|isbn=978-0-89820-177-2}}</ref>
+
+Ryles later recorded one album, ''Reconsider Me'', for the Plantation label, which produced a No.&nbsp;39 single in its title track. It was followed by two non-album singles, "Tell It Like It Is" and "When a Man Loves a Woman," both on the Music Mill label in 1976.<ref name="whitburn"/>
+
+He then moved to [[Dot Records]]. His first single on ABC/Dot, "Fool", Made it to No. 18 on the Hot Country chart followed by his highest-peaking single, the No. 5 "Once in a Lifetime Thing."<ref name="allmusic"/> When that label merged with [[MCA Records]], he issued the album ''Let the Night Begin'' there. The first single, "Liberated Woman" climbed to No. 14 on the Billboard Hot Country chart. It was followed by a rendition of "[[Always on My Mind]], which went to #20 on the Billboard Hot Country chart.."<ref name="whitburn"/> The last song released from this album, "Perfect Strangers", reached No. 24 on the Billboard chart.
+
+Two more singles followed on the Primero label: "We've Got to Start Meeting Like This" and "Just Once," followed by "She Took It Too Well" on [[16th Avenue Records]] in 1984.<ref name="whitburn"/> The last label for which he recorded was [[Warner Bros. Records]] between 1987 and 1988. Although he reached Top 20 with "Louisiana Rain" during his stay on Warner, he did not release an album for the label.<ref name="whitburn"/>
+
+Since the release of his last single in 1988, Ryles has served primarily as a background vocalist. Ryles is married to [[Joni Lee]], the daughter of country singer [[Conway Twitty]].<ref>{{Cite web|url=https://www.countrythangdaily.com/meet-conway-twitty-children-who-keep-his-memories-alive/|title=Meet Conway Twitty's Children Who Keep His Memories Alive|date=May 26, 2020 |access-date=January 11, 2021}}</ref><ref>{{Cite magazine|url=https://www.billboard.com/articles/columns/country/7980767/conway-twitty-timeless-joni-daughter|title=Conway Twitty's Posthumous 'Timeless': His Daughter Shares the Story Behind Undiscovered Material|magazine=Billboard|access-date=January 11, 2021}}</ref><ref>{{Cite web|url=https://theboot.com/joni-twitty-interview-conway-twitty-timeless-album/|title=Interview: Conway Twitty's Daughter Joni Talks Re-discovering Dad's Music|website=The Boot|date=December 6, 2017 |access-date=January 11, 2021}}</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Album
+! colspan="1"| Chart Positions
+! rowspan="2"| Label
+|-
+! width="65"| <small>[[Top Country Albums|US Country]]</small>
+|-
+|1969
+|''Kay''
+|align="center"|22
+|Columbia
+|-
+|1971
+|''Reconsider Me''
+|align="center"|—
+|Plantation
+|-
+|1977
+|''John Wesley Ryles''
+|align="center"|39
+|ABC/Dot
+|-
+|rowspan="2"|1978
+|''Shine on Me''
+|align="center"|—
+|rowspan="2"|ABC
+|-
+|''Love's Sweet Pain''
+|align="center"|—
+|-
+|1979
+|''Let the Night Begin''
+|align="center"|—
+|MCA
+|-
+|}
+
+===Singles===
+{| class="wikitable"
+|-
+!rowspan="2"|Year
+!rowspan="2"|Single
+!colspan="3"|Chart Positions
+!rowspan="2"|Album
+|-
+!width="50"|<small>[[Hot Country Songs|US Country]]</small><br><ref name="whitburn"/>
+!width="50"|<small>CAN Country</small>
+!width="50"|<small>[[Kent Music Report|AU]]</small>
+|-
+|1968
+|"[[Kay (song)|Kay]]"<sup>A, B</sup>
+|align="center"|9
+|align="center"|6
+|align="center"|38
+|rowspan=4|''Kay''
+|-
+|1969
+|"Heaven Below"<sup>B</sup>
+|align="center"|55
+|align="center"|—
+|align="center"|—
+|-
+|rowspan=2|1970
+|"The Weakest Kind of Man"<sup>B</sup>
+|align="center"|57
+|align="center"|—
+|align="center"|—
+|-
+|"I've Just Been Wasting My Time"<sup>B</sup>
+|align="center"|17
+|align="center"|6
+|align="center"|—
+|-
+|1971
+|"[[Reconsider Me]]"<sup>B</sup>
+|align="center"|39
+|align="center"|—
+|align="center"|—
+|''Reconsider Me''
+|-
+|rowspan=2|1976
+|"[[Tell It Like It Is (song)|Tell It Like It Is]]"
+|align="center"|83
+|align="center"|—
+|align="center"|—
+|rowspan=4|''John Wesley Ryles''
+|-
+|"[[When a Man Loves a Woman (song)|When a Man Loves a Woman]]"
+|align="center"|72
+|align="center"|—
+|align="center"|—
+|-
+|rowspan=2|1977
+|"Fool"
+|align="center"|18
+|align="center"|—
+|align="center"|—
+|-
+|"Once in a Lifetime Thing"
+|align="center"|5
+|align="center"|9
+|align="center"|—
+|-
+|rowspan=4|1978
+|"Shine on Me (The Sun Still Shines When It Rains)"
+|align="center"|13
+|align="center"|14
+|align="center"|—
+|''Shine on Me''
+|-
+|"Easy"
+|align="center"|63
+|align="center"|—
+|align="center"|—
+|single only
+|-
+|"Kay" <small>(new recording)</small>
+|align="center"|50
+|align="center"|55
+|align="center"|—
+|''Shine on Me''
+|-
+|"Someday You Will"
+|align="center"|45
+|align="center"|—
+|align="center"|—
+|rowspan=2|''Love's Sweet Pain''
+|-
+|rowspan=3|1979
+|"Love Ain't Made for Fools"
+|align="center"|33
+|align="center"|40
+|align="center"|—
+|-
+|"Liberated Woman"
+|align="center"|14
+|align="center"|17
+|align="center"|—
+|rowspan=3|''Let the Night Begin''
+|-
+|"[[Always on My Mind|You Are Always on My Mind]]"
+|align="center"|20
+|align="center"|24
+|align="center"|—
+|-
+|rowspan=3|1980
+|"Perfect Strangers"
+|align="center"|24
+|align="center"|—
+|align="center"|—
+|-
+|"May I Borrow Some Sugar from You"
+|align="center"|52
+|align="center"|—
+|align="center"|—
+|rowspan=10|singles only
+|-
+|"Cheater's Trap"
+|align="center"|54
+|align="center"|—
+|align="center"|—
+|-
+|rowspan=2|1981
+|"Somewhere to Come When It Rains"
+|align="center"|80
+|align="center"|—
+|align="center"|—
+|-
+|"Mathilda"
+|align="center"|78
+|align="center"|—
+|align="center"|—
+|-
+|rowspan=2|1982
+|"We've Got to Start Meeting Like This"
+|align="center"|76
+|align="center"|—
+|align="center"|—
+|-
+|"Just Once"
+|align="center"|80
+|align="center"|—
+|align="center"|—
+|-
+|1984
+|"She Took It Too Well"
+|align="center"|78
+|align="center"|—
+|align="center"|—
+|-
+|rowspan=2|1987
+|"Midnight Blue"
+|align="center"|36
+|align="center"|—
+|align="center"|—
+|-
+|"Louisiana Rain"
+|align="center"|20
+|align="center"|—
+|align="center"|—
+|-
+|1988
+|"Nobody Knows"
+|align="center"|53
+|align="center"|—
+|align="center"|—
+|}
+*<sup>A</sup>Peaked at No.&nbsp;83 on [[Billboard Hot 100|''Billboard'' Hot 100]] and No.&nbsp;88 on ''RPM'' Top Singles.
+*<sup>B</sup>Credited to John Wesley Ryles I.
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ryles, John Wesley}}
+[[Category:1950 births]]
+[[Category:Living people]]
+[[Category:People from Bastrop, Louisiana]]
+[[Category:American country singer-songwriters]]
+[[Category:Columbia Records artists]]
+[[Category:Dot Records artists]]
+[[Category:MCA Records artists]]
+[[Category:Singer-songwriters from Louisiana]]
+[[Category:Warner Records artists]]
+[[Category:16th Avenue Records artists]]
+[[Category:Country musicians from Louisiana]]

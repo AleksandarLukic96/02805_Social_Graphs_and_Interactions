@@ -1,0 +1,294 @@
+{{short description|American country music singer (born 1945)}}
+{{multiple issues|
+{{BLP sources|date=August 2008}}
+{{More footnotes|date=August 2021}}}}
+{{Use mdy dates|date=July 2020}}
+{{Infobox musical artist
+| name         = Con Hunley
+| image        =
+| caption      =
+| image_size   =
+| birth_name   = Conard Logan Hunley
+| alias        =
+| birth_date   = {{Birth date and age|1945|4|9}}
+| death_date   =
+| origin       = [[Knoxville, Tennessee]], U.S.
+| instrument   = [[Vocal music|Vocals]], piano
+| genre        = [[Country music|Country]]
+| occupation   = Singer, songwriter, musician
+| years_active = 1976–present
+| label        = {{hlist|Prairie|[[Warner Bros. Records|Warner Bros.]]|[[MCA Records|MCA]]|[[Capitol Records|Capitol]]|IMMI}}
+| website      = {{url|conhunley.com}}
+}}
+
+'''Conard Logan Hunley''' (born April 9, 1945)<ref name="LarkinCountry">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Who's Who of Country Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1993|edition=First|isbn=0-85112-726-6|page=195}}</ref> is an American [[country music]] singer.
+
+==Life and career==
+Hunley was born in [[Knoxville, Tennessee]], United States. After graduating from Central High School in Knoxville, Hunley began playing with local bands, maturing musically and gaining his first fans. Hunley joined the [[United States Air Force|Air Force]] in 1965,<ref name="LarkinCountry"/> and spent most of his service on a military base in [[Illinois]], teaching aircraft mechanics. He played music in area clubs whenever possible.<ref name="LarkinCountry"/>
+
+After his tour of duty was finished Hunley returned to Knoxville and began performing weekly at a local nightclub (a dive called, "The Corner Lounge"), where he met businessman Sam Kirkpatrick, who formed the independent label Prairie Dust Records to showcase Hunley's talents.<ref name="LarkinCountry"/> After some minor success on the country music chart, Hunley caught the attention of [[Warner Bros. Records]], who signed him in 1978.<ref name="LarkinCountry"/> Hunley recorded five albums with Warner Bros., released several singles on [[MCA Records]] and [[Capitol Records]], and achieved more than 20 charted hits, including "Weekend Friend", "No Relief In Sight", and "[[Oh Girl]]".<ref name="LarkinCountry"/> He toured throughout the U.S., playing large venues around the country with other musical acts, including [[Alabama (American band)|Alabama]], the [[Oak Ridge Boys]], [[Larry Gatlin]], [[George Jones]] and [[Tammy Wynette]]. In 1986 Hunley had his final chart appearance with "Quittin' Time".<ref name="LarkinCountry"/>
+
+Hunley recorded no new music for over a decade after his last release for Capitol Records.<ref name="LarkinCountry"/> Hunley's long recording hiatus ended after signing with IMMI Records in 2004. He teamed again producer [[Norro Wilson]], the architect of several of his early Warner Brothers hits, and added his first new recorded product in twenty years, ''Sweet Memories'', to his catalog. The album was selected by CMT.com as one of the top 10 albums of 2004.
+
+In early 2006, IMMI Records released ''Shoot from the Heart'', another collaboration by Hunley and Norro Wilson. Hunley co-wrote two of the songs with songwriters Kim Williams and Larry Shell.
+
+Hunley participates in celebrity [[golf]] tournaments around the country, and hosts one of his own each year in his hometown of Knoxville, Tennessee, which has raised over a million dollars for charities benefiting underprivileged children.
+
+==Discography==
+===Albums===
+{| class="wikitable"
+! Year
+! Album
+! <small>[[Top Country Albums|US Country]]</small>
+! Label
+|-
+| 1979
+| ''No Limit''
+| align="center"| 34
+| rowspan="5"| Warner Bros.
+|-
+| rowspan="2"| 1980
+| ''I Don't Want to Lose You''
+| align="center"| 29
+|-
+| ''Don't It Break Your Heart''
+| align="center"| 51
+|-
+| 1981
+| ''Ask Any Woman''
+| align="center"| 59
+|-
+| 1982
+| ''Oh Girl''
+| align="center"| 56
+|-
+| 2004
+| ''Sweet Memories''
+| align="center"| —
+| rowspan="4"| IMMI
+|-
+| 2005
+| ''The First Time: From Studio B''
+| align="center"| —
+|-
+| 2006
+| ''Shoot from the Heart''
+| align="center"| —
+|-
+| 2011
+| ''Lost and Found: The MCA/Capitol Years''
+| align="center"| —
+|}
+
+===Singles===
+{| class="wikitable"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="2"| Chart Positions
+! rowspan="2"| Album
+|-
+! width="50"| <small>[[Hot Country Songs|US Country]]</small>
+! width="50"| <small>CAN Country</small>
+|-
+| rowspan="2"| 1976
+| "Misery Loves Company"
+| align="center"| —
+| align="center"| —
+| rowspan="6"| Singles only
+|-
+| "Loving You Is a Habit I Can't Break"
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="3"| 1977
+| "Pick Up the Pieces"
+| align="center"| 96
+| align="center"| —
+|-
+| "I'll Always Remember That Song"
+| align="center"| 75
+| align="center"| —
+|-
+| "Breaking Up Is Hard to Do"
+| align="center"| 67
+| align="center"| —
+|-
+| rowspan="3"| 1978
+| "Cry Cry Darling"
+| align="center"| 34
+| align="center"| 33
+|-
+| "Week-End Friend"
+| align="center"| 13
+| align="center"| 28
+| rowspan="4"| ''No Limit''
+|-
+| "[[You've Still Got a Place in My Heart (song)|You've Still Got a Place in My Heart]]"
+| align="center"| 14
+| align="center"| 20
+|-
+| rowspan="3"| 1979
+| "I've Been Waiting for You All of My Life"
+| align="center"| 14
+| align="center"| 16
+|-
+| "[[Since I Fell for You]]"
+| align="center"| 20
+| align="center"| 42
+|-
+| "I Don't Want to Lose You"
+| align="center"| 20
+| align="center"| —
+| rowspan="2"| '' I Don't Want to Lose You''
+|-
+| rowspan="3"| 1980
+| "[[You Lay a Whole Lot of Love on Me]]"
+| align="center"| 19
+| align="center"| 19
+|-
+| "They Never Lost You"
+| align="center"| 19
+| align="center"| —
+| rowspan="2"| ''Don't It Break Your Heart''
+|-
+| "What's New with You"
+| align="center"| 11
+| align="center"| —
+|-
+| 1981
+| "She's Steppin' Out"
+| align="center"| 17
+| align="center"| —
+| rowspan="2"| ''Ask Any Woman''
+|-
+| rowspan="3"| 1982
+| "No Relief in Sight"
+| align="center"| 20
+| align="center"| 44
+|-
+| "[[Oh Girl]]"
+| align="center"| 12
+| align="center"| 26
+| rowspan="2"| ''Oh Girl''
+|-
+| "Confidential"
+| align="center"| 43
+| align="center"| —
+|-
+| rowspan="2"| 1983
+| "Once You Get the Feel of It"
+| align="center"| 42
+| align="center"| —
+| rowspan="9"| Singles only
+|-
+| "Satisfied Mind"
+| align="center"| 84
+| align="center"| —
+|-
+| rowspan="2"| 1984
+| "Deep in the Arms of Texas"
+| align="center"| 75
+| align="center"| —
+|-
+| "All American Country Boy"
+| align="center"| 57
+| align="center"| —
+|-
+| rowspan="3"| 1985
+| "I'd Rather Be Crazy"
+| align="center"| 54
+| align="center"| —
+|-
+| "Nobody Ever Gets Enough Love"
+| align="center"| 49
+| align="center"| —
+|-
+| "[[What Am I Gonna Do About You (song)|What Am I Gonna Do About You]]"
+| align="center"| 48
+| align="center"| —
+|-
+| rowspan="2"| 1986
+| "Blue Suede Blues"
+| align="center"| 49
+| align="center"| —
+|-
+| "Quittin' Time"
+| align="center"| 55
+| align="center"| —
+|-
+| 2004
+| "Still"
+| align="center"| —
+| align="center"| —
+| rowspan="4"| ''Sweet Memories''
+|-
+| rowspan="3"| 2005
+| "Only Time Will Tell"
+| align="center"| —
+| align="center"| —
+|-
+| "She Ain't You"
+| align="center"| —
+| align="center"| —
+|-
+| "Sweet Memories"
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="3"| 2006
+| "I Can't Make It Alone"
+| align="center"| —
+| align="center"| —
+| rowspan="5"| ''Shoot from the Heart''
+|-
+| "That Old Clock (Just Keeps on Tickin')"
+| align="center"| —
+| align="center"| —
+|-
+| "I Can See You With My Eyes Closed"
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="2"| 2007
+| "Hollow Man"
+| align="center"| —
+| align="center"| —
+|-
+| "The Keys"
+| align="center"| —
+| align="center"| —
+|-
+| 2010
+| "Victims of the System"
+| align="center"| —
+| align="center"| —
+| Single only
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Official website|http://www.conhunley.com/}}
+*[https://web.archive.org/web/20050209004340/http://www.cmt.com/news/articles/1495205/12282004/roberts_julie.jhtml CMT:News "Top 10 Country Albums of 2004 Contemporary Superstars, Newcomers and Seasoned Veterans Make the List" December 28, 2004 Edward Morris Retrieved On 2009-04-09]
+*[http://nl.newsbank.com/nl-search/we/Archives?p_action=list&p_topdoc=11 ''Knoxville News Sentinel'' "Con Hunley Led By His Heart" March 7, 2004 Wayne Bledsoe Retrieved On 2009-04-09]
+*[http://www.angrycountry.com/stories/267.html ''Angrycountry.com'' "Con Hunley: New Album After An Absence From Country Music" August 26, 2004 Christine Bohorfoush Retrieved On 2009-04-09] {{Webarchive|url=https://web.archive.org/web/20070609021129/http://www.angrycountry.com/stories/267.html |date=June 9, 2007 }}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hunley, Con}}
+[[Category:1945 births]]
+[[Category:Living people]]
+[[Category:American country pianists]]
+[[Category:American male pianists]]
+[[Category:American male singer-songwriters]]
+[[Category:American country singer-songwriters]]
+[[Category:Musicians from Knoxville, Tennessee]]
+[[Category:Singer-songwriters from Tennessee]]
+[[Category:Warner Records artists]]
+[[Category:20th-century American pianists]]
+[[Category:Country musicians from Tennessee]]
+[[Category:21st-century American pianists]]
+[[Category:20th-century American male musicians]]
+[[Category:21st-century American male musicians]]

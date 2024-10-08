@@ -1,0 +1,179 @@
+{{Short description|American country music group}}
+{{Infobox musical artist
+| name         = Corbin/Hanner
+| image        =Corbin hanner.jpg
+| caption      = Bob Corbin (left) and David Hanner (right)
+| alt = A black-and-white image of musical duo Corbin/Hanner
+| image_size   =
+| alias        = Gravel<br />Corbin/Hanner Band
+| origin       = [[Ford City, Pennsylvania]], United States
+| genre        = [[Country music|Country]]
+| years_active = 1979–1984, 1990–1992, 1997–2014
+| label        = [[Alfa Records|Alfa]]<br />[[Mercury Records|Mercury]]<br />Silver Eagle<br />Liddl' Red Hen
+| past_members = Bob Corbin<br />David Hanner<br />Dave Freeland<br />Kip Paxton<br />Al Snyder
+}}
+
+'''Corbin/Hanner''', also known as '''Gravel''' and the '''Corbin/Hanner Band''', was an American [[country music]] group from [[Ford City, Pennsylvania]], founded by singer-songwriters Bob Corbin and David Hanner. The Corbin/Hanner band began in 1979 with both Corbin and Hanner serving as vocalists and guitarists, along with Al Snyder (keyboards), Kip Paxton (bass guitar), and Dave Freeland (drums). The quintet released two albums for [[Alfa Records]] before disbanding in 1984. Corbin and Hanner reunited in 1990 as a duo, recording two more albums for [[Mercury Records]], followed by four more albums on independent labels before disbanding in 2000. Although they never reached Top 40, the group charted eleven singles on the ''[[Billboard (magazine)|Billboard]]'' country charts: six as the Corbin/Hanner Band, and five more as Corbin/Hanner. Their highest charting singles as a band were 1981's "Livin' the Good Life" and 1982's "Everybody Knows I'm Yours" both at No.&nbsp;46, while their highest as a duo was 1992's "I Will Stand by You" at  No.&nbsp;49.
+
+==History==
+Bob Corbin and David Hanner, natives of the [[Western Pennsylvania]] community of [[Ford City, Pennsylvania|Ford City]], began their musical collaboration in high school. The duo's members initially played in a rock band called the Lost Lambs later and more famously in a [[country rock]] band called Gravel, which performed throughout [[Pennsylvania]] and [[West Virginia]].<ref name="allmusic">{{cite web |url={{Allmusic|class=artist|id=p16644/biography|pure_url=yes}} |title=Corbin/Hanner biography |accessdate=2008-02-16 |last=Loftus |first=Johnny |work=[[Allmusic]]}}</ref> Eventually, Gravel was reformed as The Corbin/Hanner Band, which included Corbin and Hanner as lead vocalists and guitarists, along with Al Snyder ([[keyboard instrument|keyboards]]), Kip Paxton ([[bass guitar]]), and Dave Freeland ([[Drum kit|drums]]). Under this lineup, they would record two albums for [[Alfa Records]], in addition to charting several singles on the ''[[Billboard (magazine)|Billboard]]'' country music charts. The band's members parted ways in 1984 after a final performance in [[Pittsburgh, Pennsylvania]].<ref>{{cite news|url=https://news.google.com/newspapers?id=sE4NAAAAIBAJ&pg=4017,5508675&dq=corbin-hanner|title=Parting performance by Corbin-Hanner|date=1983-06-24|work=[[Pittsburgh Post-Gazette]]|accessdate=2009-08-06}}</ref> After this performance, Corbin and Hanner worked as songwriters, with Hanner writing [[Don Williams]]' "[[Lord, I Hope This Day Is Good]]" and Corbin writing [[Alabama (American band)|Alabama]]'s "[[Can't Keep a Good Man Down (Alabama song)|Can't Keep a Good Man Down]]".
+
+Corbin and Hanner reunited in 1990. That year, they were signed to [[Mercury Records]] as the duo Corbin/Hanner. Two additional albums — 1990's ''Black and White Photograph'' and 1992's ''Just Another Hill'' — were released on Mercury, as were additional chart singles. A live album originally recorded in 1982 was released in 1997, followed by 1998's ''Every Stranger Has a Story'' (the title track of which was later recorded by [[Kenny Rogers]]<ref name="allmusic"/>), 1999's ''By Request'', and ''Originals'' in 2000.
+
+The duo retired in 2014.<ref>{{cite web|url=http://triblive.com/aande/music/6501887-74/corbin-hanner-says|title=Country-rock duo Corbin/Hanner ending performance career|last=Rutkoski|first=Rex|date=August 23, 2014|work=Triblive.com|accessdate=18 May 2017}}</ref> Corbin died September 18, 2023.<ref>{{cite web | url=https://www.leadertimes.com/news/renowned-singer-songwriter-bob-corbin-is-remembered-along-with-his-wife/article_d28985b0-57fd-11ee-8ad0-e750a22b5c7a.html | title=Renowned singer/songwriter Bob Corbin is remembered, along with his wife | publisher=The Leader Times | date=September 22, 2023 | accessdate=October 8, 2023}}</ref>
+
+==Discography==
+
+===As Corbin/Hanner Band===
+
+====Albums====
+{| class="wikitable"
+! Year
+! Album
+! Label
+|-
+|rowspan=2|1981
+|''For the Sake of the Song''
+|rowspan=2|Alfa
+|-
+|''Son of America''
+|}
+
+====Singles====
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Title
+! colspan="1"| Chart Positions
+! rowspan="2"| Album
+|-
+! width=65| <small>[[Hot Country Songs|US Country]]</small><ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=104|isbn=978-0-89820-177-2}}</ref>
+|-
+|1979
+|"America's Sweetheart" <small>(as Corbin & Hanner)</small>
+|align="center"|85
+|Single only
+|-
+|rowspan=2|1981
+|"Time Has Treated You Well"
+|align="center"|64
+|rowspan=2|''For the Sake of the Song''
+|-
+|"Livin' the Good Life"
+|align="center"|46
+|-
+|rowspan=3|1982
+|"Oklahoma Crude"
+|align="center"|49
+|rowspan=3|''Son of America''
+|-
+|"Everyone Knows I'm Yours"
+|align="center"|46
+|-
+|"One Fine Morning"
+|align="center"|75
+|}
+
+===As Corbin/Hanner===
+
+====Albums====
+{| class="wikitable"
+! Year
+! Album
+! Label
+|-
+|1990
+|''Black and White Photograph''
+|rowspan=2|Mercury
+|-
+|1992
+|''Just Another Hill''
+|-
+|1997
+|''Silver Eagle Cross Country Presents Live: Corbin/Hanner''
+|Silver Eagle
+|-
+|1998
+|''Every Stranger Has a Story''
+|rowspan=4|Liddl' Red Hen
+|-
+|1999
+|''By Request''
+|-
+|2000
+|''Originals''
+|-
+|2008
+|''And the Road Goes On''
+|}
+
+====Singles====
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Title
+! colspan="2"| Chart Positions
+! rowspan="2"| Album
+|-
+! width=50| <small>US Country</small><ref name="whitburn"/>
+! width=50| <small>CAN Country</small>
+|-
+|1990
+|"Work Song"
+|align="center"|55
+|align="center"|81
+|rowspan=2|''Black and White Photograph''
+|-
+|1991
+|"Concrete Cowboy"
+|align="center"|59
+|align="center"|—
+|-
+|rowspan=2|1992
+|"Just Another Hill"
+|align="center"|73
+|align="center"|—
+|rowspan=3|''Just Another Hill''
+|-
+|"I Will Stand by You"
+|align="center"|49
+|align="center"|71
+|-
+|1993
+|"Any Road"
+|align="center"|71
+|align="center"|—
+|}
+
+==Music videos==
+{| class="wikitable"
+|-
+! Year
+! Video
+! Director
+|-
+| 1990
+| "Work Song"
+| Marius Penczner<ref>{{cite web|url=http://www.mvdbase.com/person.php?id=A4301|title=Corbin/Hanner|work=mvdbase.com|accessdate=22 May 2017}}</ref>
+|-
+| rowspan="2"| 1992
+| "Just Another Hill"
+|
+|-
+| "I Will Stand By You"
+|
+|-
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.facebook.com/corbinhanner]
+{{Authority control}}
+
+{{DEFAULTSORT:Corbin Hanner}}
+[[Category:American country music duos]]
+[[Category:Mercury Records artists]]
+[[Category:Musical groups established in 1979]]
+[[Category:People from Ford City, Pennsylvania]]
+[[Category:Country musicians from Pennsylvania]]
+[[Category:Musical groups from Pennsylvania]]

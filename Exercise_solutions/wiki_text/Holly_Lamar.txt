@@ -1,0 +1,104 @@
+{{short description|American country music singer-songwriter (born 1966)}}
+{{Use mdy dates|date=May 2020}}
+{{Infobox musical artist
+| name            = Holly Lamar
+| image           =
+| image_size      =
+| origin          = [[Atlanta]], Georgia
+| instrument      =
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    =
+| label           = [[Show Dog-Universal Music|Universal South]]
+| associated_acts =
+| website         = 
+}}
+'''Mary "Holly" Holladay Lamar''' (born 1966 in [[Atlanta]], Georgia<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|page=230|year=2008|isbn=978-0-89820-177-2}}</ref>) is an American [[country music]] singer-songwriter. Lamar co-wrote "[[Breathe (Faith Hill song)|Breathe]]", a number one country and [[adult contemporary]] single by Faith Hill.<ref name="amgbio">[{{AllMusic|class=artist|id=p306428|pure_url=yes}} Holly Lamar] at ''[[Allmusic]]''</ref> Her songs have also been recorded by [[Sara Evans]], [[Wynonna Judd]], [[Lonestar]], [[Tim McGraw]], [[Jo Dee Messina]] and [[Jessica Simpson]], among others.<ref name="composed">[{{AllMusic|class=artist|id=p306428/songs|pure_url=yes}} Songs Composed by Holly Lamar] at ''Allmusic''</ref>
+
+In 2002, Lamar was one of the first artists signed to [[Show Dog-Universal Music|Universal South]].<ref>{{cite news|title=Universal South Set to Open|url=http://www.cmt.com/news/news-in-brief/1451735/universal-south-set-to-open.jhtml|archive-url=https://web.archive.org/web/20121023233607/http://www.cmt.com/news/news-in-brief/1451735/universal-south-set-to-open.jhtml|url-status=dead|archive-date=October 23, 2012|accessdate=July 11, 2011|newspaper=[[Country Music Television]]|date=January 10, 2002}}</ref> Between 2002 and 2003, she had two singles on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles & Tracks]] chart.<ref name="whitburn" /> The first, "These Are the Days", was previously recorded by Jo Dee Messina on her 2000 album ''[[Burn (Jo Dee Messina album)|Burn]]''.<ref>[{{AllMusic|class=album|id=r490618|pure_url=yes}} ''Burn''] at ''Allmusic''</ref> Deborah Evans Price of ''Billboard'' gave Lamar's version of the song a favorable review, calling it "a solid song and a great performance that adds up to a promising debut from a new voice with a lot to say".<ref>{{cite news|last=Price|first=Deborah Evans|title=Single Reviews|url=https://books.google.com/books?id=_AwEAAAAMBAJ&dq=%22holly%20lamar%22&pg=PA28|accessdate=July 11, 2011|newspaper=[[Billboard (magazine)|Billboard]]|date=September 14, 2002|via=Google Books}}</ref> Her second single, "Unkissed", also received a positive review from Price, who described it as "a shining calling card for a songwriter looking to make her own mark".<ref>{{cite news|last=Price|first=Deborah Evans|title=Single Reviews|url=https://books.google.com/books?id=CA8EAAAAMBAJ&dq=%22holly%20lamar%22&pg=PA31|accessdate=July 11, 2011|newspaper=[[Billboard (magazine)|Billboard]]|date=February 22, 2003|via=Google Books}}</ref>
+
+==Personal life==
+Lamar appeared on the [[BBC]] daytime TV show ''[[Homes Under the Hammer]]'', first broadcast in 2012.<ref>{{cite web |title=Homes Under the Hammer |url=https://www.bbc.co.uk/programmes/b01czdrs |website=BBC One |accessdate=October 12, 2018}}</ref> She bought a house at auction in the Fulham area of London.
+
+In 2014, Lamar lost US$600,000 in a fake investment scam by American David Plate, which, she said, left her "on the brink of bankruptcy".<ref name="TST">{{cite news |title=Man who duped US songwriter of $792k jailed for a year |url=https://www.straitstimes.com/singapore/courts-crime/man-who-duped-us-songwriter-of-792k-jailed-for-a-year |accessdate=October 14, 2018 |work=The Straits Times |date=April 24, 2018}}</ref>
+
+In October 2018, Lamar pleaded guilty in England to two offences relating to the illegal possession of a wild and unregistered [[peregrine falcon]] and received an 18-week sentence for each, suspended for 12 months, as well as being sentenced to 120 hours of community service.<ref name="BBC-45836621">{{cite news |title=Grammy nominee Holly Lamar had dead peregrine falcon in freezer|url=https://www.bbc.co.uk/news/uk-england-derbyshire-45836621 |accessdate=October 12, 2018 |website=BBC News|date=October 12, 2018}}</ref><ref name="DCWO">{{cite web |title=Derbyshire Constabulary Wildlife Officer |website=[[Facebook]] |url=https://www.facebook.com/DerbyshireWildlifeCrime/posts/523293794812348 |accessdate=October 14, 2018}}</ref> She was also banned from owning or being in possession of any birds classed as "Schedule 4" of the [[Wildlife and Countryside Act 1981]] which are birds that must be registered and ringed if kept in captivity.<ref name="BBC-45836621" />
+
+==Discography==
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2"| Year
+! rowspan="2" style="width:12em;"| Single
+! Peak positions
+! rowspan="2"| Album
+|-
+! width="60"| <small>[[Hot Country Songs|US Country]]</small><br /><ref name="whitburn" />
+|-
+| 2002
+! scope="row"| "These Are the Days"
+| 51
+| rowspan="2" align="left"| ''Unkissed''<br /><small>(unreleased)</small>
+|-
+| 2003
+! scope="row"| "Unkissed"
+| 59
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:12em;"| Video
+! Director
+|-
+| 2002
+! scope="row"| "These Are the Days"
+| [[Steven Goldmann]]
+|}
+
+===Singles written by Lamar===
+{| class="wikitable"
+|-
+! Year
+! Single
+! Artist<ref name="composed" />
+|-
+| 1999
+| "[[Breathe (Faith Hill song)|Breathe]]"
+| [[Faith Hill]]
+|-
+| rowspan="2"| 2000
+| "To Get to You"
+| [[Lorrie Morgan]]
+|-
+| "[[That's the Way (Jo Dee Messina song)|That's the Way]]"
+| [[Jo Dee Messina]]
+|-
+| 2001
+| "To Quote Shakespeare"
+| [[The Clark Family Experience]]
+|-
+| 2002
+| "[[Unbroken (Tim McGraw song)|Unbroken]]"
+| [[Tim McGraw]]
+|-
+| 2003
+| "[[What the World Needs]]"
+| [[Wynonna Judd]]
+|}
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Lamar, Holly}}
+[[Category:1966 births]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Living people]]
+[[Category:Singers from Atlanta]]
+[[Category:Show Dog-Universal Music artists]]
+[[Category:Country musicians from Georgia (U.S. state)]]
+[[Category:21st-century American women musicians]]
+[[Category:Singer-songwriters from Georgia (U.S. state)]]

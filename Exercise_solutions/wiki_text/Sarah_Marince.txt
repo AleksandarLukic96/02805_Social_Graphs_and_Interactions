@@ -1,0 +1,105 @@
+{{short description|American singer-songwriter}}
+
+{{Infobox musical artist
+| name         = Sarah Marince
+| image        =
+| alt          =
+| caption      =
+| image_size   =
+| birth_place  =
+| birth_date   = {{Birth based on age as of date|17|2008|05|29}}<ref name="eatnpark">{{cite web |url=http://www.post-gazette.com/pg/08150/885601-57.stm |title=West People News |date=29 May 2008 |work=Pittsburgh Post-Gazette |accessdate=4 August 2010}}</ref>
+| origin       = [[Moon Township, Pennsylvania|Moon Township]], [[Pennsylvania]], U.S.<ref name="localscene">{{cite web |url=http://www.post-gazette.com/pg/08010/847968-42.stm |title=Local Scene: Sarah Marince |date=10 January 2008 |work=Pittsburgh Post-Gazette |accessdate=4 August 2010}}</ref>
+| occupation   = TV-talent, model, entertainer, singer
+| years_active = early 2000s–present
+| website      = [http://www.sarahmarince.com/ www.sarahmarince.com]
+}}
+'''Sarah Marince''' (born 1990) is an American TV-talent, model and entertainer from [[Moon Township, Pennsylvania]]. She started her career as a country singer in Pittsburgh and she self-released two country albums. Marince made her Billboard chart debut in 2010 when radio host [[Blair Garner]] played her song "In the Meantime".
+
+Sarah Marince first stepped on stage at 13 in her hometown of Pittsburgh. She moved on to Nashville, where she earned opening slots with Taylor Swift, Kenny Chesney, Kellie Pickler, Kenny Rodgers and Pete Townsend. She has also performed alongside Martina McBride, Sara Evans and Sheryl Crow.
+
+While in Nashville, Marince hit the country music charts with "In The Meantime", which charted on iTunes and Billboard. She followed that success with her single "Can't A Girl Change Her Mind."
+
+She has sung the National Anthem for her hometown Pittsburgh Penguins, Steelers and Pirates as well as in the arenas of the Cleveland Cavaliers, the New York Knicks, the Mets, and the LA Clippers.
+
+After relocating to Orlando, Marince began doing radio, television and voiceover work. She has done commercial work for Disney, Wal-Mart, Nestle, Gaylord Palms Resort, Florida Hospital and modeling work for the NFL and MLB.
+
+In 2016, Walt Disney World hired Marince to record voiceovers for the new Star Wars shows at Disney's Hollywood Studios. Her voice can also be heard on songs for Disney's Fireworks Spectaculars and Shows in their parks here in the US and overseas.
+
+== Personal life ==
+Marince resides in [[Orlando, Florida]].
+
+==Discography==
+
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:14em;"| Title
+! style="width:16em;"| Album details
+|- 
+! scope="row"| ''Somebody Like You''<ref>{{cite web|url=http://www.billboard.com/#/album/sarah-marince/somebody-like-you/1112231|title=Somebody Like You - Sarah Marince|publisher=Billboard|accessdate=August 28, 2010}}</ref>
+| 
+* Release date: January 2008
+* Label: Gasoline Records
+|-
+|}
+
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:14em;"| Title
+! style="width:16em;"| Album details
+|-
+! scope="row"| ''You're My Summertime''<ref>{{cite web|url=http://www.billboard.com/#/album/sarah-marince/you-re-my-summertime/1326446|title=You're My Summertime - Sarah Marince|publisher=Billboard|accessdate=August 28, 2010}}</ref>
+| 
+* Release date: 2008
+* Label: [[self-released]]
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:12em;"| Single
+! colspan="1"| Peak positions
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]
+|-
+| 2010
+! scope="row"| "In the Meantime"
+| 59
+|- 
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;"| Video
+|-
+| rowspan="2"| 2012
+! scope="row"| "Can I"
+|-
+! scope="row"| "Can't a Girl Change Her Mind"
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Official website|http://www.sarahmarince.com/}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Marince, Sarah}}
+[[Category:American child singers]]
+[[Category:American country singer-songwriters]]
+[[Category:American women country singers]]
+[[Category:Living people]]
+[[Category:Singers from Pittsburgh]]
+[[Category:1990s births]]
+[[Category:Singer-songwriters from Pennsylvania]]
+[[Category:People from Moon Township, Pennsylvania]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:21st-century American women singers]]
+[[Category:Country musicians from Pennsylvania]]

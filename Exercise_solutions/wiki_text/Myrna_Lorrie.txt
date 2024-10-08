@@ -1,0 +1,175 @@
+{{short description|Canadian singer}}
+{{Infobox musical artist
+| name            = Myrna Lorrie
+| image           =
+| caption         =
+| image_size      =
+| birth_name      = Myrna Lorraine Petrunka
+| alias           =
+| birth_date      = {{Birth date and age|1940|8|6}}
+| birth_place     = [[Cloud Bay, Ontario]], Canada
+| death_date      = 
+| death_place     = 
+| origin          = [[Fort William, Ontario]]
+| instrument      =
+| genre           = [[country music|Country]]
+| occupation      =
+| years_active    =
+| label           = 
+| associated_acts =
+| website         = 
+}}
+'''Myrna Lorraine Petrunka''' (born August 6, 1940), known professionally as '''Myrna Lorrie''', is a Canadian [[country music|country]] singer/songwriter/musician.
+
+Lorrie first sang publicly at age 11 on [[Fort William, Ontario|Fort William]] radio station [[CKPR-FM|CKPR]] on a program called ''School of the Air'', whose host, Jack Masters,  gave Lorrie her own radio show, ''Harmony Trails,'' when she was just 12. At age 14 she wrote and recorded the song "Are You Mine" with [[Buddy DeVal]], which was released on [[Abbott Records]] and reached number 6 on the ''Billboard'' Chart. The song became a hit in both Canada and the United States and was recorded by several artists; it peaked at No.&nbsp;2 on the ''Billboard'' and ''Cashbox'' charts in early 1956. She was voted Best New Female Singer by fan polls in both ''Billboard'' and ''Cashbox'' magazines in 1955. The Lorrie/De Val team was a part of numerous [[Grand Ole Opry]] packages in 1956.<ref>{{Allmusic|class=artist|id=p189302}} Billboard Singles</ref>
+
+==Biography==
+
+On January 10, 1957, Lorrie had her first recording session for RCA, at the RCA Victor Studio 1 in New York. Her first producer was [[Steve Sholes]], who had signed [[Jim Reeves]] and [[The Browns]], [[Hank Snow]], [[Eddy Arnold]], [[Chet Atkins]] and [[Elvis Presley]]. Nine months later, on October 31, 1957, Lorrie recorded at [[RCA Victor Studio (McGavock)|RCA Victor Studio on McGavock Street]] in Nashville, with Chester B. Atkins. The recording included a song written by Lorrie called "Tradewinds".<ref name="auto">{{Cite web|url=http://www.hillbilly-music.com/artists/story/index.php?id=13488|title=Myrna Lorrie|website=www.hillbilly-music.com}}</ref>
+
+On first tour in the United States, she opened for stars such as [[Hank Snow]], [[Marty Robbins]], [[Johnny Cash]], [[Kitty Wells]], and [[Sonny James]]. She appeared on the ''Grand Ole Opry'' broadcast as a guest of Hank Snow. Later she toured with [[Faron Young]]. [[Skeeter Davis]], [[Ferlin Husky]], and [[Porter Wagoner]].<ref name="auto"/>
+
+She recorded several hits for [[Columbia Records]], including "Tell Me Not to Go", "Turn Down the Music", and "Changing of the Seasons".<ref>[http://www.thecanadianencyclopedia.ca/en/article/myrna-lorrie-emc/ Myrna Lorrie] at the ''Encyclopedia of Music in Canada''</ref> She totaled six number one hits in Canada.<ref name="auto"/>
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:15em;"| Title
+! style="width:15em;"| Details
+|-
+! scope="row"| ''It's Countrytime''
+| 
+* Release date: 1970
+* Label: [[MCA Records]]
+|-
+! scope="row"| ''Myrna Lorrie''
+| 
+* Release date: 1971
+* Label: [[Harmony Records]]
+|-
+! scope="row"| ''Blue Blue Me''
+| 
+* Release date: 1989
+* Label: Sibley Records
+|-
+! scope="row"| ''Child to Woman''
+| 
+* Release date: 1998
+* Label: [[EMI Music Canada]]
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Single
+! colspan="2"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[RPM (magazine)|CAN Country]]<br><ref>{{cite web|url=http://www.collectionscanada.gc.ca/rpm/028020-110.01-e.php?PHPSESSID=o8unnuos275o2mh8gr13soh527&q1=myrna+lorrie&q2=Country+Singles&interval=20|title=RPM Search Results for Myrna Lorrie|work=[[RPM (magazine)|RPM]]|access-date=June 5, 2012|archive-url=https://web.archive.org/web/20150927200929/http://www.collectionscanada.gc.ca/rpm/028020-110.01-e.php?PHPSESSID=o8unnuos275o2mh8gr13soh527&q1=myrna+lorrie&q2=Country+Singles&interval=20|archive-date=September 27, 2015|url-status=dead}}</ref>
+! width="45"| [[Hot Country Songs|US Country]]<br><ref>{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|pages=245|isbn=978-0-89820-177-2|author-link=Joel Whitburn}}</ref>
+|-
+| rowspan="3"| 1955
+! scope="row"| "Are You Mine?" {{small|(with Buddy DeVal)}}
+| —
+| 6
+| rowspan="8" {{n/a}}
+|-
+! scope="row"| "I'm Your Man" {{small|(with Buddy DeVal)}}
+| —
+| —
+|-
+! scope="row"| "Life's Changing Scene"
+| —
+| —
+|-
+| 1956
+! scope="row"| "Tears Amid the Laughter"
+| —
+| —
+|-
+| rowspan="2"| 1957
+! scope="row"| "Die, I Thought I Would"
+| —
+| —
+|-
+! scope="row"| "Moonshy"
+| —
+| —
+|-
+| 1964
+! scope="row"| "Do You Wish You Were Free"
+| 2
+| —
+|-
+| 1965
+! scope="row"| "I Can't Live with Him"
+| 1
+| —
+|-
+| 1966
+! scope="row"| "Your Special Day (Happy Birthday Mom)"
+| 5
+| —
+| rowspan="5" align="left"| ''Myrna Lorrie''
+|-
+| rowspan="2"| 1967
+! scope="row"| "No Love Like Mine"
+| —
+| —
+|-
+! scope="row"| "Tell Me Not to Go"
+| 1
+| —
+|-
+| rowspan="2"| 1968
+! scope="row"| "Turn Down the Music"
+| 1
+| —
+|-
+! scope="row"| "Changing of the Seasons"
+| 4
+| —
+|-
+| 1971
+! scope="row"| "Bringing Mary Home"
+| 37
+| —
+| align="left"| ''It's Countrytime''
+|-
+| rowspan="2"| 1989
+! scope="row"| "Blue Blue Me"
+| 25
+| —
+| rowspan="2" align="left"| ''Blue Blue Me''
+|-
+! scope="row"| "Sometime"
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Discogs artist|Myrna Lorrie}}
+* [https://www.45cat.com/45_search.php?sq=myrna+lorrie&sm=ar Entries at 45 cat.com]
+*{{imdb name|id=0521151}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lorrie, Myrna}}
+[[Category:1940 births]]
+[[Category:Canadian women country singers]]
+[[Category:Canadian country singer-songwriters]]
+[[Category:Abbott Records artists]]
+[[Category:RCA Victor artists]]
+[[Category:Columbia Records artists]]
+[[Category:People from Thunder Bay District]]
+[[Category:Living people]]
+[[Category:Juno Award winners]]
+[[Category:Singers from Ontario]]

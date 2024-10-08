@@ -1,0 +1,132 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist 
+| name            = Justin Tubb
+| image           = Justin Tubb promo image.jpg
+| caption         = 
+| image_size      = 
+| background      = solo_singer
+| birth_name      = Justin Wayne Tubb
+| alias           = 
+| birth_date      = {{birth date|1935|08|20}}
+| birth_place     = [[San Antonio|San Antonio, Texas]], U.S.
+| death_date      = {{death date and age|1998|01|24|1935|08|20}}
+| death_place     = [[Goodlettsville, Tennessee]], U.S.
+| instrument      = Guitar
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 1954–1981
+| label           = [[Decca Records|Decca]], [[Groove Records|Groove]], [[RCA Records|RCA]]
+| associated_acts = [[Ernest Tubb]], [[Goldie Hill]], [[Lorene Mann]]
+| website          = 
+}}
+'''Justin Wayne Tubb''' (August 20, 1935 – January 24, 1998)<ref name="washpost">{{cite news|title=Deaths|url=https://www.washingtonpost.com/archive/local/1998/01/26/deaths/da0b4f80-2120-4b32-a76b-a86760286d1e/?noredirect=on|newspaper=[[The Washington Post]]|date=January 26, 1998|access-date=April 22, 2019}}</ref> was an American [[country music]] singer and songwriter.<ref name="Larkin50">{{cite book|title=[[Encyclopedia of Popular Music|The Virgin Encyclopedia of Fifties Music]]|editor=Colin Larkin|editor-link=Colin Larkin (writer)|publisher=[[Virgin Books]]|date=2002|edition=Third|isbn=1-85227-937-0|page=455}}</ref> Born in [[San Antonio]], Texas, United States,<ref name="Larkin50"/> he was the oldest son of country singer [[Ernest Tubb]],<ref name="washpost"/> known for popular songs like "[[Walking the Floor Over You]]".
+
+==Biography==
+By 1954, Tubb made it on the country chart with two duets with [[Goldie Hill]]—("Looking Back to See" and "Sure Fire Kisses").<ref name="Larkin50"/> A year later, at age 20, he was made a member of the [[Grand Ole Opry]].<ref name="Larkin50"/> Tubb had a few recordings of his own that enjoyed success, including "I Gotta Go Get My Baby" and "Take a Letter Miss Gray", but he was more successful as a songwriter.<ref name="Larkin50"/> He penned many hit songs for other performers, including "Keeping Up with the Joneses", "Love Is No Excuse", and "[[Lonesome 7-7203]]", a hit for [[Hawkshaw Hawkins]].<ref name="Larkin50"/> Ultimately, six of his songs won awards.<ref name="Brigham">{{cite web
+  | last = Brigham
+  | first = Cathy
+  | title = Tubb, Justice Wayne
+  | work = Handbook of Texas Online
+  | publisher = [[University of Texas at Austin]]
+  | url = http://www.tshaonline.org/handbook/online/articles/ftu33
+  | access-date =  July 20, 2007}}</ref> In the late 1950s he roomed with a young, up-and-coming songwriter named [[Roger Miller]].
+
+During the 1960s, Tubb worked with his father on various business projects.<ref name="Larkin50"/> Toward the end of his own life, he completed an album of duets with his father, using recordings Ernest had made before his death. The album, ''Just You and Me Daddy'' (1999), was released after Justin Tubb died in Nashville on January 24, 1998.<ref name="Larkin50"/>
+
+His wife was Carolyn McPherson Tubb.<ref name="Brigham"/>
+
+==Singles==
+{| class="wikitable"
+! Year
+! Single
+! width="45"| <small>[[Hot Country Songs|US Country]]</small>
+|-
+| 1954
+| "Looking Back to See" <small>(with [[Goldie Hill]])</small>
+| align="center"| 4
+|-
+| rowspan="2"| 1955
+| "Sure Fire Kisses" <small>(with Goldie Hill)</small>
+| align="center"| 11
+|-
+| "I Gotta Go Get My Baby"
+| align="center"| 8
+|-
+| 1963
+| "Take a Letter, Miss Gray"
+| align="center"| 6
+|-
+| 1965
+| "Hurry, Mr. Peters" <small>(with [[Lorene Mann]])</small>
+| align="center"| 23
+|-
+| 1966
+| "We've Gone Too Far, Again" <small>(with Lorene Mann)</small>
+| align="center"| 44
+|-
+| 1967
+| "But Wait There's More"
+| align="center"| 63
+|}
+
+==Albums==
+*''Country Boy in Love'' (1957)
+*''Star of the Grand Ole Opry'' (1962)
+*''The Modern Country Western Sound of Justin Tubb'' (1963)
+*''Where You're Concerned'' (1965)
+*''Justin Tubb & Lorene Mann'' (1966)
+*''That Country Style'' (1967)
+*''Things I Still Remember Very Well'' (1969)
+*''A New Country Heard From'' (1974)
+*''Justin Tubb'' (1981)
+*''Justin Tubb'' (1985)
+*''Just You and Me Daddy'' (1999)
+
+==Notes==
+{{Reflist}}
+
+==References==
+*{{cite web
+  | last = Brigham
+  | first = Cathy
+  | title = Tubb, Justice Wayne
+  | work = Handbook of Texas Online
+  | publisher = [[University of Texas at Austin]]
+  | url = http://www.tshaonline.org/handbook/online/articles/ftu33
+  | access-date =  July 20, 2007}}
+*{{cite web
+  | last = Brennan
+  | first = Sandra
+  | title = Justin Tubb: Biography
+  | work = CMT.com
+  | publisher = Country Music Television, Inc.
+  | url = http://www.cmt.com/artists/az/tubb_justin/bio.jhtml
+  | archive-url = https://web.archive.org/web/20050301234737/http://www.cmt.com/artists/az/tubb_justin/bio.jhtml
+  | url-status = dead
+  | archive-date = March 1, 2005
+  | access-date =  September 25, 2007}}
+
+==External links==
+{{Portal|Biography}}
+* {{Find a Grave|8445}}
+
+{{Grand Ole Opry members}}
+{{Authority control}}
+
+{{DEFAULTSORT:Tubb, Justin}}
+[[Category:1935 births]]
+[[Category:1998 deaths]]
+[[Category:Musicians from San Antonio]]
+[[Category:American country singer-songwriters]]
+[[Category:Grand Ole Opry members]]
+[[Category:Starday Records artists]]
+[[Category:Challenge Records artists]]
+[[Category:Groove Records artists]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:Country musicians from Texas]]
+[[Category:Singer-songwriters from Texas]]
+
+
+{{US-country-musician-stub}}

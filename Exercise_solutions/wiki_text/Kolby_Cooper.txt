@@ -1,0 +1,65 @@
+{{Infobox musical artist
+| background        = person 
+| name              = 
+| image             = 
+| image_upright     = 
+| image_size        = 
+| birth_name        = 
+| alias             = 
+| birth_date        = {{birth date and age|1999|05|31}}
+| birth_place       = [[Bradford, Texas]], U.S.
+| origin            = [[Nashville, Tennessee]], U.S.
+| genre             = [[Country music|Country]]
+| occupation        = Singer-songwriter
+| instrument        = Vocals
+| years_active      = 2019-present
+| label             = Combustion/[[BBR Music Group|Wheelhouse]]
+}}
+'''Kolby Cooper''' (born May 31, 1999) is an American [[country music]] singer. Active since 2019, he has released two [[extended play]]s and charted one single through Combustion Music.
+
+==Biography==
+Kolby Cooper was born in [[Bradford, Texas]]. He grew up listening to both [[outlaw country]] and [[grunge]], both of which inspired him to learn to play guitar and write songs. Although he initially wanted to be a football player, a high school classmate persuaded him to focus on music instead.<ref>{{cite web | url=https://www.tennessean.com/story/entertainment/2022/08/19/kolby-cooper-boy-anderson-county-moon-talks-new-album/10284329002/ | title=Kolby Cooper rides a country music silver lining 'From Anderson County to the Moon' | publisher=The Tennessean | date=August 19, 2022 | accessdate=April 10, 2023}}</ref>
+
+By the time he finished high school, Cooper was married and had begun writing songs full-time. After entering some of his songs in local talent competitions, he released his debut single "Every Single Kiss" in 2017 followed by an [[extended play]] a year later. He continued to release songs through Combustion Music throughout the 2010s.<ref>{{cite web | url=https://www.allmusic.com/artist/kolby-cooper-mn0003961524/biography | title=Kolby Cooper biography | publisher=AllMusic | accessdate=April 10, 2023}}</ref>
+
+By 2022, Cooper was signed to [[BBR Music Group]]'s Wheelhouse imprint, which sent the single "Excuses" to radio late in the year. He wrote the song with Brett Tyler and Jordan Walker.<ref>{{cite web | url=https://tasteofcountry.com/kolby-cooper-excuses/ | title=Kolby Cooper, 'Excuses' Explores the Frayed Emotions of a Breakup | publisher=Taste of Country | date=December 13, 2022 | accessdate=April 10, 2023}}</ref> It served as the lead single to Cooper's debut album, ''Boy from Anderson County to the Moon'', which was released on August 19, 2022.<ref>{{cite web|url=https://www.tennessean.com/story/entertainment/2022/08/19/kolby-cooper-boy-anderson-county-moon-talks-new-album/10284329002/|title=Kolby Cooper rides a country music silver lining 'From Anderson County to the Moon'|author=Marcus K. Dowling|date=August 19, 2022|publisher=The Tennessean|accessdate=May 25, 2023}}</ref>
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of albums, showing other relevant details
+! scope="col" style="width:18em;"| Title
+! scope="col" style="width:20em;"| Details
+|-
+! scope="row"| ''Boy from Anderson County to the Moon''
+|
+* Release: August 19, 2022
+* Label: [[BBR Music Group|Wheelhouse Records]]/Combustion
+* Formats: digital download, streaming
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! colspan="2"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! width="45"| [[Country Airplay|US Country Airplay]] 
+|-
+| 2022
+! scope="row"| "Excuses"
+| 35<ref>{{cite web | url=https://s3.amazonaws.com/bulletins.billboard.com/country/country_update_2023_0407.pdf | title=Billboard Country Update | publisher=Billboard | date=April 7, 2023 | accessdate=April 10, 2023}}</ref>
+|}
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Cooper, Kolby}}
+[[Category:American male singer-songwriters]]
+[[Category:BBR Music Group artists]]
+[[Category:Country musicians from Texas]]
+[[Category:Living people]]
+[[Category:People from Anderson County, Texas]]
+[[Category:1999 births]]

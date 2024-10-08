@@ -1,0 +1,170 @@
+{{short description|American country singer and songwriter}}
+
+{{Use mdy dates|date=October 2019}}
+{{Infobox musical artist
+| name            = Travis Meadows
+| image           =
+| birth_name      =
+| alias           =
+| origin          =
+| genre           = {{flatlist|
+* [[Country music|Country]]
+}}
+| occupation      = {{flatlist|
+* Singer
+* songwriter
+}}
+| years_active    = 2007–present
+| associated_acts = {{flatlist|
+* [[Eric Church]]
+* [[Dierks Bentley]]
+* [[Frankie Ballard]]
+* [[Jake Owen]]
+* [[Blackberry Smoke]]
+* [[Levi Lowrey]]
+* [[Kenny Chesney]]
+}}
+}}
+'''Travis Meadows''' (born 1965) is an American [[country music]] singer and songwriter. He has released four albums and written a number of songs for other country artists.
+
+==Early life==
+Meadows was born in 1965 in Mississippi, growing up in [[Jackson, Mississippi|Jackson]].<ref name="rs">{{cite web | url=https://www.rollingstone.com/music/features/travis-meadows-songs-interview-20141008 | title=Nashville's Most Badass Songwriter Travis Meadows Shares Tragic Life Stories | publisher=Rolling Stone Country | date=October 8, 2015 | accessdate=August 20, 2015 | archiveurl=https://web.archive.org/web/20150907042531/http://www.rollingstone.com/music/features/travis-meadows-songs-interview-20141008 | url-status=live | archivedate=September 7, 2015}}</ref><ref name="ng"/> He began using drugs at an early age,<ref name="rs"/> and at 14 was diagnosed with bone cancer, which led to the loss of most of his right leg.<ref name="rs"/>
+
+==Career==
+At the age of 16, he began playing in local bands, starting his musical career as a drummer before beginning to play the harmonica and guitar by the time he was 21.<ref name="ng"/> During his early 20s, he performed with blues musicians such as [[Sam Myers]], and moved to [[Gatlinburg, Tennessee|Gatlinburg]], where he began writing songs.<ref name="ng"/> In his mid-20s, Meadows became a Christian missionary and later a preacher, traveling around the United States and overseas, as well as writing and performing Christian music.<ref name="ng"/> By his late 30s, however, he had become disenchanted with the church, and moved to Nashville to pursue a songwriting career.<ref name="ng"/> He signed a contract with [[Universal Music Publishing]], releasing his debut album ''My life 101'' I'm 2007, but at the same time his life-long drinking and drug habits led to a multi-year descent into alcoholism and abuse.<ref name="rs"/> After four trips to rehab, he succeeded in regaining sobriety in 2010.<ref name="rs"/>
+
+In 2011, Meadows released a studio album, titled ''Killin' Uncle Buzzy'', written in 2010 while he was recovering from his alcohol addiction during his fourth period in rehab.<ref name="rs"/> According to Meadows, a counselor had suggested keeping a journal, which led to him writing songs instead.<ref name="rs"/> In 2013, after his songwriting contract with Universal expired, he began writing independently before signing with independent record label [[Kobalt Music]] and releasing a third album, ''Old Ghosts & Unfinished Business''.<ref name="ng">{{cite web | url=http://nashvillegab.com/2013/07/exclusive-interview-travis-meadows.html | title=Exclusive: Songwriter Travis Meadows on writing Dierks Bentley's "Riser," his tragic past and finding redemption | publisher=Nashville Gab | date=July 16, 2013 | accessdate=August 20, 2015}}</ref>
+
+In 2016, Meadows was featured in an episode of the television show ''American Elements''.<ref>{{Cite web|title = Travis Meadows : American Elements|url = http://www.carbontv.com/videos/0_6bxjfvyj|publisher = CarbonTV|access-date = February 10, 2016}}</ref>
+
+In 2017, Meadows released his fourth album, ''First Cigarette''. The album was produced by Jeremy Spillman and assisted by Jay Joyce, and is the first album by Meadows to receive label support.<ref>{{cite magazine |url=https://www.rollingstone.com/country/features/why-travis-meadows-is-nashvilles-favorite-underdog-w508798 |title=Why Songwriter Travis Meadows Is Nashville's Favorite Underdog |first=Dan |last=Hyman |date=October 13, 2017|magazine=Rolling Stone }}</ref> It is also his first album to appear on Billboard charts, reaching No. 21 on Heatseekers Albums and No. 48 on Independent Albums. It sold 1,100 copies in its debut week,<ref>{{cite news |url=http://roughstock.com/news/2017/10/42474-top-10-country-albums-sales-chart-october-24-2017 |title=TOP 10 Country Albums Sales Chart: October 24, 2017 |first= Matt |last= Bjorke  |date= October 24, 2017 |work=Roughstock }}</ref> reaching No. 17 on Americana/Folk Album Sales and No. 34 on Country Album Sales.<ref>{{cite magazine |url=http://www.billboard.com/biz/charts/2017-11-04/country-album-sales |title=Country Album Sales|date=November 4, 2017 |magazine=Billboard }}</ref>
+
+In April 2021, [[Earache Records]] reissued ''Killin' Uncle Buzzy'' for the record's 10th Anniversary, including a limited edition clear vinyl. This was the first time the album had been available on vinyl and released by a label.<ref>{{Cite web|title=Travis Meadows - Killin' Uncle Buzzy|url=https://www.discogs.com/Travis-Meadows-Killin-Uncle-Buzzy/release/16943934|access-date=April 27, 2021|website=[[Discogs]]}}</ref><ref>{{Cite web|date=March 12, 2021|title=10th Anniversary Reissue: Killin' Uncle Buzzy - Pre-order with Earache Records!|url=https://travismeadows.com/blogs/latest-news/posts/10th-anniversary-reissue-killin-uncle-buzzy-pre-order-with-earache-records|access-date=April 27, 2021|website=Travis Meadows}}</ref>
+
+==Discography==
+===Albums/EPs===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:12em;"| Title
+! rowspan="2" style="width:15em;"| Album details
+! colspan="2"| Peak chart positions
+! rowspan="2" style="width:8em;"| Sales
+|- style="font-size:smaller;"
+! style="width:4em;"| [[Heatseekers Albums|US <br />Heat]]<br /><ref name="meadows billboard">{{cite magazine|url=http://www.billboard.com/biz/search/charts?f[0]=ts_chart_artistname%3Atravis%20meadows&f[1]=ss_bb_type%3Achart_item&type=2&artist=travis%20meadows|title=Search results: Travis Meadows |magazine=[[Billboard (magazine)|Billboard]]}}</ref>
+! style="width:4em;"| [[Independent Albums|US <br />Indie]]<br /><ref name="meadows billboard"/>
+|-
+! scope="row"|  ''My Life 101''<ref>{{cite web |url=https://www.amazon.com/My-Life-101-Travis-Meadows/dp/B0016O5PN6 |title=My Life 101 – Travis Meadows |website=Amazon }}</ref>
+|
+* Release date:  February 6, 2007
+* Label: Travis Meadows
+| —
+| —
+|
+|-
+! scope="row"|  ''Killing Uncle Buzzy''<ref>{{cite web |url=https://www.amazon.com/Killin-uncle-Buzzy-Travis-Meadows/dp/B00N5AWD7K |title=Killin' uncle Buzzy – Travis Meadows |website=Amazon }}</ref>
+|
+* Release date:  July 19, 2011
+* Label: Travis Meadows
+*Reissued: April 30, 2021
+*Label: [[Earache Records]]
+| —
+| —
+|
+|-
+! scope="row"| ''Old Ghosts & Unfinished Business'' (EP)<ref>{{cite web |url=https://www.amazon.com/dp/B00CEOR0DU/ref=ap_ws_tlw_alb3 |title=	Old Ghosts & Unfinished Business [Explicit] – Travis Meadows |website=	Amazon }}</ref>
+|
+* Release date: May 7, 2013
+* Label: Travis Meadows
+| —
+| —
+|
+|-
+! scope="row"| ''First Cigarette''
+|
+* Release date: October 13, 2017
+* Label:  Blaster Records
+| 21
+| 48
+|
+* US: 1,100<ref>{{cite news |url=http://roughstock.com/news/2017/10/42474-top-10-country-albums-sales-chart-october-24-2017 |title=TOP 10 Country Albums Sales Chart: October 24, 2017 |first= Matt |last= Bjorke  |date= October 24, 2017 |work=Roughstock }}</ref>
+|-
+| colspan="9" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+=== Songs recorded by other artists ===
+
+In addition to his solo work, Meadows has written songs for other country musicians.
+
+{| class="wikitable"
+|-
+! Artist !! Song !! Album !! Year
+|-
+| [[Dallas Smith]] || CRZY || ''[[Dallas Smith (album)|Dallas Smith]]'' || 2023
+|-
+| [[Cody Johnson]] || Human || ''[[Human: The Double Album]]'' || 2021
+|-
+| [[Kenny Chesney]] || Better Boat || ''[[Songs for the Saints]]'' || 2018
+|-
+| [[Blackberry Smoke]] || Medicate My Mind || ''Find A Light'' || 2018
+|-
+| Blackberry Smoke || Seems So Far || ''Find A Light'' || 2018
+|-
+| [[Brothers Osborne]] || While You Still Can || ''Port Saint Joe'' || 2018
+|-
+| [[Lindsay Ell]] || Worth the Wait || ''The Project'' || 2017
+|-
+| [[Randy Houser]] || Hot Beer and Cold Women || ''Fired Up'' || 2016
+|-
+| [[Wynonna Judd]] || Things That I Lean On || ''Wynonna Judd & The Big Noise''* || 2016
+|-
+| [[Hank Williams Jr.]] || God And Guns || ''It's About Time'' || 2016 
+|-
+| [[Eric Church]] || Knives Of New Orleans || ''Mr. Misunderstood'' || 2015
+|-
+| [[Levi Lowrey]] || My Crazy Head || ''My Crazy Head'' || 2015
+|-
+| [[Dierks Bentley]] || [[Riser (song)|Riser]] || ''Riser'' || 2014
+|-
+| Levi Lowrey || Long Way Home || ''Levi Lowrey'' || 2014	 
+|-
+| [[Frankie Ballard]] || Don't You Wanna Fail || ''Sunshine & Whiskey'' || 2014	 
+|-
+| [[Eric Church]] || Dark Side || ''The Outsiders'' || 2014 
+|-
+| [[Jake Owen]] || [[What We Ain't Got]] || ''Days Of Gold'' || 2013
+|-
+| Robby Armstrong || Better Me || ''Robby Armstrong'' || 2013
+|-
+| [[Jimmie Van Zant]] || Chasing Shadows || ''Feels Like Freedom'' || 2012
+|-
+| [[High Valley]] || Trying To Believe || ''Love Is a Long Road'' || 2012 
+|-
+| Blackberry Smoke || Pretty Little Lie || ''The Whippoorwill''* || 2012	 
+|-
+| [[Adam Brand (musician)|Adam Brand]] || It's Gonna Be OK || ''It's Gonna Be OK''* || 2010
+|-
+| [[Flynnville Train]] || Friend Of Sinners || ''Redemption'' || 2010 
+|-
+| Jake Owen || Cherry On Top || ''Easy Does It'' || 2009
+|-
+| [[Lynyrd Skynyrd]] || Gods & Guns	 || ''Gods & Guns'' || 2009 
+|-
+| Mary Gauthier || I Ain't Leaving || ''Between Daylight & Dark'' || 2007 
+|}
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Meadows, Travis}}
+[[Category:1965 births]]
+[[Category:Living people]]
+[[Category:American country singer-songwriters]]
+[[Category:Country musicians from Mississippi]]
+[[Category:Singer-songwriters from Mississippi]]
+[[Category:People from Sevier County, Tennessee]]
+[[Category:Musicians from Jackson, Mississippi]]
+[[Category:Country musicians from Tennessee]]
+[[Category:American male singer-songwriters]]
+[[Category:Singer-songwriters from Tennessee]]

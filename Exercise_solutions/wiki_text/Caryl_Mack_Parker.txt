@@ -1,0 +1,111 @@
+{{BLP refimprove|date=June 2024}}
+{{short description|American singer-songwriter}}
+{{Infobox musical artist
+| name            = Caryl Mack Parker
+| image           =
+| image_size      =
+| birth_name      =
+| alias           = Caryl Parker
+| birth_date      =
+| birth_place     = [[Abilene, Texas]], U.S.
+| instrument      = Guitar, piano
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 1984–present
+| label           = Magnatone
+| associated_acts =
+| website         = {{official website|http://www.carylparker.com}}
+}}
+
+'''Caryl Mack Parker''' (born in [[Abilene, Texas]])<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|page=314|year=2008|isbn=978-0-89820-177-2}}</ref> is an American [[country music]] singer. Between 1996 and 1997, Parker charted two singles on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles & Tracks]] chart.<ref name="whitburn" />
+
+[[Alanna Nash]] of ''[[Entertainment Weekly]]'', wrote that Parker "this West Texas native conjures inventive images and dispenses sage advice."<ref>{{cite news|last=Nash|first=Alanna|title=Music Review: 'Caryl Mack Parker'|url=http://www.ew.com/ew/article/0,,295088,00.html|archive-url=https://web.archive.org/web/20090425120716/http://www.ew.com/ew/article/0,,295088,00.html|url-status=dead|archive-date=April 25, 2009|accessdate=May 16, 2012|newspaper=[[Entertainment Weekly]]|date=November 22, 1996}}</ref> 
+
+As a staff-writer for [[Warner/Chappell Music]], Hamstein and Scream Music, her songs were recorded by artists such as [[Patty Loveless]] and for television shows such as ''[[The West Wing]]''. Parker has worked as a session vocalist, songwriter and accompanist with such artists as [[Vince Gill]], [[Trisha Yearwood]], [[Amy Grant]], [[James Otto]], [[Kevin Welch]], [[Jimmy Hall]], [[Ashley Cleveland]], [[Kim Hill (singer)|Kim Hill]], [[Jude Cole]] and [[Will Hoge]]. She has also appeared at numerous songwriter festivals and venues in Nashville, including the [[Ryman Auditorium]] and [[Bluebird Cafe]].<ref>{{Cite web|url=http://parkerandparkersongs.com/caryl|title = Caryl Parker|website=Parkerandparkersongs.com}}</ref>
+
+Caryl is married to producer/publisher/songwriter, Scott Parker. The couple currently lives in [[Nashville, Tennessee]].
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''Caryl Mack''
+| 
+* Release date: 1984
+* Label: Private press
+|-
+! scope="row"| ''Smoke & Mirrors''
+| 
+* Release date: 1993
+* Label: Cascot Music
+|-
+! scope="row"| ''Caryl Mack Parker''
+| 
+* Release date: December 3, 1996
+* Label: Magnatone Records
+|-
+! scope="row"| ''Alabaster Boxes''
+| 
+* Release date: October 15, 2007
+* Label: Rancho Divine
+|-
+! scope="row"| ''Rancho Divine''
+| 
+* Release date: June 13, 2008
+* Label: Rancho Divine
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]
+|-
+| 1996
+! scope="row"| "Better Love Next Time"
+| 67
+| align="left" rowspan="3"| ''Caryl Mack Parker''
+|-
+| rowspan="2"| 1997
+! scope="row"| "One Night Stand"
+| 66
+|-
+! scope="row"| "It's Good to Be Me"
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:14em;"| Video
+|-
+| 1996
+! scope="row"| "Better Love Next Time"
+|-
+| 1997
+! scope="row"| "One Night Stand"
+|}
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Parker, Caryl Mack}}
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Country musicians from Texas]]
+[[Category:Musicians from Abilene, Texas]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:21st-century American women]]

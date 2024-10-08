@@ -1,0 +1,135 @@
+{{short description|American country music singer-songwriter (born 1959)}}
+{{Use mdy dates|date=October 2020}}
+{{Infobox musical artist
+| name                = Joni Harms
+| image                 = 
+| image_size            = 
+| background          = solo_singer
+| birth_name          = 
+| alias               = 
+| birth_date                = {{birth date and age|1959|11|05}}<ref name="allmusic" />
+| origin              = [[Canby, Oregon]], US
+| instrument          = Vocals, guitar
+| genre               = [[Country music|Country]]
+| occupation          = Singer-songwriter
+| years_active        = 1985–present
+| label               = [[Universal Records (1988 record label)|Universal]], [[Capitol Records|Capitol Nashville]], [[Warner Bros. Records|Warner Bros.]], Paras, Wildcatter, Harms Way Music
+| associated_acts     =
+| website                 = {{url|www.joniharms.com}}
+}}
+
+'''Joni Harms''' (born November 5, 1959, in [[Canby, Oregon]]<ref name="allmusic">{{cite web|title=Joni Harms|url={{AllMusic|class=artist|id=mn0000826378|pure_url=yes}}|work=[[AllMusic]]|accessdate=November 11, 2014}}</ref>) is an American [[country music]] singer-songwriter. Between 1990 and 2011, Harms released eleven studio albums plus her album ''Oregon to Ireland'' recorded live with The Sheerin Family Band in [[Moate]], Ireland and released in 2014. She also charted two singles on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles & Tracks]] chart. Her highest charting single, "I Need a Wife," peaked at No.&nbsp;34 in 1989.<ref>{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2005|publisher=Record Research, Inc|page=164|date=2005|isbn=0-89820-165-9}}</ref>
+
+==Discography==
+
+===Albums===
+{| class="wikitable"
+! Year
+! Title
+! Label
+|- 
+| 1985
+| ''Thoughts of You''
+| rowspan="2"| Harms Way Music
+|- 
+| 1986
+| ''I Want to Sing for You''
+|- 
+| 1990
+| ''Hometown Girl''
+| Capitol
+|- 
+| 1995
+| ''Whatever It Takes''
+| rowspan="2"| Harms Way Music
+|- 
+| 1996
+| ''Christmas in the Country''
+|- 
+| 1998
+| ''Cowgirl Dreams''
+| Warner Bros.
+|- 
+| 1999
+| ''Are We There Yet?''
+| Harms Way Music
+|- 
+| 2001
+| ''After All''
+| Paras
+|-
+| 2004
+| ''Let's Put the Western Back in the Country''
+| Wildcatter
+|- 
+| 2006
+| ''That's Faith''
+| rowspan="5"| Harms Way Music
+|- 
+| 2011
+| ''Harms Way''
+|-
+| 2014
+| ''Oregon to Ireland''
+|-
+| 2018
+| ''Lucky 13''
+|-
+| 2019
+| ''Joni and Olivia Harms: Our Favorites''
+|-
+| 2020
+| ''Heart Behind The Badge''
+| rowspan="2"| Harms Way Music
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="2"| 1989
+! scope="row"| "I Need a Wife"
+| 34
+| 53
+| align="left" rowspan="2"| ''Hometown Girl''
+|-
+! scope="row"| "The Only Thing Bluer Than His Eyes"
+| 54
+| 96
+|-
+| 2020
+! scope="row"| "Heart Behind The Badge"
+| –
+| –
+| align="left" rowspan="2"| ''Heart Behind The Badge''
+|-
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{official website}}
+*[{{AllMusic|class=artist|id=p31751|pure_url=yes}} Joni Harms] at [[Allmusic]]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Harms, Joni}}
+[[Category:1959 births]]
+[[Category:American country singer-songwriters]]
+[[Category:American women country singers]]
+[[Category:Living people]]
+[[Category:People from Canby, Oregon]]
+[[Category:Singer-songwriters from Oregon]]
+[[Category:21st-century American women]]
+[[Category:Universal Records (1988) artists]]
+
+
+{{US-country-singer-stub}}

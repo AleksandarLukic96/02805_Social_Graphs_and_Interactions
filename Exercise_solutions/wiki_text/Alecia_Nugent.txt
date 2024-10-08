@@ -1,0 +1,78 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=August 2014}}
+
+{{BLP primary sources|date=September 2009}}
+{{Infobox musical artist
+| name         = Alecia Nugent
+| image        =
+| birth_place  =
+| birth_date   = 1972
+| origin       = Hickory Grove, [[Louisiana]], US
+| genre        = [[Bluegrass music|Bluegrass]]
+| occupation   = Singer, musician
+| years_active = 1996–present
+| label        = [[Rounder Records|Rounder]]
+| website      = http://www.alecianugent.com
+}}
+
+'''Alecia Nugent''' (born in Hickory Grove, Louisiana) is a [[parish music|country]], [[Americana (music)|Americana]], [[bluegrass music|bluegrass]] vocalist and musician.  Alecia has worked with bluegrass legend [[Carl Jackson]] on all of her albums.  Alecia was nominated for IBMA Female Vocalist of The Year in 2009.<ref>{{Cite web |url=http://www.alecianugent.com/news.htm |title=Alecia Nugent&#124;Hillbilly Goddess, Rounder, Americana, Bluegrass,Country, Roots Music |access-date=September 4, 2009 |archive-url=https://web.archive.org/web/20100106135916/http://www.alecianugent.com/news.htm |archive-date=January 6, 2010 |url-status=dead }}</ref><ref>{{cite web |url=http://www.rounder.com/ibma/2009/nominations.html |title=Rounder Records 2009 IBMA Awards Nominations |website=www.rounder.com |url-status=dead |archive-url=https://web.archive.org/web/20090915182159/http://www.rounder.com/ibma/2009/nominations.html |archive-date=2009-09-15}}</ref>
+
+==Touring==
+Nugent performed in Scarborough, Ontario, Canada in 2008 as part of the Bluegrass Sundays Winter Concert Series.<ref>''Strings'', newsletter of the Pineridge Bluegrass Folklore Society, December 2007</ref>
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:16em;"| Title
+! style="width:18em;"| Details
+|-
+! scope="row"| ''Alecia Nugent''
+| 
+* Release date: March 9, 2004
+* Label: [[Rounder Records]]
+|-
+! scope="row"| ''A Little Girl…A Big Four-Lane''
+| 
+* Release date: February 28, 2006
+* Label: Rounder Records
+|-
+! scope="row"| ''Hillbilly Goddess''
+| 
+* Release date: March 24, 2009
+* Label: Rounder Records
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:10em;"| Video
+! Director
+|-
+| 2009
+! scope="row"| "Don't Tell Me"
+| Glenn Sweitzer
+|}
+
+==External links==
+*[http://www.alecianugent.com Alecia Nugent Official Homepage]
+*[http://www.myspace.com/alecianugent Myspace Page]
+
+==Notes==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Nugent, Alecia}}
+[[Category:American bluegrass musicians]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Living people]]
+[[Category:1972 births]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:21st-century American women singers]]
+
+
+{{US-country-musician-stub}}

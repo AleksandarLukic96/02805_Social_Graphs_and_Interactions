@@ -1,0 +1,219 @@
+{{Short description|Music band}}
+{{Infobox musical artist
+| name            = Hey Romeo
+| image           =
+| caption         =
+| image_size      =
+| alias           = Udder Maddness
+| origin          = [[Edmonton]], [[Alberta]], Canada
+| genre           = [[Country music|Country]]
+| years_active    = 2002–present
+| label           = Icon, [[Royalty Records]]
+| associated_acts =
+| website         = {{Official website|http://www.heyromeo.com}}
+| current_members = Darren Gusnowsky<br />Rob Shapiro
+| past_members    = Stacie Roper
+}}
+'''Hey Romeo''' is a Canadian [[country music]] trio from [[Edmonton]], [[Alberta]]. The band's members are Stacie Roper (vocals), Darren Gusnowsky (guitar) and Rob Shapiro (keyboard). Their 2007 single "Second Hand News", a cover of the 1977 [[Fleetwood Mac]] song, reached the Top 50 on the ''[[Radio & Records]]'' Canadian country-singles chart.<ref>{{cite web|url=https://secure4.worldsites.net/countrymusicnews-ca/news.ihtml?step=2&article_id=1356 |title=CD Review - ''Hey Romeo'' |publisher=[[Country Music News]] |accessdate=2009-10-31 |url-status=dead |archiveurl=https://archive.today/20110721214820/https://secure4.worldsites.net/countrymusicnews-ca/news.ihtml?step=2&article_id=1356 |archivedate=2011-07-21 }}</ref> Hey Romeo was named Top New Talent of the Year - Group or Duo at the 2008 [[Canadian Country Music Association]] awards.<ref>{{cite web|url=http://jos.thatscountry.com/index.php/associations/ccma/397-2008-ccma-award-winners-announced |title=2008 CCMA Award Winners Announced |author=Marti Clayton |date=2008-09-09 |publisher=That's Country |accessdate=2009-10-31 }}{{dead link|date=April 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> Stacie Roper, the lead singer, died on May 8, 2023.
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders"
+|-
+! style="width:12em;"| Title
+! style="width:18em;"| Details
+|-
+! scope="row"| ''Hey Romeo''
+| 
+* Release date: June 18, 2007
+* Label: Icon Records
+|-
+! scope="row"| ''That's What I Am''
+| 
+* Release date: June 1, 2010
+* Label: [[Royalty Records]]
+|-
+! scope="row"| ''Twist of Fate''
+| 
+* Release date: June 26, 2012
+* Label: Royalty Records
+|}
+
+===Extended plays===
+{| class="wikitable plainrowheaders"
+|-
+! style="width:12em;"| Title
+! style="width:18em;"| Details
+|-
+! scope="row"| ''I Got This, Vol. 1''
+| 
+* Release date: September 9, 2014
+* Label: Royalty Records
+|-
+! scope="row"| ''Ride with Me''
+| 
+* Release date: September 25, 2015
+* Label: Royalty Records
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:16em;"| Single
+! Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Canada Country|CAN Country]]<br /><ref>{{cite magazine|url=https://www.billboard.com/music/hey-romeo/chart-history/canada-country|archive-url=https://web.archive.org/web/20190813211913/https://www.billboard.com/music/hey-romeo/chart-history/canada-country|url-status=dead|archive-date=August 13, 2019|title=Hey Romeo - Canada Country|magazine=[[Billboard (magazine)|Billboard]]|accessdate=August 12, 2019}}</ref>
+|-
+| rowspan="2"| 2007
+! scope="row"| "Sorry That You're Leavin'"
+| —
+| rowspan="3"| ''Hey Romeo''
+|-
+! scope="row"| "Second Hand News"
+| 49
+|-
+| 2008
+! scope="row"| "Weathered Names on Stone"
+| —
+|-
+| rowspan="3"| 2010
+! scope="row"| "Searchin' for You"
+| 20
+| rowspan="5"| ''That's What I Am''
+|-
+! scope="row"| "That's What I Am"
+| 34
+|-
+! scope="row"| "Snap My Fingers"
+| 45
+|-
+| rowspan="2"| 2011
+! scope="row"| "He Still Calls Me Baby"
+| 49
+|-
+! scope="row"| "Hello"
+| —
+|-
+| rowspan="2"| 2012
+! scope="row"| "Jump Back In"
+| 32
+| rowspan="4"| ''Twist of Fate''
+|-
+! scope="row"| "Maybe You Remember Me Now"
+| 32
+|-
+| rowspan="2"| 2013
+! scope="row"| "It's a House"
+| —
+|-
+! scope="row"| "Twist of Fate"
+| —
+|-
+| rowspan="2"| 2014
+! scope="row"| "Hello Patio"<ref>{{Cite web |url=http://heyromeo.com/archives/2064 |title=HEY ROMEO RELEASE NEW SINGLE! |access-date=2014-04-11 |archive-url=https://archive.today/20140411003838/http://heyromeo.com/archives/2064 |archive-date=2014-04-11 |url-status=dead }}</ref>
+| —
+| rowspan="3"| ''I Got This, Vol. 1''
+|-
+! scope="row"| "Won't Be Over You"
+| —
+|-
+| rowspan="2"| 2015
+! scope="row"| "I Got This"
+| —
+|-
+! scope="row"| "Pushing Up Daisies"
+| —
+| rowspan="2"| ''Ride with Me''
+|-
+| 2016
+! scope="row"| "Ride with Me"
+| —
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:16em;"| Video
+! Director
+|-
+| 2010
+! scope="row"| "That's What I Am"
+| Dylan Pearce
+|-
+| 2011
+! scope="row"| "Hello"
+| [[Jeth Weinrich]]
+|-
+| rowspan="2"| 2012
+! scope="row"| "Jump Back In"
+| John Kerr
+|-
+! scope="row"| "Maybe You Remember Me Now"
+| [[Stephano Barberis]]
+|}
+
+==Awards and nominations==
+{| class="wikitable"
+|-
+! Year
+! Association
+! Category
+! Result
+|-
+| rowspan="2"| 2008
+| rowspan="10"| [[Canadian Country Music Association]]
+| Top New Talent of the Year – Group or Duo
+| {{won}}
+|-
+| Top New Talent of the Year
+| {{nom}}
+|-
+| 2009
+| Group or Duo of the Year
+| {{nom}}
+|-
+| 2010
+| Group or Duo of the Year
+| {{nom}}
+|-
+| 2011
+| Group or Duo of the Year
+| {{won}}
+|-
+| rowspan="3"| 2012
+| Fans' Choice Award
+| {{nom}}
+|-
+| Group or Duo of the Year
+| {{won}}
+|-
+| Interactive Artist of the Year
+| {{nom}}
+|-
+| rowspan="2"| 2013
+| Group or Duo of the Year
+| {{nom}}
+|-
+| CMT Video of the Year – "Maybe You Remember Me Now"
+| {{nom}}
+|-
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Official website|http://www.heyromeo.com}}
+*[http://www.cmt.ca/Artist/HeyRomeo Hey Romeo] at [[CMT (Canada)|CMT]]
+*[http://www.facebook.com/heyromeoband Hey Romeo Facebook Fanpage] 
+*[https://twitter.com/heyromeo Hey Romeo Twitter]
+
+{{Authority control}}
+
+[[Category:Canadian country music groups]]
+[[Category:Musical groups established in 2002]]
+[[Category:Musical groups from Edmonton]]
+[[Category:Canadian Country Music Association Group or Duo of the Year winners]]
+[[Category:2002 establishments in Alberta]]

@@ -1,0 +1,123 @@
+{{short description|American singer-songwriter}}
+
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Zona Jones
+| image                 =
+| background          = solo_singer
+| birth_name          =
+| birth_place         =
+| birth_date          = 1963
+| origin              = [[Kingsville, Texas]], United States
+| instrument          = Vocals
+| genre               = [[Country music|Country]]
+| occupation          = [[Singing|Singer]]/Attorney
+| years_active        = 2004-present
+| label               = D/Quarterback, Rocky Comfort
+| associated_acts     = [[Tracy Lawrence]]
+| website                 =
+}}
+'''Zona Jones''' (born 1963 in [[Corpus Christi, Texas]]; raised in [[Valentine, Texas]]) is an American [[country music]] singer and [[attorney at law (United States)|attorney]]. Signed to D/Quarterback Records in 2004, he released his debut album ''Harleys & Horses'' and charted three [[single (music)|singles]] from it, including the No.&nbsp;47 "Two Hearts."<ref name="whitburn">{{Cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc.|year=2008|pages=217|isbn=978-0-89820-177-2}}</ref> In 2008, he signed to Rocky Comfort Records, a label owned by [[Tracy Lawrence]], to release his next album, 2009's ''Prove Me Right''.<ref>{{Cite web|title=Zona Jones signs with Tracy Lawrence's label |url=http://www.countrystandardtime.com/news/newsitem.asp?xid=1886 |work=[[Country Standard Time]] |date=2008-07-02 |access-date=2009-10-17}}</ref>
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''Harleys & Horses''
+| 
+* Release date: February 3, 2004
+* Label: Quarterback/D
+|-
+! scope="row"| ''Prove Me Right''
+| 
+* Release date: June 2, 2009
+* Label: Rocky Comfort
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]
+|-
+| rowspan="2"| 2004
+! scope="row"| "House of Negotiable Affections"
+| 53
+| align="left" rowspan="4"| ''Harleys & Horses''
+|-
+! scope="row"| "Whiskey Kind of Way"
+| —
+|-
+| 2005
+! scope="row"| "Two Hearts"
+| 47
+|-
+| 2006
+! scope="row"| "I'll Give It to You"
+| 57
+|-
+| 2008
+! scope="row"| "You Should've Seen Her This Morning"
+| —
+| align="left" rowspan="4"| ''Prove Me Right''
+|-
+| rowspan="2"| 2009
+! scope="row"| "[[Bluer Than Blue]]"
+| —
+|-
+! scope="row"| "Day Off"
+| —
+|-
+| 2010
+! scope="row"| "Prove Me Right"
+| —
+|-
+| colspan="8" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;"| Video
+|-
+| rowspan="2"| 2004
+! scope="row"| "House of Negotiable Affections"
+|-
+! scope="row"| "Whiskey Kind of Way"
+|-
+| 2009
+! scope="row"| "Bluer Than Blue"
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.zonajones.com/ Zona Jones website]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Jones, Zona}}
+[[Category:1961 births]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Living people]]
+[[Category:People from Kingsville, Texas]]
+[[Category:People from Jeff Davis County, Texas]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:Country musicians from Texas]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:Musicians from Corpus Christi, Texas]]
+[[Category:21st-century American male singers]]
+
+
+{{US-country-singer-stub}}

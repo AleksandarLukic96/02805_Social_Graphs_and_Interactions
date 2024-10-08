@@ -1,0 +1,76 @@
+{{short description|American singer-songwriter}}
+
+{{Infobox musical artist
+| name                = Steven Wayne Horton
+| image               =
+| image_size          =
+| background          = solo_singer
+| birth_date          = {{Birth date|1954|02|24}}<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2017|publisher=Record Research, Inc|year=2017|page=169|isbn=978-0-89820-229-8}}</ref>
+| death_date          = {{death date and age|2006|08|07|1954|02|24}}
+| origin              = [[Memphis, Tennessee]], U.S.
+| instrument          = Vocals, guitar
+| genre               = [[Country music|Country]]
+| occupation          = Singer
+| years_active        = 1989
+| label               = [[Capitol Records|Capitol]]
+| associated_acts     =
+| website             =
+}}
+
+'''Steven Wayne Horton''' (February 24, 1954&ndash;August 7, 2006) was an American [[country music]] singer. Horton's eponymous debut album was released by [[Capitol Records|Capitol Nashville]] in 1989. Its first single, "Roll Over", was his only song to enter the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles & Tracks]] chart, peaking at No.&nbsp;68 in 1989. A second single, "Tennessee Plates," peaked at No.&nbsp;80 on the ''[[RPM (magazine)|RPM]]'' Country Tracks chart in Canada.
+
+==Biography==
+Steven Wayne Horton was born in [[Memphis, Tennessee]]. He took musical inspiration from [[Jerry Lee Lewis]] and [[Elvis Presley]], and began playing guitar in fourth grade. In his preteen years, he formed a band that performed cover versions of [[rockabilly]] songs.<ref name="cash"/> At a showing of the 1989 Jerry Lee Lewis biopic ''[[Great Balls of Fire! (film)|Great Balls of Fire!]]'' in Memphis, Horton performed a special 45-minute set with Lewis. That same year, he signed with [[Capitol Records]] Nashville and released his self-titled debut album.<ref name="cash">{{cite journal | url=https://worldradiohistory.com/Archive-All-Music/Cash-Box/80s/1989/CB-1989-09-02.pdf | title=STEVEN WAYNE HORTON:Bringin' Back the Memphis Sound | author=Kay Knight | journal=[[Cash Box (magazine)|Cash Box]] | pages=24 | date=September 2, 1989}}</ref> The album was produced by Jack Holder, a Memphis-based guitarist who has also worked with [[Tracy Chapman]].<ref>{{cite magazine | url=https://worldradiohistory.com/Archive-All-Music/Billboard/80s/1989/BB-1989-08-26.pdf | title=New on the charts | author=Jim Richliano | magazine=Billboard | date=August 26, 1989}}</ref> Wayne Blesdoe of the ''[[Knoxville News-Sentinel]]'' gave the album a mixed review. He called it "well produced and fun" for its rockabilly influences, but considered it "old news" for the same reason due to the rise of artists whom he considered stylistically similar such as [[Marty Stuart]] and [[Steve Earle]].<ref>{{cite news | url=https://www.newspapers.com/image/775157772/ | title=Ronstadt returns to pop glory on 'Cry Like a Rainstorm' | work=Knoxville News-Sentinel | date=November 26, 1989 | accessdate=May 8, 2022 | author=Wayne Bledsoe | pages=8, 9}}</ref>
+
+Two singles were released from the album. His debut single "Roll Over" received a positive review from Lisa Smith and Cyndi Hoelzle of ''[[Gavin Report]]'', who compared his voice favorably to Presley's.<ref>{{cite journal | url=https://worldradiohistory.com/Archive-All-Music/Gavin-Report/80/89/Gavin-Report-1989-07-21.pdf | title=New releases | author=Lisa Smith, Cyndi Hoelzle | journal=Gavin Report | pages=33 | date=July 21, 1989}}</ref> The song peaked at number 68 on ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]].<ref name="whitburn"/> A second single, a cover of [[John Hiatt]]'s "Tennessee Plates", charted at number 80 on the Country Tracks chart of the former ''[[RPM (magazine)|RPM]]'' magazine in Canada, but did not chart in the United States.<ref name="rpm"/>
+
+Horton released no further material, and died on August 7, 2006.<ref>{{cite news | url=https://www.newspapers.com/image/776228224/ | title=Steven Wayne Horton obituary | work=The Commercial Appeal | date=August 13, 2006 | accessdate=May 8, 2022 | pages=B6}}</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable"
+! Year
+! Title
+! Label
+|- 
+| 1989
+| ''Steven Wayne Horton''
+| Capitol
+|}
+
+===Singles===
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Title
+! colspan="2"| Chart Positions
+! rowspan="2"| Album
+|-
+! width="50"| <small>[[Hot Country Songs|US Country]]</small><ref name="whitburn"/>
+! width="50"| <small>CAN Country</small><ref name="rpm">{{cite web | url=https://www.bac-lac.gc.ca/eng/discover/films-videos-sound-recordings/rpm/Pages/list.aspx?OCRText=steven+wayne+horton& | title=Search results for Steven Wayne Horton | date=17 July 2013 | publisher=RPM | accessdate=May 8, 2022}}</ref>
+|-
+| rowspan="2"| 1989
+| "Roll Over"
+| align="center"| 68
+| align="center"| 54
+| rowspan="2"| ''Steven Wayne Horton''
+|-
+| "Tennessee Plates"
+| align="center"| —
+| align="center"| 80
+|}
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Horton, Steven Wayne}}
+[[Category:2006 deaths]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:1954 births]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:20th-century American male singers]]
+[[Category:Capitol Records artists]]
+[[Category:Country musicians from Tennessee]]
+[[Category:Singers from Memphis, Tennessee]]

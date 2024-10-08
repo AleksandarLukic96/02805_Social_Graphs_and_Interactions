@@ -1,0 +1,251 @@
+{{Short description|American country music singer-songwriter (1933–2005)}}
+{{Use mdy dates|date=April 2023}}
+{{Infobox musical artist
+|name            = Goldie Hill
+|image           = Goldie Hill promo photo.jpg
+| caption        = Hill in a promotional photo
+|background      = solo_singer
+|birth_name      = Argolda Voncile Hill
+|alias           = 
+|birth_date      = {{birth date|1933|1|11|mf=y}}
+|origin          = [[Karnes City, Texas|Karnes City]], Texas, United States
+|death_date      = {{death date and age|2005|2|24|1933|1|11|mf=y}}
+|death_place     = [[Nashville, Tennessee|Nashville]], Tennessee, U.S.
+|instrument      = [[vocals]], [[guitar]]
+|genre           = [[Country music|Country]]
+|occupation      = [[singing|singer]], [[songwriter]]
+|years_active    = 1953–2005
+|label           = [[Decca Records]] <br> [[Epic Records]]
+|associated_acts = [[Justin Tubb]], [[Kitty Wells]], [[Carl Smith (country musician)|Carl Smith]]
+|website             =
+}}
+
+'''Argolda Voncile''' "'''Goldie'''" '''Hill'''<ref>{{cite book|url=https://books.google.com/books?id=tLZz02EzmBY|title=The Encyclopedia of Country Music|pages=240|author=Michael McCall, John Rumble, Paul Kingsbury|publisher=Oxford University Press|year=2012|isbn=9780199920839}}</ref> (January 11, 1933 – February 24, 2005) was an American [[country music]] singer. She was one of the first women in country music, and became one of the first women to reach the top of the country music charts with her No. 1 1953 hit, "[[I Let the Stars Get In My Eyes]]". Along with [[Kitty Wells]] and [[Jean Shepard]] she helped set the standard for later women in country music.
+
+==Early life and career==
+Hill was born in [[Karnes City, Texas|Karnes City]], Texas in 1933, a small town southeast of [[San Antonio]]. She was the sister of singer Tommy Hill. She also performed with her brothers Tommy and Ken. Then she auditioned as a solo singer at [[Decca Records]]. Her first single, "Why Talk To My Heart", was released in 1952.  Hill recorded the song "[[I Let the Stars Get In My Eyes]]" the same year a riposte to [[Perry Como]]'s "[[Don't Let The Stars Get In Your Eyes]]", written by her brother, Tommy Hill. It became a number 1 hit. In 1954, she followed up with two hit duets with singer [[Justin Tubb]], son of [[Ernest Tubb]]. In the early 1960s, she recorded two albums for Decca Records. She regularly performed on ''[[Louisiana Hayride]]'', ''[[Grand Ole Opry]]'' and ''[[Ozark Jubilee]]''. She married country singer [[Carl Smith (country musician)|Carl Smith]] in 1957 and the couple had two sons (Carl, Jr. and Larry Dean), and one daughter (Lori Lynn). They remained married for 47 years until her death. She made a short-lived comeback in the late 1960s with the label [[Epic Records]] under the name Goldie Hill Smith.
+
+On February 24, 2005, Hill died from complications of [[cancer]]. She was 72 years old.<ref>{{Cite web|url=http://www.nucountry.com.au/articles/diary/february2005/260205_goldiehill_obit.htm|title = Dave's Diary - 26/2/05 - Goldie Hill Obituary}}</ref><ref>{{cite news|url=https://www.theguardian.com/news/2005/mar/29/guardianobituaries.artsobituaries|title=Goldie Hill|work=The Guardian|date=28 March 2005 |accessdate=2022-11-14|last1=Clayson |first1=Alan }}</ref> Her husband survived her by 5 years.<ref name=Washpost>{{Cite news |last=McArdle |first=Terrence  |title='Country Gentleman' had 21 consecutive Top 10 hits |newspaper=The Washington Post |location=Washington, DC  |pages=B4  |date=January 23, 2010 |url=https://www.washingtonpost.com/wp-dyn/content/article/2010/01/22/AR2010012204551.html}}</ref>
+
+==Discography==
+{{Infobox artist discography
+| Artist      = Goldie Hill
+| Image       =
+| Caption     = 
+| Studio      = 6
+| Singles     = 35
+| Option      = 1
+| Option name = No. 1 Singles (Overall) 
+}}
+
+===Albums===
+{| class=wikitable style=text-align:center;
+|-
+! Year
+! Album details
+|-
+| 1960
+| align=left| '''''Goldie Hill'''''
+* <small>Released: 1960</small>
+* <small>Label: [[Decca Records|Decca]]</small>
+|-
+| 1961
+| align=left| '''''Lonely Heartaches'''''
+* <small>Released: May 1961</small>
+* <small>Label: Decca</small>
+|-
+| 1962
+| align=left| '''''According to My Heart'''''
+* <small>Released: 1962</small>
+* <small>Label: Decca</small>
+|-
+| 1964
+| align=left| '''''Country Hit Parade'''''
+* <small>Released: January 1964</small>
+* <small>Label: Decca</small>
+|-
+| 1967
+| align=left| '''''Goldie Hill Sings Again'''''
+* <small>Released: 1967</small>
+* <small>Label: [[Epic Records|Epic]]</small>
+|-
+| 1968
+| align=left| '''''Country Gentleman's Lady'''''
+* <small>Released: February 1968</small>
+* <small>Label: Epic</small>
+|-
+|}
+
+===Singles===
+{| class=wikitable style=text-align:center;
+|-
+! Year
+! Song
+! width=50| <small>[[Hot Country Songs|US Country]]</small>
+! Album
+|-
+| rowspan=2| 1952
+| align=left| "Why Talk to My Heart"
+| —
+| align=left rowspan=22| non-album singles
+|-
+| align=left| "[[I Let the Stars Get In My Eyes]]"
+| 1
+|-
+| rowspan=3| 1953
+| align=left| "I'm Yvonne (On the Bayou)"
+| —
+|-
+| align=left| "My Love Is Flame"
+| —
+|-
+| align=left| "Let Me Be the One"
+| —
+|-
+| rowspan=6| 1954
+| align=left| "Liquor and Women"
+| —
+|-
+| align=left| "Young at Heart"
+| —
+|-
+| align=left| "Looking Back to See" <small>(with [[Justin Tubb]])</small>
+| 4
+|-
+| align=left| "Cry, Cry Darling"
+| —
+|-
+| align=left| "Treat Me Kind"
+| —
+|-
+| align=left| "Sure Fire Kisses" <small>(with Justin Tubb)</small>
+| 11
+|-
+| rowspan=3| 1955
+| align=left| "Are You Mine" <small>(with [[Red Sovine]])</small>
+| 14
+|-
+| align=left| "Why Don't You Let Me Go"
+| —
+|-
+| align=left| "Steel Guitar"
+| —
+|-
+| rowspan=2| 1956
+| align=left| "Sample My Kissin'"
+| —
+|-
+| align=left| "Footsteps"
+| —
+|-
+| rowspan=2| 1957
+| align=left| "Wasted Love Affair"
+| —
+|-
+| align=left| "Till I Said It to You"
+| —
+|-
+| rowspan=2| 1959
+| align=left| "Yankee Go Home" <small>(with Red Sovine)</small>
+| 17
+|-
+| align=left| "Honky Tonk Music"
+| —
+|-
+| rowspan=2| 1960
+| align=left| "Living Alone"
+| —
+|-
+| align=left| "Baby Blue"
+| —
+|-
+| rowspan=3| 1961
+| align=left| "It's a Lovely, Lovely World"
+| —
+| align=left| ''Goldie Hill''
+|-
+| align=left| "Lonely Heartaches"
+| —
+| align=left| ''Lonely Heartaches''
+|-
+| align=left| "Live for Tomorrow"
+| —
+| align=left| ''According to My Heart''
+|-
+| rowspan=2| 1962
+| align=left| "I'm Afraid"
+| —
+| align=left rowspan=3| non-album singles
+|-
+| align=left| "Little Boy Blue"
+| —
+|-
+| rowspan=3| 1963
+| align=left| "Baby Go Slow"
+| —
+|-
+| align=left| "I'm Gonna Bring You Down"
+| —
+| align=left| ''Country Hit Parade''
+|-
+| align=left| "Closer"
+| —
+| align=left rowspan=3| non-album singles
+|-
+| rowspan=2| 1964
+| align=left| "Don't Let Him"
+| —
+|-
+| align=left| "Three's a Crowd"
+| —
+|-
+| 1967
+| align=left| "There's Gotta Be More to Life (Than Lovin' a Man)"
+| —
+| align=left| ''Goldie Hill Sings Again''
+|-
+| rowspan=2| 1968
+| align=left| "Lovable Fool"
+| 73
+| align=left rowspan=2| non-album singles
+|-
+| align=left| "Got Me Sumpin' Goin'"
+| —
+|-
+| align="center" colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+==Further reading==
+* ''Country Music:The Rough Guide, Author: Kurt Wolff''
+
+==Notes==
+{{reflist}}
+
+==External links==
+{{Portal|Biography}}
+* [https://web.archive.org/web/20040301084349/http://www.cmt.com/artists/az/hill_goldie/artist.jhtml CMT.com: Goldie Hill]
+* [http://www.nucountry.com.au/articles/diary/february2005/260205_goldiehill_obit.htm Goldie Hill Dies at Age 72 at Nucountry.com]
+* [https://adp.library.ucsb.edu/names/321325 Goldie Hill recordings] at the [[Discography of American Historical Recordings]].
+* {{Find a Grave|10526520}}
+
+{{Grand Ole Opry members}}
+{{Authority control}}
+
+{{DEFAULTSORT:Hill, Goldie}}
+[[Category:1933 births]]
+[[Category:2005 deaths]]
+[[Category:American country guitarists]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:People from Karnes City, Texas]]
+[[Category:Grand Ole Opry members]]
+[[Category:Deaths from cancer in Tennessee]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:20th-century American guitarists]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:Guitarists from Texas]]
+[[Category:20th-century American women singers]]
+[[Category:Country musicians from Texas]]
+[[Category:20th-century American women guitarists]]
+[[Category:21st-century American women]]

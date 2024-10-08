@@ -1,0 +1,73 @@
+{{Short description|American folk music duo}}
+{{BLP sources|date=October 2018}}
+{{Use mdy dates|date=November 2020}}
+
+{{Infobox musical artist
+|name                = Robin and Linda Williams 
+|image                 = 
+|caption            = 
+|background          = group_or_band 
+|genre               = {{flatlist|
+*[[Country music|Country]]
+*[[Folk music|folk]]}}
+|years_active        = 1971–present
+| label               = {{flatlist|
+* Flashlight
+*[[Red House Records|Red House]]
+*[[Sugar Hill Records (bluegrass)|Sugar Hill]]}}
+| associated_acts     = [[The Hopeful Gospel Quartet]]
+| website                 = {{URL|www.robinandlinda.com/}}
+}}
+'''Robin and Linda Williams''' are a husband-and-wife singer-songwriter [[folk music]] duo from [[Virginia]]. They met in [[South Carolina]] in 1971,<ref name="TSD">{{cite news|url=https://www.newspapers.com/image/115934889|title=Country singers Robin, Linda Williams live at the Mainstay|work=[[The Star Democrat]]|date=December 11, 2009|accessdate=October 21, 2018}}</ref><ref>{{cite news|url=https://www.newspapers.com/image/70484420|title=Robin & Linda Williams: They're in the company of strangers|work=Index-Journal|date=March 19, 2000|accessdate=October 21, 2018}}</ref> and began performing in 1973.<ref>{{cite news|url=https://www.newspapers.com/image/296140489|title=Singer electrifying: Review|first=Lori|last=Farmer|work=[[Mansfield News Journal]]|date=July 23, 1993|accessdate=October 21, 2018}}</ref>
+
+The Williamses appeared on [[Garrison Keillor]]'s ''[[A Prairie Home Companion]]'' radio show from 1975.<ref>{{cite news|url=https://www.newspapers.com/image/279146457/|title=Robin and Linda Williams are ingrained like family|work=[[The Morning Call]]|date=December 16, 2007|accessdate=October 21, 2018}}</ref> The duo were members of the Hopeful Gospel Quartet with Keillor and Kate MacKenzie.<ref name="TSD"/><ref>{{cite news|url=https://www.newspapers.com/image/274534576|title=Williamsburg Theater to 'Companion' regulars|first=Tony|last=Gabriele|date=January 4, 2002|work=[[Daily Press (Virginia)|Daily Press]]|accessdate=October 21, 2018}}</ref> After touring with [[Mary Chapin Carpenter]] in 1993,<ref>{{cite news|url=https://eu.pressconnects.com/story/entertainment/2017/05/30/robin-linda-williams-play-saturday-oxford/102329188/|title=Robin and Linda Williams play Saturday in Oxford|work=[[Press & Sun-Bulletin]]|date=May 30, 2017|accessdate=October 21, 2018}}</ref> the pair later sang on her [[Grammy Award]]-winning album ''[[Stones in the Road]]''.<ref>{{cite web|url=http://prairiehome.publicradio.org/programs/20010505/guests.shtml|title=A Prairie Home Companion bio of Robin & Linda Williams|archive-url=https://web.archive.org/web/20171124123054/http://prairiehome.publicradio.org/programs/20010505/guests.shtml|archive-date=November 24, 2017|publisher=[[American Public Media]]|date=May 5, 2001|accessdate=July 5, 2008}}</ref> ''Sugar for Sugar'' spent 11 weeks in the top 20 of the [[Americana (music)|Americana]] Chart in the ''[[Gavin Report]]'' in 1996.{{citation needed|date=October 2018}} In 2004, they switched labels, recording ''Deeper Waters'' as their first release on [[Red House Records]].<ref>{{cite news|url=https://www.newspapers.com/image/391655377|title=Robin and Linda Williams, "Deeper Waters" (Red House)|first=Rich|last=Harris|work=[[Globe Gazette]]|date=February 29, 2004|accessdate=October 21, 2018}}</ref>
+
+The Williamses appeared in the film ''[[A Prairie Home Companion (film)|A Prairie Home Companion]]''.<ref>{{cite news|url=https://www.newspapers.com/image/279146462|title='Prairie Home' guitarist Pat Donohue a wearer of many shoes|first=Geoff|last=Gehman|work=The Morning Call|date=December 16, 2007|accessdate=October 21, 2018}}</ref> They appeared on the ''[[WoodSongs Old-Time Radio Hour]]'', hosted by [[Michael Johnathon]].
+
+==Discography==
+*''Robin & Linda Williams'' (1975)
+*''Shenandoah Moon'' (1977)
+*''Welcome Table'' (1978)
+*''Dixie Highway Sign'' (1979)
+*''Harmony'' (1981)
+*''Close As We Can Get'' (1984)
+*''Nine 'Til Midnight'' (1985)
+*''All Broken Hearts Are the Same'' (1988)
+*''Rhythm of Love'' (1990)
+*''Turn Toward Tomorrow''
+*''Robin & Linda Williams & Their Fine Group Live'' (1994)
+*''Good News'' (1995)
+*''Sugar for Sugar'' (1996)
+*''Devil of a Dream'' (1998)
+*''In the Company of Strangers'' (2000)
+*''[[Visions of Love (Robin and Linda Williams album)|Visions of Love]]'' (2002)
+*''[[Deeper Waters]]'' (2004)
+*''The First Christmas Gift'' (2005)
+*''[[Radio Songs (album)|Radio Songs]]'' (2007)
+*''Buena Vista'' (2008)
+*''Stonewall Country'' (2011)
+*''These Old Dark Hills'' (2012)
+*''Back 40'' (2013)
+
+==References==
+{{Reflist}}
+
+== External links ==
+*[http://www.robinandlinda.com/ Official Site]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Williams, Robin and Linda}}
+[[Category:American bluegrass music groups]]
+[[Category:American country music groups]]
+[[Category:American country music duos]]
+[[Category:American folk musical duos]]
+[[Category:Fast Folk artists]]
+[[Category:Male–female musical duos]]
+[[Category:Married couples]]
+[[Category:Musical groups established in 1971]]
+[[Category:Red House Records artists]]
+[[Category:Sugar Hill Records artists]]
+
+
+{{US-folk-band-stub}}

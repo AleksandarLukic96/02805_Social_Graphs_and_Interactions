@@ -1,0 +1,135 @@
+{{short description|American country singer (born 1957)}}
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist
+|name            = Leland Martin
+|background      = solo_singer
+|image             = 
+|birth_name      = 
+|birth_date            = {{birth date and age|1957|2|20}}
+|origin          = [[Success, Missouri]], United States
+|genre           = [[Country music|Country]]
+|occupation      = Singer-songwriter
+|instrument      = Vocals, guitar
+|years_active    = 1998–present
+|label           = Rival<br />IGO<br />Infinity Nashville<br />DMG
+|associated_acts = 
+|website             = 
+}}
+
+'''Leland Martin''' (born February 20, 1957, [[Success, Missouri]]) is an American [[country music|country]] singer. Martin was one of nine children; his grandmother and father were both country singers.<ref>[{{AllMusic|class=artist|id=p355036/biography|pure_url=yes}} Leland Martin] at [[Allmusic]]</ref> He held jobs as a [[truck driver]], house painter, and in a [[sawmill]] before signing with [[Rival Records]], who issued his debut album in 1998. Follow-up albums appeared in 2002, 2005, and 2008.
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:20em;"| Title
+! style="width:20em;"| Album details
+|-
+! scope="row"| ''Home Is Where the Honky Tonk Is''
+| 
+* Release date: November 24, 1998
+* Label: Rival
+|-
+! scope="row"| ''Simply Traditional''
+| 
+* Release date: October 1, 2002
+* Label: IGO
+|-
+! scope="row"| ''Leland Martin''
+| 
+* Release date: October 4, 2005
+* Label: Infinity Nashville
+|-
+! scope="row"| ''I'll Pick the Guitar, You Drive the Truck''
+| 
+* Release date: June 24, 2008
+* Label: DMG
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:24em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="60"| [[Hot Country Songs|US Country]]
+|-
+| 2002
+! scope="row"| "If I Had Long Legs (Like Alan Jackson)"
+| 60
+| align="left" rowspan="4"| ''Simply Traditional''
+|-
+| rowspan="3"| 2003
+! scope="row"| "Hey Love, No Fair"
+| 59
+|-
+! scope="row"| "Stone Cold Fingers"
+| —
+|-
+! scope="row"| "Simply Traditional"
+| —
+|-
+| 2004
+! scope="row"| "Our American Heroes"
+| —
+| align="left" rowspan="4"| ''Leland Martin''
+|-
+| 2005
+! scope="row"| "Country as the Day Is Long"
+| —
+|-
+| rowspan="2"| 2006
+! scope="row"| "Same Ol' Song and Dance" <small>(w/ [[Chalee Tennison]])</small>
+| —
+|-
+! scope="row"| "[[The Wayfaring Stranger (song)|The Wayfaring Stranger]]"
+| —
+|-
+| 2008
+! scope="row"| "Royal Purple Peterbilt"
+| —
+| align="left"| ''I'll Pick the Guitar, You Drive the Truck''
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:24em;"| Video
+|-
+| 2002
+! scope="row"| "Flags on the Christmas Tree"
+|-
+| 2003
+! scope="row"| "Stone Cold Fingers"
+|-
+| 2004
+! scope="row"| "Our American Heroes"
+|-
+| 2005
+! scope="row"| "Country as the Day Is Long"
+|-
+| 2006
+! scope="row"| "Same Ol' Song and Dance" <small>(w/ [[Chalee Tennison]])</small>
+|-
+| 2011
+! scope="row"| "Workin Class"
+|}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Martin, Leland}}
+[[Category:1957 births]]
+[[Category:Living people]]
+[[Category:People from Texas County, Missouri]]
+[[Category:American country singer-songwriters]]
+[[Category:Singer-songwriters from Missouri]]
+[[Category:Country musicians from Missouri]]

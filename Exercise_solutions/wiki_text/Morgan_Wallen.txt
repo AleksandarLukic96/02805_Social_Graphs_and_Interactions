@@ -1,0 +1,371 @@
+{{short description|American country singer (born 1993)}}
+{{Use American English|date=January 2021}}
+{{Use mdy dates|date=January 2021}}
+{{Infobox person
+| name               = Morgan Wallen
+| image              = Morgan Wallen performing at Freedom Fest 2019.jpg
+| alt                = Singer Morgan Wallen, strumming an acoustic guitar
+| caption            = Wallen in 2019
+| birth_name         = Morgan Cole Wallen<ref>{{cite web | url=https://repertoire.bmi.com/Search/Catalog?num=3v%252b24UzemueOmdUVlJcZJw%253d%253d&cae=Zu%252fnlYmaP3aZ85RzXnkgOg%253d%253d&partType=WriterList&search=%7B%22Main_Search_Text%22%3A%22bass%20pro%20hat%22%2C%22Sub_Search_Text%22%3Anull%2C%22Main_Search%22%3A%22Title%22%2C%22Sub_Search%22%3Anull%2C%22Search_Type%22%3A%22all%22%2C%22View_Count%22%3A100%2C%22Page_Number%22%3A0%2C%22Part_Type%22%3Anull%2C%22Part_Id%22%3Anull%2C%22Part_Id_Sub%22%3Anull%2C%22Part_Name%22%3Anull%2C%22Part_Cae%22%3Anull%2C%22Original_Search%22%3Anull%2C%22DisclaimerViewed%22%3Anull%7D&resetPageNumber=True&partIdSub=kJU0oBsMXpxafbSwXsKwYQ%253d%253d | title=Search reuslts for Wallen, Morgan Cole | publisher=BMI | accessdate=July 22, 2024}}</ref>
+| birth_date         = {{birth date and age|1993|05|13}}
+| birth_place        = [[Sneedville, Tennessee]], U.S.
+| occupation         = {{flatlist|
+* Singer
+* songwriter
+}}
+| agent              = Goldenscreen Management
+| works              = [[Morgan Wallen discography|Discography]]
+| partner            = 
+| children           = 1
+| years_active       = 2014–present
+| website            = {{URL|morganwallen.com}}
+| module             = {{Infobox musical artist
+ | embed           = yes
+ | instruments     = {{flatlist|
+* Vocals
+* guitar
+}}
+ | genre           = {{flatlist|
+* [[Country pop]]<ref name="harvilla">{{cite web |last1=Harvilla |first1=Rob |title=Morgan Wallen Is the Country Bro You Can't Help but Root For |url= https://www.theringer.com/music/2021/1/8/22220129/morgan-wallen-dangerous-review |website= TheRinger.com|date=January 8, 2021 | access-date=June 12, 2022}}</ref>
+* [[Country music|country]]<ref name= "AllMusic">{{Cite web| title= Morgan Wallen| url= https://www.allmusic.com/artist/morgan-wallen-mn0003351348| website= AllMusic.com| publisher=| access-date= June 14, 2020}}</ref>
+* {{nowrap|[[bro-country]]}}<ref name="harvilla">{{cite web |last1=Harvilla |first1=Rob |title=Morgan Wallen Is the Country Bro You Can't Help but Root For |url= https://www.theringer.com/music/2021/1/8/22220129/morgan-wallen-dangerous-review |website= TheRinger.com|date=January 8, 2021 | access-date=June 12, 2022}}</ref>
+}}
+ | label           = {{flatlist|
+* [[Panacea Records|Panacea]]
+* [[Big Loud]]
+* [[Republic Records|Republic]]
+* [[Mercury Records|Mercury]]
+}}
+}}
+}}
+
+'''Morgan Cole Wallen''' (born May 13, 1993) is an American [[country pop]] singer. He competed in the [[The Voice (American season 6)|sixth season of ''The Voice'']], originally as a member of [[Usher (musician)|Usher]]'s team, but later as a member of [[Adam Levine]]'s team. After being eliminated in the playoffs of that season, he signed to [[Panacea Records]], releasing his debut EP, ''[[Stand Alone (EP)|Stand Alone]]'', in 2015.
+
+In 2016, Wallen signed to [[Big Loud]], releasing his debut album, ''[[If I Know Me (album)|If I Know Me]]'', in 2018.<ref>{{Cite web| date=2016-08-15| title=Big Loud Records Adds Morgan Wallen to Roster| publisher=Big Loud Records| url=https://bigloudrecords.com/big-loud-records-adds-morgan-wallen-to-roster/| access-date=2021-02-28| language=en-US| archive-date=January 18, 2022| archive-url=https://web.archive.org/web/20220118182937/https://bigloudrecords.com/big-loud-records-adds-morgan-wallen-to-roster/| url-status=dead}}</ref> The album includes the singles "[[Up Down (Morgan Wallen song)|Up Down]]" (featuring [[Florida Georgia Line]]), "[[Whiskey Glasses]]", and "[[Chasin' You]]". ''If I Know Me'' reached No. 1 on the [[Top Country Albums|''Billboard'' Top Country Albums]] chart.<ref>{{Cite web|last=KFDI Staff|date=August 13, 2020|title=Morgan Wallen's 'If I Know Me' Reaches No. 1 on Billboard Top Country Albums Chart| url= https://www.kfdi.com/2020/08/13/morgan-wallens-if-i-know-me-reaches-no-1-on-billboard-top-country-albums-chart/|access-date=2021-02-28| website= [[KFDI]].com |publisher= Country 101.3 KFDI | language=en-US}}</ref> Wallen's second album, ''[[Dangerous: The Double Album]]'', was released in January 2021, and in February 2021 became the only country album in the 64-year history of the [[Billboard 200|''Billboard'' 200]] to spend its first seven weeks at No. 1.<ref>{{Cite magazine| last= Caulfield| first=Keith|date=February 28, 2021 |title=Morgan Wallen's 'Dangerous' Becomes Only Country Album to Spend First Seven Weeks at No. 1 on Billboard 200| url= https://www.billboard.com/articles/news/9532572/morgan-wallen-dangerous-tops-billboard-200-seven-weeks| access-date=2021-02-28|  magazine= Billboard|language=en}}</ref> It spent its first ten weeks at number one, the first album to do so since [[Whitney Houston]]'s ''[[Whitney (album)|Whitney]]'' in 1987.<ref>{{Cite web|last=Sisario|first=Ben|date=March 22, 2021|title=Morgan Wallen Tops Chart for a 10th Week| url= https://www.nytimes.com/2021/03/22/arts/music/morgan-wallen-dangerous-billboard.html |archive-url= https://ghostarchive.org/archive/20211228/https://www.nytimes.com/2021/03/22/arts/music/morgan-wallen-dangerous-billboard.html |archive-date= 2021-12-28 |url-access= limited|access-date=2021-04-06| website=[[The New York Times]] |language=en}}{{cbignore}}</ref> The album included singles "[[More Than My Hometown]]", "[[7 Summers]]", and "[[Wasted on You (Morgan Wallen song)|Wasted on You]]".<ref name="Billboard-Feb 2021">{{Cite magazine|title=Morgan Wallen on Country Digital Song Sales| url=https://www.billboard.com/artist/morgan-wallen/chart-history/cdt/| access-date=2021-02-28| magazine= Billboard}}</ref>
+
+His third studio album, ''[[One Thing at a Time]]'' (2023), topped the ''Billboard'' 200 for 19 non-consecutive weeks, with all of its 36 tracks entering the [[Billboard Hot 100|''Billboard'' Hot 100]]. This broke the record for most songs by an artist on the chart at one time.<ref>{{Cite web|last=Trust|first=Greg|date=March 13, 2023|title=Morgan Wallen Charts Single-Week Record 36 Songs on Hot 100 – Every Track From 'One Thing at a Time'|url=https://www.billboard.com/music/chart-beat/morgan-wallen-single-week-hot-100-record-36-songs-one-thing-at-a-time-1235285241/|magazine=Billboard|access-date=April 24, 2023|archive-url=https://web.archive.org/web/20230313175534/https://www.billboard.com/music/chart-beat/morgan-wallen-single-week-hot-100-record-36-songs-one-thing-at-a-time-1235285241/|archive-date=March 13, 2023|url-status=live}}</ref> The single "[[Last Night (Morgan Wallen song)|Last Night]]" peaked atop the Hot 100 in 2023, becoming Wallen's first single to do so, and later set the record for the most weeks at number one for a non-collaboration song (sixteen weeks), as well as tying for the second most weeks of all time and topping the year-end chart. He has received several awards including an [[Academy of Country Music Awards|Academy of Country Music Award]] and fourteen [[Billboard Music Awards|''Billboard'' Music Awards]].<ref>{{Cite web |last=BBMAs |date=2023-11-13 |title=Country Music Superstar Morgan Wallen to Perform |url=https://www.billboardmusicawards.com/2023/11/country-music-superstar-morgan-wallen-to-perform/ |access-date=2024-02-14 |website=Billboard Music Awards |language=en}}</ref>
+{{toc limit|3}}
+
+==Early life and education==
+Morgan Cole Wallen was born on May 13, 1993, in [[Sneedville, Tennessee]], to Tommy and Lesli Wallen.<ref>{{Cite web|last=Randell|first=Louise|date=February 4, 2021|title=Everything we know about Morgan Wallen's parents| url= https://www.stylesrant.com/everything-we-know-about-morgan-wallen-parents/ |access-date=February 28, 2021| website=StylesRant.com |language= en-US}}</ref> Tommy served for a time as a local church pastor,<ref name="NY 2020">{{cite magazine | last=Sanneh | first=Kelefa| authorlink=Kelefa Sanneh | title=How Morgan Wallen Became the Most Wanted Man in Country | magazine= [[The New Yorker]] | date=December 17, 2020 | url= https://www.newyorker.com/magazine/2020/12/28/how-morgan-wallen-became-the-most-wanted-man-in-country | access-date=December 7, 2022}}</ref> while Lesli worked as a teacher. In his teens, the family moved south to [[Knox County, Tennessee|Knox County]], where he graduated from [[Gibbs High School (Corryton, Tennessee)|Gibbs High School]].<ref name="Deming">{{cite web | last=Deming | first=Mark | title=Morgan Wallen Biography, Songs, & Albums | website=AllMusic| url= https://www.allmusic.com/artist/morgan-wallen-mn0003351348/biography | access-date=December 7, 2022}}</ref> He was a [[pitcher]] and [[shortstop]] for the school's [[baseball]] team, and hoped to continue in college, but tore his [[ulnar collateral ligament]] his senior year.<ref name="nash">{{cite web|last=Casey|first=Jim|date=March 13, 2017|title=Who's New: Morgan Wallen|url=https://www.thecountrydaily.com/2017/03/13/whos-new-morgan-wallen-2/|access-date=February 28, 2021|work=The Country Daily}}</ref>
+
+As a child, Wallen took piano and violin lessons. He was raised on a diverse musical playlist, with his father exposing him to [[classic rock]] mainstays. In his teens, he gravitated towards bands like [[Breaking Benjamin]] and [[Nickelback]], as well as rappers like [[Lil Wayne]].<ref name="bb20"/>
+
+Wallen has characterized his early adulthood as adrift; he worked in [[landscaping]] after high school and was disappointed by his inability to continue his baseball career.<ref name="NY 2020"/> He re-approached his interest in music and began learning guitar.<ref name="bb20"/> He had grown to love country music, especially artists like [[Keith Whitley]] and [[Eric Church]], and he modeled his sound after that lineage.<ref name="bb20"/>
+
+==Career==
+
+===Early career and ''The Voice'' (2014–2017)===
+In 2014, Wallen competed on [[The Voice (American TV series) season 6|season 6]] of the music competition program ''[[The Voice (American TV series)|The Voice]]''. He auditioned with the song "[[Collide (Howie Day song)|Collide]]" by [[Howie Day]]. Judges [[Shakira]] and [[Usher (musician)|Usher]] complimented his stylings, and Wallen joined Usher's team. He was later taken by [[Adam Levine]]'s team after his second round, and later eliminated during the playoffs.<ref name="nash"/> Wallen was disappointed by the setback, but doubled down on his ambition: "Some things in life are out of your control. Being the best you can be isn't. I didn't feel like I was the best I could have been. So I practiced harder".<ref name="bb20"/> Still, ''The Voice'' was instrumental in raising Wallen's profile, and he began to establish connections in the [[music industry]].<ref name="Deming"/>
+
+While in California to appear on ''The Voice'', Wallen began working with Sergio Sanchez of [[Atom Smash]], a vocal coach on the program. Wallen relocated to [[Nashville, Tennessee|Nashville]] to further his career, and he and Sanchez started a temporary band: Morgan Wallen & Them Shadows.<ref name="Deming"/> Sanchez introduced Wallen to Bill Ray and [[Paul Trust]] of [[Panacea Records]].<ref name="carolina">{{cite web|url=https://carolinacountrymusicfest.com/artist/morgan-wallen/ |title= Morgan Wallen Artist Bio| work= carolinacountrymusicfest.com | publisher= [[Carolina Country Music Fest]]|access-date=May 6, 2020}}</ref> In 2015, Wallen signed to [[Panacea Records]] where he was joined by Dominic Frost on guitar and released the [[Stand Alone (EP)|''Stand Alone'' (EP)]] on August 24, 2015. "[[Spin You Around]]" was Wallen's debut single under Panacea Records; it was later certified double platinum by the [[Recording Industry Association of America]] (RIAA) in 2021.<ref>{{Cite web| title= Gold & Platinum| url= https://www.riaa.com/gold-platinum/?tab_active=default-award&se=spin+you+around#search_section|access-date=2021-04-30| website= RIAA.com| publisher= Recording Industry Association of America|language=en-US}}</ref>
+
+In 2015, Wallen's manager, Dirk Hemsath of Working Group Artist Management, sent a demo of Wallen to [[Big Loud|Big Loud Shirt]]'s Seth England, who had Wallen audition for his partners in [[Big Loud|Big Loud Records]]. They signed Wallen to the label and the publishing company,<ref name="carolina"/> who began pairing his songs with other artists. That year, he released his debut single "[[The Way I Talk]]";<ref>{{Cite web| last= Pierce| first= Susan|date=November 20, 2018| title=With three hit singles, Morgan Wallen's music has been 'Up Down' and all over the charts| url= https://www.timesfreepress.com/news/chattanooganow/music/story/2018/nov/20/seeing-world-through-whiskey-glasses/483381/|access-date= February 28, 2021| website= timesfreepress.com}}</ref> his first [[music video]] for the song followed in 2017.<ref>{{cite web| url= http://www.soundslikenashville.com/news/morgan-wallen-celebrates-upbringing-video-way-talk/| title= Morgan Wallen Celebrates Upbringing in Video for 'The Way I Talk'|last=Brickey|first=Kelly|date=April 9, 2017|work=Sounds Like Nashville|access-date=April 23, 2017}}</ref> Wallen co-wrote the [[A Thousand Horses]]'s single "Preachin' to the Choir",<ref name="nash"/> [[Dallas Smith]]'s "The Fall",<ref>{{Cite web|title=Dallas Smith - The Fall|url=https://newcountrysongs.com/dallas-smith/the-fall/|website=New Country Songs}}</ref> as well as [[Jason Aldean]]'s "[[You Make It Easy]]" with [[Florida Georgia Line]]'s [[Tyler Hubbard]], [[Brian Kelley]], and [[Jordan Schmidt]].<ref>{{cite web|url=http://tasteofcountry.com/jason-aldean-you-make-it-easy-lyrics/|title=Lyrics uncovered: Jason Aldean, 'You Make It Easy'|work=Taste of Country|date=January 30, 2018 |access-date=February 14, 2018}}</ref> He joined Florida Georgia Line on their [[Dig Your Roots Tour]].<ref name="nash"/> He collaborated with the group on the single "[[Up Down (Morgan Wallen song)|Up Down]]", his first song to reach the top five of ''Billboard''{{'}}s [[Hot Country Songs]] chart.<ref>{{Cite magazine|title=Morgan Wallen| url=https://www.billboard.com/artist/morgan-wallen/chart-history/lus/| access-date=February 28, 2021| magazine=Billboard}}</ref>
+
+===Mainstream success (2018–present)===
+[[File:Morgan Wallen Concert November 13.jpg|thumb|Wallen performing in 2021]]
+
+At the outset of his career, Wallen underwent a personal stylistic shift, adopting a distinctive [[Mullet (haircut)|mullet]] and a look that [[Kelefa Sanneh]], profiling Wallen's rise in a piece for ''[[The New Yorker]]'', described as "[[Everyman]] rock star" and "not just a singer but a character".<ref name="NY 2020"/> Wallen had decided to adopt the retro hairdo after seeing a younger photo of his father with the cut.<ref name="bb20"/> Wallen's debut studio album, ''[[If I Know Me (album)|If I Know Me]]'', was released on April 27, 2018,<ref>{{cite magazine | first= Jon | last= Freeman |date= June 19, 2018 | url= https://www.rollingstone.com/music/music-country/how-up-down-singer-morgan-wallen-turned-his-accent-into-an-honest-country-voice-666096/ | magazine= Rolling Stone| title=How Up Down Singer Morgan Wallen Turned His Accent into an Honest Country Voice| accessdate=}}</ref> with its third single, "[[Whiskey Glasses]]", becoming his biggest success yet.<ref>{{Cite web| 
+last= SMF|date=2019-04-19| title= Morgan Wallen's "Whiskey Glasses" Lyrics Meaning| url= https://www.songmeaningsandfacts.com/morgan-wallens-whiskey-glasses-lyrics-meaning/|access-date=2021-02-28|website=Song Meanings and Facts|language=en-US}}</ref> The song reached the top spot on both the Hot Country Songs and [[Country Airplay]] charts; it also marked his top 40 appearance on the all-genre [[Billboard Hot 100|Hot 100]] ranking, where it placed at number 17. It was ''Billboard''{{'}}s 2019 top Hot Country song and Top Country Airplay song.<ref>{{Cite web |last= Dukes|first=Billy|date=June 4, 2019| title=Morgan Wallen's 'Whiskey Glasses' Hits No. 1 on Airplay Charts| url=https://tasteofcountry.com/morgan-wallen-whiskey-glasses-no-1-radio-airplay/|access-date=February 28, 2021|website=Taste of Country| language=en}}</ref> Sanneh characterized "Whiskey Glasses" as his [[signature song]] and a "perfectly constructed ode to a woman and a drink, lost and found, respectively".<ref name="NY 2020"/> In 2019, Wallen joined Florida Georgia Line on their [[Can't Say I Ain't Country Tour]].<ref>{{cite web| url= https://www.onecountry.com/country-artists/florida-georgia-line-announce-tour-dates/| title= Florida Georgia Line Announce Can't Say I Ain't Country Tour with Dan + Shay| last= Konicki| first= Lisa| date= January 9, 2019| website= Onecountry.com| access-date= February 2, 2019| archive-date= November 27, 2020| archive-url= https://web.archive.org/web/20201127151634/https://www.onecountry.com/country-artists/florida-georgia-line-announce-tour-dates/| url-status= dead}}</ref> His next single, "[[Chasin' You]]", was serviced to radio in July 2019 and peaked at number two on the Hot Country Songs chart;<ref>{{cite web| url=http://www.nashcountrydaily.com/2019/07/09/morgan-wallen-to-release-smoldering-new-single-chasin-you-listen/|title=Morgan Wallen to Release Smoldering New Single, "Chasin' You" [Listen]| last=Casey |first= Jim|website=Nash Country Daily| publisher=Cumulus Media| date=July 9, 2019}}</ref><ref name="Billboard-Feb 2021" /> like its predecessor, it captured the top spot on the overall year-end tally for 2020.<ref name="bb20"/> In August 2020, ''If I Know Me'' reached No. 1 on the Top Country Albums chart after a record-breaking 114 weeks.
+
+Wallen's profile continued to rise, with a growing following on platforms like [[TikTok]], and he developed into an unwitting [[sex symbol]].<ref name="NY 2020"/> Wallen appeared on the cover of ''[[Billboard (magazine)|Billboard]]'', whose headline read: "Is Morgan Wallen Country's Next Global Star?"<ref name="bb20">{{Cite magazine| date=2021-01-14|title=Is Morgan Wallen Country's Next Global Star?|url= https://www.billboard.com/music/country/morgan-wallen-dangerous-billboard-cover-story-interview-2021-9510855/|access-date=2021-02-15|magazine=Billboard}}</ref> At the start of the [[COVID-19 pandemic]], Wallen found himself with more time to write and record material, which developed into his sophomore album, the double-disc ''[[Dangerous: The Double Album]]'' (2021),<ref name="Dangerous">{{cite web| last= Dukes|first=Billy|date=November 11, 2020|title=Morgan Wallen Announces New 'Dangerous' Double Album, Featuring Chris Stapleton| url= https://tasteofcountry.com/morgan-wallen-dangerous-album/|access-date=November 12, 2020|work=Taste of Country}}</ref> which showcases a mix of country and [[Contemporary R&B|R&B]]/pop [[ballad]]ry.<ref name= "Deming"/> ''Dangerous'' was an immediate blockbuster: it debuted atop the US [[Billboard 200|''Billboard'' 200]] and the [[Canadian Albums Chart]];<ref name="BB200">{{cite magazine |url= https://www.billboard.com/artist/morgan-wallen/chart-history/tlp/ |title=Morgan Wallen Chart History: Billboard 200 |magazine=[[Billboard (magazine)|Billboard]] |access-date=February 4, 2021}}</ref><ref>{{cite magazine| url= https://www.billboard.com/artist/morgan-wallen/chart-history/cna/ |title= Morgan Wallen Chart History: Canadian Albums |magazine= Billboard |access-date=August 25, 2020}}</ref> it would remain atop the Canadian chart for four consecutive weeks, and the US chart for six consecutive weeks, marking the first new album from a country artist to do that since [[Garth Brooks]]' ''[[The Chase (Garth Brooks album)|The Chase]]'' in 1992.<ref name="Six" /><ref>{{cite magazine| title=Morgan Wallen's 'Dangerous' No. 1 for Fifth Week on Billboard 200 While 'If I Know Me' Hits Top 10 for First Time| url= https://www.billboard.com/articles/business/chart-beat/9526109/morgan-wallen-dangerous-tops-billboard-200-for-fifth-week/ |first=Keith| last= Caulfield| magazine= Billboard |date= February 14, 2021}}</ref><ref>{{cite magazine |title=Morgan Wallen's 'Dangerous' Makes It Three Weeks at No. 1 on Billboard 200 Chart| url= https://www.billboard.com/articles/business/chart-beat/9519004/morgan-wallen-dangerous-tops-billboard-200-three-weeks-straight/#:~:text=Morgan%20Wallen%27s%20Dangerous%3A%20The,the%20list%20in%20eight%20years.|first=Keith|last=Caulfield|magazine= Billboard |date=January 31, 2021}}</ref><ref>{{cite magazine| title=Morgan Wallen's 'Dangerous' Spends Fourth Week at No. 1 on Billboard 200 Albums Chart| url= https://www.billboard.com/articles/business/chart-beat/9522648/morgan-wallen-dangerous-tops-billboard-200-fourth-week|first=Keith|last=Caulfield|magazine= Billboard| date=February 7, 2021}}</ref> Its singles—"[[More Than My Hometown]]", "[[7 Summers]]", "[[Sand in My Boots]]" and "[[Wasted on You (Morgan Wallen song)|Wasted on You]]"—were record-breaking [[hit single|hit song]]s that pushed Wallen farther into the national conversation. "7 Summers" earned him his first top 10 on the Hot 100, debuting and peaking at number six,<ref>{{cite web| url= https://www.countrynow.com/morgan-wallen-shatters-records-with-7-summers/amp/| title= Morgan Wallen Shatters Records With '7 Summers'| work= Country Now| last= Black| first= Lauren Jo| date= August 19, 2020| access-date= August 19, 2020| archive-date= November 30, 2020| archive-url= https://web.archive.org/web/20201130204256/https://www.countrynow.com/morgan-wallen-shatters-records-with-7-summers/amp/| url-status= dead}}</ref> and was also chosen by ''[[Time (magazine)|Time]]'' as one of the best songs of the year.<ref>{{Cite magazine|title=The 10 Best Songs of 2020|url=https://time.com/5914984/best-songs-2020/|access-date= December 10, 2020|magazine=Time}}</ref> Wallen soon became the first artist to ever chart six songs within the top 10 of Hot Country Songs chart at the same time in the week after his album's release;<ref>{{cite magazine | url= https://bulletins.billboard.com/country/country_update_2021_0119.pdf | title= Billboard Country Update: On the Charts | publisher=  | magazine= Billboard | date= January 19, 2021 | access-date= January 20, 2021 | author= Jim Asker | pages= 4 | archive-date= January 28, 2021 | archive-url= https://web.archive.org/web/20210128005040/https://bulletins.billboard.com/country/country_update_2021_0119.pdf | url-status= dead }}</ref> likewise, the album charted 23 tracks on the [[Canadian Hot 100]],<ref name= "Canada Hot 100">{{cite magazine| title=Morgan Wallen Chart History (Canadian Hot 100) |url= https://www.billboard.com/artist/morgan-wallen/chart-history/can/ |magazine= Billboard |access-date=February 4, 2021}}</ref> and 19 tracks on the Hot 100 in the US.<ref name="Billboard Hot 100">{{cite magazine|title=Morgan Wallen Chart History (Hot 100) |url= https://www.billboard.com/artist/morgan-wallen/chart-history/hsi/ |magazine= Billboard |access-date=February 4, 2021}}</ref>
+
+====Use of racial slur====
+
+On February 2, 2021, [[TMZ]] released a video recorded on January 31 showing Wallen using the racial slur "[[nigger]]" to one of his friends after a night out.<ref>{{cite web |last1=Williams |first1=Andrea |title=Morgan Wallen Is Exactly What Country Music Wanted … Now What? |url=https://www.vulture.com/2021/02/essay-morgan-wallen-racism-controversy.html |website=Vulture |access-date=23 February 2021 |date=4 February 2021}}</ref><ref>{{cite web | url=https://www.gq.com/story/suspending-morgan-wallen-was-a-start-now-comes-the-hard-part | title=Suspending Morgan Wallen Was a Start. Now Comes the Hard Part | date=February 5, 2021 }}</ref> He issued a statement shortly after and apologized.<ref>{{Cite web|last=Calvario|first=Liz|date=February 2, 2021|title=Morgan Wallen Apologizes for Using the N-Word After Rowdy Night Out|url=https://www.etonline.com/morgan-wallen-apologizes-for-using-the-n-word-after-night-out-with-pals-159986|access-date=February 3, 2021|website=[[Entertainment Tonight]]|language=en-US}}</ref> Several radio stations temporarily removed Wallen's music from airplay on their stations, and his songs were removed from [[Apple Music]], [[Pandora (streaming service)|Pandora]] and [[Spotify]] featured playlists.<ref>{{Cite web|title=Morgan Wallen's Music Removed From iHeart's Radio Stations and Others Following Racial Slur|url=https://www.billboard.com/articles/columns/country/9520243/morgan-wallen-removed-iheartradio-cumulus-racial-slur-fallout/|access-date=February 3, 2021|magazine=[[Billboard (magazine)|Billboard]]|language=en}}</ref><ref>{{Cite magazine|last1=Willman|first1=Chris|date=February 3, 2021|title=Country Radio Quickly Removing Morgan Wallen From Playlists After Racial Slur|url=https://variety.com/2021/music/news/morgan-wallen-country-radio-removed-racial-slur-1234899010/|access-date=February 3, 2021|magazine=[[Variety (magazine)|Variety]]|language=en-US}}</ref> [[CMT (American TV channel)|CMT]] and the [[Country Music Association]] removed Wallen's appearances from their platforms, and his record label [[Big Loud]] (and partner [[Republic Records]]) suspended its recording contract with him indefinitely.<ref>{{Cite magazine|last1=Millman|first1=Ethan|date=February 3, 2021|title=Morgan Wallen's Record Deal 'Suspended Indefinitely' Following Racial Slur Video|url=https://www.rollingstone.com/music/music-country/morgan-wallen-record-label-suspended-1123242/|access-date=February 3, 2021|magazine=[[Rolling Stone]]|language=en-US}}</ref><ref>{{Cite news|last=Limbong|first=Andrew|date=February 3, 2021|title=Country Star Morgan Wallen Suspended By Label, Dropped By Radio, CMT After Using Slur|work=NPR|url=https://www.npr.org/2021/02/03/963664999/country-star-morgan-wallen-suspended-by-label-dropped-by-radio-cmt-after-using-s|access-date=}}</ref> The [[Academy of Country Music]] announced that Wallen and the album ''[[Dangerous: The Double Album]]'' would be ineligible for the [[56th Academy of Country Music Awards|56th Annual]] [[Academy of Country Music Awards]].<ref>{{cite magazine |last1=Grein |first1=Paul |title=Morgan Wallen Won't Be Eligible for 2021 ACM Awards After Racial Slur |url=https://www.billboard.com/articles/news/awards/9520781/morgan-wallen-acm-awards-ineligible-racial-slur/ |magazine=[[Billboard (magazine)|Billboard]] |date=February 3, 2021|access-date=February 4, 2021 |language=en}}</ref><ref>{{cite web|title=Morgan Wallen Disqualified by Academy of Country Music for Upcoming Awards; One-Day Airplay Down 80%|url=https://variety.com/2021/music/news/morgan-wallen-disqualified-acm-awards-cma-radio-play-drops-1234899952/|author=Chris Willman|website=Variety|date=February 3, 2021|access-date=February 4, 2021}}</ref> On February 10, Wallen shot an apology video in which he asked his fans not to defend him.<ref>{{Cite magazine|last=Hudak|first=Joseph|date=2021-02-11|title=Morgan Wallen to Fans: Don't Defend Me|url=https://www.rollingstone.com/music/music-country/morgan-wallen-apology-video-1126831/|access-date=2021-02-15|magazine=Rolling Stone}}</ref>
+
+In April 2021, Wallen donated $300,000 to the [[Black Music Action Coalition]] in the names of 20 people who had counseled him following the incident. Those individuals were given the option to funnel their respective $15,000 donations to a charity of their choice, or keep the money within the BMAC.<ref>{{Cite web|last=Ruggieri|first=Melissa|title=The real story of Morgan Wallen's $500K pledge to Black groups, and how the money got distributed|url=https://www.usatoday.com/story/entertainment/music/2021/09/22/morgan-wallen-kept-his-pledge-donate-money-black-serving-groups/5788855001/|access-date=2021-11-23|website=USA Today|language=en-US}}</ref> Wallen publicly spoke of his comments on ''[[Good Morning America]]'' on July 23, where he said that "he was around some of his friends, and they say dumb stuff together" and said that "he was wrong" to express those words.<ref>{{cite magazine |last1=Kaufman |first1=Gil |title=Morgan Wallen Thought His Use of Racial Slur Was 'Playful,' Admits It Was 'Ignorant' & 'Wrong' |url=https://www.billboard.com/articles/columns/country/9605488/morgan-wallen-talks-racial-slur-gma-video/ |access-date=24 July 2021 |magazine=[[Billboard (magazine)|Billboard]] |date=24 July 2021}}</ref> Wallen's songs returned to country radio in August when his single "[[Sand in My Boots]]" was released.<ref>{{cite web|url=https://musicmayhemmagazine.com/morgan-wallen-officially-returning-to-country-radio-with-new-single-sand-in-my-boots/|title=Morgan Wallen Officially Returning To Country Radio With New Single "Sand In My Boots"|access-date=September 22, 2021|website=Music Mayhem Magazine|date=August 20, 2021 |language=en-US}}</ref> He was nominated for Favorite Male Country Artist and Favorite Country Album for the 2021 [[American Music Awards]], but was not invited to attend the ceremony, and was consequently unable to accept any awards if he won, which he did not.<ref>{{cite web|url=https://www.foxnews.com/entertainment/morgan-wallen-banned-american-music-award-country-nominations|title=Morgan Wallen banned from American Music Awards, still nominated for country music categories|access-date=October 29, 2021|website=FoxNews.com|date=October 29, 2021 |language=en-US}}</ref>
+
+====Continued success====
+[[File:Morgan_Wallen_performing_in_Salt_Lake_City.png|thumb|Wallen performing in 2022]]
+
+Though his public image took a hit, Wallen’s popularity increased.<ref name= "USA">{{Cite web|last= Oliver |first= David|title=Morgan Wallen used a racist slur but his popularity is skyrocketing. How did we get here? |url= https://www.usatoday.com/story/entertainment/music/2021/02/10/morgan-wallen-country-music-popular-after-racist-slur-what-it-means/4441395001/ |access-date= 2021-02-18|website=USA Today}}</ref> In the week following the controversy, album sales of ''Dangerous'' surged. In some cases, the physical as well as digital album sales went up over 100% in the week following the controversy.<ref name= "KSAT&quot;&quot;">{{Cite web |last= Hall |first=Kristin M. | agency= Associated Press|date=2021-02-08| title= Album sales surge for Morgan Wallen after racist comment| url= https://www.ksat.com/entertainment/2021/02/08/album-sales-surge-for-morgan-wallen-after-racist-comment/ |website=KSAT.com | publisher= |access-date=2021-02-15}}</ref> He remained atop the ''Billboard'' charts for seven more weeks; ''If I Know Me'' even entered the top 10 for the first time.<ref>{{Cite magazine|title=Morgan Wallen's 'Dangerous' No. 1 for Fifth Week on Billboard 200 While 'If I Know Me' Hits Top 10 for First Time| url= https://www.billboard.com/articles/business/chart-beat/9526109/morgan-wallen-dangerous-tops-billboard-200-for-fifth-week|access-date=2021-02-15| magazine=Billboard}}</ref> Over the ensuing years, ''Dangerous'' remained a juggernaut; Ben Sisario, writing in ''[[The New York Times]]'', dubbed it "an unusually enduring hit".<ref name="The New York Times 2022">{{cite web | title=Morgan Wallen's Career Seemed Over. Now He's Broken a Billboard Record. | website=The New York Times | date=September 12, 2022 | url=https://www.nytimes.com/2022/09/12/arts/music/morgan-wallen-dangerous-billboard-chart-record.html | access-date=December 7, 2022}}</ref> It has continued to break chart records:<ref name="Six">{{Cite magazine| title=Morgan Wallen's 'Dangerous' Hits Sixth Week at No. 1 on Billboard 200, Most for a Male Artist Since Drake's 'Views'| url= https://www.billboard.com/articles/business/chart-beat/9529137/morgan-wallen-dangerous-tops-billboard-200-sixth-week| access-date=2021-02-21| magazine= Billboard}}</ref> it was the best-performing album of 2021,<ref name="Vitagliano 2021"/> and in 2022, the album broke the record for the most weeks in the top 10 on the ''Billboard 200'' chart among albums by a singular artist, surpassing a goal set a half-century before.<ref name="Caulfield 2022">{{cite web | last=Caulfield | first=Keith | title=Morgan Wallen's 'Dangerous' Breaks Top 10 Longevity Record on Billboard 200 Chart | website=Billboard.com | date= September 11, 2022 | url= https://www.billboard.com/music/chart-beat/morgan-wallen-dangerous-double-album-billboard-200-chart-longevity-record-1235137231/ | access-date=December 7, 2022}}</ref> ''Dangerous'' was awarded Album of the Year at the Academy of Country Music;<ref>{{cite web |url= https://www.acmcountry.com/noms |title=Winners| website= acmcountry.com |publisher=Academy of Country Music |access-date=1 June 2022}}</ref> Wallen also won Favorite Male Artist and Favorite Album at the inaugural Country Now Awards.<ref name="Country Now-2021" />
+
+Wallen has continued to release new music, and has remained a popular draw on the road. ''The Dangerous Tour'' of arenas and amphitheaters was completely sold-out.<ref name="Vitagliano 2021">{{cite web | last=Vitagliano | first=Joe | title=Morgan Wallen Tour is Nearly Sold Out–Over 705k Tickets Sold So Far | website=American Songwriter | date=December 7, 2021 | url=https://americansongwriter.com/morgan-wallen-tour-is-nearly-sold-out-over-705k-tickets-sold-so-far/ | access-date=December 7, 2022}}</ref><ref name="Nicholson 2022">{{cite magazine | last=Nicholson | first=Jessica | title=Morgan Wallen Brings Hits, Jason Aldean & More to Round Out Trio of Nashville Shows | magazine=Billboard | date=March 19, 2022 | url=https://www.billboard.com/music/country/morgan-wallen-nashville-concerts-recap-1235046165/ | access-date=December 7, 2022}}</ref> His single "[[You Proof]]" became his second Hot 100 hit and first to reach the top five; both "You Proof" and "[[Thought You Should Know (Morgan Wallen song)|Thought You Should Know]]" topped the country charts. Wallen also collaborated with rapper [[Lil Durk]] on the song "[[Broadway Girls]]", a top-15 hit on the Hot 100; he also performed the song live with Durk at MLK Freedom Fest in Nashville.<ref>{{Cite magazine|last=Hudak|first=Joseph|title=Morgan Wallen Joins Lil Durk Onstage at MLK Freedom Fest in Nashville|url=https://www.rollingstone.com/music/music-country/morgan-wallen-lil-durk-nashville-broadway-girls-1286003/|date=January 15, 2022|access-date=January 16, 2022|magazine=Rolling Stone}}</ref> Wallen was a co-writer on the [[Tyler Joe Miller]] single "[[Wild as Her]]", released in February 2022, and the [[Keith Urban]] single "[[Brown Eyes Baby]], released in July 2022.<ref name ="AllMusicb">{{cite web|title="Wild as Her" – Tyler Joe Miller|url=https://www.allmusic.com/album/wild-as-her-mw0003678677|work=[[AllMusic]]|accessdate=April 3, 2022}}</ref><ref>{{cite web|url=https://musicmayhemmagazine.com/listen-keith-urban-releases-new-single-brown-eyes-baby-co-penned-by-morgan-wallen/|title=Keith Urban Releases New Single "Brown Eyes Baby," Co-Penned By Morgan Wallen [Listen]|date=July 8, 2022}}</ref> In December 2022, Wallen released a sampler EP titled ''One Thing at a Time'', featuring three songs he had been working on up until this point, titled "One Thing at a Time", "Tennessee Fan" and "Days That End in Why".<ref>{{cite magazine |url= https://www.billboard.com/music/country/morgan-wallen-stream-it-now-1235179772/| title=Morgan Wallen's 'One Thing at a Time' Sampler: Stream It Now| last=Nicholson| first= Jessica| magazine=[[Billboard (magazine)|Billboard]] |date=December 2, 2022|access-date=December 3, 2022}}</ref> In 2023, Wallen expanded to stadiums with his One Night at a Time World Tour.<ref name="Mier 2022">{{cite magazine | last=Mier | first= Tomás| title=Morgan Wallen Will Take 2023 'One Night at a Time' on a Massive World Tour | magazine=Rolling Stone | date=December 6, 2022 | url=https://www.rollingstone.com/music/music-country/morgan-wallen-2023-tour-dates-1234639735/ | access-date=December 7, 2022}}</ref> Wallen released his third studio album ''[[One Thing at a Time]]'' on March 3, 2023.<ref>{{cite web|url=https://musicmayhemmagazine.com/morgan-wallen-announces-36-track-album-one-thing-at-a-time-featuring-duets-with-eric-church-hardy-ernest/|title=Morgan Wallen Announces 36-Track Album 'One Thing At A Time' Featuring Duets With Eric Church, Hardy & Ernest|website=Music Mayhem Magazine|last=Wendowski|first=Andrew|date=January 30, 2023|access-date=January 31, 2023}}</ref>
+
+On April 23, 2023, at [[Vaught–Hemingway Stadium]] in [[Oxford, Mississippi]], just minutes before he was set to perform, Wallen announced that he could not perform due to losing his voice. Fans were directed to receive refunds at their points of purchase.<ref>{{cite web|url=https://www.tennessean.com/story/news/2023/04/25/morgan-wallen-mississippi-concert-canceled-lawsuit-refunds-more/70150025007/#|title=Morgan Wallen cancels concert in Oxford|access-date=April 25, 2023|website=[[The Tennessean]]|date=April 25, 2023 |language=en-US}}</ref> In May 2023, Wallen was featured on the song "[[Stand by Me (Lil Durk song)|Stand by Me]]" from [[Lil Durk]]'s eighth studio album, ''[[Almost Healed]]''. Wallen was a co-writer on the 2023 single "[[Fixer Upper (Dallas Smith song)|Fixer Upper]]" by [[Dallas Smith]].<ref>{{cite web|url=https://frontporchmusic.ca/dallas-smiths-new-single-fixer-upper/|title=Dallas Smith's New Single "Fixer Upper": A Heartfelt Journey of Self-Work in Relationships|date=September 29, 2023|website=Front Porch Music|access-date=October 4, 2023}}</ref><ref>{{cite magazine|url=https://americansongwriter.com/dallas-smith-drops-fixer-upper-and-crzy-ahead-of-album-release/|title=Dallas Smith Drops "Fixer Upper" and "CRZY" Ahead of Album Release|first=Danielle|last=Taylor|magazine=[[American Songwriter]]|access-date=November 6, 2023}}</ref>
+
+On January 26, 2024, [[Panacea Records]] released a deluxe 10th anniversary edition of Morgan Wallen's 2015 EP ''Stand Alone'' that included eight previously unreleased songs. These songs were recorded in the same sessions as the original ''Stand Alone'' songs. Before the release of the 10th anniversary album, Wallen released a statement on his Instagram page saying that the release of this album was happening "against his wishes".<ref>{{Cite web |date=2024-01-26 |title=Morgan Wallen Slams 'Greedy' Ex-Partners Issuing 'Terrible' Decade-Old Tracks; Indie Label Says 'We Believe Some of His Fans Will Love It' |url=https://www.yahoo.com/entertainment/morgan-wallen-slams-greedy-ex-041854886.html |access-date=2024-05-14 |website=Yahoo Entertainment |language=en-US}}</ref>
+
+On March 3, 2024, he shared performances as part of his Abbey Road Sessions and performed a new song titled "[[Lies Lies Lies]]".<ref>{{cite tweet|user=MorganWallen|number=1764399811757768839|title= Recorded a new song, some favorites, and a cover with my band in London at Abbey Road Studios - you can find them on my YouTube now!|access-date=March 4, 2024}}</ref> On May 2, 2024, Wallen announced his next single entitled "[[I Had Some Help]]" with [[Post Malone]], which was released on May 10.<ref>{{cite tweet|user=postmalone|number=1786149057842344340|title=I Had Some Help. May 10th @MorganWallen|date=May 2, 2024|access-date=May 3, 2024}}</ref>
+
+==Legal and public health issues==
+In May 2020, Wallen was arrested and charged with public intoxication and disorderly conduct after leaving [[Kid Rock]]'s bar in [[Nashville]], Tennessee, and he confessed via [[Twitter]] that he and a few friends were "horse-playing with each other" after a couple of bar stops, saying "We didn't mean any harm, and we want to say sorry to any bar staff or anyone that was affected."<ref>{{cite web |url=https://www.tennessean.com/story/news/local/2020/05/24/morgan-wallen-arrested-nashville-bar/5253959002/ |title=Country artist Morgan Wallen arrested after being kicked out of Kid Rock's bar, police say |work=The Tennessean |last=Tamburin |first=Adam |date=May 24, 2020 |access-date=August 13, 2024}}</ref><ref>{{cite web |url=https://www.wkrn.com/news/crime-tracker/country-artist-morgan-wallen-arrested-after-incident-at-kid-rocks-honky-tonk/ |title=Country artist Morgan Wallen arrested after incident at Kid Rock’s Honky Tonk |work=[[WKRN]].com |date=May 24, 2020 |access-date=August 13, 2024}}</ref>
+
+In October 2020, during the [[COVID-19 pandemic in the United States|COVID-19 pandemic]], multiple videos were posted on TikTok showing Wallen ignoring [[Centers for Disease Control and Prevention|CDC]] guidelines (to lower the risk of catching and/or spreading COVID-19) in bars and other locations in the Tuscaloosa, Alabama area after attending a [[University of Alabama]] football game.  Wallen was shown partying maskless, not following social distancing guidelines, and kissing several women in these videos.  Wallen was criticized for his conduct, partly as his ex-girlfriend had recently given birth.  As a result of his actions, Wallen was cancelled as the musical guest on that week's episode of ''[[Saturday Night Live]]''; he ultimately performed in an episode two months later hosted by actor [[Jason Bateman]], in which Bateman, Wallen, and several cast members parody the incident and resulting fallout.<ref name="maskless partying 1">{{cite web |last1=Aderoju |first1=Darlene |title=Morgan Wallen Faces Criticism After Partying amid Coronavirus Ahead of 'SNL' Appearance |url=https://people.com/country/morgan-wallen-snl-criticism-after-partying/ |website=People.com |publisher=People Magazine |access-date=March 15, 2024 |date=October 7, 2020}}</ref><ref name="maskless partying 2">{{cite web |last1=Moniuszko |first1=Sara M. |title='SNL': Morgan Wallen stars in maskless partying skit months after his own COVID-19 scandal |url=https://www.usatoday.com/story/entertainment/tv/2020/12/06/snl-morgan-wallen-maskless-partying-skit-coronavirus-scandal/3847347001/ |website=USAToday.com |publisher=USA Today |access-date=March 15, 2024 |date=December 6, 2020}}</ref><ref name="maskless partying 3">{{cite web |last1=Low |first1=Elaine |title=Morgan Wallen Under Scrutiny for Maskless Partying Ahead of 'SNL' Appearance |url=https://variety.com/2020/tv/news/morgan-wallen-saturday-night-live-covid-partying-1234795121/ |website=Variety.com |publisher=Variety |access-date=March 15, 2024 |date=October 6, 2020}}</ref><ref name="maskless partying 4">{{cite web |last1=Levenson |first1=Eric |title='SNL' and Morgan Wallen joke about the show disinviting him for breaking Covid-19 protocols |url=https://www.cnn.com/2020/12/06/us/snl-morgan-wallen/index.html |website=CNN.com |publisher=CNN (Cable News Network) |access-date=March 15, 2024 |date=December 6, 2020}}</ref>
+
+On April 7, 2024, Wallen was arrested after allegedly throwing a chair off the roof of [[Eric Church]]'s newly-opened bar on [[Broadway (Nashville, Tennessee)|Broadway]] in Nashville. He was charged with three counts of [[felony]] reckless endangerment and one count of [[misdemeanor]] disorderly conduct after the projectile landed near two police officers on the ground.<ref>{{cite web |last1=Fieldstadt |first1=Elisha |last2=Lenthang |first2=Marlene |title=Morgan Wallen arrested after throwing chair from rooftop of Nashville bar, police say |url=https://www.nbcnews.com/news/us-news/morgan-wallen-arrested-throwing-chair-rooftop-nashville-bar-police-say-rcna146810 |website=NBC News |access-date=April 8, 2024 |date=April 8, 2024}}</ref>
+
+==Personal life==
+In 2016, Wallen began a relationship with influencer KT Smith, and the couple got engaged several months later.<ref>{{Cite web |last=Santaflorentina |first=Hayley |date=2024-04-10 |title=Morgan Wallen's ex KT Smith speaks out amid reports her elopement was behind bar incident |url=https://www.nbcdfw.com/entertainment/entertainment-news/morgan-wallens-ex-kt-smith-speaks-out-amid-reports-her-elopement-was-behind-bar-incident/3510598/ |access-date=2024-09-25 |website=NBC 5 Dallas-Fort Worth |language=en-US}}</ref><ref name=":0">{{Cite web |last=Aizin |first=Rebecca |date=April 10, 2024 |title=Who Is Morgan Wallen's Ex-Girlfriend? All About KT Smith |url=https://people.com/who-is-kt-smith-morgan-wallen-ex-girlfriend-8628504 |access-date=2024-09-25 |website=[[Peoplemag|People]] |language=en}}</ref> In 2019, they separated, allegedly due to Wallen's infidelity, and welcomed a son, Indigo (b. 2020), together several months after their breakup.<ref>{{cite web | url=https://people.com/parents/morgan-wallen-celebrates-son-indigo-1st-birthday-with-ex-kt-smith/ | title=Morgan Wallen Celebrates Son Indigo Wilder's 1st Birthday with Ex KT Smith After Controversy | publisher=[[People (magazine)|People]] | date=July 12, 2021 | accessdate=July 19, 2022}}</ref><ref>{{cite web | url=https://people.com/who-is-kt-smith-morgan-wallen-ex-girlfriend-8628504 | title=Who is Morgan Wallen's Ex-Girlfriend? All About KT Smith }}</ref><ref name=":0" /> Smith is now married to another man.<ref name=":0" /> Wallen has also been romantically linked with influencer [[Paige Lorenze]],<ref>{{cite web | url=https://925xtu.com/2022/10/03/morgan-wallens-famous-ex-girlfriend/ | title=Morgan Wallen's Famous Ex-Girlfriend Reveals the Interesting Reason They Broke up | date=October 3, 2022 }}</ref> and fellow country singer [[Megan Moroney]], who allegedly wrote her breakout song "[[Tennessee Orange]]" about him.<ref>{{cite magazine | url=https://www.billboard.com/music/country/megan-moroney-addresses-morgan-wallen-romance-rumors-1235744155/ | title=Megan Moroney Finally Addresses Morgan Wallen Romance Rumors: 'We Were Not Just Friends' | magazine=[[Billboard (magazine)|Billboard]] }}</ref><ref>{{cite web | url=https://www.usmagazine.com/celebrity-news/news/singer-megan-moroney-finally-addresses-morgan-wallen-dating-rumors/ | title=Singer Megan Moroney Finally Addresses Morgan Wallen Dating Rumors }}</ref><ref>{{cite web | url=https://people.com/megan-moroney-breaks-silence-on-morgan-wallen-romance-8686842 | title=Megan Moroney Breaks Silence on Morgan Wallen Romance, Says They Were Never 'Exclusively Dating' }}</ref>
+
+On June 1, 2024, Wallen opened Morgan Wallen's This Bar & Tennessee Kitchen, a six-story bar, restaurant and music venue, in downtown Nashville.<ref>{{cite magazine | url=https://www.billboard.com/music/country/morgan-wallen-nashville-bar-opening-june-1-1235698251/ | title=Morgan Wallen's Nashville Bar Opening June 1 | magazine=[[Billboard (magazine)|Billboard]] }}</ref>
+
+==Discography==
+{{Main|Morgan Wallen discography}}
+*''[[If I Know Me (album)|If I Know Me]]'' (2018)
+*''[[Dangerous: The Double Album]]'' (2021)
+*''[[One Thing at a Time]]'' (2023)
+
+==Tours==
+'''Headlining'''
+*The Dangerous Tour (2022)
+*One Night at a Time World Tour (2023-2024) (with [[Bailey Zimmerman]], [[Ernest (musician)|Ernest]], [[Hardy (singer)|Hardy]], and [[Parker McCollum]])
+
+'''Opening'''
+*[[What Makes You Country Tour]] (2018) (with [[Luke Bryan]])
+*Can't Say I Ain't Country Tour (2019) (with [[Florida Georgia Line]])
+*Beer Never Broke My Heart Tour (2019) (with [[Luke Combs]])
+
+== Awards and nominations ==
+{| class="wikitable sortable"
+|-
+! Year
+! Association
+! Category
+! Nominated work
+! Result
+! Ref.
+|-
+!rowspan=2|2019
+| [[2019 CMT Music Awards|CMT Music Awards]]
+| Breakthrough Video of the Year
+| "[[Whiskey Glasses]]"
+| {{nom}}
+| <ref>{{cite magazine |last1=Freeman |first1=Jon |title=2019 CMT Music Awards: The Complete Winners List |url=https://www.rollingstone.com/music/music-country/2019-cmt-music-awards-winners-list-844075/ |magazine=Rolling Stone |access-date=July 20, 2019 |date=June 6, 2019}}</ref>
+|-
+| [[53rd Annual Country Music Association Awards|Country Music Association Awards]]
+| [[Country Music Association Award for New Artist of the Year|New Artist of the Year]]
+| rowspan="3" | Himself
+| {{nom}}
+| <ref>{{Cite web |url=https://abcnews.go.com/GMA/Culture/2019-cma-awards-complete-winners-list/story?id=66949919 |title=2019 CMA Awards: Complete winners list - ABC News |website=[[ABC News (United States)|ABC News]] |access-date=November 14, 2019 |archive-url=https://web.archive.org/web/20191115015928/https://abcnews.go.com/GMA/Culture/2019-cma-awards-complete-winners-list/story?id=66949919 |archive-date=November 15, 2019 |url-status=dead }}</ref>
+|-
+! rowspan="9" |2020
+| [[55th Academy of Country Music Awards|Academy of Country Music Awards]]
+| New Male Artist of the Year
+| {{nominated}}
+| <ref>{{cite web |url=https://etcanada.com/news/681867/keith-urban-surprises-tenille-townes-riley-green-with-acm-new-artist-awards/ |title=2020 ACM Awards: The Nominees List |website=Theboot.com |access-date=April 4, 2020 |archive-date=December 19, 2020 |archive-url=https://web.archive.org/web/20201219025757/https://etcanada.com/news/681867/keith-urban-surprises-tenille-townes-riley-green-with-acm-new-artist-awards/ |url-status=dead }}</ref>
+|-
+| [[54th Annual Country Music Association Awards|Country Music Association Awards]]
+| New Artist of the Year
+|{{won}}
+|
+|-
+|rowspan=2|[[2020 iHeartRadio Music Awards|iHeartRadio Music Awards]]
+| Country Song of The Year
+| "[[Whiskey Glasses]]"
+| {{nom}}
+|
+|-
+| Best New Country Artist 
+| Himself 
+| {{won}}
+|
+|-
+|rowspan=2|[[2020 Billboard Music Awards|Billboard Music Awards]]
+| Top Country Song
+| "[[Whiskey Glasses]]"
+| {{nom}}
+|
+|-
+| Top Country Album
+| ''[[If I Know Me (album)|If I Know Me]]''
+| {{nom}}
+|
+|-
+|[[2020 CMT Music Awards|CMT Music Awards]]
+| Male Video of the Year
+| "Chasin You' (Dream Video)"
+| {{nom}}
+|
+|- 
+|rowspan=2|[[American Music Awards of 2020|American Music Awards]]
+| Favorite Male Artist-Country
+| Himself 
+| {{nom}}
+|
+|- 
+| Favorite Album-Country
+| ''If I Know Me''
+| {{nom}}
+|
+|-
+! rowspan="10" |2021
+| rowspan="5" |[[2021 Billboard Music Awards|Billboard Music Awards]]
+| Top Song Sales Artist
+| rowspan="3" | Himself
+| {{nom}}
+| rowspan="5" |<ref>{{Cite web|title=The Weeknd wins big at the Billboard Music Awards: See the full winners list|url=https://ew.com/awards/billboard-music-awards-2021-full-list-winners/|access-date=2021-05-25|website=EW.com|language=en}}</ref>
+|-
+| Top Country Artist
+| {{won}}
+|-
+| Top Country Male Artist
+| {{won}}
+|-
+| Top Country Album
+| Morgan Wallen, ''Dangerous: The Double Album''
+| {{won}}
+|-
+| Top Country Song
+| Morgan Wallen, "Chasin' You"
+| {{nom}}
+|-
+|rowspan=1|[[55th Annual Country Music Association Awards|Country Music Association Awards]]
+|[[Country Music Association Award for Album of the Year|Album of the Year]]
+|''[[Dangerous: The Double Album]]''
+| {{nom}}
+| rowspan="1"|<ref>{{Cite web|title=2021 CMA Awards Nominees Announced - Full List|url=https://tasteofcountry.com/2021-cma-awards-nominees/|access-date=2021-09-22|website=tasteofcountry.com|date=September 9, 2021 |language=en}}</ref>
+|-
+| rowspan="2" |[[American Music Awards of 2021|American Music Awards]]
+|Favorite Male Artist-Country
+|Himself
+| {{nom}}
+| rowspan="2" |<ref>{{Cite web|url=https://www.latimes.com/entertainment-arts/music/story/2021-10-29/morgan-wallen-banned-amas-nominations|title=Morgan Wallen banned from American Music Awards despite landing two nominations|date=October 29, 2021|website=Los Angeles Times}}</ref>
+|-
+|Favorite Album-Country
+|''[[Dangerous: The Double Album]]''
+| {{nom}}
+|-
+| rowspan="2" | Country Now Awards
+|Favorite Male Artist
+|| Himself
+| {{won}}
+| rowspan="2" |<ref name="Country Now-2021">{{Cite web|date=2021-12-09|title=Morgan Wallen 'Honored' To Accept Two Fan-Voted Country Now Awards: 'It Means A Lot'|url=https://countrynow.com/morgan-wallen-honored-to-accept-two-fan-voted-country-now-awards-it-means-a-lot/|access-date=2021-12-09|website=Country Now|language=en-US}}</ref>
+|-
+|Favorite Album
+| rowspan="2" | ''[[Dangerous: The Double Album]]''
+| {{won}}
+|-
+! rowspan="5" |2022
+| [[57th Academy of Country Music Awards|Academy of Country Music Awards]]
+| Album of the Year
+| {{Won}}
+|<ref>{{Cite web |title=2022 ACM Awards Winners: See the Full List |url=https://www.nbcnewyork.com/entertainment/entertainment-news/academy-of-country-music-awards-2022-winners-see-the-full-list/3587779/ |access-date=2022-03-15 |website=NBC New York |date=March 8, 2022 |language=en-US}}</ref>
+|-
+| rowspan="2" | [[56th Annual Country Music Association Awards|Country Music Association Awards]]
+| [[Country Music Association Award for Entertainer of the Year|Entertainer of the Year]]
+| rowspan="3" | Himself
+| {{nom}}
+|-
+| [[Country Music Association Award for Male Vocalist of the Year|Male Vocalist of the Year]]
+| {{nom}}
+|
+|-
+| rowspan="2" | [[American Music Awards of 2022|American Music Awards]]
+| [[American Music Award for Favorite Country Male Artist|Favorite Male Country Artist]]
+| {{won}}
+|-
+| [[American Music Award for Favorite Country Song|Favorite Country Song]]
+| "[[Wasted on You (Morgan Wallen song)|Wasted on You]]"
+| {{won}}
+|
+|-
+! rowspan="20"|2023
+| [[2023 ARIA Music Awards|ARIA Music Awards]]
+| [[ARIA Award for Best International Artist|Best International Artist]]
+| rowspan="3" | Himself
+| {{nom}}
+|<ref>{{cite web | url=https://www.aria.com.au/awards/nominees | title=ARIA Awards 2023 Nominees }}</ref>
+|-
+| rowspan="3"|[[57th Annual Country Music Association Awards|Country Music Association Awards]]
+| [[Country Music Association Award for Entertainer of the Year|Entertainer of the Year]]
+| {{nom}}
+|
+|-
+| [[Country Music Association Award for Male Vocalist of the Year|Male Vocalist of the Year]]
+| {{nom}}
+|
+|-
+| [[Country Music Association Award for Album of the Year|Album of the Year]]
+| ''[[One Thing at a Time]]''
+| {{nom}}
+|
+|-
+|rowspan="16"|[[2023 Billboard Music Awards|Billboard Music Awards]]
+|[[Billboard Music Award for Top Artist|Top Artist]]
+|rowspan="11" | Himself
+|{{nom}}
+|-
+|[[Billboard Music Award for Top Billboard 200 Artist|Top Billboard 200 Artist]]
+|{{nom}}
+|-
+|[[Billboard Music Award for Top Radio Songs Artist|Top Radio Songs Artist]]
+|{{nom}}
+|-
+|[[Billboard Music Award for Top Song Sales Artist|Top Song Sales Artist]]
+|{{nom}}
+|-
+|Top Billboard Global 200 Artist 
+|{{nom}}
+|-
+|[[Billboard Music Award for Top Streaming Songs Artist|Top Streaming Songs Artist]]
+|{{Won}}
+|-
+|[[Billboard Music Award for Top Country Artist|Top Country Artist]]
+|{{Won}}
+|-
+|Top Male Country Artist
+|{{Won}}
+|-
+|[[Billboard Music Award for Top Male Artist|Top Male Artist]]
+|{{Won}}
+|-
+|[[Billboard Music Award for Top Hot 100 Artist|Top Hot 100 Artist]]
+|{{Won}}
+|-
+|Billboard Music Award for Top Country Touring Artist
+|{{Won}}
+|-
+|[[Billboard Music Award for Top Country Album|Top Country Album]]
+|rowspan="2"|''[[One Thing at a Time]]''
+|{{Won}}
+|-
+|[[Billboard Music Award for Top Billboard 200 Album|Top Billboard 200 Album]]
+|{{Won}}
+|-
+|[[Billboard Music Award for Top Streaming Song (Audio)|Top Streaming Song]]
+| rowspan="3" | "[[Last Night (Morgan Wallen song)|Last Night]]"
+|{{Won}}
+|-
+|[[Billboard Music Award for Top Country Song|Top Country Song]]
+|{{Won}}
+|-
+|[[Billboard Music Award for Top Hot 100 Song|Top Hot 100 Song]]
+|{{Won}}
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Commons category-inline}}
+*{{allMusic}}
+
+{{Morgan Wallen}}
+{{Billboard Year-End number one albums}}
+{{CMA New Artist}}
+{{The Voice (U.S.)}}
+{{authority control}}
+
+{{DEFAULTSORT:Wallen, Morgan}}
+[[Category:1993 births]]
+[[Category:Living people]]
+[[Category:21st-century American guitarists]]
+[[Category:21st-century American male singers]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:American country rock singers]]
+[[Category:American country singer-songwriters]]
+[[Category:American male guitarists]]
+[[Category:American male singer-songwriters]]
+[[Category:Big Loud artists]]
+[[Category:Bro-country singers]]
+[[Category:Country musicians from Tennessee]]
+[[Category:Country pop musicians]]
+[[Category:Mercury Records artists]]
+[[Category:Guitarists from Tennessee]]
+[[Category:People from Hancock County, Tennessee]]
+[[Category:Race-related controversies in music]]
+[[Category:Republic Records artists]]
+[[Category:Singer-songwriters from Tennessee]]
+[[Category:The Voice (franchise) contestants]]

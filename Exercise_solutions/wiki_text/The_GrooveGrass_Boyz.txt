@@ -1,0 +1,68 @@
+{{Short description|American band}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = The GrooveGrass Boyz
+| image                 = 
+| caption            = 
+| image_size            = 
+| background          = group_or_band
+| origin              = [[Nashville]], [[Tennessee]], United States
+| genre               = [[Bluegrass music|Bluegrass]], [[dance music|dance]], [[country music|country]]
+| years_active        = 1996–1998
+| label               = [[Imprint Records]]<br>[[Reprise Records|Reprise]]/[[Warner Bros. Records]]
+| past_members        = [[Bootsy Collins]]<br />[[Jerry Douglas]]<br />[[Del McCoury]]<br />Scott Rouse<br />[[Mac Wiseman]]
+}}
+'''The GrooveGrass Boyz''' were an American musical group that played a mix of [[bluegrass music|bluegrass]], [[funk]], and [[freestyle music]]. The group was founded as a side project by record producer and session musician Scott Rouse in 1987, after he began experimenting with dance mixes of bluegrass and country songs, eventually applying the term groovegrass to his mix of music. He then moved to [[Nashville, Tennessee]], and joined several other country musicians and funk bass guitarist [[Bootsy Collins]], releasing a country version of [[Los del Río]]'s "[[Macarena]]" and two albums. The country cover of "Macarena" charted on both the [[Hot Country Songs]] charts and the [[Bubbling Under Hot 100]], and was the group's only chart entry.
+
+==History==
+Rouse, a [[session musician]] from [[Boston, Massachusetts]], first came up with the idea of GrooveGrass in the mid-1980s when he began experimenting with dance mixes of bluegrass songs such as [[Alton Delmore]]'s "Deep River Blues". His mixes became popular at local clubs, eventually leading to one disc jockey terming the blend of music "groovegrass".<ref name="allmusic">{{cite web |url={{Allmusic|class=artist|id=p350665/biography|pure_url=yes}} |title=GrooveGrass biography |accessdate=2008-08-21 |last=Ankeny |first=Jason |publisher=[[Allmusic]]}}</ref>
+
+Rouse then moved to [[Nashville, Tennessee]], at the request of his friend, musician [[Doc Watson]]. Rouse's first country remix was for [[Warner Bros. Records|Warner Bros.]] It was a remix of [[John Anderson (musician)|John Anderson]]'s 1983 Number One single "[[Swingin' (John Anderson song)|Swingin']]." At Anderson's request, Warner never released the cut, although it became a popular [[bootleg recording]].<ref name="allmusic"/> It was followed by an [[Extended play|EP]] remix of "[[Rocky Top]]", which was released and went on to sell more than 100,000 copies in the United States.<ref name="allmusic"/> Rouse also produced comedian [[Jeff Foxworthy]]'s trademark "You might be a redneck if…" single he named called the "Redneck Stomp",<ref name="bb"/> one of several similar musical tracks included on Foxworthy's ''[[Crank It Up: The Music Album]]''.
+
+Soon afterward, Rouse recruited several other musicians, including members of [[Del McCoury]]'s band, funk bass guitarist [[Bootsy Collins]], and bluegrass multi-instrumentalist [[Jerry Douglas]], to perform as the GrooveGrass Boyz.<ref name="news">{{cite web |url=http://www.musiciansnews.com/mastering/18/nashville_producer_scott_rouse_mixing_groovegrass_with_the_u.shtml |title=Nashville producer Scott Rouse Mixing GrooveGrass with the UAD-1 |accessdate=2008-08-21 |work=Musicians' News}}</ref> They saw their most successful release in late 1996, when they put out a country version of the "[[Macarena (song)|Macarena]]", a song made popular earlier that year by Spanish duo [[Los del Río]].<ref name="allmusic"/> The GrooveGrass Boyz' version, released on [[Imprint Records]],<ref name="bb">{{cite magazine |url=http://www.allbusiness.com/retail-trade/miscellaneous-retail-retail-stores-not/4626736-1.html |title=Groovegrass' Scott Rouse Weds Unlikely Pair Of Bluegrass, R&B |accessdate=2008-08-21 |last=Bessman |first=Jim |date=1999-01-09 |magazine=[[Billboard (magazine)|Billboard]]}}</ref> peaked at No.&nbsp;70 on the [[Hot Country Songs]] charts and No.&nbsp;7 on the [[Bubbling Under Hot 100]]. The single sold over 100,000 copies.<ref>{{cite web |url=http://www.steamiron.com/twangin/int-groovegrass.html |title=The Mothership Lands at MerleFest: Interview with Groovegrass Mastermind Scott Rouse|accessdate=2009-05-31 |last=Wall |first=Jeff |year=1998|work=Twangin'!}}</ref>  It was followed in 1997 by a self-released album, and in 1998 by another album on [[Reprise Records]]. These included [[Doc Watson]], [[Mac Wiseman]], [[Bernie Leadon]], and other notable artists. Neither album produced any chart single.
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:26em;"| Title
+! style="width:18em;"| Album details
+|- 
+! scope="row"| ''The GrooveGrass Boyz''
+| 
+* Release date: 1997
+* Label: self-released
+|- 
+! scope="row"| ''GrooveGrass® 101 featuring the GrooveGrass Boyz™''
+| 
+* Release date: November 24, 1998
+* Label: [[Reprise Records|Reprise]]/[[Warner Bros. Records]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:16em;"| Single
+! colspan="2"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[Bubbling Under Hot 100|US Bubbling]]
+|-
+| 1996
+! scope="row"| "Macarena (Country Version)"
+| 70
+| 7
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:GrooveGrass Boyz}}
+[[Category:American country music groups]]
+[[Category:American bluegrass music groups]]
+[[Category:Reprise Records artists]]
+[[Category:Musical groups established in 1987]]
+[[Category:Imprint Records artists]]

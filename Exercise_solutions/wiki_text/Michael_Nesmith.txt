@@ -1,0 +1,342 @@
+{{short description|American musician, songwriter, and actor (1942–2021)}}
+{{Use mdy dates|date=December 2013}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject Musicians -->
+| name              = Michael Nesmith
+| image             = The Monkees 1966 - Nesmith.JPG
+| caption           = Nesmith at a 1966 [[The Monkees|Monkees]] photoshoot
+| image_size        = 
+| landscape         = 
+| background        = solo_singer
+| birth_name        = Robert Michael Nesmith
+| alias             = {{flatlist|
+*Michael Blessing
+*Nez
+*Wool Hat
+*Papa Nez
+}}
+| birth_date        = {{Birth date|mf=yes|1942|12|30}}
+| birth_place       = [[Houston]], Texas, U.S.
+| death_date        = {{Death date and age|mf=yes|2021|12|10|1942|12|30}}
+| death_place       = [[Carmel Valley, California]], U.S.
+| instrument        = {{flatlist|
+*Guitar
+*vocals<!--- If you think an instrument should be listed, a discussion to reach consensus is needed first per: https://en.wikipedia.org/wiki/Template:Infobox_musical_artist#instrument--->
+}}
+| genre             = {{flatlist|
+*[[Rock music|Rock]]
+*[[pop music|pop]]
+*[[Folk music|folk]]
+*[[psychedelic music|psychedelia]]
+*[[progressive country]]<ref>{{cite news |url=https://www.expressnews.com/entertainment/article/Texas-native-Monkees-great-Michael-Nesmith-dies-16692441.php |title=Texas native, Monkees great Michael Nesmith dies|last=Dansby|first=Andrew|date=December 10, 2021 |work=San Antonio Express-News|access-date=2023-07-23 |quote=Nesmith was a musician of multiple dimensions: a thoughtful songwriter too funny to be embraced by hippies and a progressive country music artist too full of angular edges to be embraced by Nashville. His genius was in his totality, which defied easy description.}}</ref>
+*[[country rock]]
+}}
+| occupation        = {{flatlist|
+*Musician
+*composer
+*author
+*songwriter
+*actor
+*writer
+*director
+*producer
+*owner of [[Pacific Arts Corporation]]
+}}
+| years_active      = 1965–2021
+| label             = 
+| past_member_of    = {{flatlist|
+*[[The Monkees]]
+*[[First National Band]]
+}}
+| spouse            = {{plainlist|
+* {{Marriage|Phyllis Ann Barbour|1964|1972|end=divorced}}
+* {{Marriage|Kathryn Bild|1976|1988|end=divorced}}
+* {{Marriage|Victoria Kennedy|2000|2011|end=divorced}}
+}}
+| website           = 
+}}
+
+'''Robert Michael Nesmith''' (December 30, 1942 – December 10, 2021) was an American musician, songwriter, and actor. He was best known as a member of [[the Monkees]] and co-star of their [[The Monkees (TV series)|TV series of the same name]] (1966–1968). His songwriting credits with the Monkees include "[[Mary, Mary (song)|Mary, Mary]]", "[[The Girl I Knew Somewhere]]", "[[Tapioca Tundra]]", "[[Circle Sky]]" and "[[Listen to the Band (song)|Listen to the Band]]". Additionally, his song "[[Different Drum]]" became a hit for [[Linda Ronstadt]] and the [[Stone Poneys]].
+
+After leaving the Monkees in 1970, Nesmith continued his successful songwriting and performing career, first with the seminal [[country rock]] group the [[First National Band]], with whom he had a top-40 hit, "[[Joanne (Michael Nesmith song)|Joanne]]" (1970). As a solo artist, he scored an international hit with the song "[[Rio (Michael Nesmith song)|Rio]]" (1977). He often played a custom-built [[Gretsch]] [[12-string guitar|12-string]] electric guitar with the Monkees and afterwards.
+
+In 1974, Nesmith founded [[Pacific Arts Corporation|Pacific Arts]], a multimedia production and distribution company, through which he helped pioneer the [[music video]] format, winning the first [[Grammy Award]] for [[Grammy Award for Video of the Year|Video of the Year]] for his hour-long  comedy/variety program, ''[[Elephant Parts]]'' (1981).<ref>{{cite web|url=http://www.grammy.com/nominees/search?artist=&field_nominee_work_value=&year=1981&genre=18|title=Past Winners Search|work=The GRAMMYs|date=April 30, 2017}}</ref> He created one of the first American television programs dedicated to music videos, ''[[PopClips]]'', which aired on [[Nickelodeon]] in 1980, and was soon after approached to help develop the [[MTV]] network, though he declined. Nesmith was also an executive producer of the film ''[[Repo Man (film)|Repo Man]]'' (1984).
+
+==Early life==
+Nesmith was born in [[Houston, Texas]], on December 30, 1942.<ref>Carlin, Richard (2005). ''[https://books.google.com/books?id=LluEHF1oT-wC&pg=PA145 Folk]''. Infobase Publishing. p. 145. {{ISBN|0816069786}}</ref> He was an only child; his parents, Warren and [[Bette Nesmith Graham|Bette Nesmith]] (née McMurray), divorced when he was four. His mother married Robert Graham in 1962, and they remained married until 1975. Nesmith and his mother moved to [[Dallas]] to be closer to her family. She took temporary jobs ranging from clerical work to graphic design, eventually attaining the position of executive secretary at Texas Bank and Trust. When Nesmith was 13, his mother invented the typewriter correction fluid later known commercially as [[Liquid Paper]]. Over the next 25 years, she built the Liquid Paper Corporation into an international company, which she sold to [[Gillette (brand)|Gillette]] in 1979 for $47.5 million. She died a few months later at the age of 56.<ref>{{cite web|url=http://www.women-inventors.com/Bette-Nesmith-Graham.asp |title=Bette Nesmith Graham: Liquid Paper Inventor |website=Women-inventors.com |access-date=April 3, 2012}}</ref>
+
+Nesmith attended [[Thomas Jefferson High School (Dallas)|Thomas Jefferson High School]] in Dallas, where he participated in choral and drama activities,<ref name="rhino">[http://monkees.rhino.com/read/mike.lasso ''The Monkees: Mike Nesmith''] {{webarchive|url=https://archive.today/20061018045555/http://monkees.rhino.com/read/mike.lasso |date=October 18, 2006 }} biography from Rhino Records</ref> but enlisted in the [[U.S. Air Force]] in 1960 before graduating. He completed basic training at [[Lackland Air Force Base]] in [[San Antonio]], was trained as an aircraft mechanic at [[Sheppard Air Force Base]] in [[Wichita Falls]], Texas, and was permanently stationed at [[Clinton-Sherman Air Force Base]] near [[Burns Flat, Oklahoma]].<ref>{{Cite news |last=Triplett |first=Gene |date=March 3, 1985 |title=Nesmith: No Monkeeing Around |work=[[The Oklahoman]] |url=https://www.oklahoman.com/story/news/1985/03/03/nesmith-no-monkeeing-around/62772172007/ |access-date=9 August 2022}}</ref><ref name=":7" />  He obtained a [[General Educational Development|GED]] certificate and was honorably discharged in 1962.<ref name=":0">{{Cite web|last=Gaita|first=Paul|title=Michael Nesmith - Biography|url=http://www.tcm.com/tcmdb/person/140110%7C111748/Michael-Nesmith/#biography|access-date=2021-12-16|website=Tcm.com|language=en}}</ref>
+
+==Music career==
+After Nesmith's tour of duty in the Air Force, his mother and stepfather gave him a guitar for Christmas. Learning as he went, he played solo and in a series of working bands, performing [[folk music|folk]], [[country music|country]], and occasionally [[rock and roll]]. He enrolled in [[San Antonio College]], where he met [[John London]] and began a musical collaboration. They won the first San Antonio College talent award, performing a mixture of standard folk songs and a few of Nesmith's original songs. Nesmith began to write more songs and poetry, then he moved to Los Angeles and began singing in folk clubs around the city. He served as the "Hootmaster" for the Monday night [[hootenanny]] at [[The Troubadour (Los Angeles)|The Troubadour]], a [[West Hollywood]] nightclub that featured new artists.<ref>{{cite book |last1=Massingill |first1=Randi L. |url=https://books.google.com/books?id=fTrGAAAAQBAJ |title=Total Control The Monkees Michael Nesmith Story |publisher=FLEXquarters |year=2005 |isbn=9780965821841 |access-date=2021-12-11 }}</ref>
+
+[[Randy Sparks]] from [[The New Christy Minstrels|the New Christy Minstrels]] offered Nesmith a publishing deal for his songs.<ref name=":0"/> Nesmith began his recording career in 1963 by releasing a single on the Highness label. He followed this in 1965 with a one-off single released on Edan Records followed by two more recorded singles; one was titled "The New Recruit" under the name "Michael Blessing", released on [[Colpix Records]], coincidentally also the label of [[Davy Jones (actor)|Davy Jones]], though they did not meet until the Monkees formed.<ref>{{Cite magazine |last=Greene |first=Andy |date=2012-03-08 |title=Exclusive: Michael Nesmith Remembers Davy Jones |url=https://www.rollingstone.com/music/music-news/exclusive-michael-nesmith-remembers-davy-jones-102258/ |access-date=2024-03-22 |magazine=Rolling Stone |language=en-US}}</ref>
+
+[[Frazier Mohawk|Barry Freedman]] told him about upcoming auditions for a new TV series called ''[[The Monkees (TV series)|The Monkees]]''. In October 1965, Nesmith's confident, carefree and laid-back manner impressed the producers and he landed the role as the wool-hat-wearing guitar player "Mike" in the show, which required real-life musical talent for writing, instrument playing, singing, and performing in live concerts as part of the Monkees band.<ref name="Sandoval, Andrew 2001">Sandoval, Andrew. ''Music Box Liner Notes: The True Story of "The Monkees"'', Rhino Records, 2001.</ref>
+
+Nesmith's "[[Mary, Mary (song)|Mary, Mary]]" was recorded by the [[Paul Butterfield Blues Band]], the Monkees themselves on their second LP in 1967, and then reworked by rap group [[Run DMC]] in the mid 1980s. His "[[Different Drum]]" and "Some of Shelly's Blues" were later recorded by [[Linda Ronstadt]] and the [[Stone Poneys]] in 1967 and 1968, respectively. "Pretty Little Princess", written in 1965, was recorded by [[Frankie Laine]] and released as a single in 1968 on [[ABC Records]].{{citation needed|date=December 2021}}  Later, "Some of Shelly's Blues" and "Propinquity (I've Just Begun to Care)" were made popular by the [[Nitty Gritty Dirt Band]] on their 1970 album ''[[Uncle Charlie & His Dog Teddy]]''.<ref name=":0"/>
+
+===The Monkees===
+
+[[File:The Monkees 1966.JPG|left|upright|thumb|The Monkees in 1966 (Nesmith at bottom right)]]
+
+From 1965 to early 1970, Nesmith -- along with [[Micky Dolenz]], [[Peter Tork]], and [[Davy Jones (musician)|Davy Jones]] -- was a member of the television pop-rock band [[the Monkees]], created for the television [[The Monkees (TV series)|situation comedy of the same name]]. Nesmith won his role largely by appearing nonchalant when he auditioned.<ref name=":0"/> He rode his motorcycle to the audition, and wore a [[knit cap|wool hat]] to keep his hair out of his eyes; producers [[Bob Rafelson]] and [[Bert Schneider]] remembered the "wool hat guy" and called Nesmith back.{{citation needed|date=December 2021}}
+
+Once he was cast, [[Screen Gems]] bought his songs so they could be used in the show. Many of the songs Nesmith wrote for the Monkees, such as "[[The Girl I Knew Somewhere]]", "[[Mary, Mary (song)|Mary, Mary]]",<ref name=":0"/> and "[[Listen to the Band (song)|Listen to the Band]]" became minor hits. One song he wrote, "You Just May Be the One", is in mixed meter, interspersing 5/4 bars into an otherwise 4/4 structure.{{citation needed|date=December 2021}}
+[[File:The Monkees May 1967.jpg|thumb|Nesmith (center) with [[The Monkees (TV series)|the Monkees]] in 1967]]
+
+Even before Colgems and [[Don Kirshner]]'s surreptitious release of the Monkees 2nd LP, without the knowledge or consent of the four musician-actors, they came to be frustrated by their studio-manufactured "bubblegum" image. Within weeks of the release of ''[[More of the Monkees]]'', Nesmith lobbied successfully with the group's creators, Bob Rafelson and Bert Schneider, that the Monkees be allowed to play their instruments on future records. 
+During a group meeting with Kirshner and Colgems lawyer Herb Moelis, in a suite at the [[Beverly Hills Hotel]], each actor received a $250k royalties check, yet Nesmith still threatened to quit. Moelis rebuked him, "You'd better read your contract". Nesmith defiantly punched a hole in the wall, declaring to Moelis, "That could have been your face, motherfucker!" Weeks later, due to a breach of (verbal) agreement over the next single release, which was promised to Nesmith by Rafelson & Schneider, Nesmith led the charge in completely ousting musical supervisor Don Kirshner, effectively giving the four youths complete artistic and production control of their output, and the group finally worked as a true 4-man rock group on 1967's ''[[Headquarters (the Monkees album)|Headquarters]]'', despite Jones & Dolenz having very limited instrumental skills, studio time being pricey and retakes costly.<ref name="Sandoval, Andrew 2001"/>
+
+During the band's first independent press conference, Nesmith called their 2nd LP, ''[[More of the Monkees]]'' "probably the worst record in the history of the world", partly due to rushed, shoddy studio engineering. The band took a hit to its artistic credibility when fans learned the four had not played all the instruments on the first 2 LPs. But still sales continued to be profitable. ''Headquarters'' sold 2 million copies, down 2 million units from its predecessor, but still reached the number 1 spot on Billboard, falling only to ''[[Sgt. Pepper's Lonely Hearts Club Band]]'' a week later and remaining #2 all through the entire 1967 [[Summer of Love]].<ref name="Sandoval, Andrew 2001"/>
+
+For the remaining five Monkees LPs, ironically, the original Kirshner formula of hired studio musicians & songwriters again became the norm, although Nesmith, Tork, Dolenz and Jones contributed about 50% of the original compositions, Nesmith the majority of those.<ref name="Sandoval, Andrew 2001"/>
+By the end of the Monkees run, Nesmith was withholding many of his original song ideas from Monkees albums, planning to release them in his post-Monkees solo career. 
+Nesmith's last contractual Monkees commitment was a commercial for [[Kool-Aid]] and [[Nerf]] balls in April 1970 (fittingly, the spot ends with Nesmith frowning and saying, "Enerf's enerf!"). As the band's sales declined, Nesmith asked to be released from his contract, despite it costing him: "I had three years left ... at $150,000 [equivalent to $1.16 million in 2022] a year."{{citation needed|date=June 2019}} He remained in a financial bind until 1980, when he received his inheritance from his mother's estate. In a 1980 interview with ''[[Playboy]]'', he said of that time: "I had to start telling little tales to the tax man while they were putting tags on the furniture."{{citation needed|date=June 2019}}
+
+====Return to the Monkees====
+Nesmith did not participate in the Monkees' 20th anniversary reunion,<ref name=":0"/> due to contractual obligations with his production company, but he did appear during an encore with the three other Monkees at the [[Greek Theatre (Los Angeles)|Greek Theatre]] on September 7, 1986. In a 1987 interview for [[Nick Rocks]], Nesmith stated, "When Peter called up and said 'we're going to go out, do you want to go?' I was booked. But, if you get to L.A., I'll play."<ref>Nick Rocks, January 1987 Profile of Michael Nesmith</ref>
+
+Nesmith next joined his fellow Monkees for the 1986 "Monkees Christmas Medley" video for [[MTV]] appearing throughout dressed/disguised as [[Santa Claus]] until the finale, when he revealed his identity - and participation - to all.<ref>{{Cite web|via=[[YouTube]]|title=The Monkees - MTV Christmas Medley '86 (Better Source, Remastered) |url=https://www.youtube.com/watch?v=TY1zZjYnp00 |access-date=2023-07-22 |language=en}}</ref>
+
+{{Quote box
+ |quote  = "The question I am most often asked is 'how does it feel to be up with the guys after all this time?' Well, it's a mixture of feelings and all of them are good.  But the one that comes to mind is the feeling of profound gratitude."
+ |source = Michael Nesmith, speaking about being part of [[The Monkees]] at the [[Hollywood Walk of Fame]] Star award in 1989.
+ |width  = 35%
+ |align  = left
+}}
+In 1989, Nesmith reunited with the other members of the Monkees, [[Micky Dolenz]], [[Peter Tork]], and [[Davy Jones (musician)|Davy Jones]]. Prior to the official kickoff of The Monkees '89 tour (on July 1 in [[Winnipeg, Manitoba]], Canada) all four Monkees gathered in Los Angeles, California, making two live radio appearances ([[KLOS]]-FM: ''[[The Mark & Brian Show|The Mark and Brian Show]]'' on June 28 and [[KIIS-FM|KIIS]] Radio on June 30) to promote their reunion concert at the [[Universal Amphitheatre]] where they appeared together as a foursome live on stage on July 9. The following day (July 10th) all four band members were in attendance as the Monkees received a [[Hollywood Walk of Fame]] star.<ref>{{Cite web|url=https://www.monkeeslivealmanac.com/universal-amphitheatre-1989-all-four-monkees-reunited.html|title=Monkees at the Universal Amphitheatre 1989|website=The Monkees Live Almanac}}</ref>
+
+In 1995, Nesmith was again reunited with the Monkees to record their studio album (and first to feature all four since ''[[Head (The Monkees album)|Head]]'' in 1968), titled ''[[Justus (album)|Justus]]'', released in 1996. He also wrote and directed a Monkees reunion television special, ''[[Hey, Hey, It's the Monkees]]''. To support the reunion, Nesmith, Jones, Dolenz, and Tork briefly toured the UK in 1997.<ref name=":0"/>  The UK tour was the last appearance of all four Monkees performing together.
+<!-- Deleted image removed: [[File:Nesmith and Dolenz.png|thumb|left|Nesmith in concert with [[Micky Dolenz]] on  "The Monkees Present: The Mike and Micky Show", 2019]] -->
+In 2012, 2013, and 2014, after Jones's [[Davy Jones (musician)#Death|death]], Nesmith reunited with Dolenz and Tork to perform concerts throughout the United States.  Backed with a seven-piece band that included Nesmith's son, Christian,<ref>"A fresh and electric look back from 3 Monkees", Chicago Tribune, November 17, 2012</ref> the trio performed 27 songs from [[The Monkees discography]] ("[[Daydream Believer]]" was sung by the audience).<ref>{{cite web|url=http://www.vintagevinylnews.com/2012/11/set-list-monkees-open-reunion-tour.html |title=VVN Music: Set List: Monkees Open Reunion Tour @ Escondido, CA |website=Vintagevinylnews.com |date=2012-11-10 |access-date=2014-04-11}}</ref> When asked why he had decided to return to the Monkees, Nesmith stated, "I never really left. It is a part of my youth that is always active in my thoughts and part of my overall work as an artist. It stays in a special place."<ref>Green, Andy, "Q&A: Michael Nesmith on His Surprising Return to the Monkees", Rolling Stones Magazine, August 8, 2012</ref>
+
+In 2016, Nesmith contributed vocally and instrumentally to the Monkees' 50th anniversary album ''[[Good Times (The Monkees album)|Good Times!]]''. He additionally contributed a song, "I Know What I Know", and was reportedly "thrilled" at the outcome of the album.<ref>{{cite web|url=https://abcnews.go.com/Entertainment/michael-nesmith-thrilled-monkees-album/story?id=39426908|title=The Monkees' Michael Nesmith 'Thrilled' With New Album|date=May 27, 2016|work=ABC News}}</ref> Despite not touring with Dolenz and Tork for the majority of the Monkees' 50th-anniversary reunion in 2016, Nesmith did twice fill in for the ailing Peter Tork and appeared for the final show of the tour, which featured the three surviving band members (the last show to do so). At the end of the final show, Nesmith announced his retirement from the Monkees, never to tour again.{{citation needed|date=December 2021}}
+
+In 2018, Nesmith and Dolenz toured together as a duo for the first time under the banner "The Monkees Present: The Mike and Micky Show". The tour was cut short four dates out due to Nesmith having health issues (he was flown back home and proceeded to have [[quadruple bypass surgery]]). He contributed two songs to the Monkees' 13th studio album, ''[[Christmas Party (The Monkees album)|Christmas Party]]'' (the group's first Christmas album), released on October 12, 2018.{{citation needed|date=December 2021}}
+
+In 2019, Nesmith and Dolenz reunited again to make up the cancelled dates of the tour and adding several more dates, including a planned tour of Australia and New Zealand. Nesmith and Dolenz announced a follow-up tour, "An Evening with the Monkees", to begin in early 2020.<ref>{{Cite web|title=UPDATED: THE MONKEES - NEW TOUR DATES AND LIVE ALBUM COMING IN 2020|url=https://www.monkees.com/article/updated-the-monkees-new-tour-dates-and-live-album-coming-in-2020|access-date=2021-12-11|website=Monkees.com|language=en}}</ref> The tour was delayed, however, due the [[COVID-19 pandemic]]. It was announced by Nesmith and Dolenz on May 4, 2021, that the Monkees would disband following a farewell tour. Dubbed "The Monkees Farewell Tour", the tour consisted of over 40 dates in the United States from September to November. However, because of restrictions due to the ongoing [[COVID-19 pandemic]], they were not able to play shows in Canada, the UK or Australia. The final date of the tour was held on November 14, 2021, at the [[Greek Theatre (Los Angeles)|Greek Theatre]] in Los Angeles.<ref>{{Cite web|url=https://consequence.net/2021/05/the-monkees-2021-farewell-tour/|title=The Monkees announce 2021 farewell tour|website=Consequence.net|date=May 3, 2021}}</ref><ref>{{Cite web|url=https://www.facebook.com/photo?fbid=326339412186535&set=a.293270005493476|title=Facebook|website=Facebook.com|access-date=August 8, 2021}}</ref>
+
+==Solo career==
+[[File:NesmithLive2018.jpg|right|thumb|Michael Nesmith plays his signature model Gretsch Model 6076]]
+As he prepared for his exit from The Monkees, Nesmith was approached by John Ware of The Corvettes, a band that featured Nesmith's Texas band mate and close friend John London. London played on some of the earliest pre-Monkees, Nesmith 45s, as well as numerous Monkees sessions, and had 45s produced by Nesmith for the [[Dot Records|Dot label]] in 1969. Ware wanted Nesmith to put together a band. Nesmith's interest hinged on noted [[pedal steel guitar|pedal steel]] player [[Red Rhodes|Orville "Red" Rhodes]]; their musical partnership continued until Rhodes's death in 1995. The new band was christened Michael Nesmith and the First National Band and recorded three albums for [[RCA Records]], the first two issued in 1970 and the third released in 1971.{{citation needed|date=December 2021}}
+
+Nesmith's First National Band is now considered a pioneer of country-rock music.<ref>{{cite web|url=http://uk.real.com/music/artist/Michael_Nesmith/ |title=Michael Nesmith - Country Rock - Rock/Pop - Music|website=Uk.real.com |access-date=May 14, 2010}}</ref> Nesmith wrote most of the songs for the band and he is considered one of the trailblazers of [[country rock]].<ref>[[Liner notes]] from the CD ''Hillbilly Fever, Volume 5'' released by [[Rhino Entertainment]] in 1995.</ref> He also had moderate commercial success with the First National Band. Their second single, "[[Joanne (Michael Nesmith song)|Joanne]]", hit number 21 on the ''Billboard'' chart, number 17 on Cashbox, and number four in Canada, with the follow-up "Silver Moon" making number 42 ''Billboard'', number 28 Cashbox, and number 13 in Canada. Two more singles charted ("Nevada Fighter" made number 70 ''Billboard'', number 73 Cashbox, and number 67 Canada, and "Propinquity" reached number 95 Cashbox), and the first two LPs charted in the lower regions of the'' Billboard'' album chart. No clear answer has ever been given for the band's breakup.{{citation needed|date=December 2021}}
+
+Nesmith followed up with The Second National Band, which consisted of Nesmith (vocals and guitar), Michael Cohen (keyboards and [[Moog synthesizer|Moog]]), Johnny Meeks (of [[The Strangers (American band)|The Strangers]]) (bass), jazzer Jack Ranelli (drums), and Orville Rhodes (pedal steel), as well as an appearance by singer, musician, and songwriter [[José Feliciano]] on congas. The album, ''[[Tantamount to Treason Vol. 1]]'', was a commercial and critical disaster. Nesmith then recorded ''[[And the Hits Just Keep on Comin']]'', featuring only him on guitar and Red Rhodes on pedal steel.{{citation needed|date=December 2021}}
+
+Nesmith then became more heavily involved in producing, working on [[Iain Matthews]]'s album ''[[Valley Hi]]'' and [[Bert Jansch]]'s ''[[L.A. Turnaround]]''. Nesmith was given a label of his own, Countryside, through Elektra Records, as [[Elektra Records]]'s Jac Holzman was a fan of Nesmith's. It featured a number of artists produced by Nesmith, including Garland Frady and Red Rhodes. The staff band at Countryside also helped Nesmith on his next, and last, RCA Victor album, ''[[Pretty Much Your Standard Ranch Stash]]''.  Countryside folded when [[David Geffen]] replaced Holzman, as Countryside was unnecessary in Geffen's eyes.{{citation needed|date=December 2021}}
+
+In the mid-1970s, Nesmith briefly collaborated as a songwriter with [[Linda Hargrove (songwriter)|Linda Hargrove]], resulting in the tune "[[I've Never Loved Anyone More]]", a hit for [[Lynn Anderson]] and recorded by many others, as well as the songs "Winonah" and "If You Will Walk With Me", both of which were recorded by Hargrove. Of these songs, only "Winonah" was recorded by Nesmith himself.{{citation needed|date=December 2021}} During this same period, Nesmith started his multimedia company Pacific Arts, which initially put out audio records, [[8-track tape|eight-track]] tapes, and cassettes, followed in 1981 with "video records".  Nesmith recorded a number of LPs for his label, and had a moderate worldwide hit in 1977 with his song "[[Rio (Michael Nesmith song)|Rio]]", the single taken from the album ''[[From a Radio Engine to the Photon Wing]]''.<ref name=":0"/> In 1979, Nesmith released the single [[Cruisin' (Michael Nesmith song)|Cruisin']], also known as "Lucy and Ramona and Sunset Sam", which was popular on AOR rock stations and in New Zealand.<ref>{{cite web|author=Steffen Hung |url=https://charts.nz/showitem.asp?interpret=Michael+Nesmith&titel=Cruisin'+(Lucy+And+Ramona+And+Sunset+Sam)&cat=s |title=Michael Nesmith - Cruisin' (Lucy And Ramona And Sunset Sam) |website=Charts.nz |date= |access-date=2016-10-14}}</ref> In 1983, Nesmith produced the music video for the [[Lionel Richie]] single "[[All Night Long (All Night)|All Night Long]]". In 1987, he produced the music video for the [[Michael Jackson]] single "[[The Way You Make Me Feel]]".{{citation needed|date=December 2021}}
+
+===''PopClips'' and MTV, ''Elephant Parts'', and ''Television Parts''===
+{{further|PopClips}}
+During this time, Nesmith created a video clip for "[[Rio (Michael Nesmith song)|Rio]]", which helped spur Nesmith's creation of a television program called ''[[PopClips]]'' for the [[Nickelodeon]] cable network. In 1980, ''PopClips'' was sold to the [[WarnerMedia|Time Warner]]/[[American Express|Amex]] consortium. Time Warner/Amex developed ''PopClips'' into the MTV network.<ref name=":0"/>
+
+Nesmith won the first [[Grammy Award for Video of the Year|Grammy Award]] presented for (long-form) [[Grammy Award for Video of the Year|Music Video]] in 1982 for his hour-long ''[[Elephant Parts]]''.  He also had a short-lived series (1984-5) on NBC inspired by the video called ''[[Television Parts|Michael Nesmith in Television Parts]]''. ''Television Parts'' included many other artists who were unknown at the time, but went on to become major stars in their own right: [[Jay Leno]], [[Jerry Seinfeld]], [[Garry Shandling]], [[Whoopi Goldberg]],<ref name=":0"/> and [[Arsenio Hall]]. The concept of the show was to have comics render their stand-up routines into short comedy films much like the ones in ''Elephant Parts''. Nesmith assembled writers [[Jack Handey]], [[William E. Martin|William Martin]], John Levenstein, and Michael Kaplan, along with directors [[William Dear]] (who had directed ''Elephant Parts'') and Alan Myerson, as well as producer Ward Sylvester to create the show. The half-hour show ran for 5 episodes in the summer of 1985 on [[NBC]] Thursday nights in prime time.{{citation needed|date=December 2021}}
+
+===Pacific Arts and legal dispute===
+{{further|Pacific Arts Corporation#PAC/PBS lawsuit}}
+
+Nesmith formed the [[Pacific Arts Corporation]], Inc. in 1974 to manage and develop media projects. Pacific Arts Video became a pioneer in the [[home video]] market, producing and distributing a wide variety of videotaped programs, although the company eventually ceased operations after an acrimonious contract dispute with [[PBS]] over home video licensing rights and payments for several series,<ref name=":0"/> including [[Ken Burns]]' ''[[The Civil War (documentary)|The Civil War]]''. The dispute escalated into a lawsuit that went to jury trial in federal court in Los Angeles. On February 3, 1999, a jury awarded Nesmith and his company Pacific Arts $48.875&nbsp;million in [[compensatory damages|compensatory]] and [[punitive damages]], prompting his widely quoted comment, "It's like finding your grandmother stealing your stereo. You're happy to get your stereo back, but it's sad to find out your grandmother is a thief." Six months after the verdict, a settlement was reached with the amount paid to Pacific Arts and Nesmith kept confidential.<ref>{{cite news |last1=Wold |first1=Robert N. |title=PBS and Nesmith settle home-video dispute but are mum on price |url=https://current.org/1999/07/pbs-and-nesmith-settle-home-video-dispute-but-are-mum-on-price/?iMonezaUT=b4c50a09-f660-4652-886e-b67f3ecef34c%7c638281963338673821%7c638598187338673821%7coKJD5DuAICLsyi9ymhhPY8FNBh9w3ZdJYN5rxNqsqGo&iMonezaLT=Sp9L3OsJpk5fClAMa5VEPEvxWFcL4t5X# |access-date=21 August 2023 |work=[[Current (newspaper)|Current]] |date=July 19, 1999}}</ref>
+
+Nesmith's most recent Pacific Arts project was Videoranch 3D, a virtual environment on the internet that hosted live performances at various virtual venues inside the ranch. He performed live inside Videoranch 3D on May 25, 2009.<ref>{{Cite web |date=2022-09-29 |title=MIKE NESMITH walked to the beat of a different drum. – All Across the Arts |url=https://aata.dev/index.php/2022/09/29/mike-nesmith-walked-to-the-beat-of-a-different-drum/ |access-date=2024-04-22 |language=en-GB}}</ref>
+
+===Movies and books===
+Nesmith was the executive producer for the films ''[[Repo Man (film)|Repo Man]]'', ''[[Tapeheads]]'', and ''[[Timerider: The Adventure of Lyle Swann]]'', as well as his own solo recording and film projects.<ref name="auto">{{Cite web|title=Michael Nesmith|url=http://www.imdb.com/name/nm0626452/|access-date=2022-01-24|website=IMDb}}</ref>
+
+In 1998, Nesmith published his first novel, ''The Long Sandy Hair of Neftoon Zamora''. It was developed originally as an online project and was later published as a hardcover book<ref name=":0"/> by St Martin's Press.<ref>{{Cite web|title=Michael Nesmith - Bibliography|url=http://www.tcm.com/tcmdb/person/140110%7C111748/Michael-Nesmith/#bibliography|access-date=2021-12-16|website=Tcm.com|language=en}}</ref> Nesmith's second novel, ''The America Gene'', was released in July 2009 as an online download from Videoranch.com.<ref name=":1">{{Cite book|last=Nesmith|first=Michael|url=https://www.worldcat.org/oclc/893698813|title=The America gene|date=2009|publisher=Pacific Arts Corporation|isbn=978-1-56111-000-1|location=Sand City, Calif.|oclc=893698813}}</ref>
+
+===Recent history===
+In the early 1980s, Nesmith teamed with satirist [[P. J. O'Rourke]] to ride his vehicle ''Timerider'' in the annual [[Baja 1000]] off-road race. This is chronicled in O'Rourke's 2009 book ''[[Driving Like Crazy]]''.<ref>{{Cite news|last=Genzlinger|first=Neil|date=2009-05-29|title=Road Warrior|language=en-US|work=The New York Times|url=https://www.nytimes.com/2009/05/31/books/review/Genzlinger-t.html|access-date=2022-01-24|issn=0362-4331}}</ref>
+
+During the 1990s, Nesmith, as trustee and president of the Gihon Foundation,<ref name=":0"/> hosted the Council on Ideas, a gathering of intellectuals from different fields who were asked to identify the most important issues of their day and publish the result. The foundation ceased the program in 2000 and started a new program for the performing arts. Nesmith also spent a decade as a board of trustees member, nominating member and vice-chair of the [[American Film Institute]].{{citation needed|date=December 2021}}
+
+In 1992, Nesmith undertook a concert tour of North America to promote the first CD release of his RCA solo albums (although he included the song "Rio" from the album ''From a Radio Engine to the Photon Wing''). The concert tour ended at the [[Britt Festival]] in Oregon. A video and CD, both entitled ''[[Live at the Britt Festival]]'', were released capturing the 1992 concert.<ref>{{cite web|url=https://www.allmusic.com/album/live-at-the-britt-festival-mw0000467634|title=AllMusic- Michael Nesmith: Live at the Britt Festival |work=AllMusic |access-date=3 December 2019}}</ref>
+
+Nesmith continued to record and release his own music. His final album, ''[[Rays (Michael Nesmith album)|Rays]]'', was released in 2006. In 2011, he returned to producing, working with blues singer and guitarist [[Carolyn Wonderland]]. Nesmith produced Wonderland's version of [[Robert Johnson]]'s "I Believe I'll Dust My Broom" on her album ''Peace Meal''. Wonderland married writer-comedian [[A. Whitney Brown]] on March 4, 2011, in a ceremony officiated by Nesmith.<ref>{{Cite news |last=Hoinski |first=Michael |date=2011-03-11 |title=Carolyn Wonderland and Whitney Brown |language=en-US |work=The New York Times |url=https://www.nytimes.com/2011/03/13/fashion/weddings/13VOWS.html |access-date=2023-12-15 |issn=0362-4331}}</ref>
+
+In 2012, Nesmith briefly toured Europe prior to rejoining the Monkees for their tours of the United States.<ref>Lewis, Randy, "Michael Nesmith to launch first U.S. solo tour in 21 years", Los Angeles Times, February 23, 2013</ref> Intermixing the Monkees concerts, Nesmith also launched solo tours of the U.S. Unlike his 1992 U.S. tour, which predominantly featured music from his RCA recordings, Nesmith stated that his 2013 tour would feature songs he considers "thematic, chronological and most often requested by fans".{{citation needed|date=May 2019}} [[Chris Scruggs]], grandson of [[Earl Scruggs]], replaced the late Red Rhodes on the [[steel guitar]]. The tour was captured on a live album, ''[[Movies Of The Mind]]''.{{citation needed|date=December 2021}}
+
+In 2014, he guest-starred in season four, episode nine, of the IFC comedy series ''[[Portlandia (TV series)|Portlandia]]'' in the fictitious role of the father of the mayor of Portland, Oregon.<ref name="auto"/>
+
+In 2017, Nesmith released a memoir and companion "soundtrack" album titled ''Infinite Tuesday: An Autobiographical Riff''.<ref name=":2">{{cite web|url=https://www.latimes.com/entertainment/music/la-et-ms-michael-nesmith-infinite-tuesday-book-20170316-story.html|title=Monkees' Michael Nesmith spins 'an autobiographical riff' in 'Infinite Tuesday'|website=[[Los Angeles Times]]|date=April 7, 2017|access-date=December 30, 2018}}</ref>
+
+In 2018, he announced that he would be doing a five-date tour of California with a revamped version of The First National Band, including a date at [[The Troubadour (Los Angeles)|The Troubadour]], where he performed before The Monkees.<ref>{{cite web|url=http://www.videoranch3d.com/mm5/merchant.mvc?Screen=CTGY&Category_Code=first-national-band|title=The first chance to see Michael Nesmith & the First National Band in nearly 50 years!|work=VideoRanch}}</ref> On February 20, a tour was announced as "The Monkees Present: The Mike and Micky Show", their first tour as a duo. The pair would play Monkees music and promote the tour under the Monkees banner, but Nesmith stated, "there's no pretense there about Micky and I [sic] being the Monkees. We're not."<ref>{{cite magazine|url=https://www.rollingstone.com/music/news/monkees-micky-dolenz-mike-nesmith-announce-tour-w516902|title=Monkees' Micky Dolenz, Mike Nesmith Announce First Tour as Duo|first=Andy|last=Greene|date=February 20, 2018|magazine=[[Rolling Stone]]|access-date=July 14, 2018}}</ref> The tour was cut short in June 2018, with four shows left unplayed, due to Nesmith having a "minor health issue";  Dolenz and he rescheduled the unplayed concerts plus adding several other including an Australian and New Zealand tour in 2019.<ref>{{cite web|url=https://people.com/music/the-monkees-mike-nesmith-health-issue-band-cancels-tour-dates/|title=The Monkees' Michael Nesmith Suffers 'Minor Health Issue,' Band Cancels Last 4 Tour Dates|website=People|access-date=July 14, 2018}}</ref>
+After recovering from his health scare, Michael Nesmith and the First National Band Redux went on a tour of the U.S., with mostly the same lineup and setlist as the southern California shows.{{citation needed|date=December 2021}}
+
+In 2019, Nesmith toured in a two-piece configuration with pedal steel player Pete Finney, focusing on his 1972 album, ''[[And the Hits Just Keep on Comin']]''. This was the first time Nesmith had performed in this format since 1974 with Red Rhodes. Nesmith was also joined by special guests [[Ben Gibbard]] and [[Scott McCaughey]] on opening night in Seattle.<ref>{{Cite web|url=http://www.monkeeslivealmanac.com/1/post/2018/12/michael-nesmith-on-red-rhodes-pete-finney-and-this-januarys-tour.html|title=Michael Nesmith on Red Rhodes, Pete Finney, and this January's tour|website=The Monkees Live Almanac}}</ref>
+
+==Personal life==
+[[File:Michael Nesmith at the Chiller Theatre Expo 2017.jpg|thumb|Nesmith at the Chiller Theatre Expo 2017]]
+Nesmith was married three times and had four children.
+
+He met his first wife, Phyllis Ann Barbour, in 1964, while at San Antonio College.<ref>National Enquirer, February 26, 2010</ref> Together, they had three children: [[Christian Nesmith|Christian]], born in 1965; Jonathan, born in 1968; and Jessica, born in 1970. Nesmith and Barbour divorced in 1972.
+
+Nesmith also had a son, Jason, born in August 1968 to [[Nurit Wilde]], whom he met while working on ''The Monkees''.<ref>Harvey Kubernik, Scott Calamar, Diltz, Henry, Lou Adler, ''Canyon of Dreams: The Magic and the Music of Laurel Canyon'' ([[Sterling Publishing]], 2009), {{ISBN|978-1-4027-6589-6}}, p. 95. [https://books.google.com/books?id=bANZjtz2qUkC&q=nurit Excerpts available] at [[Google Books]].</ref>
+
+In 1976, he married his second wife, Kathryn Bild.<ref name="Starts at 60">{{cite web |title=The Monkees star reveals ex-wife moved back in with him amid declining health |url=https://startsat60.com/media/entertainment/the-monkees-mike-nesmith-ex-wife-moved-back-in-health-scare |website=Starts at 60 |access-date=December 11, 2021 |date=March 16, 2019}}</ref>
+
+In 2000, he married his third wife, Victoria Kennedy, but the marriage ended in divorce in 2011.<ref>The Mirror (UK), March 5, 2011</ref>
+
+When the Monkees' TV series ended in 1968, Nesmith enrolled part-time at the [[University of California, Los Angeles]], where he studied [[American history]] and [[music history]]. In 1973, Nesmith founded the Countryside Records label with [[Jac Holzman]], the founder of [[Elektra Records]].<ref>{{Cite web |last=Bayles |first=Rick |date=2020-02-06 |title=Forgotten Artists – Mike Nesmith |url=https://americana-uk.com/forgotten-artists-mike-nesmith |access-date=2023-06-30 |website=Americana UK |language=en-GB}}</ref> In 1974, Nesmith started [[Pacific Arts Corporation|Pacific Arts Records]] and released what he called "a book with a soundtrack", titled ''The Prison'', as the company's first release.<ref>{{Cite web |title=Mike Nesmith: The member of The Monkees known as "Wool Hat" |url=https://vocal.media/beat/mike-nesmith-the-member-of-the-monkees-known-as-wool-hat-oy35se0ytl |access-date=2023-06-30 |website=Beat |language=en}}</ref>
+
+===Health and death===
+Nesmith was forced to cancel the last four dates of his 2018 tour with Micky Dolenz due to a "minor health scare". In an interview with ''[[Rolling Stone]]'' published on July 26 of that year, Nesmith said he had undergone quadruple bypass heart surgery, and had been hospitalized for over a month.<ref>{{cite magazine|url=https://www.rollingstone.com/music/music-news/monkees-michael-nesmith-recovering-from-quadruple-bypass-heart-surgery-703665/|title=Monkees' Michael Nesmith Recovering From Quadruple Bypass Heart Surgery|first=Andy|last=Greene|date=July 26, 2018|magazine=[[Rolling Stone]]|access-date=October 12, 2018}}</ref>
+
+Nesmith died from heart failure at his home in [[Carmel Valley, California]] on December 10, 2021 at the age of 78.<ref name="rsdeath">{{cite magazine |last1=Greene |first1=Andy |title=Michael Nesmith, Monkees singer-songwriter, dead at 78 |url=https://www.rollingstone.com/music/music-news/monkees-michael-nesmith-dead-1270079/ |magazine=Rolling Stone |date=December 10, 2021 |access-date=December 10, 2021}}</ref><ref>{{cite news|url = https://www.nytimes.com/2021/12/10/arts/music/michael-nesmith-dead.html|title = Michael Nesmith, the 'Quiet Monkee,' Is Dead at 78|work = [[The New York Times]]|date = December 10, 2021|access-date = December 10, 2021|last = Genzlinger|first = Neil|url-access = limited}}</ref> His family said in a statement:
+“With infinite love we announce that Michael Nesmith has passed away this morning in his home, surrounded by family, peacefully and of natural causes.”<ref name=":4"/> Dolenz memorialized Nesmith as "a dear friend and partner."<ref>{{cite web|last1=Evans|first1=Greg|title=Micky Dolenz Remembers Michael Nesmith: "I'll Miss It All So Much"|url=https://deadline.com/2021/12/micky-dolenz-michael-nesmith-tribute-monkees-ill-miss-it-all-so-much-1234888902/|website=Deadline|date=December 10, 2021}}</ref><ref>{{Cite web|title=Remembering Michael Nesmith|url=https://www.monkees.com/article/remembering-michael-nesmith|access-date=2021-12-11|website=Monkees.com|language=en}}</ref>
+
+==Discography==
+{{Main|Michael Nesmith discography}}Source:<ref name=":3">{{Cite web|title=Michael Nesmith Albums and Discography|url=https://www.allmusic.com/artist/michael-nesmith-mn0000463435/discography|access-date=2021-12-16|website=AllMusic|language=en}}</ref><ref name=":4">{{Cite web|date=2021-12-10|title=Michael Nesmith, singer and guitarist with the Monkees, dies aged 78|url=https://www.theguardian.com/music/2021/dec/10/mike-nesmith-singer-and-guitarist-with-the-monkees-dies-aged-78|access-date=2021-12-16|website=The Guardian|language=en}}</ref>{{div col}}
+* ''[[The Wichita Train Whistle Sings]]'' (1968)
+* ''[[Magnetic South (album)|Magnetic South]]'' (1970)
+* ''[[Loose Salute]]'' (1970)
+* ''[[Nevada Fighter]]'' (1971)
+* ''[[Tantamount to Treason Vol. 1]]'' (1972)
+* ''[[And the Hits Just Keep on Comin']]'' (1972)
+* ''[[Pretty Much Your Standard Ranch Stash]]'' (1973)
+* ''[[The Prison: A Book with a Soundtrack]]'' (1974) (soundtrack)
+* ''[[From a Radio Engine to the Photon Wing]]'' (1977)
+* ''[[Infinite Rider on the Big Dogma]]'' (1979)
+* ''[[Tropical Campfires]]'' (1992)
+* ''[[The Garden (Michael Nesmith album)|The Garden]]'' (1994) (soundtrack)
+* ''[[Timerider: The Adventure of Lyle Swann (soundtrack)|Timerider: The Adventure of Lyle Swann]]'' (2000) (soundtrack, recorded 1980)
+* ''[[Rays (Michael Nesmith album)|Rays]]'' (2005)
+* ''The Ocean'' (2015)
+{{div col end}}
+
+==Filmography==
+===Television===
+{| class="wikitable sortable"
+|-
+! Year || Title || Role || class="unsortable"| Notes
+|-
+| 1966–1968 || ''[[The Monkees (TV series)|The Monkees]]<ref name=":4"/>'' || Himself || Credited as Monkees persona "Mike"
+|- 
+| 1969 || ''33 1/3 Revolutions per Monkee'' || Host||[[NBC]] special<ref name=":5">{{Cite web|title=Michael Nesmith - Life Events|url=http://www.tcm.com/tcmdb/person/140110%7C111748/Michael-Nesmith/#life-events|access-date=2021-12-16|website=Tcm.com|language=en}}</ref>
+|-
+| 1985 || ''[[Television Parts]]<ref name=":6">{{Cite web|title=Michael Nesmith - Filmography|url=https://www.tcm.com/tcmdb/person/140110%7C111748/Michael-Nesmith/#filmography|access-date=2021-12-16|website=Tcm.com|language=en}}</ref>'' || Host || One-series spin-off from ''[[Elephant Parts]]''
+|-
+| 1997 || ''[[Hey, Hey, It's the Monkees]]<ref name=":6"/>'' || Himself || Credited as Monkees persona "Mike"
+|-
+| 2014 || ''[[Portlandia (TV series)|Portlandia]]'' || Father of the Mayor || Season 4, episode 9
+|}
+
+===Films===
+{| class="wikitable sortable"
+|-
+! Year || Title                                          ||  Role         || class="unsortable"| Notes
+|-
+| 1968 || ''[[Head (movie)|Head]]''<ref name=":6"/>|| Himself       || Credited as Monkees persona "Mike"
+|-
+| 1982 || ''[[Timerider: The Adventure of Lyle Swann]]<ref name=":6"/>'' || Race Official || uncredited
+|-
+| 1984 || ''[[Repo Man (film)|Repo Man]]''               || Rabbi         || credited
+|-
+| 1987 || ''[[Burglar (film)|Burglar]]<ref name=":6"/>''                 || Cabbie        || rowspan=2|uncredited
+|-
+| 1988 || ''[[Tapeheads]]<ref name=":6"/>''                              || Water Man
+|}
+
+===Home video===
+{| class="wikitable sortable"
+|-
+! Year || Title                                         ||  Role                       || class="unsortable"| Notes
+|-
+| 1981 || ''[[Elephant Parts]]''                        || Various characters/Producer || Released on DVD 1998 and again in 2003
+|-
+| 1981 || ''An Evening with Sir William Martin''        || Foyer the butler/Writer/Producer   || Half-hour comedic monologue
+|-
+| 1983 || ''Rio and Cruisin'<ref name=":5"/>''                          || Performer/Producer          || Music videos
+|-
+| 1985 || ''The Television Parts Home Companion''       || Various characters/Producer || Compilation from television series
+|-
+| 1986 || ''Dr. Duck's Super-Secret All-Purpose Sauce'' || Various characters/Producer || Music and comedy segments
+|-
+| 1989 || ''Nezmusic''                                  || Performer/Producer          || Music videos
+|-
+| 1991 || ''Live at the Britt Festival''                || Performer/Producer          || Concert from 1991 concert
+|-
+| 2008 || ''Pacific Arts''                              || Performer/Producer          || Music videos on DVD
+|}
+
+==Books==
+:(n.b. books proper – not including ''The Prison'' and ''The Garden'')
+*''The Long Sandy Hair of Neftoon Zamora'' (1998)<ref name=":0"/>
+*''The America Gene'' (2009)<ref name=":1"/>
+*''Infinite Tuesday: An Autobiographical Riff'' (2017)<ref name=":2" />
+
+===Audiobooks===
+*''The Long Sandy Hair of Neftoon Zamora'' (2004) (with Nesmith reading the story)<ref name=":3"/>
+*''Infinite Tuesday: An Autobiographical Riff'' (2017) (narrated by Nesmith)<ref name=":7">{{Citation|last=Nesmith|first=Michael|title=Infinite Tuesday : an autobiographical riff|date=2017|url=https://www.worldcat.org/oclc/983201695|place=[New York]|isbn=978-1-5247-5543-0|oclc=983201695|access-date=2021-12-16}}</ref>
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*[https://www.wired.com/wired/archive/8.12/nesmith.html Article in ''Wired'' magazine about Michael Nesmith and the Council on Ideas]
+*[https://web.archive.org/web/20051023215540/http://www.nezfriends.com/biography.html Michael Nesmith biography]
+*[http://www.monkees.net/nez/default.php (Unofficial) Michael Nesmith home page]
+*[https://web.archive.org/web/20100914171426/http://swindlemagazine.com/issueicons/michael-nesmith/ SWINDLE Magazine interview]
+*{{Pop Chronicles|44}}
+*[https://www.npr.org/templates/story/story.php?storyId=7742906 Michael Nesmith: Overcoming The Monkees at NPR.com]
+*[http://www.rockerzine.com/index.php/2013/03/mike-nesmith-still-a-believer/ Michael Nesmith interview 2013]
+*[https://www.namm.org/library/oral-history/michael-nesmith Michael Nesmith Interview] at [[NAMM Oral History Program|NAMM Oral History Collection]] (2019)
+
+==External links==
+{{commons category|Michael Nesmith}}
+{{wikiquote}}
+*[http://videoranch.com Videoranch], a Michael Nesmith company
+*{{YouTube|channel=UCj0voUzocNYrteaKivLXKLg|Michael Nesmith's Videoranch}}
+*{{IMDb name|id=0626452|name=Michael Nesmith}}
+*[http://allmusic.com/artist/michael-nesmith-p5006 Nesmith at Allmusic.com]
+
+{{Michael Nesmith}}
+{{The Monkees}}
+{{Grammy Award for Best Music Video}}
+{{Carmel Valley, California}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Nesmith, Michael}}
+[[Category:Michael Nesmith| ]]
+[[Category:1942 births]]
+[[Category:2021 deaths]]
+[[Category:20th-century American guitarists]]
+[[Category:20th-century American male writers]]
+[[Category:20th-century American novelists]]
+[[Category:21st-century American male writers]]
+[[Category:21st-century American novelists]]
+[[Category:American Christian Scientists]]
+[[Category:American country guitarists]]
+[[Category:American country rock singers]]
+[[Category:American film producers]]
+[[Category:American male film actors]]
+[[Category:American male guitarists]]
+[[Category:American male novelists]]
+[[Category:American male singer-songwriters]]
+[[Category:American male stage actors]]
+[[Category:American male television actors]]
+[[Category:American philanthropists]]
+[[Category:American pop guitarists]]
+[[Category:American pop rock singers]]
+[[Category:American rock guitarists]]
+[[Category:Businesspeople from Texas]]
+[[Category:Country musicians from Texas]]
+[[Category:Deaths from congestive heart failure]]
+[[Category:Grammy Award winners]]
+[[Category:Guitarists from Texas]]
+[[Category:American lead guitarists]]
+[[Category:Male actors from Houston]]
+[[Category:Military personnel from Houston]]
+[[Category:Musicians from Dallas]]
+[[Category:Musicians from Houston]]
+[[Category:Novelists from Texas]]
+[[Category:People from Carmel Valley Village, California]]
+[[Category:Progressive country musicians]]
+[[Category:Singer-songwriters from California]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:The Monkees members]]
+[[Category:Thomas Jefferson High School (Dallas) alumni]]
+[[Category:United States Air Force airmen]]
+[[Category:The First National Band members]]

@@ -1,0 +1,77 @@
+{{Use mdy dates|date=August 2020}}
+{{Infobox musical artist
+| name            = Fast Ryde
+| image           = Fast_ryde.jpg
+| alt             =
+| caption         = James Harrison (left) and Jody Stevens, June 2010
+| image_size      =
+| landscape       = yes
+| origin          = [[Nashville, Tennessee]], U.S.
+| genre           = [[Country music|Country]]
+| years_active    = 2008–10
+| label           = [[Republic Nashville]]
+| current_members = James Harrison<br />Jody Stevens
+}}
+'''Fast Ryde''' was an American [[country music]] duo composed of singer-songwriters James Harrison and Jody Stevens, both of whom sing and play guitar. The duo was signed to [[Republic Records]] Nashville and has released three singles: "That Thang", which charted at number 38 on [[Hot Country Songs]], plus "Make It Rain" and "Top Down".
+
+==History==
+Fast Ryde was founded in 2008 by Jody Stevens and James Harrison, natives of [[West Virginia]] and Florida, respectively.<ref name="weekly">{{cite journal|last=Neal|first=Chris|date=October 5, 2009|title=Who's New: Fast Ryde|journal=[[Country Weekly]]|volume=16|issue=34|pages=17|issn=1074-3235}}<!--|accessdate=September 28, 2009--></ref> Jody Stevens is the son of songwriter [[Jeff Stevens (singer)|Jeff Stevens]], who has written hits for [[George Strait]] and [[Tim McGraw]] and produces for [[Luke Bryan]].<ref>{{cite web|url=http://fastryde.com/index.htm?id=18115 |title=Fast Ryde biography |work=Fast Ryde website |access-date=September 29, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20101006013039/http://fastryde.com/index.htm?id=18115 |archive-date=October 6, 2010 }}</ref> Both Stevens and Harrison decided to work as songwriters in [[Nashville, Tennessee]], and chose to form a duo.<ref name="weekly"/> In 2009, Fast Ryde signed to [[Republic Records]]' newly established Nashville division, through the assistance of [[Scott Borchetta]].<ref>{{cite web|url=http://www.countrystandardtime.com/news/newsitem.asp?xid=2955|title=New Nashville label starts with Sunny Sweeney aboard|date=June 5, 2009|work=[[Country Standard Time]]|accessdate=June 5, 2009}}</ref><ref>{{cite web |last=Burch |first=Cathalena E. |title=Lois Lewis joins upstart label |url=http://regulus2.azstarnet.com/blogs/calientetunedin/15342/ |date=June 2, 2009|work=AZ Nightbuzz |access-date=July 17, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20090630214717/http://regulus2.azstarnet.com/blogs/calientetunedin/15342/ |archive-date=June 30, 2009 }}</ref>
+
+Fast Ryde's first single release was "[[That Thang]]," which the duo wrote after Stevens suggested that the two write a "[[buttocks|booty]] song."<ref name="weekly"/> This song was met with mixed reviews. Juli Thanki of Engine 145 gave the single a thumbs-down rating, criticizing the song for its repeated use of sung syllables and its similarity in theme to [[Trace Adkins]]' "[[Honky Tonk Badonkadonk]]."<ref>{{cite web |last=Thanki |first=Juli |title=Fast Ryde — "That Thang" |url=http://www.engine145.com/fast-ryde-that-thang/ |date=July 1, 2009|work=Engine 145 |access-date=July 17, 2009 |archive-url=https://web.archive.org/web/20141218075121/http://www.engine145.com/fast-ryde-that-thang/ |archive-date=December 18, 2014 |url-status=dead }}</ref> Alison Bonaguro, who reviewed the song in the blog for television network [[Country Music Television|CMT]] said that it was "a nice little catchy rocker."<ref>{{cite web|url=http://blog.cmt.com/2009-07-21/radios-jumping-on-the-fast-ryde/|archive-url=https://web.archive.org/web/20090724015940/http://blog.cmt.com/2009-07-21/radios-jumping-on-the-fast-ryde/|url-status=dead|archive-date=July 24, 2009|title=Radio's jumping on the Fast Ryde|last=Bonaguro|first=Alison|date=July 2, 2009|work=CMT|accessdate=July 23, 2009}}</ref> Bobby Peacock of Roughstock also compared it to "Honky Tonk Badonkadonk," but also called the song a "silly little piece of ear candy."<ref>{{cite web|url=http://roughstock.com/news/2009/07/20649-fast-ryde-that-thang|title=Fast Ryde — "That Thang"|author=Bobby Peacock|date=July 2, 2009|work=Roughstock|accessdate=September 20, 2009}}</ref> The song peaked at 38 on the U.S. ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] charts for the week ending September 26, 2009.
+
+The duo released "Make It Rain" in October 2009. Robert K. Oermann of [[MusicRow]] said that the song was "quite listenable and easy-smooth,"<ref>Music Row Magazine, 2009-10-02, p.6</ref> and Peacock called it "just what Fast Ryde needs to get their foot in the door."<ref>{{cite web |url=http://www.roughstock.com/blog/fast-ryde-make-it-rain- |title=Fast Ryde — "Make It Rain" |author=Bobby Peacock |date=September 2, 2009|work=Roughstock |access-date=October 5, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20101228071359/http://www.roughstock.com/blog/fast-ryde-make-it-rain- |archive-date=December 28, 2010 }}</ref> "Top Down" was released as the duo's third single. It was also made into a music video, directed by Chris Hicky. After failing to chart with their second and third singles, they were released from Republic Nashville and their debut album was not released.
+
+In late 2013, Stevens produced and performed all instrumentation on [[Cole Swindell]]'s debut single "[[Chillin' It]]".
+
+==Discography==
+===Singles===
+{| class="wikitable" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="1"| Peak positions
+|- style="font-size:smaller;"
+! width="60"| [[Hot Country Songs|US Country]]
+|- 
+| rowspan="2"| 2009
+| align="left"| "[[That Thang]]"
+| 38
+|-
+| align="left"| "Make It Rain"
+| —
+|-
+| 2010
+| align="left"| "Top Down"
+| —
+|-
+| colspan="9" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable"
+! Year
+! Video
+! Director
+|-
+| 2009
+| "Make It Rain"
+| rowspan="2"| [[Chris Hicky]]
+|-
+| 2010
+| "Top Down"<ref>{{cite web|url=http://www.cmt.com/videos/fast-ryde/516499/top-down.jhtml|archive-url=https://web.archive.org/web/20100520015624/http://www.cmt.com/videos/fast-ryde/516499/top-down.jhtml|url-status=dead|archive-date=May 20, 2010|title=CMT : Videos : Fast Ryde : Top Down|publisher=[[Country Music Television]]|accessdate=November 21, 2015}}</ref>
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://fastryde.com/ Official website]
+
+{{Authority control}}
+
+[[Category:Country music groups from Tennessee]]
+[[Category:American country music duos]]
+[[Category:Musical groups established in 2008]]
+[[Category:Republic Records artists]]
+[[Category:Musical groups from Nashville, Tennessee]]

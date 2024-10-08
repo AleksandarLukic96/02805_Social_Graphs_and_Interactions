@@ -1,0 +1,120 @@
+{{short description|American singer-songwriter}}
+
+{{Infobox musical artist
+|name = Marsha Thornton
+|image = 
+|background = solo_singer
+|birth_name = 
+|birth_date = {{birth date and age|1964|10|22}}
+|origin = [[Killen, Alabama]], United States
+|instrument = Vocals
+|genre =  [[country music|Country]]
+|occupation = singer
+|years_active = 1989–2003
+|label =  [[MCA Records|MCA]]<br>Metronome
+|website =
+}}
+'''Marsha Thornton''' (born October 22, 1964, in [[Killen, Alabama]]) is a female [[country music]] singer. Between 1990 and 2003, she released three studio albums, with her first two released on [[MCA Records]]; she has also issued four singles on the [[Hot Country Songs]] charts. Her highest peaking single was "A Bottle of Wine and Patsy Cline", written by Lindy Gravelle, which reached No.&nbsp;59 in 1990.
+
+In 1991, Thornton was shortlisted for the [[Academy of Country Music Award for New Female Artist of the Year]].<ref>{{cite magazine|url=https://www.worldradiohistory.com/Archive-All-Music/Billboard/90s/1991/BB-1991-02-02.pdf|title=Academy Of Country Music Names Award Nominees|magazine=[[Billboard (magazine)|Billboard]]|pages=41|date=February 2, 1991}}</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:22em;"| Title
+! rowspan="2" style="width:20em;"| Album details
+! colspan="1"| Peak positions
+|- style="font-size:smaller;"
+! width="60"| [[Top Country Albums|US Country]]<br><ref name="Billboard">{{cite magazine|url=https://www.billboard.com/charts/search?artistname=Marsha+Thornton&charttitle=&label=&chartcode=&chart_date=|title=Marsha Thornton - Chart Search|magazine=[[Billboard (magazine)|Billboard]]|accessdate=August 22, 2020}}</ref>
+|-
+! scope="row"| ''Marsha Thornton''
+| 
+* Release date: December 20, 1989
+* Label: [[MCA Records]]
+| 49
+|-
+! scope="row"| ''Maybe the Moon Will Shine''
+| 
+* Release date: February 19, 1991
+* Label: MCA Records
+| —
+|-
+! scope="row"| ''Farther Along: Acappella Hymns of Farewell''
+| 
+* Release date: 2003
+* Label: Metronome
+| —
+|-
+| colspan="3" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! colspan="2"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<br><ref name="Billboard"/>
+! width="45"| [[RPM (magazine)|CAN Country]]<br><ref name="RPM">{{cite web|url=http://www.bac-lac.gc.ca/eng/discover/films-videos-sound-recordings/rpm/Pages/list.aspx?OCRText=Marsha+Thornton&ChartEn=Country+Singles&|title=Marsha Thornton - Country Singles|work=[[RPM (magazine)|RPM]]|date=17 July 2013 |accessdate=August 22, 2020}}</ref>
+|-
+| 1989
+! scope="row"| "Deep Water"
+| 62
+| —
+| align="left" rowspan="3"| ''Marsha Thornton''
+|-
+| rowspan="2"| 1990
+! scope="row"| "A Bottle of Wine and Patsy Cline"
+| 59
+| 23
+|-
+! scope="row"| "The Grass Is Greener"
+| —<sup>A</sup>
+| 65
+|-
+| 1991
+! scope="row"| "Maybe the Moon Will Shine"
+| 73
+| —
+| align="left"| ''Maybe the Moon Will Shine''
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+'''Notes:'''
+*<sup>A</sup> "The Grass Is Greener" did not chart on Hot Country Songs, but peaked at No. 4 on Hot Country Radio Breakouts.<ref>{{cite magazine|url=http://americanradiohistory.com/Archive-Billboard/90s/1990/BB-1990-06-02.pdf|title=Hot Country Radio Breakouts|date=June 2, 1990|magazine=Billboard}}</ref>
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:18em;"| Video
+|-
+| 1990
+! scope="row"| "A Bottle of Wine and Patsy Cline"
+|-
+| 1991
+! scope="row"| "Maybe The Moon Will Shine"
+|}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Thornton, Marsha}}
+[[Category:1964 births]]
+[[Category:People from Killen, Alabama]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Living people]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:Country musicians from Texas]]
+[[Category:Country musicians from Alabama]]
+[[Category:21st-century American women]]
+[[Category:Singer-songwriters from Alabama]]
+
+
+{{US-country-singer-stub}}

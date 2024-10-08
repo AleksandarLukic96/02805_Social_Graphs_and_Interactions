@@ -1,0 +1,115 @@
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist
+| name            = Archer/Park
+| image           = Archer_Park.JPG
+| caption         = Randy Archer (left) and Johnny Park
+| image_size      =
+| origin          = [[Nashville, Tennessee]], U.S.
+| genre           = [[Country music|Country]]
+| years_active    = 1994
+| label           = [[Atlantic Records|Atlantic]]
+|spinoffs = The Parks
+| past_members    = Randy Archer<br />Johnny Park
+}}
+'''Archer/Park''' was an American [[country music]] duo composed of singer-songwriters Randy Archer and Johnny Park. Signed to [[Atlantic Records]] in 1994, the duo released its sole album, ''We Got a Lot in Common'', that year. Two of the album's singles entered the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Singles & Tracks]] charts: "Where There's Smoke" at No.&nbsp;29 and the title track at No.&nbsp;63.
+
+==Biography==
+Archer/Park consisted of songwriters and vocalists Randy Archer (born February 20, 1959, in [[Swainsboro, Georgia]]) and Johnny Park (born October 30, 1957, in [[Arlington, Texas]]).<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2017|publisher=Record Research, Inc|year=2017|page=26|isbn=978-0-89820-229-8}}</ref> The two had success writing songs for other country music artists, and began working together in the same publishing company. As a result, they decided to form a duo and signed with [[Atlantic Records]]' Nashville branch in 1994. They recorded their debut album ''We Got a Lot in Common'' that same year.<ref>{{cite web | url=https://www.newspapers.com/image/278541488/ | title=Archer/Park: Where there's 'Smoke', there's fire | publisher=Star-Gazette | date=September 29, 1994 | accessdate=May 31, 2022 | pages=5}}</ref> The album's two singles "Where There's Smoke" and "We Got a Lot in Common" both charted on ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]].<ref name="whitburn"/> The album received a mixed review from John P. McLaughlin of the Alberta ''Province'', who thought the album was "generic" and derivative of [[Brooks & Dunn]].<ref>{{cite news | url=https://www.newspapers.com/image/503354357 | title=Reviews | work=The Province | date=January 26, 1995 | accessdate=May 31, 2022 | pages=B4}}</ref> An uncredited review in ''[[Gavin Report]]'' described the title track favorably, saying that the duo showed a sense of humor on it.<ref>{{cite journal | url=https://worldradiohistory.com/Archive-All-Music/Gavin-Report/90/94/Gavin-1994-11-18.pdf | title=Reviews | journal=Gavin Report | pages=36 | date=November 18, 1994}}</ref>
+
+After their only album, Archer resumed working as a songwriter, with [[Tim McGraw]] and [[John Michael Montgomery]] being among the acts who recorded his songs.<ref name="review">{{cite web |url=http://www.countrymusicnews.ca/news.ihtml?step=2&article_id=1055 |title=Randy Archer: Shots in the Dark |accessdate=January 6, 2008 |work=Country Music News}}</ref> He and Park also wrote songs for Montgomery and for [[Elbert West]]. In 2006, Archer independently released an album titled ''Shots in the Dark''.<ref name="review"/>
+
+In 2009, Park and his son, Clint, formed the duo The Parks, which signed to [[Lyric Street Records]] subsidiary Carolwood Records.<ref name="cst">{{cite web |url=http://www.countrystandardtime.com/news/newsitem.asp?xid=2954 |title=The Parks go digital route |accessdate=July 25, 2009 |date=June 5, 2009 |work=[[Country Standard Time]]}}</ref> Park also co-wrote [[Easton Corbin]]'s "[[Roll with It (Easton Corbin song)|Roll with It]]".<ref>{{cite web | url=https://www.musicvf.com/songs.php?page=artist&artist=Johnny+Park&tab=songaswriterchartstab | title=Johnny Park ••• Top Songs as Writer ••• Music VF, US & UK hits charts }}</ref>
+
+==''We Got a Lot in Common''==
+{{Infobox album
+| italic_title = no
+| name       = ''We Got a Lot in Common''
+| type       = studio
+| artist     = Archer/Park
+| cover      = archerparkalbum.jpg
+| alt        =
+| released   = {{start date|1994|9|6}}
+| recorded   =
+| venue      =
+| studio     =
+| genre      = Country
+| length     = 32:04
+| label      = Atlantic
+| producer   = [[Randy Scruggs]]
+| prev_title =
+| prev_year  =
+| next_title =
+| next_year  =
+}}
+
+===Track listing===
+#"We Got a Lot in Common" (Randy Archer, Johnny Park, Bobby P. Barker) – 3:07
+#"Where There's Smoke" (Barker, [[Mark Collie]]) – 2:54
+#"You Don't Know Where This Heart's Been" (Archer, Park, Barker) – 3:59
+#"I'm Not Crazy" (Archer, Park, Barker) – 2:55
+#"Your Ol' Rock" (Archer, Park, Barker, Doug Nichols) – 3:33
+#"The Man That I Am" ([[Walt Aldridge]], [[Darryl Worley]]) – 2:56
+#"Don't Look Now" (Archer, Park, Nichols) – 2:48
+#"'Til Something Better Comes Along" (Charles Quillen) – 3:29
+#"Permanent Thing" (Jerry Abbott, Charles Stewart) – 3:19
+#"I Still Wanna Jump Your Bones" (Archer, Park, Barker) – 3:04
+
+===Personnel===
+*[[Eddie Bayers]] – drums
+*Mark Casstevens – acoustic guitar
+*[[Paul Franklin (musician)|Paul Franklin]] – [[pedal steel guitar]], [[slide guitar]], Pedabro
+*Steve Gibson – electric guitar
+*Tim "Felipe" Gonzalez – harmonica
+*Rob Hajacos – [[fiddle]]
+*Owen Hale – drums
+*[[Brent Mason]] – electric guitar
+*[[Dave Pomeroy]] – bass guitar
+*[[Don Potter (musician)|Don Potter]] – acoustic guitar
+*Ron "Snake" Reynolds – percussion
+*[[Randy Scruggs]] – acoustic and electric guitars
+*Milton Sledge – drums
+*Bobby Wood – piano, synthesizer
+*Bob Wray – bass guitar
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:16em;"| Single
+! colspan="2"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<ref name="whitburn"/>
+! width="45"| [[RPM (magazine)|CAN Country]]<ref>{{cite web | url=https://www.bac-lac.gc.ca/eng/discover/films-videos-sound-recordings/rpm/Pages/list.aspx?OCRText=archer+park& | title=Search results for Archer/Park | date=July 17, 2013 | publisher=RPM | accessdate=May 31, 2022}}</ref>
+|-
+| rowspan="2"| 1994
+! scope="row"| "Where There's Smoke"
+| 29
+| 50
+|-
+! scope="row"| "We Got a Lot in Common"
+| 63
+| 68
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:16em;"| Video
+|-
+| rowspan="2"| 1994
+! scope="row"| "Where There's Smoke"
+|-
+! scope="row"| "We Got a Lot in Common"
+|}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+{{DEFAULTSORT:Archer Park}}
+[[Category:Country music groups from Tennessee]]
+[[Category:American country music duos]]
+[[Category:Musical groups established in 1994]]
+[[Category:Musical groups disestablished in 1994]]
+[[Category:Atlantic Records artists]]
+[[Category:1994 establishments in Tennessee]]

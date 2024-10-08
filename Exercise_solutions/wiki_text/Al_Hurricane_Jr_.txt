@@ -1,0 +1,59 @@
+{{Use mdy dates|date=April 2023}}
+{{short description|American singer-songwriter (born 1959)}}
+{{Infobox musical artist
+| image             = Al Hurricane and Al Hurricane Jr.jpg
+| caption           = Al Hurricane and Al Hurricane Jr
+| birth_name        = Alberto Nelson Sanchez Jr.
+| birth_date        = {{birth date and age|mf=yes|1959|10|30}}
+| birth_place       = [[Albuquerque]], [[New Mexico]], US
+| genre             = [[New Mexico music]], [[Latin music (genre)|Latin music]], rock music, [[Norteño (music)|Norteño]], [[Ranchera]], [[Country music|Country]] [[Western music (North America)|Western]], [[rock and roll]], [[rockabilly]], [[Corrido]], [[Cumbia]]
+| origin            = [[New Mexico]]
+| instrument        = Vocals, guitar ([[Gibson ES-335|Gibson 335]], piano, trumpet
+| years_active      = 1971–present
+| label             = Hurricane Records, Atlantis Records, [[EMI]] [[Capitol Records|Capitol]], [[Discos Musart]]
+| associated_acts   = [[Al Hurricane]], Tiny Morrie, Baby Gaby, Erika, Jerry Dean, [[Lorenzo Antonio]], [[Sparx (US band)|Sparx]], Christian Sanchez, Donna Christine, Darren Cordova, Cuarenta y Cinco, Tanya Griego, Dawn Luz, Miguel Romero<ref name="Martinez 2019">{{cite web | last=Martinez | first=Rozanna M. | title=Hurricane Fest features legendary musician's son, War, Tower of Power | website=Albuquerque Journal | date=April 1, 2019 | url=https://www.abqjournal.com/1309741/hurricane-fest-features-legendary-musicians-son-war-tower-of-power.html | access-date=February 13, 2020}}</ref><ref name="KSJE 90.9 FM">{{cite web | title=Northern New Mexico Music Night | website=KSJE 90.9 FM | url=http://www.ksje.com/events-calendar/event/northern-new-mexico-music-night/ | access-date=February 13, 2020}}</ref><ref>{{cite web | title = La Martina | website=[[AllMusic]] | url= https://www.allmusic.com/song/la-martina-mt0047898727 | access-date=April 11, 2020}}</ref>
+}}
+'''Al Hurricane Jr.''' (born '''Alberto Nelson Sanchez Jr.''' on October 30, 1959<ref name="NMTech">{{cite web|url=http://www.nmtpas.org/node/215 |title=4th of July Celebration – NMT Performing Arts Series |publisher=[[New Mexico Tech]] |accessdate=2014-05-10 |url-status=dead |archiveurl=https://web.archive.org/web/20141006145017/http://www.nmtpas.org/node/215 |archivedate=2014-10-06 }}</ref>) is an American singer-songwriter. He is known as "El Godson" of [[New Mexico music]], a nickname which was inherited from his father [[Al Hurricane]], who is considered "The Godfather" of New Mexico music.<ref name="AlibiTributeGodfather">{{cite web |url=http://alibi.com/music/46412/Paying-Tribute-to-the-Godfather-of-New-Mexico-Musi.html|title=Paying Tribute to the Godfather of New Mexico Music – Alibi|date=February 27, 2014 |accessdate=2014-05-10}}</ref><ref>{{cite web|url=http://www.news-bulletin.com/files/archives/36509-12-24-03.html |archive-url=https://archive.today/20140511072059/http://www.news-bulletin.com/files/archives/36509-12-24-03.html |url-status=dead |archive-date=2014-05-11 |title=Godfather of New Mexico at mid-century of career |accessdate=2014-05-10 }}</ref> He has long been his father's protégé, he has created numerous solo albums, and has contributed songs such as "Flor De Las Flores" to New Mexico's unique style of Spanish music.<ref>{{cite AV media |people=Al Hurricane |year=2011 |title=Flor De Las Flores (Live) |trans-title=|medium=Audio recording |url= |accessdate= |time= |location=Live at the Kimo, Vol 1 (album) |publisher= |id= |isbn= |oclc= |quote=I'd like to keep things going here, with a little song, that made my son very popular, "Flor de las Flores" }}</ref>
+
+==Biography==
+"Al Hurricane Jr." was born Alberto Nelson Sanchez Jr. to Alberto Nelson Sanchez and Nettie M. Fleming on October 30, 1959, in Albuquerque, New Mexico. He began performing music at the age of five, and performed the song [[Love Potion No. 9 (song)|Love Potion #9]] during his first performance at the [[Albuquerque Civic Auditorium]].<ref name="NMTech"/>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Official website|www.alhurricanejr.com}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hurricane Jr, Al}}
+[[Category:1959 births]]
+[[Category:Living people]]
+[[Category:American male singer-songwriters]]
+[[Category:American rock guitarists]]
+[[Category:American rock musicians]]
+[[Category:American rockabilly musicians]]
+[[Category:American rock singers]]
+[[Category:American rock songwriters]]
+[[Category:American country guitarists]]
+[[Category:American country singer-songwriters]]
+[[Category:American folk guitarists]]
+[[Category:American male guitarists]]
+[[Category:American folk singers]]
+[[Category:American performers of Latin music]]
+[[Category:American musicians of Mexican descent]]
+[[Category:American ranchera singers]]
+[[Category:Rock en Español musicians]]
+[[Category:Songwriters from New Mexico]]
+[[Category:Singers from New Mexico]]
+[[Category:New Mexico music artists]]
+[[Category:Spanish-language singers of the United States]]
+[[Category:Guitarists from New Mexico]]
+[[Category:20th-century American guitarists]]
+[[Category:20th-century American male musicians]]
+[[Category:21st-century American keyboardists]]
+[[Category:21st-century American male musicians]]
+[[Category:Hispanic and Latino American musicians]]
+
+
+{{US-music-bio-stub}}

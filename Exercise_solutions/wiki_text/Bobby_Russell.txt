@@ -1,0 +1,232 @@
+{{Short description|American singer-songwriter (1940–1992)}}
+{{other people|Bobby Russell}}
+{{Use mdy dates|date=November 2020}}
+{{more citations needed|date=October 2009}}
+{{Infobox musical artist
+| name            = Bobby Russell
+| image           =
+| caption         =
+| image_size      =
+| birth_name      =
+| birth_date      = {{birth date|1940|04|19}}<ref name="whitburn"/>
+| birth_place     = [[Nashville, Tennessee]], U.S
+| origin          =
+| death_date      = {{death date and age|1992|11|19|1940|04|19}}<ref name="whitburn"/>
+| death_place     = [[Nicholasville, Kentucky]], U.S.
+| instrument      = Vocals
+| genre           = [[Country music|Country]], [[Pop music|pop]]
+| occupation      = Singer-songwriter
+| years_active    = 1966–1973
+| label           = Elf, [[United Artists]]
+| associated_acts = [[Vicki Lawrence]]
+| website         = 
+}}
+'''Robert L. "Bobby" Russell''' (April 19, 1940 &ndash; November 19, 1992) was an American singer and songwriter. Between 1966 and 1973, he had five [[single (music)|singles]] on the [[Hot Country Songs]] charts, including the crossover pop hit "Saturday Morning Confusion". Russell was married to singer and actress [[Vicki Lawrence]] from 1972 to 1974.
+
+==Career==
+Russell wrote hits over several genres. His most notable songs were "[[The Night the Lights Went Out in Georgia]]", his critique of country justice (a No. 1 hit for his then-wife [[Vicki Lawrence]]),<ref name="whitburn">{{cite book|title=Hot Country Songs 1944 to 2008|last=Whitburn|first=Joel|publisher=Record Research, Inc.|year=2008|isbn=978-0-89820-177-2|pages=365}}<!--|access-date=October 6, 2009--></ref> "Used to Be" (sung by Lawrence) and "As Far As I'm Concerned" (sung by Russell) both from the 1970 film ''[[The Grasshopper (1970 film)|The Grasshopper]]''; and "[[Little Green Apples]]", which won a Song of the Year [[Grammy Award]] in 1968. "Little Green Apples" was originally recorded and released by [[Roger Miller]], who had the first Top 40 hit with the song. It was also a hit for [[O.C. Smith]] and [[Patti Page]] in the US in 1968. The song was a particular favorite of [[Frank Sinatra]]. Russell wrote the song "[[Honey (Bobby Goldsboro song)|Honey]]", which was a hit for [[Bobby Goldsboro]] in 1968, spending five weeks at the top of the [[Billboard Hot 100|Billboard Pop Singles Chart]].
+
+Russell wrote the ballad "Do You Know Who I Am", which was recorded by [[Elvis Presley]] during his 1969 Memphis sessions. Russell penned "[[The Joker Went Wild]]", a Billboard Top 40 hit for [[Brian Hyland]] in 1966. Russell also wrote "Anabell of Mobile" for [[Nancy Sinatra]]. The Russell composition "Camp Werthahekahwee", an ode to summer camps sung by a father to his son, appeared on a 1986 album by [[Ray Stevens]]. The name of the camp is pronounced "where the heck are we?"
+
+===As a performer===
+As a singer, Russell's biggest chart success was his self-penned "Saturday Morning Confusion", a top 25 country hit and No. 28 pop hit in the early fall of 1971. The song was a first-person account of a family man suffering from a hangover and trying to find peace and quiet to sleep it off, but constantly being henpecked by the kids, wife and neighbors.  Also penned and sung by Russell was 1974's "Go Chase Your Rainbow", his highest-charting entry in Australia.
+
+Other songs that Russell recorded were "Better Homes and Gardens", "1432 Franklin Pike Circle Hero", "For a While We Helped Each Other Out", "Our Love Will Rise Again", "How You Gonna Stand It", and "Mid American Manufacturing Tycoon". He also wrote and recorded "Summer Sweet" for the Disney live-action ''[[Rascal (film)|Rascal]]'' in 1969 and wrote and sang the title song "As Far as I'm Concerned" over the opening credits of ''The Grasshopper''.
+
+==Death==
+Russell died in [[Nicholasville, Kentucky]], of [[coronary artery disease]] on November 19, 1992. He was 52 years old.<ref name="whitburn"/>
+
+==Discography==
+
+===Albums===
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Album
+! colspan="2"| Chart Positions
+! rowspan="2"| Label
+|-
+! width="50"| <small>[[Top Country Albums|US Country]]</small>
+! width="50"| <small>[[Billboard 200|US]]</small>
+|-
+| 1968
+| ''Words, Music, Laughter and Tears''
+| align="center"| —
+| align="center"| —
+| Elf
+|-
+| 1969
+|''Bobby Russell Unlimited''
+| align="center"| —
+| align="center"| —
+| Elf
+|-
+| 1971
+| ''Saturday Morning Confusion''
+| align="center"| 44
+| align="center"| 183
+| United Artists
+|}
+
+===Singles===
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="7"| Chart Positions
+! rowspan="2"| Album
+|-
+! width="45"| <small>[[Hot Country Songs|US Country]]</small>
+! width="45"| <small>[[Billboard Hot 100|US]]</small>
+! width="45"| <small>US AC</small>
+! width="45"| <small>[[Kent Music Report|AUS]]</small><ref name=aus>{{cite book|last=Kent|first=David|author-link=David Kent (historian)|title=Australian Chart Book 1970–1992|edition=illustrated|publisher=Australian Chart Book|location=St Ives, N.S.W.|year=1993|isbn=0-646-11917-6|page=262}}</ref>
+! width="45"| <small>[[Canadian Singles Chart|CAN]]</small>
+! width="45"| <small>CAN Country</small>
+! width="45"| <small>CAN AC</small>
+|-
+| 1966
+| "Friends and Mirrors"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| 22
+| align="center"| —
+| align="center"| —
+| single only
+|-
+| 1967
+| "Dusty"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| rowspan="2"| ''Words, Music, Laughter and Tears''
+|-
+| 1968
+| "1432 Franklin Pike Circle Hero"
+| align="center"| 64
+| align="center"| 36
+| align="center"| 9
+| align="center"| —
+| align="center"| 35
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="4"| 1969
+| "Carlie"
+| align="center"| 66
+| align="center"| 115
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| single only
+|-
+| "Then She's a Lover"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| rowspan="3" | ''Bobby Russell Unlimited''
+|-
+| "Better Homes and Gardens"
+| align="center"| 34
+| align="center"| —
+| align="center"| 31
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| "Our Love Will Rise Again"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| 64
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| 1971
+| "Saturday Morning Confusion"
+| align="center"| 24
+| align="center"| 28
+| align="center"| 13
+| align="center"| 52
+| align="center"| 27
+| align="center"| 13
+| align="center"| 14
+| ''Saturday Morning Confusion''
+|-
+| 1973
+| "Mid American Manufacturing Tycoon"
+| align="center"| 93
+| align="center"| —
+| align="center"| —
+| align="center"| 82
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| rowspan="4"| singles only
+|-
+| rowspan="2"| 1974
+| "I Wouldn't Have It Any Other Way"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| "Go Chase Your Rainbow"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| 25
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| 1975
+| "Little Boxes"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Portal|Biography}}
+* {{Discogs artist}}
+* {{Find a Grave|11607579}}
+
+{{CMA for Song of the Year}}
+{{Grammy Award for Song of the Year 1960s}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Russell, Bobby}}
+[[Category:1940 births]]
+[[Category:1992 deaths]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Grammy Award winners]]
+[[Category:Singers from Nashville, Tennessee]]
+[[Category:United Artists Records artists]]
+[[Category:Singer-songwriters from Tennessee]]
+[[Category:Country musicians from Tennessee]]
+[[Category:20th-century American male singers]]

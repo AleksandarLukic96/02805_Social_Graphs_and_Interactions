@@ -1,0 +1,450 @@
+{{Infobox musical artist | <!-- See Wikipedia:WikiProject Musicians -->
+| name            = The Road Hammers
+| image             = 
+| caption        = 
+| image_size        = <!-- Only for images smaller than 220 pixels --> 
+| background      = group_or_band
+| origin          = [[Canada]]
+| genre           = [[Country rock]]
+| years_active    = 2005–2010, 2013–present
+| label           = [[Open Road Recordings|Open Road]] <small>(Canada)</small><br>[[Montage Music Group|Montage]] <small>(US)</small>
+| associated_acts = [[Del Reeves]]
+| current_members = [[Jason McCoy]]<br>[[Clayton Bellamy]]<br>Chris Byrne
+| past_members    = Corbett Frasz
+}}
+
+'''The Road Hammers''' are a Canadian [[country rock]] group composed of [[Jason McCoy]], [[Clayton Bellamy]] and Chris Byrne. Formed by McCoy as a side project, the trio's music is influenced by 1960s and 1970s [[Truck driver|trucker]] music and [[Southern rock]]. Their first self-titled album included remakes of several classic truck-driving songs. It was recognized with a [[Juno Awards|Juno Award]] in 2006, along with numerous [[Canadian Country Music Association]] awards. After five years together, the group went on hiatus after one last show on December 31, 2010, in [[Langley, British Columbia (city)|Langley, British Columbia]].The group reformed in 2013 and released ''[[Wheels (The Road Hammers album)|Wheels]]'' in 2014.<ref>[http://www.langleyadvance.com/entertainment/Road+Hammers+their+Cascades+Casino/4024230/story.html Road Hammers end their run at Cascades Casino]</ref> In May 2017, The Road Hammers released their latest album, ''The Squeeze''.<ref>{{Cite news|url=http://topcountry.ca/new-country-releases-may-12-2017/|title=New Country Releases You Need To Know - May 12, 2017|date=2017-05-12|work=Top Country Music {{!}} Country Music News, Charts, Playlists, Videos|access-date=2017-07-27|language=en-US}}</ref>
+
+== History ==
+
+The Road Hammers was founded in 2004 as a project by lead singer and guitarist [[Jason McCoy]], a multiple-time winner of Canadian Country Music Association male vocalist of the year. He stated the idea was to play trucker music, and came together with two other musicians with similar views on music - country-rocker [[Clayton Bellamy]], whose father is a truck driver, and bassist Chris Byrne, a Newfoundlander.  In addition to recording their self-titled album, the Road Hammers was also the subject of a [[reality television|reality show]] of the same name on [[CMT (Canada)|Country Music Television]] in Canada.
+
+The album [[The Road Hammers (album)|The Road Hammers]] was released in 2005, and received strong reviews for its Southern rock sound and covers of classic songs.<ref>[https://www.straight.com/article/hammers-give-country-a-southern-fried-injection?# Hammers give country a Southern-fried injection], [[Georgia Straight]], October 6, 2005</ref> It debuted at No.&nbsp;1 on the Canadian country albums chart.<ref>[http://www.countrystandardtime.com/d/article.asp?xid=1061&t=Road_Hammers_truck_on_through_Blood_Sweat_&_Steel Road Hammers truck on through Blood Sweat & Steel], Country Standard Time, June 2008</ref> Covers on the album included "Girl on the Billboard," the 1965 number-one hit for [[Del Reeves]], "[[East Bound and Down]]" by [[Jerry Reed]], and [[Little Feat]]'s "Willin'." In the wake of the album release, The Road Hammers swept to the upper end of the Canadian country charts; four songs reached the top 10 through 2005 and 2006, and the band was nominated for six [[CCMA Awards]]<ref>[http://www.billboard.com/articles/news/61893/brandt-road-hammers-lead-canadian-country-nominees Brandt, Road Hammers lead Canadian country nominees], [[Billboard.com]], August 3, 2005</ref> winning Group or Duo of the Year. It was also recognized at the [[Juno Awards of 2006|Juno Awards]] for Country Recording of the Year. The album's success continued into 2006, with the Road Hammers receiving two CCMA awards, Group or Duo of the Year and Best Video.<ref>[http://www.billboard.com/articles/news/57271/canyon-road-hammers-lund-band-lead-ccma-winners Canyon, Road Hammers, Lund Band Lead CCMA Winners], Billboard.com, September 12, 2006</ref>
+
+In July 2007, McCoy stated that the band will be part of a second season of its reality show, following its attempts to secure a recording deal with an American label.<ref>[http://www.canada.com/edmontonjournal/news/culture/story.html?id=e8167a51-ef68-4dff-9e7f-5dc27084451c&k=89347 Country rockers' reality show returns for Season 2], [[Edmonton Journal]], July 9, 2007</ref> In late 2007, The Road Hammers signed to an American record label, [[Montage Music Group]] and the group's debut American single, "I Don't Know When to Quit" was released on December 10. Their second album, entitled ''[[Blood, Sweat, and Steel]]'', was released on June 24, 2008.
+
+The Road Hammers released their second Canadian album, ''[[The Road Hammers II]]'', on February 24, 2009.<ref>[http://www.cmt.ca/News/NewsItem.aspx?news_id=7949 All Roads Lead Home for the Hammers], [[CMT (Canada)|CMT]], January 20, 2009</ref> The album's first single, "Homegrown," has reached the Top 20 of the Canadian country singles chart.
+
+Bellamy and McCoy were contestants on the reality show ''[[Mantracker]]'' on September 6, 2010, where they both beat the hunters to the finish line.
+
+On October 8, 2013, The Road Hammers released a single titled "Get On Down the Road" on iTunes in Canada and the United States.
+
+==Discography==
+
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:14em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="3"| Peak chart positions
+! rowspan="2"| [[Music recording sales certification|Certifications]]<br /><small>([[Music recording sales certification|sales threshold]])</small>
+|- style="font-size:smaller;"
+! width="45"| [[Canadian Albums Chart|CAN]]
+! width="45"| [[Top Country Albums|US Country]]
+! width="45"| [[Top Heatseekers|US<br />Heat]]
+|-
+! scope="row"| ''[[The Road Hammers (album)|The Road Hammers]]''
+| 
+* Release date: May 10, 2005
+* Label: [[Open Road Recordings|Open Road]]
+| —
+| —
+| —
+| 
+* [[Music Canada|MC]]: Platinum{{Certification Cite Ref|region=Canada|type=album|title=The Road Hammers|artist=The Road Hammers}}
+|-
+! scope="row"| ''[[The Road Hammers (album)|Blood Sweat & Steel]]''
+| 
+* Release date: June 24, 2008
+* Label: [[Montage Music Group|Montage]]
+| —
+| 50
+| 39
+| 
+|-
+! scope="row"| ''[[The Road Hammers II]]''
+| 
+* Release date: February 24, 2009
+* Label: Open Road
+| —
+| —
+| —
+| 
+|-
+! scope="row"| ''[[Wheels (The Road Hammers album)|Wheels]]''
+| 
+* Release date: June 3, 2014
+* Label: Open Road
+| 21
+| —
+| —
+| 
+|-
+! scope="row"| ''[[The Squeeze (The Road Hammers album)|The Squeeze]]''
+|
+* Release date: May 12, 2017
+* Label: Open Road
+|
+|
+|
+|
+|-
+! scope="row"| ''10 Big Truckin' Hits, Vol. 1''
+|
+* Release date: April 21, 2018
+* Label: Open Road
+|
+|
+|
+|
+|-
+| colspan="6" style="font-size:8pt"| "—" denotes releases that did not chart.
+|-
+|}
+
+===Singles===
+
+====2000s====
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:16em;"| Single
+! colspan="3"| Peak chart positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Canada Country|CAN Country]]<br><ref name=canadacountry>{{cite magazine|url=http://www.billboard.com/music/the-road-hammers/chart-history/canada-country|archive-url=https://web.archive.org/web/20180511113807/https://www.billboard.com/music/the-road-hammers/chart-history/canada-country|url-status=dead|archive-date=May 11, 2018|title=The Road Hammers - Canada Country|magazine=[[Billboard (magazine)|Billboard]]|accessdate=October 21, 2017}}</ref>
+! width="45"| [[Canadian Hot 100|CAN]]<br><ref name=canadianhot100>{{cite magazine|url=http://www.billboard.com/music/the-road-hammers/chart-history/canadian-hot-100|archive-url=https://web.archive.org/web/20180511113819/https://www.billboard.com/music/the-road-hammers/chart-history/canadian-hot-100|url-status=dead|archive-date=May 11, 2018|title=The Road Hammers - Billboard Canadian Hot 100|magazine=[[Billboard (magazine)|Billboard]]|accessdate=October 21, 2017}}</ref>
+! width="45"| [[Hot Country Songs|US Country]]<br><ref>{{cite magazine|url=http://www.billboard.com/music/the-road-hammers/chart-history/country-songs|archive-url=https://web.archive.org/web/20180507095336/https://www.billboard.com/music/the-road-hammers/chart-history/country-songs|url-status=dead|archive-date=May 7, 2018|title=The Road Hammers - Hot Country Songs|magazine=[[Billboard (magazine)|Billboard]]|accessdate=October 21, 2017}}</ref>
+|-
+| rowspan="2"| 2005
+! scope="row"| "[[I'm a Road Hammer]]"
+| 5
+| —
+| _
+| align="left" rowspan="4"| ''The Road Hammers''
+|-
+! scope="row"| "[[East Bound and Down]]"
+| 2
+| —
+| —
+|-
+| rowspan="2"| 2006
+! scope="row"| "Nashville Bound"
+| 9
+| —
+| —
+|-
+! scope="row"| "[[Girl on the Billboard]]"
+| 5
+| —
+| —
+|-
+| 2007
+! scope="row"| "I Don't Know When to Quit"
+| —
+| —
+| 51
+| align="left" rowspan="3"| ''Blood Sweat & Steel''
+|-
+| rowspan="3"| 2008
+! scope="row"| "Girl on the Billboard" <small>(US release)</small>
+| —
+| —
+| 54
+|-
+! scope="row"| "I've Got the Scars to Prove It"
+| —
+| —
+| —
+|-
+! scope="row"| "Homegrown"
+| 11
+| 87
+| —
+| align="left" rowspan="3"| ''The Road Hammers II''
+|-
+| rowspan="2"| 2009
+! scope="row"| "I've Got the Scars to Prove It"<br /><small>(Canadian release)</small>
+| 10
+| 86
+| —
+|-
+! scope="row"| "Goodbye Dust"
+| 18
+| —
+| —
+|-
+| colspan="6" style="font-size:8pt"| "—" denotes releases that did not chart.
+|-
+|}
+
+====2010s and 2020s====
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:16em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| [[Music recording sales certification|Certifications]]<br /><small>([[Music recording sales certification|sales threshold]])</small>
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Canada Country|CAN Country]]<br><ref name=canadacountry/>
+! width="45"| [[Canadian Hot 100|CAN]]<br><ref name=canadianhot100/>
+|-
+| 2013
+! scope="row"| "Get On Down the Road"
+| 12
+| 82
+| 
+| align="left" rowspan="4"| ''Wheels''
+|-
+| rowspan="2"| 2014
+! scope="row"| "Mud"
+| 16
+| 68
+| 
+* [[Music Canada|MC]]: Gold{{Certification Cite Ref|region=Canada|type=single|title=Mud|artist=The Road Hammers}}
+|-
+! scope="row"| "[[I've Been Everywhere]]"
+| 27
+| —
+| 
+|-
+| rowspan="2"| 2015
+! scope="row"| "Hillbilly Highway" <small>(feat. [[Colt Ford]])</small>
+| 43
+| —
+| 
+|-
+! scope="row"| "One Horse Town" <small>(with [[Tim Hicks]])</small>
+| 41
+| —
+| 
+| align="left" rowspan="4"| ''The Squeeze''
+|-
+| rowspan="2"| 2017
+! scope="row"| "Crazy About You"
+| 7
+| —
+|
+|-
+! scope="row"| "Your Love Is the Drug"
+| 28
+| —
+|
+|-
+| 2018
+! scope="row"| "All Your Favorite Bands"
+| 46
+| —
+| 
+|-
+|-
+| 2019
+! scope="row"| "Zamboni"
+| —
+| —
+|
+| {{n/a}}
+|-
+| rowspan="2"| 2021
+! scope="row"| "The Boys Are Back At It"
+| 40
+| —
+| 
+| align="left" rowspan="2"| ''The Boys Are Back''
+|-
+! scope="row"| "Give'r"
+| 49
+| —
+|
+|-
+| colspan="6" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Guest singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:8em;"| Single
+! rowspan="2"| Artist
+! Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Canada Country|CAN Country]]
+|-
+| 2014
+! scope="row"| "Run"
+| [[Blackjack Billy]]<br /><small>(with [[Doc Walker]])</small>
+| 35
+| align="center" {{N/A}}
+|-
+| 2021
+! scope="row"| "Roll With It"
+| [[Dan Davidson]]
+| —
+| align="center"| TBD
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:18em;"| Video
+! Director
+|-
+| rowspan="2"| 2005
+! scope="row"| "I'm a Road Hammer"
+| [[Margaret Malandruccolo]]
+|-
+! scope="row"| "East Bound and Down"
+| Milton Sneed
+|-
+| 2006
+! scope="row"| "Girl on the Billboard"
+| Margaret Malandruccolo
+|-
+| 2008
+! scope="row"| "Homegrown"
+| Roger Pistole
+|-
+| 2009
+! scope="row"| "I've Got the Scars to Prove It"
+| Geoff McLean/Christopher Mills
+|-
+| 2013
+! scope="row"| "Get On Down the Road"
+| rowspan="2"| Margaret Malandruccolo
+|-
+| rowspan="3"| 2014
+! scope="row"| "Mud"
+|-
+! scope="row"| "I've Been Everywhere"
+| Sean Smith
+|-
+! scope="row"| "Run" <small>(with [[Blackjack Billy]] and [[Doc Walker]])</small>
+| 
+|-
+| rowspan="3"| 2015
+! scope="row"| "Hillbilly Highway" <small>(with [[Colt Ford]])</small>
+| Sean Smith
+|-
+! scope="row"| "Wheels"
+| 
+|-
+! scope="row"| "One Horse Town" <small>(with [[Tim Hicks]])</small>
+| 
+|-
+| rowspan="2"| 2017
+! scope="row"| "You're Love Is The Drug"
+| 
+|-
+! scope="row"| "Haulin' Ass"
+| 
+|-
+|-
+| 2018
+! scope="row"| "All Your Favorite Bands"
+|
+|- 
+| 2019
+! scope="row"| "Zamboni"
+| 
+|}
+
+==Awards and nominations==
+{| class="wikitable"
+|-
+! Year
+! Association
+! Category
+! Result
+|-
+| rowspan="5"| 2005
+| rowspan="5"| [[Canadian Country Music Association]]
+| Group or Duo of the Year
+| {{won}}
+|-
+| Chevy Trucks Rising Star Award
+| {{nom}}
+|-
+| Album of the Year – ''The Road Hammers''
+| {{nom}}
+|-
+| Single of the Year – "I'm a Road Hammer"
+| {{nom}}
+|-
+| CMT Video of the Year – "I'm a Road Hammer"
+| {{nom}}
+|-
+| rowspan="6"| 2006
+| [[Juno Awards of 2006]]
+| [[Juno Award for Country Album of the Year|Country Recording of the Year]] – ''The Road Hammers''
+| {{won}}
+|-
+| rowspan="6"| Canadian Country Music Association
+| Kraft Cheez Whiz Fans' Choice Award
+| {{nom}}
+|-
+| Group or Duo of the Year
+| {{won}}
+|-
+| Single of the Year – "East Bound and Down"
+| {{nom}}
+|-
+| CMT Video of the Year – "East Bound and Down"
+| {{won}}
+|-
+| Top Selling Album of the Year – ''The Road Hammers''
+| {{nom}}
+|-
+| 2007
+| Group or Duo of the Year
+| {{nom}}
+|-
+| rowspan="2"| 2010
+| [[Juno Awards of 2010]]
+| Country Album of the Year – ''The Road Hammers II''
+| {{nom}}
+|-
+| rowspan="2"| Canadian Country Music Association
+| Group or Duo of the Year
+| {{nom}}
+|-
+| 2014
+| Group or Duo of the Year
+| {{nom}}
+|-
+| rowspan="2"| 2015
+| [[Juno Awards of 2015]]
+| Country Album of the Year – ''Wheels''
+| {{nom}}
+|-
+| Canadian Country Music Association
+| Group or Duo of the Year
+| {{nom}}
+|-
+| 2017
+| Canadian Country Music Association
+| Group or Duo of the Year
+| {{won}}
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.theroadhammers.ca/ Official Homepage]
+
+
+{{The Road Hammers}}
+{{Authority control}}
+
+{{DEFAULTSORT:Road Hammers, The}}
+[[Category:Canadian country music groups]]
+[[Category:Canadian country rock groups]]
+[[Category:Juno Award for Country Album of the Year winners]]
+[[Category:Open Road Recordings artists]]
+[[Category:Montage Music Group artists]]
+[[Category:Canadian Country Music Association Group or Duo of the Year winners]]

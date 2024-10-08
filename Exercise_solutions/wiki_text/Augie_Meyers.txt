@@ -1,0 +1,104 @@
+{{short description|American musician}}
+
+{{BLP sources|date=July 2014}}
+{{Use mdy dates|date=December 2023}}
+{{Infobox musical artist
+| name            = Augie Meyers
+| image           = Sir-Douglas-Quintet-1966.png
+| caption         = Augie Meyers (middle) in the [[Sir Douglas Quintet]] in 1966
+| image_size      = <!-- Only for images narrower than 220 pixels -->
+| landscape       =
+| birth_name      = August Meyers
+| alias           = Lord August
+| birth_date      = {{Birth date and age|1940|5|31}}
+| birth_place     = [[San Antonio, Texas]], U.S.
+| death_date      =
+| death_place     =
+| origin          =
+| instrument      =  {{flatlist|
+*Keyboards
+*guitar
+*accordion
+*vocals
+}}
+| genre           = {{flatlist|
+*[[Garage rock]]
+*[[Psychedelic rock]]
+*[[Rock music|rock]]
+*[[Soul music|soul]]
+*[[Folk music|folk]]
+*[[Tejano music|tejano/tex-mex]]
+*[[Country music|country]]
+*[[country rock]]
+}}
+| occupation      = {{flatlist|
+*Musician
+*record producer
+*record label owner
+}}
+| years_active    =
+| website         = {{URL|augiemeyers.com}}
+}}
+
+'''August "Augie" Meyers''' (born May 31, 1940)<ref>{{Cite web|url=https://expectingrain.com/dok/who/m/meyersaugie.html|title=Bob Dylan Who's Who|website=Expectingrain.com|access-date=September 28, 2021}}</ref> is an American musician, songwriter, studio musician, record producer, and record label owner. He is perhaps best known as a founding member of the [[Sir Douglas Quintet]] and the [[Texas Tornados]].<ref name="Peel2014">{{cite book|last=Peel|first=Adrian|title=Tequila, Senoritas and Teardrops: Musicians Discuss the Influence of Mexico on Country Music|url=https://books.google.com/books?id=qU8mBgAAQBAJ&pg=PT23|access-date=December 24, 2015|year=2014|publisher=McFarland|isbn=978-1-4766-1780-0|page=23}}</ref>
+
+== History ==
+He was born in [[San Antonio]], [[Texas]], United States.<ref name="LarkinGE">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Encyclopedia of Popular Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1992|edition=First|isbn=0-85112-939-0|page=1680}}</ref> In the early 1960s, Meyers and [[Doug Sahm]] founded the Sir Douglas Quintet.<ref name="LarkinGE" /> His [[Vox (musical equipment)|Vox]] organ was a familiar element of the group's sound, as heard on tracks like "[[She's About a Mover]]" (1964), "Mendocino" (1969), and "Nuevo Laredo" (1970).<ref name="LarkinGE" />
+
+In the 1990s, Meyers co-founded the successful [[Supergroup (music)|supergroup]] known as the [[Texas Tornados]] with [[Doug Sahm]], [[Flaco Jiménez]], and [[Freddy Fender]].<ref name="LarkinGE" />
+
+Since the 1970s, Meyers has operated several of his own record labels, including the Texas Re-Cord Company (co-founded with Lucky Tomblin), Superbeet Records, White Boy Records, and El Sendero.
+
+As a studio musician, Meyers has played on numerous releases by other artists, including [[Bob Dylan]], [[John P. Hammond]], [[Tom Jones (singer)|Tom Jones]], [[John & Mary]], [[Tom Waits]], [[Raul Malo]], and [[Doug Sahm]].
+
+Meyers lives in the [[Texas Hill Country]] town of [[Bulverde, Texas|Bulverde]].
+
+== Select album discography ==
+*1971: ''The Western Head Music Co.'' ([[Polydor Records|Polydor]])
+*1972: ''You Ain't Rollin' Your Roll Rite'' ([[Paramount Records|Paramount]])
+*1975: ''Live At The Longneck'' (Texas Re-Cord Company)
+*1977: ''Finally In Lights'' (Texas Re-Cord Company)
+*1982: ''Still Growin'' (Sonet)
+*1984: ''August in New York'' (Sonet)
+*1986: ''Augie's Back'' (Sonet)
+*1986: ''My Main Squeeze'' (Superbeet)
+*1988: ''Sausalito Sunshine'' (Superbeet)
+*1992: ''White Boy'' (White Boy)
+*1996: ''Alive & Well At Lake Taco'' (White Boy)
+*2002: ''Blame It On Love'' (Texas World)
+*2006: ''My Freeholies Ain't Free Anymore'' (El Sendero)
+*2013: ''Loves Lost and Found'' (El Sendero)
+
+== Select collaborations ==
+*1991: John and Mary, ''Victory Gardens'' ([[Rykodisc Records|Rykodisc]])
+*1997: Bob Dylan, ''[[Time Out of Mind (Bob Dylan album)|Time Out Of Mind]]'' ([[Columbia Records|Columbia]])
+*2001: Bob Dylan, ''[[Love and Theft (Bob Dylan album)|Love And Theft]]'' (Columbia)
+*2005: John P. Hammond, ''In Your Arms Again'' ([[Back Porch Records|Back Porch]])
+*2014: Ben Vaughn, ''Texas Roadtrip'' (Many Moods)
+*2021: The Mal Thursday Quintet, ''If 6 Was 5'' (Chunk Archives Recordings)
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{Official website|http://www.augiemeyers.com|Augie Meyers official website}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Meyers, Augie}}
+[[Category:1940 births]]
+[[Category:Living people]]
+[[Category:Musicians from San Antonio]]
+[[Category:American country singer-songwriters]]
+[[Category:American country rock singers]]
+[[Category:American country pianists]]
+[[Category:American male pianists]]
+[[Category:American organists]]
+[[Category:American male organists]]
+[[Category:American rock keyboardists]]
+[[Category:American male singer-songwriters]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:Texas Tornados members]]
+[[Category:Sir Douglas Quintet members]]
+[[Category:People from Bulverde, Texas]]
+[[Category:Country musicians from Texas]]

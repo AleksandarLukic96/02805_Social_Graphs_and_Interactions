@@ -1,0 +1,144 @@
+{{Short description|American country music singer-songwriter (1961–2014)}}
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist
+| name            = Dawn Sears
+| image           =
+| caption         =
+| image_size      =
+| birth_name      = Dawn Marie Skari
+| birth_date      = {{Birth date|1961|12|7}}
+| birth_place     = [[Grand Forks, North Dakota]], U.S.
+| death_date      = {{Death date and age|2014|12|11|1961|12|7}}
+| death_place     = [[Gallatin, Tennessee]], U.S.
+| instrument      = Vocals
+| genre           = Ameripolitan, [[country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 1990–2014
+| label           = [[Warner Bros. Records|Warner Bros.]], [[Decca Records|Decca Nashville]]
+| past_member_of = [[The Time Jumpers]]
+| website         = {{URL|www.dawnsears.com}}
+}}
+'''Dawn Sears''' (born '''Dawn Marie Skari'''; December 7, 1961 – December 11, 2014) was an American [[country music]] singer. In addition to her work as a backing vocalist in [[Vince Gill]]'s band, she recorded four solo studio albums, of which two were released on major labels. She had one single that charted on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] charts.
+
+==Biography==
+'''Dawn Marie Skari''' was born in [[East Grand Forks, Minnesota]]. She began her career in 1990 with the album ''What a Woman Wants to Hear'' on [[Warner Bros. Records]]. The album produced two minor singles. Because of her debut album's poor performance, Sears had decided to leave the country music scene. However, she later received a call from [[Vince Gill]], who had asked her to join his road band as a harmony vocalist. According to information provided by Thomas "Duke" Miller, a TV/movie/celebrity expert, Sears was also known for her song "Another Dream Away", which became a theme song for the newer "Bandit" movies starring Brian Bloom. The movies were a reissue to cash in on the "Smokey And The Bandit" franchise.<ref name="new">{{cite journal|date=July 1994|title=This Month's Music: Dawn Sears: "Runaway Train"|journal=New Country|volume=1|issue=5|page=6|issn=1074-536X}}</ref><ref>{{cite web|url=http://www.dawnsears.com/bio.html|title=Dawn Sears biography|accessdate=January 5, 2008|work=Dawn Sears.com|archiveurl=https://web.archive.org/web/20070819121612/http://www.dawnsears.com/bio.html|archivedate=August 19, 2007}}</ref>
+
+In addition to singing harmony on Gill's 1992 album ''[[I Still Believe in You (album)|I Still Believe in You]]'', Sears provided duet vocals on the track "An Out of Control Raging Fire" on [[Tracy Byrd]]'s 1994 [[Tracy Byrd (album)|debut album]]. In 1994, she was signed as the first act on [[Decca Records]]' newly revived country music branch.<ref name="new"/> Her second album, 1994's ''Nothin' But Good'', was issued on Decca,<ref name="allmusic"/> and its lead-off single, "Runaway Train", entered the country music charts. Other singles from the album were unsuccessful, and Dawn exited Decca's roster not long afterward. A self-titled album was released independently in 2002, followed by her first Christmas album. Sears returned to her work as a backup vocalist for Gill.<ref name="allmusic">{{cite web|url={{AllMusic|class=artist|id=p28122|pure_url=yes}}|title=Dawn Sears biography|accessdate=January 5, 2008|last=McCall|first=Michael|work=[[Allmusic]]}}</ref> She made appearances on several of Gill's albums, including his 2003 album ''[[Next Big Thing]]''.<ref>{{cite web|url=http://www.capitalnews.com.au/editorial.asp?editorial_id=237&issue=38|title=Next Big Thing – Vince Gill|accessdate=January 5, 2008|date=March 2003|work=Capital News|archive-url=https://web.archive.org/web/20070904200737/http://www.capitalnews.com.au/editorial.asp?editorial_id=237&issue=38|archive-date=September 4, 2007|url-status=dead}}</ref> Sears also performed with [[The Time Jumpers]].
+
+In February 2012, Sears was diagnosed with lung cancer, which was diagnosed as Stage 3B in March 2013.<ref>{{cite web|url=http://www.theboot.com/2013/03/06/dawn-sears-cancer|title=Dawn Sears Cancer Diagnosis: Time Jumpers Member Undergoing Treatment|publisher=Theboot.com|date=March 6, 2013|accessdate=July 2, 2013}}</ref> She died in [[Gallatin, Tennessee]] on December 11, 2014, aged 53.  Sears was married to Kenny Sears (a Time Jumpers bandmate), and had a daughter, Tess.<ref>{{cite web|url=http://www.tennessean.com/story/entertainment/music/2014/12/12/dawn-sears-time-jumpers-dies/20306397|title=Dawn Sears of Time Jumpers dies at 53|date=December 12, 2014|work=[[The Tennessean]]|accessdate=December 12, 2014}}</ref>
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:16em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''[[What a Woman Wants to Hear]]''
+| 
+* Release date: October 15, 1991
+* Label: [[Warner Records|Warner Bros.]]
+|-
+! scope="row"| ''[[Nothin' but Good]]''
+| 
+* Release date: August 30, 1994
+* Label: [[Decca Records|Decca Nashville]]
+|-
+! scope="row"| ''Dawn Sears''
+| 
+* Release date: 2002
+* Label: self-released
+|-
+! scope="row"| ''A Christmas Dawn''
+| 
+* Release date: 2002
+* Label: self-released
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:16em;"| Single
+! colspan="2"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! style="width:45px;"| [[Hot Country Songs|US Country]]<br/><ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=373|isbn=978-0-89820-177-2}}</ref>
+! style="width:45px;"| [[RPM (magazine)|CAN Country]]<br/><ref>{{cite web|url=http://www.bac-lac.gc.ca/eng/discover/films-videos-sound-recordings/rpm/Pages/list.aspx?OCRText=Dawn+Sears&ChartEn=Country+Singles&|title=Dawn Sears - Country Singles|work=[[RPM (magazine)|RPM]]|date=July 17, 2013 |access-date=May 4, 2021}}</ref>
+|-
+| 1990
+! scope="row"| "San Antone"<ref>{{cite magazine|title=Single Reviews|page=82|magazine=[[Billboard (magazine)|Billboard]]|date=November 3, 1990}}</ref>
+| —
+| —
+| {{n/a|Non-album single}}
+|-
+| 1991
+! scope="row"| "Good Goodbye"
+| —
+| 77
+| align="left" rowspan="2"| ''What a Woman Wants to Hear''
+|-
+| 1992
+! scope="row"| "Tell Me I'm Crazy"<ref>{{cite magazine|title=Single Reviews|page=76|magazine=Billboard|date=February 22, 1992}}</ref>
+| —
+| —
+|-
+| rowspan="2"| 1994
+! scope="row"| "Runaway Train"
+| 62
+| 71
+| align="left" rowspan="2"| ''Nothin' but Good''
+|-
+! scope="row"| "Nothin' but Good"<ref>{{cite magazine|title=Single Reviews|page=61|magazine=Billboard|date=August 13, 1994}}</ref>
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:16em;"| Video
+! Director
+|-
+| 1990
+! scope="row"| "San Antone"
+| 
+|-
+| 1991
+! scope="row"| "Good Goodbye"
+| Jim May
+|-
+| rowspan="2"| 1994
+! scope="row"| "Runaway Train"<ref>{{cite web|url=http://www.cmt.com/videos/dawn-sears/383347/runaway-train.jhtml|title=CMT : Videos : Dawn Sears : Runaway Train|publisher=[[Country Music Television]]|accessdate=October 14, 2011}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+| [[Steven Goldmann]]
+|-
+! scope="row"| "Nothin' but Good"<ref>{{cite web|url=http://www.cmt.com/videos/dawn-sears/384620/nothin-but-good.jhtml|title=CMT : Videos : Dawn Sears : Nothin' But Good|publisher=[[Country Music Television]]|accessdate=October 14, 2011}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+| [[Michael Salomon]]
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Official website}}
+*{{AllMusic|artist|id=mn0000814334}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Sears, Dawn}}
+[[Category:1961 births]]
+[[Category:2014 deaths]]
+[[Category:People from East Grand Forks, Minnesota]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Decca Records artists]]
+[[Category:Warner Records artists]]
+[[Category:Country musicians from Minnesota]]
+[[Category:Deaths from lung cancer in Tennessee]]
+[[Category:Singer-songwriters from Minnesota]]
+[[Category:21st-century American women]]
+[[Category:The Time Jumpers members]]

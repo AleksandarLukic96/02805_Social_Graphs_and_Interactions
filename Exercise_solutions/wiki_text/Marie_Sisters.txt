@@ -1,0 +1,99 @@
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Marie Sisters
+| image                 = 
+| caption            = 
+| image_size            = 
+| background          = group_or_band
+| origin              = [[Lewisville, Texas]], U.S.<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=256|isbn=978-0-89820-177-2}}</ref>
+| genre               = [[Country music|Country]]
+| years_active        = 2002
+| label               = [[Universal Records|Universal]]/[[Republic Records|Republic]]
+| associated_acts     = [[Brian McKnight]]
+| website                 = 
+| past_members        = Chaz Marie<br />Kessie Marie
+}}
+'''Marie Sisters''' was an American [[country music]] act composed of sisters Chaz and Kessie Marie. Active only in the year 2002, the duo recorded one album for [[Universal Records|Universal]]/[[Republic Records]] and charted one single on the ''[[Billboard (magazine)|Billboard]]'' Hot Country Singles & Tracks (now [[Hot Country Songs]]) charts. This single, "Real Bad Mood", peaked at number 46.
+
+==History==
+Chaz and Kessie Marie's mother was a singer in a group called The Singing Pages, which had opened for [[Hank Williams]].<ref name="about">{{cite web |url=http://countrymusic.about.com/library/blmariesistersrev.htm |title=''Marie Sisters'' - Marie Sisters review |accessdate=2008-06-01 |last=Webb |first=Jennifer |work=[[About.com]]}}</ref> Both sisters had served as songwriters in [[Nashville, Tennessee]] after moving there in 1997,<ref>{{Cite web |url=http://www.countryweekly.com/vault/whos-new-marie-sisters |title=WHO'S NEW ... MARIE SISTERS - Country Weekly |access-date=2014-02-05 |archive-url=https://web.archive.org/web/20140222000751/http://www.countryweekly.com/vault/whos-new-marie-sisters |archive-date=2014-02-22 |url-status=dead }}</ref> and had sung [[backing vocals]] for [[LeAnn Rimes]]<ref>{{cite news|url=https://pqasb.pqarchiver.com/USAToday/access/124682601.html?dids=124682601:124682601&FMT=ABS&FMTS=ABS:FT&type=current&date=Jun+11%2C+2002&author=Elysa+Gardner%3B+Edna+Gundersen%3B+Steve+Jones%3B+Brian+Mansfield&pub=USA+TODAY&desc=Dirty+Vegas%27+clean+pop%3B+Saadiq%27s+%27Instant%27+classic&pqatl=google|archive-url=https://archive.today/20120722100602/http://pqasb.pqarchiver.com/USAToday/access/124682601.html?dids=124682601:124682601&FMT=ABS&FMTS=ABS:FT&type=current&date=Jun+11,+2002&author=Elysa+Gardner;+Edna+Gundersen;+Steve+Jones;+Brian+Mansfield&pub=USA+TODAY&desc=Dirty+Vegas'+clean+pop;+Saadiq's+'Instant'+classic&pqatl=google|url-status=dead|archive-date=July 22, 2012|title=Dirty Vegas' clean pop; Saadiq's 'Instant' classic|last=Gardner|first=Elysa|date=2002-06-11|work=[[USA Today]]|pages=D06|accessdate=2010-02-03|display-authors=etal}}</ref> before signing to [[Universal Records|Universal]]/[[Republic Records]] in March 2002.<ref>{{cite magazine|last=Stark|first=Phyllis|date=30 March 2002|title=Nashville Scene|magazine=Billboard|page=45|url=https://books.google.com/books?id=jRAEAAAAMBAJ&dq=%22marie+sisters%22+%22kessie%22&pg=PA45}}</ref> That year, the duo released its debut single "Real Bad Mood." Co-written by [[Leslie Satcher]], this song reached number 46 on the ''[[Billboard (magazine)|Billboard]]'' country charts at the end of the year.<ref name="whitburn"/>
+
+The Marie Sisters' self-titled debut album was released in June 2002 to mostly positive reviews. [[About.com]] critic Jennifer Webb favored the album's song variety of material, stating that it "would definitely appeal to many people that like the more contemporary country sound."<ref name="about"/> ''[[People (magazine)|People]]'' magazine referred to "Real Bad Mood" as a "lively, sensual tune" and "far from the only strong track" on the album.<ref name="people">{{cite web |url=http://www.people.com/people/archive/article/0,,20137703,00.html |title=Picks and Pans: Marie Sisters |accessdate=2008-07-05 |date=2002-08-12 |work=[[People Magazine]]}}</ref> Rick Teverbaugh, a reviewer for ''[[Country Standard Time]]'', also described the lead-off single favorably, saying that it "gives the Marie Sisters' sound a real edge not that prevalent on today's country landscape", and although he said that the album's slower songs lacked that edge, these other songs still had "all the emotion needed for the often-sentimental expressions."<ref name="cst">{{cite web |url=http://www.countrystandardtime.com/d/cdreview.asp?xid=1886 |title=Marie Sisters review |accessdate=2008-09-14 |last=Teverbaugh |first=Rick |work=[[Country Standard Time]]}}</ref> [[Allmusic]] critic Robert L. Doershuk gave it two stars out of five, as he considered it largely formulaic, saying that its sound was "professional and polished, and also predictable."<ref name="allmusic">{{cite web |url={{AllMusic|class=album|id=r594746|pure_url=yes}} |title=Marie Sisters - Overview |accessdate=2008-07-05 |last=Doerschuk |first=Robert L. |work=[[Allmusic]]}}</ref> Songwriter [[Max T. Barnes]] produced the majority of the album. "Bring It On Back" was produced by Guy Roche, "I Will Hold On" and "If I Fall In Love" by [[Richard Marx]], and "Kiss Me Goodbye" by [[Shep Goodman]] and Kenny Gioia.<ref>{{Cite AV media notes |title=Marie Sisters |others=Marie Sisters|year=2002 |type=CD insert |publisher=Universal Records |id=440 017 819-2}}</ref> The album produced no other singles and the duo broke up afterward.
+
+Chaz is now a solo artist.<ref>{{cite web|author=|url=http://www.dfwbands.com/bands/chaz.html |title=Dallas Country Diva Chaz Marie Band |website=Dfwbands.com |date=2014-07-07 |accessdate=2020-03-21}}</ref>
+
+==''Marie Sisters'' (2002)==
+{{Infobox album
+| italic_title = no
+| name       = ''Marie Sisters''
+| type       = studio
+| artist     = Marie Sisters
+| cover      = mariesisters.jpg
+| alt        =
+| released   = {{Start date|2002|06|11}}
+| recorded   =
+| venue      =
+| studio     =
+| genre      = Country
+| length     =
+| label      = Universal/Republic
+| producer   = [[Max T. Barnes]]<br />[[Richard Marx]]<br />Guy Roche<br />[[Shep Goodman]]<br />Kenny Gioia
+| prev_title =
+| prev_year  =
+| next_title =
+| next_year  =
+}}
+
+===Track listing===
+#"Real Bad Mood" (Don Poythress, [[Leslie Satcher]]) – 4:00
+#"Oh Yeah" (Jeremy Campbell, [[Noah Gordon (singer)|Noah Gordon]]) – 3:04
+#"Strong for You" ([[Max T. Barnes]], T.W. Hale) – 3:24
+#"Bring It On Back" (Shi-Anne Ragsdale, [[Jason Sellers]]) – 4:00
+#"You Were a Mountain" ([[Max T. Barnes]], [[Trey Bruce]]) – 3:21
+#"Still" ([[Brian McKnight]], Brandon Barnes) – 3:45
+#"Crazy to Run" (Greg Humphrey, [[Laurie Webb]]) – 3:56
+#"I Will Hold On" (Greg Harrison, [[Richard Marx]]) – 4:12
+#"Circle of Love" (Del Harley, Allan Koppelberger, Webb) – 4:05
+#"Kiss Me Goodbye" ([[Shep Goodman]], Kenny Gioia, Angela Ammons) – 3:51
+#"If I Fall in Love Tonight" ([[Gary Burr]], Marx) – 3:34
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:10em;"| Single
+!| Peak positions
+|- style="font-size:smaller;"
+! style="width:65px;"| [[Hot Country Songs|US Country]]
+|-
+| 2002
+! scope="row"| "Real Bad Mood"
+| 46
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:10em;"| Video
+! Director
+|-
+| 2002
+! scope="row"| "Real Bad Mood"
+| Brad Furman
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+http://www.chazmarie.com
+*[http://www.KessieMarie.com/ Kessie Marie]
+
+{{Authority control}}
+
+[[Category:Country music groups from Texas]]
+[[Category:American country music duos]]
+[[Category:Republic Records artists]]
+[[Category:Sibling musical duos]]
+[[Category:Musical groups established in 2002]]
+[[Category:2002 establishments in Texas]]

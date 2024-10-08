@@ -1,0 +1,181 @@
+{{Use dmy dates|date=March 2020}}
+{{About|the musician|the anthropologist and archaeologist|Diane Zaino Chase}}
+{{Infobox musical artist
+| name            = Diane Chase
+| image           = Diane_Chase.jpg
+| image_size      =
+| caption         = Diane Chase, November 2005
+| origin          = [[Sudbury, Ontario]], Canada
+| instrument      = Vocals
+| genre           = [[Country music|Country]]
+| occupation      = Singer
+| years_active    = 2000–present
+| label           = Spin
+| associated_acts =
+| website         = 
+}}
+
+'''Diane Chase''' is a Canadian [[country music]] artist. Chase has released three studio albums, 2000's ''In the Middle of Something'', 2004's ''The Ride'' and 2009's ''Gettin' There''. Her debut album produced two charting singles on the ''[[RPM (magazine)|RPM]]'' Country Tracks chart in Canada, of which the highest was the No.&nbsp;11-peaking title track.<ref name="RPM Country Singles">{{cite web|url=http://www.bac-lac.gc.ca/eng/discover/films-videos-sound-recordings/rpm/Pages/list.aspx?OCRText=Diane+Chase&ChartEn=Country+Singles&|title=Diane Chase - Country Singles|work=RPM|accessdate=February 27, 2023}}</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable"
+! Year
+! Album
+|- 
+| 2000
+| ''In the Middle of Something''
+|-
+| 2004
+| ''The Ride''
+|-
+| 2009
+| ''Gettin' There''
+|}
+
+===Singles===
+{| class="wikitable"
+! Year
+! Single
+! <small>[[RPM (magazine)|CAN<br/>Country]]</small><br/><ref name="RPM Country Singles"/>
+! Album
+|-
+| 1999
+| "In the Middle of Something"
+| align="center"| 11
+| rowspan="6"| ''In the Middle of Something''
+|-
+| rowspan="2"| 2000
+| "Walking Away with You"
+| align="center"| 19
+|-
+| "Taking Back My Heart"
+| align="center"| ×
+|-
+| 2001
+| "There I Go Again"
+| align="center"| ×
+|-
+| rowspan="2"| 2002
+| "Crazy in Love"
+| align="center"| ×
+|-
+| "How Do I Break Your Heart" <small>(with Jason Barry)</small>
+| align="center"| ×
+|-
+| 2003
+| "The Ride"
+| align="center"| ×
+| rowspan="5"| ''The Ride''
+|-
+| 2004
+| "I Hate Love"
+| align="center"| —
+|-
+| 2005
+| "Woman I Wanna Be"
+| align="center"| —
+|-
+| rowspan="2"| 2006
+| "Hearts Don't Think Like That"
+| align="center"| —
+|-
+| "Soiree in the Kitchen"
+| align="center"| —
+|-
+| 2007
+| "I Wanna Live Like That"
+| align="center"| —
+| rowspan="5"| ''Gettin' There''
+|-
+| rowspan="2"| 2009
+| "Rich Girl"
+| align="center"| —
+|-
+| "Gettin' There"
+| align="center"| —
+|-
+| rowspan="2"| 2010
+| "I Miss Us"
+| align="center"| —
+|-
+| "Stand Still"
+| align="center"| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart<br/>"×" indicates that no relevant chart existed or was archived
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;"| Video
+|-
+| 1999
+! scope="row"| "In the Middle of Something"
+|-
+| rowspan="2"| 2000
+! scope="row"| "Walking Away with You"
+|-
+! scope="row"| "Taking Back My Heart"
+|}
+
+==Awards and nominations==
+{| class="wikitable"
+|-
+! Year
+! Association
+! Category
+! Result
+|-
+| rowspan="2"| 2001
+| rowspan="10"| [[Canadian Country Music Association]]
+| Independent Female Artist of the Year
+| {{nom}}
+|-
+| Independent Song of the Year – "In the Middle of Something"
+| {{nom}}
+|-
+| rowspan="2"| 2001
+| Independent Female Artist of the Year
+| {{nom}}
+|-
+| Independent Song of the Year – "Taking Back My Heart"
+| {{nom}}
+|-
+| 2002
+| Independent Female Artist of the Year
+| {{nom}}
+|-
+| 2003
+| Independent Female Artist of the Year
+| {{nom}}
+|-
+| 2004
+| Independent Female Artist of the Year
+| {{nom}}
+|-
+| 2005
+| Independent Female Artist of the Year
+| {{nom}}
+|-
+| 2006
+| Independent Female Artist of the Year
+| {{nom}}
+|-
+| 2007
+| Independent Female Artist of the Year
+| {{nom}}
+|-
+|}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Chase, Diane}}
+[[Category:Canadian women country singers]]
+[[Category:Living people]]
+[[Category:Musicians from Greater Sudbury]]
+[[Category:Year of birth missing (living people)]]

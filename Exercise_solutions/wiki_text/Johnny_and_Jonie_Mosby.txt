@@ -1,0 +1,175 @@
+{{Short description|American country music duo}}
+{{Redirect-distinguish|Jonie|Johnie|Joni (disambiguation)|Jonnie|Jony}}
+{{Infobox musical artist
+| name            = Johnny and Jonie Mosby
+| image           = Johnny and Jonie Mosby.png
+| alt             =
+| caption         = The duo in 1970
+| image_size      = 250px
+| origin          = U.S.
+| genre           = [[Country music|Country]]
+| years_active    = 1963–1973
+| label           = [[Columbia Records|Columbia]]<br />[[Starday Records|Starday]]<br />[[Capitol Records|Capitol]]
+| associated_acts =
+| past_members    = Johnny Mosby<br />Jonie Mosby
+}}
+
+'''Johnny and Jonie Mosby''' was an American husband-and-wife [[country music]] vocal duo. They placed seventeen singles on the country music charts between 1963 and 1973, and released six albums for various labels. Five of the duo's singles made top 20 on the [[Hot Country Songs]] charts, with the highest peaks being "Trouble in My Arms" and "Just Hold My Hand", both at number twelve.
+
+==Biography==
+John Robert "Johnny" Mosby (born in [[Fort Smith, Arkansas]]; April 26, 1929 – February 19, 2018)<ref name=Johnobi/> and Janice Irene "Jonie" Shields (born in [[Van Nuys, California]] on August 10, 1940)<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|pages=288–289|isbn=978-0-89820-177-2}}</ref> met in California when she auditioned for his orchestra.<ref name="allmusic">{{cite web |url={{AllMusic|class=artist|id=p33544|pure_url=yes}} |title=Johnny and Jonie Mosby biography |last=Brennan |first=Sandra |website=[[AllMusic]] |access-date=October 3, 2010}}</ref> They married in 1958.<ref name="whitburn"/> They started recording for Challenge records that same year. In 1959, they made the first recording of "Tijuana Jail".
+
+Signed to [[Columbia Records]], the duo released its debut single, "Don't Call Me from a Honky Tonk", in 1963. It went to number thirteen on the country music charts and was followed by another Top 20 hit, the number twelve "Trouble in My Arms".<ref name="whitburn"/> By 1965, the duo released ''Mr. and Mrs. Country Music'' through Columbia, followed by ''The New Sweethearts of Country'' on the [[Starday Records]] label.<ref name="allmusic"/>
+
+From 1967 to 1972, the Mosbys recorded for [[Capitol Records]], reaching top 20 again with "Just Hold My Hand" and "I'm Leavin' It Up to You" at numbers twelve and eighteen.<ref name="allmusic"/> In the same timespan, the duo recorded several albums for the label. In 1971, Jonie released a solo single, "I've Been There", which peaked at number 72 on the country charts.<ref name="whitburn"/> They filed for divorce in 1973.
+
+In 1992 at age 52, Jonie Mosby became the oldest woman to have a baby through [[in vitro fertilization]] as she gave birth to a son Morgan Bradford Mitchell by second husband, Donald Mitchell.<ref name="allmusic"/><ref>{{cite news|last1=Joe|first1=Sherry|title=Woman, 52, Gives Birth to In-Vitro Baby : Ventura: Jonie Mosby Mitchell is believed to be the oldest American to have a child through the fertilization process.|url=https://www.latimes.com/archives/la-xpm-1992-04-02-me-113-story.html|access-date=June 27, 2017|newspaper=[[Los Angeles Times]]|date=April 2, 1992}}</ref>
+
+Johnny Mosby died on February 19, 2018, at age 88.<ref name=Johnobi>{{Cite web|url=https://www.legacy.com/us/obituaries/venturacountystar/name/john-mosby-obituary?id=1627762|title=John Robert Mosby Obituary 1929 - 2018|date=March 4, 2018|publisher=Ventura County Star|access-date=August 8, 2021}}</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable" style="text-align:left;"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Album details
+! colspan="2"| Peak chart positions<ref>{{cite web|url={{AllMusic|class=artist|id=p33544|pure_url=yes}}|title=Johnny and Jonie Mosby charted albums|website=[[AllMusic]]|access-date=October 5, 2010}}</ref>
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]
+! width="45"| [[The Billboard 200|US]]
+|-
+|rowspan=2|1965
+| '''''Mr. and Mrs. Country Music'''''
+*Label: [[Columbia Records]]
+|align=center|18
+|align=center|—
+|-
+| '''''The New Sweethearts of Country Music'''''
+*Label: [[Starday Records]]
+|align=center|—
+|align=center|—
+|-
+|1968
+| '''''Make a Left and Then a Right'''''
+*Label: [[Capitol Records]]
+|align=center|—
+|align=center|—
+|-
+|rowspan=3|1969
+|'''''Just Hold My Hand'''''
+*Label: Capitol Records
+|align=center|41
+|align=center|—
+|-
+| '''''Hold Me'''''
+*Label: Capitol Records
+|align=center|33
+|align=center|197
+|-
+|'''''I'll Never Be Free'''''
+*Label: Capitol Records
+|align=center|—
+|align=center|—
+|-
+|1970
+|'''''My Happiness'''''
+*Label: Capitol Records
+|align=center|—
+|align=center|—
+|}
+
+===Singles===
+{| class="wikitable"
+|-
+!rowspan="2"|Year
+!rowspan="2"|Single
+!colspan="1"|Chart Positions
+!rowspan="2"|Album
+|-
+!width="50"|<small>[[Hot Country Songs|US<br/>Country]]<br/></small><ref name="whitburn"/>
+|- 
+|rowspan=3|1963
+|"Don't Call Me from a Honky Tonk"
+|align=center|13
+|rowspan=5|''Mr. and Mrs. Country Music''
+|-
+|"Trouble in My Arms"
+|align=center|12
+|-
+|"Who's Been Cheatin' Who"<sup><span id="ref_A"></span>[[#endnote_A|'''[A]''']]</sup>
+|align=center|27
+|-
+|rowspan=2|1964
+|"Keep Those Cards and Letters Comin' In"
+|align=center|16
+|-
+|"How the Other Half Lives"
+|align=center|21
+|-
+|1967
+|"Make a Left and Then a Right"
+|align=center|36
+|rowspan=2|''Make a Left and Then a Right''
+|-
+|rowspan=2|1968
+|"Mr. and Mrs. John Smith"
+|align=center|53
+|-
+|"Our Golden Wedding Day"
+|align=center|68
+|rowspan=2|''Just Hold My Hand''
+|-
+|rowspan=3|1969
+|"Just Hold My Hand"
+|align=center|12
+|-
+|"Hold Me, Thrill Me, Kiss Me"
+|align=center|38
+|''Hold Me''
+|-
+|"[[I'll Never Be Free]]"
+|align=center|26
+|''I'll Never Be Free''
+|-
+|rowspan=3|1970
+|"Third World"
+|align=center|34
+|rowspan=3|''My Happiness''
+|-
+|"I'm Leavin' It Up to You"<sup><span id="ref_B"></span>[[#endnote_B|'''[B]''']]</sup>
+|align=center|18
+|-
+|"My Happiness"
+|align=center|47
+|-
+|rowspan=2|1971
+|"Oh, Love of Mine"
+|align=center|41
+|rowspan=3|non-album singles
+|-
+|"Just One More Time"
+|align=center|70
+|-
+|1973
+|"I've Been There" <small>(Jonie Mosby)</small>
+|align=center|72
+|}
+
+{{Refbegin}}
+;Notes
+*A<span id="endnote_A"></span>'''[[#ref_A|^]]''' [[B-side]] to "Trouble in My Arms".
+*B<span id="endnote_B"></span>'''[[#ref_B|^]]''' Peaked at No.&nbsp;21  on ''[[RPM (magazine)|RPM]]'' Country Tracks.<ref>{{cite web|url=http://www.collectionscanada.gc.ca/rpm/028020-119.01-e.php?&file_num=nlc008388.3813&type=1&interval=20&PHPSESSID=34haa9v320qf07inqs4jqgokj3|title=RPM Country Tracks for June 27, 1970|website=Collectionscanada.gc.ca|access-date=October 5, 2010}}</ref>
+{{Refend}}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Mosby, Johnny and Jonie}}
+[[Category:American country music groups]]
+[[Category:Capitol Records artists]]
+[[Category:Columbia Records artists]]
+[[Category:American country music duos]]
+[[Category:Married couples]]
+[[Category:Musical groups established in 1963]]

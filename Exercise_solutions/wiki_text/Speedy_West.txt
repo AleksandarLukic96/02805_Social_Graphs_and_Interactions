@@ -1,0 +1,51 @@
+{{Short description|American guitarist}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name              = Speedy West
+| image             = Speedy West playing steel guitar.jpeg
+| background        = non_vocal_instrumentalist
+| birth_name        = Wesley Webb West
+| alias             = 
+| birth_date        = {{birth date|1924|1|25}}
+| death_date        = {{death date and age|2003|11|15|1924|1|25}}
+| birth_place       = [[Springfield, Missouri]] U.S.
+| instrument        = [[Pedal steel guitar]]
+| death_place       = [[Broken Bow, Oklahoma]]
+| genre             = [[Country music]]
+| occupation        = [[Record producer]], [[guitarist]]
+| years_active      = 1947-1981
+| label             = [[Capitol Records|Capitol]]
+| associated_acts   = [[Jimmy Bryant]]
+| spouse            = Opal Mae (married 1941-1964)
+}}
+
+'''Wesley Webb West''' (January 25, 1924 – November 15, 2003), better known as '''Speedy West''', was an American [[pedal steel guitar]]ist and [[record producer]]. He frequently played with [[Jimmy Bryant]], both in their own duo and as part of the regular [[Capitol Records]] backing band for [[Tennessee Ernie Ford]] and many others. The duo also recorded with non-Capitol artists in Los Angeles. In 1960, Speedy played on and produced [[Loretta Lynn]]'s first single. During his time at Capitol, he played on over 6000 recordings, including pop records by artists like [[Frank Sinatra]] and [[Bing Crosby]].<ref name=":0">{{Cite news |agency=Associated Press |date=2003-11-24 |title=Speedy West, 79, Steel-Guitar Innovator |language=en-US |work=The New York Times |url=https://www.nytimes.com/2003/11/24/arts/speedy-west-79-steel-guitar-innovator.html |access-date=2023-01-02 |issn=0362-4331}}</ref> West, who began playing [[Paul A. Bigsby|Paul Bigsby's]] second ever pedal steel guitar in 1947,<ref name=":0" /> was the first country steel guitarist to use a pedal guitar. Nashville players like [[Bud Isaacs]] would adopt it in the early 1950s. After a stroke in 1981, West was unable to play pedal steel, but would continue to attend steel guitar conventions. His health would continue to deteriorate and he would pass away on November 15, 2003.<ref>{{Cite web |title=Speedy West Biography |url=https://musicianguide.com/biographies/1608004058/Speedy-West.html |access-date=2023-01-02 |website=musicianguide.com}}</ref>
+
+==Partial discography==
+*''Speedy West And Jimmy Bryant - Two Guitars Country Style'' (1954 - Capitol Records)
+*''West Of Hawaii'' (1958 - Capitol Records)
+*''Steel Guitar'' (1960 - Capitol Records)
+*''Guitar Spectacular'' (1962 - Capitol Records)
+*''Speedy'' (1977 - Steel Guitar Record Club)
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.rockabillyhall.com/SpeedyWest1.html Speedy West] at the Rockabilly Hall of Fame
+*[https://www.namm.org/library/oral-history/speedy-west Speedy West Interview] NAMM Oral History Library, May 17, 2002.
+*[https://www.findagrave.com/memorial/74412064/wesley-webb-west Wesley Webb “Speedy” West] on [[Find a Grave|Find A Grave]].
+{{Authority control}}
+
+{{DEFAULTSORT:West, Speedy}}
+[[Category:1924 births]]
+[[Category:2003 deaths]]
+[[Category:Musicians from Springfield, Missouri]]
+[[Category:American country guitarists]]
+[[Category:American male guitarists]]
+[[Category:Steel guitarists]]
+[[Category:Western swing performers]]
+[[Category:20th-century American guitarists]]
+[[Category:Pedal steel guitarists]]
+[[Category:Guitarists from Missouri]]
+[[Category:Country musicians from Missouri]]
+[[Category:20th-century American male musicians]]

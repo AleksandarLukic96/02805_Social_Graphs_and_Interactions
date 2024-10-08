@@ -1,0 +1,67 @@
+{{About||the American Negro league outfielder|Frank Ray (baseball)|the bus driver who was kidnapped in 1976|1976 Chowchilla kidnapping}}
+{{Infobox musical artist
+| name             = Frank Ray
+| image            = 
+| birth_name       = Francisco Gomez<ref name="cmt">{{cite web | url=http://www.cmt.com/news/1835218/frank-ray-blends-country-latin-vibes-with-streetlights/ | archive-url=https://web.archive.org/web/20210618160354/http://www.cmt.com/news/1835218/frank-ray-blends-country-latin-vibes-with-streetlights/ | url-status=dead | archive-date=June 18, 2021 | title=Frank Ray Blends Country, Latin Vibes With "Streetlights" | publisher=CMT | date=June 18, 2021 | accessdate=January 26, 2022}}</ref>
+| alias            = 
+| birth_date       = {{birth date and age|1987|01|08}}
+| birth_place      = [[Deming, New Mexico]], U.S.
+| origin           = [[Nashville, Tennessee]], U.S.
+| genre            = [[Country music|Country]]
+| occupation       = Singer
+| instrument       = {{flatlist|
+* Vocals
+* guitar
+}}
+| years_active     = 2019–present
+| label            = [[BBR Music Group|BBR]]
+}}
+
+'''Francisco Gomez''' (born January 8, 1987), known professionally as '''Frank Ray''', is an American [[country music]] singer. Signed to [[BBR Music Group]], he has released the single "Country'd Look Good on You".
+
+==Biography==
+Francisco Gomez is a native of [[Deming, New Mexico]]. His parents divorced when he was four years old, and he lived with his mother in [[Laredo, Texas|Laredo]] and [[San Antonio, Texas]]. He then moved to [[Columbus, New Mexico]] with his father. It was through his moving that he began listening to not only [[country music]], but also ''[[ranchera]]'' music. As he is of Hispanic descent, he thought that he would "stand out" as a country musician, citing other Hispanic artists such as [[Freddy Fender]] as inspiration on this front.<ref name="lcs"/>
+
+From 2007 to 2017, Gomez worked as a [[police officer]] in [[Las Cruces, New Mexico]]. After having success with performances on weekends and gaining regional commercial success with songs on the Texas country charts, he retired from the police force and began singing full-time. He released an EP titled ''Different Kind of Country'' in 2018 under his performing name of Frank Ray. In addition, he became an opening act for [[Ashley McBryde]].<ref name="lcs">{{cite web | url=https://www.lcsun-news.com/story/news/2019/01/06/movers-shakers-2019-frank-ray-borderland-musician-cop-country-music/2407500002/ | title=Movers and Shakers 2019: Frank Ray sings for the borderland | work=Las Cruces Sun News | date=January 6, 2019 | access-date=January 26, 2022}}</ref>
+
+In 2021, Ray signed with [[BBR Music Group]] and released the song "Streetlights". The song features Ray singing in both English and Spanish. Ray was contacted by BBR staff after one of them discovered a previous song of his, "Tequila Mockingbird", on a [[Spotify]] playlist.<ref name="cmt"/> Later in the year he issued his debut single, "Country'd Look Good on You". This was followed in January 2022 by his first performance on the [[Grand Ole Opry]].<ref>{{cite web | url=https://people.com/country/frank-ray-reflects-on-grand-ole-opry-debut-incredible/ | title=Frank Ray Crosses Another Dream Off His Country Checklist as He Debuts at the Grand Ole Opry: 'Incredible' | work=People | date=January 14, 2022 | access-date=January 26, 2022}}</ref> The same month, "Country'd Look Good on You" entered the top 40 on the ''[[Billboard (magazine)|Billboard]]'' [[Country Airplay]] charts,<ref name="bcu">{{cite web | url=https://s3.amazonaws.com/bulletins.billboard.com/country/country_update_2022_0124.pdf | title=Billboard Country Update | publisher=Billboard | date=January 24, 2022 | access-date=January 26, 2022}}</ref> and went on to peak in the top 20 of the chart in September.
+
+==Discography==
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of singles, with selected chart positions
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Title
+! colspan="2"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! style="width:45px;"| [[Hot Country Songs|US<br />Country<br />Songs]]<br /><ref>{{cite magazine|url=https://www.billboard.com/artist/frank-ray/chart-history/csi/|title=Frank Ray Chart History: Hot Country Songs|magazine=[[Billboard (magazine)|Billboard]]|access-date=June 22, 2022}}</ref>
+! style="width:45px;"| [[Country Airplay|US Country Airplay]]<br /><ref>{{cite magazine|url=https://www.billboard.com/artist/frank-ray/chart-history/csa/|title=Frank Ray Chart History: Country Airplay|magazine=[[Billboard (magazine)|Billboard]]|access-date=September 9, 2023}}</ref>
+|-
+| 2021
+! scope="row"| "Country'd Look Good on You"
+| 46 || 17
+| rowspan="3" {{tba}}
+|-
+| 2023
+! scope="row"| "Somebody Else's Whiskey"
+| — || 48
+|-
+|2024
+! scope="row"| "Uh-Huh (Ajá)"
+|—
+|—
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ray, Frank}}
+[[Category:American male singers]]
+[[Category:American country singers]]
+[[Category:BBR Music Group artists]]
+[[Category:Living people]]
+[[Category:People from Luna County, New Mexico]]
+[[Category:1987 births]]

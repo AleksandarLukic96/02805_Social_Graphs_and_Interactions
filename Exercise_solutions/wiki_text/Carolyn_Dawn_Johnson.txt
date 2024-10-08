@@ -1,0 +1,762 @@
+{{short description|Canadian country music singer-songwriter|bot=PearBOT 5}}
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist
+| image        = Carolyn Dawn Johnson at Cook County in Edm.jpg
+| name         = Carolyn Dawn Johnson
+| image_size   = 280px
+| caption      = Johnson performing in Edmonton, Alberta in 2008
+| birth_name   =
+| alias        =
+| birth_date   = {{Birth date and age|1971|04|30}}
+| birth_place  = [[Grande Prairie]], Alberta, Canada
+| origin       =
+| death_date   = <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date 1st) -->
+| death_place  =
+| instrument   = {{hlist|Vocals|acoustic guitar|piano}}
+| genre        = [[Country music|Country]]
+| occupation   = Singer-songwriter
+| years_active = 1999{{dash}}present
+| label        = {{hlist|[[Arista Nashville]]|Angeline|[[Equity Music Group|Equity]]|Dancing Lily Music}}
+| website      = {{URL|www.cdj.com/wired}}
+}}
+
+'''Carolyn Dawn Johnson''' (born April 30, 1971) is a Canadian [[country music]] singer-songwriter. Johnson co-wrote [[Chely Wright]]'s 1999 single, "[[Single White Female (song)|Single White Female]]," which reached number one on the ''Billboard'' [[Hot Country Songs|Hot Country Singles & Tracks]] chart in September 1999. Johnson was signed, in 2000, to record label [[Arista Nashville]].
+
+In 2001, Johnson released her debut album ''[[Room with a View (album)|Room with a View]].'' The album's first single "Georgia" reached No. 4 on the ''[[RPM (magazine)|RPM]]'' Canadian Country Singles Chart for the week of November 6, 2000.  "Complicated" was a Top Ten hit on the U.S. ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles & Tracks]] chart. Her next single ("I Don't Want You to Go") was also a Top Ten hit in the U.S. .
+
+==Biography==
+
+===Early life and music===
+Carolyn Dawn Johnson was born in [[Grande Prairie]], Alberta to John Johnson, a farmer and operator of a seed-cleaning business, and Loretta Johnson, a supervisor of a home for senior citizens. Johnson was raised on a farm in [[Deadwood, Alberta]] with two brothers, late older brother Derwin, who died due to an undisclosed illness on Christmas Eve in 1998, and brother Greg.
+
+Johnson was passionate about music from a young age and even asked her mother how anyone could live without it.<ref name="rca">{{cite web
+ |url=http://www.rcalabelgroup.com/Bios_Discos/carolyn_dawn_johnson.htm 
+ |title=Carolyn Dawn Johnson Bio 
+ |publisher=RCA Label Group 
+ |access-date=July 19, 2007 
+ |archive-url=https://web.archive.org/web/20070928021844/http://www.rcalabelgroup.com/Bios_Discos/carolyn_dawn_johnson.htm 
+ |archive-date=September 28, 2007 
+ |url-status=dead 
+}}</ref> She sang at a church and started playing the piano at the age of five, learning from her pastor's wife, Evangeline Thiessen.<ref name="elm">{{cite web
+| author = Metella, Helen
+| date = 2001
+| url = http://www.almost-paradise.net/cdjfans/articles/elmstreet.html
+| title = A Guitar and a Full Tank of Gas
+| archive-url = https://web.archive.org/web/20050126095521/http://www.almost-paradise.net/cdjfans/articles/elmstreet.html
+| archive-date = January 26, 2005
+| publisher = Elm Street Magazine
+| access-date = July 19, 2007
+}}</ref> Her parents played country music records by [[Jim Reeves]] and [[Don Williams]] at home and as she got older, her musical interests diversified as she listened to artists like [[ABBA]], [[Charley Pride]], [[Fleetwood Mac]] and [[Marty Stuart]] among others. The family later moved to [[Westlock, Alberta]] and Johnson attended RF Staples High School there. During her high school years, she learned to play the clarinet, flute and saxophone. She kept up her piano lessons largely in part due to Thiessan sending books and encouraging letters to her.<ref name="elm"/> Her high school teachers were not as encouraging and caused her to turn away from music for a while and turn to science, a period in her life which she called "a stain in her heart".<ref name="yam">{{cite web
+| url = http://www.yamaha.com/Artists/ArtistDetail/0,,CNTID%253D33462%2526CTID%253D551078%2526CNTYP%253DARTIST,00.html
+| title = Carolyn Dawn Johnson
+| publisher = [[Yamaha (manufacturer)|Yamaha]]
+| access-date = July 19, 2007
+| archive-url = https://web.archive.org/web/20070926232706/http://www.yamaha.com/Artists/ArtistDetail/0,,CNTID%3D33462%26CTID%3D551078%26CNTYP%3DARTIST,00.html
+| archive-date = September 26, 2007
+| url-status = dead
+}}</ref>
+
+After graduating high school, believing that she could not make a living as a musician, Johnson attended [[Trinity Western University]] in [[Langley, British Columbia (district municipality)|Langley]], British Columbia studying biology and a year later she was in [[Edmonton]], Alberta studying education.<ref name="elm"/> During her college years, she frequently sat-in with local bands at night and encouragement from them caused her to think that maybe she could have a career in the music industry. At the age of 20, she taught herself to play the guitar<ref name="swu">{{cite web
+ |author       = Moore, Jayne
+ |url          = http://www.songwriteruniverse.com/cdjohnson.htm
+ |title        = Hit Country Writer/Artist Carolyn Dawn Johnson Is Set To Release New Single, Second Album
+ |publisher    = Songwriter Universe Magazine
+ |access-date   = July 19, 2007
+ |archive-url  = https://web.archive.org/web/20071016222742/http://songwriteruniverse.com/cdjohnson.htm
+ |archive-date = October 16, 2007
+ |url-status     = dead
+}}</ref> and realizing that her true calling was in music, she went to [[Vancouver]], British Columbia and there she attended Columbia Academy<ref name="can">{{cite web
+ |author       = North, Peter
+ |date         = July 1, 2006|url          = http://www.canada.com/cityguides/calgary/story.html?id=c63b4f4d-720c-433d-80eb-3d356cf5f3dc&k=73519
+ |title        = Johnson no country crybaby
+ |publisher    = CanWest News Service
+ |access-date   = July 19, 2007
+ |archive-url  = https://web.archive.org/web/20071210105341/http://www.canada.com/cityguides/calgary/story.html?id=c63b4f4d-720c-433d-80eb-3d356cf5f3dc&k=73519
+ |archive-date = December 10, 2007
+ |url-status     = dead
+}}</ref> and learned the technical aspects of the music industry.<ref name="cmtbio">{{cite web
+| url = http://www.cmt.com/artists/az/johnson_carolyn_dawn/bio.jhtml
+| archive-url = https://web.archive.org/web/20040227222058/http://www.cmt.com/artists/az/johnson_carolyn_dawn/bio.jhtml
+| url-status = dead
+| archive-date = February 27, 2004
+| title = Carolyn Dawn Johnson Biography
+| publisher = [[Country Music Television]]
+| access-date = July 19, 2007
+}}</ref> Johnson focussed on songwriting in her spare time and ordered a video featuring songwriters from [[Nashville, Tennessee|Nashville]] to learn more about songwriting and through this video, she joined the Nashville Songwriters Association International.<ref name="cmtbio"/>
+In 1994, Johnson headed to Nashville after calling her mother and saying, "I'm going big. I'm going for the big picture."<ref name="elm"/>
+
+===Songwriting career===
+In Nashville, Johnson attended songwriting workshops and writer's night events. In 1997, Johnson moved permanently to Nashville after obtaining a work visa and later that year, she signed with Patrick Joseph Music as a songwriter.<ref name="rca"/> Her songwriting demos captured the attention of many record label executives and some of the songs she wrote were recorded by [[Patty Loveless]], [[Suzy Bogguss]], [[Kathy Mattea]], [[Mindy McCready]], [[Jo Dee Messina]], [[Linda Davis]] and [[Chely Wright]]. Johnson's breakthrough as a songwriter came in 1999 when "[[Single White Female (song)|Single White Female]]", a song she co-wrote with Shaye Smith and recorded by Wright, became a number one hit on country radio. This song became Johnson's first number one hit as a songwriter. Another one of her songs, "Downtime", recorded by Messina, also became a top five hit. In 2000, Johnson was named "Breakthrough Songwriter of the Year" by [[MusicRow]] Magazine.
+
+===Singing and recording career===
+In 1999, Johnson started her career as a solo artist. Her success as a songwriter led her to a record deal with the [[Arista Records|Arista Nashville]] record label.  [[Paul Worley]], a producer with whom Johnson was working, was also working with [[Martina McBride]] at that time and asked Johnson to sing background vocals on McBride's songs.<ref name="swu"/> McBride subsequently invited Johnson to go on tour with her as a backup singer and guitarist. Johnson toured with McBride for over a year and during this time she was also hard at work writing songs for her debut album.<ref name="swu"/>
+
+===''Room with a View''===
+In 2001, Johnson went on the Girls Night Out Tour opening for high-profile stars [[Sara Evans]], Martina McBride, [[Reba McEntire]] and [[Jamie O'Neal]]. Later that year, Johnson released her debut album ''[[Room with a View (album)|Room with a View]]'' in Canada. She co-wrote all 13 songs and co-produced the album. An American release of the album followed a few months later, though only containing the first 11 songs due to differences in the contracts.<ref name="canoe1">{{cite web
+| author = Van Wyk, Anika
+| url = http://jam.canoe.ca/Music/Artists/J/Johnson_Carolyn_Dawn/2001/03/06/746377.html
+| archive-url = https://archive.today/20130115075219/http://jam.canoe.ca/Music/Artists/J/Johnson_Carolyn_Dawn/2001/03/06/746377.html
+| url-status = usurped
+| archive-date = January 15, 2013
+| title = Albertan steps into spotlight
+| publisher = [[Calgary Sun]]
+| access-date = July 19, 2007
+}}</ref> The album was well-received as it sold a little less than 18,000 copies in its first week and debuted at No.&nbsp;8 on the US country sales chart.<ref name="canoe2">{{cite web
+| author = Cantin, Paul
+| url = http://jam.canoe.ca/Music/Artists/J/Johnson_Carolyn_Dawn/2001/09/03/746386.html
+| archive-url = https://archive.today/20130115060349/http://jam.canoe.ca/Music/Artists/J/Johnson_Carolyn_Dawn/2001/09/03/746386.html
+| url-status = usurped
+| archive-date = January 15, 2013
+| title = Carolyn Dawn Johnson exceeds expectations
+| publisher = [[Canadian Online Explorer|CANOE]]
+| access-date = July 19, 2007
+}}</ref> It became Arista Nashville's highest debuting album by a new artist since [[Nielsen SoundScan|SoundScan]] was used to track record sales.<ref name="yam"/> The album went on to be certified gold in Canada in a few months.<ref name="cria">{{cite web 
+ |url=http://www.cria.ca/gold/0602_g.php 
+ |title=Gold & Platinum Certification 
+ |publisher=[[Canadian Recording Industry Association]] 
+ |access-date=July 19, 2007 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20070702121939/http://www.cria.ca/gold/0602_g.php 
+ |archive-date=July 2, 2007 
+ }}</ref>
+
+The first two singles from the album, "Georgia" and "Complicated", were both hits in the United States, with the latter reaching No.&nbsp;5 on the country charts. The year ended with Johnson receiving a record-breaking 10 nominations from the [[Canadian Country Music Association]], with "Georgia" and "Complicated" competing against each other for "Single of the Year", "Song of the Year" and "Video of the Year".<ref name="cmt01">{{cite web
+| url = http://www.cmt.com/artists/news/1448779/09102001/johnson_carolyn_dawn.jhtml
+| archive-url = https://web.archive.org/web/20040506085429/http://www.cmt.com/artists/news/1448779/09102001/johnson_carolyn_dawn.jhtml
+| url-status = dead
+| archive-date = May 6, 2004
+| title = One Year Later, Johnson is Top CCMA Nominee
+| publisher = [[Country Music Television]]
+| access-date = July 19, 2007
+}}</ref> Johnson went on to win five awards, including her first "Female Artist of the Year" award.<ref name="ccma01">{{cite web
+ |url=http://www.ccma.org/awards/2001.htm 
+ |title=2001 CCMA Award Winners 
+ |publisher=[[Canadian Country Music Association]] 
+ |access-date=July 19, 2007 
+ |archive-url=https://web.archive.org/web/20070928080920/http://www.ccma.org/awards/2001.htm 
+ |archive-date=September 28, 2007 
+ |url-status=dead 
+}}</ref>
+
+Johnson went on tour with [[Alan Jackson]] and [[Kenny Chesney]] in 2002. Her next single, "I Don't Want You to Go", was a top 10 hit in both Canada and the US. Subsequent singles did well on the Canadian charts but not on the American charts. Johnson was nominated for five CCMA awards that year and won three, including her second consecutive "Female Artist of the Year".<ref name="ccma02">{{cite web
+ |url=http://www.ccma.org/awards/2002.htm 
+ |title=2002 CCMA Award Winners 
+ |publisher=[[Canadian Country Music Association]] 
+ |access-date=July 19, 2007 
+ |archive-url=https://web.archive.org/web/20070928080939/http://www.ccma.org/awards/2002.htm 
+ |archive-date=September 28, 2007 
+ |url-status=dead 
+}}</ref> She also won a [[Juno Award]] for "Best Country Artist" and an [[Academy of Country Music]] award for 
+"Top New Female Artist" that year.<ref name="canoe3">{{cite web
+| author = Wuensch, Yuri
+| url = http://jam.canoe.ca/Music/Artists/J/Johnson_Carolyn_Dawn/2006/07/24/1699503.html
+| archive-url = https://archive.today/20130115065728/http://jam.canoe.ca/Music/Artists/J/Johnson_Carolyn_Dawn/2006/07/24/1699503.html
+| url-status = usurped
+| archive-date = January 15, 2013
+| title = Carolyn Dawn Johnson's love for country
+| publisher = [[Canadian Online Explorer|CANOE]]
+| access-date = July 19, 2007
+}}</ref>
+
+In 2003, Johnson went on her first co-headlining tour with [[Keith Urban]]. While on tour, she was once again writing songs, this time for her second album. Urban provided his voice for a song on that album.
+
+===''Dress Rehearsal''===
+In 2004, Johnson released her second album, ''[[Dress Rehearsal (Carolyn Dawn Johnson album)|Dress Rehearsal]]'', in which she co-produced and wrote 11 of the 12 songs. The album debuted at number nine on Billboard's top country albums charts.<ref name="cmt02">{{cite web
+| author = Gilbert, Calvin
+| date = May 1, 2004| url = http://www.cmt.com/artists/news/1487032/05142004/johnson_carolyn_dawn.jhtml
+| archive-url = https://web.archive.org/web/20040608095235/http://www.cmt.com/artists/news/1487032/05142004/johnson_carolyn_dawn.jhtml
+| url-status = dead
+| archive-date = June 8, 2004
+| title = Womack and Johnson Make Top 10 Debuts
+| publisher = [[Country Music Television]]
+| access-date = July 19, 2007
+}}</ref> The first single from the album, "Simple Life", did well on both the Canadian and the American country charts. This was the only song on the album that she did not write. The second single, "[[Die of a Broken Heart]]", also did well on the Canadian country charts but not on the American charts. Later that year, she received seven CCMA award nominations and won five awards.<ref name="ccma04">{{cite web
+ |url=http://www.ccma.org/awards/2004.htm 
+ |title=2004 CCMA Award Winners 
+ |publisher=[[Canadian Country Music Association]] 
+ |access-date=July 19, 2007 
+ |archive-url=https://web.archive.org/web/20070928080926/http://www.ccma.org/awards/2004.htm 
+ |archive-date=September 28, 2007 
+ |url-status=dead 
+}}</ref>
+
+Johnson left Arista Nashville in 2005 because "what they wanted her to do wasn't her."<ref name="canoe4">{{cite web
+| author = Van Wyk, Anika
+| url = http://jam.canoe.ca/Music/Artists/J/Johnson_Carolyn_Dawn/2006/07/14/1684712-sun.html
+| archive-url = https://archive.today/20130115095208/http://jam.canoe.ca/Music/Artists/J/Johnson_Carolyn_Dawn/2006/07/14/1684712-sun.html
+| url-status = usurped
+| archive-date = January 15, 2013
+| title = Carolyn Dawn Johnson stays in control
+| publisher = [[Calgary Sun]]
+| access-date = July 19, 2007
+}}</ref>
+
+===''Love and Negotiation''===
+''[[Love & Negotiation]]'', Johnson's 3rd album, was released in Canada under the Angeline Entertainment label in 2006. As with her first album, she wrote all 12 songs, but this time she produced the entire album by herself. The album was originally scheduled to be released in the United States in mid-2007 by [[Equity Music Group]] but was delayed and Johnson exited Equity in 2008.<ref name="cmt03">{{cite web
+| url = http://www.cmt.com/artists/news/1537634/08012006/johnson_carolyn_dawn.jhtml
+| archive-url = https://web.archive.org/web/20070930044556/http://www.cmt.com/artists/news/1537634/08012006/johnson_carolyn_dawn.jhtml
+| url-status = dead
+| archive-date = September 30, 2007
+| title = Carolyn Dawn Johnson Signs With Equity
+| publisher = [[Country Music Television]]
+| access-date = July 19, 2007
+}}</ref> In September 2007, Johnson was named Female Vocalist of the Year at the 2007 CCMA Awards. ''Love & Negotiation'' was eventually released in the United States digitally through Dancing Lily Music on October 13, 2009, with different artwork.
+
+===''Love Rules''===
+In 2010, Johnson released the first single from her upcoming studio album. The single, "Let Me Introduce Myself", is included on her fourth studio album, ''[[Love Rules (album)|Love Rules]]'', which was released digitally in the United States on July 21, 2010, and in Canada on August 10, 2010, via Dancing Lily Music. The album is produced by Johnson and Frank Rogers and features 12 new songs. 'Love Rules' was nominated for Country Album of the Year at the 2011 Juno Awards<ref>[http://junoawards.ca/2011-juno-award-nominees/#country_album_of_the_year_sponsored_by_country_style ] {{webarchive |url=https://web.archive.org/web/20110202102058/http://junoawards.ca/2011-juno-award-nominees/#country_album_of_the_year_sponsored_by_country_style |date=February 2, 2011 }}</ref>
+
+==Personal life==
+Johnson married Matt Fisher in 2003: they divorced in 2019. They have two children, Abigail [2008] and Bennett [2010].
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:12em;"| Title
+! rowspan="2" style="width:18em;"| Details
+! colspan="2"| Peak chart<br>positions
+! rowspan="2" style="width:8em;"| [[Music recording sales certification|Certifications]]<br>{{small|([[List of best selling music artists|sales threshold]])}}
+|- style="font-size:smaller;"
+! style="width:4em;"| [[Top Country Albums|US Country]]<br><ref>{{cite magazine|url=https://www.billboard.com/artist/carolyn-dawn-johnson/chart-history/clp/|title=Carolyn Dawn Johnson Chart History – Country Albums|magazine=[[Billboard (magazine)|Billboard]]|access-date=February 4, 2018}}</ref>
+! style="width:4em;"| [[Billboard 200|US]]<br><ref>{{cite magazine|url=https://www.billboard.com/artist/carolyn-dawn-johnson/chart-history/tlp/|title=Carolyn Dawn Johnson Chart History – ''Billboard'' 200|magazine=Billboard|access-date=February 4, 2018}}</ref>
+|-
+! scope="row"| ''[[Room with a View (album)|Room with a View]]''
+| 
+* Release date: August 7, 2001
+* Label: [[Arista Nashville]]
+* Formats: CD, [[Cassette tape|cassette]]
+| 8
+| 87
+| style="text-align:left;"| 
+* [[Music Canada|MC]]: Gold{{Certification Cite Ref|region=Canada |type=album |title=Room with a View |artist=Carolyn Dawn Johnson |accessdate=February 4, 2018}}
+|-
+! scope="row"| ''[[Dress Rehearsal (album)|Dress Rehearsal]]''
+| 
+* Release date: May 4, 2004
+* Label: Arista Nashville
+* Formats: CD, [[music download]]
+| 9
+| 65
+| 
+|-
+! scope="row"| ''[[Love & Negotiation]]''
+| 
+* Release date: June 6, 2006
+* Label: Angeline/[[Equity Music Group]]
+* Formats: CD, music download
+| —
+| —
+| 
+|-
+! scope="row"| ''[[Love Rules (album)|Love Rules]]''
+| 
+* Release date: August 10, 2010
+* Label: Dancing Lily Music
+* Formats: CD, music download
+| —
+| —
+| 
+|-
+| colspan="10" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! colspan="4"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! style="width:4em;"| [[Canada Country|CAN Country]]<br><ref name="CAN Country">Peak chart positions for country singles in Canada:
+*"Georgia" – {{cite journal|url=http://www.bac-lac.gc.ca/eng/discover/films-videos-sound-recordings/rpm/Pages/item.aspx?IdNumber=3976&|title=Country 100|journal=[[RPM (magazine)|RPM]]|date=November 6, 2000}}
+*"Simple Life" – {{cite journal|url=https://www.americanradiohistory.com/Archive-RandR/2000s/2004/RR-2004-04-16.pdf|title=Canada Country Top 30|journal=[[Radio & Records]]|date=April 16, 2004}}
+*"Die of a Broken Heart" – {{cite journal|url=https://www.americanradiohistory.com/Archive-RandR/2000s/2004/RR-2004-07-23.pdf|title=Canada Country Top 30|journal=Radio & Records|date=July 23, 2004}}
+*"Head Over High Heels" – {{cite journal|url=https://www.americanradiohistory.com/Archive-RandR/2000s/2004/RR-2004-11-26.pdf|title=Canada Country Top 30|journal=Radio & Records|date=November 26, 2004}}
+*"Dress Rehearsal" – {{cite journal|url=https://www.americanradiohistory.com/Archive-RandR/2000s/2005/RR-2005-04-15.pdf|title=Canada Country Top 30|journal=Radio & Records|date=April 15, 2005}}
+*All other singles – {{cite magazine|url=https://www.billboard.com/artist/carolyn-dawn-johnson/chart-history/ccw/|title=Carolyn Dawn Johnson Chart History – Canada Country|magazine=Billboard|access-date=February 4, 2018}}</ref>
+! style="width:4em;"| [[Canadian Hot 100|CAN]]<br><ref name="CAN Hot 100">{{cite magazine|url=https://www.billboard.com/artist/carolyn-dawn-johnson/chart-history/can/|title=Carolyn Dawn Johnson Chart History – Canadian Hot 100|magazine=Billboard|access-date=February 4, 2018}}</ref>
+! style="width:4em;"| [[Hot Country Songs|US Country]]<br><ref>{{cite magazine|url=https://www.billboard.com/artist/carolyn-dawn-johnson/chart-history/csi/|title=Carolyn Dawn Johnson Chart History – Hot Country Songs|magazine=Billboard|access-date=February 4, 2018}}</ref>
+! style="width:4em;"| [[Billboard Hot 100|US]]<br><ref>{{cite magazine|url=https://www.billboard.com/artist/carolyn-dawn-johnson/chart-history/hsi/|title=Carolyn Dawn Johnson Chart History – Hot 100|magazine=Billboard|access-date=February 4, 2018}}</ref>
+|-
+| 2000
+! scope="row"| "[[Georgia (Carolyn Dawn Johnson song)|Georgia]]"
+| 4{{efn|"Georgia" reached number 4 when ''[[RPM (magazine)|RPM]]'' ceased publication after the November 6, 2000, issue.}}
+| —
+| 25
+| 98
+| style="text-align:left;" rowspan="4"| ''Room with a View''
+|-
+| rowspan="2"| 2001
+! scope="row"| "[[Complicated (Carolyn Dawn Johnson song)|Complicated]]"{{efn|"Complicated" also peaked at number 15 on the US [[Adult Contemporary (chart)|Adult Contemporary]] chart and number 39 the US [[Adult Pop Songs]] chart.<ref>{{cite magazine|url=https://www.billboard.com/artist/carolyn-dawn-johnson/chart-history/asi/|title=Carolyn Dawn Johnson Chart History – Adult Contemporary|magazine=Billboard|access-date=February 4, 2018}}</ref><ref>{{cite magazine|url=https://www.billboard.com/artist/carolyn-dawn-johnson/chart-history/atf/|title=Carolyn Dawn Johnson Chart History – Adult Pop Songs|magazine=Billboard|access-date=February 4, 2018}}</ref>}}
+| *
+| —
+| 5
+| 59
+|-
+! scope="row"| "[[I Don't Want You to Go]]"
+| *
+| —
+| 7
+| 54
+|-
+| 2002
+! scope="row"| "[[One Day Closer to You]]"
+| *
+| —
+| 24
+| —
+|-
+| 2003
+! scope="row"| "[[Simple Life (Carolyn Dawn Johnson song)|Simple Life]]"
+| 14{{efn|"Simple Life" debuted at number 14 when the ''[[Radio & Records]]'' Canada Country chart debuted in April 2004, several months after the single's release.}}
+| —
+| 13
+| 73
+| align="left" rowspan="4"| ''Dress Rehearsal''
+|-
+| rowspan="2"| 2004
+! scope="row"| "[[Die of a Broken Heart]]"
+| 4
+| —
+| 52
+| —
+|-
+! scope="row"| "Head Over High Heels"
+| 5
+| —
+| —
+| —
+|-
+| 2005
+! scope="row"| "Dress Rehearsal"
+| 11
+| —
+| —
+| —
+|-
+| rowspan="2"| 2006
+! scope="row"| "Crybaby"
+| 7
+| —
+| —
+| —
+| style="text-align:left;" rowspan="3"| ''Love & Negotiation''
+|-
+! scope="row"| "Taking Back My Brave"
+| 6
+| —
+| —
+| —
+|-
+| 2007
+! scope="row"| "Into You"
+| 10
+| 99
+| —
+| —
+|-
+| rowspan="2"| 2010
+! scope="row"| "Let Me Introduce Myself"
+| 8 
+| 98
+| —
+| —
+| style="text-align:left;" rowspan="5"| ''Love Rules''
+|-
+! scope="row"| "The Whole Thing"
+| 15
+| —
+| —
+| —
+|-
+| rowspan="2"| 2011
+! scope="row"| "Stop for Me"
+| 16
+| —
+| —
+| —
+|-
+! scope="row"| "I'd Still Have You"
+| 18
+| —
+| —
+| —
+|-
+| 2012
+! scope="row"| "Reach You"
+| 20
+| —
+| —
+| —
+|-
+| 2020
+! scope="row"| "Light Changes Everything"
+| —
+| —
+| —
+| —
+| rowspan=2 {{n/a|Non-album single}}
+|-
+| 2023
+! scope="row"| "Road Blocks"
+| —
+| —
+| —
+| —
+|-
+| colspan="7" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+====As featured artist====
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! colspan="3"| Peak positions
+! rowspan="2" style="width:8em;"| [[Music recording sales certification|Certifications]]
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! style="width:4em;"| [[Canada Country|CAN Country]]<br/><ref>Peak positions for featured singles on Canada Country:
+* "Baby I Know It": {{cite magazine|url=https://www.billboard.com/artist/johnny-reid/chart-history/ccw/|title=Johnny Reid Chart History (Canada Country)|magazine=Billboard|access-date=February 4, 2018}}
+* "I Didn't Fall in Love with Your Hair": {{cite magazine|url=https://www.billboard.com/artist/brett-kissel/chart-history/ccw/|title=Brett Kissel Chart History (Canada Country)|magazine=Billboard|access-date=October 10, 2017}}</ref>
+! style="width:4em;"| [[Canadian Hot 100|CAN]]<br/><ref>Peak positions for featured singles on Canadian Hot 100:
+* "Baby I Know It": {{cite magazine|url=https://www.billboard.com/artist/johnny-reid/chart-history/ccw/|title=Johnny Reid Chart History (Canada Country)|magazine=Billboard|access-date=February 4, 2018}}
+* "I Didn't Fall in Love with Your Hair": {{cite magazine|url=https://www.billboard.com/artist/brett-kissel/chart-history/can/|title=Brett Kissel Chart History (Canadian Hot 100)|magazine=[[Billboard (magazine)|Billboard]]|access-date=October 10, 2017}}</ref>
+! style="width:4em;"| [[Hot Country Songs|US Country]]<br/><ref name="America the Beautiful">Peak positions for featured singles on Hot Country Songs:
+* "America the Beautiful": {{cite book|title=Billboard|date=September 29, 2001|publisher=[[Nielsen Business Media]]|page=[https://archive.org/details/bub_gb_CRQEAAAAMBAJ/page/n30 31]|edition=Vol. 113, No. 39|url=https://archive.org/details/bub_gb_CRQEAAAAMBAJ|access-date=February 4, 2018}}</ref>
+|-
+| 2001
+! scope="row"| "[[America the Beautiful]]"{{efn|All-star collaboration featuring [[Trace Adkins]], [[Billy Dean]], [[Vince Gill]], Carolyn Dawn Johnson, [[Toby Keith]], [[Brenda Lee]], [[Lonestar]], [[Martina McBride]], [[Jamie O'Neal]], [[Kenny Rogers]], and [[Keith Urban]].<ref name="America the Beautiful"/>}}
+| —
+| —
+| 58
+|
+| {{n/a|Non-album single}}
+|-
+| 2012
+! scope="row"| "Baby I Know It"<br/>{{small|([[Johnny Reid]] featuring Carolyn Dawn Johnson)}}
+| 3
+| 76
+| —
+|
+| align="left"| ''[[Fire It Up (Johnny Reid album)|Fire It Up]]''
+|-
+| 2016
+! scope="row"| "[[I Didn't Fall in Love with Your Hair]]"<br/>{{small|([[Brett Kissel]] featuring Carolyn Dawn Johnson)}}
+| 16
+| 88
+| —
+|
+* MC: Gold{{Certification Cite Ref |region=Canada |type=single |title=I Didn't Fall in Love with Your Hair |artist=Brett Kissel |accessdate=February 4, 2018}}
+| align="left"| ''[[Pick Me Up (album)|Pick Me Up]]''
+|-
+| colspan="7" style="font-size:8pt"| "—" denotes releases that did not chart<br>"*" denotes releases where no chart existed
+|}
+
+===Other charted songs===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Single
+! Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! style="width:4em;"| [[Canada Country|CAN Country]]<br><ref name="CAN Country"/>
+|-
+| 2008
+! scope="row"| "I Wouldn't Want Christmas (Any Other Way)"
+| 47
+| style="text-align:left;"| ''Country Heat Christmas 3''
+|}
+
+===Music videos===
+{| class="wikitable"
+|-
+! Year
+! Video
+! Director
+|-
+| 2000
+| "Georgia"
+| Brent Hedgecock
+|-
+| rowspan="2"|2001
+| "[[America the Beautiful]]"
+| Marc Ball
+|-
+| "Complicated"
+| rowspan="2"| Lisa Mann
+|-
+| rowspan="2"| 2002
+| "I Don't Want You to Go"
+|-
+| "You Are"
+| 
+|-
+| 2004
+| "Simple Life"
+| [[Steven Goldmann]]
+|-
+| 2005
+| "Dress Rehearsal"
+| [[Margaret Malandruccolo]]
+|-
+| 2006
+| "Crybaby"
+| Margaret Malandruccolo
+|-
+| rowspan="2"| 2007
+| "Into You"
+| 
+|-
+| "I Wouldn't Want Christmas (Any Other Way)"
+| 
+|-
+| 2010
+| "The Whole Thing"
+| 
+|-
+| 2011
+| "Stop for Me" {{small|(from XM Sessions)}}
+| Steve J Murphy
+|-
+| 2012
+| "Baby I Know It" {{small|(with [[Johnny Reid]])}}
+| 
+|}
+
+==Singles written by Johnson==
+{| class="wikitable"
+|-
+! Year 
+! Title 
+! Artist(s)
+|-
+|rowspan="4"|1999
+|"I'm Yours"
+|[[Linda Davis]]
+|-
+|"[[Single White Female (song)|Single White Female]]"
+|[[Chely Wright]]
+|-
+|"After a Kiss"
+|[[Pam Tillis]]
+|-
+|"Squeezin' the Love Outta You"
+|[[Redmon and Vale]]
+|-
+|2001
+|"Downtime"
+|[[Jo Dee Messina]]
+|}
+
+==Awards and nominations==
+{| class="wikitable"
+|-
+! Year
+! Organization
+! Category
+! Result
+|-
+| rowspan="12"| 2001
+| [[Academy of Country Music]]
+| Top New Female Vocalist
+| {{nom}}
+|-
+| [[Juno Award]]
+| Best Country Female Artist
+| {{nom}}
+|-
+| rowspan="10"| [[Canadian Country Music Association]]
+| TELUS Mobility Fans' Choice Award
+| {{nom}}
+|-
+| Female Artist of the Year
+| {{won}}
+|-
+| SOCAN Song of the Year ("Complicated")
+| {{won}}
+|-
+| SOCAN Song of the Year ("Georgia")
+| {{nom}}
+|-
+| Single of the Year ("Complicated")
+| {{won}}
+|-
+| Single of the Year ("Georgia")
+| {{nom}}
+|-
+| Album of the Year (''Room with a View'')
+| {{won}}
+|-
+| Video of the Year ("Complicated")
+| {{nom}}
+|-
+| Video of the Year ("Georgia")
+| {{nom}}
+|-
+| Chevy Trucks Rising Star Award
+| {{won}}
+|-
+| rowspan="8"| 2002
+| [[Academy of Country Music]]
+| Top New Female Vocalist
+| {{won}}
+|-
+| [[Country Music Association]]
+| Horizon Award
+| {{nom}}
+|-
+| Juno Award
+| Best Country Artist/Group
+| {{won}}
+|-
+| rowspan="7"| Canadian Country Music Association
+| Fans' Choice Award
+| {{nom}}
+|-
+| Female Artist of the Year
+| {{won}}
+|-
+| SOCAN Song of the Year ("I Don't Want You to Go")
+| {{nom}}
+|-
+| Single of the Year ("I Don't Want You to Go")
+| {{won}}
+|-
+| CMT Video of the Year ("I Don't Want You to Go")
+| {{won}}
+|-
+| rowspan="3"| 2003
+| Kraft Cheez Whiz Fans' Choice Award
+| {{nom}}
+|-
+| Female Artist of the Year
+| {{nom}}
+|-
+| [[American Music Awards]]
+| Favorite Country New Artist
+| {{won}}
+|-
+| rowspan="6"| 2004
+| rowspan="6"| Canadian Country Music Association
+| Kraft Cheez Whiz Fans' Choice Award
+| {{nom}}
+|-
+| Female Artist of the Year
+| {{nom}}
+|-
+| SOCAN Song of the Year ("Die of a Broken Heart")
+| {{won}}
+|-
+| Single of the Year ("Simple Life")
+| {{won}}
+|-
+| Album of the Year (''Dress Rehearsal'')
+| {{won}}
+|-
+| CMT Video of the Year ("Simple Life")
+| {{won}}
+|-
+| rowspan="5"| 2005
+| Juno Award
+| Country Recording of the Year (''Dress Rehearsal'')
+| {{nom}}
+|-
+| rowspan="6"| Canadian Country Music Association
+| Kraft Cheez Whiz Fans' Choice Award
+| {{nom}}
+|-
+| Female Artist of the Year
+| {{nom}}
+|-
+| SOCAN Song of the Year ("Dress Rehearsal")
+| {{nom}}
+|-
+| Single of the Year ("Die of a Broken Heart")
+| {{nom}}
+|-
+| rowspan="2"| 2006
+| Female Artist of the Year
+| {{won}}
+|-
+| SOCAN Song of the Year ("Crybaby")
+| {{nom}}
+|-
+| rowspan="5"| 2007
+| Juno Award
+| Country Recording of the Year (''Love & Negotiation'')
+| {{nom}}
+|-
+| rowspan="8"| Canadian Country Music Association
+| Kraft Cheez Whiz Fans' Choice Award
+| {{nom}}
+|-
+| Female Artist of the Year
+| {{won}}
+|-
+| SOCAN Songwriter of the Year ("Taking Back My Brave")
+| {{nom}}
+|-
+| Album of the Year (''Love & Negotiation'')
+| {{nom}}
+|-
+| 2008
+| Female Artist of the Year
+| {{nom}}
+|-
+| 2010
+| Female Artist of the Year
+| {{nom}}
+|-
+| rowspan="3"| 2011
+| Female Artist of the Year
+| {{nom}}
+|-
+| Album of the Year (''Love Rules'')
+| {{nom}}
+|-
+| [[Juno Award]]
+| Country Album of the Year (''Love Rules'')
+| {{nom}}
+|-
+| 2012
+| rowspan="2"| Canadian Country Music Association
+| Female Artist of the Year
+| {{won}}
+|-
+| 2013
+| Female Artist of the Year
+| {{nom}}
+|}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==External links==
+*{{official website|http://www.carolyndawnjohnson.com/}}
+
+{{Authority control}}
+
+{{Carolyn Dawn Johnson}}
+
+{{DEFAULTSORT:Johnson, Carolyn Dawn}}
+[[Category:1971 births]]
+[[Category:Living people]]
+[[Category:People from Grande Prairie]]
+[[Category:Canadian women country singers]]
+[[Category:Singers from Alberta]]
+[[Category:Juno Award winners]]
+[[Category:Equity Music Group artists]]
+[[Category:Arista Nashville artists]]
+[[Category:Canadian Country Music Association Female Artist of the Year winners]]
+[[Category:Canadian Country Music Association Rising Star Award winners]]
+[[Category:Canadian Country Music Association Single of the Year winners]]
+[[Category:Canadian country singer-songwriters]]
+[[Category:21st-century Canadian women singers]]
+[[Category:Canadian Country Music Association Album of the Year winners]]
+[[Category:21st-century Canadian singer-songwriters]]

@@ -1,0 +1,277 @@
+{{short description|American singer-songwriter}}
+
+{{BLP sources|date=April 2020}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Leon Everette
+| image               = 
+| background          = solo_singer
+| birth_name          = Leon Everette Baughman
+| birth_date          = {{Birth date and age|1948|03|27}}
+| origin              = [[Aiken, South Carolina]], United States
+| instrument          = [[Vocals]]
+| genre               = [[Country music|Country]], [[country rock]], [[Country pop|urban cowboy]]
+| occupation          = Singer
+| years_active        = 1977{{snd}}2010
+| label               = {{plainlist|
+* True
+* Orlando
+* [[RCA Records|RCA]]
+* [[Mercury Records|Mercury]]
+* LightStream }}
+| associated_acts     = 
+}}
+
+'''Leon Everette Baughman''' (born June 21, 1948)<ref name="LarkinCountry">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Who's Who of Country Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1993|edition=First|isbn=0-85112-726-6|pages=134/5}}</ref><ref name="oldies">{{cite web |url=http://www.oldies.com/artist-biography/Leon-Everette.html |title=Leon Everette biography |accessdate=2008-08-23 |work=Oldies.com}}</ref> is an American [[country music]] artist.
+
+==Background==
+He was born in [[Aiken, South Carolina]], United States.<ref name="LarkinCountry"/> While in the Navy during the Vietnam War, Everette won a singing contest and decided to pursue a career in country music.<ref name="LarkinCountry"/> Between 1977 and 1985, Everette recorded eight studio albums, including five for the [[RCA Records Nashville|RCA Nashville]] label. He charted several singles on the [[Hot Country Songs]] charts in the same timespan. Everette reached top 10 on the [[Hot Country Songs]] charts with the singles "Over", "Giving Up Easy", "Hurricane", "Midnight Rodeo", "Just Give Me What You Think Is Fair", "Soul Searchin'", "My Lady Loves Me (Just as I Am)" and "I Could'a Had You".<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=139|isbn=978-0-89820-177-2}}</ref>
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:16em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! Peak positions
+|- style="font-size:smaller;"
+! width="60"| [[Top Country Albums|US Country]]
+|-
+! scope="row"| ''Goodbye King of Rock N' Roll''
+| 
+* Release date: 1977
+* Label: True Records
+| —
+|-
+! scope="row"| ''I Don't Want to Lose''
+| 
+* Release date: August 1980
+* Label: Orlando Records
+| 61
+|-
+! scope="row"| ''If I Keep On Going Crazy''
+| 
+* Release date: February 1981
+* Label: [[RCA Records]]
+| 56
+|-
+! scope="row"| ''Hurricane''
+| 
+* Release date: November 1981
+* Label: RCA Records
+| 30
+|-
+! scope="row"| ''Where's the Fire''
+| 
+* Release date: April 1985
+* Label: [[Mercury Records]]
+| 52
+|-
+| colspan="3" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:16em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! Peak positions
+|- style="font-size:smaller;"
+! width="60"| [[Top Country Albums|US Country]]
+|-
+! scope="row"| ''Leon Everette''
+| 
+* Release date: January 1983
+* Label: RCA Records
+| 34
+|-
+! scope="row"| ''Doin' What I Feel''
+| 
+* Release date: August 1983
+* Label: RCA Records
+| 25
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:22em;"| Single
+! colspan="2"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| 1976
+! scope="row"| "Running State of Mind"
+| —
+| —
+| {{n/a}}
+|-
+| rowspan="2"| 1977
+! scope="row"| "Goodbye King of Rock N' Roll"
+| —
+| —
+| align="left"| ''Goodbye King of Rock N' Roll''
+|-
+! scope="row"| "I Love That Woman (Like the Devil Loves Sin)"
+| 84
+| —
+| {{n/a}}
+|-
+| rowspan="5"| 1979
+! scope="row"| "We Let Love Fade Away"
+| 89
+| —
+| align="left"| ''I Don't Want to Lose''
+|-
+! scope="row"| "Giving Up Easy"
+| 81
+| —
+| {{n/a}}
+|-
+! scope="row"| "Don't Feel Like the Lone Ranger"
+| 33
+| —
+| align="left" rowspan="5"| ''I Don't Want to Lose''
+|-
+! scope="row"| "The Sun Went Down in My World Tonight"
+| 42
+| —
+|-
+! scope="row"| "I Love That Woman (Like the Devil Loves Sin)"<br>{{small|(re-recording)}}
+| 28
+| —
+|-
+| rowspan="3"| 1980
+! scope="row"| "I Don't Want to Lose"
+| 30
+| —
+|-
+! scope="row"| "Over"
+| 10
+| —
+|-
+! scope="row"| "Giving Up Easy" {{small|(re-release)}}
+| 5
+| —
+| align="left" rowspan="2"| ''If I Keep On Going Crazy''
+|-
+| rowspan="3"| 1981
+! scope="row"| "If I Keep On Going Crazy"
+| 11
+| 16
+|-
+! scope="row"| "[[Hurricane (Leon Everette song)|Hurricane]]"
+| 4
+| 3
+| align="left" rowspan="2"| ''Hurricane''
+|-
+! scope="row"| "Midnight Rodeo"
+| 9
+| 19
+|-
+| rowspan="3"| 1982
+! scope="row"| "Just Give Me What You Think Is Fair"
+| 7
+| 4
+| align="left" rowspan="4"| ''Leon Everette''
+|-
+! scope="row"| "Soul Searchin'"
+| 10
+| 20
+|-
+! scope="row"| "Shadows of My Mind"
+| 15
+| 6
+|-
+| rowspan="2"| 1983
+! scope="row"| "My Lady Loves Me (Just as I Am)"
+| 9
+| 36
+|-
+! scope="row"| "The Lady, She's Right"
+| 31
+| 29
+| align="left" rowspan="3"| ''Doin' What I Feel''
+|-
+| rowspan="2"| 1984
+! scope="row"| "I Could'a Had You"
+| 6
+| 6
+|-
+! scope="row"| "Shot in the Dark"
+| 30
+| —
+|-
+| rowspan="3"| 1985
+! scope="row"| "Too Good to Say No To"
+| 47
+| —
+| align="left" rowspan="3"| ''Where's the Fire''
+|-
+! scope="row"| "A Good Love Died Tonight"
+| 53
+| —
+|-
+! scope="row"| "[['Til a Tear Becomes a Rose]]"
+| 44
+| —
+|-
+| rowspan="3"| 1986
+! scope="row"| "Danger List (Give Me Someone I Can Love)"
+| 46
+| —
+| rowspan="4" {{n/a}}
+|-
+! scope="row"| "Sad State of Affairs"
+| 59
+| —
+|-
+! scope="row"| "Still in the Picture"
+| 56
+| —
+|-
+| 2010
+! scope="row"| "United States of America"
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+== Awards and nominations ==
+{| class="wikitable"
+!Year
+!Organization
+!Award
+!Nominee/Work
+!Result
+|-
+|1981
+|[[Academy of Country Music Awards]]
+|[[Academy of Country Music Award for New Male Artist of the Year|Top New Male Vocalist]]
+|Leon Everette
+|{{nom}}
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*Leon Everette's latest videos can be found [https://itube247.com/leon-everette/ here]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Everette, Leon}}
+[[Category:1948 births]]
+[[Category:American country singer-songwriters]]
+[[Category:Living people]]
+[[Category:RCA Records Nashville artists]]
+[[Category:Mercury Records artists]]
+[[Category:People from Aiken, South Carolina]]
+[[Category:Country musicians from South Carolina]]
+[[Category:Singer-songwriters from South Carolina]]
+
+
+{{US-country-singer-stub}}

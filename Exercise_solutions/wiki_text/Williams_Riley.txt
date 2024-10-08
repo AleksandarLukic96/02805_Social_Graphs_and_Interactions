@@ -1,0 +1,95 @@
+{{Short description|Country music band}}
+{{Infobox musical artist <!-- For individuals; see Wikipedia:WikiProject_Musicians -->
+| name                = Williams Riley
+| image                 = 
+| background          = group_or_band
+| origin              = United States
+| genre               = [[Country music|Country]]
+| years_active        = 2009-2010
+| label               = Golden Music<br />Wide Open Music
+| associated_acts     = [[Bryan White]], [[Pearl River (band)|Pearl River]]
+| website                 = 
+| past_members = Nick Buda<br />[[Derek George]]<br />Dave Guidry<br />Charlie Hutto<br />Joe Rogers<br />Travis Thibodaux<br />Steve Williams
+}}
+'''Williams Riley''' was an American [[country music]] band composed of Steve Williams ([[lead vocals]]), Derek George ([[guitar]], [[background vocals]]), Charlie Hutto (guitar, background vocals), Joe Rogers ([[steel guitar]], [[fiddle]], [[harmonica]]), Dave Guidry ([[bass guitar]]), Travis Thibodaux ([[Keyboard instrument|keyboards]], background vocals) and Nick Buda ([[drums]]).<ref name="musicrow">{{cite web |last=King |first=Christie |title=On the Music Row Cover |url=http://www.musicrow.com/2009/07/on-the-music-row-cover-williams-riley/ |work=Music Row |date=2009-07-13 |accessdate=2009-09-28}}</ref> Derek George had formerly played guitar for [[Bryan White]], and before that, he was a member of the band [[Pearl River (band)|Pearl River]]. Williams Riley self-released its debut album in 2009 and has charted on the U.S. country charts with "Country Livin'." This album includes collaborations with White, as well as [[Slash (musician)|Slash]] and [[Edwin McCain]].<ref>{{cite web |last=Horne |first=Adam |title=Williams Riley Band Help Slash Go Country |url=http://www.theboot.com/2009/01/13/williams-riley-band-help-slash-go-country/ |work=The Boot |date=2009-01-13 |accessdate=2009-09-28}}</ref> The band's self-titled debut album received a favorable review from Matt Bjorke of Roughstock, who called it a "well-crafted album of contemporary country music."<ref>{{cite web |last=Bjorke |first=Matt |title=''Williams Riley'' review |url=http://www.roughstock.com/reviews/williams-riley-band-williams-riley-band |work=Roughstock |date=2009-06-23 |accessdate=2009-09-28}}</ref>
+
+On June 21, 2010, the band's label, Golden Music announced it was shutting its Nashville division. George produced [[Randy Houser]]'s 2013 album ''[[How Country Feels]]''.
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:14em;"| Title
+! style="width:16em;"| Album details
+|- 
+! scope="row"| ''Williams Riley''
+| 
+* Release date: June 23, 2009
+* Label: Golden Music
+|-
+! scope="row"| ''A Different Kind of Country''
+| 
+* Release date: May 25, 2010
+* Label: Golden Music
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:12em;"| Single
+! colspan="1"| Peak Positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="60"| [[Hot Country Songs|US Country]]
+|- 
+| rowspan="2"| 2009
+! scope="row"| "I'm Still Me"
+| —
+| align="left"| ''Williams Riley''
+|-
+! scope="row"| "Country Livin'"
+| 43
+| align="left" rowspan="2"| ''A Different Kind of Country''
+|-
+| rowspan="2"| 2010
+! scope="row"| "Makes Me Go (La La)"
+| 59
+|-
+! scope="row"| "[[Life in the Fast Lane]]"
+| —
+| align="left"| Non-album song
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;"| Video
+! Director
+|-
+| rowspan="2"| 2009
+! scope="row"| "I'm Still Me"
+| Stephen Shepherd
+|-
+! scope="row"| "Better Man
+|
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.williamsriley.com Official website]
+
+{{Authority control}}
+
+[[Category:American country music groups]]
+[[Category:Musical groups established in 2009]]
+
+
+{{US-country-band-stub}}

@@ -1,0 +1,94 @@
+{{short description|American singer-songwriter}}
+
+{{Infobox musical artist
+| name                = Kris Tyler
+| image                 = 
+| image_size            = 
+| background          = solo_singer
+| origin              = [[Omaha, Nebraska]], United States
+| instrument          = [[Vocals]]
+| genre               = [[Country music|Country]]
+| occupation          = [[Singing|Singer]]
+| years_active        = 1997–present
+| label               = [[Rising Tide Records|Rising Tide]]
+| associated_acts     = 
+| website                 = 
+}}
+
+'''Kris Tyler''' (born in [[Omaha, Nebraska]]) is an American [[country music]] artist. Tyler has released one studio album; she also charted two singles on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles & Tracks]] chart. Her highest charting single, "What a Woman Knows," peaked at No.&nbsp;45 in 1997.
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:14em;"| Title
+! style="width:18em;"| Album details
+|- 
+! scope="row"| ''What a Woman Knows''
+| 
+* Release date: January 13, 1998
+* Label: [[Rising Tide Records]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="2"| 1997
+! scope="row"| "Keeping Your Kisses"
+| 68
+| —
+| rowspan="3"| ''What a Woman Knows''
+|-
+! scope="row"| "What a Woman Knows"
+| 45
+| 66
+|-
+| 1998
+! scope="row"| "I'm in Trouble Now"
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:14em;"| Video
+! Director
+|-
+| rowspan="2"| 1997
+! scope="row"| "Keeping Your Kisses"<ref>{{cite web|url=http://www.cmt.com/videos/kris-tyler/385192/keeping-your-kisses.jhtml|title=CMT : Videos : Kris Tyler : Keeping Your Kisses|publisher=[[Country Music Television]]|accessdate=October 14, 2011}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+| rowspan="2"| [[Steven Goldmann]]
+|-
+! scope="row"| "What a Woman Knows"<ref>{{cite web|url=http://www.cmt.com/videos/kris-tyler/385288/what-a-woman-knows.jhtml|title=CMT : Videos : Kris Tyler : What A Woman Knows|publisher=[[Country Music Television]]|accessdate=October 14, 2011}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[{{AllMusic|class=artist|id=p203734|pure_url=yes}} allmusic ((( Kris Tyler > Overview )))]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Tyler, Kris}}
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Living people]]
+[[Category:Rising Tide Records artists]]
+[[Category:Musicians from Omaha, Nebraska]]
+[[Category:Country musicians from Nebraska]]
+[[Category:Year of birth missing (living people)]]
+[[Category:21st-century American women]]
+[[Category:Singer-songwriters from Nebraska]]

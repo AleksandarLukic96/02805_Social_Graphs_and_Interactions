@@ -1,0 +1,153 @@
+{{short description|American singer and songwriter (born 1991)|bot=PearBOT 5}}
+{{Use American English|date=July 2024}}
+{{Use mdy dates|date=July 2024}}
+{{Infobox musical artist
+| name              = Tyler Childers
+| image             = Tyler Childers-19 (32662845828).jpg
+| landscape         = Tyler Childers in 2018
+| alt               = Singer Tyler Childers, holding an acoustic guitar
+| caption           = Childers in 2018
+| birth_name        = Timothy Tyler Childers
+| birth_date        = {{birth date and age|1991|06|21}}
+| birth_place       = [[Lawrence County, Kentucky]], U.S.
+| origin            = [[Louisa, Kentucky]]
+| genre             = {{flatlist|
+* [[Neotraditional country]]
+* [[Bluegrass music|bluegrass]]
+* [[contemporary folk]] {{Citation Needed|date=May 2024}} 
+}}
+| occupation        = {{flatlist|
+* Singer
+* Songwriter
+* Philanthropist
+}}
+| years_active      = 2010–present
+| spouse = {{marriage|Senora May|2015}}
+| label             = Hickman Holler/[[RCA Records Nashville|RCA Nashville]]
+| current_member_of = Tyler Childers and the Food Stamps
+| website           = {{URL|tylerchildersmusic.com}}
+| instrument        = {{flatlist|
+* Vocals
+* guitar
+}}
+}}
+
+'''Timothy Tyler Childers''' ({{IPAc-en|t|ʃ|ɪ|l|d|ɚ|z}} {{respell|CHILL|dərz}}; born June 21, 1991) is an American [[Country music|country]] singer and songwriter.<ref name="auto">{{cite web |last1=Langeler |first1=Wes |title=Tyler Childers Doubles Down On Americana Critique: "It's Kind Of Become Just A Costume" |url=https://www.whiskeyriff.com/2020/01/28/tyler-childers-doubles-down-on-americana-critique-its-kind-of-become-just-a-costume/ |website=Whiskey Riff |access-date=21 September 2020}}</ref><ref name="gage">{{cite magazine |url=https://www.rollingstone.com/music/music-country/tyler-childers-rosanne-cash-sound-off-at-2018-americana-honors-awards-723621/ |title=Tyler Childers, Rosanne Cash Sound Off at 2018 Americana Honors & Awards |last=Gage |first=Jeff |date=September 13, 2018 |magazine=Rolling Stone}}</ref> His music has been described as a mix of [[neotraditional country]], [[Bluegrass music|bluegrass]], and [[folk music|folk]].<ref>{{Cite web |title=About |url=https://tylerchildersmusic.com/pages/about |access-date=2024-07-06 |website=Tyler Childers |language=en}}</ref> His breakthrough studio album, ''[[Purgatory (Tyler Childers album)|Purgatory]]'' (2017), was considered one of the best albums of the year by several publications,<ref name="noisey-best">{{cite web|url=https://noisey.vice.com/en_us/article/pazbwn/noisey-100-best-albums-of-2017|title=The 100 Best Albums of 2017|website=Noisey.vice.com|date=December 6, 2017|access-date=February 25, 2019}}</ref><ref name="npr-best">{{cite web|url=https://www.npr.org/2017/12/12/568400855/the-50-best-albums-of-2017|title=The 50 Best Albums of 2017|publisher=NPR|date=December 12, 2017|access-date=February 25, 2019}}</ref><ref name="RS-best">{{cite magazine|url=https://www.rollingstone.com/music/music-country-lists/40-best-country-and-americana-albums-of-2017-204874/thomas-rhett-life-changes-196731/|title=40 Best Country and Americana Albums of 2017|magazine=[[Rolling Stone]]|last1=Freeman|first1=Jon|last2=Hodge|first2=Will|date=December 7, 2017|access-date=February 25, 2019}}</ref> and earned Childers an [[Americana Music Honors & Awards|Americana Music Award]]. He subsequently received [[Grammy Award]] nominations for his albums ''[[Long Violent History]]'' (2020) and ''[[Rustin' in the Rain]]'' (2023) and the singles "All Your'n" (2019) and "[[In Your Love]]" (2023), the latter of which was his first top 10 hit on ''[[Billboard (magazine)|Billboard]]''{{'}}s [[Hot Country Songs]] chart.
+
+==Early life==
+Tyler Childers was born and grew up in [[Lawrence County, Kentucky]].<ref name="highway">{{cite journal |url=http://countrymusichighway.com/countrymusichighway/wp-content/uploads/2017/05/2017-magazine-REVISED.pdf |title=Childers Catching National Exposure |page=6 |journal=Country Music Highway  }}</ref> His father worked in the coal industry and his mother is a nurse.<ref>{{cite web |url=https://www.nodepression.com/interview/tyler-childers-its-a-damn-good-feeling-to-come-back-home/ |title=Tyler Childers: "It's a Damn Good Feeling to Come Back Home" |first = Michelle|last= Hanks|date=September 1, 2017|work=No Depression }}</ref> He was born with [[clubfoot]] and had to undergo surgeries to remedy the condition when he was 18 months old, and again when he was five.<ref>{{cite web |url=https://bittersoutherner.com/feature/2023/the-evolution-of-tyler-childers-by-silas-house |title=The Evolution of Tyler Childers | first=Silas|last= House |date=September 14, 2023 |work=The Bitter Southerner}}</ref> He learned to sing in church where he sang in the church choir.<ref name="nine bullets"/> He started to play guitar and write songs when he was about 13.<ref name="wickstrom">{{cite web |url=http://smileypete.com/community/creative-types-tyler-childers/ |title=Creative Types: Tyler Childers |first= Matt |last=Wickstrom |work=Smiley Pete Publishing |date=August 29, 2017 }}</ref> He attended [[Lawrence County High School (Kentucky)|Lawrence County High School]] and transferred [[Paintsville High School]] in [[Paintsville, Kentucky]], 23 miles southwest of LCHS. He graduated from there in 2009.<ref>{{cite news |url=http://www.dailyindependent.com/news/tyler-childers-to-join-sundy-best-for-flood-relief-concert/article_8ac67c04-2fcc-11e5-a65c-3bb4f909dded.html |title=Tyler Childers to join Sundy Best for flood-relief concert |first= Tim |last= Preston |work= The Daily Independent }}</ref> Fellow country musicians [[Chris Stapleton]] ([[Staffordsville, Kentucky|Staffordsville]]), [[Loretta Lynn]] ([[Butcher Hollow, Kentucky|Butcher Hollow]]), and [[Crystal Gayle]] hail from Johnson County (Paintsville is in Johnson County) while [[Sturgill Simpson]], a known acquaintance of Childers is from [[Jackson, Kentucky]] in nearby [[Breathitt County, Kentucky]].
+
+Childers studied for a semester at [[Western Kentucky University]] and then enrolled at [[Bluegrass Community and Technical College]] for a few semesters.<ref>{{cite news|url=http://www.kentucky.com/entertainment/music-news-reviews/article44478480.html |title=Rich Copley: Tyler Childers' music has grown up with him |first=Rich|last= Copley |work=Lexington Herald-Leader |date=March 23, 2014 }}</ref> He dropped out of college and worked odd jobs for some time while pursuing a music career.<ref name="moss" />
+
+==Career==
+Childers began performing in [[Lexington, Kentucky]] and [[Huntington, West Virginia]].<ref>{{cite magazine |url=https://www.rollingstone.com/country/news/hear-tyler-childers-on-walking-the-floor-podcast-w501111 |title= Hear Tyler Childers Talk Sturgill Simpson, Kerouac With Chris Shiflett |first=Robert |last=Crawford|date=September 4, 2017 |magazine=Rolling Stone}}</ref> In 2011, when he was 19, Childers released his first album, ''Bottles And Bibles''. He released two EPs recorded in 2013 at Red Barn Radio, a radio show from Lexington.<ref name="nine bullets">{{cite web |url=http://ninebullets.net/archives/michelle-evans-interviews-tyler-childers |archive-url=https://web.archive.org/web/20140123011940/http://ninebullets.net/archives/michelle-evans-interviews-tyler-childers |url-status=usurped |archive-date=January 23, 2014 |title=Michelle Evans Interviews Tyler Childers|date=January 22, 2014 |first= Michelle |last=Hanks |work=Nine Bullets}}</ref> The two EPs were later released as one recording called ''Live on Red Barn Radio I & II'' after the success of his album ''Purgatory''; they reached No. 5 on [[Heatseekers Albums]].<ref>{{cite magazine |url=https://www.billboard.com/charts/heatseekers-albums/2018-07-14 |title=Heatseekers Album |date= July 14, 2018|magazine=Billboard }}</ref> He performed with a backing band, The Food Stamps.<ref>{{cite web|url= https://www.wvpublic.org/post/tyler-childers-beloved-redheaded-stepson-huntington-music-scene#stream/0|title= Tyler Childers, the (Beloved) Redheaded Stepson of the Huntington Music Scene|first= Joni|last= Deutsch|date= July 24, 2015|work= West Virginia Public Broadcasting|access-date= January 9, 2020|archive-date= August 25, 2020|archive-url= https://web.archive.org/web/20200825102036/https://www.wvpublic.org/post/tyler-childers-beloved-redheaded-stepson-huntington-music-scene#stream/0|url-status= dead}}</ref>
+
+He first had success with ''Purgatory'' which was released on August 4, 2017.<ref>{{cite magazine |url=https://www.rollingstone.com/country/lists/10-new-country-artists-you-need-to-know-july-2017-w491510/tyler-childers-w491514 |title=10 New Country Artists You Need to Know: July 2017 | date=July 11, 2017 |magazine=Rolling Stone}}</ref><ref>{{cite web |url=http://www.farcethemusic.com/2017/08/tyler-childers-farce-music-interview.html |title=Tyler Childers: The Farce the Music Interview|first= Kevin |last=Broughton |work=Farce the Music |date=August 2, 2017}}</ref> It was produced by [[Sturgill Simpson]] and [[David R. Ferguson|David Ferguson]] and recorded at The Butcher Shoppe in [[Nashville, Tennessee|Nashville]].<ref>{{cite web |url= http://www.kentucky.com/entertainment/music-news-reviews/article158914109.html |title=Estill County's Tyler Childers gets Sturgill Simpson's help on new album  |first= Matt |last=Wickstrom |work=Lexington Herald Leader }}</ref> Simpson also played guitar and sang backing vocals on the album; Miles Miller is on drums, Stuart Duncan on fiddle and Russ Paul played other instruments.<ref>{{cite magazine |url= https://www.rollingstone.com/country/news/hear-sturgill-simpson-protege-tyler-childers-new-song-w489192 |title=Hear Sturgill Simpson Protege Tyler Childers' New 'Whitehouse Road' | first= Marissa R.|last= Moss|date=June 22, 2017 |magazine=Rolling Stone}}</ref> It debuted at No. 1 on ''Billboard''{{'}}s Heatseekers Albums chart, No. 17 on the Country albums chart and No. 4 on the Americana/Folk albums chart.<ref name="wickstrom"/> In September 2018, Childers won Emerging Artist of the Year at the 2018 [[Americana Music Honors & Awards]]; he gave an acceptance speech noted for its criticism of the [[Americana (music)|Americana]] genre label, saying that "as a man who identifies as a country music singer, I feel Americana ain't no part of nothing and is a distraction from the issues that we're facing on a bigger level as country music singers. It kind of feels like purgatory."<ref name="gage"/>
+
+''[[Country Squire (album)|Country Squire]]'', a second album under the Hickman Holler label and Childers' third overall, was released on August 2, 2019. The album was also produced by Simpson and Ferguson.<ref name=liptak>{{cite web |url=https://theboot.com/tyler-childers-new-music-album-2019/ |title=Bottles & Bibles - Tyler Childers |work=The Boot |first=Carena |last=Liptak|date=20 May 2019}}</ref> The video of the lead single from the album ''House Fire'' was released on May 16, 2019.<ref>{{cite web |url=https://pitchfork.com/news/tyler-childers-announces-new-album-produced-by-sturgill-simpson/ |title=Tyler Childers Announces New Album Produced by Sturgill Simpson |first= Madison |last=Bloom|website=[[Pitchfork (website)|Pitchfork]] |date=May 16, 2019}}</ref> "All Your'n", the second single from the album, was nominated for [[Grammy Award for Best Country Solo Performance|Best Country Solo Performance]] at the [[62nd Annual Grammy Awards]].<ref>{{Cite web|url=https://www.courier-journal.com/story/entertainment/music/2019/11/21/kentucky-country-artist-tyler-childers-gets-first-grammy-nomination/4257578002/|title=Kentucky singer-songwriter Tyler Childers gets his first Grammy nomination|work=[[The Courier-Journal]]|date=November 21, 2019|access-date=November 23, 2019}}</ref>
+
+On September 18, 2020, Childers released ''[[Long Violent History]]'',<ref>{{cite web |url=https://music.apple.com/us/album/long-violent-history/1531763768?uo=2&partnerId=11&at=10lISI/ |title=Long Violent History - Tyler Childers |via=iTunes}}</ref> an album consisting mainly of traditional fiddle tracks.<ref>{{cite web |url=https://eu.tennessean.com/story/entertainment/music/2020/09/18/tyler-childers-drops-long-violent-history-surprise-album-listen/3491284001/ |title=Tyler Childers sings of civil unrest, systemic racism on surprise album 'Long Violent History' |first= Matthew |last=Leimkuehler|date=September 18, 2020}}</ref> The album closes with the title track, which discusses racism, civil unrest, and police brutality. He released a video message to accompany the song; in it he discussed his intention for the album in general and the title track in particular, calling for empathy above all else.<ref>{{cite web |url=https://www.youtube.com/watch?v=QQ3_AJ5Ysx0&feature=emb_logo/ |title=A message from Tyler. |first= Tyler |last=Childers|website=[[YouTube]] |date=September 18, 2020}}</ref> He said the profits from the album would support underserved communities in the [[Appalachia|Appalachian region]], through Childers' Hickman Holler Appalachian Relief Fund.
+
+On September 30, 2022, Childers released a triple album ''[[Can I Take My Hounds to Heaven?]]''. The album is divided into three parts: Hallelujah, Jubilee, and Joyful Noise; eight songs are presented in three different ways (Jubilee versions for example have additional instruments added to the Hallelujah version).<ref>{{cite magazine |url= https://www.rollingstone.com/music/music-country/tyler-childers-new-album-can-i-take-my-hounds-to-heaven-1234588673/ |title=Tyler Childers Announces Triple Album 'Can I Take My Hounds to Heaven?'|first= Jon |last= Freeman |date=September 8, 2022 |magazine=Rolling Stone}}</ref> The album charted at No. 8, which is Childers' first top 10 album on [[Billboard 200]], based on 27,000 units earned in the first week.<ref name="zellner">{{cite magazine |url=https://www.billboard.com/music/chart-beat/slipknot-tops-artist-100-chart-new-album-the-end-so-far-debut-1235154016/ |title=Slipknot Tops Billboard Artist 100 Chart Thanks to 'The End, So Far' Debut|first= Xander |last=Zellner |magazine=Billboard |date=October 11, 2022}}</ref>
+
+Childers released a new single in July 2023 titled "[[In Your Love]]", which was co-written with Geno Seale. The release was followed by the announcement of a new upcoming album ''Rustin' In the Rain.'' The accompanying music video for the single was written by [[Silas House]] and depicts a relationship between two gay coal miners in the 1950s.<ref>{{cite web | url=https://www.npr.org/2023/07/27/1190148625/tyler-childers-in-your-love-interview | title=Tyler Childers is back, and taking chances | publisher=NPR | date=July 27, 2023 | accessdate=July 27, 2023 | author=Ann Powers}}</ref> Rustin' In the Rain was released on September 8, 2023. The album features a cover of S.G. Goodman's song "Space and Time".
+
+Childers was announced as one of the headliners in the 2024 Bourbon & Beyond festival in his home state, taking place in Louisville in September.<ref>{{Cite web |title=Bourbon & Beyond 2024 - September 19, 20, 21, 22 - Louisville, KY |url=https://bourbonandbeyond.com/ |access-date=2024-01-25 |website=Bourbon & Beyond |language=en-US}}</ref>
+
+==Musical style==
+Childers' music is influenced by his home state of [[Kentucky]] and its connection to country music and [[Bluegrass music|bluegrass]].<ref name=moss>{{cite magazine |url=https://www.rollingstone.com/music/music-country/how-songwriter-tyler-childers-became-the-21st-century-voice-of-appalachia-707257/ |title= How Songwriter Tyler Childers Became the 21st Century Voice of Appalachia |first= Marissa R. |last=Moss|magazine=Rolling Stone |date= August 24, 2018}}</ref> He often writes about coal mining, which was his father's occupation, and its effects. Rebecca Bengal, writing for ''[[The Guardian]]'', described Childers' songs as a "counternarrative to the outsiders who seek to perpetuate stereotypes of backwardness and poverty."<ref>{{cite web |url=https://www.theguardian.com/music/2019/aug/01/tyler-childers-in-country-music-nobody-is-thinking-about-how-to-move-people |title=Tyler Childers: 'In country music, nobody is thinking about how to move people' |last=Bengal |first=Rebecca |date=August 1, 2019 |work=[[The Guardian]]}}</ref> He emphasizes lyrical content in songs, comparing the songwriting process to telling short stories about past relationships and his youth.<ref>{{Cite web |url=https://www.chicagotribune.com/entertainment/music/ct-ott-tyler-childers-0209-story.html |title=Tyler Childers is, essentially, just a storyteller |last=Dickinson |first=Chrissie |date=February 7, 2018 |work=[[Chicago Tribune]]}}</ref>
+
+In January 2020, Childers spoke of his position on [[Americana (music)|Americana]] during an interview with World Cafe:<ref>{{cite web |last1=Douris |first1=Raina |title=WORLD CAFE PLAYLIST FOR 01/27/2020 |url=http://playlist.worldcafe.org/world-cafe-playlist-01-27-2020-tyler-childers/ |website=World Cafe |date=January 27, 2020 |access-date=21 September 2020}}</ref>
+
+{{Blockquote
+|text=Everybody always talks about the state of country music and puts down commercial country and [says] "something's gotta be done" and "we need to be elevating artists that are doing more traditional country." But then we're not calling those artists country artists, they're getting put into this Americana thing. It is what it is, and I don't really know how to define what Americana is. We're our own thing, it's a new time, and I don't know what it's called but I've been calling it country, y'know? I think, a lot of times, it's kind of become just a costume.<ref name="auto"/>
+}}
+
+==Personal life==
+In 2015, Childers married fellow performer Senora May, who is also a Kentucky native. In May 2022, they announced that they were expecting their first child.<ref>{{cite web |url=https://theboot.com/tyler-childers-senora-may-baby/|first=Lorie |last=Liebig|title=Tyler Childers and Senora May Are Expecting Their First Child |date= May 29, 2023 |work=The Boot}}</ref> Tyler and Senora started Hickman Holler Appalachian Relief Fund in 2020 to bring awareness and financial support for philanthropic efforts in the Appalachian Region.<ref>{{Cite web |title=Hickman Holler Appalachian Relief Fund |url=https://www.hickmanhollerappalachianrelieffund.org/ |access-date=2024-01-30 |website=Hickman Holler Appalachian Relief Fund |language=en-US}}</ref>
+
+While not explicitly affiliated with any political party, Tyler Childers expressed support for coal miners' rights as well as same-sex marriage, in the music video of his 2023 song "In Your Love".<ref>{{cite web |url=https://tasteofcountry.com/tyler-childers-in-your-love-song-music-video/ |title=Tyler Childers' 'In Your Love' Video Tells a Gripping Story of Gay Rural Love|work=Taste of Country|date=July 31, 2023 |first=Carena |last=Liptak }}</ref> He supported [[Charles Booker (American politician)|Charles Booker]]'s campaign for the U.S. Senate in 2022<ref>{{Cite web |last=Citizen |first=The Mountain |date=2022-09-14 |title=Tyler Childers wears Charles Booker shirt for closing performance of Septemberfest |url=https://mountaincitizen.com/2022/09/14/tyler-childers-wears-charles-booker-shirt-for-closing-performance-of-septemberfest/ |access-date=2023-12-25 |website=The Mountain Citizen |language=en-US}}</ref> and sang at the second inauguration of Kentucky Governor [[Andy Beshear]].<ref>{{Citation |title=Tyler Childers performs at Gov. Andy Beshear's inauguration | date=December 13, 2023 |url=https://www.youtube.com/watch?v=5tPjjcjusVg |access-date=2023-12-25 |language=en}}</ref>
+
+Childers has described himself in 2020 as a "recovering alcoholic" who had "drunk and drugged himself around the world playing music for the better part of eleven years." He noted in September 2020 that he had "six months of sobriety."<ref>{{Citation |title=A message from Tyler. | date=September 18, 2020 |url=https://www.youtube.com/watch?v=QQ3_AJ5Ysx0 |access-date=2024-01-11 |language=en}}</ref> During a [[New Year's Eve]] performance in Lexington in 2023, Childers referenced drinking his last beer a day before he and [[Sturgill Simpson]] played a show at [[Rupp Arena]]<ref>{{Citation |title=Tyler Childers Chokes Up Talking About His Sobriety @ The 2023 New Years Eve Show Lexington | date=January 2024 |url=https://www.youtube.com/watch?v=9gO6vRLJhxs |access-date=2024-01-11 |language=en}}</ref> on February 28, 2020.<ref>{{Cite news |last=Tunis |first=Walter |date=February 29, 2020 |title=Sturgill Simpson, Tyler Childers have a rich, reflective homecoming at sold-out Rupp show |url=https://www.kentucky.com/entertainment/music-news-reviews/article240197842.html |access-date=January 11, 2024 |work=Lexington Herald-Leader}}</ref>
+
+==The Food Stamps band members==
+===Current members===
+* Craig Burletic – [[bass guitar]]<ref name=marden>{{cite web |url=https://www.gratefulweb.com/articles/tyler-childers-food-stamps-plaza-live-5619 |title=Tyler Childers & the Food Stamps / Plaza Live / 5/6/19  |first=Chris|last= Marden |date= May 14, 2019|work=Grateful Web}}</ref>
+* Rodney Elkins – [[drum]]s<ref name=marden />
+* James Barker – [[pedal steel guitar]]<ref name=marden />
+* "The Professor" Jesse Wells – other guitars, [[fiddle]]<ref>{{cite web |url= http://www.capturekentucky.com/tyler-childers-returns-home-mac-prestonsburg/ |title=Tyler Childers Returns Home To The MAC In Prestonsburg  |work=Capture Kentucky |date=November 28, 2017 }}</ref>
+* CJ Cain – [[guitar]]
+* Kory Caudill – [[Keyboard instrument|keyboards]]
+
+==Discography==
+{{main|Tyler Childers discography}}
+*''[[Bottles and Bibles]]'' (2011)
+*''[[Purgatory (Tyler Childers album)|Purgatory]]'' (2017)
+*''[[Live on Red Barn Radio I & II]]'' (2018)
+*''[[Country Squire]]'' (2019)
+*''[[Long Violent History]]'' (2020)
+*''[[Can I Take My Hounds to Heaven?]]'' (2022)
+*''[[Rustin' in the Rain]]'' (2023)
+
+==Awards and nominations==
+{| class="wikitable"
+|-
+! Award
+! Year !! Category !! Nominee/Work !! Result !! Ref.
+|-
+|[[Americana Music Honors & Awards]]
+| 2018 || Emerging Artist of the Year || Tyler Childers || {{Won}} || <ref name="gage" />
+|-
+|rowspan="7"|[[Grammy Awards]]
+|[[62nd Annual Grammy Awards|2020]]
+|[[Grammy Award for Best Country Solo Performance|Best Country Solo Performance]]
+|"All Your'n"
+|{{Nominated}}
+|<ref>{{Cite web|url=https://www.grammy.com/grammys/news/2020-grammy-awards-complete-nominees-list|title=2020 GRAMMY Awards: Complete Nominees List|date=2019-11-18|website=GRAMMY.com|language=en|access-date=2019-11-20}}</ref>
+|-
+|[[64th Annual Grammy Awards|2022]]
+|[[Grammy Award for Best Folk Album|Best Folk Album]]
+|''[[Long Violent History]]''
+|{{Nominated}}
+|rowspan="6"|<ref>{{Cite web |title=Tyler Childers {{!}} Artist |url=https://grammy.com/artists/tyler-childers/251704 |access-date=2024-02-08 |website=grammy.com}}</ref>
+|-
+|rowspan="5"|[[66th Annual Grammy Awards|2024]]
+|Best Country Solo Performance
+|rowspan="3"| "[[In Your Love]]"
+|{{Nominated}}
+|-
+|[[Grammy Award for Best Country Song|Best Country Song]]
+|{{Nominated}}
+|-
+|[[Grammy Award for Best Music Video|Best Music Video]]
+|{{Nominated}}
+|-
+|[[Grammy Award for Best Country Album|Best Country Album]]
+|''[[Rustin' in the Rain]]''
+|{{Nominated}}
+|-
+|[[Grammy Award for Best Americana Performance|Best Americana Performance]]
+|"Help Me Make It Through the Night"
+|{{Nominated}}
+|}
+
+==References==
+{{reflist}}
+
+{{Tyler Childers}}
+{{Authority control}}
+
+{{DEFAULTSORT:Childers, Tyler}}
+[[Category:1991 births]]
+[[Category:Living people]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Country musicians from Kentucky]]
+[[Category:People from Lawrence County, Kentucky]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:21st-century American male singers]]
+[[Category:Thirty Tigers artists]]
+[[Category:Songwriters from Kentucky]]
+[[Category:Musicians from Kentucky]]
+[[Category:Writers from Kentucky]]
+[[Category:Singers from Kentucky]]

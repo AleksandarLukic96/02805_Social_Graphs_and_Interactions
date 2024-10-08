@@ -1,0 +1,130 @@
+{{about||the director of Sense About Science|Tracey Brown (scientist)}}
+{{Use dmy dates|date=September 2020}}
+{{Infobox musical artist
+| name            = Tracey Brown
+| image           = 
+| background      = solo_singer
+| origin          = [[Ottawa, Ontario]], Canada
+| instrument      = Vocals
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 1967–present
+| label           = Popular/EMI
+| past_member_of  = [[Family Brown]]<br/>[[Prescott-Brown]]
+| website         = 
+}}
+'''Tracey Brown''' is a Canadian [[country music]] artist. Brown, a former member of [[Family Brown]], was nominated for a 1999 Juno Award for Best Country Female Vocalist. Her first solo studio album, ''Woman's Work'', was released in 1998 and produced a Top 20 single with the title track.
+
+==Biography==
+Brown began performing at 10 years old as a member of Canada's most awarded country band, Family Brown.<ref name="riproar">[http://www.riproar.ca/Tracey.htm Rip Roar Productions: Tracey Brown]</ref> During the group's 22-year career, they recorded 17 albums and hosted a syndicated television show.<ref name="riproar" /> Brown went on to form [[Juno Award]] winning group [[Prescott-Brown]] with her brother Barry and husband Randall Prescott.<ref name="cp">[http://www8.cpr.ca/english/general+public/holiday+train/bios/default.htm Canadian Pacific Entertainers]</ref>
+
+Tracey Brown released her first solo CD in 1998.<ref name="cp" /> Three singles were released from the album, including the title track, which peaked at No.&nbsp;12 on the ''[[RPM (magazine)|RPM]]'' Canadian country singles chart. Brown was nominated for [[Juno Award for Country Recording of the Year|Best Country Female Vocalist]] at the 1999 Juno Awards and Independent Female Vocalist of the Year at the 1999 [[Canadian Country Music Association]] Awards.<ref name="cp" />
+
+In 2000, Brown was featured in the photo book ''Dare to Dream – A Celebration of Canadian Women''.<ref name="riproar" /> The following year, she performed at the YWCA [[Women of Distinction Awards]] and co-wrote and performed a song for the award-winning short film, ''Charlie Noir''.<ref name="riproar" />
+
+Brown completed work on her second solo studio album, ''Alone'', which was released in 2008.<ref name="cp" /> Its first single, "If You Wanna Keep My Love," written by Jon Park-Wheeler, Tracey Brown, and Randall Prescott was sent to country radio in September.
+
+In 2014, Brown toured on the Canadian Pacific Railway Holiday Trains in the United States and Canada.
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders"
+! style="width:10em;"| Title
+! style="width:16em;"| Details
+|- 
+! scope="row"| ''Woman's Work''
+| 
+* Release date: 1998
+* Label: Popular/EMI
+|-
+! scope="row"| ''Alone''
+| 
+* Release date: 2008
+* Label: Rip Roar Music
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:16em;"| Single
+! Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="2"| 1998
+! scope="row"| "[[Woman's Work]]"
+| 12
+| align="left" rowspan="3"| ''Woman's Work''
+|-
+! scope="row"| "Going Going Gone"
+| 41
+|-
+| 1999
+! scope="row"| "Returning the Faith"
+| —
+|-
+| 2008
+! scope="row"| "If You Wanna Keep My Love"
+| —
+| align="left" rowspan="2"| ''Alone''
+|-
+| 2009
+! scope="row"| "Alone"
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Guest singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:16em;"| Single
+! rowspan="2"| Artist
+! Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[RPM (magazine)|CAN Country]]
+|-
+| 1990
+! scope="row"| "Start of Something New"
+| [[Terry Carisse]]
+| 6
+| align="left"| ''That Was a Long Time Ago''
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:16em;"| Video
+|-
+| rowspan="2"| 1998
+! scope="row"| "Woman's Work"
+|-
+! scope="row"| "Going Going Gone"
+|-
+| 1999
+! scope="row"| "Returning the Faith"
+|-
+|}
+
+==References==
+{{reflist}}
+
+{{Family Brown}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Brown, Tracey}}
+[[Category:Canadian women country singers]]
+[[Category:Canadian country singer-songwriters]]
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]
+[[Category:21st-century Canadian women singers]]
+[[Category:21st-century Canadian singer-songwriters]]

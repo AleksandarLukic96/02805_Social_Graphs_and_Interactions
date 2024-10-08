@@ -1,0 +1,172 @@
+{{short description|American singer-songwriter}}
+
+{{More footnotes needed|date=August 2021}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Floyd Tillman
+| image               =
+| caption             =
+| image_size          =
+| background          = solo_singer
+| birth_date          = {{birth date|1914|12|8}}
+| birth_place         = [[Ryan, Oklahoma]], U.S.
+| death_date          = {{death date and age|2003|8|22|1914|12|8}}
+| death_place         = [[Bacliff, Texas]], U.S.
+| origin              = [[San Antonio, Texas]], U.S.
+| instrument          = [[Guitar]]
+| genre               = [[Country music]], [[western swing]], [[honky tonk]]
+| occupation          = [[Musician]], [[songwriter]]
+| years_active        = 1938–2003
+| label               = [[Decca Records|Decca]], [[Musicor Records|Musicor]], [[RCA Victor]], [[Columbia Records|Columbia]], Heart of Texas
+| associated_acts     =
+}}
+
+'''Floyd Tillman''' (December 8, 1914<ref name="LarkinCountry">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Who's Who of Country Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1993|edition=First|isbn=0-85112-726-6|pages=409/410}}</ref> – August 22, 2003)<ref name="Independent">{{Cite news|url=https://www.independent.co.uk/news/obituaries/floyd-tillman-36989.html|title=Floyd Tillman|date=October 30, 2013|newspaper=[[The Independent]]|access-date=August 10, 2021}}</ref> was an American [[country music]]ian who, in the 1930s and 1940s, helped create the [[Western swing]] and [[honky tonk]] genres. Tillman was inducted into the [[Nashville Songwriters Hall of Fame]] in 1970 and the [[Country Music Hall of Fame]] in 1984.
+
+==Biography==
+===Early life===
+He was born in [[Ryan, Oklahoma]], United States,<ref name="LarkinCountry"/> and grew up in the cotton-mill town of [[Post, Texas]] as a [[sharecropper]]'s son.<ref name="LarkinCountry"/> One of his early jobs was with [[Western Union]] as a [[Telegraphy|telegraph]] operator. In the early 1930s, Tilman played mandolin and banjo at local dances and eventually took up the guitar.<ref name="LarkinCountry"/>
+
+===Musical career===
+Tillman moved to [[San Antonio]] played lead guitar with [[Adolph Hofner]], a Western swing bandleader, and soon developed into a songwriter and singer.<ref name="LarkinCountry"/> He took a job with [[Houston]] pop bandleader Mack Clark in 1938,<ref name="LarkinCountry"/> and played with Western swing groups fronted by Leon "Pappy" Selph and [[Cliff Bruner]]. He also worked with [[Ted Daffan]], and singer and piano player [[Moon Mullican]].
+
+Tillman recorded as a featured vocalist with Selph's Blue Ridge Playboys in 1938, the same year Floyd scored his first major songwriting hit, "It Makes No Difference Now", giving him his own [[Decca Records|Decca]] recording contract.<ref name="LarkinCountry"/> [[Jimmie Davis]] purchased the song from Floyd for $300, the co-rights to which he got back 28 years later.<ref>{{Cite web|date=2006-01-02|title=Floyd Tillman|url=http://www.nashvillesongwritersfoundation.com/fame/tillman.html|access-date=2021-08-22|archive-url=https://web.archive.org/web/20060102165438/http://www.nashvillesongwritersfoundation.com/fame/tillman.html|archive-date=2006-01-02}}</ref><ref name="LarkinCountry"/>
+
+Tillman's only No. 1 one song as a singer was "[[They Took the Stars Out of Heaven]]".<ref name="LarkinCountry"/>  It reached the top of the charts in 1944.<ref name="LarkinCountry"/> Previously, he had reached No. 2 with "I'm Gonna Change All My Ways". His 1944 hit, "Each Night At Nine", struck a chord with lonely servicemen during [[World War II]]. [[Axis Sally]] and [[Tokyo Rose]] played it heavily to encourage desertion.
+
+A big hit for Tillman and also for [[Jimmy Wakely]] was 1948's "[[I Love You So Much It Hurts]]".<ref name="LarkinCountry"/> His 1949 "[[Slippin' Around]]", one of the first country western "cheating" songs, was a hit for Tillman as well as [[Ernest Tubb]], Texas Jim Robertson and the duo of [[Margaret Whiting]] and [[Jimmy Wakely]].<ref name="LarkinCountry"/> Tillman had another successful song with his own answer, "[[I'll Never Slip Around Again]]", as again did the Whiting-Wakely duo.<ref name="LarkinCountry"/> He slowed down on his performing in the early 1950s, although he appeared on ABC-TV's ''[[Ozark Jubilee|Jubilee USA]]'' in 1958 and 1959.
+
+Tillman's final album, recorded in 2002 and 2003 titled ''The Influence'', paired him with country music artists who were influenced by his style and performing: [[Willie Nelson]], [[Merle Haggard]], [[Leona Williams]], [[Dolly Parton]], Justin Trevino, [[Ray Price (musician)|Ray Price]], [[Frankie Miller (country musician)|Frankie Miller]], [[Hank Thompson (music)|Hank Thompson]], [[Connie Smith]], [[Lawton Williams]], [[Mel Tillis]], [[Darrell McCall]], [[Johnny Bush]] and [[George Jones]]. The project, released in April 2004, featured liner notes by Dr. [[Bill C. Malone|Bill Malone]], [[Bill Mack (singer)|Bill Mack]], [[Hank Thompson (music)|Hank Thompson]] and [[Willie Nelson]].  It was produced by Justin Trevino on Heart of Texas Records.
+
+He was inducted into the [[Nashville Songwriters Hall of Fame]] in 1970, and the [[Country Music Hall of Fame]] in 1984.<ref name="Independent"/>
+
+Floyd Tillman died in August 2003, at the age of 88.<ref name="Independent"/>
+
+==Singles==
+{| class="wikitable"
+! Year
+! Single
+! <small>[[Hot Country Songs|US Country]]</small>
+|-
+| rowspan="3"| 1944
+| "[[They Took the Stars Out of Heaven]]"
+| align="center"| 1
+|-
+| "G.I. Blues"
+| align="center"| 5
+|-
+| "Each Night at Nine"
+| align="center"| 4
+|-
+| 1946
+| "Drivin' Nails in My Coffin"
+| align="center"| 2
+|-
+| 1948
+| "[[I Love You So Much It Hurts]]"
+| align="center"| 5
+|-
+| rowspan="4"| 1949
+| "Please Don't Pass Me By"
+| align="center"| 14
+|-
+| "[[Slippin' Around]]"
+| align="center"| 5
+|-
+| "I'll Never Slip Around Again"
+| align="center"| 6
+|-
+| "I Gotta Have My Baby Back"
+| align="center"| 4
+|-
+| 1960
+| "It Just Tears Me Up"
+| align="center"| 29
+|}
+
+==Selected works==
+{| class="wikitable"
+|-
+!Title
+!Master no
+!Artists
+!Recorded
+!Original issue
+|-
+|"A Precious Memory"||65158||Floyd Tillman||6 March 1939, [[Houston]]||Decca 5696
+|-
+|"Why Do I Love You"|| ||Floyd Tillman||6 March 1939, Houston||Decca 5696
+|-
+|"I'm Always Dreaming of You"||66327||Floyd Tillman||29 August 1939, Houston||Decca 5801
+|-
+|"Don't Be Blue"||66328||Floyd Tillman||6 March 1939, Houston||Decca 5741
+|-
+||"Maybe I'll Get By Without You"||66330||Floyd Tillman||6 March 1939, Houston||Decca 5801
+|-
+|"I Love You So Much It Hurts"|| ||[[Vic Damone]], Floyd Tillman and [[Connie Smith]], [[Red Foley]], [[Ernest Tubb]], [[Jerry Lee Lewis]], [[Ray Charles]], [[Ray Price (musician)|Ray Price]], [[Mickey Gilley]], [[Andy Williams]], [[Marie Osmond]], [[Eddy Arnold]], Floyd Tillman, [[Jimmy Wakely]], [[John Prine]], [[Patsy Cline]]|| ||[[RCA Victor]] 20-7157 A-side
+|-
+|"[[Slipping Around]]"|| ||[[Margaret Whiting]] and Jimmy Wakely, Ernest Tubb, Floyd Tillman, [[Texas Jim Robertson]], [[Marion Worth]] and [[George Morgan (singer)|George Morgan]], [[Roy Drusky]] and [[Priscilla Mitchell]], Jerry Lee Lewis, [[Mack Abernathy]], Floyd Tillman and [[Dolly Parton]], [[Ray Anthony]]|| ||[[RCA Victor]] 20-7157 B-side
+|-
+|"I Gotta Have My Baby Back"|| ||Floyd Tillman, Red Foley, [[Ella Fitzgerald]], [[Justin Tubb]], Ray Price, Floyd Tillman and Ray Price, [[Rex Allen]], [[Tennessee Ernie Ford]], [[Les Paul]] and [[Mary Ford]], [[Hank Thompson (musician)|Hank Thompson]], [[Glen Campbell]]||October 1949, Houston ||[[Columbia Records|Columbia]] 20641
+|-
+|"I Am Music (Song of Music)"|| ||[[Skeets McDonald]]|| ||
+|-
+|"It Makes No Difference Now"<br /><small>Co-writer: [[Jimmie Davis]]</small>|| ||[[Eddy Arnold]], [[Cliff Bruner]], [[Bing Crosby]], [[The Supremes]], [[Gene Autry]], [[Ray Charles]], [[Jimmie Davis]], [[Willie Nelson]], [[Hank Snow]], [[Ray Pennington]], [[Buddy Emmons]], [[Hank Thompson (musician)|Hank Thompson]], [[Merle Haggard]], [[Jerry Lee Lewis]], [[Burl Ives]]|| ||[[Musicor Records|Musicor]] 1355 A-side
+|-
+|"The Stars Fell Out Of Heaven"||93739||Floyd Tillman||30 April 1941, [[Dallas]]||Decca 6090
+|-
+|"This Cold War With You"|| ||Floyd Tillman|| Ray Price, [[Merle Haggard]], [[Willie Nelson]] and Ray Price, [[Rex Allen]], [[Columbia Records|Columbia]] 20615
+|-
+|"Why Do You Treat Me This Way?"|| ||Floyd Tillman||30 April 1941, Dallas||Decca 6090
+|-
+||"Each Night At Nine"|| ||Floyd Tillman||20 April 1944, [[New York City]]||Decca 6104
+|-
+|"G.I. Blues"|| ||Floyd Tillman|| ||
+|-
+|"Some Other World"|| ||Floyd Tillman|| ||[[Columbia Records|Columbia]] 20026
+|-
+|"Daisy May"|| ||Ernest Tubb, Floyd Tillman||11 April 1940, [[Houston]]||Decca 5845
+|-
+|"Please Don't Pass Me By"|| ||Floyd Tillman|| ||
+|-
+|"[[I'll Never Slip Around Again]]"|| ||Floyd Tillman, Margaret Whiting and Jimmy Wakely, [[Doris Day]]|| ||[[Columbia Records|Columbia]] 20615
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{cite web | title=Nashville Songwriters Foundation | work=Floyd Tillman | url=http://www.nashvillesongwritersfoundation.com/fame/tillman.html | url-status=dead | archiveurl=https://web.archive.org/web/20060102165438/http://www.nashvillesongwritersfoundation.com/fame/tillman.html | archivedate=2006-01-02 }}
+* [http://countrymusichalloffame.org/Inductees/InducteeDetail/floyd-tillman Country Music Hall Of Fame, 1984]
+* {{cite web | title=Floyd Tillman | url=http://www.floydtillman.com/pages/1/index.htm | url-status=dead | archiveurl=https://web.archive.org/web/20050311085013/http://www.floydtillman.com/pages/1/index.htm | archivedate=2005-03-11 }}
+* {{cite web | title=Hillbilly Music | work=Floyd Tillman | url=http://hillbilly-music.com/artists/story/index.php?id=10189}}
+* [https://web.archive.org/web/20180317165811/http://www.buckatune.net/ Floyd Tillman mp3s]
+* [https://picclick.com/Floyd-Tillman-Vintage-Movie-Still-162446788880.html portrait]
+
+==Bibliography==
+* Vladimir Bogdanov, Chris Woodstra & Stephen Thomas Erlewine (ed.) (2003) ''[http://www.folklib.net/index/discog/bibliog.shtml#sa All Music Guide to Country, 2nd ed., p. 750]'', {{ISBN|0-87930-760-9}} .
+* Richard Carlin (1995) ''[http://www.folklib.net/index/discog/bibliog.shtml#fz The Big Book of Country Music, A Biographical Encyclopedia, p. 458]'', {{ISBN|0-14-023509-4}} .
+* The Editors of [[Country Music (magazine)]] (1994) ''[http://www.folklib.net/index/discog/bibliog.shtml#fl The Comprehensive Country Music Encyclopedia, p. 387]'', {{ISBN|0-8129-2247-6}} .
+* Barry McCloud (1995) ''[http://www.folklib.net/index/discog/bibliog.shtml#fu Definitive Country: The Ultimate Encyclopedia of Country Music and Its Performers, p. 810-1]'', {{ISBN|0-399-52144-5}} .
+* Kurt Wolff (2000) ''[http://www.folklib.net/index/discog/bibliog.shtml#nd Country Music: The Rough Guide, p. 149-50]'', {{ISBN|1-85828-534-8}} .
+
+{{1980s Country Music Hall of Fame}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Tillman, Floyd}}
+[[Category:1914 births]]
+[[Category:2003 deaths]]
+[[Category:People from Ryan, Oklahoma]]
+[[Category:American country singer-songwriters]]
+[[Category:Country Music Hall of Fame inductees]]
+[[Category:RCA Victor artists]]
+[[Category:Starday Records artists]]
+[[Category:Liberty Records artists]]
+[[Category:Decca Records artists]]
+[[Category:Columbia Records artists]]
+[[Category:People from Post, Texas]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:Singer-songwriters from Oklahoma]]
+[[Category:Country musicians from Texas]]
+[[Category:Country musicians from Oklahoma]]

@@ -1,0 +1,82 @@
+{{short description|American singer and songwriter}}
+{{Use mdy dates|date=March 2020}}
+{{Infobox musical artist
+| name            = Ashley Arrison
+| image           =
+| birth_name      = Ashley Arrison
+| birth_date      =
+| birth_place     = [[Tennessee]], United States
+| genre           = Pop, [[Country music|country]]
+| occupation      = Singer, songwriter
+| instrument      = Vocals, guitar
+| associated_acts = [[Kelly Clarkson]], [[Kacey Musgraves]]
+| years_active    = 2010–present
+}}
+
+'''Ashley Arrison''' is an American singer-songwriter who has worked with [[Kelly Clarkson]], [[Kacey Musgraves]] and other artists.
+
+==Biography==
+Arrison grew up in [[Tennessee]] and later moved to Los Angeles, California.<ref name=roundtable>{{cite web|title=TRT INTERVIEWS: ASHLEY ARRISON|url=http://www.theroundtableonline.com/music/trt-interviews-ashley-arrison/|website=The Round Table|access-date=April 26, 2015|archive-url=https://web.archive.org/web/20131013160623/http://www.theroundtableonline.com/music/trt-interviews-ashley-arrison/|archive-date=October 13, 2013|url-status=dead}}</ref>
+
+Arrison has released one EP and one album as a solo singer-songwriter, sung backing vocals for [[Lindsay Lohan]] and [[Badly Drawn Boy]], and has written songs for Kelly Clarkson and Kacey Musgraves, whom Arrison introduced to mutual friend, Nashville songwriter and subsequent longtime collaborator [[Shane McAnally]].<ref name=fourtherecord>{{cite web|last1=Fisher|first1=Vickye|title=Shane McAnally On Songwriting, Kacey Musgraves, Country Radio And Gay Country Artists|url=http://forthecountryrecord.com/2014/04/30/shane-mcanally-on-songwriting-kacey-musgraves-country-radio-and-gay-country-artists/|website=Four The Country Record|accessdate=April 26, 2015|archive-url=https://web.archive.org/web/20150616150555/http://forthecountryrecord.com/2014/04/30/shane-mcanally-on-songwriting-kacey-musgraves-country-radio-and-gay-country-artists/|archive-date=June 16, 2015|url-status=dead}}</ref> She has also performed with [[Amy Lee]] of [[Evanescence]] and, as a child, [[Justin Timberlake]].<ref name=tribune>{{cite news|title=Straight up, now tell us|url=https://www.chicagotribune.com/2009/05/14/straight-up-now-tell-us/|access-date=April 26, 2015|work=Chicago Tribune|date=May 14, 2009}}</ref>
+
+Previously married to guitarist for Kelly Clarkson and songwriter [[Aben Eubanks]],<ref>{{Cite web|url=https://www.tapatalk.com/groups/kellyclarksonexpress/congratulations-to-aben-eubanks-and-ashley-arrison-t15772.html|title=CONGRATULATIONS TO ABEN EUBANKS AND ASHLEY ARRISON ON YOUR WEDDING DAY, Apr. 22, 2011 – Kelly Clarkson Express|website=tapatalk.com|date=April 22, 2011 |access-date=March 15, 2018}}</ref> the couple were the subject of a Season 12 HGTV [[Property Brothers]] episode.<ref>{{Cite web|url=https://www.hgtv.com/shows/property-brothers/episodes/floored-by-the-renovation|title=Floored by the Renovation|website=hgtv.com|access-date=March 15, 2018}}</ref>
+
+Arrison's influences include [[James Taylor]], [[Sarah McLachlan]] and [[Ryan Adams]].<ref name=roundtable />
+
+==Discography==
+*''Talking Circles'' (2008)
+*''Hearts on Parade'' (2010)
+
+Arrison is also a credited contributor on the following songs or albums:
+
+*Badly Drawn Boy, ''[[About a Boy (soundtrack)|About a Boy]]'' (2002)
+*Lindsay Lohan, ''[[A Little More Personal (Raw)]]'' (2005)
+
+===Songs written===
+{| class="wikitable"
+|-
+! Year
+! Artist
+! Album
+! Song
+|-
+!rowspan="3"|2013
+|rowspan="3"|[[Kelly Clarkson]]
+|{{n/a}}
+|"[[Tie It Up]]"
+|-
+|rowspan="2"|''[[Wrapped in Red]]''
+|"[[Wrapped in Red (song)|Wrapped in Red]]"
+|-
+|"[[Winter Dreams (Brandon's Song)|Winter Dreams]]"
+|-
+!2015
+|[[Kacey Musgraves]]
+|''[[Pageant Material]]'' 
+|"Fine"
+|-
+!2018
+|[[Chevel Shepherd]]
+|{{n/a}}
+|"[[Broken Hearts (song)|Broken Hearts]]"
+|-
+!2020
+|[[Chevel Shepherd]]
+|{{n/a}}
+|”[[Just Like The Circus(song)|Just Like The Circus]]” 
+ |}
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Arrison, Ashley}}
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:American women singer-songwriters]]
+[[Category:Living people]]
+[[Category:Singer-songwriters from Tennessee]]
+[[Category:Year of birth missing (living people)]]
+[[Category:21st-century American women musicians]]

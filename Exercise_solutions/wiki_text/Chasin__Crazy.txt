@@ -1,0 +1,76 @@
+{{Infobox musical artist
+| name            = Dorado
+| image           =
+| image_size      =
+| landscape       =
+| alt             =
+| caption         =
+| alias           =
+| origin          = [[Nashville, Tennessee]], [[United States]]
+| genre           = [[Country music|Country]]
+| years_active    = 2012-present
+| label           = RPM Entertainment
+| associated_acts =
+| website         = {{url|http://chasincrazy.com/}}
+| current_members = Landon Parker<br />Travis Fincher<br />Jimmy James Hunter<br />Creigh Riepe<br />Forest Miller
+| past_members    = 
+}}
+
+'''Chasin' Crazy''' is an American [[country music]] group composed of Landon Parker (acoustic guitar, vocals), Travis Fincher (drums, vocals), Jimmy James Hunter (lead guitar, vocals), Creigh Riepe (keyboards, guitar, vocals) and Forest Miller (bass, fiddle, mandolin, vocals).<ref name="gac">{{cite web|title=Chasin' Crazy Biography|url=http://www.gactv.com/gac/ar_artists_a-z/article/0,3028,GAC_26071_6074869_,00.html|website=[[Great American Country]]|accessdate=December 11, 2014|url-status=dead|archiveurl=https://archive.today/20141211151229/http://www.gactv.com/gac/ar_artists_a-z/article/0,3028,GAC_26071_6074869_,00.html|archivedate=December 11, 2014}}</ref> The group was formed in [[Nashville, Tennessee]] in 2012.<ref name="toc">{{cite news|last1=Whitaker|first1=Sterling|title=Chasin' Crazy Talk Chaos of Reality Show, the Boy Band Label and Why the Music Speaks for Itself|url=http://tasteofcountry.com/chasin-crazy-new-single-reality-show-interview/|accessdate=December 11, 2014|work=[[Taste of Country]]|date=October 16, 2014}}</ref> They signed to RPM Entertainment and released their debut single, "That's How We Do Summertime", in May 2014.<ref name="gac" /> The song was written by Thomas Matthew Karlas and Matthew Thomas Ramsey and produced by [[Marti Frederiksen]] and [[Blake Chancey]].<ref name="journal">{{cite news|last1=Papadatos|first1=Markos|title=Review: Chasin' Crazy delight on 'That's How We Do Summertime' single|url=http://www.digitaljournal.com/a-and-e/music/review-chasin-crazy-delight-on-that-s-how-we-do-summertime-single/article/408374|accessdate=December 11, 2014|work=Digital Journal|date=October 13, 2014}}</ref>
+
+Markos Papadatos of ''Digital Journal'' gave "That's How We Do Summertime" four stars out of five. Papadatos called it "the quintessential summer anthem," writing that "the song has a liberating theme to it" and "the harmonies and backing vocals in the song are quite infectious."<ref name="journal" /> The song also received a favorable review from ''[[Taste of Country]]'', stating that it is "infectious and up-tempo, distinguishing their country-pop sound from other three-plus outfits." The review went on to say that "the lyrics may lean generic, but a sweet guitar melody and strong vocal harmonies carry the song through" and "Parker’s got a strong voice to lead the track, although all five guys share singing duties during each chorus."<ref>{{cite news|title=Chasin' Crazy, 'That's How We Do Summertime' [Listen]|url=http://tasteofcountry.com/chasin-crazy-thats-how-we-do-summertime/|accessdate=December 11, 2014|work=[[Taste of Country]]|date=June 17, 2014}}</ref>
+
+"That's How We Do Summertime" debuted at number 59 on the ''[[Billboard (magazine)|Billboard]]'' [[Country Airplay]] chart for the week of May 31, 2014 and charted for thirteen weeks, peaking at number 47 for the week of August 9.<ref name="airplay">{{cite magazine|url=http://www.billboard.com/biz/search/charts?f%5B0%5D=ts_chart_artistname%3A%2AChasin%27%20Crazy%2A&f%5B1%5D=itm_field_chart_id%3A1226&f%5B2%5D=ss_bb_type%3Achart_item&type=2&artist=Chasin%27%20Crazy|title=Chasin' Crazy Album & Song Chart History - Country Airplay|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=December 11, 2014}}</ref> A music video for the song was released on August 12.<ref>{{cite news|last1=Stefano|first1=Angela|title=Chasin' Crazy, 'That's How We Do Summertime' Video — Exclusive Premiere|url=http://theboot.com/chasin-crazy-thats-how-we-do-summertime-video/|accessdate=December 11, 2014|work=The Boot|date=August 12, 2014}}</ref> Chasin' Crazy released their second single, "Smack Dab", in August.<ref name="toc" /> Both songs will be included on an [[extended play]] to be released in early 2015.<ref name="toc" />
+
+A [[reality show]] about the band, also called ''Chasin' Crazy'', premiered on [[Great American Country]] on October 11, 2014.<ref>{{cite news|last1=Paxman|first1=Bob|title=Get Ready for New GAC Series "Chasin' Crazy"|url=http://www.countryweekly.com/news/get-ready-new-gac-series-chasin-crazy|accessdate=December 11, 2014|work=[[Country Weekly]]|date=October 8, 2014}}</ref>
+
+==Discography==
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Country Airplay|US Country Airplay]]<br /><ref name="airplay" />
+|-
+| rowspan="2"| 2014
+! scope="row"| "That's How We Do Summertime"
+| 47
+| align="left" rowspan="2"| TBD
+|-
+! scope="row"| "Smack Dab"
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:18em;"| Video
+! Director
+|-
+| 2014
+! scope="row"| "That's How We Do Summertime"<ref>{{cite web|url=http://www.cmt.com/videos/chasin-crazy/1070520/thats-how-we-do-summertime.jhtml|archive-url=https://web.archive.org/web/20141213010439/http://www.cmt.com/videos/chasin-crazy/1070520/thats-how-we-do-summertime.jhtml|url-status=dead|archive-date=December 13, 2014|title=CMT : Videos : Chasin' Crazy : That's How We Do Summertime|publisher=[[Country Music Television]]|accessdate=December 11, 2014}}</ref>
+| Steve Bates
+|-
+| 2015
+! scope="row"| "Trespassin'"
+| 
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{official website|http://chasincrazy.com/}}
+
+[[Category:Country music groups from Tennessee]]
+[[Category:Musical groups established in 2012]]
+[[Category:Musical groups from Nashville, Tennessee]]
+[[Category:2012 establishments in Tennessee]]

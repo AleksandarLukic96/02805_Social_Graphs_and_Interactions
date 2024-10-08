@@ -1,0 +1,460 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=September 2020}}
+{{BLP sources|date=February 2020}}
+{{Infobox musical artist
+| name            = Freddy Weller
+| image           = Freddy Weller 1969.JPG
+| caption         = Weller in 1969
+| image_size      = 220px
+| birth_name      = Wilton Frederick Weller
+| alias           =
+| birth_date      = {{Birth date and age|1943|09|09}}
+| birth_place     = [[Atlanta]], [[Georgia (U.S. state)|Georgia]], United States
+| death_date      =
+| instrument      = Vocals, guitar
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 1969–present
+| label           = [[Columbia Records|Columbia]]
+| associated_acts =
+| website         = 
+}}
+
+'''Wilton Frederick "Freddy" Weller''' (born September 9, 1943)<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|date=2008|page=452|isbn=978-0-89820-177-2}}</ref> is an American rock and roll and [[country music]] and artist. He recorded for [[Columbia Records]] between 1969 and 1980. He had his highest charted single in 1969 with his debut release, "Games People Play".
+
+==Biography==
+
+=== Early career ===
+He was born in [[Atlanta]], [[Georgia (U.S. state)|Georgia]], United States.<ref name="LarkinCountry">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Who's Who of Country Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1993|edition=First|isbn=0-85112-726-6|page=437}}</ref> Weller played in a high school group, The Believers, which also included [[Joe South]].<ref name="LarkinCountry"/> One of his first recording sessions was playing guitar on [[Billy Joe Royal]]'s 1965 track, "[[Down in the Boondocks (song)|Down in the Boondocks]]", which was written by South.<ref name="LarkinCountry"/>
+
+=== Paul Revere & the Raiders ===
+{{Main|Paul Revere & the Raiders#The "Happening" era}}
+His recording career continued in 1967, as lead guitarist in the band [[Paul Revere & The Raiders]].<ref name="LarkinCountry" />  Around the time he joined the band, the group's two main members, [[Mark Lindsay]] and [[Paul Revere (musician)|Paul Revere]], had just started hosting the show ''[[Happening '68]]''. The other Raiders members, Charlie Coe, [[Keith Allison]], and Joe Correro Jr, acted as the show's in-studio houseband. He penned their 1969 hit "We Gotta All Get Together".<ref>{{Cite web |title=Collage - The Raiders &#124; Songs, Reviews, Credits |url=https://www.allmusic.com/album/collage-mw0000845946 |access-date=August 11, 2021 |website=[[AllMusic]]}}</ref>
+
+Weller remained in the Raiders until its split in 1975. The group soon reformed without Weller.
+
+=== Solo ===
+Weller recorded many rock and roll and country songs, such as Joe South's "[[Games People Play (Joe South song)|'Games People Play]]", which peaked at No. 2 on the Billboard [[Hot Country Songs|Hot Country Singles]] chart in 1969;<ref name="LarkinCountry" /> [[Chuck Berry]]'s "[[Promised Land (Chuck Berry song)|The Promised Land]]" and "[[Too Much Monkey Business]]", "She Loves Me Right Out Of My Mind", "[[Indian Lake (song)|Indian Lake]]", both 1971, and many others. Weller also played guitar backing for both South and Royal.<ref name="whitburn"/> He co-wrote "[[Dizzy (Tommy Roe song)|Dizzy]]" and "[[Jam Up and Jelly Tight]]", which were hits for [[Tommy Roe]] in 1969 and 1970.<ref name="LarkinCountry" />
+
+After releasing his 1980 single "Lost In Austin" and his 1982 studio album Ramblin' Man, Weller would semi-retire from the music industry, not making another release for thirty years, when he released the single "Your Memory Walks Through Walls" in 2010.
+
+==Discography==
+
+=== With [[Paul Revere & the Raiders]] ===
+{{Main|Paul Revere & the Raiders discography}}
+
+==== Studio albums ====
+{| class="wikitable"
+!Year
+!Album details
+|-
+|1967
+|'''''A Christmas Present ... And Past'''''
+|-
+| rowspan="2" |1968
+|'''''[[Goin' to Memphis]]'''''
+|-
+|'''''Something Happening'''''
+|-
+| rowspan="2" |1969
+|'''''Hard 'N' Heavy (with Marshmallow)'''''
+|-
+|'''''[[Alias Pink Puzz]]'''''
+|-
+|1970
+|'''''Collage'''''
+|-
+|1971
+|'''''Indian Reservation'''''
+|-
+|1972
+|'''''Country Wine'''''
+|}
+
+==== Singles ====
+{| class="wikitable"
+!Song Titles
+!Year
+|-
+|"I Had A Dream"
+<small>b/w "Upon Your Leaving"</small>
+| rowspan="3" |1967
+|-
+|"Peace Of Mind" /
+"Do Unto Others"
+|-
+|"Rain, Sleet, Snow"
+<small>b/w "Brotherly Love"</small>
+<small>Cancelled single</small>
+|-
+|"Too Much Talk"
+<small>b/w ''"[[Happening '68]]"''</small>
+| rowspan="3" |1968
+|-
+|"Don't Take It So Hard"
+<small>b/w "Observation From Flight 285 (In 3/4 Time)"</small>
+|-
+|"Cinderella Sunshine"
+<small>b/w "Theme From It's Happening" (Non-Lp track)</small>
+|-
+|"[[Mr. Sun, Mr. Moon]]"
+<small>b/w "Without You"</small>
+| rowspan="3" |1969
+|-
+|"[[Let Me (Paul Revere & the Raiders song)|Let Me]]"
+<small>b/w "I Don't Know"</small>
+|-
+|"We Gotta All Get Together"
+<small>b/w "Frankfort Side Street" (from ''Alias Pink Puzz'')</small>
+|-
+|"Just Seventeen"
+<small>b/w "Sorceress With Blue Eyes"</small>
+| rowspan="2" |1970
+|-
+|"Gone Movin' On" <small>(re-recorded version of Lp track from ''Revolution!'')</small>
+<small>b/w "Interlude (To Be Forgotten)"</small>
+|-
+|"[[Indian Reservation (The Lament of the Cherokee Reservation Indian)]]"
+<small>b/w "Terry's Tune" (Non-Lp track)</small>
+| rowspan="2" |1971
+|-
+|"[[Birds of a Feather (Joe South song)|Birds of a Feather]]"
+<small>b/w "The Turkey"</small>
+|-
+|"Country Wine"
+<small>b/w "It's So Hard Getting Up Today" (Non-Lp track)</small>
+| rowspan="3" |1972
+|-
+|"Powder Blue Mercedes Queen"
+<small>b/w "Golden Girls Sometimes"</small>
+|-
+|"Song Seller"
+<small>b/w "A Simple Song"</small>
+|-
+|"Love Music"
+<small>b/w "Goodbye No. 9"</small>
+|1973
+|-
+|"All Over You"
+<small>b/w "Seaboard Line Boogie"</small>
+|1974
+|-
+|"Your Love (Is The Only Love)"
+<small>b/w "Gonna Have A Good Time"</small>
+|1975
+|-
+|"Ain't Nothin' Wrong"/
+<small>b/w "You're Really Saying Something"</small>
+|1976
+|}
+
+=== Solo ===
+
+==== Albums ====
+{| class="wikitable"
+!rowspan="2"|Year
+!rowspan="2"|Album
+!colspan="2"|Chart Positions
+|-
+!width="50"|<small>[[Top Country Albums|US Country]]</small>
+!width="50"|<small>[[Billboard 200|US]]</small>
+|-
+|1969
+|''Games People Play''
+|align="center"|8
+|align="center"|144
+|-
+|1970
+|''Listen to the Young Folks''
+|align="center"|—
+|align="center"|—
+|-
+|1971
+|''Another Night of Love''
+|align="center"|22
+|align="center"|—
+|-
+|rowspan="2"|1972
+|''The Promised Land''
+|align="center"|—
+|align="center"|—
+|-
+|''The Roadmaster''
+|align="center"|39
+|align="center"|—
+|-
+|1973
+|''Too Much Monkey Business''
+|align="center"|32
+|align="center"|—
+|-
+|1974
+|''Sexy Lady''
+|align="center"|24
+|align="center"|—
+|-
+|rowspan="2"|1975
+|''Freddy Weller's Greatest Hits''
+|align="center"|34
+|align="center"|—
+|-
+|''Freddy Weller''
+|align="center"|34
+|align="center"|—
+|-
+|1976
+|''Liquor, Love & Life''
+|align="center"|44
+|align="center"|—
+|-
+|1977
+|''One Man Show''
+|align="center"|—
+|align="center"|—
+|-
+|1978
+|''Love Got in the Way''
+|align="center"|—
+|align="center"|—
+|-
+|1980
+|''Go For the Night''
+|align="center"|—
+|align="center"|—
+|-
+|1982
+|''Ramblin' Man''
+|align="center"|—
+|align="center"|—
+|}
+
+==== Singles ====
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="3"| Chart Positions
+! rowspan="2"| Album
+|-
+! width="45"| <small>[[Hot Country Songs|US Country]]</small>
+! width="45"| <small>[[Bubbling Under Hot 100|US Bubbling]]</small>
+! width="45"| <small>CAN Country</small>
+|-
+| rowspan="3"| 1969
+| "[[Games People Play (Joe South song)|Games People Play]]"
+| align="center"| 2
+| align="center"| —
+| align="center"| —
+| rowspan="2"| ''Games People Play''
+|-
+| "These Are Not My People"
+| align="center"| 5
+| align="center"| 13
+| align="center"| —
+|-
+| "[[Down in the Boondocks (song)|Down in the Boondocks]]"
+| align="center"| 25
+| align="center"| —
+| align="center"| —
+| rowspan="2"| ''Listen to the Young Folks''
+|-
+| 1970
+| "I Shook the Hand"
+| align="center"| 75
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="3"| 1971
+| "[[Promised Land (Chuck Berry song)|The Promised Land]]"
+| align="center"| 3
+| align="center"| 25
+| align="center"| 9
+| rowspan="3"| ''The Promised Land /<br />Another Night of Love''
+|-
+| "[[Indian Lake (song)|Indian Lake]]"
+| align="center"| 3
+| align="center"| 8
+| align="center"| 4
+|-
+| "Another Night of Love"
+| align="center"| 5
+| align="center"| —
+| align="center"| 13
+|-
+| rowspan="3"| 1972
+| "Ballad of a Hillbilly Singer"
+| align="center"| 26
+| align="center"| —
+| align="center"| 12
+| rowspan="3"| ''The Roadmaster''
+|-
+| "The Roadmaster"
+| align="center"| 17
+| align="center"| —
+| align="center"| 29
+|-
+| "She Loves Me (Right Out of My Mind)"
+| align="center"| 11
+| align="center"| —
+| align="center"| 3
+|-
+| rowspan="2"| 1973
+| "Too Much Monkey Business"
+| align="center"| 8
+| align="center"| —
+| align="center"| 7
+| rowspan="2"| ''Too Much Monkey Business''
+|-
+| "The Perfect Stranger"
+| align="center"| 13
+| align="center"| —
+| align="center"| 7
+|-
+| rowspan="3"| 1974
+| "I've Just Got to Know (How Loving You Would Be)"
+| align="center"| 11
+| align="center"| —
+| align="center"| 11
+| rowspan="3"| ''Sexy Lady''
+|-
+| "Sexy Lady"
+| align="center"| 21
+| align="center"| —
+| align="center"| 22
+|-
+| "You're Not Getting Older (You're Getting Better)"
+| align="center"| 16
+| align="center"| —
+| align="center"| 20
+|-
+| rowspan="2"| 1975
+| "Love You Back to Georgia"
+| align="center"| 64
+| align="center"| —
+| align="center"| —
+| rowspan="2"| ''Freddy Weller''
+|-
+| "Stone Crazy"
+| align="center"| 52
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="3"| 1976
+| "Ask Any Old Cheater Who Knows"
+| align="center"| 42
+| align="center"| —
+| align="center"| —
+| rowspan="3"| ''Liquor, Love and Life''
+|-
+| "Liquor, Love and Life"
+| align="center"| 44
+| align="center"| —
+| align="center"| —
+|-
+| "Room 269"
+| align="center"| 56
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="3"| 1977
+| "Strawberry Curls"
+| align="center"| 79
+| align="center"| —
+| align="center"| —
+| rowspan="3"| ''One Man Show''
+|-
+| "Merry-Go-Round"
+| align="center"| 41
+| align="center"| —
+| align="center"| —
+|-
+| "Nobody Cares But You"
+| align="center"| 44
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="3"| 1978
+| "Let Me Fall Back in Your Arms"
+| align="center"| 93
+| align="center"| —
+| align="center"| —
+| single only
+|-
+| "Bar Wars"
+| align="center"| 32
+| align="center"| —
+| align="center"| 58
+| rowspan="3"| ''Love Got in the Way''
+|-
+| "Love Got in the Way"
+| align="center"| 23
+| align="center"| —
+| align="center"| 34
+|-
+| rowspan="4"| 1979
+| "Fantasy Island"
+| align="center"| 27
+| align="center"| —
+| align="center"| 32
+|-
+| "Nadine"
+| align="center"| 40
+| align="center"| —
+| align="center"| 53
+| rowspan="2"| singles only
+|-
+| "That Run-Away Woman of Mine"
+| align="center"| 44
+| align="center"| —
+| align="center"| —
+|-
+| "Go for the Night"
+| align="center"| 33
+| align="center"| —
+| align="center"| —
+| rowspan="3"| ''Go for the Night''
+|-
+| rowspan="2"| 1980
+| "A Million Old Goodbyes"
+| align="center"| 66
+| align="center"| —
+| align="center"| —
+|-
+| "Lost in Austin"
+| align="center"| 45
+| align="center"| —
+| align="center"| 51
+|-
+| 2010
+| "Your Memory Walks Through Walls"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| single only
+|}
+
+== References ==
+<references />
+
+==External links==
+*[{{AllMusic|class=artist|id=p21369|pure_url=yes}} Freddy Weller] at Allmusic.com
+*[http://www.rocky-52.net/chanteursw/weller_f.htm Freddy Weller]
+{{The Raiders}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Weller, Freddy}}
+[[Category:American country guitarists]]
+[[Category:American male guitarists]]
+[[Category:American country singer-songwriters]]
+[[Category:Singers from Atlanta]]
+[[Category:1947 births]]
+[[Category:Living people]]
+[[Category:Columbia Records artists]]
+[[Category:Guitarists from Georgia (U.S. state)]]
+[[Category:20th-century American guitarists]]
+[[Category:Country musicians from Georgia (U.S. state)]]
+[[Category:20th-century American male musicians]]
+[[Category:American male singer-songwriters]]
+[[Category:Singer-songwriters from Georgia (U.S. state)]]
+[[Category:Paul Revere & the Raiders members]]

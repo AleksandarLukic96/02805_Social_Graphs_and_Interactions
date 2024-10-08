@@ -1,0 +1,242 @@
+{{short description|American singer-songwriter}}
+
+{{Infobox musical artist
+| honorific_prefix    =
+| name                = Scott Vestal
+| honorific_suffix    =
+| image               =
+| image_upright       =
+| image_size          =
+| landscape           = <!-- yes, if wide image, otherwise leave blank -->
+| alt                 =
+| caption             =
+| native_name         =
+| native_name_lang    =
+| birth_name          =
+| alias               =
+| birth_date          = {{birth date and age|1962|05|08}}
+| birth_place         = [[Duncan, Oklahoma]]
+| origin              =
+| death_date          = <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date 1st) -->
+| death_place         =
+| genre               = [[Bluegrass music]], [[Country music]], [[jazz music]]
+| occupation          = Musician, recording engineer
+| instrument          = Banjo
+| years_active        = 1971–present
+| label               = [[Pinecastle Records]]
+| associated_acts     = [[Larry Sparks]], [[Doyle Lawson]] and Quicksilver, [[John Cowan]] Band, [[Sam Bush]]
+| website             = {{URL|scottvestal.com}}
+| notable_instruments =
+| module              =
+| module2             =
+| module3             = 
+}}
+
+'''Scott Vestal''' is an American banjoist, songwriter and [[luthier]], known for his innovative approach to playing and designing the banjo.
+
+== Biography ==
+===Early years===
+The older of two children, Scott Vestal was raised in Duncan, Oklahoma in a musical family. His Grandfather Famon Self was a country fiddler who taught Vestal his first guitar chords. Scott and his brother Curtis played and sang with their grandfather at bluegrass festivals and other events.<ref name=SV-newsletter-2017>{{cite web |url=https://banjonews.com/2017-09/callous_thumb.html|title=Callous Thumb|work=Banjo Newsletter|access-date=September 8, 2017|author=Donald Nitchie|date=September 1, 2017}}</ref>
+
+===Music career===
+Vestal acquired a 5-string banjo at age 13 and by age 15 was playing with T. J. Rogers’ family band. At age 18, Vestal performed and recorded with [[Larry Sparks]] for a year. At age 19, Vestal moved to Texas and with his brother Curtis and Russell Moore formed the band Southern Connection, which toured the Midwest and East Coast for 3 years.<ref name=SV-jazztimes-2000>{{cite web |url=https://jazztimes.com/departments/hearsay/scott-vestal/|title=Scott Vestal|work=JazzTimes|access-date=September 8, 2017|author=Sean Daly|date=July 1, 2000}}</ref>
+
+In 1985, Vestal, Russell Moore, and Scott Vestal joined [[Doyle Lawson]] and Quicksilver, replacing [[Terry Baucom]].<ref name=SV-newsletter-2010>{{cite web |url=https://banjonews.com/2010-06/scott_vestal.html|title=Scott Vestal|work=Banjo Newsletter|access-date=September 7, 2017|author=Scott Anderson|date=June 1, 2010}}</ref> Vestal stayed with Quicksilver for four years and five albums.<ref name=SV-allcountry-1997>{{cite book 
+|last=Erlewine|first=Michael|date=1997|title=All Music Guide to Country: The Experts' Guide to the Best Recordings in Country Music|publisher=Hal Leonard Corporation |isbn=9780879304751|url=https://books.google.com/books?id=7Mo7xm-X1r4C|access-date=September 8, 2017}}</ref><ref name=SV-nodep-1999>{{cite news|last1=Weisberger|first1=Jon|title=Doyle Lawson & Quicksilver - The Original Band|url=http://nodepression.com/album-review/doyle-lawson-quicksilver-original-band|access-date=September 8, 2017|work=No Depression|date=April 30, 1999}}</ref>
+
+Vestal then formed his group Livewire with mandolinist [[Wayne Benson]], guitarist and vocalist Robert Hale, and bassist Ernie Sykes.<ref name=SV-master-2015>{{cite book |last=Bay|first=William|date=Dec 10, 2015|title=Master Anthology of Mandolin Solos, Vol. 1|publisher=MEL BAY PUBN Incorporated |isbn=9780786693733|url=https://books.google.com/books?id=J_ftjgEACAAJ|access-date=September 8, 2017}}</ref>  Vestal toured Japan with an acoustic jazz ensemble, and starred in Phyllis McBride's original musical production ''Cowboy Cafe''.<ref name=SV-newsletter-2010 /><ref name=SV-hvba-2009>{{cite web |url=http://www.hvbluegrass.org/articles/news/273-ernie-sykes-to-present-two-workshops.html|title=Ernie Sykes to Present Two Workshops
+|work=Hudson Valley Bluegrass Association|access-date=September 8, 2017|date= November 10, 2009}}</ref>
+
+In 1994, Vestal moved to Nashville and formed a band with [[Harley Allen]] and [[David Parmley]]. When Allen decided to focus on songwriting, the band became David Parmley, Scott Vestal, and Continental Divide. Over the next 5 years, the band recorded three albums and toured the US and Canada.<ref name=SV-tribune-1995>{{cite news|last1=Duckman|first1=David|title=David Parmley, Scott Vestal & Continental Divide...|url=https://www.chicagotribune.com/1995/10/19/david-parmley-scott-vestal-continental-dividedavid/|access-date=September 8, 2017|work=Chicago Tribune|date=October 19, 1995}}</ref> Vestal left Continental Divide in 1998.<ref name=SV-billboard-2000>{{cite magazine|last1=Evans Price|first1=Deborah|title=Parmley Takes Act Back to Bluegrass|url=https://books.google.com/books?id=4Q0EAAAAMBAJ&q=scott+vestal+continental+divide&pg=PA30|access-date=September 8, 2017|magazine=Billboard|date=February 12, 2000}}</ref>
+
+Vestal produced, engineered, and played on an annual series of instrumental albums for [[Pinecastle Records]]. The initial project started as a solo album for [[Mountain Heart]] guitarist Clay Jones. When Jones went another direction, Vestal salvaged the project as an instrumental album.<ref name=SV-bgtoday-2007>{{cite news|last1=Lawless|first1=John
+|title=More Ultimate Pickin from Pinecastle|url=https://bluegrasstoday.com/more-ultimate-pickin-from-pinecastle/|access-date=September 8, 2017|work=Bluegrass Today|date=February 13, 2007}}</ref><ref name=SV-billboard-1996>{{cite magazine|last1=Evans Price|first1=Deborah|title=McCoury Leads IBMA Awards|url=https://books.google.com/books?id=0QkEAAAAMBAJ&q=bluegrass+%2795+pinecastle&pg=PA34|access-date=September 8, 2017|magazine=Billboard|date=October 5, 1996}}</ref>
+
+The “Bluegrass Annual” series), which won the IBMA award for Recorded Event of the Year in 1996. This series of recordings continued from 1995 through 2001.<ref name=SV-newsletter-2010 />
+
+Scott played on [[Johnny Staats]]’ mandolin project with [[John Cowan]]. From 1998 until 2003, Vestal and Cowan were in the John Cowan Band, and recorded two albums together. Vestal had the opportunity to incorporating a solid body electric MIDI banjo into their recordings and performances.<ref name=SV-cmt-2003>{{cite web |url=http://www.cmt.com/news/1473110/the-long-journey-back-john-cowan-returns-to-his-grass-roots/|archive-url=https://web.archive.org/web/20150104175126/http://www.cmt.com/news/1473110/the-long-journey-back-john-cowan-returns-to-his-grass-roots/|url-status=dead|archive-date=January 4, 2015|title=The Long Journey Back: John Cowan Returns to His 'Grass' Roots|work=CMT|access-date=September 8, 2017|author=Michelle Nikolai|date=June 23, 2003}}</ref>
+
+In 2006, Vestal worked with [[David Lee Roth]] to promote the [[CMH Records]] Van Halen bluegrass tribute ''[[Strummin' with the Devil: The Southern Side of Van Halen]]'', appearing on late night and daytime talk shows and at a concert at the [[Nokia Theater (New York)|Nokia Theater]] in New York City.<ref name=SV-roth-2006>{{cite web |url=https://bluegrasstoday.com/david-lee-roth-tv-update/|title=David Lee Roth – TV update|work=Bluegrass Today|access-date=September 8, 2017|author=John Lawless|date=June 6, 2006}}</ref>
+
+Starting in 2006, Vestal recorded and toured with the [[Sam Bush]] Band along with Stephen Mougin (guitar), Todd Parks (bass), and Chris Brown (drums).<ref name=SV-rutland-2016>{{cite news|last1=Edelstein|first1=Art|title='Father of newgrass': Sam Bush|url=http://www.rutlandherald.com/articles/father-of-newgrass-sam-bush/|access-date=September 8, 2017|work=Rutland Herald|date=March 31, 2016}}</ref><ref name=SV-amplifier-2012>{{cite web |url=http://www.bgamplifier.com/artists/musicians/john-cowan/article_448db57c-1c3f-11e5-a799-93413da0b106.html|title=John Cowan|work=The Amplifier|access-date=September 8, 2017|date=July 3, 2012}}</ref>
+
+===Recording and session work===
+As well as being a session player in Nashville, Vestal built Digital Underground, a recording studio where he engineers, produces, and performs on various projects.<ref name=SV-nodep-2010>{{cite news|last1=Jim|first1=Moulton|title="Crying Heart Blues" - Audey Blaylock and Redline - A Review
+|url=http://nodepression.com/article/crying-heart-blues-audey-blaylock-and-redline-review|access-date=September 8, 2017|work=No Depression|date=June 4, 2010}}</ref>
+
+Vestal has worked with [[Bill Monroe]], [[Tim O'Brien (musician)|Tim O'Brien]], [[Jim Lauderdale]], [[Shawn Camp (musician)|Shawn Camp]], [[Ricky Skaggs]], [[Jerry Douglas]], [[Tony Rice]], [[Vassar Clements]], [[Chris Thile]], [[Hank Williams III]], [[Kenny Chesney]], [[Del McCoury]], [[Dierks Bentley]], [[Billy Ray Cyrus]], [[Alan Jackson]], [[Dolly Parton]],<ref name=SV-dolly-2014>{{cite news|last1=Lawless|first1=John|title=Dolly Parton talks Blue Smoke|url=https://bluegrasstoday.com/dolly-parton-talks-blue-smoke/|access-date=September 1, 2017|work=Bluegrass Today|date=May 15, 2014}}</ref> [[Dwight Yoakam]],<ref name=SV-kiim-2016>{{cite news|last1=staff|title=Dwight Yoakam to Release New Bluegrass Album, "Swimmin' Pools, Movie Stars," on Sept. 23|url=http://www.kiimfm.com/2016/08/02/dwight-yoakam-to-release-new-bluegrass-album-swimmin-pools-movie-stars-on-sept-23/|access-date=September 8, 2017|work=KIIM|date=August 2, 2016}}</ref> and others.
+
+Vestal and his wife, jazz singer Alice Newman Vestal, recorded the album ''Goin’ To The Dance''. Steve Thomas (fiddle), Chris Brown (drums), Jeff Autry (guitar), Byron House (bass), and Randy Kohrs (resophonic guitar) assisted.<ref name=SV-newsletter-2010 /><ref name=SV-popmaters-2006>{{cite web |url=http://www.popmatters.com/review/asv-goin-to-the-dance/|title=ASV: Goin' To The Dance|work=PopMatters|access-date=September 8, 2017|author=Jason MacNeil|date=October 3, 2006}}</ref>
+
+===Solo career===
+Vestal wrote nine of thirteen songs on his first solo album ''In Pursuit Of Happiness'' and nine of twelve songs on his album ''Millennia''.
+
+On Vestal's 1992 album ''In Pursuit Of Happiness'', the personnel are Curtis Vestal (bass), Jeff Autry (guitar), Wayne Benson (mandolin), and Greg Luck (fiddle).<ref name=SV-tribune2-1995>{{cite web |url=http://articles.chicagotribune.com/1995-11-16/features/9511160150_1_signatures-pickers-impresses|title=Scott Vestal In Pursuit Of Happiness|work=Chicago Tribune|access-date=September 8, 2017|author=David Duckman|date=November 16, 1995}}{{dead link|date=September 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+
+On ''Millennia'', released in 2000, Vestal is joined by John Cowan on vocals, Reese Winans on keyboards, Pasi Leppikangas on drums, Jeff Autry and Jim Hurst on guitars, and Stuart Duncan, Kati Penn, and Rickie Simpkins on fiddle.<ref name=SV-std-2000>{{cite web |url=http://www.countrystandardtime.com/d/cdreview.asp?xid=2522|title=Scott Vestal: Millennia|work=Country Standard Time|access-date=September 8, 2017|author=Jonathan Colcord}}</ref>
+
+===Stealth Banjos===
+Vestal's banjo company Stealth Banjos sells instruments he has designed and developed. It features an innovative hidden 5th string and a streamlined neck and headstock.<ref name=SV-acoustic-1998>{{cite web |url=http://www.stealthbanjo.com/Review.am.html|title=Stealth Banjo Review|work=Acoustic Magazine|access-date=September 7, 2017|author=Casey Henry|date=February 1, 1998}}</ref>
+
+===Awards===
+Scott was awarded Banjo Player of the Year in 1996 by the International Bluegrass Music Association (co-winner with [[Sammy Shelor]]), and 1998 Banjo Player of the Year by the Bluegrass Now Magazine Fan's Choice Awards.
+
+In 2017, Vestal was awarded the [[Steve Martin]] Prize for Excellence in Banjo and Bluegrass.<ref name=SV-nyt-2017>{{cite news|last1=Libbey|first1=Peter|title=Scott Vestal Wins Steve Martin Banjo Prize|url=https://www.nytimes.com/2017/07/30/arts/music/scott-vestal-wins-steve-martin-banjo-prize.html|access-date=September 7, 2017|work=The New York Times|date=July 30, 2017}}</ref>
+
+== Discography ==
+===Solo albums===
+* 1992: ''In Pursuit of Happiness'' (self-released)
+* 2000: ''Millennia'' ([[Pinecastle Records|Pinecastle]])<ref name=SV-graham-2000>{{cite web |url=http://georgegraham.com/reviews/vestal.html|title=Scott Vestal: Millennia|work=The Graham Weekly Album Review|access-date=September 8, 2017|author=George Graham|date=March 22, 2000}}</ref>
+
+===ASV (Scott Vestal and Alice Newman Vestal)===
+* 2006: ''Goin' To the Dance'' (Bless Your Heart Music)<ref name=SV-nodep-2015>{{cite news|last1=Gutch|first1=Frank Jr.|title=ASV - Goin' To the Dance|url=http://nodepression.com/album-review/asv-goin-dance|access-date=September 8, 2017|work=No Depression|date=June 19, 2015}}</ref>
+
+===With [[Larry Sparks]]===
+* 1981: ''Ramblin' Letters'' (Acoustic Revival)
+
+===With Southern Connection===
+* 1984: ''Southern Connection'' (Peach's)
+
+===With [[Doyle Lawson]] and Quicksilver===
+* 1986: ''Beyond the Shadows'' ([[Sugar Hill Records (bluegrass label)|Sugar Hill]])
+* 1987: ''The News is Out'' (Sugar Hill)
+* 1987: ''Heaven's Joy Awaits: A Cappella Quartets'' (Sugar Hill)
+* 1988: ''I'll Wander Back Someday'' (Sugar Hill)
+* 1988: ''Hymn Time in the Country'' (Sugar Hill)
+* 2004: ''A School Of Bluegrass'' (Crossroads)
+
+===With Livewire===
+* 1989: ''Wired!'' ([[Rounder Records|Rounder]])<ref name=SV-livewire-2011>{{cite web |url=http://www.rounder.com/tag/livewire/|title=Livewire - Wired!|work=Rounder|access-date=September 8, 2017|date=March 1, 2011}}</ref>
+
+===With [[David Parmley]] and Continental Divide===
+* 1995: ''David Parmley/Scott Vestal and Continental Divide'' (Pinecastle)
+* 1996: ''On the Divide'' (Pinecastle)<ref name=SV-united-1997>{{cite web |url=http://reviews.archiewarnock.net/ContinentalDivide-OnTheDivide.html|title=David Parmley, Scott Vestal and Continental Divide: On The Divide|work=Bluegrass Unlimited|access-date=September 8, 2017|date=June 1, 1997}}</ref>
+* 1998: ''Feel Good Day'' (Pinecastle)<ref name=SV-std-1998>{{cite web |url=http://www.countrystandardtime.com/d/cdreview.asp?xid=607|title=Continental Divide: Feel Good Day|work=Country Standard Time|access-date=September 8, 2017|author=Roy Kasten}}</ref>
+
+===With [[John Cowan]]===
+* 2002: ''Always Take Me Back'' (Sugar Hill)
+* 2009: ''Telluride Live'' ([[Entertainment One]])
+
+===With [[Sam Bush]]===
+* 2006: ''[[Laps in Seven]]'' (Sugar Hill)
+* 2009: ''[[Circles Around Me]]'' (Sugar Hill)
+* 2016: ''[[Storyman (album)|Storyman]]'' (Sugar Hill)
+
+===Bluegrass Annual series===
+* 1995: various artists - ''Bluegrass '95'' (Pinecastle)
+* 1996: various artists - ''Bluegrass '96'' (Pinecastle)
+* 1997: various artists - ''Bluegrass '97'' (Pinecastle)
+* 1998: various artists - ''Bluegrass '98'' (Pinecastle)
+* 1999: various artists - ''Bluegrass '99'' (Pinecastle)
+* 2000: various artists - ''Bluegrass 2000'' (Pinecastle)
+* 2001: various artists - ''Bluegrass 2001'' (Pinecastle)
+* 2020: various artists - ''Bluegrass 2020'' (Pinecastle)
+* 2022: various artists - ''Bluegrass 2022'' (Pinecastle)
+
+===As engineer / mixer===
+* 2005: [[Wildfire]] - ''Rattle The Chains'' (Pinecastle)
+* 2010: [[Audie Blaylock]] and Redline - ''Cryin' Heart Blues'' ([[Rural Rhythm Records|Rural Rhythm]])
+* 2012: Audie Blaylock and Redline - ''Hard Country'' (Rural Rhythm)
+* 2014: Town Mountain - ''Live at the Isis'' (self-released)
+* 2016: [[Blue Highway]] - ''[[Original Traditional]]'' (Rounder)
+* 2016: Town Mountain - ''Southern Crescent'' (LoHi)
+* 2017: [[Mac Wiseman]] - ''I Sang the Song'' (Mountain Fever)
+* 2018: [[Williamson Branch]] - Free (Pinecastle)
+
+===As producer===
+* 2007: Scott Anderson - ''Rivers'' (Mato Music)
+* 2012: Robert Hale - ''Pure & Simple'' (Pinecastle)
+
+===Also appears on===
+====197? - 1999====
+* 197?: Pickin' Tymes - ''Bluegrass Past - Present - Future'' (Jackalope) - exact release date unknown
+* 1996: Barry Berrier - ''First Time with Feeling'' (Pinecastle)
+* 1996: Barbara Lamb - ''Tonight I Feel Like Texas'' (Sugar Hill)
+* 1996: [[Aubrey Haynie]] - ''Doin' My Time'' (Sugar Hill)
+* 1997: [[Chris Thile]] - ''[[Stealing Second]]'' (Sugar Hill)
+* 1998: Richard Bennett - ''Long Lonesome Time'' (Rebel)
+* 1998: [[Paul Craft]] - ''Brother Jukebox'' (Strictly Country)
+* 1999: Jeff Autry - ''Foothills'' (Pinecastle)
+* 1999: [[Phil Leadbetter]] - ''Philibuster'' (Rounder)
+* 1999: Nancy Moore - ''Local Flowers'' (Pinecastle)
+* 1999: [[Jon Randall]] - ''[[Willin' (Jon Randall)|Willin']]'' (Eminent)
+* 1999: [[Marshall Wilborn]] - ''Root 5: Bass and Banjo'' (Pinecastle)
+
+====2000 - 2009====
+* 2000: [[Aubrey Haynie]] - ''A Man Must Carry On'' (Sugar Hill)
+* 2000: [[Johnny Staats]] Project - ''Wires & Wood'' ([[Giant Records (Warner)|Giant]])
+* 2000: various artists - ''Knee Deep in Bluegrass: The AcuTab Sessions'' ([[Rebel Records|Rebel]])
+* 2001: [[Randy Kohrs]] - ''Crack in My Armour'' (Junction)
+* 2001: Wildfire - ''Uncontained'' (Pinecastle)
+* 2002: [[Drew Emmitt]] - ''Freedom Ride'' ([[Compass Records|Compass]])
+* 2002: [[Jim Hurst]] - ''Second Son'' (Pinecastle)
+* 2003: [[Wayne Benson]] - ''An Instrumental Anthology'' (Pinecastle)
+* 2003: [[Craig Campbell (singer)|Craig Campbell]] - ''[[Never Regret]]'' ([[Bigger Picture Music Group|Bigger Picture]])
+* 2003: Grandstaff - ''Circles'' (Compendia)
+* 2003: The Larkins - ''Larkins'' (Audium)
+* 2003: [[Donna Hughes (musician)|Donna Hughes]] - 'Same Old Me' ([Flying Hound Publishing, BMI])
+* 2004: [[Shawn Camp (musician)|Shawn Camp]] - ''Live At The Station Inn'' (Skeeterbit)
+* 2004: Randy Kohrs - ''I'm Torn'' ([[Lonesome Day Records|Lonesome Day]])
+* 2004: The Woodys - ''Telluride to Tennessee'' (Madacy)
+* 2005: Phil Leadbetter - ''Slide Effects'' (Pinecastle)
+* 2006: Shawn Camp - ''Fireball'' (Skeeterbit)
+* 2006: various artists - ''[[Strummin' with the Devil: The Southern Side of Van Halen]]'' ([[CMH Records|CMH]])
+* 2007: Shawn Camp and [[Billy Burnette]] - ''The Bluegrass Elvises (Vol 1)'' (American Roots)
+* 2007: [[Kenny Chesney]] - ''[[Just Who I Am: Poets & Pirates]]'' ([[BNA Records|BNA]])
+* 2007: [[Donna Hughes (musician)|Donna Hughes]] - ''Gaining Wisdom'' (Rounder)
+* 2007: Randy Kohrs - ''Old Photograph'' (Rural Rhythm)
+* 2007: [[Laura Love]] - ''NēGrass'' (Octoroon Biography)
+* 2007: [[Tony Trischka]] - ''Double Banjo Bluegrass Spectacular'' (Rounder)
+* 2008: [[Ashton Shepherd]] - ''[[Sounds So Good]]'' ([[Universal Music Group Nashville|Mercury Nashville]])
+* 2008: Beth Stevens and Edge - ''Strong Enough'' (Pinecastle)
+* 2009: [[Jim Lauderdale]] - ''Could We Get Any Closer?'' (Sky Crunch)
+* 2009: [[Donna Ulisse]] - ''Walk This Mountain Down'' (Hadley)
+
+====2010 - present====
+* 2010: [[Butch Baldassari]] and Van Manakas - ''Leavin' Tennessee'' (SoundArt)
+* 2010: [[Dierks Bentley]] - ''[[Up on the Ridge]]'' ([[Capitol Records Nashville|Capitol Nashville]])
+* 2010: [[Dailey & Vincent]] - ''Sing the Statler Brothers'' ([[Cracker Barrel]] / Rounder)
+* 2010: Randy Kohrs - ''Quicksand'' (Rural Rhythm)
+* 2010: [[Nora Jane Struthers]] - ''Nora Jane Struthers'' (Blue Pig)
+* 2011: [[Billy Ray Cyrus]] - ''[[I'm American]]'' ([[Walt Disney Records|Buena Vista]])
+* 2011: Kathy Joy Daugherty - ''Heart of Dreams'' ([[CD Baby]])
+* 2011: Jim Lauderdale - ''Reason And Rhyme: Bluegrass Songs by Robert Hunter & Jim Lauderdale'' (Sugar Hill)
+* 2011: Tracy Parnell - ''A Walk In the Country'' (self-released)
+* 2012: [[Derek Ryan (singer)|Derek Ryan]] - ''Dreamers and Believers'' (Sharpe)
+* 2011: Ashton Shepherd - ''[[Where Country Grows]]'' (MCA Nashville)
+* 2012: Dan Stevens - ''My Life of Adventure'' (Gatorbone)
+* 2013: Jim Lauderdale - ''Old Time Angels'' (Sky Crunch)
+* 2013: Keith Sewell - ''Love Is a Journey'' (Skaggs Family)
+* 2017: [[The Mavericks]] - ''[[Brand New Day (The Mavericks album)|Brand New Day]]'' (Mono Mundo)
+* 2012: Kenny Chesney - ''[[Welcome to the Fishbowl]]'' (Blue Chair / [[Columbia Records|Columbia]])
+* 2012: [[Alan Jackson]] - ''[[Thirty Miles West]]'' ([[Capitol Records Nashville|EMI Nashville]])
+* 2013: [[Dailey & Vincent]] - ''Brothers of the Highway'' (Rounder)
+* 2013: various artists - ''Christmas Grass: The Collection'' (Red River) - track 7, "[[Deck The Halls]]"
+* 2014: [[Dolly Parton]] - ''[[Blue Smoke (album)|Blue Smoke]]'' (Dolly Records / [[Sony Masterworks]])
+* 2016: [[Irene Kelley]] - ''These Hills'' (Mountain Fever)
+* 2016: Josh Williams - ''Modern Day Man'' (Rounder)
+* 2016: [[Dwight Yoakam]] - ''Swimmin' Pools, Movie Stars...'' (Sugar Hill)
+
+===Music instruction===
+* 1995: ''Acutab Transcriptions, Vol. 1'' (Acutab)
+* 1998: ''Acutab Transcriptions, Vol. 2'' (Acutab)
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{URL|www.scottvestal.com/|Official website}}
+* {{URL|stealthbanjo.com/|Stealth Banjo website}}
+* {{AllMusic | id= scott-vestal-mn0000837364 | label= Scott Vestal}}
+* {{discogs artist|1920841-Scott-Vestal|Scott Vestal}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Vestal, Scott}}
+[[Category:1962 births]]
+[[Category:American bluegrass musicians]]
+[[Category:American country banjoists]]
+[[Category:American country singer-songwriters]]
+[[Category:Country musicians from Oklahoma]]
+[[Category:Living people]]
+[[Category:Singer-songwriters from Oklahoma]]

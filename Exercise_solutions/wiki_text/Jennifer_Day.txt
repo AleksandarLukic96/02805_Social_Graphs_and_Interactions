@@ -1,0 +1,101 @@
+{{short description|American country music singer|bot=PearBOT 5}}
+{{For|the Australian volleyball player|Jennifer Margery Day}}
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist
+| name            = Jennifer Day
+| image           =
+| caption         =
+| image_size      =
+| birth_name      = Jennifer Day Morrison
+| birth_date      = {{Birth date and age|1979|8|22}}
+| origin          = [[McAlpin, Florida]], U.S.<ref name="oldies">{{cite web |url=http://www.oldies.com/artist-biography/Jennifer-Day.html |title=Jennifer Day Biography |accessdate=January 26, 2008 |work=Oldies.com}}</ref>
+| instrument      = Vocals, piano
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 1999–present
+| label           = [[BNA Records|BNA]]
+| associated_acts =
+| website         = 
+}}
+'''Jennifer Day Morrison''' (born August 22, 1979) is an American [[country music]] singer. Signed to [[BNA Records]] in late 1999, she has released one studio album (2000's ''The Fun of Your Love'')<ref name="allmusic">{{cite web |url={{AllMusic|class=artist|id=p393288|pure_url=yes}} |title=Jennifer Day biography |accessdate=January 26, 2008 |last=Konicki |first=Marla |work=[[Allmusic]]}}</ref> and has charted two singles on the ''[[Billboard (magazine)|Billboard]]'' Hot Country Singles & Tracks (now [[Hot Country Songs]]) charts. The album's title track was also featured in the 2000 film ''[[For Love of the Game (film)|For Love of the Game]]''.<ref name="sunglass">{{cite web|url=http://findarticles.com/p/articles/mi_m0EIN/is_2000_Feb_7/ai_59215281 |title=Jennifer Day Partners With Sunglass Hut International for Valentine's Day Promotion; Gift with Purchase CD Includes Exclusive Preview Tracks from Day |access-date=January 26, 2008 |date=February 7, 2000 |work=Business Wire |url-status=dead |archive-url=https://web.archive.org/web/20071209161955/http://findarticles.com/p/articles/mi_m0EIN/is_2000_Feb_7/ai_59215281 |archive-date=December 9, 2007 }}</ref>
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:14em;"| Title
+! rowspan="2" style="width:16em;"| Album details
+! colspan="2"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]
+! width="45"| [[Top Heatseekers|US Heat]]
+|- 
+! scope="row"| ''[[The Fun of Your Love]]''
+| 
+* Release date: March 7, 2000
+* Label: [[BNA Records]]
+| 36
+| 45
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|- 
+| 1999
+! scope="row"| "The Fun of Your Love"
+| 31
+| 40
+| align="left" rowspan="3"| ''The Fun of Your Love''
+|-
+| rowspan="2"| 2000
+! scope="row"| "What If It's Me?"
+| 67
+| —
+|-
+! scope="row"| "Completely"
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:14em;"| Video
+! Director
+|-
+| 1999
+! scope="row"| "The Fun of Your Love"<ref>{{cite web|url=http://www.cmt.com/videos/jennifer-day/385502/the-fun-of-your-love.jhtml|archive-url=https://web.archive.org/web/20121024093412/http://www.cmt.com/videos/jennifer-day/385502/the-fun-of-your-love.jhtml|url-status=dead|archive-date=October 24, 2012|title=CMT : Videos : Jennifer Day : The Fun of Your Love|publisher=[[Country Music Television]]|accessdate=September 19, 2011}}</ref>
+| [[Shaun Silva]]
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://myspace.com/jennifermorrison Jennifer Morrison] on [[Myspace]]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Day, Jennifer}}
+[[Category:1979 births]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Singer-songwriters from Florida]]
+[[Category:Living people]]
+[[Category:BNA Records artists]]
+[[Category:People from Suwannee County, Florida]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:21st-century American women singers]]
+[[Category:Country musicians from Florida]]

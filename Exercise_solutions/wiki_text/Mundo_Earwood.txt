@@ -1,0 +1,159 @@
+{{Short description|American country music singer-songwriter (1952–2014)}}
+{{Infobox musical artist 
+| name            = Mundo Earwood
+| image           = 
+| caption          =
+| image_size      = 
+| background      = solo_singer
+| birth_name      = Raymond Earwood<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=134|isbn=978-0-89820-177-2}}</ref>
+| alias           = Mundo Ray
+| birth_date      = {{birth date|1952|10|13|mf=yes}}
+| birth_place     = [[Del Rio, Texas]], U.S.
+| death_date      = {{death date and age|2014|4|21|1952|10|13|mf=yes}}
+| death_place     = [[Humble, Texas]], U.S.
+| instrument      = Vocals, guitar 
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 1972–1989
+| label           = Royal American, GRT, [[Epic Records|Epic]], True, GMC, Excelsior, Primero, Pegasus
+| website         = www.mundoearwood.net}}
+
+'''Raymond''' "'''Mundo'''" '''Earwood''' (October 13, 1952 – April 21, 2014) was an American [[country music]] singer-songwriter. Earwood's eponymous debut album was released by Excelsior Records in 1981. His most successful single, "Things I'd Do for You", reached the Top 20 on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] chart in 1978. For a time, he also recorded as '''Mundo Ray'''.
+
+==Biography==
+Earwood was born in [[Del Rio, Texas]]. After graduating high school in [[Corpus Christi, Texas|Corpus Christi]], he enrolled in San Jacinto Junior College but soon moved to [[Houston]] where he hired a band, and began playing for $8 at any venue that would book him. Earwood released several records on a small Houston label. His manager took him to [[Nashville]] to cut his first major national release, "Behind Blue Eyes", which was initially released on Earwood's own label, Raywood, and eventually sold to the Royal American label, where it spent eight weeks at #1 on the Houston radio charts, six months total on the Houston charts, and a long tenure on the national charts.
+
+He went on to release "Let's Hear it for Loneliness", "Lonesome Is a Cowboy" and "I Can Give You Love". In 1978, "Things I'd Do For You" soared to #18 on the ''[[Billboard (magazine)|Billboard]]'' country chart.<ref>[http://www.musicvf.com/song.php?title=Things+I%27d+Do+for+You+by+Mundo+Earwood&id=110043 Profile], musicvf.com; accessed May 1, 2014.</ref> This period also produced "Fooled Around and Fell in Love", "Angelene", and "My Heart is Not My Own". During his career, he appeared on the Billboard charts 23 times.
+
+Mundo Earwood was diagnosed with [[pancreatic cancer]] and a fibrous histiocytoma tumor in 2013, which later led to his death on April 21, 2014, at the age of 61.<ref>{{cite web|last=Michael|first=William|url=http://blogs.houstonpress.com/rocks/2014/04/rip_local_country_hitmaker_mun.php|title=RIP Local Country Star Mundo Earwood|publisher=Blogs.houstonpress.com|accessdate=2014-04-25}}</ref><ref>[http://www.legacy.com/obituaries/humble/obituary.aspx?n=raymond-earwood&pid=170780662 Mundo Earwood obituary], legacy.com; accessed May 1, 2014.</ref>
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:10em;"| Title
+! rowspan="2" style="width:16em;"| Details
+! Peak positions
+|- style="font-size:smaller;"
+! style="width:65px;"| [[Top Country Albums|US Country]]
+|-
+! scope="row"| ''Mundo Earwood''
+| 
+* Release date: 1981
+* Label: Excelsior Records
+| 42
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:24em;"| Single
+! Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! style="width:65px;"| [[Hot Country Songs|US Country]]<br /><ref name="whitburn"/>
+|-
+| 1972
+! scope="row"| "Behind Blue Eyes"
+| 57
+| rowspan="15" {{n/a}}
+|-
+| 1974
+! scope="row"| "Let's Hear It for Loneliness"
+| 59
+|-
+| 1975
+! scope="row"| "She Brings Her Lovin' Home to Me" <small>(as Mundo Ray)</small>
+| 91
+|-
+| rowspan="2"| 1976
+! scope="row"| "I Can't Quit Cheatin' on You"
+| 86
+|-
+! scope="row"| "Lonesome Is a Cowboy"
+| 70
+|-
+| rowspan="2"| 1977
+! scope="row"| "I Can Give You Love"
+| 86
+|-
+! scope="row"| "Behind Blue Eyes" <small>(re-release)</small>
+| 32
+|-
+| rowspan="3"| 1978
+! scope="row"| "Angelene"
+| 69
+|-
+! scope="row"| "When I Get You Alone"
+| 36
+|-
+! scope="row"| "Things I'd Do for You"
+| 18
+|-
+| rowspan="5"| 1979
+! scope="row"| "Fooled Around and Fell in Love"
+| 25
+|-
+! scope="row"| "My Heart Is Not My Own"
+| 38
+|-
+! scope="row"| "We Got Love"
+| 34
+|-
+! scope="row"| "Philodendron"
+| 73
+|-
+! scope="row"| "Sometimes Love"
+| 67
+|-
+| rowspan="2"| 1980
+! scope="row"| "You're in Love with the Wrong Man"
+| 27
+| style="text-align:left;" rowspan="5"| ''Mundo Earwood''
+|-
+! scope="row"| "Can't Keep My Mind Off of Her"
+| 26
+|-
+| rowspan="3"| 1981
+! scope="row"| "Blue Collar Blues"
+| 40
+|-
+! scope="row"| "Angela"<sup><span id="ref_A"  ></span>[[#endnote A|[A]]]</sup>
+| 32
+|-
+! scope="row"| "I'll Still Be Loving You"
+| 45
+|-
+| rowspan="2"| 1982
+! scope="row"| "[[All My Lovin']]"
+| 58
+| {{n/a}}
+|-
+! scope="row"| "Pyramid of Cans"
+| 68
+| style="text-align:left;"| ''Mundo Earwood''
+|-
+| 1989
+! scope="row"| "A Woman's Way"
+| 80
+| {{n/a}}
+|}
+;Notes
+*A<span id="endnote_A"  ></span>'''[[#ref A|^]]''' "Angela" also peaked at No.&nbsp;40 on the ''[[RPM (magazine)|RPM]]'' Country Tracks chart in Canada.
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Earwood, Mundo}}
+[[Category:1952 births]]
+[[Category:2014 deaths]]
+[[Category:People from Del Rio, Texas]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:Deaths from pancreatic cancer in Texas]]
+[[Category:Country musicians from Texas]]

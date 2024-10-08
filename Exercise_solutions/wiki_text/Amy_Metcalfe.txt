@@ -1,0 +1,89 @@
+{{Short description|Canadian singer-songwriter}}
+{{Use mdy dates|date=May 2016}}
+{{BLP sources|date=October 2015}}
+{{Infobox musical artist
+| name            = Amy Metcalfe
+| image           =
+| caption         =
+| image_size      =
+| birth_date      = {{birth date and age|1992|03|02}}
+| birth_name      =
+| birth_place     = [[Winnipeg]], Manitoba, Canada
+| origin          = [[Red Deer, Alberta]], Canada
+| instrument      =
+| genre           = [[Country music|Country]]
+| occupation      = Singer, songwriter
+| years_active    = 2014–present
+| label           = [[Royalty Records|Royalty]]
+| associated_acts = AEM
+| website         = {{URL|http://www.amymetcalfe.com}}
+}}
+'''Amy Metcalfe''' (born March 2, 1992) is a Canadian [[country music]] singer-songwriter from [[Red Deer, Alberta]] who signed to [[Royalty Records]] in 2014.<ref>{{Cite web|title = AMY METCALFE SIGNED TO ROYALTY RECORDS! {{!}} Royalty Records|url = http://royaltyrecords.ca/?p=5357|website = Royalty Records| date=July 3, 2014 |accessdate = October 13, 2015|language = en-us}}</ref><ref>{{cite web|url=http://amymetcalfe.com|title=Amy Metcalfe - Official Website|work=Amy Metcalfe}}</ref>
+
+On April 27, 2015, Metcalfe released her debut EP, ''Inside Out'', on [[Royalty Records]] with distribution from [[Sony Music Canada|Sony Entertainment Canada]]. On June 22, she followed the EP by releasing a new single called "Whiskey Won't Fix Me" which is a duet with [[New Brunswick]] native [[Tristan Horncastle]].<ref>{{Cite web|title = "Whiskey Won't Fix Me", new single and VIDEO by Amy Metcalfe (Featuring Tristan Horncastle)|url = http://www.byronhillmusic.com/whiskey-wont-fix-me-a-single-by-amy-metcalfe-featuring-tristan-horncastle/|website = www.byronhillmusic.com|accessdate = October 13, 2015|archive-url = https://web.archive.org/web/20181010095920/https://www.byronhillmusic.com/whiskey-wont-fix-me-a-single-by-amy-metcalfe-featuring-tristan-horncastle/|archive-date = October 10, 2018|url-status = dead}}</ref>
+
+In 2017 Amy wrote and released a pop/edm song with Calgary DJ “Dj Kav” under the name AEM. The song was debuted in an opening slot with [[The Chainsmokers]].<ref>{{Cite web|title=DJ Kav Letting Go - Google Search|url=https://www.google.ca/search?kgmid=/g/11dyml81xd&hl=en-CA&q=dj+kav+letting+go&kgs=f6f7a0321086e6f0&shndl=0&source=sh/x/kp/osrp&entrypoint=sh/x/kp/osrp|access-date=2020-11-12|website=www.google.ca}}</ref>
+
+==Discography==
+
+===Studio albums===
+{| class="wikitable plainrowheaders"
+|-
+! style="width:12em;" | Title
+! style="width:18em;" | Details
+|-
+! scope="row" | ''Inside Out''
+| 
+* Release date: April 27, 2015
+* Label: [[Royalty Records]]
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;"| Single
+! Album
+|-
+| 2014
+! scope="row"| "My Heart Beats (123)"
+| rowspan="2" |''Inside Out''
+|-
+| rowspan="2" |2015
+! scope="row"|"Forecast Said Forever"
+|-
+! scope="row"|"Whiskey Won't Fix Me"<br /><small>(featuring [[Tristan Horncastle]])</small>
+|TBD
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"   
+! Year
+! style="width:16em;"| Title
+! Director
+|-   
+| 2015
+! scope="row"| "Forecast Said Forever"
+|
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Official website|http://www.amymetcalfe.com}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Metcalfe, Amy}}
+[[Category:1992 births]]
+[[Category:Canadian women country singers]]
+[[Category:Living people]]
+[[Category:Singers from Alberta]]
+[[Category:Musicians from Winnipeg]]
+[[Category:People from Red Deer, Alberta]]
+[[Category:Canadian country singer-songwriters]]
+[[Category:21st-century Canadian women singers]]
+[[Category:21st-century Canadian singer-songwriters]]
+[[Category:Singers from Manitoba]]

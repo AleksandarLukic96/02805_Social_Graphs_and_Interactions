@@ -1,0 +1,113 @@
+{{short description|American musician}}
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist
+| name            = Bill LaBounty
+| image           = Bill LaBounty.jpg
+| image_size      =
+| caption         =
+| birth_date      =
+| origin          = [[Wisconsin]], U.S.<ref name="lynda">{{cite news | url=https://www.newspapers.com/image/112384046/ | title=Steve Wariner dances up the charts with McLaughlin, LaBounty's 'Lynda' | work=[[The Tennessean]] | date=November 8, 1987 | accessdate=May 31, 2022 | pages=59}}</ref>
+| genre           = [[country music|Country]], [[soft rock]]
+| occupation      = Singer-songwriter
+| instrument      = Vocals, keyboards
+| years_active    = 1978–present
+| label           = [[Warner Bros. Records|Warner Bros.]]/[[Curb Records|Curb]], Noteworthy
+| associated_acts = Fat Chance<br />[[Lonestar]]<br />[[Steve Wariner]]
+}}
+'''Bill LaBounty''' is an American musician. He was initially a singer-songwriter in the [[soft rock]] genre.<ref>{{cite web |url=http://www.stevelukather.net/Session.aspx?id=104 |title=Bill LaBounty |accessdate=January 25, 2008 |work=Steve Lukather.net |url-status=dead |archiveurl=https://web.archive.org/web/20080405181846/http://www.stevelukather.net/Session.aspx?id=104 |archivedate=April 5, 2008 }}</ref> As a solo artist, LaBounty recorded six studio albums, including four on [[Curb Records|Curb]]/[[Warner Bros. Records]]. His first charting single, "[[This Night Won't Last Forever]]", was covered in 1979 by [[Michael Johnson (singer)|Michael Johnson]], whose rendition was a top 20 pop hit that year, and eventually also covered by the country group [[Sawyer Brown]] in the early 2000s.
+
+LaBounty was born in [[Wisconsin]] and raised in [[Idaho]]. He attended [[Boise State University]] where he founded his first band Fat Chance, which recorded one album for [[RCA Records]].<ref name="lynda"/>
+
+In the mid-1980s, LaBounty shifted his focus to [[country music]] and has co-written several songs for country music artists, including [[Steve Wariner]]'s number one hits "[[Lynda (Steve Wariner song)|Lynda]]", "[[The Weekend (Steve Wariner song)|The Weekend]]" and "[[I Got Dreams (song)|I Got Dreams]]".<ref>{{cite web|url=http://www.perigord.com/westcoast/focus/billlabounty.html |title=Bill LaBounty: The Right Direction |accessdate=January 25, 2008 |work=Perigord.com |archiveurl=https://web.archive.org/web/20070905055630/http://www.perigord.com/westcoast/focus/billlabounty.html |archivedate=September 5, 2007 |url-status=dead }}</ref> LaBounty signed to a songwriting contract with Curb Publishing in 2001.<ref>{{cite magazine|last=Stark|first=Phyllis|date=April 1, 2001|title=Nashville Scene|magazine=[[Billboard (magazine)|Billboard]]|pages=39|url=https://books.google.com/books?id=whMEAAAAMBAJ&q=%22bill+labounty&pg=PA39}}</ref> Many of his songs were written with his wife, Beckie Foster.<ref>{{cite news | url=https://www.newspapers.com/image/112806938/ | title=Eddy Raven flies high in country | work=[[The Tennessean]] | date=March 11, 1990 | accessdate=April 14, 2019 | pages=35}}</ref>
+
+==Discography==
+===Albums===
+*''Promised Love'' (1975, Warner/Curb)
+*''This Night Won't Last Forever'' (1978, Warner/Curb)
+*''Rain in My Life'' (1979, Warner/Curb)
+*''Bill LaBounty'' (1982, Warner/Curb)
+*''The Right Direction'' (1991, Noteworthy)
+*''Best Selection'' (2004, Columbia)
+*''Back to Your Star'' (2009, Chill Pill Records (US), T.a.c.s Records (Japan))
+*''Time Starts Now'' (2011, 4 CD boxset with unreleased tracks)
+*''Into Something Blue'' (2014)
+
+===Singles===
+{| class="wikitable"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="3"| Peak chart positions
+! rowspan="2"| Album
+|-
+! width="45"| <small>[[Hot Adult Contemporary Tracks|US AC]]</small>
+! width="45"| <small>[[Billboard Hot 100|US]]</small><br /><ref name="whitburn2010">{{cite book|last=Whitburn|first=Joel|title=Top Pop Singles 1955–2010|publisher=Record Research, Inc|page=504|year=2011|isbn=978-0-89820-188-8}}</ref>
+! width="45"| <small>CAN</small>
+|-
+|1976
+|"Lie to Me"
+|align="center"|—
+|align="center"|109
+|align="center"|—
+|''Promised Love''
+|-
+|rowspan=2|1978
+|"[[This Night Won't Last Forever]]"
+|align="center"|46
+|align="center"|65
+|align="center"|81
+|rowspan=2|''This Night Won't Last Forever''
+|-
+|"In 25 Words or Less"
+|align="center"|36
+|align="center"|—
+|align="center"|—
+|-
+|1982
+|"Never Gonna Look Back"
+|align="center"|22
+|align="center"|110
+|align="center"|—
+|''Bill LaBounty''
+|}
+
+==List of singles co-written by LaBounty==
+{{inc-musong|date=October 2021}}
+*[[Brooks & Dunn]] – "[[Rock My World (Little Country Girl)]]"
+*[[Robbie Dupree]] – "[[Hot Rod Hearts]]", "Brooklyn Girls"
+*[[Michael Johnson (singer)|Michael Johnson]] – "This Night Won't Last Forever" (later covered by [[Moe Bandy]] and Sawyer Brown), "Trail to Your Heart (Sailing Without a Sail)," "Dancin' Tonight," "Twenty Five Words or Less," "Don't Ask Why", "Leave It Alone," "Old Fashioned Love"
+*[[Lonestar]] – "[[Tequila Talkin']]", "[[Heartbroke Every Day]]"
+*[[Eddy Raven]] – "Sooner or Later"
+*[[Sawyer Brown]] – "[[Used to Blue]]", "[[Heart Don't Fall Now]]", "This Night Won't Last Forever"
+*[[Shenandoah (band)|Shenandoah]] – "[[I Want to Be Loved Like That]]", "[[Somewhere in the Vicinity of the Heart]]" (with [[Alison Krauss]])
+*[[Tanya Tucker]] duet with [[Delbert McClinton]] – "[[Tell Me About It]]"
+*[[Steve Wariner]] – "Lynda", "The Weekend", "I Got Dreams", "[[The Domino Theory]]", "Drive"
+*[[Jimmy Buffett]] with [[Steve Goodman]] – "Where's the Party"
+*[[Gino Vannelli]] – "Total Stranger"
+*[[Ronnie Milsap]] – "She Loves My Car"
+*[[Bobby Caldwell]] – "She Loves My Car"
+*[[Van Zant (band)|Van Zant]] – "You've Got to Believe in Love"
+*[[Agnetha Fältskog]] – "[[Let It Shine (Agnetha Fältskog song)|Let It Shine]]"
+*[[Randy Crawford]] – "Look Who's Lonely Now", This Night Won't Last Forever, I Hope You'll Very Unhappy Without Me, In Real Life, 
+*[[Shaun Cassidy]] – "Lie to Me"
+*[[Conway Twitty]] - "When the Magic Works"
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.billlabounty.com/ Bill LaBounty's official website]
+* [https://web.archive.org/web/20120406065252/http://www.yuzu-melodies.fr/Bill-LaBounty-I-always-tried-to-approach-my-music-as-an-artist-regardless-of-my-status-in-the-business_a1073.html Interview with Bill LaBounty on Yuzu Melodies]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Labounty, Bill}}
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:American soft rock musicians]]
+[[Category:Living people]]
+[[Category:Curb Records artists]]
+[[Category:Warner Records artists]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Country musicians from Wisconsin]]
+[[Category:Songwriters from Wisconsin]]

@@ -1,0 +1,226 @@
+{{Distinguish|Jake Matthews (disambiguation){{!}}Jake Matthews}}
+{{Use mdy dates|date=January 2020}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject Musicians -->
+| image           = Jake Mathews 1.JPG
+| name            = Jake Mathews
+| background      = solo_singer
+| caption         = 
+| birth_name      = Jacques Lagrandeur
+| birth_date      = {{birth date and age|1971|03|14}}
+| origin          = [[Greater Sudbury|Sudbury]], Ontario, Canada
+| Instruments     = 
+| genre           = [[Country music|Country]]
+| occupation      = Singer, songwriter
+| years_active    = 2001–present
+| label           = [[Royalty Records|Royalty]], [[Open Road Recordings|Open Road]]
+| website         = [http://www.jakemathews.com/ www.jakemathews.com]
+}}
+
+'''Jake Mathews''' (born '''Jacques Lagrandeur''' born March 14, 1971, in [[Greater Sudbury|Sudbury]], Ontario, Canada) is a Canadian [[country music]] singer, songwriter and performer.
+
+==Career==
+Jake's self-titled debut CD (''Jake Mathews'') garnered six nationally charted hits: "I’ll Do You One Better," "Try Again Tomorrow," "That's How Long," "Rush," "I’m Gone" and "There Ain't No Such Thing."
+
+His second CD, ''Time After Time'', released in 2004, was voted Best Album by [[Country Music News]]. Singles released from the album include the title track, "Signs of You Everywhere," "Kings for a Day" and "Arizona on My Mind."
+
+Although he is the younger brother of [[Gil Grand]], he has established a music career in his own right. In 2006, Mathews and Grand joined forces for "Raise the Roof," a tour that took them across Canada, raising awareness of [[Ronald McDonald House Charities]].
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:10em;"| Title
+! style="width:18em;"| Details
+|-
+! scope="row"| ''Jake Mathews''
+| 
+* Release date: 2002
+* Label: [[Royalty Records]]
+|-
+! scope="row"| ''Time After Time''
+| 
+* Release date: June 8, 2004
+* Label: [[Open Road Recordings]]
+|-
+! scope="row"| ''Red Tail Lights''
+| 
+* Release date: July 12, 2011
+* Label: On Ramp Records
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:15em;"| Single
+! colspan="2"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| CAN Country<br/>{{efn|Peak positions from [[Radio & Records]] from 2004 to 2006, and [[Canada Country]] from 2010 to present.}}<ref name="Canada Country">Peak positions for country singles of Jake Mathews in Canada:
+* "Time After Time" – {{cite journal|url=https://worldradiohistory.com/Archive-RandR/2000s/2004/RR-2004-06-25.pdf|title=Canada Country Top 30|journal=[[Radio & Records]]|date=June 25, 2004}}
+* "Signs of You Everywhere" – {{cite journal|url=https://worldradiohistory.com/Archive-RandR/2000s/2005/RR-2005-01-14.pdf|title=Canada Country Top 30|journal=Radio & Records|date=January 14, 2005}}
+* "Kings for a Day" – {{cite journal|url=https://worldradiohistory.com/Archive-RandR/2000s/2005/RR-2005-08-05.pdf|title=Canada Country Top 30|journal=Radio & Records|date=August 5, 2005}}
+* "Arizona on My Mind" – {{cite journal|url=https://worldradiohistory.com/Archive-RandR/2000s/2006/RR-2006-05-26.pdf|title=Canada Country Top 30|journal=Radio & Records|date=May 26, 2006}}
+* All other singles – {{cite magazine|url=https://www.billboard.com/artist/jake-mathews/chart-history/ccw|title=Jake Mathews – Chart History (Canada Country)|magazine=Billboard|access-date=May 30, 2022}}</ref>
+! width="45"| [[Canadian Hot 100|CAN]]<br/><ref>{{cite magazine|url=https://www.billboard.com/artist/jake-mathews/chart-history/can/|title=Jake Mathews – Chart History (Canadian Hot 100)|magazine=Billboard|access-date=May 30, 2022}}</ref>
+|-
+| rowspan="2"| 2001
+! scope="row"| "Do You One Better"
+| ×
+| —
+| rowspan="6"| ''Jake Mathews''
+|-
+! scope="row"| "That's How Long"
+| ×
+| —
+|-
+| rowspan="2"| 2002
+! scope="row"| "Rush"
+| ×
+| —
+|-
+! scope="row"| "You Put Me Together Again"
+| ×
+| —
+|-
+| rowspan="2"| 2003
+! scope="row"| "I'm Gone"
+| ×
+| —
+|-
+! scope="row"| "Try Again Tomorrow"
+| ×
+| —
+|-
+| rowspan="2"| 2004
+! scope="row"| "Time After Time"
+| 19
+| —
+| rowspan="4"| ''Time After Time''
+|-
+! scope="row"| "Signs of You Everywhere"
+| 23
+| —
+|-
+| 2005
+! scope="row"| "Kings for a Day"
+| 19
+| —
+|-
+| 2006
+! scope="row"| "Arizona on My Mind"
+| 24
+| —
+|-
+| 2010
+! scope="row"| "If I Had It My Way"
+| 9
+| 97
+| rowspan="4"| ''Red Tail Lights''
+|-
+| rowspan="2"| 2011
+! scope="row"| "Forever's on Our Side"
+| 47
+| —
+|-
+! scope="row"| "Might Take All Night"
+| 36
+| —
+|-
+| 2012
+! scope="row"| "Red Tail Lights"
+| 41
+| —
+|-
+| rowspan="2"| 2013
+! scope="row"| "Beer Necessities"
+| 19
+| —
+| rowspan="4" {{n/a|Non-album singles}}
+|-
+! scope="row"| "A Woman and a Song"
+| 36
+| —
+|-
+| 2014
+! scope="row"| "In Our Own Backyard"
+| —
+| —
+|-
+| 2015
+! scope="row"| "Road and the Radio"
+| —
+| —
+|-
+| 2020
+! scope="row"| "Workin' On Me"
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart<br />"×" indicates that no relevant chart existed or was archived
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:15em;"| Title
+! Director
+|-
+| rowspan="2"| 2002
+! scope="row"| "Rush"
+| 
+|-
+! scope="row"| "You Put Me Together Again"
+| 
+|-
+| 2004
+! scope="row"| "Time After Time"
+| 
+|-
+| 2012
+! scope="row"| "Red Tail Lights"
+|
+|-
+| 2014
+! scope="row"| "In Our Own Backyard"
+| [[Jeth Weinrich]]
+|}
+
+==Awards and achievements==
+Western Country Music Awards
+*2005 – Nominated – Outstanding Country Recording for ''Time After Time''
+*2003 – Nominated – Outstanding Country Recording for ''Jake Mathews''
+
+Country Music News 2004
+*''Time After Time'' voted Best Album
+
+[[Canadian Country Music Awards]]
+*2005 – Nominated – Independent Male Artist of the Year
+*2004 – Nominated – Independent Male Artist of the Year
+*2003 – Nominated – Rising Star Award
+*2002 – Nominated – Rising Star Award
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category|Jake Mathews}}
+*[http://www.jakemathews.com Jake Mathews Official]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Mathews, Jake}}
+[[Category:1971 births]]
+[[Category:Canadian male singer-songwriters]]
+[[Category:Canadian country singer-songwriters]]
+[[Category:Open Road Recordings artists]]
+[[Category:Musicians from Greater Sudbury]]
+[[Category:Living people]]
+[[Category:Franco-Ontarian people]]
+[[Category:21st-century Canadian male singers]]
+[[Category:21st-century Canadian singers]]
+[[Category:21st-century Canadian singer-songwriters]]

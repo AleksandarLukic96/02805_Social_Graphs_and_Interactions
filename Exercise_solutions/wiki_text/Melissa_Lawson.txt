@@ -1,0 +1,103 @@
+{{short description|American country music singer (born 1976)}}
+{{Infobox musical artist
+| image          = Melissa_Lawson.jpg <!-- only free-content images are allowed for depicting living people. Non-free and "fair use" images, e.g. promo photos, CD/DVD covers, posters, screen captures, etc., will be deleted - see [[WP:NONFREE]] --> |
+| name         = Melissa Lawson 
+| caption     = 
+| background   = solo_singer
+| birth_name   = Melissa Ann Lawson
+| birth_date   = {{birth date and age|1976|04|10}}
+| origin       = [[Arlington, Texas]], [[United States]]
+| occupation   = Singer
+| genre        = [[Country music|Country]], [[Contemporary Christian music|CCM]]
+| years_active = 2008–present
+}}
+
+'''Melissa Ann Lawson''' (born April 10, 1976) is an American country music singer. On August 4, 2008, she was declared the winner of the television program ''[[Nashville Star]]'', a country music singing competition which aired on [[NBC]].<ref name="dallas">{{cite web |url=http://www.dallasnews.com/sharedcontent/dws/ent/stories/DN-nashville_0805gl.ART.State.Edition1.4d99dbb.html |title=Arlington's Melissa Lawson wins 'Nashville Star' |accessdate=2008-08-05 |work=Dallas News }}</ref> Signed to [[Warner Bros. Records]] Nashville, she released her debut single "What If It All Goes Right" that year, and charted on [[Hot Country Songs]] with it.
+
+==Biography==
+Born in [[Dallas, Texas]], Melissa Lawson grew up in [[Arlington, Texas]]. In 2004, she tried out for the [[American Idol (season 4)|fourth season]] of [[American Idol]], and made it to the final day of Hollywood week, eventually being cut in the top 75.<ref name="idolpast">{{cite magazine |url=http://popwatch.ew.com/popwatch/2008/08/qa-nashville-st.html |title='Nashville Star' Melissa Lawson on her 'Idol' past, Katie Cook's cleavage, and that songwriting controversy |accessdate=2008-10-11 |magazine=[[Entertainment Weekly]]}}</ref> After this, she competed on and won the sixth and final season of ''[[Nashville Star]]'' in 2008.<ref>{{cite web |url=http://www.nbc.com/breakthrough-with-tony-robbins/video/rick-and-melissa-lawson/1243636/ |title=Archived copy |accessdate=2010-08-23 |url-status=dead |archiveurl=https://web.archive.org/web/20100817165326/http://www.nbc.com/breakthrough-with-tony-robbins/video/rick-and-melissa-lawson/1243636/ |archivedate=2010-08-17 }}</ref>
+
+==Music career==
+===2008-present: "What If It All Goes Right" and label release===
+Following her win on ''Nashville Star'', Lawsons' debut single, "What If It All Goes Right", was released on August 5, 2008 to radio. It debuted and peaked at No.&nbsp;49 on the U.S. ''Billboard'' [[Hot Country Songs]] chart as well as No.&nbsp;79 on the ''Billboard'' [[Billboard Hot 100|Hot 100]], due to legal [[music download]]s. It was then re-released in November 2008, where it re-entered the country charts at No.&nbsp;55, and eventually reached No.&nbsp;43.
+
+==''Nashville Star''==
+Melissa Lawson was the oldest contestant among the ten finalists.<ref name="ssn">{{cite web |url=http://www.monstersandcritics.com/smallscreen/news/article_1421491.php/Nashville_Star_picks_Texan_Melissa_Lawson_as_winner |title='Nashville Star' picks Texan Melissa Lawson as winner |accessdate=2008-08-05 |work=Smallscreen News |url-status=dead |archiveurl=https://web.archive.org/web/20080808035948/http://www.monstersandcritics.com/smallscreen/news/article_1421491.php/Nashville_Star_picks_Texan_Melissa_Lawson_as_winner |archivedate=2008-08-08 }}</ref>
+
+===Songs performed on ''Nashville Star''===
+*"[[Something to Talk About (Bonnie Raitt song)|Something to Talk About]]" by [[Bonnie Raitt]]
+*"[[(You Make Me Feel Like) A Natural Woman]]" by [[Aretha Franklin]] (Bottom Two)
+*"[[True Colors (Cyndi Lauper song)|True Colors]]" by [[Cyndi Lauper]]
+*"[[Landslide (Fleetwood Mac song)|Landslide]]" by [[Fleetwood Mac]] (Highest Number of Votes)
+*"[[This One's for the Girls]]" by [[Martina McBride]] (Bottom Two)
+*"Danny's Song" by [[Loggins and Messina]]
+*"[[My Baby Loves Me (Just the Way That I Am)|My Baby Loves Me]]" by Martina McBride
+*"Ready to Stand" by Melissa Lawson & Margi Howard
+*"[[Hit Me with Your Best Shot]]" by [[Pat Benatar]]
+*"[[Jesus, Take the Wheel]]" by [[Carrie Underwood]]
+*"[[Something More (Sugarland song)|Something More]]" by [[Sugarland (duo)|Sugarland]]
+*"[[My Wish]]" by [[Rascal Flatts]]
+*"What If It All Goes Right"
+
+==Discography==
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:16em;"| Album details
+|-
+! scope="row"| ''Constant''
+| 
+* Release date: April 19, 2010
+* Label: [[self-released]]
+|-
+! scope="row"| ''United We Stand''
+| 
+* Release date: August 3, 2010
+* Label: Bismeaux Records
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[Billboard Hot 100|US]]
+|-
+| 2008
+! scope="row"| "What If It All Goes Right"
+| 43
+| 79
+| align="left"| Non-album song
+|-
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.melissalawsonmusic.com Melissa Lawson's Official Web Site]
+*[http://www.nbc.com/Nashville_Star/contestants/melissa.shtml Melissa Lawson's NBC/Nashville Star Bio]
+
+{{Nashville Star}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Lawson, Melissa}}
+[[Category:1976 births]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:American Idol participants]]
+[[Category:People from Arlington, Texas]]
+[[Category:Living people]]
+[[Category:Nashville Star contestants]]
+[[Category:Nashville Star winners]]
+[[Category:Warner Records artists]]
+[[Category:21st-century American women singers]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:Singer-songwriters from Texas]]

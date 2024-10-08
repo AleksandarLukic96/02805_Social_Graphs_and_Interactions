@@ -1,0 +1,75 @@
+{{short description|American stand-up comedian|bot=PearBOT 5}}
+{{about||the Korean martial artist|S. Henry Cho|the Australian opera singer|Henry Choo}}
+{{Infobox person
+| name                = Henry Cho
+| image               = 
+| caption             =
+| birth_name          = 
+| birth_date          = {{Birth date and age|1961|12|30|mf=y}} 
+| birth_place         = [[Knoxville, Tennessee]], U.S.
+| occupation          = Comedian
+| years_active        = 1986&ndash;present
+| website             = {{URL|henrychocomedy.com}}
+}}
+'''Henry Cho''' (born December 30, 1962) is an American [[stand-up comedian]]. His work can be heard nationwide several times weekly on [[SiriusXM]] Radio's Channel 98, [[Laugh USA]], [[Sirius Radio]]'s Jeff and Larry's Comedy Roundup Channel 97, and [[Pandora Radio]]'s PG Comedy Radio Channel. Cho is one of the only Asian-American acts to appear regularly on the [[Grand Ole Opry]] and on January 6, 2023, he became the first Asian-American invited to become a [[List of Grand Ole Opry members|member of the Opry]].
+
+== Biography ==
+Born of [[Koreans|Korean]] descent, Cho was born and raised in [[Knoxville, Tennessee]]. His father worked at [[Oak Ridge National Laboratory]]. He entered standup comedy in 1986.<ref name=nguyen2010/> He attended [[West High School (Knoxville, Tennessee)|West High School]], the [[University of Tennessee at Knoxville]] and moved to [[Los Angeles, California]] in 1989 to pursue his career, but always with the intent of returning to his roots in [[Tennessee]].
+
+Cho often uses his childhood experiences as an [[Asian American]] in [[Southern United States|the South]] in his comedy. "I'm an Asian with a [[Southern American English|Southern accent]]," he said. "To a lot of people, that right there is funny."<ref name="nguyen2010" />
+
+In interviews, Cho has said he is a practicing [[Christians|Christian]].<ref name=YoutubeIntvw/>
+
+=== Career ===
+Cho appeared on many television shows in the late 1980s and early 90s, including ''[[The Arsenio Hall Show]]'', ''[[Bob Hope]]'s Young Comedians Special'', [[MTV]]'s ''1/2 Hour Comedy Hour'', [[VH-1]]'s ''Stand-Up Spotlight'', and ''A&E's An Evening at the Improv''. His other TV credits include guest roles on [[sitcoms]] such as ''[[Designing Women]]'', ''[[Lenny (TV series)|Lenny]]'', ''[[The New WKRP in Cincinnati]]'' and a starring role in the [[TV movie]] ''[[Revenge of the Nerds III: The Next Generation]]''. In 1994, after he moved back to Tennessee, Cho got a call from [[NBC]] to host a revamped version of ''[[Friday Night Videos]]'' titled ''Friday Night''. For two years, he commuted to Los Angeles weekly. More recently he appeared on ''[[The Tonight Show with Jay Leno]]'' and ''[[The Late Late Show with Craig Ferguson]]''. He was also the keynote speaker for the 59th Annual Radio and Television Correspondents' Dinner. Cho is well-known as a "clean" comedian, forgoing profanity and objectionable material,<ref name=palmer2014/> and has sometimes been called "Mr. Clean".<ref name=belcher2013/>
+ 
+He has appeared in three [[feature films]]. In 1997, he starred opposite [[Tom Arnold (actor)|Tom Arnold]] and [[David Alan Grier]] in ''[[McHale's Navy (1997 film)|McHale's Navy]]''. In 2001, he appeared in the [[Farrelly Brothers]]' movie ''[[Say It Isn't So (film)|Say It Isn't So]]'' with [[Heather Graham (actress)|Heather Graham]] and [[Chris Klein (actor)|Chris Klein]]. In 2006, he appeared in ''[[Material Girls]]'' starring [[Hilary Duff|Hilary]] and [[Haylie Duff]].
+
+During the holiday seasons of 2003 and 2004, Cho toured the U.S. with [[Amy Grant]] and [[Vince Gill]], appearing live during the couple's show.
+
+In 2006, he had his own [[Comedy Central]] [[Television special|special]] entitled ''Henry Cho: What's That Clickin' Noise?'' in which [[Jeff Foxworthy]], [[Bill Engvall]], and [[Larry the Cable Guy]] were special guest voices in the opening scene.
+
+In 2007, he signed a deal with [[Touchstone Pictures]] and [[American Broadcasting Company|ABC]] to write, produce and star in a television [[situation comedy]] series centered on Korean-Americans living in the South. In 2009, he signed a deal with CBS/Paramount to write, produce and star in another sitcom with Craig Ferguson as executive producer. In 2011, Cho had a special/pilot "The Henry Cho Show" on [[Great American Country]] (GAC).<ref name=Cure2011/>
+
+== Filmography ==
+* ''[[Designing Women]]'' ([[1989 in television|1989]])
+* ''[[Revenge of the Nerds III: The Next Generation]]'' ([[1992 in film|1992]])
+* ''Bandit: Beauty and the Bandit'' ([[1994 in film|1994]])
+* ''[[McHale's Navy (1997 film)|McHale's Navy]]'' ([[1997 in film|1997]])
+* ''[[Say It Isn't So (film)|Say It Isn't So]]'' ([[2001 in film|2001]])
+* ''[[Material Girls]]'' ([[2006 in film|2006]])
+
+== Discography ==
+
+* ''[[What's That Clickin' Noise?]]'' (2006; Warner Brothers/Comedy Central)<ref name=allmusic/>
+
+== References ==
+{{reflist|refs=
+<ref name=nguyen2010>{{cite web |url=http://www.asiaxpress.com/Articles/2010/mar/henry-cho-coming-to-comedy-works/1.html |title=Comedian Henry Cho comes to Comedy Works in Denver |last=Nguyen |first=Joe |date=March 17, 2010 |website=AsiaXpress.com |accessdate=2010-03-19}}</ref>
+<ref name=YoutubeIntvw>{{cite interview |last=Cho |first=Henry |title=Henry Cho Interview Series #3 |via=YouTube |url=https://www.youtube.com/watch?v=nX36M9vZwb0&list=PLAM3bXeQA1tf3VCNBhEe8iaEe4uJGreLm&index=3  |archive-url=https://ghostarchive.org/varchive/youtube/20211221/nX36M9vZwb0 |archive-date=2021-12-21 |url-status=live|accessdate=2017-08-16}}{{cbignore}}</ref>
+<ref name=Cure2011>{{cite news |title=Knoxville native, comedian Henry Cho's new show to air tonight on Great American Country channel |date=September 8, 2011 |last=Cure |first=Sarah |newspaper=AL.com |url=http://blog.al.com/entertainment-times/2011/09/knoxville_native_comedian_henr.html |accessdate=2017-08-16}}</ref>
+<ref name=palmer2014>{{cite news |last=Palmer |first=Erica |title=Jim Gaffigan, Brian Regan, other comedians find that 'clean' works for them |newspaper=[[Deseret News]] |date=August 8, 2014 |url=http://www.deseretnews.com/article/865608287/Jim-Gaffigan-Brian-Regan-other-comedians-find-that-clean-works-for-them.html |accessdate=2017-08-16}}</ref>
+<ref name=belcher2013>{{cite web |last=Belcher |first=Josh |title=Henry Cho – Christian Man – Mr. Clean of Comedy! |date=November 18, 2013 |website=Rocking God's House |url=http://rockingodshouse.com/henry-cho-christian-man-mr-clean-in-comedy/ |accessdate=2017-08-16}}</ref>
+<ref name=allmusic>{{cite web |last=Jeffries |first=David |title=Henry Cho |website=[[AllMusic]] |location=Biography |url=http://www.allmusic.com/artist/henry-cho-mn0000980719/biography |accessdate=2017-08-16}}</ref>
+}}
+
+== External links ==
+*{{IMDb name|id=0158616}}
+*[http://goldsea.com/Personalities/Chohenry/chohenry.html "Comedy's Southern Squire"], interview with ''Goldsea''
+*[http://www.asiaxpress.com/Articles/2009/jan/henry_cho/1.html "Face2Face with Henry Cho"] {{Webarchive|url=https://web.archive.org/web/20090611044003/http://www.asiaxpress.com/Articles/2009/jan/henry_cho/1.html |date=2009-06-11 }}, 2009 interview with AsiaXpress.com
+
+{{Authority control}}
+{{Grand Ole Opry members}}
+
+{{DEFAULTSORT:Cho, Henry}}
+[[Category:1962 births]]
+[[Category:American male film actors]]
+[[Category:American stand-up comedians]]
+[[Category:American television personalities]]
+[[Category:People from Knoxville, Tennessee]]
+[[Category:Living people]]
+[[Category:20th-century American comedians]]
+[[Category:21st-century American comedians]]
+[[Category:Asian-American culture in Tennessee]]
+[[Category:Comedians from Tennessee]]
+[[Category:American comedians of Korean descent]]

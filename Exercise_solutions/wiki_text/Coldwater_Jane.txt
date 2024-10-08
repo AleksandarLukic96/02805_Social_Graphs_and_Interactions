@@ -1,0 +1,78 @@
+{{Short description|American country music duo}}
+{{Infobox musical artist
+| name            = Coldwater Jane
+| image           =
+| origin          = [[Nashville, Tennessee]], United States
+| genre           = [[Country music|Country]]
+| years_active    = 2010-2011
+| label           = [[Mercury Records Nashville]]
+| past_members = Leah Crutchfield<br />Brandon Jane
+}}
+
+'''Coldwater Jane''' was an American [[country music]] duo consisting of vocalists Brandon Jane and Leah Crutchfield, who are sisters. from Lucedale, Mississippi. They released one single, "Bring On the Love", and one album, ''Marionette'', for [[Mercury Records Nashville]].
+
+==Biography==
+Sisters Brandon Jane and Leah Crutchfield are natives of [[Lucedale, Mississippi]].<ref name="weekly">{{cite journal|date=10 May 2010|title=Who's New|journal=[[Country Weekly]]|volume=17|issue=19|page=21|issn=1074-3235}}</ref><ref>{{cite web|author=Michael Dumas, Press-Register |url=http://blog.gulflive.com/mississippi-press-entertainment/2011/08/snapshots_of_life_-_lucedale_sisters_release_first_album.html |title=Snapshots of life - Lucedale sisters release first album &#124; gulflive.com |publisher=Blog.gulflive.com |date= 2011-08-28|accessdate=2012-03-26}}</ref>
+
+The duo signed to [[Mercury Records]]' Nashville branch and released its debut [[single (music)|single]], "Bring On the Love," to radio in early 2010. This song has charted on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] charts and has been made into a [[music video]] which has aired on [[Country Music Television]] and Great American Country.<ref>{{cite web|url=http://blog.cmt.com/2010-02-18/coldwater-jane-bring-love-and-family-harmony/|archive-url=https://web.archive.org/web/20110725192707/http://blog.cmt.com/2010-02-18/coldwater-jane-bring-love-and-family-harmony/|url-status=dead|archive-date=July 25, 2011|title=Coldwater Jane bring love and family harmony|last=McDonald|first=Samantha|date=18 February 2010|work=[[Country Music Television|CMT]]|accessdate=23 February 2010}}</ref> Jane and Crutchfield wrote the song in a [[jam session]] with record producers [[Wayne Kirkpatrick]] and Jane's husband [[Kevin Kadish]].<ref name="weekly"/> The song received a positive rating from Bobby Peacock of Roughstock, who thought that the song was not country in sound, but said that it had "intriguing lyrics."<ref>{{cite web|url=http://www.roughstock.com/blog/coldwater-jane-bring-on-the-love|title=Coldwater Jane — "Bring On the Love"|last=Peacock|first=Bobby|date=13 January 2010|work=Roughstock|accessdate=23 February 2010|archive-url=https://web.archive.org/web/20100122070000/http://www.roughstock.com/blog/coldwater-jane-bring-on-the-love|archive-date=22 January 2010|url-status=dead}}</ref>
+
+Their album ''Marionette'' was released on August 29, 2011,<ref>{{cite web |author=Aug232011 |url=http://www.countrymusicislove.com/2011/08/coldwater-jane-to-release-debut-album-next-week.html |title=Coldwater Jane to Release Debut Album Next Week-Country Music Is Love |publisher=Countrymusicislove.com |date=1999-02-22 |accessdate=2012-03-26 |archive-url=https://web.archive.org/web/20120328175642/http://www.countrymusicislove.com/2011/08/coldwater-jane-to-release-debut-album-next-week.html |archive-date=2012-03-28 |url-status=dead }}</ref> and received positive reviews. Matt Bjorke of Roughstock says the album is a "standout" for the year and said "While the great single starts off the record with a stunning sense of urgency and bewilderment over the fact that the world seems to be fragmented, it is the following tracks on Marionette that truly showcase the talent Coldwater Jane possesses"<ref>{{cite web |url=http://www.roughstock.com/reviews/coldwater-jane-marionette |title=Coldwater Jane - Marionette &#124; Country Music Reviews, Taylor Swift to Lady Antebellum |publisher=Roughstock.com |date=2011-08-30 |accessdate=2012-03-26 |archive-url=https://web.archive.org/web/20120304152044/http://www.roughstock.com/reviews/coldwater-jane-marionette |archive-date=2012-03-04 |url-status=dead }}</ref>
+Ron Kelly of ''Ladies Home Journal'' says "the release of their long-awaited debut CD Marionette proves to be another testament to this duo’s ability to put their heads down and get the job done, all while having some fun along the way."<ref>{{cite web |url=http://www.lhj.com/blogs/ladieslounge/2011/08/29/country-spotlight-coldwater-jane/ |title=Country Spotlight: Coldwater Jane &#124; The Ladies' Lounge |publisher=Lhj.com |accessdate=2012-03-26 |archive-url=https://web.archive.org/web/20120319054613/http://www.lhj.com/blogs/ladieslounge/2011/08/29/country-spotlight-coldwater-jane/ |archive-date=2012-03-19 |url-status=dead }}</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:14em;"| Title
+! style="width:18em;"| Details
+|-
+! scope="row"| ''Marionette''
+| 
+* Release date: August 29, 2011
+* Label: [[Universal Music Group Nashville|Mercury Nashville]]
+|}
+
+===Singles===
+{| class="wikitable" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Single
+!| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! style="width:60px;"| [[Hot Country Songs|US Country]]
+|-
+| 2010
+| style="text-align:left;"| "Bring On the Love"
+| 47
+| ''Marionette''
+|}
+
+===Music videos===
+{| class="wikitable"
+|-
+! Year
+! Video
+! Director
+|-
+| 2010
+| "Bring On the Love"
+| [[Shaun Silva]]
+|-
+| 2011
+| "Marionette"
+| Beck Underwood
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+[[Category:Country music groups from Tennessee]]
+[[Category:American country music duos]]
+[[Category:Mercury Records artists]]
+[[Category:Sibling musical duos]]
+[[Category:Musical groups established in 2010]]
+[[Category:Musical groups disestablished in 2011]]
+[[Category:2010 establishments in Tennessee]]

@@ -1,0 +1,70 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist
+| name         = Daisy Dern
+| image        =
+| caption      =
+| image_size   =
+| birth_name   =
+| birth_place  =
+| birth_date   = ca. 1967<ref name="billboard"/>
+| origin       = California, United States
+| instrument   = Vocals, piano
+| genre        = [[Country music|Country]]
+| occupation   = Singer-songwriter
+| years_active = 2001–present
+| label        = [[Mercury Nashville]]
+}}
+'''Daisy Dern''' is an American [[country music]] artist. Signed to [[Mercury Records]] in 2002, Dern released one single, "Gettin' Back to You", which charted on the [[Hot Country Songs]] charts. An album for Mercury was never released on the label, although she later released it independently.
+
+==Biography==
+Daisy Dern is a distant cousin of actors [[Bruce Dern|Bruce]] and [[Laura Dern]].<ref name="billboard">{{cite magazine |url=http://www.allbusiness.com/retail-trade/miscellaneous-retail-retail-stores-not/4650715-1.html |title=Second Time's The Charm For Mercury Newcomer Dern |accessdate=December 3, 2008 |last=Stark |first=Phyllis |date=December 1, 2001|magazine=[[Billboard (magazine)|Billboard]]}}</ref> She was raised in the [[San Francisco Bay]] area of California, and in 1991 she received a degree in music business from San Francisco State University after designing a special major to suit her interests.  Dern also attended UC Santa Cruz and Berklee College of Music in Boston, Massachusetts.<ref name="billboard"/> Dern was inspired by country music, as well as more pop influenced acts such as [[Linda Ronstadt]] and [[James Taylor]].<ref name="billboard"/>
+
+Dern moved to Nashville to pursue a career in music in 1994. She met [[Dave Gibson (American songwriter)|Dave Gibson]], former lead vocalist of the [[Gibson/Miller Band]], with whom she began co-writing music, before marrying him in 1997.<ref name="billboard"/><ref name="dern">
+{{cite web 
+ |url=http://www.daisydern.com/id1.html 
+ |title=Daisy Dern biography 
+ |accessdate=October 19, 2008 
+ |work=Daisy Dern official website 
+ |url-status=dead 
+ |archiveurl=https://web.archive.org/web/20081225010215/http://www.daisydern.com/id1.html 
+ |archivedate=December 25, 2008 
+ }}</ref> They have one daughter, born in 1999.<ref name="billboard"/>
+
+Dern began work on her self-titled debut album in late 2000. Its lead-off single, "Gettin' Back to You", spent fifteen weeks on the ''[[Billboard (magazine)|Billboard]]'' Hot Country Singles & Tracks (now [[Hot Country Songs]]) charts and peaked at number 43.<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=123|isbn=978-0-89820-177-2}}</ref> Several other tracks were included on her debut, one of which was co-written by her daughter's pediatrician,<ref name="billboard"/> although the album itself was never released commercially by the label, albeit released independently later.<ref>{{Cite web|url=https://www.discogs.com/Daisy-Dern-Daisy-Dern/release/11285696|title=Daisy Dern – Daisy Dern|website=Discogs|language=en|access-date=December 19, 2017}}</ref>
+
+Dern and Gibson have a daughter, Savannah, whom they named their publishing company/record label after. Savannah Music Group, Inc., was founded in 2008.
+
+==Singles==
+{| class="wikitable"
+|-
+!rowspan="2"|Year
+!rowspan="2"|Single
+!colspan="1"|Chart Positions
+!rowspan="2"|Album
+|-
+!width="65"|<small>[[Hot Country Songs|US Country]]</small>
+|- 
+|2001
+|"Gettin' Back to You"
+|align=center|43
+|''Little Dreams''<ref>{{cite journal|last=Gilbert|first=Calvin|date=December 7, 2001|title=Artist Breakdown|journal=[[Radio & Records]]|url=http://www.americanradiohistory.com/Archive-RandR/2000s/2001/RR-2001-12-07.pdf}}</ref> <small>(unreleased)</small>
+|}
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Dern, Daisy}}
+[[Category:1960s births]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Singer-songwriters from California]]
+[[Category:Living people]]
+[[Category:Mercury Records artists]]
+[[Category:Musicians from the San Francisco Bay Area]]
+[[Category:San Francisco State University alumni]]
+[[Category:Country musicians from California]]
+[[Category:21st-century American women]]

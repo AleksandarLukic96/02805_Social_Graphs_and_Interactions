@@ -1,0 +1,7 @@
+#REDIRECT [[Kerchief#Bandana]]
+
+{{Redirect category shell|1=
+{{R from alternative name}}
+{{R to section}}
+{{R mentioned in hatnote}}
+}}

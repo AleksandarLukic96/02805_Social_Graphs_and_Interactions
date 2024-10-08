@@ -1,0 +1,319 @@
+{{short description|American country music singer (born 1958)}}
+{{Multiple issues|
+{{BLP sources|date=June 2012}}
+{{one source|date=June 2012}}
+}}
+
+{{Infobox musical artist
+|name            = Shelly West
+|image           = 
+|caption         = 
+|image_size      = (220)
+|background      = solo_singer
+|birth_name      = 
+|birth_date      = {{Birth date and age|1956|05|23|mf=y}}
+|origin          = [[Cleveland]], [[Ohio]], U.S.
+|instrument      = Vocals
+|genre           = [[Country pop]]
+|occupation      = Singer
+|years_active    = 1981&ndash;1992<br>2012&ndash;present
+|label           = {{flatlist|
+*[[K-tel]]
+*[[Warner Bros. Records|Warner Bros.]]
+*[[Viva Records (U.S.)|Viva]]
+*[[Varèse Sarabande]]}}
+|associated_acts = {{flatlist|
+*[[David Frizzell]]
+*[[Dottie West]]}}
+}}
+'''Shelly West''' (born May 23, 1956) is an [[United States|American]] [[country music]] [[singing|singer]]. Her mother was the country music star [[Dottie West]], whose career spanned three decades. The younger West reached her peak in popularity during the 1980s before mostly retiring in the wake of her mother's death.
+
+==Biography==
+
+===1981–1987===
+West was born in [[Cleveland, Ohio]], and rose to prominence at the same time as her mother Dottie was reinventing herself as a [[country pop]] star, and Shelly's style was not significantly different from that of her mother's. West is best known for her hit [[duet]]s with [[David Frizzell]], especially their number-one hit "[[You're the Reason God Made Oklahoma]]". She also was a successful solo artist, having her own number-one hit, "[[José Cuervo (song)|José Cuervo]]" in 1983. West was married to [[Gary Hood]] 1983-2000.
+
+===1987–1992: Retirement===
+West did reunite with Frizzell for a few shows in the late 1980s. West married Garry Hood in 1983 and had twin sons.<ref>[{{Allmusic|class=artist|id=p137248/biography|pure_url=yes}} Biography at Allmusic.com]</ref> In 1990, Shelly toured with her mother, Dottie; together, they were popular on the road. On August 30, 1991, Dottie was involved in a major car accident, eventually dying five days later, on September 4, from injuries sustained in the accident. West was a technical adviser for a television biopic about her mother's life, ''[[Big Dreams and Broken Hearts: The Dottie West Story]]'', produced by and starring actress [[Michele Lee]]. At that point, amid major changes in the country music industry that impacted the careers of many established country stars, the younger West retired to focus on her family.
+
+===Post-retirement===
+In June 2005, CMT honored Shelly and her duet partner, David Frizzell, when they were voted number six on its ''100 Greatest Duets Special''. Although they did not perform any songs, Shelly West and David Frizzell appeared on the special, for which West was interviewed. West appeared on numerous episodes of ''Country Family Reunion'' on [[RFD-TV]].
+
+West has returned to performing occasionally since 2012. She reunited with David Frizzell for two shows on October 13, 2012, at the God and Country Theater in [[Branson, Missouri]]. The duo played another show on November 2, 2013 at the Americana Theater in Branson.
+
+==Discography==
+
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:22em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! Peak<br>positions
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+|-
+! scope="row"| ''Carryin' On the Family Names''<br>{{small|(with [[David Frizzell]])}}
+|
+*Release date: April 1981
+*Label: [[Warner Bros. Records]]
+| 6
+|-
+! scope="row"| ''The David Frizzell & Shelly West Album''<br>{{small|(with David Frizzell)}}
+|
+*Release date: January 1982
+*Label: [[Viva Records (U.S.)|Viva Records]]
+| 8
+|-
+! scope="row"| ''Our Best to You''<br>{{small|(with David Frizzell)}}
+|
+*Release date: November 1982
+*Label: Viva Records
+| 24
+|-
+! scope="row"| ''West by West''
+|
+*Release date: March 1983
+*Label: Viva Records
+| 6
+|-
+! scope="row"| ''Red Hot''
+|
+*Release date: November 1983
+*Label: Viva Records
+| 26
+|-
+! scope="row"| ''In Session''<br>{{small|(with David Frizzell)}}
+|
+*Release date: December 1983
+*Label: Viva Records
+| 33
+|-
+! scope="row"| ''Don't Make Me Wait on the Moon''
+|
+*Release date: December 1984
+*Label: Viva Records
+| 28
+|}
+
+===Compilations===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:22em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! Peak<br>positions
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+|-
+! scope="row"| ''Golden Duets (The Best of Frizzell & West)''<br>{{small|(with David Frizzell)}}
+| 
+*Release date: August 1984
+*Label: Viva Records
+| 45
+|-
+! scope="row"| ''Greatest Hits: Alone & Together''<br>{{small|(with David Frizzell)}}
+|
+*Release date: November 17, 1994
+*Label: [[K-tel]]
+| —
+|-
+! scope="row"| ''The Very Best of David Frizzell & Shelly West''<br>{{small|(with David Frizzell)}}
+|
+*Release date: June 23, 2009
+*Label: [[Varèse Sarabande]]
+| —
+|-
+! scope="row"| ''The Very Best of Shelly West''
+|
+*Release date: November 10, 2009
+*Label: Varèse Sarabande
+| —
+|-
+| colspan="3" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style=text-align:center;
+! scope="col" rowspan="2" | Year
+! scope="col" rowspan="2" style="width:20em;" | Title
+! scope="col" colspan="2" | Peak positions
+! scope="col" rowspan="2" | Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="3"| 1983
+! scope="row"| "[[José Cuervo (song)|José Cuervo]]"
+| 1
+| 1
+| align="left" rowspan="2"| ''West by West''
+|-
+! scope="row"| "[[Flight 309 to Tennessee]]"
+| 4
+| 8
+|-
+! scope="row"| "Another Motel Memory"
+| 10
+| 20
+| align="left" rowspan="3"| ''Red Hot''
+|- 
+| rowspan="3"| 1984
+! scope="row"| "Now I Lay Me Down to Cheat"
+| 56
+| —
+|-
+! scope="row"| "Somebody Buy This Cowgirl a Beer"
+| 34
+| —
+|-
+! scope="row"| "Now There's You"
+| 21
+| 22
+| align="left" rowspan="4"| ''Don't Make Me Wait on the Moon''
+|-
+| rowspan="3"| 1985
+! scope="row"| "Don't Make Me Wait on the Moon"
+| 46
+| —
+|- 
+! scope="row"| "I'll Dance the Two Step"
+| 64
+| —
+|- 
+! scope="row"| "If I Could Sing Something in Spanish"
+| —
+| —
+|- 
+| rowspan="2"| 1986
+! scope="row"| "What Would You Do"
+| 54
+| —
+| rowspan="2" {{n/a}}
+|- 
+! scope="row"| "Love Don't Come Any Better Than This"
+| 55
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Singles with David Frizzell===
+{| class="wikitable plainrowheaders" style=text-align:center;
+! scope="col" rowspan="2" | Year
+! scope="col" rowspan="2" style="width:20em;" | Title
+! scope="col" colspan="2" | Peak positions
+! scope="col" rowspan="2" | Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="3"| 1981
+! scope="row"| "[[You're the Reason God Made Oklahoma]]" 
+| 1
+| 13
+| align="left" rowspan="3"| ''Carryin' on the Family Names''
+|- 
+! scope="row"| "[[A Texas State of Mind]]"
+| 9
+| —
+|-
+! scope="row"| "[[Husbands and Wives (song)|Husbands and Wives]]"
+| 16
+| 38
+|- 
+| rowspan="3"| 1982
+! scope="row"| "[[Another Honky-Tonk Night on Broadway]]" 
+| 8
+| 20
+| align="left" rowspan="2"| ''The David Frizzell & Shelly West Album''
+|- 
+! scope="row"| "[[I Just Came Here to Dance]]"
+| 4
+| 9
+|-
+! scope="row"| "Please Surrender"
+| 43
+| —
+| align="left" rowspan="2"| ''Our Best to You''
+|-
+| rowspan="2"| 1983
+! scope="row"| "Cajun Invitation" 
+| 52
+| —
+|- 
+! scope="row"| "Pleasure Island" 
+| 71
+| —
+| align="left" rowspan="2"| ''In Session''
+|- 
+| rowspan="2"| 1984
+! scope="row"| "Silent Partners"
+| 20
+| 20
+|-
+! scope="row"| "It's a Be Together Night"
+| 13
+| 40
+| align="left" rowspan="2"| ''Golden Duets (The Best of Frizzell & West)''
+|- 
+| 1985
+! scope="row"| "Do Me Right"
+| 60
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+==Awards==
+{| class="wikitable"
+|-
+! Year
+! Award 
+! Award Program
+|-
+| 1980
+| rowspan="2"| [[Academy of Country Music Awards]]
+| Top Vocal Duo of the Year; <small> (w/ [[David Frizzell]]) </small>
+|-
+| 1981
+| Song of the Year; "You're the Reason God Made Oklahoma"
+|-
+| rowspan="3"| 1982
+| [[Academy of Country Music Awards]]
+| Top Vocal Duo of the Year; <small> (w/ David Frizzell) </small>
+|-
+| [[Country Music Association Awards]]
+| Vocal Duo of the Year; <small> (w/ David Frizzell) </small>
+|-
+| rowspan="3"|Music City News Country
+| Vocal Duet of the Year; <small> (w/ David Frizzell) </small>
+|-
+| rowspan="2"|1983
+| Most Promising Female Artist of the Year
+|-
+| Vocal Duet of the Year; <small> (w/ David Frizzell) </small>
+|}
+
+==See also==
+* [[Dottie West]] (1932–1991; West's mother)
+* [[David Frizzell]] (West's duet partner)
+
+==References==
+{{reflist}}
+
+==External links==
+* {{IMDb name|0922344}}
+* [http://www.cmt.com/artists/az/west_shelly/artist.jhtml CMT.com: Shelly West]
+
+{{Authority control}}
+
+{{Shelly West}}
+{{CMA Duo of the Year}}
+{{Dottie West}}
+{{DEFAULTSORT:West, Shelly}}
+[[Category:1958 births]]
+[[Category:Living people]]
+[[Category:American country singer-songwriters]]
+[[Category:American women country singers]]
+[[Category:Musicians from Cleveland]]
+[[Category:Songwriters from Ohio]]
+[[Category:Country musicians from Ohio]]

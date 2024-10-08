@@ -1,0 +1,341 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=September 2020}}
+{{More citations needed|date=August 2011}}
+{{Infobox musical artist
+| name            = Nat Stuckey
+| image           =
+| caption         =
+| image_size      =
+| background      = solo_singer
+| birth_name      = Nathan Wright Stuckey<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=410|isbn=0-89820-177-2}}</ref>
+| alias           =
+| birth_date      = {{birth date|1933|12|17}}
+| birth_place     = [[Cass County, Texas]], United States
+| death_date      = {{Death date and age|1988|08|24|1933|12|17}}
+| death_place     = [[Nashville, Tennessee]], United States
+| instrument      = Guitar
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 1965–1988
+| label           = Paula, [[RCA Records|RCA]], [[MCA Records|MCA]]
+| associated_acts =
+| website         =
+}}
+
+'''Nathan Wright Stuckey''' (December 17, 1933 – August 24, 1988)<ref>{{Cite web|url=http://www.hillbilly-music.com/artists/story/index.php?id=13104|title=Nat Stuckey|website=Hillbilly-music.com|access-date=August 10, 2021}}</ref> was an American country singer. He recorded for various labels between 1966 and 1978, charting in the top 10 of [[Hot Country Songs]] with "[[Sweet Thang]]", "Plastic Saddle", "Sweet Thang and Cisco" and "Take Time to Love Her"
+
+==Biography==
+Reared in [[Atlanta, Texas|Atlanta]] in [[Cass County, Texas|Cass County]], [[Texas]], United States, Stuckey attended [[Arlington State College]], now the [[University of Texas at Arlington]], from which he earned a radio and television degree.<ref name="whitburn"/> Stuckey established himself as a radio announcer, first at KALT in Atlanta, Texas, and then at [[KWKH]] in [[Shreveport, Louisiana|Shreveport]], Louisiana,<ref name="LarkinCountry"/> where he worked alongside [[Frank Page (broadcaster)|Frank Page]]<ref>{{cite news|url=http://www.legacy.com/obituaries/theeagle/obituary.aspx?n=frank-page&pid=162291737#fbLoggedOut|title=Frank Page Obituary|newspaper=[[The Times (Shreveport)|The Shreveport Times]]|access-date=January 12, 2013}}</ref> and Louise Alley, a pioneer woman broadcaster and owner of an advertising agency.<ref>{{cite news|url=http://www.legacy.com/obituaries/shreveporttimes/obituary.aspx?n=louise-frances-koury-alley&pid=176071746&fhid=6593|title=Louise Frances Koury Alley|newspaper=The Shreveport Times|access-date=October 11, 2015}}</ref> Along with [[Jim Reeves]], Stuckey became a member of the former KWKH Country music show known as the ''[[Louisiana Hayride]]''.<ref name="LarkinCountry"/>
+
+In 1965, Stuckey co-wrote [[Buck Owens]]' number-one single "[[Waitin' in Your Welfare Line]]".<ref name="LarkinCountry"/> He then wrote and recorded "[[Sweet Thang]]" on Paula Records.<ref name="LarkinCountry"/>
+
+Another of Stuckey's compositions, "[[Pop a Top]]", was recorded by [[Jim Ed Brown]] on RCA Records in 1967 and by [[Alan Jackson]] in 1999.<ref name="LarkinCountry"/> A year later, Stuckey signed with RCA himself.<ref name="LarkinCountry"/> Among his hits for RCA were "Plastic Saddle" and "Sweet Thing and Cisco".<ref name="LarkinCountry"/>
+
+Stuckey teamed with [[Connie Smith]] on the duet of "Young Love", followed by another single and two albums.<ref name="LarkinCountry"/> The duo was in the final nominations for a Grammy for their version of "Whispering Hope".
+
+After seven years with RCA, Stuckey signed with MCA Records.<ref name="LarkinCountry"/> With [[Conway Twitty]] and David Barnes producing, his single "Sun Comin' Up" made the top 20, but none of his other MCA releases did. He last charted in 1978 with the number 26 single "[[The Days of Sand and Shovels]]".<ref name="whitburn"/>
+
+Stuckey also went on to direct in producing sessions, along with announcing and singing jingles on hundreds of regional and national commercials. He wrote two jingles for [[Coca-Cola]] in the 1970s, recorded twenty-two spots of [[McDonald's]], and was the singing voice on the last [[Spuds MacKenzie]] commercial for [[Budweiser (Anheuser-Busch)|Budweiser]]. He continued recording jingles into the 1980s.<ref name="whitburn"/>
+
+Another project was the ownership of Music Row Talent, Inc., a booking agency in [[Nashville, Tennessee|Nashville]], Tennessee, which was in business for twelve years. Through his Texas Promise Land Development Company, Stuckey began acquiring land in both Tennessee and Texas.
+
+Shortly before Stuckey's death, [[Randy Travis]] released "[[Diggin' Up Bones]]", which Stuckey co-wrote.
+
+On August 24, 1988, Stuckey died of lung cancer in a Nashville, Tennessee hospital.<ref name="LarkinCountry">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Who's Who of Country Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1993|edition=First|isbn=0-85112-726-6|pages=400/1}}</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable"
+! Year
+! Album
+! <small>[[Top Country Albums|US Country]]</small>
+! Label
+|-
+| 1966
+| ''Nat Stuckey Really Sings''
+| align="center"| 6
+| rowspan="3"| Paula
+|-
+| 1967
+| ''All My Tomorrows''
+| align="center"| 28
+|-
+| rowspan="2"| 1968
+| ''Stuckey Style''
+| align="center"| —
+|-
+| ''Nat Stuckey Sings''
+| align="center"| 37
+| rowspan="13"| RCA Victor
+|-
+| rowspan="3"| 1969
+| ''Keep 'Em Country''
+| align="center"| 27
+|-
+| ''[[Young Love (Connie Smith and Nat Stuckey album)|Young Love]]'' <small>(w/ [[Connie Smith]])</small>
+| align="center"| 29
+|-
+| ''New Country Roads''
+| align="center"| 27
+|-
+| rowspan="3"| 1970
+| ''[[Sunday Morning with Nat Stuckey & Connie Smith]]'' <small>(w/ Connie Smith)</small>
+| align="center"| —
+|-
+| ''Old Man Willis''
+| align="center"| —
+|-
+| ''Country Fever''
+| align="center"| 38
+|-
+| rowspan="2"| 1971
+| ''She Wakes Me with a Kiss Every Morning''
+| align="center"| 20
+|-
+| ''Only a Woman Like You''
+| align="center"| —
+|-
+| rowspan="2"| 1972
+| ''Forgive Me for Calling You Darling''
+| align="center"| 37
+|-
+| ''Is It Any Wonder That I Love You''
+| align="center"| 40
+|-
+| 1973
+| ''Take Time to Love Her / I Used It All On You''
+| align="center"| 37
+|-
+| 1974
+| ''The Best of Nat Stuckey''
+| align="center"| 33
+|-
+| 1976
+| ''Independence''
+| align="center"| 37
+| MCA
+|}
+
+===Singles===
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="2"| Chart Positions
+! rowspan="2"| Album
+|-
+! width="50"| <small>[[Hot Country Songs|US Country]]</small>
+! width="50"| <small>CAN Country</small>
+|-
+| 1965
+| "Hurting Again"
+| align="center"| —
+| align="center"| —
+| single only
+|-
+| rowspan="2"| 1966
+| "Don't You Believe Her"
+| align="center"| —
+| align="center"| —
+| rowspan="3"| ''Nat Stuckey Really Sings''
+|-
+| "[[Sweet Thang]]"
+| align="center"| 4
+| align="center"| —
+|-
+| rowspan="4"| 1967
+| "Oh! Woman"
+| align="center"| 17
+| align="center"| —
+|-
+| "All My Tomorrows"
+| align="center"| 27
+| align="center"| —
+| rowspan="3"| ''All My Tomorrows''
+|-
+| "You're Puttin' Me On"
+| align="center"| 67
+| align="center"| —
+|-
+| "Adorable Women"
+| align="center"| 41
+| align="center"| —
+|-
+| rowspan="3"| 1968
+| "My Can Do Can't Keep Up with My Want To"
+| align="center"| 17
+| align="center"| —
+| ''Stuckey Style''
+|-
+| "Leave This One Alone"
+| align="center"| 63
+| align="center"| —
+| single only
+|-
+| "Plastic Saddle"
+| align="center"| 9
+| align="center"| 8
+| rowspan="2"| ''Nat Stuckey Sings''
+|-
+| rowspan="4"| 1969
+| "Joe and Mabel's 12th Street Bar and Grill"
+| align="center"| 13
+| align="center"| —
+|-
+| "Cut Across Shorty"
+| align="center"| 15
+| align="center"| —
+| ''New Country Roads''
+|-
+| "[[Young Love (1956 song)|Young Love]]" <small>(w/ [[Connie Smith]])</small>
+| align="center"| 20
+| align="center"| —
+| ''Young Love''
+|-
+| "Sweet Thang and Cisco"
+| align="center"| 8
+| align="center"| 4
+| ''Country Fever''
+|-
+| rowspan="4"| 1970
+| "Sittin' in Atlanta Station"
+| align="center"| 33
+| align="center"| 16
+| single only
+|-
+| "If God Is Dead (Who's That Living in My Soul)" <small>(w/ Connie Smith)</small>
+| align="center"| 59
+| align="center"| —
+| ''Sunday Morning''
+|-
+| "Old Man Willis"
+| align="center"| 31
+| align="center"| 31
+| ''Old Man Willis''
+|-
+| "Whiskey, Whiskey"
+| align="center"| 31
+| align="center"| —
+| ''Country Fever''
+|-
+| rowspan="3"| 1971
+| "She Wakes Me with a Kiss Every Morning<br />(And She Loves Me to Sleep Every Night)"
+| align="center"| 11
+| align="center"| 5
+| ''She Wakes Me with a Kiss Every Morning''
+|-
+| "Only a Woman Like You"
+| align="center"| 24
+| align="center"| —
+| ''Only a Woman Like You''
+|-
+| "I'm Gonna Act Right"
+| align="center"| 17
+| align="center"| 34
+| rowspan="2"| ''Forgive Me for Calling You Darling''
+|-
+| rowspan="3"| 1972
+| "Forgive Me for Calling You Darling"
+| align="center"| 16
+| align="center"| 6
+|-
+| "Is It Any Wonder That I Love You"
+| align="center"| 26
+| align="center"| —
+| rowspan="2"| ''Is It Any Wonder That I Love You''
+|-
+| "Don't Pay the Ransom"
+| align="center"| 18
+| align="center"| 28
+|-
+| rowspan="3"| 1973
+| "Take Time to Love Her"
+| align="center"| 10
+| align="center"| 14
+| rowspan="2"| ''Take Time to Love Her / I Used It All On You''
+|-
+| "I Used It All On You"
+| align="center"| 22
+| align="center"| 14
+|-
+| "Got Leaving On Her Mind"
+| align="center"| 14
+| align="center"| 36
+| rowspan="5"| singles only
+|-
+| rowspan="3"| 1974
+| "You Never Say You Love Me Anymore"
+| align="center"| 31
+| align="center"| 95
+|-
+| "It Hurts to Know the Feeling's Gone"
+| align="center"| 42
+| align="center"| —
+|-
+| "You Don't Have to Go Home"
+| align="center"| 36
+| align="center"| —
+|-
+| 1975
+| "Boom Boom Barroom Man"
+| align="center"| 85
+| align="center"| —
+|-
+| rowspan="3"| 1976
+| "Sun Comin' Up"
+| align="center"| 13
+| align="center"| 33
+| rowspan="3"| ''Independence''
+|-
+| "The Way He's Treated You"
+| align="center"| 46
+| align="center"| —
+|-
+| "That's All She Ever Said Except Goodbye"
+| align="center"| 42
+| align="center"| —
+|-
+| rowspan="4"| 1977
+| "The Shady Side of Charlotte"
+| align="center"| 48
+| align="center"| —
+| rowspan="6"| singles only
+|-
+| "Fallin' Down"
+| align="center"| —
+| align="center"| —
+|-
+| "Buddy, I Lied"
+| align="center"| 63
+| align="center"| —
+|-
+| "I'm Coming Home to Face the Music"
+| align="center"| 62
+| align="center"| —
+|-
+| rowspan="2"| 1978
+| "[[That Lucky Old Sun|That Lucky Old Sun (Just Rolls Around Heaven All Day)]]"
+| align="center"| 66
+| align="center"| —
+|-
+| "[[The Days of Sand and Shovels]]"
+| align="center"| 26
+| align="center"| 29
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[{{AllMusic|class=artist|id=p192958|pure_url=yes}} Nat Stuckey] at [[AllMusic]]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Stuckey, Nat}}
+[[Category:American country singer-songwriters]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:1933 births]]
+[[Category:1988 deaths]]
+[[Category:People from Atlanta, Texas]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:Country musicians from Texas]]

@@ -1,0 +1,70 @@
+{{Infobox musical artist
+| name            = Redneck Souljers
+| alias           = Tiller Gang
+| origin          = [[Winchester, Tennessee]], [[United States|U.S.]]
+| genre           = [[Country rap]]
+| years_active    = 2009–present
+| label           = Play Make Believe
+| associated_acts = {{hlist|[[The Lacs]]|[[Bubba Sparxxx]]|[[Moonshine Bandits]]|Outlaw|I4NI}}
+| website         =
+| current_members = Wesley "Fatt Tarr" Alonso<br>Christopher "C-Hubb" Walls<ref>{{cite web|url=https://www.ascap.com/repertory#/ace/search/workID/919741705 |title=SWINGING (FEAT. HARD TARGET) |website=ASCAP |publisher=American Society of Composers, Authors and Publishers |access-date=April 27, 2023}}</ref>
+}}
+'''Redneck Souljers''' are an American [[country rap]] duo from [[Winchester, Tennessee]], composed of rappers Wesley "Fatt Tarr" Alonso and Christopher "C-Hubb" Walls. They were formed in 2009 as a novelty act, parodying popular hits and remixing songs in a [[Country rap|hick-hop]] style, then in 2013 they went "serious" with their debut ''Tiller Gang'' release.<ref>{{Cite web|url=https://www.allmusic.com/artist/redneck-souljers-mn0003255572/biography|title=Redneck Souljers {{!}} Biography & History {{!}} AllMusic|last=Jeffries|first=David|website=[[AllMusic]]|access-date=October 3, 2018}}</ref> Their first full-length studio album, ''Firewater'', debuted on the [[Billboard charts|''Billboard'' charts]].
+
+== Discography ==
+;Studio albums
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+List of studio albums, with selected chart positions
+! rowspan="2" scope="col" style="width:11em;" |Title
+! rowspan="2" scope="col" style="width:16em;" |Album details
+! colspan="4" scope="col" |Peak chart positions
+|-
+! style="width:3em;font-size:90%;" |[[Top Country Albums|US Country]]
+<ref>{{Cite news|url=https://www.billboard.com/artist/redneck-souljers/chart-history/clp/|title=Redneck Souljers Chart History|work=[[Top Country Albums]]|access-date=October 3, 2018}}</ref>
+! style="width:3em;font-size:90%;" |[[Top Rap Albums|US Rap]]
+<ref>{{Cite news|url=https://www.billboard.com/artist/redneck-souljers/chart-history/rlp/|title=Redneck Souljers Chart History|work=[[Top Rap Albums]]|access-date=October 3, 2018}}</ref>
+! style="width:3em;font-size:90%;" |[[Independent Albums|US Indie]]
+<ref>{{Cite news|url=https://www.billboard.com/artist/redneck-souljers/chart-history/ind/|title=Redneck Souljers Chart History|work=[[Independent Albums]]|access-date=October 3, 2018}}</ref>
+! style="width:3em;font-size:90%;" |[[Top Heatseekers|US Heat.]]
+<ref>{{Cite news|url=https://www.billboard.com/artist/redneck-souljers/chart-history/tln/|title=Redneck Souljers Chart History|work=[[Heatseekers Albums]]|access-date=October 3, 2018}}</ref>
+|-
+! scope="row" |''Firewater''<ref>{{Citation|title=Firewater by Redneck Souljers|date=November 6, 2015|url=https://itunes.apple.com/us/album/firewater/1069583103|language=en-US|access-date=October 3, 2018}}</ref>
+|
+* Released: November 6, 2015
+* {{nowrap|Label: Play Make Believe, LLC}}
+|42
+|19
+|37
+|8
+|-
+| colspan="6" style="font-size:90%" |"—" denotes a recording that did not chart.
+|}
+;Extended plays
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+List of extended plays with selected chart positions
+! scope="col" style="width:16em;" |Title
+! scope="col" style="width:17em;" |Details
+|-
+! scope="row" |''Tiller Gang<ref>{{Citation|title=Tiller Gang by Redneck Souljers|date=November 5, 2013|url=https://itunes.apple.com/us/album/tiller-gang/736801524|language=en-US|access-date=October 3, 2018}}</ref>''
+|
+* Released: November 5, 2013
+*{{nowrap|Label: }}Play Make Believe, LLC
+|-
+! scope="row" |''The River''<ref>{{Citation|title=The River by Redneck Souljers|date=June 1, 2018|url=https://itunes.apple.com/us/album/the-river/1377408454|language=en-US|access-date=October 3, 2018}}</ref>
+|
+* Released: June 1, 2018
+* Label: Redneck Souljers
+|}
+
+== References ==
+{{Reflist}}
+
+==External links==
+[https://www.discogs.com/artist/4759961-Redneck-Souljers Redneck Souljers] on [[Discogs]]
+
+{{Authority control}}
+
+[[Category:Musical duos from Tennessee]]
+[[Category:Musical groups established in 2009]]
+[[Category:Country rap musicians]]
+[[Category:People from Winchester, Tennessee]]

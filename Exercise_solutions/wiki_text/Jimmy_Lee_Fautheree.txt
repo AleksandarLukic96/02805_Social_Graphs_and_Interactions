@@ -1,0 +1,98 @@
+{{short description|American singer-songwriter}}
+
+{{one source|date=June 2015}}
+{{Infobox musical artist
+| name             = Jimmy Lee Fautheree
+| image            =
+| image_size       =
+| landscape        = <!-- yes, if wide image, otherwise leave blank -->
+| alt              =
+| caption          =
+| birth_name       =
+| native_name      =
+| native_name_lang =
+| alias            =
+| birth_date       = {{birth date|1934|4|11}}
+| birth_place      = [[Smackover, Arkansas]], United States
+| origin           =
+| death_date       = {{death date and age|2004|6|29|1934|4|11}}
+| death_place      = [[Dallas, Texas]], United States
+| genre            = [[Rockabilly]], country
+| occupation       = Singer
+| instrument       =
+| years_active     = <!-- YYYY–YYYY (or –present) -->
+| label            = {{unbulleted list| [[Capitol Records]] | [[Decca Records]] | [[Paula Records]]}}
+| associated_acts  =
+| website          = <!-- {{URL|example.com}} -->
+}}
+'''Jimmy Lee Fautheree''' (April 11, 1934 - June 29, 2004) was an American [[rockabilly]] and country singer.
+
+Born in [[Smackover, Arkansas]], he began playing guitar at age 12, and was heavily influenced by [[Merle Travis]]. In 1946 his family moved to [[Dallas]], where he played on [[KRLD (AM)|KRLD]]'s ''[[Big D Jamboree]]''. By 1951 he was playing on the ''[[Louisiana Hayride]]''; that year he signed to [[Capitol Records]] and released his first single, "I Keep the Blues All the Time", as Jimmy Lee. Capitol released seven further singles from Fautheree before dropping him in 1952. Despite never charting, the recordings have been cited as influential on later rockabilly artists, including [[James Burton]].
+
+Fautheree subsequently found work as a [[session musician]] for musicians such as [[Faron Young]] and [[Webb Pierce]]. Along with [["Country" Johnny Mathis]], he performed on ''Louisiana Hayride'' as [[Jimmy & Johnny]], and released a charting single under the "Jimmy Lee & Johnny Mathis" moniker on [[Chess Records]], 1954's "If You Don't, Somebody Else Will". Fautheree left Mathis to work with Wayne Walker, a partnership that lasted only four months but yielded a few recordings. Following this he began recording with his brother Lynn, again under the name Jimmy & Johnny; they signed to [[Decca Records]], but by 1957 the pair had moved back to Dallas.
+
+Fautheree went back to solo recording, recording in [[New Orleans]] in 1958 at J&M Studio. He recorded briefly with Mathis again between 1958 and 1959. Some self-released material and a single on [[Paula Records]] brought him into 1960, and throughout the next decade Fautheree worked increasingly in the genre of [[gospel music]].
+
+By the 1970s Fautheree had left the business, working in [[asbestos]] removal. In 1995, he returned to music with Mathis, recording a new single, "It Won't Be Much Longer", together. He played both in the U.S. and abroad in the 2000s, and released a full-length album with [[Deke Dickerson]] entitled ''I Found the Doorknob''. Shortly after the album was complete he died of [[cancer]] in Dallas on June 29, 2004.
+
+His mother's name was Lodema Hammonds, the daughter of Mack Hammonds of Maud, Texas, who was a descendant of [[Phillip Hamman]], the Savior of the Greenbrier.
+
+==Discography==
+{| class="wikitable"
+! width="30" | Year
+! width="350" | Title
+! width="150" | Record label
+|----
+| 1951 || ''Love Is Hard To Understand / I Keep the Blues All The Time'' || Capitol Records
+|----
+| 1951 || ''Go Ahead and Go / Knocking On Your Front Door'' || Capitol Records
+|----
+| 1951 || ''Lips That Kiss So Sweetly / I’ve Got A Broken Heart'' || Capitol Records 
+|----
+| 1952 || ''Suspense / Warm Warm Kisses'' || Capitol Records 
+|----
+| 1952 || ''I’m Diggin’ A Hole To Bury My Heart / Kisses By Mail'' || Capitol Records
+|----
+| 1952 || ''Blowin’ And Goin’ / Mistakes'' || Capitol Records
+|----
+| 1953 || ''How About A Date / Cryin’ Won’t Change My Mind'' || Capitol Records
+|----
+| 1955 || ''Lips That Kiss So Sweetly / Love Me'' (with Wayne Walker) || Chess Records
+|----
+| 1958 || ''Teenage Wedding / Baby It’s Love'' (as ''Johnny Angel'') || Vin Records
+|----
+| 1966 || ''Git / Can’t Find The Doorknob'' || Paula Records  
+|----
+| 1966 || ''Keep Me In Mind / Belle Of Monterrey'' || Paula Records
+|----
+| 1974 || ''Project X-9 (Instr.) / I’m The Laziest Man In The World'' || Lodema Records
+|----
+| 197? || ''If You Want To Be Saved / Fellowship With Jesus'' || Lodema Records
+|----
+| 197? || ''I Just Can’t Keep On / One Day Smiling'' || Lodema Records
+|----
+| unknown || ''This Ole House / Heaven Is Only Knee High'' || Little Richie Records
+|----
+| 1963 || '''''EP''''' 
+* ''Nobody Knows Where You Go''
+* ''Please Talk To My Heart''
+* ''Taffy Town'' (by Fran Powers)
+* ''Goin’ Steady'' (by Fran Powers)
+|| Towne House Records
+|}
+
+==References==
+*[{{AllMusic|class=artist|id=p75324/biography|pure_url=yes}} Jimmy Lee Fautheree] at [[Allmusic]]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Fautheree, Jimmy Lee}}
+[[Category:1934 births]]
+[[Category:2004 deaths]]
+[[Category:American country singer-songwriters]]
+[[Category:American rockabilly musicians]]
+[[Category:Singer-songwriters from Arkansas]]
+[[Category:American session musicians]]
+[[Category:People from Smackover, Arkansas]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:Country musicians from Arkansas]]

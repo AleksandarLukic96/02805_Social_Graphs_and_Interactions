@@ -1,0 +1,152 @@
+{{Short description|American singer-songwriter (1914–1979)}}
+
+{{Use mdy dates|date=June 2018}}
+{{Infobox musical artist
+|name            = Lester Flatt
+|image           = Publicity_Photo_of_Lester_Flatt.jpg
+|image_size      = 
+|caption         = Publicity Photo of Lester Flatt
+|background      = solo_singer 
+|birth_name      = Lester Raymond Flatt
+|birth_date      = {{birth date|1914|6|19}}
+|birth_place     = [[Overton County, Tennessee]], U.S.
+|death_date      = {{death date and age|1979|5|11|1914|6|19}}
+|death_place     = [[Nashville, Tennessee]], U.S.
+|instrument      = Guitar, vocals, [[mandolin]]
+|genre           = [[Bluegrass music|Bluegrass]], [[country music|country]]
+|occupation      = Musician, songwriter
+|years_active    = 1940–1979
+|label           = 
+|past_member_of  = [[Flatt and Scruggs]], [[Nashville Grass]]
+}}
+
+'''Lester Raymond Flatt''' (June 19, 1914 – May 11, 1979)<ref>{{Cite web|url=https://www.britannica.com/biography/Lester-Flatt|title=Lester Flatt &#124; American musician|website=[[Encyclopedia Britannica]]|access-date=August 28, 2021}}</ref> was an American [[bluegrass (music)|bluegrass]] guitarist and mandolinist, best known for his collaboration with banjo picker [[Earl Scruggs]] in the duo [[Flatt and Scruggs]].
+
+Flatt's career spanned multiple decades, breaking out as a member of [[Bill Monroe]]'s band during the 1940s and including multiple solo and collaboration works exclusive of Scruggs. He first reached a mainstream audience through his performance on "[[The Ballad of Jed Clampett]]", the theme for the network television series ''[[The Beverly Hillbillies]]'', in the early 1960s.
+
+==Biography==
+[[File:Earl Scruggs and Lester Flatt.jpg|thumb|left|Lester Flatt (right) with [[Earl Scruggs]] (left) as part of [[Flatt and Scruggs]] in 1949]]
+Flatt was born in Duncan's Chapel, [[Overton County, Tennessee]], United States,<ref name=browne>{{cite book |editor1-last=Browne |editor1-first=Ray B. |editor2-last=Browne |editor2-first=Pat |url={{Google books|U3rJxPYT32MC|page=284|plainurl=yes}} |chapter=Flatt and Scruggs |title=The Guide to United States Popular Culture |publisher=[[Popular Press]] |year=2001 |page=284 |isbn=978-0879728212}}</ref> to Nannie Mae Haney and Isaac Columbus Flatt. In 1943, he played [[mandolin]] and sang [[tenor]] in The Kentucky Pardners, the band of [[Bill Monroe]]'s older brother [[Charlie Monroe|Charlie]].<ref>{{cite web |url=http://www.flatt-and-scruggs.com/lesterbio.html |title=Biography: Lester Flatt |website=Flatt-and-scruggs.com |access-date=June 6, 2020}}</ref> He first came to prominence as a member of [[Bill Monroe]]'s Blue Grass Boys in 1945 and played a thumb-and-index guitar style that was in part derived from the playing of Charlie Monroe and Clyde Moody. In 1948, he started a band with fellow Monroe alumnus [[Earl Scruggs]], and for the next 20 years, [[Flatt and Scruggs]] and the Foggy Mountain Boys were one of the most successful bands in bluegrass.<ref name=ecm>{{cite book |last=Rosenberg |first=Neil V. |year=1998 |chapter-url=https://books.google.com/books?id=tLZz02EzmBYC&pg=PT504 |chapter=Flatt & Scruggs and the Foggy Mountain Boys |title=The Encyclopedia of Country Music |publisher=Oxford University Press |pages=173–4 |isbn=978-0195395631}}</ref> When they parted ways in 1969, Flatt formed a new group, the [[Nashville Grass]], hiring many of the Foggy Mountain Boys. He continued to record and perform with that group until his death in 1979.<ref name=ecm2>{{cite book |last=Samuelson |first=Dave |year=1998 |chapter-url=https://books.google.com/books?id=tLZz02EzmBYC&pg=PT504 |chapter=Lester Flatt & the Nashville Grass |title= The Encyclopedia of Country Music |editor-first=Paul |editor-last=Kingsbury |location=New York |publisher=Oxford University Press |page=173 |isbn=978-0195395631}}</ref> His role as rhythm guitarist and vocalist in each of these seminal ensembles helped define the sound of traditional bluegrass music. His solid guitar playing and rich lead voice are unmistakable in hundreds of bluegrass standards. He is also remembered for his library of compositions.
+
+==Death and legacy==
+Flatt died of heart failure in Nashville, Tennessee, at the age of 64.<ref>{{cite news |url=https://www.nytimes.com/1979/05/12/archives/lester-flatt-singer-and-guitarist-in-duo-with-earl-scruggs-dies.html |title=Lester Flatt, Singer and Guitarist in Duo With Earl Scruggs, Dies |first=John |last=Rockwell |newspaper=[[The New York Times]] |page=26 |date=May 12, 1979}}</ref>
+
+He was posthumously inducted into the [[Country Music Hall of Fame]] in 1985 along with Scruggs.<ref>{{cite web |url=http://countrymusichalloffame.org/Inductees/InducteeDetail/flatt-and-scruggs |title=Flatt and Scruggs |website=[[Country Music Hall of Fame and Museum]] |access-date=August 15, 2016}}</ref> Flatt was also posthumously inducted as an inaugural member of the [[International Bluegrass Music Hall of Honor]] in 1991.
+
+Lester's hometown of [[Sparta, Tennessee]], held a bluegrass festival in his honor for a number of years, before being discontinued a few years prior to the death of the traditional host, resident Everette Paul England; Lester Flatt Memorial Bluegrass Day remains part of the annual Liberty Square Celebration held in Sparta.<ref>{{cite web |url=http://www.eastpublicrelations.com/lester_flatt_memorial_bluegrass.htm |title=Lester Flatt Memorial Bluegrass Day |website=East Public Relations |date=September 29, 2007 |url-status=dead |archive-url=https://web.archive.org/web/20071205192520/http://www.eastpublicrelations.com/lester_flatt_memorial_bluegrass.htm |archive-date=December 5, 2007 |df=mdy-all }}</ref>
+
+Flatt and Scruggs were ranked No. 24 on [[Country Music Television|CMT]]'s 40 Greatest Men of Country Music in 2003.
+
+==Discography==
+[[File:Lester-flatt-sparta-tn-memorial2.jpg|right|thumb|Lester Flatt memorial in Sparta, Tennessee]]
+{| class="wikitable"
+! Year
+! Album
+! <small>[[Top Country Albums|US Country]]</small>
+! Label
+|-
+| rowspan="2"| 1970
+| ''Flatt Out''
+| 
+| Columbia
+|-
+| ''One and Only''
+| 
+| Nugget
+|-
+| rowspan="2"| 1971
+| ''Flatt on Victor''
+| 
+| rowspan="10"| RCA Victor
+|-
+| ''Lester 'N' Mac'' <small>(w/ [[Mac Wiseman]])</small>
+| align="center"| 42
+|-
+| rowspan="3"| 1972
+| ''Kentucky Ridgerunner''
+| 
+|-
+| ''On the Southbound'' <small>(w/ Mac Wiseman)</small>
+| 
+|-
+| ''Foggy Mountain Breakdown''
+| 
+|-
+| rowspan="2"| 1973
+| ''Country Boy''
+| align="center"| 45
+|-
+| ''Over the Hills to the Poorhouse'' <small>(w/ Mac Wiseman)</small>
+| 
+|-
+| rowspan="3"| 1974
+| ''Before You Go''
+| 
+|-
+| ''Live Bluegrass Festival'' <small>(w/ [[Bill Monroe]])</small>
+| 
+|-
+| ''The Best''
+| 
+|-
+| rowspan="1"| 1975
+| ''Flatt Gospel'' <small>(w/ [[Nashville Grass]])</small>
+|
+| Canaan Records
+|-
+| rowspan="3"| 1976
+| ''Lester Raymond Flatt''
+|
+| Flying Fish
+|-
+| ''Heaven's Bluegrass Band'' <small>(w/ Nashville Grass)</small>
+| 
+| rowspan="4"| [[CMH Records]]
+|-
+| ''A Living Legend'' <small>(w/ Nashville Grass)</small>
+| 
+|-
+| rowspan="1"| 1978
+| ''Pickin' Time'' <small>(w/ Nashville Grass)</small>
+| 
+|-
+| rowspan="1"| 1979
+| ''Fantastic Pickin''' <small>(w/ Nashville Grass)</small>
+| 
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.flatt-and-scruggs.com/lesterbio.html Lester Flatt biography]
+*{{AllMusic |class=artist |id=lester-flatt-mn0000269172}}
+*{{Discogs artist|692198-Lester-Flatt}}
+*{{IMDb name|0281296}}
+*{{Find a Grave|10007}}
+
+{{Grand Ole Opry members}}
+{{Authority control}}
+
+{{DEFAULTSORT:Flatt, Lester}}
+[[Category:1914 births]]
+[[Category:1979 deaths]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:Bluegrass musicians from Tennessee]]
+[[Category:American country singer-songwriters]]
+[[Category:Country musicians from Tennessee]]
+[[Category:Grand Ole Opry members]]
+[[Category:People from Overton County, Tennessee]]
+[[Category:Singer-songwriters from Tennessee]]
+[[Category:American country guitarists]]
+[[Category:American country mandolinists]]
+[[Category:American bluegrass guitarists]]
+[[Category:American bluegrass mandolinists]]
+[[Category:Guitarists from Tennessee]]
+[[Category:20th-century American guitarists]]
+[[Category:Country Music Hall of Fame inductees]]
+[[Category:Nashville Grass members]]
+[[Category:Foggy Mountain Boys members]]
+[[Category:Flying Fish Records artists]]
+[[Category:Blue Grass Boys members]]
+[[Category:Columbia Records artists]]

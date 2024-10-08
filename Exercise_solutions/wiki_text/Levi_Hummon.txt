@@ -1,0 +1,138 @@
+{{short description|American country musician}}
+
+'''Levi Hummon''' is an American [[country music|country]] musician. Hummon is the son of fellow country musician [[Marcus Hummon]].<ref name="theboot">{{cite web |last1=Thompson |first1=Gayle |title=Levi Hummon Sees His Parents' Influence on His Career |url=https://theboot.com/levi-hummon-parents-marcus-hummon-rev-becca-stevens/ |publisher=The Boot |accessdate=10 March 2019}}</ref><ref name="rollingstone">{{cite web |last1=Freeman |first1=Jon |title=Levi Hummon Stops Chasing Radio, Raises the Bar on New 'Patient' EP |date=21 December 2018 |url=https://www.rollingstone.com/music/music-country/levi-hummon-interview-patient-ep-771974/ |publisher=[[Rolling Stone]] |accessdate=10 March 2019}}</ref> Levi Hummon released his first self-titled EP in 2016.<ref name="musicrow">{{cite web |last1=Nicholson |first1=Jessica |title=Levi Hummon To Release Self-Titled EP April 1 |date=14 March 2016 |url=https://musicrow.com/2016/03/levi-hummon-to-release-self-titled-ep-april-1/ |publisher=[[MusicRow]] |accessdate=10 March 2019}}</ref><ref name="tasteofcountry">{{cite web |last1=Dukes |first1=Billy |title=Levi Hummon Answers His Country Calling |url=https://tasteofcountry.com/levi-hummon-interview-steven-tyler-ep-his-dad/ |publisher=Taste of Country |accessdate=10 March 2019}}</ref> In 2018, he released his second EP titled ''Patient''.<ref name="rollingstone"/> Hummon has opened for country music artists Tim McGraw, Keith Urban, and Lady Antebellum and performed multiple shows at the Grand Ole Opry. In 2019, he launched his first headlining tour, the ''Drop of Us Tour'' with 16 tour dates across the United States. In 2019, he released his single, "State I'm In." 
+
+In 2019, Hummon was named the face of Amazon Music's official ''Introducing: Country'' playlist along with the cover of Spotify’s ''Hot Country'' playlist. He opened for [[Hunter Hayes]] on the [[Closer to You Tour]].{{cn|date=November 2022}}
+
+==Discography==
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of extended plays, showing relevant details
+! scope="col" | Title
+! scope="col"| Details
+|-
+! scope = "row" | ''Levi Hummon''<ref>{{cite web |title=Levi Hummon - EP by Levi Hummon |url=https://music.apple.com/us/album/levi-hummon-ep/1443178728 |website=iTunes Store |publisher=Apple |access-date=January 16, 2021 |date=April 1, 2016}}</ref>
+|
+*Released: April 1, 2016
+*Label: [[Big Machine Records|Big Machine]]
+*Format: [[Music download|Digital download]], [[Media streaming|streaming]]
+|-
+! scope = "row" | ''Patient''<ref>{{cite web |title=Patient - EP by Levi Hummon |url=https://music.apple.com/us/album/patient-ep/1435666614 |website=iTunes Store |publisher=Apple |access-date=January 16, 2021 |date=October 26, 2018}}</ref>
+|
+*Released: October 26, 2018
+*Label: Iconic
+*Format: Digital download, streaming
+|-
+|}
+
+===Singles===
+====As lead artist====
+{| class="wikitable plainrowheaders" style=text-align:center;
+! scope="col" | Title
+! scope="col" | Year
+! scope="col" | Album
+|- 
+! scope = "row" | "Guts and Glory"<ref>{{cite web |title=Review: Levi Hummon superb on debut music video for 'Guts and Glory' (Includes first-hand account) |url=http://www.digitaljournal.com/a-and-e/music/review-levi-hummon-superb-on-debut-music-video-for-guts-and-glory/article/469109 |website=Digital Journal |access-date=January 16, 2021 |date=July 2, 2016}}</ref>
+| 2016
+| ''Levi Hummon''
+|-
+! scope = "row" | "Don't Waste the Night"
+| rowspan = "2" | 2017
+| rowspan = "3" {{n/a|Non-album single}}
+|-
+! scope = "row" | "Stupid"
+|-
+! scope = "row" | "Love Heals"<br>{{small|(with [[Alison Krauss]])}}
+| rowspan = "3" | 2018
+|-
+! scope = "row" | "Songs We Sang"
+| rowspan = "2" | ''Patient''
+|-
+! scope = "row" | "Change My Life"
+|-
+! scope = "row" | "Night Lights"
+| rowspan = "4" | 2019
+| rowspan = "13" {{n/a|Non-album single}}
+|-
+! scope = "row" | "Drop of Us"
+|-
+! scope = "row" | "State I'm In"
+|-
+! scope = "row" | "[[Cowboy Take Me Away]]"<br>{{small|(featuring [[Runaway June]])}}
+|-
+! scope = "row" | "Wedding Dress"
+| rowspan = "7" | 2020
+|-
+! scope = "row" | "[[Hallelujah (Leonard Cohen song)|Hallelujah]]"
+|-
+! scope = "row" | "[[Fast Car]]"
+|-
+! scope = "row" | "[[The Story (Brandi Carlile song)|The Story]]"
+|-
+! scope = "row" | "Rock and Roses"
+|-
+! scope = "row" | "Good Taste"
+|-
+! scope = "row" | "[[White Christmas (song)|White Christmas]]"
+|-
+! scope = "row" | "A Home"
+| rowspan = "2" | 2021
+|-
+! scope = "row" | "Paying For It"<br>{{small|(featuring [[Walker Hayes]])}}
+|-
+! scope = "row" |"Bottled Up"
+|2022
+| rowspan="8" |Non-album single
+|-
+! scope = "row" |"For Me"
+|2022
+|-
+! scope = "row" |"Good Riddance"
+<small>(featuring Filmore and YA'BOYZ)</small>
+|2022
+|-
+! scope = "row" |"Drink On"
+|2022
+|-
+! scope = "row" |"RSVP"
+<small>(featuring [[Cassadee Pope]])</small>
+|2022
+|-
+! scope = "row" |"Rent Free"
+|2023
+|-
+! scope = "row" |"Rock Bottom"
+<small>(featuring [[Sam Tinnesz]])</small>
+|2023
+|-
+! scope = "row" |"Another Shot"
+|2024
+|}
+
+====As featured artist====
+{| class="wikitable plainrowheaders" style=text-align:center;
+! scope="col" rowspan="2" | Title
+! scope="col" rowspan="2" | Year
+! scope="col" colspan="1" | Peak chart positions
+! scope="col" rowspan="2" | Album
+|- 
+! style="width:4em;" | [[Canada Country|CAN<br>{{small|Country}}]]<br><ref>{{cite magazine |title=Chart Search - Artist: Kira Isabella, Title: We Should Be Together, Chart: CCW |url=https://www.billboard.com/charts/search?artistname=Kira+Isabella&charttitle=We+Should+Be+Together&label=&chartcode=CCW&chart_date= |magazine=[[Billboard (magazine)|Billboard]] |accessdate=January 16, 2021}}</ref>
+|-
+! scope = "row" | "We Should Be Together"<br>{{small| (with [[Kira Isabella]])}}
+| 2019
+| 42
+| ''Sides''
+|-
+|}
+
+==References==
+{{reflist}}
+
+
+{{DEFAULTSORT:Hummon, Levi}}
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]
+[[Category:American country musicians]]
+
+
+{{US-country-musician-stub}}

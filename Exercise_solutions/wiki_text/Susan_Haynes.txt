@@ -1,0 +1,89 @@
+{{Short description|American musician}}
+{{for|the Anglican bishop|Susan B. Haynes}}
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Susan Haynes
+| image                 = 
+| background          = solo_singer
+| birth_date          = {{Birth date and age|1972|6|13}}<ref>{{cite news |title= Today in history |date= June 1, 2014 |newspaper= [[The New York Times]] |agency= [[Associated Press]] |accessdate= June 14, 2014 |url= http://nyti.ms/Uv1YKC |archive-date= September 7, 2014 |archive-url= https://archive.today/20140907032015/http://nyti.ms/Uv1YKC |url-status= dead }}</ref>
+| origin              = [[Atlanta]], Georgia, United States
+| instrument          = Vocals
+| genre               = [[Country music|Country]]
+| occupation          = Singer-songwriter
+| years_active        = 2005–present
+| label               = [[Epic Records|Epic]]
+| associated_acts     = [[Dann Huff]]
+| website                 = 
+}}
+
+'''Susan Haynes''' (born in [[Atlanta]], Georgia) is an American [[country music]] artist.  Signed to [[Epic Records]] Nashvillein 2005, she released two singles for the label, including "Drinkin' in My Sunday Dress", which peaked at No.&nbsp;51 on the country singles charts late that year. A self-titled album was released only to digital retailers.
+
+==Biography==
+Susan Haynes was raised in [[Atlanta]], Georgia. After graduating [[The Lovett School]], Haynes moved to [[Nashville, Tennessee]], where she attended college. She also found work as an intern for [[BNA Records]], and later managed a studio for record producer [[James Stroud]].<ref name="cmt">{{cite web |url=http://www.cmt.com/artists/az/susan_haynes/bio.jhtml |archive-url=https://web.archive.org/web/20060205024608/http://www.cmt.com/artists/az/susan_haynes/bio.jhtml |url-status=dead |archive-date=February 5, 2006 |title=Susan Haynes biography |accessdate=January 26, 2009 |work=[[Country Music Television|CMT]]}}</ref> Even then, she did not consider pursuing a career as a singer until age 27.<ref name="weekly">{{cite journal |date=January 3, 2006|title=Who's New: Susan Haynes |journal=[[Country Weekly]] |volume=13 |issue=3 |pages=72 }}</ref>
+
+Producer [[Dann Huff]] agreed to work with Haynes, although his own busy production schedule left time for Haynes to continue working on her songwriting. By 2005, she began work on her album, which he and Mark Wright produced. Its lead-off single "Crooked Little Heart" failed to chart, but a cover of [[Maria McKee]]'s "Drinkin' in My Sunday Dress" peaked at No.&nbsp;51 on the ''[[Billboard (magazine)|Billboard]]'' charts in 2005. Following the latter single, Haynes' album was released only to digital retailers.<ref>{{cite web |url=http://www.countrystandardtime.com/d/cdreview.asp?xid=3475 |last=Remz |first=Jeffrey B. |title=''Susan Haynes'' review |accessdate=January 26, 2009 |work=[[Country Standard Time]]}}</ref> "Not That Bad" was scheduled to be released as her third single.<ref>{{cite web |url=http://www.countrystandardtime.com/news/newsitem.asp?xid=19 |last=Remz |first=Jeffrey B. |title=Susan Haynes marries |accessdate=January 26, 2009 |work=[[Country Standard Time]]}}</ref> After the Nashville division of Epic Records was closed in May 2006, Haynes exited the label.<ref>{{cite web |url=http://www.allbusiness.com/services/motion-pictures/4479747-1.html |last=Stark |first=Phyllis |title=Sony BMG Folds Epic Nashville, Lays Off 20 Staffers |date=May 1, 2006|accessdate=January 26, 2009 |work=Radio Monitor}}</ref>
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:18em;"| Album details
+|- 
+! scope="row"| ''Crooked Little Heart''
+| 
+* Release date: February 14, 2006
+* Label: [[Epic Records]]
+* Format: [[music download]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:16em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]
+|- 
+| rowspan="2"| 2005
+! scope="row"| "Crooked Little Heart"
+| —
+| align="left" rowspan="2"| ''Crooked Little Heart''
+|-
+! scope="row"| "Drinkin' in My Sunday Dress"
+| 51
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:16em;"| Video
+! Director
+|-
+| 2005
+! scope="row"| "Drinkin' in My Sunday Dress"
+| Brent Hedgecock
+|}
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Haynes, Susan}}
+[[Category:American country singer-songwriters]]
+[[Category:American women country singers]]
+[[Category:Epic Records artists]]
+[[Category:Living people]]
+[[Category:Musicians from Atlanta]]
+[[Category:1972 births]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:21st-century American women singers]]
+[[Category:Country musicians from Georgia (U.S. state)]]
+[[Category:Singer-songwriters from Georgia (U.S. state)]]

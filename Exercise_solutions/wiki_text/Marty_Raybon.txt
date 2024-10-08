@@ -1,0 +1,229 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=September 2020}}
+{{BLP sources|date=October 2010}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Marty Raybon
+| image               = RayboBlue.jpg
+| caption             = Marty Raybon
+| image_size          =
+| background          = solo_singer
+| birth_name          = Marlon Raybon
+| alias               = 
+| birth_date          = {{birth date and age|1959|12|08}}
+| birth_place         = [[Sanford, Florida]]<ref>{{cite web|url=http://www.alabamamusicoffice.com/artists-a-z/r/1603-raybon-marty.html|title=Raybon, Marty|website=www.alabamamusicoffice.com}}</ref>
+| instrument          = Vocals, acoustic guitar
+| genre               = [[Country music|Country]], [[Christian country music|Christian country]], [[bluegrass music|Bluegrass]]
+| occupation          = Singer-songwriter
+| years_active        = 1985–present
+| label               = [[Sparrow Records|Sparrow]], Tri Chord, Doobie Shea, Dakota Sky, [[Rural Rhythm Records|Rural Rhythm]]
+| current_member_of = [[Shenandoah (band)|Shenandoah]]
+| past_member_of = [[Raybon Brothers]]
+| website             = [http://www.martyraybon.com/ MartyRaybon.com]
+}}
+'''Marlon "Marty" Raybon''' (born December 8, 1959) is an American [[country music]] artist. He is known primarily for his role as the lead singer of the country band [[Shenandoah (band)|Shenandoah]], a role which he held from 1985 to 1997, until he rejoined the band in 2014. He recorded his first solo album, ''Marty Raybon'', in 1995 on [[Sparrow Records]].<ref name="allmusic">{{cite web |url=http://www.allmusic.com/cg/amg.dll?p=amg&sql=11:09fuxqygldje~T1 |title=Marty Raybon biography |accessdate=January 25, 2008 |last=Hamilton |first=Andrew |work=[[Allmusic]]}}{{dead link|date=August 2021|bot=medic}}{{cbignore|bot=medic}}</ref> Before leaving Shenandoah in 1997, he and his brother Tim formed a duo known as the [[Raybon Brothers]], which had crossover success that year with the hit single "[[Butterfly Kisses (song)|Butterfly Kisses]]".
+
+The Raybon Brothers split up in 1997, and Marty Raybon resumed his career as a solo artist. A second self-titled album was released in 2000, followed by 2003's ''Full Circle''. 2006 saw the release of ''When the Sand Runs Out'', which included the single "Shenandoah Saturday Night".
+
+==Discography==
+{{for|a complete discography of Shenandoah|Shenandoah discography}}
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:14em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! Peak positions
+|- style="font-size:smaller;"
+! style="width:65px;"| [[Top Bluegrass Albums|US Bluegrass]]
+|-
+! scope="row"| ''Marty Raybon''
+| 
+* Release date: July 18, 1995
+* Label: Chordant Records
+| —
+|-
+! scope="row"| ''Marty Raybon''
+| 
+* Release date: February 15, 2000
+* Label: Tri Chord Records
+| —
+|-
+! scope="row"| ''Full Circle''
+| 
+* Release date: March 11, 2003
+* Label: [[Doobie Shea Records]]
+| —
+|-
+! scope="row"| ''When the Sand Runs Out''
+| 
+* Release date: November 21, 2006
+* Label: Aspirion Records
+| —
+|-
+! scope="row"| ''This, That & the Other''
+| 
+* Release date: April 30, 2009
+* Label: self-released
+| —
+|-
+! scope="row"| ''At His Best''
+| 
+* Release date: April 6, 2010
+* Label: Hi Five
+| —
+|-
+! scope="row"| ''Hand to the Plow''
+| 
+* Release date: March 27, 2012
+* Label: [[Rural Rhythm Records|Rural Rhythm]]
+| —
+|-
+! scope="row"| ''Southern Roots & Branches (Yesterday & Today)''
+| 
+* Release date: April 10, 2012
+* Label: Rural Rhythm
+| —
+|-
+! scope="row"| ''The Back Forty''<ref>{{cite web|url=http://www.cybergrass.com/node/2328|title=Marty Raybon Celebrates 40th Year with "The Back Forty"|publisher=Cybergrass. The Bluegrass Network|accessdate=March 7, 2013}}</ref>
+| 
+* Release date: March 26, 2013
+* Label: Rural Rhythm
+| 14
+|-
+| colspan="3" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Single
+!| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! style="width:60px;"| [[Hot Country Songs|US Country]]
+|-
+| rowspan="2"| 2000
+! scope="row"| "Cracker Jack Diamond"
+| 63
+| align="left" rowspan="2"| ''Marty Raybon'' (2000)
+|-
+! scope="row"| "Searching for the Missing Peace"
+| —
+|-
+| rowspan="2"| 2003
+! scope="row"| "Summertown Road"
+| —
+| style="text-align:left;"| ''Full Circle''
+|-
+! scope="row"| "The Christmas Letter"
+| —
+| {{n/a}}
+|-
+| 2006
+! scope="row"| "Shenandoah Saturday Night"
+| —
+| align="left" rowspan="2"| ''When the Sand Runs Out''
+|-
+| 2007
+! scope="row"| "Who Are You"
+| —
+|-
+| rowspan="2"| 2010
+! scope="row"| "Daddy Phone"
+| —
+| align="left" rowspan="2"| ''At His Best''
+|-
+! scope="row"| "The Heat Is On"
+| —
+|-
+| rowspan="2"| 2011
+! scope="row"| "All in the Hands of Jesus"
+| —
+| align="left" rowspan="3"| ''Hand to the Plow''
+|-
+! scope="row"| "You've Got to Move"
+| —
+|-
+| 2012
+! scope="row"| "I've Seen What He Can Do"
+| —
+|-
+| rowspan="2"| 2013
+! scope="row"| "That Janie Baker"
+| —
+| align="left"| ''The Back Forty''
+|-
+! scope="row"| "Working on a Building" {{small|(with [[Trace Adkins]],<br>[[T. Graham Brown]], and [[Jimmy Fortune]])}}
+| —
+| align="left"| ''Working on a Building''
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:18em;"| Video
+! Director
+|-
+| 1994
+! scope="row"| "Sweet Beulah Land"
+| Stan Strickland
+|-
+| 1995
+! scope="row"| "Daddy Talks to Jesus"
+| Greg Crutcher
+|-
+| rowspan="2"| 2000
+! scope="row"| "Cracker Jack Diamond"<ref>{{cite web|url=http://www.cmt.com/videos/marty-raybon/385507/cracker-jack-diamond.jhtml|archive-url=https://web.archive.org/web/20160305150930/http://www.cmt.com/videos/marty-raybon/385507/cracker-jack-diamond.jhtml|url-status=dead|archive-date=March 5, 2016|title=CMT : Videos : Marty Raybon : Cracker Jack Diamond|publisher=[[Country Music Television]]|accessdate=November 18, 2011}}</ref>
+| Mare Said
+|-
+! scope="row"| "Searching for the Missing Peace"
+| [[Peter Zavadil]]
+|-
+| 2003
+! scope="row"| "The Christmas Letter"
+| 
+|-
+| 2006
+! scope="row"| "Shenandoah Saturday Night"
+|
+|-
+| 2010
+! scope="row"| "Daddy Phone"
+| [[Michael Salomon]]
+|-
+| 2011
+! scope="row"| "I've Seen What He Can Do"<ref>{{cite web|url=http://martyraybon.com/online/videos/music-videos/ive-seen-what-he-can-do/|title=I've Seen What He Can Do|publisher=Rural Rhythm|accessdate=December 20, 2011}}</ref>
+| 
+|-
+| 2012
+! scope="row"| "Working on a Building"<ref>{{cite web|url=http://martyraybon.com/online/videos/music-videos/working-on-a-building/|title=Working on a Building – Trace Adkins, T. Graham Brown, Jimmy Fortune, Marty Raybon|publisher=New Haven Records|accessdate=September 25, 2012}}</ref>
+| [[Mark Carman]]
+|-
+| 2013
+! scope="row"| "God Didn't Choose Sides"
+|
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.martyraybon.com/ Official website]
+
+{{Shenandoah}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Raybon, Marty}}
+[[Category:1959 births]]
+[[Category:Singer-songwriters from Florida]]
+[[Category:American country singer-songwriters]]
+[[Category:Living people]]
+[[Category:People from Sanford, Florida]]
+[[Category:Shenandoah (band) members]]
+[[Category:Country musicians from Florida]]

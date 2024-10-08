@@ -1,0 +1,267 @@
+{{Short description|American country music duo}}
+{{Single source|date=August 2021}}
+{{Infobox musical artist
+| name            = Carl Butler and Pearl
+| image           =
+| caption         =
+| image_size      =
+| origin          = [[Knoxville, Tennessee]]
+| genre           = [[Country music|Country]]
+| years_active    = 1961–1980
+| label           = Columbia
+| associated_acts =
+| website         =
+| past_members    = [[Carl Butler]]<br />[[Pearl Butler]]
+}}
+
+'''Carl Butler and Pearl''' were an American [[country music]] husband-and-wife duo. Between 1962 and 1969, the duo released several singles and charted thirteen times on the U.S. country charts, reaching No.&nbsp;1 in 1962 with their first single, "[[Don't Let Me Cross Over]]".
+
+==Biography==
+'''Carl Roberts Butler''' was born in [[Knoxville, Tennessee|Knoxville]], [[Tennessee]], United States, on June 2, 1927.<ref name="LarkinCountry">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Who's Who of Country Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1993|edition=First|isbn=0-85112-726-6|page=58/60}}</ref> He grew up influenced by [[Roy Acuff]] and the old time music around his home. He began singing at local dances at the age of 12 and, after service in [[World War II]], sang with several bluegrass bands and then as a solo act on numerous radio shows, including the "Mid Day Merry Go Round" on WNOX in Knoxville, Tennessee.<ref name="LarkinCountry"/> During this period he met '''Pearl Dee Jones''', a [[Nashville, Tennessee|Nashville]] native born September 20, 1927, whom he married in 1952.<ref name="LarkinCountry"/>
+
+In 1961, Carl Butler recorded "Honky Tonkitis",<ref name="LarkinCountry"/> which made it to number 25 on the country chart. The following year, the Butlers were invited to join the [[Grand Ole Opry]], and the exposure provided by the show helped them push "[[Don't Let Me Cross Over]]" to number one.<ref name="LarkinCountry"/> Their first single as a duo spent almost three months at the top of the country music chart,<ref name="LarkinCountry"/> and they remained one of country music's most popular duos for the next two decades. Later chart records included "I Wouldn't Change You If I Could", "Too Late To Try Again", "Loving Arms" and "I'm Hanging Up The Phone".<ref name="LarkinCountry"/>
+
+Carl Butler was also a songwriter, penning classics including "If Teardrops Were Pennies", a No.&nbsp;8 hit for [[Carl Smith (country musician)|Carl Smith]] in 1951 and a top 10 single for [[Porter Wagoner]] and [[Dolly Parton]] in 1973, and "Crying My Heart Out Over You" which became [[Ricky Skaggs]]' first number one hit in 1981.<ref name="LarkinCountry"/> The Butlers were also among the earliest supporters of [[Dolly Parton]], with whom they had worked in Knoxville in the 1950s, and they helped to get her established in Nashville in the early 1960s. (Parton, in turn, paid tribute to the Butlers when she included "Don't Let Me Cross Over" on ''[[Treasures (Dolly Parton album)|Treasures]],'' a 1996 album of covers of some of her favorite songs.)
+
+The Butlers continued to record throughout the 1970s but essentially retired to their ranch, "Crossover Acres", near [[Franklin, Tennessee]], in the early 1980s. They made occasional guest appearances on the Opry until Pearl Butler died at the age of 60 on March 1, 1988.<ref name="LarkinCountry"/> Carl made an unsuccessful attempt at a comeback after her death. He died of a heart attack on September 4, 1992.<ref name="LarkinCountry"/>
+
+==Discography==
+===Albums===
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Album
+! colspan="2"| Chart Positions
+! rowspan="2"| Label
+|-
+! width="50"| <small>[[Top Country Albums|US Country]]</small>
+! width="50"| <small>[[Billboard 200|US]]</small>
+|-
+| 1963
+| ''Don't Let Me Cross Over''
+| 
+| align="center"| 104
+| rowspan="3"| Columbia
+|-
+| 1964
+| ''Loving Arms''
+| align="center"| 10
+| 
+|-
+| 1965
+| ''Old and the New''
+| 
+| 
+|-
+| 1966
+| ''The Great Carl Butler Sings''
+| 
+| 
+| Harmony
+|-
+| 1967
+| ''Avenue of Prayer''
+| 
+| 
+| rowspan="4"| Columbia
+|-
+| 1968
+| ''Our Country World''
+| 
+| 
+|-
+| 1969
+| ''Honky Tonkin'''
+| align="center"| 41
+| 
+|-
+| 1970
+| ''Greatest Hits''
+| 
+| 
+|-
+| 1971
+| ''For the First Time''
+| 
+| 
+| rowspan="2"| Harmony
+|-
+| rowspan="2"| 1972
+| ''Watch and Pray''
+| 
+| 
+|-
+| ''Temptation Keeps Twisting Her Arms''
+| 
+| 
+| Chart
+|-
+| rowspan="2"| 1980
+| ''Country We Love''
+| 
+| 
+| Pedaca
+|-
+| ''Honky Tonkitis''
+| 
+| 
+| CMH
+|}
+
+===Singles===
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="2"| Chart Positions
+! rowspan="2"| Album
+|-
+! width="50"| <small>[[Hot Country Songs|US Country]]</small>
+! width="50"| <small>[[Billboard Hot 100|US]]</small>
+|-
+| 1961
+| "Honky Tonkitis" <small>(Carl Butler)</small>
+| align="center"| 25
+| 
+| rowspan="2"| ''Don't Let Me Cross Over''
+|-
+| 1962
+| "[[Don't Let Me Cross Over]]"
+| align="center"| 1
+| align="center"| 88
+|-
+| 1963
+| "Loving Arms"
+| align="center"| 14
+| 
+| ''Loving Arms''
+|-
+| rowspan="4"| 1964
+| "Too Late to Try Again"
+| align="center"| 9
+| 
+| ''Old and the New''
+|-
+| "My Tears Don't Show"
+| align="center"| 36
+| 
+| rowspan="2"| ''Our Country World''
+|-
+| "I'm Hanging Up the Phone"
+| align="center"| 14
+| 
+|-
+| "Forbidden Street"
+| align="center"| 23
+| 
+| single only
+|-
+| rowspan="4"| 1965
+| "We'd Destroy Each Other"
+| align="center"| 38
+| 
+| ''Old and the New''
+|-
+| "Just Thought I'd Let You Know"
+| align="center"| 22
+| 
+| ''Loving Arms''
+|-
+| "Beers and Tears"
+| 
+| 
+| rowspan="3"| singles only
+|-
+| "Our Ship of Love"
+| align="center"| 42
+| 
+|-
+| rowspan="3"| 1966
+| "Wrong Generation"
+| 
+| 
+|-
+| "Little Pedro"
+| align="center"| 31
+| 
+| ''Our Country World''
+|-
+| "Dreaming of a Little Cabin"
+| 
+| 
+| ''Loving Arms''
+|-
+| 1967
+| "For a Minute There"
+| 
+| 
+| single only
+|-
+| rowspan="2"| 1968
+| "If I'd Only Met You First"
+| 
+| 
+| ''Our Country World''
+|-
+| "Punish Me Tomorrow"<sup>A</sup>
+| align="center"| 28
+| 
+| rowspan="2"| ''Honky Tonkin'''
+|-
+| rowspan="3"| 1969
+| "I Never Got Over You"
+| align="center"| 46
+| 
+|-
+| "We'll Sweep Out the Ashes in the Morning"
+| align="center"| 63
+| 
+| rowspan="4"| singles only
+|-
+| "If Teardrops Were Pennies"
+| 
+| 
+|-
+| rowspan="2"| 1970
+| "Used to Own This Train"
+| 
+| 
+|-
+| "Bottoms Up"
+| 
+| 
+|-
+| 1971
+| "Temptation Keeps Twisting Her Arms"
+| 
+| 
+| rowspan="3"| ''Temptation Keeps Twisting Her Arms''
+|-
+| 1972
+| "She Didn't Come Home"
+| 
+| 
+|-
+| 1973
+| "Heartaches for Lunch"
+| 
+| 
+|-
+| 1980
+| "Motel Song"
+| 
+| 
+| ''Honky Tonkitis''
+|}
+*<sup>A</sup>"Punish Me Tomorrow" peaked at No.&nbsp;25 on the ''[[RPM (magazine)|RPM]]'' Country Tracks chart in Canada.
+
+==References==
+{{Reflist}}
+
+{{Grand Ole Opry members}}
+{{Authority control}}
+
+{{DEFAULTSORT:Butler, Carl and Pearl}}
+[[Category:Country music groups from Tennessee]]
+[[Category:American country music duos]]
+[[Category:Grand Ole Opry members]]
+[[Category:Musical groups established in 1961]]
+[[Category:1961 establishments in Tennessee]]

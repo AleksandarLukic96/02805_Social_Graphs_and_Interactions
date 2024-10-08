@@ -1,0 +1,43 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=April 2014}}
+{{Infobox musical artist
+|name = Roy Heinrich
+|background = solo_singer
+|image = 
+|caption = 
+|birth_name = Elroy Paul Heinrich, Jr.
+|birth_date = {{birth date and age|1953|7|31}}
+|origin =
+|Death =
+|genre = [[Country music]]
+|occupation = Musician, songwriter
+|years_active = 1989–present
+|instrument = Vocals, guitar
+|label =
+|associated_acts = 
+}}
+
+'''Roy Heinrich''', born Elroy Paul Heinrich, Jr., July 31, 1953, is a country music singer and songwriter born in [[Houston, Texas]]. Heinrich began singing Country music in [[Los Angeles]] in 1989. After moving to [[Austin, Texas]] in the fall of 1992, Heinrich has established himself as Roots/Honky Tonk Country Music artist. He has participated in Austin's [[South by Southwest]] music festivals for several years.
+
+==Discography==
+===Albums===
+* [[After All This Time (Country Music)|After All This Time]], 1993 CD
+* [[Listen To Your Heart (Country Music)|Listen To Your Heart]], 1996 CD
+* [[Smokey Night in a Bar]], 1999 CD
+* [[Playin' Favorites (Country Music)|Playin' Favorites]], 2002 CD
+* [[All Night All Day]], 2008 CD
+
+==External links==
+* [http://www.royheinrich.com Roy Heinrich]
+
+{{authority control}}
+
+{{DEFAULTSORT:Heinrich, Roy}}
+[[Category:American country singer-songwriters]]
+[[Category:1953 births]]
+[[Category:Living people]]
+
+
+{{US-country-singer-stub}}
+{{US-songwriter-stub}}

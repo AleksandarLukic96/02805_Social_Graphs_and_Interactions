@@ -1,0 +1,127 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=July 2020}}
+{{Infobox musical artist
+|name = Tamara Walker
+|image = 
+|background = solo_singer
+| birth_date                = {{birth date and age|mf=yes|1966|5|1}}
+| birth_place              = [[Maryland]], United States
+|instrument = Vocals
+|genre =  [[country music|Country]], pop
+|occupation = Singer-songwriter
+|years_active = 1999–2012
+|label =  [[Curb Records]]
+|website = 
+}}
+
+'''Tamara Walker''' (born May 1, 1966) is an American singer-songwriter and a former beauty pageant titleholder. Walker began her career as [[Miss Maryland]] where she placed in the Top 10 at the Miss America pageant.
+
+In 2000 she signed with [[Curb Records]].<ref name="tw">{{cite web|url=http://new.music.yahoo.com/tamara-walker/biography/|title=Tamara Walker Biography|work=Yahoo! Music|archive-url=https://web.archive.org/web/20120614091205/http://music.yahoo.com/tamara-walker/biography/|archive-date=June 14, 2012}}</ref> She also signed a publishing deal with Sony Tree. Initially, Walker recorded [[country music]], but the label decided to release her to the Pop AC market . Subsequently, her first single went to country radio but the country album went unreleased.<ref name="tw" /> Then, in 2001, Curb Records released her debut album, ''Angel Eyes'', and she charted three singles on the ''Billboard'' [[Hot Adult Contemporary Tracks]] chart.<ref name="tw" /> The title track of her debut album was the theme song to the 2001 [[Jennifer Lopez]] film, ''[[Angel Eyes (film)|Angel Eyes]]''. After leaving music behind, she shifted her career to real estate, working as a [[Douglas Elliman]] agent as of late 2018.
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:10em;"| Title
+! style="width:20em;"| Album details
+|-
+! scope="row"| ''Angel Eyes''
+| 
+* Release date: September 17, 2002
+* Label: [[Curb Records]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:12em;"| Single
+! colspan="3"| Peak chart positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<br/><ref>{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc.|year=2008|isbn=978-0-89820-177-2}}</ref>
+! width="45"| [[Hot Country Songs|US Country Sales]]<br><ref>{{cite magazine|url=https://books.google.com/books?id=GCkEAAAAMBAJ|title=Top Country Singles Sales - September 22, 2001|magazine=[[Billboard (magazine)|Billboard]]|accessdate=May 24, 2014|date=September 2, 2001}}</ref>
+! width="45"| [[Hot Adult Contemporary Tracks|US AC]]<br/><ref>{{cite book|last=Whitburn|first=Joel|title=Top Adult Songs 1961–2006|publisher=Record Research, Inc.|year=2007|isbn= 978-0-89820-169-7}}</ref>
+|-
+| 1999
+! scope="row"| "Giants"
+| —
+| —
+| —
+| rowspan="2" {{n/a}}
+|-
+| rowspan="2"| 2000
+! scope="row"| "Askin' Too Much"
+| 65
+| —
+| —
+|-
+! scope="row"| "Didn't We Love"
+| 69
+| —
+| —
+| align="left"| ''[[Coyote Ugly (film)#Coyote Ugly soundtrack|Coyote Ugly]]'' <small>(soundtrack)</small>
+|-
+| 2001
+! scope="row"| "Didn't We Love" <small>(remix)</small>
+| —
+| 10
+| 21
+| align="left" rowspan="3"| ''Angel Eyes''
+|-
+| rowspan="2"| 2002
+! scope="row"| "Angel Eyes"
+| —
+| —
+| 24
+|-
+! scope="row"| "If Only"
+| —
+| —
+| 23
+|-
+| colspan="6" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;"| Video
+! Director
+|-
+| rowspan="2"| 2000
+! scope="row"| "Askin' Too Much"
+| rowspan="2"| [[Trey Fanjoy]]<ref>{{cite web|title=Home Site of Trey Fanjoy – Video Director|url=http://treyfanjoy.com/main/credits.html|accessdate=November 18, 2011|archiveurl=https://web.archive.org/web/20100612164124/http://treyfanjoy.com/main/credits.html|archivedate=June 12, 2010}}</ref>
+|-
+! scope="row"| "Didn't We Love"
+|-
+| 2002
+! scope="row"| "Angel Eyes"
+|
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Walker, Tamara}}
+[[Category:1964 births]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Living people]]
+[[Category:Singer-songwriters from Maryland]]
+[[Category:21st-century American businesspeople]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:21st-century American women singers]]
+[[Category:Country musicians from Maryland]]
+[[Category:American real estate brokers]]
+[[Category:Businesspeople from Maryland]]
+[[Category:21st-century American businesswomen]]
+
+
+{{US-country-singer-stub}}

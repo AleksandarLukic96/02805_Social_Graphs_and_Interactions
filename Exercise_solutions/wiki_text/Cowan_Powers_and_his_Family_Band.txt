@@ -1,0 +1,84 @@
+{{Short description|American string band}}
+{{Infobox musical artist
+| name            = Fiddlin' Powers and Family
+| image           =
+| image_size      =
+| landscape       = <!-- yes, if wide image, otherwise leave blank -->
+| alt             =
+| caption         =
+| alias           =
+| origin          = [[Scott County, Virginia]], [[United States|U.S.]]
+| genre           = [[String band]], [[old-time music]]
+| years_active    = 1920s, 1970s
+| label           = [[Victor Talking Machine Company]]<br />[[Edison Records]]<br />[[Okeh Records]]
+| associated_acts =
+| website         = <!-- {{URL|example.com}} -->
+| current_members =
+| past_members    = James Cowan Powers (fiddle)<ref name=victor>[http://victor.library.ucsb.edu/index.php/talent/detail/48733/Powers_James_Cowan_instrumentalist_violin Catalog of Victor Records]</ref><br />Matilda Lambert (banjo)<br />Charles Powers (banjo)<br />Orpha Powers (mandolin)<br />Carrie Powers (guitar)<br />Ada Powers (ukulele)
+}}
+
+'''Fiddlin' Powers and Family''' was a Virginia [[string band]] from the 1920s, considered pioneers in early [[country music]].<ref name=hist>[http://www.rootsweb.ancestry.com/~vaschs2/cowan_powers.htm Scott County Historical Society, Scott County, Virginia, Scrapbook Memories,Mildred McConnell's Scrapbook Articles]</ref><ref name=book>
+{{cite book |editor1-last= Byworth|editor1-first= Tony |date=2006 |title= The Definitive Illustrated Encyclopedia of Country Music|location=London |publisher= Flame Tree Publishing |page=22 |isbn=978-1-84451-406-9}}</ref> They were the first family string band to make a commercial record (1924).<ref name=book/> The band consisted of Cowan Powers and his children, Charles, Orpha, Carrie and Ada.<ref name=hist/> Cowan also played with his wife, Matilda, until her death in 1916.<ref name=hist/>
+
+==A career==
+
+===Recording===
+Record companies of the time were trying to get "[[Old-time music|old time]]" or "hill country" music to sell, and tried using professional musicians such as [[Vernon Dalhart]] to imitate the sound.<ref name=field>{{Cite web |url=http://www.encyclopediaofappalachia.com/entry.php?rec=81 |title=Field recording the Appalachians |access-date=2012-09-10 |archive-url=https://web.archive.org/web/20121212032527/http://encyclopediaofappalachia.com/entry.php?rec=81 |archive-date=2012-12-12 |url-status=dead }}</ref> When it became clear the customers wanted the "real thing" the companies sought musicians to travel from the south to the recording studios in New York and Chicago.<ref name=field/>
+
+The Powers family, who were based in [[Scott County, Virginia|Scott County]], [[Southwest Virginia]], made records with [[Victor Talking Machine Company]], [[Edison Records]] and [[Okeh Records]].<ref name=hist/> They recorded at least 26 songs, of which 15 were issued.<ref name=list>[http://www.1001tunes.com/fiddlers/fiddlinpowers.html Fiddlin' Powers and Family]</ref> Their recording of ''[[Old Joe Clark]]'' in 1924 was the third best selling album for that year.<ref name=selling>{{Cite web |url=http://archive.mandolinsessions.com/feb07/Anthony.html |title=''Building a Traditional Tune Repertoire'' by Wendy Anthony |access-date=2012-09-10 |archive-url=https://web.archive.org/web/20160303174840/http://archive.mandolinsessions.com/feb07/Anthony.html |archive-date=2016-03-03 |url-status=dead }}</ref>
+
+===Live performances===
+They performed live in "the Carolinas, Virginia, West Virginia, Kentucky, and perhaps a dozen other states".<ref name=hist/> They played dances.<ref name=hist/> At the time of the [[Bristol Sessions]] they were performing live over the radio, WOPI in Bristol, Virginia, and were among the first country acts to do so.<ref name=hist/>
+
+===The band resurrected===
+The daughters restarted the band in the 1970s, with Orpha's husband Eugene D. Ireson.<ref name=hist/>
+
+==Recording history==
+
+===Victor 1924===
+The Powers family did a trial recording with Victor Recordings in New York City, August 8, 1924, recording ''Way Down to Georgia''.<ref name=victor2>[https://books.google.com/books?id=rViWZg5k-IgC&dq=cowan+powers+family%2C++edison&pg=PA703 Country Music Records : A Discography, 1921-1942: A Discography, 1921-1942 By Tony Russell, Bob Pinson pages 703-704]</ref>
+
+They started recording records for Victor, doing six records 10 days later on August 18. Of those recordings, three records were issued, ''The Little Old Log Cabin in the Lane'', ''Old Joe Clark'', and ''Sour Wood Mountains''.<ref name=victor/>
+
+They continued recording the next day,  August 19. They recorded eleven songs of which five were issued, ''Patty on the Turnpike'', ''Callahan's Reel'', ''Sugar in the Gourd'', ''Cripple Creek'', and ''Ida Red''.<ref name=victor/>
+
+===Edison 1925===
+The family recorded with Edison in 1925, October 2, 3, 6 and 7 in New York City.<ref name=victor/> Seven of the nine that they recorded were issued, ''Old Joe Clark'', ''Sour Wood Mountains'', ''Ida Red'', ''Cripple Creek'', ''Cluck Old Hen'', ''Rocky Road to Dinah's House'', and ''Sugar in the Gourd''.<ref name=victor/>
+
+Charlie Powers, Cowan's son, also recorded a song on his own with Edison, ''Wild and Reckless Hobo''.<ref name=victor/>
+
+===Okeh 1927===
+
+The last recording session was for Okeh records in Winston–Salem, North Carolina, September 28, 1927.<ref name=victor/> Within three years the band would be no more, as the girls married and began families.<ref name=hist/> They recorded six songs, of which four were issued, ''Did You Ever See the Devil, Uncle Joe?'', ''Old Molly Hair'', ''Old Virginia Reel — Part 1'', and ''Old Virginia Reel — Part 2''.<ref name=victor/>
+
+==Ukulele in old-time music==
+There has been some speculation as to the origin of the [[ukulele]] in old time music.<ref name=Herald>[http://www.lilrev.com/article/lilrev.com-oldtime.herald.pdf ''Just a Few Penny Dreadfuls, Ukulele and Old–Time Country Music'', by Rev and Deb Porter, article in ''The Old Time Herald'', Volume 9, Number Five, Fall 2004, Pages 19-22.]{{Dead link|date=July 2019 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> Those who are fans have pointed out stars who used the instrument, including Fiddlin' Powers and Family, Da Costa Woltz's Southern Broadcasters, Ernest V. Stoneman, Walter Smith and Friends, The Blankenship Family, The Hillbillies, The Hilltop Singers, and [[Jimmie Rodgers (country singer)|Jimmie Rodgers]].<ref name=Herald/>
+
+When Ada Powers took up the ukulele in the 20s, there was a craze for [[Music of Hawaii|Hawaiian music]] on the national scene, which had young people taking up the instrument.<ref name=Herald/> Also there was sheet music being produced for the ukulele, which has been speculatively called a reason that many rural people took up the instrument.<ref name=Herald/>
+
+Ada Powers was the Ukulele player in ''Fiddlin' Powers and Family''.<ref name=Herald/>  Her playing can be heard on their music, especially ''The Virginia Reel, part 1'' in which all the family members had solos.<ref name=Reel>{{Cite web |url=http://www.oldtimeherald.org/archive/back_issues/volume-9/9-5/uke.html |title=The Old-Time Herald Volume 9, Number 5 online. |access-date=2012-09-12 |archive-date=2012-06-15 |archive-url=https://web.archive.org/web/20120615233057/http://www.oldtimeherald.org/archive/back_issues/volume-9/9-5/uke.html |url-status=dead }}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+
+===Recordings===
+*[http://honkingduck.com/mc/content/old-virginia-reel-part-1 Online recording, ''The Virginia Reel, Part 1'', where each member of the family can be heard playing individually] {{Webarchive|url=https://web.archive.org/web/20160305150503/http://www.honkingduck.com/mc/content/old-virginia-reel-part-1 |date=2016-03-05 }}
+*[http://honkingduck.com/mc/content/old-virginia-reel-part-2 Online recording, the family playing together, ''The Virginia Reel, Part II'']{{Dead link|date=July 2022 |bot=InternetArchiveBot |fix-attempted=yes }}
+
+===Other links===
+*[https://www.facebook.com/FiddlinCowanPowers/timeline Relatives of Cowan Powers made a Facebook page with quality photographs of the family band.]
+*[http://www.lib.unc.edu/mss/sfc1/hillbilly/HTML/Exhibit/exhibit22b_enlarge.htm 1924 Victor Records Catalog, the page for the Cowan Family Band]
+*[http://victor.library.ucsb.edu/index.php/talent/detail/48733/Powers_James_Cowan_instrumentalist_violin Encyclopedic Discography of Victor Recordings]
+*[http://steveandfriends.wordpress.com/2008/01/29/cluck-old-henfiddlin-powers-and-family-or-for-those-about-to-rock-we-salute-you/ Page with photo of band and a sample of their music.]
+*[http://www.two-rivers.com/brmc/fries/Historic/pages/PO-75%20Powers%20Family,%20Fiddlin%27%20John%20Carson,%20members%20of%20the%20Hill-Billies,%20and%20others%20II--Courtesy%20Joe%20Wilson.htm Photo of the band] with [[Fiddlin' John Carson]] and others
+*[http://www.1001tunes.com/fiddlers/fiddlinpowers.html List of the music they recorded]
+*[http://www.rootsweb.ancestry.com/~vaschs2/cowan_powers.htm Online biography, Virginia Historical Society]
+
+[[Category:Country music groups from Virginia]]
+[[Category:American folk musical groups]]
+[[Category:Musicians from Appalachia]]
+[[Category:Old-time bands]]
+[[Category:Old-time musicians]]
+[[Category:Family musical groups]]

@@ -1,0 +1,479 @@
+{{short description|American country singer-songwriter (born 1966)}}
+{{Use American English|date=June 2024}}
+{{Use mdy dates|date=June 2024}}
+{{Infobox musical artist
+|name            = Lee Ann Womack
+|image           = Lee Ann Womack 2003.jpg
+|caption         = Womack in 2003
+| alt = A bust shot of singer Lee Ann Womack.
+|background      = solo_singer
+|birth_date      = {{Birth date and age|1966|8|19|mf=y}}
+|birth_place     = [[Jacksonville, Texas]], U.S.
+|instrument      = {{Flatlist|
+* Vocals
+* guitar
+}}<!--- If you think an instrument should be listed, a discussion to reach consensus is needed first per: https://en.wikipedia.org/wiki/Template:Infobox_musical_artist#instrument--->
+|genre           = {{Flatlist|
+* [[Neotraditionalist country]]<ref name="allmusic"/>
+* [[country pop]]<ref name="allmusic"/>
+* [[Americana (music)|Americana]]<ref>{{cite web|url=https://noisey.vice.com/en_uk/article/9k39za/lee-ann-womack-feels-a-lot-better-now-than-she-used-to|title=Lee Ann Womack Feels a Lot Better Now Than She Used To|date=September 14, 2017|website=vice.com|access-date=March 19, 2018|archive-date=June 21, 2018|archive-url=https://web.archive.org/web/20180621170813/https://noisey.vice.com/en_uk/article/9k39za/lee-ann-womack-feels-a-lot-better-now-than-she-used-to|url-status=live}}</ref>}}
+|occupation      = {{Flatlist|
+* Musician
+* singer
+* songwriter
+}}
+|years_active    = 1996–present
+|label           = {{hlist|[[Decca Nashville]]|[[MCA Nashville]]|[[Mercury Nashville]]|[[Sugar Hill Records (bluegrass label)|Sugar Hill]]|[[ATO Records|ATO]]}}
+|website         = {{URL|www.leeannwomack.com/}}
+|spouse = {{plainlist|
+* {{marriage|[[Jason Sellers]]|1991|1996|end=div}}
+* {{marriage|[[Frank Liddell]]|November 6, 1999}}
+}}
+}}
+'''Lee Ann Womack''' ({{IPAc-en|'|w|oʊ|m|æ|k}}; born August 19, 1966) is an American [[country music]] singer and songwriter. She has charted 23 times on the American ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] charts; her highest peaking single there is her [[crossover (music)|crossover]] signature song, "[[I Hope You Dance]]". Five of her singles made top 10 on the country music charts of the defunct ''[[RPM (magazine)|RPM]]'' magazine in Canada.
+
+Born in [[Jacksonville, Texas]], Womack was signed by [[Decca Records]] Nashville in 1996. When she emerged as a contemporary country artist in 1997, her material drew critical comparisons to [[Dolly Parton]] and [[Tammy Wynette]], except for the way Womack's music mixed an old-fashioned style with contemporary elements. That year, she had her first top 10 hits with "[[The Fool (Lee Ann Womack song)|The Fool]]" and "[[You've Got to Talk to Me]]". After two albums with Decca, she released her first [[MCA Nashville]] album, 2000's ''[[I Hope You Dance (album)|I Hope You Dance]]''; it had an entirely different sound, using pop music elements instead of traditional country. It was not until the release of ''[[There's More Where That Came From]]'' in 2005 that Womack returned to recording traditional country music. She recorded a total of five albums with MCA before releasing a series of independent albums, first on [[Sugar Hill Records (bluegrass label)|Sugar Hill Records]] and then on [[ATO Records]]; these albums include a new sound which blended country and [[Americana (music)|Americana]].
+
+Four of Womack's studio albums have received a Gold certification or higher by the [[Recording Industry Association of America]], with her most commercially successful album ''I Hope You Dance'' being certified triple-platinum in the United States and platinum in Canada. In addition, she has received five [[Academy of Country Music Awards]], six [[Country Music Association Awards]], and one [[Grammy Award]]. Womack is married to record producer [[Frank Liddell]], and was previously married to songwriter and musician [[Jason Sellers]]; her daughter with the latter, [[Aubrie Sellers]], is also a country music artist.
+
+==Early life==
+Lee Ann Womack was born on August 19, 1966, in [[Jacksonville, Texas]]<ref>{{cite web|url=https://www.cmt.com/news/uucmjd/lee-ann-womack-never-settles-for-the-path-of-least-resistance|title=Lee Ann Womack Never Settles for the Path of Least Resistance|last=Morris|first=Edward|date=August 19, 2019|publisher=CMT|access-date=June 4, 2024|archive-date=June 4, 2024|archive-url=https://web.archive.org/web/20240604113341/https://www.cmt.com/news/uucmjd/lee-ann-womack-never-settles-for-the-path-of-least-resistance|url-status=dead}}</ref><ref>{{cite web|url=https://www.cmt.com/news/atpebh/20-questions-with-lee-ann-womack|title=20 Questions with Lee Ann Womack|publisher=CMT|date=June 16, 2004|access-date=June 4, 2024|archive-date=June 4, 2024|archive-url=https://web.archive.org/web/20240604115633/https://www.cmt.com/news/atpebh/20-questions-with-lee-ann-womack|url-status=dead}}</ref><ref name="cmt"/> to Ann ([[née]] Gothard) and Aubrey Womack. Aubrey worked as a high school [[principal (school)|principal]] and disc jockey for [[KEBE]] and [[KOOI]],<ref>{{cite web|url=https://www.nucountry.com.au/articles/diary/march2005/280305_leeannwomack.htm|last=Dawson|first=Dave|title=Dave's Diary - 28/3/05 - Lee Ann Womack Review|website=Nu Country|date=March 28, 2005|access-date=June 4, 2024|archive-date=March 2, 2024|archive-url=https://web.archive.org/web/20240302033351/http://nucountry.com.au/articles/diary/march2005/280305_leeannwomack.htm|url-status=live}}</ref> while Ann worked as a [[schoolteacher]].<ref name="Encyclopedia">{{cite web|title=Lee Ann Womack|url=https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/lee-ann-womack|last=Cooksey|first=Gloria|website=Encyclopedia.com|accessdate=June 15, 2024|archive-date=January 27, 2024|archive-url=https://web.archive.org/web/20240127114557/https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/lee-ann-womack|url-status=live}}</ref><ref name="Houston Press">{{cite web|url=https://www.houstonpress.com/music/lee-ann-womack-makes-her-return-to-houston-10388619|title=Lee Ann Womack Returns Full Circle to Houston|last=Garrick|first=David|newspaper=Houston Press|date=April 16, 2018|accessdate=June 9, 2024|archive-date=June 10, 2024|archive-url=https://web.archive.org/web/20240610030639/https://www.houstonpress.com/music/lee-ann-womack-makes-her-return-to-houston-10388619|url-status=live}}</ref> Womack's older sister, Judy, eventually became an attorney in Houston.<ref name="Texas Monthly">{{cite web|url=https://www.texasmonthly.com/articles/lee-ann-climbs/|title=Lee Ann Climbs|work=Texas Monthly|date=October 1998|last=Fields|first=Jamie|access-date=June 4, 2024|archive-date=June 4, 2024|archive-url=https://web.archive.org/web/20240604170612/https://www.texasmonthly.com/articles/lee-ann-climbs/|url-status=live}}</ref>
+
+At an early age she was interested in country music; Aubrey often took his daughter to KEBE with him to help choose records to play on the air.<ref name="allmusic">{{cite web|url=http://www.allmusic.com/artist/lee-ann-womack-mn0000194063/biography|title=Lee Ann Womack biography|last=Erlewine|first=Stephen Thomas|work=[[Allmusic]]|access-date=May 28, 2017|archive-date=November 7, 2017|archive-url=https://web.archive.org/web/20171107120407/https://www.allmusic.com/artist/lee-ann-womack-mn0000194063/biography|url-status=live}}</ref> As a child, Womack studied the piano and later graduated from [[Jacksonville High School (Jacksonville, Texas)|Jacksonville High School]] in 1984. After graduating, Womack attended [[South Plains College|South Plains Junior College]] in [[Levelland, Texas]]. The college was one of the first in the United States to offer country music degrees, and soon she began touring as a member of the college band, Country Caravan.<ref name="allmusic"/> A year later, Womack left the college and after an agreement with her parents, she enrolled at [[Belmont College]] (now Belmont University) in [[Nashville, Tennessee]], where she studied the commercial aspect of the music business and interned at the [[artists and repertoire]] (A&R) department of the [[MCA Nashville]] label.<ref name="Houston Press"/> At the 1988 [[Miss Tennessee]] pageant in [[Jackson, Tennessee]], Womack won the non-finalist talent award as Miss Nashville;<ref name="missnashville1988">{{cite news | url=https://www.newspapers.com/image/1037166923/ | title=Miss Nashville | work=The Leesville Daily Leader | date=May 13, 1988 | accessdate=June 5, 2024 | pages=5 | archive-date=June 26, 2024 | archive-url=https://web.archive.org/web/20240626224900/https://www.newspapers.com/image/1037166923/ | url-status=live }}</ref><ref name="misstennessee1988">{{cite news | url=https://www.newspapers.com/image/112467136/ | title=Congratulations! We are so proud. | work=The Tennessean | date=June 25, 1988 | accessdate=June 5, 2024 | pages=5–D | archive-date=June 26, 2024 | archive-url=https://web.archive.org/web/20240626224900/https://www.newspapers.com/image/112467136/ | url-status=live }}</ref> one year later, she was the third runner-up at the Miss Texas State Railroad pageant in [[Tyler, Texas]].<ref name="misstsr1989">{{cite news | url=https://texashistory.unt.edu/ark:/67531/metapth151896/m1/4/ | title=New Miss TSR to compete in '89 Miss Texas Pageant | work=The Cherokeean | date=March 23, 1989 | accessdate=July 18, 2024 | pages=4 | archive-date=July 27, 2024 | archive-url=https://web.archive.org/web/20240727095724/https://texashistory.unt.edu/ark:/67531/metapth151896/m1/4/ | url-status=live }}</ref> In July 1990, she participated in the [[Miss Texas]] pageant in Fort Worth, Texas, as Miss Northeast Texas.<ref name="missnetx1990">{{cite news | url=https://www.newspapers.com/image/587833669/ | title=Miss Northeast Texas | work=Tyler Morning Telegraphy | pages=6 | date=February 16, 1990 | access-date = August 9, 2024}}</ref> It was also at this point that Womack dropped out of Belmont and married [[Jason Sellers]].
+
+Womack spent a few years raising her daughter [[Aubrie Sellers|Aubrie]] before she reentered the music business in the mid-1990s. In 1995 she began performing her music in songwriting demos and at showcase concerts where talent scouts for major country music labels and publishers were present. One of these scouts, Pat McMakin, signed her to [[Sony/ATV Music Publishing]]'s [[Tree International Publishing]] imprint after listening to "Am I the Only Thing That You've Done Wrong", a song which Womack and Sellers co-wrote; it would later be included in her debut album.<ref name="allmusic"/><ref name="nash cm 2002">{{cite magazine|title=Playing With Fire|magazine=Country Music|issue=217|date=February 2002|last=Nash|first=Alanna|pages=26–31}}</ref><ref name="cst dance 2">{{Cite web|url=https://www.countrystandardtime.com/d/article.asp?xid=883&p=2|title=Lee Ann Womack hopes to join the big (country) dance|page=2|last=Remz|first=Jeffrey|date=May 2000|work=Country Standard Time|accessdate=July 17, 2024|archive-date=July 18, 2024|archive-url=https://web.archive.org/web/20240718054647/https://www.countrystandardtime.com/d/article.asp?xid=883&p=2|url-status=live}}</ref><ref>{{cite news|url=https://www.mccookgazette.com/story/1043375.html|title=Ginger ten Bensel slated for inaugural performance|date=January 6, 2003|newspaper=McCook Gazzette|accessdate=July 4, 2024|archive-date=July 6, 2022|archive-url=https://web.archive.org/web/20220706124051/http://www.mccookgazette.com/story/1043375.html|url-status=live}}</ref> Womack wrote songs with some popular Nashville songwriters, including country singers [[Bill Anderson (singer)|Bill Anderson]] and [[Ricky Skaggs]], who would later record her composition, "I Don't Remember Forgetting" for his 1997 album ''Life is a Journey''.<ref name="Texas Monthly"/> After divorcing Sellers around that time, Womack decided to pursue a career as a country music artist. She auditioned for MCA chairman, Bruce Hinton, who praised her talents. Shortly afterward, she accepted a contract from MCA's sister label [[Decca Nashville]] in 1996.<ref name="allmusic"/>
+
+==Music career==
+===Early years: 1997–1999===
+Womack released her [[Lee Ann Womack (album)|self-titled debut album]] on Decca in May 1997. This was also her first to be produced by the label's then-senior vice president and frequent songwriting collaborator [[Mark Wright (record producer)|Mark Wright]], best known for his work with [[Gary Allan]] and [[Mark Chesnutt]].<ref name="allmusic"/> Of the album's 11 songs, Ricky Skaggs and his wife [[Sharon White (singer)|Sharon White]] sang backing vocals on its lead single "[[Never Again, Again]]",<ref>{{cite web|url=https://thebluegrasssituation.com/read/hangin-sangin-lee-ann-womack/|title=Hangin' & Sangin': Lee Ann Womack|last=McCarney|first=Kelly|website=The Bluegrass Situation|date=October 31, 2017|accessdate=July 4, 2024|archive-date=February 29, 2024|archive-url=https://web.archive.org/web/20240229155302/https://thebluegrasssituation.com/read/hangin-sangin-lee-ann-womack/|url-status=live}}</ref><ref name="cst dance 3">{{Cite web|url=https://www.countrystandardtime.com/d/article.asp?xid=883&p=3|title=Lee Ann Womack hopes to join the big (country) dance|page=3|last=Remz|first=Jeffrey|date=May 2000|work=Country Standard Time|accessdate=July 17, 2024|archive-date=July 18, 2024|archive-url=https://web.archive.org/web/20240718054648/https://www.countrystandardtime.com/d/article.asp?xid=883&p=3|url-status=live}}</ref> while Chesnutt collaborated with Womack on the track "Make Memories with Me".<ref name="allmusic"/> "Never Again, Again" peaked at number 23 on ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] that month.<ref  name="billboardlonely">{{cite magazine|url=https://www.billboard.com/music/country/lee-ann-womack-interview-the-lonely-the-lonesome-the-gone-8014052/|title=Lee Ann Womack Talks Singing for 'The Lonely, the Lonesome & the Gone' on New Album|last=Dauphin|first=Chuck|magazine=Billboard|date=October 25, 2017|accessdate=July 28, 2024}}</ref> It led to the release of the album's second single, "[[The Fool (Lee Ann Womack song)|The Fool]]" shortly afterward. More successful than her first single, "The Fool" peaked at number two on the country charts.<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2017|publisher=Record Research, Inc|year=2017|pages=404–405|isbn=978-0-89820-229-8}}</ref> It was later followed by "[[You've Got to Talk to Me]]" and "[[Buckaroo (song)|Buckaroo]]", respectively charting at number 2 and number 34.<ref name="whitburn"/> "The Fool" and "You've Got to Talk to Me" both made top 10 on ''[[RPM (magazine)|RPM]]'' Country Tracks, then the main country music chart published in Canada.<ref>{{cite web | url=https://www.bac-lac.gc.ca/eng/discover/films-videos-sound-recordings/rpm/Pages/image.aspx?Image=nlc008388.3359&URLjpg=http%3a%2f%2fwww.collectionscanada.gc.ca%2fobj%2f028020%2ff4%2fnlc008388.3359.gif&Ecopy=nlc008388.3359 | title=RPM Country Tracks | website=[[Library and Archives Canada]] | date=October 20, 1997 | accessdate=July 17, 2024 | archive-date=October 19, 2020 | archive-url=https://web.archive.org/web/20201019223218/https://www.bac-lac.gc.ca/eng/discover/films-videos-sound-recordings/rpm/Pages/image.aspx?Image=nlc008388.3359&URLjpg=http://www.collectionscanada.gc.ca/obj/028020/f4/nlc008388.3359.gif&Ecopy=nlc008388.3359 | url-status=live }}</ref><ref>{{cite web | url=https://www.bac-lac.gc.ca/eng/discover/films-videos-sound-recordings/rpm/Pages/image.aspx?Image=nlc008388.3467&URLjpg=http%3a%2f%2fwww.collectionscanada.gc.ca%2fobj%2f028020%2ff4%2fnlc008388.3467.gif&Ecopy=nlc008388.3467 | title=RPM Country Tracks | website=[[Library and Archives Canada]] | date=March 2, 1998 | accessdate=July 17, 2024 | archive-date=October 28, 2022 | archive-url=https://web.archive.org/web/20221028041519/https://www.bac-lac.gc.ca/eng/discover/films-videos-sound-recordings/rpm/Pages/image.aspx?Image=nlc008388.3467&URLjpg=http://www.collectionscanada.gc.ca/obj/028020/f4/nlc008388.3467.gif&Ecopy=nlc008388.3467 | url-status=live }}</ref>{{efn|''RPM'' ceased publication in November 2000.}} Rating the album "A", [[Alanna Nash]] of ''[[Entertainment Weekly]]'' wrote that "This native of Jacksonville, Tex., has more heart than any other new female country singer, and a passel of traditional-sounding songs that may just be good enough to turn Nashville's commercial tide."<ref name="nash law">{{cite web|last=Nash|first=Alanna|url=https://ew.com/article/1997/05/16/lee-ann-womack/|title=''Lee Ann Womack''|publisher=Entertainment Weekly|date=May 16, 1997|accessdate=July 7, 2024|archive-date=July 8, 2024|archive-url=https://web.archive.org/web/20240708150219/https://ew.com/article/1997/05/16/lee-ann-womack/|url-status=live}}</ref> Thom Owens of [[AllMusic]] thought Wright's production was "slick [and] professional" and noted that Womack "certainly has a voice that can make the mediocre sound appealing, which results in a winning debut."<ref name="owens law">{{cite web|title=''Lee Ann Womack'' review|last=Owens|first=Thom|url=https://www.allmusic.com/album/lee-ann-womack-mw0000019507|work=AllMusic|publisher=All Media Network|access-date=July 7, 2024|archive-date=October 11, 2023|archive-url=https://web.archive.org/web/20231011212944/https://www.allmusic.com/album/lee-ann-womack-mw0000019507|url-status=live}}</ref> The album's commercial success also led to the first of several industry award nominations for Womack. The [[Academy of Country Music]] awarded her as Top New Female Vocalist.<ref name="ACM">{{cite web|url=https://www.acmcountry.com/winners?awardTitle=Lee+Ann+Womack&awardCategory=&awardYear=&actionButton=Submit|title=Search results for Lee Ann Womack|publisher=Academy of Country Music|accessdate=June 17, 2024}}</ref> The [[Country Music Association]] nominated her for the Horizon Award between 1997 and 1998.<ref name="CMA">{{cite web|url=https://cmaawards.com/past-winners-and-nominees/?appSession=328JN186W75JW8II074I5SRGF8AL19GJ9KM3AY34IBE1O42UPH876OV815J7PY6QALKJ729ZAQ834GNMV19A162H558076BYU1Q2GU425V6MY83Q6D4OC60JY8D2U22K|title=Search results for Lee Ann Womack|publisher=Country Music Association|access-date=July 10, 2024|archive-date=September 3, 2023|archive-url=https://web.archive.org/web/20230903105900/https://cmaawards.com/past-winners-and-nominees/?appSession=328JN186W75JW8II074I5SRGF8AL19GJ9KM3AY34IBE1O42UPH876OV815J7PY6QALKJ729ZAQ834GNMV19A162H558076BYU1Q2GU425V6MY83Q6D4OC60JY8D2U22K|url-status=live}}</ref>
+
+Womack's second and final Decca release was 1998's ''[[Some Things I Know]]'', which was also produced by Wright.<ref name="oldies">{{cite web|url=http://www.oldies.com/artist-biography/Lee-Ann-Womack.html|title=''Lee Ann Womack Biography''|last=Larkin|first=Collin|website=oldies.com|access-date=November 29, 2008}}</ref><ref name="allmusic"/>  Womack co-wrote two of the album's 11 tracks. The album produced a total of four singles, three of which made the Top 40 on the ''Billboard'' country singles charts. First was "[[A Little Past Little Rock]]", one of the songs which Sellers sang backing vocals on, and then "[[I'll Think of a Reason Later]]". Both singles became the most successful singles on the album with a number two peak on the country charts.<ref name="whitburn"/><ref name="cmt">{{cite web|url=http://www.cmt.com/artists/az/womack_lee_ann/bio.jhtml|title=Lee Ann Womack: Biography|publisher=[[Country Music Television]]|access-date=November 29, 2008|archive-date=September 14, 2008|archive-url=https://web.archive.org/web/20080914111511/http://www.cmt.com/artists/az/womack_lee_ann/bio.jhtml|url-status=dead}}</ref> They were followed by "[[(Now You See Me) Now You Don't]]" and a cover of [[Buddy Miller]]'s "[[Don't Tell Me (Lee Ann Womack song)|Don't Tell Me]]".<ref name="whitburn"/> Also included on this album were collaborations with [[Vince Gill]] and [[Joe Diffie]] on "I Keep Forgetting" and a cover of [[George Jones]]' "I'd Rather Have What We Had", respectively. ''Some Things I Know'' was promoted through shows through October to November before Womack's second daughter Anna Lise Liddell was born in January 1999.<ref name="oldies"/> That month, Womack won Favorite Country New Artist from the [[American Music Awards]] and moved to [[MCA Nashville Records]] after Decca Nashville closed its doors. Eight months later, ''Lee Ann Womack'' was certified platinum by the [[Recording Industry Association of America]] (RIAA) for shipments of one million copies; ''Some Things I Know'' was also certified gold for shipments of 500,000 copies.<ref name="riaa">{{cite web|url=https://www.riaa.com/gold-platinum/?tab_active=default-award&se=lee+ann+womack#search_section|title=Search results for Lee Ann Womack|publisher=Recording Industry Association of America|accessdate=July 4, 2024|archive-date=September 28, 2020|archive-url=https://web.archive.org/web/20200928050942/https://www.riaa.com/gold-platinum/?tab_active=default-award&se=Lee%20Ann%20Womack#search_section|url-status=live}}</ref>
+
+===Pop crossover success: 2000–2004===
+Womack's first MCA studio album and third overall was 2000's ''[[I Hope You Dance]]'' which met with major success. Contributing songwriters to ''I Hope You Dance'' once again included Womack, Sellers, and Miller; another contributing writer was [[Lonesome River Band]] member [[Ronnie Bowman]]. The album produced a total of four singles, which made the Top 40 on the ''Billboard'' country singles charts. The album was led off by the single "[[I Hope You Dance (song)|I Hope You Dance]]", a collaboration with the country music band [[Sons of the Desert (band)|Sons of the Desert]]. It became the most successful single off the album with a number 1 peak on the ''Billboard'' country singles chart and a number 14 peak on the [[Billboard Hot 100|Hot 100]] charts, representing Womack's and Sons of the Desert's highest peaks on those charts.<ref name="whitburn"/> It was followed by a cover of [[Rodney Crowell]]'s "Ashes by Now", "Why They Call it Falling", and a cover of Miller's "[[Does My Ring Burn Your Finger]]".<ref name="whitburn"/> Also included on this album was a cover of [[Don Williams]]' "[[Lord, I Hope This Day Is Good]]". "I Hope You Dance" won the Country Music Association's "Song of the Year" and "Single of the Year" awards.<ref name="CMA"/> ''I Hope You Dance'' also earned Womack's first [[Grammy Award]] nomination at the [[43rd Annual Grammy Awards]] in February 2001, in the categories of Best Country Album and Best Female Country Vocal Performance.<ref name="grammy">{{cite web | url=https://www.grammy.com/artists/lee-ann-womack/17593 | title=Search results for Lee Ann Womack | publisher=Grammy.com | accessdate=July 11, 2024 | archive-date=March 3, 2024 | archive-url=https://web.archive.org/web/20240303080839/https://www.grammy.com/artists/lee-ann-womack/17593 | url-status=live }}</ref> In 2002, ''I Hope You Dance'' was certified triple-platinum by the RIAA for shipments of 3 million copies.<ref name="riaa"/> In Canada, the album was certified double-platinum by the Canadian Recording Industry Association (now [[Music Canada]]), a certification which at the time honored shipments of 200,000 copies in that country.<ref name="cria">{{cite web | url=https://musiccanada.com/gold-platinum/?_gp_search=lee%20ann%20womack | title=Search results for The Mavericks | publisher=[[Music Canada]] | accessdate=July 4, 2024}}</ref>{{efn|In May 2008, Music Canada reduced the qualification for double-platinum sales from 200,000 to 160,000.<ref>{{cite web | url=https://musiccanada.com/certification/ | title=Certification | publisher=Music Canada | accessdate=July 4, 2024 | archive-date=July 14, 2014 | archive-url=https://web.archive.org/web/20140714220020/http://musiccanada.com/certification/ | url-status=live }}</ref>}}
+
+In August 2002, MCA released Womack's fourth studio album, ''[[Something Worth Leaving Behind]]''. It was led off by the single "[[Something Worth Leaving Behind (song)|Something Worth Leaving Behind]]", which charted at 20 on Hot Country Songs.<ref name="whitburn"/> Its follow up was "[[Forever Everyday]]", which peaked at number 37 on Hot Country Songs that year.<ref name="whitburn"/> On this album, Womack co-produced with Wright, her husband [[Frank Liddell]], and [[Mike McCarthy (producer)|Mike McCarthy]]. Writing for ''[[USA Today]]'', Brian Mansfiled described it as the tenth worst album of 2002, saying "Womack's ill-advised [[Crossover music|crossover]] ploy and a makeover that made her look like [[Britney Spears]]' [[Lynne Spears|mother]] made one of Nashville's most respected singers the butt of jokes."<ref>Mansfield, Brian. ''USA Today'' Alan drives country; 'Country' goes in ditch (December 31, 2002)</ref> David Cantwell of [[No Depression (magazine)|''No Depression'']] said "The results, no matter which side of the pop-twang divide you're on, will likely be very disappointing."<ref>{{Cite web |last=Cantwell |first=David |title=Lee Ann Womack – Something Worth Leaving Behind |url=http://nodepression.com/album-review/lee-ann-womack-something-worth-leaving-behind |website=No Depression |publication-date=October 31, 2002 |accessdate=July 10, 2024 |archive-date=July 18, 2024 |archive-url=https://web.archive.org/web/20240718054653/https://www.nodepression.com/album-reviews/lee-ann-womack-something-worth-leaving-behind/ |url-status=live }}</ref> Conversely, [[Stephen Thomas Erlewine]] of [[AllMusic]] thought the album "was a sure fit for Womack to move into the country mainstream for good."<ref name="allmusic"/> Thom Jurek, also of AllMusic, said in a retrospective review that the album "cemented Womack's place in the country music pantheon by pushing her own boundaries as an artist further than ever before."<ref name="jurek swlb">{{cite web |last=Jurek |first=Thom |title=''Something Worth Leaving Behind'' review |url=https://www.allmusic.com/album/something-worth-leaving-behind-mw0000223570 |access-date=July 10, 2024 |work=All Music |publisher=All Media Network |archive-date=June 5, 2024 |archive-url=https://web.archive.org/web/20240605004641/https://www.allmusic.com/album/something-worth-leaving-behind-mw0000223570 |url-status=live }}</ref> Womack told Mario Tarradell of ''The Dallas Morning News'' in 2005, "I tried...to please everybody with that record...myself, radio, the listeners, everybody who loved 'Never Again, Again' and everybody who loved 'I Hope You Dance.' And it just didn't work. It backfired."<ref>Tarradell, Mario. ''The Dallas Morning News'' Country beckons her back (February 27, 2005)</ref> That September, Womack contributed to the theme song for the PBS animated TV series adaptation of ''[[The Berenstain Bears (2002 TV series)|The Berenstain Bears]]''.<ref>{{cite news|url=https://www.mcall.com/2002/11/10/inside-bear-country-stan-and-jan-berenstain-celebrate-40-years-of-the-berenstain-bears-with-a-museum-exhibit-and-a-book/|title=Inside Bear Country - Stan and Jan Berenstain celebrate 40 years of the Berenstain Bears with a museum exhibit and a book|newspaper=The Morning Call|date=November 10, 2002|accessdate=July 13, 2024|archive-date=July 13, 2024|archive-url=https://web.archive.org/web/20240713195722/https://www.mcall.com/2002/11/10/inside-bear-country-stan-and-jan-berenstain-celebrate-40-years-of-the-berenstain-bears-with-a-museum-exhibit-and-a-book/|url-status=live}}</ref> One month later, she released her first Christmas album, ''[[The Season for Romance]]''; among this album's new songs were the title track and "Forever Christmas Eve". She also collaborated with [[Willie Nelson]] on his single, "Mendocino County Line," which peaked at 22 on Hot Country Songs. The single won a Grammy and Country Music award that year. In early 2003, she played Haylie Adams in a guest appearance on the popular [[CBS]] television series ''[[The District (TV series)|The District]]''.<ref name="allmusic"/>
+
+In 2004, Womack performed "I Hope You Dance" at the [[Republican National Convention]], in which [[George W. Bush]] was nominated for his second term as President of the United States. The other performers that night included [[Sara Evans]] and [[Larry Gatlin]].<ref>{{cite news|url=http://www.cnn.com/2004/ALLPOLITICS/08/29/gop.lineup/index.html|title=GOP convention aims at moderates|last=Patterson|first=Thom|publisher=CNN|access-date=November 29, 2008|date=August 30, 2004|archive-date=December 19, 2008|archive-url=https://web.archive.org/web/20081219113113/http://www.cnn.com/2004/ALLPOLITICS/08/29/gop.lineup/index.html|url-status=live}}</ref> She also collaborated with Red Dirt Music band [[Cross Canadian Ragweed]] on their hit "Sick and Tired" in 2004. Also that year, she released her first ''[[Greatest Hits (Lee Ann Womack album)|Greatest Hits]]'' compilation, which included two new songs; "The Wrong Girl" and "Time for Me to Go", the former released as a single.<ref name="whitburn"/> The ''Greatest Hits'' album was also certified gold by the RIAA in December 2008.<ref name="riaa"/>
+
+===''There's More Where That Came From'' and hiatus: 2005–2012===
+[[File:Lee Ann Womack Memorial Day 2006.jpg|thumb|upright=1.35|Womack at the 2006 [[National Memorial Day Concert]] in Washington, DC.|alt=Lee Ann Womack standing on stage, singing into a microphone, with several members of an orchestra behind her.]]
+In 2005, she released her fifth studio album aimed at traditional country music entitled ''[[There's More Where That Came From]].''<ref name="cmt"/>
+Many people in the music industry called the album, "a return to tradition," featuring songs about drinking and cheating with a distinctive older country twang, mixing strings and [[steel guitar]]. The album won the Country Music Association's "Album of the Year" award in 2005.<ref name="book">{{cite book|title=Will the Circle Be Unbroken: Country Music in America|editor=Alanna Nash and Paul Kingsbury|publisher=DK Publishing, Inc|location=New York, NY|year=2006|page=349|chapter=Ch. 12: Pocketful of Gold}}</ref> Erlewine praised the album's production and songs, comparing it to those released by [[Loretta Lynn]], [[Barbara Mandrell]], and [[Dolly Parton]] in the 1970s. He would later say it was "not only the best album that Lee Ann Womack has yet made, but one that does suggest that there is indeed more where this came from."<ref>{{cite web|url=https://www.allmusic.com/album/r726382|title=''There's More Where That Came From'' album review|last=Thomas Erlewine|first=Stephen|work=AllMusic|publisher=All Media Network|access-date=November 29, 2008|archive-date=June 4, 2024|archive-url=https://web.archive.org/web/20240604113244/https://mb.moatads.com/yi/v2?ol=0&qn=%604%7BZEYwoqI%24%5BK%2BdLLU)%2CMm~tW%2490vv9L%24%2FoDb%2Fz(lKm3GFlNUU%2Cu%5Bh_GcS%25%5BHvLU%5B4(K%2B%7BgeG(%24y_%2CapE%3FSF(f%25%3BS%243O3P(ry5*ZRocMp1tq%5BN%7Bq%60RP%3CG.ceFW%7CoG%22mxT%3Bwv%40V374BKm55%3D%26npLvbR6thw0P%26oUK%3B(iy3imPgh%5B**p%23VQz9.aS%3B4oD%7D%60%3Fjc!L2LmqMs%3Cex1bxNTK7%2BuCTpY%3CZ.T%5B%2B%22gbzbSSr1r4V%40bLwA&tf=1_nMzjG---CSa7H-1SJH-bW7qhB-LRwqH-nMzjG-&vi=111111&rc=0%2C0%2C0%2C0%2C0%2C1%2C0%2C0%2Cprobably%2Cprobably&rb=1-jWcFghJkDq%2BRaMzfmaCET31Epk3Oj90BFaPgx%2FCwrOl2tvnQIIWF3cA%2B&rs=1-5u6rgEg%2F0rYACQ%3D%3D&sc=1&os=1-yQ%3D%3D&qp=00000&is=BBBBB2BBEYBvGl2BBCBBtUTE1RmsqbKW8BsrBu0rCFE48CRBeeBS2hWTMBBQeQBBn2soYggyUig0CBlWZ0uBBCCCCCCOgRBBiOfnE6Bkg7OxCb8MxOtJYHCBdm5kBhBBC9Y8oBXckXBR76iUUsJBCBBBBBBBBBWBBBj3BBBZeGV2BBBCMciUBBBjgEBBBBBB94UMgTdJMtEcpMBBBQBBBniOccBBBBBB47kNBBBBBBBBBBBBBhcjG6BBJM2L4Bk8BwCBQmIoRBBCzBz1BBCTClBBrbGBC4ehueB57NG9aJeRzBqEKiuwBBBB&iv=8&qt=0&gz=0&hh=0&hn=0&tw=&qc=0&qd=0&qf=1400&qe=900&qh=1400&qg=900&qm=0&qa=1400&qb=900&qi=1400&qj=900&to=000&vy=ot%24b%5Bh%40%22oDgO%3DLlE6%3AYnIBMwqCf%5D)4%5Dz%2C%5B%26u9L%2F%2F%24b4%5DIAIbzbld%7Dt00%7Ca_BB%3FVxyEO%22zf4%5D%24cr16Zh5YigBghs%7ClTr1W*d%5B4kf%2FLyUoRdByZ%3C99Ks(I%7DY(T0c%7BDQ3MY.NjDby7p%26C&qr=0&url=https%3A%2F%2Fwww.allmusic.com%2Falbum%2Ftheres-more-where-that-came-from-mw0000140937&pcode=playwireprebidheader597261727146&rx=940085460370&callback=MoatNadoAllJsonpRequest_19055647|url-status=live}}</ref> The lead single, "[[I May Hate Myself in the Morning]]" was a Top 10 hit in 2005, and also won "Single of the Year" by the CMA later that year.<ref name="cmt"/><ref name="CMA" /> Two additional singles were released from the album in 2005 that became minor hits: "[[He Oughta Know That by Now]]" and "Twenty Years and Two Husbands Ago", the latter co-written by Womack.<ref name="whitburn"/> Also included on the album are covers of [[Reba McEntire]]'s "Waiting for the Sun to Shine" and George Jones' "[[Just Someone I Used to Know]]". The album was released on vinyl LP as well as CD.
+
+Womack has also appeared on specials on [[Country Music Television]] (CMT), including their "100 Greatest Duets", which featured Womack singing a collaboration with [[Kenny Rogers]] on a cover of Rogers and [[Dottie West]]'s 1978 single "[[Every Time Two Fools Collide (song)|Every Time Two Fools Collide]]". Womack replaced West during that show because of West's fatal car accident in September 1991. Womack's other honors includes being listed at No.&nbsp;17 on CMT's 2002 special of their countdown of the ''40 Greatest Women of Country Music''.
+
+In 2006, Womack announced plans to release her next studio album on [[Mercury Nashville Records]]. The lead single "[[Finding My Way Back Home]]", her only work for Mercury, was released in the late summer of that year. It reached a peak of No. 37 on ''Hot Country Songs''.<ref name="whitburn"/><ref name="s">{{cite web|url=http://www.s9.com/Biography/Womack-Lee-Ann|title=Lee Ann Womack biography|publisher=s9.com|access-date=November 29, 2008|archive-date=February 11, 2009|archive-url=https://web.archive.org/web/20090211193930/http://www.s9.com/Biography/Womack-Lee-Ann|url-status=live}}</ref> The album was rescheduled into 2007, because Womack found more songs that she wanted to record, however it was never released and Womack left Mercury in favor of MCA.<ref>{{cite web|url=http://www.gactv.com/gac/nw_question_of_the_week/article/0,3034,GAC_26416_5489210_,00.html|title=Country Q&A: Week of April 18, 2007|last=Haislop|first=Neil|publisher=GACtv.com|access-date=November 30, 2008|archive-date=September 29, 2008|archive-url=https://web.archive.org/web/20080929030350/http://www.gactv.com/gac/nw_question_of_the_week/article/0,3034,GAC_26416_5489210_,00.html|url-status=live}}</ref> Also in 2007, Womack collaborated with [[Joe Nichols]] on "If I Could Only Fly" from his album ''[[Real Things (Joe Nichols album)|Real Things]]''<ref>{{cite web|url=http://www.cmt.com/news/country-music/1569883/joe-nichols-celebrates-real-things-in-new-album.jhtml|title=Joe Nichols Celebrates ''Real Things'' in new album|last=Morris|first=Edward|publisher=Country Music Television: News|access-date=November 30, 2008|archive-date=December 5, 2008|archive-url=https://web.archive.org/web/20081205022059/http://www.cmt.com/news/country-music/1569883/joe-nichols-celebrates-real-things-in-new-album.jhtml|url-status=dead}}</ref> and recorded [[Steve Dorff]]'s "Love Will Still Be There" for the soundtrack of the film ''[[September Dawn]]''.
+
+Womack's sixth studio album and last for MCA, ''[[Call Me Crazy]]'', was released on October 21, 2008. The album, released on vinyl and CD, produced by [[Tony Brown (record producer)|Tony Brown]]; it has been described as a dark album with plenty of songs about drinking and losing love. Womack co-wrote four of the album's 12 songs. ''Call Me Crazy'' charted only two singles in the United States: "[[Last Call (Lee Ann Womack song)|Last Call]]" and "[[Solitary Thinkin']]", which reached top 40 on Hot Country Songs.<ref name="whitburn"/> Also included on the album were covers of [[Jim Lauderdale]]'s "The King of Broken Hearts" and [[Ashley Gearing]]'s "I Found It in You", as well as a collaboration with [[George Strait]] on "Everything But Quits", one of the songs which Womack co-wrote. One track, "The Bees," features backing vocals from [[Keith Urban]].<ref name="cmtnews1">{{cite web|url=http://www.cmt.com/news/news-in-brief/1589653/lee-ann-womacks-new-album-features-strait-urban.jhtml|title=Lee Ann Womack's New Album Features Strait, Urban|publisher=Country Music Television: News (June 19, 2008)|access-date=November 30, 2008|archive-date=February 10, 2009|archive-url=https://web.archive.org/web/20090210030301/http://www.cmt.com/news/news-in-brief/1589653/lee-ann-womacks-new-album-features-strait-urban.jhtml|url-status=dead}}</ref> At the [[51st Annual Grammy Awards]] in 2009, "Last Call" was nominated for Best Female Country Vocal Performance; one year later, ''Call Me Crazy'' was also nominated for Best Country Album, with "Everything But Quits" and "Solitary Thinkin'" being Womack's final nominations for Best Country Collaboration with Vocals and Best Female Country Vocal Performance, respectively.<ref name="grammy"/>
+
+In October 2009, Womack released a cover of [[Trent Willmon]]'s "[[There Is a God]]", as the lead-off single to her then-upcoming seventh studio album which never surfaced. The song peaked at number 32 on ''Hot Country Songs'' in early 2010.<ref name="whitburn"/> Womack has revealed a few of the songs she had recorded for the album, including "Talking Behind Your Back", as well as "You Do Until You Don't".<ref>{{cite web |first=Beville |last=Darden |url=http://www.theboot.com/2010/02/25/lee-ann-womack-new-album/ |title=Lee Ann Womack Dishes 'Girlie' Details of Upcoming Album |publisher=The Boot |date=February 25, 2010 |access-date=April 30, 2012 |archive-date=June 4, 2024 |archive-url=https://web.archive.org/web/20240604113342/https://theboot.com/ |url-status=live }}</ref>
+
+In October 2010, Womack recorded "Liars Lie" for the [[Country Strong (soundtrack)|soundtrack]] of the film ''[[Country Strong]]''.<ref>{{cite web|url=https://www.allmusic.com/album/country-strong-original-motion-picture-soundtrack--mw0002044078|title=Country Strong [Original Motion Picture Soundtrack]|work=AllMusic|publisher=All Media Network|accessdate=July 13, 2024|archive-date=July 13, 2024|archive-url=https://web.archive.org/web/20240713185923/https://www.allmusic.com/album/country-strong-original-motion-picture-soundtrack--mw0002044078|url-status=live}}</ref> Womack also collaborated with Alan Jackson on a cover of [[Johnny Cash]]'s "[[Ring of Fire (song)|Ring of Fire]]", which was released that December as a single from his compilation album, ''[[34 Number Ones]]''. His version of the song was a minor hit, charting to number 45 on Hot Country Songs. Though Womack is featured on the song, she was not given credit on the charts.
+
+In August 2012, Womack announced her departure from MCA Nashville.<ref>{{cite web|url=http://www.theboot.com/2012/08/06/lee-ann-womack-record-label/|title=Lee Ann Womack Parts Way With Record Label|date=August 6, 2012 |publisher=The Boot|access-date=August 14, 2012|archive-date=May 15, 2013|archive-url=https://web.archive.org/web/20130515192538/http://www.theboot.com/2012/08/06/lee-ann-womack-record-label/|url-status=live}}</ref><ref>{{cite web|url=https://www.cbsnews.com/newyork/news/lee-ann-womack-exits-long-time-record-label/|title=Lee Ann Womack Exits Long Time Record Label|last=Morgan|first=Amber|website=CBS News|date=August 15, 2012|access-date=July 4, 2024|archive-date=May 26, 2022|archive-url=https://web.archive.org/web/20220526102225/https://www.cbsnews.com/newyork/news/lee-ann-womack-exits-long-time-record-label/|url-status=live}}</ref>
+
+===Americana transition and return to music: 2014–present===
+In April 2014, Womack signed with [[Sugar Hill Records (bluegrass label)|Sugar Hill Records]], an imprint of Rounder Records.<ref name=sugarhill>{{cite web|url=http://theboot.com/lee-ann-womack-sugar-hill-records/|title=Lee Ann Womack Signs With Sugar Hill Records|date=April 10, 2014|publisher=The Boot|access-date=April 10, 2014|archive-date=April 13, 2014|archive-url=https://web.archive.org/web/20140413091427/http://theboot.com/lee-ann-womack-sugar-hill-records/|url-status=live}}</ref> Her first album for the label, ''[[The Way I'm Livin']]'', was released September 23, 2014.<ref name=sugarhill/> Half of this album consists of cover songs including [[The Wrights (duo)|The Wrights]]' "[[The Way I'm Livin' (song)|The Way I'm Livin']]", [[Hayes Carll]]'s "Chances Are", [[Buddy Miller]]'s "Don't Listen to the Wind", [[Neil Young]]'s "[[Out on the Weekend]]", [[Bruce Robison]]'s "Not Forgotten You" and [[Kenny Price]]'s "Tomorrow Night in Baltimore". Rating the album four out of four stars, Mansfield compared the album to "Dolly Parton's finest". He also said that "Her run-ins with the devil may seem uncomfortably specific, but the swelling steel guitars carry her as if on angels' wings."<ref name="USA Today">{{cite web|last=Mansfield|first=Brian|author-link=Brian Mansfield|title=Listen Up: Lee Ann Womack, Leonard Cohen and alt-J|url=https://www.usatoday.com/story/life/music/2014/09/23/lee-ann-womack-leonard-cohen-alt-j-listen-up/16095173/|work=[[USA Today]]|date=September 23, 2014|publisher=[[Gannett Company|Gannett Company, Inc.]]|issn=0734-7456|accessdate=July 10, 2024|archive-date=December 17, 2018|archive-url=https://web.archive.org/web/20181217064126/https://www.usatoday.com/story/life/music/2014/09/23/lee-ann-womack-leonard-cohen-alt-j-listen-up/16095173/|url-status=live}}</ref> Erlewine said that the album "plays like a classic album: it's a record where the sum is greater than the individual parts".<ref>{{cite web|last=Erlewine|first=Stephen Thomas|author-link=Stephen Thomas Erlewine|title=''The Way I'm Livin''{{'}} review|url=http://www.allmusic.com/album/the-way-im-livin-mw0002714370|work=[[AllMusic]]|publisher=[[All Media Network]]|accessdate=July 10, 2024|archive-date=December 17, 2018|archive-url=https://web.archive.org/web/20181217062909/https://www.allmusic.com/album/the-way-im-livin-mw0002714370|url-status=live}}</ref>
+
+Her second album for Sugar Hill, a vinyl [[extended play]] album of cover songs called ''[[Trouble in Mind (EP)|Trouble in Mind]]'', was released in 2015. At the [[57th Annual Grammy Awards]] that year, ''The Way I'm Livin''' was nominated for Best Country Album; one year later, "Chances Are" was also nominated for Best Country Solo Performance.<ref name="grammy"/> Womack also received two [[Americana Music Honors & Awards|Americana Music Awards]] nominations for Album of the Year and Artist of the Year<ref>{{Cite web|url=http://www.leeannwomack.com/law-takes-two-americana-music-awards-nominations-for-artist-album-of-the-year/|title=LAW takes two Americana Music Awards|last=Axsom|first=Malia|date=May 18, 2015|access-date=August 8, 2015|archive-date=August 3, 2015|archive-url=https://web.archive.org/web/20150803110148/http://www.leeannwomack.com/law-takes-two-americana-music-awards-nominations-for-artist-album-of-the-year/|website=Lee Ann Womack|url-status=dead}}</ref> and her first [[Country Music Association Award for Female Vocalist of the Year|CMA Female Vocalist of the Year]] nomination in ten years.<ref name="CMA"/>
+
+In September 2014, Womack collaborated with American [[contemporary R&B|R&B]] singer [[John Legend]] for an episode of ''[[CMT Crossroads]]''.<ref name=crossroads>{{cite web|url=http://www.cmt.com/news/1731318/john-legend-lee-ann-womack-talk-about-cmt-crossroads-collaboration/|title=John Legend, Lee Ann Womack Talk About CMT Crossroads Collaboration|publisher=CMT|date=September 26, 2014|access-date=March 16, 2015|archive-date=April 2, 2015|archive-url=https://web.archive.org/web/20150402181133/http://www.cmt.com/news/1731318/john-legend-lee-ann-womack-talk-about-cmt-crossroads-collaboration/|url-status=dead}}</ref> Ahead of her 2015 tour in support of ''The Way I'm Livin''', Womack appeared at the [[C2C: Country to Country]] festival in the UK.
+
+On August 15, 2017, Womack announced her new album ''[[The Lonely, the Lonesome & the Gone]]'', which was released on October 27 through [[ATO Records]].<ref>{{cite web|url=https://www.npr.org/2017/08/15/543434422/songs-we-love-lee-ann-womack-all-the-trouble|title=Lee Ann Womack Embodies 'All The Trouble' In A Wrenching Country Blues|website=npr.org|access-date=March 19, 2018|archive-date=July 16, 2018|archive-url=https://web.archive.org/web/20180716111835/https://www.npr.org/2017/08/15/543434422/songs-we-love-lee-ann-womack-all-the-trouble|url-status=live}}</ref> The project included 14 songs that were recorded largely at [[SugarHill Recording Studios]] in [[Houston]], Texas.<ref name="jurek llg"/> Womack co-wrote six of the album's songs including the singles "[[All the Trouble]]", "Sunday" and "Hollywood"; the album also included covers of the 1961 [[Harlan Howard]] standard "[[She Called Me Baby|He Called Me Baby]]", [[Lefty Frizzell]]'s "Long Black Veil", Brent Cobb's "Shine On Rainy Day" and George Jones' "Take the Devil Out of Me". Jurek said that the album "provides listeners an exceptionally well-rounded portrait of both the mature writer and the iconic singer. What Womack delivers has little to do with Nashville -- a plus -- in favor of polished yet hardcore Texas Americana."<ref name="jurek llg">{{cite web|title=''The Lonely, the Lonesome & The Gone'' review|last=Jurek|first=Thom|url=https://www.allmusic.com/album/the-lonely-the-lonesome-the-gone-mw0003099796|work=[[AllMusic]]|publisher=[[All Media Network]]|access-date=July 10, 2024|archive-date=June 12, 2018|archive-url=https://web.archive.org/web/20180612143426/https://www.allmusic.com/album/the-lonely-the-lonesome-the-gone-mw0003099796|url-status=live}}</ref> ''The Lonely, the Lonesome & the Gone'' and "All the Trouble" received Grammy Award nominations for Best Americana Album and Best American Roots Song, respectively, in 2019.<ref name="grammy"/>
+
+==Personal life==
+At Belmont, Womack met and married country singer-songwriter [[Jason Sellers]] in 1990; they divorced in 1996 during the production of ''Lee Ann Womack''.<ref name="nd">{{cite web|url=https://www.nodepression.com/lee-ann-womack-returns-to-the-roots-she-never-really-left/|title=Lee Ann Womack Returns to the Roots She Never (Really) Left|last=Cantwell|first=David|work=No Depression|publisher=FreshGrass Foundation|date=October 17, 2014|accessdate=July 13, 2024|archive-date=March 14, 2023|archive-url=https://web.archive.org/web/20230314214340/https://www.nodepression.com/lee-ann-womack-returns-to-the-roots-she-never-really-left/|url-status=live}}</ref> Together they had a daughter named [[Aubrie Sellers]] (b. February 1991).<ref>{{cite news|url=http://www.amarillo.com/stories/070600/ent_womack.shtml|title=Womack scores a double whammy with new release|newspaper=[[Los Angeles Times]]|access-date=November 30, 2008|archive-date=March 4, 2016|archive-url=https://web.archive.org/web/20160304052703/http://amarillo.com/stories/070600/ent_womack.shtml|url-status=dead}}</ref> With record producer [[Frank Liddell]], Womack had a second daughter, Anna Lise Liddell, in January 1999; they married ten months later on November 6.
+
+==Discography==
+{{main|Lee Ann Womack discography}}
+;Studio albums
+* ''[[Lee Ann Womack (album)|Lee Ann Womack]]'' (1997)
+* ''[[Some Things I Know]]'' (1998)
+* ''[[I Hope You Dance (album)|I Hope You Dance]]'' (2000)
+* ''[[Something Worth Leaving Behind]]'' (2002)
+* ''[[The Season for Romance]]'' (2002)
+* ''[[There's More Where That Came From]]'' (2005)
+* ''[[Call Me Crazy]]'' (2008)
+* ''[[The Way I'm Livin']]'' (2014)
+* ''[[The Lonely, the Lonesome & the Gone]]'' (2017)
+
+==Awards and nominations==
+{{As of|2024}}, Lee Ann Womack has won 6 CMA Awards (from 17 nominations), 5 ACM Awards (from 16 nominations) and 1 Grammy (from 14 nominations).
+{| class="wikitable sortable" width="85%"
+|-
+! width="5%"| Year
+! width="30%"| Award
+! width="40%"| Category
+! width="40%"| Nominated Work / Recipient
+! width="30%"| Result
+|-
+| rowspan="1"| 1997
+| [[Country Music Association Awards]]
+| Female Vocalist of the Year
+| rowspan="2"|Lee Ann Womack
+| {{Nom}}
+|-
+| rowspan="5"| 1998
+| [[Academy of Country Music Awards]]
+| Top New Female Vocalist
+| {{Won}}
+|-
+| rowspan="2"| [[Country Music Association]]
+| Horizon Award
+| rowspan="4"| Lee Ann Womack
+| {{Nom}}
+|-
+| Female Vocalist of the Year
+| {{Nom}}
+|-
+| TNN/Music City News Country Awards
+| Star of Tomorrow – Female Artist 
+| {{Won}}
+|-
+| [[American Music Awards]]
+| Favorite Country New Artist
+| {{Won}}
+|-
+| 2000
+| [[Country Music Association Awards]]
+| Single of the Year
+| "[[I Hope You Dance]]"
+| {{Won}}
+|-
+| rowspan="11"| 2001
+| rowspan="5"| Academy of Country Music Awards
+| Top Female Vocalist
+| Herself
+| {{Nom}}
+|-
+| Album of the Year
+| ''[[I Hope You Dance (album)|I Hope You Dance]]''
+| {{nom}}
+|-
+| Top Single of the Year
+| rowspan="3"| "I Hope You Dance"
+| {{Won}}
+|-
+| Top Song of the Year
+| {{Won}}
+|-
+| Top Vocal Event of the Year <small>(with [[Sons of the Desert (band)]])</small>
+| {{Won}}
+|-
+| rowspan="2"| [[43rd Annual Grammy Awards|Grammy Awards]]
+| Best Country Album
+| ''[[I Hope You Dance (album)|I Hope You Dance]]''
+| {{Nom}}
+|-
+| Best Female Country Vocal Performance
+| "[[I Hope You Dance]]"
+| {{Nom}}
+|-
+| rowspan="3"| Country Music Association Awards
+| Female Vocalist of the Year
+| Lee Ann Womack
+| {{Won}}
+|-
+| Music Video of the Year
+| "Ashes By Now"
+| {{Nom}}
+|-
+| Album of the Year
+| ''[[I Hope You Dance (album)|I Hope You Dance]]''
+| {{Nom}}
+|-
+| Billboard Music Awards
+| Adult Contemporary Song of the Year
+| "I Hope You Dance"
+| {{Won}}
+|-
+| rowspan="3"| 2002
+| rowspan="2"|Country Music Association Awards
+| Female Vocalist of the Year
+| Lee Ann Womack
+| {{Nom}}
+|-
+| Musical Event of the Year <small>(with [[Willie Nelson]])</small>
+| [[Mendocino County Line]]
+| {{Won}}
+|-
+| Academy of Country Music
+| Top Female Vocalist
+| Herself
+| {{Nom}}
+|-
+| rowspan="4"| 2003
+| rowspan="2"| Grammy Awards
+| Best Country Collaboration with Vocals <small>(with Willie Nelson)</small>
+| Mendocino County Line
+| {{Won}}
+|-
+| Best Female Country Vocal Performance
+| "[[Something Worth Leaving Behind (song)|Something Worth Leaving Behind]]"
+| {{Nom}}
+|-
+| rowspan="2"| Academy of Country Music Awards
+| Top Vocal Event of the Year <small>(with Willie Nelson)</small>
+| Mendocino County Line
+| {{Won}}
+|-
+| rowspan="2"|Top Female Vocalist
+| rowspan="2"|Lee Ann Womack
+| {{Nom}}
+|-
+| rowspan="8"| 2005
+| rowspan="2"| Academy of Country Music
+| {{Nom}}
+|-
+| Single Record of the Year
+| "[[I May Hate Myself in the Morning]]"
+| {{Nom}}
+|-
+| rowspan="6"| Country Music Association Awards
+| Female Vocalist of the Year
+| Lee Ann Womack
+| {{Nom}}
+|-
+| Musical Event of the Year <small>(with [[Willie Nelson]])</small>
+| "[[I'll Never Be Free]]"
+| {{Nom}}
+|-
+| Single of the Year
+| rowspan="2"|"[[I May Hate Myself in the Morning]]"
+| {{Won}}
+|-
+| Music Video of the Year
+| {{Nom}}
+|-
+| Album of the Year
+| "[[There's More Where That Came From]]"
+| {{Won}}
+|-
+| Musical Event of the Year <small>(with [[George Strait]])</small>
+| "Good News, Bad News"
+| {{Won}}
+|-
+| rowspan="3"| 2006
+| rowspan="3"| Academy of Country Music
+| Album of the Year
+| ''[[There's More Where That Came From]]''
+| {{Nom}}
+|-
+| Top Female Vocalist
+| Lee Ann Womack
+| {{Nom}}
+|-
+| Music Video of the Year
+| "[[I May Hate Myself in the Morning]]"
+| {{Nom}}
+|-
+| rowspan="3"| 2009
+| rowspan="1"| Academy of Country Music
+| Top Female Vocalist
+| Lee Ann Womack
+| {{Nom}}
+|-
+| rowspan="1"| Country Music Association
+| Musical Event of the Year <small>(with George Strait)</small>
+| "Everything But Quits"
+| {{Nom}}
+|-
+| rowspan="1"| [[51st Annual Grammy Awards|Grammy Awards]]
+| Best Female Country Vocal Performance
+| [[Last Call (Lee Ann Womack song)|Last Call]]
+| {{Nom}}
+|-
+| rowspan="5"| 2010
+| rowspan="1"| Academy of Country Music
+| Top Female Vocalist
+| Lee Ann Womack
+| {{Nom}}
+|-
+| rowspan="1"| Country Music Association
+| Musical Event of the Year <small>(with Alan Jackson)</small>
+| "Till The End"
+| {{Nom}}
+|-
+| rowspan="3"| [[52nd Annual Grammy Awards|Grammy Awards]]
+| Best Country Album
+| ''[[Call Me Crazy]]''
+| {{Nom}}
+|-
+| Best Country Collaboration with Vocals <small>(with George Strait)</small>
+| "Everything But Quits"
+| {{Nom}}
+|-
+| Best Female Country Vocal Performance
+| "Solitary Thinkin'"
+| {{Nom}}
+|-
+| rowspan="1"| 2011
+| rowspan="1"| Academy of Country Music
+| Top Female Vocalist
+| Lee Ann Womack
+| {{Nom}}
+|-
+| rowspan="5"| 2015 
+| rowspan="1"| [[57th Annual Grammy Awards|Grammy Awards]]
+| Best Country Album
+| rowspan="2"|''[[The Way I'm Livin']]''
+| {{Nom}}
+|-
+| CMT Music Awards
+| Female Video of the Year
+| {{Nom}}
+|-
+| rowspan="1"| Country Music Association Awards
+| Female Vocalist of the Year
+| Lee Ann Womack
+| {{Nom}}
+|-
+| rowspan="2"| [[Americana Music Honors & Awards|Americana Music Association]]
+| Album of the Year
+| ''[[The Way I'm Livin']]''
+| {{Nom}}
+|-
+| Artist of the Year
+| Lee Ann Womack
+| {{Nom}}
+|-
+| 2016
+| [[58th Annual Grammy Awards|Grammy Awards]]
+| [[Best Country Solo Performance]]
+| "Chances Are"
+| {{Nom}}
+|-
+| rowspan=3|2018
+| [[CMT Music Awards]]
+| Performance of the Year
+| "[[Stand Up for Something]]"
+| {{Nom}}
+|-
+| [[Americana Music Honors & Awards]]
+| Song of the Year <small>(with [[Waylon Payne]] and Adam Wright)</small>
+| "All The Trouble"
+| {{nominated}}
+|-
+| [[ASCAP Awards]]
+| Golden Note Award
+| Lee Ann Womack
+| {{won}}
+|-
+| rowspan=2|2019
+| rowspan=2|[[61st Annual Grammy Awards|Grammy Awards]]<ref>{{Cite web|url=https://www.grammy.com/grammys/news/2019-grammy-awards-nominations-complete-nominees-and-winners-list|title=61st GRAMMY Awards: Full Nominees & Winners List|date=December 7, 2018|website=GRAMMY.com|access-date=October 11, 2019|archive-date=June 27, 2019|archive-url=https://web.archive.org/web/20190627003341/https://www.grammy.com/grammys/news/2019-grammy-awards-nominations-complete-nominees-and-winners-list|url-status=live}}</ref>
+| [[Best Americana Album]]
+| ''[[The Lonely, the Lonesome & the Gone]]''
+| {{nominated}}
+|-
+| [[Best American Roots Song]]
+| "All the Trouble"
+| {{nominated}}
+|}
+
+== Filmography ==
+=== Television ===
+{| class="wikitable sortable"
+|-
+!Year
+!Title
+!Role
+! scope="col" class=unsortable | Notes
+|-
+|2000
+|''CMT Showcase''
+|Herself
+|
+|-
+|2003
+|''[[The District]]''
+|Haylie Adams
+|Episode: "Back in the Saddle"
+|-
+|2014
+|''[[CMT Crossroads]]''
+|Herself
+|Performed with [[John Legend]]
+|-
+|2016
+|''[[Greatest Hits (TV series)|Greatest Hits]]''
+|Herself
+|Performed with [[Rachel Platten]]
+|}
+
+=== Films ===
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Role
+! scope="col" class=unsortable | Notes
+|-
+| 2000
+| ''[[Tom Sawyer (2000 film)|Tom Sawyer]]''
+| Becky Thatcher
+| [[Direct-to-video]], singing voice
+|-
+| 2007
+| ''[[Sesame Street]]: Kids' Favorite Country Songs''
+| Herself
+| Direct-to-video
+|-
+|2008
+| ''Noble Things''
+| Claire Wades
+|
+|-
+|2015
+| ''I Hope You Dance: The Power and Spirit of Song''
+| Herself
+| Documentary
+|}
+
+==Footnotes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{official website|http://www.leeannwomack.com/ }}
+* {{IMDb name|0938823}}
+
+{{Commons|Lee Ann Womack}}
+{{Lee Ann Womack}}
+{{Lee Ann Womack singles}}
+{{CMA Female Vocalist of the Year}}
+{{Portal bar|Music|Texas}}
+{{Authority control}}
+
+{{DEFAULTSORT:Womack, Lee Ann}}
+[[Category:1966 births]]
+[[Category:20th-century American guitarists]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:20th-century American women guitarists]]
+[[Category:20th-century American women singers]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:21st-century American women singers]]
+[[Category:American country singer-songwriters]]
+[[Category:American country guitarists]]
+[[Category:American sopranos]]
+[[Category:American women country singers]]
+[[Category:ATO Records artists]]
+[[Category:Belmont University alumni]]
+[[Category:Country musicians from Tennessee]]
+[[Category:Country musicians from Texas]]
+[[Category:Country pop musicians]]
+[[Category:Decca Records artists]]
+[[Category:Grammy Award winners]]
+[[Category:Living people]]
+[[Category:MCA Records artists]]
+[[Category:Mercury Records artists]]
+[[Category:People from Jacksonville, Texas]]
+[[Category:Sugar Hill Records artists]]
+[[Category:Singers from Nashville, Tennessee]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:South Plains College alumni]]
+[[Category:Tennessee Republicans]]
+[[Category:Texas Republicans]]
+[[Category:Singer-songwriters from Tennessee]]

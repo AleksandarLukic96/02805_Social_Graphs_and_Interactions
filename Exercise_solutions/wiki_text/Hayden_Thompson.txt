@@ -1,0 +1,131 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=March 2015}}
+{{BLP sources|date=April 2013}}
+{{Infobox musical artist
+| name            = Hayden Thompson
+| image           = Hayden Thompson2.jpg
+| caption         =
+| image_size      =
+| landscape       =
+| birth_name      =
+| alias           =
+| birth_date      = {{birth date and age|1938|03|05}}
+| birth_place     = [[Booneville, Mississippi]], United States
+| origin          =
+| instrument      = Guitar, vocals
+| genre           = [[Rockabilly]], [[rock and roll]], [[Country music|country]]
+| occupation      = Guitarist, musician, songwriter
+| years_active    = 1953–present
+| label           =
+| associated_acts =
+| website         = 
+}}
+
+'''Hayden Thompson''' (born March 5, 1938) is an American singer, songwriter, and [[rockabilly]] musician.<ref name="Larkin50">{{cite book|title=[[Encyclopedia of Popular Music|The Virgin Encyclopedia of Fifties Music]]|editor=Colin Larkin|editor-link=Colin Larkin (writer)|publisher=[[Virgin Books]]|date=2002|edition=Third|isbn=1-85227-937-0|page=442}}</ref> He is a member of the [[Rockabilly Hall of Fame]].<ref>{{cite web |url=http://www.rockabillyhall.com/HaydenThompson1.html |title=Hayden Thompson |publisher=Rockabillyhall.com |date= |accessdate=2013-04-02 |archive-date=October 20, 2018 |archive-url=https://web.archive.org/web/20181020062502/http://www.rockabillyhall.com/HaydenThompson1.html |url-status=dead }}</ref>
+
+Thompson was born in [[Booneville, Mississippi]], United States.<ref name="Larkin50"/> At high school Thompson formed the Southern Melody Boys, who made a recording which led from a radio session. "I Feel the Blues Coming On" was sung by Thompson and gave them another radio appearance on the "[[Louisiana Hayride]]" show. Thompson then joined the Dixie Jazzlanders who toured Mississippi.  He relocated to [[Memphis, Tennessee]] and made an unreleased recording in 1956.  "Love My Baby" was issued on the Phillips International label in September 1957, and Thompson toured alongside [[Sonny Burgess]] and [[Billy Lee Riley]].  The following year, Thompson moved again, this time to [[Chicago]], [[Illinois]], where he gained a residency at the Rivoli Ballroom, Chicago's latest country music venue.<ref name="Larkin50"/>
+
+Thompson's recording of "$16.88" for [[Kapp Records]] sold sufficiently to secure him an offer to record his debut album.  ''Here's Hayden Thompson'' was released in 1967.  Several recordings took place in the early-1970s, but circumstances meant that Thompson left the music industry at this point and worked as a limo driver.  He re-emerged in the mid-1980s, becoming a regular performer on rockabilly revival touring packages.  Charley Records released an album of his in 1985.<ref name="Larkin50"/>  Further albums were released, mainly by various European record labels, over the three decades. These included ''The Time Is Now'' (1990).<ref name="Larkin50"/>
+
+==Albums==
+{| border="2" cellspacing="0" cellpadding="4" rules="all"  style="margin:1em 1em 1em 0; border-style:solid; border-width:1px; border-collapse:collapse; empty-cells:show;  "
+|- bgcolor='#FFDEAD'
+!Year
+!TITLE/track listing
+!Catalog number
+|----
+|bgcolor='#E0E0E0' colspan='4' align='left'|<big>'''[[Kapp Records]] (US)'''</big>
+|----
+|1967
+|''Here's Hayden Thompson''
+Life's Gone And Slipped Away / You Don't Have To Be A Baby To Cry / I'll Kiss You Again / Tell Me That's The Way It Will Be / We Know / Sixteen Eighty-Eight / Blue Blue Day / Waiting on Her / These Boots Are Made For Walkin' / Why / Look Who's Coming / And She Cried
+|KL-1507 (LP)
+|----
+|bgcolor='#E0E0E0' colspan='4' align='left'|<big>'''Charly Records (UK)'''</big>
+|----
+|1985
+|''Booneville Mississippi Flash''
+Ah Poor Little Baby / Drivin' Me Out of My Mind / Born To Lose / Had A Little Talk / Don't Say That You're Sorry / I'm Gonna Sit Right Down And Cry / Eenie Meenie Minie Mo / Hands of Time / The Boy From Tupelo / I Wanna Get Home / A Girl Named Betty / When My Blue Moon Turns To Gold Again
+|CR 30245 (LP)
+|----
+|bgcolor='#E0E0E0' colspan='4' align='left'|<big>'''Sunjay Records (SWE)'''</big>
+|----
+|1985
+|''The Rockin' Country Man''
+Ah Poor Little Baby / Drivin' Me Out of My Mind / Born To Lose / Had A Little Talk / Don't Say That You're Sorry / I'm Gonna Sit Right Down And Cry / Eenie Meenie Minie Mo / Hands of Time / The Boy From Tupelo / I Wanna Get Home / When My Blue Moon Turns to Gold Again / A Girl Named Betty<small><br />reissue of Charly CR 30245</small>
+|SJLP 563 (LP)
+|----
+|1990
+|''The Time Is Now''
+Pretty Little Love Song / Wishful Thinking / Fried Chicken / Wrong Road Again / At The Party Tonight / I Still Miss Someone / Ain't That Loving You Baby / Tell Me That's The Way It'll Be / I Ain't Taking No Prisoners / Stonecold Heart / Careless Hands / Boy From Tupelo
+|SJLP 589 (LP)
+|----
+|bgcolor='#E0E0E0' colspan='4' align='left'|<big>'''Spark Records (HOL)'''</big>
+|----
+|1990
+|''The Time Is Now''
+Pretty Little Love Song / Wishful Thinking / Fried Chicken / Wrong Road Again / At The Party Tonight / I Still Miss Someone / Ain't That Loving You Baby / Tell Me That's The Way It'll Be / I Ain't Taking No Prisoners / Stonecold Heart / Careless Hands / Boy From Tupelo<small><br />reissue of Sunjay SJLP 589</small>
+|CD 13 (LP)
+|----
+|bgcolor='#E0E0E0' colspan='4' align='left'|<big>'''[[St. George Records]] (USA)'''</big>
+|----
+|2005
+|''Rockabilly Rhythm''
+Mama's Little Baby / Love My Baby / Rockabilly Boogie / Reelin' & Rockin' / Milk Cow Blues Boogie / Let's Get Gone / Sugar-Coated Love / Boppin' High School Baby / Chicago River Blues / Hang Out / Can't Hardly Stand It / Gonna Rock & Roll Tonight / Boppin' The Blues / Blue Moon of Kentucky
+|STG 7714 (CD)
+|----
+|bgcolor='#E0E0E0' colspan='4' align='left'|<big>'''Bluelight Records (FIN)'''</big>
+|----
+|2007
+|''Hayden Thompson''
+Sorrow Break A Good Man Down / Black Cloud / Big River / Just To Satisfy You / I've Got It Again / Sixteen Dollars Eighty-eight Cents / Midnight Blues / I'd Run A Mile To You / I Wanna Get Home / Ninety Seven More To Go / Drive Me Out of My Mind / Four Strong Winds / No Love Have I / Still Nineteen / Mystery Train a.k.a. The Happy Song
+|BLR 33132 2 (CD)
+|----
+|2010
+|''Standing Tall''
+Hurtin' Inside / Honey 'Cause I Love You / Pretty Lou / Still Loving You / Without Love / Long Black Train / Lookout Mabel / Crazy Arms / Where The Rio De Rosa Flows / Whatcha Gonna Do / Country Girls / Love My Baby / Don't Tell Me Your Troubles / Hey Porter / You're A Heartbreaker / Cheese & Crackers (aka Happy Song #2) / bonus CD "Live with the Barnshakers": Rockabilly Gal / You Win Again / Blues Blues Blues / Don't You Worry / Midnight Blues
+|BLR 33144 2 (CD)
+BLR 331449 (2-CD)
+|----
+|2016
+|''Booneville Mississippi Flash / The Time Is Now''
+Ah Poor Little Baby / Drivin' Me Out of My Mind / Born To Lose / Had A Little Talk / Don't Say That You're Sorry / I'm Gonna Sit Right Down And Cry / Eenie Meenie Minie Mo / Hands of Time / The Boy From Tupelo (1985 version) / I Wanna Get Home / A Girl Named Betty / When My Blue Moon Turns To Gold Again / Pretty Little Love Song / Wishful Thinking / Fried Chicken / Wrong Road Again / At The Party Tonight / I Still Miss Someone / Ain't That Loving You Baby / Tell Me That's The Way It'll Be / I Ain't Taking No Prisoners / Stonecold Heart / Careless Hands / Boy From Tupelo (1990 version) / What'm I Gonna Do / Cry Cry Cry / You Are My Sunshine / Wrong Road Again (1995 version) / Keys to My Kingdom<small><br />reissue of Charly CR 30245 and Sunjay SJLP 589 with bonus tracks</small>
+|BLR 33135 2 (CD)
+|----
+|2017
+|''Learning the Game''
+|(CD)
+(LP)
+|}
+
+==Compilations==
+* ''Love My Baby'' (1999) (Collection of earlier work)
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Thompson, Hayden}}
+[[Category:1938 births]]
+[[Category:Living people]]
+[[Category:American male singer-songwriters]]
+[[Category:American rockabilly musicians]]
+[[Category:Sun Records artists]]
+[[Category:Phillips International Records artists]]
+[[Category:Charly Records artists]]
+[[Category:Kapp Records artists]]
+[[Category:People from Booneville, Mississippi]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:20th-century American guitarists]]
+[[Category:21st-century American guitarists]]
+[[Category:American rock singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Singer-songwriters from Mississippi]]
+[[Category:Guitarists from Mississippi]]
+[[Category:American male guitarists]]
+[[Category:Country musicians from Mississippi]]
+[[Category:20th-century American male singers]]
+[[Category:21st-century American male singers]]

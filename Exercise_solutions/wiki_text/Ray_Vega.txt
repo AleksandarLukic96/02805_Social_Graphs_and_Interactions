@@ -1,0 +1,103 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist
+| name                = Ray Vega
+| image                 = 
+| image_size            = 
+| background          = solo_singer
+| birth_name          = Ray Justin Vega<ref>{{cite web|url=http://repertoire.bmi.com/writer.asp?fromrow=151&torow=175&keyname=VEGA%20RAY%20JUSTIN&querytype=WriterID&keyid=355286&page=7&blnWriter=True&blnPublisher=True&blnArtist=True&affiliation=BMI&cae=200331741|title=Results for Ray Justin Vega|work=[[Broadcast Music Incorporated]]|accessdate=August 12, 2013}}</ref>
+| alias               = 
+| birth_date                = {{Birth date and age|1961|7|28}}<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=439|isbn=978-0-89820-177-2}}</ref>
+| origin              = Los Angeles, California, United States
+| instrument          = Vocals
+| genre               = [[Country music|Country]]
+| occupation          = Singer-songwriter
+| years_active        = 1986–present
+| label               = [[BNA Records|BNA]]<br />[[Ariola Records|Ariola]]
+| past_member_of = The Vega Brothers
+| website                 = 
+}}
+'''Ray Vega''' (born July 28, 1961) is an American [[country music|country]] and adult contemporary artist.
+
+In the 1980s, Vega performed with his brother, Robert, as The Vega Brothers. The duo were signed by [[MCA Records]] and their single "Heartache the Size of Texas" peaked at No.&nbsp;54 on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles]] chart in 1986.<ref name="whitburn"/> Their music was produced by [[Jimmy Bowen]]. After the duo broke up, Vega worked various odd jobs in Nashville.<ref>{{cite journal|date=December 6, 1996|title=New Artist Fact File|journal=[[Radio & Records]]|page=46|url=http://www.americanradiohistory.com/Archive-RandR/1990s/1996/R&R-1996-12-06.pdf}}</ref>
+
+Vega was signed to [[BNA Records]] as a solo artist in 1996. His debut single, "Remember When," peaked at No.&nbsp;56 on the Hot Country Singles & Tracks chart. The song was produced by [[Josh Leo]].<ref>{{cite magazine|date=December 28, 1996|title=Talent to spare|magazine=Billboard|page=27|url=https://books.google.com/books?id=sQkEAAAAMBAJ&dq=%22ray+vega%22+%22remember+when%22&pg=PA27}}</ref> After the disappointing response to the single, release of Vega's debut album, also titled ''Remember When,'' was cancelled; promotional copies, however, did enter into the marketplace. Another single, "Even More," failed to chart in the United States, although it reached No.&nbsp;57 on the ''[[RPM (magazine)|RPM]]'' Adult Contemporary chart in Canada.
+
+Vega later recorded a pop album, 1999's ''Geography,'' that was released in Germany via [[Bertelsmann Music Group|BMG]]. Additionally, country artist [[Dusty Drake]] recorded a composition of Vega's, entitled "And Then," and released it as his debut single in 2002.
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:10em;"| Title
+! style="width:18em;"| Album details
+|- 
+! scope="row"| ''Remember When''
+| 
+* Release date: October 8, 1996
+* Label: [[BNA Records]]
+|-
+! scope="row"| ''Geography''
+| 
+* Release date: May 31, 1999
+* Label: [[Ariola Records]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:10em;"| Single
+! colspan="3"| Peak chart positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+! width="45"| [[RPM (magazine)|CAN AC]]
+|-
+| 1996
+! scope="row"| "Remember When"
+| 56
+| 94
+| —
+| align="left" rowspan="3"| ''Remember When''
+|-
+|rowspan=2|1997
+! scope="row"| "I Can Dream"<ref>{{cite journal|date=March 28, 1997|title=Going for Adds|journal=Radio & Records|page=56|url=http://www.americanradiohistory.com/Archive-RandR/1990s/1997/RR-1997-03-28.pdf}}</ref>
+| —
+| —
+| —
+|-
+! scope="row"| "Even More"<ref>{{cite journal|date=November 14, 1997|title=A/C picks|journal=Gavin Report|page=19|url=http://www.americanradiohistory.com/Archive-Gavin-Report/90/97/Gavin-1997-11-14.pdf}}</ref>
+| —
+| —
+| 57
+|-
+| colspan="6" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:10em;"| Video
+! Director
+|-
+| 1996
+! scope="row"| "Remember When"
+| [[Steven Goldmann]]
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Vega, Ray}}
+[[Category:1961 births]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Living people]]
+[[Category:BNA Records artists]]

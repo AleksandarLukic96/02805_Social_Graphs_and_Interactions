@@ -1,0 +1,306 @@
+{{Short description|American country singer, songwriter and pianist}}
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist
+| name            = Becky Hobbs
+| image           = Becky Hobbs.jpg
+| caption         =
+| image_size      =
+| birth_name      =
+| birth_date      = {{birth date and age|1950|01|24}}
+| origin          = [[Bartlesville, Oklahoma]], United States
+| instrument      = Vocals, piano
+| genre           = [[Country music|Country]], [[Honky-tonk|Honky Tonk]]
+| occupation      = Singer-songwriter
+| years_active    = 1971–present
+| label           = [[MCA Records|MCA]], Tattoo, [[Liberty Records|Liberty]], [[MTM Records|MTM]], [[RCA Records Nashville|RCA Nashville]], [[Curb Records|Curb]], Intersound, Beckaroo
+| associated_acts = [[Alabama (American band)|Alabama]], [[Moe Bandy]]
+| website         = http://www.beckyhobbs.com
+}}
+'''Becky Hobbs''' (born January 24, 1950)<ref name="LarkinCountry">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Who's Who of Country Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1993|edition=First|isbn=0-85112-726-6|page=191}}</ref> is an American [[country music|country]] singer, songwriter and pianist. She has recorded seven studio albums, and has charted multiple singles on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] charts, including the 1983 Top Ten hit "Let's Get Over Them Together", a duet with [[Moe Bandy]].<ref name="allmusic">{{cite web |url={{AllMusic|class=artist|id=p28072/biography|pure_url=yes}} |title=Becky Hobbs biography |accessdate=May 24, 2008 |last=Brennan |first=Sanda |author2=Michael McCall  |website=[[AllMusic]]}}</ref>
+
+Besides her work as a solo artist, Hobbs has written for several country and pop acts, such as [[Helen Reddy]], [[George Jones]], [[Loretta Lynn]], and [[Shelly West]]. With Candy Parton she co-wrote [[Alabama (band)|Alabama]]'s 1985 song, "[[I Want to Know You Before We Make Love]]", later covered by [[Conway Twitty]] in 1987.<ref name="allmusic"/>
+
+==Discography==
+{{BLP sources|date=June 2022}}
+
+===Albums===
+{| class="wikitable"
+! Year
+! Title
+! width="60"| <small>[[Top Country Albums|US Country]]</small>
+! Label
+|- 
+| 1974
+|''Becky Hobbs''
+|align=center|—
+|MCA
+|- 
+|1975
+|''From the Heartland''
+|align=center|—
+|rowspan=2|Tattoo
+|- 
+|1977
+|''Everyday''
+|align=center|—
+|- 
+|1979
+|''Becky Hobbs''
+|align=center|—
+|RCA
+|- 
+|1988
+|''All Keyed Up''<sup>A</sup>
+|align=center|25
+|MTM
+|- 
+|1994
+|''The Boots I Came to Town In''
+|align=center|—
+|rowspan=2|Intersound
+|- 
+|1998
+|''From Oklahoma with Love''
+|align=center|—
+|- 
+|2004
+|''Songs from the Road of Life''
+|align=center|—
+|rowspan=3|Beckaroo
+|- 
+|2006
+|''Best of the Beckaroo, Vol. 1''
+|align=center|—
+|-
+|2011
+|''Nanyehi: Beloved Woman of the Cherokee''
+|align=center|—
+|}
+*<sup>A</sup>''All Keyed Up'' was re-released on RCA Records in 1989 with two songs added.
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:27em;"| Single
+! colspan="2"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="50"| [[Hot Country Songs|US Country]]
+! width="50"| [[RPM (magazine)|CAN Country]]
+|-
+| 1976
+! scope="row" |"I'm in Love Again"<ref>{{cite journal|date=July 10, 1976|title=Picks of the Week|journal=[[Cash Box]]|page=16|url=https://www.americanradiohistory.com/Archive-Cash-Box/70s/1976/Cash-Box-1976-07-10.pdf}}</ref>
+| —
+| —
+| {{n/a}}
+|-
+|rowspan=2| 1979
+! scope="row"| "The More I Get the More I Want"
+| 95
+| —
+| align="left" rowspan="2"| ''Becky Hobbs''
+|-
+! scope="row"| "I Can't Say Goodbye to You"
+| 44
+| —
+|-
+| rowspan="3"| 1980
+! scope="row"| "Just What the Doctor Ordered"
+| 52
+| —
+| rowspan="9" {{n/a}}
+|-
+! scope="row"| "I'm Gonna Love You Tonight (Like There's No Tomorrow)"
+| 79
+| —
+|-
+! scope="row"| "I Learned All About Cheatin' from You"
+| 87
+| —
+|-
+| 1981
+! scope="row"| "Honky Tonk Saturday Night"
+| 84
+| —
+|-
+| rowspan="3"| 1984
+! scope="row"| "Oklahoma Heart"
+| 46
+| —
+|-
+! scope="row"| "Pardon Me (Haven't We Loved Somewhere Before)"
+| 64
+| —
+|-
+! scope="row"| "Wheels in Emotion"
+| 77
+| —
+|-
+| rowspan="2"| 1985
+! scope="row"| "Hottest 'Ex' in Texas"
+| 37
+| —
+|-
+! scope="row"| "You Made Me This Way"
+| —
+| —
+|-
+| rowspan="3"| 1988
+! scope="row"| "Jones on the Jukebox"
+| 31
+| 35
+| align="left" rowspan="3"| ''All Keyed Up''
+|-
+! scope="row"| "They Always Look Better When They're Leavin'"
+| 43
+| —
+|-
+! scope="row"| "Are There Any More Like You"
+| 53
+| —
+|-
+| 1989
+! scope="row"| "Do You Feel the Same Way Too?"
+| 39
+| 53
+| align="left"| ''All Keyed Up'' <small>(re-issue)</small>
+|-
+| 1990
+! scope="row"| "A Little Hunk of Heaven"<ref>{{cite magazine|url=http://americanradiohistory.com/Archive-Billboard/90s/1990/BB-1990-04-28.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|date=April 28, 1990}}</ref>
+| —
+| —
+| rowspan="2" {{n/a}}
+|-
+| 1991
+! scope="row"| "[[Talk Back Trembling Lips]]"<ref>{{cite magazine|url=http://americanradiohistory.com/Archive-Billboard/90s/1991/BB-1991-02-02.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|date=February 2, 1991}}</ref>
+| —
+| —
+|-
+| rowspan="2"| 1994
+! scope="row"| "Mama's Green Eyes (And Daddy's Wild Hair)"
+| —
+| —
+| align="left" rowspan="2"| ''The Boots I Came to Town In''
+|-
+! scope="row"| "Pale Moon"
+| —
+| —
+|-
+| rowspan="2"| 1998
+! scope="row"| "Country Girls"
+| —
+| —
+| align="left" rowspan="2"| ''From Oklahoma with Love''
+|-
+! scope="row"| "Honky Tonk Saturday Night" <small>(re-recording)</small>
+| —
+| —
+|-
+| 2005
+! scope="row"| "Another Man in Black"
+| —
+| —
+| align="left"| ''Songs from the Road of Life''
+|-
+| 2011
+! scope="row"| "Nanyehi"
+| —
+| —
+| align="left"| ''Nanyehi: Beloved Woman of the Cherokee''
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Singles with Moe Bandy===
+{| class="wikitable"
+|-
+!rowspan="2"|Year
+!rowspan="2"|Title
+!colspan="2"|Chart Positions
+!rowspan="2"|Album
+|-
+!width="50"|<small>[[Hot Country Songs|US Country]]</small>
+!width="50"|<small>CAN Country</small>
+|-
+|1983
+|"Let's Get Over Them Together"
+|align=center|10
+|align=center|27
+|''Devoted to Your Memory''
+|-
+|1990
+|"Pardon Me"
+|align=center|—<sup>A</sup>
+|align=center|—
+|''Greatest Hits''
+|}
+
+'''Notes:'''
+*<sup>A</sup> "Pardon Me" did not chart on Hot Country Songs, but peaked at No. 2 on Hot Country Radio Breakouts.<ref>{{cite magazine|url=http://americanradiohistory.com/Archive-Billboard/90s/1990/BB-1990-03-10.pdf|title=Hot Country Radio Breakouts|date=March 3, 1990|magazine=Billboard}}</ref>
+
+===Music videos===
+{| class="wikitable"
+|-
+! Year
+! Video
+! Director
+|-
+| rowspan="2"| 1988
+| "Jones on the Jukebox"
+| 
+|-
+| "Are There Any More Like You"
+| 
+|-
+| 1989
+| "Do You Feel the Same Way Too?"
+| 
+|-
+| 1990
+| "Talk Back Trembling Lips"
+| Greg Crutcher
+|-
+| rowspan="2"| 1994
+| "Mama's Green Eyes (And Daddy's Wild Hair)"
+| 
+|-
+| "Pale Moon"
+| Peter Lippman
+|-
+| 1998
+| "Country Girls"
+| Chuck Shanlever
+|-
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.beckyhobbs.com/ Becky Hobbs official website]
+*{{Discogs artist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hobbs, Becky}}
+[[Category:1950 births]]
+[[Category:Living people]]
+[[Category:People from Bartlesville, Oklahoma]]
+[[Category:American country pianists]]
+[[Category:American country singer-songwriters]]
+[[Category:American women country singers]]
+[[Category:Country musicians from Oklahoma]]
+[[Category:Curb Records artists]]
+[[Category:MTM Records artists]]
+[[Category:RCA Records Nashville artists]]
+[[Category:Singer-songwriters from Oklahoma]]
+[[Category:20th-century American pianists]]
+[[Category:20th-century American women pianists]]
+[[Category:21st-century American pianists]]
+[[Category:21st-century American women pianists]]
+[[Category:Intersound Records artists]]
+
+
+{{US-country-singer-stub}}
+{{US-pianist-stub}}

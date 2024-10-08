@@ -1,0 +1,467 @@
+{{Use mdy dates|date=December 2022}}
+{{Short description|American singer-songwriter and musician (born 1986)}}
+
+{{Infobox musical artist
+| name = Caitlyn Smith
+| image =
+| caption = Smith performing at the [[C2C: Country to Country]] festival in 2022
+| birth_name = Caitlyn Elizabeth Smith
+| birth_date = {{birth date and age|1986|06|13}}
+| birth_place = [[Cannon Falls, Minnesota]], U.S.<ref name="allmusic">{{cite web | url=https://www.allmusic.com/artist/caitlyn-smith-mn0000438452/biography | title=Caitlyn Smith biography | publisher=AllMusic | accessdate=March 9, 2021}}</ref>
+| origin = [[Nashville, Tennessee]], U.S.
+| genre = [[Country Pop]]<ref name="allmusic"/>
+| occupation = {{hlist|Singer|Songwriter}}
+| label = [[Monument Records|Monument]]
+| website = {{url|caitlynsmith.com}}
+}}
+'''Caitlyn Elizabeth Smith'''<ref>{{cite web|url=https://www.ascap.com/es/repertory#/ace/search/workID/883477058?page=1 |title=THE HEART OF DIXIE |website=ASCAP |publisher=American Society of Composers, Authors and Publishers |access-date=September 19, 2023}}</ref> (born June 13, 1986) is an American singer-songwriter and musician. She was raised in [[Cannon Falls, Minnesota]].<ref>{{Cite news|url=http://www.elle.com/culture/music/a44994/caitlyn-smith-profile/|title=How Caitlyn Smith Defied Sex Symbol Clichés to Break Out in Nashville|date=May 2, 2017|work=ELLE|access-date=July 11, 2017|language=en}}</ref> Smith's debut album ''[[Starfire (Caitlyn Smith album)|Starfire]]'' was released on Monument Records on January 19, 2018.<ref name="auto">{{Cite magazine|title= Caitlyn Smith Steps Into the Spotlight With 'Starfire' After Penning Songs for Meghan Trainor and Garth Brooks|magazine=[[Billboard (magazine)|Billboard]]|url=https://www.billboard.com/articles/news/8070989/caitlyn-smith-starfire-premiere|access-date=December 19, 2017}}</ref> Her second studio album, ''Supernova'', was released on March 13, 2020.<ref name="supernova"/> Her third album ''[[High & Low (Caitlyn Smith album)|High & Low]]'' was released on April 14, 2023.<ref>{{cite web|last1=Toth|first1=Emma|title=Caitlyn Smith To Release Self-Produced Third Album, 'High & Low'|url=https://countrynow.com/caitlyn-smith-to-release-self-produced-third-album-high-low/|website=Country Now|access-date=April 13, 2023|date=January 25, 2023}}</ref>
+
+She has written songs recorded by [[Meghan Trainor]] ("[[Like I'm Gonna Lose You]]", duet with [[John Legend]], #1 on [[Adult Top 40|Billboard Adult Top 40]] chart), [[Kenny Rogers]] and [[Dolly Parton]] ("[[You Can't Make Old Friends]]"), [[Avicii]]  ("Chained") and ("Love"), [[Miley Cyrus]] ("High") and more.
+
+She released the EP ''Starfire'' in July 2016. In January 2017, she announced she had signed a label deal with the newly reformed [[Monument Records]].<ref>{{cite web|title=Sony Music's Monument Records Revived By Jason Owen, Shane McAnally|url=http://www.billboard.com/articles/business/7669714/monument-records-sony-music-label|website=Billboard.com|accessdate=July 11, 2017}}</ref> Smith has played at [[Lollapalooza]], Bourbon & Beyond Festival, Americana Fest and ACL Fest.<ref name="auto"/>
+
+Caitlyn was named one of [[Rolling Stone Magazine]]'s "10 New Artists You Need To Know".<ref>{{cite web|title=10 New Country Artists You Need To Know: May 2016| date=May 4, 2016 |url=https://www.rollingstone.com/music/lists/10-new-country-artists-you-need-to-know-may-2016-20160504/caitlyn-smith-20160504|publisher=Rolling Stone Country|accessdate=July 11, 2017}}</ref> She recorded "The Card You Gamble", the theme song of the drama series ''[[Monarch (American TV series)|Monarch]]'', which premiered in 2022.<ref>{{cite web | url=https://entertainment-focus.com/2022/01/14/listen-caitlyn-smith-unveils-the-card-you-gamble-the-theme-from-monarch/ | title=Listen: Caitlyn Smith unveils 'The Card You Gamble', the theme from 'Monarch' | date=January 14, 2022 }}</ref>
+
+== Personal life ==
+Caitlyn lives in Nashville with her husband, songwriter Rollie Gaalswyk. They have three sons together, Thomas Miles Gaalswyk (born in 2016), Lewis James Gaalswyk (born in 2018), and Jacob Roland Gaalswyk (born in 2023).<ref>{{Cite web|url=https://people.com/parents/caitlyn-smith-welcomes-son-lewis-james/|title=Her New Little 'Starfire' Has Arrived! Caitlyn Smith Introduces Son Lewis James: 'So Grateful'|website=People.com}}</ref><ref>{{Cite web|url=http://celebritybabies.people.com/2016/09/12/caitlyn-smith-welcomes-son-thomas-miles/|title=Caitlyn Smith Welcomes Son Thomas Miles|website=People.com|access-date=July 12, 2017}}</ref><ref>{{Cite web|url=https://www.instagram.com/p/C0PGvfOsxX6/?img_index=1|title=Welcome to the world, JACOB ROLAND GAALSWYK!|website=Instagram.com}}</ref>
+
+== Discography ==
+=== Studio albums ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2" style="width:8em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="3"| Peak chart positions
+|- style="font-size:smaller;"
+! style="width:4em;"| [[Top Album Sales|US Sales]]<br><ref name="top sales albums">{{cite magazine|title=Caitlyn Smith (Album Sales)|url=https://www.billboard.com/artist/caitlyn-smith/chart-history/tsl/|magazine=Billboard|accessdate=February 2, 2020}}</ref>
+! style="width:4em;"| [[Folk Albums|US Folk]]<br><ref name="folk albums">{{cite magazine|title=Caitlyn Smith (Americana/Folk Albums)|url=https://www.billboard.com/artist/caitlyn-smith/chart-history/flk/|magazine=[[Billboard (magazine)|Billboard]]|accessdate=August 24, 2020}}</ref>
+! style="width:4em;"| [[Heatseekers Albums|US Heat]]<br><ref name="heat albums">{{cite magazine|title=Caitlyn Smith (Heatseekers Albums)|url=https://www.billboard.com/artist/caitlyn-smith/chart-history/tln/|magazine=Billboard|accessdate=August 24, 2020}}</ref>
+|-
+! scope="row"| ''[[Starfire (Caitlyn Smith album)|Starfire]]'' 
+|
+* Release date: January 19, 2018
+* Label: [[Monument Records|Monument]]
+| — || 24 || 6
+|-
+! scope="row"| ''Supernova''<ref name="supernova">{{cite web|url=http://m.startribune.com/cannon-falls-reared-caitlyn-smith-fittingly-previews-new-album-at-st-paul-planetarium/560210212/|title=Cannon Falls-reared Caitlyn Smith fittingly previews new album at St. Paul planetarium|author=Jon Bream|date=September 13, 2019|publisher=StarTribune|accessdate=September 14, 2019}}</ref>
+|
+* Release date: March 13, 2020
+* Label: Monument
+| 92 || — || —
+|-
+! scope="row"| ''[[High & Low (Caitlyn Smith album)|High & Low]]''
+|
+* Release date: April 14, 2023
+* Label: Monument
+| — || — || —
+|-
+| colspan="10" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+=== Extended plays ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2" style="width:10em;"| Title
+! rowspan="2" style="width:18em;"| EP details
+! colspan="3"| Peak chart positions
+|- style="font-size:smaller;"
+! style="width:4em;"| [[Folk Albums|US Folk]]<br><ref name="folk albums"/>
+! style="width:4em;"| [[Heatseekers Albums|US Heat]]<br><ref name="heat albums"/>
+! style="width:4em;"| [[Independent Albums|US Indie]]<br><ref>{{cite magazine|title=Caitlyn Smith (Independent Albums)|url=https://www.billboard.com/artist/caitlyn-smith/chart-history/ind/|magazine=Billboard|accessdate=August 24, 2020}}</ref>
+|-
+! scope="row"| ''Everything to You''<ref>{{cite magazine |last1=Dunkerley |first1=Beville |title=Hear Caitlyn Smith's Autobiographical 'Everything to You' EP — Exclusive Premiere |url=https://www.rollingstone.com/music/music-country/hear-caitlyn-smiths-autobiographical-everything-to-you-ep-exclusive-premiere-228871/ |accessdate=January 27, 2020 |magazine=[[Rolling Stone]] |date=October 21, 2014}}</ref>
+|
+* Release date: October 28, 2014
+* Label: Skylark
+| — || — || —
+|-
+! scope="row"| ''Starfire''
+|
+* Release date: July 8, 2016
+* Label: Skylark / Monument
+| 18 || 16 || 48
+|-
+! scope="row"| ''High''<ref name="high"/>
+|
+* Release date: April 8, 2022
+* Label: Monument
+| — || — || —
+|-
+| colspan="9" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+=== Singles ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:12em;" | Title
+! rowspan="2" | Year
+! colspan="2" | Peak chart<br>positions
+! rowspan="2" | Album
+|-
+! scope="col" style="width:4em;font-size:90%;"| [[Adult Alternative Songs|US<br />AAA]]<br /><ref>{{cite magazine|title=Caitlyn Smith (Triple A Songs)|url=https://www.billboard.com/artist/caitlyn-smith/chart-history/aaa/|magazine=Billboard|accessdate=August 24, 2020}}</ref>
+! scope="col" style="width:4em;font-size:90%;"| [[Country Airplay|US<br />Country<br />Airplay]]<br /><ref>{{cite magazine|title=Caitlyn Smith (Country Airplay)|url=https://www.billboard.com/artist/caitlyn-smith/chart-history/csa/|magazine=Billboard|accessdate=February 23, 2021}}</ref>
+|-
+! scope="row" | "Starfire"<ref>{{cite web|title=Future Releases on Triple A (AAA) Radio Stations|url=https://www.allaccess.com/triple-a/future-releases|website=All Access|archiveurl=https://web.archive.org/web/20180127001826/https://www.allaccess.com/triple-a/future-releases|archivedate=January 27, 2018|accessdate=January 27, 2018}}</ref>
+| 2018
+| — || —
+| align="left" |''Starfire''
+|-
+! scope="row" | "Put Me Back Together"<ref name="supernova" />
+| 2019
+| — || —
+| rowspan="3" align="left" |''Supernova''
+|-
+! scope="row" | "Long Time Coming"<ref>{{cite web |title=Future Releases on Triple A (AAA) Radio Stations |url=https://www.allaccess.com/triple-a/future-releases |website=All Access |accessdate=January 27, 2020 |archiveurl=https://web.archive.org/web/20200114094148/https://www.allaccess.com/triple-a/future-releases |archivedate=January 14, 2020}}</ref>
+| 2020
+| 35 || —
+|-
+! scope="row"| "I Can't"<ref>{{cite web |title=Future Releases for Country Radio Stations |url=https://www.allaccess.com/country/future-releases |website=All Access |access-date=February 2, 2021 |archive-url=https://web.archive.org/web/20210201163211/https://www.allaccess.com/country/future-releases |archive-date=February 1, 2021}}</ref> <br/>{{small|(featuring [[Old Dominion (band)|Old Dominion]])}}
+| 2021
+| — || 37
+|-
+! scope="row" | "Downtown Baby"<ref name="high">{{cite web|url=https://musicrow.com/2022/02/caitlyn-smith-soars-on-upcoming-self-produced-project-high/|title=Caitlyn Smith Soars On Upcoming, Self-Produced Project 'High'|author=Lydia Farthing|date=February 24, 2022|publisher=|accessdate=February 24, 2022}}
+</ref>
+| 2022
+| — || 59
+| align="left" rowspan=2 |''High & Low''
+|-
+! scope="row" | "Lately"
+| 2023
+| — || —
+|-
+| colspan="8" style="font-size:smaller;"| "—" denotes a single that did not chart or was not released to that format.
+|}
+
+== Selected writing credits ==
+Adapted from [[AllMusic]].<ref>{{Cite web | url=https://www.allmusic.com/artist/caitlyn-smith-mn0000438452/credits | title=Caitlyn Smith &#124; Credits | website=[[AllMusic]] }}</ref>
+{| class="wikitable"
+!Title
+!Year
+!Artist
+!Album
+!Notes
+|-
+| "It Ain't Easy"
+| 2010
+| [[Jason Aldean]]
+| ''[[My Kinda Party]]''
+|
+* Written with Jon Mabe and Justin Weaver
+|-
+| "Let's Fight"
+| 2011
+| [[Julie Roberts]]
+| ''Alive''
+|
+* Written with Jason Collum and [[Julie Roberts]]
+|-
+|"Let It Hurt"
+|2012
+|[[Rascal Flatts]]
+|[[Changed (album)|''Changed'']]
+|
+* Written with [[Jay DeMarcus]] and [[Gordie Sampson]]
+|-
+|"[[You Can't Make Old Friends]]"
+| rowspan="5" |2013
+|[[Kenny Rogers]] and [[Dolly Parton]]
+|''[[You Can't Make Old Friends (album)|You Can't Make Old Friends]]''
+and [[Blue Smoke (album)|''Blue Smoke'']]
+|
+* Written with Ryan Hanna King and [[Don Schlitz]]
+* #57 US Country Airplay ([[Billboard (magazine)|''Billboard'']])
+|-
+|"[[Wasting All These Tears]]"
+|[[Cassadee Pope]]
+|[[Frame by Frame (album)|''Frame by Frame'']]
+|
+* Written with Rollie Gaalswyk
+* #37 US [[Billboard Hot 100]]<ref>{{Cite web|url=http://www.billboard.com/artist/298789/Cassadee+Pope/chart?f=379|title=Cassadee Pope - Chart history {{!}} Billboard|website=www.billboard.com|language=en|access-date=July 12, 2017|archive-date=June 3, 2016|archive-url=https://web.archive.org/web/20160603231605/http://www.billboard.com/artist/298789/cassadee+pope/chart?f=379|url-status=dead}}</ref>
+* #5 US [[Hot Country Songs]] ([[Billboard (magazine)|''Billboard'']])<ref>{{Cite web|url=http://www.billboard.com/artist/298789/Cassadee+Pope/chart?f=357|title=Cassadee Pope - Chart history {{!}} Billboard|website=www.billboard.com|language=en|access-date=July 12, 2017|archive-date=June 3, 2016|archive-url=https://web.archive.org/web/20160603231529/http://www.billboard.com/artist/298789/cassadee+pope/chart?f=357|url-status=dead}}</ref>
+* #10 US [[Country Airplay]] ([[Billboard (magazine)|''Billboard'']])
+|-
+|"Hypnotizing"
+|[[Hayden Panettiere]]
+|''[[The Music of Nashville: Season 1, Volume 2]]''
+|
+* Written with [[Cary Barlowe]] and [[Steve Robson]]
+* Featured in the television series [[Nashville (2012 TV series)]], performed by Hayden Panettiere's character [[Juliette Barnes]]
+|-
+|"Wild Boy"
+|[[Danielle Bradbery]]
+|[[Danielle Bradbery (album)|''Danielle Bradbery'']]
+|
+* Written with [[Chris Lindsey]], [[Aimee Mayo]], and [[Troy Verges]]
+|-
+| "Dear Heart"
+| [[Tenille Townes]]
+| ''Light''
+|
+* Written with Kelly Archer and [[Gordie Sampson]]
+|-
+|"Don't Put Dirt On My Grave Just Yet"
+| rowspan="6" |2014
+|[[Hayden Panettiere]]
+|''[[The Music of Nashville: Season 2, Volume 2]]''
+|
+* Written with [[Trent Dabbs]]
+|-
+| "I Ain't Sinkin' Yet"
+| [[Jann Arden]]
+| ''Everything Almost''
+|
+* Written with Connie Harrington
+|-
+|"Tacoma"
+|[[Garth Brooks]]
+|''[[Man Against Machine]]''
+|
+* Written with [[Bob DiPiero]]
+|-
+| "Loved"
+| [[Lucy Hale]]
+| ''[[Road Between]]''
+|
+* Written with [[Lucy Hale]] and [[Brett James]]
+|-
+|"[[747 (album)|747]]"
+|[[Lady Antebellum]]
+|[[747 (album)|''747'']]
+|
+* Written with [[Gordie Sampson]] and [[Cary Barlowe]]
+|-
+|"[[The Heart of Dixie (song)|The Heart of Dixie]]"
+|[[Danielle Bradbery]]
+|[[Danielle Bradbery (album)|''Danielle Bradbery'']]
+|
+*Written with [[Brett James]] and [[Troy Verges]]
+* #58 US [[Billboard Hot 100]]
+* #12 US Country Airplay ([[Billboard (magazine)|Billboard]])
+* #16 US [[Hot Country Songs]] ([[Billboard (magazine)|Billboard]])
+|-
+|"Hear Your Heart"
+| rowspan="5" |2015
+|[[James Bay (singer)|James Bay]]
+|''Other Sides (EP)''
+|
+* Written with James Bay and Steve Robson
+|-
+| "What I Do"
+| [[Kip Moore]]
+| ''[[Wild Ones (Kip Moore album)|Wild Ones]]''
+|
+* Written with [[Kip Moore]] and [[Steve Robson]]
+|-
+| "I Am What I Am"
+| [[Laura Bell Bundy]]
+| ''Another Piece of Me''
+|
+* Written with [[Gordie Sampson]] and [[Troy Verges]]
+|-
+|"Down in Flames"
+|[[Chris Isaak]]
+|''[[First Comes the Night]]''
+|
+*Written with [[Chris Isaak]] and [[Gordie Sampson]]
+|-
+|"Like I'm Gonna Lose You"
+|[[Meghan Trainor]] featuring [[John Legend]]
+|[[Title (album)|''Title'']]
+|
+* Written with [[Meghan Trainor]] and Justin Weaver
+* Certified 4× Platinum US [[Recording Industry Association of America|RIAA]]
+* #8 US [[Billboard Hot 100]]<ref>{{Cite web|url=http://www.billboard.com/artist/6155878/Meghan+Trainor/chart?f=379|title=Meghan Trainor - Chart history {{!}} Billboard|website=www.billboard.com|language=en|access-date=July 12, 2017|archive-date=January 23, 2015|archive-url=https://web.archive.org/web/20150123051130/http://www.billboard.com/artist/6155878/Meghan+Trainor/chart?f=379|url-status=dead}}</ref>
+* #2 US [[Adult Contemporary (chart)|Adult Contemporary]] ([[Billboard (magazine)|''Billboard'']])<ref>{{Cite web|url=http://www.billboard.com/artist/6155878/Meghan+Trainor/chart?f=341|title=Meghan Trainor - Chart history {{!}} Billboard|website=www.billboard.com|language=en|access-date=July 12, 2017|archive-date=January 24, 2016|archive-url=https://web.archive.org/web/20160124160046/http://www.billboard.com/artist/6155878/Meghan%2BTrainor/chart?f=341|url-status=dead}}</ref>
+* #1 US [[Adult Top 40]] ([[Billboard (magazine)|''Billboard'']])<ref>{{Cite web|url=http://www.billboard.com/artist/6155878/Meghan+Trainor/chart?f=343|title=Meghan Trainor - Chart history {{!}} Billboard|website=www.billboard.com|language=en|access-date=July 12, 2017|archive-date=August 12, 2016|archive-url=https://web.archive.org/web/20160812213340/http://www.billboard.com/artist/6155878/Meghan+Trainor/chart?f=343|url-status=dead}}</ref>
+* #5 US [[Mainstream Top 40]] ([[Billboard (magazine)|''Billboard'']])<ref>{{Cite web|url=http://www.billboard.com/artist/6155878/Meghan+Trainor/chart?f=381|title=Meghan Trainor - Chart history {{!}} Billboard|website=www.billboard.com|language=en|access-date=July 12, 2017|archive-date=August 12, 2016|archive-url=https://web.archive.org/web/20160812213443/http://www.billboard.com/artist/6155878/Meghan+Trainor/chart?f=381|url-status=dead}}</ref>
+|-
+| "[[The Bird and the Rifle]]"
+| 2016
+| [[Lori McKenna]]
+| ''[[The Bird and the Rifle]]''
+|
+* Written with [[Lori McKenna]] and [[Troy Verges]]
+|-
+| "Space"
+| rowspan=6| 2017
+| [[Lindsay Ell]]
+| ''[[Worth the Wait (EP)|Worth the Wait]]'' and ''[[The Project (Lindsay Ell album)|The Project]]''
+|
+* Written with Maggie Chapman and Heather Morgan
+|-
+| "Everything Without You"
+| Temecula Road
+| Non-album single
+|
+* Written with [[Nick Brophy]] and [[Tom Douglas (songwriter)|Tom Douglas]] 
+|-
+| "I Don't Trust Myself"
+| [[Sara Evans]]
+| ''[[Words (Sara Evans album)|Words]]''
+|
+* Written with [[Steve McEwan]] and [[Gordie Sampson]]
+|-
+| "Unsaid"
+| [[Sunny Sweeney]]
+| ''[[Trophy (Sunny Sweeney album)|Trophy]]''
+|
+* Written with [[Sunny Sweeney]]
+|-
+| "Same Day Different Bottle"
+| [[Lauren Alaina]]
+| ''[[Road Less Traveled (Lauren Alaina album)|Road Less Traveled]]''
+|
+* Written with [[Lauren Alaina]] and Dan Couch
+|-
+| "Kill Your Love"
+| [[Jess Moskaluke]]
+| ''[[Past the Past]]''
+|
+* Written with [[Ashley Monroe]] and [[Liz Rose]]
+|-
+| "Put Me Back Together"
+| rowspan=2| 2018
+| [[Cheat Codes (DJs)|Cheat Codes]] featuring [[Kiiara]]
+| Non-album single
+|
+* Written with [[Cheat Codes (DJs)|Trevor Dahl]], Brenton Duvall, Jonny Price and [[Kiiara|Kiara Saulters]]
+|-
+| "[[Dying Star (album)|Dying Star]]"
+| [[Ruston Kelly]]
+| ''[[Dying Star (album)|Dying Star]]''
+|
+* Written with Rollie Gaalswyk and [[Ruston Kelly]]
+|-
+| "Glasgow (No Place Like Home)"
+| rowspan=6| 2019
+| [[Jessie Buckley]]
+| ''[[Wild Rose (2018 film)#Soundtrack|Wild Rose]]''
+|
+* Written with [[Mary Steenburgen]] and Kate York
+|-
+| "Canary"
+| rowspan=2| [[Joy Williams (singer)|Joy Williams]]
+| rowspan=2| ''[[Front Porch]]''
+|
+* Written with [[Angelo Petraglia]] and [[Joy Williams (singer)|Joy Williams]]
+|-
+| "No Place Like You"
+|
+* Written with [[Paul Moak]] and [[Joy Williams (singer)|Joy Williams]]
+|-
+| "[[Every Girl in This Town]]"
+| rowspan=3| [[Trisha Yearwood]]
+| rowspan=3| ''[[Every Girl (album)|Every Girl]]''
+|
+* Written with Erik Dylan and Connie Harrington
+|-
+| "I'll Carry You Home"
+|
+* Written with [[Gordie Sampson]] and [[Troy Verges]]
+|-
+| "Can't Take Back Goodbye"
+|
+* Written with [[Busbee]] and [[Troy Verges]]
+|-
+| "High"
+| rowspan=3| 2020
+|[[Miley Cyrus]]
+|''[[Plastic Hearts]]''
+|
+* Written with [[Miley Cyrus]] and [[Jennifer Decilveo]]
+|-
+| "Feel"
+| [[Fletcher (singer)|Fletcher]]
+| ''The S(ex) Tapes''
+|
+* Written with [[Jennifer Decilveo]] and [[Fletcher (singer)|Cari Fletcher]]
+|-
+| "[[Goldmine (Gabby Barrett album)|Goldmine]]"
+| [[Gabby Barrett]]
+| ''[[Goldmine (Gabby Barrett album)|Goldmine]]''
+|
+* Written with [[Nicolle Galyon]] and [[Liz Rose]]
+|-
+| "North Star"
+| 2021
+| [[Tori Kelly]]
+| [[Zoey's Extraordinary Playlist|Zoey's Extraordinary Christmas]]
+|
+* Written with [[Mary Steenburgen]] and [[Troy Verges]]
+* Featured in the TV Movie [[Zoey's Extraordinary Playlist|Zoey's Extraordinary Christmas]]
+|-
+| "Want You To Miss Me"
+| rowspan=2| 2022
+| [[Sunny Sweeney]]
+| ''Married Alone''
+|
+* Written with [[Sunny Sweeney]]
+|-
+| "Neon Stars"
+| [[Wild Rivers (band)|Wild Rivers]]
+| ''Sidelines''
+|
+* Written with [[Wild Rivers (band)|Khalid Yassein]]
+|-
+| "Island" 
+| rowspan=3| 2023
+|[[Miley Cyrus]]
+|''[[Endless Summer Vacation]]''
+|
+* Written with [[Miley Cyrus]], [[Jennifer Decilveo]], [[BJ Burton]], [[Michael Pollack (songwriter)|Michael Pollack]], Dani Miller 
+|}
+
+==Awards and nominations==
+{| class="wikitable" style="text-align:center;"
+|-
+! Year
+! Award show
+! Category
+! Nominated work
+! Result
+! Ref
+|-
+| 2020
+| [[25th Critics' Choice Awards|Critics' Choice Awards]]
+| Best Original Song
+| "[[Wild Rose (2018 film)|Glasgow (No Place Like Home)]]"
+| {{Won}}
+| <ref>{{Cite magazine|url=http://www.billboard.com/articles/news/awards/8547864/rocketman-joker-music-wins-2020-critics-choice-awards|title='Rocketman,' 'Joker,' 'Wild Rose' Take Home Top Music Prizes at 2020 Critics' Choice Awards|date=January 12, 2020|magazine=Billboard}}</ref>
+|-
+| rowspan=2|2022
+| [[2022 CMT Music Awards|CMT Music Awards]]
+| Breakthrough Video of the Year
+| "I Can't" <small>(with [[Old Dominion (band)|Old Dominion]])</small>
+| {{nominated}}
+| <ref>{{Cite web | url=https://deadline.com/2022/03/cmt-music-awards-nominations-2022-cbs-1234979574/ | title=CMT Music Awards Nominations: Kane Brown Leads Field, but First-Timers Abound | date=March 16, 2022 }}</ref>
+|-
+| [[57th Academy of Country Music Awards|Academy of Country Music Awards]]
+| rowspan=2| New Female Artist of the Year
+| rowspan=2| Caitlyn Smith
+| {{nominated}}
+| <ref>{{Cite magazine | url=https://www.rollingstone.com/music/music-country/2022-acm-awards-nominees-1297590/ | title=2022 ACM Awards Nominations: All-Star Collabs, Morgan Wallen, and That 'Applebee's Song' | magazine=[[Rolling Stone]] | date=February 10, 2022 }}</ref>
+|-
+| 2023
+| [[58th Academy of Country Music Awards|Academy of Country Music Awards]]
+| {{nominated}}
+|
+|}
+
+== References ==
+{{reflist}}
+
+==External links==
+*{{allMusic|artist/caitlyn-smith-mn0000438452}}
+*{{discogs artist}}
+
+{{Caitlyn Smith}}
+{{authority control}}
+
+{{DEFAULTSORT:Smith, Caitlyn}}
+[[Category:1986 births]]
+[[Category:Living people]]
+[[Category:American women country singers]]
+[[Category:American country rock singers]]
+[[Category:American country singer-songwriters]]
+[[Category:People from Goodhue County, Minnesota]]
+[[Category:Country musicians from Minnesota]]
+[[Category:21st-century American women]]
+[[Category:Singer-songwriters from Minnesota]]

@@ -1,0 +1,119 @@
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = The Notorious Cherry Bombs
+| image                 = 
+| caption            = 
+| image_size            = 
+| alias               = The Cherry Bombs
+| background          = group_or_band
+| origin              = U.S.
+| genre               = [[country music|Country]]
+| years_active        = 1980–1988, 2003–2004
+| label               = [[Universal South Records|Universal South]]
+| spinoff_of = The Hot Band
+| past_members        = [[Eddie Bayers]]<Br />[[Richard Bennett (guitarist)|Richard Bennett]]<br />[[Tony Brown (record producer)|Tony Brown]]<br />[[Rodney Crowell]]<br />[[Hank DeVito]]<br />[[Vince Gill]]<br />[[Emory Gordy Jr.]]<br />John Hobbs<br />[[Larrie Londin]]<Br />[[Michael Rhodes (musician)|Michael Rhodes]]
+}}
+'''The Notorious Cherry Bombs''', originally called '''The Cherry Bombs''', was an American [[country music]] supergroup founded by singer-songwriter [[Rodney Crowell]] in 1980. A former member of [[Emmylou Harris]]'s Hot Band, Crowell picked several former Hot Band members as his backing band, which he named The Cherry Bombs. They made their debut as Rodney's backing band on his 1980 album ''But What Will the Neighbors Think''.<ref name="allmusic">{{cite web |url={{Allmusic|class=artist|id=p670028|pure_url=yes}} |title=allmusic ((( The Notorious Cherry Bombs > Biography ))) |access-date=2007-12-01 |last=Ankeny |first=Jason |work=[[Allmusic]]}}</ref>
+
+Although they served as Crowell's backing band for several years, The Cherry Bombs did not record an album of their own until a 2004 reunion (at which point "Notorious" had been added to the band's name).<ref name="allmusic"/> The album, also titled ''[[The Notorious Cherry Bombs (album)|The Notorious Cherry Bombs]]'', produced a hit on the country music charts in "It's Hard to Kiss the Lips at Night That Chew Your Ass Out All Day Long".
+
+==The Cherry Bombs==
+Rodney Crowell was a founding member of country singer [[Emmylou Harris]]'s Hot Band; when he began his own solo career in the early 1980s, Crowell picked several former Hot Band members as his backing band, whom he named The Cherry Bombs. The initial members comprised [[Vince Gill]] ([[Backing vocalist|background vocals]], [[electric guitar]]), [[Hank DeVito]] ([[steel guitar]]), [[Emory Gordy Jr.]] ([[bass guitar]]), [[Richard Bennett (guitarist)|Richard Bennett]] ([[electric guitar]]), [[Tony Brown (record producer)|Tony Brown]] ([[keyboard instrument|keyboards]]), and [[Larrie Londin]] ([[Drum kit|drums]]).<ref name="allmusic"/>
+
+As The Cherry Bombs, the band backed both Crowell and [[Rosanne Cash]], to whom Crowell was married at the time. After Crowell and Cash divorced, the band's members began leaving.<ref name="allmusic"/> Gill began a solo career in country music in the late 1980s, while Brown became a record producer for [[MCA Records]]. Londin died from a heart attack in 1992.<ref name="allmusic"/> Gordy married country singer [[Patty Loveless]] and served as her producer, while Bennett and DeVito found work as studio musicians.
+
+==Return as The Notorious Cherry Bombs==
+In 2003, several of the former members of The Cherry Bombs, including Gill and Crowell, re-united. Emory Gordy Jr. opted not to participate in the reunited group, which by then comprised [[Eddie Bayers]] (drums), [[Richard Bennett (musician)|Richard Bennett]] (electric guitar, [[bouzouki]], [[cavaquinho]]), [[Hank DeVito]] (steel guitar, [[Dobro]]), Tony Brown (piano, keyboards), John Hobbs (piano, keyboards), and [[Michael Rhodes (musician)|Michael Rhodes]] (bass guitar), with Gill and Crowell alternating as lead singers. A year later, the band was signed to a record deal with [[Universal South Records]] to record their first album as an actual band. Due to legal concerns, the band was renamed The Notorious Cherry Bombs.<ref name="allmusic"/><ref>{{cite web |url=http://www.countrystarsonline.com/CSO/SOWArchive/NotoriousCherryBombs.htm|title=The Notorious Cherry Bombs - Self-titled Album review |access-date=2007-12-01 |last=Hill |first=Cheryl Harvey |work=Country Stars Online}}</ref> Their self-titled album produced a minor hit on the ''Billboard'' [[Hot Country Singles & Tracks]] charts that year in "It's Hard to Kiss the Lips at Night That Chew Your Ass Out All Day Long". This was followed by "Let It Roll, Let It Ride" which failed to chart. Also included on the album was "[[Making Memories of Us]]", which had previously been recorded by [[Tracy Byrd]] and would later become a Number One hit when [[Keith Urban]] released his own version in 2005. After the release of their second single, The Notorious Cherry Bombs disbanded again, and Crowell and Gill resumed their solo careers.
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:16em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="3"| Peak chart positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]
+! width="45"| [[Billboard 200|US]]
+! width="45"| [[Top Heatseekers|US<br>Heat]]
+|-
+! scope="row"| ''[[The Notorious Cherry Bombs (album)|The Notorious Cherry Bombs]]''
+| 
+* Release date: July 27, 2004
+* Label: [[Universal South Records]]
+| 23
+| 135
+| 4
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="60"| [[Hot Country Songs|US Country]]
+|-
+| 2004
+! scope="row"| "It's Hard to Kiss the Lips at Night<br />That Chew Your Ass Out All Day Long"
+| 47
+| align="left" rowspan="2"| ''The Notorious Cherry Bombs''
+|-
+| 2005
+! scope="row"| "Let It Roll, Let It Ride"
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:20em;"| Video
+! Director
+|-
+| 2004
+! scope="row"| "It's Hard to Kiss the Lips at Night<br />That Chew Your Ass Out All Day Long"
+| Eric Welch
+|}
+
+==Awards==
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! Association
+! Category
+! Nominated work
+! Result<ref>{{cite web | url=https://www.grammy.com/artists/vince-gill/16740 | title=Search results for Vince Gill | publisher=Grammy.com | accessdate=April 18, 2024}}</ref>
+|-
+|rowspan=2|2004
+|rowspan=2|[[Grammy Awards]]
+|[[Grammy Award for Best Country Song]]
+|rowspan=2|"It's Hard to Kiss the Lips at Night That Chew Your Ass Out All Day Long"
+|{{nom}}
+|-
+|[[Grammy Award for Best Country Performance by a Duo or Group with Vocal]]
+|{{nom}}
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.vincegill.com Vince Gill official website]
+*[http://www.rodneycrowell.com Rodney Crowell official website]
+
+{{Rodney Crowell}}
+{{Vince Gill}}
+{{Authority control}}
+
+{{DEFAULTSORT:Notorious Cherry Bombs}}
+[[Category:American country music groups]]
+[[Category:American supergroups]]
+[[Category:Musical groups established in 1980]]
+[[Category:Show Dog-Universal Music artists]]
+[[Category:Country music supergroups]]

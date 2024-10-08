@@ -1,0 +1,84 @@
+{{Infobox musical artist
+| name              = Super Grit Cowboy Band
+| image             = 
+| alias             = 
+| origin            = [[North Carolina]], U.S.
+| genre             = [[Country rock]], [[southern rock]], [[Bluegrass music|bluegrass]]
+| years_active      = 1975-present
+| label             = Sound Hut, Hoodswamp
+| associated_acts   = [[Shenandoah (band)|Shenandoah]], [[Orrall & Wright]]
+| website           = 
+| current_members   = Mark Golladay<br />Dexter Horton<br />Mike Kinzie<br />Clyde Mattocks<br />Carroll Wade
+| past_members      = Alan M Hicks<br />Bill Lyerly<br />[[Don Cox (singer)|Don Cox]]<br />Bill Ellis<br />Danny Vinson<br />Cliff Swanhart<br />Jason D. Smith<br />Bill Norton<br />[[Curtis Wright]]
+}}
+'''Super Grit Cowboy Band''' is an American [[country music]] band formed in [[North Carolina]].<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=411|isbn=978-0-89820-177-2}}</ref> It was founded by Clyde Mattocks, Libby Mattocks, Bill Lyerly, Danny Vinson, Dave Cavanaugh  and Alfred Ward. Active since 1974, the band recorded first with Sound Hut Studios.<ref>[http://www.soundhutstudios.com/Clients.htm Sound Hut - Former Clients]</ref> Beginning with their 1981 album, the band has recorded on its own Hoodswamp label.
+
+==History==
+The band formed in 1974, comprising Clyde Mattocks ([[steel guitar]], [[Dobro]], [[banjo]], [[electric guitar]]), Danny Vinson ([[drum kit|drums]]), Mike Kinzie ([[fiddle]], [[saxophone]], [[piano]], [[harmonica]], [[acoustic guitar]]), Bill Ellis ([[bass guitar]], [[keyboard instrument|keyboards]]) and [[Curtis Wright]] ([[lead guitar]]).<ref>{{cite magazine |url=https://books.google.com/books?id=ASQEAAAAMBAJ&dq=%22Curtis+wright%22+%22super+grit%22&pg=PT45 |title=Super Grit Cowboy Band — "If You Don't Know Me by Now" |date=1 August 1981 |magazine=Billboard |accessdate=27 August 2010}}</ref>
+
+The band recorded their first album in 1977 featuring Bill Lyerly (Bill Lyerly Band).<ref>[http://www.billlyerly.com/index.html Bill Lyerly Official Website]</ref>
+Later the band recorded for its own label, Hoodswamp Records, and released three albums on it. In 1981, the band charted for the first time on [[Hot Country Songs]] with "If You Don't Know Me by Now," which reached No.&nbsp;71. Between then and 1983, four more of the band's singles reached the country charts, including its highest-charting, the No.&nbsp;48 "She Is the Woman." ''[[Billboard (magazine)|Billboard]]'' gave the band's 1981 album ''If You Can't Hang'' a positive review, praising the instrumentation as well as the [[rock music|rock]] influences.<ref>{{cite magazine |url=https://books.google.com/books?id=JiQEAAAAMBAJ&dq=%22Curtis+wright%22+%22super+grit%22&pg=PT84 |title=Top Album Picks |date=4 July 1981 |magazine=Billboard |accessdate=27 August 2010}}</ref>
+
+At one point, [[Don Cox (singer)|Don Cox]] was a member of the band. He later recorded ''All Over Town'' for [[Step One Records]] and charted at No.&nbsp;29 on the country music charts with its title track.<ref>Whitburn, p. 106</ref> Wright later joined [[Vern Gosdin]]'s road band, of which he was a member until 1989. After quitting that band, Wright was a solo artist for Airborne and [[Liberty Records]], charting in the Top 40 with "She's Got a Man on Her Mind" in 1990 and releasing a self-titled album in 1992. He later recorded one album with [[Robert Ellis Orrall]] in the duo [[Orrall & Wright]],<ref name="allmusic">{{cite web |url=http://allmusic.com/cg/amg.dll?p=amg&sql=11:kzfwxql5ldhe~T0 |title=Curtis Wright Biography |accessdate=2007-12-28 |last=Mansfield |first=Brian |work=[[Allmusic]]}}</ref> then joined [[Shenandoah (band)|Shenandoah]] from 2000 to 2008. Wright has also written singles for Shenandoah, [[Ronnie Milsap]], [[Daryle Singletary]], and [[Carolina Rain]].
+
+Since 2010, the band has consisted of Mattocks and Kinzie, along with guitarist Mark Golladay, drummer Dexter Horton and bass guitarist Carroll Wade.<ref>{{cite web |url=http://www.supergritband.com/thegrits/ |title=The Grits |work=Super Grit Cowboy Band |accessdate=27 August 2010}}</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable"
+! Year
+! Album information
+|-
+| 1977
+| '''''Super Grit Cowboy Band'''''
+* <small>Label: Sound Hut</small>
+|-  
+| 1981
+| '''''If You Can't Hang...Drag Your Country Ass Home'''''
+* <small>Label: Hoodswamp</small>
+|- 
+| 1983
+| '''''Showin' Our Class'''''
+* <small>Label: Hoodswamp</small>
+|-
+|1986
+| '''''This Way To The Stage'''''
+* <small>Label: Hoodswamp</small>
+|}
+
+===Singles===
+{| class="wikitable"
+|-
+!rowspan="2"|Year
+!rowspan="2"|Single
+!colspan="1"|Chart Positions
+|-
+!width="50"|<small>[[Hot Country Songs|US Country]]</small><ref name="whitburn"/>
+|- 
+|rowspan=2|1981
+|"If You Don't Know Me by Now"
+|71
+|-
+|"Carolina by the Sea"
+|64
+|-
+|rowspan=2|1982
+|"Semi Diesel Blues"
+|83
+|-
+|"She Is the Woman"
+|48
+|-
+|1983
+|"I Bought the Shoes (That Just Walked Out on Me)"
+|79
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.supergritband.com/thegrits/ Official website]
+
+[[Category:Country music groups from North Carolina]]
+[[Category:Musical groups established in 1974]]

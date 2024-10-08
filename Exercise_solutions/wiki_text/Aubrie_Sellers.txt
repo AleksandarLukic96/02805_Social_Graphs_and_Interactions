@@ -1,0 +1,131 @@
+{{short description|American singer-songwriter (born 1991)}}
+
+{{BLP sources|date=January 2016}}
+{{Infobox musical artist
+| name            = Aubrie Sellers
+| birth_name      = Aubrie Lee Sellers
+| birth_date      = {{Birth date and age|1991|02|12}}<ref>{{cite web|url=https://www.astro.com/astro-databank/Sellers,_Aubrie|title=Sellers, Aubrie|date=August 8, 2016|accessdate=December 10, 2017}}</ref>
+| birth_place     = [[Nashville, Tennessee]], U.S.
+| instrument      = {{hlist|Vocals|guitar}}
+| genre           = [[Alternative country]]
+| occupation      = {{hlist|Singer|songwriter|musician}}
+| years_active    = 2015–present
+| label           = [[Warner Music Nashville]]
+| website         = {{URL|http://www.aubriesellers.com/}}
+}}
+
+'''Aubrie Lee Sellers''' (born February 12, 1991) is an American country music singer, songwriter, and musician. She is the daughter of singer/songwriters [[Jason Sellers]] and [[Lee Ann Womack]]; and the stepdaughter of music producer [[Frank Liddell]]. Sellers's debut album, ''New City Blues'', was released on January 29, 2016, through [[Carnival Music]]. Many of the songs on ''New City Blues'' were co-written with Adam Wright.<ref>from an interview on [https://americanamusicshow.com/episode297 Americana Music Show #297], published April 26, 2016.</ref>
+
+She was featured on [[Ralph Stanley|Dr. Ralph's]] 2015 album, ''Ralph Stanley and Friends: A Man of Constant Sorrow'', where she sang “White Dove” with her mother, Lee Ann Womack.<ref>{{cite web|url=http://www.countryweekly.com/music/whos-new-aubrie-sellers|title=Who's New: Aubrie Sellers|work=Country Weekly}}</ref>
+
+==Influences==
+Sellers has cited numerous musical influences that reach across genres: [[The Kinks]], [[Screamin' Jay Hawkins]], Buddy and Julie Miller, [[Creedence Clearwater Revival]], [[Ricky Skaggs]], [[Patty Griffin]], [[Neil Young]], [[Bob Dylan]], Ralph Stanley and [[Led Zeppelin]].<ref>{{cite web|url=https://opry.com/artist/aubrie-sellers#sthash.tO6oXSK9.dpuf|title=Aubrie Sellers:Artist bio|work=Grand Ole Opry}}</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:12em;"| Title
+! rowspan="2" style="width:20em;"| Album details
+! colspan="3"| Peak chart positions
+! rowspan="2" style="width:9em;"| Sales
+|- style="font-size:smaller;"
+! style="width:45px;"| [[Top Country Albums|US Country]]<br /><ref name=billboard>{{cite magazine |url=https://www.billboard.com/charts/search?artistname=Aubrie&charttitle=&label=&formatName=&chartcode= |title=Aubrie|magazine=Billboard }}</ref>
+! style="width:45px;"| [[Top Heatseekers|US Heat]]<br /><ref name=billboard />
+! style="width:45px;"| [[Independent Albums|US Indie]]<br /><ref name=billboard />
+|-
+! scope="row"| ''New City Blues''
+|
+* Release date: January 29, 2016
+* Label: Carnival Recording Company
+| 23
+| 6
+| 20
+|
+*US: 2,000<ref>{{cite news |url=http://roughstock.com/news/2016/02/39800-top-10-country-albums-chart-february-16-2016 |title=Top 10 Country Albums Chart: February 16, 2016 |first= Matt |last=Bjorke |date= February 16, 2016 |work=Roughstock }}</ref>
+|-
+! scope="row"| ''Far from Home''
+|
+* Release date: February 7, 2020<ref>{{cite journal |url=http://www.countryaircheck.com/pdfs/current121619.pdf |title=Checkout |page=Chart Page 4 | journal=Country Country Aircheck |date = December 16, 2019|issue= 684}}</ref>
+* Label: Soundly Music
+| —
+| —
+| —
+|
+*US: 600<ref>{{cite news|url=http://roughstock.com/news/2020/02/44132-top-10-country-albums-chart-pure-sales|title=Top 10 Country Albums Chart in Pure Sales: February 24, 2020|work=Roughstock|first=Matt |last=Bjorke |date=February 25, 2020|accessdate= March 4, 2020}}</ref>
+|-
+| colspan="8" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Other Appearances===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="1"| Year
+! rowspan="1"| Artist 
+! rowspan="1"| Song
+! rowspan="1"| Album
+|-
+| 2014
+! scope="row"| [[David Nail]]
+| style="text-align:left;"| "Brand New Day"
+| rowspan="1"| ''[[I'm a Fire (album)|I'm a Fire]]''
+|-
+| 2015
+! scope="row"| Ralph Stanley <br> Lee Ann Womack
+| style="text-align:left;"| "Man of Constant Sorrow"
+| rowspan="1"| ''White Dove''
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;"| Single
+! Album
+|-
+| rowspan="2"|2016
+! scope="row"| "Light of Day"
+| rowspan="3"|''New City Blues''
+|-
+! scope="row"| "Sit Here and Cry"
+|-
+| 2017
+! scope="row"| "Liar Liar"
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;"| Video
+! Director
+|-
+| 2016
+! scope="row"| "Sit Here and Cry"<ref>{{cite web|url=http://www.cmt.com/videos/aubrie-sellers/1268455/sit-here-and-cry.jhtml|archive-url=https://web.archive.org/web/20160113022833/http://www.cmt.com/videos/aubrie-sellers/1268455/sit-here-and-cry.jhtml|url-status=dead|archive-date=January 13, 2016|title=CMT : Videos : Aubrie Sellers : Sit Here and Cry|publisher=[[Country Music Television]]|accessdate=February 9, 2016}}</ref>
+| Roger Pistole
+|-
+| 2017
+! scope="row"| "Paper Doll"
+| 
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{official website|http://www.aubriesellers.com/ }}
+
+{{authority control}}
+
+{{DEFAULTSORT:Sellers, Aubrie}}
+[[Category:1991 births]]
+[[Category:Living people]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:21st-century American women singers]]
+
+
+{{US-country-singer-stub}}

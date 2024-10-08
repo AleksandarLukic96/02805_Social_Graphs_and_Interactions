@@ -1,0 +1,99 @@
+{{short description|Canadian country music singer (born 1966)}}
+{{third-party|date=March 2011}}
+{{Infobox musical artist
+| image           =
+| name            = Calvin Wiggett
+| birth_name      =
+| birth_date      = {{birth date and age|1966|07|14}}
+| birth_place     = [[Regina, Saskatchewan|Regina]], Saskatchewan, Canada
+| origin          =
+| instrument      = Vocals, guitar
+| genre           = [[Country music|Country]]
+| occupation      = Singer
+| years_active    = 1995–present
+| label           = [[Royalty Records|Royalty]]
+| associated_acts =
+| website         = {{URL|calvin-wiggett.com}}
+}}
+
+'''Calvin Wiggett''' (born July 14, 1966) is a Canadian [[country music]] singer. Wiggett recorded one studio album for [[Royalty Records]], 1995's ''[[Made for Each Other (Calvin Wiggett album)|Made for Each Other]]''. This album produced four chart singles for him on the Canadian country music charts, of which the highest was the No.&nbsp;13-peaking "Love Music Loves to Dance."
+
+==Biography==
+Though he was born in Regina, Saskatchewan, Wiggett has lived all over the world, from Bienfait, Saskatchewan to [[Williston, North Dakota]] to [[Calgary]], Alberta to [[Tehran|Tehran, Iran]]. After moving to Calgary, Wiggett entered his first singing contest in 1989, where he finished in the semi-finals. He continued entering contests, eventually winning [[CFCW (AM)|CFCW]]'s Star Search Talent Contest on February 26, 1995.<ref>[http://www.calvinwiggett.com/bio1.html CalvinWiggett_Bio1<!-- Bot generated title -->]</ref>
+
+Later that year, Wiggett was signed to [[Royalty Records]] and released his first album, ''[[Made for Each Other (Calvin Wiggett album)|Made for Each Other]]''. His first single, "Missing You", was released on September 1, 1995, with an accompanying video sent to [[CMT (Canada)|NCN]]. The song reached the top 20 on the Canadian country singles chart, as did the follow-up, "Love Music Loves to Dance." In 1996, Wiggett was nominated for Best Male Artist at the [[RPM (magazine)|RPM]] Big Country Awards, and Best Country Male Vocalist at the prestigious [[Juno Award]]s. He also received several nominations from the Alberta Recording Industry Association (ARIA) in 1996 and 1997.<ref>[http://www.calvinwiggett.com/bio2.html CalvinWiggett_Bio2<!-- Bot generated title -->]</ref>
+
+On September 7, 1996, it was announced that Wiggett had signed an American record deal with [[Arista Nashville]]. As he traveled between [[Toronto]] and [[Nashville, Tennessee|Nashville]] working on his second album, Wiggett continued to maintain his career in Canada with the singles "I Know What It's Not" and "Made for Each Other." Wiggett's second album was completed in 1998, but Arista ultimately chose not to release the project.<ref>[http://www.calvinwiggett.com/welcome.html CalvinWiggett_Home<!-- Bot generated title -->]</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2" style="width:12em;"| Title
+! rowspan="2" style="width:14em;"| Details
+! Peak positions
+|- style="font-size:smaller;"
+! width="65"| [[RPM (magazine)|CAN Country]]<br /><ref>{{cite web|url=http://www.collectionscanada.gc.ca/rpm/028020-119.01-e.php?brws_s=1&file_num=nlc008388.3031&type=1&interval=24&PHPSESSID=jhcbm69pfb5ug4qgb8n6umfis6|title=RPM Country Albums for July 15, 1996|work=[[RPM (magazine)|RPM]]|accessdate=March 10, 2011|archive-url=https://web.archive.org/web/20121021193538/http://www.collectionscanada.gc.ca/rpm/028020-119.01-e.php?brws_s=1&file_num=nlc008388.3031&type=1&interval=24&PHPSESSID=jhcbm69pfb5ug4qgb8n6umfis6|archive-date=October 21, 2012|url-status=dead}}</ref>
+|-
+! scope="row"| ''[[Made for Each Other (Calvin Wiggett album)|Made for Each Other]]''
+| 
+* Release date: 1995
+* Label: [[Royalty Records]]
+| 14
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2"| Year
+! rowspan="2" style="width:16em;"| Single
+! Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[RPM (magazine)|CAN Country]]<br /><ref>{{cite web|url=http://www.collectionscanada.gc.ca/rpm/028020-110.01-e.php?PHPSESSID=dcu2niedastnsk2qgu7d7sshl5&q1=calvin+wiggett&q2=Country+Singles&interval=20|title=Results - RPM - Library and Archives Canada - Country Singles|work=[[RPM (magazine)|RPM]]|accessdate=March 10, 2011|archive-url=https://web.archive.org/web/20121021193649/http://www.collectionscanada.gc.ca/rpm/028020-110.01-e.php?PHPSESSID=dcu2niedastnsk2qgu7d7sshl5&q1=calvin+wiggett&q2=Country+Singles&interval=20|archive-date=October 21, 2012|url-status=dead}}</ref>
+|-
+| 1995
+! scope="row"| "Missing You"
+| 18
+| align="left" rowspan="4"| ''Made for Each Other''
+|-
+| rowspan="2"| 1996
+! scope="row"| "Love Music Loves to Dance"
+| 13
+|-
+! scope="row"| "I Know What It's Not"
+| 44
+|-
+| 1997
+! scope="row"| "Made for Each Other"
+| 54
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:16em;"| Video
+|-
+| 1995
+! scope="row"| "Missing You"
+|-
+| rowspan="2"| 1996
+! scope="row"| "Love Music Loves to Dance"
+|-
+! scope="row"| "I Know What It's Not"
+|}
+
+==References==
+<references/>
+
+==External links==
+*[https://web.archive.org/web/20130522050519/http://www.calvin-wiggett.com/ Calvin Wiggett Official Site]
+
+{{Authority control}}
+{{DEFAULTSORT:Wiggett, Calvin}}
+[[Category:1966 births]]
+[[Category:Living people]]
+[[Category:Canadian country singers]]
+[[Category:Canadian male singers]]
+[[Category:Musicians from Regina, Saskatchewan]]
+[[Category:Arista Nashville artists]]
+[[Category:Singers from Saskatchewan]]
+[[Category:20th-century Canadian male singers]]

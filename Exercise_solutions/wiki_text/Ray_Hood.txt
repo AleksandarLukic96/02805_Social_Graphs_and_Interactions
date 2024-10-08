@@ -1,0 +1,100 @@
+{{short description|American country music singer-songwriter}}
+{{Use mdy dates|date=June 2020}}
+{{Infobox musical artist
+| name            = Ray Hood
+| image           =
+| image_size      =
+| birth_name      =
+| alias           =
+| birth_date      =
+| birth_place     = [[Alabama]]
+| instrument      = Guitar
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 1994–present
+| label           = Caption/[[Curb Records|Curb]]
+| associated_acts = [[Doug Stone]]
+| website         = 
+}}
+
+'''Ray Hood''' (born in [[Alabama]]<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|page=193|year=2008|isbn=978-0-89820-177-2}}</ref>) is an American [[country music]] singer-songwriter. Hood co-wrote [[Doug Stone]]'s 1994 top five single "[[Addicted to a Dollar]]."<ref name="critical">{{cite news|last=Price|first=Deborah Evans|title=Reviews & Previews|url=https://books.google.com/books?id=mw8EAAAAMBAJ&q=%22Ray+hood%22&pg=PA32|accessdate=May 16, 2012|newspaper=[[Billboard (magazine)|Billboard]]|date=June 17, 2000}}</ref> Between 1996 and 2000, Hood charted two singles on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles & Tracks]] chart.<ref name="whitburn" /> The highest-charting of the two, "Critical List," peaked at number 67 in 2000. It received a favorable review from Deborah Evans Price of ''Billboard'', who wrote that "Hood has an impressive, barroom-seasoned [[baritone]] that works effectively on this uptempo number."<ref name="critical" /> The follow-up single, "What's a Little More Water," also received a positive review from Price, who said that "all the elements are here–a stunning traditional country vocal, clean and crisp production, and a killer hook."<ref>{{cite news|last=Price|first=Deborah Evans|title=Reviews & Previews|url=https://books.google.com/books?id=BhQEAAAAMBAJ&q=%22Ray+hood%22&pg=PA20|accessdate=May 16, 2012|newspaper=[[Billboard (magazine)|Billboard]]|date=May 19, 2001}}</ref>
+
+His eponymous second album, released by Caption Records in October 2000, received a favorable review from Ray Waddell of ''Billboard'', who wrote that "it's not often an artist comes along who can ease from heart-wrenching country ballads to gritty machismo so effortlessly and convincingly" and called the album "one of the most complete, solid country packages to come out of [[Nashville, Tennessee|Nashville]] this year."<ref>{{cite news|last=Waddell|first=Ray|title=Reviews & Previews|url=https://books.google.com/books?id=aREEAAAAMBAJ&q=%22Ray+hood%22&pg=PA22|accessdate=May 16, 2012|newspaper=[[Billboard (magazine)|Billboard]]|date=September 9, 2000}}</ref> The album received a negative review from Tom Netherland of [[Country Standard Time]], who said that "despite a strong baritone and Nashville's leading session men backing his dozen tracks, Hood simply veers too from the country fold."<ref>{{cite news|last=Netherland|first=Tom|title=Ray Hood review|url=http://www.countrystandardtime.com/d/cdreview.asp?xid=2297|accessdate=May 16, 2012|newspaper=[[Country Standard Time]]}}</ref>
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:16em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''Back to Back Heartaches''<ref>{{cite web|url={{AllMusic|class=album|id=r290809|pure_url=yes}}|title=''Back to Back Heartaches''|work=[[Allmusic]]|accessdate=May 16, 2012}}</ref>
+| 
+* Release date: July 31, 1995
+* Label: Caption Records
+|-
+! scope="row"| ''Ray Hood''
+| 
+* Release date: October 24, 2000
+* Label: Caption Records
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2"| Year
+! rowspan="2" style="width:16em;"| Single
+! Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]
+|-
+| 1995
+! scope="row"| "Teddy Bears in Oklahoma"<ref>{{cite web|url={{AllMusic|class=album|id=r335582|pure_url=yes}}|title=Teddy Bears in Oklahoma|work=[[Allmusic]]|accessdate=May 16, 2012}}</ref>
+| —
+| align="left"| non-album song
+|-
+| 1996
+! scope="row"| "Freedom"
+| 73
+| align="left" rowspan="3"| ''Ray Hood''
+|-
+| 2000
+! scope="row"| "Critical List"
+| 67
+|-
+| 2001
+! scope="row"| "What's a Little More Water"
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:16em;"| Video
+! Director
+|-
+| 2000
+! scope="row"| "Critical List"
+| Tom Bevins
+|}
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Hood, Ray}}
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Living people]]
+[[Category:Country musicians from Alabama]]
+[[Category:Curb Records artists]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Singer-songwriters from Alabama]]
+
+
+{{US-country-singer-stub}}

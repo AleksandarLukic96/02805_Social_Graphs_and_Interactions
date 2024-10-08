@@ -1,0 +1,218 @@
+{{short description|American singer}}
+
+{{Use mdy dates|date=May 2014}}
+{{Infobox musical artist
+| name            = Cole Vosbury
+| image           =
+| caption         =
+| image_size      =
+| birth_date      = {{birth date and age|1991|04|29}}
+| alias           = 1/2 of The Lovers
+| origin          = [[Shreveport]], [[Louisiana]], U.S.
+| instrument      = Vocals, guitar, piano, drums
+| genre           = {{hlist|[[Folk music|Folk]]|[[blues]]|[[R&B]]|[[Americana music|Americana]]|[[Electronic music|electronic]]}}
+| occupation      = Recording artist, musician, singer, music producer
+| years_active    = 2010–present
+| label           =
+| associated_acts = The Lovers
+| website         = {{URL|www.theloversmusic.com}}
+}}
+
+'''Cole Vosbury''' is an American singer, songwriter, producer and musician who has appeared on [[The Voice (U.S. season 5)|Season 5]] of the [[NBC]] singing competition ''[[The Voice (U.S. TV series)|The Voice]]'' as a member of [[CeeLo Green]]'s team and later [[Blake Shelton]]'s team.<ref>{{cite news|last=Kroll|first=Katy|title='The Voice' Recap: Cee Lo Green Disses Blake Shelton's Team|url=https://www.rollingstone.com/music/music-news/the-voice-recap-cee-lo-green-disses-blake-sheltons-team-68234/|access-date=December 29, 2013|newspaper=[[Rolling Stone]]|date=October 29, 2013}}</ref> During his time on ''The Voice'', six of Vosbury's singles charted on the ''[[Billboard (magazine)|Billboard]]'' charts. He released his self-produced debut album, "Entity: One" on September 1, 2020.
+
+Vosbury also has a duo with his partner Amanda June called The Lovers. The duo released a 7 song Self-titled EP on February 26, 2020.
+
+In the time since appearing on television Vosbury, a multi-instrumentalist, has produced and released a multitude of albums ranging in styles from folk, rock, lo-fi and electronic. 
+
+"Most of the time I consider myself to be an abstract artist and I think of my music as paintings. When I make a song I'm painting a picture with sound." - Cole Vosbury
+
+==''The Voice''==
+On the second episode of the Blind Auditions broadcast on September 24, 2013, he performed [[The Jeffersons]] theme song, "[[The Jeffersons#Theme song|Movin' On Up]]." Only [[Cee Lo Green]] turned his chair, thus he defaulted to Team CeeLo.<ref>[http://www.nbc.com/the-voice/video/the-blind-auditions-premiere-part-2/n41090/ The Blind Auditions Part 2]</ref>
+
+
+In Knockout Round, Vosbury lost his battle, he was stolen by Blake.
+
+{| class="wikitable" style="text-align:center; font-size:90%; line-height:16px;"
+|-
+! scope="col" | Stage
+! scope="col" | Song
+! scope="col" | Original Artist
+! scope="col" | Date
+! scope="col" | Order
+! scope="col" | Result
+|-
+! scope="row" | Blind Audition
+| "[[The Jeffersons|Movin' On Up]]"
+| [[Ja'net Dubois]]
+| September 24, 2013
+| 2.5
+| [[CeeLo Green]] turned<br>Defaulted to Team CeeLo
+|-
+! scope="row" | Battle Rounds
+| "[[Africa (Toto song)|Africa]]" <small>(vs. Lupe Carroll)</small>
+| [[Toto (band)|Toto]]
+| October 15, 2013
+| 8.3
+| Saved by Coach
+|-
+! scope="row" | Knockout Rounds
+| "[[Let Her Go (Passenger song)|Let Her Go]]" <small>(vs. Jonny Gray)</small>
+| [[Passenger (singer)|Passenger]]
+| October 28, 2013
+| 11.8
+| Defeated<br>Stolen by [[Blake Shelton]]
+|-
+! scope="row" | Live Playoffs
+| "[[Maggie May]]"
+| [[Rod Stewart]]
+| November 4, 2013
+| 13.9
+| Saved by Public Vote
+|-
+! scope="row" | Live Top 12
+| "[[Adorn (song)|Adorn]]"
+| [[Miguel (singer)|Miguel]]
+| November 11, 2013
+| 16.11
+| Saved by Public Vote
+|-
+! scope="row" | Live Top 10
+| "[[To Be with You]]"
+| [[Mr. Big (American band)|Mr. Big]]
+| November 18, 2013
+| 18.5
+| Saved by Public Vote
+|-
+! scope="row" | Live Top 8
+| "[[I Still Believe in You (Vince Gill song)|I Still Believe in You]]"
+| [[Vince Gill]]
+| November 25, 2013
+| 20.4
+| Saved by Public Vote
+|-
+! scope="row" rowspan="2" | Live Top 6
+| "[[Rich Girl (Hall & Oates song)|Rich Girl]]"
+| [[Hall & Oates]]
+| rowspan="2" | December 2, 2013
+| 22.1
+| rowspan="2" | Saved by Public Vote
+|-
+| "[[Undiscovered (James Morrison album)|Better Man]]"
+| [[James Morrison (singer)|James Morrison]]
+| 22.7
+|-
+! scope="row" | Live Top 5 (Semifinals)
+| "[[Shameless (Billy Joel song)|Shameless]]"
+| [[Billy Joel]]
+| December 9, 2013
+| 24.4
+| Eliminated
+|-
+|}
+
+==Discography==
+Entity: One (2020)                                                                                                               
+ThelonerThestoner (2020)
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2"| Year
+! rowspan="2" style="width:12em;"| Single
+! colspan="5"| Peak chart positions
+|- style="font-size:smaller;"
+! width="40"| [[Billboard Hot 100|US]]<br /><ref>{{cite web|url=http://www.billboard.com/biz/search/charts?f%5B0%5D=ts_chart_artistname%3A%2ACole%20Vosbury%2A&f%5B1%5D=itm_field_chart_id%3A344&f%5B2%5D=ss_bb_type%3Achart_item&type=2&artist=Cole%20Vosbury|title=Cole Vosbury Album & Song Chart History – Bubbling Under Hot 100|work=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|access-date=December 29, 2013}}</ref>
+! width="40"| [[Hot Country Songs|US<br />Country]]<br /><ref>{{cite web|url=http://www.billboard.com/biz/search/charts?f%5B0%5D=ts_chart_artistname%3A%2ACole%20Vosbury%2A&f%5B1%5D=itm_field_chart_id%3A357&f%5B2%5D=ss_bb_type%3Achart_item&type=2&artist=Cole%20Vosbury|title=Cole Vosbury Album & Song Chart History – Hot Country Songs|work=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|access-date=December 29, 2013}}</ref>
+! width="40"| [[R&B Songs|US<br />R&B]]<br /><ref>{{cite web|url=http://www.billboard.com/biz/search/charts?f%5B0%5D=ts_chart_artistname%3A%2ACole%20Vosbury%2A&f%5B1%5D=itm_field_chart_id%3A1230&f%5B2%5D=ss_bb_type%3Achart_item&type=2&artist=Cole%20Vosbury|title=Cole Vosbury Album & Song Chart History – R&B Songs|work=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|access-date=December 29, 2013}}</ref>
+! width="40"| [[Hot Rock Songs|US<br />Rock]]<br /><ref>{{cite web|url=http://www.billboard.com/biz/search/charts?f%5B0%5D=ts_chart_artistname%3A%2ACole%20Vosbury%2A&f%5B1%5D=itm_field_chart_id%3A902&f%5B2%5D=ss_bb_type%3Achart_item&type=2&artist=Cole%20Vosbury|title=Cole Vosbury Album & Song Chart History – Hot Rock Songs|work=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|access-date=December 29, 2013}}</ref>
+! width="40"| [[Canadian Hot 100|CAN]]<br /><ref>{{cite web|url=http://www.billboard.com/biz/search/charts?f%5B0%5D=ts_chart_artistname%3A%2ACole%20Vosbury%2A&f%5B1%5D=itm_field_chart_id%3A793&f%5B2%5D=ss_bb_type%3Achart_item&type=2&artist=Cole%20Vosbury|title=Cole Vosbury Album & Song Chart History – Billboard Canadian Hot 100|work=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|access-date=December 29, 2013}}</ref>
+|-
+| rowspan="10"| 2013
+! scope="row"| "[[The Jeffersons|Movin' On Up]]"
+| —
+| —
+| —
+| —
+| —
+|-
+! scope="row"| "[[Africa (Toto song)|Africa]]"
+| —
+| —
+| —
+| —
+| —
+|-
+! scope="row"| "[[Let Her Go (Passenger song)|Let Her Go]]"
+| 102
+| —
+| —
+| 15
+| 64
+|-
+! scope="row"| "[[Maggie May]]"
+| —
+| —
+| —
+| 42
+| —
+|-
+! scope="row"| "[[Adorn (song)|Adorn]]"
+| —
+| —
+| 24
+| —
+| —
+|-
+! scope="row"| "[[To Be with You]]"
+| —
+| —
+| —
+| 19
+| 78
+|-
+! scope="row"| "[[I Still Believe in You (Vince Gill song)|I Still Believe in You]]"
+| 122
+| 30
+| —
+| —
+| 97
+|-
+! scope="row"| "[[Rich Girl (Hall & Oates song)|Rich Girl]]"
+| —
+| —
+| —
+| —
+| —
+|-
+! scope="row"| "[[Undiscovered (James Morrison album)|Better Man]]"
+| —
+| —
+| —
+| —
+| —
+|-
+! scope="row"| "[[Shameless (Billy Joel song)|Shameless]]"
+| 125
+| 29
+| —
+| —
+| —
+|-
+| colspan="7" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+==References==
+{{reflist}}
+
+{{Notable contestants of The Voice (U.S.)}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Vosbury, Cole}}
+[[Category:Living people]]
+[[Category:Participants in American reality television series]]
+[[Category:Writers from Shreveport, Louisiana]]
+[[Category:The Voice (franchise) contestants]]
+[[Category:21st-century American male singers]]
+[[Category:21st-century American singers]]
+[[Category:1991 births]]

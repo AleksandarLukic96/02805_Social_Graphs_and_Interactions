@@ -1,0 +1,70 @@
+{{short description|American singer-songwriter}}
+
+{{Infobox musical artist
+| name            = Van Howard
+| image           =
+| caption         =
+| birth_name      = Clifton Howard Vandevender
+| alias           =
+| birth_date      = {{Birth date|1929|3|1}}
+| birth_place     = [[Grady, New Mexico]], U.S.
+| death_date      = {{Death date and age|2012|10|2|1929|3|1}}
+| death_place     = [[Dallas, Texas]], U.S.
+| occupation      = Singer, songwriter, guitarist
+| genre           = [[Country music|Country]]
+| instrument      = Vocals, guitar
+| years_active    = 1951&ndash;1959
+| label           = [[Columbia Records|Columbia]]
+| past_member_of = [[Ray Price (musician)|Ray Price]]
+| website         = 
+}}
+
+'''Van Howard''' (born '''Clifton Howard Vandevender''';<ref name="Kienzle"/> March 1, 1929 - October 2, 2012) was an American [[country music]] singer, songwriter and guitarist.  He is best known as the front man for [[Ray Price (musician)|Ray Price]] from 1954 through 1958 with Price's band, The Cherokee Cowboys.
+
+==Personal life==
+Howard was born into a musical family in [[Grady, New Mexico]], some 35 miles north of [[Clovis, New Mexico|Clovis]]).  Howard grew up on a so-called 'dry land' farm during [[The Great Depression]] with an older brother and sister, learning responsibility at a young age.  His family life was centered around school, basketball and the country church where often he sang and played.  His mother taught him a few guitar chords when he was about 8 that opened an entirely new world for him.  The family tuned into [[WSM (AM)|WSM]] Radio's [[Grand Ole Opry]] every Saturday night on a battery-powered radio, exposing Howard to the country hits while dreamed of someday performing.
+
+When Howard was 13, an uncle sponsored a Saturday radio program heard over [[KICA (AM)|KICA]] in Clovis, featuring Howard playing guitar and singing, and filling mailed-in requests.  He began singing more and more for special events, as well as school and church.  A serious scholastic athlete, Howard played basketball through high school, making several all-star teams.  He was recruited by [[Eastern New Mexico University]], but during his first game tripped and broke an ankle.  Sidelined from the sport, the University asked him to join a choral group which promoted the college.  At the end of the year, Howard returned to Clovis and began working in a local bank, though he still regularly sang on weekends and evenings.
+
+==Early life and career==
+In 1951, Howard travelled to [[Dallas, Texas]] to make a demo record.  A talent scout for the [[Louisiana Hayride]] broadcast was there and by happenstance heard his singing.  He invited Howard to relocate to Shreveport and join The Hayride as one of its new artists.  The pay was only $5 per week, so he also helped Howard find a job in a local bank.  Working closely with stars like [[Jim Reeves]], [[Johnnie & Jack]], [[Slim Whitman]], [[Faron Young]], [[Webb Pierce]], [[Red Sovine]] and [[Hank Williams]] was invaluable experience, and positioned him well when [[Lefty Frizzell]] came to the Hayride in 1954 seeking a band to back him on a six-month West Coast tour.  [[Floyd Cramer]] (piano), [[Jimmy Day]] (steel), [[D.J. Fontana]] (drums), [[Bill Peters (fiddler)|Bill Peters]] (fiddle), Chuck Wiginton (bass) and Howard (rhythm guitar and vocals) and Frizzell  earned wide exposure, especially after performing with [[Tennessee Ernie Ford]] on his TV show in Hollywood as well as with [[Tex Williams]] and his band.
+
+During the tour, Frizzell's manager began working with [[Ray Price (musician)|Ray Price]].  Near the end of his relationship with Frizzell, he contacted Howard and asked if he would join Price's nine-piece western-swing band as their front man.  Thus Howard became a Cherokee Cowboy in late 1954, opening each show and handling the vocals whenever Price was not onstage.  Since Price was a member of the [[Grand Ole Opry]], Howard in turn too, became a part of the legendary broadcast.  Howard was also served as emcee of each Ray Price tour, often traveling with the artists who performed on The Opry, with sometimes upwards of a dozen stars on the roster.
+
+One day as Price was working out a new song in the studio, Howard began to sing harmony with him.  Price said, "That sounds pretty good!" and with Howard high harmony added to a walking bass line, a revolutionary new sound was born:  "[[Crazy Arms]]" was an instant hit once [[Columbia Records]] released it in 1956, dominating the No.&nbsp;1 country chart for over four months and making famous the "Ray Price shuffle".  They recorded over a dozen more duets, many reaching the Country Top 10 over the next few years.  Howard continued to tour with The Cherokee Cowboys until November 1959.  Realizing that constantly being on the road would take a long-term toll on his health, Howard left the glamour of the music industry and the stage to be with his family.
+
+==Late career==
+Howard moved to Dallas in 1960 and re-entered the banking profession, rising over the next 31 years from cashier to vice-president.  Then Howard changed careers once more in 1991, joining a software outsourcing firm.  Shortly after moving to Dallas, he met his future wife Charlotte, known as "Chatsey", marrying on January 18, 1964 and eventually having two daughters and six grandchildren.  Howard retired from the business world in March 2008, and died at age 83 in Dallas on October 2, 2012.
+
+==External links==
+*{{YouTube|PqfGlynMrqM|"Tears On My Pillow" video}}
+
+==See also==
+* [[List of country musicians]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Kienzle">{{Cite book |first=Rich |last=Kienzle |title=Southwest Shuffle |url=https://books.google.com/books?id=WFf_RbP6xlsC&pg=PA166 |accessdate=August 5, 2013 |year=2013 |publisher=Routledge |isbn=9781136718892 |page=166}}</ref>
+
+}}
+
+* {{Cite web |title=Panel Discussion: One More Time: Ray Price's Cherokee Cowboys |year=2007 |publisher=Country Music Hall of Fame |url=http://countrymusichalloffame.org/calendar/view/113?month=04&day=07&year=2007}}
+* {{Cite news |last=Cantwell |first=David |date=September 1, 2000 |title=For the Good Times |newspaper=The Austin Chronicle |url=http://www.austinchronicle.com/gyrobase/Issue/print.html?oid=oid:78455}}
+* {{Cite book |last=Kienzle |first=Rich |year=1995 |title=Ray Price and the Cherokee Cowboys |publisher=Bear Family Records}}
+* {{cite web| date =October 2, 2012 |url=http://restland.tributes.com/our_obituaries/Howard-Van-Vandevender-94532648 |title=Death}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Howard, Van}}
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Singers from Nashville, Tennessee]]
+[[Category:Singers from Dallas]]
+[[Category:1929 births]]
+[[Category:2012 deaths]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:Singer-songwriters from Tennessee]]
+[[Category:People from Curry County, New Mexico]]
+[[Category:Country musicians from Tennessee]]
+[[Category:Country musicians from Texas]]

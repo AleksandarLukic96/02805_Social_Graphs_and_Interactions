@@ -1,0 +1,359 @@
+{{Short description|2006 American crime thriller film by Martin Scorsese}}
+{{About|the 2006 film}}
+{{Use American English|date=October 2019}}
+{{Use mdy dates|date=October 2019}}
+{{Infobox film
+| name           = The Departed
+| image          = Departed234.jpg
+| alt            = The text "THE DEPARTED" against a black background; the text is filled in with photos of Leonardo DiCaprio (top), Jack Nicholson (right), and Matt Damon (left)
+| caption        = Theatrical release poster
+| director       = [[Martin Scorsese]]
+| producer       = {{Plainlist|
+* [[Brad Pitt]]
+* [[Brad Grey]]
+* [[Graham King]]
+}}
+| screenplay     = [[William Monahan]]
+| based_on       = {{Based on|''[[Infernal Affairs]]''|[[Alan Mak (director)|Alan Mak]] & [[Felix Chong]]}}
+| starring       = {{Plainlist|
+* [[Leonardo DiCaprio]]
+* [[Matt Damon]]
+* [[Jack Nicholson]]
+* [[Mark Wahlberg]]
+* [[Martin Sheen]]
+* [[Ray Winstone]]
+* [[Vera Farmiga]]
+* [[Alec Baldwin]]
+<!--Per poster billing block-->
+}}
+| narrator       = 
+| music          = [[Howard Shore]]
+| editing        = [[Thelma Schoonmaker]]
+| cinematography = [[Michael Ballhaus]]
+| production_companies = {{Plainlist|
+* [[Plan B Entertainment]]
+* [[Initial Entertainment Group]]
+* [[Vertigo Entertainment]]
+* [[Media Asia Films]]
+}}
+| distributor    = [[Warner Bros. Pictures]]
+| released       = {{Film date|2006|09|26|[[Ziegfeld Theatre (1969)|Ziegfeld Theatre]]|2006|10|06|United States}}
+| runtime        = 151 minutes<ref name="BoxOfficeMojo" />
+| country        = United States
+| language       = English
+| budget         = $90 million<ref name="BoxOfficeMojo">{{cite web |url=https://www.boxofficemojo.com/title/tt0407887/ |title=The Departed (2006) |website=[[Box Office Mojo]] |access-date=June 22, 2011|archive-url=https://web.archive.org/web/20110811173320/http://boxofficemojo.com/movies/?id=departed.htm|archive-date=August 11, 2011|url-status=live}}</ref>
+| gross          = $291.5 million<ref name="BoxOfficeMojo" />
+}}
+
+'''''The Departed''''' is a 2006 American [[crime thriller film]]<ref>{{Cite web|last=BBFC|title=The Departed|url=https://www.bbfc.co.uk/release/the-departed-film-qxnzzxq6vlgtotq5njey|access-date=2022-01-04|website=www.bbfc.co.uk|language=en|quote=THE DEPARTED is a US gangster thriller in which a cop goes undercover with the Irish Mafia in Boston, who in turn have a informant working inside the police department.}}</ref><ref>{{Cite web|last=Bolton|first=Josh|date=2020-05-11|title=Recommended Re-Viewing: Rewatching 'The Departed' Shows Why It's Scorsese's Best Film|url=https://www.esquire.com/uk/culture/film/a32432967/watch-the-departed-online/|access-date=2022-01-04|website=Esquire|language=en-GB}}</ref><ref name=":02">{{cite web|last=Berardinelli|first=James|author-link=James Berardinelli|title=Review: Departed, The|url=http://preview.reelviews.net/movies/d/departed.html|url-status=live|archive-url=https://web.archive.org/web/20201121162102/https://preview.reelviews.net/movies/d/departed.html|archive-date=November 21, 2020|access-date=October 17, 2009|website=ReelViews.net}}</ref> directed by [[Martin Scorsese]] and written by [[William Monahan]].<ref>{{cite web |url=https://www.allmovie.com/movie/the-departed-v310756 |title=The Departed (2006) – Martin Scorsese |website=[[AllMovie]]|access-date=February 2, 2019|archive-url=https://web.archive.org/web/20190202154242/https://www.allmovie.com/movie/the-departed-v310756|archive-date=February 2, 2019|url-status=live}}</ref> It is both a remake of the 2002 Hong Kong film ''[[Infernal Affairs]]'' and also loosely based on the real-life [[Boston]] [[Winter Hill Gang]]; the character Colin Sullivan is based on the [[Police corruption|corrupt FBI agent]] [[John Connolly (FBI)|John Connolly]], while the character Frank Costello is based on [[Irish Mob|Irish-American gangster]] and crime boss [[Whitey Bulger]].<ref name="Whitey">{{cite news |first=Helen |last=Kennedy |title=Notorious gangster Whitey Bulger was inspiration for Jack Nicholson's character in 'The Departed' |url=http://articles.nydailynews.com/2011-06-23/news/29714825_1_bulger-crime-boss-gangster |newspaper=[[Daily News (New York)|Daily News]] |publisher=[[Tronc]] |location=New York City |date=June 23, 2011 |access-date=August 23, 2012|archive-url=https://web.archive.org/web/20141108191300/http://www.nydailynews.com/news/national/notorious-gangster-whitey-bulger-inspiration-jack-nicholson-character-departed-article-1.131159|archive-date=November 8, 2014|url-status=dead}}</ref><ref name=directors>{{cite book|editor-first=Jeremy|editor-last=Kagan |title=Directors Close Up 2: Interviews with Directors Nominated for Best Film by the Directors Guild of America: 2006–2012 |chapter=Martin Scorsese, ''The Departed'' |chapter-url=https://books.google.com/books?id=500THs9cCnMC&pg=PA50 |publisher=[[Scarecrow Press]] |location=Lanham, Maryland |date=2012 |isbn=978-0-8108-8391-8 |page=50|access-date=October 17, 2015|archive-url=https://web.archive.org/web/20160424070512/https://books.google.com/books?id=500THs9cCnMC&pg=PA50|archive-date=April 24, 2016|url-status=live}}</ref><ref>{{cite web |url=http://www.film.com/movies/infernal-affairs-vs-the-remake-the-departed |title=Infernal Affairs vs. the remake, The Departed |website=Film.com |access-date=September 20, 2013|archive-url=https://web.archive.org/web/20131023060026/http://www.film.com/movies/infernal-affairs-vs-the-remake-the-departed|archive-date=October 23, 2013|url-status=live}}</ref> The film stars [[Leonardo DiCaprio]], [[Matt Damon]], [[Jack Nicholson]], and [[Mark Wahlberg]], with [[Martin Sheen]], [[Ray Winstone]], [[Vera Farmiga]], [[Alec Baldwin]], [[Anthony Anderson]] and [[James Badge Dale]] in supporting roles.
+
+The film takes place in Boston and the surrounding metro area, primarily in the [[South Boston]] neighborhood. [[Irish Mob]] boss Frank Costello (Nicholson) plants Colin Sullivan (Damon) as a spy within the [[Massachusetts State Police]]; simultaneously, the police assign [[Undercover|undercover state trooper]] Billy Costigan (DiCaprio) [[Covert operation|to infiltrate Costello's mob crew]]. When both sides realize the situation, Sullivan and Costigan each attempt to discover the other's identity before they are found out.
+
+''The Departed'' was a critical and commercial success, grossing $291.5 million on a budget of around $90 million and receiving acclaim for its direction, performances (particularly of DiCaprio, Nicholson, and Wahlberg), screenplay,<ref>{{Cite web|url=https://www.rogerebert.com/reviews/the-departed-2007|title=The Departed movie review & film summary (2007) &#124; Roger Ebert|first=Roger|last=Ebert|website=rogerebert.com/|accessdate=May 20, 2023}}</ref> and editing.<ref>{{Cite web|url=https://mattdamoncolumn.livejournal.com/147172.html|title=Departed wins Best Picture, Director, Editing, Adapted Screenplay|website=mattdamoncolumn.livejournal.com|accessdate=May 20, 2023}}</ref>
+It won [[List of accolades received by The Departed|several accolades]], including four [[Academy Awards|Oscars]] at the [[79th Academy Awards]]: for [[Academy Award for Best Picture|Best Picture]], [[Academy Award for Best Director|Best Director]] for Scorsese (his only personal Oscar win to date), [[Academy Award for Best Adapted Screenplay|Best Adapted Screenplay]] for Monahan, and [[Academy Award for Best Film Editing|Best Film Editing]] for editor [[Thelma Schoonmaker]].<ref>{{cite web |url=https://www.oscars.org/oscars/ceremonies/2007 |title=2007 |website=Oscars.org |date=October 7, 2014 |publisher=Academy of Motion Picture Arts and Sciences |access-date=February 22, 2016|archive-url=https://web.archive.org/web/20180417093206/https://www.oscars.org/oscars/ceremonies/2007|archive-date=April 17, 2018|url-status=live}}</ref> The film also received six nominations each at the [[64th Golden Globe Awards]] (winning one) and the [[60th British Academy Film Awards]], and two nominations at the [[13th Screen Actors Guild Awards]].
+
+==Plot==
+<!---DO NOT add further detail. Wikipedia synopsis should be simple and to the point.--->
+
+In the 1980s in [[Boston]], [[Irish Mob]] boss Frank Costello introduces himself to a young Colin Sullivan.
+
+Many years later, Sullivan has been groomed as a [[Espionage|spy]] inside the [[Massachusetts State Police]] (MSP) and joins the Special Investigation Unit (SIU). Another police academy recruit, Billy Costigan, is selected by Captain Queenan and Sergeant Dignam [[Cover (intelligence gathering)|to go undercover]] as a criminal.
+
+Costigan serves a term in prison to set up his cover and further commits a series of crimes. Sullivan begins dating Madolyn Madden, a psychiatrist. Costigan catches Costello's attention, and Costello later recruits Costigan into his organization. Over the next year, Costigan becomes increasingly involved in the organization. His mental state declines but Queenan and Dignam convince him to continue. Costigan begins having appointments with Madden.
+
+The MSP and Costello both realize that there is a mole in their respective organizations and task Costigan and Sullivan to find the moles. Meanwhile, Costigan learns that Costello is a protected [[Federal Bureau of Investigation|FBI]] [[Police informant|informant]]. Costigan shares his discovery with Queenan. Costigan and Madden have an affair.
+
+One night, Costigan follows Costello into an [[adult movie theater|adult theater]] and witnesses him giving Sullivan an envelope containing information of his crew. Costigan is instructed to get a visual ID of Sullivan but he is unable to get a good look at his face. When Sullivan realizes that he is being followed, he accidentally stabs a man, mistaking him for Costigan, and flees. Queenan advises Sullivan to follow Costello to find the MSP mole. Costigan calls Queenan and sets up a meeting to end the undercover operation, but Sullivan has Queenan followed, lying to the other officers that Queenan may be the spy. Sullivan also calls in Costello's gang to the meeting location.
+
+When Costello's men arrive, Queenan helps Costigan escape before being thrown from the building to his death. This causes a firefight between police and Costello's men. Angered by Queenan's murder, Dignam attacks Sullivan and is suspended. Timothy Delahunt, one of Costello's henchmen who was wounded in the gunfight, tells Costigan that he knows he is the mole before he succumbs to his wounds. Sullivan looks through Queenan's belongings and learns that Costello is an FBI informant after reading Queenan's notebook. A news report reveals that Delahunt was an undercover officer for the [[Boston Police Department]], but Costello suspects the police department made up the claim so he would stop looking for the mole. Deciding to turn on him, Sullivan directs the MSP to tail Costello, and a gunfight erupts, killing most of Costello's crew. Sullivan confronts a wounded Costello, who admits to being an FBI informant. They exchange gunfire, and Sullivan kills him.
+
+His assignment finished, Costigan goes to Sullivan to reveal his undercover status, still unaware of the other's true identity. After Sullivan goes to another room, Costigan notices the same envelope from the theater on his desk. Costigan realizes that Sullivan was Costello's mole, and escapes. Shortly after, Sullivan returns to find Costigan gone, and realizes that he now knows his true identity. He deletes Costigan's records from police computers. Costigan visits Madden, who has revealed that she's pregnant to Sullivan but not to Costigan knowing that Sullivan may not be the father, and hands her an envelope, instructing her to open it if something happens to him. She finds an envelope in the mail from Costigan addressed to Sullivan. Inside is a CD of Costello's recorded conversations with Sullivan. Scared that Costigan has revealed their affair, she listens to the taped conversations and leaves Sullivan. Costigan arranges to meet Sullivan on the rooftop of the building where Queenan was killed, then arrests him. Costigan calls Trooper Brown, an acquaintance from the [[police academy]], but Brown pulls a gun on Costigan when he arrives, unsure who is telling the truth.
+
+Costigan says that he has evidence tying Sullivan to Costello, and Brown lets him go down the elevator. Upon reaching the lobby, Costigan is shot in the head by Trooper Barrigan, a friend of Sullivan's who reveals himself to be another spy working for Costello. Brown reaches the lobby but is shot dead by Barrigan as well. Sullivan shoots Barrigan dead, allowing him to denounce Barrigan as the mole while removing suspicion from himself.
+
+At Costigan's funeral, Sullivan and Madden stand by his grave. As Madden silently cries, Sullivan realizes that they were involved. He attempts to talk to her, but she ignores him. Later, when Sullivan arrives home, Dignam is waiting for him inside and, after Sullivan indifferently accepts his fate, Dignam shoots him in the head, avenging Queenan's and Costigan's deaths, before he leaves. The final shot shows a rat crawling on the rail of the patio with the [[Massachusetts State House]] in the distance.
+
+==Cast==
+<!-- Cast is in credits order and named as credited; please do not change. -->
+{{cast list|
+* [[Leonardo DiCaprio]] as Trooper William "Billy" Costigan Jr.
+* [[Matt Damon]] as Staff Sergeant Colin Sullivan
+* [[Jack Nicholson]] as Francis "Frank" Costello
+* [[Mark Wahlberg]] as Staff Sergeant Sean Dignam
+* [[Martin Sheen]] as Captain Oliver "Charlie" Queenan
+* [[Ray Winstone]] as Arnold "Frenchie" French
+* [[Vera Farmiga]] as Dr. Madolyn Madden
+* [[Alec Baldwin]] as Captain George Ellerby
+* [[Anthony Anderson]] as Trooper Brown
+* [[Kevin Corrigan]] as Sean Costigan
+* [[James Badge Dale]] as Trooper Barrigan
+* [[David O'Hara]] as Patrick "Fitzy" Fitzgibbons
+* [[Mark Rolston]] as Timothy Delahunt
+* [[Robert Wahlberg]] as FBI Special Agent Frank Lazio 
+* Amanda Lynch as Carmen
+* [[Kristen Dalton (actress)|Kristen Dalton]] as Gwen
+* [[Shay Duffin]] as Phil
+}}
+
+==Production==
+[[File:Martin Scorsese Berlinale 2010 (cropped2).jpg|thumb|274x274px|Martin Scorsese, the director of the film, in 2010]]
+In January 2003, [[Warner Bros.]], producer [[Brad Grey]], and actor/producer [[Brad Pitt]] bought the rights to remake the Hong Kong film ''[[Infernal Affairs]]'' (2002) from [[Media Asia Entertainment Group|Media Asia]] for $1.75 million.<ref>{{cite web |first1=Zorianna |last1=Kit |first2=Chris |last2=Gardner |url=http://business.highbeam.com/2012/article-1G1-97614647/warners-pays-have-affairs|archive-url=https://web.archive.org/web/20130921054104/http://business.highbeam.com/2012/article-1G1-97614647/warners-pays-have-affairs|url-status=dead|archive-date=September 21, 2013 |title=Warners pays to have ''Affairs'' |magazine=[[The Hollywood Reporter]] |publisher=[[Eldridge Industries]] |location=Los Angeles, California |date=February 3, 2003 |access-date=November 8, 2018}}</ref><ref name=filmmaker>{{cite web |first=Dade |last=Hayes |url=https://variety.com/2006/film/news/brad-pitt-s-role-as-filmmaker-threatens-to-eclipse-his-actorly-exploits-and-tabloid-profile-1117955806/ |title=Brad Pitt's role as filmmaker threatens to eclipse his actorly exploits and tabloid profile |magazine=[[Variety (magazine)|Variety]] |publisher=[[Penske Media Corporation]] |location=Los Angeles, California |date=December 14, 2006 |access-date=November 8, 2018|archive-url=https://web.archive.org/web/20181108184416/https://variety.com/2006/film/news/brad-pitt-s-role-as-filmmaker-threatens-to-eclipse-his-actorly-exploits-and-tabloid-profile-1117955806/|archive-date=November 8, 2018|url-status=live}}</ref> [[William Monahan]] was secured as a screenwriter, and later [[Martin Scorsese]], who admired Monahan's script, came on board as director.<ref name=filmmaker /><ref name=directors /><ref name=pitt>{{cite magazine |first=Elvis |last=Mitchell |author-link=Elvis Mitchell |url=http://www.interviewmagazine.com/film/brad-pitt |title=Brad Pitt's Great Escape |magazine=[[Interview (magazine)|Interview]] |publisher=Crystal Ball Media |location=New York City |date=February 2007 |access-date=November 8, 2018|archive-url=https://web.archive.org/web/20181108190212/https://www.interviewmagazine.com/film/brad-pitt|archive-date=November 8, 2018|url-status=live}}</ref>
+
+In March 2004, [[United Press International]] announced that Scorsese would be remaking ''Infernal Affairs'' and setting it in Boston, and that Leonardo DiCaprio and Brad Pitt were slated to star.<ref name=upi>{{cite web |url=http://www.upi.com/Entertainment_News/2004/03/02/Leo-DiCaprio-Brad-Pitt-lead-Affairs/UPI-62891078255749/ |title=Leo DiCaprio, Brad Pitt lead ''Affairs'' |publisher=[[United Press International]] |date=March 2, 2004 |access-date=November 8, 2018|archive-url=https://web.archive.org/web/20181107015320/https://www.upi.com/Entertainment_News/2004/03/02/Leo-DiCaprio-Brad-Pitt-lead-Affairs/UPI-62891078255749/|archive-date=November 7, 2018|url-status=live}}</ref> Pitt, tentatively scheduled to play Sullivan, later declined to play the role, saying a younger actor should play the part; he decided to produce the film instead.<ref name=pitt /> Scorsese's associate [[Kenneth Lonergan]] suggested Matt Damon, who grew up in Boston, for the part of Sullivan, and Scorsese asked Jack Nicholson to play Costello.<ref name=directors /> [[Robert De Niro]] was approached to play Queenan, but De Niro declined in order to direct ''[[The Good Shepherd (film)|The Good Shepherd]]'' instead.<ref>{{cite magazine |url=https://www.vanityfair.com/hollywood/2016/11/leonardo-dicaprio-martin-scorsese-robert-de-niro-movie |title=Can Martin Scorsese Just Make a Movie with Robert De Niro and Leonardo DiCaprio Already? |magazine=Vanity Fair |last=Desta |first=Yohana |date=November 28, 2016 |access-date=March 7, 2023}}</ref> Scorsese would later say that De Niro turned down the role as he was not interested.<ref>{{Cite web |url=https://deadline.com/2023/05/martin-scorsese-interview-killers-of-the-flower-moon-leonardo-dicaprio-robert-de-niro-1235359006/ |title=Martin Scorsese, Leonardo DiCaprio & Robert De Niro On How They Found The Emotional Handle For Their Cannes Epic 'Killers Of The Flower Moon' |work=Deadline |last=Fleming |first=Mike Jr. |date=May 16, 2023 |access-date=May 29, 2023}}</ref> [[Ray Liotta]] was approached for a role in the film, but declined due to a commitment to another project.<ref>{{Cite web|url=https://www.businessinsider.com/ray-liotta-on-shades-of-blue-working-with-jennifer-lopez-and-woody-allen-2018-6|title=Ray Liotta on working with Jennifer Lopez, why he's been in only one Scorsese movie, and not believing the Woody Allen sexual-misconduct allegations|first=Jason|last=Guerrasio|website=Business Insider|access-date=May 20, 2023}}</ref>
+
+Nicholson wanted the film to have "something a little more" than the usual gangster film, and screenwriter Monahan came up with the idea of basing the Costello character on Irish-American gangster [[Whitey Bulger]]. This gave the screenplay an element of realism—and an element of dangerous uncertainty, because of the wide-ranging ''carte blanche'' the FBI gave Bulger in exchange for revealing information about fellow gangsters.<ref name=directors /> A technical consultant on the film was Tom Duffy, who had served three decades on the Boston Police Department, particularly as an undercover detective investigating the Irish mob.<ref>{{cite web |url=http://emanuellevy.com/comment/the-departed-dicaprio-6/ |title=Departed, The: DiCaprio |website=emanuellevy.com |date=August 17, 2006 |access-date=February 22, 2016|archive-url=https://web.archive.org/web/20170616143150/http://emanuellevy.com/comment/the-departed-dicaprio-6/|archive-date=June 16, 2017|url-status=live}}</ref><ref>{{cite web |first=Julian |last=Roman |url=http://movieweb.com/matt-damon-and-leonardo-dicaprio-smell-a-rat-in-the-departed/ |title=Matt Damon and Leonardo DiCaprio Smell A Rat in 'The Departed' |website=[[MovieWeb]] |publisher=Watchr Media |location=Las Vegas, Nevada |date=October 2, 2006 |access-date=February 22, 2016|archive-url=https://web.archive.org/web/20181108224523/https://movieweb.com/matt-damon-and-leonardo-dicaprio-smell-a-rat-in-the-departed/|archive-date=November 8, 2018|url-status=live}}</ref>
+
+''The Departed'' was officially greenlit by [[Warner Bros.]] in early 2005 and began shooting in the spring of that year.<ref name=filmmaker /> Some of the film was shot on location in Boston. For budgetary and logistical reasons many scenes, in particular interiors, were shot in locations and sets in New York City, which had tax incentives for filmmakers that Boston at the time did not.<ref name=directors /><ref>{{Cite news |first=Gayle |last=Fee |url=http://www.mafilm.org/2009/11/23/damon-headed-back-to-bay-state/ |title=Damon to shoot in Massachusetts again? |newspaper=[[Boston Herald]] |publisher=[[Digital First Media]] |location=Boston, Massachusetts |date=November 23, 2009|access-date=September 16, 2016 |via=mafilm.org|archive-url=https://web.archive.org/web/20160917091437/http://www.mafilm.org/2009/11/23/damon-headed-back-to-bay-state/|archive-date=September 17, 2016|url-status=live}}</ref>
+
+==Themes and motifs==
+Film critic [[Stanley Kauffmann]] said that for ''The Departed,'' Scorsese "was apparently concerned with the idea of identity, one of the ancient themes of drama, and how it affects one's actions, emotions, self-knowledge, even dreams." Kauffmann, however, did not find the theme conveyed with particular effectiveness in the film.<ref name="Kauffmann">{{cite magazine|author=Kauffmann, Stanley|url=https://newrepublic.com/article/65026/martin-scorsese-matt-damon-leonardo-dicaprio|title=Themes and Schemes|date=October 30, 2006|magazine=[[The New Republic]]|url-status=live|issue=18|volume=235|archive-date=February 21, 2020|archive-url=https://web.archive.org/web/20200221082414/https://newrepublic.com/article/65026/martin-scorsese-matt-damon-leonardo-dicaprio}}</ref> Film critic [[Roger Ebert]] compared Costigan and Sullivan's seeking of approval from those they are deceiving to [[Stockholm syndrome]].<ref name="ebert">{{cite news|last=Ebert|first=Roger|date=July 5, 2007|title=Good and evil, in each other's masks|url=https://www.rogerebert.com/reviews/the-departed-2007|work=RogerEbert.com|access-date=January 12, 2021}}</ref> Ebert also noted the themes of [[Catholic guilt]].<ref name="ebert"/>
+
+In the final scene, a rat is seen on Sullivan's window ledge. Scorsese acknowledges that while it is not meant to be taken literally, it somewhat symbolizes the "quest for the rat" in the film and the strong sense of distrust among the characters, much like post-[[September 11 attacks|9/11]] U.S. The window view behind the rat is a nod to gangster films like ''[[Little Caesar (film)|Little Caesar]]'' (1931), ''[[Scarface (1932 film)|Scarface]]'' (1932), and ''[[White Heat]]'' (1949).<ref name="scor">{{cite news |url=http://www.canmag.com/news/4/3/5292 |title=Martin Scorsese Talks ''The Departed'' Rat |work=Canmag |date=October 5, 2006 |access-date=February 25, 2013 |author=Topel, Fred|archive-url=https://web.archive.org/web/20111101000549/http://canmag.com/news/4/3/5292|archive-date=November 1, 2011|url-status=usurped}}</ref> The film's penultimate scene at Costigan's funeral, when Madden walks straight past Sullivan and out of camera without looking at him, is a visual quotation of the famous closing scene from ''[[The Third Man]]''.
+
+<!--Note: an earlier version of this article had a section on homages that was deleted on 2007-02-26 as being unsourced. The URL of that section just before deletion is [[Special:PermanentLink/111190724#Homage]] -- it can be referred to but anything added here needs sourcing.-->
+Throughout the film, Scorsese uses an "X" motif to foreshadow death in a manner similar to [[Howard Hawks]]' film ''[[Scarface (1932 film)|Scarface]]'' (1932). Examples include shots of cross-beam supports in an airport walkway when Costigan is phoning Sgt. Dignam, the lighted "X" on the wall in Sullivan's office when he assures Costello over the phone that Costigan is not the rat, the taped windows of the building Queenan enters before being thrown to his death, behind Costigan's head in the elevator before he is shot, and the carpeted hallway floor when Sullivan returns to his apartment before being shot by Dignam at the film's end.<ref name="ReneRodriguez">{{cite news |first=Rene |last=Rodriguez |url=http://miamiherald.typepad.com/reeling/2007/01/x_marks_the_spo.html |title=X marks the spot in 'The Departed' |newspaper=[[The Miami Herald]] |publisher=[[The McClatchy Company|McClatchy]] |location=Miami, Florida |date=January 11, 2007 |access-date=November 26, 2009|archive-url=https://web.archive.org/web/20091126004607/http://miamiherald.typepad.com/reeling/2007/01/x_marks_the_spo.html|archive-date=November 26, 2009|url-status=live}}</ref>
+
+==Reception==
+===Box office===
+''The Departed'' grossed $132.4 million in the United States and Canada and $159 million in other territories for a total gross of $291.5 million, against a production budget of $90 million.<ref name=BoxOfficeMojo />
+
+The film grossed $26.9 million in its opening weekend, becoming the fourth Scorsese film to debut at number one.<ref>{{cite web |first=Brandon |last=Gray |url=https://www.boxofficemojo.com/news/?id=2172&p=.htm |title='Departed' Out-Muscles 'Massacre' |website=[[Box Office Mojo]] |date=October 9, 2006 |access-date=November 8, 2018|archive-url=https://web.archive.org/web/20181108224631/https://www.boxofficemojo.com/news/?id=2172&p=.htm|archive-date=November 8, 2018|url-status=live}}</ref> In the following three weeks the film grossed $19 million, $13.5 million and $9.8 million, finishing second at the box office each time, before grossing $7.7 million and dropping to 5th in its fifth week.<ref>{{cite web |first=Brandon |last=Gray |url=https://www.boxofficemojo.com/news/?id=2194&p=.htm |title='Borat' Bombards the Top Spot |website=[[Box Office Mojo]] |date=November 6, 2006 |access-date=November 8, 2018|archive-url=https://web.archive.org/web/20181109070647/https://www.boxofficemojo.com/news/?id=2194&p=.htm|archive-date=November 9, 2018|url-status=live}}</ref>
+
+===Critical response===
+As per the [[review aggregator]] website [[Rotten Tomatoes]], 91% of critics have given ''The Departed'' a positive review based on 287 reviews, with an average rating of 8.30 out of 10. The site's critics consensus reads, "Featuring outstanding work from an excellent cast, ''The Departed'' is a thoroughly engrossing gangster drama with the gritty authenticity and soupy morality we have come to expect from Martin Scorsese."<ref>{{cite web |url=https://www.rottentomatoes.com/m/departed |title=THE DEPARTED |website=[[Rotten Tomatoes]] |publisher=[[Fandango Media|Fandango]] |access-date=June 2, 2021|archive-url=https://web.archive.org/web/20190806123940/https://www.rottentomatoes.com/m/departed/|archive-date=August 6, 2019|url-status=live}}</ref> On [[Metacritic]], the film has a weighted average score of 85 out of 100, with 92% positive reviews based on 39 critics, indicating "universal acclaim".<ref>{{cite web |url=https://www.metacritic.com/movie/the-departed |title=The Departed |website=[[Metacritic]] |publisher=[[CBS Interactive]] |access-date=June 1, 2019|archive-url=https://web.archive.org/web/20190305045203/https://www.metacritic.com/movie/the-departed|archive-date=March 5, 2019|url-status=live}}</ref> Audiences polled by [[CinemaScore]] gave the film an average grade of "A−" on an A+ to F scale.<ref>{{cite web |url=http://www.cinemascore.com |title=CinemaScore |website=[[CinemaScore]] |access-date=June 1, 2019|archive-url=https://web.archive.org/web/20150119025202/http://www.cinemascore.com/|archive-date=January 19, 2015|url-status=live}}</ref>
+
+''[[Entertainment Weekly]]'' ranked it on its end-of-the-decade "Best of" list, saying: "If they're lucky, directors make one classic film in their career. Martin Scorsese has one per decade (''[[Taxi Driver]]'' in the '70s, ''[[Raging Bull]]'' in the '80s, ''[[Goodfellas]]'' in the '90s). His 2006 Irish Mafia masterpiece kept the streak alive."<ref>{{cite magazine |first1=Thom |last1=Geier |first2=Jeff |last2=Jensen |first3=Tina |last3=Jordan |url=https://ew.com/article/2009/12/04/100-greatest-movies-tv-shows-and-more/ |title=The 100 Greatest Movies, TV Shows, Albums, Books, Characters, Scenes, Episodes, Songs, Dresses, Music Videos, and Trends that Entertained Us Over the Past 10 Years |magazine=[[Entertainment Weekly]] |publisher=[[Meredith Corporation]] |location=New York City |date=December 11, 2009 |access-date=November 8, 2018 |issue=1079/1080 |pages=74–84|archive-url=https://web.archive.org/web/20110607002836/http://www.ew.com/ew/article/0%2C%2C20312226_20324138%2C00.html|archive-date=June 7, 2011|url-status=live}}</ref>
+
+[[Roger Ebert]] gave the film four stars out of four, praising Scorsese for thematically differentiating his film from the original.<ref name="ebert"/> Online critic [[James Berardinelli]] awarded the film four stars out of four, praising it as "an American epic tragedy." He went on to claim that the film deserves to be ranked alongside Scorsese's past successes, including ''Taxi Driver'', ''Raging Bull'' and ''Goodfellas''.<ref name=":0">{{cite web |first=James |last=Berardinelli |author-link=James Berardinelli |url=http://preview.reelviews.net/movies/d/departed.html |title=Review: Departed, The |website=ReelViews.net |access-date=October 17, 2009 |archive-date=November 21, 2020 |archive-url=https://web.archive.org/web/20201121162102/https://preview.reelviews.net/movies/d/departed.html |url-status=live }}</ref>
+
+[[Andrew Lau]], co-director of ''[[Infernal Affairs]]'', in an interview with Hong Kong newspaper ''[[Apple Daily]]'', said: "Of course I think the version I made is better, but the Hollywood version is pretty good too. [Scorsese] made the Hollywood version more attuned to American culture."<ref>{{cite news |title=My Infernal Affairs is better than Scorsese's says Lau |url=https://www.theguardian.com/film/2006/oct/10/news1 |newspaper=[[The Guardian]] |location=London, England |date=October 10, 2006 |access-date=October 10, 2006|archive-url=https://web.archive.org/web/20140605053518/http://www.theguardian.com/film/2006/oct/10/news1|archive-date=June 5, 2014|url-status=live}}</ref> [[Andy Lau]], one of the main actors in ''Infernal Affairs'', when asked how the movie compares to the original, said: "''The Departed'' was too long and it felt as if Hollywood had combined all three ''Infernal Affairs'' movies together."<ref>{{cite web |url=http://hk.news.yahoo.com/061005/60/1u6o2.html |title=Andy Lau comments on The Departed |date=October 6, 2006 |access-date=October 6, 2006 |archive-url=https://web.archive.org/web/20061216120725/http://hk.news.yahoo.com/061005/60/1u6o2.html |archive-date=December 16, 2006 |language=zh}}</ref> Although Lau said the script of the remake had some "golden quotes," he also felt it had a bit too much profanity. He ultimately rated ''The Departed'' eight out of ten and said that the Hollywood remake is worth a view, though according to Lau's spokeswoman Alice Tam, he felt that the combination of the two female characters into one in ''The Departed'' was not as good as the original storyline.<ref>{{cite web |url=http://hk.news.yahoo.com/061005/60/1u6o2.html |title=Andy Lau Gives 'Departed' an 8 Out of 10 |date=October 7, 2006 |access-date=October 7, 2006 |archive-url=https://web.archive.org/web/20061216120725/http://hk.news.yahoo.com/061005/60/1u6o2.html |archive-date=December 16, 2006}}</ref>
+
+A few critics were disappointed in the film, including [[J. Hoberman]] of the ''[[Village Voice]]'', who wrote: "''Infernal Affairs'' was surprisingly cool and effectively restrained for HK action, but Scorsese raises the temperature with every ultraviolent interaction. The surplus of belligerence and slur reach near-[[Quentin Tarantino|Tarantinian]] levels—appropriate as he's staking a claim to QT's turf."<ref>{{cite web |first=J. |last=Hoberman |url=http://www.villagevoice.com/2006-09-26/film/bait-and-switch/ |title=Bait and Switch |newspaper=[[The Village Voice]] |publisher=[[Voice Media Group]] |location=New York City |date=September 26, 2006 |access-date=November 8, 2018|archive-url=https://web.archive.org/web/20150516185103/http://www.villagevoice.com/2006-09-26/film/bait-and-switch/|archive-date=May 16, 2015|url-status=live}}</ref>
+
+===Top ten lists===
+The film appeared on many critics' top ten lists of the best films of 2006.<ref name="MetacriticTop10">{{cite web |url=https://www.metacritic.com/film/awards/2006/toptens.shtml |title=Metacritic: 2006 Film Critic Top Ten Lists |access-date=January 8, 2008 |work=[[Metacritic]] |archive-url=https://web.archive.org/web/20071213004758/http://www.metacritic.com/film/awards/2006/toptens.shtml |archive-date=December 13, 2007}}</ref> Carrie Rickey of ''[[The Philadelphia Inquirer]]'', Joe Morgenstern of ''[[The Wall Street Journal]]'', Ruthe Stein of the ''[[San Francisco Chronicle]]'', and Steven Rea of ''The Philadelphia Inquirer'' named it one of the top ten films of 2006.<ref name="MetacriticTop10" /> Richard Roeper of the ''[[Chicago Sun-Times]]'' named it the best film of the 2000s.<ref>{{cite news |url=http://www.suntimes.com/news/roeper/1967980,roepers-best-films-of-the-year-010110.article |title=Roeper's Best Films of the Year |newspaper=Chicago Sun-Times |date=January 1, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20100421214649/http://www.suntimes.com/news/roeper/1967980%2Croepers-best-films-of-the-year-010110.article |archive-date=April 21, 2010}}</ref>
+
+{{col-begin}}
+{{col-2}}
+* 1st&nbsp;– [[Richard Roeper]], ''[[Ebert and Roeper]]''
+* 1st&nbsp;– Peter Travers, ''[[Rolling Stone]]''
+* 1st&nbsp;– Rene Rodriguez, ''[[The Miami Herald]]''
+* 1st&nbsp;– Scott Tobias, ''[[The A.V. Club]]''
+* 1st&nbsp;– Joshua Rothkopf, ''[[Time Out New York]]''
+* 1st&nbsp;– Philip Martin, ''[[Arkansas Democrat-Gazette]]''
+* 1st&nbsp;– James Berardinelli, ReelViews
+* 2nd&nbsp;– Chris Kaltenbach, ''[[The Baltimore Sun]]''
+* 2nd&nbsp;– Adam Kempenaar, ''[[Filmspotting]]''
+* 2nd&nbsp;– Keith Phipps, ''The A.V. Club''
+* 2nd&nbsp;– Mike Russell, ''[[The Oregonian]]''
+* 2nd&nbsp;– Richard James Havis, ''[[The Hollywood Reporter]]''
+* 2nd&nbsp;– [[Richard Schickel]], ''[[Time (magazine)|TIME]]''
+* 3rd&nbsp;– Frank Scheck, ''The Hollywood Reporter''
+* 4th&nbsp;– Glenn Kenny, ''[[Premiere (magazine)|Premiere]]''
+* 4th&nbsp;– Marc Savlov, ''[[The Austin Chronicle]]''
+* 4th&nbsp;– Michael Wilmington, ''[[Chicago Tribune]]''
+{{col-2}}
+* 4th&nbsp;– [[Roger Ebert]], ''Chicago Sun-Times''
+* 5th&nbsp;– ''[[Empire (magazine)|Empire]]''
+* 5th&nbsp;– [[David Ansen]], ''[[Newsweek]]''
+* 5th&nbsp;– Kevin Crust, ''[[Los Angeles Times]]''
+* 5th&nbsp;– [[Lisa Schwarzbaum]], ''[[Entertainment Weekly]]''
+* 5th&nbsp;– [[Stephen Hunter]], ''[[The Washington Post]]''
+* 6th&nbsp;– Ann Hornaday, ''The Washington Post''
+* 6th&nbsp;– Jack Mathews, ''[[Daily News (New York)|Daily News]]''
+* 6th&nbsp;– Nathan Rabin, ''The A.V. Club''
+* 6th&nbsp;– Ty Burr, ''[[The Boston Globe]]''
+* 7th&nbsp;– Nathan Lee, ''[[The Village Voice]]''
+* 7th&nbsp;– Noel Murray, ''The A.V. Club''
+* 7th&nbsp;– Peter Hartlaub, ''San Francisco Chronicle''
+* 8th&nbsp;– [[Michael Sragow]], ''The Baltimore Sun''
+* 9th&nbsp;– Claudia Puig, ''[[USA Today]]''
+* 9th&nbsp;– Desson Thomson, ''The Washington Post''
+* 9th&nbsp;– Michael Rechtshaffen, ''The Hollywood Reporter''
+{{col-end}}
+
+===Accolades===
+{{Main|List of accolades received by The Departed}}
+At the [[64th Golden Globe Awards]] on January 15, 2007, ''The Departed'' won one award for [[Golden Globe Award for Best Director|Best Director]] ([[Martin Scorsese]]), while being nominated for five other awards including Best Picture, [[Golden Globe Award for Best Actor – Motion Picture Drama|Best Actor]] ([[Leonardo DiCaprio]]), [[Golden Globe Award for Best Supporting Actor – Motion Picture|Best Supporting Actor]] ([[Jack Nicholson]], [[Mark Wahlberg]]), and [[Golden Globe Award for Best Screenplay|Best Screenplay]] ([[William Monahan]]).<ref>{{cite web|url=https://www.goldenglobes.com/film/departed|title=Departed, The|website=The Golden Globes|publisher=Hollywood Foreign Press Association|access-date=January 12, 2021}}</ref>
+
+At the [[79th Academy Awards]] on February 25, 2007, ''The Departed'' won four [[Academy Award]]s: [[Academy Award for Best Picture|Best Picture]] ([[Graham King]]), [[Academy Award for Best Director|Best Director]] (Martin Scorsese), [[Academy Award for Best Film Editing|Best Film Editing]] ([[Thelma Schoonmaker]]), and [[Academy Award for Best Writing (Adapted Screenplay)|Best Adapted Screenplay Writing]] (William Monahan). Mark Wahlberg was also nominated for the [[Academy Award for Best Supporting Actor|Best Supporting Actor]] award for his performance, but he lost to [[Alan Arkin]] for his role in ''[[Little Miss Sunshine]]''.<ref>{{cite news|last1=Waxman|first1=Sharon|last2=Halbfinger|first2=David M.|date=February 26, 2007|title='The Departed' Wins Best Picture, Scorsese Best Director|url=https://www.nytimes.com/2007/02/26/movies/awardsseason/26osca.html|work=The New York Times|access-date=January 12, 2021}}</ref><ref>{{cite web|url=https://www.oscars.org/oscars/ceremonies/2007|title=The 79th Academy Awards|website=Academy Awards|date=October 7, 2014 |access-date=January 12, 2021}}</ref>
+
+The film marked the first time Scorsese won an Oscar after five previous losses.<ref>{{cite web |title=Martin Scorsese – Awards |url=https://www.imdb.com/name/nm0000217/awards |publisher=IMDB|access-date=June 30, 2018|archive-url=https://web.archive.org/web/20180609134720/https://www.imdb.com/name/nm0000217/awards|archive-date=June 9, 2018|url-status=live}}</ref> Many felt that he deserved it years earlier for prior efforts. Some felt he deserved it for his prior nominations and the win was described as a "Lifetime Achievement Award for a lesser film".<ref>{{cite web |work=[[MSNBC]] and [[Associated Press]] |url=https://www.nbcnews.com/id/wbna17351684 |title=Scorsese wins Oscar with film that's not his best |publisher=MSNBC and [[NBC Universal]] |date=February 27, 2007 |access-date=October 16, 2010|archive-url=https://web.archive.org/web/20120919220041/http://today.msnbc.msn.com/id/17351684|archive-date=September 19, 2012|url-status=live}}</ref> Scorsese himself joked that he won because: "This is the first movie I've done with a plot."<ref>{{cite web |author=James Wray and Ulf Stabe |url=http://www.monstersandcritics.com/movies/news/article_1255397.php/Scorsese_takes_top_DGA_honors |title=Scorsese takes top DGA honors |publisher=Monsters and Critics |date=February 4, 2007 |access-date=October 17, 2009|url-status=dead |archive-url=https://web.archive.org/web/20100906051552/http://www.monstersandcritics.com/movies/news/article_1255397.php/Scorsese_takes_top_DGA_honors |archive-date=September 6, 2010}}</ref>
+
+At the [[11th Satellite Awards]] on December 18, 2006, ''The Departed'' won awards for [[Satellite Award for Best Cast – Motion Picture|Best Ensemble, Motion Picture]], [[Satellite Award for Best Film|Best Motion Picture, Drama]], [[Satellite Award for Best Adapted Screenplay|Best Screenplay – Adapted]] (William Monahan), and [[Satellite Award for Best Supporting Actor – Motion Picture|Best Actor in a Supporting Role]] (Leonardo DiCaprio). In 2008, it was nominated for the [[American Film Institute]] [[AFI's 10 Top 10|Top 10 Gangster Films list]].<ref>{{cite web |url=http://connect.afi.com/site/DocServer/10top10.pdf?docID=381&AddInterest=1781 |title=AFI's 10 Top 10 Nominees | format=PDF |access-date=August 19, 2016 |url-status=bot: unknown |archive-url=https://web.archive.org/web/20110716071937/http://connect.afi.com/site/DocServer/10top10.pdf?docID=381&AddInterest=1781 |archive-date=July 16, 2011}}</ref>
+
+==Home media==
+''The Departed'' was released by [[Warner Bros. Home Entertainment|Warner Home Video]] on DVD, HD-DVD, and Blu-ray disc on February 13, 2007. The film is available in a single-disc full screen (1.33:1), single-disc widescreen (2.39:1) edition, and 2-disc special edition. The second disc contains deleted scenes, a feature about the influence of New York's [[Little Italy, Manhattan|Little Italy]] on Scorsese, a [[Turner Classic Movies]] profile, a theatrical trailer, and a 21-minute documentary titled ''Stranger Than Fiction: The True Story of Whitey Bulger, Southie and The Departed''<ref>{{cite web |url=https://www.imdb.com/title/tt0970546 |title=Stranger Than Fiction: The True Story of Whitey Bulger, Southie and 'The Departed' (Video 2007) |date=April 25, 2007 |work=IMDb |access-date=February 22, 2016|archive-url=https://web.archive.org/web/20160206114859/http://www.imdb.com/title/tt0970546/|archive-date=February 6, 2016|url-status=live}}</ref> about the crimes that influenced Scorsese in creating the film, including the story of [[Whitey Bulger|James "Whitey" Bulger]], upon whom Jack Nicholson's character is based.<ref>{{cite news |url=http://hamptonroads.com/node/224261 |title=Extra reveals true inspiration for Scorsese's ''Departed'' |newspaper=[[The Virginian-Pilot]] |date=February 18, 2007|access-date=September 4, 2013|archive-url=https://web.archive.org/web/20130921054116/http://hamptonroads.com/node/224261|archive-date=September 21, 2013|url-status=live}}</ref> The film was released on [[Ultra HD Blu-ray]] on April 23, 2024.
+
+==Music==
+
+===Soundtrack===
+{{Infobox album
+| name       = The Departed: Music from the Motion Picture
+| type       = [[Soundtrack]]
+| artist     = Various Artists
+| cover      =
+| alt        =
+| released   = November 7, 2006
+| recorded   =
+| venue      =
+| studio     =
+| genre      = [[Rock music|Rock]], [[Country music|country]], [[Pop music|pop]]
+| length     =
+| label      = Warner Sunset
+| producer   = Jason Cienkus
+| prev_title =
+| prev_year  =
+| next_title =
+| next_year  =
+}}
+
+{{Track listing
+| headline = ''Track Listing''
+| extra_column = Artist(s)
+| title1       = [[Comfortably Numb]]
+| length1      = 7:59
+| writer1      = {{hlist|[[Roger Waters]]|[[David Gilmour]]}}
+| extra1       = Roger Waters {{small|(Feat. [[Van Morrison]] & [[The Band]])}}
+| title2       = [[Sail On, Sailor]]
+| length2      = 3:18
+| writer2      = {{hlist|[[Brian Wilson]]|[[Van Dyke Parks]]|[[Raymond Louis Kennedy]]|[[Tandyn Almer]]|[[Jack Rieley]]}}
+| extra2       = [[The Beach Boys]]
+| title3       = [[Let It Loose (Rolling Stones song)|Let It Loose]]
+| length3      = 5:18
+| writer3      = {{hlist|[[Mick Jagger]]|[[Keith Richards]]}}
+| extra3       = [[The Rolling Stones]]
+| title4       = Sweet Dreams
+| length4      = 3:32
+| writer4      = [[Don Gibson]]
+| extra4       = [[Roy Buchanan]]
+| title5       = [[One Way Out (song)|One Way Out]]
+| length5      = 4:57
+| writer5      = {{hlist|[[Elmore James]]|[[Sonny Boy Williamson II]]|[[Marshall Sehorn]]|[[Willie Dixon]]}}
+| extra5       = [[The Allman Brothers Band]]
+| title6       = [[Baby Blue (Badfinger song)|Baby Blue]]
+| length6      = 3:36
+| writer6      = [[Pete Ham]]
+| extra6       = [[Badfinger]]
+| title7       = [[I'm Shipping Up to Boston]]
+| length7      = 2:34
+| writer7      = {{hlist|[[Al Barr]]|[[Matt Kelly (drummer)|Matt Kelly]]|[[Marc Orrell]]|[[Ken Casey]]|[[James Lynch (musician)|James Lynch]] (music)|[[Woody Guthrie]] (lyrics)}}
+| extra7       = [[Dropkick Murphys]]
+| title8       = [[Nobody but Me (The Isley Brothers song)|Nobody but Me]]
+| length8      = 2:18
+| writer8      = {{hlist|[[Ronald Isley]]|[[O'Kelly Isley, Jr.]]|[[Rudolph Isley]]}}
+| extra8       = [[The Human Beinz]]
+| title9       = [[Tweedle Dee]]
+| length9      = 3:10
+| writer9      = [[Winfield Scott (songwriter)|Winfield Scott]]
+| extra9       = [[LaVern Baker]]
+| title10      = [[Sweet Dreams (Patsy Cline song)|Sweet Dreams (of You)]]
+| length10     = 2:34
+| writer10     = Don Gibson
+| extra10      = [[Patsy Cline]]
+| title11      = The Departed Tango
+| length11     = 3:32
+| writer11     = [[Howard Shore]]
+| extra11      = Howard Shore, [[Marc Ribot]]
+| title12      = Beacon Hill
+| length12     = 2:33
+| writer12     = Howard Shore
+| extra12      = Howard Shore, [[Sharon Isbin]]
+| title13      = [[Gimme Shelter]]
+| length13     = 3:18
+| writer13     = {{hlist|Mick Jagger|Keith Richards}}
+| extra13      = The Rolling Stones
+}}
+
+===Score===
+The [[film score]] for ''The Departed'' was written by [[Howard Shore]] and performed by guitarists [[Sharon Isbin]], [[G. E. Smith]], Larry Saltzman and [[Marc Ribot]].<ref>{{cite web|url=https://www.soundtrack.net/album/the-departed-original-score/|title=The Departed - Original Score|access-date=October 1, 2022|website=[[Soundtrack.Net]]}}</ref> The score was recorded in Shore's own studio in [[New York State]]. The album, ''The Departed: Original Score'', was released December 5, 2006 by [[New Line Records|New Line]], and produced by Jason Cienkus.<ref>{{cite web|url=https://www.discogs.com/release/10521342-Howard-Shore-The-Departed-Original-Score|title=Howard Shore – The Departed Original Score|access-date=October 1, 2022|website=[[Discogs]]}}</ref>
+
+Scorsese described the music as "a very dangerous and lethal tango" and cited the guitar-based score of ''[[Murder by Contract]]'' and the [[zither]] in ''[[The Third Man]]'' as inspiration.<ref>{{cite web |url=https://www.cinemablend.com/new/Martin-Scorsese-Departed-Almost-Got-Sequel-Here-Why-It-Didn-t-Happen-114897.html |title=Martin Scorsese's The Departed Almost Got A Sequel, Here's Why It Didn't Happen |last1=Mcknight |first1=Brent |website=Cinema Blend |date=February 27, 2016 |access-date=March 22, 2019|archive-url=https://web.archive.org/web/20190323014040/https://www.cinemablend.com/new/Martin-Scorsese-Departed-Almost-Got-Sequel-Here-Why-It-Didn-t-Happen-114897.html|archive-date=March 23, 2019|url-status=live}}</ref>
+
+==Canceled sequel==
+Although many of the key characters in the film are dead by the end, there was a script written for a sequel. This was ultimately shelved due to the expense and Scorsese's lack of interest in creating a sequel.<ref>{{Cite web |url=https://www.cinemablend.com/new/Martin-Scorsese-Departed-Almost-Got-Sequel-Here-Why-It-Didn-t-Happen-114897.html |title=Martin Scorsese's The Departed Almost Got A Sequel, Here's Why It Didn't Happen |date=February 27, 2016 |website=Cinema Blend|access-date=March 23, 2019|archive-url=https://web.archive.org/web/20190323014040/https://www.cinemablend.com/new/Martin-Scorsese-Departed-Almost-Got-Sequel-Here-Why-It-Didn-t-Happen-114897.html|archive-date=March 23, 2019|url-status=live}}</ref>
+
+==See also==
+* [[List of American films of 2006]]
+* "[[The Debarted]]", an episode of ''[[The Simpsons]]'' that parodies the film.
+* [[List of films that most frequently use the word fuck]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* {{cite news |title=Martin Scorsese, Leonardo DiCaprio, Matt Damon, Vera Farmiga and William Monahan (Transcripts of two 40-minute press conference sessions) |author=Brad Balfour |year=2006 |url=http://www.popentertainment.com/scorsese.htm |publisher=PopEntertainment |access-date=September 10, 2007}}
+
+==External links==
+{{Wikiquote}}
+* {{Official website|https://www.warnerbros.com/departed}}
+* {{IMDb title|0407887}}
+* {{AllMovie title|310756}}
+* {{Metacritic film}}
+* {{Mojo title|departed}}
+* {{Rotten Tomatoes|departed}}
+* {{TCMDb title|642497|The Departed}}
+{{Infernal Affairs}}
+{{Martin Scorsese|state=autocollapse}}
+{{Plan B Entertainment}}
+{{Navboxes
+|title = [[List of accolades received by The Departed|Awards for ''The Departed'']]
+|list =
+{{AcademyAwardBestPicture 2001–2020}}
+{{Boston Society of Film Critics Award for Best Film}}
+{{Chicago Film Critics Association Award for Best Film}}
+{{Broadcast Film Critics Association Award for Best Film}}
+{{Empire Award for Best Thriller}}
+{{Florida Film Critics Circle Award for Best Film}}
+{{National Board of Review Award for Best Cast}}
+{{Satellite Award Best Motion Picture}}
+{{Satellite Award for Best Cast – Motion Picture}}
+{{St. Louis Gateway Film Critics Association Award for Best Picture}}
+}}
+
+{{Portal bar|Film|United States|Law}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Departed, The}}
+[[Category:2006 films]]
+[[Category:2006 crime drama films]]
+[[Category:2006 crime thriller films]]
+[[Category:2000s American films]]
+[[Category:2000s English-language films]]
+[[Category:American crime drama films]]
+[[Category:American crime thriller films]]
+[[Category:American neo-noir films]]
+[[Category:American police detective films]]
+[[Category:American remakes of Hong Kong films]]
+[[Category:Best Picture Academy Award winners]]
+[[Category:Culture of Boston]]
+[[Category:Edgar Award-winning works]]
+[[Category:Fictional portrayals of the Boston Police Department]]
+[[Category:Films about Irish-American culture]]
+[[Category:Films about the Irish Mob]]
+[[Category:Films directed by Martin Scorsese]]
+[[Category:Films produced by Brad Grey]]
+[[Category:Films produced by Brad Pitt]]
+[[Category:Films produced by Graham King]]
+[[Category:Films scored by Howard Shore]]
+[[Category:Films set in 1986]]
+[[Category:Films set in 2006]]
+[[Category:Films set in 2007]]
+[[Category:Films set in a movie theatre]]
+[[Category:Films set in Boston]]
+[[Category:Films shot in Boston]]
+[[Category:Films shot in Massachusetts]]
+[[Category:Films shot in New York City]]
+[[Category:Films whose director won the Best Directing Academy Award]]
+[[Category:Films whose director won the Best Director Golden Globe]]
+[[Category:Films whose editor won the Best Film Editing Academy Award]]
+[[Category:Films whose writer won the Best Adapted Screenplay Academy Award]]
+[[Category:Films with screenplays by William Monahan]]
+[[Category:Initial Entertainment Group films]]
+[[Category:Plan B Entertainment films]]
+[[Category:Vertigo Entertainment films]]
+[[Category:Warner Bros. films]]
+[[Category:Films about police corruption]]
+[[Category:English-language crime drama films]]
+[[Category:English-language crime thriller films]]

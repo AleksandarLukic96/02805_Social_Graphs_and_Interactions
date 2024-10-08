@@ -1,0 +1,94 @@
+{{short description|American country singer|bot=PearBOT 5}}
+{{Use mdy dates|date=September 2020}}
+{{BLP sources|date=January 2020}}
+{{Infobox musical artist
+| name            = Claudia Church
+| image           =
+| caption         =
+| image_size      =
+| birth_date      = {{birth date and age|mf=yes|1962|1|12}}<ref>{{Cite web |url=https://familysearch.org/ark:/61903/1:1:QJWB-MLQ7 |title=Person Details for Claudia L Church, "United States Public Records, 1970-2009" — FamilySearch.org |website=[[FamilySearch]] |access-date=November 12, 2015 |archive-url=https://web.archive.org/web/20160304122420/https://familysearch.org/ark:/61903/1:1:QJWB-MLQ7 |archive-date=March 4, 2016 |url-status=dead }}</ref>
+| origin          = [[Lenoir, North Carolina]], U.S.
+| instrument      = Vocals
+| genre           = [[country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 1998–present
+| label           = [[Reprise Records|Reprise]]
+| spouse          = {{marriage|[[Rodney Crowell]]|1998}}
+| website         = 
+}}
+'''Claudia Lorraine Church''' (born January 12, 1962) is an American country music singer-songwriter whose singles include "What's the Matter With You Baby" and "Home in My Heart (North Carolina)".
+
+==Biography==
+Church was the second daughter of Claude and Lucille Church.  Her father was a member of the US Army, so she lived in such places as Okinawa; Fayetteville, North Carolina; Sandy, Utah; and Colorado Springs, Colorado; before she graduated from General William Mitchell High School.  After graduating, she moved to Dallas to attend college and continued her modeling career.  Modeling had her working in cities such as Chicago and Paris. In 1988, she moved to [[Nashville, Tennessee|Nashville]] to realize her dreams of becoming a singer.
+
+She has been married to singer-songwriter [[Rodney Crowell]] since 1998. They met while shooting a music video. During a brief break-up, Crowell wrote the song "[[Please Remember Me]]",<ref name="Oxford">{{cite news |last1=Crowell |first1=Rodney |title=A Tale of Two Songs: Love lost, love found |url=https://oxfordamerican.org/magazine/issue-119-winter-2022/a-tale-of-two-songs |access-date=7 April 2024 |issue=119 |publisher=Oxford American |date=13 December 2022}}</ref> which later became a hit for [[Tim McGraw]]. Later Crowell wrote "[[Making Memories of Us]]" for her as a Valentine's Day gift. The song became a major hit for [[Keith Urban]].
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:10em;"| Title
+! style="width:16em;"| Album details
+|-
+! scope="row"| ''Claudia Church''
+| 
+* Release date: March 9, 1999
+* Label: [[Reprise Records|Reprise]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! colspan="2"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<br/><ref>{{cite magazine|url=https://www.billboard.com/artist/claudia-church/chart-history/csi/|title=Claudia Church - Chart History (Hot Country Songs)|magazine=Billboard|access-date=June 6, 2022}}</ref>
+! width="45"| [[RPM (magazine)|CAN Country]]<br/><ref>{{cite web |url=http://www.collectionscanada.gc.ca/rpm/028020-110.01-e.php?PHPSESSID=ibtfnfkr0h0hi612dotsi215m4&q1=Claudia+Church&q2=Country+Singles&interval=20 |title=Claudia Church – Country Singles|work=[[RPM (magazine)|RPM]]|access-date=June 6, 2022}}</ref>
+|-
+| rowspan="3"| 1999
+! scope="row"| "What's the Matter with You Baby"
+| 41
+| 35
+| rowspan="3"| ''Claudia Church''
+|-
+! scope="row"| "Home in My Heart (North Carolina)"
+| 63
+| 83
+|-
+! scope="row"| "It's All Your Fault"
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders" 
+! Year
+! style="width:18em;"| Video
+! Director
+|-
+| rowspan="2"| 1999
+! scope="row"| "What's the Matter with You Baby"<ref>{{cite web|url=http://www.cmt.com/videos/claudia-church/385442/whats-the-matter-with-you-baby.jhtml|archive-url=https://web.archive.org/web/20110516215219/http://www.cmt.com/videos/claudia-church/385442/whats-the-matter-with-you-baby.jhtml|url-status=dead|archive-date=May 16, 2011|title=CMT : Videos : Claudia Church : What's The Matter With You Baby?|publisher=[[Country Music Television]]|accessdate=October 14, 2011}}</ref>
+| rowspan="2"| Gerry Wenner
+|-
+! scope="row"| "Home in My Heart (North Carolina)"<ref>{{cite web|url=http://www.cmt.com/videos/claudia-church/385460/home-in-my-heart.jhtml|archive-url=https://archive.today/20120724011205/http://www.cmt.com/videos/claudia-church/385460/home-in-my-heart.jhtml|url-status=dead|archive-date=July 24, 2012|title=CMT : Videos : Claudia Church : Home In My Heart|publisher=[[Country Music Television]]|accessdate=October 14, 2011}}</ref>
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Church, Claudia}}
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:1962 births]]
+[[Category:Living people]]
+[[Category:People from Lenoir, North Carolina]]
+[[Category:Reprise Records artists]]
+[[Category:Singer-songwriters from North Carolina]]
+[[Category:Country musicians from North Carolina]]
+[[Category:21st-century American women]]

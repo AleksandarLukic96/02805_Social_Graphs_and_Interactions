@@ -1,0 +1,223 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist  <!-- See Wikipedia:WikiProject Musicians -->
+| name       = Lane Brody
+| background = solo_singer
+| image      = Lane Brody 2008.jpg
+| caption    = Brody in 2008
+| birth_name = Lynn Voorlas<ref name="whitburn"/>
+| origin     = [[Oak Park, Illinois]], U.S.
+| birth_date = {{birth date and age|1955|9|24}}<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2017|publisher = Record Research, Inc|year=2017|page=53|isbn=978-0-89820-229-8}}</ref>
+| genre      = [[Country music|Country]]
+| occupation = Recording artist, songwriter
+| instrument = Guitar
+| label      = {{hlist|[[Liberty Records|Liberty]]|[[EMI]]|[[GMV Nashville]]}}
+| website    = {{url|lanebrody.com}}
+}}
+
+'''Lynne Connie Voorlas''' (born September 24, 1955), known professionally as '''Lane Brody''', is an American [[country music]] singer-songwriter, active since the early 1980s, best known for her 1984 Billboard-topping country hit "The Yellow Rose" (a duet with country music singer [[Johnny Lee (singer)|Johnny Lee]]), and for the Oscar-nominated song "Over You" from the 1983 film ''[[Tender Mercies]]''. Besides "The Yellow Rose", Brody has eleven other chart singles on the Billboard country charts.
+
+==Biography==
+Brody was born Lynne Connie (Eleni Constantina) Voorlas on September 24, 1955, in [[Oak Park, Illinois]], but calls Racine, Wisconsin her hometown.  She graduated from Horlick High School in 1969. She started her music career by singing commercial jingles for many popular TV and radio commercials. In 1982, she co-wrote [[Anne Murray]]'s song "The Hottest Night of the Year" with fellow songwriters Thomas Campbell and Kerry Chatter. Soon afterward, she began charting her own singles, including the No.&nbsp;15 country hit "Over You", which was featured in the film ''[[Tender Mercies]]'' and received a nomination for [[Academy Award for Best Original Song|Best Original Song]] at [[56th Academy Awards]] in 1984. Brody and [[Johnny Lee (singer)|Johnny Lee]] wrote lyrics to and recorded the theme music for the 1983–1984 [[NBC]] television show, ''[[The Yellow Rose]]''. The theme song of the same name became a No. 1 hit on the U.S. country singles chart on April 21, 1984.
+
+In 1984, Brody was the voice of the XIV Olympics singing for Beatrice foods. During that year Brody also signed with GRT Records. Brody made her singular appearance on the [[Public Broadcasting Service|PBS]] music television program [[Austin City Limits]], where she sang duets with [[Thom Bresh]], with whom she had been on tour through 1987.<ref>[https://www.pbs.org/klru/austin/artists/program132.html Forester Sisters, The followed by Thom Bresh & Lane Brody], Austin City Limits, 1988 {{Webarchive|url=https://web.archive.org/web/20071014230641/http://www.pbs.org/klru/austin/artists/program132.html |date=October 14, 2007}}</ref> Lane has appeared on numerous shows such as NBC Today Show, Crook And Chase, and she has appeared in the show [[Taxi (TV series)|Taxi]].
+
+Lane was inducted to the Country Music Hall of Fame's Walkway of Stars in 1996.<ref name="AllMusicBio">{{cite web |last1=Loftus |first1=Johnny |title=Lane Brody Biography & History |url=https://www.allmusic.com/artist/lane-brody-mn0000130726 |website=AllMusic |accessdate=August 17, 2018}}</ref>
+
+Her song "All The Unsung Heroes" is the theme behind a documentary on the Vietnam War Memorial documentary.<ref name="AllMusicBio" /> Brody is married to Nashville musician [[Eddie Bayers]].<ref>{{cite web|last1=Paxman|first1=Bob|title=Catching Up With...Lane Brody|url=http://www.countryweekly.com/vault/catching-lane-brody|website=countryweekly.com|accessdate=July 27, 2015|date=January 16, 2003|archive-url=https://web.archive.org/web/20151114051658/http://www.countryweekly.com/vault/catching-lane-brody|archive-date=November 14, 2015|url-status=dead}}</ref>
+
+== Discography ==
+
+=== Albums ===
+{| class="wikitable"
+! Year
+! Album
+! <small>[[Top Country Albums|US Country]]</small>
+! Label
+|-
+| 1985
+| ''Lane Brody''
+| align="center"| 55
+| EMI
+|-
+| 2001
+| ''Familiar Places''
+| align="center"| —
+| Records Records
+|-
+| 2002
+| ''Pieces of Life''
+| align="center"| —
+| Scream
+|-
+| 2010
+| ''On the Wings of Songs''
+| align="center"| —
+| [[GMV Nashville]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style=text-align:center;
+! scope="col" rowspan="2" | Year
+! scope="col" rowspan="2" style="width:22em;" | Title
+! scope="col" colspan="2" | Peak chart positions
+! scope="col" rowspan="2" | Album
+|- 
+! style="width:4em;font-size:90%;"|[[Hot Country Songs|US Country]]
+! style="width:4em;font-size:90%;"|[[RPM (magazine)|CAN Country]]
+|-
+| 1977
+! scope="row"| "You're Gonna Make Love to Me" <small>(as Lynn Nilles)</small>
+| 93
+| —
+| rowspan="2" {{n/a}}
+|-
+| rowspan="3"| 1982
+! scope="row"| "He's Taken"
+| 60
+| —
+|-
+! scope="row"| "More Nights"
+| 61
+|  —
+| align="left"| ''[[Tough Enough (1983 film)|Tough Enough]]'' <small>(soundtrack)</small>
+|-
+! scope="row"| "When It Comes to Love" <small>(with [[Thom Bresh]])</small>
+| 77
+| —
+| {{n/a}}
+|-
+| rowspan="2"| 1983
+! scope="row"| "Over You"
+| 15
+| —
+| align="left"| ''[[Tender Mercies]]'' <small>(soundtrack)</small>
+|-
+! scope="row"| "It's Another Silent Night"
+| 60
+| —
+| rowspan="3" {{n/a}}
+|-
+| rowspan="2"| 1984
+! scope="row"| "[[Hangin' On (The Gosdin Brothers song)|Hanging On]]"
+| 59
+| —
+|-
+! scope="row"| "Alibis"
+| 81
+| —
+|-
+| rowspan="2"| 1985
+! scope="row"| "He Burns Me Up"
+| 29
+| 51
+| align="left" rowspan="2"| ''Lane Brody''
+|-
+! scope="row"| "Baby's Eyes"
+| 51
+| 39
+|-
+| 2002
+! scope="row"| "Plenty More Love"
+| —
+| —
+| align="left"| ''Pieces of Life''
+|-
+| 2005
+! scope="row"| "Your Wildest Dreams"
+| —
+| —
+| align="left" rowspan="5"| ''On the Wings of Songs''
+|-
+| 2006
+! scope="row"| "That's Where Love Comes In"
+| —
+| —
+|-
+| 2008
+! scope="row"| "Found in Each Other"
+| —
+| —
+|-
+| 2010
+! scope="row"| "Thanks for What You Did"
+| —
+| —
+|-
+| 2011
+! scope="row"| "Flame's Turned Blue"
+| —
+| —
+|}
+
+===Guest singles===
+{| class="wikitable plainrowheaders" style=text-align:center;
+! scope="col" rowspan="2" | Year
+! scope="col" rowspan="2" style="width:18em;" | Title
+! scope="col" rowspan="2" | Artist
+! scope="col" colspan="2" | Peak chart positions
+! scope="col" rowspan="2" | Album
+|- 
+! style="width:4em;font-size:90%;"|[[Hot Country Songs|US Country]]
+! style="width:4em;font-size:90%;"|[[RPM (magazine)|CAN Country]]
+|-
+| 1984
+! scope="row"| "[[The Yellow Rose (song)|The Yellow Rose]]"
+| rowspan="2"| [[Johnny Lee (singer)|Johnny Lee]]
+| 1
+| 1
+| align="left"| '''Til the Bars Burn Down''
+|-
+| 1986
+! scope="row"| "I Could Get Used to This"
+| 50
+| —
+| {{n/a}}
+|-
+|}
+
+===Music videos===
+{| class="wikitable"
+! Year
+! Video
+! Director
+|-
+| 1984
+| "The Yellow Rose of Texas"
+|
+|-
+| 2009
+| "That's Where Love Comes In"
+|
+|-
+| 2010
+| "Thanks for What You Did"
+| rowspan="2"| Ross Wood
+|-
+| 2011
+| "Flame's Turned Blue"
+|-
+| 2015
+| "Even More"
+|
+|}
+
+==References==
+{{reflist}}
+
+== External links ==
+{{Official website|www.lanebrody.com}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Brody, Lane}}
+[[Category:1955 births]]
+[[Category:American country singer-songwriters]]
+[[Category:American women country singers]]
+[[Category:Country musicians from Illinois]]
+[[Category:Liberty Records artists]]
+[[Category:Living people]]
+[[Category:Singer-songwriters from Illinois]]
+[[Category:William Horlick High School alumni]]
+[[Category:21st-century American women]]

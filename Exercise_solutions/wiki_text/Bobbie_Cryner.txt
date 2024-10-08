@@ -1,0 +1,133 @@
+{{Short description|American country singer-songwriter|bot=PearBOT 5}}
+{{Use mdy dates|date=September 2020}}
+{{BLP sources|date=May 2010}}
+{{Infobox musical artist
+| name            = Bobbie Cryner
+| image           =
+| caption         =
+| image_size      =
+| birth_name      = Phyllis Cryner
+| alias           =
+| birth_date      = {{Birth date and age|1961|9|13}}
+| death_date      =
+| origin          = [[Woodland, California]], United States
+| instrument      = Vocals, Piano
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 1993–present
+| label           = [[Epic Records|Epic]]<br />[[Universal Music Group Nashville|MCA]]<br />Do It Up Big Music
+| associated_acts =
+| website         = 
+}}
+
+'''Phyllis "Bobbie" Cryner''' (born September 13, 1961) is an American country singer-songwriter.<ref name="Larkin">{{cite book|title=[[Encyclopedia of Popular Music|The Virgin Encyclopedia of Popular Music]]|editor=Colin Larkin|editor-link=Colin Larkin (writer)|publisher=[[Virgin Books]]|date=1997|edition=Concise|isbn=1-85227-745-9|page=330}}</ref> She released her debut album, the bluesy ''[[Bobbie Cryner (album)|Bobbie Cryner]]'', in 1993<ref>{{cite web|url={{AllMusic|class=artist|id=p142645|pure_url=yes}}|title=Biography: Bobbie Cryner|last=Ankeny|first=Jason|website=[[Allmusic]]|accessdate=May 21, 2010}}</ref> on [[Epic Records]]. The album featured six original Cryner songs, as well as four songs by outside writers, including a duet with [[Dwight Yoakam]] on the [[Buck Owens]] cover "I Don't Care."<ref name="Larkin"/> The album charted three singles on the Billboard Hot Country Singles & Tracks chart, including "Daddy Laid the Blues On Me," No.&nbsp;63 on July 31, 1993; "He Feels Guilty," No.&nbsp;68 on December 11, 1993; and "You Could Steal Me," No.&nbsp;72 on May 28, 1994.
+
+Cryner left Epic Records for [[MCA Records]] to record her second album, ''[[Girl of Your Dreams (Bobbie Cryner album)|Girl of Your Dreams]]''.<ref name="Larkin"/> The album was produced by Tony Brown, head of MCA Records. The second album featured a more straight-ahead, contemporary country. As with the first, Cryner wrote five of the songs on the album, with the other five coming from outside songwriters, including her cover of "[[Son of a Preacher Man]]". The album was heralded by the first single and video, "I Just Can't Stand To Be Unhappy," which was written by noted songwriter Hugh Prestwood and entered the country charts on October 14, 1995. It peaked at No.&nbsp;63 on the Hot Country Singles & Tracks. The second single and video, "You'd Think He'd Know Me Better," entered the charts on March 2, 1996, and peaked at No.&nbsp;56. A third single and video, Cryner's autobiographical "I Didn't Know My Own Strength," was released in late summer 1996. Cryner left MCA in 1997.
+
+Cryner continued writing songs for other artists, including [[Trisha Yearwood]]'s "[[Real Live Woman (song)|Real Live Woman]]" (#16), [[Suzy Bogguss]]' "Nobody Love, Nobody Gets Hurt" (#63), and [[Lee Ann Womack]]'s "Stronger Than I Am."
+
+Bobbie Cryner appeared briefly in the 1995 film ''[[Something to Talk About (film)|Something to Talk About]]'' starring [[Julia Roberts]], [[Dennis Quaid]], and [[Robert Duvall]].
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''[[Bobbie Cryner (album)|Bobbie Cryner]]''
+|
+* Release date: August 24, 1993
+* Label: [[Epic Records]]
+|-
+! scope="row"| ''[[Girl of Your Dreams (Bobbie Cryner album)|Girl of Your Dreams]]''
+|
+* Release date: January 2, 1996
+* Label: [[Universal Music Group Nashville|MCA Nashville]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="2"| 1993
+! scope="row"| "Daddy Laid the Blues on Me"
+| 63
+| 72
+| align="left" rowspan="3"| ''Bobbie Cryner''
+|-
+! scope="row"| "He Feels Guilty"
+| 68
+| 48
+|-
+| 1994
+! scope="row"| "You Could Steal Me"
+| 72
+| —
+|-
+| 1995
+! scope="row"| "I Just Can't Stand to Be Unhappy"
+| 63
+| 55
+| align="left" rowspan="3"| ''Girl of Your Dreams''
+|-
+| rowspan="2"| 1996
+! scope="row"| "You'd Think He'd Know Me Better"
+| 56
+| —
+|-
+! scope="row"| "I Didn't Know My Own Strength"
+| —
+| 90
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:18em;"| Video
+! Director
+|-
+| rowspan="2"| 1993
+! scope="row"| "Daddy Laid the Blues on Me"<ref>{{cite web|url=http://www.cmt.com/videos/bobbie-cryner/384271/daddy-laid-the-blues-on-me.jhtml|archive-url=https://web.archive.org/web/20160305151044/http://www.cmt.com/videos/bobbie-cryner/384271/daddy-laid-the-blues-on-me.jhtml|url-status=dead|archive-date=March 5, 2016|title=CMT : Videos : Bobbie Cryner : Daddy Laid The Blues On Me|publisher=[[Country Music Television]]|accessdate=October 14, 2011}}</ref>
+| [[Michael Salomon]]
+|-
+! scope="row"| "He Feels Guilty"
+| 
+|-
+| 1995
+! scope="row"| "I Just Can't Stand to Be Unhappy"
+| rowspan="3"| [[John Lloyd Miller]]
+|-
+| rowspan="2"| 1996
+! scope="row"| "You'd Think He'd Know Me Better"
+|-
+! scope="row"| "I Didn't Know My Own Strength"
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Cryner, Bobbie}}
+[[Category:1961 births]]
+[[Category:Living people]]
+[[Category:Singer-songwriters from California]]
+[[Category:People from Woodland, California]]
+[[Category:Place of birth missing (living people)]]
+[[Category:Epic Records artists]]
+[[Category:MCA Records artists]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Country musicians from California]]
+[[Category:21st-century American women]]

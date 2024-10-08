@@ -1,0 +1,218 @@
+{{Short description|American country singer}}
+{{Use mdy dates|date=February 2020}}
+{{BLP sources|date=August 2014}}
+{{Infobox musical artist
+| name            = Jacky Ward
+| image           =
+| caption         =
+| image_size      =
+| birth_name      =
+| birth_date      = {{birth date and age|1942|11|18}}
+| origin          = [[Groveton, Texas]], United States
+| instrument      = Vocals
+| genre           = [[Country music|Country]]
+| occupation      = Singer
+| years_active    = 1972–1982
+| label           = Target<br />[[Mercury Records|Mercury]]<br />[[Asylum Records|Asylum]]
+| associated_acts = [[Reba McEntire]]
+| website         = 
+}}
+'''Jacky Ward''' (born November 18, 1942, [[Groveton, Texas]], United States)<ref name="whitburn">{{cite book |last=Whitburn |first=Joel |authorlink=Joel Whitburn |title=The Billboard Book of Top 40 Country Hits |url=https://books.google.com/books?id=eKicir5sZr4C&dq=%22jacky+ward%22+mercury+-lyrics+-mp3+-compare&pg=PA371 |accessdate=July 25, 2008 |year=2004 |pages=371|isbn=9780823082919 }}</ref> is an American [[country music]] artist. He is popularly known worldwide for his 1977 hit single "[[Fools Fall in Love]]".
+
+Between 1972 and 1982, he released four albums with [[Mercury Records]], and charted more than 15 singles on the ''[[Billboard (magazine)|Billboard]]'' Hot Country Singles (now [[Hot Country Songs]] charts. His highest-peaking single, "A Lover's Question", reached number three on the charts in 1978. In Ward's career, he recorded three duets with [[Reba McEntire]], including McEntire's first top-40 country hit, "Three Sheets in the Wind". After leaving Mercury in the early 1980s, Ward briefly signed with [[Asylum Records]], releasing a cover of [[Ricky Nelson]]'s "[[Travelin' Man]]" that year. Although he released four singles for the label, Ward never issued an album on Asylum, and left the country music business in the late 1980s.
+
+In the 1980s, he also hosted a show on [[The Nashville Network]] called ''Dancin' USA''.
+
+Jacky Ward left the country music industry in 1985. He has been a minister and teacher of the gospel for over 20 years. He is presently the interim pastor of West Corinth Baptist Church in Corinth, Mississippi.
+
+==Discography==
+
+===Albums===
+{| class="wikitable" style="text-align:left;"
+! Year
+! Album
+! width="50"| <small>[[Top Country Albums|US Country]]</small>
+! Label
+|-
+|1972
+|''Big Blue Diamond''
+|align="center"|—
+|Target
+|-
+|1977
+|''A Lover's Question''
+|align="center"|41
+|rowspan=4|Mercury
+|-
+|1978
+|''Rainbow''
+|align="center"|46
+|-
+|1979
+|''The Best of Jacky Ward''
+|align="center"|—
+|-
+|1980
+|''More!''
+|align="center"|—
+|-
+|1982
+|''Night After Night''
+|align="center"|45
+|Asylum
+|-
+|1983
+|''Greatest Hits''
+|align="center"|—
+|Premier
+|}
+
+===Singles===
+{| class="wikitable" style="text-align:left;"
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="2"| Chart Positions
+! rowspan="2"| Album
+|-
+! width="50"| <small>[[Hot Country Songs|US Country]]</small>
+! width="50"| <small>CAN Country</small>
+|-
+|1962
+|"I Want You/Little Boy With A Lonely Heart"**
+|
+|
+|Single only
+|-
+|1972
+|"[[Big Blue Diamonds|Big Blue Diamond]]"
+|align="center"|39
+|align="center"|—
+|''Big Blue Diamond''
+|-
+|1973
+|"Dream Weaver"
+|align="center"|88
+|align="center"|—
+|Single only
+|-
+|rowspan=2|1975
+|"Stealin'"
+|align="center"|50
+|align="center"|—
+|rowspan=8|''A Lover's Question''
+|-
+|"Dance Her by Me (One More Time)"
+|align="center"|38
+|align="center"|45
+|-
+|rowspan=2|1976
+|"She'll Throw Stones at You"
+|align="center"|92
+|align="center"|—
+|-
+|"I Never Said It Would Be Easy"
+|align="center"|24
+|align="center"|26
+|-
+|rowspan=3|1977
+|"Texas Angel"
+|align="center"|31
+|align="center"|—
+|-
+|"Why Not Tonight"
+|align="center"|69
+|align="center"|—
+|-
+|"[[Fools Fall in Love]]"
+|align="center"|9
+|align="center"|16
+|-
+|rowspan=4|1978
+|"[[A Lover's Question]]"<sup>A</sup>
+|align="center"|3
+|align="center"|6
+|-
+|"Three Sheets in the Wind"/<br /> "[[I'd Really Love to See You Tonight]]" <small>(with [[Reba McEntire]])</small>
+|align="center"|20
+|align="center"|—
+|single only
+|-
+|"I Want to Be in Love"
+|align="center"|24
+|align="center"|—
+|rowspan=3|''Rainbow''
+|-
+|"[[Rhythm of the Rain]]"
+|align="center"|11
+|align="center"|9
+|-
+|rowspan=3|1979
+|"Wisdom of a Fool"
+|align="center"|8
+|align="center"|—
+|-
+|"That Makes Two of Us" <small>(with Reba McEntire)</small>
+|align="center"|26
+|align="center"|—
+|rowspan=3|''The Best of Jacky Ward''
+|-
+|"You're My Kind of Woman"
+|align="center"|14
+|align="center"|—
+|-
+|rowspan=3|1980
+|"I'd Do Anything for You"
+|align="center"|32
+|align="center"|—
+|-
+|"Save Your Heart for Me"
+|align="center"|8
+|align="center"|—
+|rowspan=3|''More!''
+|-
+|"That's the Way a Cowboy Rocks and Rolls"
+|align="center"|7
+|align="center"|—
+|-
+|1981
+|"Somethin' on the Radio"
+|align="center"|13
+|align="center"|—
+|-
+|rowspan=2|1982
+|"[[Travelin' Man]]"
+|align="center"|32
+|align="center"|—
+|rowspan=2|''Night After Night''
+|-
+|"Take the Mem'ry When You Go"
+|align="center"|57
+|align="center"|—
+|-
+|1983
+|"The Night's Almost Over"
+|align="center"|85
+|align="center"|—
+|rowspan=2|Singles only
+|-
+|1988
+|"Can't Get to You from Here"
+|align="center"|83
+|align="center"|—
+|}
+***https://www.discogs.com/release/11624576-Jacky-Ward-I-Want-You-Little-Boy-With-A-Lonely-Heart
+*<sup>A</sup>Peaked at number six on [[Bubbling Under Hot 100]] and number 98 on the ''[[RPM (magazine)|RPM]]'' Top Singles chart in Canada.
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ward, Jacky}}
+[[Category:1946 births]]
+[[Category:American country singer-songwriters]]
+[[Category:Living people]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:Mercury Records artists]]
+[[Category:People from Groveton, Texas]]
+[[Category:Country musicians from Texas]]

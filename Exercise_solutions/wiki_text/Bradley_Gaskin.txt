@@ -1,0 +1,88 @@
+{{short description|American country music singer-songwriter}}
+{{Infobox musical artist
+| name         = Bradley Gaskin
+| image        =
+| caption      =
+| image_size   =
+| birth_name   =
+| birth_date   =
+| birth_place  = [[Gadsden, Alabama]], U.S.
+| genre        = [[Country music|Country]]
+| occupation   = Singer-songwriter
+| instrument   = Vocals
+| years_active = 2011-present
+| label        = [[Sony Music Nashville|Columbia Nashville]]
+[[BNA Records|BNA]]
+[[30A Life Records]]
+}}
+
+'''Bradley Gaskin''' is an American [[country music]] singer-songwriter. He signed with [[Sony Music Nashville|Columbia Nashville]] in 2011 and has released his debut single, "Mr. Bartender" after being discovered through a talent contest sponsored by [[John Rich]] of [[Big & Rich]].<ref>{{Cite web|last=Amanda Hensel|title=Bradley Gaskin Chats About His Quick Fame, Family and First Single|url=https://tasteofcountry.com/bradley-gaskin-interview-2011/|access-date=2020-06-25|website=Taste of Country|date=3 May 2011 |language=en}}</ref>  At the time, Gaskin had been working for his father hanging sheetrock.  The song entered the [[Hot Country Songs]] charts at number 51 on the chart dated for the week ending April 2, 2011.<ref>{{cite web|url=http://www.cmt.com/news/country-music/1660710/sara-evans-keeps-top-album-billy-currington-snags-no-1-song.jhtml#fbid=zqT-IqQ4KNC|archive-url=https://web.archive.org/web/20110514145146/http://www.cmt.com/news/country-music/1660710/sara-evans-keeps-top-album-billy-currington-snags-no-1-song.jhtml#fbid=zqT-IqQ4KNC|url-status=dead|archive-date=May 14, 2011|title=Sara Evans Keeps Top Album, Billy Currington Snags No. 1 Song|last=Morris|first=Edward|date=26 March 2011|work=[[Country Music Television|CMT]]|accessdate=8 April 2011}}</ref> He made his [[Grand Ole Opry]] debut on August 20, 2011.
+
+==Discography==
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:10em;"| Title
+! style="width:18em;"| Details
+|-
+! scope="row"| ''Bradley Gaskin''
+| 
+* Release date: April 10, 2012
+* Label: [[Sony Music Nashville|Columbia Nashville]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]
+|- 
+| 2011
+! scope="row"| "Mr. Bartender"
+| 32
+| rowspan="2"| ''Bradley Gaskin''
+|-
+| 2012
+! scope="row"| "Diamonds Make Babies"
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:14em;"| Video
+! Director
+|-
+| rowspan="2"| 2011
+! scope="row"| "Mr. Bartender" <small>(acoustic)</small><ref>{{cite web|url=http://www.cmt.com/videos/bradley-gaskin/659477/mr-bartender-acoustic.jhtml|archive-url=https://web.archive.org/web/20121023220043/http://www.cmt.com/videos/bradley-gaskin/659477/mr-bartender-acoustic.jhtml|url-status=dead|archive-date=October 23, 2012|title=CMT : Videos : Bradley Gaskin : Mr. Bartender (Acoustic)|publisher=[[Country Music Television]]|accessdate=7 June 2011}}</ref>
+| David Bean
+|-
+! scope="row"| "Mr. Bartender"<ref>{{cite web|url=http://www.cmt.com/videos/bradley-gaskin/669323/mr-bartender.jhtml|archive-url=https://web.archive.org/web/20110726100731/http://www.cmt.com/videos/bradley-gaskin/669323/mr-bartender.jhtml|url-status=dead|archive-date=July 26, 2011|title=CMT : Videos : Bradley Gaskin : Mr. Bartender|publisher=[[Country Music Television]]|accessdate=3 July 2011}}</ref>
+| Ryan Hamblin
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.bradleygaskin.com/ Official website]
+
+{{authority control}}
+
+{{DEFAULTSORT:Gaskin, Bradley}}
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Columbia Records artists]]
+[[Category:Living people]]
+[[Category:Musicians from Gadsden, Alabama]]
+[[Category:BNA Records artists]]
+[[Category:Country musicians from Alabama]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Singer-songwriters from Alabama]]

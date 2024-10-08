@@ -1,0 +1,126 @@
+{{Use mdy dates|date=June 2020}}
+{{Multiple issues|
+{{BLP sources|date=January 2019}}
+{{More footnotes needed|date=January 2015}}}}
+{{Infobox musical artist
+| image             = 
+| name              = Clayton Bellamy
+| birth_name        = 
+| alias             = 
+| birth_date        = {{Birth date and age|YYYY|MM|DD}}
+| origin            = [[Bonnyville, Alberta]], Canada
+| instruments       = Guitar<br />Vocals harmonica
+| genre             = [[Country music|Country]] [[rock n roll]]
+| occupation        = Singer-songwriter, radio personality record producer
+| years_active      = 
+| label             = [[MDM Recordings Inc.]]<br />[[EMI Music Canada]]<br />[[Open Road Recordings]] [[Anthem Records]]
+| associated_acts   = [[The Road Hammers]] [[Clayton Bellamy & The Congregation]] [[Black Mountain Whiskey Rebellion]]
+| website           = www.claytonbellamy.com
+}}
+'''Clayton Bellamy''' is a Canadian singer-songwriter
+
+He grew up in [[Bonnyville, Alberta]] before his family settled in [[Nashville, Tennessee]].
+
+He has won many awards including a JUNO for Best Country Recording, a five time Canadian Country Music Award winner [[Canadian Country Music Awards]], and [[SOCAN]] Songwriter of the Year award, Radio Music Award song of the year, five CMAB awards for song, video, Entertainer, Group, and Roots Artist. Clayton has dominated the stage performing at the [[Grand Ole Opry]] has been featured in [[People Magazine]] [[The New York Times]] and [[Rolling Stone]] and even performed for President Carter.  He has released five solo studio records and has had songs recorded by [[Big Sugar (band)|Big Sugar]] [[Matt Andersen|Matt Anderson]] [[Grady (band)|Grady]] [[Dan Davidson]] [[Jason Blaine]] W3apons [[FKB (band)|The Standstills FKB]] [[Willie Mack (musician)|Willie Mack]], Hayley Jensen and many more. He has had top ten singles in both Country and Active Rock radio. 
+Bellamy is also one of the three members of the group [[The Road Hammers]], the highest selling Canadian Country group in Canadian history. They have released five  studio albums, in addition to charting twelve singles in Canada with two number one singles and two in the United States. He is currently touring with The Road Hammers and his rock n roll band Clayton Bellamy & The Congregation they have released two albums. 
+
+== Discography ==
+
+=== Studio albums ===
+{| class="wikitable plainrowheaders"
+! style="width:14em;"| Title
+! style="width:18em;"| Details
+|-
+! scope="row" | ''Running on Empty''
+| 
+* Release date: Sept 1 1999
+* Label:
+|-
+! scope="row" | ''The Clayton Bellamy Band''
+| 
+* Release date: June 11, 2001
+* Label:
+|-
+! scope="row" | ''Everyone’s a Dreamer''
+|
+* Release date: Sept 1 2012
+* Label: MDM
+|-
+! scope="row" | ''Five Crow Silver''
+|
+* Release date: June 11, 2013
+* Label: MDM
+|-
+! scope="row" | ''Welcome to the Congregation''
+|
+* Release date: Sept 1 2019
+* Label: Anthem
+|-
+! scope="row" | ''The Ugly Truth''
+|
+* Release date: Nov 2022
+* Label: Monkey Nerve/FUGA
+|}
+
+=== Singles ===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:14em;"| Single
+! Album
+|- 
+| rowspan="3"| 2012
+! scope="row"| "Everyone's a Dreamer"
+| rowspan="3"| ''Everyone's a Dreamer''
+|-
+! scope="row"| "That Ain't Gonna Fly"
+|-
+! scope="row"| "Straight Into the Sun"
+|-
+| rowspan="2"| 2013
+! scope="row"| "Goodbye America"
+| rowspan="2"| ''Five Crow Silver''
+|-
+! scope="row"| "Days Aren't Long Enough"<br /><small>(with Kelly Prescott)</small>
+|}
+
+=== Music videos ===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:14em;"| Video
+! Director
+|- 
+| rowspan="3"| 2012
+! scope="row"| "Everyone's a Dreamer"
+| 
+|-
+! scope="row"| "That Ain't Gonna Fly"
+| rowspan="2"| Sean Smith
+|-
+! scope="row"| "Straight Into the Sun"
+|}
+
+== Awards ==
+* 1 [[SOCAN]] Songwriter of the Year
+* 4 [[Canadian Country Music Awards|CCMA Award]] 
+* 1 [[Juno Awards|Juno Award]] Best Country Recording
+* Western Canadian Music Award for Best Country Recording
+* Radio Music Award Recipient
+
+==References==
+<ref>{{cite web|url=https://topcountry.ca/clayton-bellamy-offers-fans-the-chance-to-appear-in-new-video/|title=Clayton Bellamy 'Dreams' with his fans|date=February 2, 2012|website=Topcountry.ca|accessdate=January 7, 2019}}</ref>
+{{Reflist}}
+
+==External links==
+* {{Official website|http://www.claytonbellamyband.com}}
+* [http://www.theroadhammers.com The Road Hammers Official]
+
+{{The Road Hammers}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Bellamy, Clayton}}
+[[Category:Living people]]
+[[Category:Canadian country singer-songwriters]]
+[[Category:Canadian male singers]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Canadian male singer-songwriters]]

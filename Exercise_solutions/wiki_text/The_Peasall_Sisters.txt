@@ -1,0 +1,79 @@
+{{Short description|American country singing family}}
+{{Infobox musical artist
+| name            = The Peasall Sisters
+| image           =
+| image_size      =
+| landscape       = <!-- yes, if wide image, otherwise leave blank -->
+| alt             =
+| caption         =
+| alias           =
+| origin          =
+| genre           = [[Country music]]
+| years_active    = 2000–present
+| label           = [[Varèse Sarabande]]<br />[[Dualtone Records|Dualtone]]
+| associated_acts =
+| website         = <!-- {{URL|example.com}} -->
+| current_members = Leah Peasall<br />Sarah Peasall<br />Hannah Peasall
+| past_members    = 
+}}
+
+'''The Peasall Sisters''' are a country harmony group formed by three of the six Peasall siblings. They are best known for their singing in the 2000 film ''[[O Brother, Where Art Thou?]]''.
+
+==Biography==
+The six Peasall siblings were born and raised in White House, Tennessee. Group members include Sarah (alto voice, guitar), Hannah (soprano voice, mandolin), and Leah (mezzo-soprano voice, violin).
+
+===Film participation===
+In the 2000 film ''[[O Brother, Where Art Thou?]]'', they provided the singing voices for Ulysses Everett McGill's ([[George Clooney]]) daughters, the Wharvey Girls. They sang "In the Highways" and "[[Angel Band (song)|Angel Band]]".<ref name=PS-metafilter>{{cite news|last1=uncredited|title=You shall Hear things, Wonderful to tell|url=http://www.metafilter.com/110849/You-shall-Hear-things-Wonderful-to-tell|access-date=29 April 2017|work=MetaFilter|date=22 December 2011}}</ref>
+
+''The Peasall Sisters – Family Harmony'' DVD was released in 2006, and shows the sisters with their family and singing.<ref name=PS-challies-2006>{{cite news|last1=Challies|first1=Tim|title=The Peasall Sisters – Family Harmony DVD|url=https://www.challies.com/music-movies/the-peasall-sisters-family-harmony-dvd|access-date=29 April 2017
+|work=Challies|date=17 February 2006}}</ref>
+
+For the soundtrack of the 2010 film ''True Grit'', the sisters contribute their version of [[Mosie Lister]]'s gospel song "Where No One Stands Alone".<ref name=PS-scene-2010>{{cite news|last1=Rodgers|first1=D. Patrick
+|title=Nashvillians The Peasall Sisters Featured in Coen Brothers' ''True Grit'' Trailer|url=http://www.nashvillescene.com/music/article/13035668/nashvillians-the-peasall-sisters-featured-in-coen-brothers-true-grit-trailer|access-date=29 April 2017|work=Nashville Scene|date=28 September 2010}}</ref>
+
+===Appearances===
+As part of the [[Down from the Mountain]] tour, the sisters performed at the [[Radio City Music Hall]] and [[Carnegie Hall]]. They have also appeared at the [[Grand Ole Opry]].<ref name=PS-billboard-2002>{{cite magazine|last1=staff writer|title=Peasall Sisters' 'First Offering' Is On Their Own Label|url=http://www.billboard.com/articles/news/76979/peasall-sisters-first-offering-is-on-their-own-label|access-date=29 April 2017|magazine=Billboard|date=30 January 2002}}</ref>
+
+===Awards===
+Their inclusion on the ''[[O Brother, Where Art Thou? (soundtrack)|O Brother, Where Art Thou?]]'' soundtrack album made the group the youngest vocal group nominated for a contribution to a winner of the [[Grammy Award for Album of the Year]].<ref>The Advocate - Sep 13, 2005 - Page 77 No. 946 "Home To You  The Peasall Sisters (Dual- tone): Sweet-voiced, classic country harmonies from teenage siblings showcased in film O Brother, Where Art Thou? "</ref> Their win in the category made Leah Peasall the youngest Grammy winner in history at 8 years old.<ref name=PS-post-2022>{{cite news|last1=Bailey-Millado|first1=Rob
+|title=The youngest Grammy winners ever: Billie Eilish, Blue Ivy, and more|url=https://nypost.com/article/youngest-grammy-winners/}}</ref>
+
+===Recordings===
+The sisters have released two albums: in 2002, ''First Offering''<ref name=PS-billboard-2002 /> and in 2005 ''Home to You'', on which they are accompanied by artists such as [[Randy Scruggs]], Larry Perkins, [[Jamie Hartford]], and [[Leroy Troy]].<ref name=PS-loafing-2005>{{cite news|last1=Andrews|first1=Michael|title=The Peasall Sisters - Home to You|url=http://www.creativeloafing.com/music/article/13022183/the-peasall-sisters|access-date=29 April 2017|work=Creative Loafing|date=31 August 2005}}</ref>
+
+==Discography==
+;Solo albums
+* 2002: ''First Offering'' ([[Varèse Sarabande]])
+* 2005: ''Home To You'' ([[Dualtone Records|Dualtone]])
+
+;Music films
+* 2006: ''The Peasall Sisters: Family Harmony'' DVD (Franklin Films)
+
+;Film contributions
+* 2000: ''[[O Brother, Where Art Thou? (soundtrack)|O Brother, Where Art Thou?]]'' ([[Universal Music Group Nashville|Lost Highway]] / [[Mercury Records|Mercury]]) - "In the Highways" (in movie and soundtrack album); "Angel Band" (in movie, not on soundtrack album)
+* 2010: ''[[True Grit (2010 film)|True Grit]]'' - "Where No One Stands Alone" (featured in movie and trailer)
+
+;Song contributions
+* 1995: "Songs to Tickle Your Tonsils" (Sarah Peasall)
+* 2002: "Bob and Larry's Backyard Party" and "Pirates' Boatload of Fun" (Leah Peasall only)
+* 2003: "O Veggie Where Art Thou?"
+* 2007: Various artists - ''[[Anchored in Love: A Tribute to June Carter Cash]]'' ([[Dualtone Records|Dualtone]]) - track 8, "Road To Kaintuck" (with [[Billy Bob Thornton]])
+* 2015: Various artists - ''The Unbroken Circle (The Musical Heritage of the Carter Family)'' ([[Dualtone Records|Dualtone]]) - track 3, "On the Sea of Galilee" (with [[Emmylou Harris]])
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Allmusic | id= the-peasall-sisters-mn0000409985 | label= The Peasall Sisters}}
+* {{discogs artist|2645971-The-Peasall-Sisters|The Peasall Sisters}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Peasall Sisters}}
+[[Category:American country music groups]]
+[[Category:Grammy Award winners]]
+[[Category:Sibling musical trios]]
+[[Category:American musical trios]]
+
+
+{{US-country-band-stub}}

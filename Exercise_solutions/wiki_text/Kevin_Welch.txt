@@ -1,0 +1,238 @@
+{{short description|American singer-songwriter}}
+{{Use mdy dates|date=November 2020}}
+
+{{BLP sources|date=January 2014}}
+
+{{Infobox musical artist
+|name            = Kevin Welch
+|background      = solo_singer
+|image           = Kevin Welch Cactus Cafe 2005 Ron Baker.jpg
+|caption         = Kevin Welch at Cactus Cafe in [[Austin, Texas]].  Photo by Ron Baker (2005).
+|birth_name      = Kevin Stephen Welch
+|birth_date      = {{birth date and age|mf=yes|1955|8|17}}
+|birth_place =[[Long Beach, California]], U.S.
+|origin          = [[Midwest City, Oklahoma]], U.S.
+|genre           = [[Country music|Country]]
+|occupation      = Singer-songwriter
+|years_active    = 1989–present
+|label           = [[Reprise Records|Reprise]]<br />[[Dead Reckoning Records|Dead Reckoning]]<br />[[Compass Records|Compass]]
+|associated_acts = [[Kieran Kane]]
+|website             = http://www.kevinwelch.com/
+}}
+
+'''Kevin Stephen Welch''' (August 17, 1955) is an American [[country music]] artist. He has charted five singles on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] charts and released eight studio albums. He is also one of the cofounders of the [[Dead Reckoning Records]] label, which he founded with fellow musicians [[Kieran Kane]], [[Tammy Rogers]], [[Mike Henderson]], and [[Harry Stinson (musician)|Harry Stinson]].
+
+==Biography==
+At the age of 7, Welch and his family moved to [[Midwest City, Oklahoma]]. After graduating high school, he began touring with bands like New Rodeo and Blue Rose Cafe.
+
+Welch moved to [[Nashville, Tennessee|Nashville]] in 1978 to work as a songwriter.<ref name="allmusic">{{cite web|url={{AllMusic|class=artist|id=p1863|pure_url=yes}}|title=Kevin Welch biography|last=Ankeny|first=Jason|work=[[Allmusic]]|access-date=August 7, 2010}}</ref> Singers like [[Ricky Skaggs]], [[Moe Bandy]], [[Waylon Jennings]], [[Patty Loveless]], [[Garth Brooks]], [[Trisha Yearwood]] and [[Don Williams]] were using his material. At the same time he was very active in local clubs, performing with [[John Scott Sherrill]] and the Wolves in Cheap Clothing, The Roosters, and finally his own band – The Overtones. His popularity grew and in 1988 he signed a record contract with [[Reprise Records]].<ref name="allmusic"/>
+
+In 1990 the album ''Kevin Welch'' was recorded and 2 years later ''Western Beat''.<ref name="allmusic"/> The former produced four charting singles on [[Hot Country Songs]], including "Til I See You Again," which reached No.&nbsp;39.<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=451|isbn=0-89820-177-2}}</ref>
+
+In 1994 he co-founded [[Dead Reckoning Records]] along with [[Kieran Kane]], [[Tammy Rogers]], [[Mike Henderson]] and [[Harry Stinson (musician)|Harry Stinson]].<ref name="allmusic"/> The following year ''Life Down Here on Earth'' was published and in 1999 ''Beneath My Wheels''. The majority of songs are Welch's originals. In 2002 the album ''Millionaire'' was recorded partially in Nashville and mostly in Denmark with a stellar line-up of Scandinavian players.
+
+In 2004 Welch teamed up with fellow Dead Reckoning artists Kieran Kane and [[Fats Kaplin]] to produce ''You Can't Save Everybody''. The trio followed this up with ''Lost John Dean'' in 2006, to general acclaim. ''Lost John Dean'' reached number one on the Americana charts, and resulted in nominations for several awards including Duo/Group of the year at the 2006 Americana Honors and Awards. The following eponymous Kane Welch Kaplin, with the addition of Lucas Kane, was also nominated for Duo/Group. The group traveled to Australia 10 times, as well as Europe and the UK, Canada, and all over the United States.
+
+Throughout the 2000s, Welch has teamed up with Australian band [[The Flood (band)|The Flood]]. They have recorded albums and DVDs together, and toured the country twice.
+
+Welch moved to [[Wimberley, Texas]], on April 1, 2008. In 2009, he recorded ''[[A Patch of Blue Sky|A Patch Of Blue Sky]]'', his first solo project in 8 years. He now lives in Australia with his wife, Sarah, and their family.
+
+==Discography==
+
+===Albums===
+{| class="wikitable"
+! Year
+! Title
+! <small>[[Top Country Albums|US Country]]</small>
+! Label
+|-
+| 1990
+| ''[[Kevin Welch (Kevin Welch album)|Kevin Welch]]''
+| align="center"| 69
+| rowspan="2"| Reprise
+|-
+| 1992
+| ''[[Western Beat (Kevin Welch album)|Western Beat]]''
+| 
+|-
+| 1995
+| ''[[Life Down Here on Earth]]''
+| 
+| rowspan="4"| Dead Reckoning
+|-
+| 1999
+| ''[[Beneath My Wheels (album)|Beneath My Wheels]]''
+| 
+|-
+
+| 2000
+| ''[[11/12/13: Live in Melbourne]]'' <small>(with [[Kieran Kane]])</small>
+| 
+|-
+
+| 2002
+| ''[[Millionaire (Kevin Welch album)|Millionaire]]''
+| 
+|-
+| 2004
+| ''[[You Can't Save Everybody]]'' <small>(with [[Kieran Kane]] and Fats Kaplin)</small>
+| 
+| rowspan="3"| Compass
+|-
+| 2006
+| ''[[Lost John Dean]]'' <small>(with Kieran Kane and Fats Kaplin)</small>
+| 
+|-
+| 2007
+| ''Kane Welch Kaplin'' <small>(with Kieran Kane and Fats Kaplin)</small>
+| 
+|-
+| 2010
+| ''[[A Patch of Blue Sky]]''
+| 
+| rowspan="1"| Music Road
+|-
+| 2017
+| ''The Dead Reckoning Years''
+| 
+| rowspan="2"| Dead Reckoning
+|-
+| 2018
+| ''Dust Devil''
+|
+|}
+
+===Singles===
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Title
+! colspan="2"| Chart Positions
+! rowspan="2"| Album
+|-
+! width="50"| <small>[[Hot Country Songs|US Country]]</small>
+! width="50"| <small>CAN Country</small>
+|-
+| rowspan="2"| 1989
+| "Stay November"
+| align="center"| 41
+| align="center"|—
+| Single only
+|-
+| "I Came Straight to You"
+| align="center"| 64
+| align="center"|—
+| rowspan="4"| ''Kevin Welch''
+|-
+| rowspan="2"| 1990
+| "Till I See You Again"
+| align="center"| 39
+| align="center"| 18
+|-
+| "Praying for Rain"
+| align="center"| 49
+| align="center"| 66
+|-
+| rowspan="2"| 1991
+| "True Love Never Dies"
+| align="center"| 54
+| align="center"| 37
+|-
+| "Somethin' 'Bout You"
+| align="center"|—
+| align="center"| 80
+| ''Western Beat''
+|-
+| rowspan="2"| 1995
+| "Life Down Here on Earth"
+| align="center"|—
+| align="center"|—
+| rowspan="2"| ''Life Down Here on Earth''
+|-
+| "I Feel Fine Today"
+| align="center"|—
+| align="center"|—
+|-
+| 1997
+| "Anna Lise Please"
+| align="center"|—
+| align="center"|—
+| ''Beneath My Wheels''
+|-
+| 2002
+| "Killing Myself"
+| align="center"|—
+| align="center"|—
+| ''Millionaire''
+|}
+
+===Guest singles===
+{| class="wikitable"
+! Year
+! Title
+! Artist
+! width="50"| <small>[[Hot Country Songs|US Country]]</small>
+! Album
+|- 
+| 1990
+| "Tomorrow's World"
+| align="center"| Various artists
+| align="center"| 74
+| Single only
+|}
+
+===Music videos===
+{| class="wikitable"
+! Year
+! Video
+! Director
+|-
+| rowspan="2"| 1990
+| "Tomorrow's World" <small>(Various Artists)</small>
+| [[Gustavo Garzon]]
+|-
+| "Till I See You Again"
+| rowspan="2"| Charley Randazzo
+|-
+| 1991
+| "True Love Never Dies"
+|-
+| 1992
+| "Somethin' 'Bout You"
+| Planet Pictures
+|-
+| 1995
+| "I Feel Fine Today"
+| rowspan="2"| Michael McNamara
+|-
+| 1996
+| "Life Down Here on Earth"
+|-
+| 1999
+| "Anna Lise Please"
+| 
+|-
+| 2002
+| "Killing Myself"<ref>{{cite web|url=http://www.cmt.com/videos/kevin-welch/387743/killing-myself.jhtml|archive-url=https://web.archive.org/web/20160305153253/http://www.cmt.com/videos/kevin-welch/387743/killing-myself.jhtml|url-status=dead|archive-date=March 5, 2016|title=CMT : Videos : Kevin Welch : Killing Myself|publisher=[[Country Music Television]]|access-date=October 14, 2011}}</ref>
+| Chris Cates, Harry Stinson
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.kevinwelch.com Official site]
+*[http://www.deadreckoners.com Dead Reckoning Records]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Welch, Kevin}}
+[[Category:1955 births]]
+[[Category:Living people]]
+[[Category:American country singer-songwriters]]
+[[Category:Reprise Records artists]]
+[[Category:Musicians from Long Beach, California]]
+[[Category:Singer-songwriters from Oklahoma]]
+[[Category:People from Midwest City, Oklahoma]]
+[[Category:Singer-songwriters from California]]
+[[Category:Country musicians from California]]
+[[Category:Country musicians from Oklahoma]]

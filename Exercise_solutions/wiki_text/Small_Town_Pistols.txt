@@ -1,0 +1,156 @@
+{{Infobox musical artist
+| name            = Small Town Pistols
+| image           = Small Town Pistols.jpg
+| caption         = Small Town Pistols, consisting of Amanda Wilkinson (front) and her brother Tyler (left), performing at the Sound of Music festival in Burlington, ON
+| image_size      = 
+| alias           = 
+| origin          = [[Trenton, Ontario|Trenton]], [[Ontario]], Canada
+| genre           = [[Country music|Country]]
+| years_active    = 2012–2015
+| label           = [[604 Records|604]]
+|spinoff_of = [[The Wilkinsons]]
+| past_members    = [[Amanda Wilkinson]]<br />Tyler Wilkinson
+}}
+
+'''Small Town Pistols''' were a Canadian [[country music]] duo composed of [[Amanda Wilkinson|Amanda]] and Tyler Wilkinson, formerly of [[The Wilkinsons]].<ref>{{cite web|title=Small Town Pistols Biography|url=http://www.cmt.ca/artist/small-town-pistols/|work=[[CMT (Canada)|CMT]]|accessdate=January 18, 2013}}</ref>
+
+The two siblings were each pursuing individual solo careers when they both went through difficult break-ups.<ref name=TheBoot>{{cite web |url= http://theboot.com/small-town-pistols-colour-blind-acoustic-exclusive-video/ |title=Small Town Pistols Perform 'Colour Blind'|first= Sterling|last= Whittaker|work=theboot.com |date= 2014-02-25|accessdate= 16 March 2014}}</ref> That led them to start writing music together again with an eye towards pitching songs to other artists<ref name=Global>{{cite web |url= http://globalnews.ca/news/1200663/small-town-pistols-fired-up-about-juno-nod-for-debut-album/ |title=Small Town Pistols fired up about Juno nod for debut album|first= John R.|last= Kennedy|work=globalnews.ca |date= 2014-03-11|accessdate= 16 March 2014}}</ref> including [[Lady Antebellum]].<ref name=PeteExam>{{cite web |url= http://www.thepeterboroughexaminer.com/2013/02/20/music-column-the-wilkinsons-back-as-small-town-pistols |title=The Wilkinsons back as Small Town Pistols|first= Kennedy|last= Gordon|work=thepeterboroughexaminer.com |date= 2013-02-20|accessdate=16 March 2014}}</ref> On listening to their new material they decided to perform it themselves. While they did discuss using the Wilkinson name for their new material,<ref name=Global/> they decided to use a fresh name. The name Small Town Pistols is a reference to their having been "raised in a small town of like 14,000 people"<ref name=CanadianBeats>{{cite web |url= http://canadianbeats.wordpress.com/2013/07/20/interview-with-small-town-pistols/ |title=Interview with Small Town Pistols &#124; Canadian Beats |first= Jenna|last= Melanson|work=canadianbeats.wordpress.com |date= 2013-07-20|accessdate=16 March 2014}}</ref> while the Pistols is a reference to their grandmother Ida.
+
+Their [[Small Town Pistols (album)|self-titled debut album]] was released by [[604 Records]] on February 19, 2013.<ref name="medicinehat">{{cite news|last=Brown|first=Chris|title=Years and life give Tyler and Amanda Wilkinson new maturity on new project|url=http://www.medicinehatnews.com/local-entertainment/years-and-life-give-tyler-and-amanda-wilkinson-new-maturity-on-new-project-01182013.html|access-date=January 18, 2013|newspaper=[[Medicine Hat News]]|date=January 18, 2013|url-status=dead|archive-url=https://archive.today/20130216113228/http://www.medicinehatnews.com/local-entertainment/years-and-life-give-tyler-and-amanda-wilkinson-new-maturity-on-new-project-01182013.html|archive-date=February 16, 2013}}</ref> Its second single, "Living on the Outside," debuted on the [[Canadian Hot 100]] in January 2013.<ref name="acharts">{{cite web|title=Small Town Pistols - Music Charts|url=http://acharts.us/performer/small_town_pistols|work=acharts.us|accessdate=January 18, 2013}}</ref>
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:20em;"| Details
+|-
+! scope="row"| ''[[Small Town Pistols (album)|Small Town Pistols]]''
+| 
+* Release date: February 19, 2013<ref name="medicinehat" />
+* Label: [[604 Records]]
+|-
+! scope="row"| ''Pistology''
+| 
+* Release date: May 26, 2015
+* Label: 604 Records
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Canada Country|CAN Country]]<br /><ref>{{cite magazine|url=http://www.billboard.com/music/small-town-pistols/chart-history/canada-country|archive-url=https://web.archive.org/web/20180507093839/https://www.billboard.com/music/small-town-pistols/chart-history/canada-country|url-status=dead|archive-date=May 7, 2018|title=Small Town Pistols Chart History - Canada Country|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=November 20, 2013}}</ref>
+! width="45"| [[Canadian Hot 100|CAN]]<br /><ref>{{cite magazine|url=http://www.billboard.com/music/small-town-pistols/chart-history/canadian-hot-100|archive-url=https://web.archive.org/web/20180507093852/https://www.billboard.com/music/small-town-pistols/chart-history/canadian-hot-100|url-status=dead|archive-date=May 7, 2018|title=Small Town Pistols Chart History - Billboard Canadian Hot 100|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=November 20, 2013}}</ref>
+|-
+| rowspan="2"| 2012
+! scope="row"| "Colour Blind"
+| 14
+| —
+| align="left" rowspan="4"| ''Small Town Pistols''
+|-
+! scope="row"| "Living on the Outside"
+| 10
+| 90
+|-
+| rowspan="2"| 2013
+! scope="row"| "Blame It on the Radio"
+| 27
+| —
+|-
+! scope="row"| "Anthem of a Runaway"
+| 22
+| —
+|-
+| 2014
+! scope="row"| "I Only Smoke When I Drink"
+| 38
+| —
+| align="left" rowspan="3"| ''Pistology''
+|-
+| rowspan="2"| 2015
+! scope="row"| "Can't Wait to Meet You"
+| 30
+| —
+|-
+! scope="row"| "Jester in a Crown"
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:14em;"| Video
+! Director
+|-
+| rowspan="2"| 2012
+! scope="row"| "Colour Blind"
+| John "JP" Poliquin
+|-
+! scope="row"| "Living on the Outside"
+| rowspan="5"| [[Stephano Barberis]]
+|-
+| 2013
+! scope="row"| "Blame It on the Radio"
+|-
+| 2014
+! scope="row"| "I Only Smoke When I Drink"
+|-
+| rowspan="2"| 2015
+! scope="row"| "Can't Wait to Meet You"
+|-
+! scope="row"| "Jester in a Crown"<ref>{{cite news|last1=Post|first1=Chantilly|title=WATCH: Premiere Of Small Town Pistols' New Video For 'Jester In A Crown'|url=http://www.etcanada.com/blogs/etc_167583/watch-premiere-of-small-town-pistols-new-video-for-jester-in-a-crown/music|archive-url=https://web.archive.org/web/20151121034634/http://www.etcanada.com/blogs/etc_167583/watch-premiere-of-small-town-pistols-new-video-for-jester-in-a-crown/music|url-status=dead|archive-date=November 21, 2015|accessdate=November 21, 2015|work=[[Entertainment Tonight Canada|ET Canada]]|date=November 18, 2015}}</ref>
+|-
+|}
+
+==Awards and nominations==
+{| class="wikitable"
+|-
+! Year
+! Association
+! Category
+! Result
+|-
+| rowspan="2"| 2013
+| rowspan="2"| [[Canadian Country Music Association]]
+| Group or Duo of the Year
+| {{nom}}
+|-
+| Album of the Year – ''Small Town Pistols''
+| {{nom}}
+|-
+| rowspan="2"| 2014
+| [[Juno Awards of 2014]]
+| [[Juno Award for Country Album of the Year|Country Album of the Year]] – ''Small Town Pistols''
+| {{nominated}}
+|-
+| rowspan="2"| Canadian Country Music Association
+| Group or Duo of the Year
+| {{won}}
+|-
+| 2015
+| Group or Duo of the Year
+| {{nom}}
+|-
+|}
+
+==References==
+{{Reflist}}
+
+{{The Wilkinsons}}
+{{Authority control}}
+
+[[Category:Canadian country music duos]]
+[[Category:Musical groups established in 2012]]
+[[Category:Musical groups from Ontario]]
+[[Category:2012 establishments in Ontario]]
+[[Category:Canadian Country Music Association Group or Duo of the Year winners]]

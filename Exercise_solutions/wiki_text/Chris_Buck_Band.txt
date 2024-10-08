@@ -1,0 +1,180 @@
+{{Short description|Canadian country music group}}
+{{Infobox musical artist
+| name              = Chris Buck Band
+| image             = 
+| caption           = 
+| image_size        = 
+| alias             = 
+| origin            = [[British Columbia]], Canada
+| genre             = [[Country music|Country]]
+| years_active      = 
+| label             = {{flatlist|
+* Bailey Way
+* [[Royalty Records|Royalty]]
+* Sakamoto Music
+}}
+| website           = {{URL|http://chrisbuckband.com/}}
+| current_members   = Chris Buck
+| past_members      =
+* Phillip Puxley
+* Michael Vanderlans
+* Paul Kinman
+* Taylor Allum
+* Ryan Stead
+* Matt Genereux
+}}
+
+'''Chris Buck Band''' is a Canadian [[country music]] group from [[British Columbia]], Canada composed of Chris Buck, and various band members.<ref name="whistler">{{cite news|last1=Thompson|first1=Eric|title=Chris Buck Band makes its Pemberton debut|url=http://www.whistlerquestion.com/entertainment/music/chris-buck-band-makes-its-pemberton-debut-1.2065051|accessdate=February 19, 2016|work=Whistler Question|date=September 21, 2015}}</ref> Buck formed the band when he lost his best friend to cancer at age 13.<ref name="whistler" /><ref name="cmt">{{cite web|title=Chris Buck Band Biography|url=http://www.cmt.ca/artist/chris-buck-band|website=[[CMT (Canadian TV channel)|CMT]]|accessdate=February 19, 2016}}</ref> Their first single, "Caribbean Dream", was released in 2013.<ref name="summerland">{{cite web|title=Summerland Festival of Lights presents: Chris Buck Band|url=http://summerlandlightup.com/events/main-stage/chris-buck-band/|website=Summerland Festival of Lights|accessdate=February 19, 2016|archive-url=https://web.archive.org/web/20160206222841/http://summerlandlightup.com/events/main-stage/chris-buck-band/|archive-date=February 6, 2016|url-status=dead}}</ref> It was included on their debut album, ''Buck Wild'', released in June 2014.<ref name="summerland" /> Chris Buck Band won the 2014 British Columbia Country Music Association Award for Country Club Act of the Year.<ref>{{cite news|last1=Landreville|first1=Troy|title=Langley country artists scoop up awards|url=http://www.langleyadvance.com/entertainment/300174631.html|accessdate=February 19, 2016|work=Langley Advance|date=October 22, 2014|archive-url=https://web.archive.org/web/20160303202109/http://www.langleyadvance.com/entertainment/300174631.html|archive-date=March 3, 2016|url-status=dead}}</ref> At the 2015 BCCMA Awards, they won Country Club Act of the Year and Group/Duo of the Year.<ref>{{cite news|last1=Marchand|first1=Francois|title=Dallas Smith ropes in the wins at 2015 B.C. Country Music Awards|url=http://blogs.vancouversun.com/2015/10/27/dallas-smith-ropes-in-the-wins-at-2015-b-c-country-music-awards/|accessdate=February 19, 2016|work=[[The Vancouver Sun]]|date=October 27, 2015}}</ref> 
+
+Their second single, "Leave Your Light On", was released in 2015.<ref name="summerland" /> It peaked at number 44 on the ''[[Billboard (magazine)|Billboard]]'' [[Canada Country]] chart.<ref name="Canada Country" /> They signed to Bailey Way Entertainment for the release of their next single, "Giddy Up".<ref name="cmt" /> It debuted on the Canada Country chart in February 2016.<ref name="Canada Country" /> In 2017 Chris Buck Band signed with Royalty Records and released their third single "That's When You Know" (Featuring Kira Isabella), which climbed the charts to number 19. In 2022, this song earned them a certified Canadian Gold Record. Chris Buck has been writing his own music since his first album, which earned him the Songwriter of the Year Award at the 2019 BCCMA Awards. In 2021 he signed a publishing deal in Nashville, Tennessee with Anthem Entertainment which took his creativity to new heights. Chris Buck Band signed with Sakamoto Music in 2021 and started writing and recoding his next studio album "Answers" with producer [[Jeremy Stover]] and RED Creative Group. In 2022, Chris Buck released four singles from "Answers"; "Can't Beat The View", "Thank God for Good Friends", "She Gone" and "Wild and Free". The album won 2023 BCCMA Country Music “Album of the Year”.
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+List of studio albums, with selected details
+! scope="col" style="width:8em;"| Title
+! scope="col" style="width:16em;"| Details
+|-
+! scope="row"| ''Buck Wild''
+| 
+* Released: June 23, 2014
+* Label: self-released
+|-
+! scope="row"| ''Chris Buck Band''
+|
+* Released: April 21, 2017
+* Label: [[Royalty Records|Royalty]]
+|-
+! scope="row"| ''All In''
+|
+* Released: February 8, 2019
+* Label: Royalty
+|-
+! scope="row"| ''Answers''
+|
+* Released: March 31, 2023
+* Label: Sakamoto Music<ref>{{cite web |date=16 February 2022 |title=Announcing Sakamoto Music, a new record label division of Sakamoto Agency, with first signing Chris Buck |url=https://sakamotoagency.com/announcing-sakamoto-music-a-new-record-label-division-of-sakamoto-agency-with-first-signing-chris-buck/ |website=sakamotoagency.com |publisher=Sakamoto Agency |access-date=1 July 2024}}</ref>
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+List of singles, with selected chart positions, showing year released and album name
+! scope="col" rowspan="2" style="width:17em;"| Title
+! scope="col" rowspan="2"| Year
+! scope="col"| Peak chart positions
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[Canada Country|CAN<br />Country]]<br /><ref name="Canada Country">{{cite web|url=http://www.billboard.com/biz/search/charts?f%5B0%5D=ts_chart_artistname%3A%2AChris%20Buck%20Band%2A&f%5B1%5D=itm_field_chart_id%3A1240&f%5B2%5D=ss_bb_type%3Achart_item&type=2&artist=Chris%20Buck%20Band|title=Chris Buck Band &ndash; Chart History (Canada Country)|work=[[Billboard (magazine)|Billboard]]|accessdate=February 19, 2016}}
+* "Cowboy Boots": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2024-07-06|title=Canada Country chart for July 6, 2024|magazine=Billboard|access-date=July 2, 2024|url-access=subscription}}</ref>
+|-
+! scope="row"| "Caribbean Dream"
+| 2013
+| —
+| ''Buck Wild''
+|-
+! scope="row"| "Leave Your Light On"
+| rowspan="2"| 2015
+| 44
+| rowspan="4"| ''Chris Buck Band''
+|-
+! scope="row"| "Giddy Up"
+| 38
+|-
+! scope="row"| "Sun Sets Down"
+| 2016
+| 34
+|-
+! scope="row"| "That's When You Know"<br />{{small|(featuring [[Kira Isabella]])}}
+| 2017
+| 19
+|-
+! scope="row"| "Good Old Days"
+| 2019
+| 33
+| ''All In''
+|-
+! scope="row"| "Can't Beat the View"
+| rowspan="2"| 2022
+| —
+| rowspan="4"| ''Answers''
+|-
+! scope="row"| "Thank God for Good Friends"
+| —
+|-
+! scope="row"| "She Gone"
+| rowspan="2"| 2023
+| —
+|-
+! scope="row"| "Wild and Free"
+| —
+|-
+! scope="row"| "Cowboy Boots"<br />{{small|(featuring [[Gord Bamford]])}}
+| 2024
+| 55
+| {{Non-album single}}
+|-
+| colspan="4" style="font-size:90%"| "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of music videos, showing year released and directors
+! scope="col" style="width:17em;"| Title
+! scope="col"| Year
+! scope="col"| Director(s)
+|-
+! scope="row"| "Caribbean Dream"
+| 2014
+| Dave McDonald and Jon Thomas
+|-
+! scope="row"| "Giddy Up"
+| 2016
+| Dermot King and Jon Thomas
+|-
+! scope="row"| "That's When You Know"<br />{{small|(featuring Kira Isabella)}}
+| 2017
+| rowspan="2"| David McDonald
+|-
+! scope="row"| "RDNKN"
+| 2018
+|-
+! scope="row"| "Can't Beat the View"
+| rowspan="2"| 2022
+| [[Stephano Barberis]]
+|-
+! scope="row"| "Thank God for Good Friends"
+| Dave Benedict
+|-
+! scope="row"| "She Gone"
+| 2023
+| [[Sons of Daughters|Chrystal Leigh]]
+|}
+
+==Awards and nominations==
+{| class="wikitable"
+|+
+!Year
+!Association
+!Category
+!Nominated work
+!Result
+!Ref
+|-
+| 2024
+| [[Canadian Country Music Association]]
+| Musical Collaboration of the Year
+| "Cowboy Boots" <br/>{{small|(with [[Gord Bamford]])}}
+| {{nom}}
+| <ref name="CCMA">{{cite web|url=https://ccma.org/2024-ccma-award-nominees/|title=2024 CCMA AWARDS NOMINEES|work=[[Canadian Country Music Association]]|access-date=July 25, 2024|archive-url= https://web.archive.org/web/20240719164229/http://web.archive.org/screenshot/https://ccma.org/2024-ccma-award-nominees/|archive-date=July 19, 2024}}</ref>
+|-
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website}}
+
+[[Category:Canadian country music groups]]
+[[Category:Musical groups from Vancouver]]
+[[Category:Canadian musical quintets]]

@@ -1,0 +1,148 @@
+{{Short description|American country music group}}
+{{About|the country music female group|the TV show|The Girls Next Door|other uses|Girl Next Door (disambiguation){{!}}Girl Next Door}}
+{{Infobox musical artist
+| name            = Girls Next Door
+| image           =
+| caption         =
+| image_size      =
+| origin          = [[Nashville, Tennessee]], United States
+| genre           = [[Country music|Country]]
+| years_active    = 1982–1991, 2011, 2022-Present
+| label           = [[MTM Records|MTM]], [[Atlantic Records|Atlantic]]
+| current_members = {{plainlist|
+*Diane Williams Austin
+*Doris King Merritt
+*Cindy Nixon Psanos
+*Tammy Stephens Smith}}
+}}
+'''Girls Next Door''' are an American [[country music]] vocal group formed in [[Nashville, Tennessee]], in 1982. The group consists of vocalists Doris King Merritt, Cindy Nixon Psanos, Diane Williams Austin, and Tammy Stephens Smith. The quartet recorded between 1982 and 1991, issuing two albums on [[MTM Records]] and one on [[Atlantic Records]]. They disbanded in 1991 and briefly reunited in 2011 before reuniting a second time in 2023.
+
+==History==
+Girls Next Door was founded in 1982 by record producer [[Tommy West (producer)|Tommy West]], best known for working with [[Jim Croce]]. West was a friend of [[session musician|session vocalist]] Doris King, and suggested that she form an all-female vocal group due to the concept being uncommon in country music at the time.<ref name="allmusic"/> The other members chosen for the group were Cindy Nixon, Diane Williams, and Tammy Stephens.<ref name="allmusic">{{cite web |url={{Allmusic|class=artist|id=p13053/biography|pure_url=yes}} |title=Girls Next Door biography |accessdate=May 22, 2008 |last=Brennan |first=Sandra |work=[[Allmusic]]}}</ref> All four of the members had met through mutual connections at [[Opryland USA]], a former theme park in [[Nashville, Tennessee]], which often employed musicians to perform there.<ref name="boro"/> They originally wanted to call themselves Belle and Wildflower, but after finding that other groups existed with those names, West suggested "Girls Next Door" after a song he wrote.<ref name="damon">{{cite news | url=https://www.newspapers.com/image/106566698/ | title=New group closes in on success | work=The Anniston Star | agency=May 14, 1986 | accessdate=September 11, 2024 | author=Damon Adams | pages=10C}}</ref>
+
+The four began rehearsing in Williams's basement and went on to record several songs with West. Despite not having a record deal at the time, they also began performing in local bars around Nashville. In 1984, the quartet was signed to [[MTM Records]], a record label division of actress [[Mary Tyler Moore]]'s [[MTM Enterprises]].<ref name="damon"/> MTM released the group's self-titled debut album ''[[The Girls Next Door (album)|The Girls Next Door]]'' in 1984, with West producing.<ref name="allmusic"/> It charted four singles on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] charts. First was "Love Will Get You Through Times of No Money" at number fourteen, followed by their most successful, "[[Slow Boat to China]]" at number eight. "Baby I Want It" and "Walk Me in the Rain" were also issued as singles.<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2017|publisher=Record Research, Inc|year=2017|page=142|isbn=978-0-89820-229-8}}</ref> Girls Next Door's second album ''What a Girl Next Door Could Do'' charted singles with its title track and "Easy to Find", but neither made top 40 on the country charts. A seventh single for MTM, "Love and Other Fairy Tales", was never put on an album due to MTM closing soon afterward.<ref name="whitburn"/>
+
+In 1989, Girls Next Door signed with [[Atlantic Records]] for their third album ''How 'Bout Us'' under the production of Nelson Larkin.<ref name="allmusic"/> It charted the singles "He's Gotta Have Me" and "[[How 'Bout Us (song)|How 'Bout Us]]", a cover of [[Champaign (band)|Champaign]]'s 1981 single. These singles also failed to make top 40 on the country charts.<ref name="whitburn"/> Girls Next Door retired in 1991, after a performance on the talk show ''[[Nashville Now]]''. All four members stated at the time that they wanted to raise their families.<ref name="boro">{{cite web | url=https://boropulse.com/2023/11/girls-next-door-foursome-reunites-after-30-year-hiatus-country-vocal-group-set-for-new-chapter-with-release-of-girls-next-door-2-0/ | title=Girls Next Door Foursome Reunites After 30-Year Hiatus, Country Vocal Group Set for New Chapter With Release of Girls Next Door 2.0 | publisher=Boro Pulse | date=November 2, 2023 | accessdate=September 11, 2024}}</ref>
+
+The original four members reunited for one concert in 2011.<ref>{{cite web|url=http://theadanews.com/church/x655836732/Girls-Next-Door-in-concert |title=Girls Next Door in concert |date=May 27, 2011 |work=Ada News |accessdate=September 24, 2011 |url-status=dead |archiveurl=https://web.archive.org/web/20120402214249/http://theadanews.com/church/x655836732/Girls-Next-Door-in-concert |archivedate=April 2, 2012 }}</ref> In 2023, the original four members reunited to release a new album titled ''Now or Never'', which they funded through [[Kickstarter]].<ref name="boro"/> The album contains the single "What's This Thing You've Got About Leaving", released that same year.<ref name="allmusic"/>
+
+==Discography==
+
+===Albums===
+{| class="wikitable" 
+|-
+! Year
+! Album
+! width="45"|<small>[[Top Country Albums|US Country]]</small>
+! Label
+|-
+| 1986
+| ''[[The Girls Next Door (album)|The Girls Next Door]]''
+| align="center"| 30
+| rowspan="2"| MTM
+|-
+| 1987
+| ''What a Girl Next Door Could Do''
+| align="center"| 42
+|-
+| 1990
+| ''How 'Bout Us''
+| align="center"| 69
+| Atlantic
+|-
+| 2023
+| ''Now or Never''
+| align="center"| —
+| Self-released
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:22em;"| Single
+! Peak<br/>positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="60"| [[Hot Country Songs|US Country]]<br><ref name="whitburn"/>
+|-
+| rowspan=3| 1986
+! scope="row"| "Love Will Get You Through Times of No Money"
+| 14
+| align="left" rowspan=4| ''The Girls Next Door''
+|-
+! scope="row"| "[[Slow Boat to China]]"
+| 8
+|-
+! scope="row"| "Baby I Want It"
+| 26
+|-
+| rowspan=3| 1987
+! scope="row"| "Walk Me in the Rain"
+| 28
+|-
+! scope="row"| "What a Girl Next Door Could Do"
+| 43
+| align="left" rowspan=2| ''What a Girl Next Door Could Do''
+|-
+! scope="row"| "Easy to Find"
+| 57
+|-
+| 1988
+! scope="row"| "Love and Other Fairy Tales"
+| 73
+| {{n/a}}
+|-
+| 1989
+! scope="row"| "He's Gotta Have Me"
+| 54
+| align="left" rowspan=3| ''How 'Bout Us''
+|-
+| rowspan="2"| 1990
+! scope="row"| "Maybe You Wouldn't Be Missin' Me Tonight"<ref>{{cite magazine|url=http://americanradiohistory.com/Archive-Billboard/90s/1990/BB-1990-03-31.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|date=March 31, 1990}}</ref>
+| —
+|-
+! scope="row"| "[[How 'Bout Us (song)|How 'Bout Us]]"
+| 71
+|-
+| 2023
+! scope="row"| "What's This Thing You've Got About Leaving"<ref>{{cite web | url=https://www.yahoo.com/entertainment/8-must-hear-country-songs-143317841.html | title=8 New Must-Hear Country Songs: Jo Dee Messina, Frank Ray, Wyatt Ellis, Camille Parker & More | publisher=Yahoo! | date=July 10, 2023 | accessdate=July 15, 2023 | author=Jessica Nicholson}}</ref>
+| —
+|''Now or Never''
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! Year
+! style="width:22em;"| Single
+! Director
+|-
+| rowspan="2"| 1986
+! scope="row"| "Slow Boat to China"
+| 
+|-
+! scope="row"| "Baby I Want It"<ref>{{cite magazine|url=http://americanradiohistory.com/Archive-Billboard/80s/1986/BB-1986-11-01.pdf|title=New Videoclips|magazine=[[Billboard (magazine)|Billboard]]|date=November 1, 1986}}</ref>
+| Coke Sams
+|-
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://www.girlsnextdoormusic.com/ Official website]
+{{authority control}}
+
+[[Category:1982 establishments in Tennessee]]
+[[Category:American girl groups]]
+[[Category:Atlantic Records artists]]
+[[Category:Country music groups from Tennessee]]
+[[Category:MTM Records artists]]
+[[Category:Musical groups from Nashville, Tennessee]]
+[[Category:Musical groups established in 1982]]
+[[Category:Musical groups disestablished in 1991]]
+[[Category:Musical groups reestablished in 2023]]
+[[Category:Vocal quartets]]

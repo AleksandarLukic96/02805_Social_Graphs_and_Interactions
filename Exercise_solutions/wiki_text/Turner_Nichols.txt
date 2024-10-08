@@ -1,0 +1,122 @@
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Turner Nichols
+| image                 = 
+| caption            = 
+| image_size            = 
+| background          = group_or_band
+| origin              = [[Nashville, Tennessee]], United States
+| genre               = [[Country music|Country]]
+| years_active        = 1988–1993
+| label               = [[BNA Records|BNA]]
+| past_members        = [[Tim Nichols]]<br />Zack Turner
+}}
+
+'''Turner Nichols''' was an American [[country music]] duo composed of singer-songwriters Zack Turner and [[Tim Nichols]]. Signed to [[BNA Records]] in 1993, the duo recorded a self-titled debut album for the label that year, with two of that album's singles charting on the ''[[Billboard (magazine)|Billboard]]'' Hot Country Singles & Tracks (now [[Hot Country Songs]]) charts. Although it was their only recording together, both members of the duo wrote several songs together in the 1990s, including hit singles for [[Keith Whitley]] and [[Jo Dee Messina]].
+
+==History==
+Since the late 1980s, both Zack Turner and Tim Nichols had written hits for other artists, including "I'm Over You", a Top Five hit for [[Keith Whitley]] in 1990,<ref name="virginian">{{cite news |title=Portsmouth native co-writer of country hit |url=http://nl.newsbank.com/nl-search/we/Archives?p_product=VP&p_theme=vp&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=0EAFF30B8446800F&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM |work=The Virginian-Pilot |page=3 |date=June 3, 1990 |accessdate=July 24, 2008}}</ref> as well as a cut on [[Travis Tritt]]'s debut album ''[[Country Club (album)|Country Club]]''.<ref name="virginian"/>
+
+Turner and Nichols signed to BNA Entertainment (now known as [[BNA Records]]) in 1993 as the duo Turner Nichols.<ref name="book">{{cite book |last=Stambler |first=Irwin |author2=Lyndon Stambler |author3=Grelun Landon |author4=Alice Seidman  |title=Country Music: The Encyclopedia |url=https://books.google.com/books?id=d18K8QWcEo8C&q=%22Zack+Turner%22+%22tim+nichols&pg=PA507 |accessdate=September 6, 2008 |year=1997 |publisher=Macmillan |pages=507–508|isbn=9780312264871 }}</ref> Their self-titled debut album was released that year, with two of its singles reaching the ''Billboard'' country charts.<ref name="book"/> ''[[Entertainment Weekly]]'' reviewer [[Alanna Nash]] gave the album a "B" rating, noting the "soulful lyrics and real emotional connections" on cuts such as "Moonlight Drive-In", the first single.<ref>{{cite magazine |url=https://ew.com/article/1993/12/17/turner-nichols/ |title=Turner Nichols Music Review |accessdate=July 24, 2008 |last=Nash |first=Alanna |magazine=[[Entertainment Weekly]] |date=December 1, 1993}}</ref> "Moonlight Drive-In" peaked at No.&nbsp;51 on the ''[[Billboard (magazine)|Billboard]]'' country charts, and was followed by "She Loves to Hear Me Rock" at No.&nbsp;49. These songs respectively reached No.&nbsp;36 and No.&nbsp;39 on the ''[[RPM (magazine)|RPM]]'' Country Tracks charts in Canada.
+
+After exiting BNA in 1993, both members of the duo continued to write songs for other artists, including [[Jo Dee Messina]]'s 1996 hit "You're Not in Kansas Anymore." Nichols went on to win a [[Grammy Award]] for co-writing [[Tim McGraw]]'s single "[[Live Like You Were Dying (song)|Live Like You Were Dying]]."
+
+==''Turner Nichols'' (1993)==
+{{Infobox album
+| italic_title = no
+| name       = ''Turner Nichols''
+| type       = studio
+| artist     = Turner Nichols
+| cover      = turnernichols.jpg
+| alt        =
+| released   = {{start date|1993|10|26}}<ref name="book"/>
+| recorded   =
+| venue      =
+| studio     =
+| genre      = Country
+| length     = 33:59
+| label      = BNA
+| producer   = [[Keith Stegall]]
+}}
+
+===Track listing===
+All tracks co-written by Zack Turner and Tim Nichols; other co-writers in parentheses.
+#"Moonlight Drive-In" ([[Billy Kirsch]]) – 3:19
+#"Come Saturday Night" – 2:59
+#"She Loves to Hear Me Rock" – 2:39
+#"Stop Right There" – 3:22
+#"You Can't Hurt Me Anymore" – 3:56
+#"She Needs a Lover" ([[Keith Stegall]]) – 3:35
+#"Harleys and Horses" – 3:49
+#"Rose Tattoo" – 3:24
+#"Just So You Know It" (Mike Lawler) – 4:03
+#"Anything" (Lawler) – 3:00
+
+===Personnel===
+
+====Turner Nichols====
+*Tim Nichols – lead vocals, background vocals
+*Zack Turner – lead vocals, background vocals
+
+====Additional musicians====
+*[[Eddie Bayers]] – drums
+*[[Paul Franklin (musician)|Paul Franklin]] – [[pedal steel guitar]]
+*Rob Hajacos – [[fiddle]]
+*[[David Hungate]] – bass guitar
+*[[Brent Mason]] – electric guitar
+*Gary Prim – piano, keyboards
+*[[Hargus "Pig" Robbins]] – piano, keyboards
+*[[John Wesley Ryles]] – background vocals
+*Ronny "Hellbilly" Scaife – background vocals
+*[[Biff Watson]] – acoustic guitar
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:16em;"| Single
+! colspan="2"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| 1993
+! scope="row"| "Moonlight Drive-In"
+| 51
+| 36
+|-
+|rowspan=2|1994
+! scope="row"| "She Loves to Hear Me Rock"
+| 49
+| 39
+|-
+! scope="row"| "Come Saturday Night"<ref>{{cite magazine|date=April 9, 1994|title=Reviews|magazine=Billboard|page=51|url=https://books.google.com/books?id=QQgEAAAAMBAJ&q=%22daron+norwood%22+%22jeff+carlton%22&pg=RA1-PA51}}</ref>
+| —
+| —
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:16em;"| Video
+! Director
+|-
+| 1993
+! scope="row"| "Moonlight Drive-In"
+| Richard Jernigan
+|-
+| 1994
+! scope="row"| "She Loves to Hear Me Rock"
+|{{n/a}}
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+[[Category:Country music groups from Tennessee]]
+[[Category:American country music duos]]
+[[Category:Musical groups from Nashville, Tennessee]]
+[[Category:BNA Records artists]]
+[[Category:Musical groups established in 1988]]

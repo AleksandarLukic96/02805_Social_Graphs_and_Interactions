@@ -1,0 +1,179 @@
+{{Infobox musical artist
+| name            = Rune Rudberg
+| image           = Rune Rudberg Band, Orrskogen, 20230718 - 11.jpg
+| alt             =
+| caption         =
+| birth_name      = Rune Rudberg
+| alias           =
+| birth_date      = {{birth date and age|1961|08|23}}
+| birth_place     = [[Trøgstad]], [[Norway]]
+| origin          =
+| genre           = {{hlist|[[Dansband]]|[[country music|country]]}}
+| occupation      = Singer
+| instrument      = Guitar
+| years_active    = <!-- YYYY–YYYY (or –present) -->
+| label           =
+| associated_acts = {{hlist|Rune Rudberg Band|Scandinavia (band)}}
+| website         = {{URL|www.runerudbergband.no}}
+}}
+'''Rune Rudberg''' (born 23 August 1961) is a Norwegian singer originating from [[Trøgstad]] in [[Østfold]] singing [[dansband]] music. He has a hectic live music career with more than 5000 concerts in Norway.
+
+He is best known for his song "Ut mot havet" in 1988. The same titled album peaked [[VG-lista]] albums chart. He also took part on two occasions in Norwegian [[Melodi Grand Prix]] in a bid to represent Norway in Eurovision. The first was in [[Norway in the Eurovision Song Contest 1989|MGP 1989]] with "Vinger over Europa" failing to make it to Final 3. Twelve years later, he took part in [[Norway in the Eurovision Song Contest 2001|MGP 2001]] with the self-written and composed song "Without You". But he finished fifth failing to make to the Final 4 stage. In 2017, he participated again with his band in [[Norway in the Eurovision Song Contest 2017|MGP 2017]] with "Run Run Away", but failed to reach the Gold Final.
+
+Besides his solo career, he was part of the dansband [[Scandinavia (band)|Scandinavia]] on and off. He was a member from 1990 to 1994, then for two years 1996 and 1997, and finally 2004–2005, when he left after news about his use of narcotics.
+
+==Discography==
+===Albums===
+;Studio
+{| class="wikitable"
+!align="center" rowspan="2" width="10"|Year
+!align="center" rowspan="2" width="160"|Album
+!align="center" colspan="1" width="20"|Peak positions
+|-
+! scope="col" style="width:3em;font-size:90%;" | [[VG-lista|NOR]]<br><ref name="nor">{{cite web | url=http://norwegiancharts.com/showinterpret.asp?interpret=Rune+Rudberg | title=Rune Rudberg discography | publisher=Hung Medien | work=norwegiancharts.com |accessdate=10 July 2013}}</ref>
+|-
+| style="text-align:center;"|1988
+|''Ut mot havet''
+| style="text-align:center;"|1
+|-
+| style="text-align:center;"|1989
+|''Vinger over Europa''
+| style="text-align:center;"|7
+|-
+| style="text-align:center;"|1990
+|''Lysene fra land''
+| style="text-align:center;"|{{spaced ndash}}
+|-
+| style="text-align:center;"|1994
+|''Tidevannsbølger''
+| style="text-align:center;"|{{spaced ndash}}
+|-
+| style="text-align:center;"|1997
+|''Halfway to Paradise''
+| style="text-align:center;"|{{spaced ndash}}
+|-
+| style="text-align:center;"|1999
+|''Julenissen tror på meg''
+| style="text-align:center;"|{{spaced ndash}}
+|-
+| style="text-align:center;"|2000
+|''På nye eventyr''
+| style="text-align:center;"|{{spaced ndash}}
+|-
+| style="text-align:center;"|2004
+|''Gone Country ''
+| style="text-align:center;"|{{spaced ndash}}
+|-
+| style="text-align:center;"|2007
+|''Runaway''
+| style="text-align:center;"|{{spaced ndash}}
+|-
+| style="text-align:center;"|2009
+|''Stormande hav''
+| style="text-align:center;"|{{spaced ndash}}
+|-
+| style="text-align:center;"|2012
+|''Strong Enough''
+| style="text-align:center;"|{{spaced ndash}}
+|-
+| style="text-align:center;"|2013
+|''Tro''
+| style="text-align:center;"|1
+|-
+|}
+
+;Compilations
+{| class="wikitable"
+!align="center" rowspan="2" width="10"|Year
+!align="center" rowspan="2" width="120"|Album
+!align="center" colspan="1" width="20"|Peak positions
+|-
+! scope="col" style="width:3em;font-size:90%;" | [[VG-lista|NOR]]<br><ref name="nor"/>
+|-
+| style="text-align:center;"|1995
+|''Landeplager''
+| style="text-align:center;"|19
+|-
+| style="text-align:center;"|2000
+|''På oppfordring''
+| style="text-align:center;"|{{spaced ndash}}
+|-
+| style="text-align:center;"|2003
+|''Fri som en vind ''
+| style="text-align:center;"|{{spaced ndash}}
+|-
+| style="text-align:center;"|2004
+|''Topp 20 ''
+| style="text-align:center;"|{{spaced ndash}}
+|-
+| style="text-align:center;"|2007
+|''Rett fra sofaen''
+| style="text-align:center;"|34
+|-
+
+|}
+
+;Albums as part of Scandinavia dansband
+*1991: ''På oppforring''
+*1992: ''Scandinavia 3''
+*1993: ''Scandinavia 4''
+
+===Singles ===
+{| class="wikitable"
+!align="center" rowspan="2" width="10"|Year
+!align="center" rowspan="2" width="120"|Single
+!align="center" colspan="1" width="20"|Peak positions
+!align="center" rowspan="2" width="160"|Album
+|-
+! scope="col" style="width:3em;font-size:90%;" | [[VG-lista|NOR]]<br><ref name="nor"/>
+|-
+| style="text-align:center;"|1988
+|"Ut mot havet"
+| style="text-align:center;"|{{spaced ndash}}
+| style="text-align:center;"|''Ut mot havet''
+|-
+| style="text-align:center;"|1989
+|"Vinger over Europa"
+| style="text-align:center;"|{{spaced ndash}}
+| style="text-align:center;"|''Vinger over Europa''
+|-
+| style="text-align:center;"|2001
+|"Without You"
+| style="text-align:center;"|{{spaced ndash}}
+| style="text-align:center;"|
+|-
+| style="text-align:center;"|2017
+|"Run Run Away"
+| style="text-align:center;"|{{spaced ndash}}
+| style="text-align:center;"|
+|-
+|}
+
+;Featured in
+{| class="wikitable"
+!align="center" rowspan="2" width="10"|Year
+!align="center" rowspan="2" width="200"|Single
+!align="center" colspan="1" width="20"|Peak positions
+!align="center" rowspan="2" width="160"|Album
+|-
+! scope="col" style="width:3em;font-size:90%;" | [[VG-lista|NOR]]<br><ref name="nor"/>
+|-
+| style="text-align:center;"|2003
+|"Stank ass ho 2" <br><small>([[Jaa9 & OnklP]] feat. Rune Rudberg)</small>
+| style="text-align:center;"|11
+| style="text-align:center;"|
+|-
+|}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Rudberg, Rune}}
+[[Category:Norwegian male singers]]
+[[Category:Melodi Grand Prix contestants]]
+[[Category:1961 births]]
+[[Category:Living people]]
+[[Category:People from Trøgstad]]
+[[Category:Musicians from Østfold]]

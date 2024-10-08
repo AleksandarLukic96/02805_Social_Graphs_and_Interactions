@@ -1,0 +1,54 @@
+{{Short description|Member of the Carter Family (1923–2006)}}
+{{Use mdy dates|date=January 2020}}
+{{Infobox musical artist
+| name = Janette Carter 
+| image = Janette Carter.jpg
+| caption = Carter in 2005
+| background = solo_singer
+| birth_name = 
+| birth_date = {{birth date |1923|07|02}}
+| death_date = {{Death date and age|2006|01|22|1923|07|02}}
+| birth_place = [[Maces Spring, Virginia]], U.S.
+| death_place= [[Kingsport, Tennessee]], U.S.
+| instrument = [[Autoharp]], vocals
+| genre = [[Gospel music|Gospel]], [[Country music|country]]
+| years_active = 1939–1940, 1952–1956
+}}
+'''Janette Carter''' (July 2, 1923 – January 22, 2006),<ref>{{cite web |url=https://id.loc.gov/authorities/names/n83216943.html |title=Carter, Janette |author=<!--Not stated--> |date=July 20, 2016 |website=LC Name Authority File |publisher=Library of Congress |access-date=January 7, 2022}}</ref> daughter of musicians [[A.P. Carter|A.P.]] and [[Sara Carter]], was an American musician involved in the preservation of [[Appalachian music]].
+
+Carter was born on July 2, 1923, in [[Maces Spring, Virginia]].<ref name="McCloud">{{cite book |last=McCloud |first=Barry |date=1995 |title=Definitive Country: The Ultimate Encyclopedia of Country Music and Its Performers |url=https://archive.org/details/definitivecountr00mccl/page/141/mode/1up?view=theater |url-access=registration |edition=First |location=New York |publisher=Berkley Publishing Group |pages=141–142 |isbn=9780399518904 |oclc=30735303}}</ref> She and her brother [[Joseph Dougherty Carter|Joe]] performed with their parents on a series of recordings for the Acme label.<ref>{{cite book | url=https://books.google.com/books?id=AY7St4-8x10C&dq=Janette+Carter&pg=PA529 | isbn=9780252068812 | title=Long Steel Rail: The Railroad in American Folksong | year=2000 | publisher=University of Illinois Press }}</ref> Janette and Joe later recorded material together consisting of works they had written and songs previously recorded by members of the Carter family.<ref>{{cite web | url=https://books.google.com/books?id=PPzZAAAAMAAJ&q=%22Joe+and+Janette+Carter%22+1966 | title=Folk Review | year=1976 | publisher=Folk review }}</ref>
+
+In 1976, Carter and community members built an 880-seat amphitheater, the [[Carter Family Fold]], beside the [[A. P. Carter Store]] which her father had operated after the [[Carter Family]] had disbanded as a musical group. The Carter Family Fold attracts more than 50,000 visitors a year.<ref name="nhf">{{cite web|url=https://www.arts.gov/honors/heritage/janette-carter |title=Janette Carter: Country musician, advocate |author=<!--Not stated--> |date=n.d. |website=www.arts.gov |publisher=National Endowment for the Arts |access-date=January 5, 2021}}</ref> Carter performed there weekly, until shortly before she died.<ref>{{cite magazine |author=<!--Staff writer(s); no by-line.--> |title=Notebook |magazine=Time |volume=167 |issue=6 |page=19 |date=February 6, 2006}}</ref>
+
+Carter had three children with her first husband, James Jett: Donald William, Rita Janette, and James Delaney (Dale).<ref>{{cite news |author=<!--not stated--> |date=January 26, 2007 |title=James Jett |url=https://www.legacy.com/obituaries/tricities/obituary.aspx?n=james-jett&pid=86144808 |work=Bristol Herald Courier |location=Bristol, Virginia |access-date=June 5, 2022}}</ref> She died on January 22, 2006, in [[Kingsport, Tennessee]], after battling [[Parkinson's disease]] and other illnesses.<ref name="NYT">{{cite news |author=<!--not stated--> |date=January 24, 2006 |title=Janette Carter, 82, Carter Family musician |newspaper=The New York Times |page=B8 |edition=Late}}</ref> She was buried next to her mother, Sara Carter Bayes, and her brother, Joe, at the [[Mount Vernon United Methodist Church]] Cemetery in Maces Spring.
+[[File:Grave of Sara Carter Bayes and children at Mount Vernon United Methodist Church at Maces Springs, Virginia now Hiltons, Virginia.jpg|thumb|right|Grave of Janette Carter between her mother and brother, Joe]]
+
+Carter is a recipient of a 2005 [[National Heritage Fellowship]] awarded by the [[National Endowment for the Arts]], which is the United States' highest honor in the folk and traditional arts,<ref>{{cite web |url=https://www.arts.gov/honors/heritage/year/2005 |title=NEA National Heritage Fellowships 2005 |author=<!--Not stated-->  |website=www.arts.gov |publisher=National Endowment for the Arts |access-date=January 5, 2021 |archive-url=https://web.archive.org/web/20200521114828/https://www.arts.gov/honors/heritage/year/2005 |archive-date=May 21, 2020 |url-status=dead}}</ref> in recognition for her lifelong advocacy for the performance and preservation of Appalachian music.<ref>{{Cite web |url=http://www.arts.gov/about/nearts/story.php?id=p07_carter&issue=2006_v1 |title=In Memoriam: Janette Carter (1923–2006) |publisher=National Endowment for the Arts |access-date=February 2, 2022 |archive-url=https://web.archive.org/web/20120925194611/http://www.arts.gov/about/NEARTS/story.php?id=p07_carter&issue=2006_v1 |archive-date=September 25, 2012 |url-status=dead }}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.carterfamilyfold.org/ Official Carter Family Fold Website]
+{{Carter Family}}
+{{Authority control}}
+
+{{DEFAULTSORT:Carter, Janette}}
+[[Category:Bluegrass musicians from Virginia]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:1923 births]]
+[[Category:2006 deaths]]
+[[Category:National Heritage Fellowship winners]]
+[[Category:People from Scott County, Virginia]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:Singer-songwriters from Virginia]]
+[[Category:Cash–Carter family]]
+[[Category:The Carter Family members]]
+[[Category:20th-century American women singers]]
+[[Category:20th-century American singers]]
+[[Category:21st-century American women]]
+[[Category:Deaths from Parkinson's disease in the United States]]
+
+
+{{US-country-musician-stub}}

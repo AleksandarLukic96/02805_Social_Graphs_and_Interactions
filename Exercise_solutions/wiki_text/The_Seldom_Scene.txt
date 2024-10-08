@@ -1,0 +1,335 @@
+{{Short description|American bluegrass band}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject Musicians -->
+| name                = The Seldom Scene
+| image               =
+| caption             = 
+| image_size          =
+| landscape           = yes
+| background          = group_or_band
+| origin              = [[Bethesda, Maryland]], [[United States]]
+| genre               = {{hlist|[[Bluegrass music|Bluegrass]]|[[Country music|country]]|[[Progressive bluegrass]]}}
+| years_active        = 1971–present
+| label               = [[Rebel Records|Rebel]], [[Sugar Hill Records (bluegrass label)|Sugar Hill]]
+| associated_acts     = [[Chesapeake (band)|Chesapeake]], [[The Country Gentlemen|Country Gentlemen]], [[Jonathan Edwards (musician)|Jonathan Edwards]]
+| website             = {{URL|seldomscene.com}}
+| current_members     =[[Lou Reid]]<br />[[Dudley Connell]]<br />[[Ron Stewart (bluegrass)|Ron Stewart]]<br />Ronnie Simpkins<br />Fred Travers
+| past_members        = [[John Duffey]]<br />[[Mike Auldridge]]<br />[[Ben Eldridge]]<br />[[Tom Gray (bluegrass musician)|Tom Gray]]<br />[[John Starling (musician)|John Starling]]<br />Phil Rosenthal <br />[[T. Michael Coleman]]<br />[[Moondi Klein]]<br />[[Rickie Simpkins]]
+}}
+
+'''The Seldom Scene''' is an American [[Bluegrass music|bluegrass]] band that formed in 1971 in [[Bethesda, Maryland]].<ref name=enc>{{cite book|author=Paul Kingsbury|title=The Encyclopedia of Country Music: The Ultimate Guide to the Music|url=https://books.google.com/books?id=XsiL49XFbnkC&pg=PA475|date=5 November 1998|publisher=Oxford University Press|isbn=978-0-19-984044-1|pages=475–}}</ref> The band's original line-up comprised [[John Starling (musician)|John Starling]] on lead vocals and guitar, [[Mike Auldridge]] on [[Dobro]] and baritone vocals, [[Ben Eldridge]] on [[banjo]], [[Tom Gray (bluegrass musician)|Tom Gray]] on [[double bass]], and [[John Duffey]] on [[mandolin]]; the latter three also provided backing vocals. Together they released their debut studio album, ''[[Act I (Seldom Scene album)|Act I]]'', in 1972, followed by both ''[[Act Two (The Seldom Scene album)|Act II]]'' and ''[[Act III (The Seldom Scene album)|Act III]]'' in 1973.
+
+In 1977, Starling left the group and was replaced by singer-songwriter Phil Rosenthal. Starling and Rosenthal shared lead vocals on the group's sixth studio album, ''[[Baptizing (album)|Baptizing]]'', released in 1978. Around the same time, the group switched record labels from [[Rebel Records]] to [[Sugar Hill Records (bluegrass label)|Sugar Hill Records]]. In 1986, Rosenthal and Gray left the band, and were replaced by [[Lou Reid]] and [[T. Michael Coleman]], respectively; Reid and Coleman first appeared on the band's 1988 album ''[[A Change of Scenery]]''. Reid left the band in 1992, and Starling briefly returned to the group, performing on their 1994 album ''[[Like We Used to Be]]''. Starling was replaced by [[Moondi Klein]] as the band's lead singer.
+
+During 1995 and 1996, Klein, Coleman, and Auldridge, left the Seldom Scene to form a new band called [[Chesapeake (band)|Chesapeake]]. Duffey and Eldridge recruited guitarist Fred Travers, bassist Ronnie Simpkins, and guitarist and singer [[Dudley Connell]] into the Seldom Scene, and together released the album ''[[Dream Scene]]'' in 1996. That same year, Duffey died of a [[heart attack]]. Reid returned to the band to replace Duffey on mandolin, and the group released the album ''[[Scene It All]]'' in 2000. The group's 2007 album ''[[Scenechronized]]'' was nominated for a [[Grammy Award for Best Bluegrass Album]]. The band's original members (Auldridge, Duffey, Eldridge, Gray, and Starling) were inducted into the [[International Bluegrass Music Hall of Fame]] in 2014.
+
+==History==
+===Formation and early career (1971)===
+The Seldom Scene was established in 1971, and they would practice in Ben Eldridge's basement.<ref name="Smithsonian">{{cite web |last1=Fawcett |first1=Kirstin |title=Seldom Scene, Often Heard: A Bluegrass Band Returns to its Roots With a New Album |url=https://www.smithsonianmag.com/smithsonian-institution/seldom-scene-often-heard-bluegrass-band-return-roots-new-album-180950161/ |website=Smithsonian |access-date=21 June 2019 |archive-date=21 June 2019 |archive-url=https://web.archive.org/web/20190621203357/https://www.smithsonianmag.com/smithsonian-institution/seldom-scene-often-heard-bluegrass-band-return-roots-new-album-180950161/ |url-status=live }}</ref> These practice sessions included [[John Starling (musician)|John Starling]] on [[guitar]] and lead vocals, [[Mike Auldridge]] on Dobro and baritone vocals, and former [[The Country Gentlemen|Country Gentlemen]] member [[Tom Gray (bluegrass musician)|Tom Gray]] on [[string bass|bass]]. The [[mandolin]]ist [[John Duffey]], who had also performed with the Country Gentlemen,<ref name="rosenberg">{{Cite book |last=Rosenberg |first=Neil V. |url=https://books.google.com/books?id=iehNcvWN5JsC |title=Bluegrass: A History |date=2005 |publisher=University of Illinois Press |isbn=978-0-252-07245-1 |language=en}}</ref> was invited to jam sessions at the time when [[Mike Auldridge]] arranged for the group to play as a performing band.<ref>{{Cite web |title=The Seldom Scene Songs, Albums, Reviews, Bio &... |url=https://www.allmusic.com/artist/the-seldom-scene-mn0000899131 |access-date=2024-07-11 |website=AllMusic |language=en |archive-date=2024-04-09 |archive-url=https://web.archive.org/web/20240409213210/https://www.allmusic.com/artist/the-seldom-scene-mn0000899131 |url-status=live }}</ref>
+Another member of the Country Gentlemen, [[Charlie Waller (American musician)|Charlie Waller]], is responsible for the band's name. Expressing his doubt that this new band could succeed, Waller reportedly asked Duffey, "What are you going to call yourselves, the seldom seen?"<ref name="Country Music Encyclopedia">{{cite book |last1=Stambler |first1=Irwin |last2=Landon |first2=Grelen |title=Country Music: The Encyclopedia |chapter=Seldom Scene |publisher=St. Martin's Griffin |date=14 Jul 2000 |pages=432–433 |isbn=978-0312264871 }}</ref> The band had weekly performances at clubs and performed regularly at the Red Fox Inn, a music club in Bethesda Maryland. The band switched over to the [[The Birchmere|Birchmere music hall]] in [[Alexandria, Virginia]], which resulted in a residency.<ref name="Smithsonian" />
+
+===Members' backgrounds===
+Each of the band members had a job during the week; Duffey repaired musical instruments, Eldridge was a mathematician, Starling a physician,<ref name=enc /> Auldridge a graphic artist, and Gray a [[cartographer]] with [[National Geographic Magazine|National Geographic]].<ref name=rosenberg /> They agreed to play one night a week at local clubs, perform occasionally at concerts and festivals on weekends, and make records. After playing for six weeks at a small Washington, D.C., club called the Rabbit's Foot, the group found a home at the Red Fox Inn in Bethesda, Maryland.<ref name="Country Music Encyclopedia"/> They performed at that venue Friday nights from January 1972 through September 1977 before starting weekly performances at the Birchmere music hall.<ref name="IBMA Scene at Red Fox">{{cite news |last=Barrett |first=Randy |url=https://ibma.org/files/Seldom%20Scene%20oct.pdf |title=Seldom Scene Returns to the Red Fox Inn |work=[[International Bluegrass Music Association]] |date=2013-10-20 |access-date=2017-05-10 |archive-date=2018-01-01 |archive-url=https://web.archive.org/web/20180101135552/https://ibma.org/files/Seldom%20Scene%20oct.pdf |url-status=live }}</ref>
+
+===Rise to popularity (1972–1976)===
+The [[progressive bluegrass]] style played by the Seldom Scene had become increasingly popular during the 1970s, especially Duffey's high tenor and the vocal blend of Duffey/Starling/Auldridge.<ref name=enc /> Their weekly shows included bluegrass versions of country music, rock, and even classical pop.<ref name=enc /> The band's popularity soon forced them to play more than once a week<ref name=enc /> —but they continued to maintain their image as being seldom seen, and on several of their early album covers were photographed with the stage lights on only their feet, or with their backs to the camera. Though the Scene remained a non-touring band, they were prolific recorders, producing seven albums in their first five years of existence, including one live album (among the first live bluegrass albums).<ref name="Allmusic Scene discography">{{cite web |url=http://www.allmusic.com/artist/the-seldom-scene-mn0000899131/discography |title=The Seldom Scene - Discography |work=AllMusic - The Seldom Scene discography |access-date=2017-05-10 |archive-date=2017-01-08 |archive-url=https://web.archive.org/web/20170108062835/http://www.allmusic.com/artist/the-seldom-scene-mn0000899131/discography |url-status=live }}</ref>
+
+===John Starling's departure and Phil Rosenthal as lead singer (1977–1986)===
+In 1977, John Starling left the group to focus on his medical career, and was replaced by singer and songwriter Phil Rosenthal, whose song "Muddy Water" had been recorded by the Scene on two earlier albums. Starling and Rosenthal shared their lead vocals on the group's sixth studio album, ''[[Baptizing (album)|Baptizing]]'' (recorded in 1978). Around the same time, the group switched record labels from [[Rebel Records|Rebel]] to [[Sugar Hill Records (bluegrass label)|Sugar Hill]]. Starling recorded a solo album for Sugar Hill in 1980 called "Long Time Gone" and another in 1982 called "Waitin' On a Southern Train", on both of which Mike Auldridge played.
+
+The lineup of Rosenthal-Duffey-Gray-Auldridge-Eldridge recorded five albums of a comparable popularity to the ones with the founding members, including John Starling. Rosenthal proved to be as good lead singer as Starling and his baritone voice contrasted well with Duffey's high tenor extravaganzas. He also wrote typically two to three songs on each of the albums and also added acoustic guitar solos to the group.<ref>{{Citation |title=Act Four - The Seldom Scene {{!}} Album {{!}} AllMusic |url=https://www.allmusic.com/album/act-four-mw0000646266 |access-date=2024-07-11 |language=en |archive-date=2023-11-04 |archive-url=https://web.archive.org/web/20231104151257/https://www.allmusic.com/album/act-four-mw0000646266 |url-status=live }}</ref>
+
+===More changes in lineup (1986–1996)===
+In 1986, Phil Rosenthal and Tom Gray both left the band to focus on other pursuits, and were replaced by [[Lou Reid]] and [[T. Michael Coleman]], respectively. Coleman proved to be very controversial, as many purists objected to his use of an electric bass in what is nominally an acoustic genre, but the albums produced by the band after Coleman's arrival maintained the traditional appeal of any of the Scene's earlier albums.
+
+Reid left the band in 1992, and Duffey convinced former member John Starling to return to the band for the next year.<ref name="allbook">{{Cite book |last1=Bogdanov |first1=Vladimir |url=https://books.google.com/books?id=H0VRvgAACAAJ |title=All Music Guide to Country: The Definitive Guide to Country Music |last2=Woodstra |first2=Chris |last3=Erlewine |first3=Stephen Thomas |date=2003 |publisher=Backbeat Books |isbn=978-0-87930-760-8 |pages=679 |language=en |access-date=2024-07-11 |archive-date=2024-07-11 |archive-url=https://web.archive.org/web/20240711132848/https://books.google.ca/books/about/All_Music_Guide_to_Country.html?id=H0VRvgAACAAJ&source=kp_book_description&redir_esc=y |url-status=live }}</ref> During that year the Scene recorded the album ''[[Like We Used to Be (album)|Like We Used to Be]]'', but Starling did not wish to stay with the band long term. He was replaced in 1994 by lead singer [[Moondi Klein]].<ref name=enc />
+
+Throughout these changes, band leader John Duffey's original plan of keeping a light touring schedule and staying close to home continued to prevail. During 1995 and 1996, Klein and Coleman, along with original member [[Mike Auldridge]], wanting to be part of a full-time project, left the Seldom Scene to form a new band called [[Chesapeake (band)|Chesapeake]].<ref name=allbook /> For a time the Scene stopped recording.
+
+Duffey and Eldridge, the two remaining original members, recruited resophonic guitar player Fred Travers, bassist Ronnie Simpkins, and guitarist and singer [[Dudley Connell]] to join the band, and the reconstituted group recorded an album in 1996 and continued live appearances.<ref name=allbook /><ref>Carlin, Richard, [https://books.google.com/books?id=LluEHF1oT-wC&dq=%22seldom+scene%22&pg=PA183 ''Folk''] {{Webarchive|url=https://web.archive.org/web/20240711133012/https://books.google.com/books?id=LluEHF1oT-wC&dq=%22seldom+scene%22&pg=PA183#v=onepage&q=%22seldom%20scene%22&f=false |date=2024-07-11 }}. Infobase Publishing, 2005, p. 185.</ref>
+
+===John Duffey's death, return of Lou Reid, and ''Scene It All'' (2000–2006)===
+In late 1996, band leader and founder John Duffey suffered a fatal heart attack.<ref>{{Cite news |date=2024-02-24 |title=MUSICIAN JOHN DUFFEY DIES |url=https://www.washingtonpost.com/archive/local/1996/12/11/musician-john-duffey-dies/26bc449d-b3ac-4fa6-8f60-ce9fc2bfcbba/ |access-date=2024-07-11 |newspaper=Washington Post |language=en-US |issn=0190-8286 |archive-date=2019-12-28 |archive-url=https://web.archive.org/web/20191228161150/https://www.washingtonpost.com/archive/local/1996/12/11/musician-john-duffey-dies/26bc449d-b3ac-4fa6-8f60-ce9fc2bfcbba/ |url-status=live }}</ref>
+
+Banjoist Ben Eldridge, the sole remaining original member of the Seldom Scene, assumed leadership of the band. Former guitarist Lou Reid rejoined the band, replacing Duffey on mandolin.<ref name=allbook /> Initially the new Scene concentrated on live performances, but in 2000 the group recorded a new album, ''[[Scene It All]]''. The Seldom Scene continues to tour, and has recorded for the Sugar Hill Records and Smithsonian Folkways labels.
+
+===''Scenechronized'', ''Long Time... Seldom Scene'', and ''Changes'' (2007–present)===
+[[File:Seldom Scene Bluegrass Festival 2008.jpg|thumb|Seldom Scene playing at the Rivercity Bluegrass Festival in 2008.]]
+Seldom Scene continues to perform and has received critical acclaim for their work. ''[[Scenechronized]]'', recorded in 2007, was nominated for a [[Grammy Award for Best Bluegrass Album]].<ref>{{Cite web |date= |title=GRAMMY.com - 50th Annual GRAMMY Awards Nominations List |url=http://www.grammy.com/GRAMMY_Awards/50th_Show/list.aspx/ |archive-url=https://web.archive.org/web/20071213193757/http://www.grammy.com/GRAMMY_Awards/50th_Show/list.aspx |archive-date=2007-12-13 |access-date= |website=www.grammy.com}}</ref>
+
+In July 2008, Seldom Scene performed at a [[White House]] dinner honoring the [[2008 U.S. Olympic team]] as well as previous U.S. Olympians.<ref>{{Cite book |url=https://books.google.com/books?id=zaopAQAAIAAJ&q=%22seldom+scene%22+white+house |title=Bluegrass Unlimited |date=2008 |publisher=Bluegrass Unlimited. |volume=42 |language=en |access-date=2023-03-14 |archive-date=2024-07-11 |archive-url=https://web.archive.org/web/20240711132838/https://books.google.com/books?id=zaopAQAAIAAJ&q=%22seldom+scene%22+white+house |url-status=live }}</ref> Seldom Scene also played the [[National Folk Festival (USA)|National Folk Festival]] July 11–13, 2008, representing bluegrass music.
+
+On April 22, 2014, the band returned with ''[[Long Time... Seldom Scene]]'', via Smithsonian Folkways. The collection features interpretations of 16 oft-requested tunes and is the band's first studio album since the ''Scenechronized'' in 2007. In 2015, "Long Time...Seldom Scene" and "Mean Mother Blues" won awards in the "Bluegrass" Album and Song categories at The 14th Annual Independent Music Awards.
+
+In January 2016, Ben Eldridge retired after 44 continuous years with the band. He was replaced by Rickie Simpkins.<ref name=BE-bgrtoday-2016>{{cite web|url=https://bluegrasstoday.com/ben-eldridge-retires-from-seldom-scene/|title=Ben Eldridge Retires from Seldom Scene|work=Bluegrass Today|access-date=March 24, 2018|author=David Morris|date=January 15, 2016|archive-date=March 24, 2018|archive-url=https://web.archive.org/web/20180324162453/https://bluegrasstoday.com/ben-eldridge-retires-from-seldom-scene/|url-status=live}}</ref>
+
+In 2017, [[Ron Stewart (bluegrass)|Ron Stewart]] joined the Seldom Scene, replacing Rickie Simpkins.<ref name=RS-bgrtoday-2017>{{cite web|url=https://bluegrasstoday.com/ron-stewart-lands-with-seldom-scene/|title=Ron Stewart lands with Seldom Scene|work=Bluegrass Today|access-date=November 14, 2017|author=David Morris|date=November 13, 2017|archive-date=November 18, 2018|archive-url=https://web.archive.org/web/20181118212813/https://bluegrasstoday.com/ron-stewart-lands-with-seldom-scene/|url-status=live}}</ref>
+
+In 2019, the Seldom Scene released the album ''Changes'', featuring songs by songwriters of the 1960s and early 1970s, through Rounder Records.<ref name=RS-bgrtoday-2019>{{cite web|url=https://bluegrasstoday.com/everybodys-talkin-from-seldom-scene/|title=Everybody's Talkin' from Seldom Scene|work=Bluegrass Today|access-date=April 30, 2019|author=John Lawless|date=April 4, 2019|archive-date=April 30, 2019|archive-url=https://web.archive.org/web/20190430115035/https://bluegrasstoday.com/everybodys-talkin-from-seldom-scene/|url-status=live}}</ref>
+
+The band currently consists of Dudley Connell (guitar/lead vocals), Ron Stewart (banjo/fiddle/guitar), Lou Reid (mandolin/tenor vocals), Fred Travers (dobro/lead vocals), and Ronnie Simpkins (bass/baritone vocals). Ben Eldridge's son, [[Chris Eldridge|Chris]], also frequently performs with the group.
+
+==Personnel==
+===Members===
+{{col-float-begin}}
+;Current members
+* [[Lou Reid]] – mandolin, guitar, vocals <small>(1986–1993, 1996–present)</small>
+* Dudley Connell – guitar, vocals <small>(1995–present)</small>
+* Ronnie Simpkins – bass <small>(1995–present)</small>
+* Fred Travers – Dobro, vocals <small>(1995–present)</small>
+* [[Ron Stewart (bluegrass)|Ron Stewart]] – banjo, fiddle <small>(2017–present)</small>
+{{col-float-break}}
+;Former members
+* [[John Duffey]] – mandolin, vocals <small>(1971–1996; died 1996)</small>
+* [[Mike Auldridge]] – Dobro, vocals <small>(1971–1995; died 2012)</small>
+* [[Tom Gray (bluegrass musician)|Tom Gray]] – bass <small>(1971–1986)</small>
+* [[John Starling (musician)|John Starling]] – guitar, vocals <small>(1971–1978, 1993–1994; died 2019)</small>
+* [[Ben Eldridge]] – banjo, guitar <small>(1971–2016; died 2024)</small>
+* Phil Rosenthal – guitar, vocals <small>(1977-1986)</small>
+* [[T. Michael Coleman]] – bass <small>(1986–1995)</small>
+* [[Moondi Klein]] – guitar, vocals <small>(1994–1995)</small>
+* [[Rickie Simpkins]] – banjo, fiddle, guitar <small>(2016–2017)</small>
+{{col-float-end}}
+
+===Lineups===
+{| class="toccolours" border=1 cellpadding=2 cellspacing=0 style="float: width: 375px; margin: 0 0 1em 1em; border-collapse: collapse; border: 1px solid #E2E2E2;" width=99%
+|-
+! bgcolor="#E7EBEE" valign=top width=25% | 1971–1977
+! bgcolor="#E7EBEE" valign=top width=25% | 1977–1978
+! bgcolor="#E7EBEE" valign=top width=25% | 1978–1986
+! bgcolor="#E7EBEE" valign=top width=25% | 1986–1993
+|-
+| valign=top |
+*'''[[Mike Auldridge]]''' – Dobro, vocals
+*'''John Duffey''' – mandolin, vocals
+*'''Ben Eldridge''' – banjo, guitar
+*'''[[Tom Gray (bluegrass musician)|Tom Gray]]''' – bass
+*'''John Starling''' – guitar, vocals
+| valign=top |
+*'''Mike Auldridge''' – Dobro, vocals
+*'''John Duffey''' – mandolin, vocals
+*'''Ben Eldridge''' – banjo, guitar
+*'''Tom Gray''' – bass
+*'''John Starling''' – guitar, vocals
+*'''Phil Rosenthal''' – guitar, vocals
+| valign=top |
+*'''Mike Auldridge''' – Dobro, vocals
+*'''John Duffey''' – mandolin, vocals
+*'''Ben Eldridge''' – banjo, guitar
+*'''Tom Gray''' – bass
+*'''Phil Rosenthal''' – guitar, vocals
+| valign=top |
+*'''Mike Auldridge''' – Dobro, vocals
+*'''John Duffey''' – mandolin, vocals
+*'''Ben Eldridge''' – banjo, guitar
+*'''T. Michael Coleman''' – bass
+*'''Lou Reid''' – guitar, vocals
+|-
+! bgcolor="#E7EBEE" valign=top width=25% | 1993–1994
+! bgcolor="#E7EBEE" valign=top width=25% | 1994–1995
+! bgcolor="#E7EBEE" valign=top width=25% | 1995–1996
+! bgcolor="#E7EBEE" valign=top width=25% | 1996–2015
+|-
+| valign=top |
+*'''Mike Auldridge''' – Dobro, vocals
+*'''John Duffey''' – mandolin, vocals
+*'''Ben Eldridge''' – banjo, guitar
+*'''T. Michael Coleman''' – bass
+*'''John Starling''' – guitar, vocals
+| valign=top |
+*'''Mike Auldridge''' – Dobro, vocals
+*'''John Duffey''' – mandolin, vocals
+*'''Ben Eldridge''' – banjo, guitar
+*'''T. Michael Coleman''' – bass
+*'''Moondi Klein''' – guitar, vocals
+| valign=top |
+*'''John Duffey''' – mandolin, vocals
+*'''Ben Eldridge''' – banjo, guitar
+*'''Dudley Connell''' – guitar, vocals
+*'''Ronnie Simpkins''' – bass
+*'''Fred Travers''' – Dobro, vocals
+| valign=top |
+*'''Ben Eldridge''' – banjo, guitar
+*'''Dudley Connell''' – guitar, vocals
+*'''Ronnie Simpkins''' – bass
+*'''Fred Travers''' – Dobro, vocals
+*'''Lou Reid''' – mandolin, guitar, vocals
+|-
+! bgcolor="#E7EBEE" valign=top width=25% | 2016–2017
+! bgcolor="#E7EBEE" valign=top width=25% | 2017–present
+|-
+| valign=top |
+*'''Dudley Connell''' – guitar, vocals
+*'''Ronnie Simpkins''' – bass
+*'''Rickie Simpkins''' – banjo, fiddle, guitar
+*'''Fred Travers''' – Dobro, vocals
+*'''Lou Reid''' – mandolin, guitar, vocals
+| valign=top |
+*'''Dudley Connell''' – guitar, vocals
+*'''Ronnie Simpkins''' – bass
+*'''Ron Stewart''' – banjo, fiddle
+*'''Fred Travers''' – Dobro, vocals
+*'''Lou Reid''' – mandolin, guitar, vocals
+|}
+
+===Timeline===
+<timeline>
+ImageSize = width:900 height:auto barincrement:20
+PlotArea = left:120 bottom:60 top:15 right:0
+Alignbars = justify
+DateFormat = mm/dd/yyyy
+Period = from:01/01/1971 till:04/01/2018
+TimeAxis = orientation:horizontal format:yyyy
+TimeAxis = orientation:horizontal format:yyyy
+Legend = orientation:vertical position:bottom
+ScaleMajor = increment:3 start:1971
+ScaleMinor = increment:1 start:1971
+
+Colors =
+  id:guitar      value:green     legend:Guitar
+  id:bass        value:blue      legend:Bass
+  id:mandolin    value:gray(0.5)       legend:Mandolin
+  id:banjo       value:drabgreen       legend:Banjo
+  id:Dobro       value:teal         legend:Dobro
+  id:lines       value:black       legend:Studio&nbsp;albums
+
+LineData =
+ at:01/01/1972 color:black layer:back
+ at:04/01/1973 color:black layer:back
+ at:09/01/1973 color:black layer:back
+ at:12/01/1973 color:black layer:back
+ at:03/01/1976 color:black layer:back
+ at:01/01/1978 color:black layer:back
+ at:01/01/1979 color:black layer:back
+ at:01/01/1981 color:black layer:back
+ at:01/01/1983 color:black layer:back
+ at:01/01/1985 color:black layer:back
+ at:01/01/1988 color:black layer:back
+ at:01/01/1990 color:black layer:back
+ at:01/01/1994 color:black layer:back
+ at:01/01/1996 color:black layer:back
+ at:01/01/2007 color:black layer:back
+ at:01/01/2014 color:black layer:back
+
+Legend = orientation:horizontal position:bottom
+
+ScaleMajor = increment:2 start:1971
+
+PlotData=
+
+  width:10 textcolor:black align:left anchor:from shift:(10,-4)
+
+  bar:John&nbsp;Starling from:01/01/1971 till:02/01/1978 color:guitar
+  bar:John&nbsp;Starling from:01/01/1993 till:01/01/1994 color:guitar
+  bar:Phil&nbsp;Rosenthal from:01/01/1977 till:01/01/1986 color:guitar
+  bar:Lou&nbsp;Reid from:01/01/1986 till:01/01/1993 color:guitar
+  bar:Moondi&nbsp;Klein from:01/01/1994 till:01/01/1995 color:guitar
+  bar:Dudley&nbsp;Connell from:01/01/1995 till:end color:guitar
+  bar:Tom&nbsp;Gray from:01/01/1971 till:01/01/1986 color:bass
+  bar:Michael&nbsp;Coleman from:01/01/1986 till:01/01/1995 color:bass
+  bar:Ronnie&nbsp;Simpkins from:01/01/1995 till:end color:bass
+  bar:John&nbsp;Duffey from:01/01/1971 till:01/01/1996 color:mandolin
+  bar:Lou&nbsp;Reid from:01/01/1996 till:end color:mandolin
+  bar:Ben&nbsp;Eldridge from:01/01/1971 till:01/01/2016 color:banjo
+  bar:Rickie&nbsp;Simpkins from:01/01/2016 till:11/01/2017 color:banjo
+  bar:Ron&nbsp;Stewart from:11/01/2017 till:end color:banjo
+  bar:Mike&nbsp;Auldridge from:01/01/1971 till:01/01/1995 color:Dobro
+  bar:Fred&nbsp;Travers from:01/01/1995 till:end color:Dobro
+
+</timeline>
+
+==Discography== 
+{| class="wikitable sortable"
+! Year
+! Title
+! Label
+! Number
+! Notes
+|-
+|1972||''[[Act I (Seldom Scene album)|Act I]]''||[[Rebel Records|Rebel]]||REB-1511||
+|-
+|1973||''[[Act Two (The Seldom Scene album)|Act II]]''||Rebel||REB-1520||
+|-
+|1973||''[[Act III (The Seldom Scene album)|Act III]]''||Rebel||REB-1528||
+|-
+|1974||''[[Old Train]]''||Rebel||REB-1536||
+|-
+|1975||''[[Live at The Cellar Door]]''||Rebel||REB-1547/8||live double album
+|-
+|1976||''[[The New Seldom Scene Album]]''||Rebel||REB-1561||
+|-
+|1978||''[[Baptizing (album)|Baptizing]]''||Rebel||REB-1573||
+|-
+|1979||''[[Act Four (The Seldom Scene album)|Act Four]]''||[[Sugar Hill Records (bluegrass label)|Sugar Hill]]||SH-3709||
+|-
+|1981||''[[After Midnight (The Seldom Scene album)|After Midnight]]''||Sugar Hill||SH-3721||
+|-
+|1983||''[[At the Scene]]''||Sugar Hill||SH-3736||
+|-
+|1985||''[[Blue Ridge (album)|Blue Ridge]]''||Sugar Hill||SH-3747||with [[Jonathan Edwards (musician)|Jonathan Edwards]]
+|-
+|1987||''[[The Best of The Seldom Scene, Vol. 1]]''||Rebel||REB-1101||compilation from 1972–74
+|-
+|1988||''[[15th Anniversary Celebration]]''||Sugar Hill||SH-2202||live double album
+|-
+|1988||''[[A Change of Scenery]]''||Sugar Hill||SH-3763||
+|-
+|1990||''[[Scenic Roots]]''||Sugar Hill||SH-3785||
+|-
+|1992||''[[Scene 20: 20th Anniversary Concert]]''||Sugar Hill||SH-2501/02||live double album
+|-
+|1994||''[[Like We Used to Be]]''||Sugar Hill||SH-3822||
+|-
+|1996||''[[Dream Scene]]''||Sugar Hill||SH-3858||
+|-
+|2000||''[[Scene It All]]''||Sugar Hill||SUG-3899||
+|-
+|2007||''[[Scenechronized]]''||Sugar Hill||SUG-4003||
+|-
+|2007||''[[Different Roads]]''||Rebel||REB-7516||compilation from 1973–76
+|-
+|2014||''[[Long Time... Seldom Scene]]''<ref name="Folkways">{{cite web |url=http://www.folkways.si.edu/long-time-seldom-scene/american-folk-bluegrass/music/album/smithsonian |title=Long Time... Seldom Scene |work=Smithsonian Folkways |publisher=[[Smithsonian Institution]] |access-date=April 18, 2017 |archive-date=April 28, 2017 |archive-url=https://web.archive.org/web/20170428072025/http://www.folkways.si.edu/long-time-seldom-scene/american-folk-bluegrass/music/album/smithsonian |url-status=live }}</ref>||[[Smithsonian Folkways]]||SFW40199||
+|-
+|2019||''Changes''<ref>{{cite news |first=Chris |last=Richards |date=May 22, 2019 |url=https://www.washingtonpost.com/goingoutguide/music/the-seldom-scene-still-knows-how-to-change-direction-at-high-speeds/2019/05/21/2ee21024-77ee-11e9-bd25-c989555e7766_story.html |title=The Seldom Scene Still Knows How to Change Direction at High Speeds |newspaper=The Washington Post |archive-url=https://web.archive.org/web/20190618155726/https://www.washingtonpost.com/goingoutguide/music/the-seldom-scene-still-knows-how-to-change-direction-at-high-speeds/2019/05/21/2ee21024-77ee-11e9-bd25-c989555e7766_story.html?utm_term=.9064fdfe684d |archive-date=June 18, 2019 |url-status=live |access-date=April 18, 2024}}</ref>||Rounder||
+|-
+|}
+<ref name="rebeldiscog">{{cite web
+ |url          = http://rebelrecords.com/chronological/
+ |title        = Chronological
+ |work         = Discography
+ |publisher    = [[Rebel Records]]
+ |access-date  = April 18, 2017
+ |archive-date = July 11, 2024
+ |archive-url  = https://web.archive.org/web/20240711133017/https://rebelrecords.com/chronological/
+ |url-status   = live
+}}</ref>
+<ref name="hillwilliam">{{cite web
+ |url          = http://www.ibiblio.org/hillwilliam/BGdiscography/
+ |title        = Seldom Scene
+ |work         = Discography of Bluegrass Sound Recordings, 1942 -
+ |publisher    = [[ibiblio]]
+ |access-date  = April 18, 2017
+ |archive-date = June 20, 2016
+ |archive-url  = https://web.archive.org/web/20160620135549/http://www.ibiblio.org/hillwilliam/BGdiscography/
+ |url-status   = live
+}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Official website|http://www.seldomscene.com/}}
+* {{discogs artist|The Seldom Scene}}
+* {{imdb name|13556157}}
+* {{YouTube|ahL1-e8f-gw|A short oral history of The Seldom Scene}}
+* John Duffey/Seldom Scene biography http://johnduffeybook.com/
+
+{{Seldom Scene}}
+{{International Bluegrass Music Hall of Fame}}
+{{Authority control}}
+
+{{DEFAULTSORT:Seldom Scene}}
+[[Category:Musical groups established in 1971]]
+[[Category:Musical groups from Maryland]]
+[[Category:American bluegrass music groups]]
+[[Category:Rebel Records artists]]
+[[Category:Sugar Hill Records artists]]

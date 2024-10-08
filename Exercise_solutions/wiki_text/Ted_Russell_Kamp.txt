@@ -1,0 +1,104 @@
+{{Short description|American singer-songwriter}}
+{{Infobox musical artist
+| honorific_prefix =
+| name             = Ted Russell Kamp
+| honorific_suffix =
+| image            =
+| image_upright    =
+| image_size       =
+| landscape        = <!-- yes, if wide image, otherwise leave blank -->
+| alt              =
+| caption          =
+| native_name      =
+| native_name_lang =
+| birth_name       =
+| alias            =
+| birth_date       = <!-- {{birth date and age|YYYY|MM|DD}} for living people supply only the year unless the exact date is already WIDELY published, as per [[WP:DOB]] -->
+| birth_place      =
+| origin           =
+| death_date       = <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date 1st) -->
+| death_place      =
+| genre            = {{Hlist|[[Country rock]]<ref>{{cite web |url=https://www.popmatters.com/142554-ted-russell-kamp-get-back-to-the-land-2496007914.html |title=TED RUSSELL KAMP: GET BACK TO THE LAND |last=Haag |first=Stephen |date=July 18, 2011 |publisher=PopMatters |access-date=2023-01-12 |quote=Don't let Ted Russell Kamp's Zappa-esque cookie duster fool you — he's no avant-garde prankster. Rather, he's an earnest country-rock/rockin’-country singer-songwriter }}</ref>}}
+| occupation       = Composer<br />Arranger<br />Producer<br />Performer
+| instrument       = Guitar<br />Bass<br />Mandolin<br />Lap Steel Guitar<br />Keyboards
+| years_active     = 1995–present
+| label            = PoMo<br />Kufala<br />[[Dualtone Records|Dualtone]]
+| associated_acts  = [[Shooter Jennings]]
+| website          = {{URL|tedrussellkamp.com}}
+| module           =
+| module2          =
+| module3          = 
+}}
+
+'''Ted Russell Kamp''' is an American singer-songwriter. He is the bassist for [[Shooter Jennings]]' backing band. As a solo artist, Kamp has released 11 albums.
+
+==Biography==
+Born in New York, Kamp grew up in the Northeast U.S. before moving to Seattle where he began his music career. He fronted a trio, Ponticello, which released four albums. During this time, Kamp released his first solo album, ''Dedications'' (1996). Kamp moved to Los Angeles in 2001 and started a new group, Union Pacific. He performed with other bands and worked as a session musician before being hired as the bassist for Shooter Jennings' band, the .357s.<ref>{{cite web|last=Ruhlmann|first=William|title=Artist Biography |url=http://www.allmusic.com/artist/ted-russell-kamp-mn0000053934/biography|website=[[Allmusic]]|accessdate=May 30, 2017}}</ref>
+
+Kamp also continued his solo career, with his album Divisadero<ref>{{cite web|title=Album Review: Ted Russell Kamp - Divisadero|url=http://www.allmusic.com/album/divisadero-mw0000565354 |website=Allmusic|accessdate=May 30, 2017}}</ref><ref>
+{{cite journal | date=March–April 2007| title=Album Review: Ted Russell Kamp - Divisadero | last = Berick | first = Michael | journal=[[No Depression (magazine)|No Depression]]| volume=1| issue=68 | url=http://nodepression.com/album-review/ted-russell-kamp-divisadero| issn=1088-4971| accessdate=May 30, 2017}}</ref> ranked as #34 on the [[Americana Music Association]]'s 2007 chart.
+
+In 2011, Kamp released Get Back to the Land,<ref>{{cite web|title=Album Review: Ted Russell Kamp - Get Back to the Land|url=http://www.allmusic.com/album/get-back-to-the-land-mw0002092965 |website=Allmusic|accessdate=May 30, 2017}}</ref> which made the top 25 on the Americana Radio Chart and was #1 on the Euro Americana Chart.
+
+In January 2013, Kamp released Night Owl,<ref>{{cite magazine|title=Music: Ted Russell Kamp - Night Owl|url=http://www.popmatters.com/review/170077-ted-russell-kamp-night-owl/ |magazine=[[PopMatters]]|accessdate=May 30, 2017}}</ref> which made the US Americana Radio Chart (#34) and the Euro Americana Chart (#15).
+
+Kamp self-released ''The Low and Lonesome Sound'' in 2015, followed a year later by the acoustic album ''Flying Solo''.<ref>{{cite magazine|title=Music: Ted Russell Kamp - The Low and Lonesome Sound|url=http://www.popmatters.com/review/ted-russell-kamp-the-low-and-lonesome-sound/ |magazine=PopMatters|accessdate=May 30, 2017}}</ref><ref>{{cite web|title=Bassist Ted Russell Kamp, Flying Solo...|date=8 April 2016 |url=http://bassmusicianmagazine.com/2016/04/flying-solo-featuring-bassist-ted-russell-kamp/ |publisher=[[Bass Musician]]|accessdate=May 30, 2017}}</ref> He joined Ted Wulfers to record the classic song Tulsa Time to help support the Red Cross of Oklahoma. 100% of the proceeds were donated to The Oklahoma Red Cross.
+
+Kamp is also an established producer in the music industry.
+
+==Discography==
+===Solo albums===
+* 1996: ''Dedications'' (Poetry Of The Moment [PoMo])
+* 2005: ''Northsouth'' (PoMo)
+* 2005: ''The Ponticello Years'' (Kufala)
+* 2006: ''Nashville Fineline'' (Kufala)
+* 2007: ''Divisadero'' (PoMo)
+* 2008: ''Poor Man's Paradise'' ([[Dualtone Records|Dualtone]] / PoMo)
+* 2010: ''California Country Soul, Vol. 2 : Ballads'' (PoMo)
+* 2011: ''Get Back To The Land'' ([[Dualtone Records|Dualtone]] / PoMo)
+* 2013: ''Night Owl'' (PoMo)
+* 2015: ''The Low and Lonesome Sound'' (self-released via [[CD Baby]])
+* 2016: ''Flying Solo'' [Audio & Video Labs, Inc.)
+* 2019: ''Walkin' Shoes'' (PoMo Records)
+
+===With [[Shooter Jennings]]===
+* 2005: ''[[Put the "O" Back in Country]]'' ([[Show Dog-Universal Music|Universal South]])
+* 2006: ''[[Electric Rodeo (Shooter Jennings album)|Electric Rodeo]]'' ([[Show Dog-Universal Music|Universal South]])
+* 2006: ''[[Live at Irving Plaza 4.18.06]]'' ([[Show Dog-Universal Music|Universal South]])
+* 2014: ''Don't Wait Up (For George)'' EP ([[Black Country Rock Media|Black Country Rock]])
+* 2016: ''[[Black Ribbons]]'' ([[Black Country Rock Media|Black Country Rock]])
+* 2016: ''[[Countach (For Giorgio)]]'' ([[Black Country Rock Media|Black Country Rock]])
+
+===As primary artist/song contributor===
+* 2009: various artists - ''A Bob Dylan Tribute: So Happy Just To See You Smile'' (Hanky Panky) - track 15, "Dignity"
+* 2010: various artists - ''I Like It Better Here - More Music From Home'' (Hemifrån) - track 14, "You Are My Home"
+
+===As guest musician===
+* 2007: [[Gina Villalobos]] - ''Miles Away'' (Face West)
+* 2008: [[Waylon Jennings]] and the 357's - ''[[Waylon Forever]]'' ([[Vagrant Records|Vagrant]])
+* 2010: Shy Blakeman - ''Long Distance Man'' (Winding Road)
+* 2014: Calico the Band - ''Rancho California'' (California Country)
+* 2014: Creekwood - '2000 Miles West''
+* 2015: Alice Wallace - ''Memories Music & Pride'' (California Country)
+* 2015: Sam Morrow - ''There is No Map'' (Forty Below / Relativity)
+* 2016: [[Ry Bradley]] - ''You Me and the Music'' (self-released)
+* 2018: Dale Justice - ''Trouble Man'' (Hillbilly Highway)
+* 2021: Chris Armes - ''Ocotillo Rose'' (Yucca Thunder){{ }}
+* 2023: [[Diplo]], [[Sturgill Simpson]], and [[Dove Cameron]] ''Use Me (Brutal Hearts loop)''
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.tedrussellkamp.com/ Official Website]
+* {{AllMusic | id= ted-russell-kamp-mn0000053934 | label= Ted Russell Kamp}}
+* {{discogs artist|696115-Ted-Russell-Kamp|Ted Russell Kamp}}
+* [http://nodepression.com/album-review/ted-russell-kamp-divisadero Ted Russell Kamp - Divisadero Review] in ''[[No Depression (magazine)|No Depression]]''
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kamp, Ted Russell}}
+[[Category:Living people]]
+[[Category:American country rock singers]]
+[[Category:American male singer-songwriters]]
+[[Category:Year of birth missing (living people)]]

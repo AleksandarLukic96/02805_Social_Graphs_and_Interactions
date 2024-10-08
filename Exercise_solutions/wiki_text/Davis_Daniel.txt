@@ -1,0 +1,184 @@
+{{short description|American country music artist|bot=PearBOT 5}}
+{{distinguish|Davis Daniel (baseball)|Davis Daniel (album)}}
+{{Infobox musical artist
+| name         = Davis Daniel
+| image_size   =
+| birth_name   = Robert Andrykowski
+| birth_place  =
+| birth_date   = {{birth date and age|1961|3|1}}<ref name="allmusic">{{cite web |url={{AllMusic|class=artist|id=p1573|pure_url=yes}} |title=Davis Daniel biography |accessdate=2007-12-17 |last=Harris |first=Craig |work=[[Allmusic]]}}</ref>
+| origin       = [[Arlington Heights, Illinois]], U.S.
+| instrument   = Vocals
+| genre        = [[Country music|Country]]
+| occupation   = {{hlist|Singer|Songwriter}}
+| years_active = 1990–2001
+| label        = {{hlist|[[Universal Music Group Nashville|Mercury Nashville]]|[[Polydor Records|Polydor Nashville]]|[[A&M Records|A&M Nashville]]}}
+}}
+
+'''Robert Andrykowski''' (born March 1, 1961) is an American [[country music]] artist who records under the name '''Davis Daniel'''. Between 1991 and 1996, he recorded three studio albums on various divisions of [[Polygram Records]]: 1991's ''[[Fighting Fire with Fire (album)|Fighting Fire with Fire]]'', 1994's ''[[Davis Daniel (album)|Davis Daniel]]'', and 1995's ''[[I Know a Place (Davis Daniel album)|I Know a Place]]''. In that same time span, seven of his singles entered the ''[[Billboard (magazine)|Billboard]]'' Hot Country Singles & Tracks (now [[Hot Country Songs]]) charts, including the Top 40 hits "[[Picture Me]]", "[[For Crying Out Loud (song)|For Crying Out Loud]]" and "[[Fighting Fire with Fire (song)|Fighting Fire with Fire]]."
+
+==Biography==
+Robert Andrykowski was born in [[Arlington Heights, Illinois]], on March 1, 1961. Over time, his family moved to [[Nebraska]], and subsequently to [[Denver, Colorado]].<ref name="allmusic"/><ref name="oldies">{{cite web |url=http://www.oldies.com/artist-biography/Davis-Daniel.html |title=Davis Daniel biography |accessdate=2009-07-08 |work=Oldies.com}}</ref>
+
+As a teenager, he found work singing at various nightclubs throughout [[Denver, Colorado]]. By the late 1980s, he moved to [[Nashville, Tennessee]], eventually adopting the stage name Davis Daniel and landing a record deal with [[Mercury Records|Mercury]]/[[Polygram Records]] in 1991 with the help of his music producer [[Ron Haffkine]].<ref>{{cite news|title=Picks and Pans Review|url=http://www.people.com/people/archive/article/0,,20115462,00.html|work=No 26|agency=People Magazine|volume=35|date=7 August 1991}}</ref>
+
+''[[Fighting Fire with Fire (album)|Fighting Fire with Fire]]'' was issued that year. It produced four singles on the country charts: "[[Picture Me]]" at number 28, followed by "[[For Crying Out Loud (song)|For Crying Out Loud]]" at number 13, the [[Fighting Fire with Fire (song)|title track]] at number 27 and "Still Got a Crush on You" at number 48.<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|pages=113–114|isbn=978-0-89820-177-2}}<!--|accessdate=16 February 2010--></ref> [[Alanna Nash]] of ''[[Entertainment Weekly]]'' gave the album a B rating, comparing Daniel's vocal technique to that of [[Keith Whitley]] and saying that he showed promise in carrying on in Whitley's tradition.<ref>{{cite magazine|url=https://ew.com/article/1991/11/22/fighting-fire-fire/|title=''Fighting Fire with Fire'' review|last=Nash|first=Alanna|date=22 November 1991|magazine=Entertainment Weekly|access-date=16 February 2010}}</ref>
+
+Daniel's second album, the self-titled ''[[Davis Daniel (album)|Davis Daniel]]'', followed in 1994 on [[Polydor Records]]. Its singles, "I Miss Her Missing Me," "William and Mary" and "Tyler," all peaked outside the top 40 in the United States, although "Tyler" reached number 39 on the ''[[RPM (magazine)|RPM]]'' charts in Canada. "I Miss Her Missing Me" had been released by Mercury, which had originally planned to release the album in 1993 under the title ''Undeniable'' before Mercury underwent a management change that resulted in Daniel moving to Polydor.<ref>{{cite magazine|last=Morris|first=Edward|date=February 4, 1995|title=Polydor's Davis Daniel hits chord with breakthrough single|magazine=Billboard|pages=38, 40|url=https://books.google.com/books?id=sAsEAAAAMBAJ&dq=%22polydor+nashville%22&pg=PA38}}</ref> [[Cub Koda]] of [[Allmusic]] gave the album three stars out of five, saying, "there's enough good stuff here to make you think that he might develop into something more than a one-shot artist."<ref>{{cite web|url={{AllMusic|class=album|id=r199358|pure_url=yes}}|title=''Davis Daniel'' review|last=Koda|first=Cub|work=Allmusic|accessdate=16 February 2010}}</ref> ''New Country'' magazine's Michael McCall gave the album two-and-a-half stars out of five, praising the lyrics of "Tyler" and "Out Here Sits the King", but criticizing the other songs for lacking substance.<ref>{{cite journal|date=March 1995|title=Album reviews|last=McCall|first=Michael|journal=New Country|volume=2|issue=4|pages=61–62}}</ref>
+
+For his third album, Daniel moved to [[A&M Records]]. This album, ''[[I Know a Place (Davis Daniel album)|I Know a Place]]'', was released in 1996. Its lead-off single "I'm Not Listening Anymore" was part of a "Mystery Artist" contest on [[Country Music Television]] (CMT), which showed two versions of the song's [[music video]]: one where Daniel's face was obscured, and another where it was shown plainly.<ref>{{cite magazine|last=Price|first=Deborah Evans|date=18 May 1996|title=Mystery Artist contest is A&M's key for Daniel|magazine=Billboard|pages=28–29|url=https://books.google.com/books?id=uA0EAAAAMBAJ&dq=%22davis+daniel%22+%22fighting+fire&pg=PA28}}</ref> This single did not enter the charts.
+
+After his third album, Daniel mostly stayed at home with his wife and children. He resumed touring in 2001 with a band called Big Heart, and released a new single called "Is It Just Me?"<ref>{{cite news|url=https://news.google.com/newspapers?id=Q31lAAAAIBAJ&sjid=Q5QNAAAAIBAJ&pg=2046,1266239&dq=davis-daniel+fighting-fire&hl=en|title=Big Heart teams up with Davis Daniel and hits the road|last=Henson|first=Tom|date=17 January 2001|work=The Greenville Leader|pages=A1, A9|accessdate=24 October 2011}}</ref><ref>{{cite web|url=http://www.fordentertainment.com/artistdetail.aspx?ArtistID=21720|title=Davis Daniel|work=Ford Entertainment|accessdate=24 October 2011}}</ref>
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:14em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="3"| Peak chart positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]<br><ref name="Country Albums">{{cite magazine|url={{BillboardURLbyName|artist=davis daniel|chart=Country Albums C}}|title=Davis Daniel Album & Song Chart History - Country Albums|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=December 11, 2010}}</ref>
+! width="45"| [[Top Heatseekers|US Heat]]
+! width="45"| [[RPM (magazine)|CAN Country]]<br><ref>{{cite web|url=http://www.collectionscanada.gc.ca/rpm/028020-110.01-e.php?PHPSESSID=p80g1di4s1n7h4bej6fpv56826&q1=davis+daniel&q2=Country+Albums%2FCDs&interval=20|title=Results - RPM - Library and Archives Canada - Country Albums|work=[[RPM (magazine)|RPM]]|accessdate=December 11, 2010}}</ref>
+|-
+! scope="row"| ''[[Fighting Fire with Fire (album)|Fighting Fire with Fire]]''
+| 
+* Release date: August 27, 1991
+* Label: [[Universal Music Group Nashville|Mercury Nashville]]
+* Format: [[Compact disc|CD]], [[audio cassette|cassette]]
+| 54
+| 26
+| 19
+|-
+! scope="row"| ''[[Davis Daniel (album)|Davis Daniel]]''
+| 
+* Release date: October 4, 1994
+* Label: [[Polydor]] Nashville
+* Format: CD, cassette
+| —
+| —
+| —
+|-
+! scope="row"| ''[[I Know a Place (Davis Daniel album)|I Know a Place]]''
+| 
+* Release date: June 18, 1996
+* Label: [[A&M Records|A&M]] Nashville
+* Format: CD, cassette
+| —
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<br><ref name="Country Songs">{{cite magazine|url={{BillboardURLbyName|artist=davis daniel|chart=all}}|title=Davis Daniel Album & Song Chart History - Country Songs|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=December 11, 2010}}</ref>
+! width="45"| [[RPM (magazine)|CAN Country]]<br><ref>{{cite web|url=http://www.collectionscanada.gc.ca/rpm/028020-110.01-e.php?PHPSESSID=mfstfhcbgmru3ti1dqs7m84283&q1=davis+daniel&q2=Country+Singles&interval=20|title=Results - RPM - Library and Archives Canada - Country Singles|work=[[RPM (magazine)|RPM]]|accessdate=December 11, 2010}}</ref>
+|-
+| rowspan="2"| 1991
+! scope="row"| "[[Picture Me]]"
+| 28
+| —
+| align="left" rowspan="4"| ''Fighting Fire with Fire''
+|-
+! scope="row"| "[[For Crying Out Loud (song)|For Crying Out Loud]]"
+| 13
+| 21
+|-
+| rowspan="2"| 1992
+! scope="row"| "[[Fighting Fire with Fire (song)|Fighting Fire with Fire]]"
+| 27
+| 44
+|-
+! scope="row"| "Still Got a Crush on You"
+| 48
+| 76
+|-
+| rowspan="2"| 1994
+! scope="row"| "I Miss Her Missing Me"
+| 74
+| —
+| align="left" rowspan="3"| ''Davis Daniel''
+|-
+! scope="row"| "William and Mary"
+| 64
+| —
+|-
+| 1995
+! scope="row"| "Tyler"
+| 58
+| 39
+|-
+| 1996
+! scope="row"| "I'm Not Listening Anymore"
+| —
+| —
+| align="left"| ''I Know a Place''
+|-
+| 2001
+! scope="row"| "Is It Just Me?"
+| —
+| —
+| align="left" {{n/a}}
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:14em;"| Video
+! Director
+|-
+| rowspan="2"| 1991
+! scope="row"| "Picture Me"<ref>{{cite web|url=http://www.cmt.com/videos/davis-daniel/383968/picture-me.jhtml|title=CMT : Videos : Davis Daniel : Picture Me|publisher=[[Country Music Television]]|accessdate=October 14, 2011}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+| rowspan="2"| Michael Merriman
+|-
+! scope="row"| "For Crying Out Loud"<ref>{{cite web|url=http://www.cmt.com/videos/davis-daniel/383951/for-crying-out-loud.jhtml|title=CMT : Videos : Davis Daniel : For Crying Out Loud|publisher=[[Country Music Television]]|accessdate=October 14, 2011}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+|-
+| rowspan="2"| 1992
+! scope="row"| "Fighting Fire with Fire"<ref>{{cite web|url=http://www.cmt.com/videos/davis-daniel/383922/fighting-fire-with-fire.jhtml|title=CMT : Videos : Davis Daniel : Fighting Fire With Fire|publisher=[[Country Music Television]]|accessdate=October 14, 2011}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+| Marc Ball
+|-
+! scope="row"| "Still Got a Crush on You"
+| 
+|-
+| 1994
+! scope="row"| "I Miss Her Missing Me"<ref>{{cite web|url=http://www.cmt.com/videos/davis-daniel/384513/i-miss-her-missing-me.jhtml|title=CMT : Videos : Davis Daniel : I Miss Her Missing Me|publisher=[[Country Music Television]]|accessdate=October 14, 2011}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+| Michael Merriman
+|-
+| 1995
+! scope="row"| "Tyler"<ref>{{cite web|url=http://www.cmt.com/videos/davis-daniel/384722/tyler.jhtml|title=CMT : Videos : Davis Daniel : Tyler|publisher=[[Country Music Television]]|accessdate=October 14, 2011}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+| Bill Young, Jim Barham
+|-
+| 1996
+! scope="row"| "I'm Not Listening Anymore"
+| 
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Daniel, Davis}}
+[[Category:1961 births]]
+[[Category:American country singer-songwriters]]
+[[Category:Singer-songwriters from Illinois]]
+[[Category:Living people]]
+[[Category:People from Arlington Heights, Illinois]]
+[[Category:Mercury Records artists]]
+[[Category:Polydor Records artists]]
+[[Category:A&M Records artists]]
+[[Category:Country musicians from Illinois]]
+[[Category:American male singer-songwriters]]

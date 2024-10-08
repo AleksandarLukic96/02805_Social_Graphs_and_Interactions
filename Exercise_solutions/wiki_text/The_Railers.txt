@@ -1,0 +1,79 @@
+{{Short description|Nashville musical group}}
+{{For|the track team|The Railers (track team)}}
+{{Infobox musical artist
+| name            = The Railers
+| image           =
+| image_size      =
+| landscape       =
+| alt             =
+| caption         =
+| alias           = Tin Cup Gypsy
+| origin          = [[Nashville, Tennessee]], U.S.
+| genre           = [[Country music|Country]]
+| years_active    = 2010–present
+| label           = [[Warner Bros. Records|Warner Bros. Nashville]]
+| associated_acts =
+| website         = {{url|http://www.therailers.com/}}
+| current_members = 
+* Jordan Lawson
+* Jonathan Lawson
+* Cassandra Lawson
+| past_members    = Tyler Oban
+}}
+
+'''The Railers''' is an American country band based out of [[Nashville, Tennessee]], United States. The band is composed of brothers and [[Missouri]] natives Jordan and Jonathan Lawson, and [[Arizona]] native Cassandra Lawson. Jordan, Jonathan and Cassandra met at [[Northern Arizona University]] and moved to Nashville in 2004.
+
+Formerly known as Tin Cup Gypsy, the band changed its name to The Railers in 2012.
+In 2010, the band opened for [[Sara Evans]] and [[Órla Fallon]] in addition to headlining their own dates.  In 2012, they signed a publishing deal with [[Sony/ATV Music Publishing]] and a record deal with [[Warner Bros. Records|Warner Music Nashville]].<ref>{{cite web|url=http://www.musicrow.com/2014/08/the-railers-create-a-nashville-buzz/|title=The Railers Create A Nashville Buzz|website=Musicrow.com|date=29 August 2014|accessdate=9 October 2014}}</ref>
+
+The Railers released an EP in May 2014 titled ''The Railers: The Geraldine Session''.  The EP includes six songs that were all recorded live in one session.  They released a single on September 24, 2014, titled "Kinda Dig the Feeling".  The song was also featured on the [[Nashville (season 3)|season 3]] premiere of [[American Broadcasting Company|ABC]]'s TV series ''[[Nashville (2012 TV series)|Nashville]]''.<ref>{{cite web|url=http://www.therailers.com/tagged/news|title=The Railers|website=Therailers.com|accessdate=9 October 2014}}</ref>
+
+As of 2024, Jonathan and Cassandra Lawson founded the Dark Folk Duo [https://www.ivyandthewall.com/ Ivy and the Wall], writing song placements for film and television and working with Danish Publishing House Soul Jam Publishing.
+
+Jordan Lawson is currently a utility touring musician for the Grammy Award-winning artist Carrie Underwood as of May 2024.
+
+==Discography==
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Country Airplay|US Country Airplay]]<br /><ref>{{cite magazine|url=http://www.billboard.com/articles/columns/chart-beat/6274160/chart-highlights-fergie-returns-enrique-iglesias-hits-no-1|title=Chart Highlights: Fergie Returns, Enrique Iglesias Hits No. 1|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=October 6, 2014}}</ref>
+|-
+| 2014
+! scope="row"| "Kinda Dig the Feeling"
+| 49
+| rowspan="2" {{n/a}}
+|-
+| 2017
+! scope="row"| "11:59 (Central Standard Time)"
+| 57<br /><ref>{{cite magazine|url=http://www.billboard.com/files/pdfs/country_update_0605.pdf|title=Billboard Country Update|magazine=Billboard|accessdate=June 6, 2017}}</ref>
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;"| Video
+|-
+| 2017
+! scope="row"| "11:59 (Central Standard Time)"
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{official website|http://www.therailers.com/}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Railers, The}}
+[[Category:Country music groups from Tennessee]]
+[[Category:Musical groups established in 2010]]
+[[Category:Musical groups from Nashville, Tennessee]]
+[[Category:Warner Records artists]]
+[[Category:2010 establishments in Tennessee]]

@@ -1,0 +1,98 @@
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Raybon Brothers
+| image               =
+| caption             =
+| image_size          =
+| background          = group_or_band
+| origin              = [[Florida]], United States
+| genre               = [[Country music|Country]]
+| years_active        = 1997
+| label               = [[MCA Nashville]]
+|spinoff_of = [[Shenandoah (band)|Shenandoah]]
+| past_members        = [[Marty Raybon]]<br />Tim Raybon
+}}
+'''Raybon Brothers''' were an American [[country music]] duo from [[Sanford, Florida]], consisting of brothers [[Marty Raybon]] and Tim Raybon. Prior to the duo's inception in 1997, Marty Raybon was the lead singer of the country music band [[Shenandoah (band)|Shenandoah]], having left in 1997, before rejoining in 2014.<ref name="gibson">{{cite web |url=http://www.gibson.com/player/apr03/raybon.html |title=Marty Raybon scratches his bluegrass itch |accessdate=2008-07-28 |last=Nikolai |first=Michelle |work=Gibson Guitar Corporation |url-status=dead |archiveurl=https://web.archive.org/web/20080719161854/http://www.gibson.com/player/apr03/Raybon.html |archivedate=2008-07-19}}</ref>
+
+The Raybon Brothers charted in 1997 with a cover of [[Bob Carlisle]]'s pop hit "[[Butterfly Kisses (song)|Butterfly Kisses]]". Their version was a top 40 hit on both the ''Billboard'' country music charts and the [[Billboard Hot 100|''Billboard'' Hot 100]]. A second single, "The Way She's Lookin'", reached the lower regions of the country charts. Marty recorded a number of solo projects before rejoining Shenandoah.
+
+==Discography==
+
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''[[Raybon Brothers (album)|Raybon Brothers]]''
+|
+* Release date: August 26, 1997
+* Label: [[MCA Records]]
+* Formats: [[Compact disc|CD]], [[Compact cassette|cassette]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! colspan="3"| Peak chart positions
+! rowspan="2" style="width:8em;"| [[Music recording sales certification|Certifications]]<br /><small>([[List of best selling music artists|sales threshold]])</small>
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<br><ref name="Allmusic singles">{{cite web|url={{Allmusic|class=artist|id=p224696|pure_url=yes}}|title=allmusic ((( Raybon Brothers > Charts & Awards > Billboard Singles )))|publisher=[[AllMusic]]|accessdate=2010-05-23}}</ref>
+! width="45"| [[Billboard Hot 100|US]]<br><ref name="Allmusic singles" />
+! width="45"| [[RPM (magazine)|CAN Country]]<br><ref>{{cite web|url=http://www.collectionscanada.gc.ca/rpm/028020-110.01-e.php?PHPSESSID=5rpjk7v8ieahjdccdlo1d0fqe1&q1=Raybon+Brothers&q2=&interval=20|title=Results - RPM - Library and Archives Canada: Country Singles|work=[[RPM (magazine)|RPM]]|accessdate=2010-05-23}}</ref>
+|-
+| rowspan="3"| 1997
+! scope="row"| "[[Butterfly Kisses (song)|Butterfly Kisses]]"
+| 37
+| 22
+| 36
+|
+* [[Recording Industry Association of America|US]]: Gold{{Certification Cite Ref|region=United States|type=single|title=Butterfly Kisses|artist=Raybon Brothers}}
+| align="left" rowspan="3"| ''Raybon Brothers''
+|-
+! scope="row"| "The Way She's Lookin'"
+| 64
+| —
+| 73
+|
+|-
+! scope="row"| "[[Falling (LeBlanc and Carr song)|Falling]]" <small>(featuring [[Olivia Newton-John]])</small>
+| —
+| —
+| 96
+|
+|-
+| colspan="7" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:18em;"| Video
+! Director
+|-
+| rowspan="3"| 1997
+! scope="row"| "Butterfly Kisses"
+| Steven R. Monroe
+|-
+! scope="row"| "The Way She's Lookin"
+|
+|-
+! scope="row"| "Falling" <small>(featuring Olivia Newton-John)</small>
+|
+|}
+
+==References==
+{{Reflist}}
+{{Shenandoah}}
+{{Authority control}}
+
+[[Category:Country music groups from Florida]]
+[[Category:American country music duos]]
+[[Category:Sibling musical duos]]
+[[Category:MCA Records artists]]
+[[Category:Musical groups established in 1997]]
+[[Category:Musical groups disestablished in 1997]]

@@ -1,0 +1,61 @@
+{{short description|American country and gospel singer|bot=PearBOT 5}}
+{{about||the American food journalist|Barbara Fairchild (journalist)}}
+{{Infobox musical artist
+| image           = BarbaraFairchildAtHerDiner.jpg
+| name            = Barbara Fairchild
+| image_size      = <!-- Only for images smaller than 220 pixels -->
+| birth_name      = Barbara Fairchild
+| birth_date      = {{birth date and age|1950|11|12}}  
+| birth_place     = [[Knobel, Arkansas|Knobel]], Arkansas, United States
+| genre           = [[Country music|Country]], [[Gospel Music|gospel]]
+| occupation      = [[Singing|Singer]], [[songwriter]]
+| years_active    = 1969&ndash;present
+| label           = [[Columbia Records]]<br/>Daywind Records
+| associated_acts = [[Sharon White (singer)|Sharon White]], [[Billy Walker (musician)|Billy Walker]], [[Connie Smith]]
+| website         = [http://www.barbarafairchild.com/site/ Official website]
+}}
+
+'''Barbara Fairchild''' (born November 12, 1950)<ref name="LarkinCountry">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Who's Who of Country Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1993|edition=First|isbn=0-85112-726-6|page=136}}</ref> is an American [[country music|country]] and [[gospel music|gospel]] singer, who is best known for her hit 1973 country song "[[Teddy Bear Song]]" and other country hits.<ref name="LarkinCountry"/>
+
+==Biography==
+===Early life and beginnings in Nashville===
+She was born in [[Knobel, Arkansas]], United States.<ref name="LarkinCountry"/> Fairchild started her career at a young age singing country music. She cut her first single at 15 years old. In 1963, she moved to [[St. Louis]], [[Missouri]], and by 1965, she was a regular on a local TV show and recorded for a local label, Norman Records,<ref name="LarkinCountry"/> but none of her singles released were much more than regional hits.<ref name=music>{{cite web|last=Loftus|first=Johnny|title=Artist Biography by Johnny Loftus|url=http://www.allmusic.com/artist/barbara-fairchild-mn0000125352/biography|website=[[AllMusic]]|access-date=19 October 2013}}</ref>
+
+In 1968, after high school graduation, she decided to follow her dream and moved to [[Nashville, Tennessee|Nashville]].<ref name="LarkinCountry"/> She briefly signed with [[Kapp Records]] with no success.<ref name="LarkinCountry"/> She also recorded briefly for [[MCA Records]]. After this, she met producer [[Billy Sherrill]], who had discovered [[Tammy Wynette]]. He listened to Fairchild's songs and decided that she was ready for a major record deal, and he signed her with [[Columbia Records]] in 1969.<ref name="LarkinCountry"/> Her first single in 1969, "Love Is A Gentle Thing", was a minor hit as was her next single, "A Woman's Hand".<ref name="LarkinCountry"/> In 1970, she scored her first Top 40 hit with "A Girl Who'll Satisfy Her Man". Between 1970 and 1972, Fairchild scored four more Top 40 hits, the biggest of these being "Love's Old Song" and "Thanks For The Mem'ries".<ref name="LarkinCountry"/>
+
+===The success of "Teddy Bear Song"===
+1973 would turn out to be the breakthrough year for Fairchild as she released the biggest hit of her career with "Teddy Bear Song".<ref name="LarkinCountry"/> It became a number 1 hit on the country charts, and reached the pop charts as well, peaking at No.&nbsp;32.<ref name="LarkinCountry"/> It was nominated for a [[Grammy Award]] that year. "Teddy Bear Song" spent two weeks at the No. 1 spot. She followed up "Teddy Bear Song" that year with another hit, "Kid Stuff," which reached number 2 on the country chart,<ref name="LarkinCountry"/> and made the [[Billboard Hot 100|''Billboard'' Hot 100]] at No. 95.{{Citation needed|date=September 2019}} In 1974, she scored another Top 10 with the song "Baby Doll."<ref name="LarkinCountry"/> Between 1974 and 1977, she had several other successes, including "Standing In Your Line," "Little Girl Feelin'," "[[Mississippi (Pussycat song)|Mississippi]]," "Cheatin' Is," and "Let Me Love You Once Before You Go."<ref name="LarkinCountry"/>
+
+===Later career and life===
+She turned her attention to [[Gospel music]], where she has recorded both solo and with [[Connie Smith]] and [[Sharon White (singer)|Sharon White]] on the album, ''[[Love Never Fails (Connie Smith album)|Love Never Fails]]''. She now lives in [[Branson, Missouri|Branson]], Missouri, with her husband Roy Morris, who is also a singer-songwriter.<ref name=music/>
+
+== Discography ==
+{{Main|Barbara Fairchild discography}}
+
+==Awards and honors==
+*Inducted into the Christian Music Hall of Fame in 2009.
+*Nominated for Christian Country Female Vocalist of the Year for a Visionary Award by the Christian Music Hall of Fame.
+
+==References==
+{{Reflist}}
+
+==External links==
+{{commons category|Barbara Fairchild}}
+* {{Official|http://www.barbarafairchild.com/site/}} <!-- Seems not to have been updated since 2013 -->
+
+{{Barbara Fairchild}}
+{{Authority control}}
+
+{{DEFAULTSORT:Fairchild, Barbara}}
+[[Category:1950 births]]
+[[Category:Living people]]
+[[Category:American country singer-songwriters]]
+[[Category:American women country singers]]
+[[Category:People from Clay County, Arkansas]]
+[[Category:People from Branson, Missouri]]
+[[Category:American gospel singers]]
+[[Category:Singer-songwriters from Missouri]]
+[[Category:Singer-songwriters from Arkansas]]
+[[Category:Country musicians from Missouri]]
+[[Category:Country musicians from Arkansas]]
+[[Category:21st-century American women]]

@@ -1,0 +1,121 @@
+{{Redirect-distinguish|John Wiggins|John Wiggins (politician)}}
+{{Infobox musical artist
+| name         = John & Audrey Wiggins
+| image        = Johnandaudrey.jpg
+| caption      = John (right) and Audrey Wiggins. Photo by Señor McGuire.
+| image_size   =
+| origin       = [[Nashville, Tennessee]], U.S.
+| genre        = [[country music|Country]]
+| years_active = 1994–1997
+| label        = [[Mercury Records|Mercury]]
+| past_members = Audrey Wiggins<br />John Wiggins
+}}
+'''John & Audrey Wiggins''' was an American [[country music]] duo formerly signed to [[Mercury Records]]. The duo consisted of John Wiggins and his sister Audrey, both of whom alternated as lead vocalists. They recorded two studio albums for [[PolyGram]]/[[Mercury Records]] between 1994 and 1997, in addition to charting four singles on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] charts. John has since become a Nashville songwriter, with cuts by [[Joe Nichols]], [[Blake Shelton]], [[Randy Houser]], and others.
+
+==Biography==
+John Wayne Wiggins was born on October 13, 1962, in [[Nashville, Tennessee]], and his sister, Audrey, was born December 26, 1967, in [[Asheville, North Carolina]].<ref name="my">{{cite web |url=http://www.mywire.com/a/Muze//2224293?extID=10051 |title=John & Audrey Wiggins biography |accessdate=2008-10-03 |date=2007-02-01 |work=MyWire}}</ref> They had been singers since childhood,<ref>[{{AllMusic|class=artist|id=p45017|pure_url=yes}} allmusic ((( John Wiggins > Overview)))]</ref> and their father, Johnny Wiggins, was the "Singing Bus Driver" on [[Ernest Tubb]]'s 1960s tours.<ref name="new">{{cite journal|last=Cannon|first=Bob|date=September 1994|title=Album reviews|journal=New Country|pages=57–58|issn=1074-536X}}</ref> John made his singing debut at age four, and for the next several years, they performed in their father's band.<ref>{{cite web|url=http://mountaingrownmusic.org/johnny-wiggins.html|title=Carrying on the dream|last=Callaway|first=Todd|work=Mountain Grown Music|accessdate=16 November 2010}}</ref> In the 1980s, the Wiggins siblings and [[Clinton Gregory]] joined the house band at a [[North Carolina]] venue called The Stompin' Ground.<ref name="my"/>
+
+They signed to [[PolyGram]]/[[Mercury Records]] in 1994, shortly before their father died.<ref name="my"/> Working with producers Jim Cotton and Joe Scaife, they released their self-titled debut that year. The album produced three chart entries on the U.S. ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] charts, including the No.&nbsp;22 "Has Anybody Seen Amy". In 1995, 1996, and 1997, John & Audrey Wiggins received [[Country Music Association]] nominations for Duo of the Year.<ref>{{cite web|url=http://www.cmt.com/news/country-music/1472579/the-vocal-duo-dilemma-they-also-serve-who-also-run.jhtml|archive-url=https://web.archive.org/web/20121022221601/http://www.cmt.com/news/country-music/1472579/the-vocal-duo-dilemma-they-also-serve-who-also-run.jhtml|url-status=dead|archive-date=October 22, 2012|title=The Vocal Duo Dilemma: They Also Serve Who Also Run|last=Morris|first=Edwards|date=10 August 2000|work=[[Country Music Television|CMT]].com|accessdate=16 November 2010}}</ref> A second album, ''The Dream'', followed in 1997 under the production of [[Dann Huff]]. and the only charting release from it was "Somewhere in Love" which peaked at No.&nbsp;49 on the country charts.
+
+In the 2000s, John found work as a songwriter in [[Nashville, Tennessee]]. Among his cuts were the singles "[[Tequila Makes Her Clothes Fall Off]]" by [[Joe Nichols]];<ref>[https://web.archive.org/web/20070930014746/http://www.cmt.com/artists/news/1521116/20060118/nichols_joe.jhtml?headlines=true&rsspartner=rssyahoo CMT.com : Joe Nichols : Joe Nichols' Latest No. 1 Draws Big Crowd]</ref> "[[Anything Goes (Randy Houser song)|Anything Goes]]" by [[Randy Houser]];<ref>{{cite web|url=http://www.gactv.com/gac/nw_headlines/article/0,,GAC_26063_5942868,00.html |archive-url=https://archive.today/20120731131324/http://www.gactv.com/gac/nw_headlines/article/0,,GAC_26063_5942868,00.html |url-status=dead |archive-date=31 July 2012 |title=Randy Houser Finds All "Goes" Well |date=28 April 2009 |work=[[Great American Country]] |accessdate=11 April 2010 }}</ref> and "[[Who Are You When I'm Not Looking]]" by Nichols and by [[Blake Shelton]].
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:20em;"| Album details
+|- 
+! scope="row"| ''[[John & Audrey Wiggins (album)|John & Audrey Wiggins]]''
+| 
+* Release date: June 21, 1994
+* Label: [[Mercury Records]]
+* Format: [[compact disc|CD]], [[audio cassette|cassette]]
+|- 
+! scope="row"| ''[[The Dream (John & Audrey Wiggins album)|The Dream]]''
+| 
+* Release date: April 22, 1997
+* Label: Mercury Records
+* Format: CD, cassette
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:16em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="3"| 1994
+! scope="row"| "Falling Out of Love"
+| 47
+| —
+| align="left" rowspan="4"| ''John & Audrey Wiggins''
+|-
+! scope="row"| "Has Anybody Seen Amy"
+| 22
+| 34
+|-
+! scope="row"| "She's in the Bedroom Crying"
+| 58
+| 68
+|-
+| 1995
+! scope="row"| "Memory Making Night"
+| —
+| 84
+|-
+| rowspan="2"| 1997
+! scope="row"| "Somewhere in Love"
+| 49
+| 51
+| align="left" rowspan="2"| ''The Dream''
+|-
+! scope="row"| "[[Crazy Love (Poco song)|Crazy Love]]"
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:16em;"| Video
+! Director
+|-
+| rowspan="3"| 1994
+! scope="row"| "Fallin' Out of Love"
+| Thom Oliphant
+|-
+! scope="row"| "Has Anybody Seen Amy"
+| rowspan="2"| Martin Kahan
+|-
+! scope="row"| "She's in the Bedroom Crying"
+|-
+| rowspan="2"| 1997
+! scope="row"| "Somewhere in Love"
+| [[Deaton-Flanigen Productions]]
+|-
+! scope="row"| "Crazy Love"
+| Thom Oliphant
+|}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Wiggins, John and Audrey}}
+[[Category:Country music groups from Tennessee]]
+[[Category:American country music duos]]
+[[Category:Mercury Records artists]]
+[[Category:Sibling musical duos]]
+[[Category:Musical groups established in 1994]]
+[[Category:Musical groups disestablished in 1997]]

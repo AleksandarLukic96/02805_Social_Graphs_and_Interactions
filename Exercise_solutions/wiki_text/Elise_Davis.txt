@@ -1,0 +1,61 @@
+{{Short description|American country musician}}
+{{redirect|The Token|the band|The Tokens}}
+{{Infobox musical artist
+| honorific_prefix    = 
+| name                = Elise Davis
+| honorific_suffix    = 
+| image               = 
+| image_size          = 
+| landscape           = <!-- yes, if wide image, otherwise leave blank -->
+| alt                 = 
+| caption             = 
+| native_name         = 
+| native_name_lang    = 
+| birth_name          = 
+| alias               = 
+| birth_date          = <!-- {{birth date and age|YYYY|MM|DD}} for living people supply only the year unless the exact date is already WIDELY published, as per [[WP:DOB]] -->
+| birth_place         = 
+| origin              = Little Rock, Arkansas
+| death_date          = <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date 1st) -->
+| death_place         = 
+| genre               = Country, [[folk music|folk]], [[Americana (music)|Americana]]
+| occupation          = 
+| instrument          = 
+| years_active        = 2016–present
+| label               = 
+| associated_acts     = 
+| website             = {{URL|http://www.elisedavis.com/}}
+
+| module              = 
+| module2             = 
+| module3             = 
+}}
+
+'''Elise Davis''' is an American [[country music|country]] musician<ref name="myspace">{{cite web|last1=Tan|first1=Emily|title=Elise Davis on 'The Token': "It's Never Been Straight-Up Country Music"|url=https://myspace.com/article/2017/2/7/elise-davis-token-interview|publisher=[[Myspace]]|accessdate=9 February 2017}}</ref> from [[Little Rock, Arkansas]].
+
+==Career==
+Elise Davis began her career in 2016, releasing her first full-length album titled ''The Token''.<ref name="noiseyvice">{{cite web|last1=Domenighini|first1=Annalise|title=Elise Davis's Debut Country Album 'The Token' Puts Gender and Love Toe-to-Toe|url=https://noisey.vice.com/en_us/article/elise-davis-debut-album-the-token-premiere|publisher=[[Vice (magazine)|Vice]]|accessdate=9 February 2017}}</ref><ref name="rollingstone">{{cite magazine|last1=Menconi|first1=David|title=Hear Elise Davis Celebrate Hooking Up in Unrepentant 'Penny'|url=https://www.rollingstone.com/country/premieres/hear-elise-davis-celebrate-hooking-up-in-unrepentant-penny-w435979|magazine=[[Rolling Stone]]|date=24 August 2016 |accessdate=9 February 2017}}</ref><ref name="americansongwriter">{{cite web|last1=O'Rear|first1=Caine|title=Song Premiere: Elise Davis, "I Just Want Your Love"|date=5 August 2016 |url=https://americansongwriter.com/2016/08/song-premiere-elise-davis-just-want-love/|publisher=[[American Songwriter]]|accessdate=9 February 2017}}</ref><ref name="elmoremagazine">{{cite web|last1=Berick|first1=Michael|title=Elise Davis: The Token|url=http://www.elmoremagazine.com/2016/11/reviews/albums/elise-davis|work=[[Elmore Magazine]]|date=29 November 2016 |accessdate=9 February 2017}}</ref><ref name="popmatters">{{cite web|last1=Rivitz|first1=Will|title=Elise Davis - "Finally" (audio) (premiere)|url=http://www.popmatters.com/post/elise-davis-finally-audio-premiere/|publisher=[[PopMatters]]|accessdate=9 February 2017}}</ref> Davis released her second full-length album, ''Cactus'', in September 2018.<ref name="brooklynvegan">{{cite web |last1=Sacher |first1=Andrew |title=Elise Davis releasing 'Cactus' (watch the "Lone Wolf" video) |url=http://www.brooklynvegan.com/elise-davis-releasing-cactus-watch-the-lone-wolf-video/ |publisher=[[BrooklynVegan]] |accessdate=22 January 2019}}</ref>
+
+In January 2021, Davis announced her third album titled ''Anxious. Happy. Chill.'', set for an April 16 release via Tone Tree Music.<ref>{{Cite news |date=January 22, 2021 |title=Elise Davis Announces New Album ''Anxious. Happy. Chill.'' Out 4/16 |work=Glide Magazine |url=https://glidemagazine.com/252710/elise-davis-announces-new-album-anxious-happy-chill-out-4-16/ |access-date=April 2, 2021}}</ref>
+
+==Discography==
+'''Studio albums'''
+*''The Token'' (2016, Make The Kill, Thirty Tigers)
+*''Cactus'' (2018)
+*''Anxious. Happy. Chill.'' (2021, Tone Tree)
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Davis, Elise}}
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:Musicians from Little Rock, Arkansas]]
+[[Category:American country singer-songwriters]]
+[[Category:Country musicians from Arkansas]]
+[[Category:Singer-songwriters from Arkansas]]
+
+
+{{US-country-musician-stub}}

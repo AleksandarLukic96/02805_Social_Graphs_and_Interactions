@@ -1,0 +1,64 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Lauren Lucas
+| image                 = 
+| caption            = 
+| image_size            = 
+| background          = solo_singer
+| origin              = [[Columbia, South Carolina]], United States
+| instrument          = Vocals, guitar, piano
+| genre               = [[Country music|Country]]
+| occupation          = Singer-songwriter
+| years_active        = 2003–present
+| label               = [[Warner Bros. Records]]
+| associated_acts     = [[Randy Houser]]
+| website                 = 
+}}
+
+'''Lauren Lucas''' (born in [[Columbia, South Carolina]], United States) is an American [[country music]] artist. She is now with the band Farewell Angelina, being one singer out of four signed with a record label. In her career, she has been signed to a development deal at the age of sixteen by [[RCA Records Nashville|RCA Nashville]] and a recording contract in 2003 with [[Warner Bros. Records]].  A single was released in 2005, but no album. She later went on to record an independent EP titled, "If I Was Your Girl."<ref name="laurenlucas.com">{{cite web|url=http://www.laurenlucas.com |title=Lauren Lucas |website=Laurenlucas.com |date= |accessdate=April 29, 2020}}</ref>
+
+==Biography==
+Lucas was born in [[Columbia, South Carolina]].  In her hometown, she worked in community theater, casting in her first production at age three. She later took guitar and piano lessons in pursuit of a country career, and first sang on the [[Grand Ole Opry]] at age eleven.<ref name="cmt">{{cite web |url=http://www.cmt.com/artists/az/lucas_lauren/bio.jhtml |archive-url=https://web.archive.org/web/20060901025811/http://www.cmt.com/artists/az/lucas_lauren/bio.jhtml |url-status=dead |archive-date=September 1, 2006 |title=Lauren Lucas biography |accessdate=October 12, 2008 |work=[[Country Music Television|CMT]]}}</ref> By the time she was a teenager, she had formed a band called Farther South, which played at several local venues. She also recorded a demo tape, which helped her to land a songwriting contract with Sony ATV/Tree Publishing, a development deal with [[RCA Records Nashville|RCA Nashville]], and a record contract with [[Warner Bros. Records]].
+
+Lucas also contributed to the [[Broadway theatre|Broadway]] adaptation of the film ''[[Urban Cowboy]]'', and one of her cuts for the play was nominated for a [[Tony award]].<ref name="cmt"/><ref>{{cite web |url=http://www.nashvillecitypaper.com/news.php?viewStory=47665 |title=Lauren Lucas has interesting background |accessdate=October 12, 2008 |last=Wynn |first=Ron |work=Nashville City Paper}}</ref> She was signed to a development deal on RCA Nashville, but it did not escalate into a full recording contract because Lucas decided to take a role in an off-Broadway theater production instead called, "Take This Show and Shove It."  Lucas later moved to Nashville and attended [[Belmont University]]'s school of music, and eventually befriended session guitarist and producer [[Biff Watson]], who then helped her sign to [[Warner Bros. Records]] in 2003. She was signed to the label for two years, releasing two singles in 2005 ("What You Ain't Gonna Get" and "The Carolina Kind"), but her debut album, ''The Carolina Kind'', was never released.  She later released an independent EP in 2007 called, "If I Was Your Girl."<ref name="laurenlucas.com"/>
+
+In 2016, Lucas became a member of the group Farewell Angelina, which also features Nicole Witt, Andrea Young, and Lisa Torres.<ref>{{cite web|author=Laura McClellan |url=http://tasteofcountry.com/farewell-angelina-new-member/ |title=Farewell Angelina Add New Member |website=Tasteofcountry.com |date= September 17, 2016|accessdate=April 29, 2020}}</ref>
+
+==Singles==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:16em;"| Single
+!| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! style="width:65px;"| [[Hot Country Songs|US Country]]
+|-
+| rowspan="2"| 2005
+! scope="row"| "What You Ain't Gonna Get"
+| 52
+| style="text-align:left;" rowspan="2"| ''The Carolina Kind''<br /><small>(unreleased)</small>
+|-
+! scope="row"| "The Carolina Kind"
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lucas, Lauren}}
+[[Category:American country singer-songwriters]]
+[[Category:American women country singers]]
+[[Category:Living people]]
+[[Category:Musicians from Columbia, South Carolina]]
+[[Category:Warner Records artists]]
+[[Category:Country musicians from South Carolina]]
+[[Category:Year of birth missing (living people)]]
+[[Category:21st-century American women]]
+[[Category:Singer-songwriters from South Carolina]]

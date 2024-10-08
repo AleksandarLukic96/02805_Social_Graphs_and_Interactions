@@ -1,0 +1,138 @@
+{{pp-pc}}
+{{pp-pc|small=yes}}
+{{Infobox musical artist
+| honorific_prefix  = 
+| name              = Daniel Romano
+| honorific_suffix  = 
+| image             = Daniel Romano & The Jazz Police February 2018.jpg
+| image_size        = 
+| landscape         = <!-- yes, if wide image, otherwise leave blank -->
+| alt               = 
+| caption           = Romano in 2018
+| native_name       = 
+| native_name_lang  = 
+| birth_name        = 
+| alias             = 
+| birth_date        = {{birth year and age|1985}}
+| birth_place       = [[Welland, Ontario]], Canada
+| origin            = 
+| death_date        = <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date 1st) -->
+| death_place       = 
+| genre             = {{flatlist|
+* [[Rock music]]
+* [[Prog music]]
+* [[Indie rock]]
+* [[Country music|Neotraditonal Country]]
+*[[Countrypolitan]]
+* [[Hardcore punk]] <small>(early)</small>}}
+| occupation        = 
+| instrument        = 
+| years_active      = <!-- YYYY–YYYY (or –present) -->
+| label             = {{flatlist|
+* [[You've Changed Records|You've Changed]]
+* [[New West Records|New West]]<ref>{{Cite web|url=http://www.newwestrecords.com/artists/daniel-romano|title=Daniel Romano {{!}} New West Records|website=www.newwestrecords.com|access-date=2016-04-25|archive-url=https://web.archive.org/web/20180320092044/http://newwestrecords.com/artists/daniel-romano|archive-date=2018-03-20|url-status=dead}}</ref>}}
+| associated_acts   = {{flatlist|
+* [[Attack in Black]]
+* Ancient Shapes
+* [[Kay Berkel]]
+* [[City and Colour]]
+* [[Spencer Burton]]
+* [[The Weather Station]] 
+* [[Steve Lambke]] 
+* [[Shotgun Jimmie]]}}
+| website           = {{URL|http://www.danielromanomusic.com/}}
+}}
+
+'''Daniel Tavis Romano''' (born 1985) is a Canadian musician, poet and visual artist based out of his hometown of [[Welland, Ontario]].<ref>{{cite news |url=http://arts.nationalpost.com/2013/01/24/daniel-romano-makes-country-music-for-people-who-dont-like-new-country-music/ |title=Daniel Romano makes country music for people who don't like new country music |newspaper=[[National Post]]|accessdate=September 6, 2015|url-status=dead |archiveurl=https://wayback.archive-it.org/all/20130131201304/http://arts.nationalpost.com/2013/01/24/daniel-romano-makes-country-music-for-people-who-dont-like-new-country-music/ |archivedate=January 31, 2013}}</ref> He is primarily known as a solo artist, though he is also a member of [[Attack in Black]] and has collaborated with [[Julie Doiron]] and [[Frederick Squire]].<ref name="kwrecord">{{cite news|url=http://www.therecord.com/whatson/music/article/509977--daniel-romano-reclaims-country-music-as-a-solo-artist|title=Daniel Romano reclaims country music as a solo artist|newspaper=[[Waterloo Region Record]]|date=March 31, 2011|accessdate=September 6, 2015|archive-date=August 10, 2016|archive-url=https://web.archive.org/web/20160810001422/http://www.therecord.com/whatson/music/article/509977--daniel-romano-reclaims-country-music-as-a-solo-artist|url-status=dead}}</ref> He has also produced and performed with City and Colour, the recording project of [[Dallas Green (musician)|Dallas Green]].<ref>{{cite web|url=http://jam.canoe.ca/Music/Pop_Encyclopedia/C/City_And_Colour.html |archive-url=https://archive.today/20130911200306/http://jam.canoe.ca/Music/Pop_Encyclopedia/C/City_And_Colour.html |url-status=usurped |archive-date=September 11, 2013 |title=CANOE - JAM! Music - Pop Encyclopedia - City And Colour |publisher=[[Canoe.ca]] |date=October 20, 2011|accessdate=September 6, 2015}}</ref>
+
+Romano is a partner in his own independent record label, [[You've Changed Records]], along with [[Steve Lambke]], of the [[Constantines]].<ref name="kite">[http://kitemag.net/interviews/daniel-romano-keeps-busy]   {{webarchive|url=https://web.archive.org/web/20101230035601/http://kitemag.net/interviews/daniel-romano-keeps-busy|date=December 30, 2010}}</ref>
+
+Some of his notable visual work includes designs for [[M. Ward]], [[Ben Kweller]], [[Ladyhawk (band)|Ladyhawk]] and [[City and Colour]]. A skilled leather craftsman, he has designed and tooled guitar straps for many of his contemporaries (Kathleen Edwards, Bahamas, Travis Good of the Sadies).
+
+The Canadian music magazine ''[[Exclaim!]]'' has identified five distinct styles in Romano's work: a gentle, rustic folk sound personified by projects such as ''[[Daniel, Fred & Julie]]'' and ''Workin' for the Music Man'', a retro [[country music|country]] style on albums like ''Sleep Beneath the Willow'' and ''If I've Only One Time Askin{{'}}'', straight-ahead rock on ''Nerveless'' and ''How Ill Thy World Is Ordered'', psychedelic rock on works like ''Modern Pressure'' and ''Visions of the Higher Dream'', and punk rock in his works released under the band name Ancient Shapes.<ref>Laura Stanley, [https://exclaim.ca/music/article/the_five_faces_of_daniel_romano "The Five Faces of Daniel Romano"]. ''[[Exclaim!]]'', September 29, 2020.</ref>
+
+Romano's 2011 album ''Sleep Beneath the Willow'' was a longlisted nominee for the [[2011 Polaris Music Prize]],<ref name=longlist>{{cite web |url=http://www.aux.tv/2011/06/2011-polaris-music-prize-long-list-announced/ |title=2011 Polaris Music Prize Long List announced |publisher=[[Aux (TV channel)|Aux]]|date=June 16, 2011 |accessdate=September 6, 2015|url-status=dead |archiveurl=https://web.archive.org/web/20151002045233/http://www.aux.tv/2011/06/2011-polaris-music-prize-long-list-announced/ |archivedate=2015-10-02 }}</ref> and his 2013 album ''Come Cry With Me'' was longlisted for the [[2013 Polaris Music Prize]].
+
+''If I've Only One Time Askin''' was nominated for a 2016 [[Juno Award]] for [[Juno Award for Adult Alternative Album of the Year|Adult Alternative Album of the Year]].<ref>{{Cite web|title = 11 {{!}} 2016 {{!}} ADULT ALTERNATIVE ALBUM OF THE YEAR {{!}} Daniel Romano {{!}} The JUNO Awards|url = http://junoawards.ca/nomination/2016-adult-alternative-album-of-the-year-daniel-romano/|website = The JUNO Awards|access-date = 2016-02-03|language = en-US}}</ref>
+
+On January 4, 2018, Romano released two simultaneous surprise albums, ''Human Touch'' and ''Nerveless''.<ref name=romano>{{cite web|url=https://exclaim.ca/music/article/daniel_romano_surprise_releases_nerveless_and_human_touch_lps|title=Daniel Romano Surprise Releases 'Nerveless' and 'Human Touch' Albums|last=Murphy|first=Sarah|date=January 4, 2018|website=[[Exclaim!]]|access-date=January 16, 2018}}</ref>
+
+In 2020, during the [[COVID-19 pandemic in Canada]], Romano released several new albums of both newly recorded and archival material in quick succession.<ref>Brad Wheeler, [https://www.theglobeandmail.com/arts/music/article-shape-shifting-songster-daniel-romano-cant-stop-releasing-albums/ "Shape-shifting songster Daniel Romano can’t stop releasing albums"]. ''[[The Globe and Mail]]'', May 29, 2020.</ref> This began with the surprise album ''Visions of the Higher Dream'', which was made available on his [[Bandcamp]] page for just $3.<ref>Matt Bobkin, [http://exclaim.ca/music/article/daniel_romano_enters_self-quarantine_surprise-releases_new_album "Daniel Romano Enters Self-Quarantine, Surprise-Releases New Album"]. ''[[Exclaim!]]'', March 17, 2020.</ref> He followed up with the live album ''Okay Wow''<ref>Vish Khanna, [http://exclaim.ca/music/article/daniel_romanos_outfit-okay_wow "Daniel Romano's Outfit, 'OKAY WOW'"]. ''[[Exclaim!]]'', March 27, 2020.</ref> and the studio album ''Content to Point the Way'',<ref>Allie Gregory, [http://exclaim.ca/music/article/daniel_romanos_outfit_drops_content_to_point_the_way "Daniel Romano's Outfit Drop 'Content to Point the Way'"]. ''[[Exclaim!]]'', April 29, 2020.</ref> both recorded with his backing band The Outfit; and ''Super Pollen'', a collaborative EP recorded with his brother Ian and Mike Haliechuk and Jonah Falco of [[Fucked Up]].<ref>Scott Roos, [http://exclaim.ca/music/article/daniel_romanos_super_pollen_ep_is_a_low-stakes_romp_with_high-profile_collaborators "Daniel Romano's 'Super Pollen' EP Is a Low-Stakes Romp with High-Profile Collaborators"]. ''[[Exclaim!]]'', April 28, 2020.</ref> In May, he followed up with ''Forever Love's Fool'', a 22-minute [[progressive rock]] track recorded with [[Danny Carey]] of the band [[Tool (band)|Tool]].<ref>Calum Slingerland, [http://exclaim.ca/music/article/daniel_romanos_outfit_share_new_song_with_tools_danny_carey "Daniel Romano's Outfit Share New Song with Tool's Danny Carey"]. ''[[Exclaim!]]'', May 6, 2020.</ref>
+
+On June 18, 2021, Romano released a live album titled ''Fully Plugged In.'' Romano also announced another new album, ''Cobra Poems'', set to release on September 10, 2021.<ref>{{Cite web|date=18 June 2021|title=Daniel Romano's Outfit Release New Album, Announce Another|url=https://exclaim.ca/music/article/daniel_romano_outfit_fully_plugged_in_cobra_poems|url-status=live|access-date=2021-06-19|website=[[Exclaim!]]|language=en-ca|archive-url=https://web.archive.org/web/20210618144532/https://exclaim.ca/music/article/daniel_romano_outfit_fully_plugged_in_cobra_poems |archive-date=2021-06-18 }}</ref> He is also featured on Doiron's 2021 album ''[[I Thought of You (album)|I Thought of You]]''.<ref>Matt Bobkin, [https://exclaim.ca/music/article/julie_doiron_i_thought_of_you_album_announcement "Julie Doiron Announces 'I Thought of You,' First Solo Album in Nine Years"]. ''[[Exclaim!]]'', September 21, 2021.</ref>
+
+In 2022 and 2023, Romano has appeared at some shows on [[The Sadies]]' concert tour to support ''[[Colder Streams]]'' as a guest guitarist.<ref>Stephan Boissonneault, [https://exclaim.ca/music/article/the_sadies_carried_on_in_montreal "The Sadies Carried On in Montreal"]. ''[[Exclaim!]]'', February 16, 2023.</ref>
+
+==Discography==
+{{BLP unreferenced section|date=November 2023}}
+
+=== Daniel Romano's Outfit ===
+Daniel Romano's Outfit includes David Nardi (guitar), Roddy Rosetti (electric bass), Ian Romano (drums), Julianna Riolino (vocals), and Tony “The Pope” Cicero (organ).<ref>{{cite news |last1=Horowitz |first1=Steve |title=Daniel Romano's Outfit Demand More Than an 'Okay Wow' Response, PopMatters |url=https://www.popmatters.com/daniel-romano-outfit-okay-wow-2645727292.html |access-date=11 August 2022 |work=PopMatters |date=16 April 2020}}</ref>
+*''How Ill Thy World Is Ordered'' (2020) 
+*''Cobra Poems'' (2021)
+*''La Luna'' (2022)
+
+=== Solo albums ===
+*''Workin' for the Music Man'' (2010)
+*''Sleep Beneath the Willow'' (2011)
+*''[[Come Cry With Me]]'' (2013)
+*''[[If I've Only One Time Askin']]'' (2015)
+*''Mosey'' (2016)
+*''[[Modern Pressure]]'' (2017)
+*''Finally Free'' (2018)
+
+=== Live Albums ===
+*''Okay Wow'' (2020)
+*''Fully Plugged In'' (2021)
+
+=== The Archive Series ===
+*''Human Touch'' (2018)
+*''Nerveless'' (2018)
+*''Visions of the Higher Dream'' (2020)
+*''Content to Point the Way'' (2020)
+*''Dandelion'' (2020)
+*''Forever Love's Fool'', feat. [[Danny Carey]] (2020)
+*''White Flag'' (2020)
+*''Daniel Romano's Outfit Do (What Could Have Been) Infidels By Bob Dylan & the Plugz'' (2020)
+*''Kissing the Foe'' (2021)
+
+=== with Ancient Shapes ===
+*''Ancient Shapes'' (2016)
+*''Silent Rave'' (2018)
+*''A Flower That Wouldn't Bloom'' (2019)
+
+=== With [[Steve Lambke]] as Spider Bite ===
+*''Spider Bite'' (2020)
+*''The Rainbow And The Dove'' (2023)
+
+=== With Kelly Sloan and David Nardi as Alias Ensemble ===
+*''A Splendour of Heart'' (2020)
+
+=== With [[Frederick Squire]] and [[Julie Doiron]] ===
+*''[[Daniel, Fred & Julie]]'' (2009)
+
+===EPs===
+*''Songs for Misha'' (2009)
+*''Super Pollen'' (2020)
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.danielromanomusic.com/ Official website]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Romano, Daniel}}
+[[Category:1985 births]]
+[[Category:Living people]]
+[[Category:People from Welland]]
+[[Category:Canadian country singer-songwriters]]
+[[Category:Canadian indie rock musicians]]
+[[Category:Canadian male singer-songwriters]]
+[[Category:Musicians from the Regional Municipality of Niagara]]
+[[Category:21st-century Canadian male singers]]
+[[Category:21st-century Canadian singers]]
+[[Category:Canadian rock singers]]
+[[Category:21st-century Canadian singer-songwriters]]
+[[Category:Canadian indie folk musicians]]

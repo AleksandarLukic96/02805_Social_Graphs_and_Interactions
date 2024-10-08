@@ -1,0 +1,169 @@
+{{Short description|Canadian singer-songwriter}}
+{{Use mdy dates|date=July 2020}}
+{{BLP sources|date=May 2015}}
+{{Infobox musical artist
+| name            = Jordan McIntosh
+| image           =
+| caption         =
+| birth_name      = Jordan James McIntosh
+| alias           =
+| birth_date      = {{birth date and age|1995|12|20}}
+| birth_place     = [[Ottawa]], Ontario, Canada
+| death_place     =
+| origin          = [[Carleton Place]]
+| instrument      = Guitar
+| occupation      = Singer-songwriter
+| genre           = [[Country music|Country]]
+| years_active    = 2012–2017
+| associated_acts =
+| label           = IROC, Big Star
+| website         = https://www.jordanmcintosh.com
+}}
+
+'''Jordan James McIntosh''' (born December 20, 1995<ref>{{cite web|title=Buzz: Jordan McIntosh|url=http://www.family.ca/buzz/jordan-mcintosh/|website=[[Family Channel (Canadian TV network)|Family Channel]]|accessdate=June 3, 2015}}{{dead link|date=November 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>) is a Canadian [[Country music|country]] singer-songwriter from [[Ottawa]], Ontario.<ref name="valley">{{cite web|url=http://www.insideottawavalley.com/news-story/3869005-jordan-mcintosh-is-living-the-dream/|title=Jordan Mcintosh is living the dream|first=Tara|last=Gesner|date=June 27, 2013|publisher=}}</ref><ref>{{cite web|url=http://www.cmt.ca/artist/jordan-mcintosh/|title=CMT.ca: Jordan McIntosh biography|publisher=}}</ref> He has released a number of singles.
+
+==Career==
+He was born to Greg and Julie McIntosh in [[Ottawa]], Ontario.<ref name="valley" /> He has an older sister Melissa.<ref name="valley" /> He is presently based in [[Carleton Place]].<ref name="valley" />
+
+McIntosh's first single, "Walk Away", was released in August 2012, followed by "Let Me Love You", "Grew Up in a Country Song", "That Girl" and "[[Story of My Life (One Direction song)|Story of My Life]]" which featured [[George Canyon]]. He also was featured on Canyon's Christmas song "Home for Christmas", which also included [[Aaron Pritchett]] and [[One More Girl]].
+
+McIntosh won Ottawa Idol (formerly called Kiwanis Idol) in 2011. McIntosh won the 2014 Country Music Association of Ontario award for Rising Star.<ref>{{cite news|last1=Gesner|first1=Tara|title=Country heartthrob Jordan McIntosh named CMAO's Rising Star|url=http://www.insideottawavalley.com/news-story/4573866-country-heartthrob-jordan-mcintosh-named-cmao-s-rising-star/|accessdate=June 3, 2015|work=Inside Ottawa Valley|date=June 12, 2014}}</ref> He was a finalist in the Emerging Artist Showcase presented by [[Sirius XM Canada]] at the [[Boots and Hearts Music Festival]].<ref>{{cite news|title=Jordan McIntosh to appear in emerging artist showcase at Boots and Hearts Music Festival|url=http://www.insideottawavalley.com/whatson-story/3898453-jordan-mcintosh-to-appear-in-emerging-artist-showcase-at-boots-and-hearts-music-festival/|accessdate=June 3, 2015|work=Inside Ottawa Valley|date=July 18, 2013}}</ref>
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders"
+|-
+! style="width:10em;"| Title
+! style="width:18em;"| Details
+|-
+! scope="row"| ''Steal Your Heart''
+| 
+* Release date: April 15, 2016
+* Label: Big Star Recordings
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Single
+! Peak positions
+! rowspan="2"| Album
+! rowspan="2"| Writers
+|- style="font-size:smaller;"
+! width="65"| [[Canada Country|CAN Country]]<br /><ref>{{cite magazine|url=http://www.billboard.com/biz/search/charts?f%5B0%5D=ts_chart_artistname%3AJordan%20McIntosh&f%5B1%5D=itm_field_chart_id%3A1240&f%5B2%5D=ss_bb_type%3Achart_item&type=2&artist=Jordan%20McIntosh|title=Jordan McIntosh Album & Song Chart History – Canada Country|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=June 3, 2015}}</ref>
+|-
+| 2012
+! scope="row"| "Walk Away"
+| —
+| {{n/a}}
+|
+|-
+| rowspan="2"| 2013
+! scope="row"| "Let Me Love You"
+| 47
+| align="left" rowspan="7"| ''Steal Your Heart''
+|[[Heather Longstaffe]], Georgia Thomas<ref>{{Citation|url = https://www.youtube.com/watch?v=HI5smdKw1g0|accessdate = December 25, 2015| title=- YouTube }}</ref>
+|-
+! scope="row"| "Grew Up in a Country Song"
+| —
+|[[Heather Longstaffe]], Johnny Gates, Jordan McIntosh<ref>{{Cite web|title = Jordan Mcintosh is living the dream|url = http://www.insideottawavalley.com/news-story/3869005-jordan-mcintosh-is-living-the-dream/|website = www.insideottawavalley.com|accessdate = December 25, 2015|date = June 2, 2013}}</ref>
+|-
+| rowspan="2"| 2014
+! scope="row"| "That Girl"
+| —
+|Maks Gabriel, [[Heather Longstaffe]], Jordan McIntosh<ref>{{Cite web|title = That Girl – Jordan McIntosh {{!}} Songs, Reviews, Credits {{!}} AllMusic|url = http://www.allmusic.com/album/that-girl-mw0002636219|website = AllMusic|accessdate = December 25, 2015}}</ref>
+|-
+! scope="row"| "[[Story of My Life (One Direction song)|Story of My Life]]" <small>(featuring [[George Canyon]])</small>
+| —
+|Julian Bunetta, Niall Horan, Zain Javadd Malik, Jamie Needle
+
+Liam Payne, John Henry Ryan, Harry Styles, Louis Tomlinson<ref>{{Cite web|title = Story of My Life – Jordan McIntosh {{!}} Songs, Reviews, Credits {{!}} AllMusic|url = http://www.allmusic.com/album/story-of-my-life-mw0002773630|website = AllMusic|accessdate = December 25, 2015}}</ref>
+|-
+| 2015
+! scope="row"| "All About the Girl"
+| —
+|[[Victoria Banks]], Forest Miller, Lindsay Rimes<ref name="album">{{Cite web|title = Steal Your Heart – Jordan McIntosh {{!}} Songs, Reviews, Credits {{!}} AllMusic|url = http://www.allmusic.com/album/release/steal-your-heart-mr0004549041|website = AllMusic|accessdate = April 19, 2016}}</ref>
+|-
+| rowspan="2"| 2016
+! scope="row"| "Steal Your Heart"
+| —
+|Danick Dupelle, Jordan McIntosh, Dave Thomson<ref name="album" />
+|-
+! scope="row"| "Sunroof"
+| —
+|[[Nathan Chapman (record producer)|Nathan Chapman]], [[Sam Ellis (songwriter)|Sam Ellis]]<ref name="album" />
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:20em;"| Single
+! Director
+|-
+| 2012
+! scope="row"| "Walk Away"
+| 
+|-
+| rowspan="2"| 2013
+! scope="row"| "Grew Up in a Country Song"
+| Adrian Langley
+|-
+! scope="row"| "Home for Christmas" <small>(with [[George Canyon]],<br />[[Aaron Pritchett]] and [[One More Girl]])</small>
+| Stephen Lubig
+|-
+| rowspan="2"| 2014
+! scope="row"| "That Girl"
+| 
+|-
+! scope="row"| "Story of My Life" <small>(featuring George Canyon)</small>
+| 
+|-
+| 2016
+! scope="row"| "Steal Your Heart"
+| 
+|-
+|}
+
+==Awards and nominations==
+{| class="wikitable"
+|-
+! Year
+! Association
+! Category
+! Result
+|-
+| 2014
+| Country Music Association of Ontario
+| Rising Star
+| {{won}}
+|-
+| 2015
+| [[Canadian Country Music Association]]
+| Rising Star
+| {{nom}}
+|-
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.jordanmcintosh.com Official website]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Mcintosh, Jordan}}
+[[Category:1995 births]]
+[[Category:Canadian country singer-songwriters]]
+[[Category:Canadian male singer-songwriters]]
+[[Category:Living people]]
+[[Category:Musicians from Ottawa]]
+[[Category:Singers from Ontario]]
+[[Category:21st-century Canadian male singers]]
+[[Category:21st-century Canadian singers]]
+[[Category:21st-century Canadian singer-songwriters]]

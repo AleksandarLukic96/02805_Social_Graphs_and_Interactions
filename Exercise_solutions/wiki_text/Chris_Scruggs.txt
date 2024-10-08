@@ -1,0 +1,47 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=November 2014}}
+{{more footnotes needed|date=April 2013}}
+{{Infobox musical artist
+| name            = Chris Scruggs
+| image           = Chris Scruggs.jpg
+| caption         = Chris Scruggs in November 2013
+| image_size      = <!-- Only for images smaller than 220 pixels -->
+| birth_name      = Christopher Alan Davies-Scruggs
+| birth_date      = {{Birth date and age|1982|12|16|mf=y}}
+| origin          =
+| instrument      = Vocals, guitar, [[steel guitar]], bass, [[mandolin]], [[fiddle]], drums
+| genre           = [[Country music|Country]], [[Folk music|folk]], [[rock and roll]]
+| occupation      = Musician, songwriter, singer
+| years_active    =
+| label           = Cogent Records
+| associated_acts = [[Michael Nesmith]], [[She & Him]], [[M. Ward]], [[BR549]], [[Gail Davies]], [[Kelly Hogan]], [[Rosie Flores]], [[Charlie Louvin]]
+| website         = {{URL|chrisscruggs.com/}}
+}}
+'''Chris Scruggs''' (born '''Christopher Alan Davies-Scruggs''' December 16, 1982) is an American singer, songwriter, and multi-instrumentalist who plays a variety of instruments including guitar, steel guitar, bass, mandolin, fiddle, and drums. He is the youngest son of songwriter [[Gary Scruggs]] and singer/songwriter and producer [[Gail Davies]]. His paternal grandfather is bluegrass banjo wizard [[Earl Scruggs]] and his maternal grandfather is the late country singer Tex Dickerson.<ref>McLain, Buzz, "Chris Scruggs, Picking Out The High Notes", ''Washington Post'', April 4, 2005</ref>
+
+Scruggs joined the [[country rock]] band [[BR549]] in 2002 playing guitar and serving as the co-lead singer. While in the band, he wrote and performed the title track of their 2004 release, ''Tangled in the Pines''. Scruggs remained in BR549 until 2005 when he left the band to pursue a solo career. Scruggs released his first solo album, entitled ''Anthem,'' in 2009 on Cogent Records.  Scruggs produced the album and wrote 11 of the 12 songs;<ref>Wilkinson, Allan, "Album Review: Chris Scruggs – Anthem", Northern Sky News, September 26, 2009</ref>  [[Ron Davies (songwriter)|Ron Davies]], Scruggs's uncle (best known for having penned "It Ain't Easy" for [[David Bowie]]) wrote the remaining song.
+
+[[File:Chris Scruggs and Michael Nesmith.jpg|thumb|200px|left|Chris Scruggs performing with [[Michael Nesmith]] in April 2013]]
+As a side musician, Scruggs has played behind many notable artists including [[Charlie Louvin]], [[Andrew Bird]], [[Ray Price (musician)|Ray Price]], [[Robbie Fulks]], [[Jools Holland]], [[Giant Sand]], [[Peter Noone]], [[Bobby Bare]], [[M. Ward]], [[Michael Nesmith]], [[She & Him]], Billy Walker, [[Suzy Bogguss]] and [[Marty Stuart]].<ref>{{cite web |url=http://www.chrisscruggs.com/ |title=Home |website=chrisscruggs.com}}</ref>
+
+Scruggs is, as of 2024, the bass guitarist in [[Marty Stuart]]'s Fabulous Superlatives band, taking over for Paul Martin in 2015.<ref>{{cite web|title=Marty Stuart - Band|url=http://www.martystuart.com/band-crew.htm|website=www.martystuart.com|accessdate=2 March 2017}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Official website|http://www.chrisscruggs.com/}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Scruggs, Chris}}
+[[Category:1982 births]]
+[[Category:Living people]]
+[[Category:Pedal steel guitarists]]
+[[Category:American country rock singers]]
+[[Category:American country singer-songwriters]]
+[[Category:American multi-instrumentalists]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:21st-century guitarists]]
+[[Category:The Fabulous Superlatives members]]

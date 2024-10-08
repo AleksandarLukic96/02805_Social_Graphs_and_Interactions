@@ -1,0 +1,73 @@
+{{Short description|American country music group}}
+{{Infobox musical artist | <!-- See Wikipedia:WikiProject Musicians -->
+| name            = The Wrays
+| image             =
+| caption        =
+| image_size        = 
+| background      = group_or_band
+| alias           = The Wray Brothers Band
+| origin          = [[Texas]], [[United States|USA]]
+| genre           = [[Country music|Country]]
+| years_active    = 1981–1987
+| label           = CIS, Sasparilla, [[Universal Music Group Nashville|Mercury Records]]
+| past_members    = [[Collin Raye|Bubba Wray]]<br />[[Scotty Wray]]<br />Jim Covert<br />Lin Phillips<br />Joe Dale Cleghorn
+}}
+'''The Wrays''', also known as '''The Wray Brothers Band''', were an American [[country music]] group from [[Texas]] composed of Bubba Wray, Scotty Wray, Jim Covert, Lynn Phillips and Joe Dale Cleghorn. Following several independent singles, The Wrays released three singles on [[Universal Music Group Nashville|Mercury Records]] in the 1980s.<ref name="cmt">{{cite web |url=http://www.cmt.com/artists/az/raye_collin/bio.jhtml |title=Collin Raye: Biography |accessdate=2009-09-22 |work=[[Country Music Television|CMT]] |archive-date=2009-05-11 |archive-url=https://web.archive.org/web/20090511071719/http://www.cmt.com/artists/az/raye_collin/bio.jhtml |url-status=dead }}</ref> Their highest-charting single, "You Lay a Lotta Love on Me", reached the Top 50 on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles]] chart in 1987.<ref name="whitburn">{{cite book | last=Whitburn | first=Joel |authorlink=Joel Whitburn |date=May 2006 | title=Joel Whitburn's Top Country Songs, 1944-2005 | publisher=Record Research | location=USA | isbn=0-89820-165-9 | page= 431 }}</ref> After The Wrays broke up, lead singer Bubba Wray launched a successful solo career as [[Collin Raye]].<ref name="allmusic">Huey, Steve. {{AllMusic|id=mn0000774941|label=Collin Raye biography|accessdate=September 25, 2015}}</ref>
+
+==Singles==
+{| class="wikitable"
+! Year
+! Single
+! width="45"| <small>[[Hot Country Songs|US Country]]</small>
+|-
+| 1982
+| "Cowboy Sangers"<sup>A</sup>
+| align="center"| –
+|-
+| 1983
+| "Reason to Believe"<sup>A</sup>
+| align="center"| 88
+|-
+| rowspan="2"| 1984
+| "The Battle of New Orleans"<sup>A</sup>
+| align="center"| –
+|-
+| "I Need Someone Bad Tonight"<sup>A</sup>
+| align="center"| –
+|-
+| 1985
+| "Until We Meet Again"<sup>A</sup>
+| align="center"| 93
+|-
+| rowspan="2"| 1986
+| "I Don't Want to Know Your Name"
+| align="center"| 71
+|-
+| "Come on Joe"
+| align="center"| –
+|-
+| 1987
+| "You Lay a Lotta Love on Me"
+| align="center"| 48
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+*<sup>A</sup>Credited to The Wray Brothers Band.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{discogs artist|The Wrays}} as 'The Wrays'
+* {{discogs artist|The Wray Brothers Band}} as 'The Wray Brothers Band'
+
+{{DEFAULTSORT:Wrays, The}}
+[[Category:American country music groups]]
+[[Category:Musical groups from Oregon]]
+[[Category:1983 establishments in Oregon]]
+[[Category:1987 disestablishments in Oregon]]
+[[Category:Musical groups established in 1983]]
+[[Category:Musical groups disestablished in 1987]]
+
+
+{{US-country-band-stub}}

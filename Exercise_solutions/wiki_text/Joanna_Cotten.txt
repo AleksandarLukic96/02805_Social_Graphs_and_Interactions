@@ -1,0 +1,83 @@
+{{short description|American country music singer|bot=PearBOT 5}}
+{{Infobox musical artist
+| name            = Joanna Cotten
+| image           =
+| image_size      =
+| origin          = [[Memphis, Tennessee]]
+| instrument      =
+| genre           = [[Country music|Country]]
+| occupation      = Singer
+| years_active    = 2007–present
+| label           = [[Warner Bros. Records]]
+| associated_acts =
+| website         = {{official website|http://www.joannacotten.com/}}
+}}
+
+'''Joanna Cotten''' (born in [[Memphis, Tennessee]]<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|page=105|year=2008|isbn=978-0-89820-177-2}}</ref>) is an American [[country music]] singer. Cotten's debut single, "The Prize," peaked at number 60 on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] chart.<ref>{{cite news|last=Morris|first=Edward|title=Luke Bryan, Eagles Bound Onto the Charts|url=http://www.cmt.com/news/country-music/1567860/luke-bryan-eagles-bound-onto-the-charts.jhtml|archive-url=https://web.archive.org/web/20080511021711/http://www.cmt.com/news/country-music/1567860/luke-bryan-eagles-bound-onto-the-charts.jhtml|url-status=dead|archive-date=May 11, 2008|accessdate=September 2, 2011|newspaper=[[Country Music Television]]|date=August 25, 2007}}</ref> Cotten recorded 21 songs for an unreleased album for [[Warner Bros. Records]]. She split from the label in December 2007 after the release of a digital-only [[extended play]].<ref>{{cite news|title=Joanna Cotten splits with Warner|url=http://www.countrystandardtime.com/news/newsitem.asp?xid=1241|accessdate=September 2, 2011|newspaper=Country Standard Time|date=December 20, 2007}}</ref> Cotten has continued to record and tour.<ref>{{cite news|last=Hight|first=Jewly|title=Joanna Cotten has no label, but she's got verve|url=http://www.nashvillescene.com/nashville/joanna-cotten-has-no-label-but-shes-got-verve/Content?oid=1200253|accessdate=September 2, 2011|newspaper=[[Nashville Scene]]|date=March 12, 2009}}</ref> From 2013 to 2022, she was a member of [[Eric Church]]'s band.
+
+==Discography==
+
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:10em;"| Title
+! style="width:20em;"| Details
+|-
+! scope="row"| ''Funkabilly''
+| 
+* Release date: April 10, 2008
+* Label: self-released
+|-
+! scope="row"| ''Joanna Cotten''
+| 
+* Release date: March 30, 2009
+* Label: self-released
+|}
+
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:10em;"| Title
+! style="width:20em;"| Details
+|-
+! scope="row"| ''Funkabilly''
+| 
+* Release date: September 25, 2007
+* Label: [[Warner Bros. Records]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2"| Year
+! rowspan="2" style="width:10em;"| Single
+! Peak positions
+|- style="font-size:smaller;"
+! width="60"| [[Hot Country Songs|US Country]]<br /><ref name="whitburn" />
+|-
+| 2007
+! scope="row"| "The Prize"
+| 60
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{official website|http://www.joannacotten.com/}}
+*[{{AllMusic|class=artist|id=p489805|pure_url=yes}} Joanna Cotten] on [[Allmusic]]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Cotten, Joanna}}
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Living people]]
+[[Category:Singers from Memphis, Tennessee]]
+[[Category:Warner Records artists]]
+[[Category:Singer-songwriters from Tennessee]]
+[[Category:Country musicians from Tennessee]]
+[[Category:Year of birth missing (living people)]]
+[[Category:21st-century American women]]
+
+
+{{US-country-singer-stub}}

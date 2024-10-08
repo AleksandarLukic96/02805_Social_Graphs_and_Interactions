@@ -1,0 +1,111 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=August 2020}}
+{{Infobox musical artist
+| name            = Clay Davidson
+| image_size      =
+| birth_name      =
+| birth_date      = {{birth date and age|1971|4|4}}
+| origin          = [[Saltville, Virginia]], U.S.
+| instrument      = Vocals, guitar
+| genre           = [[country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 1999–2001 (Solo)<br>2016–present (with Arnold Davidson as Damn Davidsons.)
+| label           = [[Virgin Records Nashville]]<br />[[Capitol Records Nashville|Capitol Nashville]]
+| associated_acts = [[Jude Cole]]
+}}
+
+'''Clay Davidson''' (born April 4, 1971) is an American [[country music]] artist. He signed to [[Virgin Records]]' Nashville division in late 1999. Davidson released his debut album ''[[Unconditional (Clay Davidson album)|Unconditional]]'' on April 11, 2000. Its title track was a top 5 hit for him on the ''[[Billboard (magazine)|Billboard]]'' country charts, and the album produced two more Top 30 hits. Davidson was later transferred to [[Capitol Records]] Nashville after Virgin Nashville's lineup was merged into Capitol, although he did not record anything for Capitol and was soon dropped. To date, ''Unconditional'' remains his only studio album.
+
+==Biography==
+Clay Davidson was born in [[Saltville, Virginia]] to a musical family. He moved to [[Nashville, Tennessee]] in search of a record deal.<ref name="allmusic">[{{AllMusic|class=artist|id=p409024/biography|pure_url=yes}} allmusic ((( Clay Davidson > Biography )))]</ref> While in Nashville, Davidson won [[Charlie Daniels]]' Talent Round-Up show in 1995. Davidson and his wife later moved to Tennessee, and Davidson soon became a demo singer for other artists.<ref>{{cite web|url=http://www.highbeam.com/doc/1P1-29830782.html|archive-url=https://web.archive.org/web/20140629113312/http://www.highbeam.com/doc/1P1-29830782.html|url-status=dead|archive-date=June 29, 2014|title=Southern Rocker Scores With Ballad|last=Patterson|first=Jim|date=July 12, 2000|work=[[The Associated Press]]|accessdate=May 24, 2014}}</ref>
+
+Davidson was later called in to substitute for [[Michael McDonald (singer)|Michael McDonald]] at a party for rock artist [[Jude Cole]]. While at the party, Cole recommended Davidson to [[Scott Hendricks]], who had just started the [[Virgin Records]] Nashville label.<ref>{{cite magazine|url=https://books.google.com/books?id=ag4EAAAAMBAJ&dq=%22Clay+davidson%22&pg=PA36|title=Virgin Nashville's Clay Davidson achieves 'Unconditional' radio hit|last=Flippo|first=Chet|date=February 26, 2000|magazine=[[Billboard (magazine)|Billboard]]|accessdate=May 24, 2014}}</ref> Davidson's first album, ''Unconditional'', was released in 2000, producing three hit singles on the country music charts.
+
+In early 2001, Virgin Records announced that it would be closing its Virgin Nashville branch. Virgin's artist roster was transferred to [[Capitol Records Nashville|Capitol Nashville]]. Davidson, however, did not record any albums or singles during his tenure on Capitol and was soon dropped from the label. On July 20, 2001, Davidson and his touring band were involved in a bus accident outside [[Effingham, Illinois]]. He and his bandmates suffered only minor cuts and bruises, but several concerts had to be canceled.<ref>[https://web.archive.org/web/20090605232257/http://www.cmt.com/news/news-in-brief/1445319/davidson-is-unconditionally-ok.jhtml CMT.com : Clay Davidson : Davidson Is Unconditionally OK]</ref><ref>[https://web.archive.org/web/20090606031507/http://www.cmt.com/news/news-in-brief/1446466/clay-davidson-on-the-mend.jhtml CMT.com : Clay Davidson : Clay Davidson on the Mend]</ref>
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:10em;"| Title
+! rowspan="2" style="width:16em;"| Album details
+! colspan="2"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]
+! width="45"| [[Top Heatseekers|US Heat]]
+|-
+! scope="row"| ''[[Unconditional (Clay Davidson album)|Unconditional]]''
+| 
+* Release date: April 11, 2000
+* Label: [[Virgin Records]]
+| 33
+| 39
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:10em;"| Single
+! colspan="3"| Peak chart<br />positions<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2012|publisher=Record Research, Inc|date=2012|page=94|isbn=978-0-89820-203-8}}</ref>
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[Billboard Hot 100|US]]
+! width="45"| [[Bubbling Under Hot 100|US Bubbling]]
+|-
+| rowspan="2"| 2000
+! scope="row"| "[[Unconditional (Clay Davidson song)|Unconditional]]"<sup><span id="ref_A"></span>[[#endnote_A|'''[A]''']]</sup>
+| 3
+| 49
+| —
+| align="left" rowspan="3"| ''Unconditional''
+|-
+! scope="row"| "[[I Can't Lie to Me]]"
+| 26
+| —
+| 17
+|-
+| 2001
+! scope="row"| "[[Sometimes (Clay Davidson song)|Sometimes]]"
+| 21
+| —
+| 12
+|}
+
+{{refbegin}}
+;Notes
+*A<span id="endnote_A"></span>'''[[#ref_A|^]]''' "Unconditional" also peaked at number 9 on the ''[[RPM (magazine)|RPM]]'' Country Tracks chart in Canada.
+{{refend}}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:10em;"| Video
+! Director
+|-
+| rowspan="3"| 2000
+! scope="row"| "Unconditional"
+| rowspan="2"| Eric Welch
+|-
+! scope="row"| "I Can't Lie to Me"
+|-
+! scope="row"| "Sometimes"<ref>{{cite web|url=http://www.cmt.com/videos/clay-davidson/387408/sometimes.jhtml|title=CMT : Videos : Clay Davidson : Sometimes|publisher=[[Country Music Television]]|accessdate=October 14, 2011}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+| Stephen Shepherd
+|}
+
+==References==
+{{reflist}}
+{{Authority control}}
+
+{{DEFAULTSORT:Davidson, Clay}}
+[[Category:1971 births]]
+[[Category:Living people]]
+[[Category:American country singer-songwriters]]
+[[Category:Singer-songwriters from Virginia]]
+[[Category:People from Saltville, Virginia]]
+[[Category:Virgin Records artists]]
+[[Category:Country musicians from Virginia]]
+[[Category:21st-century American singer-songwriters]]

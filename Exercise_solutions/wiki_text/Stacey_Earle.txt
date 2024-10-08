@@ -1,0 +1,82 @@
+{{short description|American singer-songwriter}}
+{{distinguish|Stacy Earl}}
+{{BLP sources|date=October 2008}}
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist
+| name          = Stacey Earle
+| background    = solo_singer 
+| image         = 
+| landscape = yes
+| caption       = 
+| birth_name    = Stacey Carol Earle
+| birth_date    = {{Birth date and age|1960|09|25|mf=y}}
+| birth_place   = [[Lake Charles, Louisiana]]
+| death_date    =
+| death_place   =
+| genre         = {{flatlist|
+* [[Americana (music)|Americana]]
+* [[Folk music|folk]]
+* [[Country music|country]]
+}}
+| occupation    = Singer-songwriter, musician
+| instrument    = Vocals, guitar
+| label         = Gearle Records
+| associated_acts = {{flatlist|
+* [[Steve Earle]]
+* [[Steve Earle and the Dukes|Dukes]]
+* Mark Stuart
+}}
+| website       = {{URL|http://staceyearle.com/}}
+| notable_instruments       =
+}}
+
+'''Stacey Earle''' (born September 25, 1960) is an American singer-songwriter.<ref>{{Cite book|title=Hardcore Troubadour|last=St John|first=Lauren|publisher=Fourth Estate|year=2002|isbn=978-1-84115-611-8|pages=14}}</ref>
+
+==Early life==
+Earle was born in [[Lake Charles, Louisiana|Lake Charles]], Louisiana, and raised in [[San Antonio]], Texas. She first taught herself to play a [[ukulele]] and then began playing a gut string guitar, left behind by her musician brother, [[Steve Earle]]. She was given her own guitar as a Christmas present when she was 16 years old, but became a mother at 17 and played and sang at home, developing her own style of finger picking.<ref name=triste />
+
+==Career==
+When she was 29 years old, Earle moved to [[Nashville]] to live with her brother Steve, and sang backing vocals and played rhythm guitar on his 1991 album ''[[The Hard Way (Steve Earle album)|The Hard Way]]'', and for the subsequent world tour.<ref name="triste">{{cite web|author1=Steve Wilcox|title=Stacey Earle – Not Such A Simple Gearle|url=http://www.triste.co.uk/artstacey.htm|website=Triste magazine UK: Triste Archive|accessdate=November 3, 2017}}</ref> She appeared on her brother's subsequent albums: ''Shut Up and Die Like an Aviator'' and ''[[Transcendental Blues]]''.
+
+After returning from tour, she wrote songs and performed them at writer's nights in Nashville.<ref name=triste /> Later, she set up her own songwriters' night to get some more time on stage. During this time, she met fellow guitarist and singer Mark Stuart who became her partner in running the events and then later became her second husband.<ref name=triste />
+
+Earle signed a contract with Nashville's Ten Ten Music Group as a staff songwriter<ref name=triste /> and received notice for her song "For Years", which appeared on [[Sammy Kershaw]]'s 1996 CD ''[[Politics, Religion and Her]]''.<ref name="bio">{{cite web|author1=Jason Ankeny|title=Stacey Earle biography|url=https://www.allmusic.com/artist/stacey-earle-mn0000165051/biography|publisher=[[Allmusic]] website|accessdate=November 3, 2017}}</ref>
+
+In 1998 she released the album ''Simple Gearle'' which later appeared on ''[[The New York Times]]'' "Favorite CD's You Nearly Missed" list. Reviewer [[Jon Pareles]] stated: "On an album completed in four days, Stacey Earle's songs came out homespun and pristine. She examines marriage, divorce and starting over in quiet, folky vignettes full of tears and determination."<ref>{{Cite news|url=https://www.nytimes.com/2000/01/13/arts/the-pop-life-favorite-cd-s-you-nearly-missed.html|title=The Pop Life; Favorite CD's You Nearly Missed|last=Strauss|first=Neil|date=2000|work=The New York Times|access-date=October 6, 2017|language=en-US|issn=0362-4331}}</ref>
+
+==Discography==
+
+===Stacey Earle and Mark Stuart===
+*''Must Be Live'' (2001, Gearle Records), a double live album
+*''Never Gonna Let You Go'' (2003, Gearle/Evolver)
+*''S&M Communion Bread'' (2005, Gearle/Funzalo)
+*''Town Square'' (2008, Gearle Records)
+
+===Stacey Earle solo===
+*''[[Simple Gearle]]'' (1998, Gearle Records)
+*''[[Dancin' With Them That Brung Me]]'' (2000, Gearle Records)
+
+===Mark Stuart solo===
+*''Songs from a Corner Stage'' (1999, Gearle Records)
+*''Left of Nashville'' (2007, Gearle Records)
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://staceyearle.com/ Official web site]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Earle, Stacey}}
+[[Category:1960 births]]
+[[Category:Musicians from San Antonio]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Living people]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:Musicians from Lake Charles, Louisiana]]
+[[Category:Country musicians from Texas]]
+[[Category:Country musicians from Louisiana]]
+[[Category:Earle musical family]]
+[[Category:Singer-songwriters from Louisiana]]

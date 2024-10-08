@@ -1,0 +1,210 @@
+{{short description|Canadian country music singer-songwriter (born 1990)}}
+{{Use mdy dates|date=September 2019}}
+{{Infobox musical artist
+| name            = Jojo Mason
+| image           = Jojo Mason.jpg
+| caption         =
+| image_size      =
+| birth_date      = {{birth date and age|1990|02|26|mf=yes}}
+| birth_name      =
+| birth_place     = [[Regina, Saskatchewan]], Canada<ref name="manicdown">{{cite web|title=Jojo Mason|url=http://www.manicdown.com/jojo-mason.html|website=Manicdown Productions|accessdate=February 19, 2016|url-status=dead|archiveurl=https://web.archive.org/web/20150302044247/http://www.manicdown.com/jojo-mason.html|archivedate=March 2, 2015}}</ref>
+| origin          =
+| instrument      = Guitar, piano
+| genre           = {{hlist|[[Country music|Country]]|[[country pop]]}}
+| occupation      = Singer-songwriter
+| years_active    = 2015–present
+| label           = Manicdown, [[604 Records|604]]
+| associated_acts =
+| website         = 
+}}
+'''Jojo Mason''' (born February 26, 1990) is a Canadian [[country music]] singer-songwriter. Mason moved to [[Victoria, British Columbia]] in 2004 to play [[ice hockey|hockey]] at the junior (Saanich Jr Braves, VIJHL) ranks but suffered a [[spinal disc herniation|herniated disk]].<ref name="manicdown" /> Later, he met songwriter/producer Dan Swinimer and worked on developing his vocals.<ref name="manicdown" /> He signed to Manicdown Productions in 2014 and released his debut single, "It's All Good", in early 2015.<ref>{{cite web|title=About Manicdown Productions|url=http://www.manicdown.com/|website=Manicdown Productions|accessdate=February 19, 2016}}</ref> It reached the top 10 on the ''[[Billboard (magazine)|Billboard]]'' [[Canada Country]] chart.<ref name="Canada Country" /> Mason's second single, "Good Kinda Love", was released in November 2015.<ref>{{cite news|last1=Fielder|first1=Courtney|title=JoJo Mason Debut's "Good Kinda Love"|url=http://www.discovermoosejaw.com/country-100/44231-jojo-mason-debut-s-good-kinda-love|accessdate=February 19, 2016|work=[[CILG-FM|Country 100]]|date=November 4, 2015|archive-date=March 2, 2016|archive-url=https://web.archive.org/web/20160302024145/http://www.discovermoosejaw.com/country-100/44231-jojo-mason-debut-s-good-kinda-love|url-status=dead}}</ref> He signed to [[604 Records]] for the release of his third single, "Red Dress", in May 2016.{{citation needed|date=August 2023}}
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:18em;"| Details
+|-
+! scope="row"| ''Both Sides of the Bar''
+|
+* Release date: June 9, 2017<ref>{{cite news|last1=Doole|first1=Kerry|title=A Calendar of Upcoming Releases |url=http://www.fyimusicnews.ca/articles/2017/05/08/calendar-upcoming-releases|accessdate=May 8, 2017|publisher=FYI Music News|date=May 8, 2017}}</ref>
+* Label: [[604 Records|604]]
+|-
+|}
+
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:18em;"| Details
+|-
+! scope="row"| ''Chapter Two''
+|
+* Release date: September 13, 2019<ref>{{cite news|title=Chapter Two - EP by Jojo Mason|url=https://open.spotify.com/album/6zXUZWT0hXGR82ZP9uTqaM|accessdate=February 8, 2022|work=[[Spotify]]|date=September 13, 2019}}</ref>
+* Label: 604
+|-
+! scope="row"| ''Changes''
+|
+* Release date: October 9, 2020<ref>{{cite news|title=Changes - EP by Jojo Mason|url=https://open.spotify.com/album/1DoEdZ0yjTBZqA3GzdJMXs?si=JpXCm54cSmaq_Xol8myH9g|accessdate=February 8, 2022|work=[[Spotify]]|date=October 9, 2020}}</ref>
+* Label: 604
+|-
+! scope="row"| ''Sky Full of Stars''
+|
+* Release date: October 22, 2021<ref>{{cite news|title=Sky Full of Stars - EP by Jojo Mason|url=https://open.spotify.com/album/61YQphetN76rhyTm9hxPsR?si=16LPJSk4SCy9IWYKCMdRgw|accessdate=February 8, 2022|work=[[Spotify]]|date=October 22, 2021}}</ref>
+* Label: 604
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2"| Year
+! scope="col" rowspan="2" style="width:18em;"| Title
+! scope="col" colspan="2"| Peak<br />positions
+! scope="col" rowspan="2"| Album
+|- style="font-size:smaller;"
+! scope="col"| [[Canadian Hot 100|CAN]]<br /><ref>
+*"Broken Umbrella": {{cite magazine|url=https://www.billboard.com/charts/canadian-hot-100/2022-02-26|title=Canadian Hot 100: Week of February 26, 2022|magazine=Billboard|access-date=February 26, 2022|url-access=subscription}}</ref>
+! scope="col"| [[Canada Country|CAN<br />Country]]<br /><ref name="Canada Country">{{cite magazine|url=https://www.billboard.com/music/jojo-mason/chart-history/canada-country|title=Jojo Mason Chart History – Canada Country|magazine=[[Billboard (magazine)|Billboard]]|accessdate=February 19, 2016}}{{dead link|date=December 2021|bot=medic}}{{cbignore|bot=medic}}
+*Broken Umbrella: {{cite magazine|url=https://www.billboard.com/charts/canada-country/2022-02-26|title=Canada Country chart for February 26, 2022|magazine=Billboard|accessdate=February 23, 2022|url-access=subscription}}
+*"Let Me Down Easy": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2022-11-26|title=Canada Country chart for November 26, 2022|magazine=Billboard|access-date=November 22, 2022|url-access=subscription}}
+*"Bottom Shelf": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2024-09-07|title=Canada Country chart for September 7, 2024|magazine=Billboard|access-date=September 4, 2024|url-access=subscription}}</ref>
+|-
+| rowspan="2"| 2015
+! scope="row"| "It's All Good"
+| — || 10
+| align="left" rowspan="5"| ''Both Sides of the Bar''
+|-
+! scope="row"| "Good Kinda Love"
+| — || 12
+|-
+| rowspan="2"| 2016
+! scope="row"| "Red Dress"
+| — || 9
+|-
+! scope="row"| "Made for You"
+| — || 20
+|-
+| 2017
+! scope="row"| "Something to Wrap My Heart Around"
+| — || 8
+|-
+| 2018
+! scope="row"| "Future"
+| — || 21
+| {{Non-album single}}
+|-
+| 2019
+! scope="row"| "Better on You"
+| — || 7
+| align="left"| ''Chapter Two''
+|-
+| 2020
+! scope="row"| "Chemical"
+| — || 30
+| align="left"|''Changes''
+|-
+| 2021
+! scope="row"| "[[Broken Umbrella]]"
+| 89 || 5
+| align="left" rowspan="2"| ''Sky Full of Stars''
+|-
+| 2022
+! scope="row"| "Let Me Down Easy"
+| — || 5
+|-
+| 2024 
+! scope="row"| "Bottom Shelf"
+| — || 22
+| {{TBA}}
+|}
+
+===Christmas singles===
+{| class="wikitable plainrowheaders"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="4em;"| [[Canada Country|CAN Country]]<br /><ref>
+*"Don't Hang the Mistletoe": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2023-01-07|title=Canada Country chart for January 7, 2023|magazine=Billboard |access-date=January 4, 2023|url-access=subscription}}</ref>
+|-
+| 2022
+! scope="row"| "Don't Hang the Mistletoe"
+| align="center"| 42
+| {{n/a|Non-album single}}
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;"| Single
+! Director
+|-
+| rowspan="2"| 2016
+! scope="row"| "Red Dress"
+| [[Stephano Barberis]]
+|-
+! scope="row"| "Made For You"
+| Daniel Keen
+|-
+| 2017
+! scope="row"| "Something to Wrap My Heart Around"
+|
+|-
+| rowspan="2"| 2018
+! scope="row"| "Edge of the Night"
+|
+|-
+! scope="row"| "Future"
+|
+|-
+| 2019
+! scope="row"| "Better on You"
+|
+|-
+| 2020
+! scope="row"| "Chemical"
+|
+|-
+| 2021
+! scope="row"| "Broken Umbrella"
+| Cole Northey
+|-
+|}
+
+==Awards and nominations==
+{| class="wikitable"
+|-
+! Year !! Award !! Category !! Recipient/Work !! Result !! Ref
+|-
+| rowspan=3|2016 || rowspan=3|BCCMA || Male Vocalist of the Year || Jojo Mason || {{nom}} || rowspan=3|<ref>{{cite web|title=The 2016 BCCMA Final Ballot Nominees !|url=http://www.country1071.com/2016/09/21/2016-bccma-final-ballot-nominees/|website=Country 107.1|accessdate=May 12, 2017|date=September 21, 2016}}</ref>
+|-
+| Single of the Year || rowspan=2|"Good Kinda Love" || {{nom}}
+|-
+| Songwriter of the Year || {{nom}}
+|-
+| 2017 || [[Canadian Country Music Association|CCMA]] || Rising Star Award || Jojo Mason || {{nom}} ||<ref>{{cite web|title=CCMA Announces 2017 Award Nominees|date=July 12, 2017 |url=http://canadianbeats.ca/2017/07/12/ccma-announces-2017-award-nominees/|accessdate=July 12, 2017}}</ref>
+|-
+| 2019 || [[Canadian Country Music Association|CCMA]] || Rising Star Award || Jojo Mason || {{nom}} ||<ref>{{cite web |title=2019 CCMA Award Nominees – Canadian Country Music Association |url=https://www.ccma.org/2019_CCMA_Award_Nominees.html |website=ccma.org |accessdate=August 17, 2019 |archive-date=June 17, 2020 |archive-url=https://web.archive.org/web/20200617232209/https://www.ccma.org/2019_CCMA_Award_Nominees.html |url-status=dead }}</ref>
+|}
+
+==References==
+{{Reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Mason, Jojo}}
+[[Category:1990 births]]
+[[Category:Canadian country singer-songwriters]]
+[[Category:Canadian male singer-songwriters]]
+[[Category:Living people]]
+[[Category:Musicians from Regina, Saskatchewan]]
+[[Category:21st-century Canadian male singers]]
+[[Category:21st-century Canadian singers]]
+[[Category:21st-century Canadian singer-songwriters]]
+[[Category:Singers from Saskatchewan]]

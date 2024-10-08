@@ -1,0 +1,126 @@
+{{short description|American country music artist}}
+{{Use mdy dates|date=August 2020}}
+{{Infobox musical artist
+| name                = Stephanie Bentley
+| image               =
+| background          = solo_singer
+| birth_date          = {{birth date and age|1963|4|29}}
+| birth_place          = [[Thomasville, Georgia]], U.S.
+| birth_name          = Stephanie Kay Bentley
+| origin              = [[Nashville, Tennessee]], U.S.
+| instrument          = Vocals
+| genre               = [[country music|Country]]
+| occupation          = Singer-songwriter
+| years_active        = 1992–present
+| label               = [[Liberty Records|Liberty]], [[Epic Records|Epic]]
+| associated_acts     = [[Faith Hill]], [[Gloriana (band)|Gloriana]], [[Ty Herndon]], [[Martina McBride]]
+}}
+
+'''Stephanie Kay Bentley''' (born April 29, 1963) is an American [[country music]] artist. She made her debut in 1996 as a duet partner on [[Ty Herndon]]'s single "Heart Half Empty", which peaked at No.&nbsp;21 on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Singles & Tracks]] charts. The single was included both on Herndon's 1995 debut album ''[[What Mattered Most]]'' and on Bentley's 1996 debut album ''[[Hopechest]]''. It produced three more singles for her on the country charts, although only one ("Who's That Girl") reached Top 40.
+
+Bentley found success as a songwriter, having penned [[Faith Hill]]'s 1999 crossover single "[[Breathe (Faith Hill song)|Breathe]]", as well as [[Martina McBride]]'s 2002 Top 5 hit "[[Concrete Angel]]". She has also co-written album cuts for [[Céline Dion]], [[Pam Tillis]] and [[Jo Dee Messina]],<ref>{{cite web |url=http://www.umusicpub.com/spotlight.aspx?id=708 |title=The Songs of Stephanie Bentley |website=www.umusicpub.com |access-date=13 January 2022 |archive-url=https://web.archive.org/web/20080508042736/http://www.umusicpub.com/spotlight.aspx?id=708 |archive-date=8 May 2008 |url-status=dead}}</ref> and recorded "I Will Survive" for the 2003 film ''[[Holes (film)|Holes]]'' and "Don't It Feel Good" for the 2005 film ''[[Must Love Dogs]]''.
+
+==Biography==
+===Early life===
+Bentley was born in [[Thomasville, Georgia]] and her musical interests began at age nine, when she, her sister, and a friend entered and won a talent contest. The three later toured briefly as a musical group, even singing for President [[Jimmy Carter]],<ref name="media">[{{AllMusic|class=artist|id=p55988|pure_url=yes}} AllMusic ((( Stephanie Bentley > Overview )))]</ref> In 1984, she formed a band called Special Delivery.<ref name="cst">{{Cite web|url=https://www.countrystandardtime.com/d/article.asp?xid=281|title=Stephanie Bentley hopes debut brings chestful of success – January 1996|website=Countrystandardtime.com|accessdate=April 14, 2020}}</ref>
+
+===Move to Tennessee===
+In 1991, she moved to [[Nashville, Tennessee]], where she worked as a demo singer. One of the songs for which she sang a demo was "[[Shake the Sugar Tree]]", which later became a Top 5 hit when [[Pam Tillis]] recorded it for her 1992 album ''[[Homeward Looking Angel]]''. Bentley's demo vocals were dubbed into Tillis' recording of the song.<ref name="media"/><ref name="cst"/>
+
+===1995–1997: Ty Herndon duet and ''Hopechest''===
+After a failed deal with [[Liberty Records]] which produced no albums or singles, Bentley signed to [[Epic Records]] in 1995. Her first chart entry in 1996 was as a duet partner on [[Ty Herndon]]'s single "Heart Half Empty", (from his debut album ''[[What Mattered Most]]'') which peaked at No.&nbsp;21 on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Singles & Tracks]] charts.<ref name="cst"/> "Heart Half Empty" was followed by her first solo release for Epic, "Who's That Girl", which peaked at No.&nbsp;32. This was the first single from her debut album ''[[Hopechest]]'', issued by Epic that year. The album produced three more singles after "Who's That Girl", although these latter three singles—"Once I Was the Light of Your Life", "The Hopechest Song" and "Dead Ringer"—all failed to make Top 40.
+
+===1997–present: Songwriting===
+Although Bentley never charted or recorded an album after 1997, she found success writing songs for others, most notably "[[Breathe (Faith Hill song)|Breathe]]" by [[Faith Hill]], which spent six weeks at the top of the ''Billboard'' country music charts in late 1999-early 2000 and became the Number One song of 2000 on the [[Billboard Hot 100|''Billboard'' Hot 100]] year-end countdown.<ref>{{Cite web|url=https://www.bmi.com/news/entry/20010828stephanie_bentley_a_little_riff_brings_big_success_to_stephanie|title=A Little Riff Brings Big Success to Stephanie Bentley|date=August 27, 2001|website=BMI.com|accessdate=April 14, 2020}}</ref> Bentley also co-wrote [[Lorrie Morgan]]'s 1998 single "I'm Not That Easy to Forget" with George Teren and [[Chris Waters]] and [[Martina McBride]]'s 2002 single "[[Concrete Angel]]" with [[Rob Crosby]]. In addition, she wrote two singles for [[Gloriana (band)|Gloriana]]: "[[Wild at Heart (Gloriana song)|Wild at Heart]]" in 2009 with [[Josh Kear]] and [[Matt Serletic]], and "[[Can't Shake You]]" in 2012 with Tom Gossin and [[James T. Slater]]. Bentley also contributed the songs "I Will Survive" for the soundtrack of the 2003 film ''[[Holes (film)|Holes]]'' and "Don't It Feel Good" for the soundtrack of the 2005 film ''[[Must Love Dogs]]''.
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:10em;"| Title
+! rowspan="2" style="width:16em;"| Album details
+! Peak positions
+|- style="font-size:smaller;"
+! width="65"| [[Top Country Albums|US Country]]<br /><ref>{{cite magazine|url={{BillboardURLbyName|artist=stephanie bentley|chart=Country Albums C}}|title=Stephanie Bentley Album & Song Chart History – Country Albums|magazine=[[Billboard (magazine)|Billboard]]|accessdate=December 23, 2010}}</ref>
+|-
+! scope="row"| ''[[Hopechest]]''
+| 
+* Release date: January 9, 1996
+* Label: [[Epic Records]]
+| 60
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! colspan="2"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<br /><ref>{{cite magazine|url={{BillboardURLbyName|artist=stephanie bentley|chart=all}}|title=Stephanie Bentley Album & Song Chart History – Country Songs|magazine=[[Billboard (magazine)|Billboard]]|accessdate=December 23, 2010}}</ref>
+! width="45"| [[RPM (magazine)|CAN Country]]<br /><ref>{{cite web|url=http://www.collectionscanada.gc.ca/rpm/028020-110.01-e.php?PHPSESSID=qi5uva3aig7km57p3ugoq09ei0&q1=Stephanie+Bentley&q2=Country+Singles&interval=20|title=Results – RPM – Library and Archives Canada – Country Singles|work=[[RPM (magazine)|RPM]]|accessdate=December 23, 2010}}</ref>
+|-
+| 1995
+! scope="row"| "[[Heart Half Empty]]"<br/>{{small|([[Ty Herndon]] with Stephanie Bentley)}}
+| 21
+| 12
+| ''[[What Mattered Most]]'' / ''Hopechest''
+|-
+| rowspan="3"| 1996
+! scope="row"| "Who's That Girl"
+| 32
+| 31
+| rowspan="4"| ''Hopechest''
+|-
+! scope="row"| "Once I Was the Light of Your Life"
+| 60
+| —
+|-
+! scope="row"| "Dead Ringer"<ref>{{cite magazine|url=http://americanradiohistory.com/Archive-Billboard/90s/1996/BB-1996-10-19.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|date=October 19, 1996}}</ref>
+| —
+| —
+|-
+| 1997
+! scope="row"| "The Hopechest Song"
+| 47
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:18em;"| Video
+! Director
+|-
+| rowspan="2"| 1996
+! scope="row"| "Heart Half Empty"<br/>{{small|([[Ty Herndon]] with Stephanie Bentley)}}
+| rowspan="2"| [[Steven Goldmann]]
+|-
+! scope="row"| "Who's That Girl"<ref>{{cite web|url=http://www.cmt.com/videos/stephanie-bentley/384963/whos-that-girl.jhtml|archive-url=https://web.archive.org/web/20160305153106/http://www.cmt.com/videos/stephanie-bentley/384963/whos-that-girl.jhtml|url-status=dead|archive-date=March 5, 2016|title=CMT : Videos : Stephanie Bentley : Who's That Girl|publisher=[[Country Music Television]]|accessdate=October 14, 2011}}</ref>
+|-
+| 1997
+! scope="row"| "The Hopechest Song"<ref>{{cite web|url=http://www.cmt.com/videos/stephanie-bentley/385187/the-hopechest-song.jhtml|title=CMT : Videos : Stephanie Bentley : The Hopechest Song|publisher=[[Country Music Television]]|accessdate=October 14, 2011}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+| Tara Johns
+|}
+
+==References==
+{{Reflist}}
+
+== External links ==
+* {{Official website|http://www.stephaniebentleymusic.com}}
+{{Authority control}}
+
+{{DEFAULTSORT:Bentley, Stephanie}}
+[[Category:1963 births]]
+[[Category:People from Thomasville, Georgia]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Living people]]
+[[Category:Epic Records artists]]
+[[Category:Country musicians from Georgia (U.S. state)]]
+[[Category:21st-century American women singers]]
+[[Category:21st-century American singers]]
+[[Category:Singer-songwriters from Georgia (U.S. state)]]

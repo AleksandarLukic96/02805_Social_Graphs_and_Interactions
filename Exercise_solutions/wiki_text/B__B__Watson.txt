@@ -1,0 +1,98 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist
+| image           =
+| name            = B.B. Watson
+| image_size      =
+| birth_name      = Haskell Burl Watson
+| birth_date      = {{birth date|1953|7|10}}
+| origin          = [[Tyler, Texas|Tyler]], Texas, U.S.
+| death_date      = {{death date and age|2013|9|28|1953|7|10}}
+| death_place     = [[Pasadena, Texas|Pasadena]], Texas, U.S.
+| instrument      = Vocals
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 1991–2013
+| label           = [[BNA Records|BNA]], Oarfin
+}}
+
+'''Haskell Burl "B. B." Watson''' (July 10, 1953 – September 28, 2013) was an American [[country music]] artist. He charted in 1991 with the single "Light at the End of the Tunnel" from his album of the same name.
+
+==Biography==
+Haskell Burl Watson was born July 10, 1953, in [[Tyler, Texas]], and raised in [[La Porte, Texas]]. His nickname "B. B." stood for "Bad Boy".<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2017|publisher=Record Research, Inc|year=2017|pages=385|isbn=978-0-89820-229-8}}</ref> Watson spent his teenage and young adult years working as a musician throughout Texas before moving to [[Nashville, Tennessee]], in 1991 to begin a music career. That same year, he was the first act signed to [[BNA Records]], then a new label division of [[RCA Records Nashville]]. His debut single "Light at the End of the Tunnel" was the label's first charted single, entering ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] in mid-1991.<ref>{{cite news | url=https://www.newspapers.com/image/220438997 | title=Watson nets Crawdads as backup | work=The Times | date=October 18, 1991 | accessdate=February 17, 2023 | pages=11C}}</ref> The song peaked at number 23 that year. Another single, "Lover Not a Fighter", peaked at number 43. Both songs were included on his only BNA album, also titled ''Light at the End of the Tunnel''.<ref name="whitburn"/> Nick Cristiano of ''[[The Philadelphia Inquirer]]'' rated the album three out of four stars, comparing Watson's style favorably to [[Merle Haggard]].<ref>{{cite news | url=https://www.newspapers.com/image/175681600/ | title=Remembering Big Star; Mozart Quartets; B.B. Watson | work=The Philadelphia Inquirer | date=March 15, 1992 | accessdate=February 17, 2023 | pages=N10}}</ref> Michael McCall of ''[[Country Music (magazine)|Country Music]]'' magazine praised the album's [[honky-tonk]] sound and Watson's "big voice".<ref>{{cite journal | url=https://worldradiohistory.com/Archive-All-Music/Country-Music/90s/Country-Music-1992-01-02.pdf | title=Record reviews | author=Michael McCall | journal=Country Music | pages=19 | date=February 2, 1992}}</ref>
+
+His only other release was 2001's ''Delta Dream'', which charted the single "The Memory Is the Last Thing to Go" that year.<ref name="whitburn"/> Watson died in [[Baytown, Texas]], on September 28, 2013.<ref>{{cite web|url=http://hosting-22185.tributes.com/show/Haskell-B-B-Watson-96466949|title=Haskell BB Watson – Crespo & Jirrels Funeral & Cremation Services|date=September 2, 2013|accessdate=December 30, 2013}}</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:16em;"| Title
+! style="width:20em;"| Album details
+|-
+! scope="row"| ''Light at the End of the Tunnel''
+| 
+* Release date: September 24, 1991
+* Label: [[BNA Records]]
+|-
+! scope="row"| ''Delta Dream''
+| 
+* Release date: June 12, 2001
+* Label: Oarfin Records
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<ref name="whitburn"/>
+! width="45"| [[RPM (magazine)|CAN Country]]<ref>{{cite web | url=https://www.bac-lac.gc.ca/eng/discover/films-videos-sound-recordings/rpm/Pages/list.aspx?OCRText=light+at+the+end+of+the+tunnel&Year=1991& | title=Search results for 'Light at the End of the Tunnel' | date=July 17, 2013 | publisher=RPM | accessdate=February 17, 2023}}</ref><ref>{{cite web | url=https://www.bac-lac.gc.ca/eng/discover/films-videos-sound-recordings/rpm/Pages/list.aspx?OCRText=lover+not+a+fighter&Year=1992& | title=Search results for 'Lover Not a Fighter' | date=July 17, 2013 | publisher=RPM | accessdate=February 17, 2023}}</ref>
+|-
+|rowspan=2|1991
+! scope="row"| "Light at the End of the Tunnel"
+| 23
+| 49
+| align="left" rowspan="4"| ''Light at the End of the Tunnel''
+|- 
+! scope="row"| "Eye for an Eye"<ref>{{cite journal | url=https://worldradiohistory.com/Archive-All-Music/Gavin-Report/90/91/Gavin-1991-11-15.pdf | title=Up & Coming | journal=Gavin Report | pages=34 | date=November 15, 1991}}</ref>
+| —
+| —
+|- 
+| rowspan="2"| 1992
+! scope="row"| "Lover Not a Fighter"
+| 43
+| 56
+|- 
+! scope="row"| "Say Goodbye"<ref>{{cite journal | url=https://worldradiohistory.com/Archive-All-Music/Gavin-Report/90/92/Gavin-1992-04-24.pdf | title=New Releases | author=Lisa Smith, Cyndi Hoelzle | journal=[[Gavin Report]] | pages=26 | date=April 24, 1992}}</ref>
+| —
+| —
+|- 
+| 2000
+! scope="row"| "The Memory Is the Last Thing to Go"
+| 73
+| —
+| align="left"| ''Delta Dream''
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Watson, B.B.}}
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:1953 births]]
+[[Category:2013 deaths]]
+[[Category:Musicians from Tyler, Texas]]
+[[Category:BNA Records artists]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:Country musicians from Texas]]

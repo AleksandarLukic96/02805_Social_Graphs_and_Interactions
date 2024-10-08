@@ -1,0 +1,72 @@
+{{short description|American singer-songwriter and author|bot=PearBOT 5}}
+{{Use mdy dates|date=October 2020}}
+{{BLP sources|date=March 2008}}
+{{Infobox musical artist
+|image = Marshall chapman.jpg
+|caption = Chapman performing in Nashville (2009)
+|background = solo_singer
+|birth_date = {{birth date and age|1949|01|07}}<br />[[Spartanburg, South Carolina]], [[United States]]
+|death_date =
+|instrument = Guitar
+|genre = [[Country music|Country]]<br>[[Rock and Roll|Rock]]
+|occupation = Singer-songwriter, author, actress
+|years_active = 1970s–present
+|label =
+|associated_acts =
+|website = [http://www.tallgirl.com Tallgirl.com]
+}}
+
+'''Marshall Chapman''' (born January 7, 1949)<ref name="Goodbye"/> is an American singer-songwriter and author.
+
+==Biography==
+===Early life===
+Marshall Chapman was born in [[Spartanburg, South Carolina]], United States.<ref name="LarkinCountry">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Who's Who of Country Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1993|edition=First|isbn=0-85112-726-6|page=78}}</ref> She was the daughter of a cotton mill owner.<ref name="Goodbye">{{cite book|url=https://books.google.com/books?id=_E02tgm5V_cC&q=%22marshall+chapman%22+spartanburg+inman&pg=PA7|title=Goodbye, Little Rock and Roller|first=Marshall|last=Chapman|date=April 1, 2007|publisher=Macmillan|page=7|isbn=9781429971829|access-date=June 8, 2019|via=Google Books}}</ref> After she attended a concert by [[Elvis Presley]] in 1956, she became interested in rock and roll.<ref name="Chapman">{{cite book|last=Chapman|first=Marshall|title=Goodbye, Little Rock and Roller|year=2003|publisher=[[St. Martin's Press]]|location=New York|isbn=0-312-31568-6|edition=1st|url-access=registration|url=https://archive.org/details/goodbyelittleroc00chap}}</ref> She was educated at [[Salem Academy]] in [[Winston-Salem, North Carolina]]. She then graduated from [[Vanderbilt University]] in [[Nashville, Tennessee]] in 1971.<ref name="joanns">Joann S. Lublin, Daniel Golden, [https://online.wsj.com/articles/SB115924190013574035 Vanderbilt Reins In Lavish Spending By Star Chancellor], ''The Wall Street Journal'', September 26, 2006</ref><ref>{{cite web|url=https://admissions.vanderbilt.edu/graduates/index.php|title=Vanderbilt Graduates|website=Undergraduate Admissions|access-date=June 8, 2019|archive-date=June 8, 2019|archive-url=https://web.archive.org/web/20190608143234/https://admissions.vanderbilt.edu/graduates/index.php|url-status=dead}}</ref>
+
+===Career===
+She embarked upon a music career in the 1970s. Her songs have been recorded by such diverse artists as [[Conway Twitty]], [[Joe Cocker]], [[Jimmy Buffett]], [[Emmylou Harris]], [[Wynonna Judd|Wynonna]], [[Jessi Colter]], [[John Hiatt]], [[Dion DiMucci|Dion]], [[Olivia Newton-John]], [[Irma Thomas]], and [[Ronnie Milsap]]. Her song "[[Betty's Bein' Bad|Betty’s Bein’ Bad]]" was a hit for [[Sawyer Brown]].
+
+Her 1978 album, ''Jaded Virgin'' (Epic), was voted Record of the Year by ''[[Stereo Review]]''. In 1998, Marshall and [[Matraca Berg]] contributed 14 songs to ''Good Ol' Girls'', a country musical based on the stories of [[Lee Smith (author)|Lee Smith]] and Jill McCorkle. The musical continues to play theaters throughout the South.
+
+She has written two books. Her memoir, ''Goodbye, Little Rock and Roller'', was published in 2003 by [[St. Martin's Press]]. Her second book, ''They Came to Nashville'', was published in 2010 by [[Vanderbilt University Press]] – Country Music Foundation Press.<ref>{{Cite book |title=They Came to Nashville |isbn = 978-0826517357|last1 = Chapman|first1 = Marshall|year = 2010| publisher=Vanderbilt University Press }}</ref> It is a ''2010 Fall Okra Pick'' of the [[Southern Independent Booksellers Association]].<ref>{{cite web|url=https://www.sibaweb.com/siba-news/siba-news/197-2010-fall-okra-picks?ref=nf|title=2010 Fall Okra Picks|website=Sibaweb.com|access-date=June 8, 2019|archive-date=March 3, 2016|archive-url=https://web.archive.org/web/20160303215301/http://www.sibaweb.com/siba-news/siba-news/197-2010-fall-okra-picks?ref=nf|url-status=dead}}</ref>
+
+==Discography==
+*''Me, I'm Feelin' Free'' – Epic/CBS – 1977
+*''Jaded Virgin'' – Epic/CBS – 1978
+*''Marshall'' – Epic – 1979
+*''Take It On Home'' – Rounder – 1982
+*''Dirty Linen'' – Tall Girl – 1987
+*''Inside Job'' – Tall Girl – 1991
+*''It's About Time…'' – Tallgirl/Island/Margaritaville – 1995
+*''Love Slave'' – Tallgirl/Island/Margaritaville – 1996
+*''Goodbye, Little Rock And Roller'' – Tall Girl – 2003
+*''Live! The Bitter End'' – Tall Girl – 2004
+*''Mellowicious!'' – Thirty Tigers/Tallgirl – 2006
+*''Big Lonesome'' – Tall Girl – 2011
+*''Blaze Of Glory'' – Tall Girl – 2013<ref>{{cite web|url=http://www.tallgirl.com/|title=TallGirl|website=Tallgirl.com|access-date=June 8, 2019}}</ref>
+*''Songs I Can't Live Without'' – Tall Girl – 2020<ref>{{cite web|url=https://music.apple.com/us/album/songs-i-cant-live-without/1498958054|title=Songs I Can't Live Without|website=Music.apple.com|access-date=April 28, 2020}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.tallgirl.com/ Official website] 
+*[https://www.imdb.com/name/nm3774836/?ref_=nv_sr_1?ref_=nv_sr_1 IMDb]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Chapman, Marshall}}
+[[Category:Musicians from Spartanburg, South Carolina]]
+[[Category:American memoirists]]
+[[Category:American women country singers]]
+[[Category:American country rock singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Vanderbilt University alumni]]
+[[Category:Salem Academy alumni]]
+[[Category:Living people]]
+[[Category:1949 births]]
+[[Category:American women memoirists]]
+[[Category:Guitarists from South Carolina]]
+[[Category:20th-century American guitarists]]
+[[Category:Country musicians from South Carolina]]
+[[Category:20th-century American women guitarists]]
+[[Category:Singer-songwriters from South Carolina]]

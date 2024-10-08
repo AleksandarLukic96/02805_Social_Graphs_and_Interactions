@@ -1,0 +1,5 @@
+#REDIRECT [[Eagles (band)]]
+
+{{Redirect category shell|
+{{R from modification}}
+}}

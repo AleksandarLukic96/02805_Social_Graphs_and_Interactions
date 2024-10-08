@@ -1,0 +1,94 @@
+{{Short description|American musical group}}
+{{use American English|date=September 2024}}
+{{use mdy|date=September 2024}}
+{{one source|date=April 2020}}
+{{Infobox musical artist
+| name              = Drew Davis Band
+| image             = 
+| caption           = 
+| image_size        = 
+| origin            = [[Los Angeles]], [[California]]
+| genre             = [[Rock music|Rock]], [[Country music|country]]
+| years_active      = 2001–2010
+| label             = Windswept, 903, [[Lofton Creek Records|Lofton Creek]]
+| past_members      = Drew Davis<br/> Mike Drake<br/> Loren Ellis<br/> Jay Hawks<br/> Mo Levone<br/> Roger Malinowski
+}}
+
+The '''Drew Davis Band''' was an American [[Rock music|rock]], [[country music]] group established in 2001 by Drew Davis ([[lead vocals]], [[guitar]]), Mike Drake (guitar, [[harmonica]], [[fiddle]]), Loren Ellis ([[banjo]], guitar, [[mandolin]], vocals), Jay Hawks ([[Drum kit|drums]]), Mo Levone ([[bass guitar]], vocals), and Roger Malinkowski (keyboards).<ref name="cmt">{{cite web |url=http://www.cmt.com/artists/az/davis__drew/bio.jhtml |archive-url=https://web.archive.org/web/20080927071633/http://www.cmt.com/artists/az/davis__drew/bio.jhtml |url-status=dead |archive-date=September 27, 2008 |title=The Drew Davis Band biography |accessdate=2008-01-26 |work=[[Country Music Television]]}}</ref>
+
+In 2004, the band competed in and won the [[Colgate Country Showdown]]; shortly afterward, they were signed to Windswept Publishing, with a self-titled EP being released that year. Eventually, they were transferred to 903 Music, a short-lived record label founded by [[Neal McCoy]]; upon the label's closure in 2007, the band was transferred to [[Lofton Creek Records]]. Both Mike Drake and Jay Hawks have since left the group. The band's debut single, "Back There All the Time", entered the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] charts. It was included on both their self-titled EP and on their 2008 album ''Crossroads''. Roger Malinowski left the band in 2009 to be David Spade's stuntman.
+
+The Drew Davis Band was featured on an episode of ''[[Gene Simmons Family Jewels]]'' on August 9, 2009.  The episode also featured a guest appearance by [[Trace Adkins]]. They also performed the theme song for the [[Disney Channel]] series ''[[Phil of the Future]]'' and ''[[The Suite Life of Zack & Cody]]''.
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''Crossroads''
+| 
+* Release date: July 8, 2008
+* Label: DELM Records
+|}
+
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''Drew Davis Band'' EP
+| 
+* Release date: October 4, 2005
+* Label: Windswept Records
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="60"| [[Hot Country Songs|US Country]]
+|-
+| 2005
+! scope="row"| "Back There All the Time"
+| —
+| align="left"| ''Drew Davis Band'' EP
+|-
+| rowspan="2"| 2008
+! scope="row"| "Back There All the Time" <small>(re-release)</small>
+| 58
+| align="left" rowspan="2"| ''Crossroads''
+|-
+! scope="row"| "How Do I"
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:18em;"| Video
+|-
+| 2005
+! scope="row"| "Back There All the Time"
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+[[Category:Country music groups from California]]
+[[Category:Lofton Creek Records artists]]
+[[Category:Musical groups from Los Angeles]]
+[[Category:Musical groups established in 2004]]
+
+
+{{US-country-band-stub}}

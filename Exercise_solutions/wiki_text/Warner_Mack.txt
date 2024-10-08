@@ -1,0 +1,348 @@
+{{Short description|American country music singer-songwriter (1935–2022)}}
+{{Use mdy dates|date=July 2020}}
+{{Infobox musical artist
+| name            = Warner Mack
+| background      = solo_singer
+| image           = Warner Mack.png
+| image_size      = 
+| caption         = Mack in 1967
+| birth_name      = Warner Hensley McPherson Jr. 
+| alias           = 
+| birth_date      = {{birth date|1935|04|05|mf=y}}
+| birth_place     = [[Nashville, Tennessee]], [[United States|U.S.]]
+| death_date      = {{death date and age|2022|03|01|1935|04|05|mf=y}}
+| death_place     = Nashville, Tennessee, U.S.
+| genre           = country, country blues, gospel
+| occupation      = Singer-songwriter
+| instrument      = Vocals, guitar
+| years_active    = 1957–1992, 2020
+| label           = [[Decca Records|Decca]], Pageboy Kapp Bridgewood, Mack Hart Records  
+| website         = {{URL|http://www.warnermack.com|Official website}}
+|}}
+
+'''Warner McPherson''' (April 5, 1935 – March 1, 2022), known professionally as '''Warner Mack''', was an American [[country music]] singer-songwriter. Mack had 23 hits on the country charts from the late 1950s to the early 1980s.
+
+==Life==
+Mack was born in [[Nashville, Tennessee]],<ref name="LarkinCountry">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Who's Who of Country Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1993|edition=First|isbn=0-85112-726-6|pages=254/5}}</ref> on April 5, 1935.<ref>warnermack.com (Official Website)</ref><ref>{{Cite book|url=https://books.google.com/books?id=untabCgOVkgC&dq=%22warner+Mack%22+Hall+of+fame&pg=PA320|title=The Encyclopedia of Country Music|date=December 1, 2004|publisher=[[Oxford University Press]]|isbn=9780199770557|language=en}}</ref> His string of hits included "[[Is It Wrong (For Loving You)]]" in 1957 and in 1965 "[[The Bridge Washed Out]]".<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|pages=252–253|isbn=978-0-89820-177-2}}</ref>
+
+On April 27, 2020, Mack was interviewed by Scott Wikle for the ''My Kind Of Country'' show. At age 85, Mack announced the release of a new album entitled ''Better Than Ever''.<ref>{{Cite web|url=https://www.youtube.com/watch?v=Q1kuOCpZDFs |archive-url=https://ghostarchive.org/varchive/youtube/20211213/Q1kuOCpZDFs |archive-date=2021-12-13 |url-status=live|title=Warner Mack feature interview My Kind Of Country 4/27/2020|date=April 29, 2020 |access-date=August 8, 2021|publisher=[[YouTube]]}}{{cbignore}}</ref>
+
+Mack died on March 1, 2022, in Nashville, at the age of 86.<ref>https://musicrow.com/2022/12/nashville-related-music-obituaries-2022/</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable"
+! Year
+! Album
+! <small>[[Top Country Albums|US Country]]</small>
+! Label
+|-
+| 1964
+| ''Everybody's Country Favorites''
+| align="center"|
+| Kapp
+|-
+| 1965
+| ''The Bridge Washed Out''
+| align="center"| 14
+| rowspan="8"| Decca
+|-
+| 1966
+| ''The Country Touch''
+| align="center"| 4
+|-
+| 1967
+| ''Drifting Apart''
+| align="center"| 21
+|-
+| 1968
+| ''The Many Country Moods of Warner Mack''
+| align="center"| 21
+|-
+| rowspan="2"| 1969
+| ''The Country Beat of Warner Mack''
+| align="center"| 42
+|-
+| ''I'll Still Be Missing You''
+| align="center"| 30
+|-
+| 1970
+| ''Love Hungry''
+| 
+|-
+| 1971
+| ''You Make Me Feel Like a Man''
+|
+|- 
+| 2020
+| ''Better Than Ever''
+| align="center"|
+| Mack Hart
+|}
+
+===Singles===
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="3"| Chart Positions
+! rowspan="2"| Album
+|-
+! width="45"| <small>[[Hot Country Songs|US Country]]</small>
+! width="45"| <small>[[Billboard Hot 100|US]]</small>
+! width="45"| <small>CAN Country</small>
+|-
+| 1957
+| "[[Is It Wrong (For Loving You)]]"
+| align="center"| 9
+| align="center"| 61
+| 
+| rowspan="7"| singles only
+|-
+| rowspan="4"| 1958
+| "Roc-a-Chicka"
+| 
+| align="center"| 74
+| 
+|-
+| "Falling in Love"
+| 
+| 
+| 
+|-
+| "Lonesome for You Now"
+| 
+| 
+| 
+|-
+| "First Chance I Get"
+| 
+| 
+| 
+|-
+| 1959
+| "Yes There's a Reason"
+| 
+| 
+| 
+|-
+| 1962
+| "Afraid to Look Back"
+| 
+| 
+| 
+|-
+| 1963
+| "Working Girl"
+| 
+| 
+| 
+| rowspan="5"| ''The Bridge Washed Out''
+|-
+| rowspan="3"| 1964
+| "Surely"
+| align="center"| 34
+| 
+| 
+|-
+| "I'll Be Alright in the Morning"
+| 
+| 
+| 
+|-
+| "Sittin' in an All Nite Cafe"
+| align="center"| 4
+| 
+| 
+|-
+| rowspan="2"| 1965
+| "[[The Bridge Washed Out]]"
+| align="center"| 1
+| 
+| 
+|-
+| "Sittin' on a Rock (Cryin' in a Creek)"
+| align="center"| 3
+| 
+| 
+| rowspan="2"| ''The Country Touch''
+|-
+| rowspan="2"| 1966
+| "[[Talkin' to the Wall]]"
+| align="center"| 3
+| 
+| 
+|-
+| "It Takes a Lot of Money"
+| align="center"| 4
+| 
+| 
+| rowspan="2"| ''Drifting Apart''
+|-
+| rowspan="3"| 1967
+| "Drifting Apart"
+| align="center"| 8
+| 
+| 
+|-
+| "How Long Will It Take"
+| align="center"| 4
+| 
+| 
+| rowspan="3"| ''The Many Country Moods of Warner Mack''
+|-
+| "I'd Give the World (To Be Back Loving You)"
+| align="center"| 11
+| 
+| 
+|-
+| rowspan="3"| 1968
+| "I'm Gonna Move On"
+| align="center"| 7
+| 
+| align="center"| 10
+|-
+| "Pray for Your Country"
+| 
+| 
+| align="center"| 37
+| single only
+|-
+| "Don't Wake Me I'm Dreaming"
+| align="center"| 23
+| 
+| align="center"| 17
+| rowspan="2"| ''The Country Beat of Warner Mack''
+|-
+| rowspan="2"| 1969
+| "Leave My Dream Alone"
+| align="center"| 6
+| 
+| 
+|-
+| "I'll Still Be Missing You"
+| align="center"| 8
+| 
+| 
+| ''I'll Still Be Missing You''
+|-
+| rowspan="2"| 1970
+| "Love Hungry"
+| align="center"| 19
+| 
+| align="center"| 23
+| ''Love Hungry''
+|-
+| "Live for the Good Times"
+| align="center"| 16
+| 
+| align="center"| 24
+| rowspan="2"| ''You Make Me Feel Like a Man''
+|-
+| rowspan="2"| 1971
+| "You Make Me Feel Like a Man"
+| align="center"| 34
+| 
+| 
+|-
+| "I Wanna Be Loved Completely"
+| align="center"| 53
+| 
+| 
+| rowspan="15"| singles only
+|-
+| rowspan="3"| 1972
+| "Draggin' the River"
+| align="center"| 45
+| 
+| 
+|-
+| "Your Warm Love"
+| 
+| 
+| 
+|-
+| "You're Burnin' My House Down"
+| align="center"| 59
+| 
+| 
+|-
+| rowspan="3"| 1973
+| "Some Roads Have No Ending"
+| align="center"| 54
+| 
+| 
+|-
+| "[[After the Lights Go Out]]"
+| 
+| 
+| 
+|-
+| "Goodbyes Don't Come Easy"
+| align="center"| 91
+| 
+| align="center"| 74
+|-
+| rowspan="2"| 1975
+| "Don't Bring the Rain Down On Me"
+| 
+| 
+| 
+|-
+| "Who's Making the Change"
+| 
+| 
+| 
+|-
+| 1976
+| "I've Got a Friend (Just Over the Mountain)"
+| 
+| 
+| 
+|-
+| rowspan="2"| 1977
+| "Brush Arbor in the White House"
+| 
+| 
+| 
+|-
+| "These Crazy Thoughts (Run Through My Mind)"
+| align="center"| 87
+| 
+|
+|-
+| rowspan="2"| 2021
+| "Dasher, With a Light Upon His Tail"
+| 
+| 
+| 
+|-
+| "Angel Tree"
+| 
+| 
+| 
+|-
+| rowspan="1"| 2022
+| "He Touched Me (He Can Touch You Too)"
+| 
+| 
+| 
+|-
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.warnermack.com/ Official website]
+* [https://adp.library.ucsb.edu/names/328860 Warner Mack recordings] at the [[Discography of American Historical Recordings]]
+* {{discogs artist|Warner Mack}}
+* {{imdb name|3564151}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Mack, Warner}}
+[[Category:1935 births]]
+[[Category:2022 deaths]]
+[[Category:American country singer-songwriters]]
+[[Category:Decca Records artists]]
+[[Category:Singers from Nashville, Tennessee]]

@@ -1,0 +1,778 @@
+{{short description|Canadian country band}}
+{{for|the American Viticultural Area|High Valley AVA}}
+{{Infobox musical artist
+| name            = High Valley
+| image           =
+| image_size      =
+| caption         = High Valley in 2022
+| alias           =
+| origin          = [[La Crete]], [[Alberta]], Canada
+| genre           = {{hlist|[[Country music|Country]]|[[bluegrass music|bluegrass]]}}
+| years_active    = 1997–present
+| label           = {{hlist|[[Open Road Recordings|Open Road]]|[[Centricity Music|Centricity (US)]]|[[Atlantic Records|Atlantic]]|[[Warner Music Nashville|Warner Nashville]]|Blue Chair|Cage Free}}
+| website         = {{official website|http://highvalleymusic.com/}}
+| current_members = Brad Rempel<br />Dave Myers<br />Raymond Klassen<br />Clint Milburn<br />Andrew Hemmerling
+| past_members    = Bryan Rempel<br />Curtis Rempel
+}}
+'''High Valley''' is a Canadian [[Country music|country]] and [[bluegrass music|bluegrass]] band originally from Blumenort, Alberta, a small community near the hamlet of [[La Crete]]. The group is composed of Brad Rempel (lead vocals) and his supporting band, Dave Myers (bass guitar), Raymond Klassen (Dobro), Clint Milburn (guitar), and Andrew Hemmerling (drums).<ref>{{cite web | url=https://musicrow.com/2021/11/high-valley-reemerges-with-new-music-due-out-nov-12/ | title=High Valley Reemerges with New Music Due Out Nov. 12 | date=4 November 2021 }}</ref><ref>{{cite web | url=https://www.countryschatter.com/2016/09/high-valley-know-how-to-turn-a-show-into-a-party/ | title=High Valley know how to turn a show into a party | date=13 September 2016 }}</ref> Brad Rempel's brother Bryan Rempel was a member until March 2014,<ref>{{cite news|last=Tinson|first=Kayla|title=Bryan Rempel leaving High Valley|url=http://topcountry.ca/bryan-rempel-leaving-high-valley/|access-date=March 12, 2014|newspaper=Top Country|date=March 10, 2014}}</ref> while younger brother Curtis Rempel was a member until June 2021.<ref>{{cite web|first=Katie|last=Colley|title=Curtis Rempel Announces Exit From Country Duo High Valley To Focus On New Business|url=https://etcanada.com/news/790741/curtis-rempel-announces-exit-from-country-duo-high-valley-to-focus-on-new-business/|archive-url=https://web.archive.org/web/20210611154717/https://etcanada.com/news/790741/curtis-rempel-announces-exit-from-country-duo-high-valley-to-focus-on-new-business/|url-status=dead|archive-date=June 11, 2021|work=[[Entertainment Tonight Canada|ET Canada]]|date=June 11, 2021}}</ref> All three brothers grew up in a [[Mennonite]] community and graduated from La Crete Public School.<ref name="cmt">[http://www.cmt.ca/Artist/HighValley High Valley] at [[CMT (Canada)|CMT]]</ref>
+
+After a number of chart successes in Canada between 2010 and 2015, High Valley were signed to [[Atlantic Records]] Nashville in October 2015.<ref>{{cite news|last1=Nicholson|first1=Jessica|title=High Valley Inks Deal With Atlantic Records/Warner Music Nashville|url=http://www.musicrow.com/2015/10/high-valley-inks-deal-with-atlantic-recordswarner-music-nashville/|access-date=October 9, 2015|work=[[MusicRow]]|date=October 8, 2015}}</ref> They achieved some success with the singles "[[Make You Mine (High Valley song)|Make You Mine]]" and "[[She's with Me]]" at [[United States]] country radio. They have three No.&nbsp;1 hits on the ''Billboard'' [[Canada Country]] chart with "[[I Be U Be]]", "[[Grew Up On That]]", and "[[River's Still Running]]".
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:12em;"| Title
+! rowspan="2" style="width:20em;"| Album details
+! colspan="3"| Peak chart positions
+! rowspan="2" style="width:8em;"| Certifications
+! rowspan="2" style="width:8em;"| Sales
+|- style="font-size:smaller;"
+! style="width:4em;"| [[Canadian Albums Chart|CAN]]<br /><ref>{{cite magazine|url=https://www.billboard.com/artist/high-valley/chart-history/cna/ |title=High Valley Chart History (Canadian Albums) |magazine=[[Billboard (magazine)|Billboard]] |access-date=April 1, 2020}}</ref>
+! style="width:4em;"| [[Top Country Albums|US Country]]<br /><ref>{{cite magazine|url=https://www.billboard.com/artist/high-valley/chart-history/clp/ |title=High Valley Chart History (Top Country Albums) |magazine=Billboard |access-date=April 1, 2020}}</ref>
+! style="width:4em;"| [[Heatseekers Albums|US Heat]]<br /><ref>{{cite magazine|url=https://www.billboard.com/artist/high-valley/chart-history/tln/ |title=High Valley Chart History (Heatseekers Albums) |magazine=Billboard |access-date=April 1, 2020}}</ref>
+|-
+! scope="row"| ''Broken Borders''
+| 
+* Release date: January 1, 2007
+* Label: Self-released
+| — || — || —
+|
+|
+|-
+! scope="row"| ''[[High Valley (album)|High Valley]]''
+| 
+* Release date: September 14, 2010
+* Label: [[Open Road Recordings|Open Road]], [[Centricity Music|Centricity]]
+| — || — || —
+|
+|
+|-
+! scope="row"| ''[[Love Is a Long Road (album)|Love Is a Long Road]]''
+| 
+* Release date: June 12, 2012
+* Label: Open Road, Centricity
+| — || — || —
+|
+|
+|-
+! scope="row"| ''[[County Line (High Valley album)|County Line]]''
+| 
+* Release date: October 14, 2014
+* Label: Open Road
+| — || — || —
+|
+* [[Music Canada|MC]]: Gold{{Certification Cite Ref|region=Canada|type=album|title=County Line|artist=High Valley}}
+|
+|-
+! scope="row"| ''[[Dear Life (album)|Dear Life]]''
+| 
+* Release date: November 18, 2016
+* Label: [[Atlantic Records|Atlantic]] / [[Warner Music Nashville|Warner Nashville]]
+| 36 || 37 || 3
+|
+* [[Music Canada|MC]]: Gold{{Certification Cite Ref|region=Canada|type=album|title=Dear Life|artist=High Valley}}
+|
+*US: 12,000<ref>{{cite news |url= http://roughstock.com/news/2017/03/41571-top-10-country-albums-sales-chart-march-13-2017 |title= Top 10 Country Albums Sales Chart: March 13, 2017 |first= Matt |last= Bjorke |date= March 13, 2017 |work= Roughstock |access-date= March 15, 2017 |archive-date= March 22, 2020 |archive-url= https://web.archive.org/web/20200322213801/http://roughstock.com/news/2017/03/41571-top-10-country-albums-sales-chart-march-13-2017 |url-status= dead }}</ref>
+|-
+! scope="row"| ''Way Back''<ref>{{cite web|url=https://www.countrystandardtime.com/news/newsitem.asp?xid=12282|title=High Valley goes "Way Back"|date=March 18, 2022|work=Country Standard Time}}</ref>
+| 
+* Release date: May 20, 2022
+* Label: Cage Free
+| — || — || —
+|
+|
+|-
+| colspan="7" | {{small|"—" denotes a recording that failed to chart or was not released to that territory.}}
+|}
+
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:20em;"| EP details
+|-
+! scope="row"| ''Hands in the Dirt''<ref>{{cite web|title=Hands in the Dirt - High Valley {{!}} Release Info|url=http://www.allmusic.com/album/release/hands-in-the-dirt-mr0001605514|website=[[AllMusic]]|publisher=[[All Media Network]]|access-date=November 21, 2016}}</ref>
+| 
+* Release date: April 1, 2008
+* Label: Centricity
+|-
+! scope="row"| ''Farmhouse Sessions''<ref>{{cite news|last1=Hollabaugh|first1=Lorie|title=High Valley To Release Acoustic Album 'Farmhouse Sessions' March 23|url=https://musicrow.com/2018/02/high-valley-to-release-acoustic-album-farmhouse-sessions-march-23/|access-date=February 11, 2018|publisher=[[MusicRow]]|date=February 6, 2018}}</ref>
+|
+* Release date: March 23, 2018
+* Label: Atlantic / Warner Nashville
+|-
+! scope="row"| ''[[Grew Up On That (EP)|Grew Up On That]]''<ref>{{cite news |last1=Pearce |first1=Drew |title=High Valley 'Grew Up On That' in New Song, Upcoming EP |url=https://www.soundslikenashville.com/music/high-valley-grew-up-on-that/ |access-date=April 1, 2020 |work=Sounds Like Nashville |date=March 20, 2020}}</ref>
+|
+* Release date: May 8, 2020
+* Label: Atlantic / Warner Nashville
+|-
+! scope="row"| ''Small Town Somethin'''<ref>{{cite news |last1=Dagg|first1=Nanci|title=High Valley Releases New Single, "Countin Em Up"|url=https://canadianbeats.ca/2023/10/10/high-valley-releases-new-single-countin-em-up/|access-date=January 30, 2024|date=October 10, 2023|work=Canadian Beats Media}}</ref>
+|
+* Release date: February 2, 2024
+* Label: Cage Free Music Inc.
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2" style="width:1em;" | Year
+! scope="col" rowspan="2" style="width:24em;"| Title
+! scope="col" colspan="5"| Peak chart positions
+! scope="col" rowspan="2" style="width:9em;" | [[Music recording sales certification|Certifications]]<br /><small>([[List of best selling music artists|sales threshold]])</small>
+! scope="col" rowspan="2" style="width:9em;" | Sales
+! scope="col" rowspan="2"| Album
+|- style="font-size:smaller;"
+! scope="col" style="width:4em;"| [[Canadian Hot 100|CAN]]<br /><ref>{{cite magazine|url=https://www.billboard.com/artist/high-valley/chart-history/can/ |title=High Valley Chart History (Canadian Hot 100) |magazine=Billboard |access-date=October 18, 2022}}</ref>
+! scope="col" style="width:4em;"| [[Canada Country|CAN Country]]<br /><ref name="Canada Country">{{cite magazine|url=https://www.billboard.com/artist/high-valley/chart-history/ccw/ |title=High Valley Chart History (Canada Country) |magazine=[[Billboard (magazine)|Billboard]] |access-date=June 25, 2024}}</ref>
+! scope="col" style="width:4em;"| [[Billboard Hot 100|US]]<br /><ref>{{cite magazine|url=https://www.billboard.com/artist/high-valley/chart-history/hsi/ |title=High Valley Chart History (Hot 100) |magazine=Billboard |access-date=April 1, 2020}}</ref>
+! scope="col" style="width:4em;"| [[Hot Country Songs|US Country Songs]]<br /><ref>{{cite magazine|url=https://www.billboard.com/artist/high-valley/chart-history/csi/ |title=High Valley Chart History (Hot Country Songs) |magazine=Billboard |access-date=April 1, 2020}}</ref>
+! scope="col" style="width:4em;"| [[Country Airplay|US Country Airplay]]<br /><ref>{{cite magazine|url=https://www.billboard.com/artist/high-valley/chart-history/csa/ |title=High Valley Chart History (Country Airplay) |magazine=Billboard |access-date=April 1, 2020}}</ref>
+|-
+| 2007
+! scope="row"| "Back to You"<ref>{{cite web|last1=Nicholson|first1=Jessica|title=Exclusive: High Valley Brings Old-School To New Music|url=http://www.musicrow.com/2016/05/exclusive-high-valley-brings-old-school-to-new-music/|publisher=[[MusicRow]]|access-date=24 September 2016|date=May 3, 2016}}</ref>
+| —
+| —
+| —
+| —
+| —
+|
+|
+| align="left"| ''Broken Borders''
+|-
+| rowspan="2"| 2010
+! scope="row"| "[[I Will Stand by You]]"
+| —
+| 16
+| —
+| —
+| —
+|
+|
+| rowspan="4" align="left"| ''High Valley''
+|-
+! scope="row"| "On the Combine"
+| —
+| 26
+| —
+| —
+| —
+|
+|
+|-
+| rowspan="2"| 2011
+! scope="row"| "[[A Father's Love (The Only Way He Knew How)]]"
+| 98
+| 12
+| —
+| —
+| —
+|
+|
+|-
+! scope="row"| "Call Me Old Fashioned"
+| —
+| 17
+| —
+| —
+| —
+|
+|
+|-
+| rowspan="3"| 2012
+! scope="row"| "Have I Told You I Love You Lately"
+| 91
+| 12
+| —
+| —
+| —
+|
+|
+| align="left" rowspan="4"| ''Love Is a Long Road''
+|-
+! scope="row"| "Let It Be Me"
+| 89
+| 5
+| —
+| —
+| —
+|
+|
+|-
+! scope="row"| "[[Love You for a Long Time (High Valley song)|Love You for a Long Time]]"
+| 91
+| 13
+| —
+| —
+| 56
+|
+|
+|-
+| rowspan="2"| 2013
+! scope="row"| "Trying to Believe"
+| —
+| 21
+| —
+| —
+| —
+|
+|
+|-
+! scope="row"| "[[Rescue You (song)|Rescue You]]"
+| 80
+| 10
+| —
+| —
+| —
+|
+|
+| align="left" rowspan="5"| ''County Line''
+|-
+| rowspan="2"| 2014
+! scope="row"| "[[County Line (song)|County Line]]"
+| 70
+| 8
+| —
+| —
+| —
+|
+* MC: Gold{{Certification Cite Ref|region=Canada|type=single|title=County Line|artist=High Valley}}
+|
+|-
+! scope="row"| "[[Make You Mine (High Valley song)|Make You Mine]]"<br>{{small|(featuring [[Ricky Skaggs]])}}
+| 58
+| 5
+| —
+| —
+| —
+|
+* MC: Platinum{{Certification Cite Ref|region=Canada|type=single|title=Make You Mine|artist=High Valley}}
+|
+|-
+| rowspan="2"| 2015
+! scope="row"| "[[She's with Me]]"
+| 70
+| 6
+| —
+| —
+| —
+|
+* MC: Platinum{{Certification Cite Ref|region=Canada|type=single|title=She's With Me|artist=High Valley}}
+|
+|-
+! scope="row"| "[[Come on Down (High Valley song)|Come on Down]]"
+| 77
+| 3
+| —
+| —
+| —
+|
+* MC: Gold{{Certification Cite Ref|region=Canada|type=single|title=Come On Down|artist=High Valley}}
+|
+|-
+| rowspan="3"| 2016
+! scope="row"| "Make You Mine" {{small|(US release)}}
+| —
+| —
+| —{{efn-ua|"Make You Mine" did not enter the Hot 100, but peaked at number eight on the [[Bubbling Under Hot 100 Singles]] extension chart.<ref name="bubbling">{{cite magazine|url=https://www.billboard.com/artist/high-valley/chart-history/hbu/|title=High Valley Chart History (Bubbling Under Hot 100)|magazine=[[Billboard (magazine)|Billboard]]|access-date=October 10, 2017}}</ref>}}
+| 21
+| 17
+|
+* [[Recording Industry Association of America|RIAA]]: Gold{{Certification Cite Ref|region=United States|type=single|artist=High Valley|title=Make You Mine|access-date=July 11, 2018}}
+|
+* US: 237,000<ref>{{cite news|url=http://roughstock.com/news/2017/03/41602-top-30-digital-single-sales-chart-march-22-2017|title=Top 30 Digital Singles Chart: March 22, 2017|last=Bjorke|first=Matt|work=Roughstock|publisher=Cheri Media|date=March 22, 2017|access-date=March 30, 2017|archive-date=March 27, 2017|archive-url=https://web.archive.org/web/20170327080823/http://roughstock.com/news/2017/03/41602-top-30-digital-single-sales-chart-march-22-2017|url-status=dead}}</ref>
+| align="left"| ''Dear Life''
+|-
+! scope="row"| "[[Be You]]"
+| —
+| 10
+| —
+| —
+| —
+|
+|
+| align="left"| ''County Line''
+|-
+! scope="row"| "[[Every Week's Got a Friday]]"
+| —
+| 8
+| —
+| —
+| —
+|
+|
+| align="left" rowspan="5"| ''Dear Life''
+|-
+| rowspan="3"| 2017
+! scope="row"| "[[I Be U Be]]"
+| 92
+| 1
+| —
+| —
+| —
+|
+* MC: Platinum{{Certification Cite Ref|region=Canada|type=single|title=I Be U Be|artist=High Valley}}
+|
+|-
+! scope="row"| "She's with Me" {{small|(US release)}}
+| —
+| —
+| 79
+| 11
+| 7
+|
+* RIAA: Gold{{Certification Cite Ref|region=United States|type=single|title=She's with Me|artist=High Valley}}
+|
+*US: 109,000<ref>{{cite news|url=http://roughstock.com/news/2018/04/42957-top-30-digital-country-singles-april-10-2018|title=Top 30 Digital Country Singles: April 10, 2018 |work=Roughstock|last=Bjorke|first=Matt|date=April 9, 2018|access-date=May 3, 2018}}</ref>
+|-
+! scope="row"| "[[Dear Life (High Valley song)|Dear Life]]"
+| —
+| 5
+| —
+| —
+| —
+|
+* MC: Platinum{{Certification Cite Ref|region=Canada|type=single|title=Dear Life|artist=High Valley}}
+|
+|-
+| 2018
+! scope="row"| "Young Forever"
+| —
+| 10
+| —
+| —
+| —
+|
+|
+|-
+| 2019
+! scope="row"| "[[Single Man (song)|Single Man]]"
+| 81
+| 2
+| —
+| —
+| —
+|
+* MC: Platinum{{Certification Cite Ref|region=Canada|type=single|title=Single Man|artist=High Valley}}
+|
+| {{Non-album single}}
+|-
+| rowspan="2"| 2020
+! scope="row"| "[[Grew Up On That]]"
+| 65
+| 1
+| —
+| —
+| —{{efn-ua|"Grew Up On That" did not enter Country Airplay, but peaked at No.&nbsp;44 on ''Billboard'' Country Indicator.<ref name=indicator>{{cite magazine|url=https://www.billboard.com/music/high-valley/chart-history/country-indicator|archive-url=https://web.archive.org/web/20201209093332/https://www.billboard.com/music/high-valley/chart-history/country-indicator|url-status=dead|archive-date=December 9, 2020|title=High Valley Chart History (Country Indicator)|magazine=[[Billboard (magazine)|Billboard]]|access-date=November 11, 2020}}</ref>}}
+|
+* MC: Platinum{{Certification Cite Ref|region=Canada|type=single|title=Grew Up On That|artist=High Valley}}
+|
+| align="left" rowspan="2" | ''Grew Up On That''
+|-
+! scope="row"| "[[River's Still Running]]"
+| 64
+| 1
+| —
+| —
+| —
+|
+* MC: Gold{{Certification Cite Ref|region=Canada|type=single|title=River's Still Running|artist=High Valley}}
+|
+|-
+| 2021
+! scope="row"| "[[Whatever It Takes (High Valley song)|Whatever It Takes]]"
+| 65
+| 2
+| —
+| —
+| —{{efn-ua|"Whatever It Takes" did not enter Country Airplay, but peaked at No.&nbsp;43 on ''Billboard'' Country Indicator.<ref>{{cite web|title=Billboard Country National Airplay / Country Indicator Chart|url= http://charts.bdsradio.com/bdsradiocharts/charts.aspx?formatid=4|work=[[Nielsen BDS]]|archive-url=https://web.archive.org/web/20220621034542/http://charts.bdsradio.com/bdsradiocharts/charts.aspx?formatid=4|archive-date=June 21, 2022|access-date=June 21, 2022}}</ref>}}
+|
+* MC: Gold{{Certification Cite Ref|region=Canada|type=single|title=Whatever It Takes|artist=High Valley}}
+|
+| align="left" rowspan="3"| ''Way Back''
+|-
+| 2022
+! scope="row"| "[[Country Music, Girls and Trucks]]"<br/> {{small|(with [[Granger Smith]])}}
+| 87
+| 6
+| —
+| —
+| —
+|
+|
+|-
+| rowspan="2"| 2023
+! scope="row"| "[[Do This Life]]"<br/> {{small|(with [[Alison Krauss]])}}
+| —
+| 4
+| —
+| —
+| —
+|
+|
+|-
+! scope="row"| "Small Town Somethin'"
+| —
+| 6
+| —
+| —
+| —
+|
+|
+| align="left" rowspan="2"| ''Small Town Somethin'''
+|-
+| 2024
+! scope="row"| "Not Yet"
+| —
+| 7
+| —
+| —
+| —
+|
+|
+|-
+| colspan="10" style="font-size:85%"| "—" denotes releases that did not chart or were not released to that territory 
+|}
+
+====Christmas singles====
+{| class="wikitable plainrowheaders"
+|-
+! scope="col" rowspan="2"| Year
+! scope="col" rowspan="2" style="width:18em;"| Title
+! scope="col"| Peak positions
+! scope="col" rowspan="2"| Album
+|- style="font-size:smaller;"
+! scope="col" width="4em;"| [[Canada Country|CAN Country]]<br /><ref name="Canada Country" />
+|-
+| 2022
+! scope="row"| "Back Home Christmas"
+| align="center"| 38
+| rowspan="2" {{Non-album singles}}
+|-
+| 2023
+! scope="row"| "Run Outta Mistletoe"
+| align="center"| 41
+|}
+
+====As featured artist====
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2"| Year
+! scope="col" rowspan="2" style="width:18em;"| Title
+! scope="col" rowspan="2"| Artist
+! scope="col"| Peak positions
+! scope="col" rowspan="2"| Album
+|- style="font-size:smaller;"
+! scope="col" width="4em;"| [[Canada Country|CAN Country]]<br /><ref name="Canada Country"/>
+|-
+| 2023
+! scope="row"| "Take Me Backroad"
+| [[Tim and the Glory Boys]]
+| 5
+| ''Tim and the Glory Boys''
+|}
+
+===Promotional singles===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:24em;"| Single
+! Album
+|-
+| 2013
+! scope="row"| "[[Away in a Manger]]"<ref>{{cite web|title=Away in a Manger - Single by High Valley|url=https://itunes.apple.com/ca/album/away-in-a-manger-single/id728714017|website=[[iTunes Store]] (Canada)|date=21 October 2013 |publisher=[[Apple Inc.]]|access-date=16 September 2016}}</ref>
+| {{N/A|Non-album single}}
+|-
+| rowspan="4"| 2016
+! scope="row"| "Young Forever"<ref>{{cite web|title=Young Forever - Single by High Valley|url=https://itunes.apple.com/ca/album/young-forever-single/id1150555782|website=[[iTunes Store]] (Canada)|date=9 September 2016 |publisher=[[Apple Inc.]]|access-date=16 September 2016}}</ref>
+| align="left" rowspan="4"| ''Dear Life''
+|-
+! scope="row"| "Long Way Home"<ref>{{cite web|title=Long Way Home - High Valley {{!}} Release Info|url=http://www.allmusic.com/album/release/long-way-home-mr0004630538|website=[[AllMusic]]|publisher=[[All Media Network]]|access-date=October 16, 2016}}</ref>
+|-
+! scope="row"| "Dear Life"<ref>{{cite web|title=Dear Life - High Valley {{!}} Release Info|url=http://www.allmusic.com/album/release/dear-life-mr0004630752|website=[[AllMusic]]|publisher=[[All Media Network]]|access-date=November 21, 2016}}</ref>
+|-
+! scope="row"| "Memory Makin'"<ref>{{cite web|title=Memory Makin' - High Valley {{!}} Release Info|url=http://www.allmusic.com/album/release/memory-makin-mr0004634435|website=[[AllMusic]]|publisher=[[All Media Network]]|access-date=November 21, 2016}}</ref>
+|-
+| 2019
+! scope="row"| "Your Mama"<ref>{{cite web |title=HIGH VALLEY GIVE CREDIT TO "YOUR MAMA" IN FAMILY-DRIVEN NEW SONG |url=https://www.highvalleymusic.com/news/high-valley-give-credit-your-mama-family-driven-new-song-28441 |website=High Valley |access-date=April 1, 2020 |date=September 27, 2019 |archive-date=April 25, 2020 |archive-url=https://web.archive.org/web/20200425062507/https://www.highvalleymusic.com/news/high-valley-give-credit-your-mama-family-driven-new-song-28441 |url-status=dead }}</ref>
+| align="left"| ''Grew Up On That''
+|-
+| 2021
+! scope="row"| "Never Not"
+| align="left" rowspan="3"| ''Way Back''
+|-
+| rowspan="2"| 2022
+! scope="row"| "Run Outta Somedays"
+|-
+! scope="row"| "Somebody Tell That Girl" <br>{{small|(featuring [[Anne Wilson (musician)|Anne Wilson]])}}
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:24em;"| Video
+! Director
+|-
+| rowspan="2"| 2010
+! scope="row"| "I Will Stand by You"
+| 
+|-
+! scope="row"| "On the Combine"<ref>{{cite web|url=http://www.cmt.com/videos/high-valley/703289/on-the-combine.jhtml|archive-url=https://web.archive.org/web/20160305033449/http://www.cmt.com/videos/high-valley/703289/on-the-combine.jhtml|url-status=dead|archive-date=March 5, 2016|title=CMT : Videos : High Valley : On The Combine|publisher=[[Country Music Television]]|access-date=October 21, 2011}}</ref>
+| Bill Baumgart
+|-
+| 2011
+! scope="row"| "A Father's Love (The Only Way He Knew How)"
+| rowspan="2"| [[Warren P. Sonoda]]
+|-
+| rowspan="3"| 2012
+! scope="row"| "Have I Told You I Love You Lately"
+|-
+! scope="row"| "Let It Be Me"
+| rowspan="2"| [[Mark Maryanovich]], Carolyne Stossel
+|-
+! scope="row"| "Love You for a Long Time"<ref>{{cite web|url=http://www.cmt.com/videos/high-valley/855015/love-you-for-a-long-time.jhtml|archive-url=https://web.archive.org/web/20121116054215/http://www.cmt.com/videos/high-valley/855015/love-you-for-a-long-time.jhtml|url-status=dead|archive-date=November 16, 2012|title=CMT : Videos : High Valley : Love You for a Long Time|publisher=[[Country Music Television]]|access-date=November 11, 2012}}</ref>
+|-
+| rowspan="2"| 2013
+! scope="row"| "Trying to Believe"
+| 
+|-
+! scope="row"| "Rescue You"
+| rowspan="3"| Kristin Barlowe
+|-
+| 2014
+! scope="row"| "County Line"
+|-
+| rowspan="3"| 2015
+! scope="row"| "Make You Mine"
+|-
+! scope="row"| "She's with Me"
+| Roger Pistole
+|-
+! scope="row"| "Come on Down"
+| 
+|-
+| 2016
+! scope="row"| "Every Week's Got a Friday"
+| 
+|-
+| 2017
+! scope="row"| "I Be U Be"
+|
+|-
+| rowspan="3"| 2019
+! scope="row"| "Single Man"
+|
+|-
+! scope="row"| "Single Man" {{Small|(Bluegrass Version)}}
+|
+|-
+! scope="row"| "Your Mama"
+|
+|-
+| 2020
+! scope="row"| "Grew Up On That"
+| Benno Nelson / Sam Siske
+|-
+| 2021
+! scope="row"| "River's Still Running"
+| 
+|-
+| 2022
+! scope="row"| "Country Music, Girls and Trucks" {{small|(with [[Granger Smith]])}}
+|
+|-
+| 2023
+! scope="row"| "Take Me Backroad" {{small|(with [[Tim and the Glory Boys]])}}
+|
+|}
+
+==Tours==
+'''Headlining'''
+*County Line Tour – 2014
+*Make You Mine Tour (Europe) – 2017
+*The Highway Finds Tour – 2017
+*Small Town Somethin' Tour - 2024
+'''Supporting'''
+*Love Unleashed Tour – [[Martina McBride]] (2016)
+*[[Soul2Soul: The World Tour]] – [[Tim McGraw]] and [[Faith Hill]] (2017)
+*Happy Endings Tour – [[Old Dominion (band)|Old Dominion]] (2018)
+*The Journey Tour – [[Paul Brandt]] (2019)
+
+==Awards==
+===Academy of Country Music Awards===
+{| class="wikitable"
+|-
+! Year
+! Category
+! Result
+|-
+| 2018
+| ACM – New Vocal Duo or Group of the Year 
+| {{nom}}
+|-
+| 2019
+| ACM – New Vocal Duo or Group of the Year 
+| {{nom}}
+|}
+
+===GMA Canada Covenant Awards===
+* 2007 two awards: Country/Bluegrass Album of the Year: ''Broken Borders'', and Country/Bluegrass Song of the Year: "Back to You"
+* 2011 five awards: Artist of the Year, Group of the Year, Country/Bluegrass Album of the Year: ''High Valley'', Country/Bluegrass Song of the Year: "A Father's Love (The Only Way He Knew How)", and Video of the Year: "A Father's Love (The Only Way He Knew How)"
+* 2012 three awards: Artist of the Year, Country/Bluegrass Album of the Year: "Love Is a Long Road" and Country/Bluegrass Song of the Year "Have I Told You I Love You Lately"
+
+===Canadian Country Music Association Awards===
+{| class="wikitable"
+|-
+! Year
+! Category
+! Result
+|-
+| 2010
+| Rising Star
+| {{nom}}
+|-
+| rowspan="2"| 2011
+| Group or Duo of the Year
+| {{nom}}
+|-
+| Rising Star
+| {{nom}}
+|-
+| 2012
+| Group or Duo of the Year
+| {{nom}}
+|-
+| rowspan="2"| 2013
+| Group or Duo of the Year
+| {{nom}}
+|-
+| Interactive Artist of the Year
+| {{won}}
+|-
+| rowspan="3"| 2015
+| Group or Duo of the Year
+| {{won}}
+|-
+| Album of the Year – ''County Line''
+| {{nom}}
+|-
+| Interactive Artist of the Year
+| {{nom}}
+|-
+| 2016
+| Group or Duo of the Year
+| {{won}}
+|-
+| rowspan=3|2017
+| Fans' Choice Award
+| {{nom}}
+|-
+| Group or Duo of the Year
+| {{nom}}
+|-
+| Album of the Year – ''Dear Life''
+| {{nom}}
+|-
+| rowspan=2|2018
+| Fans' Choice Award
+| {{nom}}
+|-
+| Group or Duo of the Year
+| {{nom}}
+|-
+| 2019
+| Group or Duo of the Year
+| {{nom}}
+|-
+| rowspan=2|2020
+| Group or Duo of the Year
+| {{nom}}
+|-
+| Single of the Year – "Single Man"
+| {{nom}}
+|-
+| rowspan=3|2020
+| Fans' Choice
+| {{nom}}<ref>{{cite web|first=Katie|last=Colley|url=https://etcanada.com/news/821320/the-reklaws-lead-ccma-nominations-with-six/|archive-url=https://web.archive.org/web/20210923090024/https://etcanada.com/news/821320/the-reklaws-lead-ccma-nominations-with-six/|url-status=dead|archive-date=September 23, 2021|title=The Reklaws Lead CCMA Awards Nominations With Six: See The Full List|work=[[Entertainment Tonight Canada|ET Canada]]|date=September 21, 2021}}</ref>
+|-
+| Group or Duo of the Year
+| {{won}}
+|-
+| Single of the Year – "Grew Up on That"
+| {{nom}}
+|-
+|rowspan=2|2022
+|Fans' Choice
+|{{nom}}<ref>{{cite web|url=https://ccma.org/2022-nominees/|title=2022 CCMA AWARD NOMINEES|work=[[Canadian Country Music Association]]|date=20 July 2022 |access-date=September 12, 2022|archive-date=September 13, 2022|archive-url=https://web.archive.org/web/20220913031458/https://ccma.org/2022-nominees/}}</ref><ref>{{cite press release|url=https://www.globenewswire.com/news-release/2022/09/12/2513625/0/en/TENILLE-TOWNES-TAKES-HOME-FOUR-WINS-AT-THE-2022-CCMA-AWARDS-PRESENTED-BY-TD.html|title=TENILLE TOWNES TAKES HOME FOUR WINS AT THE 2022 CCMA AWARDS PRESENTED BY TD|date=September 11, 2022|work=[[Canadian Country Music Association]]|publisher=Global News Wire|archive-url=https://web.archive.org/web/20220912031953/https://www.globenewswire.com/news-release/2022/09/12/2513625/0/en/TENILLE-TOWNES-TAKES-HOME-FOUR-WINS-AT-THE-2022-CCMA-AWARDS-PRESENTED-BY-TD.html|archive-date=September 12, 2022}}</ref>
+|-
+|Group or Duo of the Year
+|{{nom}}
+|-
+|rowspan="3"|2023
+|Fans' Choice
+|{{nom}}<ref>{{cite web|url=https://ccma.org/2023-nominees/|title=2023 CCMA Awards Nominees|work=[[Canadian Country Music Association]]|date=July 13, 2023|archive-url=https://web.archive.org/web/20230714125710/https://ccma.org/2023-nominees/|archive-date=July 14, 2023|access-date=July 18, 2023}}</ref>
+|-
+|Group or Duo of the Year
+|{{nom}}
+|-
+|Musical Collaboration of the Year - "Do This Life"
+|{{won}}<ref>{{cite web|archive-url= https://web.archive.org/web/20230918033611/https://ccma.org/2023-ccma-award-winners/|archive-date=September 18, 2023|date=September 16, 2023|work=[[Canadian Country Music Association]]|url= https://ccma.org/2023-ccma-award-winners/|title= OFFICIAL 2023 CCMA AWARDS PRESENTED BY TD WINNERS}}</ref>
+|-
+|rowspan="4"|2024
+| Fans' Choice
+| {{nom}}<ref>{{cite web|url=https://ccma.org/2024-ccma-award-nominees/|title=2024 CCMA AWARDS NOMINEES|work=[[Canadian Country Music Association]]|access-date=July 25, 2024|archive-url= https://web.archive.org/web/20240719164229/http://web.archive.org/screenshot/https://ccma.org/2024-ccma-award-nominees/|archive-date=July 19, 2024}}</ref>
+|-
+| Group or Duo of the Year
+| {{nom}}
+|-
+| Musical Collaboration of the Year - "Take Me Backroad"
+| {{nom}}
+|-
+| Video of the Year - "Take Me Backroad"
+| {{nom}}
+|}
+
+===Juno Awards===
+{| class="wikitable"
+|-
+! Year
+! Category
+! Result
+|-
+| 2012
+| [[Juno Award for Country Album of the Year|Country Album of the Year]] – ''High Valley''
+| {{nom}}
+|-
+| 2016
+| Country Album of the Year – ''County Line''
+| {{nom}}
+|-
+| 2023
+| Country Album of the Year – ''Way Back''
+| {{pending}}<ref>{{cite web|url=https://www.cbc.ca/music/junos/news/here-are-all-the-2023-juno-nominees-1.6724343|title=Here are all the 2023 Juno nominees|work=[[CBC Music]]|date=January 31, 2023}}</ref>
+|}
+
+==Notes==
+{{notelist-ua}}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* {{official website|http://highvalleymusic.com/}}
+
+{{High Valley}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:High Valley}}
+[[Category:Musical groups established in 1997]]
+[[Category:Musical groups from Alberta]]
+[[Category:Canadian country music groups]]
+[[Category:Centricity Music artists]]
+[[Category:Open Road Recordings artists]]
+[[Category:Atlantic Records artists]]
+[[Category:1997 establishments in Alberta]]
+[[Category:Canadian Country Music Association Group or Duo of the Year winners]]
+[[Category:Mennonite musicians]]

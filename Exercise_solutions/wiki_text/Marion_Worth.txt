@@ -1,0 +1,162 @@
+{{short description|American singer}}
+{{More citations needed|date=September 2022}}
+{{Infobox musical artist
+| name            = Marion Worth
+| image             =
+| caption        =
+| image_size        = (Only use for images smaller than 220 pixels)
+| background      = solo_singer
+| birth_name      = Mary Ann Ward
+| birth_date            = {{birth date|1930|7|4|mf=y}}
+| death_date            = {{death date and age|1999|12|19|1930|7|4|mf=y}}
+| origin          = [[Birmingham, Alabama|Birmingham]], Alabama
+| instrument      = [[Vocals]], [[Piano]], [[Guitar]]
+| genre           = [[Country music|Country]], [[Pop Music|Pop]]
+| occupation      = [[Singing|Singer]], [[Songwriter]]
+| years_active    = 1959&ndash;1999
+| associated_acts = [[Loretta Lynn]], [[Kitty Wells]], [[George Morgan (singer)|George Morgan]]
+| label           =  [[Cherokee Records]] <br> [[Columbia Records]] <br> [[Decca Records]]
+}}
+
+'''Marion Worth''' (born '''Mary Ann Ward'''; July 4, 1930<ref>Some sources give her birth year as 1935.</ref> – December 19, 1999) was an American country music singer. She was a popular performer on the ''[[Grand Ole Opry]]'' in [[Nashville, Tennessee|Nashville]], Tennessee. She also had several hits in the early 1960s.
+
+== Early life ==
+Ward was born in [[Birmingham, Alabama]], during the [[Great Depression in the United States|Great Depression]]. Her father, a railroad worker, taught her how to play piano.<ref name=":0">{{Cite news |last=Boland |first=Tom |date=1999-12-22 |title=Emphysema claims longtime Opry balladeer Marion Worth at 64 |url=https://www.newspapers.com/article/the-tennessean-emphysema-claims-longtime/141739056/ |access-date=2024-02-21 |work=The Tennessean |pages=22 |via=Newspapers.com}}</ref> At the age of 10, she won a local talent show contest for five weeks straight. Worth attended the Paul Hayne School, where she began training as a nurse. Worth accepted a job as a bookkeeper for a record company around the time she and her sister won another local talent contest. These events encouraged Worth to pursue a career in the music business.
+
+She made her radio debut on [[Dallas, Texas|Dallas]], Texas station [[KLIF (AM)|KLIF]]. She then returned to Birmingham and worked at radio stations [[WTAZ (AM)|WVOK]] and [[WAPI (AM)|WAPI]], and also appeared on [[WVTM-TV|WAPI-TV]]. She met established singer/songwriter Happy Wilson who became quite impressed with Marion's singing and began recording her.
+
+== Musical career ==
+In 1959, Worth had her first hit, called "Are You Willing, Willie," on [[Cherokee Records]]. The song peaked in the top 15 of the country music charts. In 1960, her song "That's My Kind of Love" went to the top 5, becoming her biggest hit.<ref name=":1">{{Cite news |date=1999-12-21 |title=Singer Marion Worth dies at 64, had country hits in 1960s |url=https://www.newspapers.com/article/the-commercial-appeal-singer-marion-wort/141737643/ |access-date=2024-02-21 |work=The Commercial Appeal |pages=24 |via=Newspapers.com}}</ref> [[Jack Stapp]] signed the young singer to the ''Grand Ole Opry'''s ''Friday Night Frolic''. As a result of her independent record label hits, she was signed to [[Columbia Records]] where she was produced by [[Don Law]] and Frank Jones. At Columbia, she recorded a single called "I Think I Know". The song was a Top 10 hit for Worth. In 1961, she released another single called "There'll Always Be Sadness". The single was not as successful as her other singles, but it did make the Top 25 that year. For almost two years, Worth was absent from the country charts.
+
+In 1963, Marion returned to the country charts with the song "[[Shake Me I Rattle (Squeeze Me I Cry)]]" which reached Country's Top 15 and crossed over to the Pop Music charts, reaching the Top 50. It was also played on Easy Listening stations, and receives some airplay as a Christmas song due to its theme of toys and giving. She followed up well with a cover version of "[[Crazy Arms]]," a hit for [[Ray Price (musician)|Ray Price]]. Her version reached the Country Top 20. That same year, Worth joined the ''Grand Ole Opry''.<ref>{{Cite news |date=1967-02-18 |title='Grand Ole Opry' Shines |url=https://www.newspapers.com/article/nevada-state-journal-grand-ole-opry-sh/141738165/ |access-date=2024-02-21 |work=Nevada State Journal |pages=27 |via=Newspapers.com}}</ref> Her 1964 started with a Top 40 hit called "You Took Him Off My Hands (Now Please Take Him Off My Mind)". Her biggest hit of 1964 was a [[duet]] recording with [[George Morgan (singer)|George Morgan]] called "[[Slipping Around]]". The song was a Top 20 hit. She had another recording that year called "The French Song", which was a Top 25 hit.
+
+In 1966, Worth was back on the charts with a top 40 recording called "I Will Not Blow Out the Light". Marion soon parted ways with Columbia Records and signed with [[Decca Records]] where she recorded two songs that reached the charts, "A Woman Needs Love" in 1967 and "Mama Sez" in 1968.
+
+== Later years and death ==
+Worth's success on the country music charts waned after 1968.  Her hobby was to study the history of the world, which she focused a lot of time on after her chart success faded away. However, Worth didn't stop performing. She continued to be an active member of the ''Grand Ole Opry'' and she was a popular and in-demand performer for many years in the United States and Canada.
+
+On Sunday, December 19, 1999, Worth died in [[Nashville, Tennessee|Nashville]], Tennessee at the [[Tennessee Christian Medical Center]] from complications of [[emphysema]].<ref name=":0" /> She was 69 years old, and was survived by a daughter, Joyce.<ref name=":0" /><ref name=":1" />
+
+== Discography ==
+===Albums===
+{| class="wikitable"
+|-
+! Year
+! Album
+! width="45"| <small>[[Top Country Albums|US Country]]</small>
+! Label
+|-
+| 1963
+| ''Greatest Hits''
+| align="center"| —
+| rowspan="3"| Columbia
+|-
+| 1964
+| ''Slippin' Around'' <small>(with [[George Morgan (singer)|George Morgan]])</small>
+| align="center"| 12
+|-
+| 1965
+| ''Sings Marty Robbins''
+| align="center"| —
+|-
+| 1968
+| ''A Woman Needs Love''
+| align="center"| 38
+| Decca
+|}
+
+===Singles===
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="2"| Chart Positions
+! rowspan="2"| Album
+|-
+! width="50"| <small>[[Hot Country Songs|US Country]]</small>
+! width="50"| <small>[[Billboard Hot 100|US]]</small>
+|-
+| 1959
+| "Are You Willing, Willie"
+| align="center"| 12
+| align="center"| —
+| rowspan="2"| singles only
+|-
+| rowspan="2"| 1960
+| "That's My Kind of Love"
+| align="center"| 5
+| align="center"| —
+|-
+| "I Think I Know"
+| align="center"| 7
+| align="center"| —
+| rowspan="3"| ''Greatest Hits''
+|-
+| 1961
+| "There'll Always Be Sadness"
+| align="center"| 21
+| align="center"| —
+|-
+| rowspan="2"| 1963
+| "[[Shake Me I Rattle (Squeeze Me I Cry)]]"
+| align="center"| 14
+| align="center"| 42
+|-
+| "[[Crazy Arms]]"
+| align="center"| 18
+| align="center"| —
+| rowspan="2"| singles only
+|-
+| rowspan="3"| 1964
+| "You Took Him Off My Hands<br />(Now Please Take Him Off My Mind)"
+| align="center"| 33
+| align="center"| —
+|-
+| "[[Slippin' Around]]" <small>(with [[George Morgan (singer)|George Morgan]])</small>
+| align="center"| 23
+| align="center"| —
+| ''Slippin' Around''
+|-
+| "The French Song"
+| align="center"| 25
+| align="center"| —
+| rowspan="2"| singles only
+|-
+| 1965
+| "I Will Not Blow Out the Light"
+| align="center"| 32
+| align="center"| —
+|-
+| 1967
+| "A Woman Needs Love"
+| align="center"| 64
+| align="center"| —
+| ''A Woman Needs Love''
+|-
+| 1968
+| "Mama Sez"
+| align="center"| 45
+| align="center"| —
+| single only
+|}
+
+== References ==
+{{Reflist}}
+
+==External links==
+* [https://web.archive.org/web/20070927011722/http://slick.org/deathwatch/mailarchive/msg00598.html Marion Worth Dies At Age 64]
+
+{{Grand Ole Opry members}}
+{{Authority control}}
+
+{{DEFAULTSORT:Worth, Marion}}
+[[Category:1930 births]]
+[[Category:1999 deaths]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Grand Ole Opry members]]
+[[Category:Singers from Birmingham, Alabama]]
+[[Category:Columbia Records artists]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:20th-century American women singers]]
+[[Category:Country musicians from Alabama]]
+[[Category:Singer-songwriters from Alabama]]

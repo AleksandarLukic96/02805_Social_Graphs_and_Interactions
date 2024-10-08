@@ -1,0 +1,90 @@
+{{Short description|American country music trio}}
+{{other uses|Three of hearts (disambiguation)}}
+{{Infobox musical artist
+| name            = 3 of Hearts
+| image           =
+| alt             =
+| caption         =
+| alias           = Three of Hearts
+| origin          = [[Fort Worth, Texas]], United States
+| genre           = [[country music|Country]]
+| years_active    = 2001–2005
+| label           = [[RCA Records Nashville|RCA Nashville]]
+| past_members    = {{Unbulleted list|Blaire Stroud|Katie McNeill|Deserea Wasdin}}
+}}
+
+'''3 of Hearts''' was an American [[country music]] trio composed of Blaire Stroud, Katie McNeill, and Deserea Wasdin, all natives of [[Fort Worth, Texas]]. Signed to [[RCA Records Nashville|RCA Nashville]] in 2001, the trio released its debut album in July of that year. Two of its singles entered the U.S. ''Billboard'' [[Hot Country Singles & Tracks]] charts, as did their rendition of "[[The Christmas Shoes (song)#Cover versions and other media|The Christmas Shoes]]."
+
+==Biography==
+Blaire Stroud, Katie McNeill, and Deserea Wasdin first sang at a funeral; They were also students at [[L.D. Bell High School]]; later, they cut a [[demo tape]] which was eventually sent to [[RCA Records Nashville|RCA Nashville]], who signed the trio to a record deal in 2000.<ref name="allmusic"/> They recorded the song, "Just Might Change Your Life", which appeared in the film and on the soundtrack for the film, "Where the Heart Is", in the Summer of 2000. 3 of Hearts also embarked on a tour sponsored by ''[[Seventeen (American magazine)|Seventeen]]'' magazine, in which the trio performed at shopping malls and promoted prom-related fashion trends.<ref name="allmusic">{{cite web |url={{Allmusic|class=artist|id=p484989|pure_url=yes}} |title=3 of Hearts biography |access-date=2007-12-26 |last=Cohoon |first=Rick |work=[[Allmusic]]}}</ref>
+
+Their debut album, also titled ''3 of Hearts'', was released in March 2001. Two of its singles ("Love Is Enough" and "Arizona Rain") entered the U.S. ''Billboard'' [[Hot Country Singles & Tracks]] charts, peaking at No.&nbsp;43 and No.&nbsp;59 respectively. However, 3 of Hearts did not enter the Top 40 on the country music charts until early 2002, when their rendition of "[[The Christmas Shoes (song)|The Christmas Shoes]]" reached a peak of No.&nbsp;39.
+
+==Discography==
+
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:8em;"| Title
+! rowspan="2" style="width:15em;"| Album details
+! colspan="1"| Peak positions
+|- style="font-size:smaller;"
+! width="40"| [[Top Country Albums|US Country]]<br><ref>{{cite magazine|url={{BillboardURLbyName|artist=3 of hearts|chart=Country Albums C}} |title=3 of Hearts Album & Song Chart History - Country Albums |magazine=Billboard |access-date=July 3, 2011 |archive-url=https://web.archive.org/web/20110705000548/http://www.billboard.com/ |archive-date=5 July 2011 |url-status = dead}}</ref>
+|-
+! scope="row"| ''[[3 of Hearts (album)|3 of Hearts]]''
+| 
+* Release date: March 6, 2001
+* Label: [[RCA Records Nashville|RCA Nashville]]
+* Formats: [[Compact disc|CD]]
+| 45
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:12em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="40"| [[Hot Country Songs|US Country]]<br><ref>{{cite magazine|url={{BillboardURLbyName|artist=3 of hearts|chart=all}} |title=3 of Hearts Album & Song Chart History - Country Songs |magazine=Billboard |access-date=July 3, 2011 |archive-url=https://web.archive.org/web/20110705000548/http://www.billboard.com/ |archive-date=5 July 2011 |url-status = live}}</ref>
+|-
+| rowspan="2"| 2001
+! scope="row"| "Love Is Enough"
+| 43
+| align="left" rowspan="2"| ''3 of Hearts''
+|-
+! scope="row"| "Arizona Rain"
+| 59
+|-
+| 2002
+! scope="row"| "[[The Christmas Shoes (song)|The Christmas Shoes]]"
+| 39
+| align="left" {{Non-album single}}
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;"| Video
+|-
+| 2001
+! scope="row"| "Love Is Enough"
+|}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+[[Category:Country music groups from Texas]]
+[[Category:American girl groups]]
+[[Category:Musical groups established in 2001]]
+[[Category:Musical groups disestablished in 2005]]
+[[Category:2001 establishments in Texas]]
+[[Category:RCA Records Nashville artists]]
+[[Category:Vocal trios]]
+[[Category:2005 disestablishments in Texas]]

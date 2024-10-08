@@ -1,0 +1,545 @@
+{{Short description|Swedish dansband}} 
+{{Use dmy dates|date=August 2021}}
+{{Infobox musical artist 
+| name                 = Lasse Stefanz
+| image                = Lasse Stefanz.jpg
+| caption              = Lasse Stefanz in 2013
+| landscape            = yes
+| alt                  = 
+| background           = group_or_band
+| alias                = Lasse Stefans
+| origin               = [[Kristianstad]], Sweden
+| instrument           = 
+| genre                = {{flatlist|
+* [[Dansband]]
+* [[Country music|country]]
+}}
+| occupation           = 
+| years_active         = 1967–present
+| label                = [[Mariann Grammofon|Mariann]]
+| associated_acts      = {{flatlist|
+* [[Christina Lindberg (singer)|Christina Lindberg]]
+* [[Stiftelsen (band)|Stiftelsen]]
+}}
+| website              = {{URL|lassestefanz.se}}
+| current_members      = {{plainlist|
+* [[Olle Jönsson]]
+* Jonas Rignell
+* Anders Dahlgren
+* Christer Ericsson
+* Gunnar Nilsson
+* Henrik Svensson
+}}
+| past_members         = 
+* Anders Pettersson
+* Lasse Sigfridsson
+* Hans Sigfridsson
+* Ola Olsson
+}}
+'''Lasse Stefanz''' is a Swedish [[dansband]] formed in [[Kristianstad]] in 1967.<ref>{{Cite web|url=https://www.discogs.com/artist/794506-Lasse-Stefanz|title=Lasse Stefanz|website=Discogs}}</ref> The band was popular during the 1980s. The band was formed by Hans Sigfridsson, Lars Sigfridsson and [[Olle Jönsson]]. Later members are [[Christer Ericsson]], [[Anders Pettersson (musician)|Anders Pettersson]] and [[Gunnar Nilsson]]. [[Olle Jönsson]] is the singer, as well as the ex-drummer. ''Lasse Stefanz'' had hits with [[song]]s as "Oh, Julie" (1982) and released [[album]]s as ''Peppelinos Bar'' (1988). 1989-1990, Lasse Stefanz and [[Christina Lindberg (singer)|Christina Lindberg]] had a [[Svensktoppen]] hit with the song "[[De sista ljuva åren]]". In 1989, Lasse Stefanz was awarded a [[Grammis]] for "Dansband of the year".
+
+The band participated in [[Sweden in the Eurovision Song Contest 2011|Melodifestivalen 2011]] with the song "En blick och något händer."<ref name="Sweden5">{{cite web|url=https://www.eurovision.tv/page/news?id=20423&_t=First+four+entries+for+Sweden+announced|archive-url=https://web.archive.org/web/20101014015828/http://www.eurovision.tv/page/news?id=20423&_t=First+four+entries+for+Sweden+announced|url-status=dead|archive-date=14 October 2010|title=First four entries for Sweden announced|last=Siim|first=Jarmo|date=7 October 2010|work=Eurovision.tv|publisher=[[European Broadcasting Union]] (EBU)|accessdate=8 August 2012}}</ref> They participated in [[Melodifestivalen 2024]] with "En sång om sommaren",<ref>{{cite web|url=https://eurovision.tv/story/30-artists-melodifestivalen-2024|title=The 30 artists competing in Sweden's Melodifestivalen 2024|date=2023-12-01|access-date=2023-12-01|work=Eurovision.tv|publisher=EBU}}</ref> being eliminated from their heat on 24 February 2024.<ref>{{Cite web |title=Melodifestivalen 2024 - Deltävling 4: Eskilstuna |url=https://mellopedia.svt.se/index.php/Melodifestivalen_2024#Deltävling_4:_Eskilstuna |access-date=2024-02-03 |website=Mellopedia |language=sv |publisher=SVT}}</ref>
+
+== Personnel ==
+
+* [[Olle Jönsson]] – vocals
+* Christer Ericsson – guitars
+* Jonas Rignell – vocals, guitars, accordion
+* Gunnar Nilsson – drums
+* Anders Dahlgren – bass
+* Henrik Svensson – keyboards, saxophones
+
+==Discography==
+===Studio albums===
+{| class="wikitable"
+!align="center" rowspan="2" width="10"|Year
+!align="center" rowspan="2" width="170"|Album
+!align="center" colspan="2" width="20"|Peak positions
+!align="center" rowspan="2" width="70"|Certification
+|-
+! scope="col" style="width:3em;font-size:90%;" | [[Sverigetopplistan|SWE]]<br /><ref name="swe">{{cite web | url=http://www.swedishcharts.com/showinterpret.asp?interpret=Lasse+Stefanz | title=Lasse Stefanz discography | website=swedishcharts.com |accessdate=1 June 2013}}</ref>
+! scope="col" style="width:3em;font-size:90%;" | [[VG-lista|NOR]]<br /><ref name="nor">{{cite web | url=http://www.norwegiancharts.com/showinterpret.asp?interpret=Lasse+Stefanz | title=Lasse Stefanz discography | website=norwegiancharts.com |accessdate=1 June 2013}}</ref>
+|-
+| style="text-align:center;"|1974
+|''Vad tiden går''
+| style="text-align:center;"|{{spaced ndash}}
+| style="text-align:center;"|{{spaced ndash}}
+|
+|-
+| style="text-align:center;"|1975
+|''Spelmansminnen''
+| style="text-align:center;"|{{spaced ndash}}
+| style="text-align:center;"|{{spaced ndash}}
+|
+|-
+| style="text-align:center;"|1977
+|''Sunshine''
+| style="text-align:center;"|36
+| style="text-align:center;"|{{spaced ndash}}
+|
+|-
+| style="text-align:center;"|1979
+| ''Darlin{{'}}''
+| style="text-align:center;"|37
+| style="text-align:center;"|{{spaced ndash}}
+|
+|-
+| style="text-align:center;"|1981
+| ''Vid en liten fiskehamn''
+| style="text-align:center;"|49
+| style="text-align:center;"|{{spaced ndash}}
+|
+|-
+| style="text-align:center;"|1982
+| ''Oh Julie''
+| style="text-align:center;"|15
+| style="text-align:center;"|{{spaced ndash}}
+|
+|-
+| style="text-align:center;"|1983
+| ''Mari Mari''
+| style="text-align:center;"|27
+| style="text-align:center;"|{{spaced ndash}}
+|
+|-
+| style="text-align:center;"|1984
+| ''Elaine''
+| style="text-align:center;"|38
+| style="text-align:center;"|{{spaced ndash}}
+|
+|-
+| style="text-align:center;"|1985
+| ''Fredens duva''
+| style="text-align:center;"|27
+| style="text-align:center;"|{{spaced ndash}}
+|
+|-
+| style="text-align:center;"|1986
+| ''Den lilla klockan''
+| style="text-align:center;"|31
+| style="text-align:center;"|{{spaced ndash}}
+|
+|-
+| style="text-align:center;"|1987
+| ''Nere på söder''
+| style="text-align:center;"|16
+| style="text-align:center;"|{{spaced ndash}}
+|
+|-
+| style="text-align:center;" rowspan=2|1988
+| ''Peppelinos Bar''
+| style="text-align:center;"|20
+| style="text-align:center;"|{{spaced ndash}}
+|
+|-
+| ''Livets ljusa sida''
+| style="text-align:center;"|27
+| style="text-align:center;"|{{spaced ndash}}
+|
+|-
+| style="text-align:center;"|1989
+| ''Mot nya mål''
+| style="text-align:center;"|32
+| style="text-align:center;"|{{spaced ndash}}
+|
+|-
+| style="text-align:center;"|1990
+| ''Vindarnas Sång''
+| style="text-align:center;"|36
+| style="text-align:center;"|{{spaced ndash}}
+|
+|-
+| style="text-align:center;"|1992
+| ''Strange Weather''
+| style="text-align:center;"|33
+| style="text-align:center;"|{{spaced ndash}}
+|
+|-
+| style="text-align:center;"|1994
+| ''Min angel''
+| style="text-align:center;"|23
+| style="text-align:center;"|{{spaced ndash}}
+|
+|-
+| style="text-align:center;"|1995
+| ''Bara du''
+| style="text-align:center;"|21
+| style="text-align:center;"|{{spaced ndash}}
+|
+|-
+| style="text-align:center;"|1996
+| ''Dig ska jag älskar''
+| style="text-align:center;"|22
+| style="text-align:center;"|{{spaced ndash}}
+|
+|-
+| style="text-align:center;"|1998
+| ''I ett fotoalbum''
+| style="text-align:center;"|10
+| style="text-align:center;"|39
+|
+|-
+| style="text-align:center;"|1999
+| ''Över en kopp i vår berså''
+| style="text-align:center;"|6
+| style="text-align:center;"|15
+|
+|-
+| style="text-align:center;"|2001
+| ''Emelie''
+| style="text-align:center;"|3
+| style="text-align:center;"|16
+|
+|-
+| style="text-align:center;"|2001
+| ''[[I tomteverkstan]]''
+| style="text-align:center;"|{{spaced ndash}}
+| style="text-align:center;"|{{spaced ndash}}
+|
+|-
+| style="text-align:center;"|2002
+| ''Mi Vida Loca''
+| style="text-align:center;"|7
+| style="text-align:center;"|16
+|
+|-
+| style="text-align:center;"|2004
+| ''Röd Chevrolet''
+| style="text-align:center;"|2
+| style="text-align:center;"|37
+|
+|-
+| style="text-align:center;"|2006
+| ''Pickup – 56''
+| style="text-align:center;"|2
+| style="text-align:center;"|6
+|
+|-
+| style="text-align:center;"|2007
+| ''[[Vagabond (Lasse Stefanz album)|Vagabond]]''
+| style="text-align:center;"|1
+| style="text-align:center;"|3
+|
+|-
+| style="text-align:center;" rowspan=2|2008
+| ''[[Rallarsväng]]''
+| style="text-align:center;"|1
+| style="text-align:center;"|1
+|
+|-
+|  ''[[Sväng jul]]''
+| style="text-align:center;"|4
+| style="text-align:center;"|39
+|
+|-
+| style="text-align:center;"|2009
+| ''[[Truck Stop (album)|Truck Stop]]''
+| style="text-align:center;"|1
+| style="text-align:center;"|3
+|
+|-
+| style="text-align:center;" rowspan=2|2010
+| ''[[Texas (Lasse Stefanz album)|Texas]]''
+| style="text-align:center;"|1
+| style="text-align:center;"|2
+|
+|-
+| ''[[Lasse Stefanz Goes 70's]]''
+| style="text-align:center;"|2
+| style="text-align:center;"|{{spaced ndash}}
+|
+|-
+| style="text-align:center;"|2011
+| ''[[Cuba Libre (album)|Cuba Libre]]''
+| style="text-align:center;"|1
+| style="text-align:center;"|17
+|
+|-
+| style="text-align:center;"|2012
+|  ''[[Rocky Mountains (album)|Rocky Mountains]]''
+| style="text-align:center;"|1
+| style="text-align:center;"|8
+|
+|-
+| style="text-align:center;" rowspan=2|2013
+| '' Kärlek & Rock'n'roll ''
+| style="text-align:center;"|2
+| style="text-align:center;"|20
+|
+|-
+| ''[[Trouble Boys (album)|Trouble Boys]]''
+| style="text-align:center;"|1
+| style="text-align:center;"|2
+|
+|-
+| style="text-align:center;"|2014
+| ''[[Honky Tonk Rebels]]''
+| style="text-align:center;"|1
+| style="text-align:center;"|5
+|
+|-
+| style="text-align:center;"|2015
+| '' Whiskey Barrel ''
+| style="text-align:center;"|1
+| style="text-align:center;"|18
+| SWE: Gold<ref>{{cite web |url=http://www.hitlistan.se/netdata/ghl002.mbr/lista?liid=54&dfom=20150814 |title=www.sverigetopplistan.se - Veckolista Album - Vecka 34, 21 augusti 2015 |accessdate=28 August 2015 |url-status=dead |archiveurl=https://web.archive.org/web/20150924041748/http://www.hitlistan.se/netdata/ghl002.mbr/lista?liid=54&dfom=20150814 |archivedate=24 September 2015 }}</ref>
+|-
+| style="text-align:center;"|2016
+| ''Road Trip''
+| style="text-align:center;"|1
+| style="text-align:center;"|7<br /><ref name="lista.vg.no">{{Cite web |url=http://lista.vg.no/liste/topp-40-album/2 |title=Archived copy |access-date=5 December 2015 |archive-date=25 May 2012 |archive-url=https://archive.today/20120525150252/http://lista.vg.no/liste/topp-40-album/2 |url-status=dead }}</ref>
+|
+|-
+| style="text-align:center;" rowspan="2"|2017
+| ''Wind Me Up''
+| style="text-align:center;"|1
+| style="text-align:center;"|{{spaced ndash}}
+|
+|-
+| ''Country Winter Party''
+| style="text-align:center;"|1
+| style="text-align:center;"|25
+|
+|-
+| style="text-align:center;"|2018
+| ''Forever''
+| style="text-align:center;"|1
+| style="text-align:center;"|{{spaced ndash}}
+|
+|-
+| style="text-align:center;"|2019
+| ''Night Flight''
+| style="text-align:center;"|1<br /><ref>{{cite web|url=https://www.sverigetopplistan.se/chart/54?dspy=2019&dspp=28|title=Veckolista Album, vecka 28|publisher=[[Sverigetopplistan]]|accessdate=12 July 2019}}</ref>
+| style="text-align:center;"|7<br /><ref>{{cite web|url=http://www.vglista.no/topplister/topp-40-album-2019-28/|title=VG-lista – Topp 40 Album uke 28, 2019|publisher=[[VG-lista]]|accessdate=13 July 2019}}</ref>
+|
+|-
+| style="text-align:center;"|2022
+| ''Evergreen''
+| style="text-align:center;"|1<br /><ref>{{cite web|url=https://www.sverigetopplistan.se/chart/54?dspy=2022&dspp=26|title=Veckolista Album, vecka 26|publisher=[[Sverigetopplistan]]|access-date=1 July 2022}}</ref>
+| style="text-align:center;"|{{spaced ndash}}
+|
+|}
+
+===Compilation and live albums===
+;Charting in [[Sverigetopplistan]]
+{| class="wikitable"
+!align="center" rowspan="2" width="10"|Year
+!align="center" rowspan="2" width="180"|Album
+!align="center" colspan="2" width="20"|Peak positions
+!align="center" rowspan="2" width="70"|Certification
+|-
+! scope="col" style="width:3em;font-size:90%;" | [[Sverigetopplistan|SWE]]<br /><ref name="swe"/>
+! scope="col" style="width:3em;font-size:90%;" | [[VG-lista|NOR]]<br /><ref name="nor"/>
+|-
+| style="text-align:center;"|1977
+|'' Strandpartajj ''
+| style="text-align:center;"|48
+| style="text-align:center;"|{{spaced ndash}}
+|
+|-
+| style="text-align:center;"|1988
+|''[[Det här är bara början]]''
+| style="text-align:center;"|2
+| style="text-align:center;"|5
+|
+|-
+| style="text-align:center;"|2007
+|''[[40 Ljuva År]]''
+| style="text-align:center;"|1
+| style="text-align:center;"|2
+|
+|-
+| style="text-align:center;"|2008
+|'' Vart tog tiden vägen ''
+| style="text-align:center;"|31
+| style="text-align:center;"|{{spaced ndash}}
+|
+|-
+| style="text-align:center;"|2009
+|''[[En vän som du]]''
+| style="text-align:center;"|43
+| style="text-align:center;"|{{spaced ndash}}
+|
+|-
+| style="text-align:center;"|2012
+|''Vår Bästa Country''
+| style="text-align:center;"|2
+| style="text-align:center;"|{{spaced ndash}}
+|
+|-
+| style="text-align:center;"|2013
+|''Lasse Stefanz Stora Julparty''
+| style="text-align:center;"|1
+| style="text-align:center;"|{{spaced ndash}}
+|
+|-
+| style="text-align:center;"|2014
+|''The Complete Collection''
+| style="text-align:center;"|13
+| style="text-align:center;"|{{spaced ndash}}
+|
+|-
+| style="text-align:center;"|2015
+|''Greatest Hits''
+| style="text-align:center;"|3
+| style="text-align:center;"|40<ref name="lista.vg.no"/>
+|
+|-
+| style="text-align:center;"|2016
+|''50th Anniversary (1967–2017)''
+| style="text-align:center;"|1<br /><ref>http://www.sverigetopplistan.se/. Click on "Veckans albumlista".</ref>
+| style="text-align:center;"|{{spaced ndash}}
+|
+|-
+| style="text-align:center;"|2023
+|''Världens bästa Lasse Stefanz''
+| style="text-align:center;"|2<br /><ref>{{cite web|url=https://www.sverigetopplistan.se/chart/54?dspy=2023&dspp=9|title=Veckolista Album, vecka 9|publisher=[[Sverigetopplistan]]|access-date=4 March 2023}}</ref>
+| style="text-align:center;"|{{spaced ndash}}
+|
+|}
+
+'''Listing'''
+*1977: '' Strandpartajj ''
+*1985: '' Ensam i ett regn ''
+*1986: '' Du försvann som en vind 1992-95 ''
+*1988: ''[[Det här är bara början]]''
+*1992: '' På Begäran ''
+*1995: '' Sommardansen ''
+*1995: '' En Gång Är Ingen Gång 1991-92 ''
+*1995: '' De Sista Ljuva Åren 1988-89 ''
+*1997: '' Sommardansen 2 ''
+*1998: '' Jag Vill Ge Dig Min Morgon 90-98 ''
+*1998: ''[[Lasse Stefanz på Svensktoppen]]''
+*1998: '' Du Kan Tro På Mitt Ord 1995-97 ''
+*2000: '' Guldkorn Vol.1 1974-2000 ''
+*2000: '' Guldkorn Vol.2 1975-2000 ''
+*2000: '' Sommardansen 3 ''
+*2002: '' 16 Hits 1988-2002 ''
+*2003: '' Det Här Är Bara Början ''
+*2004: '' 20 Favoriter ''
+*2004: '' Låt En Morgon Vakna 1992-2003 ''
+*2006: ''[[40 Ljuva År]]''
+*2008: '' Vart Tog Tiden Vägen ''
+*2009: '' En Vän Som Du ''
+*2010: '' De Ljuva Åren 1988-2006 '' (3CD BOX)
+*2012: '' Vår Bästa Country ''
+
+===Charting singles===
+<small>(in [[Sverigetopplistan]])</small>
+{| class="wikitable"
+!align="center" rowspan="2" width="10"|Year
+!align="center" rowspan="2" width="170"|Single
+!align="center" colspan="1" width="20"|Peak positions
+!align="center" rowspan="2" width="70"|Album
+|-
+! scope="col" style="width:3em;font-size:90%;" | [[Sverigetopplistan|SWE]]<br /><ref name="swe"/>
+|-
+| style="text-align:center;"|1982
+|"[[Oh Julie (album)|Oh Julie]]" 
+| style="text-align:center;"|16
+| style="text-align:center;"| ''[[Oh Julie (album)|Oh Julie]]''
+|-
+| style="text-align:center;"|2008
+|"En runda i baren" <small>(with [[Plura Jonsson|Plura]])</small>
+| style="text-align:center;"|53
+| style="text-align:center;"|
+|-
+| style="text-align:center;" rowspan="4"|2022
+|"Är det kärlek du behöver" (Nine EPA Remix)
+| style="text-align:center;"|49
+| style="text-align:center;"|
+|-
+|"Minns det som igår"
+| style="text-align:center;"|85
+| style="text-align:center;"|
+|-
+|"[[En säng av rosor]]"
+| style="text-align:center;"|71
+| style="text-align:center;"|
+|-
+|"Där jag hänger min hatt"
+| style="text-align:center;"|65
+| style="text-align:center;"|
+|-
+| style="text-align:center;"|2023
+|"Kom och rulla i mit rullande hus" {{small|(with Sofie Svensson and Dom Dar)}}
+| style="text-align:center;"|69<br /><ref>{{cite web|url=https://www.sverigetopplistan.se/chart/41?dspy=2023&dspp=9|title=Veckolista Singlar, vecka 9, 2023|publisher=[[Sverigetopplistan]]|access-date=4 March 2023}}</ref>
+| style="text-align:center;"|
+|-
+| style="text-align:center;"|2024
+|"En sång om sommaren"
+| style="text-align:center;"|70<br /><ref>{{cite web|url=https://www.sverigetopplistan.se/chart/41?dspy=2024&dspp=10|title=Veckolista Singlar, vecka 10, 2024|publisher=[[Sverigetopplistan]]|access-date=9 March 2024}}</ref>
+| style="text-align:center;"|
+|}
+
+'''Listing (in [[Svensktoppen]])'''
+*1982: "Oh, Julie" (#1)
+*1986: "Oklahoma" (#1)
+*1987: "Nere på Söder" (#8)
+*1987: "Världens lyckligaste par" (#1)
+*1988: "Det här år bara början" (#4)
+*1989: "[[De sista ljuva åren]]" <small>(with [[Christina Lindberg']])</small> (#2) 
+*1989: "Mot nya mål" (#9)
+*1992: "En gång är ingen gång" (#8)
+*1992: "Stanna kvar" (#10)
+*1993: "Jag väntat många dagar" (#7)
+*1994: "Du försvann som en vind" (#1)
+*1994: "Jag kommer hem igen" (#7)
+*1995: "Jag ångrar ingenting" (#5)
+*1995: "Midsommarafton" (#3)
+*1995: "En enkel sång om kärleken" (#4)
+*1995: "Visst är det kärlek" (#10)
+*1996: "Dig ska jag älska" (#3)
+*1997: "Av hela mitt hjärta" (#4)
+*1997: "Du kan tro på mitt ord" (#4)
+*1998: "Tomma löften tomma ord" (#6)
+*1997: "I ett fotoalbum" (#4)
+*1999: "Över en kopp i vår berså" (#2)
+*2000: "Vår kärlek är stark" (#3)
+*2000: "Det finns en vind" (#3)
+*2001: "Emelie" (#4)
+*2001: "När gässen återvänder" (#5)
+*2001: "Ute på vischan" (#5)
+*2002: "Låt en morgon vakna" (#1)
+*2003: "Ingenting mer" (#8)
+*2005: "En bättre värld" (#9)
+*2007: "På egna vägar" (#8)
+*2008: "En runda i baren" <small>(with [[Plura Jonsson]])</small> (#7)
+*2008: "Hemmahamn" (#7)
+*2008: "Vitare än snö" (#9)
+*2009: "Här hör jag hemma" (#7)
+*2010: "Copacabana" (#8)
+*2011: "Skåneland" (#10)
+
+==== Failed to enter svensktoppen ====
+*"Vid en liten fiskehamn, 1982
+*"Jag kommer med kärlek", 1999
+*"När countryn kom till Skåne", 2006<ref>{{cite web|url=http://195.178.191.81/history/2006-07-16.html|title=Svensktoppen|date=16 July 2011|accessdate=13 June 2011|archive-url=https://archive.today/20120525133036/http://195.178.191.81/history/2006-07-16.html|archive-date=25 May 2012|url-status=dead}}</ref><ref>{{cite web|url=http://195.178.191.81/history/2006-07-23.html|title=Svensktoppen|date=23 July 2011|accessdate=13 June 2011|archive-url=https://archive.today/20120525133036/http://195.178.191.81/history/2006-07-23.html|archive-date=25 May 2012|url-status=dead}}</ref>
+*"En blick om nånting händer", 2011<ref>{{cite web|url=http://195.178.191.81/history/2011-03-06.html|title=Svensktoppen|date=6 March 2011|accessdate=13 June 2011|archive-url=https://archive.today/20120525133036/http://195.178.191.81/history/2011-03-06.html|archive-date=25 May 2012|url-status=dead}}</ref><ref>{{cite web|url=http://195.178.191.81/history/2011-03-13.html|title=Svensktoppen|date=13 March 2011|accessdate=13 June 2011|archive-url=https://archive.today/20120525133037/http://195.178.191.81/history/2011-03-13.html|archive-date=25 May 2012|url-status=dead}}</ref><ref>{{cite web|url=http://195.178.191.81/history/2011-03-20.html|archive-url=https://archive.today/20120525133038/http://195.178.191.81/history/2011-03-20.html|url-status=dead|archive-date=25 May 2012|title=Svensktoppen|date=20 March 2011|accessdate=13 June 2011}}</ref>
+*"Cuba Libre 2011
+* Sara solsken- 2012
+
+==DVDs / VHS==
+*2003: ''Från Österlen till Oklahoma''
+*2009: ''Ingen dans på rosor''
+*2010: ''På väg till Malung med Lasse Stefanz''
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{sisterlinks|d=Q742028|b=no|v=no|voy=no|s=no|species=no|mw=no|m=no|wikt=no|n=no}}
+
+* {{official website}}
+* {{discogs artist}}
+
+{{Lasse Stefanz|state=expanded}}
+
+{{Authority control}}
+
+[[Category:Musical groups established in 1967]]
+[[Category:Dansbands]]
+[[Category:Sibling musical groups]]
+[[Category:1967 establishments in Sweden]]
+[[Category:Melodifestivalen contestants of 2011]]
+[[Category:Melodifestivalen contestants of 2024]]

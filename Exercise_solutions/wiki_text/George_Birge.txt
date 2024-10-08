@@ -1,0 +1,96 @@
+{{Infobox musical artist
+| background        = person
+| name              = George Birge
+| image             = 
+| alt               = 
+| caption           = 
+| birth_name        = 
+| birth_place       = [[Austin, Texas]], U.S.
+| origin            = [[Nashville, Tennessee]], U.S.
+| genre             = [[Country music|Country]]
+| occupation        = Singer-songwriter
+| instrument        = Vocals, guitar
+| years_active      = 2013-present
+| label             = Records Nashville
+| past_member_of    = [[Waterloo Revival]]
+}}
+'''George Birge''' is an American [[country music]] artist. From 2013 to 2020, he was one half of the duo [[Waterloo Revival]] with Cody Cooper. Birge began recording independently in 2021. After his independent release "[[Beer Beer, Truck Truck]]" went viral on social media in 2021, Birge signed to Records Nashville. "[[Mind on You (George Birge song)|Mind on You]]" became his first charting single on ''Billboard''.
+
+==Biography==
+George Birge was born in [[Austin, Texas]]. He began singing when he was 14 years old, and began writing songs with his friend Cody Cooper when both were still teenagers. The two separated after high school, but reunited in 2013 when Cooper returned to Austin to visit his family. From 2013 to 2020, the two recorded on [[Big Machine Records]] as the duo [[Waterloo Revival]].<ref>{{cite web | url=https://www.allmusic.com/artist/waterloo-revival-mn0003299308/biography | title=Waterloo Revival biography | publisher=[[AllMusic]] | access-date=August 8, 2022}}</ref>
+
+After Waterloo Revival broke up in 2021, Birge began writing songs by himself. including cuts by [[Matt Stell]] and [[Chris Lane]], along with former [[Rascal Flatts]] member [[Gary LeVox]]. [[Clay Walker]] also recorded Birge's songs "Need a Bar Sometimes" and "Catchin' Up with an Old Memory", both of which he released as singles.<ref name="musicrow">{{cite web | url=https://musicrow.com/2021/11/on-the-row-george-birge-talks-his-journey-from-waterloo-revival-to-beer-beer-truck-truck/ | title=On The Row: George Birge Talks His Journey From Waterloo Revival To 'Beer Beer, Truck Truck' | website=[[MusicRow]] | date=November 5, 2021 | access-date=August 8, 2022}}</ref> In late 2021, Walker encouraged Birge to release his songs on the social media platform [[TikTok]]. This led to his song "[[Beer Beer, Truck Truck]]" gaining attention on the platform late in the year. Due to this song's success, Birge signed with Records Nashville, an independent label in [[Nashville, Tennessee]]. He released a single titled "Mind on You" through the label in 2022.<ref name="musicrow"/>
+
+"Mind on You" debuted at number 58 on the ''[[Billboard (magazine)|Billboard]]'' [[Country Airplay]] chart dated August 8, 2022,<ref>{{cite magazine | url=https://s3.amazonaws.com/bulletins.billboard.com/country/country_update_2022_0808.pdf | title=Billboard Country Update | magazine=Billboard | page=8 | date=August 8, 2022 | access-date=August 8, 2022}}</ref> peaking at number 2 on the chart in January 2024.<ref name="billboard">{{cite magazine | url=https://www.billboard.com/charts/country-airplay/2024-01-06/ | title=Country Airplay: Week of January 6, 2024 | magazine=Billboard | access-date=January 3, 2024}}</ref>
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+List of studio albums, with selected details
+! scope="col"| Title
+! scope="col"| Album details
+|- 
+! scope="row"| ''George Birge: Mind on You''
+| 
+* Release date: May 12, 2023<ref>{{cite web | url=https://musicrow.com/2023/04/george-birge-slates-debut-album-for-may-12/ | title=George Birge Slates Debut Album For May 12 | website=MusicRow | date=April 25, 2023 | access-date=November 28, 2023 | author=Lorie Hollabaugh}}</ref>
+* Label: Records Nashville
+|}
+
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+List of EPs, with selected details
+! style="width:12em;"| Title
+! style="width:20em;"| EP details
+|- 
+! scope="row"| ''George Birge''
+| 
+* Release date: February 18, 2022
+* Label: Records Nashville
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+List of singles, with selected chart positions
+! scope="col" rowspan="2"| Year
+! scope="col" rowspan="2" style="width:14em;"| Title
+! scope="col" colspan="4"| Peak chart<br />positions
+! scope="col" rowspan="2"| Album
+|- style="font-size:smaller;"
+! scope="col" width="45"| [[Billboard Hot 100|US]]<br /><ref>{{cite magazine|url=https://www.billboard.com/charts/hot-100/2024-01-13/|title=Billboard Hot 100: Week of January 13, 2024|magazine=[[Billboard (magazine)|Billboard]]|access-date=January 9, 2024}}</ref>
+! scope="col" width="45"| [[Hot Country Songs|US Country]]<br /><ref>{{cite magazine|url=https://www.billboard.com/charts/country-songs/2023-12-30/|title=Hot Country Songs: Week of December 30, 2023|magazine=Billboard|access-date=December 27, 2023}}</ref>
+! scope="col" width="45"| [[Country Airplay|US Country Airplay]]<br /><ref name="billboard"/><ref>Peaks on the Country Airplay chart:
+* "Amy's Back in Austin": {{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_0112.pdf|title=Billboard Country Update|magazine=[[Billboard (magazine)|Billboard]]|date=January 12, 2024|access-date=January 13, 2024}}
+* "Cowboy Songs": {{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_0913.pdf|title=Billboard Country Update|magazine=Billboard|date=September 13, 2024|access-date=September 14, 2024}}</ref>
+! scope="col" width="45"| [[Canada Country|CAN Country]]<br /><ref>Peaks on the Canada Country chart:
+* "Mind on You": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2024-01-27/|title=Canada Country: Week of January 27, 2024|magazine=Billboard|access-date=January 23, 2024}}
+* "Cowboy Songs": {{cite magazine|url=https://www.billboard.com/charts/canada-country/2024-09-21/|title=Canada Country: Week of September 21, 2024|magazine=Billboard|access-date=September 17, 2024}}</ref>
+|-
+| 2021
+! scope="row"| "[[Beer Beer, Truck Truck]]"
+| — || — || — || —
+| align="left" rowspan="2"| ''George Birge: Mind on You''
+|-
+| 2022
+! scope="row"| "[[Mind on You (George Birge song)|Mind on You]]"
+| 62 || 16 || 2 || 53
+|-
+| 2023
+! scope="row"| "[[Amy's Back in Austin]]"<br />{{small|(with [[Eli Young Band]])}}
+| — || — || 59 || —
+| rowspan="2" {{tba}}
+|-
+| 2024
+! scope="row"| "Cowboy Songs"<ref>https://assets.countryaircheck.com/public/f6bdc58e-b873-46df-8ff7bf60b1e02426/smaller-CAP-12-2023.pdf</ref>
+| — || — || 18 || 43
+|}
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Birge, George}}
+[[Category:American male singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Country musicians from Texas]]
+[[Category:Living people]]
+[[Category:Musicians from Austin, Texas]]
+[[Category:Year of birth missing (living people)]]

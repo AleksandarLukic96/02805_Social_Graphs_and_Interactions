@@ -1,0 +1,181 @@
+{{Short description|American country singer-songwriter (1928–2009)}}
+{{More citations needed|date=April 2008}}
+{{Infobox musical artist
+| name            = Ernest Ashworth
+| image           = Ernestashworth01-280x336.jpg
+| image_size      = 200px
+| caption         = 
+| background      = solo_singer
+| birth_name      = Ernest Bert Ashworth
+| alias           = Ernie Ashworth
+| birth_date      = {{birth date|1928|12|15}}
+| birth_place     = [[Huntsville, Alabama]], U.S.
+| origin          =
+| death_date      = {{Death date and age|2009|03|2|1928|12|15}}<ref>{{Cite web|url=http://www.cmt.com/news/1606137/grand-ole-opry-member-ernie-ashworth-dies/|archive-url=https://web.archive.org/web/20160304054145/http://www.cmt.com/news/1606137/grand-ole-opry-member-ernie-ashworth-dies/|url-status=dead|archive-date=March 4, 2016|title=Grand Ole Opry Member Ernie Ashworth Dies|website=Cmt.com|access-date=August 4, 2021}}</ref>
+| death_place     = [[Nashville, Tennessee]], U.S.
+| genre           = [[Country music|Country]]
+| occupation      = [[Singing|Singer]], [[broadcasting|broadcaster]]
+| instrument      = 
+| years_active    = 1960–2009
+| label           = Hickory
+| associated_acts = 
+| website         = [http://www.ernieashworth.com/ www.ernieashworth.com]
+}}
+
+'''Ernest Bert Ashworth''' (December 15, 1928<ref name="LarkinCountry"/> – March 2, 2009)<ref name="Obits"/> was an American [[country music]] singer, [[Broadcasting|broadcaster]], and longtime [[Grand Ole Opry]] star. Signed to the Hickory label, he recorded two studio albums in his career and charted several singles on ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]], including the number one "[[Talk Back Trembling Lips]]" and seven other top ten hits.
+
+==Biography==
+Born in [[Huntsville, Alabama]], United States,<ref name="LarkinCountry">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Who's Who of Country Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1993|edition=First|isbn=0-85112-726-6|page=24}}</ref> he began his career singing on Huntsville [[radio station]] [[WBHP]].<ref name="LarkinCountry"/> In 1950, he moved to [[Nashville, Tennessee]],<ref name="LarkinCountry"/> where he worked for several radio stations and was signed by [[Wesley Rose]] as a [[songwriter]] for [[Acuff-Rose Music]]. Among the artists who recorded his songs between 1949 and 1955 were [[Jimmy Dickens]], [[Carl Smith (country musician)|Carl Smith]], [[Johnny Horton]], and [[Paul Anka]].
+
+Success as a recording artist eluded him, however, and in 1957 he returned to Huntsville and began working at the [[US Army]]'s [[Redstone Arsenal]], doing guided missile work.<ref name="LarkinCountry"/> Three years later, Rose arranged a recording contract for him with [[Decca Records]].<ref name="LarkinCountry"/> Billed as Ernest Ashworth, his first single, "Each Moment (Spent With You)", became a Top Five hit.<ref name="LarkinCountry"/> Later that year, "You Can’t Pick A Rose In December" went into the Top Ten; and in 1961, "Forever Gone" reached the Top 20.<ref name="LarkinCountry"/>
+
+In 1962, Ashworth moved to [[Hickory Records]], owned by [[Roy Acuff|Acuff]]-[[Wesley Rose|Rose]], and he scored a Top Five hit with "Everybody But Me", and a Top Ten with "[[I Take the Chance]]".<ref name="LarkinCountry"/>
+
+But it was his third release for Hickory that became a smash hit and his signature song. "Talk Back Trembling Lips" hit number one,<ref name="LarkinCountry"/> and stayed on the national country chart for 42 weeks, and peaked at No.&nbsp;101 on the pop chart.
+
+Voted "Most Promising Male Artist" by ''[[Cashbox (magazine)|Cashbox]]'', ''[[Billboard Magazine|Billboard]]'', and ''[[Record World]]'' magazines in 1963 and 1964, he was invited to join the cast of the [[Grand Ole Opry]] in 1964.<ref name="LarkinCountry"/> More chart records followed including "The D.J. Cried", "At Ease Heart", and "I Love To Dance With Annie".<ref name="LarkinCountry"/> Ashworth continued to be a regular performer at the Opry, but he never had a record to match the success of "Talk Back Trembling Lips".<ref name="LarkinCountry"/>
+
+He also owned a radio station in [[Flomaton, Alabama]], and, in 1989, he purchased radio station [[WSLV]] in [[Ardmore, Tennessee]]. In 1992, Ashworth was inducted into the [[Alabama Music Hall of Fame]]. Always a popular performer overseas, he had a number one song on the UK Independent Chart, "Lonely Only Bar", in 1999 and was also named the "Number One Most Programmed Independent Artist in Europe" that year.
+
+Ashworth remained active as a recording artist until his death in 2009, making appearances at the Grand Ole Opry and spending much of his time tending to the affairs of his radio stations in Ardmore,  and also [[Gallatin, Tennessee]].
+
+Ernie Ashworth died on March 2, 2009, in Nashville, Tennessee, at age 80.<ref name="Obits">{{Cite web|url=https://obits.tennessean.com/us/obituaries/tennessean/name/ernest-ashworth-obituary?pid=124861350|title=Ernest Bert "Ernie" Ashworth Obituary (2009) The Tennessean|website=Legacy.com|access-date=August 4, 2021}}</ref> He had undergone bypass surgery prior to his death.
+
+==Discography==
+===Albums===
+{| class="wikitable"
+! Year
+! Album
+! <small>[[Top Country Albums|US Country]]</small>
+! Label
+|-
+| 1964
+| ''Hits of Today and Tomorrow''
+| align="center"| 18
+| rowspan="2"| Hickory
+|-
+| 1969
+| ''The Best of Ernie Ashworth''
+| align="center"|—
+|-
+| 1976
+| ''Ernest Ashworth Sings His Greatest Hits''<ref>Colin Larkin - ''The Virgin Encyclopedia of Country Music'', {{ISBN|0753502364}}, 1998 p. 17. "COMPILATIONS: The Best Of Ernie Ashworth (Hickory 1968), Ernest Ashworth Sings His Greatest Hits (Starday 1976). "</ref>
+| align="center"|—
+| Starday
+|}
+
+===Singles===
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="1"| Chart Positions
+|-
+! width="50"| <small>[[Hot Country Songs|US Country]]</small>
+|-
+| rowspan="2"| 1960
+| "[[Each Moment (Spent With You)]]"
+| align="center"| 4
+|-
+| "You Can't Pick a Rose in December"
+| align="center"| 8
+|-
+| 1961
+| "Forever Gone"
+| align="center"| 15
+|-
+| rowspan="2"| 1962
+| "Everybody But Me"
+| align="center"| 3
+|-
+| "[[I Take the Chance]]"
+| align="center"| 7
+|-
+| 1963
+| "[[Talk Back Trembling Lips]]"<sup>A</sup>
+| align="center"| 1
+|-
+| rowspan="3"| 1964
+| "A Week in the Country"
+| align="center"| 10
+|-
+| "I Love to Dance with Annie"
+| align="center"| 4
+|-
+| "Pushed in a Corner"
+| align="center"| 11
+|-
+| rowspan="2"| 1965
+| "Because I Cared"
+| align="center"| 18 
+|-
+| "The DJ Cried"
+| align="center"| 8
+|-
+| rowspan="3"| 1966
+| "I Wish"
+| align="center"| 28 
+|-
+| "At Ease Heart"
+| align="center"| 13
+|-
+| "Sad Face"
+| align="center"| 31
+|-
+| rowspan="3"| 1967
+| "Just an Empty Place"
+| align="center"| 63
+|-
+| "My Love for You (Is Like a Mountain Range)"
+| align="center"| 48
+|-
+| "Tender and True"
+| align="center"| 48
+|-
+| 1968
+| "A New Heart"
+| align="center"| 39
+|-
+| rowspan="2"| 1969
+| "Where Do You Go (When You Don't Go with Me)"
+| align="center"| 69
+|-
+| "Love, I Finally Found It"
+| align="center"| 72
+|-
+| 1970
+| "That Look of Good-Bye"
+| align="center"| 72
+|}
+;Notes
+*<sup>A</sup>Peaked at No.&nbsp;1 on [[Bubbling Under Hot 100]].
+*All singles from "I Wish" onward credited to Ernie Ashworth.
+
+==Notes==
+{{Reflist}}
+
+==References==
+*Trott, Walt (1998). "Ernie Ashworth". In ''The Encyclopedia of Country Music''. Paul Kingsbury, Editor. New York: Oxford University Press. p.&nbsp;19.
+
+==External links==
+*{{Official website|http://www.ernieashworth.com/}}
+*[https://web.archive.org/web/20040229024211/http://www.cmt.com/artists/az/ashworth_ernest/artist.jhtml Ernie Ashworth at CMT]
+*[{{AllMusic|class=artist|id=p1508/biography|pure_url=yes}} Ernest Ashworth] at [[AllMusic]]
+*[https://web.archive.org/web/20070927230408/http://www.opry.com/MeetTheOpry/Members.aspx?id=58%2F Ernie Ashworth at the Grand Ole Opry]
+
+{{Grand Ole Opry members}}
+{{Authority control}}
+
+{{DEFAULTSORT:Ashworth, Ernie}}
+[[Category:1928 births]]
+[[Category:2009 deaths]]
+[[Category:Musicians from Huntsville, Alabama]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Decca Records artists]]
+[[Category:Hickory Records artists]]
+[[Category:Grand Ole Opry members]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:Country musicians from Alabama]]
+[[Category:20th-century American male singers]]
+[[Category:Singer-songwriters from Alabama]]
+[[Category:Burials at Woodlawn Memorial Park Cemetery (Nashville, Tennessee)]]

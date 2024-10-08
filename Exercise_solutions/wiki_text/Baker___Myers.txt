@@ -1,0 +1,92 @@
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist
+| name            = Baker & Myers
+| image           =
+| caption         =
+| image_size      =
+| origin          = United States
+| genre           = [[country music|Country]]
+| years_active    = 1994–1995
+| label           = MCG/[[Curb Records|Curb]]
+| past_members    = [[Gary Baker (songwriter)|Gary Baker]]<br />[[Frank J. Myers]]
+}}
+'''Baker & Myers''' was an American [[country music]] duo composed of singer-songwriters [[Gary Baker (songwriter)|Gary Baker]] and [[Frank J. Myers]], who first worked as songwriters for other country music artists; one of their most notable compositions is [[John Michael Montgomery]]'s 1994 crossover hit "[[I Swear]]", which won the Grammy Award for Best Country song a year later; this song was later recorded by pop group [[All-4-One]] as well.
+
+Also in 1995, they recorded one studio album for MCG/[[Curb Records]] as the duo Baker & Myers; this album produced three minor singles on the ''[[Billboard (magazine)|Billboard]]'' Hot Country Singles & Tracks (now [[Hot Country Songs]]) charts. Although they have not recorded any subsequent albums or songs, both Baker and Myers continue to write hit singles.
+
+==Biography==
+Frank Myers first met Gary Baker in the 1980s while working for [[Eddy Raven]]. The two began playing together in 1990 for [[Marie Osmond]] after Baker's previous band called [[The Shooters]] disbanded. It was during this time that Myers and Baker's songwriting flourished. They achieved their first hit single together in 1993 with the song "[[Once Upon a Lifetime]]", which was recorded by [[Alabama (American band)|Alabama]].
+
+In 1987, Myers teamed up with Gary Baker to write the song "[[I Swear]]". The song remained unrecorded for six years, until [[John Michael Montgomery]] recorded it in 1993. Montgomery's version went on to become a Number One single on the country charts; in addition, it netted a [[Grammy Award]] for Best Country Song.<ref name="mag">{{cite web |url=http://www.songwriteruniverse.com/frankmyers123.htm |title=Classic Songwriter Story: How Hit Writer Frank Myers Co-Wrote The Crossover No.&nbsp;1 Smash, "I Swear" |accessdate=January 7, 2008 |last=Kawashima |first=Dale |work=Songwriter Universe|date=July 20, 2007 }}</ref><ref name="allmusic">{{cite web |url={{AllMusic|class=artist|id=p169334|pure_url=yes}} |title=Baker & Myers biography |accessdate=January 7, 2008 |last=Erlewine |first=Stephen Thomas |work=[[Allmusic]]}}</ref> Pop group [[All-4-One]] later enjoyed tremendous crossover success with the same song by taking the song to No.&nbsp;1 on the Pop charts where it stayed for 11 weeks.
+
+Shortly afterward, Frank and Gary were signed to MCG/[[Curb Records]] as the duo Baker & Myers. A self-titled debut album was released in 1995 on the label,<ref name="allmusic"/> producing three minor chart singles on the ''Billboard'' Hot Country Singles & Tracks (now [[Hot Country Songs]]) charts. It became a 3-time nominee for Duo of the Year at the ACM's and CMA's. Although they never recorded after the release of that album, both Baker and Myers have continued their careers as songwriters.
+
+In 2002, they co-wrote "[[I'm Already There (song)|I'm Already There]]" for [[Lonestar]]. A Number One hit on the country music charts for six weeks, it was also declared 2002's Country Song of the year by [[Broadcast Music Incorporated|BMI]].<ref>{{cite web |url=http://findarticles.com/p/articles/mi_m0EIN/is_2002_Nov_6/ai_94006404 |title=BMI Country Awards Declare 'I'm Already There' Song of the Year for Lonestar's Richie McDonald |accessdate=January 7, 2008 |date=November 6, 2002 |work=Business Wire}}</ref>
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:10em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''Baker & Myers''
+| 
+* Release date: October 10, 1995
+* Label: MCG/[[Curb Records]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:12em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Hot Country Songs|US Country]]
+|-
+| 1995
+! scope="row"| "These Arms"
+| 67
+| align="left" rowspan="3"| ''Baker & Myers''
+|- 
+| rowspan="2"| 1996
+! scope="row"| "Years from Here"
+| 48
+|- 
+! scope="row"| "A Little Bit of Honey"
+| 71
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:12em;"| Video
+! Director
+|-
+| 1995
+! scope="row"| "These Arms"
+| 
+|-
+| 1996
+! scope="row"| "Years from Here"
+| Jeffrey Phillips
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.frankmyersmusic.com Frank Myers official website]
+*[http://www.garybakermusic.com Gary Baker official website]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Baker and Myers}}
+[[Category:American country music groups]]
+[[Category:American country music duos]]
+[[Category:Curb Records artists]]
+[[Category:Musical groups established in 1994]]
+[[Category:1994 establishments in Tennessee]]

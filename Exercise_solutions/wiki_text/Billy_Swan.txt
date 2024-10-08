@@ -1,0 +1,392 @@
+{{short description|American musician and songwriter}}
+{{Use mdy dates|date=January 2020}}
+{{Infobox person
+| name               = Billy Swan
+| image              = File:Billy Swan.png
+| alt                = Black and white photo of Billy Swan
+| caption            = 
+| birth_name         = William Lance Swan
+| birth_date         = {{birth date and age|mf=yes|1942|05|12}}
+| birth_place        = [[Cape Girardeau, Missouri]], U.S.
+| occupation         = <!-- The list is organized from most prominent in Swift's career to least prominent. Editorial consensus was reached over the current list, so please do not remove any without discussing in the talk page.-->{{flatlist|
+* Singer-songwriter
+* producer
+}}<!---occupation(s) artist is notable for, "as given in the lead", per: [[Template:Infobox person#Parameters]]-->
+| years_active       = 1962–present
+| spouse             = {{marriage|[[Marlu Swan]]|1973|2003|end=d.}}
+| children           = {{plainlist|
+* [[Planet Swan]]
+* [[Sierra Swan]]
+}}
+| website            = 
+| module             = {{Infobox musical artist|embed=yes
+| origin             = [[Nashville, Tennessee]], U.S.
+| genre              = {{flatlist|
+* [[Country music|country]]
+* [[rock and roll]]
+<!-- see the "Musical Style" section for references-->
+}}
+| past_member_of = [[Black Tie (band)|Black Tie]]
+| instrument         = {{flatlist|
+* Vocals
+* guitar
+* keyboards
+* drums
+}}
+| label              = {{flatlist|
+* [[Monument Records|Monument]]
+* [[A&M Records|A&M]]
+* [[Epic Records|Epic]]
+}}
+}}
+}}
+[[File:Billy Swan - I Can Help - Purple Vinyl.jpg|thumb|Purple vinyl of Billy Swan single "I Can Help", 1974]]
+
+'''William Lance Swan''' (born May 12, 1942)<ref name="LarkinGE">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Encyclopedia of Popular Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1992|edition=First|isbn=0-85112-939-0|page=2427}}</ref> is an American [[Country music|country]] singer-songwriter, best known for his 1974 single "[[I Can Help]]".
+
+==Biography ==
+Swan was born in [[Cape Girardeau, Missouri]], United States.<ref name="LarkinGE"/>  As a child, he learned drums, piano and guitar, and began writing songs. His first big break was in 1962 when [[Clyde McPhatter]] recorded "[[Lover Please]]", a song written by Swan when he was in a local band called Mirt Mirly & the Rhythm Steppers, who had first recorded the song on [[Bill Black]]'s Louis label.<ref name="amg">{{cite web|first = Steve | last = Huey |url=http://www.allmusic.com/artist/billy-swan-mn0000768584/biography |title=Billy Swan &#124; Biography |website=[[AllMusic]] |date=May 12, 1942 |access-date=August 27, 2015}}</ref> McPhatter's version quickly became a No. 7 [[Billboard Hot 100|pop hit]].<ref name="LarkinGE"/>
+
+Swan moved to [[Memphis, Tennessee]], to work with Black,<ref name="LarkinGE"/> but this was cut short with Black's illness and subsequent death in 1965.  It was rumored that Swan worked as a security guard at [[Graceland]]. While he was friends with one of the security guards he never worked at Graceland. He then moved to [[Nashville, Tennessee]], which enabled him to write hit [[country music|country]] songs for numerous artists, including [[Conway Twitty]], [[Waylon Jennings]], and [[Mel Tillis]].<ref name="LarkinGE"/>  In 1969, Swan first took on the role of record producer, producing [[Tony Joe White]]'s [[Top 40|Top Ten]] hit "[[Polk Salad Annie]]".<ref name="LarkinGE"/> Swan also played bass guitar for [[Kris Kristofferson]] and then signed a solo recording deal with [[Monument Records]].<ref name="amg"/>
+
+{{quote box|quote="Here's this guy who really doesn't sing very well at all and not only has he now made more good albums than [[Three Dog Night]] and the [[Mormon Tabernacle Choir]] combined, but they keep getting better. Except maybe for '[[Blue Suede Shoes]]' there are no waste cuts this time, and no mediocrities either. The well-meaning optimism and the insecure persona mesh perfectly, and the tunes are pleasurable throughout, whether he stole them from the [[Sun Records|Sun]] catalogue or wrote them himself."|source=—Review of ''Billy Swan'' in ''[[Christgau's Record Guide: Rock Albums of the Seventies]]'' (1981)<ref name="CG">{{cite book|last=Christgau|first=Robert|author-link=Robert Christgau|year=1981|title=[[Christgau's Record Guide: Rock Albums of the Seventies]]|publisher=[[Ticknor & Fields]]|isbn=089919026X|chapter=Consumer Guide '70s: S|chapter-url=https://www.robertchristgau.com/get_chap.php?k=S&bk=70|access-date=March 12, 2019|via=robertchristgau.com}}</ref>|width=25%|align=right|style=padding:8px;}}
+
+Swan moved to Nashville in 1973 and cut his first album, ''I Can Help'' in early 1974, which included the track "Lover Please". The album budget was only $19,000, and had been declared, pre-release, by a music business professional hired by the president of Monument Records, Fred Foster, that there were no hits on the record. However, the single "[[I Can Help]]" proved this wrong, recorded at [[Young 'Un Sound]] in Murfreesboro, Tennessee.<ref name="LarkinGE"/> It was a [[rockabilly]] number that topped the [[Billboard Hot 100|''Billboard'' Hot 100]] as well as the US and Canadian country [[record chart|charts]] in 1974, also becoming a hit in many other countries.<ref name="LarkinGE"/>
+
+Swan wrote the song on an RMI organ that [[Kris Kristofferson|Kristofferson]] and singer [[Rita Coolidge]] had bought for him as a wedding gift.<ref name="LarkinGE" /> However, the RMI organ wasn't used on the final recording, contrary to popular belief, it was actually a portable [[Farfisa]] from [[Bobby Emmons]], a Memphis session musician.<ref name="Billy Swan 'I Can Help'">{{Cite web |title=Billy Swan 'I Can Help' |url= https://www.soundonsound.com/techniques/billy-swan-can-help |access-date= 2023-03-03 |website= www.soundonsound.com |archive-url=  https://web.archive.org/web/20230303012157/https://www.soundonsound.com/techniques/billy-swan-can-help |archive-date= 2023-03-03}}</ref> Swan recalls, "Chip set up a vocal mic, I stood in front of the organ, and what you hear was captured on the second take."<ref name="Billy Swan 'I Can Help'"/> The lyrics were written in under twenty minutes.<ref name="Billy Swan 'I Can Help'"/> It was recorded in two takes (without [[overdub]]s), and co-produced/engineered by the owner of the recording studio, [[Chip Young]].<ref name="Billy Swan 'I Can Help'"/> The label pushed for "The Ways of a Woman in Love" to be the single, but Young insisted the hit was "I Can Help".<ref name="Billy Swan 'I Can Help'"/> However, other albums with Monument, [[A&M Records|A&M]], and [[Epic Records|Epic]] did not have nearly the success of "I Can Help".<ref name="amg" />
+
+In 1979, Swan traveled to [[Havana]], Cuba, to participate in the historic [[Havana Jam]] festival that took place March 2–4, alongside [[Stephen Stills]], the [[CBS Jazz All-Stars]], the [[Trio of Doom]], [[Fania All-Stars]], [[Weather Report]], [[Bonnie Bramlett]], [[Mike Finnegan]], Kris Kristofferson, Rita Coolidge, and [[Billy Joel]], plus an array of Cuban artists such as [[Irakere]], [[Pacho Alonso]], [[Tata Güines]], and [[Orquesta Aragón]]. His performance is captured on Ernesto Juan Castellanos's documentary ''Havana Jam '79''.{{Citation needed|date=January 2010}}
+
+Swan continued to tour as a member of Kristofferson's band and recorded with [[Randy Meisner]] of [[The Eagles]]. In 1986, he entered a California studio (Bench Records) as part of a band called [[Black Tie (band)|Black Tie]] and along with Meisner, Jimmy Griffin ([[Bread (band)|Bread]]), [[David Kemper]] (drummer), David Miner, and David Mansfield recorded an album called ''When the Night Falls''.<ref name="LarkinGE"/>  He recorded another solo album, ''Like Elvis Used to Do'' in 2000, and another Black Tie-style album with Meisner and Charlie Rich, Jr. billed as "Meisner, Swan & Rich".<ref name="amg"/> {{As of|2005}}, Swan remained a backing singer and [[session musician]].
+
+==Personal life ==
+Swan was married to his late wife Marlu for 30 years. Marlu died on February 12, 2003, from cancer.<ref>{{cite web |url=http://www.semissourian.com/story/102729.html |title=Obituaries: Marlu Swan (02/26/03) |publisher=seMissourian.com |date=February 26, 2003 |access-date=August 27, 2015 |url-status=dead |archive-url=https://web.archive.org/web/20091029172951/http://www.semissourian.com/story/102729.html |archive-date=October 29, 2009  }}</ref> They had two daughters, recording artists Planet Swan and [[Sierra Swan]].
+
+==Discography==
+===Albums===
+{| class="wikitable"
+|-
+!rowspan="2"|Year
+!rowspan="2"|Album
+!colspan="5"|Chart Positions<ref name="Albums">{{cite web|url={{AllMusic|class=artist|id=p20874/charts-awards/billboard-albums|pure_url=yes}} |title=Allmusic ((( Billy Swan > Charts & Awards > Billboard Albums )))}}</ref>
+|-
+!width="45"|<small>[[Top Country Albums|US Country]]</small>
+!width="45"|<small>[[Billboard 200|US]]</small>
+!width="45"|<small>[[Kent Music Report|AUS]]</small><ref name=aus>{{cite book|last=Kent|first=David|author-link=David Kent (historian)|title=Australian Chart Book 1970–1992|edition=illustrated|publisher=Australian Chart Book|location=St Ives, N.S.W.|year=1993|isbn=0-646-11917-6|page=301}}</ref>
+!width="45"|<small>CAN</small>
+!width="45"|<small>[[Norwegian Albums Chart|NOR]]</small>
+|-
+|1974
+|''I Can Help'' (Monument)
+|align=center|1
+|align=center|21
+|align=center|20
+|align=center|34
+|align=center|3
+|-
+|1975
+|''Rock 'n' Roll Moon'' (Monument)
+|align=center|29
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|13
+|-
+|1976
+|''Billy Swan'' (Monument)                                                                                                                               
+|align=center|28
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|-
+|1977
+|''Four'' (Monument (CBS))
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|-
+|1978
+|''You're OK, I'm OK'' (A&M)
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|-
+|1981
+|''I'm into Lovin' You'' (Epic)
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+
+|}
+
+===Singles===
+{| class="wikitable"
+|-
+!rowspan="2"|Year
+!rowspan="2"|Single
+!colspan="9"|Chart Positions<ref name="Singles">{{cite web|url={{AllMusic|class=artist|id=p20874/charts-awards/billboard-singles|pure_url=yes}} |title=Allmusic ((( Billy Swan > Charts & Awards > Billboard Singles )))}}</ref><ref name="British Hit Singles & Albums">{{cite book
+| first= David
+| last= Roberts
+| year= 2006
+| title= British Hit Singles & Albums
+| edition= 19th
+| publisher= Guinness World Records Limited
+| location= London
+| isbn= 1-904994-10-5
+| page= 542}}</ref><ref>{{cite web|url=http://www.collectionscanada.gc.ca/rpm/028020-110.01-e.php?PHPSESSID=rs121n8jekrhfsmg292h0sjra5&q1=billy+swan&x=0&y=0|title=Search results for Billy Swan|work=RPM|access-date=August 10, 2009|archive-url=https://web.archive.org/web/20121012142553/http://www.collectionscanada.gc.ca/rpm/028020-110.01-e.php?PHPSESSID=rs121n8jekrhfsmg292h0sjra5&q1=billy+swan&x=0&y=0|archive-date=October 12, 2012|url-status=dead}}</ref>
+|-
+!width="45"|<small>[[Hot Country Songs|US Country]]</small>
+!width="45"|<small>[[Billboard Hot 100|US]]</small>
+!width="45"|<small>[[Hot Adult Contemporary Tracks|US AC]]</small>
+!width="45"|<small>CAN Country</small>
+!width="45"|<small>CAN</small>
+!width="45"|<small>CAN AC</small>
+!width="45"|<small>[[German Singles Chart|GER]]</small>
+!width="45"|<small>[[Kent Music Report|AUS]]</small><ref name=aus/>
+!width="45"|<small>[[UK Singles Chart|UK]]</small>
+|-
+|1974
+|"[[I Can Help]]"
+|align=center|1
+|align=center|1
+|align=center|6
+|align=center|1
+|align=center|2
+|align=center|4
+|align=center|1
+|align=center|1
+|align=center|6
+|-
+|rowspan=3|1975
+|"I'm Her Fool"
+|align=center|—
+|align=center|53
+|align=center|—
+|align=center|—
+|align=center|93
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|-
+|"[[Don't Be Cruel]]"
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|26
+|align=center|—
+|align=center|42
+|-
+|"[[Everything's the Same (Ain't Nothing Changed)]]"
+|align=center|17
+|align=center|91
+|align=center|—
+|align=center|29
+|align=center|62
+|align=center|—
+|align=center|36
+|align=center|84
+|align=center|—
+|-
+|rowspan=3|1976
+|"Just Want to Taste Your Wine" <small>(with [[The Jordanaires]])</small>
+|align=center|45
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|-
+|"You're the One"
+|align=center|75
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|-
+|"[[Shake, Rattle and Roll]]"
+|align=center|95
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|-
+|rowspan=2|1978
+|"Hello! Remember Me"
+|align=center|30
+|align=center|—
+|align=center|—
+|align=center|46
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|-
+|"No Way Around (It's Love)"
+|align=center|97
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|-
+|rowspan=3|1981
+|"Do I Have to Draw a Picture"
+|align=center|18
+|align=center|—
+|align=center|—
+|align=center|29
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|-
+|"I'm into Lovin' You"
+|align=center|18
+|align=center|—
+|align=center|—
+|align=center|28
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|-
+|"Stuck Right in the Middle of Your Love"
+|align=center|19
+|align=center|—
+|align=center|—
+|align=center|35
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|-
+|rowspan=2|1982
+|"With Their Kind of Money and Our Kind of Love"
+|align=center|32
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|-
+|"Your Picture Still Loves Me (And I Still Love You)"
+|align=center|56
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|-
+|rowspan=2|1983
+|"Rainbows and Butterflies"
+|align=center|39
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|-
+|"Yes"
+|align=center|67
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|-
+|1986
+|"You Must Be Lookin' for Me"
+|align=center|45
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|-
+|1987
+|"[[I'm Gonna Get You (Billy Swan song)|I'm Gonna Get You]]"
+|align=center|63
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|}
+
+==See also==
+*[[List of artists who reached number one in the United States]]
+*[[List of 1970s one-hit wonders in the United States]]
+*[[List of artists who reached number one on the Australian singles chart]]
+*[[List of performers on Top of the Pops]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.elvis.com.au/presley/interview_billy_swan.shtml Interview with Billy Swan]
+*[https://archive.today/20130210045743/http://music.yahoo.com/ar-265658-bio--Billy-Swan Yahoo! Music biography]
+*[http://www.rockabillyhall.com/SwanBilly1.html Billy Swan at Rockabilly] {{Webarchive|url=https://web.archive.org/web/20141220164656/http://www.rockabillyhall.com/SwanBilly1.html |date=December 20, 2014 }}
+*[http://www.discogs.com/artist/Billy+Swan Billy Swan at Discogs]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Swan, Billy}}
+[[Category:1942 births]]
+[[Category:Living people]]
+[[Category:American male singer-songwriters]]
+[[Category:American country rock singers]]
+[[Category:People from Cape Girardeau, Missouri]]
+[[Category:American session musicians]]
+[[Category:American country singer-songwriters]]
+[[Category:Monument Records artists]]
+[[Category:Red Baron Records artists]]
+[[Category:Singer-songwriters from Missouri]]
+[[Category:Country musicians from Missouri]]
+[[Category:Black Tie (band) members]]

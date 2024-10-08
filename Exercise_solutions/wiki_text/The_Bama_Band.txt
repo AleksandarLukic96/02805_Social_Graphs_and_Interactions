@@ -1,0 +1,155 @@
+{{Short description|American country music group}}
+{{Infobox musical artist | <!-- See Wikipedia:WikiProject Musicians -->
+| name            = The Bama Band
+| image             =
+| caption        =
+| image_size        = 
+| background      = group_or_band
+| alias           = 
+| origin          = [[United States|USA]]
+| genre           = [[Country music|Country]]
+| years_active    = 1982-present
+| label           = Oasis, Soundwaves, Compleat, [[Universal Music Group Nashville|Mercury Nashville]], [[Capitol Records|Capitol Nashville]], Ginnin' Cotton
+| associated_acts = [[Hank Williams Jr.]]
+| website             = 
+| current_members = Wayne "Animal" Turner<br />"Cowboy" Eddie Long<br />Jerry McKinney<br />Ray Barrickman<br />William Claude Marshall<br />[[Billy Earheart]]
+| past_members    = Paul Eugene "Dixie" Hatfield<br />[[Lamar Morris]]<br />Vernon Derrick<br />Robert "Bob" Williams
+}}
+'''The Bama Band''' is an American [[country music]] group composed of Lamar Morris (vocals, guitar), Wayne "Animal" Turner (guitar), "Cowboy" Eddie Long (steel guitar), Jerry McKinney (saxophone), Vernon Derrick (fiddle), Ray Barrickman (bass), [[Billy Earheart]] (keyboards) and William Claude Marshall (drums). For more than twenty years, the Bama Band was the backing band for [[Hank Williams, Jr.]]<ref>[{{Allmusic|class=artist|id=p1516|pure_url=yes}} The Bama Band Biography]</ref> The Bama Band was nominated twice for Band of the Year by the [[Academy of Country Music]].<ref>[http://www.billyearheart.com/bebama.htm Billy Earheart]</ref> They also found success on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles]] chart in the 1980s with singles like "Dallas," "Tijuana Sunrise" and "What Used to Be Crazy." An eponymous album released on Compleat Records in 1985 charted on the ''Billboard'' [[Top Country Albums]] chart.<ref>[{{Allmusic|class=artist|id=p1516/charts-awards|pure_url=yes}} The Bama Band Charts & Awards]</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable"
+! Year
+! Album
+! width="45"| <small>[[Top Country Albums|US Country]]</small>
+! Label
+|-
+| 1985
+| ''The Bama Band''
+| align="center"| 61
+| Compleat
+|-
+| 1988
+| ''Solid Ground''
+| align="center"| —
+| Mercury
+|-
+| 1990
+| ''Takin' Off the Edge''
+| align="center"| —
+| Capitol
+|-
+| 2004
+| ''Beale St. Boogie''
+| align="center"| —
+| Ginnin' Cotton
+|}
+
+===Singles===
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="2"| Chart Positions
+! rowspan="2"| Album
+|-
+! width="50"| <small>[[Hot Country Songs|US Country]]</small>
+! width="50"| <small>CAN Country</small>
+|-
+| 1982
+| "Dallas"
+| align="center"| 54
+| align="center"| —
+| rowspan="2"| singles only
+|-
+| 1983
+| "Tijuana Sunrise"
+| align="center"| 56
+| align="center"| —
+|-
+| 1985
+| "What Used to Be Crazy"
+| align="center"| 60
+| align="center"| —
+| rowspan="2"| ''The Bama Band''
+|-
+| 1986
+| "I've Changed My Mind"
+| align="center"| 70
+| align="center"| —
+|-
+| 1987
+| "Suddenly Single"
+| align="center"| 64
+| align="center"| —
+| single only
+|-
+| rowspan="2"| 1988
+| "Southern Accent"
+| align="center"| 71
+| align="center"| —
+| rowspan="3"| ''Solid Ground''
+|-
+| "Real Old-Fashioned Broken Heart"
+| align="center"| 69
+| align="center"| —
+|-
+| 1989
+| "When We Get Back to the Farm"
+| align="center"| 87
+| align="center"| —
+|-
+| rowspan="2"| 1990
+| "She's Movin' In"
+| align="center"| —
+| align="center"| 93
+| rowspan="2"| ''Takin' Off the Edge''
+|-
+| "My Reckless Heart"
+| align="center"| &mdash;
+| align="center"| &mdash;
+|-
+|}
+
+===Guest singles===
+{| class="wikitable"
+|-
+! Year
+! Single
+! Artist
+! Album
+|-
+| 1990
+| "All My Rowdy Friends Are Coming Over for Monday Night Football"
+| [[Hank Williams, Jr.]]
+| ''[[America (The Way I See It)]]''
+|}
+
+===Music videos===
+{| class="wikitable"
+|-
+! Year
+! Video
+! Director
+|-
+| 1988
+| "Real Old-Fashioned Broken Heart"
+| Mac Bennett/Jim May
+|-
+| 1990
+| "My Reckless Heart"
+| 
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[{{Allmusic|class=artist|id=p1516|pure_url=yes}} The Bama Band] at [[Allmusic]]
+
+{{Authority control}}
+{{DEFAULTSORT:Bama Band}}
+[[Category:American country music groups]]
+
+
+{{US-country-band-stub}}

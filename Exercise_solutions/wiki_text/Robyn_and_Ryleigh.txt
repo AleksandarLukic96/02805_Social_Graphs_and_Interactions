@@ -1,0 +1,91 @@
+{{short description|Canadian country music duo}}
+{{Use dmy dates|date=December 2018}}
+{{Infobox musical artist
+| name            = Robyn and Ryleigh
+| image           =
+| caption         =
+| image_size      =
+| origin          = [[Langley, British Columbia (city)|Langley]], [[British Columbia]], Canada
+| genre           = [[Country music|Country]]
+| years_active    =
+| label           = [[Royalty Records]]
+| website         = {{URL|www.robynandryleigh.com}}
+| current_members = Robyn Gillespie<br />Ryleigh Gillespie
+}}
+
+'''Robyn and Ryleigh''' Gillespie are a sister duo of country/pop singer-songwriters from [[Langley, British Columbia (city)|Langley]], [[British Columbia]].<ref>{{Cite web|url=https://www.bclocalnews.com/entertainment/robyn-and-ryleigh-go-on-the-record/|title = Robyn and Ryleigh go on the record|date = 23 March 2015}}</ref><ref>{{cite web| url = https://www.cbc.ca/news/canada/british-columbia/cbc-musical-nooners-july-29-robyn-ryleigh-1.3168427| title = CBC Musical Nooners July 29: Robyn & Ryleigh {{!}} CBC News}} </ref>
+
+In 2013, their self-titled debut album ''Robyn and Ryleigh'' was released on Raincoast Music/[[MDM Recordings Inc.|MDM Recordings]].<ref>{{Cite web |title=About – Robyn & Ryleigh |url=http://www.robynandryleigh.com/about/ |website=Robyn & Ryleigh |access-date=2015-10-16 |archive-url=https://web.archive.org/web/20150915040921/http://www.robynandryleigh.com/about/ |archive-date=2015-09-15 |url-status=live }}</ref>
+
+Robyn & Ryleigh were signed to [[Royalty Records]] in 2015, and have distribution through [[Sony Music Canada|Sony Music Entertainment]]. The sisters released a single with Royalty called "I Found You" on 18 May 2015.<ref>{{Cite web |title=New Music & Video From Sister Duo Robyn & Ryleigh |url=http://royaltyrecords.ca/?p=5934 |website=Royalty Records |access-date=2015-10-16 |archive-url=https://web.archive.org/web/20150905083050/http://royaltyrecords.ca/?p=5934 |archive-date=2015-09-05 |url-status=live }}</ref>
+
+Robyn and Ryleigh were nominated in 2015 for British Columbia Country Music Association awards (BCCMA Awards) in the categories of Group/Duo of the Year, Songwriter of the Year, and Website of the Year.<ref>{{Cite web |title=Robyn & Ryleigh Nominated in 3 Categories at This Year's BC Country Music Association Awards |url=http://royaltyrecords.ca/?p=6145 |website=Royalty Records |access-date=2015-10-16 |archive-url=https://web.archive.org/web/20160304023637/http://royaltyrecords.ca/?p=6145 |archive-date=2016-03-04 |url-status=live }}</ref>
+
+== Discography ==
+
+=== Studio albums ===
+{| class="wikitable plainrowheaders"
+|-
+! style="width:12em;" | Title
+! style="width:18em;" | Details
+|-
+! scope="row" | ''Robyn and Ryleigh''
+|
+* Release date: 16 July 2013
+* Label: [[MDM Recordings Inc.|MDM Recordings]]
+|-
+! scope="row" | ''By Heart''
+|
+* Release date: 15 January 2016
+* Label: [[Royalty Records]]
+|}
+
+=== Singles ===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;" | Single
+! Album
+|-
+| 2013
+! scope="row" | "Just Another Sundown"
+| ''Robyn and Ryleigh''
+|-
+| 2015
+! scope="row" | "I Found You"
+| ''By Heart''
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;"| Video
+|-
+| 2012
+! scope="row"| "Our Own Way Of Loving"
+|-
+| 2013
+! scope="row"| "Just Another Sundown"
+|-
+| rowspan="2"| 2015
+! scope="row"| "I Found You"
+|-
+! scope="row"| "By Heart"
+|}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{Official website|http://www.robynandryleigh.com}}
+
+{{Authority control}}
+
+[[Category:Canadian country music duos]]
+[[Category:Musical groups from British Columbia]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+
+
+{{Canada-country-band-stub}}

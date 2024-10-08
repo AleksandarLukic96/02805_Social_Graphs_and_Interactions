@@ -1,0 +1,95 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist
+| name                = Roger Springer
+| image                 = 
+| image_size            = 
+| background          = solo_singer
+| birth_name          = {{birth date and age|1962|6|15}}
+| origin              = [[Caddo, Oklahoma]], US
+| instrument          = Vocals, guitar
+| genre               = [[Country music|Country]]
+| occupation          = Singer-songwriter
+| years_active        = 1992–present
+| label               = [[MCA Nashville]]<br />[[Giant Records (Warner Bros. subsidiary label)|Giant]]
+| associated_acts     = [[Mark Chesnutt]]
+| website                 = 
+}}
+
+'''Roger Springer''' (born June 15, 1962, in [[Caddo, Oklahoma]]) is an American [[country music]] artist. Springer's only single as a solo artist, "The Right One Left," was released in 1992 on [[MCA Nashville]] and peaked at No.&nbsp;69 on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles & Tracks]] chart.
+
+In 1998, Springer formed the country music trio '''Springer!''' with Shara Johnson and Joe Manuel.<ref name="business">[http://www.allbusiness.com/retail-trade/miscellaneous-retail-retail-stores-not/4627561-1.html Popular Uprisings: Billboard's Weekly Coverage Of Hot Prospects For The Heatseekers Chart]</ref> Their first single, "Don't Try to Find Me," peaked at No.&nbsp;64 on the Hot Country Singles & Tracks chart.<ref>[{{AllMusic|class=album|id=r424068/charts-awards|pure_url=yes}} allmusic ((( The Roger Springer Band > Charts & Awards > Billboard Singles )))]</ref> A second single, "Ain't Nothing but a Cloud," was released in 1999 but failed to chart. Renamed '''The Roger Springer Band''', [[Giant Records (Warner Bros. subsidiary label)|Giant]] released the trio's eponymous debut album in July 1999 shortly before they disbanded.
+
+As a songwriter, Springer has co-written single releases by [[Mark Chesnutt]] ("I Might Even Quit Lovin' You," "[[It's a Little Too Late (Mark Chesnutt song)|It's a Little Too Late]]," "Let It Rain," "Thank God for Believers"), [[Sammy Kershaw]] ("Matches")<ref name="business" /><ref>[{{AllMusic|class=artist|id=p317853/songs/songs-composed-by|pure_url=yes}} allmusic ((( Roger Springer > Songs > Songs Composed By )))]</ref> and [[Love and Theft (band)|Love and Theft]] ("[[Dancing in Circles]]").
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:14em;"| Title
+! style="width:16em;"| Album details
+|-
+! scope="row"| ''The Roger Springer Band''
+| 
+* Release date: July 20, 1999
+* Label: [[Giant Records (Warner)|Giant Records]]
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| 1992
+! scope="row"| "The Right One Left"
+| 69
+| —
+| align="left"| single only
+|-
+| 1998
+! scope="row"| "Don't Try to Find Me"
+| 64
+| 92
+| align="left" rowspan="2"| ''The Roger Springer Band''
+|-
+| 1999
+! scope="row"| "Ain't Nothing but a Cloud"
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;"| Video
+|-
+| 1992
+! scope="row"| "The Right One Left"
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[{{AllMusic|class=artist|id=p317853|pure_url=yes}} allmusic ((( Roger Springer > Overview )))]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Springer, Roger}}
+[[Category:1962 births]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Giant Records (Warner) artists]]
+[[Category:Living people]]
+[[Category:MCA Records artists]]

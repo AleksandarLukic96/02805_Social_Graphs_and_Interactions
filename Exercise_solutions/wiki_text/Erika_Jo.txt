@@ -1,0 +1,107 @@
+{{short description|American singer-songwriter}}
+
+{{Infobox musical artist
+|image = <!-- only free-content images are allowed for depicting living people. Non-free and "fair use" images, e.g. promo photos, CD/DVD covers, posters, screen captures, etc., will be deleted - see [[WP:NONFREE]] --> |
+|image_size = 150 |
+|name = Erika Jo 
+|| caption            = 
+|background = solo_singer
+|birth_name = Erika Jo Heriges
+|birth_date = {{birth date and age|1986|11|2}}
+|birth_place = [[Angleton, Texas]], U.S.
+|origin = [[Mount Juliet, Tennessee]], U.S.
+|occupation = Singer
+|genre = [[Country music|Country]]
+|years_active = 2005&ndash;2007
+|label = [[Universal South Records|Universal South]]
+}}
+
+'''Erika Jo Vastola''' (née '''Heriges''', born November 2, 1986, in [[Angleton, Texas]]), known simply by the [[stage name]] '''Erika Jo''', is an American [[country music]] recording artist who was declared winner of the 2005 season of the ''[[Nashville Star]]'' television program. Eighteen years old at the time, Erika Jo is both the youngest person to win the competition and the first female winner. She was signed to [[Universal South Records]] in 2005 and released her [[Erika Jo (album)|self-titled debut album]], which produced a chart single in "I Break Things", a No.&nbsp;53 on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] charts. A second single from the album, a cover of the [[Jessi Colter]] hit, "[[I'm Not Lisa]]", failed to chart, and she was dropped from Universal South in 2007.
+
+==Early life==
+Erika Jo is the daughter of Bo and Paige Heriges. Erika Jo grew up in [[Mount Juliet, Tennessee]], 15 miles east of [[Nashville, Tennessee|Nashville]], and is a 2005 graduate of Wilson Central High School in [[Lebanon, Tennessee]].
+
+==Career==
+Erika Jo was also a national finalist in the 1999 [[Colgate Country Showdown|True Value Country Showdown (now called the Colgate Country Showdown)]], a talent competition consisting of regional winners from across the United States. She also competed on the singing competition ''[[Nashville Star]]'' in 2005 and won first plce.<ref>{{cite web | url=https://www.allmusic.com/artist/erika-jo-mn0000376806/biography | title=Erika Jo biography | publisher=AllMusic | accessdate=March 26, 2022}}</ref>
+
+Her first single, "I Break Things", was released immediately upon her ''Nashville Star'' victory. The [[music video]] received heavy rotation on [[Country Music Television|CMT]] and [[Great American Country|GAC]], but the song peaked at No.&nbsp;53. One subsequent single ("[[I'm Not Lisa]]") was released; it failed to reach the charts. Her only professional album, ''[[Erika Jo (album)|Erika Jo]]'', was released by [[Universal South Records]] on June 14, 2005 and debuted at No.&nbsp;5 on [[Billboard magazine|Billboard]]'s country album chart, but the album, like its first single, enjoyed very limited success after its initial launch, selling just 118,829 copies through its first 11 months in release.<ref>[http://www.tennessean.com/apps/pbcs.dll/article?AID=/20060503/ENTERTAINMENT12/605030432] {{Dead link|date=July 2022}} ''Tennessean.com'' Retrieved on 06-07-07</ref> She was later dropped from Universal South.
+
+==Personal life==
+Erika Jo married Stephen Vastola in 2013. They reside in suburban Nashville.
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:10em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="2"| Peak chart<br>positions
+|- style="font-size:smaller;"
+! width="40"| [[Top Country Albums|US Country]]<br><ref>{{cite magazine|url={{BillboardURLbyName|artist=erika jo|chart=Country Albums C}}|title=Erika Jo Album & Song Chart History - Country Albums|magazine=Billboard|accessdate=July 18, 2011}}</ref>
+! width="40"| [[Billboard 200|US]]<br><ref>{{cite magazine|url={{BillboardURLbyName|artist=erika jo|chart=all}}|title=Erika Jo Album & Song Chart History - Billboard 200|magazine=Billboard|accessdate=July 18, 2011}}</ref>
+|-
+! scope="row"| ''[[Erika Jo (album)|Erika Jo]]''
+| 
+* Release date: June 14, 2005
+* Label: [[Universal South Records]]
+* Formats: [[Compact disc|CD]], [[music download]]
+| 5
+| 27
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:10em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="60"| [[Hot Country Songs|US Country]]<br><ref>{{cite magazine|url={{BillboardURLbyName|artist=erika jo|chart=Country Songs}}|title=Erika Jo Album & Song Chart History - Country Songs|magazine=Billboard|accessdate=July 18, 2011}}</ref>
+|-
+| rowspan="2"| 2005
+! scope="row"| "I Break Things"
+| 53
+| align="left" rowspan="2"| ''Erika Jo''
+|-
+! scope="row"| "[[I'm Not Lisa]]"
+| —
+|-
+| colspan="10" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:10em;"| Video
+! Director
+|-
+| 2005
+! scope="row"| "I Break Things"
+| [[Warren P. Sonoda]]
+|-
+|}
+
+==References==
+{{reflist}}
+
+{{Nashville Star}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Erika Jo}}
+[[Category:1986 births]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Singers from Houston]]
+[[Category:People from Angleton, Texas]]
+[[Category:Living people]]
+[[Category:Nashville Star contestants]]
+[[Category:Nashville Star winners]]
+[[Category:Show Dog-Universal Music artists]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:21st-century American women singers]]
+[[Category:Singer-songwriters from Texas]]

@@ -1,0 +1,96 @@
+{{short description|American musician}}
+{{More footnotes needed|date=August 2021}}
+{{Use mdy dates|date=January 2020}}
+{{Infobox musical artist 
+| name            = Stoney Cooper
+| image           = Stoney Cooper.jpg
+| caption         = 
+| image_size      = 
+| background      = solo_singer
+| birth_name      = Dale Troy Cooper
+| alias           = 
+| birth_date      = {{birth date|1918|10|16}}
+| birth_place     = [[Harman, West Virginia]], U.S.
+| death_date      = {{death date and age|1977|03|22|1918|10|16}}
+| instrument      = [[Fiddle]], guitar
+| genre           = [[Country music|Country]]
+| occupation      = Singer
+| years_active    = 1947–1969
+| label           = [[Hickory Records|Hickory]]
+| past_member_of = [[Wilma Lee Cooper]]
+| website             = 
+}}
+
+'''Dale Troy Cooper''' (October 16, 1918 – March 22, 1977),<ref name="LarkinCountry">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Who's Who of Country Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1993|edition=First|isbn=0-85112-726-6|pages=94/5}}</ref> known professionally as '''Stoney Cooper''', was an American [[country music|country]] star and member of the [[Grand Ole Opry]]. He played the [[fiddle]] and the guitar.
+
+==Biography==
+Cooper was the son of Kenny and Stella (Raines) Cooper of [[Harman, West Virginia]], United States.<ref name="LarkinCountry"/>  His family was among the first settlers of Randolph and Pendleton counties, and these roots in the Appalachian mountains had an impact upon his music.
+
+While in high school, Cooper was a member of the Leary Family Singers.<ref name="LarkinCountry"/> In 1939, he married [[Wilma Lee]] Leary.<ref name="LarkinCountry"/> They became Wilma Lee and Stoney Cooper, one of the biggest country music acts of the 1940s through the 1960s.  They had one daughter, Carol Lee Cooper.<ref name="LarkinCountry"/>
+
+In 1947, they were cast members of ''[[WWVA Jamboree]]'' in [[Wheeling, West Virginia]] until 1957.<ref name="LarkinCountry"/> Their band was called The Clinch Mountain Clan.  In 1948, Cooper signed a recording contract with Columbia with the help of [[Fred Rose (musician)|Fred Rose]] that lasted to 1955. In 1954, Cooper joined the [[Grand Ole Opry]].<ref name="LarkinCountry"/>
+
+He also recorded for [[Rich-R-Tone Records|Rich-R-Tone]], [[Hickory Records]] and [[Decca Records|Decca]].
+
+==Death==
+In 1973, Stoney's health began to fail; he suffered a series of heart attacks and spent long periods in the hospital.<ref name="LarkinCountry"/> Finally, he suffered a heart attack on February 4, 1977, from which he died in the intensive care unit of a Nashville hospital on March 22, 1977.<ref name="LarkinCountry"/>
+
+==Discography==
+===Singles with Wilma Lee Cooper===
+{| class="wikitable"
+! Year
+! Single
+! width="45"| <small>[[Hot Country Songs|US Country]]</small>
+|-
+| 1956
+| "Cheated Too"
+| align="center"| 14
+|-
+| 1958
+| "Come Walk with Me" <small>(with Carol Lee)</small>
+| align="center"| 4
+|-
+| rowspan="2"| 1959
+| "[[Big Midnight Special]]"
+| align="Center"| 4
+|-
+| "There's a Big Wheel"
+| align="center"| 3
+|-
+| rowspan="2"| 1960
+| "Johnny, My Love (Grandma's Diary)"
+| align="center"| 17
+|-
+| "[[This Ole House]]"
+| align="center"| 16
+|-
+| 1961
+| "[[Wreck on the Highway (1938 song)|Wreck on the Highway]]"
+| align="center"| 8
+|}
+
+==References==
+{{Reflist}}
+
+==Bibliography==
+* ''The Country Music Encyclopedia'', Melvin Shestack. 1974, KBO Publishers, Inc., {{ISBN|978-0690004427}}
+* ''Country Music, U.S.A.'', Bill C. Malone. 1985, University of Texas Press, {{ISBN|978-0-292-72329-0}}
+
+==External links==
+*[{{AllMusic|class=artist|id=p66398/biography|pure_url=yes}} Stony Cooper at allmusic.com]
+* [http://rurallibrarianwv.blogspot.com/2014/09/who-was-wilma-lee-and-stoney-cooper.html Biography]
+
+{{Grand Ole Opry members}}
+{{West Virginia Music Hall of Fame}}
+{{Authority control}}
+
+{{DEFAULTSORT:Cooper, Stoney}}
+[[Category:1918 births]]
+[[Category:1977 deaths]]
+[[Category:People from Randolph County, West Virginia]]
+[[Category:American country singer-songwriters]]
+[[Category:American country fiddlers]]
+[[Category:Grand Ole Opry members]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:Country musicians from West Virginia]]
+[[Category:Singer-songwriters from West Virginia]]

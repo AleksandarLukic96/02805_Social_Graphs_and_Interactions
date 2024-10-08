@@ -1,0 +1,109 @@
+{{short description|American country music singer-songwriter (born 1959)}}
+{{Distinguish|Scott McCuaig}}
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist
+| name                = Scott McQuaig
+| image               = 
+| image_size          = 
+| background          = solo_singer
+| birth_name          = 
+| alias               = 
+| birth_date          = {{birth date and age|1959|01|27}}
+| origin              = [[Meridian, Mississippi]]
+| instrument          = Vocals
+| genre               = [[Country music|Country]]
+| occupation          = Singer-songwriter
+| years_active        = 1981–present
+| label               = [[Universal Records (1988 record label)|Universal]], [[Capitol Records|Capitol]], Scott McQuaig Records
+| associated_acts     = Scott McQuaig and The Tomcats
+| website                 = www.scottmcquaigmusic.com
+}}
+'''Scott McQuaig''' (born January 27, 1959, in [[Meridian, Mississippi]]<ref name="PCM">{{cite web |url=https://procountrymusic.com/2020/03/23/a-song-away-from-you-the-scott-mcquaig-story/ |title=A Song Away From You; The Scott McQuaig Story |website=ProCountryMusic.com |date=Mar 23, 2020 |access-date=May 7, 2024}}</ref>) is an American [[country music]] singer-songwriter. In 1989, McQuaig charted two singles on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs|Hot Country Singles & Tracks]] chart.<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2005|publisher=Record Research, Inc|page=249|year=2005|isbn=0-89820-165-9}}</ref> A third single charted on the ''[[RPM (magazine)|RPM]]'' Country Tracks chart in Canada in 1990.<ref name="rpm">{{cite web|url=http://www.collectionscanada.gc.ca/rpm/028020-119.01-e.php?brws_s=1&file_num=nlc008388.1274&type=1&interval=24&PHPSESSID=40kb0m3fdo6j26trfhabp6l4k2|title=RPM Country Tracks for July 21, 1990|work=[[RPM (magazine)|RPM]]|accessdate=December 17, 2010}}</ref>
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:10em;"| Title
+! style="width:18em;"| Album details
+|- 
+! scope="row"| ''Scott McQuaig''
+| 
+* Release date: March 27, 1990
+* Label: [[Capitol Records]]
+|- 
+! scope="row"| ''I'm Still Falling''
+| 
+* Release date: November 10, 2012
+* Label: Scott McQuaig Music
+|-
+!''A Song Away from You''
+!
+* Release date: April 14, 2018
+* Label: Scott McQuaig Music
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:16em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="2"| 1989
+! scope="row"| "Honky Tonk Amnesia"
+| 56
+| —
+| align="left" rowspan="3"| ''Scott McQuaig''
+|-
+! scope="row"| "Johnny and the Dreamers"
+| 54
+| —
+|-
+| 1990
+! scope="row"| "Old Memory"
+| —<sup>A</sup>
+| 52
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+'''Notes:'''
+*<sup>A</sup> "Old Memory" did not chart on Hot Country Songs, but peaked at No. 6 on Hot Country Radio Breakouts.<ref>{{cite magazine|url=http://americanradiohistory.com/Archive-Billboard/90s/1990/BB-1990-03-31.pdf|title=Hot Country Radio Breakouts|date=March 31, 1990|magazine=Billboard}}</ref>
+
+==Music videos==
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:20em;"| Video
+! Director
+|-
+| 1989
+| "Honky Tonk Amnesia"<ref>{{cite magazine|url=http://americanradiohistory.com/Archive-Billboard/80s/1989/BB-1989-07-22.pdf|title=New Videoclips|magazine=[[Billboard (magazine)|Billboard]]|date=July 22, 1989|accessdate=November 17, 2016}}</ref>
+| Jim May
+|}
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:McQuaig, Scott}}
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Living people]]
+[[Category:1959 births]]
+[[Category:Americana musicians]]
+[[Category:Musicians from Meridian, Mississippi]]
+[[Category:Singer-songwriters from Mississippi]]
+[[Category:Country musicians from Mississippi]]
+[[Category:Universal Records (1988) artists]]
+
+
+{{US-country-singer-stub}}

@@ -1,0 +1,5 @@
+#REDIRECT [[Wes Mack]]
+
+{{Redirect category shell|
+{{R from move}} {{R to stage name}}
+}}

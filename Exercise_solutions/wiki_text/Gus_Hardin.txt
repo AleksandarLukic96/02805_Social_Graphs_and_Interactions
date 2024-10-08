@@ -1,0 +1,170 @@
+{{More citations needed|date=November 2013}}
+{{Infobox musical artist
+| name            = Gus Hardin
+| image           = Gus Hardin (1983 RCA press photo).jpg
+| caption         = Hardin, {{circa|1983}}
+| birth_name      = Carolyn Ann Blankenship
+| alias           =
+| birth_place     = [[Tulsa, Oklahoma|Tulsa]], [[Oklahoma]], U.S.
+| birth_date      = {{Birth date|1945|04|09}}
+| death_date      = {{Death date and age|1996|2|17|1945|4|9}}
+| death_place     = [[Salina, Oklahoma]], U.S.
+| instrument      = Vocals
+| genre           = [[Country music|Country]]
+| occupation      = Singer
+| years_active    = 1983–1996
+| label           = [[RCA Records|RCA]]
+}}
+
+'''Gus Hardin''' (born '''Carolyn Ann Blankenship'''; April 9, 1945 – February 17, 1996) was a [[country music]] singer. She recorded for [[RCA Records]] between 1983 and 1986, releasing two albums and one extended play. In addition to these, she had a hit single with the [[Earl Thomas Conley]] duet "[[All Tangled Up in Love]]".
+
+==Career==
+Carolyn Ann Blankenship was born in 1945 in [[Tulsa, Oklahoma|Tulsa]], [[Oklahoma]]. Her rise to country music popularity began in 1983 with her first single for [[RCA Records]], the top 10 hit "After The Last Goodbye." Other hits, such as "Fallen Angel," "I Pass," "Lovin' You Hurts" and "If I Didn't Love You" soon followed,  as well as "All Tangled Up in Love," a duet with [[Earl Thomas Conley]]. She recorded and released "One of the Boys" and "Mama Knows" by songwriter Kevin Weyl, and "Tornado" by Kevin Weyl and Steve Robertson which is featured in the sound track of the Kevin Pollak film ''[[Deterrence (film)|Deterrence]]''.
+
+Hardin married keyboard player [[Steve Hardin]], who was a member of the group Point Blank, and after their divorce kept his last name. [[Garth Brooks]]' sister, Betsy Smittle, was one of Gus's band members and did background vocals on Gus's album ''I'm Dancing as Fast as I Can''.
+
+==Death==
+On February 17, 1996, Hardin died in a car accident on [[Oklahoma State Highway 20|State Highway 20]] west of [[Salina, Oklahoma]] near her home in the Lake Hudson area.<ref>[http://www.tulsaworld.com/news/article.aspx?no=subj&articleid=553972 Singer Gus Hardin Killed in Accident]. TulsaWorld.com (February 18, 1996). Retrieved on August 12, 2011.</ref> A laboratory report listed her blood alcohol level at 0.28 percent.<ref>[https://tulsaworld.com/archive/report-hardins-blood-alcohol-level-was-0-28/article_5509e565-44f6-5dc9-b01e-921ae3059de2.html Singer's blood alcohol level was 0.28 percent]. TulsaWorld.com (April 12, 1996). Retrieved on July 14, 2021.</ref>  Memorial services were held in Oklahoma and [[Nashville, Tennessee]]. Gus Hardin is survived by daughter Toni Jones and granddaughter Chelsea Johnson, both of Sapulpa, Oklahoma.
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style=text-align:center;
+|-
+! scope="col" rowspan="2" style="width:14em;"| Title
+! scope="col" rowspan="2" style="width:12em;"| Details
+! scope="col"| Peak positions
+|- style="font-size:smaller;"
+! width="40"| [[Top Country Albums|US Country]]<br/><ref name="Country Albums">{{cite magazine|url=https://www.billboard.com/artist/gus-hardin/chart-history/clp/|title=Gus Hardin - Chart History (Top Country Albums)|magazine=Billboard|access-date=June 7, 2023}}</ref>
+|-
+! scope="row"| ''Fallen Angel''
+|
+* Release year: 1984
+* Label: [[RCA Records|RCA]]
+| 63
+|-
+! scope="row"| ''Wall of Tears''
+|
+* Release year: 1984
+* Label: RCA
+| 64
+|-
+! scope="row"| ''I'm Dancing as Fast as I Can''
+|
+* Release year: 2001
+* Label: Rainy Day
+| —
+|-
+| colspan="3" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Extended plays===
+{| class="wikitable plainrowheaders" style=text-align:center;
+|-
+! scope="col" rowspan="2" style="width:14em;"| Title
+! scope="col" rowspan="2" style="width:12em;"| Details
+! scope="col"| Peak positions
+|- style="font-size:smaller;"
+! width="40"| [[Top Country Albums|US Country]]<br/><ref name="Country Albums"/>
+|-
+! scope="row"| ''Gus Hardin''
+|
+* Release year: 1983
+* Label: RCA
+| 31
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style=text-align:center;
+|-
+! scope="col" rowspan="2" | Year
+! scope="col" rowspan="2" style="width:16em;"| Title
+! scope="col" colspan="2" | Peak positions
+! scope="col" rowspan="2" | Album
+|- style="font-size:smaller;"
+! width="40"| [[Hot Country Songs|US Country]]<br/><ref>{{cite magazine|url=https://www.billboard.com/artist/gus-hardin/chart-history/csi/|title=Gus Hardin - Chart History (Hot Country Songs)|magazine=Billboard|access-date=June 7, 2023}}</ref>
+! width="40"| [[RPM (magazine)|CAN Country]]<br/><ref>{{cite web|url=http://www.bac-lac.gc.ca/eng/discover/films-videos-sound-recordings/rpm/Pages/list.aspx?OCRText=Gus+Hardin&ChartEn=Country+Singles&|title=Gus Hardin - Country Singles|work=[[RPM (magazine)|RPM]]|date=17 July 2013 |access-date=June 7, 2023}}</ref>
+|-
+| rowspan="4"| 1983
+! scope="row"| "After the Last Goodbye"
+| 10
+| —
+| rowspan="3"| ''Gus Hardin''
+|-
+! scope="row"| "If I Didn't Love You"
+| 26
+| —
+|-
+! scope="row"| "Loving You Hurts"
+| 32
+| —
+|-
+! scope="row"| "Fallen Angel (Flying High Tonight)"
+| 41
+| —
+| rowspan="3"| ''Fallen Angel''
+|-
+| rowspan="3"| 1984
+! scope="row"| "I Pass"
+| 43
+| —
+|-
+! scope="row"| "How Are You Spending My Nights"
+| 52
+| —
+|-
+! scope="row"| "[[All Tangled Up in Love]]"<br/>{{small|(with [[Earl Thomas Conley]])}}
+| 8
+| 8
+| rowspan="2"| ''Wall of Tears''
+|-
+| rowspan="2"| 1985
+! scope="row"| "My Mind Is On You"
+| 79
+| —
+|-
+! scope="row"| "[[Just as Long as I Have You]]"<br/>{{small|(with [[Dave Loggins]])}}
+| 72
+| 52
+| ''Wall of Tears'' {{small|(1985 re-issue)}}
+|-
+| 1986
+! scope="row"| "What We Gonna Do"
+| 73
+| —
+| ''Wall of Tears''
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders" style=text-align:center;
+|-
+! Year
+! style="width:16em;"| Title
+|-
+| 1984
+! scope="row"| "I Pass"<ref>{{cite magazine|title=Country Video Catalog|page=42|date=June 2, 1984|magazine=Billboard}}</ref>
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{IMDb name|nm12413127}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hardin, Gus}}
+[[Category:1945 births]]
+[[Category:1996 deaths]]
+[[Category:Musicians from Tulsa, Oklahoma]]
+[[Category:American women country singers]]
+[[Category:Country musicians from Oklahoma]]
+[[Category:RCA Records artists]]
+[[Category:Road incident deaths in Oklahoma]]
+[[Category:Singer-songwriters from Oklahoma]]
+[[Category:20th-century American women singers]]
+[[Category:20th-century American singer-songwriters]]
+
+
+{{US-country-singer-stub}}

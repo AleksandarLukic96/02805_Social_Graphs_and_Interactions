@@ -1,0 +1,281 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=July 2020}}
+{{Infobox musical artist
+| image           = File:Clinton Gregory.jpg
+| name            = Clinton Gregory
+| image_size      =
+| caption         = Gregory performing in 2013
+| birth_name      =
+| birth_place     =
+| birth_date      = {{birth date and age|1964|3|1}}<!--official website says 1964-->
+| origin          = [[Martinsville, Virginia]], United States
+| instrument      = Vocals, guitar, [[fiddle]]
+| genre           = [[country music|Country]]<br />[[bluegrass music|Bluegrass]]
+| occupation      = Singer-songwriter
+| years_active    = 1990–present
+| label           = [[Step One Records|Step One]], Rock Bottom, [[Polydor Records|Polydor]]
+| associated_acts = [[Keith Stegall]]
+| website         = {{URL|https://web.archive.org/web/20131030225512/http://questx.com/clintongregory/index.html}}
+}}
+'''Clinton Gregory''' (born March 1, 1964) is an American [[country music|country]] and [[bluegrass music|bluegrass]] singer, songwriter, and fiddler. He has recorded primarily on independent labels, and has charted eleven singles on the ''Billboard'' Hot Country Singles & Tracks (now known as [[Hot Country Songs]]) charts. His highest charting single is "[[Play, Ruby, Play]]", which reached No.&nbsp;25.
+
+==Biography==
+{{Expand section|More biographical info|date=November 2008}}
+Clinton Gregory began playing the [[fiddle]] at age five; by age six, he was performing at bluegrass festivals.<ref name="allmusic">[{{AllMusic|class=artist|id=p1636/biography|pure_url=yes}} allmusic (((Clinton Gregory > Biography)))]</ref> At age twelve, he and his family moved to [[Nashville, Tennessee]], where his father, Willie Gregory, performed on the [[Grand Ole Opry]].<ref name="allmusic"/> 
+
+Gregory later became a session musician, playing fiddle for [[Suzy Bogguss]] and other acts. In 1990, he was signed to Step One Records. While on Step One, he recorded three albums and charted several singles on the U.S. ''Billboard'' [[Hot Country Songs]] charts, becoming the first independent act in over a decade to reach the Top 30 on the U.S. country charts.<ref name="allmusic"/><ref name="clinton">[http://www.questx.com/clintongregory/favorite.html Clinton Gregory] {{webarchive|url=https://web.archive.org/web/20070918190412/http://questx.com/clintongregory/favorite.html |date=September 18, 2007}}</ref> He also won the Music Row Industry's Independent Artist of the Year award for 1992 and 1993.<ref name="clinton"/> He later recorded two albums for Rock Bottom Records and one for [[Polydor Records]].
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:22em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''Music 'n Me''
+| 
+* Release date: 1990
+* Label: [[Step One Records]]
+|-
+! scope="row"| ''(If It Weren't For Country Music) I'd Go Crazy''
+| 
+* Release date: 1991
+* Label: Step One Records
+|-
+! scope="row"| ''Freeborn Man''
+| 
+* Release date: December 1991
+* Label: Step One Records
+|-
+! scope="row"| ''Master of Illusion''
+| 
+* Release date: June 21, 1993
+* Label: Step One Records
+|-
+! scope="row"| ''For Christmas''
+| 
+* Release date: August 7, 1993
+* Label: Step One Records
+|-
+! scope="row"| ''Clinton Gregory''
+| 
+* Release date: January 17, 1995
+* Label: [[Polydor Records]]
+|-
+! scope="row"| ''Play, Ruby, Play''
+| 
+* Release date: July 28, 2000
+* Label: Step One Records
+|-
+! scope="row"| ''Too Much Ain't Enough''
+|
+* Release date: April 16, 2012
+* Label: Melody Roundup Music
+|-
+! scope="row"| ''Roots of My Raising''
+|
+* Release date: May 13, 2013
+* Label: Melody Roundup Music
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:24em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<br/><ref>{{cite magazine|url=https://www.billboard.com/artist/clinton-gregory/chart-history/csi/|title=Clinton Gregory - Chart History (Hot Country Songs)|magazine=Billboard|access-date=October 24, 2021}}</ref>
+! width="45"| [[RPM (magazine)|CAN Country]]<br/><ref>{{cite web|url=http://www.bac-lac.gc.ca/eng/discover/films-videos-sound-recordings/rpm/Pages/list.aspx?OCRText=Clinton+Gregory&ChartEn=Country+Singles&|title=Clinton Gregory - Country Singles|work=RPM|date=July 17, 2013 |access-date=October 24, 2021}}</ref>
+|-
+| rowspan="4"| 1990
+! scope="row"| "Rockin' the Country"
+| —
+| —
+| {{N/A}}
+|-
+! scope="row"| "Nobody's Darlin'"
+| —
+| —
+| align="left" rowspan="4"| ''Music 'n Me''
+|-
+! scope="row"| "[[Made for Lovin' You (Dan Seals song)|Made for Lovin' You]]"
+| —
+| —
+|-
+! scope="row"| "She Put the Music in Me"
+| —
+| —
+|-
+| rowspan="4"| 1991
+! scope="row"| "Couldn't Love Have Picked a Better Place to Die"
+| 64
+| —
+|-
+! scope="row"| "(If It Weren't for Country Music) I'd Go Crazy"
+| 26
+| —
+| align="left" rowspan="3"| ''(If It Weren't For Country Music) I'd Go Crazy''
+|-
+! scope="row"| "One Shot at a Time"
+| 51
+| 51
+|-
+! scope="row"| "Satisfy Me and I'll Satisfy You"
+| 53
+| 41
+|-
+| rowspan="3"| 1992
+! scope="row"| "[[Play, Ruby, Play]]"
+| 25
+| 20
+| align="left" rowspan="4"| ''Freeborn Man''
+|-
+! scope="row"| "She Takes the Sad Out of Saturday Night"
+| 50
+| 74
+|-
+! scope="row"| "Who Needs It"
+| 29
+| 39
+|-
+| rowspan="3"| 1993
+! scope="row"| "Look Who's Needin' Who"
+| 65
+| —
+|-
+! scope="row"| "Standing on the Edge of Love"
+| 52
+| —
+| align="left" rowspan="2"| ''Master of Illusion''
+|-
+! scope="row"| "Master of Illusion"
+| 59
+| —
+|-
+| 1994
+! scope="row"| "The Gulf and the Shell"
+| —
+| —
+| align="left" rowspan="3"| ''Clinton Gregory''
+|-
+| rowspan="3"| 1995
+! scope="row"| "You Didn't Miss a Thing"
+| 68
+| 85
+|-
+! scope="row"| "A-11"
+| —
+| —
+|-
+! scope="row"| "Christmas in Virginia"
+| —
+| —
+| align="left"| ''For Christmas''
+|-
+| 2012
+! scope="row"| "She Did"
+| —
+| —
+| align="left" rowspan="3"| ''Too Much Ain't Enough''
+|-
+| rowspan="2"| 2013
+! scope="row"| "Too Much Ain't Enough"
+| —
+| —
+|-
+! scope="row"| "You Smile"
+| —
+| —
+|-
+| rowspan="2"| 2014
+! scope="row"| "Some Real Good People" {{small|(with [[Collin Raye]])}}
+| —
+| —
+| rowspan="2" {{n/a}}
+|-
+! scope="row"| "You Can't Hide High" {{small|(with Ira Dean)}}
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:24em;"| Video
+! Director
+|-
+| 1990
+! scope="row"| "Couldn't Love Have Picked a Better Place to Die"
+| {{n/a}}
+|-
+| rowspan="2"| 1991
+! scope="row"| "(If It Weren't for Country Music) I'd Go Crazy"<ref>{{cite web|url=http://www.cmt.com/videos/clinton-gregory/383977/if-it-werent-for-country-music-id-go-crazy.jhtml|archive-url=https://web.archive.org/web/20121024093629/http://www.cmt.com/videos/clinton-gregory/383977/if-it-werent-for-country-music-id-go-crazy.jhtml|url-status=dead|archive-date=October 24, 2012|title=CMT : Videos : Clinton Gregory : (If It Weren't For Country Music) I'd Go Crazy|publisher=[[Country Music Television]]|accessdate=September 19, 2011}}</ref>
+| Kenny Kiper
+|-
+! scope="row"| "One Shot at a Time"
+| {{n/a}}
+|-
+| rowspan="2"| 1992
+! scope="row"| "Play, Ruby, Play"<ref>{{cite web|url=http://www.cmt.com/videos/clinton-gregory/383910/play-ruby-play.jhtml|archive-url=https://web.archive.org/web/20121024093754/http://www.cmt.com/videos/clinton-gregory/383910/play-ruby-play.jhtml|url-status=dead|archive-date=October 24, 2012|title=CMT : Videos : Clinton Gregory : Play, Ruby, Play|publisher=[[Country Music Television]]|accessdate=September 19, 2011}}</ref>
+| Stan Moore
+|-
+! scope="row"| "Who Needs It"<ref>{{cite web|url=http://www.cmt.com/videos/clinton-gregory/384114/who-needs-it.jhtml|archive-url=https://web.archive.org/web/20121024093801/http://www.cmt.com/videos/clinton-gregory/384114/who-needs-it.jhtml|url-status=dead|archive-date=October 24, 2012|title=CMT : Videos : Clinton Gregory : Who Needs It|publisher=[[Country Music Television]]|accessdate=September 19, 2011}}</ref>
+| rowspan="4"| Greg Crutcher
+|-
+| rowspan="3"| 1993
+! scope="row"| "Look Who's Needin' Who"<ref>{{cite web|url=http://www.cmt.com/videos/clinton-gregory/384210/look-whos-needing-who.jhtml|archive-url=https://web.archive.org/web/20121024093814/http://www.cmt.com/videos/clinton-gregory/384210/look-whos-needing-who.jhtml|url-status=dead|archive-date=October 24, 2012|title=CMT : Videos : Clinton Gregory : Look Who'S Needing Who|publisher=[[Country Music Television]]|accessdate=September 19, 2011}}</ref>
+|-
+! scope="row"| "Standing on the Edge of Love"<ref>{{cite web|url=http://www.cmt.com/videos/clinton-gregory/384261/standing-on-the-edge-of-love.jhtml|archive-url=https://web.archive.org/web/20121024093905/http://www.cmt.com/videos/clinton-gregory/384261/standing-on-the-edge-of-love.jhtml|url-status=dead|archive-date=October 24, 2012|title=CMT : Videos : Clinton Gregory : Standing On The Edge Of Love|publisher=[[Country Music Television]]|accessdate=September 19, 2011}}</ref>
+|-
+! scope="row"| "Master of Illusion"<ref>{{cite web|url=http://www.cmt.com/videos/clinton-gregory/384324/master-of-illusion.jhtml|archive-url=https://web.archive.org/web/20121024093918/http://www.cmt.com/videos/clinton-gregory/384324/master-of-illusion.jhtml|url-status=dead|archive-date=October 24, 2012|title=CMT : Videos : Clinton Gregory : Master Of Illusion|publisher=[[Country Music Television]]|accessdate=September 19, 2011}}</ref>
+|-
+| 1994
+! scope="row"| "The Gulf and the Shell"<ref>{{cite web|url=http://www.cmt.com/videos/clinton-gregory/384675/the-gulf-and-the-shell.jhtml|archive-url=https://web.archive.org/web/20121024102237/http://www.cmt.com/videos/clinton-gregory/384675/the-gulf-and-the-shell.jhtml|url-status=dead|archive-date=October 24, 2012|title=CMT : Videos : Clinton Gregory : The Gulf And The Shell|publisher=[[Country Music Television]]|accessdate=September 19, 2011}}</ref>
+| Bill Young
+|-
+| rowspan="2"| 1995
+! scope="row"| "You Didn't Miss a Thing"<ref>{{cite web|url=http://www.cmt.com/videos/clinton-gregory/384755/you-didnt-miss-a-thing.jhtml|archive-url=https://web.archive.org/web/20121024102249/http://www.cmt.com/videos/clinton-gregory/384755/you-didnt-miss-a-thing.jhtml|url-status=dead|archive-date=October 24, 2012|title=CMT : Videos : Clinton Gregory : You Didn't Miss A Thing|publisher=[[Country Music Television]]|accessdate=September 19, 2011}}</ref>
+| Bill Young/Jim Barham
+|-
+! scope="row"| "A-11"
+| {{n/a}}
+|-
+| 2006
+! scope="row"| "Writing on the Wall"
+| Peter Lippman
+|-
+| 2012
+! scope="row"| "She Did"
+| P. J. Schenkel
+|-
+| 2013
+! scope="row"| "Too Much Ain't Enough"
+| Brett Bortle
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://archive.today/20130221115451/http://www.clintongregory.net/ Official website]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gregory, Clinton}}
+[[Category:1964 births]]
+[[Category:American country singer-songwriters]]
+[[Category:American country fiddlers]]
+[[Category:Living people]]
+[[Category:Singer-songwriters from Virginia]]
+[[Category:Polydor Records artists]]
+[[Category:Step One Records artists]]
+[[Category:People from Martinsville, Virginia]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:21st-century American singer-songwriters]]

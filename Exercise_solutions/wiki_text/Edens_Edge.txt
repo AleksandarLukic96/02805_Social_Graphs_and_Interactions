@@ -1,0 +1,123 @@
+{{Use mdy dates|date=June 2021}}
+{{Infobox musical artist
+| name         = Edens Edge
+| image        =
+| alt          =
+| caption      =
+| image_size   =
+| origin       = [[Russellville, Arkansas|Russellville]], [[Arkansas]]<br />United States<ref>[http://www.theboot.com/2011/09/09/edens-edge-going-home-3/ Edens Edge, 'Going Home' (Episode 3)], Theboot.com</ref>
+| genre        = [[Country music|Country]]
+| years_active = {{start date|2006}}–{{end date|13}}
+| label        = [[Big Machine Records|Big Machine]]
+| past_members = Hannah Blaylock<br />Dean Berner<br />Cherrill Green
+}}
+'''Edens Edge''' was an American [[country music]] band founded by Hannah Blaylock (lead vocals), Dean Berner (vocals, guitar, Dobro), and Cherrill Green (vocals, mandolin, banjo, guitar). The band was signed to [[Big Machine Records]], which released their [[Edens Edge (album)|self-titled debut album]]. It included the singles "[[Amen (Edens Edge song)|Amen]]" and "[[Too Good to Be True (Edens Edge song)|Too Good to Be True]]". The group disbanded in 2013 when Blaylock departed.
+
+==History==
+All three members of Edens Edge are natives of [[Arkansas]].<ref>{{cite web|url = http://www.theboot.com/2011/04/20/edens-edge-new-music/|title = New Faces: Edens Edge|last = Hackett|first = Vernell|date = April 20, 2011|work = The Boot|accessdate = April 26, 2011}}</ref> They won a contest sponsored by [[Country Music Television|CMT]] in 2006, where they met Nashville songwriter Kye Fleming.<ref>{{cite web|url=http://www.edensedge.com/about.html|title=About|work=Edens Edge official website|accessdate=April 26, 2011}}</ref> They moved to Nashville in 2007.<ref>{{cite web|url=http://www.cmt.com/artists/az/edens_edge/bio.jhtml|archive-url=https://web.archive.org/web/20120908005135/http://www.cmt.com/artists/az/edens_edge/bio.jhtml|url-status=dead|archive-date=September 8, 2012|title=Edens Edge Biography|work=CMT|accessdate=October 26, 2011}}</ref> The group eventually signed a record deal with [[Big Machine Records]] in April 2010,<ref>{{cite web|url=http://www.musicrow.com/2010/04/big-machine-signs-edens-edge-cmt-radio-hires-jenn-nixon/|title=Big Machine Signs Edens Edge; CMT Radio Hires Jenn Nixon|last=Skates|first=Sarah|date=April 12, 2010|work=Music Row|accessdate=April 26, 2011}}</ref> and the trio's debut single, "[[Amen (Edens Edge song)|Amen]]," was released in April 2011. It has become the group's first Top 20 hit. Their [[Edens Edge (album)|self-titled debut album]] was released on June 12, 2012. "[[Too Good to Be True (Edens Edge song)|Too Good to Be True]]" was released as the album's second and final single on April 9, 2012.
+
+In March 2013, it was announced that Edens Edge had parted ways with Big Machine Records and that member Hannah Blaylock had left the band.<ref>{{Cite web |url=http://www.edensedge.com/news.html?n_id=292 |title=Edens Edge :: News |access-date=March 4, 2013 |archive-date=June 6, 2013 |archive-url=https://web.archive.org/web/20130606182833/http://www.edensedge.com/news.html?n_id=292 |url-status=dead }}</ref><ref>{{cite web |url=http://www.roughstock.com/blog/hannah-blaylock-leaves-edens-edge-band-leaves-big-machine-records |title=Hannah Blaylock Leaves Edens Edge; Band Leaves Big Machine Records &#124; New Country Music, Listen to Songs & Video &#124; Roughstock.com |access-date=March 5, 2013 |archive-url=https://web.archive.org/web/20130307093234/http://www.roughstock.com/blog/hannah-blaylock-leaves-edens-edge-band-leaves-big-machine-records |archive-date=March 7, 2013 |url-status=dead }}</ref> Blaylock auditioned for ''[[The Voice (American TV series)|The Voice]]'' in 2018 but failed to make a team.<ref>{{cite web | url=https://theboot.com/hannah-blaylock-the-voice-season-15/ | title=Hannah Blaylock Auditions for 'The Voice', Fails to Land a Team Spot | website=The Boot | date=October 9, 2018 }}</ref>
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:12em;"| Title
+! rowspan="2" style="width:18em;"| Details
+! colspan="2"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! style="width:45px;"| [[Top Country Albums|US Country]]
+! style="width:45px;"| [[Billboard 200|US]]
+|-
+! scope="row"| ''[[Edens Edge (album)|Edens Edge]]''
+| 
+* Release date: June 12, 2012
+* Label: [[Big Machine Records]]
+| 9
+| 51
+|}
+
+===EPs===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:12em;"| Title
+! rowspan="2" style="width:18em;"| Details
+!| Peak positions
+|- style="font-size:smaller;"
+! style="width:65px;"| [[Top Heatseekers|US Heat]]
+|-
+! scope="row"| ''[[Edens Edge (EP)|Edens Edge]]''
+| 
+* Release date: May 24, 2011
+* Label: Big Machine Records
+| 43
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:12em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! style="width:45px;"| [[Hot Country Songs|US Country]]
+! style="width:45px;"| [[Billboard Hot 100|US]]
+|-
+| 2011
+! scope="row"| "[[Amen (Edens Edge song)|Amen]]"
+| 18
+| 83
+| style="text-align:left;" rowspan="2"| ''Edens Edge''
+|-
+| 2012
+! scope="row"| "[[Too Good to Be True (Edens Edge song)|Too Good to Be True]]"
+| 27
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Other charted songs===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:12em;"| Single
+!| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! style="width:65px;"| [[Hot Country Songs|US Country]]
+|-
+| 2012
+! scope="row"| "[[O Holy Night]]"
+| 59
+| style="text-align:left;"| ''The Country Christmas Collection''
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;"| Title
+! Director
+|-
+| 2011
+! scope="row"| "Amen"<ref>{{cite web|url=http://www.cmt.com/videos/edens-edge/657026/amen.jhtml|archive-url=https://web.archive.org/web/20111023201024/http://www.cmt.com/videos/edens-edge/657026/amen.jhtml|url-status=dead|archive-date=October 23, 2011|title=CMT : Videos : Edens Edge : Amen|publisher=[[Country Music Television]]|accessdate=May 26, 2011}}</ref>
+| [[Roman White]]
+|-
+| 2012
+! scope="row"| "Too Good to Be True"<ref>{{cite web|url=http://www.cmt.com/videos/edens-edge/789527/too-good-to-be-true.jhtml|archive-url=https://web.archive.org/web/20120727020327/http://www.cmt.com/videos/edens-edge/789527/too-good-to-be-true.jhtml|url-status=dead|archive-date=July 27, 2012|title=CMT : Videos : Edens Edge : Too Good To Be True|publisher=[[Country Music Television]]|accessdate=June 10, 2012}}</ref>
+| [[Peter Zavadil]]
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+[[Category:American country music groups]]
+[[Category:Big Machine Records artists]]
+[[Category:Musical groups from Arkansas]]
+[[Category:Musical groups established in 2006]]
+[[Category:Musical groups disestablished in 2013]]
+[[Category:American musical trios]]

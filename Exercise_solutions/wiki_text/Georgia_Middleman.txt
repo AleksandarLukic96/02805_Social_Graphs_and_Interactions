@@ -1,0 +1,120 @@
+{{short description|American country singer (born 1967)}}
+
+{{Infobox musical artist
+| name            = Georgia Middleman
+| image           =
+| birth_name      = Georgia Leigh Middleman
+| birth_date      = {{birth date and age|1967|12|27}}
+| origin          = [[Houston]], [[Texas]], U.S.
+| genre           = {{flatlist|
+*[[Country music|Country]]
+*[[Jazz|vocal jazz]]}}
+| occupation      = Singer-songwriter
+| years_active    = 2000-present
+| label           = {{flatlist|
+*[[Giant Records (Warner)|Giant]]
+*Middle Sister}}
+| associated_acts = [[Blue Sky Riders]]
+| website         = 
+}}
+
+'''Georgia Leigh Middleman''' (born December 27, 1967) is an American [[country music|country]] singer. Middleman sang from age ten at the Texas Star Inn in [[San Antonio]], and began writing songs shortly thereafter. She sold recordings of her first song, There's a Rainbow in Everybody's Heart, on her elementary school playground. In her teens, she opened in concert for [[Willie Nelson]] and [[Merle Haggard]], and collaborated with [[Dick Wagner]] at age 17.<ref name=amg>Charlotte Dillon, [{{AllMusic|class=artist|id=p437517/biography|pure_url=yes}} Georgia Middleman] at [[Allmusic]]</ref> After graduating from [[high school]], she attended [[New York University]] on a theater scholarship, and worked on [[Off-Broadway]] shows and as a songwriter.
+
+Following her schooling, she moved to Los Angeles in hopes of starting a career in acting, but by 1992 she had moved to [[Nashville, Tennessee|Nashville]] to pursue music. She worked odd jobs and played locally before taking a job as a songwriter for [[Polygram Records]] in 1997. Soon after she was overheard by the president of [[Giant Records (Warner)|Giant Records]] at a local show, who signed her. The label released her debut in 2001, after she had scored two country radio hits in the U.S..
+
+Middleman also co-wrote [[Radney Foster]]'s 1998 single "[[I'm In]]," which was later released as a single by [[The Kinleys]] in 2000 and [[Keith Urban]] in 2009. She also co-wrote [[Tracy Lawrence]]'s 2004 single "It's All How You Look at It" and [[Sarah Buxton]]'s 2006 debut single "Innocence."
+
+Middleman is a member of [[Blue Sky Riders]], a [[country music]] trio also featuring [[Kenny Loggins]] and [[Gary Burr]], her husband.<ref>{{cite web | url=http://www.huffingtonpost.com/2012/02/16/kenny-loggins-blue-sky-riders_n_1273255.html | title = Kenny Loggins' Third Act: Blue Sky Riders | publisher=Huffington Post | date = 2012-02-16 }}</ref> They released their debut album, ''Finally Home'', on January 29, 2013.<ref>{{cite news|last=Emling|first=Shelley|title=Blue Sky Riders: Kenny Loggins' Trio Celebrates Release Of New Album, 'Finally Home'|url=http://www.huffingtonpost.com/2013/01/29/blue-sky-riders-kenny-loggins-first-album-finally-home_n_2568564.html|accessdate=January 30, 2013|newspaper=[[The Huffington Post]]|date=January 29, 2013}}</ref>
+
+Middleman also performs with Burr as the country duo Middleman Burr.<ref>{{cite web | url=http://www.middlemanburr.com  | title = Middleman Burr website }}</ref> The twosome released their first LP as a duo, ''I Like The Sound of That!'', in January 2017.<ref>{{cite web | url=https://middlemanburr.com/2017/01/25/i-like-the-sound-of-that/ | title = I Like The Sound of That | publisher=Middleman Bur | date = 2017-01-25 }}</ref>
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:16em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''Endless Possibilities''
+| 
+* Release date: March 13, 2001
+* Label: [[Giant Records (Warner)|Giant Records]]
+|-
+! scope="row"| ''Unchanged''
+| 
+* Release date: May 4, 2004
+* Label: [[self-released]]
+|-
+! scope="row"| ''Things I Didn't Know I Knew''
+| 
+* Release date: April 29, 2008
+* Label: Middle Sister Records
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:12em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="60"| [[Hot Country Songs|US Country]]
+|-
+| rowspan="2"| 2000
+! scope="row"| "No Place Like Home"
+| 53
+| align="left" rowspan="2"| ''Endless Possibilities''
+|-
+! scope="row"| "Kick Down the Door"
+| 60
+|}
+
+===Guest singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:12em;"| Single
+! rowspan="2"| Artist
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="60"| [[Hot Country Songs|US Country]]
+|-
+| 2003
+! scope="row"| "Scary Old World"<sup><span id="ref_A" ></span>[[#endnote_A|'''[A]''']]</sup>
+| [[Radney Foster]]
+| 52
+| align="left"| ''[[Another Way to Go (Radney Foster album)|Another Way to Go]]''
+|}
+{{refbegin}}
+;Notes
+*A<span id="endnote_A" ></span>'''[[#ref_A|^]]''' The radio edit of "Scary Old World" featured Georgia Middleman as a duet partner, while the version on Foster's ''Another Way to Go'' album features [[Chely Wright]]. This song was credited to "Radney Foster with Chely Wright or Georgia Middleman".
+{{refend}}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:12em;"| Video
+|-
+| 2000
+! scope="row"| "Kick Down the Door"
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Middleman, Georgia}}
+[[Category:1967 births]]
+[[Category:Living people]]
+[[Category:American country singer-songwriters]]
+[[Category:American women country singers]]
+[[Category:Singers from Houston]]
+[[Category:Giant Records (Warner) artists]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:Country musicians from Texas]]
+[[Category:Blue Sky Riders members]]
+[[Category:21st-century American women]]

@@ -1,0 +1,93 @@
+{{short description|American singer-songwriter}}
+
+{{Infobox musical artist
+| name            = Kylie Morgan
+| image           =
+| caption         =
+| birth_name      = 
+| birth_date      = 
+| birth_place     = [[Oklahoma]], United States
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| instrument      = Vocals, guitar
+| years_active    = 2018–present
+| label           = [[Universal Music Group Nashville|EMI Nashville]]
+| associated_acts = 
+| website         = {{URL|https://www.kyliemorgan.com/}}
+}}
+'''Kylie Morgan''' is an American [[country music]] singer-songwriter from [[Oklahoma]] signed to [[EMI Nashville]].<ref name="UMG Nashville">{{cite web|url=https://www.umgnashville.com/kylie-morgans-debut-full-length-album-making-it-up-as-i-go-out-now/|title=Kylie Morgan's Debut Full-Length Album, Making It Up As I Go, Out Now|date=October 13, 2023|website=UMG Nashville|accessdate=March 26, 2024}}</ref>
+
+==Background==
+Kylie Morgan began performing and touring full-time at the age of 14, and ultimately signed a recording contract with [[Universal Music Group Nashville]], being assigned to the EMI Nashville imprint.<ref name="UMG Nashville"/> One of Morgan's early songs, "Phoebe", was written about teen suicide, and led to the singer touring schools across the United States to perform and talk about the impact of bullying, spearheaded by her own bullying prevention campaign.<ref>{{cite web|url=https://www.kyliemorgan.com/about/|title=About Kylie Morgan|website=Kylie Morgan|accessdate=March 26, 2024}}</ref> She began sharing vulnerable songs on [[TikTok]], and released a pair of EPs: ''Love, Kylie'' (2021) and ''P.S.'' (2022).<ref name="Music Row P.S.">{{cite web|url=https://musicrow.com/2022/06/kylie-morgan-slates-new-p-s-ep-for-july/|title=Kylie Morgan Slates New ‘P.S.’ EP For July|author=Lorie Hollabaugh|date=June 9, 2022|website=Music Row|accessdate=March 26, 2024}}</ref> "[[If He Wanted to He Would]]" was issued to country radio as Morgan's debut single on July 25, 2022,<ref name="Music Row P.S."/> and became a top 40 hit on the ''Billboard'' [[Country Airplay]] and [[Hot Country Songs]] charts. It served as the lead single to her full-length debut project, ''Making It up as I Go'', which was released on October 13, 2023.<ref name="UMG Nashville"/>
+
+"Two Night Stands" was released on April 1, 2024, as Morgan's second single to country radio.<ref>{{cite web|url=https://assets.countryaircheck.com/public/6b03978f-3fe7-41ea-aae275a2418eb642/62c42c39-ac72-434c-b15dec594cdef1a7/Issue-901-March-18-2024.pdf|title=Country Aircheck Weekly March 18, 2024 Issue 901|date=March 18, 2024|website=Country Aircheck|accessdate=March 26, 2024}}</ref>
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;" 
+|+ List of studio albums, with selected details, chart positions and sales
+! rowspan="1" style="width:8em;"| Title
+! rowspan="1" style="width:18em;"| Album details
+|- 
+! scope="row" |''Making It up as I Go''
+|
+* Release date: October 13, 2023
+* Label: [[EMI Nashville]]
+* Format: CD, digital download, LP
+|-
+|}
+
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;" 
+|+ List of EPs, with selected details, chart positions and sales
+! rowspan="1" style="width:8em;"| Title
+! rowspan="1" style="width:18em;"| Album details
+|- 
+! scope="row" |''Love, Kylie''
+|
+* Release date: June 11, 2021
+* Label: EMI Nashville
+* Format: Digital download
+|-
+! scope="row" |''P.S.''
+|
+* Release date: July 1, 2022
+* Label: EMI Nashville
+* Format: Digital download
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of singles, with selected chart positions
+! rowspan="2" style="width:14em;"| Title
+! rowspan="2"| Year
+! colspan="2"| Peak chart positions
+! rowspan="2" | Album
+|- style="font-size:smaller;"
+! width="45"| [[Country Airplay|US Country Airplay]]
+! width="45"| [[Hot Country Songs|US Country]]
+|-
+! scope="row" | "[[If He Wanted to He Would]]"
+| 2022
+| 38<ref>{{cite web|url=https://s3.amazonaws.com/bulletins.billboard.com/country/country_update_2023_0616.pdf|title=Billboard Country Update|date=June 16, 2023|website=Billboard Country Update|accessdate=March 26, 2024}}</ref>
+| 39<ref>{{cite web|url=https://s3.amazonaws.com/bulletins.billboard.com/country/country_update_2023_0124.pdf|title=Billboard Country Update|date=January 24, 2023|website=Billboard Country Update|accessdate=March 26, 2024}}</ref>
+| ''Making It up as I Go''
+|-
+! scope="row" | "Two Night Stands"
+| 2024
+| —
+| —
+| TBD
+|-
+|}
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Morgan, Kylie}}
+[[Category:Living people]]
+[[Category:American country singer-songwriters]]
+[[Category:Year of birth missing (living people)]]

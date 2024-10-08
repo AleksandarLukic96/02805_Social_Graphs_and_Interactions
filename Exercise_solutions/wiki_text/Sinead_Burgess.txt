@@ -1,0 +1,82 @@
+{{Short description|Australian musician}}
+{{Use dmy dates|date=October 2016}}
+{{Use Australian English|date=October 2016}}
+{{Infobox musical artist
+| name             = Sinead Burgess
+| image            = Sinead Burgess (8231449686).jpg
+| image_size       =
+| landscape        = <!-- yes, if wide image, otherwise leave blank -->
+| alt              =
+| caption          = November, 2012
+| birth_name       =
+| native_name      =
+| native_name_lang =
+| alias            =
+| birth_date       = {{Birth date and age|1990|11|10|df=y}}
+| birth_place      = [[Queensland]], Australia
+| origin           =
+| genre            = Pop, rock, [[Country music|Country]],
+| years_active     = 2007–present
+| occupation       =
+| instrument       = Vocals, keyboards, guitar, harmonica
+| label            = [[Island Records Australia]]
+| associated_acts  = [[The Shires (duo)]]
+}}
+
+'''Sinead Burgess''' (born 10 November 1990) is a Sydney-based singer-songwriter signed to ABC Music and [[Island Records Australia]], which is part of [[Universal Music Australia]].<ref name="New_Single">{{cite web | url= http://www.couriermail.com.au/questnews/moreton/beachmere-singer-songwriter-sinead-burgess-to-launch-new-single/story-fn8m0yu3-1226424684402?nk=e6caa6ae1398056864520c2611cf2a2d | title = Beachmere singer-songwriter Sinead Burgess to launch new single | date = 15 July 2012 | publisher = The Courier Mail | accessdate = 30 July 2014 }}</ref> Burgess first began her singing career in 2007 and subsequently released a 5-track EP titled ''You Get Me''; featuring the title track and "Butterflies" which were released as singles and in many compilation albums across Australia. Burgess's single "Goodnight America" was co-written with UK pop producer Stuart Crichton who has worked with [[Kylie Minogue]], [[Pet Shop Boys]], Bond and [[The Sugababes]].<ref name="Goodnight_America">{{cite web | url= http://www.vmusic.com.au/features/sinead-burgess-video-premiere.aspx | title = Sinead Burgess Video Premiere | date = 2012 | publisher = V Music | accessdate = 30 July 2014 }}</ref> Burgess supported Irish band The Script at a one-off show in [[Sydney]] in 2012.<ref name="Gig">{{cite web | url= http://www.sunshinecoastdaily.com.au/news/sinead-mirrors-cool-katy-sinead-follows-script/1811736/ | title = Sinead mirrors cool Katy | date = 30 March 2013 | publisher = Sunshine Coast Daily | accessdate = 4 August 2014 }}</ref>
+
+Burgess released her single "Rearview Mirrow" digitally in 2013 and then worked on a 6-Track EP titled ''Wolf'', released as a digital download in 2016.  Burgess since toured with [[The Shires (duo)]] on their [[Accidentally on Purpose (The Shires album)|Accidentally On Purpose]] tour as a support act.
+
+She released the album ''Damaged Goods'' on 17 August 2018.
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of EPs, with selected details
+! Title
+! Details
+|-
+! scope="row" | ''Damaged Goods''
+|
+* Released: 17 August 2018
+* Format: CD, digital
+* Label: Sinead Burgess
+|}
+
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of EPs, with selected details
+! Title
+! Details
+|-
+! scope="row" | ''You Get Me''
+|
+* Released: 2009
+* Format: CD, digital
+* Label: ABC Music (1795234)
+|-
+! scope="row" | ''Wolf''
+|
+* Released: March 2016
+* Format: digital
+* Label: ABC Music
+|}
+
+== References ==
+{{reflist}}
+
+== External links ==
+{{Commons}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Burgess, Sinead}}
+[[Category:1990 births]]
+[[Category:Living people]]
+[[Category:Australian women singer-songwriters]]
+[[Category:21st-century Australian singers]]
+[[Category:21st-century Australian women singers]]
+[[Category:21st-century Australian singer-songwriters]]
+
+
+{{Australia-singer-stub}}

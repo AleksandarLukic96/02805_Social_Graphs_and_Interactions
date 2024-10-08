@@ -1,0 +1,152 @@
+{{Infobox musical artist
+| name            = Flynnville Train
+| image           = Flynnville.jpg
+| caption         = Flynnville Train at CMA Music Fest. L-R: Damon Michael, Brian Flynn, Brent Flynn, Tommy Bales.
+| image_size      =
+| landscape       = yes
+| origin          = [[Middletown, Indiana]], United States <ref>[https://web.archive.org/web/20070930060851/http://www.cmt.com/artists/az/flynnville_train/bio.jhtml CMT.com : Flynnville Train : Biography<!-- Bot generated title -->]</ref>
+| genre           = [[Country music|Country]]
+| years_active    = 2001–present
+| label           = [[Show Dog-Universal Music|Show Dog Nashville]]<br />Next Evolution<br />AGR Television Records<br />AMP Entertainment
+| associated_acts = [[Cody McCarver]], [[Toby Keith]], [[The Kentucky Headhunters]]
+| website         = [http://www.flynnvilletrain.com/ FlynnvilleTrain.com]
+| current_members = Tommy Bales<br />Brian Flynn<br />Brent Flynn<br />Joseph Shreve<ref name="Flynnville Train - Band">[http://www.flynnvilletrain.com/band.htm Flynnville Train - Band]</ref>
+| past_members    = Damon Michael<br />Tim Beeler<br />Jeremy Patterson
+}}
+
+'''Flynnville Train''' is an American [[country rock]] band. Their self-titled debut album was released on September 11, 2007, and it produced two singles on the U.S. ''Billboard'' [[Hot Country Songs]] charts. The band is composed of Brian Flynn ([[Singing|lead vocals]]), Brent Flynn ([[lead guitar]]), Joseph Shreve ([[bass guitar]]), and Tommy Bales ([[Drum kit|drums]]).
+
+==History==
+[[File:FlynnvilleTrainHolmdelNJ2007.jpg|200px|thumb|left|Brent and Brian Flynn at the [[PNC Bank Arts Center]] on July 15, 2007]]
+The band was officially signed to [[Show Dog Nashville]] on June 21, 2006, after five years of playing local venues independently. Said [[Toby Keith]] regarding his signing of the band: "As soon as I got the CD I put it on and was hooked. Right then I knew I had to see if Flynnville Train were as good performing live as they are on the disc. They were more than I could have expected and I signed them on the spot. You will hear great things from this band."<ref>[http://www.flynnvilletrain.com/band.htm Flynnville Train - Band<!-- Bot generated title -->]</ref> Their self-titled debut album was released on September 11, 2007. It produced two charting singles with "Last Good Time" and "Nowhere Than Somewhere", which reached No.&nbsp;47 and No.&nbsp;50 on the ''Billboard'' [[Hot Country Songs]] charts, respectively. A third single, "Tequila Sheila", failed to chart. A fourth single was released in 2009, intended to be the lead-off single to a new album, however, the single never charted and no album was released.
+
+In April 2009, Flynnville Train and Show Dog Nashville parted ways.<ref>[http://www.showdognashville.com/index.php?page=artists Show Dog Nashville - Artists]</ref>
+
+Flynnville Train's second album, ''Redemption'', was released in July 2010 with the independent label Next Evolution Records.<ref name="Flynnville Train - Band"/>
+In July 2011, along with Tanya Tucker, Rhonda Vincent & Aaron Watson the band headlined the biggest country music festival in Continental Europe: The country Rendez-Vous Festival in France.
+In July 2012, Flynnville Train released the single "The One You Love." The song was penned by Richard and Fred Young and Doug Phelps of [[The Kentucky Headhunters]]. Brent Flynn, Flynnville's lead guitarist relates: “Richard pitched it to us, and as soon as we heard it we knew we had to record it.  We've performed it live everywhere and the feedback from the fans has been amazing.”<ref name="Flynnville Train - Band"/>
+
+The band signed with its current US label, AMP Entertainment in December 2012.
+
+In August 2013, the band licensed its new album with the German label AGR Television Records, through its current US Label, AMP Entertainment. The single "Tip a Can", written by the three current band members Brian Flynn, Brent Flynn and Thomas Bales along with former band member Damon Michael, was released and a music video for the single was released. The 2012 song "The One You Love" will also be included on the album ''Back on Track'', which was released in September 2013.<ref>{{cite web  |url=http://www.agr-music.com/news/304-flynnville-train-heads-full-steam-into-europe |title= Flynnville Train heads full steam into Europe |accessdate=2013-08-13 }}</ref>
+
+==Discography==
+
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:10em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="2"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]<br><ref name="Allmusic albums">{{cite web|url={{AllMusic|class=artist|id=p829098/charts-awards|pure_url=yes}}|title=allmusic ((( Flynnville Train > Charts & Awards > Billboard Albums )))|publisher=[[Allmusic]]|accessdate=2010-06-12}}</ref>
+! width="45"| [[Top Heatseekers|US<br />Heat]]<br><ref name="Allmusic albums" />
+|-
+! scope="row"| ''[[Flynnville Train (album)|Flynnville Train]]''
+| 
+* Release date: September 11, 2007
+* Label: [[Show Dog Nashville]]
+| 49
+| 22
+|-
+! scope="row"| ''Redemption''
+| 
+* Release date: July 20, 2010
+* Label: Next Evolution
+| —
+| —
+|-
+! scope="row"| ''Back on Track''
+| 
+* Release date: September 16, 2013
+* Label: AMP Entertainment / AGR Television Records
+| —
+| —
+|-
+! scope="row"| ''FVT IV''
+|
+* Release date: 2017
+* Label: AMP Entertainment / AGR Television Records
+| &mdash;
+| &mdash;
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="60"| [[Hot Country Songs|US Country]]<br><ref>{{cite web|url={{AllMusic|class=artist|id=p829098/charts-awards/billboard-singles|pure_url=yes}}|title=allmusic ((( Flynnville Train > Charts & Awards > Billboard Singles )))|publisher=[[Allmusic]]|accessdate=2010-06-12}}</ref>
+|-
+| rowspan="3"| 2007
+! scope="row"| "Last Good Time"
+| 47 
+| align="left" rowspan="3"| ''Flynnville Train''
+|-
+! scope="row"| "Nowhere Than Somewhere"
+| 50
+|-
+! scope="row"| "Tequila Sheila"
+| —
+|-
+| 2009
+! scope="row"| "Turn Left"
+| —
+| align="left" rowspan="3"| ''Redemption''
+|-
+| 2010
+! scope="row"| "Preachin' to the Choir"
+| —
+|-
+| 2012
+! scope="row"| "The One You Love"
+| —
+|-
+| 2013
+! scope="row"| "Tip a Can"
+| —
+| align="left"| ''Back on Track''
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders" 
+|-
+! Year
+! style="width:14em;"| Video
+! Director
+|-
+| rowspan="2"| 2007 
+! scope="row"| "Last Good Time" 
+| Stephen Shephard
+|-
+! scope="row"| "Nowhere Than Somewhere"
+| Stan Morse
+|-
+| 2013
+! scope="row"| "Tip a Can"
+| 
+|-
+|}
+
+==External links==
+*[http://www.flynnvilletrain.com/ Official Flynnville Train Website]
+* [http://www.agr-music.com "AGR Television Records"] International Record Label of Flynnville Train (multi-lingual)
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+[[Category:American country music groups]]
+[[Category:Musical groups established in 2001]]
+[[Category:Show Dog-Universal Music artists]]
+[[Category:Musical groups from Indiana]]

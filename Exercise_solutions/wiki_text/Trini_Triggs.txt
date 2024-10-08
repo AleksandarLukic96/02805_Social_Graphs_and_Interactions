@@ -1,0 +1,123 @@
+{{short description|American singer-songwriter}}
+
+{{BLP sources|date=February 2009}}
+{{Infobox musical artist
+|name = Trini Triggs
+|background = solo_singer
+|birth_date = {{Birth date and age|1965|08|05}}
+|origin = [[Natchitoches, Louisiana|Natchitoches]], [[Louisiana]], United States
+|genre = [[Country music|Country]]
+|occupation = [[singing|singer]]
+|years_active = 1998–present
+|label = MCG/[[Curb Records|Curb]]<br />[[Asylum Records|Asylum]]-Curb
+}}
+'''Trini Triggs''' (born August 8, 1965 in [[Natchitoches, Louisiana]]) is an American [[country music]] artist. In 1998, he released a self-titled album for MCG/[[Curb Records]]; produced by Chuck Howard and Anthony Smith,<ref>Flick, Larry (August 22, 1998). "Trini Triggs: Straight Tequila", ''[[Billboard (magazine)|Billboard]]'' '''110''' (34): 16.</ref> the album produced three singles on the ''[[Billboard (magazine)|Billboard]]'' Hot Country Singles & Tracks (now [[Hot Country Songs]]) charts that year. Triggs also charted a fourth single in 2004 on [[Asylum Records|Asylum]]-Curb.<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=427|isbn=978-0-89820-177-2}}</ref>
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:10em;"| Title
+! style="width:16em;"| Album details
+|-
+! scope="row"| ''Trini Triggs''
+| 
+* Release date: 1998
+* Label: MCG/[[Curb Records]]
+|-
+! scope="row"| ''Best of Trini Triggs''
+| 
+* Release date: May 28, 2013
+* Label: Curb Records
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| 1998
+! scope="row"| "Straight Tequila"
+| 47
+| 91
+| align="left" rowspan="3"| ''Trini Triggs''
+|-
+| 1999
+! scope="row"| "Horse to Mexico"
+| 53
+| 89
+|-
+| 2000
+! scope="row"| "The Wreckin' Crew"
+| 62
+| —
+|-
+| rowspan="2"| 2002
+! scope="row"| "[[You Never Can Tell (song)|You Never Can Tell]]"
+| —
+| —
+| align="left"| ''Inside Traxx 2002''
+|-
+! scope="row"| "[[I'm Only in It for the Love]]"
+| —
+| —
+| align="left" rowspan="2"| singles only
+|-
+| 2004
+! scope="row"| "Heaven on Earth"
+| 59
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:14em;"| Video
+! Director
+|-
+| 1998
+! scope="row"| "Straight Tequila"
+| Chris Rogers
+|-
+| 2000
+! scope="row"| "The Wreckin' Crew"
+|
+|-
+| 2002
+! scope="row"| "I'm Only In It for Love"
+|
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.trinitriggs.com Official web site]
+
+{{authority control}}
+
+{{DEFAULTSORT:Triggs, Trini}}
+[[Category:Living people]]
+[[Category:1965 births]]
+[[Category:American country singer-songwriters]]
+[[Category:Curb Records artists]]
+[[Category:People from Natchitoches, Louisiana]]
+[[Category:Singer-songwriters from Louisiana]]
+[[Category:African-American country musicians]]
+[[Category:Country musicians from Louisiana]]
+[[Category:African-American male songwriters]]
+[[Category:21st-century African-American male singers]]
+[[Category:21st-century American male singers]]
+[[Category:20th-century African-American male singers]]
+[[Category:20th-century American male singers]]
+[[Category:20th-century American singers]]

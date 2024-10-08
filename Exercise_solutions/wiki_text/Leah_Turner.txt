@@ -1,0 +1,102 @@
+{{short description|American country music singer (born 1987)}}
+{{Use mdy dates|date=June 2020}}
+{{Infobox musical artist
+| name            = Leah Turner
+| image           =
+| image_size      =
+| landscape       = <!-- yes, if wide image, otherwise leave blank -->
+| caption         =
+| birth_name      =
+| alias           =
+| birth_date      = {{Birth date and age|1987|07|29}}
+| birth_place     = California, U.S.
+| origin          = [[Nashville, Tennessee]], U.S.
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| instrument      = Vocals
+| years_active    = 2012–present
+| label           = [[Columbia Records|Columbia Nashville]]
+| associated_acts =
+| website         = {{URL|https://www.officialleahturner.com/}}
+}}
+
+'''Leah Turner''' (born July 29, 1987) is a Mexican-American [[country music]] singer who was previously signed with [[Columbia Records|Columbia Nashville]].
+
+== Early life and education ==
+Turner was born on July 29, 1987, in California.<ref name='musicrow'>{{Cite web |url=http://www.musicrow.com/2013/07/columbia-nashville-adds-to-artist-roster/ |title=Columbia Nashville Adds To Artist Roster |last=Nicholson |first=Jessica |date=July 30, 2013 |website=[[MusicRow]] |access-date=July 29, 2016}}</ref><ref name='taste'>{{Cite web |url=http://tasteofcountry.com/leah-turner-grit-and-glamour/ |title=Leah Turner Interview: Rodeo-Raised Newcomer Is Equal Parts Grit and Glamour |last=Dukes |first=Billy |date=August 28, 2013 |website=TasteofCountry.com |access-date=July 29, 2016}}</ref> She was raised on a ranch with horses, goats, and chickens in [[Morongo Valley, California]].<ref name='ascap'>{{Cite web |url=http://www.ascap.com/playback/2013/08/faces-places/nashville/leah-turner.aspx |title=ASCAP New Member Profile: Leah Turner |date=September 12, 2013 |website=[[American Society of Composers, Authors and Publishers]] |access-date=July 29, 2016}}</ref><ref name='taste'/><ref name='cmtbio'>{{Cite web |url=http://www.cmt.com/artists/leah-turner/biography/ |archive-url=https://web.archive.org/web/20140129042444/http://www.cmt.com/artists/leah-turner/biography/ |url-status=dead |archive-date=January 29, 2014 |title=Leah Turner Bio on CMT |website=[[CMT (U.S. TV channel)|CMT]] |access-date=July 29, 2016}}</ref> Turner attended the [[University of California, Santa Barbara]] and took music and songwriting classes.<ref name='ascap'/><ref name='cmtbio'/><ref name='oprybio'>{{Cite web |url=http://www.opry.com/artist/leah-turner |title=Leah Turner Bio at the Opry |website=[[Grand Ole Opry]] |access-date=July 29, 2016}}</ref> While at UCSB, she sang in front of [[Kenny Loggins]] who convinced her to move to Los Angeles, California to pursue her career.<ref name='ascap'/><ref name='cmtbio'/><ref name='oprybio'/>
+
+== Career ==
+Turner took Kenny Loggins' advice and moved to Los Angeles to pursue a singing career.  She worked with [[Humberto Gatica]] and [[David Foster]], but moved to [[Nashville, Tennessee]] to pursue a country career.<ref name='ascap'/><ref name='cmtbio'/><ref name='oprybio'/>
+
+Turner was signed to [[Columbia Records|Columbia Nashville]] in July 2013.<ref name='musicrow'/><ref name='ascap'/><ref name='cmtbio'/><ref name='oprybio'/> Her debut single, "Take the Keys," was co-written with [[Cary Barlowe]] and [[Jesse Frasure]] and released on October 7, 2013.<ref>{{Cite web |url=http://radio.com/2013/10/19/new-music-to-know-leah-turners-star-studded-journey-from-l-a-to-nashville/ |title=New Music To Know: Leah Turner's Star-Studded Journey From L.A. To Nashville |last=Wolff |first=Kurt |date=October 19, 2013 |website=Radio.com |publisher=[[CBS Radio]] |access-date=July 29, 2016}}</ref> The song debuted at number 60 on the ''[[Billboard (magazine)|Billboard]]'' [[Country Airplay]] chart dated for the week ending October 19, 2013, and peaked at number 37 while spending 23 weeks total listed.<ref>{{Cite web |url=http://www.cmt.com/news/country-music/1715500/billy-curringtons-hey-girl-docks-at-no-1-crash-my-party-still-top-album.jhtml |archive-url=https://web.archive.org/web/20131014144840/http://www.cmt.com/news/country-music/1715500/billy-curringtons-hey-girl-docks-at-no-1-crash-my-party-still-top-album.jhtml |url-status=dead |archive-date=October 14, 2013 |title=Billy Currington's "Hey Girl" Docks at No. 1, Crash My Party Still Top Album |last=Morris |first=Edward |date=October 11, 2013 |website=[[CMT (U.S. TV channel)|CMT]] |access-date=July 29, 2016}}</ref><ref name='billboardchart'>{{Cite magazine |url=http://www.billboard.com/artist/5880356/leah-turner/chart |title=Leah Turner Chart History |magazine=[[Billboard (magazine)|Billboard]] |access-date=July 29, 2016}}</ref><ref name='billboardsofter'>{{Cite magazine |url=http://www.billboard.com/articles/columns/the-615/6049831/leah-turner-shows-softer-side-on-new-single-pull-me-back |title=Leah Turner Shows 'Softer Side' on New Single 'Pull Me Back' |last=Dauphin |first=Chuck |date=April 11, 2014 |magazine=[[Billboard (magazine)|Billboard]] |access-date=July 29, 2016}}</ref> Her second single, "Pull Me Back," spent one week on the ''Billboard'' Country Airplay chart at number 52.<ref name='billboardchart'/><ref name='billboardsofter'/>
+
+== Discography ==
+
+=== Extended plays ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:20em;"| Album details
+|- 
+! scope="row"| ''Leah Turner''
+| 
+* Release date: May 6, 2014<ref>{{cite web|url=http://www.roughstock.com/blog/leah-turner-s-self-titled-ep-hitting-stores-on-may-6|title=Leah Turner's Self-Titled EP Hitting Stores on May 6|last=Conaway|first=Alanna|date=April 2, 2014|work=Roughstock|access-date=April 2, 2014|archive-url=https://web.archive.org/web/20140407085726/http://www.roughstock.com/blog/leah-turner-s-self-titled-ep-hitting-stores-on-may-6|archive-date=April 7, 2014|url-status=dead}}</ref>
+* Label: [[Columbia Records]]
+* Format: [[Music download]]
+|- 
+! scope="row"| ''Leah Turner''
+| 
+* Release date: November 17, 2017
+* Label: [[California Country Music]]
+* Format: [[Music download]]
+|}
+
+=== Singles ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! colspan="1"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Country Airplay|US Country Airplay]]
+|-
+| 2013
+! scope="row"| "Take the Keys"
+| 37
+| align="left" rowspan=3|''Leah Turner''
+|-
+|rowspan=2| 2014
+! scope="row"| "Pull Me Back"
+| 52
+|-
+! scope="row"| "My Finger"<ref>{{cite web | url=http://roughstock.com/track/2014/07/27473-leah-turner-finger | title=Leah Turner "My Finger" | work=Roughstock | date=July 25, 2014 | access-date=November 30, 2019}}</ref>
+|—
+|-
+| 2020
+! scope="row"|"Once upon a Time in Mexico"<ref>{{cite web | url=https://music.apple.com/us/album/once-upon-a-time-in-mexico-single/1517150200 | title=Once upon a Time in Mexico | publisher=iTunes Store | access-date=July 10, 2020}}</ref>
+|{{n/a}}
+|}
+
+== References ==
+{{Reflist|30em}}
+
+== External links ==
+* {{Official website|https:/www.officialleahturner.com/}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Turner, Leah}}
+[[Category:1987 births]]
+[[Category:Living people]]
+[[Category:People from Morongo Valley, California]]
+[[Category:Singer-songwriters from California]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:University of California, Santa Barbara alumni]]
+[[Category:Columbia Records artists]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:21st-century American women singers]]
+[[Category:Country musicians from California]]
+[[Category:Country musicians from Tennessee]]
+[[Category:Singer-songwriters from Tennessee]]

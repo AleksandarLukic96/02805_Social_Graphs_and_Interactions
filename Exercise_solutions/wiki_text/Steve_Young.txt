@@ -1,0 +1,441 @@
+{{short description|American football player (born 1961)}}
+{{other people|Steve Young|Steve Young (disambiguation)}}
+{{pp-pc}}
+{{BLP sources|date=August 2024}}
+{{Use American English|date=February 2022}}
+{{Use mdy dates|date=September 2023}}
+{{Infobox NFL biography
+| name           = Steve Young
+| image          = Steve Young (6837509849) (cropped).jpg
+| image_size     = 200px
+| alt            =
+| caption        = Young in 2012
+| number         = 8
+| position       = [[Quarterback]]
+| birth_date     = {{Birth date and age|1961|10|11|mf=y}}
+| birth_place    = [[Salt Lake City|Salt Lake City, Utah]], U.S.
+| death_date     = 
+| death_place    = 
+| height_ft      = 6
+| height_in      = 2
+| weight_lb      = 215
+| high_school    = [[Greenwich High School|Greenwich]] <br> ([[Greenwich, Connecticut]])
+| college        = [[BYU Cougars football|BYU]] (1980–1983)
+| suppdraftyear  = [[1984 NFL Supplemental Draft of USFL and CFL players|1984]]
+| suppdraftround = 1 / Pick: 1
+| pastteams      =
+* [[Los Angeles Express (USFL)|Los Angeles Express]] ({{USFL Year|1984}}–{{USFL Year|1985}})
+* [[Tampa Bay Buccaneers]] ({{NFL Year|1985|1986}})
+* [[San Francisco 49ers]] ({{NFL Year|1987|1999}})
+| highlights     =
+* 3× [[List of Super Bowl champions|Super Bowl champion]] ([[Super Bowl XXIII|XXIII]], [[Super Bowl XXIV|XXIV]], [[Super Bowl XXIX|XXIX]])
+* [[Super Bowl Most Valuable Player Award|Super Bowl MVP]] ([[Super Bowl XXIX|XXIX]])
+* 2× [[NFL Most Valuable Player]] (1992, 1994)
+* [[NFL Offensive Player of the Year]] (1992)
+* 2× [[UPI NFC Player of the Year|UPI NFC Offensive Player of the Year]] (1992, 1994)
+* 3× First-team [[All-Pro]] ([[1992 All-Pro Team|1992]]–[[1994 All-Pro Team|1994]])
+* 3× Second-team All-Pro ([[1995 All-Pro Team|1995]], [[1997 All-Pro Team|1997]], [[1998 All-Pro Team|1998]])
+* 7× [[Pro Bowl]] ([[1993 Pro Bowl|1992]]–[[1999 Pro Bowl|1998]])
+* 4× [[List of National Football League annual passing touchdowns leaders|NFL passing touchdowns leader]] (1992–1994, 1998)
+* 6× [[List of National Football League annual passer rating leaders|NFL passer rating leader]] (1991–1994, 1996, 1997)
+* 5× [[List of National Football League annual pass completion percentage leaders|NFL completion percentage leader]] (1992, 1994–1997)
+* 2× [[Bert Bell Award]] (1992, 1994)
+* [[San Francisco 49ers Hall of Fame]]
+* [[San Francisco 49ers#Retired numbers|San Francisco 49ers No. 8]] retired
+* [[Davey O'Brien Award]] (1983)
+* [[Sammy Baugh Trophy]] (1983)
+* [[List of unanimous All-Americans in college football|Unanimous All-American]] ([[1983 College Football All-America Team|1983]])
+* 2× [[Western Athletic Conference football|WAC]] Offensive Player of the Year (1982, 1983)
+* 2× First-team All-WAC (1982, 1983)
+* [[BYU Cougars football#Retired numbers|BYU Cougars No. 8]] retired
+| statlabel1     = Passing attempts
+| statvalue1     = 4,149
+| statlabel2     = Passing completions
+| statvalue2     = 2,667
+| statlabel3     = Completion percentage
+| statvalue3     = 64.3%
+| statlabel4     = [[Touchdown|TD]]–[[Interception|INT]]
+| statvalue4     = 232–107
+| statlabel5     = Passing yards
+| statvalue5     = 33,124
+| statlabel6     = [[Passer rating]]
+| statvalue6     = 96.8
+| statlabel7     = Rushing yards
+| statvalue7     = 4,239
+| statlabel8     = Rushing touchdowns
+| statvalue8     = 43
+| pfr            = Y/YounSt00
+| HOF            = steve-young
+| CollegeHOF     = 2069 
+}}
+
+'''Jon Steven Young''' (born October 11, 1961) is an American former professional [[American football|football]] [[quarterback]] who played in the [[National Football League]] (NFL) for 15 seasons, most notably with the [[San Francisco 49ers]]. He was drafted by and played for the [[Tampa Bay Buccaneers]]. Prior to his NFL career, Young was a member of the [[Los Angeles Express (USFL)|Los Angeles Express]] in the [[United States Football League]] (USFL) for two seasons. He played [[college football]] for the [[BYU Cougars football|BYU Cougars]], setting school and NCAA records en route to being runner-up for the 1983 [[Heisman Trophy]].
+
+Young was named the AP's [[NFL Most Valuable Player]] in [[1992 NFL season|1992]] and [[1994 NFL season|1994]], and was the MVP of [[Super Bowl XXIX]] where he led the 49ers to a victory over the [[San Diego Chargers]] with a record six touchdown passes. During his 1994 MVP campaign, Young set a new NFL record for passer rating at 112.8.<ref>{{cite web|url=http://pfref.com/tiny/niHv9|title=Passer rating seasons, 110+, 150 att|work=[[Pro-Football-Reference.com]] |publisher=Sports Reference LLC|access-date=January 4, 2017}}</ref> He is a member of the [[College Football Hall of Fame]] and the [[Pro Football Hall of Fame]].
+
+Young was an extremely efficient passer, leading the league in [[passer rating]] a record six times and completion percentage and yards per attempt five times.<ref name=pfrleader>{{cite web|url=https://www.pro-football-reference.com/players/Y/YounSt00.htm#all_leaderboard|title=Steve Young Stats: Leaderboards|work=[[Pro-Football-Reference.com]] |publisher=Sports Reference LLC|access-date=January 4, 2017}}</ref> At the time of his retirement, Young had the highest passer rating among NFL quarterbacks with at least 1,500 passing attempts (96.8). Currently, he is ranked fourteenth all time in passer rating, and is ranked fourth-highest amongst retired players, behind only [[Drew Brees]], [[Tom Brady]], and [[Tony Romo]].<ref name="passrtgall">{{cite web | url=https://www.pro-football-reference.com/leaders/pass_rating_career.htm | title=NFL Passer Rating Career Leaders | website=[[Pro-Football-Reference.com]] | access-date=September 30, 2022}}</ref> Young's [[List of dual-threat quarterback records|43 career rushing touchdowns]] are third among quarterbacks, while his 4,239 rushing yards ranks sixth all time.<ref>{{Cite web |url=https://ravenswire.usatoday.com/2021/01/03/lamar-jackson-rushes-into-12th-place-on-all-time-qb-rushing-yards-list/ |title=Lamar Jackson rushes into 12th place on all-time QB rushing yards list |first=Robert |last=Sobus |date=January 3, 2021 |access-date=March 5, 2022 |website=Ravens Wire |language=en-US}}</ref>
+
+==Early life==
+Born in [[Salt Lake City|Salt Lake City, Utah]], Young attended Eastern Middle School, and [[Greenwich High School]] in [[Greenwich, Connecticut]], where he played quarterback on its Cardinals football team. Young's father was of [[English-American|English descent]], and was a direct descendent of the [[Puritan]] Joseph Young, who arrived in Salem, Massachusetts from [[England]] in 1635 as part of the [[Puritan migration to New England (1620–1640)|Puritan migration from England to New England]].<ref>Filby, P. William, Meyer, Mary K., Passenger and immigration lists index : a guide to published arrival records of about 500,000 passengers who came to the United States and Canada in the seventeenth, eighteenth, and nineteenth centuries. 1982-1985 Cumulated Supplements in Four Volumes Detroit, Mich. : Gale Research Co., 1985, Print (ISBN 0-8103-1795-8)</ref>
+
+Young earned 1978 All-[[Fairfield County Interscholastic Athletic Conference|FCIAC]] West Division First Team honors in his junior year, his first year as a starter. In his senior year, Young rushed for 13 touchdowns and earned All-FCIAC West Division First Team honors, and was named to the [[Connecticut Association of Schools|CIAC]] All-State team. In the rush-first option offense run by Greenwich, he completed only 41 percent of his throws for 1,220 yards, but ran the ball 267 times for 1,928 yards. On Thanksgiving Day in November 1979, Greenwich lost to Darien High School, known for its "Tidal Wave Defense", 17–0.<ref>{{cite news | url=https://www.nytimes.com/1979/11/23/archives/darien-defense-stops-greenwich-170-connecticut.html | title=Darien Defense Stops Greenwich, 17–0 | date=November 23, 1979 |work=[[The New York Times]] | access-date=December 27, 2019}}</ref> During his senior year, Young was co-captain of the football, basketball, and baseball teams. In basketball, he averaged 15 points a game. In baseball, Young hit .384 and played center field when he was not pitching. Young was 5–1 and threw a 3–0 [[no-hitter]] against [[New Canaan High School]].
+
+==College career==
+Young was heavily recruited by the [[North Carolina Tar Heels football|University of North Carolina]]. Coach [[Dick Crum (American football)|Dick Crum]] was enamored of Young's running ability, and wanted him to run his option offense. Young instead chose BYU. Initially, he struggled at throwing the ball, and BYU's coaching staff considered switching him to defensive back because of his athleticism. However, Young worked hard to improve his passing skills and eventually succeeded record-setting [[Jim McMahon]] as BYU's starting quarterback. Young passed for 3,902 yards and 33 touchdowns in the regular season, and his 71.3% completion percentage set an [[National Collegiate Athletic Association|NCAA]] single-season record. Young also added 544 yards rushing. With Young at quarterback, BYU set an NCAA record by averaging 584.2 yards of total offense per game, with 370.5 of those yards coming from his passing and rushing. The Cougars finished the year with an impressive 11&ndash;1 record; Young was named a [[unanimous All-American]] and received the [[Davey O'Brien National Quarterback Award]], which recognizes the nation's best collegiate quarterback each year. He also finished second in voting for the [[Heisman Trophy]], behind [[Nebraska Cornhuskers football|Nebraska]] running back [[Mike Rozier]]. Young capped his college career by scoring the game-winning touchdown on a pass from the halfback in BYU's 21&ndash;17 victory over [[Missouri Tigers football|Missouri]] in the [[1983 Holiday Bowl]].
+
+Young finished his college career with 592 pass completions for 7,733 yards and 56 touchdowns, along with 1,048 rushing yards and 18 touchdowns. He was enshrined in the [[College Football Hall of Fame]] in 2001.
+
+==Professional football==
+At the time Young left college the [[USFL]] was proving a serious challenge to the established [[NFL]], and he had a choice to be a top pick in either league.
+
+=== Los Angeles Express ===
+Young was selected by the [[USFL]] [[Los Angeles Express (USFL)|Los Angeles Express]] in the first round (11th overall) of the [[1984 USFL Draft|1984 draft]] held that January. Express general manager [[Don Klosterman (American football)|Don Klosterman]] told Young that if he signed with the Express, his head coach would be [[John Hadl]], a former All-Pro quarterback who had shepherded [[John Elway]] through his first year in the NFL. Klosterman also told Young that Hall of Fame coach [[Sid Gillman]], who had been hired as a consultant, would tutor him on how to be a pro quarterback.
+
+The regular [[1984 NFL draft]] would not be held until May.  To help influence his decision, the Express offered an all-sports record 10-year, $40 million contract.<ref name=esyffm>{{cite news |url=https://news.google.com/newspapers?id=wldWAAAAIBAJ&pg=6550%2C2839659 |work=Spokesman-Review |location=(Spokane, Washington) |agency=Associated Press |last=Peters |first=Ken |title=Express sign Young for $40 million |date=March 2, 1984 |page=C1}}</ref><ref name=ywbospe>{{cite news |url=https://news.google.com/newspapers?id=5vdVAAAAIBAJ&pg=3664%2C1401376 |work=[[The Register-Guard]] |location=Eugene, Oregon |agency=wire services |title=Young will be old when pact ends |date=March 6, 1984 |page=E1}}</ref><ref name=yswexp>{{cite news |url=https://news.google.com/newspapers?id=48UoAAAAIBAJ&pg=6277%2C2052307 |work=[[Deseret News]] |location=(Salt Lake City, Utah) |agency=(AP, ''Los Angeles Times, Washington Post'') |title=Young signs with Express |date=March 5, 1984 |page=D1}}</ref><ref name=expmp>{{cite news |url=https://news.google.com/newspapers?id=DfcoAAAAIBAJ&pg=4100%2C5565224 |work=[[The Bulletin (Bend)|The Bulletin]] |location=Bend, Oregon |agency=UPI |title=Express paid 'market price' for QB |date=March 6, 1984 |page=D3}}</ref> Young was convinced, and signed with the Express in March 1984.<ref name="Reeths">{{cite book |last=Reeths |first=Paul |title=The United States Football League, 1982–1986 |date=2017 |publisher=[[McFarland & Company]] |isbn=978-1476667447}}</ref> He agreed to take his payment in the form of an [[Annuity (American)|annuity]] paid out over forty years to help the fledgling team.{{efn|Three months later, in June of 1984, the NFL held a [[1984 NFL supplemental draft of USFL and CFL players|Special supplementary draft]] of USFL and CFL players who'd already signed contracts with those teams (just in case the USFL folded, so there would not be a scramble to sign its new talent as free agents, potentially setting off a huge bidding war among NFL teams).  The [[Cincinnati Bengals]], three years removed from a Super Bowl appearance, had already selected quarterback [[Boomer Esiason]] with the 10th pick of the 2nd round (38th overall) in the regular May draft.  They traded their #1 pick in the supplementary draft to the then-moribund [[Tampa Bay Buccaneers]],<ref>{{Cite web |url=https://www.buccaneers.com/news/10-most-significant-trades-in-buc-history-15086292|title = 10 Most Significant Trades in Buc History |first=Scott |last=Smith |work=[[Tampa Bay Buccaneers]] |date=March 29, 2015}}</ref> which took Young.<br><br>This is how Young later ended up starting his NFL career with Tampa Bay.}}
+
+After missing the first six games of his rookie season while taking some college classes in order to graduate on time, Young started the final 12 games. He had a respectable year, highlighted by becoming the first pro football player ever to pass for 300 yards and rush for 100 in a single game.
+
+Despite a roster which included such future NFL players as [[Jojo Townsell]], [[Mel Gray (return specialist)|Mel Gray]], and [[Kevin Nelson (American football)|Kevin Nelson]], and making the Western Conference title game in Young's first season, the Express were never able to create a sustaining fan base in [[Los Angeles]]. They often played to sparse crowds that looked even more so in the 95,000-seat [[Los Angeles Memorial Coliseum]].
+
+Near the end of the 1984 season, Express owner J. William Oldenburg was forced to give up control of the team after multiple reports revealed he had misrepresented his net worth. [[Houston Gamblers]] minority owner Jay Roulier was cleared to buy the team, only to be pushed out shortly before the 1985 preseason when it emerged that he too had lied about his finances. For all intents and purposes, the Express' 1985 season ended at that point. The league took over the team and cut the budget to the bare minimum. Notably, no money was allocated to replace injured players.<ref name="Reeths"/><ref name="Buck"/> This left the Express in a precarious position when a rash of injuries decimated the roster. Even before then, Young and the other young players concluded that the Express would not be around for the planned move to a fall schedule in 1986, even if the USFL survived. With this in mind, they played tentatively so as not to harm their NFL prospects. As a result, despite fielding essentially the same team as a year prior, the Express cratered to a 3–15 record.
+
+Before the Express' final home game — which had been moved to [[Los Angeles Pierce College]] in the San Fernando Valley — the bus driver refused to leave unless he was paid up front, in cash. Young contributed some money, as did the team trainer, and the driver took them to the game. In the season finale at [[Orlando Renegades|Orlando]], Young had to line up at tailback because the Express had no healthy running backs left on the roster.<ref name="Reeths" /><ref name="Buck">{{cite book |last=Pearlman |first=Jeff |title=Football For A Buck: The Crazy Rise and Crazier Demise of the USFL |date=2018 |publisher=[[Houghton Mifflin Harcourt]] |isbn=978-0544454385 |author-link=Jeff Pearlman}}</ref>
+
+It was reported that Young had insured his contract and would still be paid until 2027.<ref>{{cite web | url=https://bleacherreport.com/articles/1825502-steve-young-will-make-1-million-in-2014-from-usfl-deal-signed-in-1984 | title=Steve Young Will Make $1 Million in 2014 from USFL Deal Signed in 1984 | first=Tim | last=Keeney | date=October 25, 2013 | website=[[Bleacher Report]]}}</ref> However, facing the prospect of both a faltering owner and an unstable league, Young had already renegotiated his 10-year deal down to 4 years, and had already collected a total of $4.8 million of the $5.8 million due in toto through the final year of that deal (in 1987), working out to an annual rate of pay of $2.4 million for his first two seasons that was the highest in all of American sports.{{efn|Three Major League Baseball players, Mike Schmidt, Ozzie Smith and Dave Winfield, were next at $2.1 million annually.<ref name=LAT>{{cite news | url=https://www.latimes.com/archives/la-xpm-1985-08-10-sp-3859-story.html | title=USFL Confirms Young Is Highest-Paid Player at $2.4 Million a Year | first=Bob | last=Oates | date=August 10, 1985 | work=[[Los Angeles Times]] | access-date=December 27, 2019}}</ref>}}  Included in that negotiation was a payment of $1.4 million for the balance of the 10-year annuity (less money paid out against it), and salaries for the remaining two years of the deal "in excess of $450,000" annually according the USFL Commissioner then overseeing the LA Express (which had fallen into receivership).<ref name=LAT/>
+
+=== Tampa Bay Buccaneers ===
+Young grew increasingly dissatisfied with the disarray surrounding the Express. Just a week before what proved to be the last USFL title game, Young gave the USFL an ultimatum – find a new owner for the Express, or allow him to buy out his contract and go to the NFL.<ref name=Buck/> Soon after the league decided to suspend the Express's operations for the 1986 season, Young bought out his Express contract and signed with the [[Tampa Bay Buccaneers]], who had made him the first pick in a [[1984 NFL Supplemental Draft of USFL and CFL Players|supplemental draft of USFL and CFL players]] a year earlier.<ref>{{Cite web |title=1984 NFL Draft Listing |url=https://www.pro-football-reference.com/years/1984/draft.htm |access-date=2023-10-10 |website=Pro-Football-Reference.com |language=en}}</ref>
+
+By this time, the Bucs were in the midst of what would be 12 consecutive 10-loss seasons. They posted identical 2&ndash;14 records in Young's two seasons with them, going 3&ndash;16 with him as a starter. Young threw for only 11 touchdowns with 21 interceptions while completing fewer than 55% of his passes.
+
+=== San Francisco 49ers ===
+The Buccaneers selected [[Miami Hurricanes football|University of Miami]] quarterback [[Vinny Testaverde]] first overall in the [[1987 NFL draft]] because Young was deemed a bust.<ref>{{cite web | url=https://www.thepewterplank.com/2021/04/16/buccaneers-top-10-draft-mistakes/amp/7/ | title=Tampa Bay Buccaneers: Top 10 Draft Mistakes in team history | date=April 16, 2021 }}</ref> Young was traded to the [[San Francisco 49ers]] on April 24, 1987, to serve as a backup to [[Joe Montana]]. 49ers coach [[Bill Walsh (American football coach)|Bill Walsh]] was impressed by Young's natural abilities, and believed his lackluster numbers were primarily due to the lack of talent around him in Tampa Bay.
+
+The Buccaneers received second and fourth round draft picks in the trade, which they used to draft Miami [[linebacker]] [[Winston Moss]], and [[Arizona State Sun Devils football|Arizona State]] [[wide receiver]] [[Bruce Hill (American football)|Bruce Hill]], respectively.
+
+==== Montana's backup: 1987–1990 ====
+[[File:SteveYoungRepublicanConvention1990.jpg|thumb|upright|Young in 1990]]
+Young played behind Montana for four years, but shone as a backup. Substituting for an injured Montana, early in the first quarter of a [[1987 San Francisco 49ers season|1987]] game against the [[1987 Chicago Bears season|Chicago Bears]], Young threw four touchdown passes in a 41–0 victory. In their 1987 divisional playoff game against the [[1987 Minnesota Vikings season|Minnesota Vikings]], he replaced Montana in the second half after the team fell behind 27–10. The 49ers still lost the game, but Young had a good performance, completing 12 of 17 pass attempts for 158 yards, a touchdown, and an interception while also leading San Francisco in rushing with 72 yards and a touchdown on six carries. On October 30, 1988, Young ran for a 49-yard, game-winning touchdown against the [[1988 Minnesota Vikings season|Minnesota Vikings]]. He started the game out with a 73-yard touchdown pass to [[John Taylor (American football player)|John Taylor]], after Montana went down with an injury. The play earned the 49ers a 24–21 victory and a bit of revenge on the Vikings for their previous season's playoff loss. The win turned out to be crucial.  Without it, the 49ers would have finished the season 9–7 and missed the playoffs.  Two other teams in their division, the [[1988 Los Angeles Rams season|Los Angeles Rams]] and [[1988 New Orleans Saints season|New Orleans Saints]], had 10–6 records. Instead, the 49ers won their division, earned the #2 playoff seed, and went on to win the [[Super Bowl XXIII|Super Bowl]].
+
+In 1989, Young displayed potential to become the team's starter in the future. While Montana won the NFL MVP award and led the team to a victory in [[Super Bowl XXIV]], Young still had a good season, completing 69% of his passes for 1,001 yards, eight touchdowns, and only three interceptions. On October 22, 1989, he posted a perfect passer rating of 158.3 when he completed 11 of 12 passes for 188 yards and three touchdown passes in a 37–20 victory over the [[1989 New England Patriots season|New England Patriots]].
+
+Young rushed for a career-high 102 yards on just eight carries against the [[1990 New Orleans Saints season|New Orleans Saints]] on December 23, 1990, making him only the second 49ers quarterback to rush for at least 100 yards in a single game. The 49ers lost the game 13–10.<ref>{{cite web | url=https://www.pro-football-reference.com/boxscores/199012230sfo.htm | title=New Orleans Saints at San Francisco 49ers – December 23rd, 1990 | website=Pro-Football-Reference.com}}</ref>
+
+In his four seasons as a backup, Young threw 23 touchdown passes and only six interceptions.
+
+==== 1991 season ====
+Following an injury to Montana's elbow in the [[NFL playoffs, 1990-91#NFC Championship: New York Giants 15 San Francisco 49ers 13|1990 NFC Championship Game]], which forced him to miss the entire 1991 season, Young got his chance to lead the 49ers, but got off to a rough start. Midway through the season, the 49ers found themselves struggling with a 4&ndash;4 record. In the ninth game of the season, after throwing a franchise-record 97-yard touchdown pass to Taylor, Young suffered a knee injury and was replaced by backup quarterback [[Steve Bono]]. After a loss in that game and the next, Bono led the 49ers to five consecutive victories, playing so well that coach [[George Seifert]] decided to keep him in the starting lineup after Young had recovered. It was not until late in the 15th game of the season, after Bono went down with an injury of his own, that Young got to play again. Young then closed out the season by throwing for 338 yards and three touchdowns and also rushing for 63 yards and another touchdown in a 52&ndash;14 win over the [[Chicago Bears]] in a ''[[Monday Night Football]]'' game at [[Candlestick Park]].
+
+Young finished the season with an NFL best 101.8 passer rating. Despite missing five full games and most of a sixth, he still threw for 2,517 yards, 17 touchdowns, and only eight interceptions. Despite Young's strong season, the season for the team was widely regarded as a disappointment. The 49ers had slipped from a 14&ndash;2 record in the previous season to a 10&ndash;6 record in 1991. 10 wins, while usually being enough to grant a playoff spot for a team, kept the 49ers just short of the playoffs, and San Francisco ended up not playing in the postseason for the first time since 1982. It was thought by many that Young's days as the 49ers starter were numbered due to the impending return of Montana from the injury to his right elbow, and some observers said the 49ers should trade Young and keep Montana and Bono. However, the trade never happened.
+
+==== 1992 season: First MVP ====
+[[File:Steve Young HOF jersey.jpg|thumb|Young's 1992 MVP season jersey shown at the [[Pro Football Hall of Fame]] in [[Canton, Ohio]]]]
+By the start of the [[1992 San Francisco 49ers season|1992 season]], it appeared that Young's starting job was in serious peril. In addition to having to compete with Bono, Montana appeared to be close to recovering from his elbow tendon surgery. San Francisco came close to trading Young to the [[1992 Los Angeles Raiders season|Los Angeles Raiders]], but no deal was finalized and it turned out that Montana would not recover in time to start in the opening game. Montana would not return until the final game of the 1992 season, a Monday Night home game against the [[1992 Detroit Lions season|Detroit Lions]]. Montana played the entire second half of that final game and guided the 49ers to victory.
+
+Young ended up as San Francisco's starting quarterback, but once again got off to a rough start. On the fifth play of the opening game at the [[1992 New York Giants season|New York Giants]], he suffered a concussion and was replaced by Bono, who threw two touchdown passes while leading the 49ers to a 31&ndash;14 victory. The following week, the 49ers lost 34&ndash;31 to the [[1992 Buffalo Bills season|Buffalo Bills]], despite a career-high 449 passing yards and three touchdowns from Young, in a game that for the first time in NFL history had zero punts from either team.
+
+Young recovered and led the 49ers on a five-game winning streak, capped off by a 56–17 victory over the [[1992 Atlanta Falcons season|Atlanta Falcons]] in which he passed for 399 yards and three touchdowns. After missing most of the next game (a 24–14 loss to the [[Arizona Cardinals|Cardinals]]) with the flu, Young led San Francisco to a victory in all of their remaining games of the season, giving the team a 14&ndash;2 record. He went on to throw for 227 yards and two touchdowns and rushed for 73 yards in a 20&ndash;13 divisional playoff win over the [[Washington Redskins]]. However, the 49ers lost the [[1992–93 NFL playoffs#NFC Championship: Dallas Cowboys 30, San Francisco 49ers 20|NFC Championship game]], 30&ndash;20, to the eventual [[Super Bowl XXVII|Super Bowl]] champion [[1992 Dallas Cowboys season|Dallas Cowboys]]. Young threw for 313 yards, completing 71.4% of his passes while passing for a touchdown and rushing for another. However, he also threw two interceptions, but the final one came with the outcome of the game already decided.
+
+Young finished the season with 3,465 passing yards and 537 rushing yards, along with an NFL-best 25 touchdown passes and 107.0 passer rating, earning him the [[NFL Most Valuable Player Award]] and his first selection to the Pro Bowl. Young was the first quarterback ever to record a triple-digit rating in consecutive seasons. Many credit his turnaround to the mentoring of the 49ers' new offensive coordinator [[Mike Shanahan]], who worked with Young on combining his running skill with on-the-move passing decisions.
+
+==== 1993 season ====
+Before the start of the 1993 season, team owner [[Edward J. DeBartolo Jr.|Eddie DeBartolo Jr.]] announced that he wanted Montana to resume his role as starting quarterback for the 49ers. However, a rift in the locker room had developed, with players split on whom they wanted at quarterback. In the spring of 1993, at Montana's request, San Francisco traded Montana to the [[Kansas City Chiefs]]. Young was now the 49ers' undisputed starter, and would remain so for the rest of his career. But once again, Young had a rough start to the season. Over the first four games of 1993, Young, who was hindered by a swollen thumb on his throwing hand, threw eight interceptions, more than he had thrown during the entire 1992 season. But after his thumb healed, Young went on an incredible streak over a span of seven games, throwing 16 touchdown passes with only two interceptions and a 122.2 passer rating. By the end of the year, Young set franchise records for most passing yards (4,023), and consecutive passes thrown without an interception (189, later eclipsed by [[Alex Smith]] in 2012), while leading the NFL in touchdown passes (29) and passer rating (101.5). The team slipped to a 10&ndash;6 record, but advanced to the [[1993–94 NFL playoffs#NFC Championship: Dallas Cowboys 38, San Francisco 49ers 21|NFC championship game]] again by blowing out the [[1993 New York Giants season|New York Giants]] 44&ndash;3 in the Divisional Round. However, they were again defeated by the [[1993 Dallas Cowboys season|Dallas Cowboys]], this time 38&ndash;21.
+
+====1994 season: Second MVP and Super Bowl win====
+After several key free agent signings (including All-Pro cornerback [[Deion Sanders]]) and [[NFL draft]] selections, the 49ers looked to win their first Super Bowl since [[1989 NFL season|1989]]. They started fast, beating the [[1994 Los Angeles Raiders season|Los Angeles Raiders]] 44&ndash;14 on the strength of four touchdown passes from Young, one of four games during the regular season in which he had at least four.<ref>{{Cite web |title=Los Angeles Raiders at San Francisco 49ers - September 5th, 1994 |url=https://www.pro-football-reference.com/boxscores/199409050sfo.htm |access-date=2024-06-15 |website=Pro-Football-Reference.com |language=en}}</ref> After a loss in a much-anticipated game to Joe Montana and the [[1994 Kansas City Chiefs season|Kansas City Chiefs]],<ref>{{Cite web |title=San Francisco 49ers at Kansas City Chiefs - September 11th, 1994 |url=https://www.pro-football-reference.com/boxscores/199409110kan.htm |access-date=2024-06-15 |website=Pro-Football-Reference.com |language=en}}</ref> the 49ers won their next two games before losing to the [[1994 Philadelphia Eagles season|Philadelphia Eagles]] 40&ndash;8 at Candlestick Park, a game in which Young was eventually benched in the middle of an offensive series. Although head coach George Seifert later said he only pulled Young because he was getting manhandled by the Eagles' defense, Young had had enough of being scapegoated for 49er shortfalls and loudly (and visibly) lambasted Seifert over his decision while standing on the sideline during the game. 
+{{quote box|quote="Is this great or what? I mean, I haven't thrown six touchdown passes in a game in my life. Then I throw six in the Super Bowl! Unbelievable."|source=Steve Young<ref>{{cite news |first= Rick |last=Telander |work=Sports Illustrated's Super Bowl Archive
+ |url=http://sportsillustrated.cnn.com/football/features/superbowl/archives/29/ | title=Superb! |date= February 6, 1995 |archive-url=https://web.archive.org/web/20040312052229/http://sportsillustrated.cnn.com/football/features/superbowl/archives/29/|archive-date=March 12, 2004 |url-status=dead}}</ref>|width=20%|align=left}}
+
+But the game was considered a turning point in the season; from there, Young led the team to 10 consecutive wins, by an average of 20 points, before losing the meaningless finale against the Vikings in which Young completed his first 12 of 13 attempts before going to the sidelines. They finished an NFL best 13&ndash;3, securing home-field advantage throughout the NFC playoffs. The 49ers had the number-one offense in the NFL, and were so dominant that Seifert often took Young out of games early if he felt that the 49ers had an insurmountable lead at the time.
+
+After an easy 44–15 victory over the [[1994 Chicago Bears season|Chicago Bears]] in the Divisional Round,<ref>{{Cite web |title=Divisional Round - Chicago Bears at San Francisco 49ers - January 7th, 1995 |url=https://www.pro-football-reference.com/boxscores/199501070sfo.htm |access-date=2024-06-15 |website=Pro-Football-Reference.com |language=en}}</ref> the 49ers jumped out to a 31–14 halftime lead over the [[1994 Dallas Cowboys season|Dallas Cowboys]] in the [[1994–95 NFL playoffs#NFC Championship: San Francisco 49ers 38, Dallas Cowboys 28|NFC Championship Game]], holding on to win 38–28. Young threw for two touchdowns, while adding 47 yards and another touchdown on the ground. As a result, he went to his first Super Bowl as a starting quarterback. The 49ers were heavy favorites to become the first team with five Super Bowl victories.
+
+On the strength of a six-touchdown performance that surpassed the previous Super Bowl record of five, owned by the man Young replaced, Joe Montana, Young was named the MVP of [[Super Bowl XXIX]], as the 49ers defeated the [[1994 San Diego Chargers season|San Diego Chargers]], 49–26. Young also threw for 325 yards and rushed for 49 yards, making him the first player ever to finish a Super Bowl as the game's leader in both rushing and passing yards.
+
+The victory capped off an incredible year for Young, who had one of the best seasons by a quarterback in NFL history. He threw for 3,969 yards, a then-franchise record 35 touchdown passes with only 10 interceptions, completed 70.3 percent of his passes – the highest completion percentage of the 1990s, third all-time, and at the time, the best completion percentage by any quarterback with more than 400 attempts (later eclipsed by [[Drew Brees]] in [[2009 New Orleans Saints season|2009]]). Additionally, Young broke Joe Montana's single-season mark with a then-record 112.8 passer rating, and also once again demonstrated his great scrambling ability, accumulating another 289 yards and seven touchdowns on the ground. For his record-breaking season performances, Young was awarded his second [[AP NFL MVP]] award, becoming the seventh player in NFL history to win both league and Super Bowl MVP honors in the same season.
+
+==== Later years and injuries ====
+In the three years following Super Bowl XXIX, the 49ers were eliminated in the playoffs each year by [[Brett Favre]] and the [[Green Bay Packers]], twice in San Francisco. In addition to the early playoff exits, Young suffered a series of injuries that forced him to miss several games from 1995 to 1997. Young entered the [[1998 San Francisco 49ers season|1998 season]] at age 37 and some began to wonder if his skills would diminish because of his history of injuries and a general decline in his game due to age. However, Young silenced all critics once again, putting up career numbers in passing yards (4,170) and passing touchdowns (36).<ref>{{Cite web |title=Steve Young 1998 Game Log |url=https://www.pro-football-reference.com/players/Y/YounSt00/gamelog/1998/ |access-date=2024-06-15 |website=Pro-Football-Reference.com |language=en}}</ref> The 49ers finally beat Favre and the [[1998 Green Bay Packers season|Packers]] in the [[1998–99 NFL playoffs#NFC: San Francisco 49ers 30, Green Bay Packers 27|NFC Wild Card Round]] that year, as Young threw the winning touchdown to wide receiver [[Terrell Owens]] with three seconds remaining to win the game 30&ndash;27.<ref>{{Cite web |title=Wild Card - Green Bay Packers at San Francisco 49ers - January 3rd, 1999 |url=https://www.pro-football-reference.com/boxscores/199901030sfo.htm |access-date=2024-06-15 |website=Pro-Football-Reference.com |language=en}}</ref> In reference to [[Dwight Clark]]'s legendary catch against the Dallas Cowboys in the [[1981–82 NFL playoffs#NFC Championship: San Francisco 49ers 28, Dallas Cowboys 27|1981 NFC Championship Game]], Owens's grab was called "[[The Catch II]]". A week later, however, [[Garrison Hearst]] broke his ankle on the 49ers' first play from scrimmage. Without the threat of a running game, Young threw three interceptions (the last one a Hail Mary pass with under 30 seconds remaining in the game) and the 49ers were defeated by the [[1998 Atlanta Falcons season|Atlanta Falcons]] 20–18.<ref>{{Cite web |title=Divisional Round - San Francisco 49ers at Atlanta Falcons - January 9th, 1999 |url=https://www.pro-football-reference.com/boxscores/199901090atl.htm |access-date=2024-06-15 |website=Pro-Football-Reference.com |language=en}}</ref> Over that span of seasons from 1995 to 1998, Young led the NFL in passer rating twice (in 1996 and 1997), and led the NFL with 36 touchdown passes in 1998.<ref>{{Cite web |title=1996 NFL Passing |url=https://www.pro-football-reference.com/years/1996/passing.htm |access-date=2024-06-15 |website=Pro-Football-Reference.com |language=en}}</ref><ref>{{Cite web |title=1997 NFL Passing |url=https://www.pro-football-reference.com/years/1997/passing.htm |access-date=2024-06-15 |website=Pro-Football-Reference.com |language=en}}</ref><ref>{{Cite web |title=1998 NFL Passing |url=https://www.pro-football-reference.com/years/1998/passing.htm |access-date=2024-06-15 |website=Pro-Football-Reference.com |language=en}}</ref>
+
+The [[1999 San Francisco 49ers season|1999 season]] turned out to be Young's last in the NFL. Young was plagued by [[concussion]]s throughout his career. During a Week 3 ''Monday Night Football'' game against the [[1999 Arizona Cardinals season|Arizona Cardinals]], Young was violently sacked by Cardinals cornerback [[Aeneas Williams]] on a blitz. Running back [[Lawrence Phillips]] was supposed to pick up Williams, but missed. Young was knocked out of the game with a concussion, and did not return again for the rest of the season due to symptoms of [[post-concussion syndrome]]. The concussion he suffered against the Cardinals was reportedly his second in a season that was only three weeks old, and the seventh (at least) of his career. Following the season, the 49ers told him that he would be released if he did not retire. Although Young was offered a job as the starting quarterback of the [[Denver Broncos]] (where his former offensive coordinator, Mike Shanahan, was the head coach), he retired because of his repeated concussions.<ref>{{cite web|url=http://findarticles.com/p/articles/mi_qn4191/is_20000429/ai_n9970931/ | title=FindArticles.com - CBSi|website=findarticles.com}}</ref><ref>{{cite web | url=http://www.cbssports.com/nfl/story/12968406/use-your-head-brian-be-smart-and-walk-away-now?tag=globalNavNFL;headlines | title=Use Your Head, Brian: Be Smart and Walk Away Now | first=Clark | last=Judge | date=February 23, 2010 | work=CBS Sports}}</ref> In a 2013 ''[[Frontline (American TV program)|Frontline]]'' interview, Young said that, partially based upon their own experiences, he and many retired players are increasingly concerned about repeated [[Concussions in American football|concussions and subconcussive hits]]. Young is particularly concerned about certain positions that take frequent hits, such as running backs and linemen.<ref>{{cite interview | url=https://www.pbs.org/wgbh/pages/frontline/sports/league-of-denial/the-frontline-interview-steve-young/ | first=Steve | last=Young | interviewer=Jim Gilmore | title=League of Denial: The NFL's Concussion Crisis | work=[[Frontline (American TV program)|Frontline]] | date=March 27, 2013 | publisher=PBS}}</ref>
+
+==Career statistics and records==
+===USFL career===
+{|class="wikitable" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Team
+! colspan="2"| Games
+! colspan="8"| Passing
+! colspan="4"| Rushing
+|-
+! GP !! GS !! Cmp !! Att !! Pct !! Yds !! Avg !! TD !! Int !! Rtg !! Att !! Yds !! Avg !! TD
+|-
+! [[1984 USFL season|1984]] || [[Los Angeles Express (USFL)|L.A. Express]]
+| 12 || 12 || 179 || 310 || 57.7 || 2,361 || 7.6 || 10 || 9 || 80.6 || 79 || 515 || 6.5 || 7
+|-
+! [[1985 USFL season|1985]] || [[Los Angeles Express (USFL)|L.A. Express]]
+| 10 || 10 || 137 || 250 || 54.8 || 1,741 || 7.0 || 6 || 13 || 63.1 || 56 || 368 || 6.6 || 2
+|-
+! colspan="2"| Career || 22 || 22 || 316 || 560 || 56.4 || 4,102 || 7.3 || 16 || 22 || 72.8 || 135 || 883 || 6.5 || 9
+|}
+
+===NFL career===
+{| class="wikitable mw-collapsible"
+! colspan="2"| Legend
+|-
+| style="background:#ffff00; width:3em;"|
+| AP [[NFL MVP]]
+|-
+| style="background:#ffd700; width:3em;"|
+| AP NFL MVP & [[Offensive Player of the Year|OPOTY]]
+|-
+| style="background:#afe6ba; width:3em;"|
+| Won the [[Super Bowl]]
+|-
+| style="background:#cfecec; width:3em;"|
+| Led the league
+|-
+| '''Bold'''
+| Career high
+|}
+
+{|class="wikitable" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Team
+! colspan="3"| Games
+! colspan="8"| Passing
+! colspan="4"| Rushing
+! colspan="2"| Sacks
+! colspan="2"| Fumbles
+|-
+! GP !! GS !! Record !! Cmp !! Att !! Pct !! Yds !! Avg !! TD !! Int !! Rtg !! Att !! Yds !! Avg !! TD !! Sck !! SckY !! Fum !! Lost
+|-
+! [[1985 NFL season|1985]] || [[1985 Tampa Bay Buccaneers season|TB]]
+| 5 || 5 || 1–4 || 72 || 138 || 52.2 || 935 || 6.8 || 3 || 8 || 56.9 || 40 || 233 || 5.8 || 1 || 21 || 158 || 4 || 3
+|-
+! [[1986 NFL season|1986]] || [[1986 Tampa Bay Buccaneers season|TB]]
+| 14 || 14 || 2–12 || 195 || 363 || 53.7 || 2,282 || 6.3 || 8 || 13 || 65.5 || 74 || 425 || 5.7 || 5 || 47 || '''326''' || '''11''' || '''9'''
+|-
+! [[1987 NFL season|1987]] || [[1987 San Francisco 49ers season|SF]]
+| 8 || 3 || 2–1 || 37 || 69 || 53.6 || 570 || 8.3 || 10 || 0 || 120.8 || 26 || 190 || 7.3 || 1 || 3 || 25 || 0 || 0
+|-
+! [[1988 NFL season|1988]] || style="background:#afe6ba;"|[[1988 San Francisco 49ers season|SF]]
+| 11 || 3 || 2–1 || 54 || 101 || 53.5 || 680 || 6.7 || 3 || 3 || 72.2 || 27 || 184 || 6.8 || 1 || 13 || 75 || 5 || 3
+|-
+! [[1989 NFL season|1989]] || style="background:#afe6ba;"|[[1989 San Francisco 49ers season|SF]]
+| 10 || 3 || 3–0 || 64 || 92 || 69.6 || 1,001 || 10.9 || 8 || 3 || 120.8 || 38 || 126 || 3.3 || 2 || 12 || 84 || 2 || 1
+|-
+! [[1990 NFL season|1990]] || [[1990 San Francisco 49ers season|SF]]
+| 6 || 1 || 0–1 || 38 || 62 || 61.3 || 427 || 6.9 || 2 || 0 || 92.6 || 15 || 159 || '''10.6''' || 0 || 8 || 41 || 1 || 1
+|-
+! [[1991 NFL season|1991]] || [[1991 San Francisco 49ers season|SF]]
+| 11 || 10 || 5–5 || 180 || 279 || 64.5 || 2,517 || style="background:#cfecec;"| '''9.0''' || 17 || 8 || style="background:#cfecec;"| 101.8 || 66 || 415 || 6.3 || 4 || 13 || 79 || 3 || 2
+|-
+! style="background:#ffd700; width:3em;"|[[1992 NFL season|1992]] || [[1992 San Francisco 49ers season|SF]]
+| 16 || 16 || style="background:#cfecec;"| '''14–2''' || 268 || 402 || style="background:#cfecec;"| 66.7 || 3,465 || style="background:#cfecec;"| 8.6 || style="background:#cfecec;"| 25 || 7 || style="background:#cfecec;"| 107.0 || '''76''' || '''537''' || 7.1 || 4 || 29 || 152 || 9 || 6
+|-
+! [[1993 NFL season|1993]] || [[1993 San Francisco 49ers season|SF]]
+| 16 || 16 || 10–6 || 314 || 462 || 68.0 || 4,023 || style="background:#cfecec;"| 8.7 || style="background:#cfecec;"| 29 || '''16''' || style="background:#cfececm;"| 101.5 || 69 || 407 || 5.9 || 2 || 31 || 160 || 8 || 6
+|-
+! style="background:#ffff00; width:3em;"|[[1994 NFL season|1994]] || style="background:#afe6ba;"|[[1994 San Francisco 49ers season|SF]]
+| 16 || 16 || style="background:#cfecec;"| 13–3|| '''324''' || 461 || style="background:#cfecec;"| '''70.3''' || 3,969 || style="background:#cfecec;"| 8.6 || style="background:#cfecec;"| 35 || 10 || style="background:#cfecec;"| '''112.8''' || 58 || 293 || 5.1 || '''7''' || 31 || 163 || 4 || 3
+|-
+! [[1995 NFL season|1995]] || [[1995 San Francisco 49ers season|SF]]
+| 11 || 11 || 8–3 || 299 || 447 || style="background:#cfecec;"| 66.9 || 3,200 || 7.2 || 20 || 11 || 92.3 || 50 || 250 || 5.0 || 3 || 25 || 115 || 3 || 3
+|-
+! [[1996 NFL season|1996]] || [[1996 San Francisco 49ers season|SF]]
+| 12 || 12 || 9–3 || 214 || 316 || style="background:#cfecec;"| 67.7 || 2,410 || 7.6 || 14 || 6 || style="background:#cfecec;"| 97.2 || 52 || 310 || 6.0 || 4 || 34 || 160 || 3 || 2
+|-
+! [[1997 NFL season|1997]] || [[1997 San Francisco 49ers season|SF]]
+| 15 || 15 || 12–3 || 241 || 356 || style="background:#cfecec;"| 67.7 || 3,029 || style="background:#cfecec;"| 8.5 || 19 || 6 || style="background:#cfecec;"| 104.7 || 50 || 199 || 4.0 || 3 || 35 || 220 || 4 || 2
+|-
+! [[1998 NFL season|1998]] || [[1998 San Francisco 49ers season|SF]]
+| 15 || 15 || 11–4 || 322 || '''517''' || 62.3 || '''4,170''' || 8.1 || style="background:#cfecec;"| '''36''' || 12 || 101.1 || 70 || 454 || 6.5 || 6 || '''48''' || 234 || 9 || 8
+|-
+! [[1999 NFL season|1999]] || [[1999 San Francisco 49ers season|SF]]
+| 3 || 3 || 2–1 || 45 || 84 || 53.6 || 446 || 5.3 || 3 || 4 || 60.9 || 11 || 57 || 5.2 || 0 || 8 || 63 || 2 || 2
+|-
+! colspan="2"| [https://www.pro-football-reference.com/players/Y/YounSt00.htm Career] || 169 || 143 || 94–49 || 2,667 || 4,149 || 64.3 || 33,124 || 8.0 || 232 || 107 || 96.8 || 722 || 4,239 || 5.9 || 43 || 358 || 2,055 || 68 || 49
+|}
+
+===Records and legacy===
+[[File:Steve Young and Michael Irvin.jpg|thumb|right|250px|Young (8) and [[Michael Irvin]] (88) playing in the ESPN Pro Bowl Skills Challenge in 2006]]
+Although Young did not become the 49ers' first-string quarterback until his seventh NFL season, and he played a full season only thrice (all consecutively) during his 15-year career, Young had a significant impact on the NFL. A two-time league MVP, he completed 2,667 of 4,149 passes for 33,124 yards and 232 touchdowns, with 107 interceptions, and 43 rushing touchdowns. Young's 96.8 career [[passer rating]] is the [[List of National Football League career passer rating leaders|twelfth highest in NFL history]] and fourth highest among retired players, behind [[Tony Romo]], [[Tom Brady]], and [[Drew Brees]]. Young's 4,239 rushing yards are the [[List of dual-threat quarterback records#Rushing yards|sixth most ever gained by a quarterback]], behind [[Michael Vick]], [[Cam Newton]], [[Russell Wilson]], [[Lamar Jackson]], and [[Randall Cunningham]]. At the time of his retirement, Young had the highest career passer rating ever, and only trailed Cunningham in rushing yards for a quarterback. He was the NFL's top rated passer in six different seasons and led the league in touchdown passes four times. In 20 postseason games, Young threw 20 touchdown passes with only 13 interceptions, and scored eight touchdowns on the ground. During his stint with the 49ers, Young passed for 29,907 yards, 221 touchdowns, and 86 interceptions, with a passer rating of 101.4, highest in franchise history. He was also sacked 290 times, also most in franchise history. From October 20, 1991, to October 1, 2023, Young held the franchise's highest single game completion rate of 90%, which he set against the [[Detroit Lions]], until it was bested by [[Brock Purdy]]'s 95.2% against the [[Arizona Cardinals]].<ref>{{Cite web |last=Dajani |first=Jordan |date=October 1, 2023 |title=Brock Purdy sets 49ers QB record in stellar performance against Cardinals: Purdy continues to impress as San Francisco stays red-hot |url=https://www.cbssports.com/nfl/news/brock-purdy-sets-49ers-qb-record-in-stellar-performance-against-cardinals/ |access-date=October 2, 2023 |website=CBS Sports}}</ref>
+
+;NFL records
+*Tenth highest passer rating, career, including active players – 96.8<ref name="passrtgall" />
+*Fourth highest passer rating, career, retired players only – 96.8<ref name="passrtgall" />
+*Eighth highest career completion percentage, retired players – 64.3%<ref name="footballdb2022">{{cite web |url=https://www.footballdb.com/leaders/career-passing-completionpct |title=NFL Career Leaders - Pass Completion Percentage |website=The Football Database |access-date=February 8, 2022}}</ref>
+*Most times led the league in passer rating, career – 6 (tied with [[Sammy Baugh]])
+*Most consecutive times led the league in passer rating – 4 (1991–94)
+*One of seven QBs to lead the league in touchdown passes 4 times (tied w/ [[Johnny Unitas]], Brett Favre, [[Peyton Manning]], [[Tom Brady]], Drew Brees, and [[Len Dawson]])
+*Most TD passes, playoff game – 6 (tied w/ [[Daryle Lamonica]] & [[Tom Brady]])<ref name="nfl.com">{{cite web |url=http://www.nfl.com/superbowl/records/playoffs/player/passing |title=NFL Playoff Records: Individual – Passing |website=[[National Football League]] |access-date=August 9, 2008 |archive-date=July 22, 2015 |archive-url=https://web.archive.org/web/20150722062108/http://www.nfl.com/superbowl/records/playoffs/player/passing |url-status=dead }}</ref>
+*Most TD passes in one Super Bowl – 6<ref>{{cite web |url=https://www.profootballhof.com/players/steve-young/ |title=Steve Young |work=[[Pro Football Hall of Fame]] |access-date=September 30, 2022}}</ref>
+*Most rushing yards by a QB, postseason career – 594<ref name="Player Game Finder Query Results">[https://www.pro-football-reference.com/play-index/tiny/i12ps "Player Game Finder Query Results"], Pro-Football-Reference.com</ref>
+*Most rushing touchdowns by a QB, postseason career – 8<ref name="Player Game Finder Query Results"/>
+
+;49ers records
+* Most average yards per attempt (20+ Atts) (Game): vs Detroit (12/19/93), 15.39
+* Most touchdown passes (season): 36 (1998)
+* Best completion percentage (season): 70.3 (1994)
+* Best passer rating (season): 112.8 (1994)
+* Most 300-yard passing games (season): 7 (1998)
+* Best passer rating (career): 101.4 
+* Most consecutive games with a touchdown pass: 18, at Det. (10/9/94) to vs. StL (11/26/95) note: (DNP in 5 games in 1995)
+* Most rushing touchdowns by a quarterback (career): 43
+
+In 1999, Young was ranked No. 63 on ''[[The Sporting News]]'' list of the 100 Greatest Football Players. Young was elected to the Pro Football Hall of Fame on February 5, 2005; he was the first [[List of left-handed quarterbacks|left-handed quarterback]] to be so honored.<ref>{{Cite web |url=https://www.profootballhof.com/news/2005/01/news-left-handed-qbs/ |title=Left-handed QBs |website=[[Pro Football Hall of Fame]] |date=January 1, 2005 |language=en |access-date=September 30, 2022}}</ref> Young was enshrined August 7, 2005, and his induction speech was given by his father, LeGrande "Grit" Young.
+
+The San Francisco 49ers had his No. 8 jersey retired during a halftime ceremony against the New England Patriots on October 5, 2008. Young was the 11th player in team history to receive this honor.<ref>{{cite web |url=https://www.49ers.com/news/49ers-to-retire-steve-young-s-jersey-491804 |title=49ers to Retire Steve Young's Jersey |publisher=[[San Francisco 49ers]]
+|date=September 25, 2008}}</ref> He is also the only 49er in team history to wear No. 8.<ref>{{cite web | url=http://blogs.mercurynews.com/49ers/2008/09/25/49ers-to-retire-steve-youngs-no-8-on-oct-5/ | title=49ers to retire Steve Young's No. 8 on Oct. 5 | first=Daniel | last=Brown | date=September 25, 2008 |work=49ers Hot Read |publisher=[[The Mercury News]] | location=[[San Jose, California]]}}</ref>
+
+==Awards and honors==
+===NFL===
+* 3× [[List of Super Bowl champions|Super Bowl champion]] ([[Super Bowl XXIII|XXIII]], [[Super Bowl XXIV|XXIV]], [[Super Bowl XXIX|XXIX]])
+* [[Super Bowl Most Valuable Player Award|Super Bowl MVP]] ([[Super Bowl XXIX|XXIX]])
+* 2× [[NFL Most Valuable Player]] (1992, 1994)
+* [[NFL Offensive Player of the Year]] (1992)
+* 2× [[UPI NFC Player of the Year|UPI NFC Offensive Player of the Year]] (1992, 1994)
+* 3× First-team [[All-Pro]] ([[1992 All-Pro Team|1992]]–[[1994 All-Pro Team|1994]])
+* 3× Second-team All-Pro ([[1995 All-Pro Team|1995]], [[1997 All-Pro Team|1997]], [[1998 All-Pro Team|1998]])
+* 7× [[Pro Bowl]] ([[1993 Pro Bowl|1992]]–[[1999 Pro Bowl|1998]])
+* 4× [[List of National Football League season passing touchdowns leaders|NFL passing touchdowns leader]] (1992–1994, 1998)
+* 6× [[List of NFL season passer rating leaders|NFL passer rating leader]] (1991–1994, 1996, 1997)
+* 5× [[List of National Football League annual pass completion percentage leaders|NFL completion percentage leader]] (1992, 1994–1997)
+* 2× [[Bert Bell Award]] (1992, 1994)
+* [[San Francisco 49ers Hall of Fame]]
+* [[San Francisco 49ers#Retired numbers|San Francisco 49ers No. 8]] retired
+* [[Pro Football Hall of Fame]] inductee (2005)
+
+===College===
+* [[Davey O'Brien Award]] (1983)
+* [[Unanimous All-American]] ([[1983 College Football All-America Team|1983]])
+* [[Sammy Baugh Trophy]] (1982)
+* 2× [[Western Athletic Conference football|WAC]] Offensive Player of the Year (1982, 1983)
+* 2× First-team All-[[Western Athletic Conference football|WAC]] (1982, 1983)
+* [[BYU Cougars football#Retired numbers|BYU Cougars Jersey No. 8]] retired
+* [[College Football Hall of Fame]] inductee (2001)
+
+==Post-football==
+===Business career===
+[[File:SteveYoungAnalyst.PNG|thumb|170px|Young at ESPN's broadcast set <br> for the [[2009 NFL draft]]]]
+In 1994, Young received a [[Juris Doctor]] [[(J.D.)]] from BYU's [[J. Reuben Clark Law School]].<ref>{{cite web |url=https://byucougars.com/athlete/football/11187/steve-young |title=Steve Young |website=BYU Cougars |access-date=September 30, 2022}}</ref>
+
+In 2000, Young gave the opening prayer at the [[Republican National Convention]].<ref>{{cite news |first1=Lee |last1=Davidson | first2=Bob Jr. | last2=Bernick |title=This is not your father's Republican National Convention |url=https://www.deseret.com/2000/8/3/19521674/this-is-not-your-father-s-republican-national-convention |newspaper=[[Deseret News]] |date=August 3, 2000 |access-date=September 30, 2022}}</ref>
+
+In 2007, Young co-founded [[Huntsman Gay Global Capital]] (HGGC) with billionaire industrialist [[Jon Huntsman, Sr.|Jon M. Huntsman]] and former [[Bain Capital]] executive [[Robert C. Gay]]. After being involved in business ventures with the private equity firm, Young has continued to serve as a managing director.<ref>{{cite news|last=Leiber|first=Ron|title=Your Money: Financial Lessons from Sports Stars' Mistakes|url=https://www.nytimes.com/2011/09/10/your-money/financial-lessons-from-sports-stars-mistakes-your-money.html |access-date=September 10, 2011 |newspaper=[[The New York Times]] |date=September 10, 2011}}</ref>
+
+In 2011, Young was one of several notable BYU athletes and coaches who appeared in the school's "Real Cougar" advertising campaign, which featured the individuals telling an actual [[cougar]] about being a "real cougar". In one of the ads, Young poked fun at himself:<ref>{{cite video|url=https://www.youtube.com/watch?v=Wz1AbGu6HmA |title=BYU Real Cougar 2 – Jimmered! |work=YouTube |publisher=Brigham Young University |date=September 9, 2011|access-date=September 30, 2022}}</ref>
+:Young: I love BYU so much I even got my law degree here.
+:Cougar: (growls)
+:Young: Lawyers... I know.
+As of 2022, Young has been serving as chairman of the board for Integrity Marketing Group<ref>{{Cite web |title=Meet Our Leadership |url=https://www.integritymarketing.com/teammembers/ |access-date=April 9, 2022 |website=Integrity Marketing Group |language=en-US}}</ref> and his private equity firm, [[Huntsman Gay Global Capital]], held a position in the partnership.<ref>{{Cite web |title=Integrity Marketing Group {{!}} Portfolio |url=https://www.hggc.com/portfolio/integrity |access-date=April 9, 2022 |website=HGGC |language=en}}</ref>
+
+===Acting career===
+Young has both performed dramatic roles and appeared as himself in a limited acting career. He appeared in one episode of ''[[Frasier]]'' and one episode of ''[[Lois & Clark: The New Adventures of Superman]]'' (cast as Lois' former high school football quarterback boyfriend, Joe Maloy).{{citation needed|date=May 2022}} He also made a guest appearance as himself in the ''[[Dharma & Greg]]'' episode "Are You Ready for Some Football?" encouraging Dharma, the team's Number One Fan. In 1995, Young appeared as himself in the Season 6, Episode 12 episode of ''[[Beverly Hills, 90210]]''. He also made cameo appearances in the [[Mormon cinema|LDS]] comedy ''[[The Singles Ward]]'' (2002) and in a season 5 episode of [[BYUtv]]'s ''[[Studio C]]'' (2014). Young also made a guest appearance as himself in season 8 of the [[NBC]] comedy series ''[[Wings (1990 TV series)|Wings]]'' in the episode "Just Call Me Angel".
+
+Young was originally offered a part in the 1998 movie ''[[There's Something About Mary]]'', but turned the role down; the role ultimately went to [[Brett Favre]].<ref>{{cite web | url=https://movies.yahoo.com/blogs/the-projector/don-t-forget-something-mary-050205292.html | title=Don't Forget: 'There's Something About Mary' | first=Will | last=Leitch | author-link=Will Leitch | website=Yahoo.com | date=February 23, 2011}}</ref>
+
+===Broadcasting career===
+Young was laid off by ESPN on June 30, 2023, after being a fixture on ESPN's NFL studio shows, including “NFL Countdown,” for more than two decades. He was part of a round of layoffs that included many notable on-air personalities.<ref>{{Cite web |last=Fernandez |first=Gabe |date=June 30, 2023 |title=49ers legend Steve Young included in round of big-name ESPN layoffs |url=https://www.sfgate.com/sports/article/steve-young-49ers-espn-layoffs-18179473.php |website=www.sfgate.com |access-date=July 25, 2023 |language=en-US}}</ref>
+
+==Philanthropy==
+[[File:Steve Young talking to YSAs.jpg|thumb|upright|Young speaking to [[Single adult (LDS Church)|Young Single Adults]] in 2009]]
+Young serves as a National Advisor to [[ASCEND: A Humanitarian Alliance]]. This non-profit organization plans expeditions to African and South American countries to provide life skills mentoring with sustainable solutions in education, enterprise, health and simple technology.<ref>{{cite press release |url=http://ascendalliance.org/article.php?cmd=view&id=152|title=Sixteen Celebrities Join Together Promoting a Life-Changing Cause; Utah's Global Humanitarian Impact Stronger Through Non-Profit Merger |publisher=[[ASCEND: A Humanitarian Alliance]] |date=October 17, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20081017163834/http://ascendalliance.org/article.php?cmd=view&id=152 |archive-date=October 17, 2008}}</ref>
+
+In 1993, Young founded a charitable foundation known as the ''Forever Young Foundation'', which serves children facing significant physical, emotional, and financial challenges by providing academic, athletic, and therapeutic opportunities otherwise unavailable to them.<ref>[http://www.portfolio.com/resources/company-profiles/Forever-Young-Foundation-315873 "Forever Young Foundation"]{{Dead link|date=September 2022}}, ''[[Condé Nast Publications|Condé Nast]] Portfolio.com.''</ref><ref>[http://www.stamfordplus.com/stm/information/nws1/publish/News_1/Sports_Commission_Forever_Young_Foundation_join_forces_for_Chelsea_Cohen_Courage_Award2944.shtml "Sports Commission, Forever Young Foundation join forces for Chelsea Cohen Courage Award"], ''StamfordPlus.com,'' July 29, 2008.</ref>
+
+Young also serves as the national spokesman for an organization founded by former Save Darfur Coalition executive director and founder, David Rubenstein.<ref>{{cite web|title=Best Shot Foundation|url=http://best-shot.org/|access-date=April 21, 2011|url-status=dead|archive-url=https://web.archive.org/web/20100405091545/http://best-shot.org/|archive-date=April 5, 2010}}</ref> Young began his affiliation with the organization in 2009, when he became the honorary league commissioner for their charitable dodgeball tournaments held on college campuses nationwide.<ref>{{cite web|title=Steve Young: Honorary League Commissioner|url=http://best-shot.org/home/steve-young/|access-date=April 21, 2011|url-status=dead|archive-url=https://web.archive.org/web/20110615180013/http://best-shot.org/home/steve-young/|archive-date=June 15, 2011}}</ref><ref>{{cite web |url=http://best-shot.org/home/steve-young/ |title=Steve Young: Honorary League Commissioner « Best Shot Foundation |access-date=April 21, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110615180013/http://best-shot.org/home/steve-young/ |archive-date=June 15, 2011 }}</ref>
+
+==Personal life==
+Young is a member of [[the Church of Jesus Christ of Latter Day Saints]] (LDS Church).<ref>{{cite web |title='Why I'm a Mormon': Steve Young |url=https://www.deseret.com/2012/2/10/20250832/why-i-m-a-mormon-steve-young |website=Deseret News |access-date=August 4, 2023 |archive-url=https://web.archive.org/web/20220126095133/https://www.deseret.com/2012/2/10/20250832/why-i-m-a-mormon-steve-young |archive-date=January 26, 2022 |date=February 10, 2012 |url-status=live}}</ref> He is a great-great-great-grandson of [[Brigham Young]],<ref>Krakauer, Jon. "Under the Banner of Heaven" pg. 203</ref> second [[President of the Church (LDS Church)|president]] of the LDS Church, for whom BYU is named.
+
+Young has been married to Barbara Graham since 2000. They have two sons and two daughters.<ref>{{cite web|url=http://www.playerwives.com/nfl/san-francisco-49ers/steve-youngs-wife-barbara-graham-young/|title=Steve Young's wife Barbara Graham Young - PlayerWives.com|date=January 29, 2013}}</ref> According to ''[[A Football Life#Season Six|A Football Life]]'', as his playing career ended before his eldest child was born, Young wrote his autobiography ''QB: My Life Behind the Spiral'' initially as a private memoir for his children. The book was published in 2016, with writer Jeff Benedict as coauthor.<ref>{{Cite book |title=QB: My Life Behind the Spiral |isbn=978-0544845763 |last1=Young |first1=Steve |last2=Benedict |first2=Jeff |date=2016 |publisher=Houghton Mifflin Harcourt }}</ref>
+
+Young resides in the [[San Francisco Bay Area]].<ref>{{Cite web |title=Steve Young |url=https://www.ldsliving.com/steve-young |website=www.ldsliving.com |access-date=May 27, 2023 |language=en-US}}</ref>
+
+==See also==
+* [[Bay Area Sports Hall of Fame]]
+* [[List of NCAA major college football yearly passing leaders]]
+* [[List of NCAA major college football yearly total offense leaders]]
+* [[List of NFL quarterbacks who have posted a perfect passer rating]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{commons category|Steve Young (American football)|Steve Young}}
+* {{Footballstats |espn=13|pfr=Y/YounSt00 }}
+* {{Profootballhof|252}}
+* {{cfbhof|id=2069|name=Steve Young}}
+* {{IMDb name|id=950084|name=Steve Young}}
+
+{{BYU Cougars quarterback navbox}}
+{{Tampa Bay Buccaneers starting quarterback navbox}}
+{{San Francisco 49ers starting quarterback navbox}}
+{{ESPN NFL Personalities}}
+{{Navboxes
+| title = Steve Young—awards, championships, and honors
+| list1 =
+{{NCAA major college football passing yardage leaders}}
+{{Davey O'Brien Award}}
+{{1983 NCAA Division I-A College Football Consensus All-Americans}}
+{{AP Offensive Players of the Year}}
+{{AP NFL MVPs}}
+{{Bert Bell Award}}
+{{Super Bowl XXIII}}
+{{Super Bowl XXIV}}
+{{Super Bowl XXIX}}
+{{Super Bowl Champion quarterbacks}}
+{{Super Bowl MVPs}}
+{{NFL completion percentage leaders}}
+{{NFL passing touchdown leaders}}
+{{NFL quarterbacks with a perfect passer rating}}
+{{49ers Retired Numbers}}
+{{San Francisco 49ers Hall of Fame}}
+{{2005 Football HOF}}
+{{Pro Football Hall of Fame members}}
+{{ESPY Male Athlete}}
+}}
+{{Authority control}}
+
+{{DEFAULTSORT:Young, Steve}}
+[[Category:1961 births]]
+[[Category:Living people]]
+[[Category:All-American college football players]]
+[[Category:American color commentators]]
+[[Category:American football quarterbacks]]
+[[Category:American male television actors]]
+[[Category:American philanthropists]]
+[[Category:American people of English descent]]
+[[Category:Brigham Young University alumni]]
+[[Category:BYU Cougars football players]]
+[[Category:College Football Hall of Fame inductees]]
+[[Category:ESPN people]]
+[[Category:Greenwich High School alumni]]
+[[Category:J. Reuben Clark Law School alumni]]
+[[Category:Latter Day Saints from California]]
+[[Category:Latter Day Saints from Connecticut]]
+[[Category:Latter Day Saints from Utah]]
+[[Category:Los Angeles Express players]]
+[[Category:Mormon American football players]]
+[[Category:National Conference Pro Bowl players]]
+[[Category:National Football League Most Valuable Player Award winners]]
+[[Category:National Football League Offensive Player of the Year Award winners]]
+[[Category:National Football League players with retired numbers]]
+[[Category:People from Riverside, Connecticut]]
+[[Category:Players of American football from California]]
+[[Category:Players of American football from Fairfield County, Connecticut]]
+[[Category:Players of American football from Salt Lake City]]
+[[Category:Pro Football Hall of Fame inductees]]
+[[Category:Richards–Young family]]
+[[Category:San Francisco 49ers players]]
+[[Category:Sportspeople from Greenwich, Connecticut]]
+[[Category:Sportspeople from the San Francisco Bay Area]]
+[[Category:Super Bowl MVPs]]
+[[Category:Tampa Bay Buccaneers players]]

@@ -1,0 +1,147 @@
+{{short description|Australian-born country music singer|bot=PearBOT 5}}
+{{Use dmy dates|date=July 2017}}
+{{Use Australian English|date=July 2017}}
+{{more footnotes|date=August 2009}}
+{{Infobox musical artist
+| name             = Shea Fisher
+| image            = 
+| background       = solo_singer
+| birth_name       = Shea Fisher
+| birth_place      = 
+| birth_date       = {{birth-date and age|April 1988}}
+| alias            = 
+| origin           = [[Portland, Victoria]], Australia
+| instrument       = {{flatlist|
+* Vocals
+* guitar
+}}
+| genre            = [[Country music|Country]]
+| occupation       = Singer
+| years_active     = 2007–present
+| label            = ABC Music
+| associated_acts  = {{flatlist|
+* [[Taylor Swift]]
+* Victoria Bailliee
+* [[Catherine Britt]]
+}}
+| website          = [http://www.sheafisher.com Official website]
+}}
+
+'''Shea Fisher''' (Born in Portland Victoria in April 1988) is an Australian-born [[country music]] singer. She has moved to the United States to begin a career in country music, signing to [[Stroudavarious Records]] that year. She also has a record deal with ABC Music in Australia.
+
+==Biography==
+Fisher released her debut single, "Just The Excuse", and debut album "Everyday Girl" in Australia in July 2007 after being signed to Australian label ABC Music in April 2007. Shea had two #1 songs off this first album with songs "Just the excuse" and "Everyday Girl". In early 2009, [[James Stroud]] heard music from Fisher's second album "Shea" and signed her to, [[Stroudavarious Records]] where [[Richard Landis]] and [[Steve Forde]] produce her music.<ref>[http://www.musicrow.com/2009/05/shea-fisher-signs-with-stroudavarious/ Shea Fisher Signs With Stroudavarious] MusicRow.com</ref>
+. The first single off the album, "Don't Chase Me", was released in April 2009 and was made into a music video directed by [[Trey Fanjoy]]. She had two #1 songs off her 2nd album with hit songs "Don't chase me" and "Suitcase". "Don't chase me" was also a top 20 on CMT and GAC in the US and was aired on CMC in Australia.
+
+Shea is the daughter of bull riding and bareback riding Champion, Eddie Fisher and barrel racing Champion, Joanne Fisher, Shea grew up travelling the country on the rodeo circuit. At age 10, Shea's family moved to the US where she lived for three years while her Father Eddie was competing on the PBR Budlight Cup Tour.
+
+In 2007, at the age of 19, Shea signed a record deal with ABC Music and released her debut album, titled "Everyday Girl" the same year. She wrote nine of the 11 songs on her first album. After the release of her first album, Shea went on tour throughout Australia and was not only the most requested artist on CMC, but she sold the most albums of any new country artists and had the most No.1 songs of any new country artist that year.
+
+Known as the ‘true country music cowgirl of Australia’, not only do Shea’s songs capture the audiences of Australia and America, but her live shows with electric guitars and back up dancers entertain fans of all ages.
+
+Shea is also known for her TV and modeling work. Shea has been the face of many international brands such as Cruel Girl, Rock & Roll Cowgirl, Gypsy Soule, Cowgirl Up, Coral Boots, Mac Make Up and Maui Jim sunglasses. Featured on the cover and in some of the biggest western magazines around the world, Shea is also the TV host for the Australian PBR and a new American western show, Project Cowboy.
+
+Shea is now married to well known Professional Rodeo Athlete [[Tyson Durfey]] who has qualified for the National Finals Rodeo in Las Vegas eight times and has won three Canadian World titles.
+
+== Discography ==
+
+=== Studio albums ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:10em;"| Title
+! rowspan="2" style="width:24em;"| Details
+! colspan="1"| Peak positions
+|- style="font-size:smaller;"
+! width="65"| AUS Country
+|-
+! scope="row"| ''Everyday Girl''
+| 
+* Release date: 9 July 2007
+* Label: ABC Music
+| 3
+|-
+! scope="row"| ''Shea''
+| 
+* Release date: 20 March 2009
+* Label: ABC Music
+| 1
+|-
+|}
+
+=== Singles ===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;"| Single
+! Album
+|-
+| rowspan="2"| 2007
+! scope="row"| "Everyday Girl"
+| rowspan="2"| ''Everyday Girl''
+|-
+! scope="row"| "Just the Excuse"
+|-
+| rowspan="3"| 2009
+! scope="row"| "Don't Chase Me"
+| rowspan="3"| ''Shea''
+|-
+! scope="row"| "Suitcase"
+|-
+! scope="row"| "Getaway Heart"
+|- 
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;"| Video
+! Director
+|-
+| rowspan="2"| 2007
+! scope="row"| "Everyday Girl"
+| 
+|-
+! scope="row"| "Just the Excuse"
+| 
+|-
+| rowspan="3"| 2009
+! scope="row"| "Don't Chase Me"
+| [[Trey Fanjoy]]
+|-
+! scope="row"| "Suitcase"
+| Myles Conti
+|-
+! scope="row"| "Getaway Heart"
+| 
+|-
+| rowspan="2"| 2016
+! scope="row"| "Tough"
+| [[Duncan Toombs]]
+|-
+! scope="row"| "Tattoo"
+|
+|}
+
+==References==
+{{Reflist}}
+*[{{Allmusic|class=artist|id=p924390|pure_url=yes}} allmusic - Shea Fisher]
+*[https://web.archive.org/web/20090525111402/http://www.cmt.com/artists/az/fisher__shea/artist.jhtml CMT.com - Shea Fisher]
+*[https://archive.today/20080719164302/http://www.theresmoretocountry.com/sheafisher.htm theresmoretocountry.com - Shea Fisher]
+*[https://web.archive.org/web/20100428021322/http://www.hitcountry.tv/category/artist/shea-fisher HitCountry.TV Shea Fisher]
+
+==External links==
+* [http://www.sheafisher.com Official site]
+* [https://web.archive.org/web/20090721115638/http://www.stroudavarious.com/ Stroudavarious Records]
+* [https://web.archive.org/web/20091024062632/http://www.sheafisher.com.au/ Shea Fisher Australian Site]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Fisher, Shea}}
+[[Category:Australian country singers]]
+[[Category:Living people]]
+[[Category:R&J Records artists]]
+[[Category:1988 births]]
+[[Category:Australian expatriates in the United States]]
+[[Category:21st-century Australian singers]]
+[[Category:21st-century Australian women singers]]

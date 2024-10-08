@@ -1,0 +1,40 @@
+{{about||the rugby union player|Johnny McNicholl|the Scottish football player|Johnny McNichol}}
+{{Use dmy dates|date=April 2020}}
+{{EngvarB|date=March 2020}}
+{{Infobox musical artist
+| name            = John McNicholl
+| birth_place     = [[Foreglen]], Derry, Northern Ireland
+| occupation      = Singer
+| instruments     = Vocals
+| genre           = [[Country music|Country]]
+| years_active    = 2004–present
+| label           = Arran Records
+| website         = http://johnmcnicholl.com
+}}
+
+'''John McNicholl''' is a country singer from [[Northern Ireland]].
+
+McNicholl's first album, ''Something Old, Something New'' was released in 2004 and earned him the "Best Newcomer" award at the Irish World Awards.<ref>http://www.derryjournal.com/news/local/career-highs-for-singer-john-mcnicholl-i-wouldn-t-change-it-for-the-world-1-2120889 {{dead link|date=March 2020}}</ref> He also represented Ireland at the CMA Global Showcase in [[Nashville]]. Since then, he has gone on to record a number of albums each earning him a following in both Ireland and the United Kingdom.<ref>http://www.londonderrysentinel.co.uk/news/local/charity-barn-dance-with-top-country-and-western-star-john-mcnicholl-1-2102273 {{Dead link|date=February 2022}}</ref>
+
+==Early life==
+He was born in [[Foreglen]], a small village in [[Derry]].<ref>{{cite web| url = http://johnmcnicholl.com/biography.php| title = johnmcnicholl.com}}</ref>
+
+==Discography==
+*Something Old, Something New<ref>{{cite web| url = http://johnmcnicholl.com/discography.php| title = johnmcnicholl.com}}</ref>
+*What's A Guy Gotta Do
+*The Irish Collection
+*You Are No Angel
+*Someone Like You
+*It's Your Love
+
+==References==
+{{Reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:McNicholl, John}}
+[[Category:Living people]]
+[[Category:Irish country singers]]
+[[Category:Irish male singers]]
+[[Category:Musicians from Derry (city)]]
+[[Category:Year of birth missing (living people)]]

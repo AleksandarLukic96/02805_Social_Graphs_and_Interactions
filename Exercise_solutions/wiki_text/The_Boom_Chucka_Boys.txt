@@ -1,0 +1,118 @@
+{{Short description|Canadian country/rockabilly band}}
+{{Infobox musical artist
+| name            = The Boom Chucka Boys
+| image           =
+| caption         =
+| image_size      =
+| alias           =
+| origin          = [[Sylvan Lake, Alberta]], [[Canada]]
+| genre           = [[Country music|Country]], [[rockabilly]]
+| years_active    = 2010–present
+| label           = Cache Entertainment, [[Royalty Records|Royalty]]
+| associated_acts = [[Gord Bamford]], [[Byron Hill]]
+| website         = {{URL|http://www.theboomchuckaboys.com/|theboomchuckaboys.com}}
+| current_members = Ryan Langlois<br />Joel Rathjen<br />Teddy Roy Michaylow<br />Ben Shillabeer<br />Neil MacDonald
+| past_members    = Dave Grobe
+}}
+'''The Boom Chucka Boys''' is a Canadian [[country music|country]] and [[rockabilly]] band<ref name="express"/> from [[Sylvan Lake, Alberta]] composed of Ryan Langlois, Joel Rathjen, Teddy Roy Michaylow, Ben Shillabeer and Neil MacDonald.<ref name="cbc">{{cite web|title=The Boom Chucka Boys on CBC Music|url=http://music.cbc.ca/#/artists/The-Boom-Chucka-Boys|website=[[CBC Music]]|accessdate=September 11, 2014}}</ref> The band was formed in July 2010.<ref name="cbc" /><ref name="express">{{cite news|last1=Weber|first1=Mark|title=Boom Chucka Boys unleash 'rockabilly and classic country'|url=http://www.reddeerexpress.com/entertainment/Boom_Chucka_Boys_unleash_rockabilly_and_classic_country_211255751.html|accessdate=September 11, 2014|work=Red Deer Express|date=June 12, 2013}}</ref> They were discovered by [[Gord Bamford]] in January 2011 and signed a record deal with his company, Cache Entertainment.<ref name="express" /><ref name="college">{{cite news|last1=Ledingham|first1=Lani|title=The Boom Chucka Boys will make you shake your boogie woogie|url=http://rdc.ab.ca/about/alumni-foundation/alumni/blog/boom-chucka-boys-will-make-you-shake-your-boogie-woogie|accessdate=September 11, 2014|work=[[Red Deer College]]|date=February 14, 2014}}</ref>
+
+Their self-titled debut album was released in April 2013 and distributed by [[Sony Music Canada]].<ref name="college" /> It was produced by [[Byron Hill]] and recorded in [[Nashville, Tennessee]].<ref name="cbc" /> The first single, "Find My Peace of Mind", was released in March 2013 and peaked at number 43 on the ''[[Billboard (magazine)|Billboard]]'' [[Canada Country]] chart.<ref name="Canada Country" /> In 2014, The Boom Chucka Boys were nominated for the [[Canadian Country Music Association]] Award for Group or Duo of the Year.<ref name="advocate">{{cite news|last1=Michelin|first1=Lana|title=Boom Chucka Boys have shot at country music group of year|url=http://www.reddeeradvocate.com/entertainment/Boom_Chucka_Boys_have_shot__at_country_music_group_of_year_268335022.html|accessdate=September 11, 2014|work=[[Red Deer Advocate]]|date=July 23, 2014}}</ref> The band signed with [[Royalty Records]] in 2014 and released their second album, ''Ramble'', on February 10, 2015.<ref name="advocate" /> The album features three singles: "Turn This Car Around" released in October 2014, "Rebel Wings" released in February 2015 and "Can't Take My Lips Off You" released in August 2015.
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:14em;"| Title
+! style="width:24em;"| Details
+|-
+! scope="row"| ''The Boom Chucka Boys''
+| 
+* Release date: April 30, 2013
+* Label: Cache/[[Sony Music Canada]]
+|-
+! scope="row"| ''Ramble''
+| 
+* Release date: February 10, 2015
+* Label: [[Royalty Records]]/Sony Music Canada
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Canada Country|CAN Country]]<br /><ref name="Canada Country">{{cite magazine|url=http://www.billboard.com/biz/search/charts?f%5B0%5D=ts_chart_artistname%3A%2ABoom%20Chucka%20Boys%2A&f%5B1%5D=itm_field_chart_id%3A1240&f%5B2%5D=ss_bb_type%3Achart_item&type=2&artist=Boom%20Chucka%20Boys|title=Boom Chucka Boys Album & Song Chart History - Canada Country|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=September 11, 2014}}</ref>
+|-
+| rowspan="2"| 2013
+! scope="row"| "Find My Peace of Mind"
+| 43
+| align="left" rowspan="2"| ''The Boom Chucka Boys''
+|-
+! scope="row"| "Caffeine"
+| —
+|-
+| 2014
+! scope="row"| "Turn This Car Around"
+| 42
+| align="left" rowspan="3"| ''Ramble''
+|-
+| rowspan="2"| 2015
+! scope="row"| "Rebel Wings"
+| —
+|-
+! scope="row"| "Can't Take My Lips Off You"
+| —
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:14em;"| Video
+! Director
+|-
+| 2015
+! scope="row"| "Can't Take My Lips Off You"
+| Matthew Kooman/Daniel Kooman
+|-
+|}
+
+==Awards and nominations==
+{| class="wikitable"
+|-
+! Year
+! Association
+! Category
+! Result
+|-
+| 2014
+| rowspan="2"| [[Canadian Country Music Association]]
+| Group or Duo of the Year
+| {{nom}}
+|-
+| 2015
+| Group or Duo of the Year
+| {{nom}}
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{official|http://theboomchuckaboys.com/}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Boom Chucka Boys}}
+[[Category:Canadian country music groups]]
+[[Category:Musical groups established in 2010]]
+[[Category:Musical groups from Alberta]]
+[[Category:Rockabilly music groups]]
+[[Category:2010 establishments in Alberta]]

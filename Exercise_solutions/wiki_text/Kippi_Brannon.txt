@@ -1,0 +1,135 @@
+{{short description|American country music singer|bot=PearBOT 5}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name            = Kippi Brannon
+| background      = solo_singer
+| image           =
+| caption         = 
+| birth_name      = Kippi Rolynn Binkley<ref name="oldies"/>
+| alias           = 
+| birth_date      = {{birth year and age|1966}}<ref name="oldies"/>
+| birth_place     = [[Nashville, Tennessee]], U.S.
+| origin          = 
+| genre           = [[country music|Country]]
+| occupation      = [[Singing|Singer]]
+| instrument      = [[singing|Vocals]]
+| years_active    = 1981–1982, 1988–1997
+| label           = [[MCA Records|MCA]], [[Curb Records|Curb]]/[[Universal Records|Universal]]
+| associated_acts = [[Jeff Carson]]
+| website         = 
+}}
+
+'''Kippi Brannon''' (born '''Kippi Rolynn Binkley''', 1966)<ref name="oldies">{{cite web |url=http://www.oldies.com/artist-biography/Kippi-Brannon.html |title=Kippi Brannon Biography |accessdate=2007-12-23 |work=Oldies.com}}</ref> is an American [[country music]] singer. She made her debut on the country music scene as a teenager, releasing four singles on [[MCA Records]] in the early 1980s before leaving her career in favor of a college education. By 1992, she returned to the country music scene, eventually releasing her debut album ''I'd Be with You'' in 1997.<ref name="allmusic">{{cite web |url={{AllMusic|class=artist|id=p184539|pure_url=yes}} |title=Kippi Brannon Biography |accessdate=2007-12-23 |last=Erlewine |first=Stephen Thomas |work=[[Allmusic]]}}</ref>
+
+==Early life==
+Kippi Rolynn Binkley was born in [[Nashville, Tennessee]].<ref name="oldies"/> A singer and musician at an early age, she began singing professionally before she was a teenager. At age 12, she gave a performance at a local shopping mall, when an executive for [[MCA Records]] discovered her.<ref name="allmusic"/><ref name="coast"/> With the help of record producer Chuck Howard, Jr., Kippi was signed to MCA in 1981. Her surname was altered to Brannon, after Brannon Auto Parts, a local automotive parts store.<ref name="oldies"/><ref name="allmusic"/>
+
+==Career==
+Brannon charted three singles in the early 1980s, in addition to receiving a New Female Vocalist of the Year nomination from the [[Academy of Country Music]].<ref name="allmusic"/> She was also signed as an opening act for other country artists. Although she was gaining in popularity, Brannon decided to leave her career and attend college, first at [[Belmont University]] and later at the [[University of Tennessee]]-Knoxville.<ref name="oldies"/> During her hiatus from the country music scene, she also married and had a daughter, Kasey;<ref name="coast">{{cite web |url=http://archive.southcoasttoday.com/daily/05-97/05-28-97/c04ae214.htm |title=Still "Daddy's Little Girl": Former teen star Kippi Brannon returns to country music |accessdate=2007-12-23 |last=Patterson |first=Jim |date=1997-05-28 |work=South Coast Today}}</ref> she later divorced and married a second time.<ref name="allmusic"/>
+
+By 1988, Brannon resumed her music career, signing to [[Curb Records]] this time around. Her first single for the label, "I Ain't Never", failed to make the charts upon its 1992 release. Working with producers [[Matt Rollings]] and [[James Stroud]], she began a search for additional songs to record; however, by the end of 1992, she once again had to take a hiatus, as she had divorced a second time, and had to care for her ailing father.<ref name="allmusic"/> 
+
+Her first album, ''I'd Be with You'', was released in early 1997, under the production of [[Mark Bright (record producer)|Mark Bright]].<ref name="allmusic"/> Though the album's first single, "Daddy's Little Girl", only reached number 42 on Billboard's [[Hot Country Songs]] chart -- which tracked only radio airplay at the time -- it was a retail success, spending 23 weeks and reaching number 6 on the Country Single Sales chart, and number 23 on the 1997 year-end Country Single Sales chart.<ref>{{cite web |title=Billboard-1997-12-27 |url=https://worldradiohistory.com/Archive-All-Music/Billboard/90s/1997/Billboard-1997-12-27.pdf |website=World Radio History}}</ref> The song was also blended with fellow [[Curb Records]] artist [[Jeff Carson]]'s solo recording of [[Bob Carlisle]]'s similarly-themed hit single "[[Butterfly Kisses (song)|Butterfly Kisses]]" as an additional track on Carson's [[Butterfly Kisses (Jeff Carson album)|album of the same name]]. Like Brannon's single, Carson's version of "Butterfly Kisses" struggled on the airplay charts but was a sales success, spending 15 weeks on the Country Single Sales chart and peaking at number 6. ''I'd Be with You'' reached number 53 on the [[Top Country Albums]] chart.
+
+Brannon has not recorded since.
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:10em;"| Title
+! rowspan="2" style="width:16em;"| Album details
+! colspan="2"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]
+! width="45"| [[Top Heatseekers|US Heat]]
+|-
+! scope="row"| ''I'd Be with You''
+| 
+* Release date: April 22, 1997
+* Label: [[Curb Records|Curb]]/[[Universal Records|Universal]]
+| 53
+| 48
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[Bubbling Under Hot 100|US Bubbling]]
+|-
+| 1981
+! scope="row"| "[[Slowly (Webb Pierce song)|Slowly]]"
+| 37
+| —
+| rowspan="4" {{n/a}}
+|-
+| rowspan="2"| 1982
+! scope="row"| "If I Could See You Tonight"
+| 55
+| —
+|-
+! scope="row"| "He Don't Make Me Cry"
+| 87
+| —
+|-
+| 1983
+! scope="row"| "In My Dreams"
+| —
+| —
+|-
+| 1992
+! scope="row"| "[[I Ain't Never]]"
+| —
+| —
+| align="left" rowspan="4"| ''I'd Be with You''
+|-
+| rowspan="3"| 1997
+! scope="row"| "Daddy's Little Girl"
+| 42
+| 20
+|-
+! scope="row"| "I'd Be with You"
+| 53
+| 20
+|-
+! scope="row"| "The Greatest Love I've Ever Known"<ref>{{cite journal|url=http://americanradiohistory.com/Archive-RandR/1990s/1997/RR-1997-11-07.pdf|title=Going for Adds|journal=[[Radio & Records]]|page=65|date=November 7, 1997}}</ref>
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:18em;"| Video
+! Director
+|-
+| 1997
+! scope="row"| "Daddy's Little Girl"
+| John Scarpati
+|}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Brannon, Kippi}}
+[[Category:1966 births]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Curb Records artists]]
+[[Category:Living people]]
+[[Category:MCA Records artists]]
+[[Category:Singers from Nashville, Tennessee]]
+[[Category:Country musicians from Tennessee]]
+[[Category:Singer-songwriters from Tennessee]]
+[[Category:21st-century American women]]

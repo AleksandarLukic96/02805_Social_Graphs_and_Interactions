@@ -1,0 +1,282 @@
+{{Short description|American country musician  (1909–1978)}}
+{{Use mdy dates|date=December 2022}}
+ 	
+{{Infobox musical artist
+| name              = Maybelle Carter
+| image             = Maybelle Carter 1960s LOC.jpg
+| caption           = Carter in 1963
+| birth_name        = Maybelle Addington
+| birth_date        = {{birth date |1909|05|10}}
+| birth_place       = [[Nickelsville, Virginia]], U.S.
+| death_date        = {{Death date and age|1978|10|23|1909|05|10}}
+| death_place       = [[Hendersonville, Tennessee]], U.S.
+| genre             = [[Country folk]], [[Gospel music|gospel]], [[Americana (music)|Americana]]
+| instrument        = {{hlist|Vocals|guitar|autoharp|banjo}}
+| years_active      = 1927–1978
+| spouse            = [[Ezra Carter]] (m. 1926)
+}}
+
+{{listen|filename=|title="Worried Man Blues". The Carter Family.}}
+
+"'''Mother'''" '''Maybelle Carter''' (born '''Maybelle Addington'''; May 10, 1909 – October 23, 1978) was an American [[Country music|country]] musician and "among the first" to use the [[Carter Family picking|Carter scratch]],<ref>Susan Ware, Stacy Braukman (2005). ''Notable American Women: A Biographical Dictionary, 5, Completing the Twentieth Century'', p.105. {{ISBN|0-674-01488-X}}.</ref> with which she  "helped to turn the guitar into a [[lead instrument]]."<ref>Holly George-Warren, Laura Levine (2006). ''Honky-Tonk Heroes and Hillbilly Angels: The Pioneers of Country and Western Music'', p.4.</ref><ref>{{Cite web|url=http://www.encyclopediavirginia.org/Carter_Maybelle_1909-1978|title=Carter, Maybelle (1909–1978)|last=Olson|first=Ted|website=Encyclopedia Virginia|access-date=May 4, 2016}}</ref> It was named after her. She was a member of the original [[Carter Family]] act from the late 1920s until the early 1940s and a member of the Carter Sisters and Mother Maybelle group.<ref name="Zwonitzer">{{cite book | last = Zwonitzer | first = Mark | author2 = Hirshberg, Charles | title = Will You Miss Me When I'm Gone?: The Carter Family & Their Legacy in American Music | publisher = Simon & Schuster | year = 2004| url = https://books.google.com/books?id=qTdns8tiSqUC&q=Will+You+Miss+Me+When+I'm+Gone%3F+The+Carter+Family+%26+Their+Legacy+in+American+Music | isbn = 0-7432-4382-X }}</ref>
+
+==Biography==
+She was born '''Maybelle Addington''' on May 10, 1909, in [[Nickelsville, Virginia]], the daughter of Margaret Elizabeth (née Kilgore; 1879–1960) and Hugh Jackson Addington (1877–1929).<ref>Cash, John Carter. ''Anchored in Love: An Intimate Portrait of June Carter Cash'' (Nashville, TN: Thomas Nelson Publishers, 2007), 10.</ref>
+
+On March 13, 1926, Maybelle married [[Ezra Carter]]. They had three daughters, [[Helen Carter|Helen]], [[June Carter Cash|June]], and [[Anita Carter|Anita]].<ref name="Zwonitzer" />
+
+She was a member of the [[Carter Family]], formed in 1927 by her brother-in-law, [[A. P. Carter]], who was married to her cousin [[Sara Carter|Sara]], also a part of the trio. The [[Carter Family]] was one of the first commercial rural country music groups. Maybelle helped create the group's unique sound with her innovative style of guitar playing, using her thumb to play the melody on the bass strings and her index finger to fill out the rhythm.<ref name="Zwonitzer" /> Her technique, sometimes known as the Carter Scratch, influenced the guitar's shift from rhythm to lead instrument.<ref>George-Warren, Holly (1997). "Hillbilly Fillies: The Trailblazers of C&W" quoted in Reddington, Helen (2007). ''The Lost Women of Rock Music'', p.179. {{ISBN|0-7546-5773-6}}.</ref>
+
+The [[Grand Ole Opry]] community of the early 1950s widely respected her, a matriarchal figure in country music circles who was popularly known as "Mother Maybelle." However, she was only in her forties.  Maybelle and her daughters toured from the 1940s through the 1960s as "The Carter Sisters and Mother Maybelle," but after the death of A. P. Carter in 1960, the group revived the name "The Carter Family." They frequently toured with [[Johnny Cash]], her son-in-law, from 1968 on. The group performed regularly on Cash's weekly network [[The Johnny Cash Show (TV series)|variety show]] from 1969 to 1971. She briefly reunited with former Carter Family member Sara Carter during the 1960s folk music craze, with Sara singing lead and Maybelle providing harmony as before in their 1966 reunion album.<ref>{{Cite web |last=Olson |first=Ted |title=Maybelle Carter (1909–1978) |url=https://encyclopediavirginia.org/entries/carter-maybelle-1909-1978/ |access-date=2023-03-31 |website=Encyclopedia Virginia |language=en-US}}</ref>
+
+Carter made occasional solo recordings during the 1960s and 1970s, usually full-length albums. Her final such work, a two-record set released on Columbia Records, placed on ''[[Billboard (magazine)|Billboard]]'''s best-selling country albums chart in 1973 when she was 64. Maybelle was also featured on [[The Nitty Gritty Dirt Band]]'s 1972 recording ''[[Will the Circle be Unbroken (Nitty Gritty Dirt Band album)|Will the Circle Be Unbroken]]''.
+
+Carter died in 1978 after a few years of poor health and was interred next to her husband, Ezra, in [[Hendersonville Memory Gardens]] in [[Hendersonville, Tennessee|Hendersonville]], Tennessee. Two of their daughters – [[Helen Carter|Helen]] and [[Anita Carter|Anita]] – are buried nearby.<ref name="Carter's resting place">{{Cite book|url=https://books.google.com/books?id=osCSCgAAQBAJ&dq=maybelle+carter+buried&pg=PA87|title=Gravesites of Southern Musicians: A Guide to Over 300 Jazz, Blues, Country and Rock Performers' Burial Places|first=Edward|last=Amos|date=July 12, 2002|publisher=McFarland|isbn=9780786412709 |via=Google Books}}</ref>
+
+==Family tree==
+{{Tree chart/start|align=center|summary=Carter Family Tree}}
+{{Tree chart| | | | | | | | | | | WK |~|y|~| NAK | |WK=William Kilgore|NAK=Nancy Kilgore}}
+{{Tree chart| | | | | | | | | | | | | ||)|-|-|-|-|-|-|-|-|-|.| }}
+{{Tree chart| | | | | | | |HJA |~|y|~| MEK | | | | | | | | NEK |~|y|~| WSD | | HJA=Hugh J. Addington|MEK=Margaret E. Kilgore|NEK=Nancy E. Kilgore|WSD=William S. Dougherty}}
+{{Tree chart| | | | | | | | | | ||!| | | | | | | | | | | | | | | |!| | }}
+{{Tree chart| | | | EZRA |~|y|~| MAY | | | | | | | | |A.P |~|y|~| SARA |EZRA=[[Ezra Carter]]|MAY='''Maybelle Carter'''|A.P=[[A. P. Carter|A.P Carter]]|SARA=[[Sara Carter]]}}
+{{Tree chart| | | |,|-|-|-|+|-|-|-|.| | | | | | | | |,|-|-|-|+|-|-|-|.| | | }}
+{{Tree chart| | | H.C | | A.C | | JCC |~|y|~| J.C | | G.C | | JETT | | JOE | |H.C=[[Helen Carter]]|A.C=[[Anita Carter]]|JCC=[[June Carter Cash]]|J.C=[[Johnny Cash]]|G.C=Gladys Carter|JETT=[[Janette Carter]]|JOE=[[Joseph Dougherty Carter]]}}
+{{Tree chart| | | | | | | | | | | | | | |!| | | }}
+{{Tree chart| | | | | | | | | | | | | | JOHN | |JOHN=[[John Carter Cash]]}}
+{{Tree chart/end}}
+
+==Musicianship==
+
+=== Guitar ===
+According to statements made by Carter during a transcribed public performance, she began studying guitar at age 13 when she acquired an instrument.<ref name="Carter, M. 1975">Carter, M., et al., (1975) Transcription of Smithsonian Institution Concert</ref> She is often cited as a pioneering musician, being both an early female guitarist with national exposure and one of the first to use the guitar as a lead instrument in country music.<ref>Kyle, D. (nd). The First Guitar of Country Music. Vintage Guitar Magazine</ref><ref name="Bunch, W. 2009">Bunch, W. (2009). Mother Maybelle Carter Lauded as a True Trailblazer. Timesnews.net</ref>
+
+Writers have identified at least three or four styles played by Maybelle Carter. She often tuned her guitar down, sometimes as many as five frets, but sometimes used a [[Capo (musical device)|capo]] to increase the instrument's range.<ref name="Carter, M. 1975"/><ref name="ReferenceD">Sokolow, F. (nd). The Carter Family Collection: 32 Songs from the Royal Family of Country Music. Hal-Leonard Corporation</ref> Her most famous and widely recorded style is sometimes called "the Carter Scratch," or "thumb-lead style." This technique involved playing a melody on the instrument's three bass strings while strumming the three treble strings for rhythm. She used thumb and finger picks while playing.<ref>{{Cite book |last1=Griffin |first1=Sid |url=https://www.worldcat.org/oclc/61176882 |title=Bluegrass guitar : know the players, play the music |last2=Thompson |first2=Eric |publisher=Backbeat Books |year=2005 |isbn=0-87930-870-2 |edition= |location=San Francisco, CA |page=22 |oclc=61176882}}</ref>
+
+Another style, later popularized by other musicians, was essentially the reverse of the thumb-lead style. In this style, Carter fingerpicked a melody on the three treble strings while brushing a rhythm on the bass strings with her thumb. It is often said that she first saw this style played by African American musician [[Lesley Riddle]]. A third style of Carter's guitar playing involved rapid flatpicking in a country blues rhythm. Her most obscure style was utilized on a few recordings by the Original Carter Family in the 1920s and early 1930s.  It may be described as a Hawaiian-influenced slide technique that sometimes sounded like a modern [[dobro]]. Finally, if other musicians were playing a lead instrument, Maybelle would often strum chords on the guitar to accompany them.<ref name="Bunch, W. 2009"/><ref>Seeger, M. & Carter, J. (2000). Guitary Styles of the Carter Family. (printed insert booklet) Homespunvideo</ref><ref name="ReferenceA">2</ref> Maybelle once filled in for Jimmie Rodgers during a recording session, perfectly mimicking his guitar playing style, in 1932. Rodgers was ill with tuberculosis at that time and had waning stamina during the session.<ref name="Wheeler, B. E. 1976">Wheeler, B. E. (1976). ''Mother Maybelle Carter: Her Career Spans Half a Century''.</ref>
+
+Carter recorded her signature guitar piece, "Wildwood Flower," on numerous occasions, beginning with the original 1928 version. "The Cannon Ball," recorded with the Original Carter Family in 1930, illustrates Carter's fingerpicking style with thumb/bass fill. Her final recording in the slide guitar style was "My Old Cottage Home" in 1931. "Coal Miner's Blues," recorded for Decca, is an excellent flatpicking illustration.<ref name="Wolfe, C. 2000">Wolfe, C. (2000). The Carter Family: In the Shadow of Clinch Mountain. Bear Family Records, Germany.</ref><ref name="ReferenceD"/>
+
+Guitar recordings she made with the Carter Sisters: "Fourteen Karat Nothing," "I'm Working on a Building," "Take Good Care of Him" — a rapid-tempo re-recording of "Waves on the Sea" — as well as a contemporary-sounding revision of "I'll Be All Smiles Tonight."<ref name="Anonymous, 1980">Sunny Side Sentinel: Official Publication for the Carter Family, discography Issue (1980).</ref>
+
+Solo guitar recordings: "Cumberland Gap," "Victory Rag," "Red Wing," and "Sweet Allie Lee."<ref name="ReferenceB">Various CD, album and single liner notes, labels and credits.</ref>
+
+=== Autoharp ===
+The autoharp was relatively obscure in the earliest days of recorded country music. The Original Carter Family often used the instrument for rhythm. Still, it was played by Maybelle Carter's cousin and bandmate, Sara Carter, in her intricate style.<ref name="ReferenceA"/>  Maybelle Carter is widely credited with the autoharp's popularity and it is still played in country and roots music, .<ref>Green, D. (1976). Sara & Maybelle Together at Maces Springs.  Country News</ref>  The autoharp was Maybelle's first instrument. She began tinkering with it as early as the age of four but did not turn a serious focus toward the instrument until around 1940.<ref>Fergerson, M. (1954). The Carter Sisters Led by Mother Maybelle. unknown publisher</ref>
+
+Traditionally the autoharp was strummed as a rhythm instrument.<ref name="Hickey, N. 1971">Hickey, N. (1971). His Mother-in-Law is a Legend. TV Guide</ref>  Maybelle developed (alone or perhaps independently of other musicians who did the same) a "pinch and pluck" technique that forms the basis of most modern autoharp playing styles.<ref>Carter Family Fan Club Journal.(1994)</ref>  This technique allows for playing melodic lead notes on the instrument.  Carter's style later evolved to add a fill-in rhythm, similar to her guitar technique.  While playing the autoharp, Maybelle would often press cord bars between notes. The effect was a note slurring, a sound similar to  a guitar hammer-on.  It has been said that pianist Floyd Cramer was especially interested in these embellishments to Maybelle's playing and that they helped to shape his piano technique.<ref name="Hickey, N. 1971"/><ref name="Carter, M. 1973">Carter, M., et al. (1973). Mother Maybelle Carter Interview. Columbia Records</ref>
+
+As she began to feature the autoharp more and more in concerts and radio work, Carter became frustrated with trying to steady the instrument close enough to a microphone often shared by others.  She utilized tables and music stands at first but later got the idea of holding the instrument upside down, across her chest, and playing along what was essentially the head of the harp (nearest the tuning pegs). Before then, musicians played below the cord bars at the opposite end. She discovered this technique allowed more space for her complicated playing style and produced a sweeter tone. During at least one public performance, Maybelle stated that autoharps were manufactured differently to accommodate the playing style she popularized.<ref name="Carter, M. 1975"/><ref name="Hickey, N. 1971"/><ref name="Family Fan Club Journal 1994">Carter Family Fan Club Journal. (1994)</ref>
+
+Maybelle Carter taught at least one workshop on autoharp playing in conjunction with her various appearances at Newport Folk Festivals.<ref>Carter Family Fan Club News. (2011)</ref>  A moderator at the workshop noted that Maybelle should be credited with the first fingerpicked autoharp solo to be captured on commercial recording, referencing "Fair and Tender Ladies" recorded by the Carter Sisters and Mother Maybelle on Columbia Records about 1950.<ref name="Carter, M. 1997">Autoharp Workshop with Mike Seeger in Carter, M. (1997). Wildwood Pickin'. Vanguard. [sound recording]</ref>  She often played the autoharp in that group.  Other examples include a simplistic but moving solo she added to "Mountain Lady" on the family's final album before her death.  In addition to recordings with the Carter Sisters, which featured her autoharp playing, Maybelle Carter often featured the instrument in her solo work.  On her earliest solo album, she offered an old fiddle tune, "Liberty," for the session.<ref name="Carter, M. 1997" /><ref name="ReferenceC">Sunny Side Sentinel: Official Publication for the Carter Family, discography Issue</ref>  Later, Smash Records issued an album of autoharp solos by Maybelle Carter, which included a few backing musicians and subtle background vocals by the Stephen Scott Singers.  "Green Valley Waltz" and "Barbara Allen" were included along with ten other titles.  The bulk of her final solo album (from 1973) was composed of autoharp solos in which a whole band of studio musicians accompanied her.<ref name="ReferenceC" /><ref name="ReferenceB" />
+
+Mother Maybelle frequently found studio work with other artists to capture the fresh sound she had created.  She recorded at least two songs with Johnnie & Jack and at least two with the Wilburn Brothers.  The latter collaboration registered a top-ten hit (to which Maybelle Carter was not credited), "Go Away with Me."  She also played autoharp on Carl Smith's ''Sunday Down South'' gospel album.  A similar pairing with Flatt & Scruggs led to the ''Songs of the Famous Carter Family'' album, on which Maybelle contributed mostly through her autoharp playing.  In the 1960s, Maybelle helped record an instructional record sold with an autoharp through a mail-order chain store.  She contributed a demonstration of the instrument and a small amount of dialogue.<ref name="ReferenceB"/><ref name="ReferenceC"/>
+
+== Singing ==
+
+=== Original Carter Family ===
+The moniker "Original Carter Family" predates the original group's breakup by several years, being used during  their radio programs on Mexican border stations.  Other groups used the name "Carter Family," so adding "Original" helped distinguish the trio.  Eventually, the name "Original Carter Family" came to be used to differentiate between the original trio, formed in the 1920s, and later versions of the group, particularly Maybelle and her daughters.<ref name="ReferenceA"/>  Maybelle Carter worked with the Original Carter Family from about 1926 until about 1943 (when the group officially disbanded) on personal appearances, radio shows, and commercial recordings.<ref name="ReferenceA"/>  The group reunited for a performance in May 1953 at the first Jimmie Rodgers Memorial Festival.  They sang two songs, with A. P. Carter serving as emcee for their portion of the program.  The performance was captured on a home movie camera, but the film deteriorated in storage.  An audio recording of the performance does survive.<ref>Carter Family Fan Club News (2010)</ref>  Maybelle sang on two or three of the first six songs recorded by the family in 1927.  Initially, her vocal contributions to the group were mostly subdued, but she gradually took on a more prominent role.  It became routine for her to harmonize with the whole trio.  She and Sara Carter frequently sang duets without A. P.
+
+In 1937 the two recorded a duet on "Hello Stranger," which featured both voices equally in an unusual call-and-response vocal arrangement.  Maybelle sang opening phrases for all verses on the group's 1940 recording of "I'll Never Forsake You."  During their final commercial session, Maybelle's voice was slightly dominant to Sara's on selections such as "Why Do You Cry Little Darling," "You Tied a Love Knot in My Heart," and "You're Gonna Be Sorry You Let Me Down."  She rarely sing lead for the group on radio shows but sometimes played and sang solos.  In the mid-1960s through the early 1970s, Maybelle and Sara would periodically reunite for personal appearances and television work, recording an album for Columbia during this time as well.<ref name="ReferenceB"/><ref name="Wolfe, C. 2000"/><ref name="ReferenceA"/>
+
+=== Carter Sisters and Mother Maybelle ===
+Following A. P. Carter's death in 1960, the group previously known as the "Carter Sisters and Mother Maybelle" assumed "Carter Family" as their official band name.<ref name="ReferenceA"/>  Maybelle Carter performed with this group, mostly with her three daughters but in various other versions of the group as well, from the late 1930s and early 1940s almost until she died in 1978.  They toured, did many radio programs and TV appearances, and made several commercial recordings together.<ref name="ReferenceA"/>  As the Carter Sisters & Mother Maybelle, the group made their first commercial recordings for RCA Victor in 1949.  The sales were better than average but produced no major hits.  Those recordings were among the first to be issued in the new 45-rpm single format.
+
+Maybelle sang lead on a number of the RCA recordings, including "My Darling's Home at Last," "Why Do You Weep Dear Willow," "Walk a Little Closer," "Don't Wait," and "I've Got a Home Up in Glory."  One of the more popular recordings of that era to feature Maybelle was "Someone's Last Day;" on a radio transcription, the emcee notes that "she gets more requests for it than any of them."<ref name="ReferenceB"/> By the early 1950s, the group changed labels to Columbia.  In that era, Maybelle frequently sang a verse on a song with her daughters singing others.  Likely the most popular recording from that era was a single featuring "Fair and Tender Ladies" on one side and "Foggy Mountain Top" on the other.<ref>Interview with Anita Carter (date?) from Campbell, A. Yesteryear in Nashville</ref>
+
+In the early 1960s, the group featuring Maybelle and her daughters (now called simply the "Carter Family") moved to the Liberty label, where they had an album and at least one single released.  Shortly after, they returned to Columbia, where the group remained under contract throughout Maybelle's life.  It was on Columbia that almost all the group's significantly successful discs were released.  Maybelle's role as a vocal soloist was diminished during this time, but she did a lot of harmony singing on those recordings. She would periodically sing whole songs or verses within songs.  Examples include "Homestead on the Farm," on the group's ''The Country Album,'' "Picture on the Wall," from the ''Three Generations'' collection, and an enduring rendition of "Will the Circle be Unbroken" on their ''Keep on the Sunny Side'' album.<ref name="ReferenceB"/>
+
+=== Solo career ===
+The album ''Mother Maybelle Carter'' on the Briar label was the first commercial recording to feature Maybelle as a headliner .  It was recorded in 1959 but was not released until a couple of years later.<ref>Transcription of Ash Grove Concerts by Maybelle Carter (1963). Ash Grove, Hollywood CA</ref>  Maybelle recruited the help of her daughters Helen and Anita as backing vocalists.  Group members often utilized other family members on their various solo recordings.  Some singles were released from the album, and a slightly edited version of the album was later released under the title ''Queen of the Autoharp'' on the Kapp label.  That transaction offered a more robust distribution.  Maybelle sang several interesting selections, including "Sweeter than the Flowers" and "My Native Home."  Someone suggested adding the Carter Scratch to a reverberating electric guitar on some of the tracks.  The strange effect was a  "Carter Family beach music" sound.  Maybelle filled out the album with other vocal performances and some instrumentals.<ref name="ReferenceB"/><ref name="ReferenceC"/><ref name="ReferenceA"/>
+
+In the early to mid-1960s, Maybelle Carter's solo work was recorded by Mercury Records and released on its subsidiary labels Smash and Cumberland.  There were three albums and at least one non-album single.  Representative solo vocals from those recordings include "Faded Coat of Blue," "Flowers Blooming in the Wildwood," and "Nobody's Darling on Earth."  A single "Strumming My Guitaro" also featured Maybelle's work on a new autoharp-like instrument of the same name.  Finally, "Foggy Mountain Top," an album cut, stands out as being the only commercial recording Maybelle sang with her banjo accompaniment.<ref name="ReferenceB"/><ref name="Anonymous, 1980"/>
+
+By the late 1960s, Maybelle Carter and the entire family had re-signed with Columbia records.  Shortly after, the label released another solo album on Maybelle, ''Living Legend''.  Vocal examples from that album include "Give Me Your Love and I'll Give You Mine," "We All Miss You Joe," and "A Letter from Home,"  One single from the album ''I Told them What You Were Fighting For'' was a small chart hit.<ref name="ReferenceB"/><ref name="Anonymous, 1980"/><ref name="ReferenceA"/>  A double album of instrumentals, discussed above, was also released.
+
+=== Collaborations with other artists ===
+As part of the Carter Family and a soloist, Maybelle often sang and/or played as a guest on other artists' recordings.  Many times she went uncredited on the label.  Likely her most commercially successful venture in this realm was her collaboration on the Nitty Gritty Dirt Band's album ''Will the Circle Be Unbroken'' from the early 1970s.  Maybelle contributed dialogue during the sessions.  She also sang lead and played on "Thinking Tonight of My Blue Eyes" and "Wildwood Flower."  On the album's title track, she played throughout the song and sang the first solo verse.  She received a Grammy nomination and her only gold record for the performances.  The album was a commercial success, peaking at number 4 on the country charts, and making a respectable showing on the pop charts.  It was eventually certified at platinum sales.  Maybelle and Johnny Cash released a top 40 single in 1973, "Pick the Wildwood Flower," which featured her guitar playing and brief dialogue.  The single's B side, "Diamonds in the Rough," was a vocal duet accompanied by Maybelle's guitar playing.<ref name="ReferenceC"/><ref name="ReferenceA"/>
+
+==Awards, recognition, and legacy==
+Her first major award from an organized music body came in 1966 when she was presented with a trophy that read "Mother of Country Music."<ref>Anonymous. (1966). DJ Convention Ends on Happy Note. Music City News, 4(5)</ref>
+
+Maybelle Carter was elected with the Original Carter Family to the [[Country Music Hall of Fame]] in 1970.  She and Sara Carter became the first female performers to be inducted (simultaneously) into the institution.<ref name="Anonymous. 1993">Anonymous. (1993). Historic Dates in the Career of the Carter Family. Published by Carter Family Fan Club</ref><ref name="ReferenceA"/>
+
+[[File:Gibson L-5 (1928), Maybelle Carter, CMHF.jpg|upright|thumb|200px|Carter's Gibson guitar, accompanied by a photograph of Carter at the Country Music Hall of Fame]]
+
+Maybelle Carter was nominated at the 15th Annual Grammy Awards (1972) in the category of Best Country Vocal Performance by a Duo or Group for her collaboration on the Nitty Gritty Dirt Band album "[[Will the Circle be Unbroken (Nitty Gritty Dirt Band album)|Will the Circle Be Unbroken]]."<ref>{{Cite web|date=November 23, 2020|title=Mother Maybelle Carter|url=https://www.grammy.com/grammys/artists/mother-maybelle-carter/10908|access-date=October 23, 2021|website=grammy.com|language=en}}</ref>
+
+The Carter Family (Maybelle, Helen, June, and Anita) received the "Favorite Country Group" trophy from the American Music Awards in 1973.  The following year Maybelle was individually honored with the first Tex Ritter Award by the International Fan Club Organization at Fan Fair in Nashville, TN.<ref name="Cash, J. C. 1979">Cash, J. C. (1979). Among My Klediments. Zondervan Publishing House</ref><ref name="ReferenceA"/>
+
+Following Maybelle Carter's death, the CBS network aired a television special called "The Unbroken Circle: A Tribute to Maybelle Carter" in 1979. The following year she and her daughters were given the "Gospel Act of the Year" by the Music City News Cover Awards Show.  Maybelle received the "Acoustic Pioneer Award" from Frets Magazine in 1986.<ref name="Anonymous. 1993"/>
+
+By 1992 Carter was inducted into the Autoharp Hall of Fame.<ref name="Anonymous. 1993"/><ref name="Family Fan Club Journal 1994"/>
+
+In 1993, her image appeared on a [[List of people on stamps of the United States|U.S. postage stamp]] honoring the Carter Family. She would rank No.&nbsp;8 in ''[[Country Music Television|CMT]]'s 40 Greatest Women of Country Music'' in 2002. In 2005, she was portrayed by Sandra Ellis Lafferty in the [[Johnny Cash]] biographical film ''[[Walk the Line]]''.  Actress Frances Conroy portrayed her in the 2013 TV Movie "Ring of Fire."<ref>Ring of Fire. (2013). IMDb.com</ref>  Carter has also been depicted in musicals such as "Keep on the Sunny Side" and "Wildwood Flowers: The June Carter Story" by actresses and singers such as Joy Lynn White, Gina Stewart, and Teresa Williams.<ref>Carter Family Fan Club News. (2002; 2005; 2007)</ref>
+
+She was the subject of her granddaughter [[Carlene Carter]]'s 1990 song "[[I Fell in Love (album)|Me and the Wildwood Rose]]."  Her death was the subject of Johnny Cash's song "Tears in the Holston River."  Numerous other tribute songs have been written and recorded about Maybelle Carter.<ref name="ReferenceB"/>
+
+The Original Carter Family (with Maybelle) were inducted into the International Bluegrass Association's Hall of Honor in 2001<ref>Carter Family Fan Club News. (2001)</ref> and were -given a Lifetime Achievement Grammy Award in 2005.<ref>Carter Family Fan Club. (2006)</ref>
+
+In 2007 Carter was honored as one of the [[Library of Virginia]]'s "[[Virginia Women in History]]" for her musical career.<ref>{{cite web|title=Virginia Women in History: Maybelle Addington Carter (1909-1978), Scott County, Musician|url=http://www.lva.virginia.gov/public/vawomen/2007/carter.htm|publisher=Library of Virginia|access-date=March 4, 2015}}</ref>
+
+In 2010, [[Lipscomb University]] in Nashville named the stage in Collins Alumni Auditorium after her.
+
+The [[A. P. and Sara Carter House]], [[A. P. Carter Homeplace]], [[A. P. Carter Store]], [[Maybelle and Ezra Carter House]], and [[Mt. Vernon Methodist Church]] are listed on the [[National Register of Historic Places]] as components of the Carter Family Thematic Resource.<ref name="nris">{{NRISref|version=2010a}}</ref><ref>{{NRHP url|id=64000880|title=Carter Family TR}}</ref>
+
+Carter was named the 17th greatest guitarist of all time by ''Rolling Stone'' in 2023.<ref>{{Cite magazine |date=2023-10-13 |title=The 250 Greatest Guitarists of All Time |url=https://www.rollingstone.com/music/music-lists/best-guitarists-1234814010/ |access-date=2023-10-14 |magazine=Rolling Stone |language=en-US}}</ref>
+
+==Partial discography==
+{{further|Carter Family#Selected discography|}}
+
+=== Singles ===
+{| class="wikitable"
+|-
+! Year !! Title !! Peak Position !! Label & Album
+|-
+| 1960 || Gold Watch & Chain (b/w Liberty Dance) || _ || Top Rank  (Mother Maybelle Carter: Briar 101)
+|-
+| 1961 || Wildwood Flower (b/w Liberty Dance) || _ || Briar   (Mother Maybelle Carter: Briar 101)
+|-
+| 1963 || Suns Gonna Shine in My Backdoor Someday (b/w Bells of St. Mary's) || _ || Briar     (Mother Maybelle Carter: Briar 101)
+|-
+| 1964 || Strumming My Guitaro (b/w Sail Away Ladies) || _ || Smash; non-album single
+|-
+| 1966 || I Told Them What You're Fighting For (b/w San Antonio Rose) || 97 || Columbia     (A Living Legend)
+|-
+| 1974 || Picture on the Wall (b/w Sweet Memories by Anita Carter) || _ || Columbia     (The Carter Family: Three Generations)
+|}
+
+===Albums===
+{| class="wikitable"
+|-
+! Year !! Album !! US Country !! Label !! Notes
+|-
+| 1961 || Mother Maybelle Carter || _ || Briar || Edited and issued by Kapp (1962) as Queen of the Autoharp
+|-
+| 1962 || Mother Maybelle Carter & her Autoharp Plays Famous Folk Songs || _ || Smash || with Stephen Scott Singers
+|-
+| 1963 || Pickin' & Singin' || _ || Smash ||
+|-
+| 1965 || Mother Maybelle Carter Sings Carter Family Favorites || _ || Cumberland || subsidiary label of Mercury Records
+|-
+| 1966 || A Living Legend || _ || Columbia ||
+|-
+| 1966 || An Historic Reunion || _ || Columbia || with Sara Carter
+|-
+| 1973 || Mother Maybelle Carter || 44 || Columbia || double record album (a third album of interviews was simultaneously issued to radio stations)
+|-
+| 1960s ?? || Mother Maybelle Carter and Dixie Darling || _ || Ambassador and Mountain Dew || These two albums, varying only slightly in song selections, are both reissues of Mercury material previously released on Smash & Cumberland labels
+|-
+| 1976 || Mother Maybelle Carter || _ || Pickwick/Hilltop || Reissue of Mercury/Smash/Cumberland material from previous albums
+|-
+| 1997 || Wildwood Pickin' || _ || Vanguard || Contains material from live concert appearances and workshops at Newport Folk Festivals
+|}
+
+===Guest singles===
+{| class="wikitable"
+|-
+! Year !! Title, Label & Artist !! Peak Position !! Notes
+|-
+| 1936 || Why There's a Tear in my Eye (Bluebird) Jimmy Rodgers & Sara Carter (recorded 1931)||  || plays guitar; uncredited
+|-
+| 1937 || Wonderful City (Bluebird) Jimmy Rodgers & Sara Carter (recorded 1931) ||  || plays guitar; uncredited
+|-
+| 1956 || Go Away with Me (Decca) Wilburn Brothers || 6 || plays autoharp; uncredited
+|-
+| 1957 || Nothing at All (Decca) Wilburn Brothers || _ || plays autoharp; uncredited; later issued on compilation album
+|-
+| 1962 || T For Texas (Monument) Grandpa Jones || 5 || plays autoharp; vocalist; with Helen Carter guitar & vocals; uncredited
+|-
+| 1973 || Pick the Wildwood Flower (b/w Diamonds in the Rough) Johnny Cash with Maybelle Carter || 34 || plays guitar with dialogue on A side; plays guitar & vocal duet on B side
+|}
+
+===Guest albums===
+{| class="wikitable"
+|-
+! Year !! Album Title & Primary Artist !! Peak Position !! Label !! Notes
+|-
+| 1956 || Softly and Tenderly (Carl Smith with the Carter Sisters & Mother Maybelle) || _ || Columbia ||
+|-
+| 1957 || Sunday Down South (Carl Smith) || _ || Columbia || Credited as session musician; plays autoharp
+|-
+| 1961 || Songs of the Famous Carter Family (Flatt & Scruggs) || _ || Columbia || Credited as "Featuring Mother Maybelle Carter"; plays autoharp on all songs; guitar on one song
+|-
+| 1962 || Carefree Moments (Wilburn Brothers) || _ || Vocalion || Musician (autoharp) on one song
+|-
+| 1963 || Ring of fire:  Best of Johnny Cash (Johnny Cash) || 1 || Columbia || Musician (autoharp); Carter Family vocals; Gold certification
+|-
+| 1963 || Christmas Spirit (Johnny Cash) || 7 (holiday albums) || Columbia || Musician (autoharp)
+|-
+| 1963 || Blood, Sweat & Tears (Johnny Cash) || 13|| Columbia || Musician (autoharp); Carter Family vocals
+|-
+| 1963 || Yodeling Hits (Grandpa Jones) || _ || Monument || Musician (autoharp); Helen Carter guitar & vocals by both
+|-
+| 1964 || Old Time Music at Newport (Recorded Live at the Newport Folk Festival 1963)  Various Artists || _ || Vanguard || Sings & Plays "Storms are on the Ocean"
+|-
+| 1964 || I Walk the Line (Johnny Cash) || 1 || Columbia || Carter Family vocals; Gold certification
+|-
+| 1964 || Bitter Tears (Johnny Cash) || 2 || Columbia || Carter Family vocals
+|-
+| 1964 || Ballads of the True West (Johnny Cash) || 1 || Columbia || Musician (autoharp); Carter Family vocals
+|-
+| 1966 || Everybody Loves a Nut (Johnny Cash) || 5 || Columbia || Carter Family vocals
+|-
+| 1966 || Happiness is You (Johnny Cash) ||10 || Columbia || Musician (autoharp); Carter Family vocals
+|-
+| 1970 || Hello I'm Johnny Cash (Johnny Cash) || 1|| Columbia || Carter Family vocals; Gold certification
+|-
+| 1970 || On the Road (Johnny Horton) || -|| Columbia || Carter Family added vocals on some tracks
+|-
+| 1972 || Thing Called Love (Johnny Cash) || 2 || Columbia || Carter Family vocals
+|-
+| 1972 || Will the Circle be Unbroken (Nitty Gritty Dirt Band and others) || 4 || United Artists || Credited as "Featuring Mother Maybelle Carter...." (other artists listed); Sings & Plays on four titles; Gold & Platinum 
+certifications
+|-
+| 1972 || Any Old Way the Wind Blows (Johnny Cash) || 5|| Columbia || Carter Family vocals
+|-
+| 1972 || Land of Many Churches (Merle Haggard) || 15|| Capitol || Carter Family vocals
+|-
+| 1974 || Junkie & the Juicehead Minus Me (Johnny Cash) || 48 || Columbia || Carter Family vocals
+|-
+| 1975 || Country Boots (Boots Randolph) || 30 || Monument || Musician (autoharp); Helen Carter guitar & vocals by both (with Anita Carter) on two songs
+|-
+| 1977 || Last Gunfighter Ballad (Johnny Cash) || 29 || Columbia || Carter Family vocals
+|}
+
+==References==
+{{reflist}}
+
+==Sources==
+* Wolfe, Charles. (1998). "Carter Family". In ''The Encyclopedia of Country Music''. Paul Kingsbury, Editor. New York: Oxford University Press. pp.&nbsp;84–85.
+* Zwonitzer, Mark with Charles Hirshberg. (2002). ''Will You Miss Me When I'm Gone?: The Carter Family and Their Legacy in American Music''. New York: Simon & Schuster.
+
+==External links==
+* [https://adp.library.ucsb.edu/names/106603 Maybelle Carter recordings] at the [[Discography of American Historical Recordings]].
+* {{discogs artist|Maybelle Carter}}
+* {{IMDb name|1454130}}
+
+{{Carter Family}}
+{{Grand Ole Opry members}}
+{{Virginia Women in History}}
+{{Authority control}}
+
+{{DEFAULTSORT:Carter, Maybelle}}
+[[Category:1909 births]]
+[[Category:1978 deaths]]
+[[Category:People from Scott County, Virginia]]
+[[Category:American banjoists]]
+[[Category:American country guitarists]]
+[[Category:American country singer-songwriters]]
+[[Category:American women country singers]]
+[[Category:American autoharp players]]
+[[Category:Cash–Carter family]]
+[[Category:Grand Ole Opry members]]
+[[Category:Smash Records artists]]
+[[Category:Top Rank Records artists]]
+[[Category:American folk singers]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:The Carter Family members]]
+[[Category:20th-century American women singers]]
+[[Category:20th-century American singers]]
+[[Category:20th-century American guitarists]]
+[[Category:20th-century American women guitarists]]

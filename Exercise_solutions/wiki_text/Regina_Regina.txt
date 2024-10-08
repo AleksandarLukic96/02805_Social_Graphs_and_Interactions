@@ -1,0 +1,88 @@
+{{Short description|Former Country Music Duo}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Regina Regina
+| image                 = 
+| caption            = 
+| image_size            = 
+| background          = group_or_band
+| origin              = [[Nashville, Tennessee]]
+| genre               = [[Country music|Country]]
+| years_active        = 1995-1997
+| label               = [[Giant Records (Warner)|Giant]]
+| associated_acts     = [[Dave & Sugar]]
+| past_members        = Regina Leigh<br/>Regina Nicks
+}}
+
+'''Regina Regina''' was an American [[country music]] duo formed in 1995. The duo consisted of female singers Regina Leigh and Regina Nicks, respectively natives of [[North Carolina]] and [[Lufkin, Texas]].<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|date=2008|page=347|isbn=978-0-89820-177-2}}</ref> Leigh was formerly a backing vocalist in [[Reba McEntire]]'s road band, while Nicks was a personal assistant for McEntire and a former member of [[Dave & Sugar]].<ref>{{cite news|url=https://news.google.com/newspapers?nid=2199&dat=19970305&id=ZZgyAAAAIBAJ&pg=6496,2485489|title=Regina Regina hopes pairing pays off|last=Patterson|first=Jim|date=5 March 1997|work=[[Lawrence Journal-World]]|accessdate=11 April 2013}}</ref> The two met through the assistance of producer [[Wally Wilson]], who wanted to include Nicks in a female duo. Nicks felt that she was unable to find a suitable singing partner until Leigh heard one of her demos and decided that she wanted to work with Nicks. The two were brought to [[Giant Records (Warner)|Giant Records]] then-president [[James Stroud]] in 1995.<ref>{{cite magazine|last=Flippo|first=Chet|date=December 14, 1996|title=Giant Squares Away Debut Album from Duo Regina Regina|magazine=[[Billboard (magazine)|Billboard]]|pages=24, 26|url=https://books.google.com/books?id=tQkEAAAAMBAJ&dq=%22regina+regina%22+%22giant%22&pg=PA24}}</ref>
+
+Regina Regina released its only album in 1997. The duo's only charting single in the U.S. was "More Than I Wanted to Know", which peaked at No.&nbsp;53 on ''[[Billboard (magazine)|Billboard]]''{{'}}s [[Hot Country Songs|Hot Country Singles & Tracks]].<ref name="whitburn"/>
+
+==Discography==
+=== Albums ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:10em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''[[Regina Regina (album)|Regina Regina]]''
+| 
+* Release date: January 28, 1997
+* Label: [[Giant Records (Warner)|Giant Records]]
+|}
+
+=== Singles ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:16em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| rowspan="3"| 1997
+! scope="row"| "More Than I Wanted to Know"
+| 53
+| 26
+| align="left" rowspan="3"| ''Regina Regina''
+|-
+! scope="row"| "Right Plan, Wrong Man"
+| —
+| 88
+|-
+! scope="row"| "Asking for the Moon"
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:16em;"| Video
+! Director
+|-
+| rowspan="3"| 1997
+! scope="row"| "More Than I Wanted to Know"<ref>{{cite web|url=http://www.cmt.com/videos/regina-regina/385143/more-than-i-wanted-to-know.jhtml|archive-url=https://web.archive.org/web/20160307122921/http://www.cmt.com/videos/regina-regina/385143/more-than-i-wanted-to-know.jhtml|url-status=dead|archive-date=March 7, 2016|title=CMT : Videos : Regina Regina : More Than I Wanted To Know|publisher=[[Country Music Television]]|accessdate=October 14, 2011}}</ref>
+| Jim Hershleder
+|-
+! scope="row"| "Right Plan, Wrong Man"<ref>{{cite web|url=http://www.cmt.com/videos/regina-regina/385195/right-plan-wrong-man.jhtml|archive-url=https://web.archive.org/web/20160305082745/http://www.cmt.com/videos/regina-regina/385195/right-plan-wrong-man.jhtml|url-status=dead|archive-date=March 5, 2016|title=CMT : Videos : Regina Regina : Right Plan, Wrong Man|publisher=[[Country Music Television]]|accessdate=October 14, 2011}}</ref>
+| Marc Ball
+|-
+! scope="row"| "Asking for the Moon"<ref>{{cite web|url=http://www.cmt.com/videos/regina-regina/385231/asking-for-the-moon.jhtml|archive-url=https://web.archive.org/web/20160306034314/http://www.cmt.com/videos/regina-regina/385231/asking-for-the-moon.jhtml|url-status=dead|archive-date=March 6, 2016|title=CMT : Videos : Regina Regina : Asking For The Moon|publisher=[[Country Music Television]]|accessdate=October 14, 2011}}</ref>
+| Jim Hershleder
+|}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+[[Category:Country music groups from Tennessee]]
+[[Category:American country music duos]]
+[[Category:Musical groups established in 1995]]
+[[Category:Musical groups disestablished in 1997]]
+[[Category:Giant Records (Warner) artists]]

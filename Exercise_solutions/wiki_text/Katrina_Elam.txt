@@ -1,0 +1,128 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=April 2016}}
+{{Infobox musical artist
+| name            = Katrina Elam
+| image           = Katrina Elam.jpg
+| caption         = Katrina Elam at the Maverick Saloon & Grill, Santa Ynez, California, January 14, 2005
+| image_size      = 
+| background      = solo_singer
+| birth_name      = Katrina Ruth Elam
+| birth_date      = {{birth date and age|mf=yes|1983|12|12}}
+| birth_place     = [[Bray, Oklahoma]], U.S. 
+| origin          = 
+| instrument      = Vocals
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 2004–present
+| label           = [[Universal South Records|Universal South]]
+| associated_acts = [[Carrie Underwood]], [[Hunter Hayes]], [[Rascal Flatts]], [[Keith Urban]]
+| website         =
+}}
+
+'''Katrina Ruth Elam''' (born December 12, 1983) is an American [[country music]] singer and songwriter. Signed to [[Universal South Records]] in 2004, she released her self-titled [[Katrina Elam (album)|debut album]] that year, charting in the ''[[Billboard (magazine)|Billboard]]'' Hot Country Singles & Tracks (now [[Hot Country Songs]]) with the No.&nbsp;29 "No End in Sight" and the No.&nbsp;59 "I Want a Cowboy". A third single, "Love Is", peaked at No.&nbsp;47 from an unreleased second album ''Turn Me Up''. Elam left the label in 2008.
+
+==Early life==
+Elam was born in [[Bray, Oklahoma]], population 1,035. She performed in a [[4-H]] talent show at the age of 9. In 1998, she was named female vocalist of the year by the Oklahoma Country Music Association and the Oklahoma Opry now the Rodeo Opry. Elam received a publishing contract at the age of 16. In her senior year of high school, her mother [[home schooled]] her because of her busy writing and recording schedule.
+
+==Career==
+After completing high school, Katrina Elam moved to [[Nashville, Tennessee]], where she secured a contract with [[Universal South Records]].<ref name="allmusic">{{cite web |url={{AllMusic|class=artist|id=p676719/biography|pure_url=yes}} |title=Katrina Elam biography |access-date=2008-07-15 |last=Jeffries |first=David |website=[[AllMusic]]}}</ref> [[Jimmie Lee Sloas]] produced her first self-titled album, released on October 5, 2004. The album reached No.&nbsp;42 on Billboard's Top Country Albums chart and No.&nbsp;33 on Top Heatseekers chart. The first single, "No End in Sight", reached No.&nbsp;29 on the [[Billboard (magazine)|Billboard]] [[Hot Country Songs]] chart. The follow-up single "I Want a Cowboy" reached No.&nbsp;59 on the same chart. Elam also toured in 2004 with [[Keith Urban]].
+
+Elam later toured with [[Rascal Flatts]] to promote her unreleased second album, ''Turn Me Up''. "Love Is," the first single released from the album, peaked at No.&nbsp;47 on Billboard's Hot Country Songs chart in 2006. Another single from the album, "Flat on the Floor," eventually peaked at No.&nbsp;52.<ref>{{cite AV media notes |title=have you heard The NEW Sound of TODAY'S COUNTRY |others=Various Artists |year=2007 |type=CD |publisher=Sony BMG }}</ref> Later in the year, [[Carrie Underwood]] includes a version of the track on her 2007 album ''[[Carnival Ride]]''. Elam exited Universal South in 2008.<ref>{{cite web|url=http://www.cmt.com/news/country-music/1585038/country-labels-keep-rosters-full-despite-album-sales-dip.jhtml |archive-url=https://web.archive.org/web/20080411032354/http://www.cmt.com/news/country-music/1585038/country-labels-keep-rosters-full-despite-album-sales-dip.jhtml |url-status=dead |archive-date=April 11, 2008 |title=Country Labels Keep Rosters Full Despite Album Sales Dip |website=Cmt.com |access-date=2020-04-24}}</ref> Elam also co-wrote the track "Change" on Underwood's 2009 album ''[[Play On (Carrie Underwood album)|Play On]]''. Reba McEntire covered "I Want a Cowboy" on her 2009 album ''[[Keep On Loving You (album)|Keep on Loving You]]''.  Elam also co-wrote [[Rascal Flatts]]' 2011 single "[[Easy (Rascal Flatts song)|Easy]]", which features [[Natasha Bedingfield]], and [[Eli Young Band]]'s 2012 single "[[Say Goodnight]]", co-written by [[John Paul White]] of [[The Civil Wars]]. In 2014, [[Hunter Hayes]] co-wrote his single "[[Invisible (Hunter Hayes song)|Invisible]]" with Elam.
+
+In late 2010, Elam was cast in a sequel to the 1992 film ''[[Pure Country]]'', titled ''[[Pure Country 2: The Gift]]''<ref>{{cite web|url=http://www.theboot.com/2010/10/11/george-strait-katrina-elam-pure-country-2/|title=George Strait, Katrina Elam Star in 'Pure Country 2'|last=Betts|first=Stephen L.|date=October 11, 2010|work=The Boot|access-date=October 14, 2010}}</ref> Elam's "Dream Big" was released to radio in late 2010 and served as the lead single for the movie's soundtrack, which was released on February 8, 2011.
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:15em;"| Title
+! rowspan="2" style="width:18em;"| Details
+! colspan="2"| Peak chart<br>positions
+|- style="font-size:smaller;"
+! style="width:40px;"| [[Top Country Albums|US Country]]<br><ref>{{cite magazine|url={{BillboardURLbyName|artist=katrina elam|chart=Country Albums C}}|title=Katrina Elam Album & Song Chart History – Country Albums|magazine=Billboard|access-date=January 12, 2011}}</ref>
+! style="width:40px;"| [[Top Heatseekers|US<br>Heat]]<br><ref>{{cite magazine|url={{BillboardURLbyName|artist=katrina elam|chart=Heatseekers Albums}}|title=Katrina Elam Album & Song Chart History – Heatseekers Albums|magazine=Billboard|access-date=January 12, 2011}}</ref>
+|-
+! scope="row"| ''[[Katrina Elam (album)|Katrina Elam]]''
+| 
+* Release date: October 5, 2004
+* Label: [[Universal South Records]]
+| 42
+| 33
+|-
+! scope="row"| ''[[Pure Country 2: The Gift]]''
+| 
+* Release date: February 8, 2011
+* Label: [[WaterTower Music]]
+| 55
+| 44
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:10em;"| Single
+!| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! style="width:60px;"| [[Hot Country Songs|US Country]]<br><ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|isbn=978-0-89820-177-2}}</ref>
+|-
+| 2004
+! scope="row"| "[[No End in Sight (song)|No End in Sight]]"
+| 29
+| style="text-align:left;" rowspan="2"| ''Katrina Elam''
+|-
+| 2005
+! scope="row"| "I Want a Cowboy"
+| 59
+|-
+| 2006
+! scope="row"| "Love Is"
+| 47
+| style="text-align:left;" rowspan="2"| ''Turn Me Up'' <small>(unreleased)</small>
+|-
+| 2007
+! scope="row"| "Flat on the Floor"
+| 52
+|-
+| 2010
+! scope="row"| "Dream Big"
+| —
+| style="text-align:left;"| ''Pure Country 2: The Gift'' <small>(soundtrack)</small>
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Music videos===
+{| class="wikitable"
+|-
+! Year
+! Video
+! Director
+|-
+| 2004
+| "No End in Sight"
+| [[Peter Zavadil]]
+|-
+| 2006
+| "Love Is"
+| [[Trey Fanjoy]]
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Elam, Katrina}}
+[[Category:1983 births]]
+[[Category:Living people]]
+[[Category:People from Stephens County, Oklahoma]]
+[[Category:Country musicians from Oklahoma]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Show Dog-Universal Music artists]]
+[[Category:Singer-songwriters from Oklahoma]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:21st-century American women singers]]

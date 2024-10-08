@@ -1,0 +1,264 @@
+{{Short description|American singer-songwriter}}
+{{Infobox musical artist
+| name            = Ryan Beaver
+| image           = Ryan Beaver.jpg
+| birth_name      = Ryan Embry Beaver
+| birth_date      = {{Birth date and age|1984|3|17}}
+| birth_place     = [[Hunt County, Texas]]
+| origin          = [[Austin, Texas]]
+| genre           = [[Country music|Country]], [[Texas country music|Texas Country Music]]
+| associated_acts =
+| occupation      = Singer, songwriter
+| years_active    = 2007- Present
+| label           =
+| website         = {{URL|ryanbeaver.com}}
+}}
+
+'''Ryan Embry Beaver''' (born March 17, 1984)<ref name="Public Records">{{cite web |title=U.S. Public Records Index |url=https://familysearch.org/ark:/61903/1:1:V8P9-14C |author=Texas Birth Index |year=2002 |publisher=Family Search |accessdate=May 18, 2016}}</ref> is an American country music singer-songwriter from [[Emory, Texas]].  Born on March 17, 1984, and growing up in East Texas,<ref name="americansongwriter">[http://www.americansongwriter.com/2012/11/daily-discovery-ryan-beaver-how-about-you/ Daily Discovery: Ryan Beaver, "How About You" | American Songwriter<!-- Bot generated title -->]</ref> Beaver moved South and began his musical career while he was attending [[Texas State University]] in [[San Marcos, Texas]]. Beaver currently lives in [[Nashville, Tennessee]].
+
+== Career ==
+Wrote the #1 song "[[Pretty Little Poison]]" performed by [[Warren Zeiders]].  It was the first number one for both of them.
+
+Beaver's first album, ''Under the Neons'', was released on February 27, 2008.<ref name="itunes.apple">{{cite web|url=https://itunes.apple.com/us/artist/ryan-beaver/id275409231 |title=iTunes – Music – Ryan Beaver |publisher=Itunes.apple.com |date= |accessdate=2012-08-19}}</ref> The album spawned 3 singles for Texas radio: "I Shoulda Kissed You", "Under the Neons", and "Streets of Austin".
+
+Beaver's second album, ''Constant'', was released February 8, 2011.<ref name="itunes.apple" />  David Grissom produced the album, with co-write credits for himself, [[Wade Bowen]], Brian Keane, Ben Danaher, and Paul Eason.  "For A While", "Hate", and "Nobody Wants to be Alone" were the singles sent to radio respectively.  "Hate" became Beaver's highest charting single to date (#2 for 3 weeks) on the Texas Music Chart<ref>{{cite web|url=http://www.texasmusicchart.com |title=Texas Music for the Country |publisher=Texasmusicchart.com |date= |accessdate=2012-08-19}}</ref> and earned a "Favorite Song of 2011" nod from galleywinter.com.<ref>{{cite web |url=http://galleywinter.com/favorites-of-2011 |title=Favorites of 2011 &#124; Galleywinter |publisher=Galleywinter.com |date=2011-12-15 |accessdate=2012-08-19 }}{{dead link|date=April 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+Country Weekly described his lyrics as "thoughtful, introspective, and extremely well crafted" in their December 10, 2012, issue.<ref>[http://www.countryweekly.com/music/edge-ryan-beaver On the Edge: Ryan Beaver – Country Weekly<!-- Bot generated title -->]</ref>
+
+Beaver's first music video for "How About You" was featured on CMT Pure, CMT.com,<ref>[https://web.archive.org/web/20140114202743/http://www.cmt.com/artists/ryan-beaver/ Ryan Beaver | New Music And Songs | CMT<!-- Bot generated title -->]</ref> Yallwire.com,<ref>[http://www.yallwire.com/player/ryanbeaverhowaboutyou.html Yallwire Optimal Quality Detector<!-- Bot generated title -->]</ref> NoDepression.com among others.
+
+== Songwriting ==
+
+A BMI writer, Beaver co-wrote "Along the Way" and "More Than Willing" with [[Rob Baird]] (''I Swear It's The Truth'' released on Carnival Records). He also co-wrote "Day by Day", "Make Or Break Me" and "Leavin' Stephenville" with [[Kyle Park]], the latter two appearing on Park's ''Make Or Break Me'' album released in 2011.  As of 2017, Beaver is signed to the Nashville-based publishing company, SMACKSongs.<ref>[https://musicrow.com/2017/10/smacksongs-expands-publishing-roster/ SMACKSongs Extends Publishing Roster<!-- Bot generated title -->]</ref>
+
+{| class="wikitable"
+|-
+! Year
+! Artist
+! Album
+! Song
+! Co-writer(s)
+|-
+!rowspan="12"|2008
+|rowspan="12"|Ryan Beaver
+|rowspan="12"|''Under the Neons''
+|"Under the Neons"
+|rowspan="12"|Beaver
+|-
+|"Sing-a-long Country Song"
+|-
+|"You Talk About It"
+|-
+|"Two Words Shy of Lonely"
+|-
+|"Call Me"
+|-
+|"Whatever the Night May Bring"
+|-
+|"Hellbound"
+|-
+|"I Shoulda Kissed You"
+|-
+|"I Thought I Knew"
+|-
+|"Too Tall Jimmy"
+|-
+|"Streets of Austin"
+|-
+|"South Texas Skyline"
+|-
+!rowspan="13"|2011
+|rowspan="10"|Ryan Beaver
+|rowspan="10"|''Constant''
+|"One More Song"
+|Beaver, [[Wade Bowen]]
+|-
+|"Constant"
+|Beaver
+|-
+|"You Don't Need Much"
+|Beaver, Brian Keane
+|-
+|"Let Me Be Your Saturday Night"
+|Beaver, Paul Eason
+|-
+|"Hate"
+|Beaver
+|-
+|"Nobody Wants to Be Alone"
+|Beaver, David Grissom
+|-
+|"How About You"
+|Beaver, Ben Danaher
+|-
+|"Never Let You Go"
+|Beaver
+|-
+|"Beale Street"
+|Beaver
+|-
+|"For A While"
+|Beaver
+|-
+|rowspan="3"|[[Kyle Park]]
+|rowspan="3"|''Make Me or Break Me''
+|"Day by Day"
+|rowspan="3"|Beaver, Kyle Park
+|-
+|"Leavin' Stephenville"
+|-
+|"Make Or Break Me"
+|-
+!rowspan="2"|2012
+|rowspan="2"|[[Rob Baird]]
+|rowspan="2"|''I Swear It's The Truth''
+|"More Than Willing"
+|rowspan="2"|Beaver, Rob Baird
+|-
+|"Along The Way"
+|-
+!rowspan="12"|2016
+|rowspan="12"|Ryan Beaver
+|rowspan="12"|''Rx''
+|"When This World Ends" (feat. [[Maren Morris]])
+|Beaver, Jeremy Spillman, Jared Crump
+|-
+|"If I Had a Horse"
+|Beaver, Brett Tyler
+|-
+|"Rx"
+|Beaver, Jeremy Spillman, Ryan Tyndell
+|-
+|"Still Yours"
+|Beaver
+|-
+|"Gravedigger"
+|Beaver, Jeremy Spillman, Ryan Tyndell
+|-
+|"Vegas"
+|Beaver, Jeremy Spillman, Jeff Hyde, Ryan Tyndell
+|-
+|"Habit"
+|Beaver, Jeremy Spillmam
+|-
+|"Jesus Was a Capricorn"
+|''Intro of "Jesus Was a Capricorn" exclusively written by Kris Kristofferson''
+|-
+|"Kristofferson"
+|Beaver, Jessi Alexander, Jon Randall
+|-
+|"Fast"
+|Ryan Beaver, Josh Osborne, Jeremy Spillman, Ryan Tyndell
+|-
+|"Rum & Roses"
+|Beaver, Josh Osborne, Ryan Tyndell
+|-
+|"Dark"
+|Beaver, Ryan Tyndell, Matt Nolen
+|-
+!rowspan="5"|2018
+|Tyler Dial
+|''Repaint''
+|"The Night Fire Met Gasoline"
+|Beaver, Silvas, Jeremy Spillman
+|-
+|Steve Moakler
+|''Born Ready''
+|"Breaking New Ground"
+|Beaver, Steve Moakler, Neil Medley
+|-
+|[[Hardy (singer)|HARDY]]
+|''This Ole Boy''
+|"4X4"
+|Beaver, |[[Hardy (singer)|HARDY]], Nick Donley
+|-
+|[[Ashley Monroe]]
+|''Sparrow''
+|"Mother's Daughter"
+|[[Ashley Monroe]], Brendan Benson
+|-
+|Brinley Addington
+|''Single''
+|"No Thanks"
+|Beaver, Brett Tyler, Will Weatherly
+|-
+!rowspan="1"|2019
+|Lauren Duski
+|Midwestern Girl
+|Runnin' (To You)
+|Beaver, [[Matt McGinn (American songwriter)|Matt McGinn]], Lauren Duski
+|}
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:10em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="2"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]<br /><ref>{{cite web|url={{BillboardURLbyName|artist=ryan beaver|chart=Country Albums}}|title=Ryan Beaver Album & Song Chart History – Country Albums|work=Billboard|accessdate=May 17, 2016}}</ref>
+! width="45"| [[Top Heatseekers|US<br />Heat]]<br /><ref>{{cite web|url={{BillboardURLbyName|artist=ryan beaver|chart=Heatseekers Albums}}|title=Ryan Beaver Album & Song Chart History – Heatseekers Albums|work=Billboard|accessdate=May 17, 2016}}</ref>
+|-
+! scope="row"| ''Under the Neons''
+| 
+* Release date: February 27, 2008
+* Label: St. Beaver
+| —
+| —
+|-
+! scope="row"| ''Constant''
+| 
+* Release date: February 8, 2011
+* Label: St. Beaver
+| —
+| —
+|-
+! scope="row"| ''Rx''
+| 
+* Release date: May 6, 2016
+* Label: St. Beaver
+| 41
+| 24
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:10em;"| Video
+! Director
+|-
+| 2012
+! scope="row"| "How About You"<ref>{{cite web|url=http://www.cmt.com/videos/ryan-beaver/715156/how-about-you.jhtml|archive-url=https://web.archive.org/web/20151013035147/http://www.cmt.com/videos/ryan-beaver/715156/how-about-you.jhtml|url-status=dead|archive-date=October 13, 2015|title=CMT : Videos : Ryan Beaver : How About You|publisher=[[Country Music Television]]|accessdate=May 17, 2016}}</ref>
+| Jordan Bellamy
+|-
+| 2016
+! scope="row"| "Dark"<ref>{{cite web|url=http://www.cmt.com/videos/ryan-beaver/1346357/dark.jhtml|archive-url=https://web.archive.org/web/20160402013251/http://www.cmt.com/videos/ryan-beaver/1346357/dark.jhtml|url-status=dead|archive-date=April 2, 2016|title=CMT : Videos : Ryan Beaver : Dark|publisher=[[Country Music Television]]|accessdate=May 17, 2016}}</ref>
+| Patrick Tracy
+|-
+|}
+
+== References ==
+
+{{reflist|30em}}
+
+== External links ==
+
+* {{Official website|http://www.ryanbeaver.com}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Beaver, Ryan}}
+[[Category:1984 births]]
+[[Category:Living people]]
+[[Category:American country singer-songwriters]]
+[[Category:People from Hunt County, Texas]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:People from Rains County, Texas]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:Country musicians from Texas]]

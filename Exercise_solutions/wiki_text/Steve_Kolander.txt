@@ -1,0 +1,122 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=September 2020}}
+{{BLP sources|date=July 2008}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Steve Kolander
+| image_size            =
+| background          = solo_singer
+| birth_name          =
+| alias               =
+| birth_place         = [[Lake Charles, Louisiana]], U.S.
+| birth_date          = {{birth date and age|1961|11|15}}<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=228|isbn=978-0-89820-177-2}}</ref>
+| origin              = [[Nashville, Tennessee]], U.S.
+| instrument          = Vocals, guitar
+| genre               = [[Country music|Country]]
+| occupation          = Singer-songwriter
+| years_active        = 1994–present
+| label               = [[River North Records|River North]], Beach Bay
+| website                 = http://www.kolander.com/
+}}
+'''Steve Kolander''' (born November 15, 1961) is an American [[country music]] artist. He debuted in 1994 with the release of his self-titled album on [[River North Records]]. It produced two singles on the [[Hot Country Songs]] charts. A second album for River North, ''Pieces of a Puzzle'', was released in 1996, followed by the independently released ''Light to Dark'' in 2007.
+
+Before he became a recording artist, Kolander worked as an advertising executive.<ref>{{cite web|url=http://nl.newsbank.com/nl-search/we/Archives?p_product=CSTB&p_theme=cstb&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=0EB421D9D60B9668&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM|title=Kolander Puts Ad Skills To Work in Debut Album|last=Hoekstra|first=Dave|date=September 7, 1994|work=[[Chicago Sun-Times]]|accessdate=April 23, 2012}}</ref>
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''Steve Kolander''
+| 
+* Release date: August 23, 1994
+* Label: [[River North Records|River North Nashville]]
+|-
+! scope="row"| ''Pieces of a Puzzle''
+| 
+* Release date: October 29, 1996
+* Label: River North Nashville
+|-
+! scope="row"| ''Light to Dark''
+| 
+* Release date: 2007
+* Label: Beach Bay
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| 1994
+! scope="row"| "Listen to Your Woman"
+| 63
+| —
+| align="left" rowspan="2"| ''Steve Kolander''
+|-
+| 1995
+! scope="row"| "Black Dresses"
+| 70
+| —
+|-
+| 1996
+! scope="row"| "Pieces of a Puzzle"
+| —
+| —
+| align="left" rowspan="2"| ''Pieces of a Puzzle''
+|-
+| 1997
+! scope="row"| "Still Crazy 'bout You"
+| —
+| 93
+|-
+| 2007
+! scope="row"| "That's Not All"
+| —
+| —
+| align="left"| ''Light to Dark''
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:14em;"| Video
+! Director
+|-
+| 1994
+! scope="row"| "Listen to Your Woman"<ref>{{cite web|url=http://www.cmt.com/videos/steve-kolander/384651/listen-to-your-woman.jhtml|archive-url=https://web.archive.org/web/20160305001758/http://www.cmt.com/videos/steve-kolander/384651/listen-to-your-woman.jhtml|url-status=dead|archive-date=March 5, 2016|title=CMT : Videos : Steve Kolander : Listen To Your Woman|publisher=[[Country Music Television]]|accessdate=October 14, 2011}}</ref>
+| rowspan="2"| Chris Rogers
+|-
+| 1995
+! scope="row"| "Black Dresses"<ref>{{cite web|url=http://www.cmt.com/videos/steve-kolander/384763/black-dresses.jhtml|archive-url=https://web.archive.org/web/20160305073233/http://www.cmt.com/videos/steve-kolander/384763/black-dresses.jhtml|url-status=dead|archive-date=March 5, 2016|title=CMT : Videos : Steve Kolander : Dlack Dresses|publisher=[[Country Music Television]]|accessdate=October 14, 2011}}</ref>
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.kolander.com/ Official website]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kolander, Steve}}
+[[Category:1961 births]]
+[[Category:American country singer-songwriters]]
+[[Category:Living people]]
+[[Category:Musicians from Lake Charles, Louisiana]]
+[[Category:Singer-songwriters from Louisiana]]
+[[Category:Country musicians from Louisiana]]
+[[Category:River North Records artists]]
+
+
+{{US-country-singer-stub}}

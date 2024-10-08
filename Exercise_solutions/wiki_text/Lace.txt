@@ -1,0 +1,163 @@
+{{short description|Openwork fabric, patterned with open holes in the work, made by machine or by hand}}
+{{other uses}}
+{{Use dmy dates|date=April 2017}}
+[[File:Verknipte kantstrook.JPG|thumb|Valuable old lace, cut and framed for sale in [[Bruges]], [[Belgium]]]]
+
+'''Lace''' is a delicate [[fabric]] made of [[yarn]] or [[thread (yarn)|thread]] in an open weblike pattern,<ref name="thefreedictionary1">{{cite web|url=http://www.thefreedictionary.com/lace|title=Lace|website=The Free Dictionary|access-date=23 May 2012}}</ref> made by machine or by hand. Generally, lace is split into two main categories, [[Needle lace|needlelace]] and [[bobbin lace]],<ref name=":12">{{Cite book|last=Frost|first=Patricia|url=https://www.worldcat.org/oclc/48140446 |publisher=Miller's |title=Miller's collecting textiles|date=2000|isbn=1-84000-203-4|location=London|oclc=48140446}}</ref>{{Rp|122}} although there are other types of lace, such as knitted or crocheted lace. Other laces such as these are considered as a category of their specific craft. Knitted lace, therefore, is an example of knitting.  This article considers both needle lace and bobbin lace.
+
+While some experts say both needle lace and bobbin lace began in Italy in the late 1500s,<ref name=":12"/>{{Rp|122}} <ref name=":2" />{{Rp|12}} there are some questions regarding its  origins.
+
+Originally [[linen]], [[silk]], [[gold]], or silver threads were used. Now lace is often made with [[cotton]] thread, although linen and silk threads are still available. Manufactured lace may be made of [[synthetic fiber]]. A few modern artists make lace with a fine copper or silver wire instead of thread.
+
+==Etymology==
+The word lace is from [[Middle English]], from [[Old French]] ''las'', noose, string, from Vulgar [[Latin]] *''laceum'', from Latin ''laqueus'', noose; probably akin to ''lacere'', to entice or ensnare.<ref name="thefreedictionary1"/>
+
+== Description ==
+The Latin word from which "lace" is derived means "noose," and a noose describes an open space outlined with rope or thread. This description applies to many types of open fabric resulting from "looping, plaiting, twisting, or knotting...threads...by hand or machine."<ref name=":12"/>{{Rp|122}}
+
+[[File:CUR.55.96.123b view21.jpg|thumb|left|Square Lace "Sampler," 1800-1825, [[Brooklyn Museum]]]]
+
+==Types==
+[[File:Unknown holland painter. Portrait of woman.jpg|thumb|right|Unknown Holland painter, Portrait of woman, 17th century, [[National Gallery of Armenia]]]]
+
+There are many types of lace, classified by how they are made. These include:
+
+* '''[[Bobbin lace]]''', as the name suggests, is made with bobbins and a [[lace pillow|pillow]]. The bobbins, turned from wood, bone, or plastic, hold threads which are woven together and held in place with pins stuck in the pattern on the pillow. The pillow contains straw, preferably [[oat]] [[straw]] or other materials such as sawdust, insulation styrofoam, or ethafoam. Also known as bone-lace. [[Chantilly lace]] is a type of bobbin lace.
+* '''[[Chemical lace]]''': the stitching area is stitched with embroidery threads that form a continuous motif. Afterwards, the stitching areas are removed and only the embroidery remains. The stitching ground is made of a water-soluble or non-heat-resistant material.
+*'''[[Crocheted lace]]''' includes [[Irish crochet]], pineapple crochet, and [[filet crochet]].
+* '''[[Cutwork]]''', or [[whitework]], is lace constructed by removing threads from a woven background, and the remaining threads wrapped or filled with [[embroidery]].
+* '''[[lace knitting|Knitted lace]]''' includes [[Shetland knitted lace|Shetland lace]], such as the "wedding ring shawl", a lace shawl so fine that it can be pulled through a wedding ring.<ref>{{Cite book|title=The Magic of Shetland Lace Knitting|last=Lovick|first=Elizabeth|publisher=St. Martin's Griffin|year=2013|isbn=978-1-250-03908-8|location=New York|pages=10}}</ref>
+*'''Knotted lace''' includes [[macramé]] and [[tatting]]. 
+* '''[[Lace machine|Machine-made]]''' lace is any style of lace created or replicated using mechanical means.
+* '''[[Needle lace]]''', such as [[Gros point de venise|Venetian Gros Point]], is made using a needle and [[yarn|thread]]. This is the most flexible of the lace-making arts. While some types can be made more quickly than the finest of bobbin laces, others are very time-consuming. Some purists regard needle lace as the height of lace-making.{{fact|date=January 2022}} The finest antique needle laces were made from a very fine thread that is not manufactured today.
+*'''[[Tape lace]]''' makes the tape in the lace [[Bobbin tape lace|as it is worked]], or uses a machine- or hand-made textile strip formed into a design, then [[Tape lace|joined]] and embellished with needle or bobbin lace.
+*'''[[Tatting]]''' is a textile craft consisting of a series of knots and loops arranged with a shuttle or needle based process.
+
+<gallery>
+File:Branscombe4.jpg|[[Needle lace]], showing button hole stitch
+File:Ursuline_lace_2.jpg|[[Bobbin lace]] made on a pillow with bobbins and pins
+File:Boy's Frock LACMA M.2007.211.89 (3 of 3).jpg|[[Broderie anglaise]], a type of cutwork
+File:Lace-filet-hrynkiw.jpg|[[Filet lace]], embroidered on an existing net
+File:Lace_knitting_2.jpg|[[Lace knitting]]
+File:Nuperelle-skyttel_med_nupereller.JPG|[[Tatting]], with shuttle
+</gallery>
+
+==History: Bobbin and needle lace==
+{{For|the industrial revolution|Lace machine}}
+[[File:Hans memling, madonna col bambino tra i santi giacomo e domenico, 1488 ca. 03.JPG|thumb|left|Early lace on a fragment of ''The Virgin and Child''  by [[Hans Memling]].<ref>{{cite web|url=http://cartelfr.louvre.fr/cartelfr/visite?srv=car_not_frame&idNotice=23998|title=Hans Memling {{!}} La Vierge et l'Enfant entre saint Jacques et saint Dominique|website=Site officiel du musée du Louvre|date=12 October 2023 |language=fr}}</ref>]]
+
+=== Origins ===
+The origin of lace is disputed by historians. An Italian claim is a will of 1493 by the Milanese [[House of Sforza|Sforza]] family.<ref>{{cite book|last1=Verhaegen|first1=Pierre|title=La Dentelle Belge|date=1912|publisher=L. Lebègue|location=Brussel|page=10|language=fr}}</ref> A Flemish claim is lace on the alb of a worshiping priest in a painting about 1485 by [[Hans Memling]].<ref>{{cite book|last1=van Steyvoort|first1=Collette|title=Inleiding to kantcreatie (Introduction to creating lace)|date=1983|publisher=Dessain et Tolra|location=Paris|isbn=224927665X|page=11|edition=translation by Magda Grisar}}</ref>
+But since lace evolved from other techniques, it is impossible to say that it originated in any one place.<ref name="guild">{{cite web|title=The Craft of Lacemaking|url=https://www.laceguild.org/a-brief-history-of-lace|website=LaceGuild.org|access-date=26 July 2022}}</ref> The fragility of lace also means that few exceedingly old specimens are extant.<ref name=":3" />{{Rp|3}}
+
+=== Early history ===
+Lace was used by clergy of the Catholic Church as part of vestments in religious ceremonies. When they first started to use lace and through the 16th century, they primarily used cutwork. Much of their lace was made of gold, silver, and silk. Wealthy people began to use such expensive lace in clothing trimmings and furnishings, such as cushion covers. In the 1300s and 1400s in the Italian states, heavy duties were imposed on lace, and strict [[sumptuary law]]s were passed.<ref name=":5">{{Cite book|last=Jackson|first=Mrs. F. Nevill|title=A History of Hand-Made Lace|publisher=L. Upcott Gill|year=1900|location=London}}</ref>{{Rp|6–7}} This led to less demand for lace. In the mid-1400s some lacemakers turned to using [[flax]], which cost less, while others migrated, bringing the industry to other countries. However, lace did not come into widespread use until the 16th century in the northwestern part of the European continent.<ref>{{cite web|title=History of Lace|url=http://www.lacemakerslace.oddquine.co.uk/history.html|website=www.lacemakerslace.oddquine.co.uk}}</ref> The popularity of lace increased rapidly and the cottage industry of lace making spread throughout Europe.The late 16th century marked the rapid development of lace, both needle lace and bobbin lace became dominant in both fashion as well as home décor. For enhancing the beauty of collars and cuffs, needle lace was embroidered with loops and picots.<ref name="Decoratingwithlaceoutlet.com">{{cite web|title=History of Lace &#124; Lace Trends &#124; Lace Spreads|url=http://decoratingwithlaceoutlet.com/page.asp?id=90|url-status=dead|archive-url=https://web.archive.org/web/20140308030649/http://decoratingwithlaceoutlet.com/page.asp?id=90|archive-date=8 March 2014|access-date=11 September 2012|publisher=Decoratingwithlaceoutlet.com}}</ref> Sumptuary laws in many countries had a major impact on lace wearing and production throughout its early history, though in some countries they were often ignored or worked around.<ref name=":5" />{{Rp|9–10}}
+
+=== Italy ===
+Bobbin and needle lace were both being made in Italy early in the 1400s.<ref name=":6">{{Cite book|last=Huetson|first=T. L.|url=https://www.worldcat.org/oclc/793392|title=Lace and bobbins; a history and collector's guide|date=1973|publisher=A.S. Barnes|isbn=0-498-01398-7|edition=[1st American ed.]|location=South Brunswick|oclc=793392}}</ref>{{Rp|19}}  Documenting lace in Italy in the 15th century is a list of fine laces from the inventory of [[Beatrice d'Este|Beatrice d'Este, Duchess of Milan]], from 1493.<ref>{{Cite book|last=Singleton|first=Esther|title=Lace and Lace Making|publisher=The Mentor|year=1917}}</ref>
+
+==== Venice ====
+In Venice, lace making was originally the province of leisured noblewomen, using it as a pastime. Some of the wives of [[Doge of Venice|doges]] also supported lacemaking in the [[Republic of Venice|Republic]]. One, [[Giovanna Malipiero Dandolo]], showed support in 1457 for a law protecting lacemakers. In 1476, the lace trade was seriously affected by a law which disallowed "silver and embroidery on any fabric and the [[Punto in Aria]] of linen threads made with a needle, or gold and silver threads."<ref name=":5" />{{Rp|10}} In 1595, [[Morosina Morosini]], another doge's wife, founded a lace workshop for 130 women.<ref name=":0">{{Cite journal|last=Jones|first=Ann Rosalind|date=2014|title=Labor and Lace: The Crafts of Giacomo Franco's Habiti delle donne venetiane|url=https://www.jstor.org/stable/10.1086/678268|journal=I Tatti Studies in the Italian Renaissance|volume=17|issue=2|pages=399–425|doi=10.1086/678268|jstor=10.1086/678268|s2cid=192036554|issn=0393-5949}}</ref>{{Rp|403}} In the early 1500s, the production of lace became a paid activity, accomplished by young girls working in the houses of noblewomen, creating lace for household use, and in convents. Lace was a popular Venetian export in the 1500s and 1600s, and the demand remained strong in Europe, even when the export of other items exported by Venice during this period slumped.<ref name=":0" />{{Rp|406}} The largest and most intricate pieces of Venetian lace became ruffs and collars for members of the nobility and for aristocrats.<ref name=":0" />{{Rp|412}}
+
+=== Belgium ===
+Lace was being made in Brussels in the 1400s, and samples of such lace survive.<ref name=":6" />{{Rp|27}} Belgium and Flanders became a major center for the creation of primarily bobbin lace starting in the 1500s, and some handmade lace is still being produced there today.<ref name=":2" />{{Rp|19,31}} Belgian-grown flax contributed to the lace industry in the country. It produced extremely fine linen threads that were a critical factor in the superior texture and quality of Belgian lace.<ref>{{Cite book|last=Blum|first=Clara M.|title=Old World Lace, or a Guide for the Lace Lover|publisher=E.P. Dutton|year=1920|location=New York}}</ref>{{Rp|34}} Schools were founded to teach lacemaking to the young.<ref name=":2" />{{Rp|31}} The height of the production of lace there was in the 1700s. [[Brussels]] was known for [[Brussels lace|Point d'Angleterre]], [[Lier, Belgium|Lierre]] and [[Bruges]] also were known for their own styles of lace. Belgian lacemakers either originated or developed laces such as Brussels or Brabant Lace, Lace of Flanders, [[Mechlin lace|Mechlin]], [[Valenciennes lace|Valenciennes]] and [[Binche lace|Binche]].<ref name=":2" />{{Rp|19}}
+
+=== France ===
+Lace arrived in France when [[Catherine de' Medici|Catherine de Medici]], newly married to King [[Henry II of France|Henry II]] in 1533, brought Venetian lace-makers to her new homeland. The French royal court and the fashions popular there, influenced the lace that started to be made in France. It was delicate and graceful, compared to the heavier needle or point-laces of Venice. Examples of French lace are [[Alençon lace|Alençon]], [[Argentan lace|Argentan]], and [[Chantilly lace|Chantilly]].<ref name=":2">{{Cite book|last=Schwab|first=David E.|title=The Story of Lace and Embroidery and Handkerchiefs|publisher=Fairchild|year=1957|location=New York}}</ref>{{Rp|17}} The 17th century court of King Louis the XIV of France was known for its extravagance, and during his reign lace, particularly the delicate [[Alençon lace|Alençon]] and [[Argentan lace|Argentan]] varieties, was extremely popular as court dress. The [[Fontange|frontange]], a tall lace headdress, became fashionable in France at this time. Louis XIV's finance minister, [[Jean-Baptiste Colbert|Jean Baptiste Colbert]], strengthened the lace industry by establishing lace schools and workshops in the country.
+
+=== Spain ===
+Lacemaking in Spain was established early, as by the 1600s its [[Point d'Espagne lace]], made of gold and silver thread, was very popular. Lace was made for use in churches and for the [[mantilla]]. Lacemaking may have come to Spain from Italy in the 1500s, or from Flanders, its province at the time.<ref name=":6" />{{Rp|33–35}} This lace was much admired, and was made throughout the country.<ref>{{Cite book |last=Jones |first=Mary Eirwen |title=The Romance of Lace |publisher=Staples |year=1951 |location=London}}</ref>{{Rp|117}}
+
+=== Germany ===
+[[Barbara Uthmann|Barbara Uttmann]] learned how to make bobbin lace as a girl from a Protestant refugee. In 1561 she started a lace-making workshop in [[Annaberg-Buchholz|Annaberg]]. By the time of her death in 1575, there were over 30,000 lacemakers in that area of Germany. Following the revocation of the [[Edict of Nantes]] in France in 1685, many [[Huguenots|Huguenot]] lacemakers moved to Hamburg and Berlin. The earliest known lace pattern book was printed in Cologne in 1527.<ref name=":6" />{{Rp|30–31}}
+
+=== England ===
+The lace that was made in England prior to the introduction of bobbin lace in the mid 1500s was primarily cutwork or [[drawn thread work]]. There is a 1554 mention of Sir Thomas Wyatt wearing a ruff trimmed with [[Bobbin lace|bone lace]] (some bobbins at the time were made of bone).<ref name=":7">{{Cite book|last=Mincoff|first=Elizabeth|url=https://www.worldcat.org/oclc/16527223|title=Pillow or bobbin lace : technique, patterns, history|date=1987|publisher=Dover|others=Margaret S. Marriage|isbn=0-486-25505-0|location=New York|oclc=16527223}}</ref>{{Rp|49}} The court of [[Elizabeth I|Queen Elizabeth]] of England maintained close ties with the French court, and so French lace began to be seen and appreciated in England. Lace was used on her court gowns, and became fashionable.
+
+There are two distinct areas of England where lacemaking was a significant industry: [[Devon]] and part of the [[South Midlands]].<ref name=":7" />{{Rp|48}} Belgian lacemakers were encouraged to settle in Honiton in Devon at the end of the 16th century. They continued to make pillow and other lace, as they had in their homeland, but [[Honiton lace]] never got the acclaim that lace from France, Italy, and Belgium did.<ref name=":2" />{{Rp|19–21}} While the lace in Devon stayed stable, in the lace-making areas of the South Midlands there were changes brought by different groups of [[émigré]]s: Flemings, French Huguenots, and later, French escaping the [[French Revolution|Revolution]].<ref name=":7" />{{Rp|48–49}}
+
+[[Catherine of Aragon]], while exiled in Ampthill, England, was said to have supported the lace makers there by burning all her lace, and commissioning new pieces.<ref>{{Cite web|date=12 April 2017|title=St Catherine's Day, Cattern Cakes and Lace|url=https://www.lavenderandlovage.com/2011/11/st-catherines-day-lace-makers-and.html|website=Lavender and Lovage}}</ref> This may be the origin of the lacemaker's holiday, Cattern's Day.  On this day (25 or 26 November) lacemakers were given a day off from work, and Cattern cakes - small dough cakes made with [[Caraway|caraway seeds]], were used to celebrate.<ref>{{Cite book|last=Jones|first=Julia|title=A Calendar of Feasts; Cattern cakes and lace|publisher=DK|year=1987|isbn=0863182526|location=England}}</ref> The English diarist [[Samuel Pepys]] often wrote about the lace used for his, his wife's, and his acquaintances' clothing, and on 10 May 1669, noted that he intended to remove the gold lace from the sleeves of his coat "as it is fit [he] should", possibly in order to avoid charges of ostentatious living.<ref name="Pepys">{{cite web|url=http://www.pepysdiary.com/diary/1669/05/10/|title=Monday 10 May 1669|date=10 May 1669|website=The Diary of Samuel Pepys|last1=Pepys|first1=Samuel|access-date=7 January 2015}}</ref> In 1840, Britain's Queen Victoria was married in lace, influencing the wedding dress style until now.<ref>{{Cite book|title=The Fashion Book|publisher=Dorling Kindersley|year=2014|isbn=9781409352327|location=London|pages=46|oclc=889544401}}</ref>
+
+The decline of the lace industry in England began about 1780, as was happening elsewhere. Some of the reasons include the increased popularity of clothing in the Classical style, the economic issues connected to war, and the increased production and use of machine-made laces.<ref name=":7" />{{Rp|51–52}}
+
+=== America ===
+American colonists of both British and Dutch origins strove to acquire lace accessories such as caps, ruffs, and other neckwear, and handkerchiefs. American women who afford lace textiles were also able to afford aprons and dresses trimmed with the technique or made only from lace. Because of sumptuary laws, such as one in Massachusetts in 1634, American citizens were not allowed to own or make their lace textiles. Sumptuary laws prevented spending on extravagance and luxury and classified who could own or make lace.  This indicates that lace was being made in that colony at the time.<ref name=":4">{{Cite book|last=Weissman|first=Judith Reiter|url=https://www.worldcat.org/oclc/29315818|title=Labors of love : America's textiles and needlework, 1650-1930|date=1994|publisher=Wings Books|others=Wendy Lavitt|isbn=0-517-10136-X|location=New York|oclc=29315818}}</ref>{{Rp|187–189}} Lacemaking was being taught in boarding schools by the mid 1700s, and newspaper advertisements starting in the early 1700s offered to teach the technique.{{Rp|192}}<ref name=":4" /> Also in the 18th century, [[Ipswich, Massachusetts|Ipswich]], Massachusetts had become the only place in America known for producing handmade lace. By 1790, women in Ipswich, who were primarily from the [[Midlands|British Midlands]], were making 42,000 yards of silk bobbin lace intended for trimmings.<ref name=":4" />{{Rp|189–190}} [[George Washington]] reportedly purchased [[Ipswich lace|Ipswich Lace]] on a trip to the region in 1789.<ref>{{Cite book |last=Philbrick |first=Nathaniel |url=https://www.worldcat.org/oclc/1237806867 |title=Travels with George : in search of Washington and his legacy |date=2021 |isbn=978-0-525-56217-7 |location=[New York, New York] |oclc=1237806867}}</ref> Machines to make lace began to be smuggled into the country in the early 1800s, as England did not permit these machines to be exported. The first lacemaking factory opened in [[Medway, Massachusetts]] in 1818. Ipswich had its own in 1824. The women there moved from making bobbin lace to decorating the machine-made net lace with darning and tambour stitches, creating what is known as [[Limerick lace]].<ref name=":4" />{{Rp|190}}
+
+Lace was still much in demand in the 19th century. Lace trimmings on dresses, at seams, pockets, and collars were very popular. The lace being made in the United States was based on European patterns. By the turn of the 20th century, needlework and other magazines included lace patterns of a range of types.<ref name=":4" />{{Rp|195}}
+
+In North America in the 19th century, [[missionaries]] spread the knowledge of lace making to the [[Indigenous peoples of the Americas|Native American]] tribes.<ref>{{cite web|date=1 August 2013|title=Indian Lace|url=http://lace.lacefairy.com/Lace/ID/IndianLace.html|archive-url=https://web.archive.org/web/20130801221656/http://lace.lacefairy.com/Lace/ID/IndianLace.html|archive-date=1 August 2013}}</ref> [[Sibyl Carter]], an Episcopalian missionary, began to teach lacemaking to [[Ojibwe|Ojibwa]] women in Minnesota in 1890. Classes were being held for members of many tribes throughout the US by the first decade of the 1900s<ref name=":4" /> St. [[John Francis Regis]] guided many women out of prostitution by establishing them in the lace making and [[embroidery]] trade, which is why he became the [[Patron Saint]] of lace making.<ref>{{Cite web|title=Society of Jesus Celebrates Feast of St. John Francis Regis, SJ|url=http://jesuits.org/news-detail?tn=news-20160615021646|access-date=2017-05-08|website=jesuits.org|archive-date=27 June 2017|archive-url=https://web.archive.org/web/20170627152046/http://jesuits.org/news-detail?tn=news-20160615021646|url-status=dead}}</ref>
+
+=== Ireland ===
+{{main|Irish lace}}
+[[File:Black Lace kaftan “Illusion” by Sybil Connolly- Full length FRONT.jpg|thumb|right|Carrickmacross Lace 'Illusion' dress by Irish fashion designer [[Sybil Connolly]]|322x322px]]Lace was made in Ireland from the 1730s onwards with several different lace-making schools founded across the country. Many regions acquired a name for high-quality work and others developed a distinctive style. Lace proved to be an important means of income for many poorer women.<ref>{{Cite web|last=Hooper|first=Glenn|title=Irish Lace|url=https://www.heritagecouncil.ie/content/files/irish_lace_leaflet_4mb.pdf|archive-url=https://web.archive.org/web/20160425062538/http://www.heritagecouncil.ie/fileadmin/user_upload/Publications/Museums_and_Archive/Lace_Final_for_Web.pdf/|archive-date=25 April 2016|access-date=27 January 2022}}</ref>  Several important schools of lace included: [[Carrickmacross lace|Carrickmacross]] lace, [[Kenmare lace|Kenmare]] lace, [[Limerick lace|Limerick]] lace and [[Youghal lace|Youghal]] lace.<ref>{{Cite book|last=Potter|first=Matthew|url=https://www.worldcat.org/oclc/910526333|title=Amazing lace : a history of the Limerick lace industry|date=2014|others=Jacqui Hayes|isbn=978-0-905700-22-9|location=Limerick|oclc=910526333}}</ref>[[File:Italian (Florentine) School - Portrait of an Unknown Lady, Aged 23 (called ‘the Countess Miranda’) - 1210350 - National Trust.jpg|alt=Portrait of a woman in an ornate dress with a massive lace collar.|thumb|Portrait of an Unknown Lady. Florentine School, 1571. National Trust.]]
+[[File:Godfrey Kneller (1646-1723) (style of) - Portrait of an Unknown Gentleman in Brown with a Lace Collar - 1336256 - National Trust.jpg|alt=The man shown is wearing a lace cravat. |thumb|Portrait of an Unknown Gentleman in Brown with a Lace Collar by [[Godfrey Kneller]] (1646-1723)]]
+
+== Patrons, designers, and lace makers ==
+===Patron saints=== 
+Some patron saints of lace include:<ref name="Refresh 2015 y938">{{cite web | title=Patron Saints of Needlework and Lace | website=Refresh | date=January 27, 2015 | url=https://trc-leiden.nl/trc-needles/people-and-functions/legendary-people-and-patron-saints/patron-saints-of-needlework-and-lace | access-date=October 18, 2023}}</ref>
+* [[Saint Anne|St Anne]]
+* [[Catherine of Alexandria|St Catherine of Alexandria]]
+* [[Crispin and Crispinian|St Crispin]]
+* [[Elizabeth of Hungary|St Elizabeth of Hungary]]
+* [[Helena, mother of Constantine I|St Helena of Constantine]]
+* [[John Francis Regis|St John Regis]]
+* [[Paraskeva of the Balkans|St Paraskeva of the Balkans]]
+* [[Rose of Lima|St Rose of Lima]]
+
+===Historic===
+* [[Giovanna Dandolo]] (1457–1462)
+* [[Barbara Uthmann]] (1514–1575)
+* [[Morosina Morosini]] (1545–1614)
+* [[Federico de Vinciolo]] (16th century)
+* [[Caterina Angiola Pieroncini]] (18th century)
+
+===Contemporary===
+* [[Rosa Elena Egipciaco]]
+
+== Lace in art ==
+[[File:Frans Hals - Nicolaes Hasselaer - WGA11104.jpg|alt=Man seated sideways on a chair, facing viewer, whose garment has an intricately patterned lace collar.|right|thumb|Portrait of Nicolaes Hasselaer by Frans Hals, c. 1627. Rijksmuseum.]]
+The earliest portraits showing lace are those of the early [[Florentine painting|Florentine School]].<ref name=":3">{{Cite book|last=Jackson|first=Emily|url=https://www.worldcat.org/oclc/14718956|title=Old handmade lace : with a dictionary of lace|date=1987|publisher=Dover|others=Emily Jackson|isbn=0-486-25309-0|location=New York|oclc=14718956}}</ref>{{Rp|13}} Later, in the 17th century, lace was very popular and painting styles were at the time realistic.  This allows viewers to see the finery of lace.<ref>{{Cite web|date=2015-09-29|title=The 10 Best Lace Paintings|url=https://www.sophieploeg.com/blog/the-10-best-lace-paintings/|access-date=2021-04-04|website=Sophie Ploeg|language=en-US}}</ref> Painted portraits, primarily those of the wealthy or the nobility, depicted costly laces. This presented a challenge to the painters, who needed to represent not only their sitters accurately, but their intricate lace as well.<ref name=":0" />{{Rp|414}}
+
+The portrait of Nicolaes Hasselaer seen here was painted by Frans Hals in about 1627. It depicts a man dressed in a black garment with a lace collar. The collar is detailed enough that those who are expert in lace identification can tell what pattern it is. Hals created the lace effect  with dabs of grey and white, using black paint to indicate the spaces between the threads.<ref>{{Cite book|last=Van Guldener|first=Hermine|title=Rijksmuseum Amsterdam|publisher=Knorr & Hirth Verlag|year=1969|location=Munich|pages=27}}</ref>
+
+An image of an anonymous female artisan appears in ''[[The Lacemaker (Vermeer)|The Lacemaker]]'', a painting by the [[Dutch Golden Age painting|Dutch artist]] [[Johannes Vermeer]] (1632–1675), completed around 1669–1670.
+
+==See also==
+* [[Anglo Scotian Mills]]
+* [[Doily]]
+* [[Fishnet]]
+* ''[[Lagetta lagetto]]'' (Lacebark)
+* [[Lippitt Mill]]
+* [[Pointelle]], a similar type of fabric 
+* [[Ribbons]]
+* [[Scranton Lace Company]]
+* [[See-through clothing]]
+
+[[File:Museum of Costume and Lace exterior.jpg|alt=Exterior of an old brick building|thumb|[[Fashion and Lace Museum]], Brussels, Belgium. ]]
+
+== Lace museums ==
+*[https://www.fashionandlacemuseum.brussels/en/ Fashion and Lace Museum], Brussels, Belgium
+*[https://www.kantcentrum.eu/en/welcome Kantcentrum], Bruges, Belgium
+*[https://kenmarelace.ie/kenmare-lace-design-centre/ Kenmare Lace and Design Centre], Kenmare, County Kerry, Ireland
+*[https://www.lacismuseum.org/ The Lace Guild Museum and Gallery], Stourbridge, UK
+*[https://thelacemuseum.org/ The Lace Museum], Sunnyvale, California, US
+*[https://www.lacismuseum.org/ Lacis Museum of Lace and Textiles], Berkeley, California, US
+*[https://museomerletto.visitmuve.it/ Lace Museum/Museo del Merletto], near Venice, Italy
+*[https://museu.arenysdemar.cat/es/pagina/museo-mar%C3%A8s-del-encaje Marès Lace Museum/Museu Marès de la Punta], Arenys de Mar, Spain
+*[https://museedentelle.cu-alencon.fr/ Musée des Beaux-Arts et de la Dentelle] Alençon, France
+*[[Textilmuseum St. Gallen]], [[St. Gallen|St. Gallen, Switzerland]], and their exhibit traveled to [https://www.bgc.bard.edu/ Bard Graduate Center] in 2022 for a major New York installation, [https://www.bgc.bard.edu/exhibitions/exhibitions/118/threads-of-power Threads of Power].<ref>{{Cite news |last=Smith |first=Roberta |date=2022-12-08 |title=Lace, That Most Coveted Textile |language=en-US |work=The New York Times |url=https://www.nytimes.com/2022/12/08/arts/design/lace-exhibition-bard-graduate-center.html |access-date=2022-12-09 |issn=0362-4331}}</ref>
+
+==References==
+
+{{reflist}}
+
+==External links==
+{{Commons category|Lace}}
+*[http://www.panggio.com/home Lace bands and fabrics]
+
+{{Lace types}}
+{{textile arts}}
+{{Fabric}}
+{{Authority control}}
+
+[[Category:Lace| ]]

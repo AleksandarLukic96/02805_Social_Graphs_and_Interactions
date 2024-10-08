@@ -1,0 +1,255 @@
+{{Short description|American musician (born 1976)}}
+{{distinguish|Jesse Alexander}}
+{{Infobox musical artist
+| name            = Jessi Alexander
+| image_size      =
+| birth_name      = Jessica Leigh Alexander
+| birth_date      = {{birth date and age|1976|11|18}}
+| origin          = [[Jackson, Tennessee]]
+| instrument      = Guitar, vocals
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 2004—present
+| label           = [[Columbia Records|Columbia]]
+| spouse          = [[Jon Randall]]
+| website         = 
+}}
+'''Jessica Leigh Alexander''' (born November 18, 1976), known professionally as '''Jessi Alexander''', is an American [[country music]] artist and songwriter.
+
+==Career==
+She has had her songs recorded by [[Patty Loveless]], [[Trisha Yearwood]] and [[Little Big Town]].<ref>[{{AllMusic|class=artist|id=p693402/songs/songs-composed-by|pure_url=yes}} allmusic ((( Jessi Alexander > Songs > Songs Composed By )))]</ref> She also launched her own recording career in 2004. Two of her songs charted on [[Billboard (magazine)|Billboard]]'s [[Hot Country Songs]] chart, and [[Columbia Records]] released her debut album, ''Honeysuckle Sweet'', on March 1, 2005.<ref>[{{BillboardURLbyName|artist=jessi alexander|chart=all}} Billboard.com - Artist Chart History - Jessi Alexander]</ref>
+
+In 2006, she was dropped from the label.<ref>{{Cite book|url=https://books.google.com/books?id=OBYEAAAAMBAJ|title=Billboard|last=Inc|first=Nielsen Business Media|date=2006-07-08|publisher=Nielsen Business Media, Inc.|language=en}}</ref>
+
+Alexander co-wrote [[Miley Cyrus]]' single "[[The Climb (Miley Cyrus song)|The Climb]]", for the 2009 film ''[[Hannah Montana: The Movie]]'' and the [[Hannah Montana]] song "I'll Always Remember You" from the ''[[Hannah Montana Forever (soundtrack)|Hannah Montana Forever]]'' soundtrack. She also co-wrote [[Lee Brice]]'s 2012 single "[[I Drive Your Truck]]", and [[Blake Shelton]]'s "[[Drink on It]]", "[[Mine Would Be You]]" and "[[Turnin' Me On (Blake Shelton song)|Turnin' Me On]]".
+
+In 2021, Jessi was featured on "That Was Us" from the album ''Behind the Bar'' by [[Riley Green (singer)|Riley Green]].
+
+== Personal life ==
+She has been married to [[Jon Randall]] since 2006.
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:16em;"| Album details
+|- 
+! scope="row"| ''Honeysuckle Sweet''
+| 
+* Release date: March 1, 2005
+* Label: [[Columbia Records]]
+|- 
+! scope="row"| ''Down Home''
+| 
+* Release date: April 1, 2014
+* Label: Lonesome Vinyl
+|- 
+! scope="row"| ''Decatur County Red''
+| 
+* Release date: March 27, 2020
+* Label: Lost Creek
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:16em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="60"| [[Hot Country Songs|US Country]]
+|-
+| rowspan="2"| 2004
+| scope="row" | "Honeysuckle Sweet"
+| 52
+| align="left" rowspan="3"| ''Honeysuckle Sweet''
+|-
+| scope="row" | "Make Me Stay or Make Me Go"
+| 57
+|-
+| 2005
+| scope="row" | "Canyon Prayer"
+| —
+|-
+| rowspan="4"| 2020
+|"Mama Drank"
+|—
+| rowspan="3" |''Decatur County Red''
+|-
+|"I Should Probably Go Now"
+|—
+|-
+|"Decatur County Red"
+|—
+|-
+|"River"
+|—
+|TBD
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Other Charting Songs ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" | Year
+! rowspan="2" style="width:16em;" | Single
+! colspan="1" | Peak positions
+! rowspan="2" | Album
+|- style="font-size:smaller;"
+! width="60" | [[Hot Country Songs|US Country]]
+|-
+| 2021
+| scope="row" | "That Was Us" with Riley Green
+| -
+| align="left" | ''Behind The Bar''
+|-
+| colspan="4" style="font-size:8pt" | "—" denotes releases that did not chart
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:16em;"| Video
+! Director
+|-
+| 2004
+| scope="row" | "Honeysuckle Sweet"
+| Roger Pistole
+|-
+| 2005
+| scope="row" | "Canyon Prayer"
+| Kristin Barlowe
+|}
+
+===Singles written by Alexander===
+<!--Please try to include only songs that were singles-->
+{| class="wikitable"
+|-
+! Year
+! Title
+! Artist(s)
+|-
+|2004
+|"I Wanna Believe"
+|[[Patty Loveless]]
+|-
+|2009
+|"[[The Climb (Miley Cyrus song)|The Climb]]"
+|[[Miley Cyrus]]
+|-
+|2011
+|"[[When Love Gets a Hold of You]]"
+|[[Reba McEntire]]
+|-
+|rowspan="2"|2012
+|"[[Drink on It]]"
+|[[Blake Shelton]]
+|-
+|"[[I Drive Your Truck]]"
+|[[Lee Brice]]
+|-
+|2013
+|"[[Mine Would Be You]]"
+|Blake Shelton
+|-
+|rowspan="2"|2014
+|"[[Song About a Girl]]"
+|[[Eric Paslay]]
+|-
+|"[[PrizeFighter (song)|PrizeFighter]]"
+|[[Trisha Yearwood]] feat. [[Kelly Clarkson]]
+|-
+|rowspan="4"|2015
+|"Winning Streak" 
+|rowspan="4"|[[Ashley Monroe]]
+|-
+|"If Love Was Fair"
+|-
+|"If the Devil Don't Want Me" 
+|-
+|"I'm Good at Leavin'"
+|-
+| rowspan="2" |2016
+|"[[Savior's Shadow]]"
+|Blake Shelton
+|-
+|"[[The Way I Talk]]"<ref>{{Cite news|url=http://www.billboard.com/articles/columns/country/7525715/morgan-wallens-debut-the-way-i-talk-riffs-on-accents|title=Morgan Wallen's Debut, 'The Way I Talk,' Riffs on Accents|newspaper=Billboard|access-date=2017-02-07}}</ref>
+|[[Morgan Wallen]]
+|-
+|2018
+|"[[Turnin' Me On (Blake Shelton song)|Turnin' Me On]]"
+|Blake Shelton
+|-
+| rowspan="2" |2020
+|"Young Enough"
+|[[Brett Kissel]]
+|-
+|"Like a Man"
+|[[Dallas Smith (singer)|Dallas Smith]]
+|-
+|rowspan=2|2021
+|"[[Never Say Never (Cole Swindell and Lainey Wilson song)|Never Say Never]]"
+|[[Cole Swindell]] and [[Lainey Wilson]]
+|-
+|"[[Sunrise Tells the Story]]"
+|[[Midland (band)|Midland]]
+|-
+|2024
+|"[[Ain't No Love in Oklahoma]]"
+|[[Luke Combs]]
+|}
+
+==Awards and nominations==
+{| class="wikitable"
+|-
+! Year
+! Association
+! Category
+! Nominated work
+! Result
+|-
+| rowspan=5|2013
+| [[Country Music Association Awards|Country Music Association]]
+| Song of the Year
+| rowspan=2| "[[I Drive Your Truck]]"
+| {{won}}
+|-
+| rowspan=2|[[56th Annual Grammy Awards|Grammy Awards]]
+| rowspan=2|[[Best Country Song]]
+| {{nom}}
+|-
+| rowspan=2|"[[Mine Would Be You]]"
+| {{nom}}
+|-
+| rowspan=2|[[Academy of Country Music Awards]]
+| rowspan=2|Song of the Year
+| {{nom}}
+|-
+| "[[I Drive Your Truck]]"
+| {{won}}
+|}
+
+==References==
+{{reflist}}
+
+{{CMA for Song of the Year}}
+{{Authority control}}
+
+{{DEFAULTSORT:Alexander, Jessi}}
+[[Category:1976 births]]
+[[Category:Living people]]
+[[Category:People from Jackson, Tennessee]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Country musicians from Tennessee]]
+[[Category:Columbia Records artists]]
+[[Category:Singer-songwriters from Tennessee]]
+[[Category:21st-century American women singers]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:Canadian Country Music Association Songwriter(s) of the Year winners]]
+
+
+{{US-country-singer-stub}}

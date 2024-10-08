@@ -1,0 +1,499 @@
+{{Short description|American country singer}}
+{{Use mdy dates|date=September 2020}}
+{{BLP sources|date=January 2020}}
+{{Infobox musical artist 
+| name            = Narvel Felts
+| image           = 
+| caption         = 
+| image_size      = 
+| background      = solo_singer
+| birth_name      = Albert Narvel Felts
+| alias           = 
+| birth_date      = {{birth date and age|1938|11|11}}
+| birth_place     = [[Keiser, Arkansas]], U.S.
+| origin          = [[Bernie, Missouri]], U.S.
+| death_date      = 
+| instrument      = Guitar
+| genre           = [[Country music|Country]], [[Rockabilly]]
+| occupation      = Singer
+| years_active    = 1957–present<br>(Local performances only)
+| label           = 
+| associated_acts = 
+| website         = 
+}}
+
+'''Albert Narvel Felts''' (born November 11, 1938)<ref name="LarkinCountry">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Who's Who of Country Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1993|edition=First|isbn=0-85112-726-6|page=138}}</ref> is an American [[country music]] and rockabilly<ref>{{Cite web|url=http://www.rockabillyhall.com/narvelfelts.html|title=Narvel Felts|website=Rockabillyhall.com|access-date=January 28, 2020}}</ref> singer. Known for his soaring tenor and high falsetto, Felts enjoyed his greatest success during the 1970s, most famously 1975's "[[Reconsider Me]]".
+
+==Career==
+He was born in [[Keiser, Arkansas]], United States,<ref name="LarkinCountry"/> and raised in [[Bernie, Missouri]], where he attended Bernie High School, Felts was discovered during a talent show at the school.<ref name="AMG">{{Cite web|url=https://www.allmusic.com/artist/narvel-felts-mn0000375287/biography|title=Narvel Felts &#124; Biography & History|website=[[AllMusic]]|access-date=August 6, 2021}}</ref> He had been encouraged to participate in the show by some of his classmates, and a talent agent happened to be attending the performance at the time.
+
+Felts recorded his first single, "Kiss-a Me Baby", at the age of 18,<ref name="LarkinCountry"/> and his career skyrocketed with the help of [[Roy Orbison]] and [[Johnny Cash]].  Felts enjoyed modest pop success in 1960 with a remake of the Drifters' "Honey Love",<ref name="LarkinCountry"/> which earned a low position on the ''Billboard'' Hot 100. He went on to release such songs as "Lonely Teardrops" and "Pink And Black Days", but he did not begin enjoying success on a national level as a country singer until the 1970s.<ref name="LarkinCountry"/> His first major hit came in 1973, with a cover of Dobie Gray's "[[Drift Away]]".<ref name="LarkinCountry"/> Felts' version – number eight on the ''[[Billboard magazine|Billboard]]'' [[Hot Country Songs|Hot Country Singles]] chart in September 1973 – was midtempo country compared to Gray's blues version. The follow-up single, "All in the Name of Love", just missed hitting the top 10 in December 1973.<ref name="LarkinCountry"/>
+
+Felts continued to enjoy modest success during the next year and a half, when he signed with [[ABC Records|ABC-Dot Records]] in 1975.<ref name="LarkinCountry"/> That year, he enjoyed his biggest hit, a cover of [[Johnny Adams]]' soul classic "Reconsider Me",<ref name="LarkinCountry"/> which showcased his falsetto and high tenor. The song reached number two that August, and was 1975's second-biggest country hit of the year.<ref>{{Cite magazine |url=http://www.billboard.com/bbcom/charts/yearend_chart_display.jsp?f=Hot+Country+Songs&g=Year-end+Singles&year=1975 |title=Billboard.com - Year End Charts - Year-end Singles - Hot Country Songs |magazine=[[Billboard (magazine)|Billboard]] |access-date=April 21, 2007 |archive-url=https://web.archive.org/web/20071211063352/http://www.billboard.com/bbcom/charts/yearend_chart_display.jsp?f=Hot+Country+Songs&g=Year-end+Singles&year=1975 |archive-date=December 11, 2007 |url-status=dead }}</ref>
+
+Felts, who became known to fans as "Narvel the Marvel", continued to enjoy success throughout the 1970s. Included in his streak of hits was a remake of "[[Lonely Teardrops]]", which became his last top-10 hit in the summer of 1976, and a cover of [[Willie Nelson]]'s "[[Funny How Time Slips Away]]".<ref name="LarkinCountry"/> He also had a number-14 country hit with "[[Everlasting Love]]" in 1979.
+
+Narvel Felts' pioneering contribution to the genre has been recognized by the [[Rockabilly Hall of Fame]].
+
+==Personal life==
+He is married to the former Loretta Stanfield. 
+
+Two children resulted from their marriage, although they lost their only son at the age of 31, Albert Narvel Jr. (known as Bub), on September 14, 1995, as the result of an automobile accident.  At one time, Bub played drums for his father.[1] 
+
+One of his albums is dedicated to his son. 
+
+He currently resides in [[Malden, Missouri]], where he continues to perform on occasion.
+
+==Discography==
+===Albums===
+{| class="wikitable"
+! Year
+! Album
+! <small>[[Top Country Albums|US Country]]</small>
+! Label
+|-
+| 1973
+| ''Drift Away''
+| align="center"| 30
+| rowspan="2"| Cinnamon
+|-
+| 1974
+| ''When Your Good Love Was Mine''
+| align="center"| 41
+|-
+| rowspan="2"| 1975
+| ''Narvel Felts''
+| align="center"| 4
+| rowspan="6"| ABC/Dot
+|-
+| ''Greatest Hits Vol. 1''
+| align="center"| 20
+|-
+| rowspan="2"| 1976
+| ''Narvel the Marvel''
+| align="center"| 10
+|-
+| ''Doin' What I Feel''
+| align="center"| 26
+|-
+| rowspan="2"| 1977
+| ''The Touch of Felts''
+| align="center"| 30
+|-
+| ''Narvel''
+| align="center"| —
+|-
+| 1978
+| ''Inside Love''
+| align="center"| —
+| rowspan="2"| ABC
+|-
+| 1979
+| ''One Run for the Roses''
+| align="center"| 49
+|}
+
+===Singles===
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="3"| Chart Positions
+! rowspan="2"| Album
+|-
+! width="45"| <small>[[Hot Country Songs|US Country]]</small><ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=143|isbn=978-0-89820-177-2}}</ref>
+! width="45"| <small>[[Billboard Hot 100|US]]</small><ref name="whitburn"/>
+! width="45"| <small>CAN Country</small>
+|-
+| rowspan="2"| 1957
+| "Foolish Thoughts"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| rowspan="22"| singles only
+|-
+| "Cry, Baby, Cry"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="3"| 1958
+| "Rocket Ride"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| "Rocket Ride Stroll"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| "Vada Lou"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| 1959
+| "Cutie Baby"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="3"| 1960
+| "Honey Love"
+| align="center"| —
+| align="center"| 90
+| align="center"| —
+|-
+| "Tony"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| "3000 Miles"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="2"| 1962
+| "Little Miss Blue"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| "Lovelight Man"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| 1963
+| "Mountain of Love"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| 1964
+| "Four Seasons of Life"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="3"| 1965
+| "You Were Mine"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| "Night Creature"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| "Your True Love"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="2"| 1966
+| "Girl Come Back"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| "I'd Trade All of My Tomorrows"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="2"| 1967
+| "86 Miles"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| "Don't Let Me Cross Over"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="2"| 1968
+| "Dee Dee"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| "Since I Met You Baby"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="3"| 1973
+| "Rockin' Little Angel"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| rowspan="3"| ''Drift Away''
+|-
+| "[[Drift Away]]"
+| align="center"| 8
+| align="center"| —
+| align="center"| 48
+|-
+| "All in the Name of Love"
+| align="center"| 13
+| align="center"| —
+| align="center"| 63
+|-
+| rowspan="4"| 1974
+| "When Your Good Love Was Mine"
+| align="center"| 14
+| align="center"| —
+| align="center"| 14
+| ''When Your Good Love Was Mine''
+|-
+| "Until the End of Time" <small>(w/ [[Sharon Vaughn]])</small>
+| align="center"| 39
+| align="center"| —
+| align="center"| —
+| single only
+|-
+| "I Want to Stay"
+| align="center"| 26
+| align="center"| —
+| align="center"| 35
+| rowspan="2"| ''Greatest Hits Vol. 1''
+|-
+| "[[Raindrops (Dee Clark song)|Raindrops]]"
+| align="center"| 33
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="3"| 1975
+| "[[Reconsider Me]]"
+| align="center"| 2
+| align="center"| 67
+| align="center"| 1
+| rowspan="2"| ''Narvel Felts''
+|-
+| "Funny How Time Slips Away"
+| align="center"| 12
+| align="center"| —
+| align="center"| 45
+|-
+| "Somebody Hold Me (Until She Passes By)"
+| align="center"| 10
+| align="center"| —
+| align="center"| 27
+| rowspan="2"| ''Narvel the Marvel''
+|-
+| rowspan="3"| 1976
+| "[[Lonely Teardrops]]"
+| align="center"| 5
+| align="center"| 62
+| align="center"| 5
+|-
+| "My Prayer"
+| align="center"| 14
+| align="center"| —
+| align="center"| —
+| rowspan="2"| ''Doin' What I Feel''
+|-
+| "My Good Thing's Gone"
+| align="center"| 20
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="4"| 1977
+| "The Feeling's Right"
+| align="center"| 19
+| align="center"| —
+| align="center"| 26
+| rowspan="2"| ''The Touch of Felts''
+|-
+| "[[I Don't Hurt Anymore]]"
+| align="center"| 37
+| align="center"| —
+| align="center"| 38
+|-
+| "To Love Somebody"
+| align="center"| 22
+| align="center"| —
+| align="center"| —
+| rowspan="4"| ''Narvel''
+|-
+| "Please"
+| align="center"| 34
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="4"| 1978
+| "Blue Darlin'"
+| align="center"| flip
+| align="center"| —
+| align="center"| —
+|-
+| "[[Runaway (Del Shannon song)|Runaway]]"
+| align="center"| 30
+| align="center"| —
+| align="center"| —
+|-
+| "[[Just Keep It Up]]"
+| align="center"| 31
+| align="center"| —
+| align="center"| 25
+| ''Inside Love''
+|-
+| "One Run for the Roses"
+| align="center"| 26
+| align="center"| —
+| align="center"| 38
+| rowspan="2"| ''One Run for the Roses''
+|-
+| rowspan="4"| 1979
+| "[[Everlasting Love]]"
+| align="center"| 14
+| align="center"| —
+| align="center"| 7
+|-
+| "Moment by Moment"
+| align="center"| 43
+| align="center"| —
+| align="center"| 37
+| rowspan="22"| singles only
+|-
+| "[[Tower of Strength (Gene McDaniels song)|Tower of Strength]]"
+| align="center"| 33
+| align="center"| —
+| align="center"| 26
+|-
+| "Because of Losing You"
+| align="center"| 73
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="2"| 1981
+| "Louisiana Lonely"
+| align="center"| 67
+| align="center"| —
+| align="center"| —
+|-
+| "Fire in the Night"
+| align="center"| 84
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="5"| 1982
+| "I'd Love You to Want Me"
+| align="center"| 58
+| align="center"| —
+| align="center"| —
+|-
+| "Sweet Southern Moonlight"
+| align="center"| 84
+| align="center"| —
+| align="center"| —
+|-
+| "[[Roll Over Beethoven]]"
+| align="center"| 64
+| align="center"| —
+| align="center"| —
+|-
+| "[[Smoke Gets in Your Eyes]]"
+| align="center"| 84
+| align="center"| —
+| align="center"| —
+|-
+| "You're the Reason"
+| align="center"| 82
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="3"| 1983
+| "Cry Baby"
+| align="center"| 52
+| align="center"| —
+| align="center"| —
+|-
+| "Anytime You're Ready"
+| align="center"| 79
+| align="center"| —
+| align="center"| —
+|-
+| "Fool"
+| align="center"| 52
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="3"| 1984
+| "You Lay So Easy on My Mind"
+| align="center"| 70
+| align="center"| —
+| align="center"| —
+|-
+| "Let's Live This Dream Together"
+| align="center"| 53
+| align="center"| —
+| align="center"| —
+|-
+| "I'm Glad You Couldn't Sleep Last Night"
+| align="center"| 63
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="3"| 1985
+| "Hey Lady"
+| align="center"| 51
+| align="center"| —
+| align="center"| —
+|-
+| "If It Was Any Better (I Couldn't Stand It)"
+| align="center"| 68
+| align="center"| —
+| align="center"| —
+|-
+| "Out of Sight Out of Mind"
+| align="center"| 71
+| align="center"| —
+| align="center"| —
+|-
+| 1986
+| "Rockin' My Angel"
+| align="center"| 70
+| align="center"| —
+| align="center"| —
+|-
+| 1987
+| "[[When a Man Loves a Woman (song)|When a Man Loves a Woman]]"
+| align="center"| 60
+| align="center"| —
+| align="center"| —
+|-
+| 1988
+| "I Need Somebody Bad"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.rockabillyhall.com/NarvelFelts1.html Narvel Felts]
+* [http://www.mkoc.com/NarvelFelts/ Narvel Felts – The Man and His Music – The Official Site]
+
+{{Authority control}}
+
+{{Narvel Felts}}
+
+{{DEFAULTSORT:Felts, Narvel}}
+[[Category:1938 births]]
+[[Category:Living people]]
+[[Category:American country singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:People from Mississippi County, Arkansas]]
+[[Category:Groove Records artists]]
+[[Category:Singer-songwriters from Arkansas]]
+[[Category:People from Stoddard County, Missouri]]
+[[Category:Country musicians from Missouri]]
+[[Category:Country musicians from Arkansas]]
+[[Category:Singer-songwriters from Missouri]]

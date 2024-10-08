@@ -1,0 +1,211 @@
+{{Use mdy dates|date=May 2023}}
+{{Use Canadian English|date=May 2023}}
+{{Short description|Canadian country music duo}}
+{{mi|
+{{Citations broken|date=October 2022}}
+{{Update|updated=January 2015|reason='''no updates since the February 2014 EP ''The Hard Way'', 100% of the references are [[Template:Dead link|dead links]], no idea if this duo is still active'''|date=January 2023}}
+}}
+
+{{Infobox musical artist
+| name                = One More Girl
+| image               = One More Girl 2014 (2).jpg
+| caption             = One More Girl in 2014
+| alias               = Saving Grace
+| origin              = [[Maple Ridge, British Columbia]] Canada
+| genre               = [[Country music|Country]]
+| years_active        = 2008–2015
+| label               = [[EMI]] Music Canada, [[Interscope Records|Interscope]], [[Open Road Recordings]]
+| associated_acts     = [[Fera (band)|Fera]]
+| website             = {{url|onemoregirlmusic.com}}
+| current_members     = [[Britt McKillip]]<br />[[Carly McKillip]]
+}}
+
+'''One More Girl''' was a Canadian [[country music]] duo composed of actress-singers [[Carly McKillip|Carly]] and [[Britt McKillip]], who are sisters. The duo signed to [[EMI]] Canada in 2008 and released their debut album, ''[[Big Sky (One More Girl album)|Big Sky]]'', in 2009. In 2010, they won the Rising Star award at the [[Canadian Country Music Association]] Awards. In August 2011, the duo signed with American pop music label [[Interscope Records]].
+
+== History==
+In December 2008, One More Girl signed with [[EMI]] Music Canada and released their debut single, "I Can Love Anyone", to Canadian country radio shortly after.<ref>{{cite web|url=http://www.businessofcinema.com/news.php?newsid=11081|title=EMI Music Canada signs One More Girl|work=[[CMT Canada]]|date=December 10, 2008|access-date=August 20, 2011|archive-date=March 24, 2012|archive-url=https://web.archive.org/web/20120324233337/http://www.businessofcinema.com/news.php?newsid=11081|url-status=dead}}</ref> EMI released the duo's debut album, ''[[Big Sky (One More Girl album)|Big Sky]]'', on October 6, 2009. Another single for EMI, "Fall Like That", was released in early 2011 as the first single from the duo's second album.
+
+In August 2011, the duo signed with [[Interscope Records]], an American pop music label.<ref name=uslabel>{{cite web|url=https://vancouversun.com/entertainment/More+Girl+goes+step+farther/5265774/story.html|title=One More Girl goes one step farther|work=[[Vancouver Sun]]|date=August 17, 2011}}{{dead link|date=January 2023}}</ref>
+
+The duo released an extended play, ''The Hard Way'', in February 2014 via [[Open Road Recordings]].
+
+Both sisters are also actresses, with Carly known for her role in the series ''[[Alice, I Think (TV series)|Alice, I Think]]'', while Britt is known for co-starring in the US cable TV series ''[[Dead Like Me]]'' and also providing the voice of Princess Cadance for ''[[My Little Pony: Friendship is Magic]]''. By 2023, the group had already disbanded.
+
+== Discography ==
+[[File:One More Girl.JPG|thumb|One More Girl performing in 2012]]
+
+=== Albums ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:16em;"| Title
+! style="width:20em;"| Details
+|-
+! scope="row"| ''[[Big Sky (One More Girl album)|Big Sky]]''
+|
+* Release date: October 6, 2009
+* Label: [[EMI]] Music Canada
+|}
+
+=== Extended plays ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:16em;"| Title
+! style="width:20em;"| Details
+|-
+! scope="row"| ''One More Girl for Christmas''
+|
+* Release date: November 22, 2013
+* Label: One More Girl Music
+|-
+! scope="row"| ''The Hard Way''
+|
+* Release date: February 4, 2014
+* Label: [[Open Road Recordings]]
+|}
+
+=== Singles ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! colspan="2"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Canada Country|CAN Country]]<br /><ref>{{cite magazine|url=http://www.billboard.com/biz/search/charts?f%5B0%5D=ts_chart_artistname%3A%2AOne%20More%20Girl%2A&f%5B1%5D=itm_field_chart_id%3A1240&f%5B2%5D=ss_bb_type%3Achart_item&type=2&artist=One%20More%20Girl|title=One More Girl Album & Song Chart History – Canada Country|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|access-date=December 1, 2013}}{{dead link|date=January 2023}}</ref>
+! width="45"| [[Canadian Hot 100|CAN]]<br /><ref>{{cite magazine|url=http://www.billboard.com/biz/search/charts?f%5B0%5D=ts_chart_artistname%3A%2AOne%20More%20Girl%2A&f%5B1%5D=itm_field_chart_id%3A793&f%5B2%5D=ss_bb_type%3Achart_item&type=2&artist=One%20More%20Girl|title=One More Girl Album & Song Chart History – Billboard Canadian Hot 100|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|access-date=December 1, 2013}}{{dead link|date=January 2023}}</ref>
+|-
+| 2008
+! scope="row"| "I Can Love Anyone"
+| 18
+| —
+| align="center" rowspan="5"| ''Big Sky''
+|-
+| rowspan="3"| 2009
+! scope="row"| "Misery Loves Company"
+| 30
+| —
+|-
+! scope="row"| "When It Ain't Rainin'"
+| 7
+| 86
+|-
+! scope="row"| "Tumblin' Tears"
+| 10
+| —
+|-
+| 2010
+! scope="row"| "The Day I Fall"
+| 27
+| —
+|-
+| 2011
+! scope="row"| "Fall Like That"
+| 31
+| —
+| rowspan="3" {{n/a}}
+|-
+| 2012
+! scope="row"| "Maybe"
+| 18
+| —
+|-
+| rowspan="2"| 2013
+! scope="row"| "Run Run Run"
+| 36
+| —
+|-
+! scope="row"| "Love Like Mine"
+| 26
+| —
+| align="center" rowspan="2" | ''The Hard Way (EP)''
+|-
+| 2014
+! scope="row"| "Drunk Heart"
+| 38
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+=== Music videos ===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:20em;"| Video
+! Director
+|-
+| 2008
+! scope="row"| "I Can Love Anyone"
+| Kathi Prosser
+|-
+| rowspan="2"| 2009
+! scope="row"| "Misery Loves Company"
+| rowspan="6"| [[Margaret Malandruccolo]]
+|-
+! scope="row"| "When It Ain't Rainin'"
+|-
+| rowspan="2"| 2010
+! scope="row"| "Tumblin' Tears"
+|-
+! scope="row"| "The Day I Fall"
+|-
+| 2012
+! scope="row"| "Maybe"
+|-
+| rowspan="3"| 2013
+! scope="row"| "Run Run Run"
+|-
+! scope="row"| "Love Like Mine"
+| [[Wesley MacInnes|Wes Mack]]
+|-
+! scope="row"| "Home for Christmas" <small>(with [[George Canyon]],<br />[[Aaron Pritchett]] and [[Jordan McIntosh]])</small>
+| Stephen Lubig
+|-
+| 2014
+! scope="row"| "Drunk Heart"
+|
+|}
+
+== Awards and nominations ==
+=== Canadian Country Music Association Awards ===
+{| class="wikitable"
+|-
+! Year
+! Category
+! Result
+|-
+| rowspan="2"| 2010
+| Group or Duo of the Year
+| {{nom}}
+|-
+| Rising Star
+| {{won}}
+|-
+|}
+
+=== Other awards ===
+*2005-2007 B.C. Country Music Association "Group of the Year"- 3 Nominations<ref name=emica>{{Cite web |url=http://www.emimusic.ca/#!/artist/12593/ |title=One More Girl – EMIMusic.ca |access-date=May 16, 2011 |archive-date=February 8, 2011 |archive-url=https://web.archive.org/web/20110208163825/http://www.emimusic.ca/#!/artist/12593/ |url-status=dead }}</ref>
+*2009 B.C. Country Music Association "Horizon Award"<ref name=emica />
+*2010 Canadian Radio Music "Best New Country Artist"<ref name=emica />
+*2010 B.C. Country Music Association "Single of the Year", "Group or Duo", "Album of the Year", "Entertainer of the Year"<ref name=emica />
+
+== References ==
+{{reflist}}
+
+== External links ==
+*{{Official website}}
+*{{Discogs artist}}
+
+{{Authority control}}
+
+[[Category:Canadian country music groups]]
+[[Category:Canadian country music duos]]
+[[Category:Sibling musical duos]]
+[[Category:Interscope Records artists]]
+[[Category:Open Road Recordings artists]]
+[[Category:Canadian musical duos]]
+[[Category:Musical groups established in 2008]]
+[[Category:Musical groups disestablished in 2015]]
+[[Category:Canadian Country Music Association Rising Star Award winners]]
+[[Category:Female musical duos]]

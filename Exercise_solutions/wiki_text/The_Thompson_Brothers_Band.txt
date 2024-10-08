@@ -1,0 +1,99 @@
+{{Infobox musical artist | <!-- See Wikipedia:WikiProject Musicians -->
+| name            = The Thompson Brothers Band
+| image             =
+| caption        =
+| image_size        = 
+| background      = group_or_band
+| origin          = [[Norwell, Massachusetts]], United States
+| genre           = [[Country music|Country]]
+| years_active    = 1996–2000
+| label           = [[RCA Records Nashville|RCA Nashville]]
+| associated_acts = [[Foster & Lloyd]]
+| past_members    = Andy Thompson<br />Matt Thompson<br />Mike Whitty
+}}
+'''The Thompson Brothers Band''' was an American [[country music]] group formed in 1996. The band consisted of brothers Andy Thompson ([[lead vocals]]) and Matt Thompson ([[drum kit|drums]]) along with Mike Whitty ([[bass guitar]]). They recorded for [[RCA Records Nashville|RCA Nashville]] in the 1990s, releasing one album, an extended play, and two singles.
+
+==History==
+The Thompson Brothers were raised in [[Norwell, Massachusetts]].<ref name="whitburn"/> Andy Thompson told ''[[Country Standard Time]]'' that he gained an interest in country music after moving to an area of Massachusetts that had a country station. He, along with his brother Matt and bassist Mike Whitty, then formed a band which played at venues throughout [[New England]]. Many of the venues that they played had also hosted [[Jo Dee Messina]]. After moving to [[Nashville, Tennessee]], the band attended [[Belmont University]]. They attended a listening party held by [[RCA Records Nashville|RCA Nashville]] for [[Jon Randall]], where a friend put a demo tape of theirs in to test a [[public address]] system. After an RCA representative heard the tape, he helped them sign with the label. RCA released a six-song [[extended play]] titled ''Cows on Mainstreet'' in 1996. The album featured four studio tracks and two live recordings.<ref name="cst">{{cite web|url=http://www.countrystandardtime.com/d/article.asp?xid=802|title=Thompson Brothers overcome handicap|last=Loy|first=Robert|date=September 1996|work=Country Standard Time|accessdate=11 November 2012}}</ref>
+
+''Blame It on the Dog'', the band's first full album, followed in 1998.<ref>{{cite news|url=https://www.chicagotribune.com/1998/03/20/the-crazy-antics-of-the-thompson-brothers/|title=The Crazy Antics Of The Thompson Brothers|last=Hurst|first=Jack|date=March 20, 1998|work=[[The Chicago Tribune]]|access-date=11 November 2012}}</ref> RCA promoted the album to radio stations by shipping out a "cool disc" containing four songs from it.<ref>{{cite magazine|last=Price|first=Deborah Evans|date=December 20, 1997|title=RCA's Thompson Brothers Have Drive to Score at Radio|magazine=Billboard|volume=109|issue=51|pages=25, 27|url=https://books.google.com/books?id=4wkEAAAAMBAJ&dq=%22thompson+brothers+band%22&pg=PA25}}</ref> ''Blame It on the Dog'' produced the singles "Drive Me Crazy" and "Back on the Farm".<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|date=2008|page=419|isbn=978-0-89820-177-2}}</ref> The band produced the album with [[Bill Lloyd (country musician)|Bill Lloyd]] of [[Foster & Lloyd]]. It received a mostly-positive review from ''[[Billboard (magazine)|Billboard]]'', which praised the "bright, crisp production" and vocal harmonies.<ref>{{cite magazine|date=January 24, 1998|title=Reviews|magazine=Billboard|volume=110|issue=4|page=56|url=https://books.google.com/books?id=nA0EAAAAMBAJ&dq=%22thompson+brothers+band%22&pg=PA60-IA12}}</ref>
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:14em;"| Title
+! style="width:18em;"| Album details
+|- 
+! scope="row"| ''Cows on Mainstreet''
+| 
+* Release date: March 12, 1996
+* Label: [[RCA Records Nashville|RCA Nashville]]
+|-
+! scope="row"| ''Blame It on the Dog''
+| 
+* Release date: January 27, 1998
+* Label: RCA Records
+|-
+! scope="row"| ''The Late Late Late Show''
+| 
+* Release date: June 27, 2000
+* Label: self-released
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:12em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| 1997
+! scope="row"| "Drive Me Crazy"
+| 56
+| —
+| align="left" rowspan="2"| ''Blame It on the Dog''
+|-
+| 1998
+! scope="row"| "Back on the Farm"
+| 58
+| 39
+|-
+| 1999
+! scope="row"| "Hit Me Hard"
+| —
+| —
+| align="left"| ''The Late Late Late Show''
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:12em;"| Video
+! Director
+|-
+| 1998
+! scope="row"| "Back on the Farm"
+| David Hogan
+|}
+
+== References ==
+{{reflist}}
+
+==External links==
+*[{{Allmusic|class=artist|id=p173910|pure_url=yes}} allmusic ((( The Thompson Brothers Band > Overview )))]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Thompson Brothers Band, The}}
+[[Category:American country music groups]]
+[[Category:Musical trios from Massachusetts]]
+[[Category:RCA Records Nashville artists]]

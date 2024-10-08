@@ -1,0 +1,114 @@
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist
+| name            = Jill King
+| image           =
+| caption         =
+| image_size      =
+| birth_name      = Jill Christine King<ref name="allmusic">{{cite web |url={{AllMusic|class=artist|id=p554208|pure_url=yes}} |title=Jill King biography |accessdate=January 7, 2008 |last=Cohoon |first=Rick |work=[[Allmusic]]}}</ref>
+| birth_date      = {{birth date and age|1973|04|02}}
+| origin          = [[Arab, Alabama]], United States
+| instrument      = Vocals<br />acoustic guitar
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 2003–present
+| label           = Blue Diamond, Foundher
+| website         = {{URL|http://www.jillking.com}}
+}}
+'''Jill Christine King''' (born April 2, 1973, in [[Arab, Alabama]]<ref name="allmusic"/>) is an American [[country music]] artist. A graduate of [[Vanderbilt University]],<ref name="allmusic"/><ref>{{cite web|url=http://www.countrystarsonline.com/FanFairFeatures/JillKing.htm |title=Jill King |accessdate=January 7, 2008 |work=Country Stars Online |url-status=dead |archiveurl=https://web.archive.org/web/20061020153353/http://www.countrystarsonline.com/FanFairFeatures/JillKing.htm |archivedate=October 20, 2006 }}</ref> she spent several years in [[Nashville, Tennessee]], before being discovered at [[Tootsie's Orchid Lounge]], a popular venue for singer-songwriters in Nashville.<ref>{{cite web |url=http://www.countrystandardtime.com/d/article.asp?xid=541&t=Jill_King_another_singer_from_Tootsies_makes_good |title=Jill King, another singer from Tootsie's, makes good |accessdate=January 7, 2008 |last=Teverbaugh |first=Rick |work=Country Standard Time}}</ref>
+
+In 2003, she released her debut album, ''Jillbilly'', on the independent Blue Diamond label. The album's first and third singles both entered ''[[Billboard (magazine)|Billboard]]'' Hot Country Singles & Tracks (now [[Hot Country Songs]]) charts. Several of her singles have also charted on the independent ''Music Row'' music charts as well.<ref>{{cite web |url=http://magazine.angrycountry.com/article.php?story=20050119160844666 |title=Jill King jumps seven spots on Music Row charts and jumps back into the studio |accessdate=January 7, 2008 |date=January 1, 2005|work=Angry Country |archive-url=https://web.archive.org/web/20160303175530/http://magazine.angrycountry.com/article.php?story=20050119160844666 |archive-date=March 3, 2016 |url-status=dead }}</ref> Her 2008 single "[[Somebody New (Billy Ray Cyrus song)|Somebody New]]" is a cover of a song previously recorded by [[Billy Ray Cyrus]].
+
+King founded her own label, Foundher Records, in 2010. She released her third album, ''Rain on Fire'', that same year.
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:10em;"| Title
+! style="width:16em;"| Album details
+|-
+! scope="row"| ''Jillbilly''
+| 
+* Release date: March 18, 2003
+* Label: Blue Diamond
+|-
+! scope="row"| ''Somebody New''
+| 
+* Release date: June 3, 2008
+* Label: Blue Diamond
+|-
+! scope="row"| ''Rain On Fire''
+| 
+* Release date: April 6, 2010
+* Label: Foundher
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="60"| [[Hot Country Songs|US Country]]
+|-
+| rowspan="2"| 2003
+! scope="row"| "One Mississippi"
+| 60
+| align="left" rowspan="5"| ''Jillbilly''
+|-
+! scope="row"| "Hand Me Down Heartache"
+| —
+|-
+| rowspan="2"| 2004
+! scope="row"| "98.6 Degrees and Falling"
+| 56
+|-
+! scope="row"| "Three Months, Two Weeks, One Day"
+| —
+|-
+| 2005
+! scope="row"| "Makes Perfect Sense to Me"
+| —
+|-
+| 2008
+! scope="row"| "[[Somebody New (Billy Ray Cyrus song)|Somebody New]]"
+| —
+| align="left"| ''Somebody New''
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:20em;"| Video
+! Director
+|-
+| 2003
+! scope="row"| "One Mississippi"
+| Tom Bevins
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.jillking.com/ JillKing.com]
+
+{{Authority control}}
+
+{{DEFAULTSORT:King, Jill}}
+[[Category:1975 births]]
+[[Category:Living people]]
+[[Category:People from Arab, Alabama]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Vanderbilt University alumni]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:21st-century American women singers]]
+[[Category:Country musicians from Alabama]]
+[[Category:Singer-songwriters from Alabama]]

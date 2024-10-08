@@ -1,0 +1,195 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=August 2020}}
+{{Infobox musical artist
+| image        =
+| name         = Donna Ulisse
+| origin       = [[Hampton, Virginia]], U.S.<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2017|publisher=Record Research, Inc|year=2017|page=374|isbn=978-0-89820-229-8}}</ref>
+| genre        = [[Country music|Country]], [[Bluegrass music|bluegrass]]
+| occupation   = Singer-songwriter
+| years_active = 1991–present
+| label        = [[Atlantic Records|Atlantic]]<br>Hadley Music Group, [[Mountain Home Records|Mountain Home]]
+}}
+
+'''Donna Ulisse''' is an American [[country music]] and [[Bluegrass music|bluegrass]] singer-songwriter. Signed to [[Atlantic Records]] in 1991, she released her debut album, ''Trouble at the Door'', that year and two singles which charted on the ''Billboard'' [[Hot Country Songs|Hot Country Singles & Tracks]] chart. She appeared on national TV shows ''[[Hee Haw]]'', ''[[Nashville Now]]'', ''[[Crook & Chase]]'', and NBC's ''[[Hot Country Nights]]''.
+
+Ulisse's debut album ''Trouble at the Door'' charted the singles "Things Are Mostly Fine" and "When Was the Last Time".<ref name="whitburn"/> The former received a positive review in ''[[Cash Box]]'' magazine which stated that she "generates a soothing ballad quilted with a powerful force of emotion and inspiration".<ref>{{cite journal | url=https://worldradiohistory.com/Archive-All-Music/Cash-Box/90s/1990/CB-1990-12-08.pdf | title=Reviews | journal=Cash Box | pages=22 | date=December 8, 1990}}</ref>
+
+After leaving Atlantic Records in the early 1990’s, Ulisse took some time off and concentrated on song writing, however she did make some appearances. She returned in 2007, this time recording bluegrass music, with a new album ''When I Look Back'' on Hadley Music Group. Ulisse toured with her band The Poor Mountain Boys performing at festivals and concert venues. From 2007-2015, she released nine albums with Hadley Music Group. 
+
+She won the award for 2016 [[International Bluegrass Music Association]]’s Songwriter of the Year and in 2017 she won International Bluegrass Music Association's song of the Year with "I Am A Drifter", co-written with Marc Rossi. Ulisse landed SPBGMA's Songwriter of the Year in the same year. In 2017, she signed with Mountain Home Music Company, and released her eleventh album ''Breakin' Easy'', later that year, produced by [[Doyle Lawson]].
+
+In 2019, Ulisse signed with a new bluegrass label, Billy Blue Records, and released an album, ''Time For Love'', on November 1, 2019.
+
+Ulisse released her second album and her thirteenth album overall, ''Livin' Large'', for Billy Blue Records on February 25, 2022.
+
+Ulisse released her third album with Billy Blue Records, ''Mountain Lily'', on February 23, 2024.
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:14em;"| Title
+! style="width:18em;"| Album details
+|-
+! scope="row"| ''Trouble at the Door''
+| 
+* Release date: October 29, 1991
+* Label: [[Atlantic Records]]
+* Formats: CD, Cassette
+|-
+! scope="row"| ''When I Look Back''
+| 
+* Release date: July 27, 2007
+* Label: Hadley Music Group
+* Formats: CD
+|-
+! scope="row"| ''Walk This Mountain Down''
+| 
+* Release date: January 20, 2009
+* Label: Hadley Music Group
+* Formats: CD
+|-
+! scope="row"| ''Holy Waters''
+| 
+* Release date: April 20, 2010
+* Label: Hadley Music Group
+* Formats: CD
+|-
+! scope="row"| ''An Easy Climb''
+| 
+* Release date: June 14, 2011
+* Label: Hadley Music Group
+* Formats: CD
+|-
+! scope="row"| ''All The Way To Bethlehem''
+| 
+* Release date: October 23, 2012
+* Label: Hadley Music Group
+* Formats: CD
+|-
+! scope="row"| ''I Am A Child Of God: A Gospel Collection''
+| 
+* Release date: July 25, 2013
+* Label: Hadley Music Group
+* Formats: CD
+|-
+! scope="row"| ''Showin' My Roots''
+| 
+* Release date: October 15, 2013
+* Label: Hadley Music Group
+* Formats: CD, music download
+|-
+! scope="row"| ''The Songwriter in Me: The Demo Recordings''
+| 
+* Release date: March 24, 2015
+* Label: Hadley Music Group
+* Formats: CD, music download
+|-
+! scope="row"| ''Hard Cry Moon''
+| 
+* Release date: September 25, 2015
+* Label: Hadley Music Group
+* Formats: CD, music download
+|-
+! scope="row"| ''Breakin' Easy''
+| 
+* Release date: September 22, 2017
+* Label: Mountain Home Music Records 
+* Formats: CD, music download
+|-
+! scope="row"| ''Time For Love''
+| 
+* Release date: November 1, 2019
+* Label: Billy Blue Records 
+* Formats: CD, music download
+|-
+! scope="row"| ''Livin' Large''
+| 
+* Release date: February 25, 2022
+* Label: Billy Blue Records 
+* Formats: CD, music download
+|-
+! scope="row"| ''Mountain Lily''
+| 
+* Release date: February 23, 2024
+* Label: Billy Blue Records 
+* Formats: CD, music download
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="60"| [[Hot Country Songs|US Country]]
+|-
+| rowspan="2"| 1991
+! scope="row"| "Things Are Mostly Fine"
+| 75
+| align="left" rowspan="3"| ''Trouble at the Door''
+|-
+! scope="row"| "When Was the Last Time"
+| 66
+|-
+| 1992
+! scope="row"| "Trouble at the Door"
+| —
+|-
+| 2009
+! scope="row"| "The Trouble with You"
+| —
+| align="left"| ''Walk This Mountain Down''
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:14em;"| Video
+! Director
+|-
+| 1991
+! scope="row"| "Things Are Mostly Fine"
+| Richard Jernigan
+|-
+| 1992
+! scope="row"| "Trouble At The Door"
+| Thom Oliphant
+|-
+| 2020
+! scope="row"| "When I Go All Bluegrass On You"
+| 
+|-
+| 2021
+! scope="row"| "Livin' Large In A Little Town"
+| 
+|}
+
+==References==
+{{Reflist}}
+
+== External links ==
+* {{Official website|http://www.donnaulisse.com/}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ulisse, Donna}}
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Living people]]
+[[Category:Atlantic Records artists]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Musicians from Hampton, Virginia]]
+[[Category:Country musicians from Virginia]]
+[[Category:Singer-songwriters from Virginia]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:20th-century American women singers]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:21st-century American women singers]]

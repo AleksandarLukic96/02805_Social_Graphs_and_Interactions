@@ -1,0 +1,125 @@
+{{Infobox musical artist
+| name            = Johnnie & Jack
+| image           = Johnnie Wright, Kitty Wells, Jack Anglin.jpg
+| alt             =
+| caption         = Johnnie (left) and Jack (right) with [[Kitty Wells]] (center)
+| image_size      =
+| origin          = [[Tennessee]], United States
+| genre           = [[Country music|Country]]
+| years_active    = 1938–1963
+| label           = [[RCA Victor Records|RCA Victor]]
+| associated_acts = [[Ruby Wright (country singer)|Ruby Wells]]
+| past_members    = [[Jack Anglin]] <br>[[Johnnie Wright]]
+}}
+
+'''Johnnie & Jack''' were an American [[country music]] duo, composed of [[Johnnie Wright]] (1914–2011) and [[Jack Anglin]] (1916–1963).<ref name="LarkinGE">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Encyclopedia of Popular Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1992|edition=First|isbn=0-85112-939-0|page=1291}}</ref> The duo became members of the [[Grand Ole Opry]] in the 1940s.<ref>{{cite web
+| title = Opry Timeline - 1940s
+| url = http://www.opry.com/about/Timeline_1940.html
+| access-date = July 10, 2012
+| archive-url = https://web.archive.org/web/20170317065341/http://www.opry.com/about/Timeline_1940.html
+| archive-date = March 17, 2017
+| url-status = dead
+}}</ref>  Between 1951 and 1962, the duo released several [[single (music)|singles]] on the [[RCA Victor Records]] label, including their version of "[[Goodnite, Sweetheart, Goodnite]]" which peaked at No. 4 on the Best Seller charts,<ref>{{cite book |title= The Billboard Book Of Top 40 Country Hits: 1944-2006, Second edition|last=Whitburn |first=Joel |author-link=Joel Whitburn |year=2004 |publisher=Record Research |page=177}}</ref> and  the No. 1 "(Oh Baby Mine) I Get So Lonely".<ref name="LarkinGE"/>
+
+Following Anglin's death in a car accident in 1963,<ref name="LarkinGE"/> Wright became a solo artist, topping the country charts in 1965 with "[[Hello Vietnam]]".
+
+==Discography==
+===Albums===
+{| class="wikitable"
+! Year
+! Album
+! Label
+|-
+| 1957
+| ''The Tennessee Mountain Boys''
+| rowspan="2"| RCA Victor
+|-
+| 1959
+| ''Hits by Johnnie & Jack''
+|-
+| 1962
+| ''Smiles and Tears''
+| Decca
+|}
+
+===Singles===
+{| class="wikitable"
+|-
+!rowspan="2"|Year
+!rowspan="2"|Single
+!colspan="1"|Chart Positions
+|-
+!width="50"|<small>[[Hot Country Songs|US Country]]</small>
+|- 
+|rowspan=2|1951
+|"Poison Love"
+|align="center"|4
+|-
+|"Cryin' Heart Blues"
+|align="center"|5
+|-
+|1952
+|"Three Ways of Knowing"
+|align="center"|7
+|-
+|rowspan=5|1954
+|"[[(Oh Baby Mine) I Get So Lonely]]"
+|align="center"|1
+|-
+|"[[Goodnite, Sweetheart, Goodnite|Goodnight, Sweetheart, Goodnight]]"
+|align="center"|4
+|-
+|"Honey, I Need You"
+|align="center"|15
+|-
+|"Beware of 'It'"
+|align="center"|9
+|-
+|"Kiss-Crazy Baby"
+|align="center"|7
+|-
+|rowspan=2|1955
+|"No One Dear but You"
+|align="center"|14
+|-
+|"S.O.S."
+|align="center"|15
+|-
+|1956
+|"I Want to Be Loved" <small>(with Ruby Wells)</small>
+|align="center"|13
+|-
+|rowspan=2|1958
+|"[[Stop the World (And Let Me Off)]]"
+|align="center"|7
+|-
+|"Lonely Island Pearl"
+|align="center"|18
+|-
+|1959
+|"Sailor Man"
+|align="center"|16
+|-
+|1962
+|"Slow Poison"
+|align="center"|17
+|}
+
+==References==
+*{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc.|year=2008|pages=210–211|isbn=978-0-89820-177-2}}
+*[{{Allmusic|class=artist|id=p30207/biography|pure_url=yes}} Johnnie & Jack biography] at [[Allmusic]]
+
+==Notes==
+{{reflist}}
+
+{{Grand Ole Opry members}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Johnnie and Jack}}
+[[Category:American country music groups]]
+[[Category:American country music duos]]
+[[Category:Grand Ole Opry members]]
+[[Category:Musical groups established in 1938]]
+[[Category:Musical groups disestablished in 1963]]
+[[Category:RCA Victor artists]]

@@ -1,0 +1,129 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=September 2020}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Martin Delray
+| image               =
+| caption             = 
+| image_size          = 
+| background          = solo_singer
+| birth_name          = Michael Ray Martin<ref name="whitburn"/>
+| alias               = Mike Martin
+| birth_place                =
+| birth_date                = {{Birth date and age|1949|09|29}}<ref name="allmusic"/>
+| origin              = [[Texarkana, Arkansas]], U.S.
+| instrument          = Vocals, rhythm guitar
+| genre               = [[country music|Country]]
+| occupation          = Singer-songwriter
+| years_active        = 1985{{spaced ndash}}1992
+| label               = Compleat<br />[[Atlantic Records|Atlantic]]
+| website                 = 
+}}
+'''Michael Ray Martin''' (born September 29, 1949, in [[Texarkana, Arkansas]]) is an American [[country music]] artist, known professionally as '''Martin Delray'''. He worked as a songwriter in the 1980s, with his writing credits including "Old Fashioned Love" by [[The Kendalls]].<ref>{{cite web|url=http://legacy.decaturdaily.com/decaturdaily/livingtoday/060504/delray.shtml|title=A minute with Martin Delray|last=Thomas|first=Ronnie|date=May 4, 2006|work=The Decatur Daily|accessdate=March 26, 2010}}</ref> Delray's first single release was "Temptation" in 1985 on the Compleat label, credited to Mike Martin.<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=122|isbn=978-0-89820-177-2}}</ref>
+
+He recorded two albums on the [[Atlantic Records]] label: 1991's ''Get Rhythm'' and 1992's ''What Kind of Man''. In addition, he charted five singles on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Singles & Tracks]] charts. Delray's highest-charting single was a [[cover version]] of [[Johnny Cash]]'s "[[Get Rhythm]]," which Delray took to #27 on the country charts.<ref name="whitburn"/> Cash sang guest vocals on Delray's version and was featured in its music video.<ref name="allmusic">{{cite web |url={{AllMusic|class=artist|id=p1585|pure_url=yes}} |title=Martin Delray biography |accessdate=November 24, 2007 |last=Vinopal |first=David |work=[[Allmusic]]}}</ref>
+
+He also sang the National Anthem at WCW Fall Brawl 1994.
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:12em;"| Title
+! rowspan="2" style="width:20em;"| Album details
+! colspan="1"| Peak positions
+|- style="font-size:smaller;"
+! width="60"| [[Top Country Albums|US Country]]
+|-
+! scope="row"| ''[[Get Rhythm (Martin Delray album)|Get Rhythm]]''
+| 
+* Release date: January 16, 1991
+* Label: [[Atlantic Records]]
+| 57
+|-
+! scope="row"| ''What Kind of Man''
+| 
+* Release date: November 10, 1992
+* Label: Atlantic Records
+| —
+|-
+| colspan="3" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[RPM (magazine)|CAN Country]]
+|-
+| 1985
+! scope="row"| "Temptation" <small>(as Mike Martin)</small>
+| 76
+| —
+| align="left"| Single only
+|-
+| rowspan="2"| 1991
+! scope="row"| "[[Get Rhythm]]"
+| 27
+| 18
+| align="left" rowspan="3"| ''Get Rhythm''
+|-
+! scope="row"| "Lillie's White Lies"
+| 58
+| —
+|-
+| rowspan="2"| 1992
+! scope="row"| "Who, What, Where, When, Why, How"
+| 51
+| 70
+|-
+! scope="row"| "What Kind of Man"
+| 61
+| 72
+| align="left"| ''What Kind of Man''
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:19em;"| Title
+! Director
+|-
+| rowspan="2"| 1991
+! scope="row"| "Get Rhythm"
+|
+|-
+! scope="row"| "Lillie's White Lies"
+|
+|-
+| 1992
+! scope="row"| "Who, What, Where, When, Why, How"
+|
+|}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Delray, Martin}}
+[[Category:1949 births]]
+[[Category:American country singer-songwriters]]
+[[Category:Singer-songwriters from Arkansas]]
+[[Category:Living people]]
+[[Category:Atlantic Records artists]]
+[[Category:Country musicians from Arkansas]]
+
+
+{{US-country-singer-stub}}

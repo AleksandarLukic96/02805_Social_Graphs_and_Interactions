@@ -1,0 +1,91 @@
+{{short description|American singer-songwriter}}
+{{use mdy dates|date=September 2024}}
+{{Infobox musical artist
+| name            = Dylan Marlowe
+| image           =
+| caption         =
+| birth_name      = 
+| birth_date      = 
+| birth_place     = [[Statesboro, Georgia]], United States
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| instrument      = Vocals, guitar
+| years_active    = 2018–present
+| label           = [[Sony Music Nashville]]
+| associated_acts = 
+| website         = {{URL|https://www.dylanmarloweofficial.com/}}
+}}
+'''Dylan Marlowe''' is an American [[country music]] singer-songwriter from [[Statesboro, Georgia]] signed to [[Sony Music Nashville]].<ref name="Cantrell-2023" />
+
+==Background==
+Marlowe relocated to [[Nashville, Tennessee]] shortly before the start of the [[COVID-19 pandemic]] and signed a publishing and artist development deal with Play It Again Entertainment in 2020.<ref name="Cantrell-2023" /> Following several self-released songs, a growing social media presence, and scoring his first Number One hit as a songwriter with [[Jon Pardi]]'s "[[Last Night Lonely]]",<ref name="Mower-2024">{{Cite web |first=Maxim |last=Mower |date=January 10, 2024 |title=Exclusive: Dylan Marlowe on Authenticity, His Debut Album, 'Boys Back Home' and More |url=https://holler.country/news/breaking/exclusive-dylan-marlowe-on-authenticity-his-debut-album-boys-back-home-and-more/ |access-date=August 9, 2024 |website=Holler}}</ref> it was announced in January 2023, that Marlowe had signed a recording contract with [[Sony Music Nashville]].<ref name="Cantrell-2023">{{Cite web |last=Cantrell |first=LB |date=January 27, 2023 |title=Sony Music Nashville Signs Dylan Marlowe |url=https://musicrow.com/2023/01/sony-music-nashville-signs-dylan-marlowe/ |access-date=August 9, 2024 |website=Music Row}}</ref> His debut EP with the label, ''Dirt Road When I Die'', was released on July 7, 2023.<ref name="EP" /> Marlowe's debut single to country radio, "Boys Back Home" (a duet with [[Dylan Scott]]), was released on December 4, 2023.<ref name="Aircheck">{{Cite magazine |date=December 4, 2023 |title=Chart Chat |url=https://assets.countryaircheck.com/public/9a096aad-e54d-4456-8d6f260485724392/Issue-887-December-4-2023.pdf |magazine=Country Aircheck Weekly |issue=887 |accessdate=August 9, 2024}}</ref> Originally recorded in 2021, its release was delayed due to Scott's ''[[Livin' My Best Life]]'', and Marlowe had to later re-record his vocals when the label decided to issue it as his debut single instead of "Record High".<ref name="Mower-2024" /> Marlowe's debut studio album, ''Mid-Twenties Crisis'', will be released on September 27, 2024.<ref name="Hahnen-2024">{{Cite web |last=Hahnen |first=Madison |date=July 26, 2024 |title=Dylan Marlowe Will Explore Mid-Twenties Crisis On Debut Album |url=https://musicrow.com/2024/07/dylan-marlowe-will-explore-mid-twenties-crisis-on-debut-album/ |access-date=August 9, 2024 |website=Music Row}}</ref>
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;" 
+|+ List of EPs, with selected details, chart positions and sales
+! rowspan="1" style="width:12em;"| Title
+! rowspan="1" style="width:18em;"| Album details
+|- 
+! scope="row" |''Mid-Twenties Crisis''<ref name="Hahnen-2024" />
+|
+* Release date: September 27, 2024
+* Label: [[Sony Music Nashville]]
+* Format: CD, digital download
+|-
+|}
+
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;" 
+|+ List of EPs, with selected details, chart positions and sales
+! rowspan="1" style="width:12em;"| Title
+! rowspan="1" style="width:18em;"| Album details
+|- 
+! scope="row" |''Dirt Road When I Die''<ref name="EP">{{Cite web |date=January 5, 2024 |title=Dylan Marlowe — Dirt Road When I Die EP |url=https://music.apple.com/us/album/dirt-road-when-i-die-ep/1689639516 |access-date=July 11, 2024 |website=[[Apple Music]]}}</ref>
+|
+* Release date: July 7, 2023
+* Label: Sony Music Nashville
+* Format: Digital download
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of singles, with selected chart positions
+! scope="col" rowspan="2"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="2"| Peak chart positions
+! scope="col" rowspan="2"| Album
+|- style="font-size:smaller;"
+! scope="col" width="45"| [[Hot Country Songs|US Country Songs]]<br /><ref>{{Cite magazine |title=Dylan Scott Chart History: Country Songs |url=http://www.billboard.com/artist/dylan-scott/chart-history/csi |access-date=July 9, 2024 |magazine=Billboard}}</ref>
+! scope="col" width="45"| [[Country Airplay|US Country Airplay]]<br /><ref>{{Cite magazine |date=September 20, 2024 |title=Billboard Country Update |url=https://bulletins.billboard.com/country/country_update_2024_0920.pdf |access-date=September 21, 2024 |magazine=[[Billboard (magazine)|Billboard]]}}</ref>
+|-
+! scope="row" | "[[Boys Back Home]]"<br />{{small|(with [[Dylan Scott]])}}
+| 2023
+| 36
+| 25
+| ''Mid-Twenties Crisis''
+|}
+
+=== Music videos ===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:14em;"| Video
+! Director
+|-
+| 2024
+! scope="row"| "Boys Back Home"<ref>{{Cite web |last=O’Connell |first=Madeleine |date=February 1, 2024 |title=Dylan Marlowe And Dylan Scott Light Up Middle Tennessee In Fun-Filled 'Boys Back Home' Music Video |url=https://countrynow.com/dylan-marlowe-and-dylan-scott-light-up-middle-tennessee-in-fun-filled-boys-back-home-music-video/ |access-date=August 9, 2024 |website=Country Now}}</ref><br />{{small|(with Dylan Scott)}}
+| Tristan Cusick
+|-
+|}
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Marlowe, Dylan}}
+[[Category:Living people]]
+[[Category:American country singer-songwriters]]
+[[Category:Year of birth missing (living people)]]

@@ -1,0 +1,435 @@
+{{short description|2000 film by Ethan and Joel Coen}}
+{{About|the film}}
+{{Use mdy dates|date=November 2013}}
+{{Infobox film
+| name           = O Brother, Where Art Thou?
+| image          = O brother where art thou ver1.jpg
+| caption        = Theatrical release poster
+| director       = [[Coen brothers|Joel Coen]]
+| writer         = {{ubl|Joel Coen|[[Coen brothers|Ethan Coen]]}}
+| based_on       = {{based on|The ''[[Odyssey]]''|[[Homer]]}}
+| producer       = Ethan Coen
+| starring       = {{Plainlist|
+* [[George Clooney]]
+* [[John Turturro]]
+* [[Tim Blake Nelson]]
+* [[Charles Durning]]
+* [[Michael Badalucco]]
+* [[John Goodman]]
+* [[Holly Hunter]]
+}}
+| cinematography = [[Roger Deakins]]
+| editing        = {{ubl|[[Roderick Jaynes]]{{efn|Roderick Jaynes is the shared pseudonym used by the Coen brothers for their editing.}}|[[Tricia Cooke]]}}
+| music          = [[T Bone Burnett]]
+| studio         = {{ubl|[[Touchstone Pictures]]<ref name=Numbers>{{cite web |title=O Brother, Where Art Thou? (2000) |url=https://www.the-numbers.com/movie/O-Brother-Where-Art-Thou#tab=summary |website=www.the-numbers.com |publisher=The Numbers |access-date=October 19, 2018 |archive-date=October 19, 2018 |archive-url=https://web.archive.org/web/20181019121930/https://www.the-numbers.com/movie/O-Brother-Where-Art-Thou#tab=summary |url-status=live }}</ref><ref>Released on Disney+ under the 20th Century Studios hub on their Hulu catalog.</ref><!--DO NOT CHANGE.-->|[[Universal Pictures]]<ref name=Numbers/>|[[StudioCanal]]<ref name=Numbers/>|[[Working Title Films]]<ref name=afi>{{cite web| url=http://www.afi.com/members/catalog/DetailView.aspx?s=&Movie=61787| title=O Brother, Where Art Thou?| website=[[American Film Institute]]| access-date=January 24, 2018| archive-url=https://web.archive.org/web/20141220103839/http://www.afi.com/members/catalog/DetailView.aspx?s=&Movie=61787|archive-date=December 20, 2014}}</ref>|Blind Bard Pictures<ref name="bfi">{{cite news |title=O Brother, Where Art Thou? (2000) |url=http://www.bfi.org.uk/films-tv-people/4ce2b82f74317 |access-date=October 17, 2018 |work=British Film Institute |publisher=www.bfi.org |archive-date=October 25, 2018 |archive-url=https://web.archive.org/web/20181025061513/http://www.bfi.org.uk/films-tv-people/4ce2b82f74317 |url-status=dead }}</ref>}}
+| distributor    = {{ubl|[[Walt Disney Studios Motion Pictures|Buena Vista Pictures Distribution]]<ref name=afi/> (North America){{efn|Co-distributed with Universal Pictures in Germany and Italy<ref name="lum" /> and [[Warner Sogefilms]] in Spain.<ref name="lum" />}}|[[Momentum Pictures]] (United Kingdom)<ref>{{cite web|title=Momentum confirms Brother, Rocky acquisitions|website=[[Screen International]]|first=Adam|last=Minns|date=10 May 2000|access-date=8 October 2021|url=https://www.screendaily.com/momentum-confirms-brother-rocky-acquisitions/402308.article|archive-date=May 29, 2022|archive-url=https://web.archive.org/web/20220529090525/https://www.screendaily.com/momentum-confirms-brother-rocky-acquisitions/402308.article|url-status=live}}</ref><ref>{{cite web|title=O Brother, Where Art Thou?|work=[[BBFC]]|access-date=29 May 2021|url=https://www.bbfc.co.uk/release/o-brother-where-art-thou-q29sbgvjdglvbjpwwc0zmtk5njc|archive-date=June 2, 2021|archive-url=https://web.archive.org/web/20210602213928/https://www.bbfc.co.uk/release/o-brother-where-art-thou-q29sbgvjdglvbjpwwc0zmtk5njc|url-status=live}}</ref>{{efn|Co-distributed with Universal Pictures.<ref name="lum" />}}|[[BAC Films]] (France)<ref name="lum">{{cite web|title=Film #15267: O Brother, Where Art Thou?|work=[[Lumiere (website)|Lumiere]]|access-date=29 May 2021|url=http://lumiere.obs.coe.int/web/film_info/?id=15267|archive-date=June 2, 2021|archive-url=https://web.archive.org/web/20210602213013/http://lumiere.obs.coe.int/web/film_info/?id=15267|url-status=live}}</ref>{{efn|Co-distributed with Buena Vista Pictures Distribution.<ref name="gross" />}}|Universal Pictures (through [[United International Pictures]]; International)}}
+| released       = {{Film date|2000|05|13|Cannes|ref1=<ref name="festival-cannes.com" />|2000|9|15|United Kingdom|2000|12|22|United States}}
+| runtime        = 107 minutes
+| country        = {{Plainlist|
+* United Kingdom<ref name=afi />
+* United States<ref name=afi />
+* France<ref name=afi />
+}}
+| language       = English
+| budget         = $26 million<ref name="the numbers">{{cite web| url=http://www.the-numbers.com/movies/2000/BTHOU.php| title=Box Office Data:O Brother Where Art Thou| website=The Numbers.com| access-date=August 30, 2009| archive-date=January 4, 2012| archive-url=https://web.archive.org/web/20120104164352/http://www.the-numbers.com/movies/2000/BTHOU.php| url-status=live}}</ref>
+| gross          = $71.9 million<ref name="gross">{{cite web| title=O Brother, Where Art Thou? (2000)| website=[[Box Office Mojo]]| url=http://www.boxofficemojo.com/movies/?id=obrotherwhereartthou.htm| access-date=January 8, 2008| archive-date=November 16, 2018| archive-url=https://web.archive.org/web/20181116022010/https://www.boxofficemojo.com/movies/?id=obrotherwhereartthou.htm| url-status=live}}</ref>
+}}
+'''''O Brother, Where Art Thou?''''' is a 2000 [[satirical]] [[comedy-drama]] [[Musical film|musical]] film written, produced, co-edited, and directed by [[Coen brothers|Joel and Ethan Coen]]. It stars [[George Clooney]], [[John Turturro]], and [[Tim Blake Nelson]], with [[Chris Thomas King]], [[John Goodman]], [[Holly Hunter]], and [[Charles Durning]] in supporting roles.
+
+The film is set in rural [[Mississippi]] in 1937, and it follows three escaped convicts searching for hidden treasure while a sheriff relentlessly pursues them. Its story is a modern [[satire]] which, while incorporating social features of the [[Southern United States|American South]], is loosely based on [[Homer]]'s epic [[Ancient Greece|Greek]] poem ''[[Odyssey|The Odyssey]]''.<ref>{{cite book| title=A companion to the literature and culture of the American south| url=https://books.google.com/books?id=sjc-tYYLXM0C&q=oh+brother+where+art+thou| publisher=John Wiley & Sons| date=April 15, 2008| isbn=978-0470756690| first1=Richard J.| last1=Gray| first2=Owen| last2=Robinson| url-access=subscription| access-date=November 18, 2020| archive-date=March 15, 2023| archive-url=https://web.archive.org/web/20230315194400/https://books.google.com/books?id=sjc-tYYLXM0C&q=oh+brother+where+art+thou| url-status=live}}</ref> Some examples of this include [[Siren (mythology)|Sirens]], a [[Cyclopes|Cyclops]], and the main character's name, "Ulysses", which is the Roman name for "[[Odysseus]]".<ref>{{Cite web |last=Garner |first=Bianca |date=2018-05-25 |title=O' Brother, Where Art Thou? A Coen Brothers Odyssey |url=https://filmotomy.com/o-brother-where-art-thou-a-coen-brothers-odyssey/ |access-date=2022-12-02 |website=Filmotomy |language=en-GB |archive-date=December 2, 2022 |archive-url=https://web.archive.org/web/20221202185925/https://filmotomy.com/o-brother-where-art-thou-a-coen-brothers-odyssey/ |url-status=live }}</ref> The title of the film is a reference to the 1941 [[Preston Sturges]] film ''[[Sullivan's Travels]]'', in which the protagonist is a director who wants to film ''O Brother, Where Art Thou?'', a fictitious book about the [[Great Depression]].<ref name="FAQ" />
+
+Much of the music used in the film is period [[American folk music|folk music]].<ref name="Score">{{cite web| last=Menaker| first=Daniel| title=A Film Score Odyssey Down a Quirky Country Road| newspaper=The New York Times| date=November 30, 2000| url=https://www.nytimes.com/2000/11/30/movies/arts-in-america-a-film-score-odyssey-down-a-quirky-country-road.html| access-date=February 4, 2010| archive-date=November 14, 2013| archive-url=https://web.archive.org/web/20131114142848/http://www.nytimes.com/2000/11/30/movies/arts-in-america-a-film-score-odyssey-down-a-quirky-country-road.html| url-status=live}}</ref> The movie was one of the first to extensively use digital [[color correction]] to give the film an autumnal [[Sepia tone|sepia-tinted]] look.<ref name="CGS"/> It was released by [[Walt Disney Studios Motion Pictures|Buena Vista Pictures]] in North America, while [[Universal Pictures]], through [[United International Pictures]], released it in other countries. The film was met with a positive critical reception, and the soundtrack won a [[Grammy Award for Album of the Year]] in 2002.<ref name="Grammy01">{{cite news| title=The 2002 Grammy Winners| newspaper=[[San Francisco Chronicle]]| date=February 28, 2002| url=https://www.sfgate.com/news/article/The-2002-Grammy-winners-2868670.php| access-date=September 9, 2018| archive-date=August 1, 2020| archive-url=https://web.archive.org/web/20200801024649/https://www.sfgate.com/news/article/The-2002-Grammy-winners-2868670.php| url-status=live}}</ref> The country and folk musicians who were [[Dubbing (filmmaking)|dubbed]] into the film include [[John Hartford]], [[Alison Krauss]], [[Dan Tyminski]], [[Emmylou Harris]], [[Gillian Welch]], [[Ralph Stanley]], [[Chris Sharp]], and [[Patty Loveless]]. They joined to perform the music from the film on the ''[[Down from the Mountain]]'' concert tour. One of the performances was filmed and released as a documentary.<ref name="Score" /><ref name="NPR1">{{cite episode| series=[[Fresh Air]]| network=[[NPR]]| title=Pioneering Bluegrass Musician Ralph Stanley| air-date=December 27, 1992| url=https://www.npr.org/templates/story/story.php?storyId=892951| access-date=September 9, 2018| archive-date=November 16, 2018| archive-url=https://web.archive.org/web/20181116060228/https://www.npr.org/templates/story/story.php?storyId=892951| url-status=live}}</ref>
+
+==Plot==
+<!-- The manual of style ([[MOS:FILMPLOT]]) - and the how-to-guide ([[MOS:PLOTLENGTH]]) recommend that editors try to keep the plot within 700 words. This is not a policy or rule - merely a guideline - but please keep it in mind when making significant changes. -->
+Three convicts, Pete, Delmar and leader Ulysses Everett McGill, escape from a [[chain gang]] to retrieve a buried treasure before the area is flooded to make a lake. The three get a lift from a blind man driving a [[handcar]] on a railway. He tells them they will find a fortune, but not the one they seek. The trio makes their way to Pete's cousin Wash's house. They sleep in the barn, but Wash reports them to Sheriff Cooley, who, along with his men, torches the barn. Wash's son helps them escape.
+
+After ditching the young boy, the group, now stranded in the woods comes across a group of churchgoers receiving baptism. Delmar enthusiastically gets baptized along with Pete, but skeptical Everett declines the invitation. As the three continue their travels, they pick up Tommy Johnson, a young black man who claims he [[Deal with the Devil|sold his soul to the devil]] in exchange for the ability to play guitar. In need of money, the four stop at a radio station where they record a song as the Soggy Bottom Boys. That night, the trio part ways with Tommy after the police discover their car, and they briefly fall in with outlaw [[Baby Face Nelson]]. Unbeknownst to them, the recording as the Soggy Bottom Boys becomes a major hit.
+
+Near a river, the group hears singing. They see three women washing clothes and singing. The women give them [[corn whiskey]] and they lose consciousness. Upon waking, Delmar finds Pete's clothes across from him, empty except for a toad. Delmar is convinced the women were [[Siren (mythology)|Sirens]] and transformed Pete into the toad. Later, one-eyed Bible salesman Big Dan invites them for a picnic lunch then mugs them and kills the toad.
+
+On their way to Everett's hometown, Everett and Delmar see Pete working on a chain gang. Upon arriving Everett confronts his wife Penny, who changed her last name and told his daughters he was dead. He gets into a fight with Vernon, her new "suitor". Later that night, they sneak into Pete's holding cell and free him. As it turns out, the women had dragged Pete away and turned him in to the authorities. Under torture, Pete gave away the treasure's location to the police. Everett then confesses that there is no treasure. He made it up to persuade the men he was chained with to escape with him to stop his wife from getting remarried. Pete is enraged at Everett, because he had two weeks left on his original sentence, and will likely face fifty more years for the escape.
+
+The trio stumble upon a [[Ku Klux Klan]] rally, where Tommy is to be lynched. The trio disguise themselves as Klansmen and move to rescue Tommy. However, Big Dan, a Klan member, reveals their identities. Chaos ensues, and the [[Grand Wizard]] reveals himself as Homer Stokes, a candidate in the upcoming gubernatorial election. The trio rush Tommy away and cut the supports of a large burning cross, immolating Big Dan.
+
+Everett persuades Pete, Delmar and Tommy to help him win back his wife. They sneak into a Stokes campaign gala dinner she is attending, disguised as musicians. The group begins a performance of their radio hit. The crowd knows the now popular song and goes wild. Homer recognizes them as the group who humiliated his mob. When he demands the group be arrested and reveals his white supremacist views, the crowd [[Riding a rail|runs him out of town on a rail]]. Pappy O'Daniel, the incumbent candidate, seizes the opportunity, endorses the Soggy Bottom Boys and grants them full pardons. Penny agrees to remarry Everett on the condition that he find her original ring.
+
+The next morning, the group sets out to retrieve the ring, which is at a cabin in the valley that Everett had earlier claimed was the location of his treasure. The police, having learned of the place from Pete, arrest the group. Dismissing their claims of having received pardons, Sheriff Cooley orders them hanged. As Everett prays to God, the valley is flooded{{efn|The flood is the result of reservoir construction by the [[Tennessee Valley Authority]].}} and they are saved. Tommy finds the ring in a desk that floats by, and they return to town. However, when Everett presents the ring to Penny, it turns out it was her aunt's ring. She declares that she will not marry him with that ring, but only her wedding ring, which is still lost.
+
+==Cast==
+* [[George Clooney]] as Ulysses Everett McGill. He corresponds to [[Odysseus]] (Ulysses) in the ''Odyssey''.<ref name="classica">{{citation| title=Something old, something new, something borrowed: the Odyssey and O Brother, Where Art Thou| first=Pernille| last=Flensted-Jensen| journal=[[Classica et Mediaevalia|Classica Et Mediaevalia: Revue Danoise De Philologie]]| volume=53| year=2002| pages=13–30| url=https://books.google.com/books?id=_otjS0BC2dMC&pg=PA13| isbn=978-8772898537| access-date=January 13, 2016| archive-date=March 15, 2023| archive-url=https://web.archive.org/web/20230315194401/https://books.google.com/books?id=_otjS0BC2dMC&pg=PA13| url-status=live}}</ref> His singing voice is dubbed by [[Dan Tyminski]].
+* [[John Turturro]] as Pete. (He is never called by a last name in the film. However, when Pete is lamenting his betrayal of his friends, he invokes his cousin's earlier betrayal, saying "it must be my Hogwallop blood.") Along with Delmar, Pete represents Odysseus' soldiers who wander with him from Troy to Ithaca, seeking to return home. His singing is dubbed by [[Harley Allen]].
+* [[Tim Blake Nelson]] as Delmar O'Donnell. Nelson does his own singing on "[[In the Jailhouse Now]]", but otherwise his singing is dubbed by [[Nashville Bluegrass Band|Pat Enright]].
+* [[Chris Thomas King]] as Tommy Johnson, a skilled blues musician. He shares his name and story with [[Tommy Johnson (musician)|Tommy Johnson]], a blues musician who is said to have sold his soul to the devil at the Crossroads (also attributed to [[Robert Johnson (musician)|Robert Johnson]]).<ref>{{cite web| url=http://erinharpe.com/blog/blog/the-real-king-of-delta-blues-tommy-johnson| website=Erinharpe.com| title=The real king of delta blues - Tommy Johnson| access-date=24 August 2016| archive-date=September 11, 2016| archive-url=https://web.archive.org/web/20160911201404/http://erinharpe.com/blog/blog/the-real-king-of-delta-blues-tommy-johnson| url-status=live}}</ref><ref>{{cite web| url=http://xroads.virginia.edu/~ma05/cline/obrother/free6/obrother6.htm| publisher=University of Virginia| title=Blues Singers| access-date=24 August 2016| archive-date=November 1, 2009| archive-url=https://web.archive.org/web/20091101064830/http://xroads.virginia.edu/~MA05/cline/obrother/free6/obrother6.htm| url-status=dead}}</ref>
+* [[John Goodman]] as Daniel "Big Dan" Teague, a one-eyed mugger and Ku Klux Klan member who masquerades as a Bible salesman. He corresponds to the cyclops [[Polyphemus]] in the ''Odyssey''.<ref name="classica"/>
+* [[Holly Hunter]] as Penny Wharvey-McGill, Everett's ex-wife. She corresponds to [[Penelope]] in the ''Odyssey''.<ref name="classica"/>
+* [[Charles Durning]] as Menelaus "Pappy" O'Daniel, the governor of Mississippi. The character is based on Texas governor [[W. Lee O'Daniel|W. Lee "Pappy" O'Daniel]].<ref>{{citation |url=http://blog.chron.com/txpotomac/2010/08/today-in-texas-history-gov-pappy-odaniel-resigns/ |title=Today in Texas History: Gov. Pappy O'Daniel resigns |access-date=August 2, 2011 |date=August 4, 2010 |last=Sorin |first=Hillary |work=[[The Houston Chronicle]] |quote=Many cultural and political historians think the character Gov. Menelaus "Pappy" O'Daniel of Mississippi is based on the notorious Texas politician, Wilbert Lee "Pappy" O'Daniel. |archive-date=October 12, 2012 |archive-url=https://web.archive.org/web/20121012012700/http://blog.chron.com/txpotomac/2010/08/today-in-texas-history-gov-pappy-odaniel-resigns/ |url-status=live }}</ref> He shares a name with [[Menelaus]], an ''Odyssey'' character, but corresponds with [[Zeus]] from the narrative.<ref name="classica"/>
+* [[Daniel von Bargen]] as Sheriff Cooley, a ruthless rural sheriff who pursues the trio for the duration of the film. He corresponds to both [[Poseidon]] in the ''Odyssey'' and also possibly [[Devil in Christianity|the devil]].<ref name="classica"/> He has been compared to Boss Godfrey in ''[[Cool Hand Luke]]''.<ref>{{cite book| last=Conard| first=Mark T.| title=The Philosophy of the Coen Brothers| url=https://books.google.com/books?id=r4tG17_O8VkC&q=godfrey| page=58| date=March 1, 2009| publisher=University of Kentucky Press| isbn=978-0813138695| access-date=November 18, 2020| archive-date=March 15, 2023| archive-url=https://web.archive.org/web/20230315194402/https://books.google.com/books?id=r4tG17_O8VkC&q=godfrey| url-status=live}}</ref>
+* [[Wayne Duvall]] as Homer Stokes, a candidate for governor and the leader of a Ku Klux Klan chapter. His singing is dubbed by [[Ralph Stanley]].
+* [[Ray McKinnon (actor)|Ray McKinnon]] as Vernon T. Waldrip. He corresponds to the [[Suitors of Penelope]] in the ''Odyssey''.<ref name="classica"/>
+* [[Frank Collison]] as Washington Bartholomew "Wash" Hogwallop, Pete's cousin.
+* [[Michael Badalucco]] as [[Baby Face Nelson]].
+* [[Stephen Root]] as Mr. Lund, a blind radio station manager. He corresponds to [[Homer]].<ref name="classica"/>
+* [[Lee Weaver]] as the Blind Seer, who accurately predicts the outcome of the trio's adventure. He corresponds to [[Tiresias]] in the ''Odyssey''.<ref name="classica"/>
+* Mia Tate, [[Musetta Vander]], and Christy Taylor as the three "sirens". Their singing voices are dubbed by [[Emmylou Harris]], [[Alison Krauss]], and [[Gillian Welch]].
+
+Gillian Welch and Dan Tyminski also appear as a record store customer and a mandolinist respectively. Del Pentacost, JR Horne, and Brian Reddy appear as members of Pappy O’Daniel's staff. [[Ed Gale]] appears as Homer Stokes' ceremonial "little man". Three members of [[the Fairfield Four]] (Isaac Freeman, Wilson Waters Jr, and Robert Hamlett) cameo as gravediggers. [[The Cox Family]] and [[The Whites]] appear as fictionalized versions of themselves.
+
+==Production==
+The idea of ''O Brother, Where Art Thou?'' arose spontaneously. Work on the script began in December 1997, long before the start of production, and it was at least half-written by May 1998. Despite the fact that Ethan Coen described the ''Odyssey'' as "one of my favorite storyline schemes", neither of the brothers had read the epic, and they were only familiar with its content through adaptations and numerous references to the ''Odyssey'' in popular culture.<ref name="Logic Soft Drugs">{{cite book |last1=Ciment |first1=Michel |chapter-url=https://books.google.com/books?id=q5h91ZZemK0C&q=The+Logic+of+Soft+Drugs&pg=PA100 |title=The Coen Brothers: Interviews |last2=Niogret |first2=Hubert |publisher=University Press of Mississippi |year=2006 |isbn=978-1578068890 |chapter=The Logic of Soft Drugs |author1-link=Michel Ciment |access-date=November 18, 2020 |archive-url=https://web.archive.org/web/20230315194427/https://books.google.com/books?id=q5h91ZZemK0C&q=The+Logic+of+Soft+Drugs&pg=PA100 |archive-date=March 15, 2023 |url-status=live}}</ref> According to the brothers, Tim Blake Nelson (who has a degree in classics from [[Brown University]])<ref>{{Cite web |title=Tim Blake Nelson biography |url=http://movies.yahoo.com/movie/contributor/1800302265/bio |url-status=dead |archive-url=https://web.archive.org/web/20110628213139/http://movies.yahoo.com/movie/contributor/1800302265/bio |archive-date=2011-06-28 |website=[[Yahoo! Movies]]}}</ref><ref>{{cite journal| first=Kari| last=Molvar| url=http://brownalumnimagazine.com/storydetail.cfm?ID=61| title=Q&A: Tim Blake Nelson| access-date=December 26, 2001 |url-status=dead| archive-url=https://web.archive.org/web/20011226063441/http://brownalumnimagazine.com/storydetail.cfm?ID=61| archive-date=December 26, 2001| journal=Brown Alumni Magazine| date=March–April 2001}}</ref> was the only person on the set who had read the ''Odyssey''.<ref name="guardian">{{cite web| url=https://www.theguardian.com/film/2000/may/19/culture.features| title=Double Vision| newspaper=[[The Guardian]]| location=[[London]]| date=May 19, 2000| access-date=September 9, 2018| last=Romney| first=Jonathan| archive-date=August 30, 2018| archive-url=https://web.archive.org/web/20180830110323/https://www.theguardian.com/film/2000/may/19/culture.features| url-status=live}}</ref>
+
+The title of the film is a reference to the 1941 [[Preston Sturges]] film ''[[Sullivan's Travels]]'', in which the protagonist (a director) wants to direct a film about the [[Great Depression]] called ''O Brother, Where Art Thou?''<ref name="FAQ" /> that will be a "commentary on modern conditions, stark realism, and the problems that confront the average man". Lacking any experience in this area, the director sets out on a journey to experience the human suffering of the average man but is sabotaged by his anxious studio. The film has some similarity in tone to Sturges's film, including scenes with prison gangs and a black church choir. The prisoners at the picture show scene is also a direct homage to a nearly identical scene in Sturges's film.<ref>{{cite web| url=http://www.filmsite.org/sull.html| title=Sullivan's Travels (1941)| website=AMC Filmsite| last=Dirks| first=Tim| access-date=November 8, 2007| archive-date=October 26, 2007| archive-url=https://web.archive.org/web/20071026092325/http://www.filmsite.org/sull.html| url-status=live}}</ref>
+
+Joel Coen revealed in a 2000 interview that he traveled to [[Phoenix, Arizona|Phoenix]] to offer the lead role to Clooney. Clooney agreed to do the role immediately, without reading the script. He stated that he liked even the Coens' least successful films.<ref>{{cite web| url=https://www.latimes.com/archives/la-xpm-2000-dec-22-ca-3289-story.html| title=George Clooney: O Brother, Where Art Thou?| newspaper=[[Los Angeles Times]]| access-date=October 8, 2013| last=Hochman| first=Steve| date=December 22, 2000| archive-date=December 29, 2013| archive-url=https://web.archive.org/web/20131229015816/http://articles.latimes.com/2000/dec/22/entertainment/ca-3289| url-status=live}}</ref> Clooney did not immediately understand his character and sent the script to his uncle Jack, who lived in Kentucky, asking him to read the entire script into a tape recorder.<ref name=UncleJack>{{cite journal| last1=Sharf| first1=Zach| title=The Coen Brothers and George Clooney Uncover the Magic of 'O Brother, Where Art Thou?' at 15th Anniversary Reunion| url=http://www.indiewire.com/article/the-coen-brothers-and-george-clooney-uncover-the-magic-of-o-brother-where-art-thou-at-15th-anniversary-reunion-20150930| journal=[[IndieWire]]| date=September 30, 2015| access-date=19 November 2015| archive-date=November 4, 2015| archive-url=https://web.archive.org/web/20151104112420/http://www.indiewire.com/article/the-coen-brothers-and-george-clooney-uncover-the-magic-of-o-brother-where-art-thou-at-15th-anniversary-reunion-20150930| url-status=live}}</ref> Unknown to Clooney, in his recording, Jack, a devout [[Baptists|Baptist]], omitted all instances of the words "damn" and "hell" from the Coens' script, which only became known to Clooney after the directors pointed this out to him during shooting.<ref name=UncleJack/>
+
+This was the fourth film of the brothers in which [[John Turturro]] has starred. Other actors in ''O Brother, Where Art Thou?'' who had worked previously with the Coens include [[John Goodman]] (three films), [[Holly Hunter]] (two), [[Charles Durning]] (two) and [[Michael Badalucco]] (one).
+
+The Coens used digital [[color grading|color correction]] to give the film a [[Sepia (color)|sepia]]-tinted look.<ref name="CGS">{{cite journal| last=Robertson| first=Barbara| title=CGSociety — The Colorists| journal=The Colorists| date=May 1, 2006| url=http://features.cgsociety.org/story_custom.php?story_id=3549| access-date=October 24, 2007| pages=3| archive-url=https://web.archive.org/web/20120122201815/http://www.cgsociety.org/index.php/CGSFeatures/CGSFeatureSpecial/the_colorists| archive-date=January 22, 2012| url-status=dead| df=mdy-all}} It was filmed near locations in Canton, Mississippi; Vicksburg, Mississippi and Wardville, Louisiana.</ref> Joel stated this was because the actual set was "greener than Ireland".<ref name=UncleJack/> [[Cinematographer]] [[Roger Deakins]] said, "Ethan and Joel favored a dry, dusty Delta look with golden sunsets. They wanted it to look like an old hand-tinted picture, with the intensity of colors dictated by the scene and natural skin tones that were all shades of the rainbow."<ref name="Camera Guild" /> Initially the crew tried to perform the color correction using a physical process, but after several tries with various chemical processes proved unsatisfactory the process was performed digitally.<ref name=UncleJack/>
+
+This was the fifth film collaboration between the Coen Brothers and Deakins, and it was slated to be shot in Mississippi at a time of year when the foliage, grass, trees, and bushes would be a lush green.<ref name="Camera Guild">{{cite web|url=http://www.cameraguild.com/technology/digital_history.htm|title=Digital Domain|work=The Digital Domain: A brief history of digital film mastering — a glance at the future|access-date=May 14, 2007|last=Allen|first=Robert|archive-url=https://web.archive.org/web/20120204082558/https://www.cameraguild.com/Home.aspx|archive-date=February 4, 2012|url-status=dead|df=mdy-all}}</ref> It was filmed near locations in [[Canton, Mississippi]],<ref>{{cite news |title=FLASHBACK 1999: 'O Brother, Where Art Thou?' filming underway |url=https://www.wlbt.com/story/29554215/flashback-1999-o-brother-where-art-thou-filming-underway/ |access-date=4 March 2023 |work=[[WLBT]] |date=July 15, 2015 |archive-date=March 4, 2023 |archive-url=https://web.archive.org/web/20230304220121/https://www.wlbt.com/story/29554215/flashback-1999-o-brother-where-art-thou-filming-underway/ |url-status=live }}</ref> and [[Florence, South Carolina]], in the summer of 1999.<ref>{{cite web |title=O Brother, Where Art Thou? (2000) |url=https://movie-locations.com/movies/o/O-Brother-Where-Art-Thou.php |website=movie-locations.com |access-date=4 March 2023 |archive-date=March 4, 2023 |archive-url=https://web.archive.org/web/20230304220121/https://movie-locations.com/movies/o/O-Brother-Where-Art-Thou.php |url-status=live }}</ref> After shooting tests, including film [[bipack]] and [[bleach bypass]] techniques, Deakins suggested digital mastering be used.<ref name="Camera Guild" /> Deakins spent 11 weeks fine-tuning the look, mainly targeting the greens, making them a burnt yellow and desaturating the overall image in the digital files.<ref name="CGS" /> This made it the first feature film to be entirely color corrected by digital means, narrowly beating [[Nick Park]]'s ''[[Chicken Run]]''.<ref name="CGS" /> ''O Brother, Where Art Thou?'' was the first time a [[digital intermediate]] was used on the entirety of a first-run Hollywood film that otherwise had very few visual effects. The work was done in Los Angeles by [[Cinesite]] using a [[Spirit DataCine]] for scanning at 2K resolution, a Pandora MegaDef to adjust the color, and a [[Kodak]] Lightning II recorder to put out to film.<ref>{{cite journal |last=Fisher |first=Bob |date=October 2000 |title=Escaping From Chains |url=https://www.nxtbook.com/nxtbooks/ac/ac200010/index.php |url-status=bot: unknown |journal=American Cinematographer |volume=81 |issue=10 |pages=36–42, 46–49 |archive-url=https://web.archive.org/web/20230304220120/https://www.nxtbook.com/nxtbooks/ac/ac200010/index.php#/p/38 |archive-date=March 4, 2023 |access-date=March 4, 2023 }}</ref>
+
+A major theme of the film is the connection between [[old-time music]] and political campaigning in the American South. It makes reference to the traditions, institutions, and campaign practices of [[bossism]] and [[Reform movement|political reform]] that defined Southern politics in the first half of the 20th century.
+
+The Ku Klux Klan, at the time a political force of white [[populism]], is depicted burning crosses and engaging in ceremonial dance. The character Menelaus "Pappy" O'Daniel, the governor of Mississippi and host of the radio show ''The Flour Hour'', is similar in name and demeanor to [[W. Lee O'Daniel|W.&nbsp;Lee "Pappy" O'Daniel]],<ref>{{cite book| last=Crawford| first=Bill| author-link=Bill Crawford (cartoonist)| title=Please Pass the Biscuits, Pappy: Pictures of Governor W. Lee "Pappy" O'Daniel| url=https://books.google.com/books?id=vYVdAQAAQBAJ&q=menelaus| publisher=[[University of Texas Press]]| date=October 11, 2013| page=19| isbn=978-0292757813| access-date=November 18, 2020| archive-date=March 15, 2023| archive-url=https://web.archive.org/web/20230315194409/https://books.google.com/books?id=vYVdAQAAQBAJ&q=menelaus| url-status=live}}</ref> one-time [[Governor of Texas]] and later [[U.S. Senator]] from that state.<ref name="TexasT">{{cite web| title=Pappy O'Daniel| work=Texas Treasures| publisher=[[Texas State Library]]| date=March 11, 2003| url=http://www.tsl.state.tx.us/treasures/characters/pappy.html| access-date=November 2, 2007| archive-date=October 2, 2012| archive-url=https://web.archive.org/web/20121002145115/http://www.tsl.state.tx.us/treasures/characters/pappy.html| url-status=live}}</ref> O'Daniel was in the flour business and used a backing band called the [[Light Crust Doughboys]] on his radio show.<ref name="reason">{{cite web| last=Walker| first=Jesse| title=Pass the Biscuits – We're living in Pappy O'Daniel's world| work=[[Reason (magazine)|Reason]]| date=August 19, 2003| url=http://www.reason.com/news/show/33735.html| access-date=November 2, 2007| archive-date=March 3, 2013| archive-url=https://web.archive.org/web/20130303015204/http://reason.com/archives/2003/08/19/pass-the-biscuits| url-status=live}}</ref> In one campaign, O'Daniel carried a broom, an oft-used campaign device in the reform era, promising to sweep away [[patronage]] and corruption.<ref name="bestofneworleans.com">{{cite web| last=Boulard| first=Garry| title=Following the Leaders| newspaper=[[Gambit (newspaper)|Gambit]]| date=February 4, 2002| url=https://www.theadvocate.com/gambit/new_orleans/news/article_af113a43-a491-5f44-a470-0750687d1a20.html| access-date=September 9, 2018| page=1| archive-date=September 9, 2018| archive-url=https://web.archive.org/web/20180909222115/https://www.theadvocate.com/gambit/new_orleans/news/article_af113a43-a491-5f44-a470-0750687d1a20.html| url-status=live}}</ref> His theme song had the hook, "Please pass the biscuits, Pappy", emphasizing his connection with flour.<ref name="reason"/>
+
+{{anchor|You Are My Sunshine}}
+While the film borrows from historical politics, there are clear differences between the characters in the film and historical political figures. The O'Daniel of the movie used "[[You Are My Sunshine]]" as his theme song (which was originally recorded by singer and Governor of Louisiana [[Jimmie Davis|James Houston "Jimmie" Davis]]<ref name="ROS">{{cite web |year=1998 |title=River of Song: The Artists |url=https://www.pbs.org/riverofsong/artists/e4-jimmie.html |access-date=November 2, 2007 |work=[[PBS]] |archive-date=March 21, 2012 |archive-url=https://web.archive.org/web/20120321055444/http://www.pbs.org/riverofsong/artists/e4-jimmie.html |url-status=live }}</ref>), and Homer Stokes, as the challenger to the incumbent O'Daniel, portrays himself as the "reform candidate", using a broom as a prop.
+
+==Music==
+{{See also|O Brother, Where Art Thou? (soundtrack)|Down from the Mountain}}
+The music was originally conceived as a major component of the film, not merely as a background or a support. Producer and musician [[T Bone Burnett]] worked with the Coens while the script was still in its working phases and the soundtrack was recorded before filming commenced.<ref name=bbc>{{cite web| url=http://news.bbc.co.uk/2/hi/entertainment/1845962.stm| title=O Brother, why art thou so popular?| work=[[BBC News]]| date=February 28, 2002| access-date=February 14, 2012| archive-date=April 5, 2012| archive-url=https://web.archive.org/web/20120405135333/http://news.bbc.co.uk/2/hi/entertainment/1845962.stm| url-status=live}}</ref>
+
+Much of the music used in the film is period-specific folk music.<ref name="Score" /> The selection also includes religious music such [[Primitive Baptist]] and [[spiritual (music)|traditional African American]] [[gospel music|gospel]], most notably [[the Fairfield Four]], an ''[[a cappella]]'' quartet with a career extending back to 1921. The quartet appears in the soundtrack and as gravediggers towards the film's end. Selected songs in the film reflect the possible spectrum of musical styles typical of the old culture of the American South: gospel, [[delta blues]], [[Country music|country]], [[Swing music|swing]], and [[Bluegrass music|bluegrass]].<ref name="guardian"/><ref name="ridley">{{cite web| url=http://weeklywire.com/ww/05-22-00/nash_film-lede.html| title=Talking with Joel and Ethan Coen about 'O Brother, Where Art Thou?'| newspaper=[[Nashville Scene]]| date=May 22, 2000| access-date=February 14, 2012| last=Ridley| first=Jim| archive-date=February 1, 2011| archive-url=https://web.archive.org/web/20110201045020/http://weeklywire.com/ww/05-22-00/nash_film-lede.html| url-status=live}}</ref>
+
+The use of [[dirges]] and other macabre songs is a theme that often recurs in Appalachian music<ref>{{cite web| last=McClatchy| first=Debbie| title=A Short History of Appalachian Traditional Music| website=Appalachian Traditional Music — A Short History| date=June 27, 2000| url=http://www.mustrad.org.uk/articles/appalach.htm| access-date=November 8, 2007| archive-date=October 25, 2007| archive-url=https://web.archive.org/web/20071025051143/http://www.mustrad.org.uk/articles/appalach.htm| url-status=live}}</ref> ("O Death", "Lonesome Valley", "[[Angel Band (song)|Angel Band]]", "I Am Weary") in contrast to bright and cheerful songs ("Keep On the Sunny Side", "In the Highways") in other parts of the film.
+
+The voices of the Soggy Bottom Boys were provided by [[Dan Tyminski]] (lead vocal on "Man of Constant Sorrow"), [[Nashville, Tennessee|Nashville]] songwriter [[Harley Allen]], and the [[Nashville Bluegrass Band]]'s Pat Enright.<ref name="Soggy">{{cite web| url=http://www.bmi.com/news/entry/233045| title=Soggy Bottom Boys Hit the Top at 35th CMA Awards| date=November 7, 2001| access-date=November 8, 2007| archive-date=September 8, 2009| archive-url=https://web.archive.org/web/20090908111612/http://www.bmi.com/news/entry/233045| url-status=live}}</ref> The three won a [[Country Music Association Awards|CMA Award]] for Single of the Year<ref name="Soggy" /> and a Grammy Award for [[Best Country Collaboration with Vocals]], both for the song "Man of Constant Sorrow".<ref name="Grammy01" /> Tim Blake Nelson sang the lead vocal on "[[In the Jailhouse Now]]".<ref name="FAQ">{{cite web |last=Lafrance |first=J.D. |date=April 5, 2004 |title=The Coen Brothers FAQ |url= http://www.youknow-forkids.com/coenbrothersfaq.pdf|url-status=dead |archive-url=https://web.archive.org/web/20071126204347/http://www.youknow-forkids.com/coenbrothersfaq.pdf |archive-date=November 26, 2007 |access-date=November 8, 2007 |pages=33–35 |df=mdy-all}}</ref> During a cast reunion at the 2020 [[Nashville Film Festival]], George Clooney recalled being called into the recording studio and singing despite his lack of talent. It was assumed that he could sing because he was the nephew of [[Rosemary Clooney]].  Despite the relation, he could not.<ref>{{cite web|url=http://decoy.tvpassport.com/q_a/q-does-george-clooney-do-his-own-singing-o-brother-where-art-thou?subid=national-00001|title=Q: Does George Clooney do his own singing in 'O Brother, Where Art Thou'?|last=Thomlison|first=Adam|publisher=TV Media|access-date=June 23, 2022|archive-date=March 15, 2023|archive-url=https://web.archive.org/web/20230315194434/http://decoy.tvpassport.com/q_a/q-does-george-clooney-do-his-own-singing-o-brother-where-art-thou?subid=national-00001|url-status=live}}</ref>
+
+"Man of Constant Sorrow" has five variations: two are used in the film, one in the music video, and two in the soundtrack album. Two of the variations feature the verses being sung back-to-back, and the other three variations feature additional music between each verse.<ref name="OBWAT">{{cite web| last=Long| first=Roger J.| title="O Brother, Where Art Thou?" Home Page| url=http://home1.gte.net/longrj2/fluff/o_brother.html| date=April 9, 2006| access-date=November 9, 2007| url-status=dead| archive-url=https://web.archive.org/web/20071103172436/http://home1.gte.net/longrj2/fluff/o_brother.html| archive-date=November 3, 2007| df=mdy-all}}</ref> Though the song received little significant radio airplay, it reached #35 on the U.S. ''Billboard'' [[Hot Country Singles & Tracks]] chart in 2002.<ref name=bbc/><ref name="Billboard">{{cite news| title=Hot Country Songs: I Am A Man Of- Constant Sorrow| url=http://www.billboard.com/charts/2002-04-27/country-songs| access-date=November 2, 2007| newspaper=Billboard| archive-url=https://web.archive.org/web/20071223035246/http://www.billboard.com/bbcom/esearch/chart_display.jsp?cfi=357&cfgn=Singles&cfn=Hot+Country+Songs&ci=3045248&cdi=7847789&cid=04%2F27%2F2002| archive-date=December 23, 2007| url-status=dead| df=mdy-all}}</ref> The version of "I'll Fly Away" heard in the film is performed not by Krauss and Welch (as it is on the CD and concert tour), but by the [[Kossoy Sisters]] with [[Erik Darling]] accompanying on long-neck five-string banjo, recorded in 1956 for the album ''Bowling Green'' on [[Tradition Records]].<ref name=countrystandardtime.com>{{cite web| title=O Kossoy Sisters, Where Art Thou Been?| url=http://www.countrystandardtime.com/d/article.asp?xid=548| access-date=January 8, 2009| website=[[Country Standard Time]]| date=January 2003| archive-date=February 15, 2009| archive-url=https://web.archive.org/web/20090215035547/http://www.countrystandardtime.com/d/article.asp?xid=548| url-status=live}}</ref>
+
+==Release==
+The film premiered at the [[Cannes Film Festival]] on May 13, 2000, the United Kingdom on September 15, 2000 and the United States on December 22, 2000.<ref name=afi/><ref>{{cite magazine|magazine=[[Screen International]]|title=Coen Brothers' films in the UK 1990-2000|last=Scott|first=Mary|page=39|date=September 22, 2000}}</ref> It grossed $71,868,327 worldwide on a $26 million budget.<ref name="gross"/><ref name="the numbers"/>
+
+===Critical reception===
+The review aggregation website [[Rotten Tomatoes]] reports that 78% of reviews critics are positive based on 158 reviews, with an average rating of 7.3/10. The site's critics consensus reads: "Though not as good as Coen brothers' classics such as ''[[Blood Simple]]'', the delightfully loopy ''O Brother, Where Art Thou?'' is still a lot of fun."<ref name="RottenTomatoes">{{cite web |url=http://www.rottentomatoes.com/m/o_brother_where_art_thou |title=O Brother, Where Art Thou? (2000) |website=[[Rotten Tomatoes]] |access-date=April 5, 2024 |archive-date=February 9, 2010 |archive-url=https://web.archive.org/web/20100209075432/http://www.rottentomatoes.com/m/o_brother_where_art_thou/ |url-status=live }}</ref> [[Metacritic]], which assigns a weighted average, gave it a score of 69 out of 100 based on 30 critics, indicating "generally favorable reviews."<ref>{{cite web |url=http://www.metacritic.com/movie/o-brother-where-art-thou |title=Reviews for ''O Brother, Where Art Thou?'' (2000) |website=Metacritic |access-date=November 9, 2015 |archive-date=October 2, 2018 |archive-url=https://web.archive.org/web/20181002142000/https://www.metacritic.com/movie/o-brother-where-art-thou |url-status=live }}</ref> Audiences polled by [[CinemaScore]] gave the film an average grade of "B-" on an A+ to F scale.<ref>{{Cite web|title=Home|url=https://www.cinemascore.com/|access-date=2022-02-25|website=[[CinemaScore]]|language=en-US}}</ref>
+
+[[Roger Ebert]] gave two and a half out of four stars to the film, saying all the scenes in the film were "wonderful in their different ways, and yet I left the movie uncertain and unsatisfied".<ref>{{cite news |last=Ebert |first=Roger |author-link=Roger Ebert |date=December 29, 2000 |title="O Brother, Where Art Thou?" Review |newspaper=[[The Chicago Sun Times]] |url=https://www.rogerebert.com/reviews/o-brother-where-art-thou-2000 |access-date=December 18, 2023 |via=Rogerebert.com}}</ref>
+
+===Accolades===
+The film was selected to be part of the main competition of the [[2000 Cannes Film Festival]].<ref name="festival-cannes.com">{{cite web |url=http://www.festival-cannes.com/en/archives/ficheFilm/id/5158/year/2000.html |website=Festival de Cannes |title=O Brother, Where Art Thou? |access-date=October 10, 2009 |archive-date=March 8, 2012 |archive-url=https://web.archive.org/web/20120308100451/http://www.festival-cannes.com/en/archives/ficheFilm/id/5158/year/2000.html |url-status=live }}</ref>
+{| class="wikitable"
+!Award
+!Date of ceremony
+!Category
+!Recipient(s)
+!Result
+!{{Abbreviation|Ref.|References}}
+|-
+| rowspan="2" |[[Academy Awards]]
+| rowspan="2" |[[73rd Academy Awards|March 25, 2001]]
+|[[Academy Award for Best Adapted Screenplay|Best Adapted Screenplay]]
+|[[Coen brothers|Ethan Coen<br />Joel Coen]]
+|{{Nominated}}
+| rowspan="2" |<ref>{{Cite web|title=Browser Unsupported - Academy Awards Search {{!}} Academy of Motion Picture Arts & Sciences|url=https://awardsdatabase.oscars.org/Error/NotFound?aspxerrorpath=%2Fsearch%2Fresults|access-date=2021-07-10|website=awardsdatabase.oscars.org|archive-date=September 28, 2021|archive-url=https://web.archive.org/web/20210928220750/https://awardsdatabase.oscars.org/Error/NotFound?aspxerrorpath=%2Fsearch%2Fresults|url-status=live}}</ref>
+|-
+|[[Academy Award for Best Cinematography|Best Cinematography]]
+|[[Roger Deakins]]
+|{{Nominated}}
+|-
+| rowspan="3" |[[British Academy Film Awards|BAFTA Awards]]
+| rowspan="3" |[[54th British Academy Film Awards|February 25, 2001]]
+|[[BAFTA Award for Best Screenplay|Best Screenplay – Original]]
+|[[Coen brothers|Ethan Coen<br />Joel Coen]]
+|{{Nominated}}
+|rowspan="3" |<ref>{{cite web |title=Film in 2001 |url=http://awards.bafta.org/award/2001/film |website=awards.bafta.org |access-date=4 March 2023 |archive-date=January 23, 2015 |archive-url=https://web.archive.org/web/20150123034657/http://awards.bafta.org/award/2001/film |url-status=live }}</ref>
+|-
+|[[BAFTA Award for Best Cinematography|Best Cinematography]]
+|[[Roger Deakins]]
+|{{Nominated}}
+|-
+|[[BAFTA Award for Best Production Design|Best Production Design]]
+|[[Dennis Gassner]]
+|{{Nominated}}
+|-
+|[[American Cinema Editors]]
+|2001
+|[[American Cinema Editors Award for Best Edited Feature Film – Comedy or Musical|Best Edited Feature Film – Comedy or Musical]]
+|[[Coen brothers|Ethan Coen]]<br/>[[Tricia Cooke]]
+|{{Nominated}}
+|
+|-
+|[[American Comedy Awards]]
+|2001
+|[[American Comedy Awards|Funniest Actor in a Motion Picture (Leading Role)]]
+|[[George Clooney]]
+|{{Nominated}}
+|
+|-
+|[[American Society of Cinematographers]]
+|2001
+|[[American Society of Cinematographers Award for Outstanding Achievement in Cinematography in Theatrical Releases|Outstanding Achievement in Cinematography in Theatrical Releases]]
+|[[Roger Deakins]]
+|{{Nominated}}
+|
+|-
+| rowspan="5" |Awards Circuit Community Awards
+| rowspan="5" |2000
+|Best Adapted Screenplay
+|[[Coen brothers|Ethan Coen<br />Joel Coen]]
+|{{Nominated}}
+| rowspan="5" |
+|-
+|Best Cast Ensemble
+|[[George Clooney]]<br/>[[John Turturro]]<br/>[[Tim Blake Nelson]]<br/>[[Charles Durning]]<br/>[[Michael Badalucco]]<br/>[[John Goodman]]<br/>[[Holly Hunter]]
+|{{Nominated}}
+|-
+|Best Art Direction
+|[[Dennis Gassner]]
+|{{Nominated}}
+|-
+|Best Cinematography
+|[[Roger Deakins]]
+|{{Nominated}}
+|-
+|Best Costume Design
+|[[Mary Zophres]]
+|{{Nominated}}
+|-
+|[[BMI Film & TV Awards]]
+|2002
+|[[BMI Film & TV Awards|Special Citation]]
+|[[T Bone Burnett]]
+|{{Won}}
+|
+|-
+|[[British Society of Cinematographers]]
+|2001
+|[[British Society of Cinematographers|Best Cinematography]]
+|[[Roger Deakins]]
+|{{Won}}
+|
+|-
+|[[Cannes Film Festival]]
+|[[2000 Cannes Film Festival|2000]]
+|[[Palme d'Or]]
+|[[Coen brothers|Joel Coen]]
+|{{Nominated}}
+|
+|-
+| rowspan="2" |[[Chicago Film Critics Association|Chicago Film Critics Association Awards]]
+| rowspan="2" |[[Chicago Film Critics Association Awards 2000|February 26, 2001]]
+|[[Chicago Film Critics Association Award for Best Cinematography|Best Cinematography]]
+|[[Roger Deakins]]
+|{{Nominated}}
+| rowspan="2" |
+|-
+|[[Chicago Film Critics Association Award for Best Original Score|Best Original Score]]
+|[[Carter Burwell]]<br />[[T Bone Burnett]]
+|{{Nominated}}
+|-
+| rowspan="2" |[[Dallas–Fort Worth Film Critics Association|Dallas-Fort Worth Film Critics Association Awards]]
+| rowspan="2" |[[Dallas–Fort Worth Film Critics Association Awards 2000|January 6, 2001]]
+|[[Dallas–Fort Worth Film Critics Association Award for Best Film|Best Picture]]
+|''O Brother Where Art Thou?''
+|{{Nominated}}
+| rowspan="2" |
+|-
+|[[Dallas–Fort Worth Film Critics Association Award for Best Director|Best Director]]
+|[[Coen brothers|Joel Coen]]
+|{{Nominated}}
+|-
+|[[Empire Awards]]
+|[[6th Empire Awards|February 19, 2001]]
+|[[Empire Award for Best Actor|Best Actor]]
+|[[George Clooney]]
+|{{Nominated}}
+|
+|-
+|[[European Film Awards]]
+|[[13th European Film Awards|December 2, 2000]]
+|[[European Film Award for Best Film|Screen International Award (USA)]]
+|[[Coen brothers|Joel Coen]]
+|{{Nominated}}
+|
+|-
+|[[Florida Film Critics Circle|Florida Film Critics Circle Awards]]
+|[[Florida Film Critics Circle Awards 2000|January 4, 2001]]
+|Best Soundtrack and Score
+|[[Carter Burwell]]<br/>[[T Bone Burnett]]
+|{{Won}}
+|<ref>{{Cite web |title=2000 FFCC Award Winners |url=http://www.floridafilmcritics.com/2013/11/16/2000-ffcc-winners/ |access-date=2023-03-04 |website=Florida Film Critics Circle |language=en |archive-date=January 10, 2014 |archive-url=https://web.archive.org/web/20140110102848/http://www.floridafilmcritics.com/2013/11/16/2000-ffcc-winners/ |url-status=live }}</ref>
+|-
+| rowspan="2" |[[Golden Globe Awards|Golden Globes]]
+| rowspan="2" |[[58th Golden Globe Awards|January 21, 2001]]
+|[[Golden Globe Award for Best Motion Picture – Musical or Comedy|Best Motion Picture – Comedy or Musical]]
+|''O Brother Where Art Thou?''
+|{{Nominated}}
+| rowspan="2" |<ref>{{Cite web|title=O Brother, Where Art Thou?|url=https://www.goldenglobes.com/film/o-brother-where-art-thou|access-date=2021-07-10|website=www.goldenglobes.com|archive-date=June 24, 2021|archive-url=https://web.archive.org/web/20210624001855/https://www.goldenglobes.com/film/o-brother-where-art-thou|url-status=live}}</ref>
+|-
+|[[Golden Globe Award for Best Actor – Motion Picture Musical or Comedy|Best Actor in a Motion Picture – Comedy or Musical]]
+|[[George Clooney]]
+|{{Won}}
+|-
+| rowspan="2" |[[Grammy Awards]]
+| rowspan="2" |[[44th Annual Grammy Awards|February 27, 2002]]
+|[[Grammy Award for Album of the Year|Album of the Year]]
+|[[Alison Krauss]], [[Union Station (band)|Union Station]], [[Tim Blake Nelson]], <br/> [[Chris Thomas King]], [[Emmylou Harris]], [[Gillian Welch]], <br/> [[Harley Allen]], [[John Hartford]], [[Norman Blake (American musician)|Norman Blake]], <br/> Pat Enright, [[The Peasall Sisters|Hannah Peasall, Leah Peasall, <br/> Sarah Peasall]], [[Ralph Stanley]], [[Sam Bush]], <br/> [[Stuart Duncan]], [[The Cox Family]], [[The Fairfield Four]], <br/> [[The Whites]], [[T Bone Burnett]], [[Peter Kurland|Peter K. Kurland]], <Br/> [[Mike Piersante]], [[Gavin Lurssen]], [[Jerry Douglas]], <br/> [[Barry Bales]], [[Ron Block]], [[Dan Tyminski]], [[The Whites|Cheryl White]], and [[The Whites|Sharon White]]
+|{{Won}}
+| rowspan="2" |<ref>{{Cite web|date=2019-11-19|title=T Bone Burnett|url=https://www.grammy.com/grammys/artists/t-bone-burnett/1198|access-date=2021-07-10|website=GRAMMY.com|language=en|archive-date=August 1, 2021|archive-url=https://web.archive.org/web/20210801082123/https://www.grammy.com/grammys/artists/t-bone-burnett/1198|url-status=live}}</ref>
+|-
+|[[Grammy Award for Best Sound Track Album or Recording of Original Cast From a Motion Picture or Television|Best Compilation Soundtrack Album for Visual Media]]
+|[[T Bone Burnett]]<br />[[Mike Piersante]]<br />[[Peter Kurland|Peter F. Kurland]]
+|{{Won}}
+|-
+| rowspan="3" |Las Vegas Film Critics Society Awards
+| rowspan="3" |December 21, 2000
+|Best Cinematography
+|[[Roger Deakins]]
+|{{Won}}
+| rowspan="3" |<ref>{{Cite web |title=Sierra Award Winners |url=http://www.lvfcs.org/sierra-award-winners.html |access-date=2023-03-04 |website=www.lvfcs.org |archive-date=December 25, 2013 |archive-url=https://web.archive.org/web/20131225035112/http://www.lvfcs.org/sierra-award-winners.html |url-status=live }}</ref>
+|-
+|Best Screenplay, Original
+|[[Coen brothers|Ethan Coen<br />Joel Coen]]
+|{{Nominated}}
+|-
+|Best Costume Design
+|[[Mary Zophres]]
+|{{Nominated}}
+|-
+| rowspan="2" |[[London Film Critics' Circle|London Film Critics' Circle Awards]]
+| rowspan="2" |[[London Film Critics Circle Awards 2000|February 15, 2001]]
+|[[London Film Critics' Circle Award for Film of the Year|Film of the Year]]
+|''O Brother Where Art Thou?''
+|{{Nominated}}
+| rowspan="2" |
+|-
+|[[London Film Critics' Circle Award for Screenwriter of the Year|Screenwriter of the Year]]
+|[[Coen brothers|Ethan Coen<br />Joel Coen]]
+|{{Nominated}}
+|-
+| rowspan="2" |[[MTV Movie & TV Awards|MTV Movie + TV Awards]]
+| rowspan="2" |[[2001 MTV Movie Awards|June 2, 2001]]
+|[[MTV Movie Award for Best On-Screen Duo|Best On-Screen Team]] <small>(The Soggy Bottom Boys)</small>
+|[[George Clooney]]<br/>[[Tim Blake Nelson]]<br/>[[John Turturro]]
+|{{Nominated}}
+| rowspan="2" |<ref>{{Cite web |last= |first= |date=2001-05-22 |title=2001 MTV Movie Awards nominations |url=https://www.hollywood.com/tv/2001-mtv-movie-awards-nominations-57179986 |access-date=2023-03-04 |website=Hollywood.com |language=en-US |archive-date=January 21, 2022 |archive-url=https://web.archive.org/web/20220121031056/https://www.hollywood.com/tv/2001-mtv-movie-awards-nominations-57179986/ |url-status=live }}</ref>
+|-
+|[[MTV Movie Award for Best Musical Moment|Best Music Moment]]
+|[[Man of Constant Sorrow|"Man Of Constant Sorrow"]]
+|{{Nominated}}
+|-
+| rowspan="2" |[[Online Film Critics Society|Online Film Critics Society Awards]]
+| rowspan="2" |[[Online Film Critics Society Awards 2000|January 2, 2001]]
+|[[Online Film Critics Society Award for Best Original Score|Best Original Score]]
+|[[T Bone Burnett]]<br/>[[Carter Burwell]]
+|{{Nominated}}
+| rowspan="2" |
+|-
+|[[Online Film Critics Society Award for Best Cinematography|Best Cinematography]]
+|[[Roger Deakins]]
+|{{Nominated}}
+|-
+|Phoenix Film Critics Society Awards
+|2001
+|Best Original Score
+|[[T Bone Burnett]]<br/>[[Carter Burwell]]
+|{{Nominated}}
+|
+|-
+| rowspan="5" |[[Satellite Awards]]
+| rowspan="5" |[[5th Golden Satellite Awards|January 14, 2001]]
+|[[Satellite Award for Best Film|Best Motion Picture, Comedy or Musical]]
+|''O Brother Where Art Thou?''
+|{{Nominated}}
+| rowspan="5" |<ref>{{Cite web |title=2001 5th Annual Satellite Awards |url=http://www.pressacademy.com/satawards/awards2001.shtml |url-status=dead |archive-url=https://web.archive.org/web/20080118184239/http://www.pressacademy.com/satawards/awards2001.shtml |archive-date=2008-01-18 |access-date=2023-03-04 |website=[[International Press Academy]]}}</ref>
+|-
+|[[Satellite Award for Best Adapted Screenplay|Best Screenplay, Adapted]]
+|[[Coen brothers|Ethan Coen<br />Joel Coen]]
+|{{Nominated}}
+|-
+|[[Satellite Award for Best Actor – Motion Picture|Best Actor in a Motion Picture, Comedy or Musical]]
+|[[George Clooney]]
+|{{Nominated}}
+|-
+|[[Satellite Award for Best Supporting Actor – Motion Picture|Best Actor in a Supporting Role, Comedy or Musical]]
+|[[Tim Blake Nelson]]
+|{{Nominated}}
+|-
+|[[Satellite Award for Best Supporting Actress – Motion Picture|Best Actress in a Supporting Role, Comedy or Musical]]
+|[[Holly Hunter]]
+|{{Nominated}}
+|-
+|[[Science Fiction and Fantasy Writers of America|Science Fiction Fantasy Writers of America]]
+|2002
+|Best Script
+|[[Coen brothers|Ethan Coen<br />Joel Coen]]
+|{{Nominated}}
+|
+|-
+|[[Turkish Film Critics Association|Turkish Film Critics Association Awards]]
+|2001
+|Best Foreign Film
+|''O Brother Where Art Thou?''
+|{{Nominated}}
+|
+|}
+
+==Soggy Bottom Boys==
+The Soggy Bottom Boys are the fictional musical group that the main characters form as part of the plot; their songs also serve as accompaniment for the film. It has been suggested that the name is in homage to the [[Foggy Mountain Boys]], a [[Bluegrass music|bluegrass]] band led by [[Lester Flatt]] and [[Earl Scruggs]].<ref>{{cite book| last=Temple Kirby| first=Jack| author-link=Jack Temple Kirby| title=Mockingbird Song: Ecological Landscapes of the South| url=https://books.google.com/books?id=AjFife4OsCQC&q=foggy+mountain+boys| publisher=[[UNC Press]]| date=November 5, 2009| page=314| isbn=978-0807876602| access-date=November 18, 2020| archive-date=March 15, 2023| archive-url=https://web.archive.org/web/20230315194433/https://books.google.com/books?id=AjFife4OsCQC&q=foggy+mountain+boys| url-status=live}}</ref> In the film, the actors [[Lip-synching in music|lip-synched]] the songs credited to the band, except for [[Tim Blake Nelson]]'s own voice on "[[In the Jailhouse Now]]".
+
+The band's hit single is [[Dick Burnett (musician)|Dick Burnett]]'s "[[Man of Constant Sorrow]]", a song that had enjoyed much success prior to the movie's release.<ref name="BDR">{{cite web | title=Man of Constant Sorrow (trad./The Stanley Brothers/Bob Dylan) | work=Man of Constant Sorrow | url=http://www.bobdylanroots.com/sorrow.html | access-date=November 2, 2007 | archive-date=October 23, 2007 | archive-url=https://web.archive.org/web/20071023053206/http://www.bobdylanroots.com/sorrow.html | url-status=live }}</ref> After the film's release, the fictitious band became so popular that the country and folk musicians whose performances are heard on the film got together for a concert tour called [[Down from the Mountain]], which was filmed for TV and DVD.<ref name="Score" /> They included [[Ralph Stanley]], [[John Hartford]], [[Alison Krauss and Union Station]], [[Emmylou Harris]], [[Gillian Welch]], [[Chris Sharp]], Stun Seymour, [[Dan Tyminski]] and others.
+
+== Explanatory notes ==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{wikiquote}}
+* {{IMDb title|0190590}}
+* {{AllMovie title|201791}}
+* {{Mojo title|obrotherwhereartthou}}
+* {{Rotten Tomatoes|o_brother_where_art_thou}}
+* {{cite web|url=http://www.coenbrothers.net/|title=Coenesque: The Films of the Coen Brothers|url-status=dead|archive-url=https://web.archive.org/web/20031119042843/http://www.coenbrothers.net/|archive-date=November 19, 2003|df=mdy-all}}
+* {{cite web|url=http://xroads.virginia.edu/~MA05/cline/obrother/free6/obrother1.htm|title=American Myth Today: O Brother, Where Art Thou?|access-date=October 20, 2009|archive-url=https://web.archive.org/web/20110605103540/http://xroads.virginia.edu/~MA05/cline/obrother/free6/obrother1.htm|archive-date=June 5, 2011|url-status=dead}} American Studies at the University of Virginia
+
+{{Coen brothers}}
+{{Odyssey navbox}}
+{{Portal bar|Mississippi|Film}}
+{{Authority control}}
+
+[[Category:2000 black comedy films]]
+[[Category:2000 films]]
+[[Category:2000s American films]]
+[[Category:2000s British films]]
+[[Category:2000s buddy comedy-drama films]]
+[[Category:2000s English-language films]]
+[[Category:2000s French films]]
+[[Category:American buddy comedy-drama films]]
+[[Category:American comedy-drama films]]
+[[Category:Americana (culture)]]
+[[Category:BAC Films films]]
+[[Category:British comedy-drama films]]
+[[Category:Country music films]]
+[[Category:Cultural depictions of Baby Face Nelson]]
+[[Category:English-language French films]]
+[[Category:Films about disability in the United States]]
+[[Category:Films about the Ku Klux Klan]]
+[[Category:Films about treasure hunting]]
+[[Category:Films based on the Odyssey]]
+[[Category:Films directed by the Coen brothers]]
+[[Category:Films featuring a Best Musical or Comedy Actor Golden Globe winning performance]]
+[[Category:Films scored by T Bone Burnett]]
+[[Category:Films set in 1937]]
+[[Category:Films set in Mississippi]]
+[[Category:Films shot in Mississippi]]
+[[Category:Films with screenplays by the Coen brothers]]
+[[Category:French comedy-drama films]]
+[[Category:Great Depression films]]
+[[Category:Modern adaptations of the Odyssey]]
+[[Category:StudioCanal films]]
+[[Category:Touchstone Pictures films]]
+[[Category:Universal Pictures films]]
+[[Category:Working Title Films films]]
+[[Category:English-language black comedy films]]

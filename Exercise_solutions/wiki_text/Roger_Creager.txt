@@ -1,0 +1,192 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=December 2019}}
+{{multiple issues|{{BLP sources|date=November 2017}}{{third-party|date=November 2017}}}}
+{{Infobox musical artist
+|name            = Roger Creager
+|image             = Roger Creager 2019 (cropped).jpg 
+|caption        = Creager in 2019 
+|background      = solo_singer 
+|birth_name      = 
+|alias           = 
+|birth_date            = {{Birth date and age|1971|7|25|mf=y}} 
+|death_date            = 
+|origin          = [[Corpus Christi, Texas|Corpus Christi]], Texas 
+|instrument      = Guitar 
+|genre           = [[Country music|Country]] 
+|occupation      = [[Country music|Country]] singer and songwriter 
+|years_active    = 1998–present 
+|label           = 
+|associated_acts = 
+|website         = {{URL|https://rogercreager.com/}}
+}}
+'''Roger Creager''' (born July 25, 1971) is an American [[Texas country music]] singer and songwriter from [[Corpus Christi, Texas]].
+
+==Biography==
+Creager aspired to become a country music singer since he was six years old. He started learning how to play piano in the second grade and began to learn guitar as a student at [[Tuloso-Midway High School]].<ref name="Country_Music_Television">"[https://web.archive.org/web/20040617220203/http://www.cmt.com/artists/az/creager_roger/bio.jhtml Roger Creager]".  [[Country Music Television]].</ref> After high school, he attended [[Sam Houston State University]] and earned a degree in business. He then went to [[Texas A&M University]] in [[College Station, Texas|College Station]] to earn a degree in agriculture. In College Station, the Texas Music Revolution{{clarify|date=June 2019}} helped him become a musician.<ref name="Country_Music_Television"/>
+
+In August 2006, Creager traveled to Africa and climbed [[Mount Kilimanjaro]]. In the summer of 2007, Creager traveled to France to take part in the [[Festival Country Rendez-Vous]].{{citation needed|date=June 2019}}
+
+Creager married his wife Chelsey, in Ireland, November 20, 2021, with a stateside ceremony on November 28, 2021. The couple share a daughter, Audrey Rose, born March 9, 2021.
+
+Creager lives in [[Houston]], Texas.
+
+==Band members==
+[[File:RogerCreagerConcert.jpg|thumb|right|Roger in Concert (Houston, Texas, 2005)]]
+*Allen Huff (Huff Daddy) – piano, organ, accordion, vocals
+*Jason Broussard – drums
+*Bryce Clarke – lead guitar, acoustic guitar
+*Stormy Cooper – bass guitar
+*Aleph Yonker – fiddle, lead guitar, vocals
+
+Roger's father and brother, Bill and Randy Creager, occasionally join him onstage providing vocals on songs such as "Rancho Grande" and "Please Come to Boston".{{citation needed|date=June 2019}}
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:14em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="4"| Peak chart positions{{citation needed|date=November 2017}}
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]
+! width="45"| [[Billboard 200|US]]
+! width="45"| [[Top Heatseekers|US<br />Heat]]
+! width="45"| [[Independent Albums|US<br />Indie]]
+|-
+! scope="row"| ''Having Fun All Wrong''
+|
+* Release date: 1998
+* Label: [[Dualtone Records]]
+| —
+| —
+| —
+| —
+|-
+! scope="row"| ''I Got the Guns''
+|
+* Release date: 2000
+* Label: Dualtone Records
+| —
+| —
+| —
+| —
+|-
+! scope="row"| ''Long Way to Mexico''
+|
+* Release date: September 9, 2003
+* Label: Dualtone Records
+| 63
+| —
+| —
+| —
+|-
+! scope="row"| ''Live Across Texas''
+|
+* Release date: September 7, 2004
+* Label: Dualtone Records
+| 70
+| —
+| —
+| —
+|-
+! scope="row"| ''Here It Is''
+|
+* Release date: August 26, 2008
+* Label: Thirty Tigers
+| 39
+| —
+| 7
+| 33
+|-
+! scope="row"| ''Surrender''
+|
+* Release date: January 17, 2012
+* Label: Thirty Tigers
+| 39
+| —
+| 10
+| 42
+|-
+! scope="row"| ''Road Show''
+|
+* Release date: July 22, 2014
+* Label: Fun All Wrong Records
+| 20
+| 172
+| 6
+| 38
+|-
+| colspan="6" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:14em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="2"| Peak chart<br />positions{{citation needed|date=November 2017}}
+|- style="font-size:smaller;"
+! width="45"| [[Top Country Albums|US Country]]
+! width="45"| [[Top Heatseekers|US<br />Heat]]
+|-
+! scope="row"| ''Gulf Coast Time''
+|
+* Release date: September 25, 2015
+* Label: Fun All Wrong Records
+| 41
+| 25
+|-
+|}
+
+===Music videos===
+
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:14em;"| Video
+! Director
+|-
+| 2008
+! scope="row"| "I'm from the Beer Joint"<ref>{{cite web|url=http://www.cmt.com/videos/roger-creager/275715/im-from-the-beer-joint.jhtml|archive-url=https://web.archive.org/web/20160307061522/http://www.cmt.com/videos/roger-creager/275715/im-from-the-beer-joint.jhtml|url-status=dead|archive-date=March 7, 2016|title=CMT : Videos : Roger Creager : I'm from the Beer Joint|publisher=[[Country Music Television]]|accessdate=July 10, 2013}}</ref>
+|
+|-
+| 2013
+! scope="row"| "For You I Do"<ref>{{cite web|url=http://www.cmt.com/videos/roger-creager/932186/for-you-i-do.jhtml|archive-url=https://web.archive.org/web/20160305040655/http://www.cmt.com/videos/roger-creager/932186/for-you-i-do.jhtml|url-status=dead|archive-date=March 5, 2016|title=CMT : Videos : Roger Creager : For You I Do|publisher=[[Country Music Television]]|accessdate=July 10, 2013}}</ref>
+| Landers/Mash
+|}
+
+===Popular songs===
+{{BLP unreferenced section|date=November 2017}}
+*"The Everclear Song" (written by Mike Ethan Messick and released on the 1998 album ''Having Fun All Wrong'')
+*"Fun All Wrong" (on the 1998 album ''Having Fun All Wrong'')
+*"I Got The Guns" (on the 2000 album ''I Got the Guns'')
+*"Love" (on the 2000 album ''I Got the Guns'')
+*"Rancho Grande" (on the 2000 album ''I Got the Guns'')
+*"Things Look Good Around Here" (on the 2000 album ''I Got the Guns'')
+*"Long Way To Mexico" (on the 2003 album  ''Long Way to Mexico'')
+*"Love Is Crazy"  (on the 2003 album  ''Long Way to Mexico'')
+*"Love Is So Sweet"
+*"A Good Day for Sunsets"
+*"I'm From The Beer Joint"
+*"Bad Friend to a Good Man"
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.rogercreager.com/ Roger Creager] official website
+
+{{Authority control}}
+
+{{DEFAULTSORT:Creager, Roger}}
+[[Category:American country singer-songwriters]]
+[[Category:Musicians from Corpus Christi, Texas]]
+[[Category:People from Katy, Texas]]
+[[Category:Texas A&M University alumni]]
+[[Category:Singer-songwriters from Texas]]
+[[Category:1971 births]]
+[[Category:Living people]]
+[[Category:Country musicians from Texas]]
+[[Category:21st-century American singer-songwriters]]

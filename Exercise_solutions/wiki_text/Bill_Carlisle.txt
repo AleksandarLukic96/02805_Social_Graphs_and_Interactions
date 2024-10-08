@@ -1,0 +1,133 @@
+{{short description|American singer-songwriter}}
+{{about|the country music singer|'Wild Bill' Carlisle the train robber|William L. Carlisle}}
+
+{{Use mdy dates|date=February 2020}}
+{{Infobox musical artist
+| name            = Bill Carlisle
+| image           = Bill Carlisle.jpg
+| caption         = Carlisle in the 1970s
+| image_size      =
+| birth_name      = William Tolliver Carlisle
+| alias           = Jumpin' Bill Carlisle
+| birth_date      = {{birth date|1908|12|19}}
+| death_date      = {{death date and age|2003|3|17|1908|12|19}}
+| origin          = [[Wakefield, Kentucky]], United States
+| death_place     = [[Nashville, Tennessee]]
+| instrument      = [[Acoustic Guitar|guitar]], [[banjo]]
+| genre           = [[country music]], comedy
+| occupation      = [[Singer-Songwriter|singer, songwriter]]
+| years_active    = 1933&ndash;2003
+| label           = [[Decca Records|Decca]], [[ARC Records|ARC]], [[King Records (USA)|King]], [[Mercury Records|Mercury]], [[Hickory Records|Hickory]]
+| past_member_of = [[Cliff Carlisle]]
+| website         =
+| current_members =
+| past_members    = 
+}}
+
+'''William Toliver Carlisle''' (December 19, 1908 – March 17, 2003), better known as '''Bill Carlisle''' and '''Jumpin' Bill Carlisle''', was an American [[country music]] singer, songwriter, comedian, and guitarist popular in the late 1940s and 1950s but who influenced the genre for more than 50 years. He is a member of the [[Country Music Hall of Fame]].
+
+==Biography==
+Carlisle was born in [[Wakefield, Kentucky|Wakefield]], Kentucky southeast of [[Louisville, Kentucky|Louisville]].  He performed in the 1920s with his older brother, [[Cliff Carlisle]], on radio stations [[WLAP|WLAP-AM]] in [[Lexington, Kentucky]], and [[WNOX|WNOX-AM]] in [[Knoxville, Tennessee]]. His first solo single and hit was the 1933 recording of "Rattlesnake Daddy," released on [[ARC Records]]. That year he formed the Carlisle Brothers with Cliff, and in 1938 they signed with [[Decca Records]] and continued performing on Kentucky country radio programs. He created an [[alter ego]] for the WNOX's ''Mid-Day Merry-Go-Round'' and ''Tennessee Barn Dance'' shows called Hot Shot Elmer, a bumbling buffoon in costume who would "interrupt" Carlisle's own performances. His leaps on stage won him the moniker "Jumpin' Bill."<ref name="AM">{{cite web | last = Manheim | first = James | title = Biography of Bill Carlisle | publisher = AllMusic  | url ={{AllMusic|class=artist|id= p24147/biography|pure_url=yes}} | access-date = August 3, 2011}}</ref>
+<!-- Commented out because image was deleted: [[File:Jumpin Bill Carlisle.jpg|thumb|left|200px|"Jumpin' Bill" at the Grand Ole Opry]] -->
+
+Carlisle's guitar style was noted for its precision and speed, and he employed [[yodel]]ing as a vocalist. Like his brother, he released many songs which included humorous, veiled references to sexuality. The duo signed with [[King Records (USA)|King Records]] after World War II, and hit big with the [[Ernest Tubb]] cover, "A Rainbow at Midnight", in 1946. Carlisle had a solo hit in 1948 with "Tramp on the Street". Cliff retired from the business about 1950, and Bill put together a backing ensemble, The Carlisles, though none of them was related to him. Among its members were singer [[Martha Carson]] and songwriter [[Betty Amos]].<ref name="CMHoF">{{cite web| title =Biography of Bill Carlisle| publisher =[[Country Music Hall of Fame]]| url =http://countrymusichalloffame.org/full-list-of-inductees/view/bill-carlisle| access-date =August 3, 2011| url-status =dead| archive-url =https://web.archive.org/web/20111214200157/http://countrymusichalloffame.org/full-list-of-inductees/view/bill-carlisle| archive-date =December 14, 2011}}</ref>
+
+Carlisle signed with [[Mercury Records]] and continued to release [[novelty song]] hits in the 1950s, such as "Too Old to Cut the Mustard", a top ten country hit in 1951 later covered by artists including [[Rosemary Clooney]] and [[Marlene Dietrich]]. Other hits included the number one smash "No Help Wanted" (their biggest)<ref>STARK, P., 2003. Obituaries: Bill Carlisle, 94. ''Billboard'', 115(13), pp. 53.</ref> and the top ten "Taint Nice (To Talk Like That)", both 1953. That year the Carlisles were invited to join the [[Grand Ole Opry]]. In the mid-1950s, Carlisle was a regular performer on ABC-TV's ''[[Ozark Jubilee]]''.<ref name="AM" /><ref name="CMHoF" />
+
+He also wrote the gospel song "Gone Home," which has been recorded by [[Flatt & Scruggs]], [[Ricky Skaggs]], and the [[Jerry Garcia Acoustic Band]]. Carlisle said he never recorded the song himself because he "just did so much better with the novelty stuff."<ref>{{Cite web|url=https://www.youtube.com/watch?v=6V0anguFR0k |archive-url=https://ghostarchive.org/varchive/youtube/20211221/6V0anguFR0k |archive-date=2021-12-21 |url-status=live|title=Gone Home|date=December 30, 2014 |via=YouTube}}{{cbignore}}</ref>
+
+==Personal life==
+In 1953, Carlisle, his wife, and children, Bill Jr. (born 1942), and Sheila, moved to [[Minden, Louisiana|Minden]] in [[Webster Parish, Louisiana|Webster Parish]], Louisiana, to be near the Louisiana Hayride in [[Shreveport, Louisiana|Shreveport]]. At the time [[Tillman Franks]] of Shreveport was his manager.<ref>"Nationally Famous Folk Song Writer Moves to Minden", ''Minden Press'', October 2, 1953, pp. 1, 16</ref>
+
+His children became members of The Carlisles group in the 1960s; his last hit was "What Kinda Deal Is This", released in 1965. After his fame receded, he continued as a regular at the Opry, appearing less than two weeks before his death on March 17, 2003, in [[Nashville, Tennessee|Nashville]], Tennessee.<ref name="AM" />
+
+==Legacy==
+Carlisle was elected to the Country Music Hall of Fame in September 2002.<ref name="CMHoF" />
+
+==Chart singles==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! Year
+! Single
+! width="45"| {{small|[[Hot Country Songs|US Country]]}}<br /><ref>{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc.|year=2008|isbn=978-0-89820-177-2}}</ref>
+|-
+| 1946
+! scope="row"| "Rainbow at Midnight" {{small|(Carlisle Brothers)}}
+| 5
+|-
+| 1948
+! scope="row"| "Tramp on the Street"
+| 14
+|-
+| 1951
+! scope="row"| "Too Old to Cut the Mustard" {{small|(The Carlisles)}}
+| 6
+|-
+| rowspan="4"| 1953
+! scope="row"| "No Help Wanted" {{small|(The Carlisles)}}
+| 1
+|-
+! scope="row"| "Knothole" {{small|(The Carlisles)}}
+| 3
+|-
+! scope="row"| "Is Zat You, Myrtle" {{small|(The Carlisles)}}
+| 2
+|-
+! scope="row"| "Tain't Nice (To Talk Like That)" {{small|(The Carlisles)}}
+| 5
+|-
+| rowspan="2"| 1954
+! scope="row"| "Shake-a-Leg" {{small|(The Carlisles)}}
+| 15
+|-
+! scope="row"| "Honey Love" {{small|(The Carlisles)}}
+| 12
+|-
+| 1965
+! scope="row"| "What Kinda Deal Is This"
+| 4
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+
+{{Portal bar|Biography|United States|Music}}
+
+*[https://web.archive.org/web/20040223004405/http://www.cmt.com/artists/az/carlisle_bill/bio.jhtml Bill Carlisle biography at CMT.com]
+* [https://adp.library.ucsb.edu/names/107081 Bill Carlisle recordings] at the [[Discography of American Historical Recordings]].
+{{Grand Ole Opry members}}
+{{2000s Country Music Hall of Fame}}
+{{Authority control}}
+
+{{DEFAULTSORT:Carlisle, Bill}}
+[[Category:1908 births]]
+[[Category:2003 deaths]]
+[[Category:American country singer-songwriters]]
+[[Category:American country guitarists]]
+[[Category:American male guitarists]]
+[[Category:Grand Ole Opry members]]
+[[Category:Country Music Hall of Fame inductees]]
+[[Category:Members of the Country Music Association]]
+[[Category:Country musicians from Kentucky]]
+[[Category:People from Spencer County, Kentucky]]
+[[Category:People from Minden, Louisiana]]
+[[Category:King Records artists]]
+[[Category:Decca Records artists]]
+[[Category:RCA Victor artists]]
+[[Category:Mercury Records artists]]
+[[Category:Columbia Records artists]]
+[[Category:Hickory Records artists]]
+[[Category:20th-century American singer-songwriters]]
+[[Category:Singer-songwriters from Kentucky]]
+[[Category:20th-century American guitarists]]
+[[Category:Baptists from Louisiana]]
+[[Category:Singer-songwriters from Louisiana]]
+[[Category:Guitarists from Kentucky]]
+[[Category:Guitarists from Louisiana]]
+[[Category:Baptists from Kentucky]]
+[[Category:Country musicians from Louisiana]]
+[[Category:20th-century American male musicians]]
+[[Category:20th-century Baptists]]
+[[Category:American male singer-songwriters]]

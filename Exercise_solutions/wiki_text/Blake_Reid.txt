@@ -1,0 +1,116 @@
+{{Use dmy dates|date=July 2020}}
+{{BLP sources|date=February 2019}}
+{{Infobox musical artist
+| name            = Blake Reid
+| image           =
+| image_size      =
+| caption         =
+| birth_name      =
+| birth_date      =
+| birth_place     = [[Cremona, Alberta|Cremona]], Alberta, Canada
+| origin          =
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| instrument      =
+| years_active    = 2012–present
+| label           = [[Royalty Records|Royalty]]
+| associated_acts =
+| website         = {{URL|http://blakereidband.com/}}
+}}
+
+'''Blake Reid''' (born and raised in Cremona, Alberta) is a Canadian [[country music]] and roots singer-songwriter.  To date he has released 2 albums as a solo artist.
+
+==Career==
+
+Reid's first album 'Against the Grain' was released independently in 2012. Reid released 'Rust' in 2015, distributed by [[Sony Music Canada]].  In 2017, he formed the 'Blake Reid Band' and is featured in the award-winning full-length film/music documentary 'No Roads In' with respective 'No Roads In' album set to be released 2018.<ref>{{cite web |title=No Roads In |url=http://www.cbc.ca/documentarychannel/docs/no-roads-in |website=CBC CA |accessdate=5 August 2018}}</ref><ref>{{cite web   |title=Five Questions with Blake Reid|url=http://canadianbeats.ca/2017/11/02/five-questions-with-blake-reid-band/ |website=Canadian Beats |date=2 November 2017 |accessdate=5 August 2018}}</ref> Reid has been touring throughout 2018.<ref>{{cite web |title=Country singer Blake Reid charms Cold Lake |url=http://coldlakesun.com/2018/01/22/country-singer-blake-reid-charms-cold-lake |website=Coldlake Sun |accessdate=5 August 2018 }}{{Dead link|date=July 2020 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> Their film and album were created in High River Alberta, Canada (in an old, unused farm house).<ref>{{cite web |last1=Collie |first1=Doug |title=Singer returns to his roots in Olds |url=https://www.oldsalbertan.ca/article/singer-returns-to-his-roots-in-olds-20180220 |website=Olds Albertan |accessdate=5 August 2018}}</ref>
+
+==Style==
+
+Some of Reid's music reflects his Alberta roots, particularly the song 'Fuel, Fertilizer and John Deere'<ref>{{cite journal |title=Corb lund and the Albertan Fossil Fuel energy Debate |journal=American Music |volume=34 |issue=1 |pages=43–86 |jstor=10.5406/americanmusic.34.1.0043 |doi=10.5406/americanmusic.34.1.0043 |year=2016 |last1=Watson |s2cid=192383186 }}</ref>
+
+==Discography==
+
+===Studio albums===
+{| class="wikitable plainrowheaders"
+|-
+! style="width:8em;" | Title
+! style="width:18em;" | Details
+|-
+| scope="row" | ''Rust''
+| 
+* Release Date: 30 October 2015
+* Label: [[Royalty Records]]
+|-
+|''Against The Grain'' 
+|
+* Release Date: 17 August 2012
+* Label: Harvest Music
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders"
+|-
+!Year
+! style="width:12em;" | Title
+!Album
+|-
+| rowspan="3" |2012
+|"After The Rain"
+| rowspan="3" |''Against The Grain''
+|-
+|"Take Me Back"
+|-
+|"Fuel Fertilizer and Deere"
+|-
+| rowspan="4" |2015
+| scope="row" |"Sounds Like a Song"
+| rowspan="4" |''Rust''
+|-
+| scope="row" |"Stay Home"
+|-
+| scope="row" |"Cowboys Were Kings"
+|-
+|"Rust"
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;" | Video
+! Director
+|-
+| 2015
+! scope="row" | "Stay Home"
+| Eppo Erkes
+|}
+
+===Film===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:12em;" | Video
+! Director
+|-
+| 2017
+! scope="row" | "No Roads In"
+| Josh Wong
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Official website|http://blakereid.ca//}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Reid, Blake}}
+[[Category:Canadian country singer-songwriters]]
+[[Category:Canadian male singer-songwriters]]
+[[Category:Living people]]
+[[Category:Singers from Alberta]]
+[[Category:Year of birth missing (living people)]]
+[[Category:21st-century Canadian male singers]]
+[[Category:21st-century Canadian singers]]
+[[Category:21st-century Canadian singer-songwriters]]

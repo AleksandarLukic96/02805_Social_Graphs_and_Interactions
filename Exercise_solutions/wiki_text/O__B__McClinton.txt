@@ -1,0 +1,365 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=August 2020}}
+{{Infobox musical artist  <!-- See Wikipedia:WikiProject Musicians -->
+| name                = O. B. McClinton
+| image                 =
+| caption            = 
+| image_size            = <!-- Only for images narrower than 220 pixels -->
+| background          = solo_singer
+| birth_name          = Obie Burnett McClinton
+| alias               = 
+| birth_place         =
+| birth_date          = April 25, 1940
+| death_date                = {{Death date and age|1987|9|23|1940|4|25}}
+| origin              = [[Senatobia, Mississippi]]
+| instrument          = Vocals, guitar
+| genre               = [[Country music|Country]]
+| occupation          = Singer-songwriter
+| years_active        = 1972–1987
+| label               = [[Enterprise Records|Enterprise]]<br />[[Mercury Records|Mercury]]<br />[[Epic Records|Epic]]<br />Sunbird<br />Moon Shine<br />[[Brylen Records|Brylen]]
+| associated_acts     = 
+| website                 = 
+}}
+
+'''Obie Burnett''' "'''O. B.'''" '''McClinton''' (April 25, 1940 &ndash; September 23, 1987) was an American black [[country music]] singer and songwriter.<ref name="AMG">{{Cite web|url=https://www.allmusic.com/artist/ob-mcclinton-mn0000452362|title=O.B. McClinton &#124; Biography & History|website=[[AllMusic]]|access-date=July 8, 2021}}</ref> The second-youngest child born to Rev. G. A. McClinton, a clergyman and farmer who owned a {{convert|700|acre|km2|adj=on}} ranch near [[Memphis, Tennessee]].  Listening to [[Hank Williams]] as a child around the age of nine or 10 sparked his interest in performing country music.
+
+Before beginning his country music career, he tried to break into [[Rhythm and blues|R&B]].<ref name="AMG"/>  Although he was unable to secure a recording contract as a soul singer himself, he did pen several songs recorded by [[James Carr (musician)|James Carr]],<ref name="LarkinSM">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Who's Who of Soul Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1993|edition=First|isbn=0-85112-733-9|page=172}}</ref> including the title songs to Carr's albums ''[[You Got My Mind Messed Up]]'' and ''[[A Man Needs a Woman]]''.<ref name="AMG"/>
+
+Known to refer to himself as the "Chocolate Cowboy", McClinton successfully marketed his album called ''The Only One'' on television long before the practice was commonplace.  Featuring his first country chart single "Don't Let The Green Grass Fool You", a top 40 song in 1972, he considered it to be his finest work.<ref name="AMG"/>
+
+He died on September 23, 1987, after a year-long battle with abdominal cancer.<ref name="AMG"/>
+
+== Discography ==
+
+=== Albums ===
+{| class="wikitable"
+! Year
+! Album
+! <small>[[Top Country Albums|US Country]]</small>
+! Label
+|-
+| 1971
+| ''O.B. McClinton Country''
+| align="center"| —
+| [[Enterprise Records|Enterprise]]
+|-
+| 1973
+| ''Obie From Senatobie''
+| align="center"| —
+| Enterprise
+|-
+| 1973
+| ''Live at Randy's Rodeo''
+| align="center"| —
+| Enterprise
+|-
+| 1974
+| ''If You Loved Her That Way''
+| align="center"| —
+| Enterprise
+|-
+| 1981
+| ''The Chocolate Cowboy''
+| align="center"| —
+| Lakeshore Music
+|-
+| 1986
+| ''O.B. McClinton''
+| align="center"| —
+| Hometown
+|-
+| 1987
+| ''The Only One''
+| align="center"| 55
+| Epic
+|-
+| 1988
+| ''Just For You''
+| align="center"| —
+| CBS/Hometown
+|}
+
+=== Singles ===
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="4" | Chart Positions
+! rowspan="2"| Album
+! rowspan="2"| Label
+|-
+! width="50"| <small>[[Hot Country Songs|US Country]]</small>
+! width="50"| <small>CAN Country</small>
+! width="50"| <small>US Cashbox Country Singles</small>
+! width="50"| <small>US Record World Country Singles</small>
+|-
+| rowspan="1"| 1964
+| "Tradin' Stamps"†
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| rowspan="4"| singles only
+| rowspan="1"| Beale Street
+|-
+| rowspan="2"| 1965
+| "The Day The World Cried"†
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| rowspan="3"| [[Goldwax]]
+|-
+| "She's Better Than You"±
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="1"| 1966
+| "Trying To Make It"†
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="2"| 1971
+| "Country Music, That's My Thing"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| rowspan="3"| ''O.B. McClinton Country''
+| rowspan="14"| Enterprise
+|-
+| "Bad Guys Don't Always Wear Black Hats"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="3"| 1972
+| "Deep In The Heart Of Me"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| "Six Pack of Trouble"
+| align="center"| 70
+| align="center"| —
+| align="center"| —
+| align="center"|57
+| rowspan="4"| ''Obie From Senatobie''
+|-
+| "Don't Let the Green Grass Fool You"
+| align="center"| 37
+| align="center"| 72
+| align="center"|31
+| align="center"|38
+|-
+| rowspan="4"| 1973
+| "My Whole World Is Falling Down"
+| align="center"| 36
+| align="center"| —
+| align="center"|39
+| align="center"|35
+|-
+| "I Wish It Would Rain"
+| align="center"| 67
+| align="center"| —
+| align="center"|59
+| align="center"|57
+|-
+| "[[You Don't Miss Your Water]]"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| rowspan="1"| single only
+|-
+| "The Unluckiest Songwriter In Nashville"
+| align="center"| —
+| align="center"| —
+| align="center"|85
+| align="center"| —
+| rowspan="1"| ''Obie From Senatobie''
+|-
+| rowspan="4"| 1974
+| "Something Better"
+| align="center"| 62
+| align="center"| —
+| align="center"|71
+| align="center"|65
+| rowspan="2"| ''If You Loved Her That Way''
+|-
+| "If You Loved Her That Way"
+| align="center"| 86
+| align="center"| —
+| align="center"|87
+| align="center"| —
+|-
+| "Blind, Crippled and Crazy"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| rowspan="13"| singles only
+|-
+| "Yours and Mine"
+| align="center"| 77
+| align="center"| —
+| align="center"|84
+| align="center"|72
+|-
+| rowspan="2"| 1975
+| "The Most Wanted Woman (Is An Unloved Wife)"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| "Just In Case"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| rowspan="4"| Mercury
+|-
+| rowspan="3"| 1976
+| "It's So Good Lovin' You"
+| align="center"| 100
+| align="center"| —
+| align="center"|71
+| align="center"| —
+|-
+| "Black Speck"
+| align="center"| —
+| align="center"| —
+| align="center"|103
+| align="center"| —
+|-
+| "Let's Just Celebrate The Temporary"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="2"| 1977
+| "Country Roots"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| rowspan="2"| ABC/Dot
+|-
+| "Talk To My Children's Mama"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| rowspan="2"| 1978
+| "Hello, This Is Anna" <small>(w/ Peggy Jo Adams)</small>
+| align="center"| 90
+| align="center"| —
+| align="center"|84
+| align="center"|89
+| rowspan="4"| Epic
+|-
+| "Natural Love"
+| align="center"| 82
+| align="center"| —
+| align="center"|73
+| align="center"|76
+|-
+| rowspan="2"| 1979
+| "The Real Thing"
+| align="center"| 79
+| align="center"| —
+| align="center"|66
+| align="center"|72
+|-
+| "Soap"
+| align="center"| 58
+| align="center"| —
+| align="center"|46
+| align="center"|53
+|-
+| 1980
+| "Not Exactly Free"‡
+| align="center"| 62
+| align="center"| —
+| align="center"|77
+| align="center"|75
+| rowspan="1"| ''The Chocolate Cowboy''
+| rowspan="1"| Sunbird
+|-
+| rowspan="2"| 1984
+| "Honky Tonk Tan"
+| align="center"| 69
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| rowspan="1"| ''Just For You''
+| rowspan="2"| Moonshine
+|-
+| "Last Rights"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| rowspan="2"| singles only
+|-
+| 1986
+| "Everybody's Talking About Ol' Herb ("The Whopper Song")"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| rowspan="1"| Track
+|-
+| rowspan="2"| 1987
+| "Turn the Music On"
+| align="center"| 61
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| rowspan="2"| ''The Only One''
+| rowspan="2"| Epic
+|-
+| "Still A Wanted Man"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|}
+† "Oboe"<br />
+± "Oboe with The Keys"<br />
+‡ "O.B. McClinton (The Chocolate Cowboy)"
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://mississippiencyclopedia.org/entries/ob-mcclinton/ McClinton, O. B.]
+
+{{Authority control}}
+
+{{DEFAULTSORT:McClinton, O. B.}}
+[[Category:1940 births]]
+[[Category:1987 deaths]]
+[[Category:People from Senatobia, Mississippi]]
+[[Category:American country singer-songwriters]]
+[[Category:African-American male singer-songwriters]]
+[[Category:American male singer-songwriters]]
+[[Category:Singer-songwriters from Mississippi]]
+[[Category:Place of death missing]]
+[[Category:Deaths from cancer]]
+[[Category:African-American country musicians]]
+[[Category:Country musicians from Mississippi]]
+[[Category:20th-century African-American male singers]]
+[[Category:20th-century American male singers]]
+[[Category:20th-century American singers]]
+[[Category:Enterprise Records artists]]
+[[Category:Brylen Records artists]]

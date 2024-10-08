@@ -1,0 +1,148 @@
+{{Short description|American country music vocal duo}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject Musicians -->
+| name            = The O'Kanes
+| image           = The O'Kanes.JPG
+| caption         = Jamie O'Hara and Kieran Kane
+| image_size      = 
+| origin          = [[Nashville, Tennessee]], U.S.
+| genre           = [[Country music|Country]]
+| years_active    = 1986–1990
+| label           = [[Columbia Records|Columbia]]
+| past_members    = [[Jamie O'Hara (singer)|Jamie O'Hara]]<br />[[Kieran Kane]]
+}}
+
+'''The O'Kanes''' were an American [[country music]] duo composed of [[Jamie O'Hara (singer)|Jamie O'Hara]] and [[Kieran Kane]], both vocalists and guitarists. Active between 1986 and 1990, the duo recorded three albums for [[Columbia Records]] and charted seven singles on the ''[[Billboard (magazine)|Billboard]]'' Hot Country Singles (now [[Hot Country Songs]]) chart, including "[[Can't Stop My Heart from Loving You]]".
+
+==Biography==
+The O'Kanes consisted of singer-songwriters [[Jamie O'Hara (singer)|Jamie O'Hara]] and [[Kieran Kane]]. Kane was born October 7, 1949, in [[Queens]], New York, and began performing at the age of nine. He then moved to [[Los Angeles, California]], to begin working professionally in the music industry.<ref name="kieran allmusic">{{cite web | url=https://www.allmusic.com/artist/kieran-kane-mn0000072510/biography | title=Kieran Kane biography | publisher=[[AllMusic]] | accessdate=March 26, 2023 | author=Jason Ankeny}}</ref> After this, he was persuaded by country singer [[Deborah Allen]] to move to [[Nashville, Tennessee]].<ref name="hurst">{{cite news | url=https://www.newspapers.com/image/229600105/ | title=Jamie O'Hara, Kieran Kane duet is free to be beautiful | work=[[The Orlando Sentinel]] | date=September 14, 1986 | accessdate=March 26, 2023 | author=Hawkeye Hurst | pages=5}}</ref> By 1980, he had signed to [[Elektra Records]] as a solo artist, where he recorded one album and charted eight singles on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] charts.<ref>Whitburn, p. 190</ref> He also received a nomination from the [[Academy of Country Music Awards]] for [[Academy of Country Music Award for New Male Artist of the Year|Top New Male Vocalist]] in 1983, losing to [[Michael Martin Murphy]]. O'Hara (August 8, 1950-January 7, 2021) was born and raised in [[Toledo, Ohio]], and initially sought to play [[American football]] until an injury forced him to pursue a musical career as well.<ref name="jamie allmusic">{{cite web | url=https://www.allmusic.com/artist/jamie-ohara-mn0000176154/biography | title=Jamie O'Hara biography | publisher=AllMusic | accessdate=March 26, 2023 | author=Johnny Loftus}}</ref> He supported himself by performing at various [[nightclub]]s throughout the [[Midwestern United States]] until also moving to Nashville by the end of the 1970s.<ref name="okanes allmusic"/>
+
+The two songwriters met for the first time when both had publishing contracts with [[Tree International Publishing]] in Nashville. At the time, O'Hara had success with the songs "[[Older Women]]" and "[[Wandering Eyes]]", both recorded by [[Ronnie McDowell]],<ref name="okanes allmusic"/> as well as "[[Grandpa (Tell Me 'Bout the Good Old Days)]]" by [[The Judds]].<ref name="hurst"/> Inspired by the success of these songs, O'Hara chose to write with Kane after the two met each other and realized they worked for the same company. One of their collaborations, "Bluegrass Blues", was recorded by both the Judds and [[Southern Pacific (band)|Southern Pacific]]. The two of them then decided to record [[demo (music)|demo]]s of their collaborative songs. Initially, they did not intend to become an official performing act, but ultimately chose to do so after both of them reacted favorably to the sound of their recordings.<ref name="hurst"/>
+
+===Musical career===
+O'Hara and Kane began performing together as The O'Kanes in 1986.<ref name="LarkinGE">{{cite book|title=[[Encyclopedia of Popular Music|The Guinness Encyclopedia of Popular Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Guinness Publishing]]|date=1992|edition=First|isbn=0-85112-939-0|page=1856}}</ref> That same year, the duo signed to [[Columbia Records]] Nashville and released their [[The O'Kanes (album)|self-titled debut album]], which consisted entirely of their original demo recordings. According to Kane, record executives insisted on letting the duo sing, write, and produce entirely by themselves, so that the recording could be satisfactory to the both of them.<ref name="hurst"/> ''The O'Kanes'' charted four singles on ''Billboard'' Hot Country Songs between 1986 and 1987. These were  "[[Oh Darlin' (Why Don't You Care for Me No More)]]", "[[Can't Stop My Heart from Loving You]]", "[[Daddies Need to Grow Up Too]]", and "[[Just Lovin' You]]". Of these, "Can't Stop My Heart from Loving You" peaked at number one, while the other three all reached top ten.<ref name="whitburn"/> ''[[Tired of the Runnin']]'' charted the top-ten hits "[[One True Love (song)|One True Love]]" and  "[[Blue Love (song)|Blue Love]]" upon its 1988 release, but the third single "Rocky Road" fell short of the top 40.<ref name="okanes allmusic"/> A third and final Columbia album, ''Imagine That'', charted no singles upon its 1990 release, and the duo disbanded soon after.<ref name="okanes allmusic"/>
+
+After they disbanded in 1990, both members pursued solo careers, and Kane founded a record label named [[Dead Reckoning Records]].<ref name="okanes allmusic">{{cite web|url=https://www.allmusic.com/artist/the-okanes-mn0000485705/biography|title=The O'Kanes biography|website=[[Allmusic]]|access-date=3 October 2018}}</ref> O'Hara died of cancer on January 7, 2021, at age 70.<ref name="tasteofcountry">{{cite web |url=https://tasteofcountry.com/jamie-ohara-dead-dies/ |title=Singer-Songwriter Jamie O'Hara Dead at 70|last=Whitaker|first=Sterling|date=January 7, 2021|access-date=January 8, 2021|website=Taste of Country}}</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:16em;"| Title
+! rowspan="2" style="width:19em;"| Album details
+! Peak positions
+|- style="font-size:smaller;"
+! width="65"| [[Top Country Albums|US Country]]
+|-
+! scope="row"| ''[[The O'Kanes (album)|The O'Kanes]]''
+| 
+* Release date: 1986
+* Label: [[Columbia Records]]
+| 9
+|-
+! scope="row"| ''[[Tired of the Runnin']]''
+| 
+* Release date: 1988
+* Label: Columbia Records
+| 21
+|-
+! scope="row"| ''Imagine That''
+| 
+* Release date: January 5, 1990
+* Label: Columbia Records
+| 63
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:24em;"| Single
+! colspan="2"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]<br/><ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2017|publisher=Record Research, Inc|year=2017|page=263|isbn=978-0-89820-229-8}}</ref>
+! width="45"| [[RPM (magazine)|CAN Country]]<br/><ref>{{cite magazine|url=http://www.bac-lac.gc.ca/eng/discover/films-videos-sound-recordings/rpm/Pages/list.aspx?OCRText=The+O'Kanes&ChartEn=Country+Singles&|title=The O'Kanes - Country Singles|access-date=March 15, 2023|magazine=RPM}}</ref>
+|-
+| 1986
+! scope="row"| "[[Oh Darlin' (Why Don't You Care for Me No More)]]"
+| 10
+| 6
+| align="left" rowspan="4"| ''The O'Kanes''
+|- 
+| rowspan="3"| 1987
+! scope="row"| "[[Can't Stop My Heart from Loving You]]"
+| 1
+| 1
+|- 
+! scope="row"| "[[Daddies Need to Grow Up Too]]"
+| 9
+| 12
+|- 
+! scope="row"| "[[Just Lovin' You]]"
+| 5
+| 9
+|- 
+| rowspan="3"| 1988
+! scope="row"| "[[One True Love (song)|One True Love]]"
+| 4
+| 5
+| align="left" rowspan="3"| ''Tired of the Runnin'''
+|- 
+! scope="row"| "[[Blue Love (song)|Blue Love]]"
+| 10
+| 18
+|- 
+! scope="row"| "Rocky Road"
+| 71
+| 79
+|-
+| rowspan="3"| 1990
+! scope="row"| "Why Should I"
+| —<sup>A</sup>
+| 75
+| align="left" rowspan="3"| ''Imagine That''
+|-
+! scope="row"| "Diddy All Night Long"
+| —<sup>A</sup>
+| 73
+|-
+! scope="row"| "Tell Me I Was Dreaming"<ref>{{cite magazine|url=http://americanradiohistory.com/Archive-Billboard/90s/1990/BB-1990-07-07.pdf|title=Single Reviews|magazine=[[Billboard (magazine)|Billboard]]|date=July 7, 1990}}</ref>
+| —
+| —
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+'''Notes:'''
+*<sup>A</sup> "Why Should I?" and "Diddy All Night Long" did not chart on Hot Country Songs, but both peaked at No. 7 on Hot Country Radio Breakouts.<ref>{{cite magazine|url=http://americanradiohistory.com/Archive-Billboard/90s/1990/BB-1990-02-10.pdf|title=Hot Country Radio Breakouts|date=February 10, 1990|magazine=Billboard}}</ref><ref>{{cite magazine|url=http://americanradiohistory.com/Archive-Billboard/90s/1990/BB-1990-05-05.pdf|title=Hot Country Radio Breakouts|date=May 5, 1990|magazine=Billboard}}</ref>
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:16em;"| Video
+! Director
+|-
+| 1987
+! scope="row"| "Oh Darlin'"
+|
+|-
+| 1988
+! scope="row"| "One True Love"
+| 
+|}
+
+==References==
+{{Reflist}}
+
+{{The O' Kanes}}
+{{Authority control}}
+
+{{DEFAULTSORT:Okanes, The}}
+[[Category:1986 establishments in Tennessee]]
+[[Category:1990 disestablishments in Tennessee]]
+[[Category:Country music groups from Tennessee]]
+[[Category:American country music duos]]
+[[Category:Columbia Records artists]]
+[[Category:Musical groups established in 1986]]
+[[Category:Musical groups disestablished in 1990]]

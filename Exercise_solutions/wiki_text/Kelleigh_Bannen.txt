@@ -1,0 +1,200 @@
+{{short description|American singer-songwriter}}
+
+{{Infobox musical artist
+| name            = Kelleigh Bannen
+| image           =
+| image_size      =
+| landscape       =
+| alt             =
+| caption         =
+| birth_name      = Kelleigh Carlyle Bannen
+| birth_date      = {{birth date and age|1981|2|18}}<ref>{{cite book | title=Joel Whitburn's Top Country Singles 1944-2017 | publisher=Record Research, Inc. | author=Joel Whitburn | authorlink=Joel Whitburn | year=2017 | pages=36 | isbn=9780898202298}}</ref>
+| birth_place     = [[Nashville, Tennessee]]<ref>{{cite web |url=http://www.kelleighbannen.com/story/news/kelleigh-bannen-signed-to-emi-records |title=Kelleigh Bannen Signed to EMI Records |publisher=Kelleighbannen.com |date= |accessdate=2012-10-28 |archive-url=https://archive.today/20130127123309/http://www.kelleighbannen.com/story/news/kelleigh-bannen-signed-to-emi-records |archive-date=2013-01-27 |url-status=dead }}</ref>
+| origin          = [[Nashville, Tennessee]], U.S.
+| genre           = [[Country music|Country]]
+| occupation      = Singer
+| label = Carlyle, [[EMI Records|EMI]] Nashville, Whiskey Rain
+| instrument      = Vocals
+| years_active    = 2008-present
+| background = solo_singer
+| website         = https://www.kelleighbannen.com/
+}}
+'''Kelleigh Carlyle Bannen''' (born February 18, 1981) is an American [[country music]] singer and host of Apple Music's Beats 1 "Today's Country" radio show. She debuted in 2012 with the single "Sorry on the Rocks", which has charted on [[Hot Country Songs]]. The song received three stars from Billy Dukes of Taste of Country, who compared her voice to [[Terri Clark]] but criticized the production.<ref>{{cite web|url=http://tasteofcountry.com/kelleigh-bannen-sorry-on-the-rocks/ |title=Kelleigh Bannen, 'Sorry on the Rocks' – Song Review |publisher=Tasteofcountry.com |date=2012-08-01 |accessdate=2012-10-28}}</ref><ref>{{cite web|url=http://www.musicrow.com/2012/08/musicrowpics-kelleigh-bannen-artist-visit/ |title=MusicRowPics: Kelleigh Bannen Artist Visit : MusicRow – Nashville's Music Industry Publication – News, Songs From Music City |publisher=Musicrow.com |date=2012-10-24 |accessdate=2012-10-28}}</ref> Her second single, "Famous", charted in 2014, followed by "You Are What You Love". Bannen's album, "Favorite Colors", was released in 2019, produced by Jaren Johnston.
+
+==Family life==
+Kelleigh Carlyle Bannen was born February 18, 1981, in [[Nashville, Tennessee|Nashville]], [[Tennessee]]. When she was just 5 years old, she started playing the  violin. Her first violin was made out of a [[Cracker Jack]] box and a paint stirrer. Her brother, Thomas Grant, died on her birthday in 2008 of a drug overdose.<ref>{{cite web|url=https://obits.tennessean.com/obituaries/tennessean/obituary.aspx?n=grant-thomas-bannen&pid=103777442 |title=Grant Thomas Bannen |publisher=TheTennessean |date=2008-02-19 |accessdate=2019-10-30}}</ref> Subsequent to that Kelleigh embarked on a memory tour benefiting the [[Hazelden Foundation]], which in 2014 merged with the [[Betty Ford Center]], to become the [[Hazelden Betty Ford Foundation]]. She also began advocating for [[Alcoholics Anonymous|AA]], and the [[National Council on Alcoholism and Drug Dependence]].<ref>{{cite web|url=https://www.thisnashvillelife.com/about |title=This Nashville Life with Kelleigh Bannen|publisher=Thisnashvillelife.com |date=2008-02-19 |accessdate=2019-10-30}}</ref>
+
+Kelleigh is the host of the [[podcast]] "This Nashville Life" alongside producer, Kevin Sokolnicki.  On October 29, 2019, Kelleigh made her national television debut on the Today show with Hoda and Jenna.<ref>{{cite web|url= https://www.today.com/video/kelleigh-bannen-performs-time-machine-on-today-72246853728 |title=Kelleigh Bannen performs 'Time Machine' on TODAY |publisher= |date=2008-02-19 |accessdate=2019-10-30}}</ref>
+
+==Discography==
+===Albums===
+{| class="plainrowheaders" style="text-align:center;"
+|-
+! style="width:12em;"| Title
+! style="width:20em;"| Album details
+|- 
+! scope="row"| ''Radio Skies''
+| 
+* Release date: 2008
+* Label: Carlyle
+* Format: [[compact disc|CD]]
+|- 
+! scope="row"| ''Cheap Sunglasses''
+| 
+* Release date: 2016
+* Label: Whiskey Rain
+* Format: [[compact disc|CD]]
+|-
+! scope="row"| ''The Joneses''
+| 
+* Release date: 2018
+* Label: Whiskey Rain
+* Format: Digital
+|-
+!scope="row"|''Favorite Colors''
+|
+* Release date: 2019
+* Label: Whiskey Rain
+* Format: Digital
+|-
+!'''''Christmas Is Coming'''''
+|
+* Release date: 2020
+* Label: Whiskey Rain
+* Format: Digital
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! colspan="2"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! style="width:45px;"| [[Hot Country Songs|US Country]]<br /><ref>{{cite magazine|url={{BillboardURLbyName|artist=kelleigh bannen|chart=Country Songs}}|title=Kelleigh Bannen Album & Song Chart History - Country Songs|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=November 8, 2012}}</ref>
+! style="width:45px;"| [[Country Airplay|US Country Airplay]]<br /><ref>{{cite magazine|url={{BillboardURLbyName|artist=kelleigh bannen|chart=Country Airplay}}|title=Kelleigh Bannen Album & Song Chart History - Country Airplay|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=November 8, 2012}}</ref>
+|-
+| 2012
+| scope="row" | "Sorry on the Rocks"
+| 48
+| 41
+|-
+|rowspan=3|2014
+| scope="row" | "Famous"
+| 46
+| 49
+|-
+| scope="row" | "You Are What You Love"
+| —
+| 59
+|-
+| scope="row" | "Smoke When I Drink"
+| —
+| —
+|-
+|rowspan=1|2017
+| scope="row" | "Church Clothes"
+| —
+| —
+|-
+|rowspan=4|2019
+| scope="row" | "Deluxe"
+| —
+| —
+|-
+| scope="row" | "Faith in You"
+| —
+| —
+|-
+| scope="row" | "Boys Don't Cry"
+| —
+| —
+|-
+| scope="row" | "Diamonds"
+| —
+| —
+|-
+|2020
+| scope="row" | "The Optimist"
+|—
+|—
+|-
+|2023
+| scope="row" | "I Know Better Now"<ref>{{cite web|url=https://americansongwriter.com/kelleigh-bannen-shares-wise-new-single-i-know-better-now/|title=Kelleigh Bannen Shares Wise New Single "I Know Better Now"|author=Cillea Houghton|date=October 8, 2023|publisher=American Songwriter|accessdate=October 8, 2023}}</ref>
+|—
+|—
+|-
+|}
+
+===Music Videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:14em;"| Title
+! Director
+|-
+| 2012
+| scope="row" | "Sorry on the Rocks"<ref>{{cite web|url=http://www.cmt.com/videos/kelleigh-bannen/853268/sorry-on-the-rocks.jhtml|archive-url=https://web.archive.org/web/20121203043807/http://www.cmt.com/videos/kelleigh-bannen/853268/sorry-on-the-rocks.jhtml|url-status=dead|archive-date=December 3, 2012|title=CMT : Videos : Kelleigh Bannen : Sorry on the Rocks|publisher=[[Country Music Television]]|accessdate=November 5, 2012}}</ref>
+| Jim Wright
+|-
+| rowspan="2"| 2014
+| scope="row" | "Famous"<ref>{{cite web|url=http://www.cmt.com/videos/kelleigh-bannen/996585/famous.jhtml|archive-url=https://web.archive.org/web/20140131172333/http://www.cmt.com/videos/kelleigh-bannen/996585/famous.jhtml|url-status=dead|archive-date=January 31, 2014|title=CMT : Videos : Kelleigh Bannen : Famous|publisher=[[Country Music Television]]|accessdate=January 29, 2014}}</ref>
+| Hannah Lux Davis
+|-
+| scope="row" | "Smoke When I Drink"<ref>{{cite web|url=http://www.cmt.com/videos/kelleigh-bannen/1106007/smoke-when-i-drink.jhtml|archive-url=https://web.archive.org/web/20141208130602/http://www.cmt.com/videos/kelleigh-bannen/1106007/smoke-when-i-drink.jhtml|url-status=dead|archive-date=December 8, 2014|title=CMT : Videos : Kelleigh Bannen : Smoke When I Drink|publisher=[[Country Music Television]]|accessdate=December 6, 2014}}</ref>
+| Reid Long
+|-
+| rowspan="5"| 2016
+| scope="row" | "Landlocked"<ref>{{cite web|url=http://www.cmt.com/videos/kelleigh-bannen/1422186/landlocked.jhtml|archive-url=https://web.archive.org/web/20160624035521/http://www.cmt.com/videos/kelleigh-bannen/1422186/landlocked.jhtml|url-status=dead|archive-date=June 24, 2016|title=CMT : Videos : Kelleigh Bannen : Landlocked|publisher=[[Country Music Television]]|accessdate=June 20, 2016}}</ref>
+| rowspan="5"| Blythe Thomas
+|-
+| scope="row" | "Once Upon A"
+|-
+| scope="row" | "All Good Things"
+|-
+| scope="row" | "Cheap Sunglasses"
+|-
+| scope="row" | "Welcome to the Party"<ref>{{cite web|url=http://www.cmt.com/videos/kelleigh-bannen/1546121/welcome-to-the-party.jhtml|archive-url=https://web.archive.org/web/20160926002504/http://www.cmt.com/videos/kelleigh-bannen/1546121/welcome-to-the-party.jhtml|url-status=dead|archive-date=September 26, 2016|title=CMT : Videos : Kelleigh Bannen : Welcome to the Party|publisher=[[Country Music Television]]|accessdate=September 20, 2016}}</ref>
+|-
+| 2017
+| scope="row" | "Church Clothes"
+| Michael Monaco
+|-
+| 2018
+| scope="row" | "Happy Birthday"
+|Evan Kauffman
+|-
+| rowspan="4" |2019
+|"Deluxe"
+| rowspan="4" |Carlos Ruiz
+|-
+|"Faith in You"
+|-
+|"Boys Don't Cry"
+|-
+|"Diamonds"
+|-
+|2020
+|"Suit"
+|Rachel Deeb
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://www.kelleighbannen.com Official website]
+
+{{authority control}}
+
+{{DEFAULTSORT:Bannen, Kelleigh}}
+[[Category:American country singer-songwriters]]
+[[Category:American women country singers]]
+[[Category:EMI Records artists]]
+[[Category:Singers from Nashville, Tennessee]]
+[[Category:Living people]]
+[[Category:1981 births]]
+[[Category:Singer-songwriters from Tennessee]]
+[[Category:21st-century American women singers]]
+[[Category:21st-century American singer-songwriters]]
+[[Category:Country musicians from Tennessee]]

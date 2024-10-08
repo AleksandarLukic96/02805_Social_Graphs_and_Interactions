@@ -1,0 +1,186 @@
+{{Use dmy dates|date=September 2020}}
+{{third-party|date=March 2011}}
+{{Infobox musical artist
+| name            = J. R. Vautour
+| image           =
+| image_size      = <!-- Only for images smaller than 220 pixels -->
+| caption         =
+| birth_date      =
+| birth_place     = [[Toronto]], Ontario, Canada
+| origin          =
+| instrument      =
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| years_active    = 2000–present
+| label           = Busy Music
+| associated_acts =
+| website         = [http://www.jrvautour.com/ www.jrvautour.com]
+}}
+
+'''J. R. Vautour''' is a Canadian [[country music]] artist from [[Toronto]], Ontario. In his career, he has recorded three studio albums and released more than fifteen singles. He was also nominated for a [[Juno Awards of 2002|Juno Awards 2002]],<ref name="junoawards.ca"/> a Canadian Country Music award, and an East Coast Music Award.
+
+==Biography==
+J. R. Vautour was born in [[Toronto]], Ontario and raised in [[Minto, New Brunswick]]. He began performing at a young age, finishing second to [[Beverley Mahood]] in the 12-and-under category of a [[Brantford, Ontario]] singing contest.<ref name="bio"/> When he turned 18, Vautour's parents took him to [[Nashville, Tennessee]] to record his first demos.<ref name="bio"/> For the 1998 [[Canadian Broadcasting Corporation|CBC]] special ''Where the River Meets the Sea'', a show which featured the top music acts of [[New Brunswick]], Vautour was chosen to represent country music.<ref name="archive"/>
+
+Vautour's debut album, ''J. R. Vautour'', was released in 2000 on his own Busy Music record label. His first single, "You're the One," peaked in the Canadian country top 20. "Gettin' Our Feet Wet" spent five weeks at No.&nbsp;1 on the independent Canadian singles chart. "Dry Eye," the follow-up single, also reached No.&nbsp;1. Additional singles "Don't Mean Maybe" and "This Time" also reached the Canadian top 20.<ref name="bio"/> With his radio success, Vautour began opening for country legends [[Boxcar Willie]] and [[Gene Watson]].<ref name="bio"/>
+
+Vautour was nominated for Country Music Artist of the Year at the 2001 [[East Coast Music Award]]s, and his album was nominated for Album of the Year the Canadian Music Week Awards. At the 2002 [[Juno Award]]s, Vautour was nominated for Best New Country Artist. Vautour was also nominated for Independent Male Artist of the Year at the 2002 [[Canadian Country Music Association|Canadian Country Music Awards]].<ref name="bio"/>
+
+Vautour has since released the albums ''The New Me'' (2003) and ''Break'' (2006), and continued his string of hit singles with songs like "Addicted," "Kiss Me Goodbye," "U Make Me Love U," "Don't Know It Yet" and "The New Me." His latest single, "You Were There," was released in June 2008.
+
+==Discography==
+
+===Albums===
+{|class="wikitable"
+!Year
+!Album
+|-
+|2000
+|''J. R. Vautour''
+|-
+|2003
+|''The New Me''
+|-
+|2006
+|''Break''
+|}
+
+===Singles===
+{| class="wikitable"
+! Year
+! Title
+! Album
+|-
+| 2000
+| "You're the One"
+| rowspan="6"| ''J. R. Vautour''
+|-
+| rowspan="2"| 2001
+| "How the End Should Start"
+|-
+| "Gettin' Our Feet Wet" 
+|-
+| rowspan="2"| 2002
+| "Dry Eye"
+|-
+| "Don't Mean Maybe"
+|-
+| rowspan="3"| 2003
+| "This Time"
+|-
+| "Addicted"
+| rowspan="6"| ''The New Me''
+|-
+| "Kiss Me Goodbye"
+|-
+| 2004
+| "U Make Me Love U"
+|-
+| rowspan="2"| 2005
+| "Don't Know It Yet"
+|-
+| "Do You Remember"
+|-
+| rowspan="3"| 2006
+| "The New Me"
+|-
+| "Going Home" 
+| rowspan="8"| ''Break''
+|-
+| "Weak" 
+|-
+| rowspan="3"| 2007
+| "Hangover"
+|-
+| "Break"
+|-
+| "You Can"
+|-
+| rowspan="3"| 2008
+| "I Give"
+|-
+| "You Were There"
+|-
+| "Why Me?"
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"   
+! Year
+! style="width:16em;"| Title
+! Director
+|-
+| 2003
+! scope="row"| "Addicted"
+| Randy Saulter
+|-
+| rowspan="2"| 2004
+! scope="row"| "U Make Me Love U"
+| Michael Monaco
+|-
+|}
+
+==Awards and nominations==
+{| class="wikitable"
+|-
+! Year
+! Association
+! Category
+! Result
+|-
+| rowspan="2"| 2002
+| [[Juno Awards of 2002]]
+| [[Juno Award for Country Album of the Year|Best New Country Artist/Group]]
+| {{nom}}
+|-
+| rowspan="4"| [[Canadian Country Music Association]]
+| Independent Male Artist of the Year
+| {{nom}}
+|-
+| rowspan="3"| 2004
+| Chevy Trucks Rising Star Award
+| {{nom}}
+|-
+| Independent Male Artist of the Year
+| {{nom}}
+|-
+| Independent Song of the Year – "Addicted"
+| {{nom}}
+|-
+|}
+
+==References==
+{{Reflist
+| refs =
+
+<ref name="bio">{{Cite web |url=http://www.jrvautour.com/biography.html |title=jrvautour.com Biography |access-date=13 September 2007 |archive-url=https://web.archive.org/web/20070701185944/http://www.jrvautour.com/biography.html |archive-date=1 July 2007 |url-status=dead }}</ref>
+
+<ref name="archive">
+[https://web.archive.org/web/20010305090356/http://www.jrvautour.com/bio.asp jrvautour.com Biography]
+</ref>
+
+<ref name="junoawards.ca">
+{{cite web
+| url         = http://junoawards.ca/database/artist-summary/?artist_name=J.R.+Vautour
+| title       = Juno Awards Database
+| work        = junoawards.ca/database
+| publisher   = [[Canadian Academy of Recording Arts and Sciences]]
+| accessdate  = 8 March 2011
+}}
+</ref>
+
+}}
+
+==External links==
+*[http://www.jrvautour.com J. R. Vautour Official Site]
+*[http://www.countrymusicnews.ca/news.ihtml?step=2&article_id=1241 J. R. Vautour Making His 'Break']
+* {{IMDb name|nm11392369}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Vautour, J.R.}}
+[[Category:Singers from Toronto]]
+[[Category:Canadian country singer-songwriters]]
+[[Category:Canadian male singer-songwriters]]
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]

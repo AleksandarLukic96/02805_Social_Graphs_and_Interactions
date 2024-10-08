@@ -1,0 +1,261 @@
+{{short description|American singer-songwriter}}
+
+{{Use mdy dates|date=December 2020}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Mark McGuinn
+| image                 =
+| caption            = 
+| image_size            = 
+| background          = solo_singer
+| birth_name          = 
+| birth_place                =
+| birth_date                = {{Birth date and age|1968|08|19}}<ref name="whitburn"/>
+| origin              = [[Greensboro, North Carolina]], U.S.
+| instrument          = Vocals, guitar, piano, trumpet
+| genre               = [[country music|Country]]
+| occupation          = Singer-songwriter
+| years_active        = 2000–2002<br>2006<br>2011
+| label               = VFR, Blue Flamingo, Off Center
+| associated_acts     = [[Lonestar]]}}
+'''Mark McGuinn''' (born August 19, 1968) is an American [[country music]] artist. He made his debut in 2001 with the single "[[Mrs. Steven Rudy]]", a Top 10 hit on the U.S. ''Billboard'' [[Hot Country Singles & Tracks]] charts. It was the first of three singles from his first album ''Mark McGuinn'', which was released in 2001 on the independent VFR Records label. The label was closed in 2002, and McGuinn did not a record another album until ''One Man's Crazy'' in 2006, released on Blue Flamingo Records. He has not recorded an album since then.
+
+==Biography==
+McGuinn was born in [[Greensboro, North Carolina]]. His musical background includes playing trumpet in a jazz band.<ref name="dark">{{cite web |url=http://www.cmt.com/news/country-music/1443637/dark-horse-mcguinn-hits-with-mrs-steven-rudy.jhtml |archive-url=https://web.archive.org/web/20121022172043/http://www.cmt.com/news/country-music/1443637/dark-horse-mcguinn-hits-with-mrs-steven-rudy.jhtml |url-status=dead |archive-date=October 22, 2012 |title=Dark Horse McGuinn Hits with "Mrs. Steven Rudy" |accessdate=December 14, 2007 |last=Zhito |first=Lisa |date=April 9, 2001 |work=CMT.com}}</ref> McGuinn later aspired to become a professional soccer player. After a knee injury, he decided to move to [[Nashville, Tennessee]], in 1994 to become a songwriter instead.<ref name="allmusic">{{cite web |url={{AllMusic|class=artist|id=p468796|pure_url=yes}} |title=Mark McGuinn biography |accessdate=December 14, 2007 |last=Cohoon |first=Rick |work=[[Allmusic]]}}</ref>
+
+==Musical career==
+By 2001, McGuinn was signed to VFR Records, a newly formed independent record label, which released his first album, ''Mark McGuinn'', in May that year.<ref name="allmusic"/> Initially, the label had planned to release "That's a Plan" as the album's first single. After a disc jockey at [[KPLX]] in [[Dallas]], Texas, began playing "Mrs. Steven Rudy", another track from the album, other nearby stations soon followed suit. Due to the reaction the song was receiving in this market, the label released it as McGuinn's first single, with "That's a Plan" on the [[B-side]].<ref name="whitburn">{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=273|isbn=0-89820-177-2}}</ref>
+
+Upon the release of "Mrs. Steven Rudy", McGuinn was considered a "[[dark horse]]" on the country music scene, due in part to his jazz background and [[beatnik]] image, which were considered outside the norms of country radio.<ref name="dark"/> "Mrs. Steven Rudy" was a top ten hit on the ''[[Billboard (magazine)|Billboard]]'' country music charts, and the highest-selling single on the country singles sales charts for five consecutive weeks.<ref>{{cite web |url=http://magazine.angrycountry.com/article.php?story=20051122111856391 |title=Mark McGuinn a Happy Man at Radio |accessdate=December 14, 2007 |date=November 22, 2005 |work=AngryCountry.com}}</ref> His album entered the [[Top Country Albums]] chart at number 18, setting a new record for the highest entry on that chart for the first release from an independent label.<ref>{{cite web |url=http://www.cmt.com/artists/news/1443996/20010523/mcguinn_mark.jhtml |title=McGuinn Breaks SoundScan Record |accessdate=December 14, 2007 |date=May 24, 2001 |work=CMT.com}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref> "That's a Plan" was eventually released as the second single, followed by "She Doesn't Dance". These songs peaked at numbers 25 and 29, respectively, on the country charts.
+
+Rick Cohoon of [[Allmusic]] rated the album four stars out of five, saying that it "combines an entertaining musical arrangement with solid songwriting."<ref>{{cite web|url={{AllMusic|class=album|id=r529206|pure_url=yes}} |title=''Mark McGuinn'' review|last=Cohoon|first=Rick|work=Allmusic|accessdate=February 8, 2010}}</ref>
+
+===After first album===
+On the day of the [[September 11 attacks|September 11, 2001, attacks]], McGuinn wrote and recorded a tribute song entitled "More Beautiful Today". He insisted that the song not be released to radio (although it did receive enough airplay to enter the country charts), and made it available only as a download on his website.<ref>{{cite web |url=http://www.gactv.com/gac/nw_feature/article/0,,GAC_26499_4983928,00.html |title=Writing Through the Pain |accessdate=December 14, 2007 |last=Newcomer |first=Wendy |work=GACTV.com}}</ref>
+
+McGuinn also wrote a song entitled "[[Unusually Unusual]]", which was recorded by the country band [[Lonestar]] on their 2001 album ''[[I'm Already There]]''. This song was released in late 2002 as a single, reaching number 12 on the country charts.<ref name="about">{{cite web |url=http://countrymusic.about.com/od/cdreviewsmz/gr/onemanscrazy.htm |title=Mark McGuinn – One Man's Crazy |accessdate=December 14, 2007 |last=Bjorke |first=Matt |work=About.com}}</ref> Later that year, VFR declared bankruptcy, leaving McGuinn without a record deal. He then took a break to begin a family.
+
+McGuinn returned to the studio in 2005 to record his second album, ''One Man's Crazy''. It was released that year on Blue Flamingo Records, an independent label started by McGuinn and one of his co-writing partners, Jim Foster.<ref>{{cite web |url=http://www.cmt.com/artists/news/1528204/20060407/mcguinn_mark.jhtml |title=Mark McGuinn Prepares Follow-Up |accessdate=December 14, 2007 |date=April 7, 2006 |work=CMT.com}}{{dead link|date=July 2024|bot=medic}}{{cbignore|bot=medic}}</ref> "More Beautiful Today" was also reprised for this album.<ref name="about"/> In 2008, [[George Jones]] released the single "You and Me and Time", which McGuinn co-wrote.
+
+==''Mark McGuinn'' (2001)==
+{{Infobox album
+| italic_title = no
+| name         = Mark McGuinn
+| type         = studio
+| artist       = Mark McGuinn
+| cover        =
+| caption      = 
+| alt          =
+| released     = {{start date|2001|5|8}}
+| recorded     = 2000–01
+| venue        =
+| studio       =
+| genre        = [[Country music|Country]]
+| length       = 43:58
+| label        = VFR
+| producer     = Mark McGuinn, Shane Decker
+| prev_title   =
+| prev_year    =
+| next_title   = One Man's Crazy
+| next_year    = 2006
+}}
+
+===Track listing===
+# "[[Mrs. Steven Rudy]]" ([[Mark McGuinn]], Shane Decker) – 3:29
+# "Heaven Must Be Missin' You" (McGuinn, Trey Matthews) – 3:41
+# "No Way" (McGuinn, Matthews) – 2:29
+# "[[That's a Plan]]" (Bobby Boyd, David Leone) – 3:26
+# "If the World Was Mine" (McGuinn, Decker) – 4:29
+# "One of Their Own" (McGuinn, Boyd) – 3:52
+# "[[She Doesn't Dance]]" (McGuinn, Don Pfrimmer, Decker) – 4:12
+# "Silver Platter" (McGuinn, Matthews) – 3:58
+# "All About the Ride" (McGuinn, Boyd, Billy Davidson) – 3:20
+# "Love Don't Float" (McGuinn, Jim Foster) – 3:38
+# "Busy Signal" (McGuinn, Matthews) – 4:28
+# "Done It Right" (McGuinn, Pfrimmer, Decker) – 3:04
+
+===Personnel===
+*Steve Bryant – bass guitar
+*[[J. T. Corenflos]] – electric guitar
+*Gary DiBenedetto – [[steel guitar]]
+*[[Dan Dugmore]] – steel guitar
+*Glen Duncan – [[fiddle]]
+*Gary Hogue – steel guitar
+*Don Kerce – bass guitar
+*Wayne Killius – drums, [[Music loop|drum loop]]s, percussion
+*Troy Lancaster – electric guitar
+*Mark McGuinn – lead vocals, [[Backing vocalist|background vocals]]
+*Dennis McCracken – background vocals
+*Curt Ryle – [[Steel-string acoustic guitar|acoustic guitar]], background vocals
+*Scott Sanders – steel guitar
+*Wanda Vick – [[banjo]], [[Dobro]], fiddle, [[mandolin]]
+*Dennis Wage – piano, keyboards
+
+===Chart positions===
+{| class="wikitable"
+|-
+! Chart (2001)
+! Peak<br>position
+|-
+{{albumchart|BillboardCountry|18|artist=Mark McGuinn}}
+|-
+{{albumchart|Billboard200|117|artist=Mark McGuinn}}
+|-
+| U.S. ''Billboard'' Top Independent Albums
+| align="center"| 2
+|-
+| U.S. ''Billboard'' Top Heatseekers
+| align="center"| 1
+|-
+|}
+
+==''One Man's Crazy'' (2006)==
+{{Infobox album
+| italic_title = no
+| name         = One Man's Crazy
+| type         = studio
+| artist       = Mark McGuinn
+| cover        = onemanscrazy.jpg
+| alt          =
+| released     = {{start date|2006|7|4}}
+| recorded     = 2006
+| venue        =
+| studio       =
+| genre        = [[Country music|Country]]
+| length       = 52:26
+| label        = Blue Flamingo
+| producer     = Mark McGuinn, Jim Foster, Don Kerce
+| prev_title   = Mark McGuinn
+| prev_year    = 2001
+| next_title   =
+| next_year    =
+}}
+
+===Track listing===
+# "One Man's Crazy" (Mark McGuinn, Don Pfrimmer) – 4:00
+# "115lbs" (M. McGuinn, Jim Foster) – 3:48
+# "Deep" (M. McGuinn, Pfrimmer) – 3:05
+# "Bring 'Em Back" (M. McGuinn, S. McGuinn) – 4:16
+# "Turtle" (M. McGuinn, Foster) – 3:31
+# "Better a Painful Ending" (M. McGuinn, Sharyn Lane) – 4:26
+#*duet with Georgette Jones
+# "Trampoline" (M. McGuinn, John Reynolds) – 4:09
+# "Centreville" (M. McGuinn, Pfrimmer, Dennis McCraken) – 3:25
+# "Mona Lisa" (M. McGuinn, Trey Matthews) – 3:27
+# "Everest" (M. McGuinn, Pfrimmer) – 3:31
+# "Y" (M. McGuinn, Reynolds) – 2:47
+# "Wide Open" (M. McGuinn, Kevin Fisher) – 4:07
+# "Big Girl" (M. McGuinn) – 2:53
+# "More Beautiful Today" (M. McGuinn, Reynolds, Bill Davidson) – 5:01
+
+===Personnel===
+*Mark McGuinn – lead vocals, [[Backing vocalist|background vocals]], [[Steel-string acoustic guitar|acoustic guitar]], electric guitar, [[Dobro]], [[string section|strings]], [[mandolin]], [[Wurlitzer electric piano]], trumpet
+*Jim Brown – piano, keyboards
+*Bill Davidson – electric guitar, [[banjo]]
+*Georgette Jones – background vocals ("Wide Open")
+*Don Kerce – bass guitar, drum programming, cello, percussion
+*Wayne Killius – drums, [[Music loop|drum loop]]s
+*Jim Kimball – acoustic guitar
+*Dennis McCracken – background vocals ("Wide Open")
+*Russ Pahl – Dobro, electric guitar, [[steel guitar]]
+*Danny Parks – electric guitar, [[slide guitar]], [[12-string guitar]], [[baritone guitar]], [[archtop guitar]]
+*Brian Pruitt – drums, drum loops
+*Wanda Vick – [[fiddle]]
+
+==Singles==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:12em;"| Single
+! colspan="2"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Hot Country Songs|US Country]]
+! width="45"| [[Billboard Hot 100|US]]
+|-
+| rowspan="2"| 2001
+! scope="row"| "[[Mrs. Steven Rudy]]"
+| 6
+| 44
+| align="left" rowspan="3"| ''Mark McGuinn''
+|-
+! scope="row"| "[[That's a Plan]]"
+| 25
+| —
+|-
+| rowspan="2"| 2002
+! scope="row"| "[[She Doesn't Dance]]"
+| 29
+| —
+|-
+! scope="row"| "More Beautiful Today"
+| 54
+| —
+| align="left" rowspan="4"| ''One Man's Crazy''
+|-
+| rowspan="4"| 2006
+! scope="row"| "Bring 'Em Back"
+| —
+| —
+|-
+! scope="row"| "One Man's Crazy"
+| —
+| —
+|-
+! scope="row"| "Deep"
+| —
+| —
+|-
+! scope="row"|"God Bless the Children" {{small|(with Wayne Warner and the Nashville All-Star Choir)}}<ref>{{cite web | url=http://www.waynewarner.com/photos/gbtc/choir.html | title=Nashville All Star Choir | work=Wayne Warner | accessdate=November 28, 2019}}</ref>
+| —
+| —
+| ''Turbo Twang'n''
+|-
+| 2011
+! scope="row"| "Til U Got Home"
+| —
+| —
+| align="left"| single only
+|-
+| colspan="5" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+==Music videos==
+{| class="wikitable plainrowheaders"
+! Year
+! style="width:12em;"| Video
+! Director
+|-
+| rowspan="3"| 2001
+! scope="row"| "Mrs. Steven Rudy"<ref>{{cite web|url=http://www.cmt.com/videos/mark-mcguinn/387416/mrs-steven-rudy.jhtml|archive-url=https://web.archive.org/web/20090519192624/http://www.cmt.com/videos/mark-mcguinn/387416/mrs-steven-rudy.jhtml|url-status=dead|archive-date=May 19, 2009|title=CMT : Videos : Mark McGuinn : Mrs. Steven Rudy|publisher=[[Country Music Television]]|accessdate=August 5, 2011}}</ref>
+| rowspan="2"| David Abbott
+|-
+! scope="row"| "That's a Plan"<ref>{{cite web|url=http://www.cmt.com/videos/mark-mcguinn/387884/thats-a-plan.jhtml|archive-url=https://web.archive.org/web/20121024011431/http://www.cmt.com/videos/mark-mcguinn/387884/thats-a-plan.jhtml|url-status=dead|archive-date=October 24, 2012|title=CMT : Videos : Mark McGuinn : That's A Plan|publisher=[[Country Music Television]]|accessdate=August 5, 2011}}</ref>
+|-
+! scope="row"| "She Doesn't Dance"
+| Eric Welch
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://www.markmcguinn.com MarkMcGuinn.com]
+
+{{Authority control}}
+
+{{DEFAULTSORT:McGuinn, Mark}}
+[[Category:1968 births]]
+[[Category:American country pianists]]
+[[Category:American male pianists]]
+[[Category:American country singer-songwriters]]
+[[Category:Living people]]
+[[Category:Musicians from Greensboro, North Carolina]]
+[[Category:Singer-songwriters from North Carolina]]
+[[Category:20th-century American pianists]]
+[[Category:Country musicians from North Carolina]]
+[[Category:21st-century American pianists]]
+[[Category:20th-century American male musicians]]
+[[Category:21st-century American male musicians]]
+[[Category:American male singer-songwriters]]
+[[Category:Grimsley High School alumni]]

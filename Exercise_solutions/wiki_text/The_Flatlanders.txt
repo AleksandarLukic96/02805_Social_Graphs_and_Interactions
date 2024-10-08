@@ -1,0 +1,161 @@
+{{Use American English|date=July 2023}}
+{{Use mdy dates|date=July 2023}}
+{{Short description|American country band}}
+{{Refimprove|date=July 2015}}
+{{Infobox musical artist  <!-- See Wikipedia:WikiProject Musicians -->
+|name            = The Flatlanders
+|image           = Flatlanders.gif
+|caption         = The Flatlanders playing a concert in [[Lubbock, Texas]], on June 3, 2009
+|image_size      = 
+|background      = group_or_band
+|origin          = [[Lubbock, Texas]], U.S.
+|genre           = [[Country rock]], [[alternative country]]
+|years_active    = 1972–1973, 1998–present
+|label           = Charly, [[New West Records|New West]], [[Plantation Records|Plantation]], [[Rounder Records|Rounder]]
+|associated_acts = 
+|website         =  
+|current_members = [[Jimmie Dale Gilmore]]<br /> [[Joe Ely]]<br /> [[Butch Hancock]]
+}}
+
+'''The Flatlanders''' are an American [[country music|country band]] from [[Lubbock, Texas]], founded in 1972 by [[Jimmie Dale Gilmore]], [[Joe Ely]] and [[Butch Hancock]].<ref>{{Allmusic|class=artist|id=p1606/biography}}</ref> The group garnered little success during their brief original incarnation from 1972 to 1973, but when the individual members found success in their solo careers, interest in The Flatlanders was rekindled with the band reuniting several times since. An earlier incarnation of this band was known as The Double Mountain Fork Of The Brazos River Boys.
+
+==History==
+In 1972, Gilmore, Ely and Hancock, formed The Flatlanders with each contributing vocals, guitar, and songwriting skills. Other key musicians were Steve Wesson on [[autoharp]] and [[musical saw]], Tony Pearson on [[mandolin]] and backup harmony, [[Tommy Hancock]] (no relation to Butch Hancock) on [[fiddle]] and Syl Rice on [[string bass]].
+
+One of the band's first appearances was at the [[Kerrville Folk Festival]] in 1972, where they were named one of the winners of the inaugural Kerrville Folk Festival New Folk Singer/Songwriter Competition.
+
+The band's first recording project was produced in 1972 by Shelby Singleton, the then-owner of [[Memphis, Tennessee|Memphis, Tennessee's]] famed [[Sun Studios]]. A promotional single, Gilmore's "Dallas", was a commercial failure, and the planned album, ''All American Music'', was all but scrapped, being released only in a limited run on [[Stereo 8|8-track tape]] in order to fulfill contractual obligations. 
+
+The Flatlanders performed through 1973 before disbanding. By the end of the decade, however, Gilmore, Ely and Hancock had all found success as solo performers, and rumors of their earlier obscure collaboration began to circulate. In 1990, [[Rounder Records]] issued the 1972 sessions as ''More a Legend Than a Band''.
+
+The three musicians continued to reunite for occasional Flatlanders performances. In 1998 they contributed to the soundtrack of ''[[The Horse Whisperer (film)|The Horse Whisperer]]'', and then in 2002 released their follow-up album, ''Now Again,'' on [[New West Records]].  In 2004 this was followed with ''Wheels of Fortune'', again on New West. In 2004, New West released ''Live '72'' a live recording of the then-unknown country band performing at the One Knite [[honky-tonk]] in [[Austin, Texas]].
+
+In 2009, The Flatlanders released the album, ''Hills & Valleys''. In promotion of the album, the group appeared as musical guests on the ''Late Show with David Letterman'' on July 21, 2009, and on Garrison Keillor's ''A Prairie Home Companion'' on April 27, 2013.
+
+In 2012, The Flatlanders released ''The Odessa Tapes'', an album composed of unreleased recordings culled from 1972 recording sessions.<ref>{{cite web |title=Song Premiere: The Flatlanders, 'Shadow Of The Moon' |date=June 11, 2012 |url=http://www.americansongwriter.com/2012/06/song-premiere-the-flatlanders-shadow-of-the-moon/ |publisher=America Songwriter |accessdate=June 14, 2012}}</ref>
+
+The Flatlanders were voted into the Austin Music Awards Hall of Fame in March 2016. <ref>{{Cite web|url=http://www.dailytexanonline.com/2016/03/16/country-band-the-flatlanders-inducted-into-austin-music-awards-hall-of-fame|title=Country band The Flatlanders inducted into Austin Music Awards Hall of Fame - The Daily Texan|website=Dailytexanonline.com}}</ref>
+
+==Discography==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+!rowspan="2" style="width:16em;"|Title
+!rowspan="2" style="width:18em;"|Details
+!colspan="4"|Peak chart positions
+|- style="font-size:smaller;"
+!width="45"|[[Top Country Albums|US Country]]
+!width="45"|[[Billboard 200|US]]
+!width="45"|[[Top Heatseekers|US Heat]]
+!width="45"|[[Independent Albums|US Indie]]
+|-
+!scope="row"|''All American Music''{{ref label|double|a|}}
+| 
+*Release date: 1973<ref name=discogs>{{cite web|url=http://www.discogs.com/Flatlanders-One-Road-More/master/471581 |title=Flatlanders, The - One Road More |year=1973 |publisher=Discogs.com |accessdate=July 12, 2015}}</ref>
+*Label: [[Plantation Records]]
+|—
+|—
+|—
+|—
+|-
+!scope="row"|''One Road More''{{ref label|double|a|}}
+| 
+*Release date: 1980<ref name=discogs />
+*Label: [[Charly Records]]
+|—
+|—
+|—
+|—
+|-
+!scope="row"|''More a Legend Than a Band''{{ref label|double|a|}}
+| 
+*Release date: 1990<ref name=discogs />
+*Label: [[Rounder Records]]
+|—
+|—
+|—
+|—
+|-
+!scope="row"|''Unplugged''{{ref label|double|a|}}
+| 
+*Release date: 1995<ref name=discogs />
+*Label: [[Sun Records]]
+|—
+|—
+|—
+|—
+|-
+!scope="row"|''Now Again''
+| 
+*Release date: May 21, 2002
+*Label: [[New West Records]]
+|19
+|168
+|3
+|12
+|-
+!scope="row"|''Wheels of Fortune''
+| 
+*Release date: January 27, 2004
+*Label: New West Records
+|35
+|—
+|17
+|17
+|-
+!scope="row"|''Live '72''
+| 
+*Release date: June 29, 2004
+*Label: New West Records
+|—
+|—
+|—
+|—
+|-
+!scope="row"|''Hills and Valleys''
+| 
+*Release date: March 31, 2009
+*Label: New West Records
+|38
+|—
+|14
+|47
+|-
+!scope="row"|''The Odessa Tapes''
+| 
+*Release date: August 28, 2012
+*Label: New West Records
+|48
+|—
+|19
+|—
+|-
+!scope="row"|''Treasure of Love''
+| 
+*Release date: July 9, 2021
+*Label: Rack 'Em Records
+|—
+|—
+|—
+|—
+|-
+|colspan="6" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+a. {{note|double}} All four albums feature different combinations of the same set of tracks recorded in 1972.
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.lubbock-lights.com ''Lubbock Lights'', a 2005 film starring The Flatlanders]
+*[https://web.archive.org/web/20060220031051/http://www.happenstance-music.com/KFF_History.asp Kerrville Folk Festival New Folk Finalist History from Happenstance and Doug Coppock]
+*{{cite news |first=Jon |last=Garelick |work=[[The Boston Phoenix]] |title=The three troubadours: Joe Ely, Jimmie Dale Gilmore, and Butch Hancock keep the Flatlanders alive |url=http://www.bostonphoenix.com/boston/music/other_stories/documents/03604723.asp |date=February 20, 2004}}
+*{{cite news |first=Carolyn Pennypacker |last=Riggs |work=[[L.A. Record]] |title=The Flatlanders: Knocks Your Brain Out Of Your Skull |url=http://larecord.com/interviews/2009/05/30/interview-the-flatlanders-joe-ely-knocks-your-brain-out-of-your-skull |date=May 30, 2009}}
+
+{{Jimmie Dale Gilmore}}
+{{Authority control}}
+{{DEFAULTSORT:Flatlanders}}
+[[Category:Country music groups from Texas|Flatlanders, The]]
+[[Category:Musical groups from Lubbock, Texas]]
+[[Category:New West Records artists]]
+[[Category:Musical groups established in 1972]]

@@ -1,0 +1,76 @@
+{{BLP refimprove|date=March 2020}}
+{{Use mdy dates|date=December 2014}}
+{{Infobox musical artist
+|name                = Lloyd Maines
+|image               = Lloyd_Maines_-_Acoustical_Cafe_-_Ron_Baker_2019.jpg
+|caption             = Lloyd Maines at Acoustical Cafe in Austin, TX (2019).
+|image_size          = 250px
+|background          = non_vocal_instrumentalist
+|birth_name          = Lloyd Wayne Maines
+|alias               = 
+|birth_date          = {{Birth date and age|1951|06|28}}<br>[[Lubbock, Texas|Lubbock]], [[Texas]], U.S.
+|death_date          = 
+|instrument          = [[Pedal steel guitar]], [[dobro]], guitar, [[mandolin]], [[banjo]]
+|genre               = [[Country music|Country]], [[Bluegrass music|bluegrass]], [[folk music|folk]], [[alt-country]]
+|occupation          = Musician, producer, songwriter
+|years_active        = 1976-present
+|label               = 
+|associated_acts     = [[The Maines Brothers Band]], [[Natalie Maines]], [[Terri Hendrix]], [[The Chicks]] (formerly known as the [[Dixie Chicks]]), [[Court Yard Hounds]], [[Wilco]]
+|website             = 
+}}
+
+'''Lloyd Wayne Maines''' (born June 28, 1951) is an American [[country music]] record producer, musician and songwriter. He was inducted into the Austin City Limits Hall of Fame as one of the first three members, the other two being [[Willie Nelson]] and [[Stevie Ray Vaughan]]. He is the father of [[Natalie Maines]] who is best known as the lead singer of [[The Chicks]].
+
+==Life and career==
+Maines was born and raised in [[Lubbock, Texas|Lubbock]], [[Texas]], and is now based in [[Bulverde, Texas|Austin, Texas]].
+
+Arguably best known as a [[pedal steel guitar|pedal steel]] player, Maines is a multi-instrumentalist who has also performed and/or recorded playing [[dobro]], electric and acoustic guitar, [[mandolin]], [[lap steel guitar]], [[banjo]] and [[bell tree]]. He toured and recorded as a member of the [[Joe Ely]] Band and has also played with [[Jerry Jeff Walker]], [[Guy Clark]], [[Butch Hancock]], [[Terry Allen (country singer)|Terry Allen]], [[Jimmie Dale Gilmore]], [[Golden Bear (band)|Golden Bear]],<ref>[{{Allmusic|class=album|id=r846134/credits|pure_url=yes}} Golden Bear album credits], [[AllMusic]]</ref> and other Texas musicians.  Maines was a member of [[The Maines Brothers Band]] in the late 1970s and early 1980s and has contributed to [[alt-country]] releases, including [[Uncle Tupelo]]'s ''[[Anodyne (album)|Anodyne]]'' and [[Wilco]]'s debut, ''[[A.M. (Wilco album)|AM]]''.
+
+Maines began producing some of his own music, branching out beginning with other country artists, early on starting with [[Terry Allen (artist)|Terry Allen]]'s seminal 1979 album, ''[[Lubbock (On Everything)]]''.<ref>{{Cite web |title=Lloyd Maines: A Driving Force In Texas Music |author=Harrington, AnnMarie |date=April 2002 |publisher=Take Country Back |url=http://www.takecountryback.com/features/lloydmaines.htm |access-date=September 3, 2007 |archive-url=https://web.archive.org/web/20070811203441/http://www.takecountryback.com/features/lloydmaines.htm |archive-date=August 11, 2007 |url-status=dead }}</ref> He has produced and worked on recording projects with numerous artists, including the [[Bad Livers]], [[Richard Buckner (musician)|Richard Buckner]], [[Roger Creager]], [[Anna Fermin]]'s Trigger Gospel, [[Pat Green]], [[Butch Hancock]], [[Wayne Hancock]], [[Terri Hendrix]],<ref name=TerriHendrix_WebsiteHome>{{cite web| publisher=Terri Hendrix| title=Live from Wilory Farm Tonight!| url=https://www.terrihendrix.com/| date=April 29, 2020| accessdate=2020-04-29}}</ref> [[Rita Hosking]], [[Ray Wylie Hubbard]], [[Intocable]], [[Robert Earl Keen]], the [[Lost Gonzo Band]], [[Bob Livingston (musician)|Bob Livingston]], [[Charlie Robison]], [[Owen Temple]], [[Two Tons of Steel]], [[Jerry Jeff Walker]], [[The Waybacks]], [[Dale Watson (singer)|Dale Watson]] and [[Martin Zellar]]. He frequently tours with Terri Hendrix throughout the United States, and is a major part of her band and production as an artist.
+
+Maines won a [[Grammy Award for Best Country Album]] in 2003 as producer of the album ''[[Home (The Chicks album)|Home]]'' by [[The Chicks]]' (formerly known as the [[Dixie Chicks]]). As the father of [[Natalie Maines]], lead singer of The Chicks, he was instrumental in bringing the current lineup of bandmates together in 1995, which jump-started their sudden popularity and change in sound. [[Susan Gibson]]'s "[[Wide Open Spaces (song)|Wide Open Spaces]]", which had been sent to Maines, proved to be a hit from their debut album, and has remained their [[signature song]].
+
+As of 2020, Lloyd Maines, on guitars, has accompanied singer/songwriter [[Terri Hendrix]] live and in recordings since 1997 and her second album.<ref name=TerriHendrix_WebsiteHome/>{{Better source needed|reason=This source is a video that might no longer be on Hendrix's website|date=October 2021}}
+
+Maines has twice been inducted into the [[West Texas Walk of Fame]] — in 1993 as a member of the Maines Brothers Band and in 2012 in his own name.
+
+[[File:Lloyd_Maines_-_Terri_Hendrix_-_Cactus_Cafe_2_-_Ron_Baker_2013.jpg|thumb|250px|right|Lloyd Maines with Terri Hendrix at Cactus Cafe in Austin, TX (2013).]]
+[[File:Lloyd Maines by Ron Baker.jpg|thumb|250px|right|Lloyd Maines at Austin City Limits Music Festival (2006).]]
+
+==See also==
+*[[Music of Austin]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.lloydmaines.com Official website]
+*[http://www.virtualubbock.com/intLloydMaines.html Interview with Lloyd Maines]
+*[{{Allmusic|class=artist|id=p101055/credits|pure_url=yes}} Complete Lloyd Maines discography]
+
+===Archival Materials===
+
+* [http://www.lib.utexas.edu/taro/ttuav/00026/tav-00026.html Steve Maines papers, 1964-2015, at Southwest Collection/Special Collections Library, Texas Tech University]
+
+{{Dixie Chicks}}
+{{Authority control}}
+
+{{DEFAULTSORT:Maines, Lloyd}}
+[[Category:1951 births]]
+[[Category:Living people]]
+[[Category:Musicians from Lubbock, Texas]]
+[[Category:Lubbock High School alumni]]
+[[Category:American country guitarists]]
+[[Category:American male guitarists]]
+[[Category:American country record producers]]
+[[Category:Musicians from Austin, Texas]]
+[[Category:Grammy Award winners]]
+[[Category:Pedal steel guitarists]]
+[[Category:American session musicians]]
+[[Category:Steel guitarists]]
+[[Category:Guitarists from Texas]]
+[[Category:20th-century American guitarists]]
+[[Category:People from Bulverde, Texas]]
+[[Category:Country musicians from Texas]]
+[[Category:Record producers from Texas]]
+[[Category:20th-century American male musicians]]

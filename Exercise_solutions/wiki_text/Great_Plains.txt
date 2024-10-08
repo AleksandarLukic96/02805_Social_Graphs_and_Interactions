@@ -1,0 +1,443 @@
+{{Short description|Flat expanse in western North America}}
+{{Other uses |Great Plains (disambiguation)}}
+{{distinguish|text=a southwestern portion of the Great Plains, the [[Llano Estacado]], or another geographic region that overlaps the Great Plains, [[Midwestern United States|the Midwest]]}}
+{{Use mdy dates|date=April 2022}}
+{{Infobox landform
+| name = Great Plains
+| type = [[Plain]]
+| photo = {{multiple image
+ |border = infobox
+ |perrow = 1/2/2
+ |total_width = 320
+ |image1 = Great plains storm - Great Sand Dunes National Park.jpg
+ |alt1 =
+ |image2 = Cole Camp Prairie Sunset (26926713720).jpg
+ |alt2 =
+ |image3 = Black-Tailed Prairie Dog.jpg
+ |alt3 =
+ |image4 = North Dakota Native Prairie.jpg
+ |alt4 =
+ |image5 = Bison Theodore National Park, Sagebrush.jpg
+ |alt5 =
+ |image6 = WY_Redds_Great_plains.jpg
+ |alt6 =
+ |image7 = Great Plains State Park.jpg
+ |alt7 =
+ |image8 = Mixed grass prairie Fort Smith Montana.jpg
+ |alt8 =
+ |image9 = Missouri River Valley North Dakota 11.jpg
+ |alt9 =
+ |align = <center>Clockwise from top:</center>
+ |direction =
+ |caption1 = Blooming [[rabbitbrush]] on the Great Plains
+ |caption2 = [[Cole Camp]], [[Missouri]] is known for tall expansive flower prairies
+ |caption3 = [[Prairie dog]] native to Great Plains, crucial ''[[keystone species]]''
+ |caption4 = [[North Dakota]] primitive lush Prairie
+ |caption5 = [[Bison]], [[Theodore Roosevelt National Park]]
+ |caption6 = Redds Great plains river habitat
+ |caption7 =[[Great Plains State Park]], [[Oklahoma]]
+ |caption8 = Mixed plains grass prairie near [[Fort Smith, Montana|Fort Smith]], [[Montana]]
+ |caption9 = [[Missouri River]] valley in central [[North Dakota]]
+ }}
+| location = Canada and the United States
+| map_image = File:Satellite image illustrating the Great Plains.jpg
+| map_caption = A satellite image illustrating the generalized distribution of the Great Plains. The exact boundaries may vary among context or disciplines (e.g. ecology, geology, geopolitical definitions).<ref name=Encyclopedia>Wishart, David J. 2004. The Great Plains Region, In: ''Encyclopedia of the Great Plains'', Lincoln: University of Nebraska Press, pp. xiii-xviii. {{ISBN|0-8032-4787-7}}</ref>
+| coordinates = {{coord|40|N|100|W|region:US_type:country|display=inline,title}}
+| area = {{cvt|2800000|km2|order=flip}}
+| length = {{cvt|3200|km|order=flip}}
+| width = {{cvt|800|km|order=flip}}
+}}
+
+The '''Great Plains''' are a broad expanse of [[plain|flatland]] in [[North America]]. The region is located just to the east of the [[Rocky Mountains]], much of it covered in [[prairie]], [[steppe]], and [[grassland]]. They are the western part of the [[Interior Plains]], which include the [[mixed grass prairie]], the [[tallgrass prairie]] between the [[Great Lakes]] and [[Appalachian Plateau]], and the [[Taiga Plains Ecozone|Taiga Plains]] and [[Boreal Plains Ecozone|Boreal Plains]] ecozones in [[Northern Canada]]. "Great Plains", or '''Western Plains''', is also the [[ecoregion]] of the Great Plains or alternatively the western portion of the Great Plains.
+
+The Great Plains lie across both the [[Central United States]] and [[Western Canada]], encompassing:
+*Most or all of the [[U.S. state]]s of [[Kansas]], [[Nebraska]], [[North Dakota]] and [[South Dakota]];
+*Eastern parts of the U.S. states of [[Colorado]], [[Montana]],  and [[Wyoming]];
+*Parts of the U.S. states of [[New Mexico]], [[Oklahoma]], [[Texas]];
+*Sometimes western parts of [[Iowa]], [[Minnesota]], and [[Missouri]];
+*The southern portions of the [[Provinces and territories of Canada|Canadian provinces]] of [[Alberta]], [[Saskatchewan]] and [[Manitoba]].
+
+==Usage==
+[[File:Map of the Great Plains.png|250px|thumb|right|Map of the Great Plains]]
+The term "Great Plains" is used in the United States to describe a sub-section of the even more vast [[Interior Plains]] physiographic division, which covers much of the interior of North America. It also has currency as a region of [[human geography]], referring to the [[Plains Indians]] or the [[Plains states]].{{Citation needed|date=January 2021}}
+
+In Canada the term is rarely used; [[Natural Resources Canada]], the government department responsible for official mapping, treats the Interior Plains as one unit consisting of several related plateaus and plains. There is no region referred to as the "Great Plains" in the ''[[Atlas of Canada]]''.<ref>[http://atlas.nrcan.gc.ca/site/english/maps/environment/land/arm_physio_plains/1 Atlas.nrcan.gc.ca] {{webarchive|url=https://web.archive.org/web/20130122000541/http://atlas.nrcan.gc.ca/site/english/maps/environment/land/arm_physio_plains/1 |date=January 22, 2013 }}</ref> In terms of human geography, the term ''prairie'' is more commonly used in Canada, and the region is known as the [[Canadian Prairies]], Prairie Provinces or simply "the Prairies".{{Citation needed|date=January 2021}}
+
+The ''[[North American Environmental Atlas]]'', produced by the [[Commission for Environmental Cooperation]], a [[North American Free Trade Agreement]] (NAFTA) agency composed of the geographical agencies of the Mexican, American, and Canadian governments, uses the "Great Plains" as an [[ecoregion]] synonymous with predominant prairies and grasslands rather than as physiographic region defined by topography.<ref>[https://archive.today/20120724143053/http://www.cec.org/atlas/ CEC.org]</ref> The Great Plains ecoregion includes five sub-regions: Temperate Prairies, West-Central Semi-Arid Prairies, South-Central Semi-Arid Prairies, Texas Louisiana Coastal Plains, and Tamaulipas-Texas Semi-Arid Plain, which overlap or expand upon other Great Plains designations.<ref>{{cite web |url=http://www.epa.gov/wed/pages/ecoregions/na_eco.htm |title=About the National Health and Environmental Effects Research Laboratory (NHEERL) |access-date=May 26, 2014 |archive-date=September 24, 2015 |archive-url=https://web.archive.org/web/20150924144150/http://www.epa.gov/wed/pages/ecoregions/na_eco.htm |url-status=live }}</ref>{{Clear}}
+
+==Extent==
+[[File:On the Great Plains, Kansas, 294 miles west of Missouri River. (redo 2016).jpg|thumb|The Great Plains near a farming community in central Kansas]]
+The region is about {{cvt|500|mi}} east to west and {{cvt|2000|mi}} north to south. Much of the region was home to [[American bison]] herds until they were hunted to near extinction during the mid/late-19th century. It has an area of approximately {{cvt|1300000|km2|order=flip}}. Current thinking regarding the geographic boundaries of the Great Plains is shown by this [http://www.unl.edu/plains/about/map.shtml map] at the Center for Great Plains Studies, [[University of Nebraska–Lincoln]].<ref name=Encyclopedia/> This definition, however, is primarily ecological, not physiographic. The [[Boreal Plains]] of Western Canada are physiographically the same, but differentiated by their tundra and forest (rather than grassland) appearance.
+
+The term "Great Plains", for the region west of about the [[96th meridian west]] and east of the [[Rocky Mountains]], was not generally used before the early 20th century. [[Nevin M. Fenneman|Nevin Fenneman's]] 1916 study ''Physiographic Subdivision of the United States''<ref>{{cite journal |last=Fenneman |first=Nevin M. |date=January 1917 |title=Physiographic Subdivision of the United States |journal=[[Proceedings of the National Academy of Sciences of the United States of America]] |volume=3 |issue=1 |pages=17–22 |pmc=1091163 |oclc=43473694 |pmid=16586678 |doi=10.1073/pnas.3.1.17 |bibcode=1917PNAS....3...17F |doi-access=free}}</ref> brought the term Great Plains into more widespread usage. Before that the region was almost invariably called the High Plains, in contrast to the lower Prairie Plains of the [[Midwestern United States|Midwestern states]].<ref>{{cite book |last=Brown |first=Ralph Hall |title=Historical Geography of the United States |url=https://archive.org/details/historicalgeogra00brow |url-access=registration |year=1948 |publisher=Harcourt, Brace & Co |location=New York |oclc=186331193 |pages=[https://archive.org/details/historicalgeogra00brow/page/373 373–374]}}</ref> Today the term "[[High Plains (United States)|High Plains]]" is used for a subregion of the Great Plains.<ref>{{Cite web |title=High Plains {{!}} region, United States |url=https://www.britannica.com/place/High-Plains |access-date=May 9, 2021 |website=Encyclopedia Britannica |language=en |archive-date=May 13, 2021 |archive-url=https://web.archive.org/web/20210513135615/https://www.britannica.com/place/High-Plains |url-status=live }}</ref> The term still remains little-used in Canada compared to the more common, "prairie".
+
+==Geography==
+[[File:Corn Fields, Iowa Farm 7-13 (15277889101).jpg|thumb|Farmland in Sioux and Lyon Counties, Iowa (2013)]]
+[[File:Haboob Ransom Canyon Texas 2009.jpg|thumb|Dust cloud moving across the Llano Estacado near Ransom Canyon, Texas]]
+The Great Plains are the westernmost portion of the vast North American [[Interior Plains]], which extend east to the [[Appalachian Plateau]]. The [[United States Geological Survey]] divides the Great Plains in the United States into ten physiographic subdivisions:
+*[[Missouri Coteau]] or Missouri Plateau (which also extends into Canada), glaciated – east central South Dakota, northern and eastern North Dakota and northeastern Montana;
+*Coteau du Missouri, unglaciated – western South Dakota, northeastern [[Wyoming]], southwestern North Dakota and southeastern Montana;
+*[[Black Hills]] – western South Dakota;
+*[[High Plains (United States)|High Plains]] – southeastern Wyoming, southwestern South Dakota, western Nebraska (including the [[Sandhills (Nebraska)|Sand Hills]]), eastern Colorado, western Kansas, western Oklahoma, [[eastern New Mexico]], and northwestern Texas (including the [[Llano Estacado]] and [[Texas Panhandle]]);
+*Plains Border – central Kansas and northern Oklahoma (including the [[Flint Hills|Flint]], [[Red Hills (Kansas)|Red]] and [[Smoky Hills]]);
+*[[Colorado Piedmont]] – eastern Colorado;
+*[[Raton, New Mexico|Raton]] section – northeastern New Mexico;
+*[[Pecos River|Pecos Valley]] – eastern New Mexico;
+*[[Edwards Plateau]] – south central Texas; and
+*[[Central Texas]] section – central Texas.
+
+Further to this can be added Canadian physiographic sub-regions such as the [[Alberta Plain]], [[Cypress Hills (Canada)|Cypress Hills]], [[Manitoba Escarpment]] (eastward), [[Manitoba Plain]], [[Missouri Coteau]] (shared), [[Rocky Mountain Foothills]] (eastward), and [[Saskatchewan Plain]].<ref>{{Cite web |url=https://atlas.gc.ca/phys/en/index.html#TheInteriorPlains |title=Natural Resources Canada. The Atlas of Canada. Physiographic Regions of Canada |date=September 12, 2016 |access-date=July 15, 2021 |archive-date=June 21, 2021 |archive-url=https://web.archive.org/web/20210621185011/https://atlas.gc.ca/phys/en/index.html#TheInteriorPlains |url-status=live }}</ref>
+
+The Great Plains consist of a broad stretch of country underlain by nearly horizontal [[stratum|strata]] extending westward from the [[97th meridian west]] to the base of the [[Rocky Mountains]], a distance of {{cvt|300|to|500|mi}}. It extends northward from the Mexican boundary far into Canada. Although the [[altitude]] of the plains increases gradually from {{cvt|600|ft}} or {{cvt|1200|ft}} on the east to {{cvt|4,000|–|5,000|ft}} or {{cvt|6000|ft}} near the mountains, the local relief is generally small. The [[semi-arid climate]] excludes tree growth and opens far-reaching views.<ref name=EB1911>{{EB1911 |wstitle=United States, The/Physical Geography |display=United States, The § ''Physical Geography'' |volume=27 |pages=619–620 |inline=1}}</ref>
+
+The plains are by no means a simple unit. They are of diverse structure and of various stages of [[erosion]]al development. They are occasionally interrupted by [[butte]]s and [[escarpment]]s. They are frequently broken by valleys. Yet on the whole, a broadly extended surface of moderate relief so often prevails that the name, Great Plains, for the region as a whole is well-deserved.<ref name=EB1911/>
+
+The western boundary of the plains is usually well-defined by the abrupt ascent of the mountains. The eastern boundary of the plains (in the United States) is more [[climate|climatic]] than [[topography|topographic]]. The line of {{cvt|20|in}}<!--rain is not measured in cm--> of annual [[rainfall]] trends a little east of northward near the 97th meridian. If a boundary must be drawn where nature presents only a gradual transition, this rainfall line may be taken to divide the drier plains from the moister prairies.<ref name=EB1911/> However, in Canada the eastern boundary of the plains is well defined by the presence of the [[Canadian Shield]] to the northeast.
+
+The plains (within the United States) may be described in northern, intermediate, central and southern sections, in relation to certain peculiar features.<ref name=EB1911/> In Canada, no such division is used: the climatic and vegetation regions are more impactful on human settlement than mere topography, and therefore the region is split into (from north to south), the [[taiga plains]], [[boreal forest|boreal plains]], [[aspen parkland]], and [[prairies|prairie ecoregion]] regions.
+
+=== Northern Great Plains === <!--- [[Northern Plains]] redirects here --->
+[[File:Plains Bison Buffalo (14958327875).jpg|thumb|Herd of Plains Bison of various ages resting in Elk Island Park, Alberta]]
+[[File:MinnesotaPrairie.jpg|thumb|The Great Plains as seen in Minnesota's upland prairie at Glacial Lakes State Park]]
+
+The northern section of the Great Plains, north of [[44th parallel north|latitude 44°]], includes eastern [[Montana]], eastern [[Wyoming]], most of [[North Dakota]] and [[South Dakota]], southwestern [[Minnesota]] and portions of the Canadian provinces including southeastern [[Alberta]], southern [[Saskatchewan]] and southwestern [[Manitoba]]. The strata here are [[Cretaceous]] or early [[Tertiary]], lying nearly horizontal. The surface is shown to be a plain of degradation by a gradual ascent here and there to the crest of a ragged escarpment, the escarpment-remnant of a resistant stratum. There are also the occasional [[lava]]-capped [[mesa]]s and [[dike (geology)|dike]] formed ridges, surmounting the general level by {{cvt|500|ft}} or more and manifestly demonstrating the widespread [[erosion]] of the surrounding plains. All these reliefs are more plentiful towards the mountains in central Montana. The peneplain is no longer in the cycle of erosion that witnessed its production. It appears to have suffered a regional uplift or increase in elevation, for the upper [[Missouri River]] and its branches no longer flow on the surface of the plain, but in well graded, maturely opened valleys, several hundred feet below the general level. A significant exception to the rule of mature valleys occurs, however, in the case of the Missouri, the largest river, which is broken by several falls on hard sandstones about {{cvt|50|mi}} east of the mountains. This peculiar feature is explained as the result of displacement of the river from a better graded preglacial valley by the [[Pleistocene]] [[ice sheet]]. Here, the ice sheet overspread the plains from the moderately elevated Canadian highlands far on the north-east, instead of from the much higher mountains nearby on the west. The present altitude of the plains near the mountain base is {{cvt|4000|ft}}.<ref name=EB1911/>
+
+The northern plains are interrupted by several small mountain areas. The Black Hills, chiefly in western South Dakota, are the largest group. They rise like a large island from the sea, occupying an oval area of about {{cvt|100|mi}} north-south by {{cvt|50|mi}} east-west. At [[Black Elk Peak]], they reach an altitude of {{cvt|7216|ft}} and have an effective relief over the plains of {{cvt|2000|or|3000|ft|}} This mountain mass is of flat-arched, dome-like structure, now well dissected by radiating consequent streams. The weaker uppermost strata have been eroded down to the level of the plains where their upturned edges are evenly truncated. The next following harder strata have been sufficiently eroded to disclose the core of underlying [[igneous]] and [[metamorphic rocks|metamorphic]] crystalline rocks in about half of the domed area.<ref name=EB1911/>
+
+=== Intermediate Great Plains ===
+In the intermediate section of the plains, between [[44th parallel north|latitudes 44°]] and [[42nd parallel north|42°]], including southern South Dakota and northern [[Nebraska]], the erosion of certain large districts is peculiarly elaborate. Known as the [[Badlands]], it is a minutely dissected form with a relief of a few hundred feet. This is due to several causes:
+*the dry climate, which prevents the growth of a grassy turf
+*the fine texture of the Tertiary strata in the badland districts
+*every little rill, at times of rain, carves its own little valley.<ref name=EB1911/>
+
+=== Central Great Plains ===
+[[File:Western Kansas-High Plains Nicodemus.JPG|thumb|The High Plains of Kansas, in the [[Smoky Hills]] near [[Nicodemus, Kansas|Nicodemus]]]]
+The central section of the Great Plains, between [[42nd parallel north|latitudes 42°]] and [[36th parallel north|36°]], occupying eastern [[Colorado]] and western [[Kansas]], is mostly a dissected [[fluvial|fluviatile]] plain. That is, this section was once smoothly covered with a gently sloping plain of gravel and sand that had been spread far forward on a broad denuded area as a [[wikt:piedmont|piedmont]] deposit by the rivers which issued from the mountains. Since then, it has been more or less dissected by the erosion of valleys. The central section of the plains thus presents a marked contrast to the northern section.
+
+While the northern section owes its smoothness to the removal of local gravels and sands from a formerly uneven surface by the action of degrading rivers and their inflowing tributaries, the southern section owes its smoothness to the deposition of imported gravels and sands upon a previously uneven surface by the action of aggrading rivers and their outgoing distributaries. The two sections are also alike in that residual eminences still here and there surmount the peneplain of the northern section, while the fluviatile plain of the central section completely buried the pre-existent relief. An exception to this statement must be made for the southwest, close to the mountains in southern Colorado, where some lava-capped mesas ([[Mesa de Maya]], [[Raton Mesa]]) stand several thousand feet above the general plain level, and thus testify to the widespread erosion of this region before it was aggraded.<ref name=EB1911/>
+
+=== Southern Great Plains ===
+[[File:Flickr - Nicholas T - Skewed.jpg|thumb|Short-grass prairie near the front range of the Rockies in Colorado]]
+[[File:Mt-scott.png|thumb|View of [[Lake Lawtonka]] and wind turbines from [[Mount Scott (Oklahoma)|Mount Scott]], Oklahoma]]
+The southern section of the Great Plains, between latitudes 35.5° and 25.5°, lies in western [[Texas]], eastern [[New Mexico]], and western [[Oklahoma]]. Like the central section, it is for the most part a dissected fluviatile plain. However, the lower lands which surround it on all sides place it in such strong relief that it stands up as a table-land, known from the time of Mexican occupation as the [[Llano Estacado]]. It measures roughly {{cvt|150|mi}} east-west and {{cvt|400|mi}} north-south. It is of very irregular outline, narrowing to the south. Its altitude is {{cvt|5500|ft}} at the highest western point, nearest the mountains whence its gravels were supplied. From there, it slopes southeastward at a decreasing rate, first about {{cvt|12|ft}}, then about {{cvt|7|ft/mi}}, to its eastern and southern borders, where it is {{cvt|2000|ft}} in altitude. Like the High Plains farther north, it is extraordinarily smooth.<ref name=EB1911/>
+
+It is very dry, except for occasional shallow and temporary water sheets after rains. Llano is separated from the plains on the north by the mature consequent valley of the [[Canadian River]], and from the mountains on the west by the broad and probably mature valley of the [[Pecos River]]. On the east, it is strongly undercut by the retrogressive erosion of the headwaters of the Red, Brazos, and Colorado rivers of Texas and presents a ragged escarpment approximately {{cvt|500|to|800|ft}} high, overlooking the central denuded area of that state. There, between the Brazos and Colorado rivers, occurs a series of isolated outliers capped by limestone that underlies both the [[Llano Uplift]] on the west and the [[Grand Prairies]] escarpment on the east. The southern and narrow part of the table-land, called the [[Edwards Plateau]], is more dissected than the rest, and falls off to the south in a frayed-out fault scarp. This scarp overlooks the coastal plain of the [[Rio Grande]] [[embayment]]. The central denuded area, east of the Llano, resembles the east-central section of the plains in exposing older rocks. Between these two similar areas, in the space limited by the Canadian and Red Rivers, rise the subdued forms of the [[Wichita Mountains]] in [[Oklahoma]], the westernmost member of the Ouachita system.<ref name=EB1911/>
+
+===Other terminology===
+<!---per DAB page--->
+The term "Western Plains" is used to describe the [[ecoregion]] of the Great Plains,<ref>{{cite journal |last1=Lockwood |first1=Jeffrey A. |last2=Schell |first2=Scott P. |title=Outbreak Dynamics of Rangeland Grasshoppers (Orthoptera: Acrididae) in the Western Plains Ecoregion: Eruptive, Gradient, Both, or Neither? |journal=[[Journal of Orthoptera Research]] |publisher=Orthopterists' Society |issue=4 |year=1995 |issn=1082-6467 |jstor=3503456 |pages=35–48 |doi=10.2307/3503456 |url=http://www.jstor.org/stable/3503456 |access-date=October 3, 2021 |archive-date=October 3, 2021 |archive-url=https://web.archive.org/web/20211003081847/https://www.jstor.org/stable/3503456 |url-status=live }}</ref>
+<ref name=wildflowers>{{cite book |title=Wildflowers of the Western Plains: A Field Guide |isbn=978-0803219052 |quote=Stretching from western Texas and eastern New Mexico up through Oklahoma, Colorado, Kansas, Nebraska, Wyoming, Montana, the Dakotas, and into Canada, the vast western plains often appear sparse... |last1=Kirkpatrick |first1=Zoe Merriman |date=September 2008 |publisher=U of Nebraska Press}}</ref> or alternatively the western portion of the Great Plains.<ref>{{cite web |last1=Entwisle |first1=Barbara |last2=Stern |first2=Paul C |last3=Environment |first3=the |title=Population and Environment in the U.S. Great Plains |website=NCBI Bookshelf |date=February 3, 2003 |url=https://www.ncbi.nlm.nih.gov/books/NBK22969/ |access-date=October 3, 2021 |archive-date=September 27, 2021 |archive-url=https://web.archive.org/web/20210927174909/https://www.ncbi.nlm.nih.gov/books/NBK22969/ |url-status=live }}</ref>
+
+==Natural history==
+
+===Climate===
+[[File:Colorado Mountain Tornado.jpg|thumb|A tornado touching down in [[Park County, Colorado]], July 23, 2018]]
+In general, the Great Plains have a wide range of weather, with very cold and harsh winters and very hot and humid summers. Wind speeds are often very high, especially in winter.
+
+The 100th meridian roughly corresponds with the line that divides the Great Plains into an area that receives {{cvt|20|in}} or more of rainfall per year and an area that receives less than {{cvt|20|in}}. In this context, the High Plains, as well as [[Southern Alberta]], south-western Saskatchewan and [[Eastern Montana]] are mainly [[Semi-arid climate|semi arid]] steppe land and are generally characterised by [[ranch|rangeland]] or marginal [[Agriculture|farmland]]. The region (especially the High Plains) is periodically subjected to extended periods of [[drought]]; high winds in the region may then generate devastating [[dust storm]]s. The eastern Great Plains near the eastern boundary falls in the [[humid subtropical climate]] zone in the southern areas, and the northern and central areas fall in the [[humid continental climate]].
+
+Many [[thunderstorm]]s occur in the plains in the spring through summer. The southeastern portion of the Great Plains is the most [[tornado]] active area in the world and is sometimes referred to as [[Tornado Alley]].
+
+===Flora===
+The Great Plains are part of the floristic [[North American Prairies Province]], which extends from the Rocky Mountains to the [[Appalachian Mountains|Appalachians]].<ref>{{cite web |url=http://floranorthamerica.org/Chapter_6 |title=Phytogeography of North America North of Mexico |first=Robert F. |last=Thorne |website=Flora of North America |date=February 13, 2019 |access-date=December 23, 2021 |archive-date=December 23, 2021 |archive-url=https://web.archive.org/web/20211223202528/http://floranorthamerica.org/Chapter_6 |url-status=live }}</ref>
+
+===Fauna===
+
+==== Mammals ====
+Although the [[American bison]] (''Bison bison'') historically ranged throughout much of North America (from [[New York (state)|New York]] to [[Oregon]] and Canada to northern Mexico), they are strongly associated with the Great Plains where they once roamed in immense herds. [[Pronghorn]] (''Antilocapra americana'') range into western areas of the region. The [[black-tailed prairie dog]] (''Cynomys ludovicianus'') is another iconic species among several rodents that are linked to the region including the [[thirteen-lined ground squirrel]] (''Ictidomys tridecemlineatus''), [[spotted ground squirrel]] (''Xerospermophilus spilosoma''), [[Franklin's ground squirrel]] (''Poliocitellus franklinii''), [[plains pocket gopher]] (''Geomys bursarius''), [[hispid pocket mouse]] (''Chaetodipus hispidus''), [[olive-backed pocket mouse]] (''Perognathus fasciatus''), [[plains pocket mouse]] (''Perognathus flavescens''), and [[plains harvest mouse]] (''Reithrodontomys montanus''), Two carnivores associated with the Great Plains include the [[swift fox]] (''Vulpes velox'') and the endangered [[black-footed ferret]] (''Mustela nigripes'').<ref name="Reid (2006)">Reid, Fiona, A. 2006. ''A Field Guide to mammals of North America North of Mexico, Peterson Field Guide Series, 4th ed.'' Houghton Mifflin Harcourt Publishing Company. New York, N. Y. xx, 579 pp. {{ISBN|0-395-93596-2}}</ref>
+
+==== Birds ====
+The [[lesser prairie chicken]] (''Tympanuchus pallidicinctus'') is [[Endemism|endemic]] to the Great Plains and the distribution of the [[greater prairie chicken]] (''Tympanuchus cupido'') predominantly occurs in the region, although the latter historically ranged further eastward. The [[Harris's sparrow]] (''Zonotrichia querula'') spends winter months in southern areas of the region. Other species migrate from the south in the spring and spend their breeding season on the plains, including the [[white-faced ibis]] (''Plegadis chihi''), [[mountain plover]] (''Charadrius montanus''), [[marbled godwit]] (''Limosa fedoa''), [[Sprague's pipit]] (''Anthus spragueii''), [[Cassin's sparrow]] (''Peucaea cassinii''), [[Baird's sparrow]] (''Centronyx bairdii''), [[lark bunting]] (''Calamospiza melanocorys''), [[chestnut-collared longspur]] (''Calcarius ornatus''), [[thick-billed longspur]] or McCown's longspur (''Rhynchophanes mccownii''), and [[dickcissel]] (''Spiza americana'').<ref name="Mulroy (2002)">Mulroy, Kevin (Editor-in-Chief). 2002. ''Field Guide to the Birds of North America, 4th edition.'' National Geographic, Washington, D. C. 480 pp. {{ISBN|0-7922-6877-6}}</ref>
+
+==== Reptiles ====
+The [[Crotalus viridis|prairie rattlesnake]] (''[[Crotalus viridis]]'') ranges throughout much of the Great Plains and into the valleys and lower elevations of the eastern [[Rocky Mountains]] and portions of the [[Southwestern United States|American southwest]]. Other snakes include the plains hog-nosed snake (''[[Western hognose snake|Heterodon nasicus]]''), western milksnake (''[[Milk snake|Lampropeltis gentilis]]''), great plains ratsnake (''[[Pantherophis emoryi]]''), bullsnake (''[[Bullsnake|Pituophis catenifer sayi]]''), plains black-headed snake (''[[Plains black-headed snake|Tantilla nigriceps]]''), plains gartersnake (''[[Plains garter snake|Thamnophis radix]]''), and lined snake (''[[Tropidoclonion|Tropidoclonion lineatum]]''). Reptile diversity increases significantly in southern regions of the Great Plains. The ornate box turtle (''[[Terrapene ornata]]'') and great plains skink (''[[Great Plains skink|Plestiodon obsoletus]]'') occur in southern areas.<ref name="Powell et al. (2016)">Powell, Robert, Roger Conant, and Joseph Collins. 2016. ''Peterson Field Guide to Reptiles and Amphibians of Eastern and Central North America, 4th ed.'' Houghton Mifflin Harcourt Publishing Company. New York, N. Y. xiii, 494 pp. [pages 202-209] {{ISBN|978-0-544-12997-9}}</ref>
+
+==== Amphibians ====
+Although few salamanders are strongly associated with region, the [[western tiger salamander]] (''Ambystoma mavortium'') ranges through much of the Great Plains and the Rocky Mountains, as does the [[Rocky Mountain toad]] (''Anaxyrus w. woodhousi''). Other [[anurans]] related to region include the [[Great Plains toad]] (''Anaxyrus cognatus''), [[plains leopard frog]] (''Lithobates blairi''), and [[plains spadefoot toad]] (''Spea bombifrons'').<ref name="Powell et al. (2016)" /><ref name="Dodd (2013)">Dodd Jr., C. Kenneth (2013) ''Frogs of the United States and Canada, Vol. I & II''. Johns Hopkins University Press, Baltimore. 982 pp. {{OCLC|1262005087}}</ref>
+
+==== Fish ====
+Some species predominately associated with various river basins in the Great Plains include [[sturgeon chub]] (''Macrhybopsis gelida''), [[peppered chub]] (''Macrhybopsis tetranema''), [[prairie chub]] (''Macrhybopsis australis''), [[western silvery minnow]] (''Hybognathus argyritis''), [[plains minnow]] (''Hybognathus placitus''), [[smalleye shiner]] (''Notropis buccula''), [[Arkansas River shiner]] (''Notropis girardi''), [[Red River shiner]] (''Notropis bairdi''), [[Topeka shiner]] (''Notropis topeka''), [[plains topminnow]] (''Fundulus sciadicus''), plains killifish (''[[Fundulus zebrinus]]''), Red River pupfish (''[[Cyprinodon rubrofluviatilis]]''), and [[Arkansas darter]] (''Etheostoma cragini'').<ref name="Lee et al. (1980)">Lee, D. S., C. R. Gilbert, C. H. Hocutt, R. E. Jenkins, D. E. McAllister, and J. R. Stauffer, Jr. 1980. ''Atlas of North American Freshwater Fishes.'' North Carolina State Museum of Natural History. x, 867 pp. {{ISBN|0-917134-03-6}}</ref><ref name="Page & Burr (2011)">Page, L. M. and B. M. Burr. 2011. ''Peterson Field Guide to Freshwater Fishes: North America North of Mexico, Second Edition.'' Peterson Field Guide Series. Houghton Mifflin Company. Boston, Massachusetts. xix, 663 pp. {{ISBN|978-0-547-24206-4}}</ref>
+
+==== Invertebrates ====
+The great plains also has many [[invertebrate]] species living here both alive and [[Extinction|extinct]] such as the [[Nicrophorus americanus|American burying beetle]] (Nicrophorus americus), [[Salt Creek tiger beetle|Salt Creek Tiger Beetle]] (Cinidela nevadica lincolniana), [[Amblycheila cylindriformis|Great Plains Giant Tiger Beetle]] (Amblycheila chylindriformis), [[Microstylum morosum]],<ref>{{Cite web |last=Troy |date=2010-08-05 |title=Giant Robber Fly of the Great Plains – Microstylum morosum |url=https://troymullens.wordpress.com/2010/08/05/giant-robber-fly-of-the-great-plains-microstylum-morosum/ |access-date=2023-11-15 |website=I C U Nature |language=en}}</ref> [[Bean leaf beetle]] (Cerotoma trifurcata), [[Great Plains Camel Cricket]] (Daihinia brevipes),<ref>{{Cite web |last=Webmaster |first=David Ratz |title=Great Plains Camel Cricket - Montana Field Guide |url=https://fieldguide.mt.gov/speciesDetail.aspx?elcode=IIORTK4010 |access-date=2023-11-15 |website=fieldguide.mt.gov |language=en}}</ref> and the [[Lepyronia gibbosa|Great plains spittlebug]] (Lepyronia gibbosa).<ref>{{Cite web |title=Encyclopedia of the Great Plains {{!}} INSECTS |url=http://plainshumanities.unl.edu/encyclopedia/doc/egp.pe.034 |access-date=2023-11-15 |website=plainshumanities.unl.edu}}</ref><ref>{{Cite web |title=Lepyronia gibbosa (Great Plains spittlebug) - Michigan Natural Features Inventory |url=https://mnfi.anr.msu.edu/species/description/11566/Lepyronia-gibbosa |access-date=2023-11-15 |website=mnfi.anr.msu.edu}}</ref> Some species in the Great plains have gone extinct in the great plains like the [[Rocky Mountain locust|Rocky Mountain Locust]] (Melanoplus spretus).<ref>{{Cite web |title=Encyclopedia of the Great Plains {{!}} INSECT LORE |url=http://plainshumanities.unl.edu/encyclopedia/doc/egp.fol.026 |access-date=2023-11-15 |website=plainshumanities.unl.edu}}</ref>
+
+<gallery mode="packed" heights="100px">
+File:Bison bison Wichita Mountain Oklahoma.jpg|American bison (''Bison bison''), Wichita Mountain Wildlife Refuge, Oklahoma
+File:Black-footed Ferrets in Preconditioning Pens (15519959116) (cropped).jpg|Black-footed ferret (''Mustela nigripes'') National Black-footed Ferret Conservation Center, Colorado
+File:Swift Fox (cropped).jpg|Swift fox (''Vulpes velox''), Colorado
+File:Tympanuchus pallidicinctus-1jpg (cropped).jpg|Lesser prairie-chicken (''Tympanuchus pallidicinctus'') on a [[Lek mating|lek]] in the Red Hills of Kansas
+File:Great Plains Rat Snake (Pantherophis emoryi) (8726969667).jpg|Great Plains ratsnake (''Pantherophis emoryi''), Missouri
+File:Great Plains toad (cropped).jpg|Great Plains toad (''Anaxyrus cognatus'')
+File:Amerikanischer Totengräber (Nicrophorus americanus).jpg|[[Nicrophorus americanus]]
+</gallery>
+
+===Paleontology===
+[[File:Daemonelix burrows (Harrison Formation, Middle Miocene; Agate Fossil Beds National Monument, northwestern Nebraska, USA) (15545351982).jpg|thumb|Excavation of a fossil [[Palaeocastor|Daemonelix]] burrow at Agate Fossil Beds National Monument. ]]
+During the [[Cretaceous]] Period (145–66&nbsp;million years ago), the Great Plains were covered by a shallow [[Inland sea (geology)|inland sea]] called the [[Western Interior Seaway]]. However, during the [[Late Cretaceous]] to the [[Paleocene]] (65–55&nbsp;million years ago), the seaway had begun to recede, leaving behind thick marine deposits and a relatively flat terrain which the seaway had once occupied.<ref name="slattery">{{cite journal |title=Early Cretaceous to Paleocene paleogeography of the Western Interior Seaway: the interaction of eustasy and tectonism |first1=Joshua S |last1=Slattery |first2=William A |last2=Cobban |first3=Kevin C |last3=McKinney |first4=Peter J |last4=Harries |first5=Ashley L |last5=Sandness |journal=Wyoming Geological Association Guidebook |volume=68 |pages=22–60 |date=2013 |url=https://www.researchgate.net/publication/280641436 |doi=10.13140/RG.2.1.4439.8801}}</ref>
+
+During the [[Cenozoic|Cenozoic era]], specifically about 25&nbsp;million years ago during the [[Miocene]] and [[Pliocene]] epochs, the continental climate became favorable to the evolution of grasslands. Existing forest biomes declined and grasslands became much more widespread. The grasslands provided a new [[Ecological niche|niche]] for mammals, including many [[ungulate]]s and [[glires]], that switched from browsing diets to grazing diets. Traditionally, the spread of grasslands and the development of grazers have been strongly linked. However, an examination of mammalian teeth suggests that it is the open, gritty habitat and not the grass itself which is linked to diet changes in mammals, giving rise to the "[[Grit, not grass hypothesis|grit, not grass]]" hypothesis.<ref>{{cite journal |first1=Phillip E. |last1=Jardine |first2=Christine M. |last2=Janis |first3=Sarda |last3=Sahney |first4=Michael J. |last4=Benton |title=Grit not grass: Concordant patterns of early origin of hypsodonty in Great Plains ungulates and Glires |journal=Palaeogeography, Palaeoclimatology, Palaeoecology |date=2012 |volume=365–366 |pages=1–10 |doi=10.1016/j.palaeo.2012.09.001 |bibcode=2012PPP...365....1J |url=https://www.sciencedirect.com/science/article/pii/S0031018212004919}}</ref>
+
+[[Paleontology|Paleontological]] finds in the area have yielded bones of [[mammoth]]s, [[Smilodon|saber-toothed cats]] and other ancient animals,<ref>"[http://www.museum.state.il.us/exhibits/larson/ice_age_animals.html# Ice Age Animals] {{Webarchive|url=https://web.archive.org/web/20110808030355/http://www.museum.state.il.us/exhibits/larson/ice_age_animals.html |date=August 8, 2011 }}". Illinois State Museum.</ref> as well as dozens of other [[megafauna]] (large animals over {{cvt|100|lb|disp=sqbr}}) – such as [[Ground sloth|giant sloths]], [[Evolution of the horse|horses]], [[mastodon]]s, and [[American lion]] – that dominated the area of the ancient Great Plains for thousands to millions of years. The vast majority of these animals became extinct in North America at the end of the [[Pleistocene]] (around 13,000 years ago).<ref>"[https://www.sciencedaily.com/releases/2006/10/061002154043.htm A Plan For Reintroducing Megafauna To North America] {{Webarchive|url=https://web.archive.org/web/20180628125128/https://www.sciencedaily.com/releases/2006/10/061002154043.htm |date=June 28, 2018 }}". ScienceDaily. October 2, 2006.</ref>
+
+A number of significant fossil sites are located in the Great Plains including [[Agate Fossil Beds National Monument]] ([[Nebraska]]), [[Ashfall Fossil Beds]] ([[Nebraska]]), [[Clayton Lake State Park]] ([[New Mexico]]), [[Dinosaur Valley State Park]] ([[Texas]]), [[Hudson-Meng Bison Kill]] (Nebraska), [[Makoshika State Park]] (Montana), and [[The Mammoth Site]] ([[South Dakota]]).
+
+===Public and protected lands===
+[[File:Scotts Bluff National Monument - Nebraska (14417716146).jpg|thumb|[[Scotts Bluff National Monument]], [[Nebraska]]]]
+Public and protected lands in the Great Plains include National Parks and National Monuments, administers by the [[National Park Service]] with the responsibility of preserving ecological and historical places and making them available to the public.<ref name="National Park Service">National Park Service: [https://www.nps.gov/aboutus/index.htm About Us] {{Webarchive|url=https://web.archive.org/web/20220418180900/https://www.nps.gov/aboutus/index.htm |date=April 18, 2022 }} (referenced April 9, 2022)</ref> The [[United States Fish and Wildlife Service|U.S. Fish & Wildlife Service]] manages the National Wildlife Refuges, with the primary responsibility of conserving and protecting fish, wildlife, plants, and habitat in the public trust.<ref name="US Fish & Wildlife">United States Fish and Wildlife Service: https://www.fws.gov/ {{Webarchive|url=https://web.archive.org/web/20220407232842/https://www.fws.gov/ |date=April 7, 2022 }} (referenced April 9, 2022)</ref> Both are agencies of the [[United States Department of the Interior|Department of the Interior]].
+
+In contrast, [[United States Forest Service|U.S. Forest Service]], an agency of the [[United States Department of Agriculture|U. S. Department of Agriculture]], administers the National Forests and National Grasslands, under a multiple-use concept. By law, the U.S. Forest Service must consider all resources, with no single resource emphasized to the detriment of others, including water, soil, grazing, timber harvesting, and minerals (mining and drilling), as well as recreation and conservation of fish and wildlife.<ref name="US Forest Service">United States Forest Service: [https://www.fs.usda.gov/managing-land Managing the Land] {{Webarchive|url=https://web.archive.org/web/20201015171116/https://www.fs.usda.gov/managing-land |date=October 15, 2020 }} (referenced April 9, 2022)</ref> Each individual state also administers state lands, typically smaller areas, for various purposes including conservation and recreation.
+
+Grasslands are among the least protected biomes.<ref>{{cite report |title=Threats Assessment for the Northern Great Plains Ecoregion |url=http://www.npcn.net/images/uploads/Threats_Assessment_NGP_Report_Dec2012.pdf |archive-url=https://web.archive.org/web/20131206104731/http://www.npcn.net/images/uploads/Threats_Assessment_NGP_Report_Dec2012.pdf |archive-date=December 6, 2013 |date=December 20, 2012 |last1=Schrag |first1=A.M. |last2=Olimb |first2=S. |publisher=World Wildlife Fund-U.S |location=Bozeman, MT}}</ref> Humans have converted much of the prairies for agricultural purposes or to create pastures. Several of the protected lands in the region are centered around aberrant and uncharacteristic features of the region, such as mountains, outcrops, and canyons (e.g. [[Devils Tower|Devil's Tower National Monument]], [[Wind Cave National Park]], [[Scotts Bluff National Monument]]), and as splendid and worthy as they are, they are not primarily focused on conserving the plains and prairies.
+
+*Alberta: [[Elk Island National Park]] ({{cvt|48,000|acre|disp=sqbr}}), [[Suffield National Wildlife Area]] ({{cvt|113,263|acre|disp=sqbr}}).
+*Colorado: [[Comanche National Grassland]] ({{cvt|443,081|acre|disp=sqbr}}), [[Pawnee National Grassland]] ({{cvt|193,060|acre|disp=sqbr}}).
+*Iowa: [[DeSoto National Wildlife Refuge]] ({{cvt|8,362|acre|disp=sqbr}})
+*Kansas: [[Cheyenne Bottoms|Cheyenne Bottoms Wildlife Area]] ({{cvt|41,000|acre|disp=sqbr}}), [[Cimarron National Grassland]] ({{cvt|108,176|acre|disp=sqbr}}), [[Flint Hills National Wildlife Refuge]] ({{cvt|18,463|acre|disp=sqbr}}), [[Kirwin National Wildlife Refuge]] ({{cvt|10,778|acre|disp=sqbr}}), [[Marais des Cygnes National Wildlife Refuge]] ({{cvt|7,500|acre|disp=sqbr}}), [[Quivira National Wildlife Refuge]] ({{cvt|22,135|acre|disp=sqbr}}), [[Tallgrass Prairie National Preserve]] ({{cvt|10,882|acre|disp=sqbr}}).
+*Manitoba: [[Riding Mountain National Park]] ({{cvt|733,400|acre|disp=sqbr}}), [[Turtle Mountain Provincial Park]] ({{cvt|46,080|acre|disp=sqbr}}).
+*Oklahoma: [[Black Kettle National Grassland]] ({{cvt|31,286|acre|disp=sqbr}}), [[Salt Plains National Wildlife Refuge]] ({{cvt|32,080|acre|disp=sqbr}}), [[Wichita Mountains Wildlife Refuge]] ({{cvt|59,000|acre|disp=sqbr}}).
+*Missouri: [[Loess Bluffs National Wildlife Refuge]] ({{cvt|7,350|acre|disp=sqbr}}).
+*Minnesota: [[Agassiz National Wildlife Refuge]] ({{cvt|61,500|acre|disp=sqbr}}), [[Big Stone National Wildlife Refuge]] ({{cvt|11,586|acre|disp=sqbr}}), [[Glacial Lakes State Park]] ({{cvt|2,423|acre|disp=sqbr}}), [[Blue Mounds State Park]] ({{cvt|1,567|acre|disp=sqbr}}).
+*Montana: [[Charles M. Russell National Wildlife Refuge]] ({{cvt|915,814|acre|disp=sqbr}}), [[Makoshika State Park]] ({{cvt|11,538|acre|disp=sqbr}}), [[Medicine Lake National Wildlife Refuge]] ({{cvt|31,533|acre|disp=sqbr}}), [[Rosebud Battlefield State Park]] ({{cvt|3,052|acre|disp=sqbr}}), [[UL Bend National Wildlife Refuge]] ({{cvt|56,048|acre|disp=sqbr}}), [[Upper Missouri River Breaks National Monument]] ({{cvt|377,000|acre|disp=sqbr}}).
+*Nebraska: [[Scotts Bluff National Monument]] ({{cvt|3,000|acre|disp=sqbr}}), [[Boyer Chute National Wildlife Refuge]] ({{cvt|4,040|acre|disp=sqbr}}), [[Crescent Lake National Wildlife Refuge]] ({{cvt|45,818|acre|disp=sqbr}}), [[Fort Niobrara National Wildlife Refuge]] ({{cvt|19,131|acre|disp=sqbr}}), [[John and Louise Seier National Wildlife Refuge]] ({{cvt|2,400|acre|disp=sqbr}}), [[North Platte National Wildlife Refuge]] ({{cvt|5,047|acre|disp=sqbr}}), [[Rainwater Basin|Rainwater Basin Wetland Management District]] ({{cvt|22,864|acre|disp=sqbr}}), [[Valentine National Wildlife Refuge]] ({{cvt|71,516|acre|disp=sqbr}}).
+*New Mexico: [[Grulla National Wildlife Refuge]] ({{cvt|3,236|acre|disp=sqbr}}), [[Kiowa National Grassland]] ({{cvt|137,131|acre|disp=sqbr}}).
+*North Dakota: [[Arrowwood National Wildlife Refuge]] ({{cvt|15,934|acre|disp=sqbr}}), [[Audubon National Wildlife Refuge]] ({{cvt|14,739|acre|disp=sqbr}}), [[Little Missouri State Park]] ({{cvt|6,492|acre|disp=sqbr}}), [[Sheyenne National Grassland]] ({{cvt|70,180|acre|disp=sqbr}}), [[Theodore Roosevelt National Park]] ({{cvt|70,446|acre|disp=sqbr}}).
+*Saskatchewan: [[Grasslands National Park]] ({{cvt|224,000|acre|disp=sqbr}}), [[Last Mountain Lake National Wildlife Area]] ({{cvt|38,553|acre|disp=sqbr}}).
+*South Dakota: [[Badlands National Park]] ({{cvt|242,756|acre|disp=sqbr}}), [[Black Hills National Forest]] ({{cvt|1,253,308|acre|disp=sqbr}}), [[Custer State Park]] ({{cvt|71,000|acre|disp=sqbr}}), [[Fort Pierre National Grassland]] ({{cvt|115,890|acre|disp=sqbr}}), [[Grand River National Grassland]] ({{cvt|154,783|acre|disp=sqbr}}), [[Wind Cave National Park]] ({{cvt|33,847|acre|disp=sqbr}}).
+*Texas: [[Buffalo Lake National Wildlife Refuge]] ({{cvt|7,664|acre|disp=sqbr}}), [[Caddo National Grassland]] ({{cvt|17,873|acre|disp=sqbr}}), [[Caprock Canyons State Park and Trailway|Caprock Canyons State Park]] ({{cvt|15,313|acre|disp=sqbr}}), [[Hagerman National Wildlife Refuge]] ({{cvt|11,320|acre|disp=sqbr}}), [[Lyndon B. Johnson National Grassland]] ({{cvt|20,309|acre|disp=sqbr}}), [[Muleshoe National Wildlife Refuge]] ({{cvt|6,440|acre|disp=sqbr}}), [[Palo Duro Canyon|Palo Duro Canyon State Park]] ({{cvt|26,200|acre|disp=sqbr}}), [[Rita Blanca National Grassland]] ({{cvt|230,000|acre|disp=sqbr}}).
+*Wyoming: [[Curt Gowdy State Park]] ({{cvt|3,395|acre|disp=sqbr}}), [[Devils Tower|Devil's Tower National Monument]] ({{cvt|1,346|acre|disp=sqbr}}), [[Glendo State Park]] (ca. {{cvt|10,000|acre|disp=sqbr}} of land), [[Thunder Basin National Grassland]] ({{cvt|547,499|acre|disp=sqbr}}).
+
+=== Ecological changes ===
+the Great Plains biome is found to be at the brink of collapse due to [[woody plant encroachment]], with 62% of Northern American grassland lost to date.<ref>{{Cite web |date=2024-04-22 |title=A 'Green Glacier' of trees and shrubs is burying prairies, threatening ranchers and wildlife |url=https://www.kcur.org/news/2024-04-22/a-green-glacier-of-trees-and-shrubs-is-burying-prairies-threatening-ranchers-and-wildlife |access-date=2024-06-04 |website=KCUR - Kansas City news and NPR |language=en}}</ref><ref>{{Cite web |title=Uncertainties: global change - The loss of the North American grassland biome {{!}} U.S. Geological Survey |url=https://www.usgs.gov/media/images/uncertainties-global-change-loss-north-american-grassland-biome |access-date=2024-06-04 |website=www.usgs.gov |language=en}}</ref>
+
+==History to 1850==
+
+===Original American contact===
+{{Main|Plains Indians}}
+{{See also|Paleo-Indians}}
+[[File:BuffaloHunters.jpg|thumb|Buffalo hunt under the wolf-skin mask, [[George Catlin]], 1832–33.]]
+The first Peoples ([[Paleo-Indians]]) arrived on the Great Plains thousands of years ago.<ref>{{cite magazine |url=https://www.newscientist.com/article/dn20287-first-americans-arrived-2500-years-before-we-thought.html |title=First Americans arrived 2500 years before we thought – life – 24 March 2011 |magazine=New Scientist |access-date=February 12, 2014}}</ref><ref>{{cite web |last=Hanna |first=Bill |date=August 28, 2010 |title=Texas artifacts 'strongest evidence yet' that humans arrived in North America earlier than thought |url=http://www.star-telegram.com/2011/03/24/2947233/texas-artifacts-strongest-evidence.html |url-status=dead |archive-url=https://web.archive.org/web/20111028193033/http://www.star-telegram.com/2011/03/24/2947233/texas-artifacts-strongest-evidence.html |archive-date=October 28, 2011 |access-date=February 12, 2014 |publisher=Star-telegram.com}}</ref> The introduction of corn around 800 CE allowed the development of the mound-building [[Mississippian culture]] along rivers that crossed the Great Plains and that included trade networks west to the Rocky Mountains.<ref>{{Cite encyclopedia |url=http://www.georgiaencyclopedia.org/nge/Article.jsp?id=h-707 |author=Adam King |title=Mississippian Period: Overview |encyclopedia=New Georgia Encyclopedia |date=2002 |access-date=November 15, 2009 |archive-date=March 1, 2012 |archive-url=https://web.archive.org/web/20120301201548/http://www.georgiaencyclopedia.org/nge/Article.jsp?id=h-707 |url-status=dead}}</ref><ref>{{Cite encyclopedia |author=John H. Blitz |title=Mississippian Period |url=http://www.encyclopediaofalabama.org/article/h-1130 |publisher=Alabama Humanities Foundation |encyclopedia=Encyclopedia of Alabama}}</ref> Mississippians settled the Great Plains at sites now in [[Spiro Mounds|Oklahoma]] and [[Mitchell Site|South Dakota]].
+
+[[Siouan languages|Siouan language]] speakers may have originated in the lower [[Mississippi River]] region. They were agriculturalists and may have been part of the [[Mound Builders|Mound Builder civilization]] during the 9th–12th centuries.
+
+Pressure from other Indian tribes, themselves driven west and south by the encroachment of European settlers as well as economic incentives such as the fur trade, alongside the arrival of the horse and firearms from Europe  pushed multiple tribes onto the Great Plains.<ref>{{Cite book |last=Hämäläinen |first=Pekka J. |title=Lakota America: a new history of indigenous power |date=2019 |publisher=Yale University Press |isbn=978-0-300-21595-3 |series=The Lamar series in western history |location=New Haven (Conn.) |pages=11–50}}</ref><ref>{{Cite book |last=Cozzens |first=Peter |title=The earth is weeping: the epic story of the Indian wars for the American West |date=2016 |publisher=Alfred A. Knopf |isbn=978-0-307-95804-4 |location=New York |pages=17–18}}</ref>
+
+Among those to have lived on the Great Plains were the [[Blackfoot Confederacy|Blackfoot]], [[Crow Nation|Crow]], [[Sioux]], [[Cheyenne]], [[Arapaho]], [[Comanche]], and others. Eastern portions of the Great Plains were inhabited by tribes who lived at [[Etzanoa]] and in semi-permanent villages of earth lodges, such as the [[Arikara]], [[Mandan]], [[Pawnee people|Pawnee]], and [[Wichita people|Wichita]].{{Citation needed|date=January 2021}}
+
+Wars with the [[Ojibwe]] and [[Cree people]]s pushed the [[Lakota people|Lakota]] (Teton Sioux) west onto the Great Plains in the mid- to late-17th century.<ref>Pritzker, Barry M. ''A Native American Encyclopedia: History, Culture, and Peoples.'' Oxford: Oxford University Press, 2000. {{ISBN|978-0-19-513877-1}}. p. 329.</ref> The [[Shoshone]] originated in the western [[Great Basin]] and spread north and east into present-day [[Idaho]] and Wyoming. By 1500, some Eastern Shoshone had crossed the [[Rocky Mountains]] into the Great Plains. After 1750, warfare and pressure from the Blackfoot, Crow, Lakota, Cheyenne, and Arapaho pushed Eastern Shoshone south and westward. Some of them moved as far south as Texas, emerging as the [[Comanche]] by 1700.<ref>Loether, Christopher. [http://plainshumanities.unl.edu/encyclopedia/doc/egp.na.105 "Shoshones."] {{Webarchive|url=https://web.archive.org/web/20141110000725/http://plainshumanities.unl.edu/encyclopedia/doc/egp.na.105 |date=November 10, 2014 }} ''Encyclopedia of the Great Plains''.</ref>
+
+====Arrival of horses====
+[[File:George Catlin - Indian Family Alarmed at the Approach of a Prairie Fire - 1985.66.595 - Smithsonian American Art Museum.jpg|thumb|Indian family alarmed at the approach of a [[Wildfire|prairie fire]], George Catlin, c. 1846]]
+The first known contact between Europeans and Indians in the Great Plains occurred in what is now Texas, Kansas, and Nebraska from 1540 to 1542 with the arrival of [[Francisco Vázquez de Coronado]], a Spanish conquistador. In that same period, [[Hernando de Soto]] crossed a west-northwest direction in what is now Oklahoma and Texas which is now known as the De Soto Trail. The Spanish thought that the Great Plains were the location of the mythological ''[[Quivira]] and [[Zuni-Cibola Complex|Cíbola]]'', a place said to be rich in gold.<ref>{{Cite web |date=2010-10-21 |title=The Seven Cities of Cibola |url=https://www.nationalgeographic.com/history/article/seven-cities-of-cibola |access-date=2022-12-02 |website=History |language=en |archive-date=December 2, 2022 |archive-url=https://web.archive.org/web/20221202193337/https://www.nationalgeographic.com/history/article/seven-cities-of-cibola |url-status=dead }}</ref>
+
+People in the southwest began to acquire horses in the 16th century by trading or stealing them from Spanish colonists in New Mexico. As horse culture moved northward, the Comanche were among the first to commit to a fully mounted [[nomad]]ic lifestyle. This occurred by the 1730s, when they had acquired enough horses to put all their people on horseback.<ref>{{cite book |last=Hämäläinen |first=Pekka |author-link=Pekka Hämäläinen (historian) |title=The Comanche Empire |year=2008 |publisher=Yale University Press |isbn=978-0-300-12654-9 |pages=37–38}}</ref>
+
+The real beginning of the horse culture of the plains began with the [[Pueblo Revolt|Pueblo Revolt of 1680]] in New Mexico and the capture of thousands of horses and other livestock. In 1683 a Spanish expedition into Texas found horses among Native people. In 1690, a few horses were found by the Spanish among the Indians living at the mouth of the [[Colorado River (Texas)|Colorado River]] of Texas and the [[Caddo]] of eastern Texas had a sizeable number.<ref>Bolton, Herbert Eugene. ''Spanish Exploration in the Southwest'', 1542–1706. Whitefish, MT: Kessinger Publishing, 2007 (reprint) pp. 296, 315</ref><ref name="Haines.1988">Haines, Francis. "The Northward Spread of Horses among the Plains Indians. ''American Anthropologist'', Vol 40, No. 3 (1988) p. 382</ref>
+
+The French explorer [[Claude Charles Du Tisne]] found 300 horses among the [[Wichita (tribe)|Wichita]] on the [[Verdigris River]] in 1719, but they were still not plentiful. Another Frenchman, [[Étienne de Veniard, Sieur de Bourgmont|Bourgmont]], could only buy seven at a high price from the [[Kaw (tribe)|Kaw]] in 1724, indicating that horses were still scarce among tribes in [[Kansas]]. By 1770, that Plains Indians culture was mature, consisting of mounted buffalo-hunting nomads from Saskatchewan and [[Alberta]] southward nearly to the [[Rio Grande]].
+
+[[File:Alfred Jacob Miller - Hunting Buffalo - Walters 371940190.jpg|left|thumb|This painting by [[Alfred Jacob Miller]] is a portrayal of Plains Indians chasing buffalo over a small cliff.<ref>{{cite web |publisher=[[The Walters Art Museum]] |url=http://art.thewalters.org/detail/16002 |title=Hunting Buffalo |access-date=June 20, 2021 |archive-date=May 16, 2013 |archive-url=https://web.archive.org/web/20130516151812/http://art.thewalters.org/detail/16002 |url-status=live }}</ref> The Walters Art Museum.]]
+
+The milder winters of the southern Plains favored a pastoral economy by the Indians.<ref>Osborn, Alan J. "Ecological Aspects of Equestrian Adaptation in Aboriginal North America." ''American Anthropologist'', Nol. 85, No. 3 (Sept 1983), 566</ref> On the northeastern Plains of Canada, the Indians were less favored, with families owning fewer horses, remaining more dependent upon dogs for transporting goods, and hunting bison on foot. The scarcity of horses in the north encouraged raiding and warfare in competition for the relatively small number of horses that survived the severe winters.<ref>Hämäläinen (2008), 10–15</ref>
+
+Comanche power peaked in the 1840s when they conducted [[Comanche–Mexico Wars|large-scale raids]] hundreds of miles into Mexico proper, while also [[Texas–Indian wars|warring]] against the Anglo-Americans and [[Tejanos]] who had settled in [[Republic of Texas|independent Texas]].
+
+====Fur trade====
+
+The [[fur trade]] brought thousands of colonial settlers into the Great Plains over the next 100 years. Fur trappers made their way across much of the region, making regular contacts with Indians.
+
+The [[Hudson's Bay Company]] (HBC) had first been granted in 1670 a commercial monopoly over the huge [[Hudson Bay]] drainage area known as [[Rupert's Land]] covering a northern portion of the Great Plains. The [[North West Company]] fur trade incumbent had also been present in the area until acquired by the HBC during the early 1820s.
+
+The United States acquired the [[Louisiana Purchase]] in 1803 and conducted the [[Lewis and Clark Expedition]] in 1804–1806, and more information became available concerning the Plains, and various pioneers entered the areas. Fur trading posts were often the basis of later settlements. Through the 19th century, more settlers migrated to the Great Plains as part of a vast [[United States territorial acquisitions|westward expansion]] of population, and new settlements became dotted across the Great Plains.{{Citation needed|date=January 2021}}
+
+The settlers also brought diseases against which the Indians had no resistance. Between a half and two-thirds of the Plains Indians are thought to have died of [[smallpox]] by the time of the Louisiana Purchase.<ref>"[http://www.nap.edu/openbook.php?record_id=2008&page=24 Emerging Infections: Microbial Threats to Health in the United States (1992)] {{Webarchive|url=https://web.archive.org/web/20141111160225/http://www.nap.edu/openbook.php?record_id=2008&page=24 |date=November 11, 2014 }}". Institute of Medicine (IOM).</ref> The [[1837 Great Plains smallpox epidemic]] spread across the Great Plains, killing many thousands between 1837 and 1840. In the end, it is estimated that two-thirds of the Blackfoot population died, along with half of the [[Assiniboines]] and Arikaras, a third of the Crows, and a quarter of the Pawnees.<ref>{{cite book |title=First Peoples: A Documentary History of American History |last=Calloway |first=Colin G. |edition=3rd |location=Boston |publisher=Bedford/St. Martin's |year=2008 |pages=290–370 (p.297) |isbn=9780312453732}}</ref>
+
+[[File:Gascoyne, North Dakota.jpg|thumb|Great Plains in North Dakota {{circa}} 2007, where communities began settling in the 1870s.<ref>{{cite book |title=The Great Plains region |last=Rees |first=Amanda |year=2004 |publisher=Greenwood Publishing Group |isbn=0-313-32733-5 |page=18 |url=https://books.google.com/books?id=v0MpNai3xdMC |access-date=September 4, 2009}}</ref>]]
+
+==Settlement==
+Beginning in 1821, the [[Santa Fe Trail]] ran from the Missouri River to New Mexico, skirting north of [[Comancheria]]. Beginning in the 1830s, the [[Oregon Trail]] led from the Missouri River across the Great Plains.
+
+Much of the Great Plains became open range where cattle roamed free, hosting ranching operations where anyone was free to run cattle. In the spring and fall, ranchers held roundups where their cowboys branded new calves, treated animals, and sorted the cattle for sale. Such ranching began in Texas and gradually moved northward. Between 1866 and 1895, cowboys herded 10&nbsp;million cattle north to rail heads such as [[Dodge City, Kansas]]<ref>Robert R. Dykstra, ''Cattle Towns: A Social History of the Kansas Cattle Trading Centers'' (1968)</ref> and [[Ogallala, Nebraska]]; from there, cattle were shipped east.<ref>John Rossel, "The Chisholm Trail," ''Kansas Historical Quarterly'' (1936) Vol. 5, No. 1 pp 3–14 [https://web.archive.org/web/20021116123121/http://www.kancoll.org/khq/1936/36_1_rossel.htm online edition]</ref>
+
+Passage of the [[Kansas–Nebraska Act|Kansas-Nebraska Act]] in 1854 opened both territories to White settlement. The [[Homestead Acts]] of 1862 further encouraged settlement and agricultural development in the Great Plains; the population of Nebraska, for instance, increased from under 30,000 in 1860 to over one million in 1890.<ref>{{Cite web |date=2021-04-29 |title=Historical Population Change Data (1910-2020) |url=https://www.census.gov/data/tables/time-series/dec/popchange-data-text.html |access-date=2023-09-28 |archive-url=https://web.archive.org/web/20210429012609/https://www.census.gov/data/tables/time-series/dec/popchange-data-text.html |archive-date=April 29, 2021 }}</ref> A homesteader was permitted to claim up to {{cvt|160|acre}} of land for only a small filing fee, provided that he or she lived on the land for a period of five years and cultivated it. The provisions were expanded under the [[Kinkaid Act]] of 1904 to include a homestead of an entire section. Hundreds of thousands of people claimed such homesteads, sometimes building houses out of the very turf of the land. Many of them were not skilled farmers, and failures were frequent. The Canadian ''[[Dominion Lands Act]]'' of 1871 served a similar function for establishing homesteads on the prairies in Canada.<ref>Ian Frazier, ''Great Plains'' (2001) p. 72</ref>
+
+===Railroads===
+{{Further|Railroad land grants in the United States#Settlement of the Great Plains}}
+After 1870, the new railroads across the Plains brought hunters who killed off almost all the [[American bison|bison]] for their hides. The railroads offered attractive packages of land and transportation to American farmers, who rushed to settle the land. They also took advantage of the homestead laws to obtain farms. Land speculators and local boosters identified many potential towns, and those reached by the railroad had a chance, while the others became ghost towns. Towns flourished if they were favored by proximity to the railroad.<ref>Gilbert Fite. ‘’The Farmers’ Frontier, 1865-1900’’ (1966) pp 34-136.</ref>
+
+The population of Minnesota, Dakota, Nebraska, and Kansas experienced significant growth during the 1870s.  The total population in these states grew from 1.0 million in 1870 to 2.4 million in 1880, more than doubling in just 10 years.  The number of farms in the region tripled, increasing from 99,000 in 1870 to 302,000 in 1880.  The improved acreage (land under cultivation) quintupled, rising from 5.0 million acres to 24.6 million acres during the same period. the new settlers mostly purchased land on generous terms from transcontinental railroads that were given land grants by Washington. They focused on wheat and cattle. This rapid population influx and agricultural expansion was a hallmark of the settlement and development of the Great Plains in the late 19th century, as the region attracted waves of new settlers from Germany, Scandinavia, and Russia, as well as farmers who sold land in older states to move to larger farms.<ref>Gilbert C. Fite, "Great Plains farming: A century of change and adjustment." ''Agricultural History'' 51.1 (1977): 244-256.</ref><ref>David J. Wishart, ed. ''Encyclopedia of the Great Plains''(U of Nebraska Press, 2004) pp. 35–39, 56, 217–25, 807–808.</ref>
+<gallery mode="packed" heights="165px">
+File:Homesteader NE 1866.png|[[Homestead Acts|Homesteaders]] in central [[Nebraska]] in 1886
+File:Johnson 1920 HighPlains.jpg|The Great Plains before the native grasses were plowed under, [[Haskell County, Kansas]], 1897, showing a man near a [[buffalo wallow]]
+File:Cowboy1902.jpg|Cattle herd and cowboy, c. 1902
+File:"Wheat field on Dutch flats near Mitchell, Nebr. Farm of T.C. Shawver." - NARA - 294480.tif|Wheat field on Dutch flats near [[Mitchell, Nebraska]], 1910
+</gallery>
+
+===First settlements===
+{{see also|Cattle drives in the United States}}
+
+[[File:Alfred Jacob Miller - Fort Laramie - Walters 37194049.jpg|thumb|right|Fort William, the first Fort Laramie, as it looked prior to 1840. Painting from memory by Alfred Jacob Miller]]The first White settlements in the great plains were forts, particularly along the Santa Fe Trail, and trading posts. Some of the first built were: {{div col}}
+*[[Fort Lisa (North Dakota)|Fort Lisa]] (1809), North Dakota
+*[[Red River Colony]] or Selkirk Settlement (1811), Manitoba
+*[[Fort Lisa (Nebraska)|Fort Lisa]] (1812), Nebraska
+*[[Fort Atkinson (Nebraska)]] (1819), Nebraska
+*[[Fontenelle's Post]] (1822), Nebraska
+*[[Cabanne's Trading Post]] (1822), Nebraska
+*[[Fort Kiowa]] (1822), South Dakota
+*[[Fort Laramie National Historic Site|Fort Laramie]] (1834), Texas
+*[[Fort Parker Massacre|Fort Parker]] (1834), Texas
+*[[New Braunfels, Texas|Zinkenburg]] (1845), Texas
+*[[Fort Kearney]] (1848), Nebraska
+*[[Fort Martin Scott]] (1848), Texas
+*[[Fort Croghan]] (1849), Texas
+*[[Fort Gates]] (1849), Texas
+*[[Fort Graham]] (1849), Texas
+*[[History of Fort Worth, Texas|Fort Worth]] (1849), Texas
+*[[Fort Belknap (Texas)|Fort Belknap]] (1851), Texas
+*[[Fort Mason]] (1851), Texas
+*[[Fort Chadbourne]] (1852), Texas
+*[[Fort McKavett State Historic Site|Fort McKavett]] (1852), Texas
+*[[Fort Phantom Hill]] (1852), Texas
+*[[Coleman, Texas|Camp Colorado]] (1855), Texas
+*[[Fort McPherson, Nebraska|Fort McPherson]] (1863), Nebraska
+*[[Fort Mitchell, Nebraska|Fort Mitchell]] (1864), Nebraska
+*[[Fort Concho]] (1867), Texas
+*[[Fort Griffin]] (1867), Texas
+*[[Fort Richardson (Texas)|Fort Richardson]] (1867), Texas
+*[[Fort Sidney]] (1867), Nebraska
+*[[Fort Omaha]] (1868), Nebraska
+*[[Fort Hartsuff State Historical Park|Fort Hartsuff]] (1874), Nebraska
+*[[Fort Sill]] (1869), Oklahoma
+*[[Fort Robinson]] (1874), Nebraska
+*[[Camp Sheridan (Nebraska)|Camp Sheridan]] (1874), Nebraska
+*[[Fort Niobrara]] (1880), Nebraska
+*[[Fort Elliott]] (1875), Texas
+{{div col end}}
+
+===Social life===
+[[File:Grange1873.jpg|thumb|upright|Grange in session, 1873]]
+
+The railroads opened up the Great Plains for settlement, making it possible to ship wheat and other crops at low cost to the urban markets in the East and overseas. Homestead land was free for American settlers. Railroads sold their land at cheap rates to immigrants in the expectation that they would generate traffic as soon as farms were established. Immigrants poured in, especially from Germany and Scandinavia. On the plains, very few single men attempted to operate a farm or ranch by themselves; they understood the need for a hard-working wife and numerous children to handle the many responsibilities.<ref>Deborah Fink, ''Agrarian Women: Wives and Mothers in Rural Nebraska, 1880–1940'' (1992).</ref> During the early years of settlement, farm women played an integral role in assuring family survival by working outdoors. After approximately one generation, women increasingly left the fields, thus redefining their roles within the family. New technology encouraged women to turn to domestic roles, including sewing and washing machines. Media and government extension agents promoted the "scientific housekeeping" movement, along with county fairs which featured achievements in home cookery and canning, advice columns for women regarding farm book keeping, and home economics courses in the schools.<ref>Chad Montrie, "'Men Alone Cannot Settle a Country:' Domesticating Nature in the Kansas-Nebraska Grasslands", ''Great Plains Quarterly'', Fall 2005, Vol. 25 Issue 4, pp. 245–258. [http://digitalcommons.unl.edu/greatplainsquarterly/159 Online] {{Webarchive|url=https://web.archive.org/web/20140908070900/http://digitalcommons.unl.edu/greatplainsquarterly/159/ |date=September 8, 2014 }}</ref>
+
+The eastern image of farm life in the prairies emphasized the isolation of the lonely farmer and wife, yet plains residents created busy social lives for themselves. They often sponsored activities which combined work, food, and entertainment, such as [[barn raising]]s, corn huskings, quilting bees,<ref>Karl Ronning, "Quilting in Webster County, Nebraska, 1880–1920", ''Uncoverings'', 1992, Vol. 13, pp. 169–191.</ref> [[The National Grange of the Order of Patrons of Husbandry|Grange]] meetings, church activities and school functions. Women organized shared meals and potluck events, as well as extended visits among families.<ref>Nathan B. Sanderson, "More Than a Potluck", ''Nebraska History'', Fall 2008, Vol. 89 Issue 3, pp. 120–131.</ref>
+
+==20th century==
+
+===Progressive Era===
+{{Further|Progressive Era}}
+The Progressive movement was a reform movement that took place in all parts of the country during the late 19th and early 20th centuries. The movement sought to address social, political, and economic problems that had arisen as a result of the Industrial Revolution. Progressives believed that the government could play a role in solving these problems by regulating businesses, protecting workers, and providing social welfare programs.<ref>Lewis L. Gould, ''America in the Progressive Era, 1890–1914'' (2000).</ref><ref>Robert W Cherny, "The Great Plains" in Michael Kazin, ed. ''The Concise Princeton Encyclopedia of American Political History'' (2011) pp. 275–276.</ref>
+
+The Plains states were a hotbed of Progressive activity. Many of the reforms that were enacted at the national level were first implemented in the Plains states.<ref>R. Douglas Hurt, ''The big empty: the Great Plains in the twentieth century'' (University of Arizona Press, 2011) [https://books.google.com/books?id=U5kwEAAAQBAJ&dq=progressive+reform+%22great+Plains%22&pg=PR7 online] {{Webarchive|url=https://web.archive.org/web/20230814011515/https://books.google.com/books?id=U5kwEAAAQBAJ&dq=progressive+reform+%22great+Plains%22&pg=PR7 |date=August 14, 2023 }}, pp 12-17.</ref> For example, the initiative and referendum process, which allows voters to directly enact laws, was first adopted in South Dakota in 1898. The direct primary, which allows voters to choose their party's candidates in primary elections, was first adopted in Wisconsin in 1903.<ref>Jon K. Lauck et al. ''The Plains Political Tradition: Essays on South Dakota Political Culture '' (South Dakota Historical Society Press, 2018).</ref><ref>Robert W. Cherny, ''Populism, Progressivism, and the Transformation of Nebraska Politics, 1885–1915'' (1981).</ref>
+
+Progressive reformers in the Great Plains focused on high priority issues, especially:<ref>John D. Buenker, and Edward R. Kantowicz, eds. ''Historical dictionary of the Progressive Era, 1890–1920'' (Greenwood, 1988). covers each state. [https://archive.org/details/historicaldictio0000buen online]</ref><ref>David J. Wishart, ed. ''Encyclopedia of the Great Plains'' (2004) pp.649-650.</ref>
+*Regulation of railroads and public utilities
+*Prohibition<ref>Patrick G. O'Brien, "Prohibition and the Kansas Progressive Example." ''Great Plains Quarterly'' (1987): 219-231.</ref>
+*Employer liability and workers' compensation
+*Protections for consumers
+*State-owned enterprises
+*Woman suffrage
+
+Progressives in the Great Plains were more likely to support direct democracy, woman suffrage, and Prohibition than their counterparts elsewhere. They were also more likely to favor state-owned enterprises, especially those devoted to economic development. Plains progressivism was more radical than progressivism in eastern states, with a greater focus on direct democracy, woman suffrage, and Prohibition. Plains progressives were more isolationist regarding foreign policy, largely in response to the large German and Scandinavian elements. Socialists were more active than elsewhere, Progressive reforms had a significant long-term impact on the region. They helped to improve the lives of workers, farmers, and consumers. They also helped to make the Plains states more democratic and responsive to the needs of their citizens.<ref>William D. Rowley, "The West as Laboratory and Mirror of Reform" in Gerald D Nash and Richard W Etulain, eds, ''The 20th century West: historical interpretations'' (1989) 339-359</ref>
+
+===Dust Bowl and water resources===
+[[File: High plains fresh groundwater usage 2000.svg|thumb|upright=1.25|Withdrawal rates from the [[Ogallala Aquifer]]]]
+The region roughly centered on the [[Oklahoma Panhandle]] was known as the [[Dust Bowl]] during the late 1920s and early 1930s, including southeastern Colorado, southwestern Kansas, the [[Texas Panhandle]], and extreme northeastern New Mexico. The effects of an extended drought, inappropriate cultivation, and financial crises of the [[Great Depression]] forced many farmers off the land throughout the Great Plains.{{Citation needed|date=January 2021}}
+
+From the 1950s on, many areas of the Great Plains have become productive crop-growing areas because of extensive irrigation on large land-holdings. The United States is a major exporter of agricultural products. The southern portion of the Great Plains lies over the [[Ogallala Aquifer]], a huge underground layer of water-bearing strata. [[Center pivot irrigation]] is used extensively in drier sections of the Great Plains, resulting in [[Overdrafting|aquifer depletion]] at a rate that is greater than the ground's ability to recharge.<ref>Bobby A. Stewart and Terry A. Howell, ''Encyclopedia of water science'' (2003) p. 43</ref>
+
+====Population decline====
+{{main|Depopulation of the Great Plains}}
+[[File:GreenMountainWindFarm Fluvanna 2004.jpg|thumb|left|[[Wind farm]] in the plains of [[West Texas]]]]
+The rural Plains have lost a third of their population since 1920. Several hundred thousand square miles of the Great Plains have fewer than {{convert|6|PD/sqmi}}, the density standard that [[Frederick Jackson Turner]] used to declare the American frontier "closed" in 1893. Many have fewer than {{convert|2|PD/sqmi}}. There are more than 6,000 ghost towns in Kansas alone, according to Kansas historian [[Daniel Fitzgerald (writer)|Daniel Fitzgerald]]. This problem is often exacerbated by the consolidation of farms and the difficulty of attracting modern industry to the region. In addition, the smaller school-age population has forced the consolidation of school districts and the closure of high schools in some communities. The continuing population loss has led some to suggest that the current use of the drier parts of the Great Plains is not sustainable,<ref>Amanda Rees, ''The Great Plains region'' (2004) p. xvi</ref> and there has been a proposal to return approximately {{cvt|139000|sqmi}} of these drier parts to native prairie land as a [[Buffalo Commons]].
+
+==Wind power==
+The Great Plains contributes substantially to [[wind power in the United States]]. [[T. Boone Pickens]] developed wind farms after a career as a petroleum executive, and he called for the U.S. to invest $1&nbsp;trillion to build an additional 200,000&nbsp;MW of wind power in the Plains as part of his [[Pickens Plan]]. He cited [[Sweetwater, Texas]], as an example of economic revitalization driven by wind power development.<ref name="oilman_wind_power">
+{{cite news |url=http://www.startribune.com/business/25868279.html |title=Legendary Texas oilman embraces wind power |newspaper=[[Star Tribune]] |access-date=August 24, 2008 |date=July 25, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20080727134710/http://www.startribune.com/business/25868279.html |archive-date=July 27, 2008}}</ref><ref name="oil_addiction">{{cite web |url=https://www.sightline.org/2008/07/09/texas-oil-man-says-we-can-break-the-addiction/ |title=Texas Oil Man Says We Can Break the Addiction |work=Sightline Daily |access-date=August 24, 2008 |date=July 9, 2008 |last=Fahey |first=Anna |url-status=live |archive-date=August 1, 2020 |archive-url=https://web.archive.org/web/20200801005045/https://www.sightline.org/2008/07/09/texas-oil-man-says-we-can-break-the-addiction/}}</ref><ref name="pickens_order">
+{{cite web |url=http://www.windtoday.net/info/articles.html?ID=57318 |title=T. Boone Pickens Places $2&nbsp;Billion Order for GE Wind Turbines |work=Wind Today Magazine |access-date=August 24, 2008 |date=May 16, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20081001235615/http://www.windtoday.net/info/articles.html?ID=57318 |archive-date=October 1, 2008}}
+</ref>
+
+==See also==
+
+{{Portal|Environment|Geography|History|Canada|United States}}
+{{div col}}
+*[[1837 Great Plains smallpox epidemic]]
+*[[Bison hunting]]
+*[[Dust Bowl]]
+*[[Great American Desert]]
+*[[Great bison belt]]
+*[[Great Plains Art Museum]]
+*[[Great Plains Conservation Program]]
+*[[Llano Estacado]]
+*[[Northern Great Plains History Conference]]
+*[[Territories of the United States on stamps]]
+{{div col end}}
+
+===International steppe-lands===
+*[[Eurasian Steppe]]
+*[[Kazakh Steppe]]
+*[[Pampas]], in Argentina, Uruguay, Brazil
+*[[Pontic–Caspian steppe]]
+*[[Puszta]]
+{{clear}}
+
+==References==
+{{reflist|30em}}
+
+==Further reading==
+{{Further|Great Plains Distinguished Book Prize}}
+
+* Wishart, David J. (ed.). ''Encyclopedia of the Great Plains'' (U of Nebraska Press, 2004), {{ISBN|0-8032-4787-7}}. [http://plainshumanities.unl.edu/encyclopedia/ complete text online], for all the basic facts.
+
+=== Secondary sources ===
+* Bonnifield, Paul. ''The Dust Bowl: Men, Dirt, and Depression'' (U of New Mexico Press, 1978),  {{ISBN|0-8263-0485-0}}.
+* Cherny, Robert W. "The Great Plains" in Michael Kazin, ed. ''The Concise Princeton Encyclopedia of American Political History'' (2011) pp.&nbsp;272–279.
+* Courtwright, Julie. ''Prairie Fire: A Great Plains History'' (University Press of Kansas, 2011) 274 pp.
+* Danbom, David B. ''Sod Busting: How families made farms on the 19th-century Plains'' (2014)
+* Drummond, Mark A., et al. "Land change variability and human–environment dynamics in the United States Great Plains." ''Land use policy'' 29.3 (2012): 710–723. [https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1925&context=usgsstaffpub online]
+* Eagan, Timothy. ''The Worst Hard Time : the Untold Story of Those Who Survived the Great American Dust Bowl''. (Houghton Mifflin, 2006).
+* [[Michael Forsberg|Forsberg, Michael]], ''Great Plains: America's Lingering Wild'' (U of Chicago Press, 2009), {{ISBN|978-0-226-25725-9}}
+* Gilfillan, Merrill. ''Chokecherry Places, Essays from the High Plains'', (Boulder, Colorado, Johnson Press) {{ISBN|1-55566-227-7}}.
+* Grant, Michael Johnston. ''Down and Out on the Family Farm: Rural Rehabilitation in the Great Plains, 1929–1945'', (Univ. of Nebraska Press, 2002), {{ISBN|0-8032-7105-0}}
+* Havighurst, Walter. ''Midwest and Great Plains'' (1967), for secondary schools. [https://archive.org/details/midwestgreatplai00havi/mode/2up online]
+* Hurt, R. Douglas. ''The Big Empty: The Great Plains in the Twentieth Century'' (U  of Arizona Press; 2011) 315 pages; the environmental, social, economic, and political history of the region. [https://archive.org/details/bigemptygreatpla0000hurt/page/267/mode/2up online]
+* Hurt, R. Douglas. ''The Great Plains during World War II.'' (University of Nebraska Press. 2008). Pp. xiii, 507. [https://archive.org/details/greatplainsdurin0000hurt online]
+* Lavin, Stephen J., Fred M. Shelley, and J. Clark Archer. ''Atlas of the Great Plains'' (U of Nebraska Press, 2011) [https://books.google.com/books?id=ZkcqDwAAQBAJ&dq=Plains&pg=PP1 online].
+* Luebke, Frederick C. "Regionalism and the Great Plains: Problems of concept and method." ''Western Historical Quarterly'' 15.1 (1984): 19–38. [https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1166&context=historyfacpub online]
+* Maher, Susan Naramore. ''Deep Map Country: Literary Cartography of the Great Plains'' (U of Nebraska Press, 2014), covers nonfiction and environmental writing.
+* Miner, Craig. ''West of Wichita: Settling the High Plains of Kansas, 1865-1890'' (1986) [https://www.cambridge.org/core/journals/business-history-review/article/abs/west-of-wichita-settling-the-high-plains-of-kansas-18651890-by-minercraig-lawrence-university-press-of-kansas-1986-vii-303-pp-maps-illustrations-notes-bibliography-and-index-1995/ADD71E0F7C78890332497B51BFB1996A online book review]
+* Parton, William J., et al. "Ecological impact of historical land‐use patterns in the Great Plains: a methodological assessment." ''Ecological Applications'' 15.6 (2005): 1915–1928. [https://deepblue.lib.umich.edu/bitstream/handle/2027.42/117101/eap20051561915.pdf?sequence=1 online]
+* Peirce, Neal R. ''The Great Plains States of America: People, Politics, and Power in the Nine Great Plains States'' (1973); Comprehensive coverage of the 1950s and 1960s in each state.
+* Raban, Jonathan. ''Bad Land: An American Romance'' (Vintage 1996); winner of the National Book Critics Circle Award for Nonfiction.
+* Rees, Amanda. ''The Great Plains Region: The Greenwood Encyclopedia of American Regional Cultures'' (2004)
+* Rossum, Sonja, and Stephen Lavin. "Where are the Great Plains? A cartographic analysis." ''Professional Geographer'' 52.3 (2000): 543–552. 
+* Shortridge, James R. "The heart of the prairie: Culture areas in the central and northern Great Plains." ''Great Plains Quarterly'' (1988): 206–221. [https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1367&context=greatplainsquarterly online]
+* Turner, B. L., et al. "An investigation into land use changes and consequences in the Northern Great Plains using systems thinking and dynamics." (2013). [https://openprairie.sdstate.edu/cgi/viewcontent.cgi?article=1104&context=nrm_pubs online]
+* Wood, Frances Elizabeth, and Ed Morgan. ''Panoramic plains, the Great Plains States: Iowa, Kansas, Missouri, Nebraska, North Dakota, South Dakota'' (1962) for middle schools.
+
+===Primary sources===
+* Cordier, Mary Hurlbut (1997). [https://archive.org/details/schoolwomenofpra00cord ''Schoolwomen of the Prairies and Plains: Personal Narratives from Iowa, Kansas, and Nebraska, 1860–1920s''].
+
+==External links==
+{{sister project links|auto=yes}}
+* [https://digitalcommons.unl.edu/greatplainsquarterly/  ''Great Plains Quarterly''], scholarly journal
+*[http://www.kansasheritage.org/prairie/ Kansas Heritage Group: ''Native Prairie, Preserve, Flowers, and Research'']
+*[http://memory.loc.gov/ammem/award97/ndfahtml/ngphome.html Library of Congress: ''Great Plains'']
+*[http://www.unl.edu/plains/ University of Nebraska-Lincoln: ''Center for Great Plains Studies'']
+*{{URL|https://www.ars.usda.gov/plains-area/lubbock-tx/cropping-systems-research-laboratory/wind-erosion-and-water-conservation-research/docs/llano/|Public domain images of the Southern High Plains}}
+*[https://web.archive.org/web/20121024013411/http://www.library.okstate.edu/okmaps/ Oklahoma Digital Maps: Digital Collections of Oklahoma and Indian Territory]
+
+{{Regions of the United States}}
+{{Regions of North America}}
+{{United States topics}}
+{{Canada topics}}
+{{Authority control}}
+
+[[Category:Great Plains| ]]
+[[Category:Ecoregions of the United States]]
+[[Category:Physiographic provinces]]
+[[Category:Plains of Canada]]
+[[Category:Plains of the United States]]
+[[Category:Regions of Canada]]
+[[Category:Regions of the United States]]
+[[Category:Regions of the Western United States]]
+[[Category:Temperate grasslands, savannas, and shrublands in the United States]]
+[[Category:Western (genre) staples and terminology]]

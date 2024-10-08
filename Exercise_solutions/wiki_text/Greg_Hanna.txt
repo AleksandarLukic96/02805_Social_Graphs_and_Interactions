@@ -1,0 +1,171 @@
+{{Use dmy dates|date=August 2020}}
+{{Infobox musical artist
+| name         = Greg Hanna
+| image        =
+| origin       = [[Finch, Ontario|Finch]], Ontario, Canada
+| instrument   = Vocals
+| genre        = [[country music|Country]]
+| occupation   = singer-songwriter
+| years_active = 1995–present
+| label        = Pheromone/MegaForce/Sony
+| website      = {{official website|www.greghanna.com}}
+}}
+
+'''Greg Hanna''' (born in [[Finch, Ontario|Finch]], Ontario, Canada) is a male Canadian [[country music]] singer. Signing with his own independent label in 1995, Hanna charted several singles on the ''[[RPM (magazine)|RPM]]'' Country Tracks chart in Canada, including the top ten hit "Ain't No Justice" from 1997, but his debut album was never issued. In 2005, Hanna appeared on the third season of ''[[Nashville Star]]'', but dropped out after receiving an offer to work with producer [[Chris Farren (country musician)|Chris Farren]].<ref>{{cite web|url=http://www.greghanna.com/fr_nashvillestar.cfm|title=Nashville Star|publisher=}}</ref> In 2007, Hanna toured Canada as the opening act for Canadian country band [[Emerson Drive]]'s ''Countrified Tour''. Hanna's debut self-titled album was issued in October 2009 in the United States and Canada on his own US record label imprint, Pheromone Records LLC; with MegaForce Records and Sony. From his debut CD in the US and Canada came the releases "It's a Man's Job," "What Kind of Love Are You On" and "Makin' Love Real." Their supporting music videos which earned Hanna exposure on television networks such as [[Country Music Television|CMT]], [[Great American Country|GAC]] and [[The Country Network|TCN]]. In 2010, Hanna signed with the Paradigm agency for representation and booked his first major US tour as opening act on the ''American Ride Tour'' for [[Toby Keith]] and [[Trace Adkins]].
+
+==Discography==
+
+===''Greg Hanna'' (2009)===
+{{Infobox album
+| italic_title = no
+| name       = ''Greg Hanna''
+| type       = studio
+| artist     = Greg Hanna
+| cover      =
+| alt        =
+| released   = {{start date|2009|10|13}}
+| recorded   =
+| venue      =
+| studio     =
+| genre      = [[Country music|Country]]
+| length     = 40:51
+| label      = Pheromone/MegaForce/Sony
+| producer   = [[Buddy Cannon]]<br/>[[Chris Farren (country musician)|Chris Farren]]<br />Greg Hanna<br />Kim Tribble
+| prev_title =
+| prev_year  =
+| next_title =
+| next_year  =
+}}
+#"Bump in the Road" ([[David Lee Murphy]], [[Kim Tribble]]) – 3:34
+#"It's a Man's Job" ([[Ashley Gorley]], Wade Kirby, Tribble) – 3:23
+#"Live for Today" (Greg Hanna, Tribble) – 3:51
+#"Makin' Love Real" (Hanna, James Dean Hicks, Tribble) – 4:13
+#"Hillbilly Heartattack" (Hanna, [[Shane Minor]]) – 3:20
+#"She Means Everything to Me" (Murphy, Tribble) – 3:48
+#"What Kind of Love Are You On" (Hanna, Murphy, Tribble) – 3:42
+#"In Between Dreams" (Hanna, [[Emerson Drive|Brad Mates]], Minor) – 3:51
+#"Only One Lover" ([[Keith Follesé]], Tribble) – 3:53
+#"Singin' to the Radio" (Hanna, Kirby, Tribble) – 4:00
+#"Song in My Head" ([[Chris Farren (country musician)|Chris Farren]], Gorley, Hanna) – 3:16
+
+===Singles===
+;1995–1997
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[RPM (magazine)|CAN Country]]
+|-
+| 1995
+! scope="row"| "Hillbilly Boy with the Rock 'N Roll Blues"
+| 27
+| rowspan="3" {{n/a}}
+|-
+| 1996
+! scope="row"| "Natural Born Thriller"
+| 50
+|-
+| 1997
+! scope="row"| "[[Ain't No Justice]]"
+| 10
+|}
+
+;2005–present
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:20em;"| Single
+! Album
+|-
+| rowspan="2"| 2005
+! scope="row"| "Song in My Head"
+| rowspan="3" {{n/a}}
+|-
+! scope="row"| "Love You for Life"
+|-
+| 2006
+! scope="row"| "Blame It on Me"
+|-
+| 2007
+! scope="row"| "Singin' to the Radio"
+| ''Greg Hanna''
+|-
+| rowspan="2"| 2008
+! scope="row"| "Better Day Comin'"
+| {{n/a}}
+|-
+! scope="row"| "She Means Everything to Me"
+| rowspan="4"| ''Greg Hanna''
+|-
+| 2009
+! scope="row"| "It's a Man's Job"
+|-
+| 2010
+! scope="row"| "What Kind of Love Are You On"
+|-
+| 2011
+! scope="row"| "Makin' Love Real"
+|-
+| 2013
+! scope="row"| "It Rained"
+| rowspan="3"| ''Picture This''
+|-
+| 2014
+! scope="row"| "Gimme More Money"
+|-
+| 2015
+! scope="row"| "I'm Searchin' Too"
+|}
+
+===Music videos===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:20em;"| Video
+! Director
+|-
+| 1997
+! scope="row"| "Ain't No Justice"
+| Terrence O'Dette
+|-
+| 2009
+! scope="row"| "It's a Man's Job"<ref>{{cite web|url=http://www.cmt.com/videos/greg-hanna/445721/its-a-mans-job.jhtml|archive-url=https://web.archive.org/web/20091124214058/http://www.cmt.com/videos/greg-hanna/445721/its-a-mans-job.jhtml|url-status=dead|archive-date=24 November 2009|title=CMT : Videos : Greg Hanna: It's a Man's Job|publisher=[[Country Music Television]]|accessdate=27 March 2011}}</ref>
+| [[Stephano Barberis]]
+|-
+| 2010
+! scope="row"| "What Kind of Love Are You On"<ref>{{cite web|url=http://www.cmt.com/videos/greg-hanna/552383/what-kind-of-love-are-you-on.jhtml|archive-url=https://web.archive.org/web/20110120021444/http://www.cmt.com/videos/greg-hanna/552383/what-kind-of-love-are-you-on.jhtml|url-status=dead|archive-date=20 January 2011|title=CMT : Videos : Greg Hanna: What Kind of Love Are You On|publisher=[[Country Music Television]]|accessdate=27 March 2011}}</ref>
+| Chad Denning
+|-
+| 2011
+! scope="row"| "Makin' Love Real"<ref>{{cite web|url=http://www.cmt.com/videos/greg-hanna/635643/makin-love-real.jhtml|archive-url=https://web.archive.org/web/20110401140402/http://www.cmt.com/videos/greg-hanna/635643/makin-love-real.jhtml|url-status=dead|archive-date=1 April 2011|title=CMT : Videos : Greg Hanna: Makin' Love Real|publisher=[[Country Music Television]]|accessdate=27 March 2011}}</ref>
+| [[Warren P. Sonoda]]
+|-
+| 2013
+! scope="row"| "It Rained"
+| rowspan="2"| [[Marcel (singer)|Marcel]]/Greg Hanna
+|-
+| 2014
+! scope="row"| "Gimme More Money"
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.greghanna.com Greg Hanna Official website]
+
+{{authority control}}
+
+{{DEFAULTSORT:Hanna, Greg}}
+[[Category:Canadian country singer-songwriters]]
+[[Category:Canadian male singer-songwriters]]
+[[Category:People from the United Counties of Stormont, Dundas and Glengarry]]
+[[Category:Living people]]
+[[Category:Singers from Ontario]]
+[[Category:Year of birth missing (living people)]]
+
+
+{{Canada-singer-songwriter-stub}}
