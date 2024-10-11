@@ -1,0 +1,102 @@
+{{Short description|American country music duo}}
+{{Infobox musical artist
+| background      = group_or_band
+| name            = 
+| image           = 
+| image_size      = 
+| image_upright   = 
+| landscape       = <!-- yes, if wide image, otherwise leave blank -->
+| alt             = 
+| caption         = 
+| alias           = Tigirlily
+| origin          = [[Hazen, North Dakota]], U.S.
+| genre           = [[Country music|Country]]
+| years_active    = 2014-present
+| label           = [[Monument Records|Monument]]
+| current_members =
+* Kendra Slaubaugh
+* Krista Slaubaugh
+}}
+'''Tigirlily Gold''', originally known as '''Tigirlily''', is an American [[country music]] duo from [[North Dakota]]. The duo consists of sisters Kendra and Krista Slaubaugh.
+
+==History==
+Sisters Kendra and Krista Slaubaugh are natives of [[Hazen, North Dakota]]. The two began performing music as teenagers and crediting themselves as Tigirlily. The two also uploaded cover songs to [[YouTube]] before moving to [[Nashville, Tennessee]], in 2017 to attend [[Belmont University]]. After graduating, they uploaded cover songs to [[TikTok]] during the [[COVID-19 pandemic]], which led to them receiving attention on social media. Songwriter and record producer [[Shane McAnally]] discovered the duo and signed them to the Nashville branch of [[Monument Records]], of which he is a co-owner. Monument released their self-titled EP in 2021.<ref>{{cite web | url=https://musicrow.com/2023/03/on-the-row-tigirlily-gold-embodies-the-blonde-mentality-with-new-ep/ | title=On The Row: Tigirlily Gold Embodies The 'Blonde' Mentality With New EP | publisher=[[MusicRow]] | date=March 24, 2023 | accessdate=September 26, 2023 | author=Liza Anderson}}</ref> Also at this point, they began performing at a Nashville bar owned by [[Dierks Bentley]], and changed their name to Tigirlily Gold.<ref>{{cite web | url=https://www.billboard.com/music/country/tigirlily-gold-june-country-rookie-of-the-month-blonde-ep-1235360589/ | title=Sister Duo Tigirlily Gold Revives Girl Power Anthems on New EP: 'There's This Whole Girl Group Energy' | publisher=[[Billboard (magazine)|Billboard]] | date=June 23, 2023 | accessdate=September 26, 2023 | author=Jessica Nicholson}}</ref>
+
+In 2023, the duo released a second EP titled ''Blonde'', which includes their debut radio single "Shoot Tequila",<ref>{{cite web | url=https://people.com/tigirlily-gold-release-ep-blonde-7563934 | title=Tigirlily Gold's 'Tequila' Turns Risky: 'You Never Know What You're Gonna Get' (Exclusive) | publisher=[[People (magazine)|People]] | date=September 23, 2023 | accessdate=September 26, 2023 | author=Nancy Kruh}}</ref> which peaked at number 47 on ''[[Billboard (magazine)|Billboard]]'' [[Country Airplay]].<ref name="bcu">{{cite web | url=https://s3.amazonaws.com/bulletins.billboard.com/country/country_update_2023_0922.pdf | title=Billboard Country Update | publisher=Billboard | date=September 22, 2023 | accessdate=September 26, 2023}}</ref> The duo released "I Tried a Ring On" as their second radio single in January 2024, and announced the release of their debut studio album, ''[[Blonde (Tigirlily Gold album)|Blonde]]'' for July 26, 2024.<ref>{{cite web|url=https://www.deltaplexnews.com/tigirlily-gold-locks-in-debut-album-blonde/#:~:text=Country%20newcomers%20Tigirlily%20Gold%20will,Friday%20alongside%20the%20album%20announcement.|title=Tigirlily Gold locks in debut album, Blonde|date=May 10, 2024|website=Deltaplex News|accessdate=May 11, 2024}}</ref>
+
+Tigirlily Gold won [[Academy of Country Music Award for New Vocal Duo or Group of the Year|New Duo or Group of the Year]] at the [[59th Academy of Country Music Awards]] in 2024, only the second female duo to ever win the award, following [[The Kinleys]] in 1998.<ref>{{cite magazine|url=https://www.forbes.com/sites/pamwindsor/2024/07/26/tigirlily-goldacms-duo-of-the-yearcelebrates-release-of-new-album-blonde/|title=Tigirlily Gold - ACM’s Duo Of The Year - Celebrates Release Of New Album 'Blonde'|author=Pam Windsor|date=July 26, 2024|magazine=[[Forbes]]|access-date=July 26, 2024}}</ref>
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+List of studio albums, with selected details
+! scope="col" style="width:7em;"| Title
+! scope="col" style="width:19em;"| Details
+|-
+! scope="row"|''[[Blonde (Tigirlily Gold album)|Blonde]]''
+|
+* Released: July 26, 2024
+* Label: [[Monument Records|Monument]]
+* Format: CD, Digital download
+|}
+
+===Extended plays===
+*''Tigirlily'' (2021)
+*''Blonde'' (2023)
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of singles, with selected chart positions
+! scope="col" rowspan="2"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="1"| Peak positions
+! scope="col" rowspan="2"| Album
+|- style="font-size:smaller;"
+! scope="col" style="width:45px;"| [[Country Airplay|US Country Airplay]]<br /><ref name="bcu"/><ref>{{cite magazine|url=http://bulletins.billboard.com/country/country_update_2024_0802.pdf|title=Billboard Country Update|magazine=[[Billboard (magazine)|Billboard]]|date=August 2, 2024|access-date=August 3, 2024}}</ref>
+|-
+! scope="row"| "Shoot Tequila"
+| 2023
+| 47
+| rowspan="2"|''Blonde''
+|-
+! scope="row"| "I Tried a Ring On"<ref>https://assets.countryaircheck.com/public/f6bdc58e-b873-46df-8ff7bf60b1e02426/smaller-CAP-12-2023.pdf</ref>
+| 2024
+| 39
+|}
+
+==Awards and nominations==
+{| class="wikitable"
+!scope="col"|Year
+!scope="col"|Awards
+!scope="col"|Recipient/Work
+!scope="col"|Category
+!scope="col"|Result
+!scope="col"|Ref.
+|-
+| rowspan="3" |2024
+| rowspan="2" |[[CMT Music Awards]]
+| rowspan="2" |"Shoot Tequila"
+(Tigirlily Gold)
+|Group/Duo Video of the Year
+| {{nom}}
+| rowspan="2" |<ref>{{Cite magazine |last=Nicholson |first=Jessica |date=2024-04-07 |title=Jelly Roll, Lainey Wilson & More Lead 2024 CMT Music Awards Nominations |url=https://www.billboard.com/music/awards/cmt-music-awards-2024-nominees-1235631383/ |access-date=2024-04-11 |magazine=Billboard |language=en-US}}</ref>
+|-
+|Breakthrough Female Video of the Year
+| {{nom}}
+|-
+|[[Academy of Country Music Awards]]
+|Tigirlily Gold
+|New Duo or Group of the Year
+| {{won}}
+|<ref>{{Cite web |title=Academy of Country Music {{!}} Nominees |url=https://www.acmcountry.com/noms |access-date=2024-04-11 |website=www.acmcountry.com |language=en}}</ref>
+|}
+
+==References==
+{{Reflist}}
+
+[[Category:American country music duos]]
+[[Category:Female musical duos]]
+[[Category:Monument Records artists]]
+[[Category:Musical groups from North Dakota]]
+[[Category:Musical groups established in 2014]]
+[[Category:Sibling musical duos]]
